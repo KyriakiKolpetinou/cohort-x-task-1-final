@@ -41,7 +41,7 @@ from study_type_and_sex import extract_sex, extract_study_type   # PubMedBERT st
 
 TASK_XLSX = os.path.join(HERE, 'Task_1.xlsx')
 BART_DIR  = os.environ.get('BART_DIR', '/mnt/extra_storage/kkolpetinou/bart_raft_v17/final')
-OUT       = os.path.join(HERE, 'submission_v29.csv')
+OUT       = os.environ.get('OUT_CSV', os.path.join(HERE, 'submission_v29.csv'))
 PREFIX    = 'Extract eligibility criteria: '
 FIELDNAMES = ['pmcids', 'conditions', 'study_type', 'sex',
               'minimum_age', 'maximum_age', 'eligibility_criteria']

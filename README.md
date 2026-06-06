@@ -147,13 +147,18 @@ $PY train_study_type_classifier.py  # PubMedBERT, 416 train rows, 5 epochs (~14 
 
 ## 5. Known reproduction caveats
 
-- **study_type classifier was retrained** (the original weights were lost — they had been written
-  to the original repo's git-ignored `models/` folder and deleted). The version shipped in Release
-  `weights-v29` was retrained 2026-06-06 (train acc 96.9% vs the original's 97.8%). It is **not**
-  byte-identical to the original, so a small number of test `study_type` labels may differ from
-  `reference_outputs/submission_v29.csv` — which remains the authoritative record. If
-  `models/study_type_classifier/` is absent at run time, `extract_study_type` silently falls back
-  to a runtime TF-IDF+LR model (different output again) — so make sure you extracted the asset.
+- **study_type does NOT reproduce exactly** (the original classifier weights were lost — written to
+  the original repo's git-ignored `models/` folder and deleted). The retrained classifier shipped in
+  Release `weights-v29` (2026-06-06, train acc 96.9% vs the original's 97.8%) lands on a very
+  different decision boundary: a full 500-row rerun agreed with the original `study_type` on only
+  **306/500 (61%)** of rows, and the class bias flipped (original ≈75% INTERVENTIONAL; retrain ≈43%).
+  Because the test set is mostly INTERVENTIONAL, this **lowers the study_type sub-score and the
+  overall LB by roughly 0.04–0.06**. The other five columns (`conditions`, `sex`, `minimum_age`,
+  `maximum_age`, `eligibility_criteria`) reproduce **byte-for-byte** from a fresh run.
+  → For a score-identical submission, keep the frozen `study_type` column from
+  `reference_outputs/submission_v29.csv` (the authoritative record). If
+  `models/study_type_classifier/` is absent at run time, `extract_study_type` falls back to a
+  runtime TF-IDF+LR model, diverging even further — so extract the asset.
 - **Large weights aren't in git** (>100 MB each); they live in Release `weights-v29`. Retraining
   via §4 is the alternative.
 - **Interpreter:** use `/home/kkolpetinou/miniconda3/bin/python` (has `llama_cpp`); the default
