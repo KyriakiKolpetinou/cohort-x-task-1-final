@@ -46,6 +46,15 @@ That is the whole inference pipeline. (Sections 4–5 cover how the two trained 
 PY=/home/kkolpetinou/miniconda3/bin/python    # interpreter WITH llama-cpp-python 0.3.20
                                               # (the default tb-env `python` does NOT have it)
 
+# --- one-time: fetch the trained weights (Release 'weights-v29') ---
+BASE=https://github.com/KyriakiKolpetinou/cohort-x-task-1-final/releases/download/weights-v29
+curl -L -o study_type_classifier.tar.gz $BASE/study_type_classifier.tar.gz
+mkdir -p models && tar -xzf study_type_classifier.tar.gz -C models     # -> models/study_type_classifier/
+curl -L -o bart_raft_v17_final.tar.gz $BASE/bart_raft_v17_final.tar.gz
+tar -xzf bart_raft_v17_final.tar.gz                                    # -> ./final ; then:
+export BART_DIR="$PWD/final"
+# (Mistral GGUF: download separately from HuggingFace, see the Models table; set $MISTRAL_GGUF)
+
 # competition-compliant pure CPU (~78 s/article for the 7B → ~11 h for 500 rows):
 CUDA_VISIBLE_DEVICES="" $PY reproduce_v29.py
 
@@ -70,8 +79,8 @@ See §5 for the one expected difference in `study_type`.
 | Model | Field | Default path | How to get it |
 |---|---|---|---|
 | `Mistral-7B-Instruct-v0.3-Q4_K_M.gguf` (4.1 GB) | conditions | `$MISTRAL_GGUF` or `/mnt/extra_storage/kkolpetinou/mistral7b_dl/` | download from HF `bartowski/Mistral-7B-Instruct-v0.3-GGUF` |
-| `bart_raft_v17/final` (533 MB) | eligibility | `$BART_DIR` or `/mnt/extra_storage/kkolpetinou/bart_raft_v17/final` | **too large for git** — GitHub Release asset, or retrain (§4) |
-| `models/study_type_classifier/` (533 MB) | study_type | repo-local `models/study_type_classifier` | ⏳ **PENDING** — weights were lost; retrain (§4/§5) |
+| `bart_raft_v17/final` (533 MB) | eligibility | `$BART_DIR` | **Release `weights-v29`** → `bart_raft_v17_final.tar.gz` (or retrain, §4) |
+| `models/study_type_classifier/` (418 MB) | study_type | repo-local `models/study_type_classifier` | **Release `weights-v29`** → `study_type_classifier.tar.gz` (retrained 2026-06-06; see §5) |
 | `microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract` | retrieval + study_type base | HF cache | auto-download |
 
 Model paths are overridable by env var (`MISTRAL_GGUF`, `BART_DIR`); data paths resolve relative
@@ -129,14 +138,15 @@ $PY train_study_type_classifier.py  # PubMedBERT, 416 train rows, 5 epochs (~14 
 
 ## 5. Known reproduction caveats
 
-- ⏳ **study_type classifier weights are lost.** They were written to the original repo's
-  git-ignored `models/` folder (not `/mnt/extra_storage`) and deleted. Retrain with
-  `train_study_type_classifier.py`. A retrained net is **not** byte-identical to the original, so
-  a small number of test `study_type` labels may differ from `reference_outputs/submission_v29.csv`
-  — which remains the authoritative record. If `models/study_type_classifier/` is absent at run
-  time, `extract_study_type` silently falls back to a runtime TF-IDF+LR model (different output).
-- **Large weights aren't in git** (533 MB each > GitHub's 100 MB limit). Use the Release assets or
-  retrain via §4.
+- **study_type classifier was retrained** (the original weights were lost — they had been written
+  to the original repo's git-ignored `models/` folder and deleted). The version shipped in Release
+  `weights-v29` was retrained 2026-06-06 (train acc 96.9% vs the original's 97.8%). It is **not**
+  byte-identical to the original, so a small number of test `study_type` labels may differ from
+  `reference_outputs/submission_v29.csv` — which remains the authoritative record. If
+  `models/study_type_classifier/` is absent at run time, `extract_study_type` silently falls back
+  to a runtime TF-IDF+LR model (different output again) — so make sure you extracted the asset.
+- **Large weights aren't in git** (>100 MB each); they live in Release `weights-v29`. Retraining
+  via §4 is the alternative.
 - **Interpreter:** use `/home/kkolpetinou/miniconda3/bin/python` (has `llama_cpp`); the default
   `python` (tb-env) does not.
 - **True-CPU compliance:** export `CUDA_VISIBLE_DEVICES=""` — the CUDA build of llama.cpp reserves

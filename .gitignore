@@ -3,3 +3,7 @@ __pycache__/
 models/
 .cache/
 *.log
+
+# release weights (download from Release weights-v29)
+*.tar.gz
+/final/
