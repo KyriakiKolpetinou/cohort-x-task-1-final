@@ -1,0 +1,112 @@
+"""
+Reproduce submission_v29.csv — Cohort X Task 1 (best submission, public LB 0.72797).
+
+ONE clean pass over the 500 test articles (Task_1.xlsx 'Test' sheet). Each of the
+six output fields is produced exactly once, by its final method — no version lineage,
+no intermediate CSVs:
+
+  conditions           : Mistral-7B-Instruct-v0.3 Q4, LLM-RAG (k=4 PubMedBERT few-shot
+                         from train_index.json; "diseases only" prompt)   [cond_llm_train]
+  eligibility_criteria : RAFT-tuned BART (bart_raft_v17/final), 4-beam     [this file]
+  study_type           : fine-tuned PubMedBERT classifier                  [extractors]
+  sex                  : rule-based                                        [extractors]
+  minimum_age          : constant "18 Years"      (train-optimal; ages are not present
+  maximum_age          : constant "Not Specified"  in the article text — registry-only)
+
+Article text only — no external registries (ClinicalTrials.gov / AACT / NCT). CPU-capable.
+
+MODELS (set via env or place at the defaults):
+  MISTRAL_GGUF  Mistral-7B-Instruct-v0.3-Q4_K_M.gguf  (conditions)
+  BART_DIR      bart_raft_v17/final                    (eligibility)
+  models/study_type_classifier/                        (study_type; PubMedBERT)
+PubMedBERT (retrieval + study_type base) is auto-downloaded from HuggingFace.
+
+REPRODUCE:
+  # competition-compliant pure CPU (~11 h for the 7B over 500 rows):
+  CUDA_VISIBLE_DEVICES="" python reproduce_v29.py
+  # dev speed (identical output): offload both models to GPU
+  N_GPU_LAYERS=33 BART_DEVICE=cuda python reproduce_v29.py
+OUTPUT: submission_v29.csv  (compare to reference_outputs/submission_v29.csv)
+"""
+import os, sys, csv, time
+HERE = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, HERE)
+
+import torch
+from transformers import BartTokenizerFast, BartForConditionalGeneration
+
+from nxml_parser import parse_nxml
+from prepare_ft_data import build_input_text
+from cond_llm_train import extract_conditions_llm          # Mistral-7B LLM-RAG conditions
+from extractors import extract_sex, extract_study_type     # rule-based sex + PubMedBERT study_type
+
+TASK_XLSX = os.path.join(HERE, 'Task_1.xlsx')
+BART_DIR  = os.environ.get('BART_DIR', '/mnt/extra_storage/kkolpetinou/bart_raft_v17/final')
+OUT       = os.path.join(HERE, 'submission_v29.csv')
+PREFIX    = 'Extract eligibility criteria: '
+FIELDNAMES = ['pmcids', 'conditions', 'study_type', 'sex',
+              'minimum_age', 'maximum_age', 'eligibility_criteria']
+
+# Train-optimal constants (see README §2): ages are registry values, not in the paper.
+MIN_AGE = '18 Years'
+MAX_AGE = 'Not Specified'
+
+
+def read_test_pmcids():
+    import openpyxl
+    ws = openpyxl.load_workbook(TASK_XLSX)['Test']
+    rows = list(ws.iter_rows(values_only=True))
+    return [str(int(float(r[0]))) for r in rows[1:] if r[0]]   # xlsx stores ids as floats
+
+
+def main():
+    device = os.environ.get('BART_DEVICE', 'cpu')
+    if device == 'cuda' and not torch.cuda.is_available():
+        print('  (cuda requested but unavailable — using cpu)'); device = 'cpu'
+
+    print(f'Loading RAFT BART from {BART_DIR} on {device}...', flush=True)
+    tok = BartTokenizerFast.from_pretrained(BART_DIR)
+    bart = BartForConditionalGeneration.from_pretrained(BART_DIR).eval().to(device)
+
+    def eligibility(parsed):
+        enc = tok(PREFIX + build_input_text(parsed), max_length=1024,
+                  truncation=True, return_tensors='pt').to(device)
+        with torch.no_grad():
+            out = bart.generate(**enc, max_length=384, num_beams=4,
+                                no_repeat_ngram_size=3, early_stopping=True)
+        gen = tok.decode(out[0], skip_special_tokens=True).strip()
+        return gen or 'Not Specified'
+
+    pmcids = read_test_pmcids()
+    print(f'Processing {len(pmcids)} test articles -> {OUT}', flush=True)
+    rows = []; t0 = time.time(); parse_fail = 0
+    for i, pmcid in enumerate(pmcids, 1):
+        parsed = parse_nxml(pmcid)
+        if parsed is None:
+            parse_fail += 1
+            rows.append({'pmcids': pmcid, 'conditions': str(['Not Specified']),
+                         'study_type': 'INTERVENTIONAL', 'sex': 'ALL',
+                         'minimum_age': MIN_AGE, 'maximum_age': MAX_AGE,
+                         'eligibility_criteria': 'Not Specified'})
+            continue
+        rows.append({
+            'pmcids': pmcid,
+            'conditions': extract_conditions_llm(parsed, exclude_pmcid=pmcid),
+            'study_type': extract_study_type(parsed),
+            'sex': extract_sex(parsed),
+            'minimum_age': MIN_AGE,
+            'maximum_age': MAX_AGE,
+            'eligibility_criteria': eligibility(parsed),
+        })
+        if i % 25 == 0:
+            el = time.time() - t0
+            print(f'  [{i}/{len(pmcids)}] {el:.0f}s, ETA {(len(pmcids)-i)/max(i/el,1e-3):.0f}s', flush=True)
+
+    with open(OUT, 'w', newline='', encoding='utf-8') as f:
+        w = csv.DictWriter(f, fieldnames=FIELDNAMES)
+        w.writeheader(); w.writerows(rows)
+    print(f'Wrote {OUT} ({len(rows)} rows, {parse_fail} parse-fail defaults)')
+
+
+if __name__ == '__main__':
+    main()

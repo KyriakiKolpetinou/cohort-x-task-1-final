@@ -9,7 +9,7 @@ import os
 import re
 
 
-NXML_DIR = '/home/kkolpetinou/cohort-x-task-1/PMC_NXML_Archives'
+NXML_DIR = os.environ.get('NXML_DIR', os.path.join(os.path.dirname(os.path.abspath(__file__)), 'PMC_NXML_Archives'))
 
 
 def itertext_no_refs(el):

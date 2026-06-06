@@ -542,7 +542,7 @@ def _get_nlp():
 
 def _build_cond_vocab():
     """Load GT conditions from Task_1.xlsx and build lookup structures."""
-    xlsx = '/home/kkolpetinou/cohort-x-task-1/Task_1.xlsx'
+    xlsx = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'Task_1.xlsx')
     if not os.path.exists(xlsx):
         return {}, []
     import openpyxl

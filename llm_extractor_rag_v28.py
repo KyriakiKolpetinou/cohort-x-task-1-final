@@ -27,7 +27,7 @@ import json, re, os, sys
 import numpy as np
 
 # v28: Mistral-7B-Instruct-v0.3 Q4 (16GB-RAM compliant) replaces the 24B used by v17.
-MODEL_PATH = '/mnt/extra_storage/kkolpetinou/mistral7b_dl/Mistral-7B-Instruct-v0.3-Q4_K_M.gguf'
+MODEL_PATH = os.environ.get('MISTRAL_GGUF', '/mnt/extra_storage/kkolpetinou/mistral7b_dl/Mistral-7B-Instruct-v0.3-Q4_K_M.gguf')
 INDEX_FILE = os.path.join(os.path.dirname(__file__), 'train_index.json')
 BIOBERT_MODEL = 'microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract'
 
