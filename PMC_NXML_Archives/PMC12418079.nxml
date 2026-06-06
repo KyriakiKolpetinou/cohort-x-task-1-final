@@ -1,0 +1,1643 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="cam471167" xml:lang="en" article-type="review-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancer Med</journal-id><journal-id journal-id-type="iso-abbrev">Cancer Med</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7634</journal-id><journal-id journal-id-type="publisher-id">CAM4</journal-id><journal-title-group><journal-title>Cancer Medicine</journal-title></journal-title-group><issn pub-type="epub">2045-7634</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">40923371</article-id><article-id pub-id-type="pmc">12418079</article-id><article-id pub-id-type="doi">10.1002/cam4.71167</article-id><article-id pub-id-type="publisher-id">CAM471167</article-id><article-id pub-id-type="other">CAM4-2025-06-3130.R1</article-id><article-categories><subj-group subj-group-type="overline"><subject>Review</subject></subj-group><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Emerging Radiopharmaceuticals Beyond <styled-content style="fixed-case" toggle="no">FDG</styled-content> for Ovarian Cancer: A Review of Advances in Nuclear Medicine</article-title></title-group><contrib-group><contrib id="cam471167-cr-0001" contrib-type="author" corresp="yes"><name><surname>Veenstra</surname><given-names>Mara M. K.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2562-8377</contrib-id><xref rid="cam471167-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="cam471167-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="cam471167-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>m.m.k.veenstra@erasmusmc.nl</email></address></contrib><contrib id="cam471167-cr-0002" contrib-type="author"><name><surname>van Zanten</surname><given-names>Sophie Veldhuijzen</given-names></name><xref rid="cam471167-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="cam471167-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="cam471167-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="cam471167-cr-0003" contrib-type="author"><name><surname>Vegt</surname><given-names>Erik</given-names></name><xref rid="cam471167-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="cam471167-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="cam471167-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="cam471167-cr-0004" contrib-type="author"><name><surname>Boere</surname><given-names>Ingrid A.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4857-6346</contrib-id><xref rid="cam471167-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="cam471167-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="cam471167-cr-0005" contrib-type="author"><name><surname>van Beekhuizen</surname><given-names>Heleen J.</given-names></name><xref rid="cam471167-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="cam471167-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="cam471167-cr-0006" contrib-type="author"><name><surname>Nonnekens</surname><given-names>Julie</given-names></name><xref rid="cam471167-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="cam471167-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="cam471167-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="cam471167-cr-0007" contrib-type="author"><name><surname>Verburg</surname><given-names>Frederik A.</given-names></name><xref rid="cam471167-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="cam471167-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cam471167-cr-0008" contrib-type="author"><name><surname>Thomeer</surname><given-names>Maarten G. J.</given-names></name><xref rid="cam471167-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="cam471167-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="cam471167-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib></contrib-group><aff id="cam471167-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Radiology &#x00026; Nuclear Medicine</named-content>
+<institution>Erasmus MC &#x02013; University Medical Centre Rotterdam</institution>
+<city>Rotterdam</city>
+<country country="NL">the Netherlands</country>
+</aff><aff id="cam471167-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Erasmus MC Cancer Institute</institution>
+<city>Rotterdam</city>
+<country country="NL">the Netherlands</country>
+</aff><aff id="cam471167-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>Erasmus MC Transplant Institute</institution>
+<city>Rotterdam</city>
+<country country="NL">the Netherlands</country>
+</aff><aff id="cam471167-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<institution>Medical Delta</institution>
+<city>Delft</city>
+<country country="NL">the Netherlands</country>
+</aff><aff id="cam471167-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medical Oncology</named-content>
+<institution>Erasmus MC &#x02013; University Medical Centre Rotterdam</institution>
+<city>Rotterdam</city>
+<country country="NL">the Netherlands</country>
+</aff><aff id="cam471167-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Department of Gynaecological Oncology</named-content>
+<institution>Erasmus MC &#x02013; University Medical Centre Rotterdam</institution>
+<city>Rotterdam</city>
+<country country="NL">the Netherlands</country>
+</aff><aff id="cam471167-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Department of Molecular Genetics</named-content>
+<institution>Erasmus MC &#x02013; University Medical Centre Rotterdam</institution>
+<city>Rotterdam</city>
+<country country="NL">the Netherlands</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold>
+<break/>
+Mara M. K. Veenstra (<email>m.m.k.veenstra@erasmusmc.nl</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>09</day><month>9</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2025</year></pub-date><volume>14</volume><issue seq="630">17</issue><issue-id pub-id-type="doi">10.1002/cam4.v14.17</issue-id><elocation-id>e71167</elocation-id><history>
+<date date-type="rev-recd"><day>31</day><month>7</month><year>2025</year></date>
+<date date-type="received"><day>10</day><month>6</month><year>2025</year></date>
+<date date-type="accepted"><day>11</day><month>8</month><year>2025</year></date>
+</history><permissions><!--&#x000a9; 2025 Published by John Wiley & Sons Ltd.--><copyright-statement content-type="article-copyright">&#x000a9; 2025 The Author(s). <italic toggle="yes">Cancer Medicine</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:CAM4-14-e71167.pdf"/><abstract><title>ABSTRACT</title><sec id="cam471167-sec-1001"><title>Aims</title><p>This review summarizes the role and future prospects of nuclear medicine in ovarian cancer, focusing on novel radiopharmaceuticals beyond FDG for diagnostic, predictive, and therapeutic applications within a theranostic framework.</p></sec><sec id="cam471167-sec-1002"><title>Materials and Methods</title><p>A narrative literature review was conducted using major databases. Peer&#x02010;reviewed articles addressing non&#x02010;FDG radiopharmaceuticals in ovarian cancer were identified and assessed; FDG&#x02010;based studies were excluded due to the availability of prior comprehensive reviews.</p></sec><sec id="cam471167-sec-1003"><title>Results</title><p>Novel radiopharmaceuticals show potential to enhance diagnostic accuracy, allow early evaluation of treatment response, predict chemotherapy resistance, and support stratification for targeted therapies. Several tracers are under investigation for theranostic use, offering combined diagnostic and therapeutic benefits.</p></sec><sec id="cam471167-sec-1004"><title>Discussion</title><p>Incorporating novel radiopharmaceuticals into ovarian cancer management may help overcome limitations of conventional imaging and systemic therapy. Theranostic strategies, uniting molecular imaging with radionuclide therapy, represent a promising step toward personalized medicine and could significantly influence clinical outcomes.</p></sec><sec id="cam471167-sec-1005"><title>Conclusion</title><p>Nuclear medicine, through innovative radiopharmaceuticals and theranostic approaches beyond FDG, is expected to expand its role in ovarian cancer care. Further research is needed to validate these applications and facilitate their integration into clinical practice.</p></sec></abstract><abstract abstract-type="graphical"><p>Emerging radiopharmaceuticals in nuclear medicine could improve ovarian cancer diagnosis and staging, while also enabling assessment of treatment response, therapy resistance, and suitability for targeted therapies.<boxed-text position="anchor" content-type="graphic" id="cam471167-blkfxd-0001"><graphic xlink:href="CAM4-14-e71167-g006.jpg" position="anchor" id="jats-graphic-1"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="cam471167-kwd-0001">diagnostic imaging</kwd><kwd id="cam471167-kwd-0002">nuclear medicine</kwd><kwd id="cam471167-kwd-0003">ovarian neoplasms</kwd><kwd id="cam471167-kwd-0004">positron emission tomography</kwd><kwd id="cam471167-kwd-0005">precision medicine</kwd><kwd id="cam471167-kwd-0006">radionuclide imaging</kwd></kwd-group><counts><fig-count count="6"/><table-count count="2"/><page-count count="14"/><word-count count="9900"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.2 mode:remove_FC converted:09.09.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="cam471167-cit-1001">
+<string-name>
+<given-names>M. M. K.</given-names>
+<surname>Veenstra</surname>
+</string-name>, <string-name>
+<given-names>S. V.</given-names>
+<surname>van Zanten</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Vegt</surname>
+</string-name>, et al., &#x0201c;<article-title>Emerging Radiopharmaceuticals Beyond <styled-content style="fixed-case" toggle="no">FDG</styled-content> for Ovarian Cancer: A Review of Advances in Nuclear Medicine</article-title>,&#x0201d; <source>Cancer Medicine</source>
+<volume>14</volume>, no. <issue>17</issue> (<year>2025</year>): <elocation-id>e71167</elocation-id>, <pub-id pub-id-type="doi">10.1002/cam4.71167</pub-id>.</mixed-citation>
+</p><fn-group id="cam471167-ntgp-0001"><fn fn-type="funding" id="cam471167-note-0001"><p>
+<bold>Funding:</bold> The authors received no specific for this work.</p></fn></fn-group></notes></front><body id="cam471167-body-0001"><def-list list-content="abbreviations" id="cam471167-dl-0001"><title>Abbreviations</title><def-item><term id="cam471167-li-0001">BRCA</term><def id="cam471167-li-0002"><p>breast cancer gene</p></def></def-item><def-item><term id="cam471167-li-0003">CA&#x02010;125</term><def id="cam471167-li-0004"><p>carbohydrate antigen&#x02010;125</p></def></def-item><def-item><term id="cam471167-li-0005">CD13</term><def id="cam471167-li-0006"><p>aminopeptidase N</p></def></def-item><def-item><term id="cam471167-li-0007">CT</term><def id="cam471167-li-0008"><p>computed tomography</p></def></def-item><def-item><term id="cam471167-li-0009">CXCL12</term><def id="cam471167-li-0010"><p>C&#x02010;X&#x02010;C motif chemokine 12</p></def></def-item><def-item><term id="cam471167-li-0011">CXCR4</term><def id="cam471167-li-0012"><p>C&#x02010;X&#x02010;C chemokine receptor 4</p></def></def-item><def-item><term id="cam471167-li-0013">DWI</term><def id="cam471167-li-0014"><p>diffusion weight imaging</p></def></def-item><def-item><term id="cam471167-li-0015">FAPI</term><def id="cam471167-li-0016"><p>fibroblast activation protein inhibitor</p></def></def-item><def-item><term id="cam471167-li-0017">FDG</term><def id="cam471167-li-0018"><p>fluorodeoxyglucose</p></def></def-item><def-item><term id="cam471167-li-0019">FES</term><def id="cam471167-li-0020"><p>fluoro&#x02010;17&#x003b2;&#x02010;oestradiol</p></def></def-item><def-item><term id="cam471167-li-0021">FLT</term><def id="cam471167-li-0022"><p>fluorothymidine</p></def></def-item><def-item><term id="cam471167-li-0023">HER2</term><def id="cam471167-li-0024"><p>human epidermal growth factor receptor 2</p></def></def-item><def-item><term id="cam471167-li-0025">HSP90</term><def id="cam471167-li-0026"><p>heat shock protein 90</p></def></def-item><def-item><term id="cam471167-li-0027">MRI</term><def id="cam471167-li-0028"><p>magnetic resonance imaging</p></def></def-item><def-item><term id="cam471167-li-0029">mTOR</term><def id="cam471167-li-0030"><p>mammalian target of rapamycin</p></def></def-item><def-item><term id="cam471167-li-0031">MUC16</term><def id="cam471167-li-0032"><p>mucin&#x02010;16</p></def></def-item><def-item><term id="cam471167-li-0033">NGR</term><def id="cam471167-li-0034"><p>asparagine&#x02010;glycine&#x02010;arginine</p></def></def-item><def-item><term id="cam471167-li-0035">PARP</term><def id="cam471167-li-0036"><p>poly (adenosine diphosphate&#x02010;ribose) polymerase</p></def></def-item><def-item><term id="cam471167-li-0037">PET</term><def id="cam471167-li-0038"><p>positron emission tomography</p></def></def-item><def-item><term id="cam471167-li-0039">PSMA</term><def id="cam471167-li-0040"><p>prostate specific membrane antigen</p></def></def-item><def-item><term id="cam471167-li-0041">RGD</term><def id="cam471167-li-0042"><p>arginylglycylaspartic acid</p></def></def-item><def-item><term id="cam471167-li-0043">SPECT</term><def id="cam471167-li-0044"><p>single&#x02010;photon emission computed tomography</p></def></def-item><def-item><term id="cam471167-li-0045">SUV</term><def id="cam471167-li-0046"><p>standardised uptake value</p></def></def-item><def-item><term id="cam471167-li-0047">VEGF</term><def id="cam471167-li-0048"><p>vascular endothelial growth factor</p></def></def-item></def-list><sec id="cam471167-sec-0001"><label>1</label><title>Introduction</title><p>Ovarian cancer is a heterogeneous and challenging disease, with high&#x02010;grade serous cancer being the most common type [<xref rid="cam471167-bib-0001" ref-type="bibr">1</xref>]. Most patients are diagnosed at an advanced stage and often experience recurrence despite treatment with cytoreductive surgery, platinum&#x02010;based chemotherapy, and maintenance therapies [<xref rid="cam471167-bib-0002" ref-type="bibr">2</xref>, <xref rid="cam471167-bib-0003" ref-type="bibr">3</xref>]. Recurrence is commonly retreated with chemotherapy, sometimes combined with targeted therapies. However, platinum resistance remains a significant hurdle, [<xref rid="cam471167-bib-0004" ref-type="bibr">4</xref>] contributing to a poor prognosis with a 5&#x02010;year overall survival rate of just 45% [<xref rid="cam471167-bib-0005" ref-type="bibr">5</xref>].</p><p>Imaging is crucial for diagnosing, staging and managing ovarian cancer. Ultrasound and computed tomography (CT) are recommended in case of a suspicion of ovarian cancer [<xref rid="cam471167-bib-0006" ref-type="bibr">6</xref>]. Ultrasound, the primary diagnostic tool, is non&#x02010;invasive and inexpensive, but operator&#x02010;dependent [<xref rid="cam471167-bib-0007" ref-type="bibr">7</xref>]. CT is used for preoperative staging and postoperative monitoring [<xref rid="cam471167-bib-0008" ref-type="bibr">8</xref>]; but it struggles with differentiating malignant from benign (residual) lesions and detecting early stage cancer or small metastases [<xref rid="cam471167-bib-0009" ref-type="bibr">9</xref>, <xref rid="cam471167-bib-0010" ref-type="bibr">10</xref>, <xref rid="cam471167-bib-0011" ref-type="bibr">11</xref>]. For example, paracardiac lymph nodes can be hard to differentiate, but their disease status can distinguish between Stage III and Stage IV disease and therefore has treatment implications. Magnetic resonance imaging (MRI) outperforms CT in detecting peritoneal metastasis [<xref rid="cam471167-bib-0012" ref-type="bibr">12</xref>, <xref rid="cam471167-bib-0013" ref-type="bibr">13</xref>, <xref rid="cam471167-bib-0014" ref-type="bibr">14</xref>, <xref rid="cam471167-bib-0015" ref-type="bibr">15</xref>], and diffusion&#x02010;weighted imaging can further improve lesion differentiation [<xref rid="cam471167-bib-0016" ref-type="bibr">16</xref>, <xref rid="cam471167-bib-0017" ref-type="bibr">17</xref>, <xref rid="cam471167-bib-0018" ref-type="bibr">18</xref>, <xref rid="cam471167-bib-0019" ref-type="bibr">19</xref>, <xref rid="cam471167-bib-0020" ref-type="bibr">20</xref>]. However, MRI is limited in its ability to differentiate lymph nodes based solely on diameter, requires advanced imaging sequences to minimise artefacts, and is highly reader dependent [<xref rid="cam471167-bib-0021" ref-type="bibr">21</xref>].</p><p>Nuclear medicine, particularly positron emission tomography (PET), has seen significant growth, although its use in ovarian cancer is not yet fully established. [<sup>18</sup>F]fluorodeoxyglucose (FDG) is the most widely used PET radiopharmaceutical, primarily used in ovarian cancer for detecting lymph node and distant metastases [<xref rid="cam471167-bib-0022" ref-type="bibr">22</xref>, <xref rid="cam471167-bib-0023" ref-type="bibr">23</xref>, <xref rid="cam471167-bib-0024" ref-type="bibr">24</xref>]. However, its accuracy can be limited by background glucose metabolism in the gastrointestinal tract and excretion via the urinary tract. Alternative radiopharmaceuticals may offer better solutions for assessing ovarian cancer.</p><p>This review focuses on recent advancements in nuclear medicine for ovarian cancer, specifically non&#x02010;[<sup>18</sup>F]FDG radiopharmaceuticals (Figure&#x000a0;<xref rid="cam471167-fig-0001" ref-type="fig">1</xref>) and explores their roles in diagnosis, staging, treatment selection, chemoresistance prediction, therapeutic monitoring, and their potential for radionuclide therapy.</p><fig position="float" fig-type="FIGURE" id="cam471167-fig-0001"><label>FIGURE 1</label><caption><p>Schematic overview of the radiopharmaceuticals that are mentioned in this review. The radiopharmaceutical is administered through intravenous injection, where it enters the blood stream and attaches to its binding site: The binding site can be located on the cell surface, within the nucleus or on a different cell type from the tumour microenvironment. CA125, carbohydrate antigen 125; CD13, aminopeptidase N; CTLs, choline transporter&#x02010;like proteins; CXCL12, C&#x02010;X&#x02010;C motif chemokine 12; CXCR4, C&#x02010;X&#x02010;C chemokine receptor 4; E2, oestradiol; FAP(I), fibroblast activation protein (inhibitor); FES, fluoro&#x02010;17&#x003b2;&#x02010;oestradiol; FLT, fluorothymidine; GPER, G protein&#x02010;coupled oestrogen receptor; HER2, human epidermal growth factor receptor 2; MUC16, mucin 16; NGR, asparagine&#x02010;glycine&#x02010;arginine; PARP(i), Poly(adenosine diphosphate&#x02010;ribose) polymerase (inhibitor); PSMA, prostate specific membrane antigen; RGD, arginylglycylaspartic acid; SLC43A2, solute carrier family 43 member 2; TK1, thymidine kinase 1; VEGF(R), vascular endothelial growth factor (receptor). Created in BioRender. Veenstra (2025) <ext-link xlink:href="https://biorender.com/s16u284" ext-link-type="uri">https://BioRender.com/s16u284</ext-link>.</p></caption><graphic xlink:href="CAM4-14-e71167-g005" position="anchor" id="jats-graphic-3"/></fig></sec><sec id="cam471167-sec-0002"><label>2</label><title>Radiopharmaceuticals for Diagnosis and Staging of Ovarian Cancer</title><p>Over the last decade, several novel radiopharmaceuticals for diagnostic use in ovarian cancer have been studied.</p><sec id="cam471167-sec-0003"><label>2.1</label><title>Cell Proliferation Markers</title><p>
+<bold>Fluorothymidine</bold> (<bold>FLT</bold>), a thymidine (DNA precursor) analogue, can be used to image cell proliferation, which is, almost by definition, upregulated in malignancies. Apart from preclinical studies using ovarian cancer xenografts, [<sup>18</sup>F]FLT PET/CT has been tested in two studies that included women with ovarian cancer [<xref rid="cam471167-bib-0025" ref-type="bibr">25</xref>, <xref rid="cam471167-bib-0026" ref-type="bibr">26</xref>]. Both studies involved three patients and found increased tumour uptake. Physiological [<sup>18</sup>F]FLT uptake is seen in bone marrow, liver, and the urinary tract, but not in the gastrointestinal tract like [<sup>18</sup>F]FDG [<xref rid="cam471167-bib-0027" ref-type="bibr">27</xref>]. A positive correlation between [<sup>18</sup>F]FLT uptake and Ki67 mitotic index was found [<xref rid="cam471167-bib-0025" ref-type="bibr">25</xref>], and [<sup>18</sup>F]FLT uptake correlated better with size reduction on CT after chemotherapy in three patients with recurrent ovarian cancer than [<sup>18</sup>F]FDG uptake [<xref rid="cam471167-bib-0026" ref-type="bibr">26</xref>].</p><p>
+<bold>Methionine</bold> is an essential amino acid for cell growth and division. [<sup>11</sup>C]methionine PET/CT for ovarian cancer has been studied in mice and patients (<italic toggle="yes">n</italic>&#x02009;=&#x02009;13) [<xref rid="cam471167-bib-0028" ref-type="bibr">28</xref>, <xref rid="cam471167-bib-0029" ref-type="bibr">29</xref>]. Tumours in mice showed high [<sup>11</sup>C]methionine uptake. In the patients, high [<sup>11</sup>C]methionine accumulation was observed in malignant tumours, while borderline malignant and benign lesions did not show any uptake. These studies, though small, implicate a possibility of using [<sup>18</sup>F]FLT and [<sup>11</sup>C]methionine as a diagnostic agent for ovarian cancer. Their performance compared with current standard imaging modalities, however, has yet to be evaluated.</p><p>
+<bold>Choline</bold>, a building block for cell membranes and thus essential for rapidly dividing cancer cells, is involved in several biological mechanisms and plays a role in cell membrane integrity [<xref rid="cam471167-bib-0030" ref-type="bibr">30</xref>]. Therefore, the increased proliferative activity in tumours can be visualised through radioactively labelled choline. Choline labelled with <sup>11</sup>C or <sup>18</sup>F has been used as a radiotracer for prostate cancer, and it is still used for localization of parathyroid adenomas. The use of [<sup>11</sup>C]choline PET compared with [<sup>18</sup>F]FDG PET in gynecologic cancers, mostly uterine (endometrial adenocarcinoma and carcinosarcoma), cervical (squamous cell), or ovarian cancer has previously been described in a cohort of 21 patients, of whom 18 had primary tumours (ovarian cancer <italic toggle="yes">n</italic>&#x02009;=&#x02009;1) and three had recurrent ovarian cancer (total ovarian cancer <italic toggle="yes">n</italic>&#x02009;=&#x02009;4) [<xref rid="cam471167-bib-0031" ref-type="bibr">31</xref>]. [<sup>11</sup>C]Choline PET was able to correctly identify more primary tumours than [<sup>18</sup>F]FDG PET (16/18 cases vs. 14/18 cases, respectively), but standardised uptake values (SUVs) were significantly higher for [<sup>18</sup>F]FDG. Both scans identified the primary tumour in the ovarian cancer patient. In the three patients with recurrent ovarian cancer, both scans were false&#x02010;negative in two and true&#x02010;positive in one of the patients. Also, [<sup>11</sup>C]choline PET showed physiologic bowel uptake that concealed para&#x02010;iliac lymph node metastases where [<sup>18</sup>F]FDG PET showed clear visibility, limiting its potential for ovarian cancer patients.</p><p>
+<bold>Mesothelin</bold> is a glycoprotein located at the cell surface that is believed to play a significant role in cell proliferation, growth, and adhesion signalling [<xref rid="cam471167-bib-0032" ref-type="bibr">32</xref>]. Mesothelin is overexpressed in many cancers and interacts with carbohydrate antigen&#x02010;125 (CA&#x02010;125, also known as mucin&#x02010;16 or MUC16). Normal tissue expression of mesothelin is limited to cells lining the peritoneum, pericardium, and pleura [<xref rid="cam471167-bib-0033" ref-type="bibr">33</xref>]. Mesothelin could potentially be used as an alternative to [<sup>18</sup>F]FDG to avoid uptake in the gastrointestinal tract, but small peritoneal and pleural metastases that frequently occur in ovarian cancer in particular may be missed, substantially reducing the usability of mesothelin. So far, <sup>64</sup>Cu&#x02010;labelled mesothelin antibodies have been tested in mouse models of ovarian cancer and a total of four patients with ovarian cancer [<xref rid="cam471167-bib-0034" ref-type="bibr">34</xref>, <xref rid="cam471167-bib-0035" ref-type="bibr">35</xref>]. Although initial in&#x02010;human results show promising visibility of ovarian cancer lesions mean SUV<sub>max</sub> 14.5 (&#x000b1;8.7) and mean tumour&#x02010;to&#x02010;blood ratio 2.6 (&#x000b1;1.3), some peritoneal lesions were missed.</p></sec><sec id="cam471167-sec-0004"><label>2.2</label><title>Angiogenesis Markers</title><p>Aminopeptidase N (also known as CD13) and integrin &#x003b1;v&#x003b2;3 are two key regulators involved in tumour angiogenesis and tumour progression [<xref rid="cam471167-bib-0036" ref-type="bibr">36</xref>, <xref rid="cam471167-bib-0037" ref-type="bibr">37</xref>]. Due to the varying expression levels of CD13 and integrin &#x003b1;v&#x003b2;3 between ovarian cancer patients, their individual use as a target for radionuclide imaging is limited. To address this, Gai et&#x000a0;al. [<xref rid="cam471167-bib-0038" ref-type="bibr">38</xref>] developed a dual&#x02010;receptor targeted radiopharmaceutical that consists of <bold>asparagine&#x02010;glycine&#x02010;arginine (NGR)</bold> and <bold>arginylglycylaspartic acid</bold> (<bold>RGD</bold>, the principal integrin&#x02010;binding domain in the extracellular matrix [<xref rid="cam471167-bib-0039" ref-type="bibr">39</xref>]). This tracer, called [<sup>68</sup>Ga]Ga&#x02010;NGR&#x02010;RGD, targets CD13 and integrin &#x003b1;v&#x003b2;3. While this approach enhances the likelihood of tumour visualisation, it may not be effective in all patients, as some tumours do not overexpress either NGR or RGD. Long et&#x000a0;al. [<xref rid="cam471167-bib-0040" ref-type="bibr">40</xref>] evaluated the effectiveness of [<sup>68</sup>Ga]Ga&#x02010;NGR&#x02010;RGD in ovarian cancer and found that [<sup>68</sup>Ga]Ga&#x02010;NGR&#x02010;RGD PET showed high tumour uptake in mouse models with subcutaneous xenografts. When compared with [<sup>18</sup>F]FDG PET, [<sup>68</sup>Ga]Ga&#x02010;NGR&#x02010;RGD PET also showed significantly higher tumour&#x02010;to&#x02010;muscle and tumour&#x02010;to&#x02010;liver ratios. [<sup>68</sup>Ga]Ga&#x02010;NGR&#x02010;RGD therefore provided better detail compared to [<sup>18</sup>F]FDG. In models of animals bearing abdominal metastasis, PET imaging with [<sup>68</sup>Ga]Ga&#x02010;NGR&#x02010;RGD enabled rapid and clear visualisation of both peritoneal and liver metastases (3&#x02013;6&#x02009;mm). In contrast, [<sup>18</sup>F]FDG failed to distinguish metastatic lesions due to the relatively low metabolic activity and higher physiological intestinal [<sup>18</sup>F]FDG uptake. The ability to detect small peritoneal metastases makes [<sup>68</sup>Ga]Ga&#x02010;NGR&#x02010;RGD PET an interesting tracer for further research in humans. If successful, [<sup>68</sup>Ga]Ga&#x02010;NGR&#x02010;RGD PET may allow for improved staging, improving clinical decision making.</p><p>Another potential tumour vasculature target is the <bold>prostate specific membrane antigen (PSMA)</bold>, a type II membrane protein that is overexpressed in most prostate cancer cases and upregulated in the neovasculature of solid tumours [<xref rid="cam471167-bib-0041" ref-type="bibr">41</xref>, <xref rid="cam471167-bib-0042" ref-type="bibr">42</xref>, <xref rid="cam471167-bib-0043" ref-type="bibr">43</xref>]. Ligands targeting PSMA for locating ovarian cancer seem to be a feasible approach, as [<sup>68</sup>Ga]Ga&#x02010;PSMA&#x02010;11 showed increased tumour uptake on PET/CT, corresponding with contrast enhancement on diagnostic CT [<xref rid="cam471167-bib-0044" ref-type="bibr">44</xref>]. An example is shown in Figure&#x000a0;<xref rid="cam471167-fig-0002" ref-type="fig">2</xref>. Similar results were found for [<sup>18</sup>F]DCFPyl PET/MRI, which also targets PSMA [<xref rid="cam471167-bib-0045" ref-type="bibr">45</xref>]. Metser et&#x000a0;al. [<xref rid="cam471167-bib-0046" ref-type="bibr">46</xref>], however, found that [<sup>18</sup>F]DCFPyl PET/CT found fewer disease sites than CT, particularly in the upper abdomen and throughout the gastrointestinal tract, probably limiting its clinical utility. Whether or not [<sup>68</sup>Ga]Ga&#x02010;PSMA&#x02010;11 PET/CT has additional value over the currently used imaging modalities remains to be determined.</p><fig position="float" fig-type="FIGURE" id="cam471167-fig-0002"><label>FIGURE 2</label><caption><p>PET/CT scan with [<sup>68</sup>Ga]Ga&#x02010;PSMA&#x02010;11 in a 40&#x02010;year&#x02010;old woman. From Kunikowska et&#x000a0;al. [<xref rid="cam471167-bib-0044" ref-type="bibr">44</xref>] (A) Maximum intensity projection, arrow indicates the lesion with abnormal tracer accumulation. (B) CT, arrow indicates the lesion in the right ovary. (C) Fusion PET/CT, arrow indicates the high tracer accumulation in the right ovary lesion visible on CT with SUV<sub>max</sub> 13.8. Final histopathology revealed borderline ovarian tumour. Copyright 2022 Wolters Kluwer Health Inc. All rights reserved.</p></caption><graphic xlink:href="CAM4-14-e71167-g004" position="anchor" id="jats-graphic-5"/></fig></sec><sec id="cam471167-sec-0005"><label>2.3</label><title>C&#x02010;X&#x02010;C Chemokine Receptor 4</title><p>[<sup>68</sup>Ga]Ga&#x02010;CXCR4, a radiopharmaceutical for the <bold>C&#x02010;X&#x02010;C chemokine receptor 4 (CXCR4)</bold>, allows for sensitive and high&#x02010;contrast detection of the receptor's presence within the body [<xref rid="cam471167-bib-0047" ref-type="bibr">47</xref>, <xref rid="cam471167-bib-0048" ref-type="bibr">48</xref>]. CXCR4 is expressed in primary ovarian tumours, [<xref rid="cam471167-bib-0049" ref-type="bibr">49</xref>] and [<sup>68</sup>Ga]Ga&#x02010;CXCR4 PET/CT has yielded positive results in studies investigating its use for the detection of ovarian cancer (Figure&#x000a0;<xref rid="cam471167-fig-0003" ref-type="fig">3</xref>) [<xref rid="cam471167-bib-0050" ref-type="bibr">50</xref>, <xref rid="cam471167-bib-0051" ref-type="bibr">51</xref>]. In these studies, a total of four patients underwent [<sup>68</sup>Ga]Ga&#x02010;CXCR4 PET/CT. Additional immunohistochemical analyses showed that tumours that were visible on [<sup>68</sup>Ga]Ga&#x02010;CXCR4 PET/CT (<italic toggle="yes">n</italic>&#x02009;=&#x02009;2) had high CXCR4 expression, and tumours that were not (<italic toggle="yes">n</italic>&#x02009;=&#x02009;2) had no or mild CXCR4 expression. Therefore, the diagnostic use of [<sup>68</sup>Ga]Ga&#x02010;CXCR4 PET/CT will probably be limited to tumours with high CXCR4 expression. However, Vag et&#x000a0;al. [<xref rid="cam471167-bib-0052" ref-type="bibr">52</xref>] observed only low to moderate PET positivity using [<sup>68</sup>Ga]Ga&#x02010;CXCR4 in solid tumours that showed high CXCR4 expression in&#x000a0;vitro. This discrepancy could indicate that transcript or whole&#x02010;cell protein level analysis results in different expression profiles than are seen using PET probes that bind to membrane&#x02010;associated chemokine receptors.</p><fig position="float" fig-type="FIGURE" id="cam471167-fig-0003"><label>FIGURE 3</label><caption><p>CXCR4&#x02010;directed positron emission tomography in several malignancies. From Werner et&#x000a0;al. [<xref rid="cam471167-bib-0051" ref-type="bibr">51</xref>] Maximum intensity projections. The figure primarily demonstrates moderate to no uptake on CXCR4&#x02010;directed imaging (arrows), with the exception of the ovarian cancer patient, where the tumour masses display fairly high CXCR4 expression. (A) PDAC, pancreatic ductal adenocarcinoma; (B) PNET, pancreatic neuroendocrine tumour; (C) Ovarian cancer; (D) RCC, renal cell carcinoma; (E) PCa, prostate cancer. Copyright 2019 Werner, Kircher, Higuchi, Kircher, Schirbel, Wester, Buck, Pomper, Rowe and Lapa.</p></caption><graphic xlink:href="CAM4-14-e71167-g003" position="anchor" id="jats-graphic-7"/></fig></sec><sec id="cam471167-sec-0006"><label>2.4</label><title>Fibroblast Activation Protein Inhibitor</title><p>Perhaps one of the most promising radiopharmaceuticals for imaging is the <bold>fibroblast activation protein</bold> (FAP) <bold>inhibitor (FAPI)</bold>, which targets cancer&#x02010;associated fibroblasts that are present in the tumour microenvironment. FAP is proven to be absent in normal ovaries and most other organs, including the peritoneum, making it an appealing target for imaging of ovarian malignancies [<xref rid="cam471167-bib-0053" ref-type="bibr">53</xref>]. Several studies have compared <sup>68</sup>Ga&#x02010;labelled FAPI with [<sup>18</sup>F]FDG PET in ovarian cancer patients (Figure&#x000a0;<xref rid="cam471167-fig-0004" ref-type="fig">4</xref>). In all studies, FAPI PET outperformed [<sup>18</sup>F]FDG PET due to a higher sensitivity for diagnosing lymph node metastases [<xref rid="cam471167-bib-0054" ref-type="bibr">54</xref>, <xref rid="cam471167-bib-0055" ref-type="bibr">55</xref>, <xref rid="cam471167-bib-0056" ref-type="bibr">56</xref>, <xref rid="cam471167-bib-0057" ref-type="bibr">57</xref>, <xref rid="cam471167-bib-0058" ref-type="bibr">58</xref>, <xref rid="cam471167-bib-0059" ref-type="bibr">59</xref>]. Furthermore, very low unspecific intestinal and peritoneal uptake was described [<xref rid="cam471167-bib-0060" ref-type="bibr">60</xref>]. One study compared <sup>68</sup>Ga&#x02010;labelled FAPI PET/CT with MRI diffusion&#x02010;weighted imaging (DWI), also showing more favourable results for <sup>68</sup>Ga&#x02010;labelled FAPI PET/CT [<xref rid="cam471167-bib-0061" ref-type="bibr">61</xref>]. FAPI PET/CT was especially better for detecting peritoneal tumour depositions and retroperitoneal, peri&#x02010;, or supradiaphragmatic lymph node metastases. In one study, 14% of treatment&#x02010;na&#x000ef;ve and 33% of relapsed patients were upstaged following <sup>68</sup>Ga&#x02010;labelled FAPI PET/CT compared with [<sup>18</sup>F]FDG PET/CT, resulting in treatment changes in 10% and 19% of cases, respectively, highlighting the clinical impact of FAPI PET/CT in ovarian cancer [<xref rid="cam471167-bib-0054" ref-type="bibr">54</xref>].</p><fig position="float" fig-type="FIGURE" id="cam471167-fig-0004"><label>FIGURE 4</label><caption><p>[<sup>18</sup>F]F&#x02010;FDG versus [<sup>68</sup>Ga]Ga&#x02010;FAPI&#x02010;04 positron emission tomography. From Zheng et&#x000a0;al. [<xref rid="cam471167-bib-0058" ref-type="bibr">58</xref>] A 35&#x02010;year&#x02010;old woman who previously underwent surgery for poorly differentiated mucinous ovarian adenocarcinoma. Fluorine&#x02010;18&#x02010;fluorodeoxyglucose (<sup>18</sup>F&#x02010;FDG) positron emission tomography/computed tomography (PET/CT) (a) and gallium&#x02010;68&#x02010;labelled fibroblast activation protein inhibitor (FAPI)&#x02010;04 PET/CT (b) demonstrate intense uptake in the right ilium (long arrow). <sup>18</sup>F&#x02010;FDG PET/CT showed no abnormal uptake throughout the body, whilst <sup>68</sup>Ga&#x02010;FAPI PET/CT showed increased uptake in a cervical lymph node, the retroperitoneal lymph nodes, and the pelvic site of recurrence (bent arrow). Subsequent biopsy of the cervical node found metastatic ovarian serous carcinoma. Copyright 2022 The Author(s). Published by Wolters Kluwer Health Inc.</p></caption><graphic xlink:href="CAM4-14-e71167-g002" position="anchor" id="jats-graphic-9"/></fig><p>Through recent years, several radiopharmaceuticals have been studied for their diagnostic use in ovarian cancer. The current development status of the radiopharmaceuticals mentioned in this review is shown in Table&#x000a0;<xref rid="cam471167-tbl-0001" ref-type="table">1</xref>, and a short comparative overview can be found in Table&#x000a0;<xref rid="cam471167-tbl-0002" ref-type="table">2</xref>. Choline, mainly used to study parathyroid disease, and PSMA, to diagnose and monitor prostate cancer, are already routinely used in clinical practice, possibly increasing their chances of being implemented in ovarian cancer diagnostics. Limitations of these radiopharmaceuticals, however, include physiological uptake within the gastrointestinal tract that could cause metastases to be missed, limiting sensitivity. Therefore, we suggest that FAPI seems to be the most promising tracer for future clinical implementation in ovarian cancer. FAPI is increasingly being studied for several cancer types in Phase 2 clinical trials (e.g., NCT05209750, NCT06355427, NCT05263700, NCT05898854, NCT05262855) and has been integrated into clinical practice in a few settings. Although FAPI PET/CT shows considerable diagnostic promise, its cost&#x02010;effectiveness has not yet been formally evaluated, highlighting the need for future health economic studies to assess its value relative to other established imaging modalities. <sup>68</sup>Ga&#x02010;labelled FAPI for ovarian cancer is currently being investigated in a few clinical trials (NCT06232122, NCT05903807, NCT06061874) with results expected around 2026.</p><table-wrap position="float" id="cam471167-tbl-0001" content-type="TABLE"><label>TABLE 1</label><caption><p>Current development status of radiopharmaceuticals used in ovarian cancer.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Radiopharmaceutical</th><th align="center" valign="bottom" rowspan="1" colspan="1">Research phase in ovarian cancer</th><th align="center" valign="bottom" rowspan="1" colspan="1">Research phase in other diseases</th><th align="center" valign="bottom" rowspan="1" colspan="1">Current clinical trials in ovarian cancer<xref rid="cam471167-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>89</sup>Zr]Bevacizumab</td><td align="center" valign="top" rowspan="1" colspan="1">Preclinical</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 2</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>11</sup>C]Choline</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 1</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 4</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>177</sup>Lu]Lu&#x02010;CHX&#x02010;A&#x02033;&#x02010;DTPA&#x02010;huAR9.6</td><td align="center" valign="top" rowspan="1" colspan="1">Preclinical</td><td align="center" valign="top" rowspan="1" colspan="1">Preclinical</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>64</sup>Cu]Cu&#x02010;cyclam&#x02010;RAFT&#x02010;c(&#x02010;RGDfK&#x02010;)<sub>4</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Preclinical</td><td align="center" valign="top" rowspan="1" colspan="1">Preclinical</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>64</sup>Cu]Cu&#x02010;DOTA&#x02010;trastuzumab</td><td align="center" valign="top" rowspan="1" colspan="1">Preclinical</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 1</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>18</sup>F]DCFPyL</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 1</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 4</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>68</sup>Ga]Ga&#x02010;DOTA&#x02010;FAPI&#x02010;04</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 1</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 1</td><td align="center" valign="top" rowspan="1" colspan="1">NCT05824247</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>68</sup>Ga]Ga &#x02010;FAPI&#x02010;02</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 1</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 1</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>68</sup>Ga]Ga &#x02010;FAPI&#x02010;04</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 1</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 2</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>68</sup>Ga]Ga &#x02010;FAPI&#x02010;46</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 1</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 2</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>NCT06232122 NCT05903807 NCT06061874 NCT05172310</p>
+<p>NCT04147494</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>18</sup>F]FAPI&#x02010;74</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 2</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 2</td><td align="center" valign="top" rowspan="1" colspan="1">NCT06503146</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>68</sup>Ga]Ga&#x02010;PNT6555 (FAPI)</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 1</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 1</td><td align="center" valign="top" rowspan="1" colspan="1">NCT05956093</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>18</sup>F]FES</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 2</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 4</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>18</sup>F]FLT</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 1</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 2</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>18</sup>F]Fluoromethylcholine</td><td align="center" valign="top" rowspan="1" colspan="1">Preclinical</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 3</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>18</sup>F]FPPRGD<sub>2</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 1</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 1</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>18</sup>F]PARP1&#x02010;inhibitor</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 1</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 2</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>NCT02637934</p>
+<p>NCT03604315</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>64</sup>Cu]Cu&#x02010;Mesothelin</td><td align="center" valign="top" rowspan="1" colspan="1">Preclinical</td><td align="center" valign="top" rowspan="1" colspan="1">Preclinical</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>89</sup>Zr]Mesothelin</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 1</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 1</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>11</sup>C]Methionine</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 1</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 2</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>68</sup>Ga]Ga&#x02010;NGR&#x02010;RGD</td><td align="center" valign="top" rowspan="1" colspan="1">Preclinical</td><td align="center" valign="top" rowspan="1" colspan="1">Preclinical</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>64</sup>Cu]Cu&#x02010;NOTA&#x02010;pertuzumab F(ab')2</td><td align="center" valign="top" rowspan="1" colspan="1">Preclinical</td><td align="center" valign="top" rowspan="1" colspan="1">Preclinical</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>68</sup>Ga]Ga&#x02010;CXCR4</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 1</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 2</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>177</sup>Lu]Lu&#x02010;CXCR4</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 1</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>90</sup>Y]Y&#x02010;CXCR4</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 1</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>68</sup>Ga]Ga&#x02010;PSMA&#x02010;11</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 1</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 4</td><td align="center" valign="top" rowspan="1" colspan="1">NCT04147494</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>18</sup>F]PyPARP</td><td align="center" valign="top" rowspan="1" colspan="1">Preclinical</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 1</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>89</sup>Zr]Trastuzumab</td><td align="center" valign="top" rowspan="1" colspan="1">Preclinical</td><td align="center" valign="top" rowspan="1" colspan="1">Phase 2</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr></tbody></table><table-wrap-foot id="cam471167-ntgp-0002"><fn id="cam471167-note-0002"><p>
+<italic toggle="yes">Note:</italic> Overview of the radiopharmaceuticals that are explored in this review, including information on their current research phase.</p></fn><fn id="cam471167-note-0003"><label>
+<sup>a</sup>
+</label><p>Reviewed on <ext-link xlink:href="http://clinicaltrials.gov" ext-link-type="uri">ClinicalTrials.gov</ext-link> on January 28th 2025.</p></fn></table-wrap-foot></table-wrap><table-wrap position="float" id="cam471167-tbl-0002" content-type="TABLE"><label>TABLE 2</label><caption><p>Key diagnostic and functional properties of radiopharmaceuticals studied in ovarian cancer.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Radiopharmaceutical</th><th align="center" valign="bottom" rowspan="1" colspan="1">Molecular target</th><th align="center" valign="bottom" rowspan="1" colspan="1">Theranostic application</th><th align="center" valign="bottom" rowspan="1" colspan="1">Key strengths</th><th align="center" valign="bottom" rowspan="1" colspan="1">Key limitations</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>89</sup>Zr]Bevacizumab</td><td align="center" valign="top" rowspan="1" colspan="1">Vascular endothelial growth factor A</td><td align="center" valign="top" rowspan="1" colspan="1">Potential</td><td align="center" valign="top" rowspan="1" colspan="1">High specificity for angiogenesis imaging</td><td align="center" valign="top" rowspan="1" colspan="1">Long half&#x02010;life of <sup>89</sup>Zr; limited availability</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>[<sup>11</sup>C]Choline</p>
+<p>[<sup>18</sup>F]Fluoromethylcholine</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Cell membrane synthesis</td><td align="center" valign="top" rowspan="1" colspan="1">Potential</td><td align="center" valign="top" rowspan="1" colspan="1">Evaluates tumour metabolism</td><td align="center" valign="top" rowspan="1" colspan="1">Short half&#x02010;life of <sup>11</sup>C requires on&#x02010;site cyclotron; limited data in ovarian cancer</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>68</sup>Ga]Ga&#x02010;CXCR4</td><td align="center" valign="top" rowspan="1" colspan="1">C&#x02010;X&#x02010;C Chemokine Receptor 4 (CXCR4)</td><td align="center" valign="top" rowspan="1" colspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">Potential for both imaging and therapy</td><td align="center" valign="top" rowspan="1" colspan="1">CXCR4 expression may vary; limited clinical experience</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>[<sup>18</sup>F]FAPI&#x02010;74</p>
+<p>[<sup>68</sup>Ga]Ga&#x02010;FAPI&#x02010;46</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Fibroblast activation protein</td><td align="center" valign="top" rowspan="1" colspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">High tumour&#x02010;to&#x02010;background ratio; <sup>18</sup>F&#x02010;label allows centralised production; early clinical use</td><td align="center" valign="top" rowspan="1" colspan="1">Limited outcome data in ovarian cancer; still in early phase trials</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>18</sup>F]FES</td><td align="center" valign="top" rowspan="1" colspan="1">Oestrogen receptor (ER)</td><td align="center" valign="top" rowspan="1" colspan="1">Potential</td><td align="center" valign="top" rowspan="1" colspan="1">Clinically validated in breast cancer; ER&#x02010;targeted</td><td align="center" valign="top" rowspan="1" colspan="1">Only applicable to ER+ tumours, limited ovarian use</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>18</sup>F]FLT</td><td align="center" valign="top" rowspan="1" colspan="1">Thymidine kinase&#x02010;1</td><td align="center" valign="top" rowspan="1" colspan="1">Potential</td><td align="center" valign="top" rowspan="1" colspan="1">Non&#x02010;invasive marker of cellular proliferation</td><td align="center" valign="top" rowspan="1" colspan="1">Uptake influenced by factors beyond proliferation; limited therapeutic translation so far</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>18</sup>F]FPPRGD<sub>2</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Integrin &#x003b1;v&#x003b2;3</td><td align="center" valign="top" rowspan="1" colspan="1">Potential</td><td align="center" valign="top" rowspan="1" colspan="1">Visualises tumour angiogenesis and integrin expression</td><td align="center" valign="top" rowspan="1" colspan="1">Limited availability; early phase clinical data only</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>89</sup>Zr]Mesothelin</td><td align="center" valign="top" rowspan="1" colspan="1">Mesothelin</td><td align="center" valign="top" rowspan="1" colspan="1">Potential</td><td align="center" valign="top" rowspan="1" colspan="1">Tumour&#x02010;specific antigen with therapeutic potential</td><td align="center" valign="top" rowspan="1" colspan="1">Variable expression in ovarian cancer; early stage development</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>11</sup>C]Methionine</td><td align="center" valign="top" rowspan="1" colspan="1">Amino acid transport</td><td align="center" valign="top" rowspan="1" colspan="1">Potential</td><td align="center" valign="top" rowspan="1" colspan="1">Evaluates amino acid metabolism</td><td align="center" valign="top" rowspan="1" colspan="1">Short half&#x02010;life of <sup>11</sup>C; limited widespread use</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>[<sup>18</sup>F]PARP1&#x02010;inhibitor</p>
+<p>[<sup>18</sup>F]PyPARP</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Poly(Adenosine diphosphate&#x02010;Ribose)Polymerase (PARP)</td><td align="center" valign="top" rowspan="1" colspan="1">Potential</td><td align="center" valign="top" rowspan="1" colspan="1">May inform PARP&#x02010;inhibitor therapy; DNA repair marker</td><td align="center" valign="top" rowspan="1" colspan="1">Still investigational; limited clinical experience</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>[<sup>68</sup>Ga]Ga&#x02010;PSMA&#x02010;11</p>
+<p>[<sup>18</sup>F]DCFPyL</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Prostate specific membrane antigen</td><td align="center" valign="top" rowspan="1" colspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">Theranostic potential; well established in prostate cancer</td><td align="center" valign="top" rowspan="1" colspan="1">Limited expression in ovarian tumours</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>[<sup>89</sup>Zr]Trastuzumab</p>
+<p>[<sup>64</sup>Cu]Cu&#x02010;DOTA&#x02010;trastuzumab</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Human Epidermal growth factor Receptor 2 (HER2)</td><td align="center" valign="top" rowspan="1" colspan="1">Potential</td><td align="center" valign="top" rowspan="1" colspan="1">Targets HER2&#x02010;overexpressing tumours</td><td align="center" valign="top" rowspan="1" colspan="1">Limited to HER2+ cases; long half&#x02010;life of <sup>89</sup>Zr</td></tr></tbody></table><table-wrap-foot id="cam471167-ntgp-0003"><fn id="cam471167-note-0004"><p>
+<italic toggle="yes">Note:</italic> Overview of clinically tested radiopharmaceuticals that are investigated in this review, highlighting their molecular targets, potential theranostic applications, and key strengths and limitations.</p></fn></table-wrap-foot></table-wrap></sec></sec><sec id="cam471167-sec-0007"><label>3</label><title>Patient Selection for Targeted Therapy</title><p>The previously mentioned radiopharmaceuticals may theoretically also be used to select patients for treatment. The following paragraphs review the current radiopharmaceutical developments in this regard.</p><sec id="cam471167-sec-0008"><label>3.1</label><title>Poly&#x02010;<styled-content style="fixed-case" toggle="no">ADP</styled-content>&#x02010;Ribonuclease Inhibitors</title><p>One of the largest advances in the treatment of ovarian cancer is the use of poly(adenosine diphosphate&#x02010;ribose)polymerase (PARP) inhibitors. PARP enzymes attach to DNA breaks and attract other DNA damage repair proteins to repair the DNA [<xref rid="cam471167-bib-0062" ref-type="bibr">62</xref>]. PARP&#x02010;inhibitors block the enzyme on single&#x02010;strand DNA breaks, preventing the repair of DNA damage through poly(ADP&#x02010;ribosyl)ation (parylation), leading to the accumulation of DNA breaks and tumour cell death. This treatment is most effective in tumours with deficiencies in homologous recombination repair, which is responsible for repairing double&#x02010;strand breaks in the DNA. The PARP1 enzyme can be visualised using radiolabelled ligands, of which a <bold>fluorine&#x02010;labelled PARP1 inhibitor</bold> ([<sup>18</sup>F]PARP1&#x02010;inhibitor) currently seems the most promising [<xref rid="cam471167-bib-0063" ref-type="bibr">63</xref>, <xref rid="cam471167-bib-0064" ref-type="bibr">64</xref>]. Interim analyses of an ongoing clinical trial (NCT02637934) evaluating [<sup>18</sup>F]PARP1&#x02010;inhibitor PET in ovarian cancer compared results of [<sup>18</sup>F]PARP1&#x02010;inhibitor PET with [<sup>18</sup>F]FDG PET in eight and 14 patients, respectively [<xref rid="cam471167-bib-0065" ref-type="bibr">65</xref>, <xref rid="cam471167-bib-0066" ref-type="bibr">66</xref>]. [<sup>18</sup>F]PARP1&#x02010;inhibitor PET showed limited bladder activity because of biliary excretion and showed better identification of primary and recurrent lesions within the pelvis (Figure&#x000a0;<xref rid="cam471167-fig-0005" ref-type="fig">5</xref>). Contrarily, [<sup>18</sup>F]FDG was better at detecting peritoneal metastasis. The authors found that high [<sup>18</sup>F]PARP1&#x02010;inhibitor uptake following carboplatin and paclitaxel treatment was indicative of chemoresistance, while low [<sup>18</sup>F]PARP1&#x02010;inhibitor uptake following the same therapy was indicative of chemosensitivity [<xref rid="cam471167-bib-0065" ref-type="bibr">65</xref>]. These results imply that [<sup>18</sup>F]PARP1&#x02010;inhibitor PET can be used to guide clinical management in combination with currently used biomarkers. Furthermore, differences in uptake were found within the tumour itself, suggesting that [<sup>18</sup>F]PARP1&#x02010;inhibitor PET may be able to visualise differences in PARP1 expression within a tumour and between different metastases in the same patient. In addition to this advantage over invasive biopsies, PARP inhibitor PET would also enable repeated imaging to determine (loss of) PARP1 expression during therapy. Interestingly, the authors described high uptake of [<sup>18</sup>F]PARP1&#x02010;inhibitor in five low&#x02010;grade ovarian cancer lesions [<xref rid="cam471167-bib-0066" ref-type="bibr">66</xref>]. If confirmed, [<sup>18</sup>F]PARP1&#x02010;inhibitor PET may serve as a biomarker to identify low&#x02010;grade ovarian cancer patients with unexpectedly high PARP1 expression, indicating potential sensitivity to PARP inhibitors, even if they do not have breast cancer gene (BRCA) mutations or homologous recombination deficiency. A disadvantage of [<sup>18</sup>F]PARP1&#x02010;inhibitor PET, however, would be its hepatobiliary excretion that could interfere with the detection of abdominal lesions. A novel PARP ligand, [<sup>18</sup>F]<bold>PyPARP</bold>, shows a much lower liver&#x02010;to&#x02010;kidney ratio, which could diminish the interference of hepatobiliary excretion [<xref rid="cam471167-bib-0067" ref-type="bibr">67</xref>]. On the other hand, the increased renal excretion may obscure pelvic lesions.</p><fig position="float" fig-type="FIGURE" id="cam471167-fig-0005"><label>FIGURE 5</label><caption><p>[<sup>18</sup>F]PARP1&#x02010;inhibitor and [<sup>18</sup>F]FDG PET/CT images of a patient with ovarian cancer with vaginal cuff lesion. From Makvandi et&#x000a0;al. [<xref rid="cam471167-bib-0065" ref-type="bibr">65</xref>] [<sup>18</sup>F]FTT (left) is a [<sup>18</sup>F]PARP1&#x02010;inhibitor. Minimal radiotracer in the urinary bladder with [<sup>18</sup>F]PARP1&#x02010;inhibitor PET allowed for clear visualisation of the lesion (green arrow) with no interference, despite some bowel uptake (yellow arrow on [<sup>18</sup>F]PARP1&#x02010;inhibitor image). Note excreted radiotracer in the bladder on [<sup>18</sup>F]FDG PET (yellow arrow on [<sup>18</sup>F]FDG PET). Copyright 2018, American Society for Clinical Investigation.</p></caption><graphic xlink:href="CAM4-14-e71167-g001" position="anchor" id="jats-graphic-11"/></fig></sec><sec id="cam471167-sec-0009"><label>3.2</label><title>Anti&#x02010;Hormonal Treatment</title><p>A relatively less frequent subtype of ovarian cancer, low&#x02010;grade serous ovarian cancer, is often positive for the oestrogen and progesterone receptor, and whereas these tumours are relatively resistant to chemotherapy, they may respond to hormonal therapy [<xref rid="cam471167-bib-0068" ref-type="bibr">68</xref>, <xref rid="cam471167-bib-0069" ref-type="bibr">69</xref>, <xref rid="cam471167-bib-0070" ref-type="bibr">70</xref>]. Van Kruchten et&#x000a0;al. [<xref rid="cam471167-bib-0071" ref-type="bibr">71</xref>] performed [<sup>18</sup>F]<bold>fluoro&#x02010;17&#x003b2;&#x02010;oestradiol (FES)</bold> PET/CT, that visualises the oestrogen receptor, in 15 suspected ovarian cancer patients that were planned to undergo surgery. A total of 28/32 (88%) lesions larger than 10&#x02009;mm that were present on CT were quantified using [<sup>18</sup>F]FES PET/CT. The other four lesions were visible on PET, but not quantifiable due to high uptake levels in adjacent tissues. There were no new lesions that had not yet been found on diagnostic CT. This study also showed that [<sup>18</sup>F]FES PET/CT was consistent with histology at cytoreductive surgery [<xref rid="cam471167-bib-0071" ref-type="bibr">71</xref>]. These results indicate that [<sup>18</sup>F]FES PET/CT could potentially be used to indicate the current oestrogen receptor status, potentially identifying patients with high oestrogen receptor expression levels that could benefit from anti&#x02010;hormonal therapy.</p></sec><sec id="cam471167-sec-0010"><label>3.3</label><title>Anti&#x02010;<styled-content style="fixed-case" toggle="no">HER2</styled-content> Treatment</title><p>Human epidermal growth factor receptor 2 (HER2) expression and/or gene amplification can be found in a subset of ovarian cancer (in up to 30%&#x02013;40%), depending on the cutoff for receptor positivity [<xref rid="cam471167-bib-0072" ref-type="bibr">72</xref>, <xref rid="cam471167-bib-0073" ref-type="bibr">73</xref>, <xref rid="cam471167-bib-0074" ref-type="bibr">74</xref>]. Hence, anti&#x02010;HER2 therapies such as trastuzumab, pertuzumab, and tyrosine kinase inhibitors have been tested for HER2&#x02010;positive ovarian cancer. Newer agents also include antibody&#x02010;drug conjugates targeting the HER2 receptor, such as trastuzumab deruxtecan, for which response rates of up to 45% have been reported in ovarian cancer patients with HER2&#x02010;positive disease (HER2 3+ or amplification) [<xref rid="cam471167-bib-0075" ref-type="bibr">75</xref>]. Efficacy has also been observed in ovarian cancers with lower HER2 expression (20% response in HER2 1+) [<xref rid="cam471167-bib-0075" ref-type="bibr">75</xref>]. Radiopharmaceuticals can be used to non&#x02010;invasively monitor the expression of HER2, which is involved in tumour cell proliferation and metastasis. In preclinical ovarian cancer models, <bold>trastuzumab</bold>&#x02010; and <bold>pertuzumab</bold>&#x02010;based imaging have demonstrated a decrease in HER2 expression following trastuzumab or heat shock protein 90 (HSP90)&#x02010;targeted therapy, providing a measurable response [<xref rid="cam471167-bib-0076" ref-type="bibr">76</xref>, <xref rid="cam471167-bib-0077" ref-type="bibr">77</xref>, <xref rid="cam471167-bib-0078" ref-type="bibr">78</xref>]. Performing a baseline HER2&#x02010;targeted PET/CT might therefore be able to detect patients with high HER2 expression levels, suggesting they could benefit from HER2&#x02010;directed treatments. The extent to which radiolabelled HER2 antibodies will be of clinical use, however, is still unknown.</p></sec><sec id="cam471167-sec-0011"><label>3.4</label><title>Chemotherapy</title><p>
+<bold>C&#x02010;X&#x02010;C chemokine receptor 4</bold> (CXCR4) functions by binding to its ligand, the C&#x02010;X&#x02010;C motif chemokine 12 (CXCL12), causing changes in cell skeleton rearrangement and prompting cell migration [<xref rid="cam471167-bib-0079" ref-type="bibr">79</xref>]. The activation of CXCR4 and the migration of cancer cells towards organs that express CXCL12 facilitate the directed metastasis of cancer cells [<xref rid="cam471167-bib-0080" ref-type="bibr">80</xref>, <xref rid="cam471167-bib-0081" ref-type="bibr">81</xref>, <xref rid="cam471167-bib-0082" ref-type="bibr">82</xref>]. Studies have found that interfering with CXCR4 expression or blocking the CXCR4&#x02010;CXCL12 axis using small interfering RNA (siRNA) or other inhibitors (i.e., Plerixafor, TN14003, AMD3100) significantly reduces cell viability, invasion, migration, and adhesion of cancer cells in&#x000a0;vitro [<xref rid="cam471167-bib-0083" ref-type="bibr">83</xref>, <xref rid="cam471167-bib-0084" ref-type="bibr">84</xref>, <xref rid="cam471167-bib-0085" ref-type="bibr">85</xref>, <xref rid="cam471167-bib-0086" ref-type="bibr">86</xref>, <xref rid="cam471167-bib-0087" ref-type="bibr">87</xref>]. [<sup>68</sup>Ga]Ga&#x02010;CXCR4 PET/CT may therefore enable clinicians to identify patients who could benefit from CXCR4&#x02010;directed drugs, although these drugs are not yet available clinically. The CXCR4&#x02010;CXCL12 pathway could also be used to predict chemosensitivity. Literature has shown high CXCR4 levels to be associated with resistance to platinum&#x02010;based chemotherapy [<xref rid="cam471167-bib-0085" ref-type="bibr">85</xref>, <xref rid="cam471167-bib-0088" ref-type="bibr">88</xref>, <xref rid="cam471167-bib-0089" ref-type="bibr">89</xref>]. Visualisation of increased CXCR4 expression using [<sup>68</sup>Ga]Ga&#x02010;CXCR4 PET/CT might therefore be able to show a correlation between the level of CXCR4 and a patient's likelihood to be resistant to platinum&#x02010;based chemotherapy, which would be of great benefit for clinical decision making.</p><p>Similar prospects for the prediction of chemosensitivity have been described for [<sup>11</sup>C]<bold>choline</bold> and [<sup>18</sup>F]<bold>fluoromethylcholine</bold>. In a study by Jimbo et&#x000a0;al. [<xref rid="cam471167-bib-0090" ref-type="bibr">90</xref>], metastatic castrate&#x02010;resistant prostate cancer patients with a&#x02009;&#x02265;&#x02009;20% reduction in SUV<sub>max</sub> as measured on [<sup>11</sup>C]Choline PET/CT following three cycles of docetaxel chemotherapy, compared with their baseline SUV<sub>max</sub> prior to starting docetaxel, were 3.6 times more likely to have a complete response after six full cycles of docetaxel chemotherapy. Choline uptake and its relation to chemosensitivity have not yet been studied in patients with ovarian cancer, however. Bauerschlag et&#x000a0;al. [<xref rid="cam471167-bib-0091" ref-type="bibr">91</xref>] reported that cisplatin&#x02010;resistant cells displayed lower [<sup>18</sup>F]fluoromethylcholine uptake than cisplatin&#x02010;sensitive cells, which is why baseline imaging using this ligand might also be able to predict which patients could benefit from cisplatin. So far, this method has not yet been translated to clinical use. The high prevalence of chemoresistance in ovarian cancer patients and the burden of undergoing systemic treatment, however, do provide a clinical incentive to further assess the full potential of these ligands.</p></sec></sec><sec id="cam471167-sec-0012"><label>4</label><title>Monitoring Response to Treatment</title><p>Radiopharmaceuticals that are capable of diagnosing cancer are often also useful to assess therapy response. Few studies on novel radiopharmaceuticals have investigated (early) response to ovarian cancer treatment; they are briefly presented in the following paragraphs.</p><sec id="cam471167-sec-0013"><label>4.1</label><title>Chemotherapy and/or Targeted Therapy</title><p>Evidence has been presented that [<sup>18</sup>F]<bold>fluorothymidine</bold> ([<sup>18</sup>F]FLT) PET can assess treatment efficacy following carboplatin, paclitaxel, belinostat, and nicotinamide phosphoribosyltransferase inhibitors (APO866) [<xref rid="cam471167-bib-0092" ref-type="bibr">92</xref>, <xref rid="cam471167-bib-0093" ref-type="bibr">93</xref>, <xref rid="cam471167-bib-0094" ref-type="bibr">94</xref>]. [<sup>18</sup>F]FLT PET has also been used to monitor early treatment response in cisplatin&#x02010;resistant ovarian tumours and those treated with mammalian target of rapamycin (mTOR) inhibitors [<xref rid="cam471167-bib-0028" ref-type="bibr">28</xref>, <xref rid="cam471167-bib-0095" ref-type="bibr">95</xref>, <xref rid="cam471167-bib-0096" ref-type="bibr">96</xref>]. Additionally, one clinical study that assessed gemcitabine&#x02010;based secondary systemic treatment in three women with recurrent ovarian cancer suggested that [<sup>18</sup>F]FLT PET may become the new monitoring standard for this indication, as [<sup>18</sup>F]FLT PET detected treatment response quicker than [<sup>18</sup>F]FDG PET and showed a decrease in standardised uptake values that was better correlated with CT than [<sup>18</sup>F]FDG PET [<xref rid="cam471167-bib-0026" ref-type="bibr">26</xref>]. Similar findings were found for the use of [<sup>11</sup>C]<bold>methionine</bold> in a study with mice showing a significant decrease in tumour size and lesion uptake following chemotherapy [<xref rid="cam471167-bib-0028" ref-type="bibr">28</xref>]. More extensive research is needed to confirm these findings.</p></sec><sec id="cam471167-sec-0014"><label>4.2</label><title>Anti&#x02010;Angiogenic Therapy</title><p>Other studies assessed the use of the vascular endothelial growth factor (VEGF). VEGF plays an important role in tumour angiogenesis [<xref rid="cam471167-bib-0097" ref-type="bibr">97</xref>]. It can be targeted through the humanised monoclonal antibody <bold>bevacizumab</bold>, and can be visualised using the radioactively labelled [<sup>89</sup>Zr]bevacizumab. Studies using ovarian cancer mouse models have found that [<sup>89</sup>Zr]bevacizumab was successfully able to monitor treatment response following HSP90 and mTOR inhibitors [<xref rid="cam471167-bib-0098" ref-type="bibr">98</xref>, <xref rid="cam471167-bib-0099" ref-type="bibr">99</xref>]. [<sup>89</sup>Zr]bevacizumab uptake decreased by 44% following 2&#x02009;weeks of twice&#x02010;weekly HSP90&#x02010;inhibition therapy and by 22% following daily mTOR&#x02010;inhibition for 2&#x02009;weeks. Simultaneously, tumours in the treatment groups showed significantly slower tumour growth compared with the control groups. It would be interesting to see if radiolabelled&#x02010;bevacizumab PET is effective in monitoring early treatment response in ovarian cancer patients.</p><p>A study that used radiolabelled <bold>arginylglycylaspartic acid</bold> (RGD) analogues also showed promising results for monitoring response to therapy. Minamimoto et&#x000a0;al. [<xref rid="cam471167-bib-0100" ref-type="bibr">100</xref>] used [<sup>18</sup>F]FPPRGD<sub>2</sub> PET/CT in a total of six patients suffering from ovarian or cervical cancer. Patients were treated with bevacizumab&#x02010;containing therapy and monitored by [<sup>18</sup>F]FPPRGD<sub>2</sub> PET/CT scans. Results showed that uptake decreased significantly during the course of therapy, suggesting that [<sup>18</sup>F]FPPRGD<sub>2</sub> has the potential to provide early predictions of response to bevacizumab&#x02010;containing treatments.</p></sec></sec><sec id="cam471167-sec-0015"><label>5</label><title>Radiopharmaceuticals as Treatment</title><p>Radiopharmaceuticals can also serve as therapeutic agents for delivering internal radiation, a strategy known as targeted radionuclide therapy. When radiopharmaceuticals are used for both diagnostic and therapeutic purposes, they are referred to as <italic toggle="yes">theranostic</italic> pairs.</p><sec id="cam471167-sec-0016"><label>5.1</label><title>C&#x02010;X&#x02010;C Chemokine Receptor 4</title><p>C&#x02010;X&#x02010;C chemokine receptor 4 (CXCR4) is a theranostic agent that can be labelled with gallium&#x02010;68 for diagnostic purposes and lutetium&#x02010;177 or yttrium&#x02010;90 for treatment purposes. So far, [<sup>177</sup>Lu]Lu&#x02212;/[<sup>90</sup>Y]Y&#x02010;CXCR4 has been used in patients suffering from several types of blood cancers [<xref rid="cam471167-bib-0101" ref-type="bibr">101</xref>, <xref rid="cam471167-bib-0102" ref-type="bibr">102</xref>, <xref rid="cam471167-bib-0103" ref-type="bibr">103</xref>, <xref rid="cam471167-bib-0104" ref-type="bibr">104</xref>]. Their application served as neoadjuvant treatment before undergoing allogenic or autologous haematopoietic stem cell transplantation. Although [<sup>177</sup>Lu]Lu&#x02212;/[<sup>90</sup>Y]Y&#x02010;CXCR4 will require stem cell replacement because of bone marrow ablation, this CXCR4&#x02010;targeted therapy could potentially also be administered to patients with solid tumours, such as end&#x02010;stage ovarian cancer patients, that show increased CXCR4 expression on PET [<xref rid="cam471167-bib-0050" ref-type="bibr">50</xref>, <xref rid="cam471167-bib-0105" ref-type="bibr">105</xref>].</p></sec><sec id="cam471167-sec-0017"><label>5.2</label><title>Fibroblast Activation Protein Inhibitor</title><p>A suitable alternative for future theranostic applications could be radiolabelled fibroblast activation protein inhibitor (FAPI), as was recently concluded in a review by Priv&#x000e9; and colleagues [<xref rid="cam471167-bib-0106" ref-type="bibr">106</xref>]. FAP&#x02010;targeted radionuclide therapy performed on a compassionate use basis has shown effectiveness in several malignancies, but response in ovarian cancer patients has not yet been analysed. So far, results show a favourable toxicity profile with limited high&#x02010;grade adverse events, which were manageable if present [<xref rid="cam471167-bib-0106" ref-type="bibr">106</xref>]. The most relevant side effects are related to bone marrow toxicity, such as anaemia, leukopenia, and low platelets. However, a limitation of FAPI&#x02010;based therapies is the short tumour retention of current FAPI tracers. This fast clearance from the tumour reduces the radiation dose that radiolabelled FAPI delivers to a tumour, limiting its therapeutic efficacy.</p></sec><sec id="cam471167-sec-0018"><label>5.3</label><title>Prostate Specific Membrane Antigen</title><p>Fast clearance could also pose challenges for the use of prostate specific membrane antigen (PSMA) radioligand therapy. PSMA is often only expressed on neovasculature in non&#x02010;prostate cancer, which is why uptake on endothelial cells results in a rapid tumour washout [<xref rid="cam471167-bib-0107" ref-type="bibr">107</xref>, <xref rid="cam471167-bib-0108" ref-type="bibr">108</xref>, <xref rid="cam471167-bib-0109" ref-type="bibr">109</xref>]. <sup>177</sup>Lu&#x02010;labelled PSMA therapy has, however, been studied extensively in prostate cancer patients and shows effectiveness with a well manageable toxicity profile&#x000a0;[<xref rid="cam471167-bib-0110" ref-type="bibr">110</xref>, <xref rid="cam471167-bib-0111" ref-type="bibr">111</xref>]. Like FAPI, PSMA targeted radioligand therapy is yet to be researched in ovarian cancer patients. The favourable safety profile and promising results for these therapies encourage further investigation into their use for several malignancies, including ovarian cancer.</p></sec><sec id="cam471167-sec-0019"><label>5.4</label><title>Arginylglycylaspartic Acid and Carbohydrate Antigen&#x02010;125</title><p>Some other radiopharmaceuticals have been described for their potential therapeutic use in ovarian cancer. These include radiolabelled arginylglycylaspartic acid (RGD) analogues for the management of peritoneal metastases [<xref rid="cam471167-bib-0112" ref-type="bibr">112</xref>] and use of carbohydrate antigen&#x02010;125 (MUC16/CA&#x02010;125), which was analysed in a biodistribution study [<xref rid="cam471167-bib-0113" ref-type="bibr">113</xref>] [<sup>64</sup>Cu]Cu&#x02010;cyclam&#x02010;RAFT&#x02010;c(&#x02010;RGDfK&#x02010;)<sub>4</sub> PET was able to adequately visualise peritoneal metastases in mice. A therapeutic dose resulted in decreased tumour cell proliferation and increased apoptosis. [<sup>177</sup>Lu]Lu&#x02010;CHX&#x02010;A&#x02033;&#x02010;DTPAhuAR9.6, that targets MUC16, showed a strong cytotoxic effect in tumours with high MUC16&#x02010;expression levels. Mice treated with this agent survived significantly longer than mice treated with saline. Both theranostic agents showed negligible toxicity. Whether or not these treatments are suitable for clinical use in humans remains to be further explored.</p></sec></sec><sec id="cam471167-sec-0020"><label>6</label><title>Current Challenges: Translating Research Into Practice</title><p>Over the last years, exciting discoveries have been made within the field of nuclear medicine, especially using cancer cell lines and mouse models. However, many promising targets remain to be assessed in patients. Clinical results so far mainly originate from <italic toggle="yes">compassionate use</italic>. This implies that access to this therapy remains limited for certain populations globally, since guidelines regarding <italic toggle="yes">compassionate use</italic> vary per country. Prospective clinical trials are therefore urgently needed to translate promising research results to patients. The ability to translate novel radiopharmaceuticals into clinical care does not only depend on scientific progress, but also on the healthcare system in which they are introduced. Access to cyclotrons and radiopharmaceuticals varies greatly across healthcare settings. While well&#x02010;funded academic institutions may operate on&#x02010;site cyclotrons or collaborate with regional radiopharmacies, smaller or resource&#x02010;limited hospitals typically rely on commercially available or generator&#x02010;based agents. New radiopharmaceuticals often require extensive documentation, including toxicity, dosimetry, and clinical data, often calling for dedicated research staff to help guide regulatory submissions and ethics approval. Furthermore, for promising radiopharmaceutical therapies to be used in patients, hospitals need proper equipment such as a cyclotron or generator, secured facilities with up&#x02010;to&#x02010;date certifications to safely work with radioactive materials, and ample funds to perform this kind of research and clinical care. Alternatively, radiopharmaceuticals could be provided by external companies that specialise in this area. Moreover, due to the short half&#x02010;life of some radiopharmaceuticals used in patients, research and clinical facilities using these drugs must be located near the manufacturing companies. Consequently, translational research in nuclear medicine remains complex. The lack of in&#x02010;human results following promising preclinical findings does not necessarily indicate that a radiopharmaceutical is unsuitable for clinical application. Nevertheless, the rapid expansion of nuclear medicine highlights its integration into modern medicine, offering promising potential for future translations.</p></sec><sec sec-type="conclusions" id="cam471167-sec-0021"><label>7</label><title>Conclusions</title><p>Several radiopharmaceuticals have been studied for their potential use in ovarian cancer through recent years. New radiopharmaceuticals such as radiolabelled FAPI may be of great diagnostic use for ovarian cancer by detecting small metastases or distinguishing between benign and malignant lesions. Even though the number of studied cases remains small, PET also has the prospect of successful use in monitoring disease (e.g., PARP&#x02010;targeted PET), monitoring therapeutic effects (e.g., FLT PET), predicting which patients are prone to therapy resistance (e.g., CXCR4 PET), and non&#x02010;invasively identifying patients who could benefit from novel pharmacological treatments (e.g., FES PET), while targeted radionuclide therapy has high potential for future clinical treatment in ovarian cancer.</p></sec><sec id="cam471167-sec-0024"><title>Author Contributions</title><p>
+<bold>Mara M. K. Veenstra:</bold> investigation (lead), writing &#x02013; original draft (lead). <bold>Sophie Veldhuijzen van Zanten:</bold> writing &#x02013; review and editing (equal). <bold>Erik Vegt:</bold> writing &#x02013; review and editing (equal). <bold>Ingrid A. Boere:</bold> writing &#x02013; review and editing (equal). <bold>Heleen J. van Beekhuizen:</bold> writing &#x02013; review and editing (equal). <bold>Julie Nonnekens:</bold> writing &#x02013; review and editing (equal). <bold>Frederik A. Verburg:</bold> supervision (supporting), writing &#x02013; review and editing (equal). <bold>Maarten G. J. Thomeer:</bold> conceptualization (lead), supervision (lead), writing &#x02013; review and editing (equal).</p></sec><sec sec-type="COI-statement" id="cam471167-sec-0023"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec></body><back><ack id="cam471167-sec-0022"><title>Acknowledgements</title><p>Figure&#x000a0;<xref rid="cam471167-fig-0001" ref-type="fig">1</xref> was created with <ext-link xlink:href="http://biorender.com" ext-link-type="uri">BioRender.com</ext-link>. Permission to reproduce Figures&#x000a0;<xref rid="cam471167-fig-0002" ref-type="fig">2</xref>, <xref rid="cam471167-fig-0003" ref-type="fig">3</xref>, <xref rid="cam471167-fig-0004" ref-type="fig">4</xref>, <xref rid="cam471167-fig-0005" ref-type="fig">5</xref> has been obtained.</p></ack><sec sec-type="data-availability" id="cam471167-sec-1008"><title>Data Availability Statement</title><p>Data sharing is not applicable to this article as no new data were generated or analysed.</p></sec><ref-list content-type="cited-references" id="cam471167-bibl-0001"><title>References</title><ref id="cam471167-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cam471167-cit-0001">
+<string-name>
+<given-names>U. A.</given-names>
+<surname>Matulonis</surname>
+</string-name>, <string-name>
+<given-names>A. K.</given-names>
+<surname>Sood</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Fallowfield</surname>
+</string-name>, <string-name>
+<given-names>B. E.</given-names>
+<surname>Howitt</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sehouli</surname>
+</string-name>, and <string-name>
+<given-names>B. Y.</given-names>
+<surname>Karlan</surname>
+</string-name>, &#x0201c;<article-title>Ovarian Cancer</article-title>,&#x0201d; <source>Nature Reviews. Disease Primers</source>
+<volume>2</volume> (<year>2016</year>): <fpage>16061</fpage>.</mixed-citation></ref><ref id="cam471167-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cam471167-cit-0002">
+<string-name>
+<given-names>S.</given-names>
+<surname>Lheureux</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Gourley</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Vergote</surname>
+</string-name>, and <string-name>
+<given-names>A. M.</given-names>
+<surname>Oza</surname>
+</string-name>, &#x0201c;<article-title>Epithelial Ovarian Cancer</article-title>,&#x0201d; <source>Lancet</source>
+<volume>393</volume>, no. <issue>10177</issue> (<year>2019</year>): <fpage>1240</fpage>&#x02013;<lpage>1253</lpage>.<pub-id pub-id-type="pmid">30910306</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cam471167-cit-0003">
+<string-name>
+<given-names>J. A.</given-names>
+<surname>Ledermann</surname>
+</string-name>, <string-name>
+<given-names>F. A.</given-names>
+<surname>Raja</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Fotopoulou</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Newly Diagnosed and Relapsed Epithelial Ovarian Carcinoma: ESMO Clinical Practice Guidelines for Diagnosis, Treatment and Follow&#x02010;Up</article-title>,&#x0201d; <source>Annals of Oncology</source>
+<volume>29</volume> (<year>2018</year>): <fpage>iv259</fpage>.<pub-id pub-id-type="pmid">30285216</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cam471167-cit-0004">
+<string-name>
+<given-names>S.</given-names>
+<surname>Zaib</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Javed</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Rana</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zaib</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Iqbal</surname>
+</string-name>, and <string-name>
+<given-names>I.</given-names>
+<surname>Khan</surname>
+</string-name>, &#x0201c;<article-title>Therapeutic Chemoresistance in Ovarian Cancer: Emerging Hallmarks, Signaling Mechanisms and Alternative Pathways</article-title>,&#x0201d; <source>Current Medicinal Chemistry</source>
+<volume>32</volume> (<year>2024</year>): <fpage>923</fpage>&#x02013;<lpage>938</lpage>.</mixed-citation></ref><ref id="cam471167-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cam471167-cit-0005">
+<collab collab-type="authors">NHS</collab>
+, &#x0201c;<article-title>Cancer Survival in England, Cancers Diagnosed 2016 to 2020, Followed up to 2021</article-title>,&#x0201d; <source>NHS Digital</source>
+<volume>22</volume> (<year>2023</year>): <fpage>498</fpage>.</mixed-citation></ref><ref id="cam471167-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cam471167-cit-0006">
+<string-name>
+<given-names>A.</given-names>
+<surname>Gonzalez&#x02010;Martin</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Harter</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Leary</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Newly Diagnosed and Relapsed Epithelial Ovarian Cancer: ESMO Clinical Practice Guideline for Diagnosis, Treatment and Follow&#x02010;Up</article-title>,&#x0201d; <source>Annals of Oncology</source>
+<volume>34</volume>, no. <issue>10</issue> (<year>2023</year>): <fpage>833</fpage>&#x02013;<lpage>848</lpage>.<pub-id pub-id-type="pmid">37597580</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cam471167-cit-0007">
+<string-name>
+<given-names>D.</given-names>
+<surname>Fischerova</surname>
+</string-name>, &#x0201c;<article-title>Ultrasound Scanning of the Pelvis and Abdomen for Staging of Gynecological Tumors: A Review</article-title>,&#x0201d; <source>Ultrasound in Obstetrics &#x00026; Gynecology</source>
+<volume>38</volume>, no. <issue>3</issue> (<year>2011</year>): <fpage>246</fpage>&#x02013;<lpage>266</lpage>.<pub-id pub-id-type="pmid">21898632</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cam471167-cit-0008">
+<collab collab-type="authors">Expert Panel on Women's I</collab>
+, <string-name>
+<given-names>S. K.</given-names>
+<surname>Kang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Reinhold</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>ACR Appropriateness Criteria((R)) Staging and Follow&#x02010;Up of Ovarian Cancer</article-title>,&#x0201d; <source>Journal of the American College of Radiology</source>
+<volume>15</volume>, no. <issue>5S</issue> (<year>2018</year>): <fpage>S198</fpage>&#x02013;<lpage>S207</lpage>.<pub-id pub-id-type="pmid">29724422</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cam471167-cit-0009">
+<string-name>
+<given-names>N.</given-names>
+<surname>Bharwani</surname>
+</string-name>, <string-name>
+<given-names>R. H.</given-names>
+<surname>Reznek</surname>
+</string-name>, and <string-name>
+<given-names>A. G.</given-names>
+<surname>Rockall</surname>
+</string-name>, &#x0201c;<article-title>Ovarian Cancer Management: The Role of Imaging and Diagnostic Challenges</article-title>,&#x0201d; <source>European Journal of Radiology</source>
+<volume>78</volume>, no. <issue>1</issue> (<year>2011</year>): <fpage>41</fpage>&#x02013;<lpage>51</lpage>.<pub-id pub-id-type="pmid">21392907</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cam471167-cit-0010">
+<string-name>
+<given-names>C. D.</given-names>
+<surname>Alt</surname>
+</string-name>, <string-name>
+<given-names>K. A.</given-names>
+<surname>Brocker</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Eichbaum</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Imaging of Female Pelvic Malignancies Regarding MRI, CT, and PET/CT: Part 2</article-title>,&#x0201d; <source>Strahlentherapie und Onkologie</source>
+<volume>187</volume>, no. <issue>11</issue> (<year>2011</year>): <fpage>705</fpage>&#x02013;<lpage>714</lpage>.<pub-id pub-id-type="pmid">22037656</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cam471167-cit-0011">
+<string-name>
+<given-names>S.</given-names>
+<surname>Kyriazi</surname>
+</string-name>, <string-name>
+<given-names>S. B.</given-names>
+<surname>Kaye</surname>
+</string-name>, and <string-name>
+<given-names>N. M.</given-names>
+<surname>deSouza</surname>
+</string-name>, &#x0201c;<article-title>Imaging Ovarian Cancer and Peritoneal Metastases&#x02014;Current and Emerging Techniques</article-title>,&#x0201d; <source>Nature Reviews Clinical Oncology</source>
+<volume>7</volume>, no. <issue>7</issue> (<year>2010</year>): <fpage>381</fpage>&#x02013;<lpage>393</lpage>.</mixed-citation></ref><ref id="cam471167-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cam471167-cit-0012">
+<string-name>
+<given-names>B.</given-names>
+<surname>Gadelhak</surname>
+</string-name>, <string-name>
+<given-names>A. M.</given-names>
+<surname>Tawfik</surname>
+</string-name>, <string-name>
+<given-names>G. A.</given-names>
+<surname>Saleh</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Extended Abdominopelvic MRI Versus CT at the Time of Adnexal Mass Characterization for Assessing Radiologic Peritoneal Cancer Index (PCI) Prior to Cytoreductive Surgery</article-title>,&#x0201d; <source>Abdominal Radiology</source>
+<volume>44</volume>, no. <issue>6</issue> (<year>2019</year>): <fpage>2254</fpage>&#x02013;<lpage>2261</lpage>.<pub-id pub-id-type="pmid">30788559</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cam471167-cit-0013">
+<string-name>
+<given-names>M. R.</given-names>
+<surname>Torkzad</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Casta</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Bergman</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Ahlstrom</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Pahlman</surname>
+</string-name>, and <string-name>
+<given-names>H.</given-names>
+<surname>Mahteme</surname>
+</string-name>, &#x0201c;<article-title>Comparison Between MRI and CT in Prediction of Peritoneal Carcinomatosis Index (PCI) in Patients Undergoing Cytoreductive Surgery in Relation to the Experience of the Radiologist</article-title>,&#x0201d; <source>Journal of Surgical Oncology</source>
+<volume>111</volume>, no. <issue>6</issue> (<year>2015</year>): <fpage>746</fpage>&#x02013;<lpage>751</lpage>.<pub-id pub-id-type="pmid">25580825</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cam471167-cit-0014">
+<string-name>
+<given-names>R. N.</given-names>
+<surname>Low</surname>
+</string-name>, <string-name>
+<given-names>R. M.</given-names>
+<surname>Barone</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Lucero</surname>
+</string-name>, &#x0201c;<article-title>Comparison of MRI and CT for Predicting the Peritoneal Cancer Index (PCI) Preoperatively in Patients Being Considered for Cytoreductive Surgical Procedures</article-title>,&#x0201d; <source>Annals of Surgical Oncology</source>
+<volume>22</volume>, no. <issue>5</issue> (<year>2015</year>): <fpage>1708</fpage>&#x02013;<lpage>1715</lpage>.<pub-id pub-id-type="pmid">25201499</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cam471167-cit-0015">
+<string-name>
+<given-names>A.</given-names>
+<surname>Dohan</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Hoeffel</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Soyer</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Evaluation of the Peritoneal Carcinomatosis Index With CT and MRI</article-title>,&#x0201d; <source>British Journal of Surgery</source>
+<volume>104</volume>, no. <issue>9</issue> (<year>2017</year>): <fpage>1244</fpage>&#x02013;<lpage>1249</lpage>.<pub-id pub-id-type="pmid">28376270</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cam471167-cit-0016">
+<string-name>
+<given-names>S.</given-names>
+<surname>Rizzo</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>De Piano</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Buscarino</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Pre&#x02010;Operative Evaluation of Epithelial Ovarian Cancer Patients: Role of Whole Body Diffusion Weighted Imaging MR and CT Scans in the Selection of Patients Suitable for Primary Debulking Surgery. A Single&#x02010;Centre Study</article-title>,&#x0201d; <source>European Journal of Radiology</source>
+<volume>123</volume> (<year>2020</year>): <elocation-id>108786</elocation-id>.<pub-id pub-id-type="pmid">31862634</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cam471167-cit-0017">
+<string-name>
+<given-names>M.</given-names>
+<surname>Espada</surname>
+</string-name>, <string-name>
+<given-names>J. R.</given-names>
+<surname>Garcia&#x02010;Flores</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Jimenez</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Diffusion&#x02010;Weighted Magnetic Resonance Imaging Evaluation of Intra&#x02010;Abdominal Sites of Implants to Predict Likelihood of Suboptimal Cytoreductive Surgery in Patients With Ovarian Carcinoma</article-title>,&#x0201d; <source>European Radiology</source>
+<volume>23</volume>, no. <issue>9</issue> (<year>2013</year>): <fpage>2636</fpage>&#x02013;<lpage>2642</lpage>.<pub-id pub-id-type="pmid">23604800</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cam471167-cit-0018">
+<string-name>
+<given-names>K.</given-names>
+<surname>Michielsen</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Dresen</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Vanslembrouck</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Diagnostic Value of Whole Body Diffusion&#x02010;Weighted MRI Compared to Computed Tomography for Pre&#x02010;Operative Assessment of Patients Suspected for Ovarian Cancer</article-title>,&#x0201d; <source>European Journal of Cancer</source>
+<volume>83</volume> (<year>2017</year>): <fpage>88</fpage>&#x02013;<lpage>98</lpage>.<pub-id pub-id-type="pmid">28734146</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cam471167-cit-0019">
+<string-name>
+<given-names>X. F.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name>
+<given-names>S. C.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>S. J.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>J. C.</given-names>
+<surname>Guo</surname>
+</string-name>, and <string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, &#x0201c;<article-title>Diffusion Weighted Imaging for the Differential Diagnosis of Benign vs. Malignant Ovarian Neoplasms</article-title>,&#x0201d; <source>Oncology Letters</source>
+<volume>11</volume>, no. <issue>6</issue> (<year>2016</year>): <fpage>3795</fpage>&#x02013;<lpage>3802</lpage>.<pub-id pub-id-type="pmid">27313697</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cam471167-cit-0020">
+<string-name>
+<given-names>G.</given-names>
+<surname>Dai</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Yang</surname>
+</string-name>, and <string-name>
+<given-names>S.</given-names>
+<surname>Yang</surname>
+</string-name>, &#x0201c;<article-title>A Meta&#x02010;Analysis on the Diagnostic Value of Diffusion&#x02010;Weighted Imaging on Ovarian Cancer</article-title>,&#x0201d; <source>Journal of BUON</source>
+<volume>24</volume>, no. <issue>6</issue> (<year>2019</year>): <fpage>2333</fpage>&#x02013;<lpage>2340</lpage>.<pub-id pub-id-type="pmid">31983103</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cam471167-cit-0021">
+<string-name>
+<given-names>S.</given-names>
+<surname>Rizzo</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Avesani</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Panico</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Ovarian Cancer Staging and Follow&#x02010;Up: Updated Guidelines From the European Society of Urogenital Radiology Female Pelvic Imaging Working Group</article-title>,&#x0201d; <source>European Radiology</source>
+<volume>35</volume> (<year>2025</year>): <fpage>4029</fpage>&#x02013;<lpage>4039</lpage>.<pub-id pub-id-type="pmid">39798005</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cam471167-cit-0022">
+<string-name>
+<given-names>B.</given-names>
+<surname>Khiewvan</surname>
+</string-name>, <string-name>
+<given-names>D. A.</given-names>
+<surname>Torigian</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Emamzadehfard</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>An Update on the Role of PET/CT and PET/MRI in Ovarian Cancer</article-title>,&#x0201d; <source>European Journal of Nuclear Medicine and Molecular Imaging</source>
+<volume>44</volume>, no. <issue>6</issue> (<year>2017</year>): <fpage>1079</fpage>&#x02013;<lpage>1091</lpage>.<pub-id pub-id-type="pmid">28180966</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cam471167-cit-0023">
+<string-name>
+<given-names>P.</given-names>
+<surname>Narayanan</surname>
+</string-name> and <string-name>
+<given-names>A.</given-names>
+<surname>Sahdev</surname>
+</string-name>, &#x0201c;<article-title>The Role of (18)F&#x02010;FDG PET CT in Common Gynaecological Malignancies</article-title>,&#x0201d; <source>British Journal of Radiology</source>
+<volume>90</volume>, no. <issue>1079</issue> (<year>2017</year>): <elocation-id>20170283</elocation-id>.<pub-id pub-id-type="pmid">28830238</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cam471167-cit-0024">
+<string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Yang</surname>
+</string-name>, and <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, &#x0201c;<article-title>Meta&#x02010;Analysis of the Diagnostic Value of (18)F&#x02010;FDG PET/CT in the Recurrence of Epithelial Ovarian Cancer</article-title>,&#x0201d; <source>Frontiers in Oncology</source>
+<volume>12</volume> (<year>2022</year>): <elocation-id>1003465</elocation-id>.<pub-id pub-id-type="pmid">36419900</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cam471167-cit-0025">
+<string-name>
+<given-names>S. D.</given-names>
+<surname>Richard</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Bencherif</surname>
+</string-name>, <string-name>
+<given-names>R. P.</given-names>
+<surname>Edwards</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Noninvasive Assessment of Cell Proliferation in Ovarian Cancer Using [18F] 3'deoxy&#x02010;3&#x02010;Fluorothymidine Positron Emission Tomography/Computed Tomography Imaging</article-title>,&#x0201d; <source>Nuclear Medicine and Biology</source>
+<volume>38</volume>, no. <issue>4</issue> (<year>2011</year>): <fpage>485</fpage>&#x02013;<lpage>491</lpage>.<pub-id pub-id-type="pmid">21531285</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cam471167-cit-0026">
+<string-name>
+<given-names>H.</given-names>
+<surname>Tsuyoshi</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Morishita</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Orisaka</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Okazawa</surname>
+</string-name>, and <string-name>
+<given-names>Y.</given-names>
+<surname>Yoshida</surname>
+</string-name>, &#x0201c;<article-title>18F&#x02010;Fluorothymidine PET Is a Potential Predictive Imaging Biomarker of the Response to Gemcitabine&#x02010;Based Chemotherapeutic Treatment for Recurrent Ovarian Cancer: Preliminary Results in Three Patients</article-title>,&#x0201d; <source>Clinical Nuclear Medicine</source>
+<volume>38</volume>, no. <issue>7</issue> (<year>2013</year>): <fpage>560</fpage>&#x02013;<lpage>563</lpage>.<pub-id pub-id-type="pmid">23640220</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cam471167-cit-0027">
+<string-name>
+<given-names>L. B.</given-names>
+<surname>Been</surname>
+</string-name>, <string-name>
+<given-names>A. J.</given-names>
+<surname>Suurmeijer</surname>
+</string-name>, <string-name>
+<given-names>D. C.</given-names>
+<surname>Cobben</surname>
+</string-name>, <string-name>
+<given-names>P. L.</given-names>
+<surname>Jager</surname>
+</string-name>, <string-name>
+<given-names>H. J.</given-names>
+<surname>Hoekstra</surname>
+</string-name>, and <string-name>
+<given-names>P. H.</given-names>
+<surname>Elsinga</surname>
+</string-name>, &#x0201c;<article-title>[18F]FLT&#x02010;PET in Oncology: Current Status and Opportunities</article-title>,&#x0201d; <source>European Journal of Nuclear Medicine and Molecular Imaging</source>
+<volume>31</volume>, no. <issue>12</issue> (<year>2004</year>): <fpage>1659</fpage>&#x02013;<lpage>1672</lpage>.<pub-id pub-id-type="pmid">15565331</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cam471167-cit-0028">
+<string-name>
+<given-names>G.</given-names>
+<surname>Trencsenyi</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Marian</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Lajtos</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>18FDG, [18F]FLT, [18F]FAZA, and 11C&#x02010;Methionine Are Suitable Tracers for the Diagnosis and In&#x000a0;Vivo Follow&#x02010;Up of the Efficacy of Chemotherapy by miniPET in Both Multidrug Resistant and Sensitive Human Gynecologic Tumor Xenografts</article-title>,&#x0201d; <source>BioMed Research International</source>
+<volume>2014</volume> (<year>2014</year>): <elocation-id>787365</elocation-id>.<pub-id pub-id-type="pmid">25309926</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cam471167-cit-0029">
+<string-name>
+<given-names>M.</given-names>
+<surname>Lapela</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Leskinen&#x02010;Kallio</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Varpula</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Metabolic Imaging of Ovarian Tumors With Carbon&#x02010;11&#x02010;Methionine: A PET Study</article-title>,&#x0201d; <source>Journal of Nuclear Medicine</source>
+<volume>36</volume>, no. <issue>12</issue> (<year>1995</year>): <fpage>2196</fpage>&#x02013;<lpage>2200</lpage>.<pub-id pub-id-type="pmid">8523104</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cam471167-cit-0030">
+<string-name>
+<given-names>N.</given-names>
+<surname>Yao</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Duan</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Yu</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Qu</surname>
+</string-name>, &#x0201c;<article-title>Choline Metabolism and Its Implications in Cancer</article-title>,&#x0201d; <source>Frontiers in Oncology</source>
+<volume>13</volume> (<year>2023</year>): <elocation-id>1234887</elocation-id>.<pub-id pub-id-type="pmid">38023163</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cam471167-cit-0031">
+<string-name>
+<given-names>T.</given-names>
+<surname>Torizuka</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Kanno</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Futatsubashi</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Imaging of Gynecologic Tumors: Comparison of (11)C&#x02010;Choline PET With (18)F&#x02010;FDG PET</article-title>,&#x0201d; <source>Journal of Nuclear Medicine</source>
+<volume>44</volume>, no. <issue>7</issue> (<year>2003</year>): <fpage>1051</fpage>&#x02013;<lpage>1056</lpage>.<pub-id pub-id-type="pmid">12843219</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cam471167-cit-0032">
+<string-name>
+<given-names>J. R.</given-names>
+<surname>Faust</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Hamill</surname>
+</string-name>, <string-name>
+<given-names>E. A.</given-names>
+<surname>Kolb</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Gopalakrishnapillai</surname>
+</string-name>, and <string-name>
+<given-names>S. P.</given-names>
+<surname>Barwe</surname>
+</string-name>, &#x0201c;<article-title>Mesothelin: An Immunotherapeutic Target Beyond Solid Tumors</article-title>,&#x0201d; <source>Cancers (Basel)</source>
+<volume>14</volume>, no. <issue>6</issue> (<year>2022</year>): <elocation-id>1550</elocation-id>.<pub-id pub-id-type="pmid">35326701</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cam471167-cit-0033">
+<string-name>
+<given-names>K.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Pastan</surname>
+</string-name>, and <string-name>
+<given-names>M. C.</given-names>
+<surname>Willingham</surname>
+</string-name>, &#x0201c;<article-title>Isolation and Characterization of a Monoclonal Antibody, K1, Reactive With Ovarian Cancers and Normal Mesothelium</article-title>,&#x0201d; <source>International Journal of Cancer</source>
+<volume>50</volume>, no. <issue>3</issue> (<year>1992</year>): <fpage>373</fpage>&#x02013;<lpage>381</lpage>.<pub-id pub-id-type="pmid">1735605</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cam471167-cit-0034">
+<string-name>
+<given-names>K.</given-names>
+<surname>Kobayashi</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Sasaki</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Takenaka</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>A Novel PET Imaging Using (6) (4)cu&#x02010;Labeled Monoclonal Antibody Against Mesothelin Commonly Expressed on Cancer Cells</article-title>,&#x0201d; <source>Journal of Immunology Research</source>
+<volume>2015</volume> (<year>2015</year>): <elocation-id>268172</elocation-id>.<pub-id pub-id-type="pmid">25883990</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cam471167-cit-0035">
+<string-name>
+<given-names>L. E.</given-names>
+<surname>Lamberts</surname>
+</string-name>, <string-name>
+<given-names>M.&#x02010;v.</given-names>
+<surname>der Houven</surname>
+</string-name>, <string-name>
+<given-names>C. W.</given-names>
+<surname>van Oordt</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>ImmunoPET With Anti&#x02010;Mesothelin Antibody in Patients With Pancreatic and Ovarian Cancer Before Anti&#x02010;Mesothelin Antibody&#x02010;Drug Conjugate Treatment</article-title>,&#x0201d; <source>Clinical Cancer Research</source>
+<volume>22</volume>, no. <issue>7</issue> (<year>2016</year>): <fpage>1642</fpage>&#x02013;<lpage>1652</lpage>.<pub-id pub-id-type="pmid">26589435</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cam471167-cit-0036">
+<string-name>
+<given-names>F.</given-names>
+<surname>Danhier</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Le Breton</surname>
+</string-name>, and <string-name>
+<given-names>V.</given-names>
+<surname>Preat</surname>
+</string-name>, &#x0201c;<article-title>RGD&#x02010;Based Strategies to Target Alpha(v) Beta(3) Integrin in Cancer Therapy and Diagnosis</article-title>,&#x0201d; <source>Molecular Pharmaceutics</source>
+<volume>9</volume>, no. <issue>11</issue> (<year>2012</year>): <fpage>2961</fpage>&#x02013;<lpage>2973</lpage>.<pub-id pub-id-type="pmid">22967287</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="cam471167-cit-0037">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Luan</surname>
+</string-name> and <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, &#x0201c;<article-title>The Structure and Main Functions of Aminopeptidase N</article-title>,&#x0201d; <source>Current Medicinal Chemistry</source>
+<volume>14</volume>, no. <issue>6</issue> (<year>2007</year>): <fpage>639</fpage>&#x02013;<lpage>647</lpage>.<pub-id pub-id-type="pmid">17346152</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="cam471167-cit-0038">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Gai</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Long</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Evaluation of an Integrin Alpha(v)beta(3) and Aminopeptidase N Dual&#x02010;Receptor Targeting Tracer for Breast Cancer Imaging</article-title>,&#x0201d; <source>Molecular Pharmaceutics</source>
+<volume>17</volume>, no. <issue>1</issue> (<year>2020</year>): <fpage>349</fpage>&#x02013;<lpage>358</lpage>.<pub-id pub-id-type="pmid">31829615</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="cam471167-cit-0039">
+<string-name>
+<given-names>M. A.</given-names>
+<surname>Arnaout</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Mahalingam</surname>
+</string-name>, and <string-name>
+<given-names>J. P.</given-names>
+<surname>Xiong</surname>
+</string-name>, &#x0201c;<article-title>Integrin Structure, Allostery, and Bidirectional Signaling</article-title>,&#x0201d; <source>Annual Review of Cell and Developmental Biology</source>
+<volume>21</volume> (<year>2005</year>): <fpage>381</fpage>&#x02013;<lpage>410</lpage>.</mixed-citation></ref><ref id="cam471167-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="cam471167-cit-0040">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Long</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Shao</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Ji</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Evaluation of a CD13 and Integrin Alpha(v)beta(3) Dual&#x02010;Receptor Targeted Tracer (68)Ga&#x02010;NGR&#x02010;RGD for Ovarian Tumor Imaging: Comparison With (18)F&#x02010;FDG</article-title>,&#x0201d; <source>Frontiers in Oncology</source>
+<volume>12</volume> (<year>2022</year>): <elocation-id>884554</elocation-id>.<pub-id pub-id-type="pmid">35664759</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="cam471167-cit-0041">
+<string-name>
+<given-names>D. G.</given-names>
+<surname>Bostwick</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Pacelli</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Blute</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Roche</surname>
+</string-name>, and <string-name>
+<given-names>G. P.</given-names>
+<surname>Murphy</surname>
+</string-name>, &#x0201c;<article-title>Prostate Specific Membrane Antigen Expression in Prostatic Intraepithelial Neoplasia and Adenocarcinoma: A Study of 184 Cases</article-title>,&#x0201d; <source>Cancer</source>
+<volume>82</volume>, no. <issue>11</issue> (<year>1998</year>): <fpage>2256</fpage>&#x02013;<lpage>2261</lpage>.<pub-id pub-id-type="pmid">9610707</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="cam471167-cit-0042">
+<string-name>
+<given-names>S.</given-names>
+<surname>Mannweiler</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Amersdorfer</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Trajanoski</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Terrett</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>King</surname>
+</string-name>, and <string-name>
+<given-names>G.</given-names>
+<surname>Mehes</surname>
+</string-name>, &#x0201c;<article-title>Heterogeneity of Prostate&#x02010;Specific Membrane Antigen (PSMA) Expression in Prostate Carcinoma With Distant Metastasis</article-title>,&#x0201d; <source>Pathology Oncology Research</source>
+<volume>15</volume>, no. <issue>2</issue> (<year>2009</year>): <fpage>167</fpage>&#x02013;<lpage>172</lpage>.<pub-id pub-id-type="pmid">18802790</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="cam471167-cit-0043">
+<string-name>
+<given-names>C.</given-names>
+<surname>Van de Wiele</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Sathekge</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>de Spiegeleer</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>PSMA Expression on Neovasculature of Solid Tumors</article-title>,&#x0201d; <source>Histology and Histopathology</source>
+<volume>35</volume>, no. <issue>9</issue> (<year>2020</year>): <fpage>919</fpage>&#x02013;<lpage>927</lpage>.<pub-id pub-id-type="pmid">32282924</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="cam471167-cit-0044">
+<string-name>
+<given-names>J.</given-names>
+<surname>Kunikowska</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Bizon</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Pelka</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Derlatka</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Olszewski</surname>
+</string-name>, and <string-name>
+<given-names>L.</given-names>
+<surname>Krolicki</surname>
+</string-name>, &#x0201c;<article-title>68 Ga&#x02010;Prostate&#x02010;Specific Membrane Antigen PET/CT in Ovarian Tumors: Potential to Differentiate Benign and Malignant Tumors Before Surgery: A Preliminary Report</article-title>,&#x0201d; <source>Clinical Nuclear Medicine</source>
+<volume>48</volume>, no. <issue>2</issue> (<year>2023</year>): <fpage>e60</fpage>&#x02013;<lpage>e66</lpage>.<pub-id pub-id-type="pmid">36512649</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="cam471167-cit-0045">
+<string-name>
+<given-names>E. A.</given-names>
+<surname>Sadowski</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Lees</surname>
+</string-name>, <string-name>
+<given-names>A. B.</given-names>
+<surname>McMillian</surname>
+</string-name>, <string-name>
+<given-names>J. E.</given-names>
+<surname>Kusmirek</surname>
+</string-name>, <string-name>
+<given-names>S. Y.</given-names>
+<surname>Cho</surname>
+</string-name>, and <string-name>
+<given-names>L. M.</given-names>
+<surname>Barroilhet</surname>
+</string-name>, &#x0201c;<article-title>Distribution of Prostate Specific Membrane Antigen (PSMA) on PET&#x02010;MRI in Patients With and Without Ovarian Cancer</article-title>,&#x0201d; <source>Abdominal Radiology</source>
+<volume>48</volume>, no. <issue>12</issue> (<year>2023</year>): <fpage>3643</fpage>&#x02013;<lpage>3652</lpage>.<pub-id pub-id-type="pmid">37261441</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="cam471167-cit-0046">
+<string-name>
+<given-names>U.</given-names>
+<surname>Metser</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Kulanthaivelu</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Chawla</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>(18)F&#x02010;DCFPyL PET/CT in Advanced High&#x02010;Grade Epithelial Ovarian Cancer: A Prospective Pilot Study</article-title>,&#x0201d; <source>Frontiers in Oncology</source>
+<volume>12</volume> (<year>2022</year>): <elocation-id>1025475</elocation-id>.<pub-id pub-id-type="pmid">36313720</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="cam471167-cit-0047">
+<string-name>
+<given-names>O.</given-names>
+<surname>Demmer</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Gourni</surname>
+</string-name>, <string-name>
+<given-names>U.</given-names>
+<surname>Schumacher</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kessler</surname>
+</string-name>, and <string-name>
+<given-names>H. J.</given-names>
+<surname>Wester</surname>
+</string-name>, &#x0201c;<article-title>PET Imaging of CXCR4 Receptors in Cancer by a New Optimized Ligand</article-title>,&#x0201d; <source>ChemMedChem</source>
+<volume>6</volume>, no. <issue>10</issue> (<year>2011</year>): <fpage>1789</fpage>&#x02013;<lpage>1791</lpage>.<pub-id pub-id-type="pmid">21780290</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="cam471167-cit-0048">
+<string-name>
+<given-names>E.</given-names>
+<surname>Gourni</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Demmer</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Schottelius</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>PET of CXCR4 Expression by a (68)Ga&#x02010;Labeled Highly Specific Targeted Contrast Agent</article-title>,&#x0201d; <source>Journal of Nuclear Medicine</source>
+<volume>52</volume>, no. <issue>11</issue> (<year>2011</year>): <fpage>1803</fpage>&#x02013;<lpage>1810</lpage>.<pub-id pub-id-type="pmid">22045709</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="cam471167-cit-0049">
+<string-name>
+<given-names>C. F.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S. Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>X. Y.</given-names>
+<surname>Min</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>The Prognostic Value of CXCR4 in Ovarian Cancer: A Meta&#x02010;Analysis</article-title>,&#x0201d; <source>PLoS One</source>
+<volume>9</volume>, no. <issue>3</issue> (<year>2014</year>): <elocation-id>e92629</elocation-id>.<pub-id pub-id-type="pmid">24658065</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="cam471167-cit-0050">
+<string-name>
+<given-names>A. K.</given-names>
+<surname>Buck</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Haug</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Dreher</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Imaging of C&#x02010;X&#x02010;C Motif Chemokine Receptor 4 Expression in 690 Patients With Solid or Hematologic Neoplasms Using (68)Ga&#x02010;Pentixafor PET</article-title>,&#x0201d; <source>Journal of Nuclear Medicine</source>
+<volume>63</volume>, no. <issue>11</issue> (<year>2022</year>): <fpage>1687</fpage>&#x02013;<lpage>1692</lpage>.<pub-id pub-id-type="pmid">35241482</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="cam471167-cit-0051">
+<string-name>
+<given-names>R. A.</given-names>
+<surname>Werner</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Kircher</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Higuchi</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>CXCR4&#x02010;Directed Imaging in Solid Tumors</article-title>,&#x0201d; <source>Frontiers in Oncology</source>
+<volume>9</volume> (<year>2019</year>): <fpage>770</fpage>.<pub-id pub-id-type="pmid">31475113</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="cam471167-cit-0052">
+<string-name>
+<given-names>T.</given-names>
+<surname>Vag</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Gerngross</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Herhaus</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>First Experience With Chemokine Receptor CXCR4&#x02010;Targeted PET Imaging of Patients With Solid Cancers</article-title>,&#x0201d; <source>Journal of Nuclear Medicine</source>
+<volume>57</volume>, no. <issue>5</issue> (<year>2016</year>): <fpage>741</fpage>&#x02013;<lpage>746</lpage>.<pub-id pub-id-type="pmid">26769866</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="cam471167-cit-0053">
+<string-name>
+<given-names>P.</given-names>
+<surname>Mhawech&#x02010;Fauceglia</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Sharifian</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Stromal Expression of Fibroblast Activation Protein Alpha (FAP) Predicts Platinum Resistance and Shorter Recurrence in Patients With Epithelial Ovarian Cancer</article-title>,&#x0201d; <source>Cancer Microenvironment</source>
+<volume>8</volume>, no. <issue>1</issue> (<year>2015</year>): <fpage>23</fpage>&#x02013;<lpage>31</lpage>.<pub-id pub-id-type="pmid">25331442</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="cam471167-cit-0054">
+<string-name>
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Li</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>[(68)Ga]Ga&#x02010;FAPI&#x02010;04 PET/CT in the Evaluation of Epithelial Ovarian Cancer: Comparison With [(18)F]F&#x02010;FDG PET/CT</article-title>,&#x0201d; <source>European Journal of Nuclear Medicine and Molecular Imaging</source>
+<volume>50</volume>, no. <issue>13</issue> (<year>2023</year>): <fpage>4064</fpage>&#x02013;<lpage>4076</lpage>.<pub-id pub-id-type="pmid">37526694</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="cam471167-cit-0055">
+<string-name>
+<given-names>K.</given-names>
+<surname>Dendl</surname>
+</string-name>, <string-name>
+<given-names>S. A.</given-names>
+<surname>Koerber</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Finck</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>(68)Ga&#x02010;FAPI&#x02010;PET/CT in Patients With Various Gynecological Malignancies</article-title>,&#x0201d; <source>European Journal of Nuclear Medicine and Molecular Imaging</source>
+<volume>48</volume>, no. <issue>12</issue> (<year>2021</year>): <fpage>4089</fpage>&#x02013;<lpage>4100</lpage>.<pub-id pub-id-type="pmid">34050777</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="cam471167-cit-0056">
+<string-name>
+<given-names>S.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Xu</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Head&#x02010;To&#x02010;Head Comparison of [(18)F]&#x02010;FDG and [(68) Ga]&#x02010;DOTA&#x02010;FAPI&#x02010;04 PET/CT for Radiological Evaluation of Platinum&#x02010;Sensitive Recurrent Ovarian Cancer</article-title>,&#x0201d; <source>European Journal of Nuclear Medicine and Molecular Imaging</source>
+<volume>50</volume>, no. <issue>5</issue> (<year>2023</year>): <fpage>1521</fpage>&#x02013;<lpage>1531</lpage>.<pub-id pub-id-type="pmid">36624168</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="cam471167-cit-0057">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Xi</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Che</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>A Comparative Study of [(68)Ga]Ga&#x02010;FAPI&#x02010;04 PET/MR and [(18)F]FDG PET/CT in the Diagnostic Accuracy and Resectability Prediction of Ovarian Cancer</article-title>,&#x0201d; <source>European Journal of Nuclear Medicine and Molecular Imaging</source>
+<volume>50</volume>, no. <issue>9</issue> (<year>2023</year>): <fpage>2885</fpage>&#x02013;<lpage>2898</lpage>.<pub-id pub-id-type="pmid">37093313</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="cam471167-cit-0058">
+<string-name>
+<given-names>W.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, and <string-name>
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, &#x0201c;<article-title>Comparison of 68 Ga&#x02010;FAPI&#x02010;04 and Fluorine&#x02010;18&#x02010;Fluorodeoxyglucose PET/Computed Tomography in the Detection of Ovarian Malignancies</article-title>,&#x0201d; <source>Nuclear Medicine Communications</source>
+<volume>44</volume>, no. <issue>3</issue> (<year>2023</year>): <fpage>194</fpage>&#x02013;<lpage>203</lpage>.<pub-id pub-id-type="pmid">36472415</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="cam471167-cit-0059">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Pan</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Jing</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Comparison of (68)Ga&#x02010;FAPI&#x02010;04 and (18)F&#x02010;FDG PET/CT in Diagnosing Ovarian Cancer</article-title>,&#x0201d; <source>Abdominal Radiology</source>
+<volume>49</volume>, no. <issue>12</issue> (<year>2024</year>): <fpage>4531</fpage>&#x02013;<lpage>4542</lpage>.<pub-id pub-id-type="pmid">38937339</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="cam471167-cit-0060">
+<string-name>
+<given-names>C.</given-names>
+<surname>Kratochwil</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Flechsig</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Lindner</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>(68)Ga&#x02010;FAPI PET/CT: Tracer Uptake in 28 Different Kinds of Cancer</article-title>,&#x0201d; <source>Journal of Nuclear Medicine</source>
+<volume>60</volume>, no. <issue>6</issue> (<year>2019</year>): <fpage>801</fpage>&#x02013;<lpage>805</lpage>.<pub-id pub-id-type="pmid">30954939</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="cam471167-cit-0061">
+<string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Lv</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Quan</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Surgical Evidence&#x02010;Based Comparison of [(68)Ga]Ga&#x02010;FAPI&#x02010;04 PET and MRI&#x02010;DWI for Assisting Debulking Surgery in Ovarian Cancer Patients</article-title>,&#x0201d; <source>European Journal of Nuclear Medicine and Molecular Imaging</source>
+<volume>51</volume>, no. <issue>6</issue> (<year>2024</year>): <fpage>1773</fpage>&#x02013;<lpage>1785</lpage>.<pub-id pub-id-type="pmid">38197954</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="cam471167-cit-0062">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Pommier</surname>
+</string-name>, <string-name>
+<given-names>M. J.</given-names>
+<surname>O'Connor</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>de Bono</surname>
+</string-name>, &#x0201c;<article-title>Laying a Trap to Kill Cancer Cells: PARP Inhibitors and Their Mechanisms of Action</article-title>,&#x0201d; <source>Science Translational Medicine</source>
+<volume>8</volume>, no. <issue>362</issue> (<year>2016</year>): <elocation-id>362ps17</elocation-id>.</mixed-citation></ref><ref id="cam471167-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="cam471167-cit-0063">
+<string-name>
+<given-names>C. E.</given-names>
+<surname>Edmonds</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Makvandi</surname>
+</string-name>, <string-name>
+<given-names>B. P.</given-names>
+<surname>Lieberman</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>[(18)F]FluorThanatrace Uptake as a Marker of PARP1 Expression and Activity in Breast Cancer</article-title>,&#x0201d; <source>American Journal of Nuclear Medicine and Molecular Imaging</source>
+<volume>6</volume>, no. <issue>1</issue> (<year>2016</year>): <fpage>94</fpage>&#x02013;<lpage>101</lpage>.<pub-id pub-id-type="pmid">27069769</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="cam471167-cit-0064">
+<string-name>
+<given-names>D.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Chu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xu</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Synthesis, [(1) (8)F] Radiolabeling, and Evaluation of Poly (ADP&#x02010;Ribose) Polymerase&#x02010;1 (PARP&#x02010;1) Inhibitors for In&#x000a0;Vivo Imaging of PARP&#x02010;1 Using Positron Emission Tomography</article-title>,&#x0201d; <source>Bioorganic &#x00026; Medicinal Chemistry</source>
+<volume>22</volume>, no. <issue>5</issue> (<year>2014</year>): <fpage>1700</fpage>&#x02013;<lpage>1707</lpage>.<pub-id pub-id-type="pmid">24503274</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="cam471167-cit-0065">
+<string-name>
+<given-names>M.</given-names>
+<surname>Makvandi</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Pantel</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Schwartz</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>A PET Imaging Agent for Evaluating PARP&#x02010;1 Expression in Ovarian Cancer</article-title>,&#x0201d; <source>Journal of Clinical Investigation</source>
+<volume>128</volume>, no. <issue>5</issue> (<year>2018</year>): <fpage>2116</fpage>&#x02013;<lpage>2126</lpage>.<pub-id pub-id-type="pmid">29509546</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="cam471167-cit-0066">
+<string-name>
+<given-names>J. K.</given-names>
+<surname>Weeks</surname>
+</string-name>, <string-name>
+<given-names>A. R.</given-names>
+<surname>Pantel</surname>
+</string-name>, <string-name>
+<given-names>S. B.</given-names>
+<surname>Gitto</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>[(18)F]Fluorthanatrace PET in Ovarian Cancer: Comparison With [(18)F]FDG PET, Lesion Location, Tumor Grade, and Breast Cancer Gene Mutation Status</article-title>,&#x0201d; <source>Journal of Nuclear Medicine</source>
+<volume>66</volume>, no. <issue>1</issue> (<year>2025</year>): <fpage>34</fpage>&#x02013;<lpage>39</lpage>.<pub-id pub-id-type="pmid">39638432</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="cam471167-cit-0067">
+<string-name>
+<given-names>S.</given-names>
+<surname>Stotz</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kinzler</surname>
+</string-name>, <string-name>
+<given-names>A. T.</given-names>
+<surname>Nies</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Schwab</surname>
+</string-name>, and <string-name>
+<given-names>A.</given-names>
+<surname>Maurer</surname>
+</string-name>, &#x0201c;<article-title>Two Experts and a Newbie: [(18)F]PARPi vs [(18)F]FTT vs [(18)F]FPyPARP&#x02014;A Comparison of PARP Imaging Agents</article-title>,&#x0201d; <source>European Journal of Nuclear Medicine and Molecular Imaging</source>
+<volume>49</volume>, no. <issue>3</issue> (<year>2022</year>): <fpage>834</fpage>&#x02013;<lpage>846</lpage>.<pub-id pub-id-type="pmid">34486071</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="cam471167-cit-0068">
+<string-name>
+<given-names>D. M.</given-names>
+<surname>Gershenson</surname>
+</string-name>, <string-name>
+<given-names>D. C.</given-names>
+<surname>Bodurka</surname>
+</string-name>, <string-name>
+<given-names>R. L.</given-names>
+<surname>Coleman</surname>
+</string-name>, <string-name>
+<given-names>K. H.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Malpica</surname>
+</string-name>, and <string-name>
+<given-names>C. C.</given-names>
+<surname>Sun</surname>
+</string-name>, &#x0201c;<article-title>Hormonal Maintenance Therapy for Women With Low&#x02010;Grade Serous Cancer of the Ovary or Peritoneum</article-title>,&#x0201d; <source>Journal of Clinical Oncology</source>
+<volume>35</volume>, no. <issue>10</issue> (<year>2017</year>): <fpage>1103</fpage>&#x02013;<lpage>1111</lpage>.<pub-id pub-id-type="pmid">28221866</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="cam471167-cit-0069">
+<string-name>
+<given-names>W.</given-names>
+<surname>Sieh</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Kobel</surname>
+</string-name>, <string-name>
+<given-names>T. A.</given-names>
+<surname>Longacre</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Hormone&#x02010;Receptor Expression and Ovarian Cancer Survival: An Ovarian Tumor Tissue Analysis Consortium Study</article-title>,&#x0201d; <source>Lancet Oncology</source>
+<volume>14</volume>, no. <issue>9</issue> (<year>2013</year>): <fpage>853</fpage>&#x02013;<lpage>862</lpage>.<pub-id pub-id-type="pmid">23845225</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="cam471167-cit-0070">
+<string-name>
+<given-names>M.</given-names>
+<surname>Vetter</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Stadlmann</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Bischof</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Hormone Receptor Expression in Primary and Recurrent High&#x02010;Grade Serous Ovarian Cancer and Its Implications in Early Maintenance Treatment</article-title>,&#x0201d; <source>International Journal of Molecular Sciences</source>
+<volume>23</volume>, no. <issue>22</issue> (<year>2022</year>): <elocation-id>14242</elocation-id>.<pub-id pub-id-type="pmid">36430718</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="cam471167-cit-0071">
+<string-name>
+<given-names>M.</given-names>
+<surname>van Kruchten</surname>
+</string-name>, <string-name>
+<given-names>E. F.</given-names>
+<surname>de Vries</surname>
+</string-name>, <string-name>
+<given-names>H. J.</given-names>
+<surname>Arts</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Assessment of Estrogen Receptor Expression in Epithelial Ovarian Cancer Patients Using 16alpha&#x02010;18F&#x02010;Fluoro&#x02010;17beta&#x02010;Estradiol PET/CT</article-title>,&#x0201d; <source>Journal of Nuclear Medicine</source>
+<volume>56</volume>, no. <issue>1</issue> (<year>2015</year>): <fpage>50</fpage>&#x02013;<lpage>55</lpage>.<pub-id pub-id-type="pmid">25476534</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="cam471167-cit-0072">
+<string-name>
+<given-names>D. Y.</given-names>
+<surname>Oh</surname>
+</string-name> and <string-name>
+<given-names>Y. J.</given-names>
+<surname>Bang</surname>
+</string-name>, &#x0201c;<article-title>HER2&#x02010;Targeted Therapies &#x02013; A Role Beyond Breast Cancer</article-title>,&#x0201d; <source>Nature Reviews. Clinical Oncology</source>
+<volume>17</volume>, no. <issue>1</issue> (<year>2020</year>): <fpage>33</fpage>&#x02013;<lpage>48</lpage>.</mixed-citation></ref><ref id="cam471167-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="cam471167-cit-0073">
+<string-name>
+<given-names>D.</given-names>
+<surname>Pils</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Pinter</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Reibenwein</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>In Ovarian Cancer the Prognostic Influence of HER2/Neu Is Not Dependent on the CXCR4/SDF&#x02010;1 Signalling Pathway</article-title>,&#x0201d; <source>British Journal of Cancer</source>
+<volume>96</volume>, no. <issue>3</issue> (<year>2007</year>): <fpage>485</fpage>&#x02013;<lpage>491</lpage>.<pub-id pub-id-type="pmid">17245339</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0074"><label>74</label><mixed-citation publication-type="journal" id="cam471167-cit-0074">
+<string-name>
+<given-names>B.</given-names>
+<surname>Uzunparmak</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Haymaker</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Raso</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>HER2&#x02010;Low Expression in Patients With Advanced or Metastatic Solid Tumors</article-title>,&#x0201d; <source>Annals of Oncology</source>
+<volume>34</volume>, no. <issue>11</issue> (<year>2023</year>): <fpage>1035</fpage>&#x02013;<lpage>1046</lpage>.<pub-id pub-id-type="pmid">37619847</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="cam471167-cit-0075">
+<string-name>
+<given-names>F.</given-names>
+<surname>Meric&#x02010;Bernstam</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Makker</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Oaknin</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Efficacy and Safety of Trastuzumab Deruxtecan in Patients With HER2&#x02010;Expressing Solid Tumors: Primary Results From the DESTINY&#x02010;PanTumor02 Phase II Trial</article-title>,&#x0201d; <source>Journal of Clinical Oncology</source>
+<volume>42</volume>, no. <issue>1</issue> (<year>2024</year>): <fpage>47</fpage>&#x02013;<lpage>58</lpage>.<pub-id pub-id-type="pmid">37870536</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="cam471167-cit-0076">
+<string-name>
+<given-names>K.</given-names>
+<surname>Lam</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Chan</surname>
+</string-name>, and <string-name>
+<given-names>R. M.</given-names>
+<surname>Reilly</surname>
+</string-name>, &#x0201c;<article-title>Development and Preclinical Studies of (64)cu&#x02010;NOTA&#x02010;Pertuzumab F(Ab') (2) for Imaging Changes in Tumor HER2 Expression Associated With Response to Trastuzumab by PET/CT</article-title>,&#x0201d; <source>MAbs</source>
+<volume>9</volume>, no. <issue>1</issue> (<year>2017</year>): <fpage>154</fpage>&#x02013;<lpage>164</lpage>.<pub-id pub-id-type="pmid">27813707</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="cam471167-cit-0077">
+<string-name>
+<given-names>G.</given-names>
+<surname>Niu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Cao</surname>
+</string-name>, and <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, &#x0201c;<article-title>Monitoring Therapeutic Response of Human Ovarian Cancer to 17&#x02010;DMAG by Noninvasive PET Imaging With (64)cu&#x02010;DOTA&#x02010;Trastuzumab</article-title>,&#x0201d; <source>European Journal of Nuclear Medicine and Molecular Imaging</source>
+<volume>36</volume>, no. <issue>9</issue> (<year>2009</year>): <fpage>1510</fpage>&#x02013;<lpage>1519</lpage>.<pub-id pub-id-type="pmid">19440708</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0078"><label>78</label><mixed-citation publication-type="journal" id="cam471167-cit-0078">
+<string-name>
+<given-names>T. H.</given-names>
+<surname>Oude Munnink</surname>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>Korte</surname>
+</string-name>, <string-name>
+<given-names>W. B.</given-names>
+<surname>Nagengast</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>(89)Zr&#x02010;Trastuzumab PET Visualises HER2 Downregulation by the HSP90 Inhibitor NVP&#x02010;AUY922 in a Human Tumour Xenograft</article-title>,&#x0201d; <source>European Journal of Cancer</source>
+<volume>46</volume>, no. <issue>3</issue> (<year>2010</year>): <fpage>678</fpage>&#x02013;<lpage>684</lpage>.<pub-id pub-id-type="pmid">20036116</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0079"><label>79</label><mixed-citation publication-type="journal" id="cam471167-cit-0079">
+<string-name>
+<given-names>M.</given-names>
+<surname>Kucia</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Jankowski</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Reca</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>CXCR4&#x02010;SDF&#x02010;1 Signalling, Locomotion, Chemotaxis and Adhesion</article-title>,&#x0201d; <source>Journal of Molecular Histology</source>
+<volume>35</volume>, no. <issue>3</issue> (<year>2004</year>): <fpage>233</fpage>&#x02013;<lpage>245</lpage>.<pub-id pub-id-type="pmid">15339043</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0080"><label>80</label><mixed-citation publication-type="journal" id="cam471167-cit-0080">
+<string-name>
+<given-names>V.</given-names>
+<surname>De Falco</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Guarino</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Avilla</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Biological Role and Potential Therapeutic Targeting of the Chemokine Receptor CXCR4 in Undifferentiated Thyroid Cancer</article-title>,&#x0201d; <source>Cancer Research</source>
+<volume>67</volume>, no. <issue>24</issue> (<year>2007</year>): <fpage>11821</fpage>&#x02013;<lpage>11829</lpage>.<pub-id pub-id-type="pmid">18089812</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0081"><label>81</label><mixed-citation publication-type="journal" id="cam471167-cit-0081">
+<string-name>
+<given-names>S.</given-names>
+<surname>Hassan</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Buchanan</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Jahan</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>CXCR4 Peptide Antagonist Inhibits Primary Breast Tumor Growth, Metastasis and Enhances the Efficacy of Anti&#x02010;VEGF Treatment or Docetaxel in a Transgenic Mouse Model</article-title>,&#x0201d; <source>International Journal of Cancer</source>
+<volume>129</volume>, no. <issue>1</issue> (<year>2011</year>): <fpage>225</fpage>&#x02013;<lpage>232</lpage>.<pub-id pub-id-type="pmid">20830712</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0082"><label>82</label><mixed-citation publication-type="journal" id="cam471167-cit-0082">
+<string-name>
+<given-names>M.</given-names>
+<surname>Martin</surname>
+</string-name>, <string-name>
+<given-names>I. A.</given-names>
+<surname>Mayer</surname>
+</string-name>, <string-name>
+<given-names>A. M. E.</given-names>
+<surname>Walenkamp</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Lapa</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Andreeff</surname>
+</string-name>, and <string-name>
+<given-names>A.</given-names>
+<surname>Bobirca</surname>
+</string-name>, &#x0201c;<article-title>At the Bedside: Profiling and Treating Patients With CXCR4&#x02010;Expressing Cancers</article-title>,&#x0201d; <source>Journal of Leukocyte Biology</source>
+<volume>109</volume>, no. <issue>5</issue> (<year>2021</year>): <fpage>953</fpage>&#x02013;<lpage>967</lpage>.<pub-id pub-id-type="pmid">33089889</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0083"><label>83</label><mixed-citation publication-type="journal" id="cam471167-cit-0083">
+<string-name>
+<given-names>U. M.</given-names>
+<surname>Domanska</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Timmer&#x02010;Bosscha</surname>
+</string-name>, <string-name>
+<given-names>W. B.</given-names>
+<surname>Nagengast</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>CXCR4 Inhibition With AMD3100 Sensitizes Prostate Cancer to Docetaxel Chemotherapy</article-title>,&#x0201d; <source>Neoplasia</source>
+<volume>14</volume>, no. <issue>8</issue> (<year>2012</year>): <fpage>709</fpage>&#x02013;<lpage>718</lpage>.<pub-id pub-id-type="pmid">22952424</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0084"><label>84</label><mixed-citation publication-type="journal" id="cam471167-cit-0084">
+<string-name>
+<given-names>T.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>RNAi Targeting CXCR4 Inhibits Tumor Growth Through Inducing Cell Cycle Arrest and Apoptosis</article-title>,&#x0201d; <source>Molecular Therapy</source>
+<volume>20</volume>, no. <issue>2</issue> (<year>2012</year>): <fpage>398</fpage>&#x02013;<lpage>407</lpage>.<pub-id pub-id-type="pmid">22108861</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0085"><label>85</label><mixed-citation publication-type="journal" id="cam471167-cit-0085">
+<string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Qiu</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Overexpression of CXCR4 Is Significantly Associated With Cisplatin&#x02010;Based Chemotherapy Resistance and Can Be a Prognostic Factor in Epithelial Ovarian Cancer</article-title>,&#x0201d; <source>BMB Reports</source>
+<volume>47</volume>, no. <issue>1</issue> (<year>2014</year>): <fpage>33</fpage>&#x02013;<lpage>38</lpage>.<pub-id pub-id-type="pmid">24209634</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0086"><label>86</label><mixed-citation publication-type="journal" id="cam471167-cit-0086">
+<string-name>
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, and <string-name>
+<given-names>S. W.</given-names>
+<surname>Chen</surname>
+</string-name>, &#x0201c;<article-title>Pan&#x02010;Cancer Analysis of CXCR4 Carcinogenesis in Human Tumors</article-title>,&#x0201d; <source>Translational Cancer Research</source>
+<volume>10</volume>, no. <issue>9</issue> (<year>2021</year>): <fpage>4180</fpage>&#x02013;<lpage>4195</lpage>.<pub-id pub-id-type="pmid">35116714</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0087"><label>87</label><mixed-citation publication-type="journal" id="cam471167-cit-0087">
+<string-name>
+<given-names>A.</given-names>
+<surname>Figueras</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Alsina&#x02010;Sanchis</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Lahiguera</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>A Role for CXCR4 in Peritoneal and Hematogenous Ovarian Cancer Dissemination</article-title>,&#x0201d; <source>Molecular Cancer Therapeutics</source>
+<volume>17</volume>, no. <issue>2</issue> (<year>2018</year>): <fpage>532</fpage>&#x02013;<lpage>543</lpage>.<pub-id pub-id-type="pmid">29146630</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0088"><label>88</label><mixed-citation publication-type="journal" id="cam471167-cit-0088">
+<string-name>
+<given-names>A.</given-names>
+<surname>Dubrovska</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Hartung</surname>
+</string-name>, <string-name>
+<given-names>L. C.</given-names>
+<surname>Bouchez</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>CXCR4 Activation Maintains a Stem Cell Population in Tamoxifen&#x02010;Resistant Breast Cancer Cells Through AhR Signalling</article-title>,&#x0201d; <source>British Journal of Cancer</source>
+<volume>107</volume>, no. <issue>1</issue> (<year>2012</year>): <fpage>43</fpage>&#x02013;<lpage>52</lpage>.<pub-id pub-id-type="pmid">22644306</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0089"><label>89</label><mixed-citation publication-type="journal" id="cam471167-cit-0089">
+<string-name>
+<given-names>G.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>S. M.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X. F.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ding</surname>
+</string-name>, and <string-name>
+<given-names>L. H.</given-names>
+<surname>Meng</surname>
+</string-name>, &#x0201c;<article-title>Inhibition of Chemokine (CXC Motif) Ligand 12/Chemokine (CXC Motif) Receptor 4 Axis (CXCL12/CXCR4)&#x02010;Mediated Cell Migration by Targeting Mammalian Target of Rapamycin (mTOR) Pathway in Human Gastric Carcinoma Cells</article-title>,&#x0201d; <source>Journal of Biological Chemistry</source>
+<volume>287</volume>, no. <issue>15</issue> (<year>2012</year>): <fpage>12132</fpage>&#x02013;<lpage>12141</lpage>.<pub-id pub-id-type="pmid">22337890</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0090"><label>90</label><mixed-citation publication-type="journal" id="cam471167-cit-0090">
+<string-name>
+<given-names>M.</given-names>
+<surname>Jimbo</surname>
+</string-name>, <string-name>
+<given-names>J. R.</given-names>
+<surname>Andrews</surname>
+</string-name>, <string-name>
+<given-names>M. E.</given-names>
+<surname>Ahmed</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Prognostic Role of 11C&#x02010;Choline PET/CT Scan in Patients With Metastatic Castrate Resistant Prostate Cancer Undergoing Primary Docetaxel Chemotherapy</article-title>,&#x0201d; <source>Prostate</source>
+<volume>82</volume>, no. <issue>1</issue> (<year>2022</year>): <fpage>41</fpage>&#x02013;<lpage>48</lpage>.<pub-id pub-id-type="pmid">34633087</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0091"><label>91</label><mixed-citation publication-type="journal" id="cam471167-cit-0091">
+<string-name>
+<given-names>D. O.</given-names>
+<surname>Bauerschlag</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Maass</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Leonhardt</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Fatty Acid Synthase Overexpression: Target for Therapy and Reversal of Chemoresistance in Ovarian Cancer</article-title>,&#x0201d; <source>Journal of Translational Medicine</source>
+<volume>13</volume> (<year>2015</year>): <fpage>146</fpage>.<pub-id pub-id-type="pmid">25947066</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0092"><label>92</label><mixed-citation publication-type="journal" id="cam471167-cit-0092">
+<string-name>
+<given-names>M. M.</given-names>
+<surname>Jensen</surname>
+</string-name>, <string-name>
+<given-names>K. D.</given-names>
+<surname>Erichsen</surname>
+</string-name>, <string-name>
+<given-names>C. B.</given-names>
+<surname>Johnbeck</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>[18F]FDG and [18F]FLT Positron Emission Tomography Imaging Following Treatment With Belinostat in Human Ovary Cancer Xenografts in Mice</article-title>,&#x0201d; <source>BMC Cancer</source>
+<volume>13</volume> (<year>2013</year>): <fpage>168</fpage>.<pub-id pub-id-type="pmid">23548101</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0093"><label>93</label><mixed-citation publication-type="journal" id="cam471167-cit-0093">
+<string-name>
+<given-names>M.</given-names>
+<surname>Munk Jensen</surname>
+</string-name>, <string-name>
+<given-names>K. D.</given-names>
+<surname>Erichsen</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Bjorkling</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Imaging of Treatment Response to the Combination of Carboplatin and Paclitaxel in Human Ovarian Cancer Xenograft Tumors in Mice Using FDG and FLT PET</article-title>,&#x0201d; <source>PLoS One</source>
+<volume>8</volume>, no. <issue>12</issue> (<year>2013</year>): <elocation-id>e85126</elocation-id>.<pub-id pub-id-type="pmid">24386456</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0094"><label>94</label><mixed-citation publication-type="journal" id="cam471167-cit-0094">
+<string-name>
+<given-names>M. M.</given-names>
+<surname>Jensen</surname>
+</string-name>, <string-name>
+<given-names>K. D.</given-names>
+<surname>Erichsen</surname>
+</string-name>, <string-name>
+<given-names>C. B.</given-names>
+<surname>Johnbeck</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>[18F]FLT and [18F]FDG PET for Non&#x02010;Invasive Treatment Monitoring of the Nicotinamide Phosphoribosyltransferase Inhibitor APO866 in Human Xenografts</article-title>,&#x0201d; <source>PLoS One</source>
+<volume>8</volume>, no. <issue>1</issue> (<year>2013</year>): <elocation-id>e53410</elocation-id>.<pub-id pub-id-type="pmid">23308217</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0095"><label>95</label><mixed-citation publication-type="journal" id="cam471167-cit-0095">
+<string-name>
+<given-names>N.</given-names>
+<surname>Aide</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Kinross</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Cullinane</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>18F&#x02010;FLT PET as a Surrogate Marker of Drug Efficacy During mTOR Inhibition by Everolimus in a Preclinical Cisplatin&#x02010;Resistant Ovarian Tumor Model</article-title>,&#x0201d; <source>Journal of Nuclear Medicine</source>
+<volume>51</volume>, no. <issue>10</issue> (<year>2010</year>): <fpage>1559</fpage>&#x02013;<lpage>1564</lpage>.<pub-id pub-id-type="pmid">20847160</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0096"><label>96</label><mixed-citation publication-type="journal" id="cam471167-cit-0096">
+<string-name>
+<given-names>M.</given-names>
+<surname>Perumal</surname>
+</string-name>, <string-name>
+<given-names>E. A.</given-names>
+<surname>Stronach</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Gabra</surname>
+</string-name>, and <string-name>
+<given-names>E. O.</given-names>
+<surname>Aboagye</surname>
+</string-name>, &#x0201c;<article-title>Evaluation of 2&#x02010;Deoxy&#x02010;2&#x02010;[18F]Fluoro&#x02010;D&#x02010;Glucose&#x02010; and 3&#x02032;&#x02010;Deoxy&#x02010;3&#x02032;&#x02010;[18F]Fluorothymidine&#x02010;Positron Emission Tomography as Biomarkers of Therapy Response in Platinum&#x02010;Resistant Ovarian Cancer</article-title>,&#x0201d; <source>Molecular Imaging and Biology</source>
+<volume>14</volume>, no. <issue>6</issue> (<year>2012</year>): <fpage>753</fpage>&#x02013;<lpage>761</lpage>.<pub-id pub-id-type="pmid">22484552</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0097"><label>97</label><mixed-citation publication-type="journal" id="cam471167-cit-0097">
+<string-name>
+<given-names>N.</given-names>
+<surname>Ferrara</surname>
+</string-name>, &#x0201c;<article-title>Vascular Endothelial Growth Factor: Basic Science and Clinical Progress</article-title>,&#x0201d; <source>Endocrine Reviews</source>
+<volume>25</volume>, no. <issue>4</issue> (<year>2004</year>): <fpage>581</fpage>&#x02013;<lpage>611</lpage>.<pub-id pub-id-type="pmid">15294883</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0098"><label>98</label><mixed-citation publication-type="journal" id="cam471167-cit-0098">
+<string-name>
+<given-names>W. B.</given-names>
+<surname>Nagengast</surname>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>de Korte</surname>
+</string-name>, <string-name>
+<given-names>T. H.</given-names>
+<surname>Oude Munnink</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>89Zr&#x02010;Bevacizumab PET of Early Antiangiogenic Tumor Response to Treatment With HSP90 Inhibitor NVP&#x02010;AUY922</article-title>,&#x0201d; <source>Journal of Nuclear Medicine</source>
+<volume>51</volume>, no. <issue>5</issue> (<year>2010</year>): <fpage>761</fpage>&#x02013;<lpage>767</lpage>.<pub-id pub-id-type="pmid">20395337</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0099"><label>99</label><mixed-citation publication-type="journal" id="cam471167-cit-0099">
+<string-name>
+<given-names>A. R.</given-names>
+<surname>van der Bilt</surname>
+</string-name>, <string-name>
+<given-names>A. G.</given-names>
+<surname>Terwisscha van Scheltinga</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Timmer&#x02010;Bosscha</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Measurement of Tumor VEGF&#x02010;A Levels With 89Zr&#x02010;Bevacizumab PET as an Early Biomarker for the Antiangiogenic Effect of Everolimus Treatment in an Ovarian Cancer Xenograft Model</article-title>,&#x0201d; <source>Clinical Cancer Research</source>
+<volume>18</volume>, no. <issue>22</issue> (<year>2012</year>): <fpage>6306</fpage>&#x02013;<lpage>6314</lpage>.<pub-id pub-id-type="pmid">23014526</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0100"><label>100</label><mixed-citation publication-type="journal" id="cam471167-cit-0100">
+<string-name>
+<given-names>R.</given-names>
+<surname>Minamimoto</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Karam</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Jamali</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Pilot Prospective Evaluation of (18)F&#x02010;FPPRGD2 PET/CT in Patients With Cervical and Ovarian Cancer</article-title>,&#x0201d; <source>European Journal of Nuclear Medicine and Molecular Imaging</source>
+<volume>43</volume>, no. <issue>6</issue> (<year>2016</year>): <fpage>1047</fpage>&#x02013;<lpage>1055</lpage>.<pub-id pub-id-type="pmid">26611425</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0101"><label>101</label><mixed-citation publication-type="journal" id="cam471167-cit-0101">
+<string-name>
+<given-names>S.</given-names>
+<surname>Habringer</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Lapa</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Herhaus</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Dual Targeting of Acute Leukemia and Supporting Niche by CXCR4&#x02010;Directed Theranostics</article-title>,&#x0201d; <source>Theranostics</source>
+<volume>8</volume>, no. <issue>2</issue> (<year>2018</year>): <fpage>369</fpage>&#x02013;<lpage>383</lpage>.<pub-id pub-id-type="pmid">29290814</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0102"><label>102</label><mixed-citation publication-type="journal" id="cam471167-cit-0102">
+<string-name>
+<given-names>C.</given-names>
+<surname>Lapa</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Hanscheid</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Kircher</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Feasibility of CXCR4&#x02010;Directed Radioligand Therapy in Advanced Diffuse Large B&#x02010;Cell Lymphoma</article-title>,&#x0201d; <source>Journal of Nuclear Medicine</source>
+<volume>60</volume>, no. <issue>1</issue> (<year>2019</year>): <fpage>60</fpage>&#x02013;<lpage>64</lpage>.<pub-id pub-id-type="pmid">29777009</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0103"><label>103</label><mixed-citation publication-type="journal" id="cam471167-cit-0103">
+<string-name>
+<given-names>K.</given-names>
+<surname>Herrmann</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Schottelius</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Lapa</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>First&#x02010;In&#x02010;Human Experience of CXCR4&#x02010;Directed Endoradiotherapy With 177Lu&#x02010; and 90Y&#x02010;Labeled Pentixather in Advanced&#x02010;Stage Multiple Myeloma With Extensive Intra&#x02010; and Extramedullary Disease</article-title>,&#x0201d; <source>Journal of Nuclear Medicine</source>
+<volume>57</volume>, no. <issue>2</issue> (<year>2016</year>): <fpage>248</fpage>&#x02013;<lpage>251</lpage>.<pub-id pub-id-type="pmid">26564323</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0104"><label>104</label><mixed-citation publication-type="journal" id="cam471167-cit-0104">
+<string-name>
+<given-names>C.</given-names>
+<surname>Lapa</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Herrmann</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Schirbel</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>CXCR4&#x02010;Directed Endoradiotherapy Induces High Response Rates in Extramedullary Relapsed Multiple Myeloma</article-title>,&#x0201d; <source>Theranostics</source>
+<volume>7</volume>, no. <issue>6</issue> (<year>2017</year>): <fpage>1589</fpage>&#x02013;<lpage>1597</lpage>.<pub-id pub-id-type="pmid">28529638</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0105"><label>105</label><mixed-citation publication-type="journal" id="cam471167-cit-0105">
+<string-name>
+<given-names>S.</given-names>
+<surname>Maurer</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Herhaus</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Lippenmeyer</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Side Effects of CXC&#x02010;Chemokine Receptor 4&#x02010;Directed Endoradiotherapy With Pentixather Before Hematopoietic Stem Cell Transplantation</article-title>,&#x0201d; <source>Journal of Nuclear Medicine</source>
+<volume>60</volume>, no. <issue>10</issue> (<year>2019</year>): <fpage>1399</fpage>&#x02013;<lpage>1405</lpage>.<pub-id pub-id-type="pmid">30850502</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0106"><label>106</label><mixed-citation publication-type="journal" id="cam471167-cit-0106">
+<string-name>
+<given-names>B. M.</given-names>
+<surname>Prive</surname>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>Boussihmad</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Timmermans</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Fibroblast Activation Protein&#x02010;Targeted Radionuclide Therapy: Background, Opportunities, and Challenges of First (Pre)clinical Studies</article-title>,&#x0201d; <source>European Journal of Nuclear Medicine and Molecular Imaging</source>
+<volume>50</volume>, no. <issue>7</issue> (<year>2023</year>): <fpage>1906</fpage>&#x02013;<lpage>1918</lpage>.<pub-id pub-id-type="pmid">36813980</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0107"><label>107</label><mixed-citation publication-type="journal" id="cam471167-cit-0107">
+<string-name>
+<given-names>J.</given-names>
+<surname>Kunikowska</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Charzynska</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Kulinski</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Pawlak</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Maurin</surname>
+</string-name>, and <string-name>
+<given-names>L.</given-names>
+<surname>Krolicki</surname>
+</string-name>, &#x0201c;<article-title>Tumor Uptake in Glioblastoma Multiforme After IV Injection of [(177)Lu]Lu&#x02010;PSMA&#x02010;617</article-title>,&#x0201d; <source>European Journal of Nuclear Medicine and Molecular Imaging</source>
+<volume>47</volume>, no. <issue>6</issue> (<year>2020</year>): <fpage>1605</fpage>&#x02013;<lpage>1606</lpage>.<pub-id pub-id-type="pmid">32040612</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0108"><label>108</label><mixed-citation publication-type="journal" id="cam471167-cit-0108">
+<string-name>
+<given-names>J.</given-names>
+<surname>Kunikowska</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Cieslak</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Gierej</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>[(68) Ga]Ga&#x02010;Prostate&#x02010;Specific Membrane Antigen PET/CT: A Novel Method for Imaging Patients With Hepatocellular Carcinoma</article-title>,&#x0201d; <source>European Journal of Nuclear Medicine and Molecular Imaging</source>
+<volume>48</volume>, no. <issue>3</issue> (<year>2021</year>): <fpage>883</fpage>&#x02013;<lpage>892</lpage>.<pub-id pub-id-type="pmid">32885272</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0109"><label>109</label><mixed-citation publication-type="journal" id="cam471167-cit-0109">
+<string-name>
+<given-names>T. V.</given-names>
+<surname>Bogsrud</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Engelsen</surname>
+</string-name>, <string-name>
+<given-names>T. T. T.</given-names>
+<surname>Lu</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>All That Glitters Is Not Gold: High Uptake on PSMA PET in Non&#x02010;Prostate Cancers Does Not Mean That Treatment With [(177)Lu]Lu&#x02010;PSMA&#x02010;Radioligand Will Be Successful</article-title>,&#x0201d; <source>EJNMMI Research</source>
+<volume>14</volume>, no. <issue>1</issue> (<year>2024</year>): <fpage>95</fpage>.<pub-id pub-id-type="pmid">39404984</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0110"><label>110</label><mixed-citation publication-type="journal" id="cam471167-cit-0110">
+<string-name>
+<given-names>M. S.</given-names>
+<surname>Hofman</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Violet</surname>
+</string-name>, <string-name>
+<given-names>R. J.</given-names>
+<surname>Hicks</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>[(177)Lu]&#x02010;PSMA&#x02010;617 Radionuclide Treatment in Patients With Metastatic Castration&#x02010;Resistant Prostate Cancer (LuPSMA Trial): A Single&#x02010;Centre, Single&#x02010;Arm, Phase 2 Study</article-title>,&#x0201d; <source>Lancet Oncology</source>
+<volume>19</volume>, no. <issue>6</issue> (<year>2018</year>): <fpage>825</fpage>&#x02013;<lpage>833</lpage>.<pub-id pub-id-type="pmid">29752180</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0111"><label>111</label><mixed-citation publication-type="journal" id="cam471167-cit-0111">
+<string-name>
+<given-names>K.</given-names>
+<surname>Rahbar</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Schmidt</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Heinzel</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Response and Tolerability of a Single Dose of 177Lu&#x02010;PSMA&#x02010;617 in Patients With Metastatic Castration&#x02010;Resistant Prostate Cancer: A Multicenter Retrospective Analysis</article-title>,&#x0201d; <source>Journal of Nuclear Medicine</source>
+<volume>57</volume>, no. <issue>9</issue> (<year>2016</year>): <fpage>1334</fpage>&#x02013;<lpage>1338</lpage>.<pub-id pub-id-type="pmid">27056618</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0112"><label>112</label><mixed-citation publication-type="journal" id="cam471167-cit-0112">
+<string-name>
+<given-names>Z. H.</given-names>
+<surname>Jin</surname>
+</string-name>, <string-name>
+<given-names>A. B.</given-names>
+<surname>Tsuji</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Degardin</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Radiotheranostic Agent (64)cu&#x02010;Cyclam&#x02010;RAFT&#x02010;c(&#x02010;RGDfK&#x02010;) (4) for Management of Peritoneal Metastasis in Ovarian Cancer</article-title>,&#x0201d; <source>Clinical Cancer Research</source>
+<volume>26</volume>, no. <issue>23</issue> (<year>2020</year>): <fpage>6230</fpage>&#x02013;<lpage>6241</lpage>.<pub-id pub-id-type="pmid">32933998</pub-id>
+</mixed-citation></ref><ref id="cam471167-bib-0113"><label>113</label><mixed-citation publication-type="journal" id="cam471167-cit-0113">
+<string-name>
+<given-names>K. N.</given-names>
+<surname>Mack</surname>
+</string-name>, <string-name>
+<given-names>Z. V.</given-names>
+<surname>Samuels</surname>
+</string-name>, <string-name>
+<given-names>L. M.</given-names>
+<surname>Carter</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Interrogating the Theranostic Capacity of a MUC16&#x02010;Targeted Antibody for Ovarian Cancer</article-title>,&#x0201d; <source>Journal of Nuclear Medicine</source>
+<volume>65</volume>, no. <issue>4</issue> (<year>2024</year>): <fpage>580</fpage>&#x02013;<lpage>585</lpage>.<pub-id pub-id-type="pmid">38485271</pub-id>
+</mixed-citation></ref></ref-list></back></article>

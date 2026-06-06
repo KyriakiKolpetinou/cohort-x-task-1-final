@@ -1,0 +1,873 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="review-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Diagnostics (Basel)</journal-id><journal-id journal-id-type="iso-abbrev">Diagnostics (Basel)</journal-id><journal-id journal-id-type="publisher-id">diagnostics</journal-id><journal-title-group><journal-title>Diagnostics</journal-title></journal-title-group><issn pub-type="epub">2075-4418</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">39767160</article-id><article-id pub-id-type="pmc">11674558</article-id><article-id pub-id-type="doi">10.3390/diagnostics14242799</article-id><article-id pub-id-type="publisher-id">diagnostics-14-02799</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Ten Questions on Using Lung Ultrasonography to Diagnose and Manage Pneumonia in the Hospital-at-Home Model: Part I&#x02014;Techniques and Patterns</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-4997-1081</contrib-id><name><surname>Hsu</surname><given-names>Nin-Chieh</given-names></name><xref rid="af1-diagnostics-14-02799" ref-type="aff">1</xref><xref rid="af2-diagnostics-14-02799" ref-type="aff">2</xref><xref rid="af3-diagnostics-14-02799" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-4350-7755</contrib-id><name><surname>Lin</surname><given-names>Yu-Feng</given-names></name><xref rid="af1-diagnostics-14-02799" ref-type="aff">1</xref><xref rid="af3-diagnostics-14-02799" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-0689-8339</contrib-id><name><surname>Tsai</surname><given-names>Hung-Bin</given-names></name><xref rid="af2-diagnostics-14-02799" ref-type="aff">2</xref><xref rid="af3-diagnostics-14-02799" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name><surname>Huang</surname><given-names>Tung-Yun</given-names></name><xref rid="af4-diagnostics-14-02799" ref-type="aff">4</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-8832-0345</contrib-id><name><surname>Hsu</surname><given-names>Chia-Hao</given-names></name><xref rid="af5-diagnostics-14-02799" ref-type="aff">5</xref><xref rid="af6-diagnostics-14-02799" ref-type="aff">6</xref><xref rid="c1-diagnostics-14-02799" ref-type="corresp">*</xref></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Yamada</surname><given-names>Toru</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-diagnostics-14-02799"><label>1</label>Department of Internal Medicine, College of Medicine, National Taiwan University, Taipei 100225, Taiwan; <email>chesthsu@gmail.com</email> (N.-C.H.); <email>dr.yufenglin@gmail.com</email> (Y.-F.L.)</aff><aff id="af2-diagnostics-14-02799"><label>2</label>Division of Hospital Medicine, Department of Internal Medicine, Taipei City Hospital Zhongxing Branch, Taipei 103212, Taiwan; <email>hbtsai37@gmail.com</email></aff><aff id="af3-diagnostics-14-02799"><label>3</label>Taiwan Association of Hospital Medicine, Taipei 100225, Taiwan</aff><aff id="af4-diagnostics-14-02799"><label>4</label>Department of Otolaryngology, National Taiwan University Hospital, Taipei 100225, Taiwan; <email>b02401072@ntu.edu.tw</email></aff><aff id="af5-diagnostics-14-02799"><label>5</label>Department of Orthopedics, Kaohsiung Medical University Hospital, Kaohsiung 807378, Taiwan</aff><aff id="af6-diagnostics-14-02799"><label>6</label>College of Medicine, Kaohsiung Medical University, Kaohsiung 807378, Taiwan</aff><author-notes><corresp id="c1-diagnostics-14-02799"><label>*</label>Correspondence: <email>chhsu@kmu.edu.tw</email>; Tel.: +886-7-3121101 (ext. 5751)</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>12</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2024</year></pub-date><volume>14</volume><issue>24</issue><elocation-id>2799</elocation-id><history><date date-type="received"><day>22</day><month>11</month><year>2024</year></date><date date-type="rev-recd"><day>10</day><month>12</month><year>2024</year></date><date date-type="accepted"><day>12</day><month>12</month><year>2024</year></date></history><permissions><copyright-statement>&#x000a9; 2024 by the authors.</copyright-statement><copyright-year>2024</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>The hospital-at-home (HaH) model delivers hospital-level acute care, including diagnostics, monitoring, and treatments, in a patient&#x02019;s home. It is particularly effective for managing conditions such as pneumonia. Point-of-care ultrasonography (PoCUS) is a key diagnostic tool in the HaH model, and it often serves as a substitute for imaging-based diagnosis in the HaH setting. Both standard and handheld ultrasound equipment are suitable for lung ultrasound (LUS) evaluation. Curvelinear and linear probes are typically used. Patient positioning depends on their clinical condition and specific diagnostic protocols. To enhance sensitivity, we recommend using at least 10-point protocols supported by studies for pneumonia. Five essential LUS patterns should be identified, including A-line, multiple B-lines (alveolar-interstitial syndrome), confluent B-lines, subpleural consolidation, and consolidation with air bronchogram. Pleural effusion is common, and its internal echogenicity can indicate severity and the need for invasive procedures. The current evidence on various etiologies and types of pneumonia is limited, but LUS demonstrates good sensitivity in detecting abnormal sonographic patterns in atypical pneumonia, tuberculosis, and ventilator-associated pneumonia. Further LUS studies in the HaH setting are required to validate and generalize the findings.</p></abstract><kwd-group><kwd>pneumonia</kwd><kwd>point-of-care</kwd><kwd>ultrasonography</kwd><kwd>hospital-at-home</kwd><kwd>diagnosis</kwd><kwd>treatment</kwd><kwd>consolidation</kwd><kwd>air bronchogram</kwd></kwd-group><funding-group><award-group><funding-source>National Science and Technology Council (TW)</funding-source><award-id>NSTC 112-2410-H-002 -174 -MY2</award-id></award-group><funding-statement>This research was funded by the National Science and Technology Council (TW) (NSTC 112-2410-H-002 -174 -MY2).</funding-statement></funding-group></article-meta></front><body><sec sec-type="intro" id="sec1-diagnostics-14-02799"><title>1. Introduction</title><p>The hospital-at-home (HaH) model is a healthcare approach where patients receive acute care at home, rather than being admitted to a hospital [<xref rid="B1-diagnostics-14-02799" ref-type="bibr">1</xref>,<xref rid="B2-diagnostics-14-02799" ref-type="bibr">2</xref>]. It is designed to provide hospital-level services, including diagnostics, monitoring, treatments, and sometimes even advanced therapies, in a patient&#x02019;s home environment [<xref rid="B3-diagnostics-14-02799" ref-type="bibr">3</xref>]. This model is especially beneficial for managing conditions like pneumonia, heart failure, chronic obstructive pulmonary disease (COPD), urinary tract infection, and skin and soft tissue infection [<xref rid="B3-diagnostics-14-02799" ref-type="bibr">3</xref>,<xref rid="B4-diagnostics-14-02799" ref-type="bibr">4</xref>,<xref rid="B5-diagnostics-14-02799" ref-type="bibr">5</xref>]. In the HaH model, patients are carefully selected based on their medical stability, condition severity, and the availability of home support systems. Studies show comparable or better outcomes for certain conditions, with fewer complications and higher recovery rates.</p><p>Point-of-care service development is essential for delivering the HaH model. These services include the use of portable diagnostics (e.g., point-of-care testing and imaging), remote monitoring, intravenous therapies, and telemedicine consultations [<xref rid="B5-diagnostics-14-02799" ref-type="bibr">5</xref>,<xref rid="B6-diagnostics-14-02799" ref-type="bibr">6</xref>]. While treatments in the hospital-at-home (HaH) model are often comparable to those provided in hospitals, the diagnostic tools are typically novel and rapidly evolving. Point-of-care ultrasonography (PoCUS) is one of the most prominent diagnostic tools in this model [<xref rid="B7-diagnostics-14-02799" ref-type="bibr">7</xref>]. In the hospital setting, the role of PoCUS is primarily for screening or as a complementary examination to support other imaging modalities, such as X-ray or computed tomography [<xref rid="B8-diagnostics-14-02799" ref-type="bibr">8</xref>]. In the HaH setting, however, PoCUS is often regarded as a substitute&#x02014;and in many cases, the only option&#x02014;for imaging-based diagnosis [<xref rid="B7-diagnostics-14-02799" ref-type="bibr">7</xref>,<xref rid="B9-diagnostics-14-02799" ref-type="bibr">9</xref>]. This is why PoCUS is increasingly being used to diagnose conditions for which it has not traditionally been the primary diagnostic tool.</p><p>Pneumonia is one of the most common infectious diseases in the community [<xref rid="B10-diagnostics-14-02799" ref-type="bibr">10</xref>]. Following the COVID-19 pandemic, many patients have experienced receiving home-based treatment for coronavirus-related pneumonia [<xref rid="B11-diagnostics-14-02799" ref-type="bibr">11</xref>]. Reports in the literature on the use of PoCUS for diagnosing and managing COVID-19 pneumonia are compelling for physicians aiming to treat pneumonia patients in a similar home-based manner [<xref rid="B12-diagnostics-14-02799" ref-type="bibr">12</xref>,<xref rid="B13-diagnostics-14-02799" ref-type="bibr">13</xref>]. In this review, we aim to explore and address several key questions regarding the use of PoCUS for diagnosing and treating pneumonia in the HaH setting.</p><p>In this review, we address ten key questions that are essential for the effective use of PoCUS in evaluating and diagnosing pneumonia in HaH practice (<xref rid="diagnostics-14-02799-t001" ref-type="table">Table 1</xref>). Based on the current evidence and our experiences, we aim for the answers to and discussions of these questions to be helpful for clinicians in practice.</p></sec><sec id="sec2-diagnostics-14-02799"><title>2. Question 1: What Ultrasound Techniques Are Essential for Diagnosing Pneumonia?</title><p>Thoracic ultrasonography has been developed by pulmonology and critical care medicine since the 1990s and has shown promise in ultrasound-assisted procedures [<xref rid="B14-diagnostics-14-02799" ref-type="bibr">14</xref>,<xref rid="B15-diagnostics-14-02799" ref-type="bibr">15</xref>,<xref rid="B16-diagnostics-14-02799" ref-type="bibr">16</xref>]. In the 2000s, lung ultrasound (LUS) emerged as a new term, representing a point-of-care tool for evaluation and diagnosis in thoracic medicine [<xref rid="B17-diagnostics-14-02799" ref-type="bibr">17</xref>,<xref rid="B18-diagnostics-14-02799" ref-type="bibr">18</xref>,<xref rid="B19-diagnostics-14-02799" ref-type="bibr">19</xref>,<xref rid="B20-diagnostics-14-02799" ref-type="bibr">20</xref>]. The associated researchers have made significant efforts to dispel the myth that ultrasonographic examination of the lung is impossible [<xref rid="B21-diagnostics-14-02799" ref-type="bibr">21</xref>], ushering in a new paradigm and era. By interpreting various artifacts generated by normal or pathological lungs, LUS enables highly sensitive diagnoses, even in cases of minor lung abnormalities [<xref rid="B22-diagnostics-14-02799" ref-type="bibr">22</xref>].</p><sec id="sec2dot1-diagnostics-14-02799"><title>2.1. Ultrasound Equipment</title><p>The evaluation of the lung can be performed with standard or handheld ultrasound equipment [<xref rid="B23-diagnostics-14-02799" ref-type="bibr">23</xref>,<xref rid="B24-diagnostics-14-02799" ref-type="bibr">24</xref>,<xref rid="B25-diagnostics-14-02799" ref-type="bibr">25</xref>]. Almost all modern ultrasound equipment includes both B-mode and M-mode, which are essential for lung ultrasound scanning. However, there are limited data available to define optimal scanner settings for the enhanced visualization of lung lesions and artifacts. It should be noted that quantitative comparisons between different equipment are not meaningful for diagnostic purposes. Since the sensitivity of artifacts depends heavily on the equipment and scanning settings [<xref rid="B26-diagnostics-14-02799" ref-type="bibr">26</xref>], there is a call to use the same equipment consistently and standardize scanning protocols to effectively monitor the evolution of artifacts in patients [<xref rid="B27-diagnostics-14-02799" ref-type="bibr">27</xref>]. Color Doppler imaging, while not essential for diagnosis, can be valuable for more detailed assessments of severity and prognosis in patients with pneumonia [<xref rid="B27-diagnostics-14-02799" ref-type="bibr">27</xref>,<xref rid="B28-diagnostics-14-02799" ref-type="bibr">28</xref>,<xref rid="B29-diagnostics-14-02799" ref-type="bibr">29</xref>].</p></sec><sec id="sec2dot2-diagnostics-14-02799"><title>2.2. Ultraosund Probes</title><p>In adult patients, curvelinear (convex) and linear probes are typically used [<xref rid="B27-diagnostics-14-02799" ref-type="bibr">27</xref>], with the linear probe being particularly effective for observing breath-dependent motion, pleural line abnormalities, and diaphragm function [<xref rid="B27-diagnostics-14-02799" ref-type="bibr">27</xref>,<xref rid="B30-diagnostics-14-02799" ref-type="bibr">30</xref>,<xref rid="B31-diagnostics-14-02799" ref-type="bibr">31</xref>]. The microconvex probe was one of the earliest probes developed for use in the intensive care setting, establishing what is now referred to as the &#x0201c;one probe for all&#x0201d; paradigm [<xref rid="B32-diagnostics-14-02799" ref-type="bibr">32</xref>,<xref rid="B33-diagnostics-14-02799" ref-type="bibr">33</xref>]. In pediatric cases, microconvex probes can be helpful due to theirsmaller footprint and high accuracy [<xref rid="B34-diagnostics-14-02799" ref-type="bibr">34</xref>], however, linear probes are generally preferred due to their ability to provide finer detail, which is beneficial for assessing children&#x02019;s chest structure [<xref rid="B27-diagnostics-14-02799" ref-type="bibr">27</xref>,<xref rid="B34-diagnostics-14-02799" ref-type="bibr">34</xref>].</p><p>The sector array probe (commonly referred to as a &#x0201c;phased array&#x0201d;), like the curvilinear probe, operates at lower frequencies, making it well suited for evaluating deeper structures, such as in cases of pulmonary edema or consolidation. Notably, curvilinear probes may offer higher interpretation accuracy compared to phased array probes, particularly for novice users interpreting pleural pathologies [<xref rid="B35-diagnostics-14-02799" ref-type="bibr">35</xref>]. In the PoCUS approach, utilizing multiple probes for a focused multi-organ and multi-system examination is often necessary. When evaluating patients with suspected pneumonia, a multi-probe approach can provide valuable information about co-morbidities, such as heart failure or venous thrombosis, aiding in severity assessment and triage.</p></sec><sec id="sec2dot3-diagnostics-14-02799"><title>2.3. Patient Positioning</title><p>Patient positioning depends on their clinical condition and specific diagnostic requirements [<xref rid="B27-diagnostics-14-02799" ref-type="bibr">27</xref>]. For patients in a sitting position, the dorsal lung regions are typically examined [<xref rid="B36-diagnostics-14-02799" ref-type="bibr">36</xref>], while the supine position is used for the anterior regions. Pleural effusion is more easily detected with the patient seated [<xref rid="B37-diagnostics-14-02799" ref-type="bibr">37</xref>], whereas the supine position is better suited for detecting pneumothorax [<xref rid="B38-diagnostics-14-02799" ref-type="bibr">38</xref>,<xref rid="B39-diagnostics-14-02799" ref-type="bibr">39</xref>]. With the patient&#x02019;s arm raised above the head or positioned with their hand resting on the opposite shoulder, the intercostal spaces widen, allowing access to the subscapular region.</p><p>Notably, patient positioning significantly influences the appearance of vertical artifacts observed during LUS. A consistent approach to patient positioning during LUS is essential for accurately monitoring dynamic changes in heart failure [<xref rid="B40-diagnostics-14-02799" ref-type="bibr">40</xref>].</p></sec><sec id="sec2dot4-diagnostics-14-02799"><title>2.4. Regions of Examination</title><p>LUS may involve either a comprehensive assessment of the entire lung or a targeted investigation of specific areas based on clinical findings [<xref rid="B41-diagnostics-14-02799" ref-type="bibr">41</xref>,<xref rid="B42-diagnostics-14-02799" ref-type="bibr">42</xref>]. Focal examinations are conducted using various scan orientations (longitudinal, transverse, and oblique) and may involve different probes. Typically, the scan starts in symptomatic areas, such as where pleuritic pain is reported or where abnormal breathing sounds are identified on auscultation. In cases where the patient must remain in a supine position, posterior regions can be assessed with the patient in a lateral decubitus position or through a posterolateral approach [<xref rid="B17-diagnostics-14-02799" ref-type="bibr">17</xref>,<xref rid="B18-diagnostics-14-02799" ref-type="bibr">18</xref>]. The apex of the lung can also be assessed using suprasternal, supraclavicular, and infraclavicular approaches. In children, anatomical features such as a thinner chest wall and reduced thoracic width allow for clearer ultrasound imaging [<xref rid="B43-diagnostics-14-02799" ref-type="bibr">43</xref>]. providing high-quality lung images. For non-cooperative patients, the procedure may take longer but remains generally feasible [<xref rid="B44-diagnostics-14-02799" ref-type="bibr">44</xref>].</p><p>Recent studies have reported that a focused examination, such as an 8-point LUS protocol, is time-efficient while maintaining similar reproducibility compared to a comprehensive protocol for patients with heart failure [<xref rid="B42-diagnostics-14-02799" ref-type="bibr">42</xref>]. Several targeted protocols were explored during the COVID-19 pandemic using 8-point, 10-point, or 12-zone approaches [<xref rid="B13-diagnostics-14-02799" ref-type="bibr">13</xref>,<xref rid="B45-diagnostics-14-02799" ref-type="bibr">45</xref>,<xref rid="B46-diagnostics-14-02799" ref-type="bibr">46</xref>,<xref rid="B47-diagnostics-14-02799" ref-type="bibr">47</xref>]. However, the use of heterogeneous LUS protocols across departments limits the strength of the evidence level of LUS examination and highlights the need for well-designed trials and standardized methodologies [<xref rid="B48-diagnostics-14-02799" ref-type="bibr">48</xref>].</p><p>For the evaluation and diagnosis of patients with pneumonia, earlier reports use a systematic examination of all intercostal spaces in both sitting and supine positions [<xref rid="B49-diagnostics-14-02799" ref-type="bibr">49</xref>]. However, this approach is time-consuming. During the COVID-19 pandemic, focused LUS protocols were frequently proposed. A pilot report from 12 patients with COVID-19 found that all of the patients had diffuse B-lines with spared areas [<xref rid="B50-diagnostics-14-02799" ref-type="bibr">50</xref>]. Although LUS patterns may be nonspecific, the observation of some aspects of vertical artifacts can enhance the diagnostic power, and combining sonographic patterns with blood exam results can aid in accurately characterizing disease phenotypes, supporting effective triage and admission for COVID-19 [<xref rid="B51-diagnostics-14-02799" ref-type="bibr">51</xref>].</p><p><xref rid="diagnostics-14-02799-f001" ref-type="fig">Figure 1</xref> illustrates various PoCUS examination regions identified in previous landmark studies. The traditional approach is based on the BLUE protocol, which divides each hemithorax into four areas, creating an 8-point examination framework [<xref rid="B17-diagnostics-14-02799" ref-type="bibr">17</xref>]. The strength of this protocol lies in its evidence-based approach, utilizing conjugated ultrasonic patterns known as &#x0201c;profiles&#x0201d; to assist in differential diagnoses [<xref rid="B17-diagnostics-14-02799" ref-type="bibr">17</xref>]. Unlike other protocols developed later, the BLUE protocol offers a sophisticated LUS-guided approach to clinical reasoning. However, a key limitation of the BLUE protocol is its lower specificity in less-severe patients, with approximately 50% negative findings across the entire protocol when applied to cases of undifferentiated dyspnea in the emergency room setting [<xref rid="B52-diagnostics-14-02799" ref-type="bibr">52</xref>]. Among patients with negative findings from the BLUE protocol, a significant number were ultimately diagnosed with pneumonia [<xref rid="B52-diagnostics-14-02799" ref-type="bibr">52</xref>]. This report suggests that diagnosing pneumonia in less-severe patients, as often encountered in HaH practice, may require examining more points or areas to enhance sensitivity.</p><p>The 8-point protocol, derived from the BLUE protocol, is widely adopted in studies [<xref rid="B44-diagnostics-14-02799" ref-type="bibr">44</xref>,<xref rid="B53-diagnostics-14-02799" ref-type="bibr">53</xref>,<xref rid="B54-diagnostics-14-02799" ref-type="bibr">54</xref>]. Among them, a modified BLUE protocol using a new M-point between the superior BLUE point and the diaphragm is used in order to standardize the PLAPS point [<xref rid="B55-diagnostics-14-02799" ref-type="bibr">55</xref>]. Using this additional M-point may increase the sensitivity of pneumonia detection at the right middle lobe.</p><p>The 8-point protocol originating from the BLUE protocol is generally consistent in studies [<xref rid="B56-diagnostics-14-02799" ref-type="bibr">56</xref>]. In contrast, 10-point protocols are more heterogeneous, and dorsal-lateral examinations [<xref rid="B57-diagnostics-14-02799" ref-type="bibr">57</xref>], particularly during the COVID-19 pandemic, are less practical due to their low sensitivity without anterior chest assessments. Therefore, we recommend using at least 10-point protocols supported by multiple studies for pneumonia [<xref rid="B45-diagnostics-14-02799" ref-type="bibr">45</xref>,<xref rid="B58-diagnostics-14-02799" ref-type="bibr">58</xref>]. For increased sensitivity, a 12-zone protocol has been proposed for patients with COVID-19 [<xref rid="B59-diagnostics-14-02799" ref-type="bibr">59</xref>,<xref rid="B60-diagnostics-14-02799" ref-type="bibr">60</xref>,<xref rid="B61-diagnostics-14-02799" ref-type="bibr">61</xref>]. The 12-zone protocol is generally consistent, comprising 4 zones derived from the BLUE protocol and 2 additional zones for the dorsal chest wall [<xref rid="B62-diagnostics-14-02799" ref-type="bibr">62</xref>,<xref rid="B63-diagnostics-14-02799" ref-type="bibr">63</xref>].</p><p>Laursen et al. developed a 14-zone protocol, combined with focused sonography of the heart and deep veins, which demonstrated broad diagnostic utility for patients with diverse respiratory symptoms [<xref rid="B64-diagnostics-14-02799" ref-type="bibr">64</xref>]. Following this landmark study, several similar 14-zone protocols have been developed in recent studies [<xref rid="B65-diagnostics-14-02799" ref-type="bibr">65</xref>,<xref rid="B66-diagnostics-14-02799" ref-type="bibr">66</xref>].</p><p>A 28-point protocol, including 6 points for the dorsal areas, 3 for the lateral areas, and 4 for the anterior chest wall on each side, was reported as a comprehensive examination for COVID-19 pneumonia [<xref rid="B67-diagnostics-14-02799" ref-type="bibr">67</xref>]. However, its accuracy for patients with non-COVID-19 pneumonia remains insufficiently reported. Additionally, scoring each point can be time-consuming, making it less practical for use in the HaH setting.</p></sec></sec><sec id="sec3-diagnostics-14-02799"><title>3. Question 2: What Are the Ultrasound Patterns Associated with Pneumonia?</title><p>Performing LUS requires less technical skill than abdominal or cardiac ultrasound, with a faster learning curve for beginners to recognize pulmonary interstitial syndrome and consolidation [<xref rid="B68-diagnostics-14-02799" ref-type="bibr">68</xref>,<xref rid="B69-diagnostics-14-02799" ref-type="bibr">69</xref>].</p><p>Researchers in the 1990s made a significant breakthrough and revealed typical artifacts observable when examining the pleural surface. Initially, patients with pulmonary sarcoidosis exhibited various pleural abnormalities, characterized by irregular and rough surfaces with coarse interruptions and an increase in artifacts [<xref rid="B70-diagnostics-14-02799" ref-type="bibr">70</xref>]. Subsequently, a study reported that 88.8% of patients with pneumonia presented with consolidation visible on sonograms [<xref rid="B71-diagnostics-14-02799" ref-type="bibr">71</xref>]. Key sonographic artifacts were named by subsequent contributors systematically with validated trials [<xref rid="B72-diagnostics-14-02799" ref-type="bibr">72</xref>,<xref rid="B73-diagnostics-14-02799" ref-type="bibr">73</xref>,<xref rid="B74-diagnostics-14-02799" ref-type="bibr">74</xref>,<xref rid="B75-diagnostics-14-02799" ref-type="bibr">75</xref>,<xref rid="B76-diagnostics-14-02799" ref-type="bibr">76</xref>]. These LUS signs are well known and essential for sonographic diagnosis.</p><sec id="sec3dot1-diagnostics-14-02799"><title>3.1. Essential Lung Ultrasound Patterns</title><p><xref rid="diagnostics-14-02799-f002" ref-type="fig">Figure 2</xref> illustrates five essential LUS patterns that should be identified. The A-lines represent a normal and full aeration pattern, appearing as parallel curvilinear lines originating from the pleural edge. These lines are caused by the reverberation artifact of the pleura, indicating that the ultrasound beam does not penetrate below the pleural surface [<xref rid="B22-diagnostics-14-02799" ref-type="bibr">22</xref>,<xref rid="B73-diagnostics-14-02799" ref-type="bibr">73</xref>]. To generate A-lines, the ultrasound probe should be angled so that the ultrasound beam is perpendicular to the pleura. The presence of A-lines provides reassurance to sonographers that the lung area being examined is normal. Notably, an irregular pleural surface will not generate A-lines because the ultrasound beam scatters in a non-specular manner.</p><p>B-lines are echogenic vertical artifacts extending from the pleural edge to the bottom of the viewing panel (<xref rid="diagnostics-14-02799-f002" ref-type="fig">Figure 2</xref>), indicating engorged interlobular septa that enable some penetration of the ultrasound beam below the visceral pleura [<xref rid="B22-diagnostics-14-02799" ref-type="bibr">22</xref>,<xref rid="B73-diagnostics-14-02799" ref-type="bibr">73</xref>]. The presence of less than three B-lines in a given intercostal space can be physiological, caused by normal fluid and lymph within the interlobular septa. However, the presence of multiple B-lines or confluent B-lines is considered pathognomonic [<xref rid="B72-diagnostics-14-02799" ref-type="bibr">72</xref>,<xref rid="B73-diagnostics-14-02799" ref-type="bibr">73</xref>,<xref rid="B77-diagnostics-14-02799" ref-type="bibr">77</xref>]. It is most commonly seen in patients with interstitial lung edema, as well as pneumonia [<xref rid="B17-diagnostics-14-02799" ref-type="bibr">17</xref>]. Although B-lines are sensitive artifacts, the specificity of B-lines for pneumonia is low. In a large multicenter study of LUS for the diagnosis and follow-up of pneumonia, B-lines were not considered a LUS finding for pneumonia [<xref rid="B49-diagnostics-14-02799" ref-type="bibr">49</xref>]. Furthermore, a recent study showed that A-lines are significantly associated with the absence of pneumonia, whereas there are no associations between B-lines and pneumonia [<xref rid="B78-diagnostics-14-02799" ref-type="bibr">78</xref>]. It is important to emphasize that in the BLUE protocol, B-lines are combined with other LUS findings to reach a diagnosis, rather than being used in isolation [<xref rid="B17-diagnostics-14-02799" ref-type="bibr">17</xref>]. During the COVID-19 pandemic, B-lines were widely used for screening and were found to correlate with ground-glass opacities (GGO) observed on computed tomography [<xref rid="B60-diagnostics-14-02799" ref-type="bibr">60</xref>,<xref rid="B65-diagnostics-14-02799" ref-type="bibr">65</xref>,<xref rid="B79-diagnostics-14-02799" ref-type="bibr">79</xref>]. However, it should be noted that the high prevalence of GGO patterns is no longer observed in non-pandemic periods, reducing the diagnostic accuracy of B-lines for pneumonia.</p><p>Therefore, except in specific situations such as the COVID-19 pandemic or critical care settings with a pre-post dynamic change, B-lines should be considered within a broader differential diagnosis, including any pathology that may alter the subpleural interlobular septa.</p><p>Consolidation appears as an echo-poor region, characterized by hypoechoic, wedge-shaped tissue with poorly defined margins [<xref rid="B80-diagnostics-14-02799" ref-type="bibr">80</xref>]. Consolidation patterns occur due to the loss of lung aeration and are not merely artifacts (<xref rid="diagnostics-14-02799-f002" ref-type="fig">Figure 2</xref>). Within the consolidated area, air-filled bronchi may be visualized as hyperechoic punctiform images, corresponding to air bronchograms (<xref rid="diagnostics-14-02799-f002" ref-type="fig">Figure 2</xref>) [<xref rid="B81-diagnostics-14-02799" ref-type="bibr">81</xref>]. The presence of a consolidation pattern may represent pneumonia or atelectasis. The dynamic movement of hyperechoic air densities within consolidation, known as dynamic air bronchograms, enhances diagnostic confidence for pneumonia, with a specificity of 94% and a positive predictive value of 97% [<xref rid="B76-diagnostics-14-02799" ref-type="bibr">76</xref>].</p><p>The fluid bronchogram represents exudate-packed conducting airways [<xref rid="B82-diagnostics-14-02799" ref-type="bibr">82</xref>]. It occurs less frequently than air bronchograms. The fluid bronchogram is characterized by echo-free tubular structures along the airways and can be differentiated from pulmonary vessels using color Doppler imaging. The bronchial wall is echoic, and more echoic than the vessel wall, whereas the fluid in the segmental bronchi is hypoechoic. The fluid bronchogram reflects exudate-packed conducting airways, a consequence of bronchial obstruction by secretion or a tumor, which arouses suspicion of poststenotic pneumonitis [<xref rid="B83-diagnostics-14-02799" ref-type="bibr">83</xref>].</p></sec><sec id="sec3dot2-diagnostics-14-02799"><title>3.2. Pleural Effusion</title><p>Thoracic ultrasound has proven to be an effective tool for visualizing pleural effusions. It is particularly advantageous in detecting trace effusions that may be missed by chest X-rays [<xref rid="B84-diagnostics-14-02799" ref-type="bibr">84</xref>]. Additionally, LUS can aid in differentiating the causes of an elevated hemidiaphragm, such as by distinguishing between subpulmonic or subphrenic collections and diaphragmatic paralysis [<xref rid="B85-diagnostics-14-02799" ref-type="bibr">85</xref>,<xref rid="B86-diagnostics-14-02799" ref-type="bibr">86</xref>]. In the context of pneumonia, LUS can provide critical insights into the nature of associated pleural effusions (<xref rid="diagnostics-14-02799-f003" ref-type="fig">Figure 3</xref>). Based on internal echogenicity, effusions can be categorized as anechoic, complex non-septated, complex septated, or homogeneously echogenic [<xref rid="B87-diagnostics-14-02799" ref-type="bibr">87</xref>]. Early research by Yang et al. [<xref rid="B87-diagnostics-14-02799" ref-type="bibr">87</xref>] has shown that effusions with appearances other than anechoic are always exudative. Anechoic effusions, on the other hand, may represent either transudates or exudates. The presence of pleural septations is particularly significant, as it may predict the need for intrapleural fibrinolytic therapy or surgical intervention in cases of empyema (<xref rid="diagnostics-14-02799-f003" ref-type="fig">Figure 3</xref>) [<xref rid="B88-diagnostics-14-02799" ref-type="bibr">88</xref>].</p><p>We summarize the sonographic findings of community-acquired pneumonia in the current literature in <xref rid="diagnostics-14-02799-t002" ref-type="table">Table 2</xref> [<xref rid="B49-diagnostics-14-02799" ref-type="bibr">49</xref>,<xref rid="B71-diagnostics-14-02799" ref-type="bibr">71</xref>,<xref rid="B89-diagnostics-14-02799" ref-type="bibr">89</xref>,<xref rid="B90-diagnostics-14-02799" ref-type="bibr">90</xref>,<xref rid="B91-diagnostics-14-02799" ref-type="bibr">91</xref>,<xref rid="B92-diagnostics-14-02799" ref-type="bibr">92</xref>,<xref rid="B93-diagnostics-14-02799" ref-type="bibr">93</xref>,<xref rid="B94-diagnostics-14-02799" ref-type="bibr">94</xref>]. Studies that evaluated all intercostal spaces of the thorax have found that using consolidation as a diagnostic marker for pneumonia offers higher specificity compared to the use of B-lines. However, in 8-point and 10-point protocols, relying solely on consolidation may result in lower sensitivity, unless B-lines are also included as a diagnostic LUS pattern. Importantly, normal LUS findings are uncommon in patients with pneumonia, underscoring the strong negative predictive value of LUS in the diagnosis of pneumonia.</p></sec></sec><sec id="sec4-diagnostics-14-02799"><title>4. Question 3: Do Different Settings or Etiologies of Pneumonia Influence the Diagnostic Accuracy of Ultrasonography?</title><p>Expanding hospital practices to the HaH setting is often a concern, as differences in settings and etiologies can impact the presentation, pathogenesis, diagnosis, treatment response, and prognosis of patients with pneumonia. If HaH treatment is initiated directly from the emergency room or at home, it is reasonable to assume a disease pattern similar to community-acquired pneumonia. In such cases, existing evidence on LUS diagnosis for community-acquired pneumonia may prove useful [<xref rid="B90-diagnostics-14-02799" ref-type="bibr">90</xref>,<xref rid="B91-diagnostics-14-02799" ref-type="bibr">91</xref>,<xref rid="B92-diagnostics-14-02799" ref-type="bibr">92</xref>,<xref rid="B93-diagnostics-14-02799" ref-type="bibr">93</xref>,<xref rid="B94-diagnostics-14-02799" ref-type="bibr">94</xref>]. Special consideration is required for the HaH program to support early hospital discharge [<xref rid="B95-diagnostics-14-02799" ref-type="bibr">95</xref>]. The concerns are twofold. First, they pertain to the use of LUS for monitoring pneumonia treatment response rather than for initial diagnosis. In the subsequent parts of this review, we will present the current evidence and recommended practices.</p><p>Second, there is potential for encountering a subset of hospital-acquired pneumonia in this setting. However, current evidence is relatively scare. In critically ill patients, LUS has demonstrated good rule-in and rule-out ability for ventilator-associated pneumonia [<xref rid="B96-diagnostics-14-02799" ref-type="bibr">96</xref>]. If consolidation with either static or dynamic air bronchograms is absent, VAP can be safely excluded. This suggests that LUS remains sensitive for detecting pneumonia caused by hospital-acquired pathogens, despite potential variations in presentation and lobar involvement.</p><p>LUS originally developed in the critical care setting has described four main sonographic patterns in landmark studies [<xref rid="B17-diagnostics-14-02799" ref-type="bibr">17</xref>,<xref rid="B32-diagnostics-14-02799" ref-type="bibr">32</xref>]. These criteria included the following: (1) A/B profile: a mix of A-lines and B-lines observed at the anterior four points; (2) B&#x02019; profile: B-lines at the anterior four points with absent normal pleural sliding; (3) C profiles: consolidation detected at any of the anterior four points; and (4) A-noV-PLAPS: a profile at the anterior four points combined with no deep-vein thrombosis and positive PLAPS. The combination of these four criteria demonstrated a sensitivity of 89% and a specificity of 94% for diagnosing pneumonia [<xref rid="B32-diagnostics-14-02799" ref-type="bibr">32</xref>]. However, clinicians rarely encounter patients with severe hypoxemia in the HaH setting, unless the patient is terminally ill and receiving palliative care. Consequently, the specificity of pneumonia diagnosis based on the four criteria may be lower than anticipated.</p><p>In the HaH setting, clinicians may encounter patients who use home ventilators. Using a 12-zone protocol for patients with mechanical ventilation in the hospital, the sensitivity, specificity, and diagnostic accuracy for lung ultrasound were 100, 78, and 95% for consolidation, 94, 93, and 94% for interstitial syndrome using computed tomography as the gold standard, respectivley [<xref rid="B97-diagnostics-14-02799" ref-type="bibr">97</xref>]. This suggests that LUS findings are not substantially influenced by positive pressure ventilation and can reliably screen and diagnose VAP in patients using home ventilators.</p><p>LUS may also assist in diagnosing atypical pneumonia, even though atypical pathogens are typically covered by empiric antibiotics for community-acquired pneumonia. A recent pooled analysis of four studies, including a total of 274 patients with a diagnosis of atypical pneumonia (most of which was Mycoplasma pneumonia), reported that both consolidation (84&#x02013;100%) and B-lines (85%) were common [<xref rid="B98-diagnostics-14-02799" ref-type="bibr">98</xref>]. Atypical pneumonia presented with consolidation associated with subpleural effusion and a diffuse interstitial pattern. Although both scattered and confluent B-lines were described, the B-lines were confluent in more-severe disease.</p><p>A pooled analysis of seven studies for patients with pulmonary tuberculosis found that circular or ellipsoidal hypoechoic subpleural lesions, generally &#x0003c;1.5 cm, were the most common finding by LUS. These so-called &#x0201c;subpleural nodes&#x0201d; were reported in up to 90% of adults, mainly in the superior quadrants of the lung [<xref rid="B98-diagnostics-14-02799" ref-type="bibr">98</xref>]. Therefore, identifying an isolated subpleural consolidation in the upper lung should raise suspicion of tuberculosis in patients presenting with pneumonia-like symptoms.</p></sec><sec sec-type="conclusions" id="sec5-diagnostics-14-02799"><title>5. Conclusions</title><p>Clinicians seeking to diagnose and manage pneumonia within a hospital-at-home model must first develop the ability to identify sonographic patterns of pneumonia, utilizing appropriate equipment and techniques. In the first part of our review, we summarize the current point-of-care ultrasound practices for diagnosing pneumonia in ward and emergency department settings. While evidence supporting the implementation of similar practices outside of the hospital is limited and requires further investigation, understanding the strengths and limitations of these approaches provides valuable insights for developing effective models in HaH programs. In the subsequent parts of our review, we will address differential diagnoses, potential pitfalls and confounders, and follow-up considerations regarding LUS in pneumonia.</p></sec></body><back><ack><title>Acknowledgments</title><p>We appreciate the assistance from the Taiwan Association of Hospital Medicine.</p></ack><fn-group><fn><p><bold>Disclaimer/Publisher&#x02019;s Note:</bold> The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.</p></fn></fn-group><notes><title>Author Contributions</title><p>Conceptualization, N.-C.H. and C.-H.H.; writing&#x02014;original draft preparation, N.-C.H.; writing&#x02014;review and editing, Y.-F.L. and H.-B.T.; supervision, C.-H.H.; image editing, T.-Y.H.; funding acquisition, N.-C.H. All authors have read and agreed to the published version of the manuscript.</p></notes><notes><title>Institutional Review Board Statement</title><p>Not applicable.</p></notes><notes><title>Informed Consent Statement</title><p>Not applicable.</p></notes><notes notes-type="data-availability"><title>Data Availability Statement</title><p>Not applicable.</p></notes><notes notes-type="COI-statement"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></notes><ref-list><title>References</title><ref id="B1-diagnostics-14-02799"><label>1.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Federman</surname><given-names>A.D.</given-names></name>
+<name><surname>Soones</surname><given-names>T.</given-names></name>
+<name><surname>DeCherrie</surname><given-names>L.V.</given-names></name>
+<name><surname>Leff</surname><given-names>B.</given-names></name>
+<name><surname>Siu</surname><given-names>A.L.</given-names></name>
+</person-group><article-title>Association of a Bundled Hospital-at-Home and 30-Day Postacute Transitional Care Program with Clinical Outcomes and Patient Experiences</article-title><source>JAMA Intern. Med.</source><year>2018</year><volume>178</volume><fpage>1033</fpage><lpage>1040</lpage><pub-id pub-id-type="doi">10.1001/jamainternmed.2018.2562</pub-id><pub-id pub-id-type="pmid">29946693</pub-id>
+</element-citation></ref><ref id="B2-diagnostics-14-02799"><label>2.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>van Goor</surname><given-names>H.M.R.</given-names></name>
+<name><surname>de Hond</surname><given-names>T.A.P.</given-names></name>
+<name><surname>van Loon</surname><given-names>K.</given-names></name>
+<name><surname>Breteler</surname><given-names>M.J.M.</given-names></name>
+<name><surname>Kalkman</surname><given-names>C.J.</given-names></name>
+<name><surname>Kaasjager</surname><given-names>K.A.H.</given-names></name>
+</person-group><article-title>Designing a Virtual Hospital-at-Home Intervention for Patients with Infectious Diseases: A Data-Driven Approach</article-title><source>J. Clin. Med.</source><year>2024</year><volume>13</volume><elocation-id>977</elocation-id><pub-id pub-id-type="doi">10.3390/jcm13040977</pub-id><pub-id pub-id-type="pmid">38398291</pub-id>
+</element-citation></ref><ref id="B3-diagnostics-14-02799"><label>3.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Haywood</surname><given-names>H.B.</given-names></name>
+<name><surname>Fonarow</surname><given-names>G.C.</given-names></name>
+<name><surname>Khan</surname><given-names>M.S.</given-names></name>
+<name><surname>Nassif</surname><given-names>M.E.</given-names></name>
+<name><surname>Butler</surname><given-names>J.</given-names></name>
+<name><surname>Greene</surname><given-names>S.J.</given-names></name>
+</person-group><article-title>Hospital at Home as a Novel Care Strategy for Worsening Heart Failure</article-title><source>JACC Heart Fail.</source><year>2023</year><volume>11</volume><fpage>1443</fpage><lpage>1448</lpage><pub-id pub-id-type="doi">10.1016/j.jchf.2023.02.013</pub-id><pub-id pub-id-type="pmid">37115128</pub-id>
+</element-citation></ref><ref id="B4-diagnostics-14-02799"><label>4.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Nouvenne</surname><given-names>A.</given-names></name>
+<name><surname>Ticinesi</surname><given-names>A.</given-names></name>
+<name><surname>Siniscalchi</surname><given-names>C.</given-names></name>
+<name><surname>Rendo</surname><given-names>M.</given-names></name>
+<name><surname>Cerundolo</surname><given-names>N.</given-names></name>
+<name><surname>Parise</surname><given-names>A.</given-names></name>
+<name><surname>Castaldo</surname><given-names>G.</given-names></name>
+<name><surname>Chiussi</surname><given-names>G.</given-names></name>
+<name><surname>Carrassi</surname><given-names>R.</given-names></name>
+<name><surname>Guerra</surname><given-names>A.</given-names></name>
+<etal/>
+</person-group><article-title>The Multidisciplinary Mobile Unit (MMU) Program Bringing Hospital Specialist Geriatric Competencies at Home: A Feasible Alternative to Admission in Older Patients with Urgent Complaints</article-title><source>J. Clin. Med.</source><year>2024</year><volume>13</volume><elocation-id>2720</elocation-id><pub-id pub-id-type="doi">10.3390/jcm13092720</pub-id><pub-id pub-id-type="pmid">38731249</pub-id>
+</element-citation></ref><ref id="B5-diagnostics-14-02799"><label>5.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zychlinski</surname><given-names>N.</given-names></name>
+<name><surname>Fluss</surname><given-names>R.</given-names></name>
+<name><surname>Goldberg</surname><given-names>Y.</given-names></name>
+<name><surname>Zubli</surname><given-names>D.</given-names></name>
+<name><surname>Barkai</surname><given-names>G.</given-names></name>
+<name><surname>Zimlichman</surname><given-names>E.</given-names></name>
+<name><surname>Segal</surname><given-names>G.</given-names></name>
+</person-group><article-title>Tele-medicine controlled hospital at home is associated with better outcomes than hospital stay</article-title><source>PLoS ONE</source><year>2024</year><volume>19</volume><elocation-id>e0309077</elocation-id><pub-id pub-id-type="doi">10.1371/journal.pone.0309077</pub-id><pub-id pub-id-type="pmid">39159148</pub-id>
+</element-citation></ref><ref id="B6-diagnostics-14-02799"><label>6.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Magor</surname><given-names>D.</given-names></name>
+<name><surname>Berkov</surname><given-names>E.</given-names></name>
+<name><surname>Siomin</surname><given-names>D.</given-names></name>
+<name><surname>Karniel</surname><given-names>E.</given-names></name>
+<name><surname>Lasman</surname><given-names>N.</given-names></name>
+<name><surname>Waldman</surname><given-names>L.R.</given-names></name>
+<name><surname>Gringauz</surname><given-names>I.</given-names></name>
+<name><surname>Stern</surname><given-names>S.</given-names></name>
+<name><surname>Kassif</surname><given-names>R.L.</given-names></name>
+<name><surname>Barkai</surname><given-names>G.</given-names></name>
+<etal/>
+</person-group><article-title>Interpretation of Heart and Lungs Sounds Acquired via Remote, Digital Auscultation Reached Fair-to-Substantial Levels of Consensus among Specialist Physicians</article-title><source>Diagnostics</source><year>2023</year><volume>13</volume><elocation-id>3153</elocation-id><pub-id pub-id-type="doi">10.3390/diagnostics13193153</pub-id><pub-id pub-id-type="pmid">37835896</pub-id>
+</element-citation></ref><ref id="B7-diagnostics-14-02799"><label>7.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bonnel</surname><given-names>A.R.</given-names></name>
+<name><surname>Baston</surname><given-names>C.M.</given-names></name>
+<name><surname>Wallace</surname><given-names>P.</given-names></name>
+<name><surname>Panebianco</surname><given-names>N.</given-names></name>
+<name><surname>Kinosian</surname><given-names>B.</given-names></name>
+</person-group><article-title>Using Point-of-Care Ultrasound on Home Visits: The Home-Oriented Ultrasound Examination (HOUSE)</article-title><source>J. Am. Geriatr. Soc.</source><year>2019</year><volume>67</volume><fpage>2662</fpage><lpage>2663</lpage><pub-id pub-id-type="doi">10.1111/jgs.16188</pub-id><pub-id pub-id-type="pmid">31587264</pub-id>
+</element-citation></ref><ref id="B8-diagnostics-14-02799"><label>8.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xirouchaki</surname><given-names>N.</given-names></name>
+<name><surname>Bolaki</surname><given-names>M.</given-names></name>
+<name><surname>Psarologakis</surname><given-names>C.</given-names></name>
+<name><surname>Pediaditis</surname><given-names>E.</given-names></name>
+<name><surname>Proklou</surname><given-names>A.</given-names></name>
+<name><surname>Papadakis</surname><given-names>E.</given-names></name>
+<name><surname>Kondili</surname><given-names>E.</given-names></name>
+<name><surname>Georgopoulos</surname><given-names>D.</given-names></name>
+</person-group><article-title>Thoracic ultrasound use in hospitalized and ambulatory adult patients: A quantitative picture</article-title><source>Ultrasound J.</source><year>2024</year><volume>16</volume><fpage>11</fpage><pub-id pub-id-type="doi">10.1186/s13089-024-00359-4</pub-id><pub-id pub-id-type="pmid">38383809</pub-id>
+</element-citation></ref><ref id="B9-diagnostics-14-02799"><label>9.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Duggan</surname><given-names>N.M.</given-names></name>
+<name><surname>Jowkar</surname><given-names>N.</given-names></name>
+<name><surname>Ma IW</surname><given-names>Y.</given-names></name>
+<name><surname>Schulwolf</surname><given-names>S.</given-names></name>
+<name><surname>Selame</surname><given-names>L.A.</given-names></name>
+<name><surname>Fischetti</surname><given-names>C.E.</given-names></name>
+<name><surname>Kapur</surname><given-names>T.</given-names></name>
+<name><surname>Goldsmith</surname><given-names>A.J.</given-names></name>
+</person-group><article-title>Novice-performed point-of-care ultrasound for home-based imaging</article-title><source>Sci. Rep.</source><year>2022</year><volume>12</volume><elocation-id>20461</elocation-id><pub-id pub-id-type="doi">10.1038/s41598-022-24513-x</pub-id><pub-id pub-id-type="pmid">36443355</pub-id>
+</element-citation></ref><ref id="B10-diagnostics-14-02799"><label>10.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Candel</surname><given-names>F.J.</given-names></name>
+<name><surname>Salavert</surname><given-names>M.</given-names></name>
+<name><surname>Basaras</surname><given-names>M.</given-names></name>
+<name><surname>Borges</surname><given-names>M.</given-names></name>
+<name><surname>Cant&#x000f3;n</surname><given-names>R.</given-names></name>
+<name><surname>Cercenado</surname><given-names>E.</given-names></name>
+<name><surname>Cilloniz</surname><given-names>C.</given-names></name>
+<name><surname>Estella</surname><given-names>&#x000c1;.</given-names></name>
+<name><surname>Garc&#x000ed;a-Lechuz</surname><given-names>J.M.</given-names></name>
+<name><surname>Garnacho Montero</surname><given-names>J.</given-names></name>
+<etal/>
+</person-group><article-title>Ten Issues for Updating in Community-Acquired Pneumonia: An Expert Review</article-title><source>J. Clin. Med.</source><year>2023</year><volume>12</volume><elocation-id>6864</elocation-id><pub-id pub-id-type="doi">10.3390/jcm12216864</pub-id><pub-id pub-id-type="pmid">37959328</pub-id>
+</element-citation></ref><ref id="B11-diagnostics-14-02799"><label>11.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Crotty</surname><given-names>B.H.</given-names></name>
+<name><surname>Dong</surname><given-names>Y.</given-names></name>
+<name><surname>Laud</surname><given-names>P.</given-names></name>
+<name><surname>Hanson</surname><given-names>R.J.</given-names></name>
+<name><surname>Gershkowitz</surname><given-names>B.</given-names></name>
+<name><surname>Penlesky</surname><given-names>A.C.</given-names></name>
+<name><surname>Shah</surname><given-names>N.</given-names></name>
+<name><surname>Anderes</surname><given-names>M.</given-names></name>
+<name><surname>Green</surname><given-names>E.</given-names></name>
+<name><surname>Fickel</surname><given-names>K.</given-names></name>
+<etal/>
+</person-group><article-title>Hospitalization Outcomes Among Patients with COVID-19 Undergoing Remote Monitoring</article-title><source>JAMA Netw. Open</source><year>2022</year><volume>5</volume><fpage>e2221050</fpage><pub-id pub-id-type="doi">10.1001/jamanetworkopen.2022.21050</pub-id><pub-id pub-id-type="pmid">35797044</pub-id>
+</element-citation></ref><ref id="B12-diagnostics-14-02799"><label>12.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dell&#x02019;Aquila</surname><given-names>P.</given-names></name>
+<name><surname>Raimondo</surname><given-names>P.</given-names></name>
+<name><surname>Racanelli</surname><given-names>V.</given-names></name>
+<name><surname>De Luca</surname><given-names>P.</given-names></name>
+<name><surname>De Matteis</surname><given-names>S.</given-names></name>
+<name><surname>Pistone</surname><given-names>A.</given-names></name>
+<name><surname>Melodia</surname><given-names>R.</given-names></name>
+<name><surname>Crudele</surname><given-names>L.</given-names></name>
+<name><surname>Lomazzo</surname><given-names>D.</given-names></name>
+<name><surname>Solimando</surname><given-names>A.G.</given-names></name>
+<etal/>
+</person-group><article-title>Integrated lung ultrasound score for early clinical decision-making in patients with COVID-19: Results and implications</article-title><source>Ultrasound J.</source><year>2022</year><volume>14</volume><fpage>21</fpage><pub-id pub-id-type="doi">10.1186/s13089-022-00264-8</pub-id><pub-id pub-id-type="pmid">35648278</pub-id>
+</element-citation></ref><ref id="B13-diagnostics-14-02799"><label>13.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fabuel Ortega</surname><given-names>P.</given-names></name>
+<name><surname>Almendros Lafuente</surname><given-names>N.</given-names></name>
+<name><surname>C&#x000e1;novas Garc&#x000ed;a</surname><given-names>S.</given-names></name>
+<name><surname>Mart&#x000ed;nez G&#x000e1;lvez</surname><given-names>L.</given-names></name>
+<name><surname>Gonz&#x000e1;lez-Vidal</surname><given-names>A.</given-names></name>
+</person-group><article-title>The correlation between point-of-care ultrasound and digital tomosynthesis when used with suspected COVID-19 pneumonia patients in primary care</article-title><source>Ultrasound J.</source><year>2022</year><volume>14</volume><fpage>11</fpage><pub-id pub-id-type="doi">10.1186/s13089-022-00257-7</pub-id><pub-id pub-id-type="pmid">35192076</pub-id>
+</element-citation></ref><ref id="B14-diagnostics-14-02799"><label>14.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shih</surname><given-names>J.Y.</given-names></name>
+<name><surname>Lee</surname><given-names>L.N.</given-names></name>
+<name><surname>Wu</surname><given-names>H.D.</given-names></name>
+<name><surname>Yu</surname><given-names>C.J.</given-names></name>
+<name><surname>Wang</surname><given-names>H.C.</given-names></name>
+<name><surname>Chang</surname><given-names>Y.L.</given-names></name>
+<name><surname>Yang</surname><given-names>P.C.</given-names></name>
+</person-group><article-title>Sonographic imaging of the trachea</article-title><source>J. Ultrasound Med.</source><year>1997</year><volume>16</volume><fpage>783</fpage><lpage>790</lpage><pub-id pub-id-type="doi">10.7863/jum.1997.16.12.783</pub-id><pub-id pub-id-type="pmid">9401991</pub-id>
+</element-citation></ref><ref id="B15-diagnostics-14-02799"><label>15.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>P.C.</given-names></name>
+<name><surname>Lee</surname><given-names>L.N.</given-names></name>
+<name><surname>Luh</surname><given-names>K.T.</given-names></name>
+<name><surname>Kuo</surname><given-names>S.H.</given-names></name>
+<name><surname>Yang</surname><given-names>S.P.</given-names></name>
+</person-group><article-title>Ultrasonography of Pancoast tumor</article-title><source>Chest</source><year>1988</year><volume>94</volume><fpage>124</fpage><lpage>128</lpage><pub-id pub-id-type="doi">10.1378/chest.94.1.124</pub-id><pub-id pub-id-type="pmid">3289832</pub-id>
+</element-citation></ref><ref id="B16-diagnostics-14-02799"><label>16.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>C.J.</given-names></name>
+<name><surname>Yang</surname><given-names>P.C.</given-names></name>
+<name><surname>Chang</surname><given-names>D.B.</given-names></name>
+<name><surname>Luh</surname><given-names>K.T.</given-names></name>
+</person-group><article-title>Diagnostic and therapeutic use of chest sonography: Value in critically ill patients</article-title><source>AJR Am. J. Roentgenol.</source><year>1992</year><volume>159</volume><fpage>695</fpage><lpage>701</lpage><pub-id pub-id-type="doi">10.2214/ajr.159.4.1529829</pub-id><pub-id pub-id-type="pmid">1529829</pub-id>
+</element-citation></ref><ref id="B17-diagnostics-14-02799"><label>17.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lichtenstein</surname><given-names>D.A.</given-names></name>
+<name><surname>Mezi&#x000e8;re</surname><given-names>G.A.</given-names></name>
+</person-group><article-title>Relevance of lung ultrasound in the diagnosis of acute respiratory failure: The BLUE protocol</article-title><source>Chest</source><year>2008</year><volume>134</volume><fpage>117</fpage><lpage>125</lpage><pub-id pub-id-type="doi">10.1378/chest.07-2800</pub-id><pub-id pub-id-type="pmid">18403664</pub-id>
+</element-citation></ref><ref id="B18-diagnostics-14-02799"><label>18.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lichtenstein</surname><given-names>D.A.</given-names></name>
+</person-group><article-title>Ultrasound in the management of thoracic disease</article-title><source>Crit. Care Med.</source><year>2007</year><volume>35</volume><fpage>S250</fpage><lpage>S261</lpage><pub-id pub-id-type="doi">10.1097/01.CCM.0000260674.60761.85</pub-id><pub-id pub-id-type="pmid">17446785</pub-id>
+</element-citation></ref><ref id="B19-diagnostics-14-02799"><label>19.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lichtenstein</surname><given-names>D.</given-names></name>
+<name><surname>Mezi&#x000e8;re</surname><given-names>G.</given-names></name>
+<name><surname>Biderman</surname><given-names>P.</given-names></name>
+<name><surname>Gepner</surname><given-names>A.</given-names></name>
+</person-group><article-title>The &#x0201c;lung point&#x0201d;: An ultrasound sign specific to pneumothorax</article-title><source>Intensive Care Med.</source><year>2000</year><volume>26</volume><fpage>1434</fpage><lpage>1440</lpage><pub-id pub-id-type="doi">10.1007/s001340000627</pub-id><pub-id pub-id-type="pmid">11126253</pub-id>
+</element-citation></ref><ref id="B20-diagnostics-14-02799"><label>20.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lichtenstein</surname><given-names>D.A.</given-names></name>
+<name><surname>Lascols</surname><given-names>N.</given-names></name>
+<name><surname>Prin</surname><given-names>S.</given-names></name>
+<name><surname>Mezi&#x000e8;re</surname><given-names>G.</given-names></name>
+</person-group><article-title>The &#x0201c;lung pulse&#x0201d;: An early ultrasound sign of complete atelectasis</article-title><source>Intensive Care Med.</source><year>2003</year><volume>29</volume><fpage>2187</fpage><lpage>2192</lpage><pub-id pub-id-type="doi">10.1007/s00134-003-1930-9</pub-id><pub-id pub-id-type="pmid">14557855</pub-id>
+</element-citation></ref><ref id="B21-diagnostics-14-02799"><label>21.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lichtenstein</surname><given-names>D.A.</given-names></name>
+</person-group><article-title>Current Misconceptions in Lung Ultrasound: A Short Guide for Experts</article-title><source>Chest</source><year>2019</year><volume>156</volume><fpage>21</fpage><lpage>25</lpage><pub-id pub-id-type="doi">10.1016/j.chest.2019.02.332</pub-id><pub-id pub-id-type="pmid">30872018</pub-id>
+</element-citation></ref><ref id="B22-diagnostics-14-02799"><label>22.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lichtenstein</surname><given-names>D.A.</given-names></name>
+<name><surname>Mezi&#x000e8;re</surname><given-names>G.A.</given-names></name>
+<name><surname>Lagoueyte</surname><given-names>J.F.</given-names></name>
+<name><surname>Biderman</surname><given-names>P.</given-names></name>
+<name><surname>Goldstein</surname><given-names>I.</given-names></name>
+<name><surname>Gepner</surname><given-names>A.</given-names></name>
+</person-group><article-title>A-lines and B-lines: Lung ultrasound as a bedside tool for predicting pulmonary artery occlusion pressure in the critically ill</article-title><source>Chest</source><year>2009</year><volume>136</volume><fpage>1014</fpage><lpage>1020</lpage><pub-id pub-id-type="doi">10.1378/chest.09-0001</pub-id><pub-id pub-id-type="pmid">19809049</pub-id>
+</element-citation></ref><ref id="B23-diagnostics-14-02799"><label>23.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lo Cricchio</surname><given-names>A.</given-names></name>
+<name><surname>Storelli</surname><given-names>A.</given-names></name>
+<name><surname>Bertoletti</surname><given-names>I.</given-names></name>
+<name><surname>Ciuti</surname><given-names>G.</given-names></name>
+<name><surname>Fabbri</surname><given-names>A.</given-names></name>
+<name><surname>Martinelli</surname><given-names>E.</given-names></name>
+<name><surname>De Santis</surname><given-names>M.C.</given-names></name>
+<name><surname>Mercatelli</surname><given-names>P.</given-names></name>
+<name><surname>El Aoufy</surname><given-names>K.</given-names></name>
+<name><surname>Bellando Randone</surname><given-names>S.</given-names></name>
+<etal/>
+</person-group><article-title>Accuracy of lung ultrasound performed with handheld ultrasound device in internal medicine: An observational study</article-title><source>J. Ultrasound.</source><year>2024</year><volume>27</volume><fpage>825</fpage><lpage>830</lpage><pub-id pub-id-type="doi">10.1007/s40477-024-00941-5</pub-id><pub-id pub-id-type="pmid">39097546</pub-id>
+</element-citation></ref><ref id="B24-diagnostics-14-02799"><label>24.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Haji-Hassan</surname><given-names>M.</given-names></name>
+<name><surname>Lenghel</surname><given-names>L.M.</given-names></name>
+<name><surname>Bolboac&#x00103;</surname><given-names>S.D.</given-names></name>
+</person-group><article-title>Hand-Held Ultrasound of the Lung: A Systematic Review</article-title><source>Diagnostics</source><year>2021</year><volume>11</volume><elocation-id>1381</elocation-id><pub-id pub-id-type="doi">10.3390/diagnostics11081381</pub-id><pub-id pub-id-type="pmid">34441315</pub-id>
+</element-citation></ref><ref id="B25-diagnostics-14-02799"><label>25.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Perez-Sanchez</surname><given-names>A.</given-names></name>
+<name><surname>Johnson</surname><given-names>G.</given-names></name>
+<name><surname>Pucks</surname><given-names>N.</given-names></name>
+<name><surname>Soni</surname><given-names>R.N.</given-names></name>
+<name><surname>Lund TJ</surname><given-names>S.</given-names></name>
+<name><surname>Andrade</surname><given-names>A.J.</given-names></name>
+<name><surname>Le</surname><given-names>M.T.</given-names></name>
+<name><surname>Solis-McCarthy</surname><given-names>J.</given-names></name>
+<name><surname>Wong</surname><given-names>T.</given-names></name>
+<name><surname>Ashraf</surname><given-names>A.</given-names></name>
+<etal/>
+</person-group><article-title>Comparison of 6 handheld ultrasound devices by point-of-care ultrasound experts: A cross-sectional study</article-title><source>Ultrasound J.</source><year>2024</year><volume>16</volume><fpage>45</fpage><pub-id pub-id-type="doi">10.1186/s13089-024-00392-3</pub-id><pub-id pub-id-type="pmid">39356371</pub-id>
+</element-citation></ref><ref id="B26-diagnostics-14-02799"><label>26.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mento</surname><given-names>F.</given-names></name>
+<name><surname>Demi</surname><given-names>L.</given-names></name>
+</person-group><article-title>On the influence of imaging parameters on lung ultrasound B-line artifacts, in vitro study</article-title><source>J. Acoust. Soc. Am.</source><year>2020</year><volume>148</volume><fpage>975</fpage><pub-id pub-id-type="doi">10.1121/10.0001797</pub-id><pub-id pub-id-type="pmid">32873037</pub-id>
+</element-citation></ref><ref id="B27-diagnostics-14-02799"><label>27.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Demi</surname><given-names>L.</given-names></name>
+<name><surname>Wolfram</surname><given-names>F.</given-names></name>
+<name><surname>Klersy</surname><given-names>C.</given-names></name>
+<name><surname>De Silvestri</surname><given-names>A.</given-names></name>
+<name><surname>Ferretti</surname><given-names>V.V.</given-names></name>
+<name><surname>Muller</surname><given-names>M.</given-names></name>
+<name><surname>Miller</surname><given-names>D.</given-names></name>
+<name><surname>Feletti</surname><given-names>F.</given-names></name>
+<name><surname>We&#x00142;nicki</surname><given-names>M.</given-names></name>
+<name><surname>Buda</surname><given-names>N.</given-names></name>
+<etal/>
+</person-group><article-title>New International Guidelines and Consensus on the Use of Lung Ultrasound</article-title><source>J. Ultrasound Med.</source><year>2023</year><volume>42</volume><fpage>309</fpage><lpage>344</lpage><pub-id pub-id-type="doi">10.1002/jum.16088</pub-id><pub-id pub-id-type="pmid">35993596</pub-id>
+</element-citation></ref><ref id="B28-diagnostics-14-02799"><label>28.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Musolino</surname><given-names>A.M.</given-names></name>
+<name><surname>Tom&#x000e0;</surname><given-names>P.</given-names></name>
+<name><surname>Supino</surname><given-names>M.C.</given-names></name>
+<name><surname>Scialanga</surname><given-names>B.</given-names></name>
+<name><surname>Mesturino</surname><given-names>A.</given-names></name>
+<name><surname>Scateni</surname><given-names>S.</given-names></name>
+<name><surname>Battaglia</surname><given-names>M.</given-names></name>
+<name><surname>Pirozzi</surname><given-names>N.</given-names></name>
+<name><surname>Bock</surname><given-names>C.</given-names></name>
+<name><surname>Buonsenso</surname><given-names>D.</given-names></name>
+</person-group><article-title>Lung ultrasound features of children with complicated and noncomplicated community acquired pneumonia: A prospective study</article-title><source>Pediatr. Pulmonol.</source><year>2019</year><volume>54</volume><fpage>1479</fpage><lpage>1486</lpage><pub-id pub-id-type="doi">10.1002/ppul.24426</pub-id><pub-id pub-id-type="pmid">31264383</pub-id>
+</element-citation></ref><ref id="B29-diagnostics-14-02799"><label>29.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Targhetta</surname><given-names>R.</given-names></name>
+<name><surname>Chavagneux</surname><given-names>R.</given-names></name>
+<name><surname>Bourgeois</surname><given-names>J.M.</given-names></name>
+<name><surname>Dauzat</surname><given-names>M.</given-names></name>
+<name><surname>Balmes</surname><given-names>P.</given-names></name>
+<name><surname>Pourcelot</surname><given-names>L.</given-names></name>
+</person-group><article-title>Sonographic approach to diagnosing pulmonary consolidation</article-title><source>J. Ultrasound Med.</source><year>1992</year><volume>11</volume><fpage>667</fpage><lpage>672</lpage><pub-id pub-id-type="doi">10.7863/jum.1992.11.12.667</pub-id><pub-id pub-id-type="pmid">1494199</pub-id>
+</element-citation></ref><ref id="B30-diagnostics-14-02799"><label>30.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Turton</surname><given-names>P.</given-names></name>
+<name><surname>ALAidarous</surname><given-names>S.</given-names></name>
+<name><surname>Welters</surname><given-names>I.</given-names></name>
+</person-group><article-title>A narrative review of diaphragm ultrasound to predict weaning from mechanical ventilation: Where are we and where are we heading?</article-title><source>Ultrasound J.</source><year>2019</year><volume>11</volume><fpage>2</fpage><pub-id pub-id-type="doi">10.1186/s13089-019-0117-8</pub-id><pub-id pub-id-type="pmid">31359260</pub-id>
+</element-citation></ref><ref id="B31-diagnostics-14-02799"><label>31.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Skaarup</surname><given-names>S.H.</given-names></name>
+<name><surname>Juhl-Olsen</surname><given-names>P.</given-names></name>
+<name><surname>Grundahl</surname><given-names>A.S.</given-names></name>
+<name><surname>L&#x000f8;gstrup</surname><given-names>B.B.</given-names></name>
+</person-group><article-title>Replacement of fluoroscopy by ultrasonography in the evaluation of hemidiaphragm function, an exploratory prospective study</article-title><source>Ultrasound J.</source><year>2024</year><volume>16</volume><fpage>1</fpage><pub-id pub-id-type="doi">10.1186/s13089-023-00355-0</pub-id><pub-id pub-id-type="pmid">38189895</pub-id>
+</element-citation></ref><ref id="B32-diagnostics-14-02799"><label>32.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lichtenstein</surname><given-names>D.A.</given-names></name>
+</person-group><article-title>Lung ultrasound in the critically ill</article-title><source>Ann. Intensive Care</source><year>2014</year><volume>4</volume><fpage>1</fpage><pub-id pub-id-type="doi">10.1186/2110-5820-4-1</pub-id><pub-id pub-id-type="pmid">24401163</pub-id>
+</element-citation></ref><ref id="B33-diagnostics-14-02799"><label>33.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Barjaktarevic</surname><given-names>I.</given-names></name>
+<name><surname>Kenny</surname><given-names>J.S.</given-names></name>
+<name><surname>Berlin</surname><given-names>D.</given-names></name>
+<name><surname>Cannesson</surname><given-names>M.</given-names></name>
+</person-group><article-title>The Evolution of Ultrasound in Critical Care: From Procedural Guidance to Hemodynamic Monitor</article-title><source>J Ultrasound Med.</source><year>2021</year><volume>40</volume><fpage>401</fpage><lpage>405</lpage><pub-id pub-id-type="doi">10.1002/jum.15403</pub-id><pub-id pub-id-type="pmid">32750199</pub-id>
+</element-citation></ref><ref id="B34-diagnostics-14-02799"><label>34.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Aichhorn</surname><given-names>L.</given-names></name>
+<name><surname>Habrina</surname><given-names>L.</given-names></name>
+<name><surname>Werther</surname><given-names>T.</given-names></name>
+<name><surname>Berger</surname><given-names>A.</given-names></name>
+<name><surname>K&#x000fc;ng</surname><given-names>E.</given-names></name>
+</person-group><article-title>Comparison of different types of ultrasound probes for lung ultrasound in neonates-A prospective randomized comparison study</article-title><source>PLoS ONE</source><year>2024</year><volume>19</volume><elocation-id>e0306472</elocation-id><pub-id pub-id-type="doi">10.1371/journal.pone.0306472</pub-id><pub-id pub-id-type="pmid">38959257</pub-id>
+</element-citation></ref><ref id="B35-diagnostics-14-02799"><label>35.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Walsh</surname><given-names>M.H.</given-names></name>
+<name><surname>Smyth</surname><given-names>L.M.</given-names></name>
+<name><surname>Desy</surname><given-names>J.R.</given-names></name>
+<name><surname>Fischer</surname><given-names>E.A.</given-names></name>
+<name><surname>Goffi</surname><given-names>A.</given-names></name>
+<name><surname>Li</surname><given-names>N.</given-names></name>
+<name><surname>Lee</surname><given-names>M.</given-names></name>
+<name><surname>St-Pierre</surname><given-names>J.</given-names></name>
+<name><surname>Ma IW</surname><given-names>Y.</given-names></name>
+</person-group><article-title>Lung ultrasound: A comparison of image interpretation accuracy between curvilinear and phased array transducers</article-title><source>Australas. J. Ultrasound Med.</source><year>2023</year><volume>26</volume><fpage>150</fpage><lpage>156</lpage><pub-id pub-id-type="doi">10.1002/ajum.12347</pub-id><pub-id pub-id-type="pmid">37701767</pub-id>
+</element-citation></ref><ref id="B36-diagnostics-14-02799"><label>36.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gutsche</surname><given-names>H.</given-names></name>
+<name><surname>Lesser</surname><given-names>T.G.</given-names></name>
+<name><surname>Wolfram</surname><given-names>F.</given-names></name>
+<name><surname>Doenst</surname><given-names>T.</given-names></name>
+</person-group><article-title>Significance of Lung Ultrasound in Patients with Suspected COVID-19 Infection at Hospital Admission</article-title><source>Diagnostics</source><year>2021</year><volume>11</volume><elocation-id>921</elocation-id><pub-id pub-id-type="doi">10.3390/diagnostics11060921</pub-id><pub-id pub-id-type="pmid">34063861</pub-id>
+</element-citation></ref><ref id="B37-diagnostics-14-02799"><label>37.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Walsh</surname><given-names>M.H.</given-names></name>
+<name><surname>Zhang</surname><given-names>K.X.</given-names></name>
+<name><surname>Cox</surname><given-names>E.J.</given-names></name>
+<name><surname>Chen</surname><given-names>J.M.</given-names></name>
+<name><surname>Cowley</surname><given-names>N.G.</given-names></name>
+<name><surname>Oleynick</surname><given-names>C.J.</given-names></name>
+<name><surname>Smyth</surname><given-names>L.M.</given-names></name>
+<name><surname>Ma IW</surname><given-names>Y.</given-names></name>
+</person-group><article-title>Comparing accuracy of bedside ultrasound examination with physical examination for detection of pleural effusion</article-title><source>Ultrasound J.</source><year>2021</year><volume>13</volume><fpage>40</fpage><pub-id pub-id-type="doi">10.1186/s13089-021-00241-7</pub-id><pub-id pub-id-type="pmid">34487258</pub-id>
+</element-citation></ref><ref id="B38-diagnostics-14-02799"><label>38.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Alrajab</surname><given-names>S.</given-names></name>
+<name><surname>Youssef</surname><given-names>A.M.</given-names></name>
+<name><surname>Akkus</surname><given-names>N.I.</given-names></name>
+<name><surname>Caldito</surname><given-names>G.</given-names></name>
+</person-group><article-title>Pleural ultrasonography versus chest radiography for the diagnosis of pneumothorax: Review of the literature and meta-analysis</article-title><source>Crit. Care</source><year>2013</year><volume>17</volume><fpage>R208</fpage><pub-id pub-id-type="doi">10.1186/cc13016</pub-id><pub-id pub-id-type="pmid">24060427</pub-id>
+</element-citation></ref><ref id="B39-diagnostics-14-02799"><label>39.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Schrift</surname><given-names>D.</given-names></name>
+<name><surname>Barron</surname><given-names>K.</given-names></name>
+<name><surname>Wagner</surname><given-names>M.</given-names></name>
+<name><surname>Arya</surname><given-names>R.</given-names></name>
+</person-group><article-title>A case report of lung ultrasound missing a pneumothorax due to patient positioning</article-title><source>Ultrasound</source><year>2017</year><volume>25</volume><fpage>248</fpage><lpage>250</lpage><pub-id pub-id-type="doi">10.1177/1742271X17708473</pub-id><pub-id pub-id-type="pmid">29163662</pub-id>
+</element-citation></ref><ref id="B40-diagnostics-14-02799"><label>40.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Frasure</surname><given-names>S.E.</given-names></name>
+<name><surname>Matilsky</surname><given-names>D.K.</given-names></name>
+<name><surname>Siadecki</surname><given-names>S.D.</given-names></name>
+<name><surname>Platz</surname><given-names>E.</given-names></name>
+<name><surname>Saul</surname><given-names>T.</given-names></name>
+<name><surname>Lewiss</surname><given-names>R.E.</given-names></name>
+</person-group><article-title>Impact of patient positioning on lung ultrasound findings in acute heart failure</article-title><source>Eur. Heart J. Acute Cardiovasc. Care</source><year>2015</year><volume>4</volume><fpage>326</fpage><lpage>332</lpage><pub-id pub-id-type="doi">10.1177/2048872614551505</pub-id><pub-id pub-id-type="pmid">25225187</pub-id>
+</element-citation></ref><ref id="B41-diagnostics-14-02799"><label>41.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Martindale</surname><given-names>J.L.</given-names></name>
+</person-group><article-title>Resolution of sonographic B-lines as a measure of pulmonary decongestion in acute heart failure</article-title><source>Am. J. Emerg. Med.</source><year>2016</year><volume>34</volume><fpage>1129</fpage><lpage>1132</lpage><pub-id pub-id-type="doi">10.1016/j.ajem.2016.03.043</pub-id><pub-id pub-id-type="pmid">27061502</pub-id>
+</element-citation></ref><ref id="B42-diagnostics-14-02799"><label>42.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Leidi</surname><given-names>A.</given-names></name>
+<name><surname>Soret</surname><given-names>G.</given-names></name>
+<name><surname>Mann</surname><given-names>T.</given-names></name>
+<name><surname>Koegler</surname><given-names>F.</given-names></name>
+<name><surname>Coen</surname><given-names>M.</given-names></name>
+<name><surname>Leszek</surname><given-names>A.</given-names></name>
+<name><surname>Dubouchet</surname><given-names>L.</given-names></name>
+<name><surname>Guillermin</surname><given-names>A.</given-names></name>
+<name><surname>Kaddour</surname><given-names>M.</given-names></name>
+<name><surname>Rouyer</surname><given-names>F.</given-names></name>
+<etal/>
+</person-group><article-title>Eight versus 28-point lung ultrasonography in moderate acute heart failure: A prospective comparative study</article-title><source>Intern. Emerg. Med.</source><year>2022</year><volume>17</volume><fpage>1375</fpage><lpage>1383</lpage><pub-id pub-id-type="doi">10.1007/s11739-022-02943-9</pub-id><pub-id pub-id-type="pmid">35181839</pub-id>
+</element-citation></ref><ref id="B43-diagnostics-14-02799"><label>43.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Terboven</surname><given-names>T.</given-names></name>
+<name><surname>Betka</surname><given-names>I.</given-names></name>
+<name><surname>Weiss</surname><given-names>C.</given-names></name>
+<name><surname>Rudolph</surname><given-names>M.</given-names></name>
+<name><surname>Viergutz</surname><given-names>T.</given-names></name>
+<name><surname>Leonhard</surname><given-names>G.</given-names></name>
+<name><surname>Sch&#x000f6;ler</surname><given-names>M.</given-names></name>
+</person-group><article-title>Sonographic assessment of pediatric chest wall thickness and width of the intercostal space: Correlation with anthropometric data and implications for needle decompression</article-title><source>Ultrasound J.</source><year>2021</year><volume>13</volume><fpage>25</fpage><pub-id pub-id-type="doi">10.1186/s13089-021-00226-6</pub-id><pub-id pub-id-type="pmid">33970385</pub-id>
+</element-citation></ref><ref id="B44-diagnostics-14-02799"><label>44.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kowalczyk</surname><given-names>D.</given-names></name>
+<name><surname>Turkowiak</surname><given-names>M.</given-names></name>
+<name><surname>Piotrowski</surname><given-names>W.J.</given-names></name>
+<name><surname>Rosiak</surname><given-names>O.</given-names></name>
+<name><surname>Bia&#x00142;as</surname><given-names>A.J.</given-names></name>
+</person-group><article-title>Ultrasound on the Frontlines: Empowering Paramedics with Lung Ultrasound for Dyspnea Diagnosis in Adults-A Pilot Study</article-title><source>Diagnostics</source><year>2023</year><volume>13</volume><elocation-id>3412</elocation-id><pub-id pub-id-type="doi">10.3390/diagnostics13223412</pub-id><pub-id pub-id-type="pmid">37998549</pub-id>
+</element-citation></ref><ref id="B45-diagnostics-14-02799"><label>45.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Torres-Macho</surname><given-names>J.</given-names></name>
+<name><surname>S&#x000e1;nchez-Fern&#x000e1;ndez</surname><given-names>M.</given-names></name>
+<name><surname>Arnanz-Gonz&#x000e1;lez</surname><given-names>I.</given-names></name>
+<name><surname>Tung-Chen</surname><given-names>Y.</given-names></name>
+<name><surname>Franco-Moreno</surname><given-names>A.I.</given-names></name>
+<name><surname>Duffort-Falc&#x000f3;</surname><given-names>M.</given-names></name>
+<name><surname>Beltr&#x000e1;n-Romero</surname><given-names>L.</given-names></name>
+<name><surname>Rodr&#x000ed;guez-Suar&#x000e9;z</surname><given-names>S.</given-names></name>
+<name><surname>Bernabeu-Wittel</surname><given-names>M.</given-names></name>
+<name><surname>Urbano</surname><given-names>E.</given-names></name>
+<etal/>
+</person-group><article-title>Prediction Accuracy of Serial Lung Ultrasound in COVID-19 Hospitalized Patients (Pred-Echovid Study)</article-title><source>J. Clin. Med.</source><year>2021</year><volume>10</volume><elocation-id>4818</elocation-id><pub-id pub-id-type="doi">10.3390/jcm10214818</pub-id><pub-id pub-id-type="pmid">34768337</pub-id>
+</element-citation></ref><ref id="B46-diagnostics-14-02799"><label>46.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Nova</surname><given-names>A.</given-names></name>
+<name><surname>Rezoagli</surname><given-names>E.</given-names></name>
+<name><surname>Eronia</surname><given-names>N.</given-names></name>
+<name><surname>Benini</surname><given-names>A.</given-names></name>
+<name><surname>Scognamiglio</surname><given-names>A.</given-names></name>
+<name><surname>Foti</surname><given-names>G.</given-names></name>
+<name><surname>Bellani</surname><given-names>G.</given-names></name>
+</person-group><article-title>Prognostic Performance of Bedside Lung Ultrasound Score (LUSS) and ROX Index in Hypoxemic Respiratory Failure Due to COVID-19</article-title><source>Diagnostics</source><year>2023</year><volume>13</volume><elocation-id>1361</elocation-id><pub-id pub-id-type="doi">10.3390/diagnostics13071361</pub-id><pub-id pub-id-type="pmid">37046578</pub-id>
+</element-citation></ref><ref id="B47-diagnostics-14-02799"><label>47.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Volpicelli</surname><given-names>G.</given-names></name>
+<name><surname>Cardinale</surname><given-names>L.</given-names></name>
+<name><surname>Fraccalini</surname><given-names>T.</given-names></name>
+<name><surname>Calandri</surname><given-names>M.</given-names></name>
+<name><surname>Piatti</surname><given-names>C.</given-names></name>
+<name><surname>Geninatti</surname><given-names>C.</given-names></name>
+<name><surname>Stranieri</surname><given-names>G.</given-names></name>
+</person-group><article-title>Descriptive analysis of a comparison between lung ultrasound and chest radiography in patients suspected of COVID-19</article-title><source>Ultrasound J.</source><year>2021</year><volume>13</volume><fpage>11</fpage><pub-id pub-id-type="doi">10.1186/s13089-021-00215-9</pub-id><pub-id pub-id-type="pmid">33635443</pub-id>
+</element-citation></ref><ref id="B48-diagnostics-14-02799"><label>48.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Heldeweg ML</surname><given-names>A.</given-names></name>
+<name><surname>Vermue</surname><given-names>L.</given-names></name>
+<name><surname>Kant</surname><given-names>M.</given-names></name>
+<name><surname>Brouwer</surname><given-names>M.</given-names></name>
+<name><surname>Girbes AR</surname><given-names>J.</given-names></name>
+<name><surname>Haaksma</surname><given-names>M.E.</given-names></name>
+<name><surname>Heunks LM</surname><given-names>A.</given-names></name>
+<name><surname>Mousa</surname><given-names>A.</given-names></name>
+<name><surname>Smit</surname><given-names>J.M.</given-names></name>
+<name><surname>Smits</surname><given-names>T.W.</given-names></name>
+<etal/>
+</person-group><article-title>The impact of lung ultrasound on clinical-decision making across departments: A systematic review</article-title><source>Ultrasound J.</source><year>2022</year><volume>14</volume><fpage>5</fpage><pub-id pub-id-type="doi">10.1186/s13089-021-00253-3</pub-id><pub-id pub-id-type="pmid">35006383</pub-id>
+</element-citation></ref><ref id="B49-diagnostics-14-02799"><label>49.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Reissig</surname><given-names>A.</given-names></name>
+<name><surname>Copetti</surname><given-names>R.</given-names></name>
+<name><surname>Mathis</surname><given-names>G.</given-names></name>
+<name><surname>Mempel</surname><given-names>C.</given-names></name>
+<name><surname>Schuler</surname><given-names>A.</given-names></name>
+<name><surname>Zechner</surname><given-names>P.</given-names></name>
+<name><surname>Aliberti</surname><given-names>S.</given-names></name>
+<name><surname>Neumann</surname><given-names>R.</given-names></name>
+<name><surname>Kroegel</surname><given-names>C.</given-names></name>
+<name><surname>Hoyer</surname><given-names>H.</given-names></name>
+</person-group><article-title>Lung ultrasound in the diagnosis and follow-up of community-acquired pneumonia: A prospective, multicenter, diagnostic accuracy study</article-title><source>Chest</source><year>2012</year><volume>142</volume><fpage>965</fpage><lpage>972</lpage><pub-id pub-id-type="doi">10.1378/chest.12-0364</pub-id><pub-id pub-id-type="pmid">22700780</pub-id>
+</element-citation></ref><ref id="B50-diagnostics-14-02799"><label>50.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Poggiali</surname><given-names>E.</given-names></name>
+<name><surname>Dacrema</surname><given-names>A.</given-names></name>
+<name><surname>Bastoni</surname><given-names>D.</given-names></name>
+<name><surname>Tinelli</surname><given-names>V.</given-names></name>
+<name><surname>Demichele</surname><given-names>E.</given-names></name>
+<name><surname>Mateo Ramos</surname><given-names>P.</given-names></name>
+<name><surname>Marcian&#x000f2;</surname><given-names>T.</given-names></name>
+<name><surname>Silva</surname><given-names>M.</given-names></name>
+<name><surname>Vercelli</surname><given-names>A.</given-names></name>
+<name><surname>Magnacavallo</surname><given-names>A.</given-names></name>
+</person-group><article-title>Can Lung US Help Critical Care Clinicians in the Early Diagnosis of Novel Coronavirus (COVID-19) Pneumonia?</article-title><source>Radiology</source><year>2020</year><volume>295</volume><fpage>E6</fpage><pub-id pub-id-type="doi">10.1148/radiol.2020200847</pub-id><pub-id pub-id-type="pmid">32167853</pub-id>
+</element-citation></ref><ref id="B51-diagnostics-14-02799"><label>51.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Volpicelli</surname><given-names>G.</given-names></name>
+<name><surname>Gargani</surname><given-names>L.</given-names></name>
+</person-group><article-title>Sonographic signs and patterns of COVID-19 pneumonia</article-title><source>Ultrasound J.</source><year>2020</year><volume>12</volume><fpage>22</fpage><pub-id pub-id-type="doi">10.1186/s13089-020-00171-w</pub-id><pub-id pub-id-type="pmid">32318891</pub-id>
+</element-citation></ref><ref id="B52-diagnostics-14-02799"><label>52.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bekgoz</surname><given-names>B.</given-names></name>
+<name><surname>Kilicaslan</surname><given-names>I.</given-names></name>
+<name><surname>Bildik</surname><given-names>F.</given-names></name>
+<name><surname>Keles</surname><given-names>A.</given-names></name>
+<name><surname>Demircan</surname><given-names>A.</given-names></name>
+<name><surname>Hakoglu</surname><given-names>O.</given-names></name>
+<name><surname>Coskun</surname><given-names>G.</given-names></name>
+<name><surname>Demir</surname><given-names>H.A.</given-names></name>
+</person-group><article-title>BLUE protocol ultrasonography in Emergency Department patients presenting with acute dyspnea</article-title><source>Am. J. Emerg. Med.</source><year>2019</year><volume>37</volume><fpage>2020</fpage><lpage>2027</lpage><pub-id pub-id-type="doi">10.1016/j.ajem.2019.02.028</pub-id><pub-id pub-id-type="pmid">30819579</pub-id>
+</element-citation></ref><ref id="B53-diagnostics-14-02799"><label>53.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Leote</surname><given-names>J.</given-names></name>
+<name><surname>Judas</surname><given-names>T.</given-names></name>
+<name><surname>Broa</surname><given-names>A.L.</given-names></name>
+<name><surname>Lopes</surname><given-names>M.</given-names></name>
+<name><surname>Abecasis</surname><given-names>F.</given-names></name>
+<name><surname>Pintassilgo</surname><given-names>I.</given-names></name>
+<name><surname>Gon&#x000e7;alves</surname><given-names>A.</given-names></name>
+<name><surname>Gonzalez</surname><given-names>F.</given-names></name>
+</person-group><article-title>Time course of lung ultrasound findings in patients with COVID-19 pneumonia and cardiac dysfunction</article-title><source>Ultrasound J.</source><year>2022</year><volume>14</volume><fpage>28</fpage><pub-id pub-id-type="doi">10.1186/s13089-022-00278-2</pub-id><pub-id pub-id-type="pmid">35796809</pub-id>
+</element-citation></ref><ref id="B54-diagnostics-14-02799"><label>54.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kowalczyk</surname><given-names>D.</given-names></name>
+<name><surname>Turkowiak</surname><given-names>M.</given-names></name>
+<name><surname>Piotrowski</surname><given-names>W.J.</given-names></name>
+<name><surname>Rosiak</surname><given-names>O.</given-names></name>
+<name><surname>Bia&#x00142;as</surname><given-names>A.J.</given-names></name>
+</person-group><article-title>Unlocking Diagnostic Precision: FATE Protocol Integration with BLUE and eFAST Protocols for Enhanced Pre-Hospital Differential Diagnosis of Pleural Effusion Manifested as Dyspnea in Adults-A Pilot Study</article-title><source>J. Clin. Med.</source><year>2024</year><volume>13</volume><elocation-id>1573</elocation-id><pub-id pub-id-type="doi">10.3390/jcm13061573</pub-id><pub-id pub-id-type="pmid">38541799</pub-id>
+</element-citation></ref><ref id="B55-diagnostics-14-02799"><label>55.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xue</surname><given-names>H.</given-names></name>
+<name><surname>Li</surname><given-names>C.</given-names></name>
+<name><surname>Cui</surname><given-names>L.</given-names></name>
+<name><surname>Tian</surname><given-names>C.</given-names></name>
+<name><surname>Li</surname><given-names>S.</given-names></name>
+<name><surname>Wang</surname><given-names>Z.</given-names></name>
+<name><surname>Liu</surname><given-names>C.</given-names></name>
+<name><surname>Ge</surname><given-names>Q.</given-names></name>
+</person-group><article-title>M-BLUE protocol for coronavirus disease-19 (COVID-19) patients: Interobserver variability and correlation with disease severity</article-title><source>Clin. Radiol.</source><year>2021</year><volume>76</volume><fpage>379</fpage><lpage>383</lpage><pub-id pub-id-type="doi">10.1016/j.crad.2021.02.003</pub-id><pub-id pub-id-type="pmid">33663912</pub-id>
+</element-citation></ref><ref id="B56-diagnostics-14-02799"><label>56.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Volpicelli</surname><given-names>G.</given-names></name>
+<name><surname>Mussa</surname><given-names>A.</given-names></name>
+<name><surname>Garofalo</surname><given-names>G.</given-names></name>
+<name><surname>Cardinale</surname><given-names>L.</given-names></name>
+<name><surname>Casoli</surname><given-names>G.</given-names></name>
+<name><surname>Perotto</surname><given-names>F.</given-names></name>
+<name><surname>Fava</surname><given-names>C.</given-names></name>
+<name><surname>Frascisco</surname><given-names>M.</given-names></name>
+</person-group><article-title>Bedside lung ultrasound in the assessment of alveolar-interstitial syndrome</article-title><source>Am. J. Emerg. Med.</source><year>2006</year><volume>24</volume><fpage>689</fpage><lpage>696</lpage><pub-id pub-id-type="doi">10.1016/j.ajem.2006.02.013</pub-id><pub-id pub-id-type="pmid">16984837</pub-id>
+</element-citation></ref><ref id="B57-diagnostics-14-02799"><label>57.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mateos Gonz&#x000e1;lez</surname><given-names>M.</given-names></name>
+<name><surname>Garc&#x000ed;a de Casasola S&#x000e1;nchez</surname><given-names>G.</given-names></name>
+<name><surname>Mu&#x000f1;oz FJ</surname><given-names>T.</given-names></name>
+<name><surname>Proud</surname><given-names>K.</given-names></name>
+<name><surname>Lourdo</surname><given-names>D.</given-names></name>
+<name><surname>Sander</surname><given-names>J.V.</given-names></name>
+<name><surname>Jaimes GE</surname><given-names>O.</given-names></name>
+<name><surname>Mader</surname><given-names>M.</given-names></name>
+<name><surname>Canora Lebrato</surname><given-names>J.</given-names></name>
+<name><surname>Restrepo</surname><given-names>M.I.</given-names></name>
+<etal/>
+</person-group><article-title>Comparison of Lung Ultrasound versus Chest X-ray for Detection of Pulmonary Infiltrates in COVID-19</article-title><source>Diagnostics</source><year>2021</year><volume>11</volume><elocation-id>373</elocation-id><pub-id pub-id-type="doi">10.3390/diagnostics11020373</pub-id><pub-id pub-id-type="pmid">33671699</pub-id>
+</element-citation></ref><ref id="B58-diagnostics-14-02799"><label>58.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tung-Chen</surname><given-names>Y.</given-names></name>
+<name><surname>Ossaba-V&#x000e9;lez</surname><given-names>S.</given-names></name>
+<name><surname>Acosta Vel&#x000e1;squez</surname><given-names>K.S.</given-names></name>
+<name><surname>Parra-Gordo</surname><given-names>M.L.</given-names></name>
+<name><surname>D&#x000ed;ez-Tasc&#x000f3;n</surname><given-names>A.</given-names></name>
+<name><surname>Vill&#x000e9;n-Villegas</surname><given-names>T.</given-names></name>
+<name><surname>Montero-Hern&#x000e1;ndez</surname><given-names>E.</given-names></name>
+<name><surname>Guti&#x000e9;rrez-Villanueva</surname><given-names>A.</given-names></name>
+<name><surname>Trueba-Vicente</surname><given-names>&#x000c1;.</given-names></name>
+<name><surname>Arenas-Berenguer</surname><given-names>I.</given-names></name>
+<etal/>
+</person-group><article-title>The Impact of Different Lung Ultrasound Protocols in the Assessment of Lung Lesions in COVID-19 Patients: Is There an Ideal Lung Ultrasound Protocol?</article-title><source>J. Ultrasound.</source><year>2022</year><volume>25</volume><fpage>483</fpage><lpage>491</lpage><pub-id pub-id-type="doi">10.1007/s40477-021-00610-x</pub-id><pub-id pub-id-type="pmid">34855187</pub-id>
+</element-citation></ref><ref id="B59-diagnostics-14-02799"><label>59.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mancusi</surname><given-names>C.</given-names></name>
+<name><surname>Fucile</surname><given-names>I.</given-names></name>
+<name><surname>Gargiulo</surname><given-names>P.</given-names></name>
+<name><surname>Mosca</surname><given-names>M.</given-names></name>
+<name><surname>Migliaccio</surname><given-names>B.</given-names></name>
+<name><surname>Basile</surname><given-names>C.</given-names></name>
+<name><surname>Gargiulo</surname><given-names>G.</given-names></name>
+<name><surname>Santoro</surname><given-names>C.</given-names></name>
+<name><surname>Morisco</surname><given-names>C.</given-names></name>
+<name><surname>De Luca</surname><given-names>N.</given-names></name>
+<etal/>
+</person-group><article-title>Lung Ultrasound in Coronary Care Unit, an Important Diagnostic Tool for Concomitant Pneumonia</article-title><source>Diagnostics</source><year>2022</year><volume>12</volume><elocation-id>3082</elocation-id><pub-id pub-id-type="doi">10.3390/diagnostics12123082</pub-id><pub-id pub-id-type="pmid">36553089</pub-id>
+</element-citation></ref><ref id="B60-diagnostics-14-02799"><label>60.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kumar</surname><given-names>A.</given-names></name>
+<name><surname>Weng</surname><given-names>Y.</given-names></name>
+<name><surname>Graglia</surname><given-names>S.</given-names></name>
+<name><surname>Chung</surname><given-names>S.</given-names></name>
+<name><surname>Duanmu</surname><given-names>Y.</given-names></name>
+<name><surname>Lalani</surname><given-names>F.</given-names></name>
+<name><surname>Gandhi</surname><given-names>K.</given-names></name>
+<name><surname>Lobo</surname><given-names>V.</given-names></name>
+<name><surname>Jensen</surname><given-names>T.</given-names></name>
+<name><surname>Nahn</surname><given-names>J.</given-names></name>
+<etal/>
+</person-group><article-title>Interobserver Agreement of Lung Ultrasound Findings of COVID-19</article-title><source>J. Ultrasound Med.</source><year>2021</year><volume>40</volume><fpage>2369</fpage><lpage>2376</lpage><pub-id pub-id-type="doi">10.1002/jum.15620</pub-id><pub-id pub-id-type="pmid">33426734</pub-id>
+</element-citation></ref><ref id="B61-diagnostics-14-02799"><label>61.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lightowler</surname><given-names>M.S.</given-names></name>
+<name><surname>Sander</surname><given-names>J.V.</given-names></name>
+<name><surname>Garc&#x000ed;a de Casasola S&#x000e1;nchez</surname><given-names>G.</given-names></name>
+<name><surname>Mateos Gonz&#x000e1;lez</surname><given-names>M.</given-names></name>
+<name><surname>G&#x000fc;erri-Fern&#x000e1;ndez</surname><given-names>R.</given-names></name>
+<name><surname>Lorenzo Navarro</surname><given-names>M.D.</given-names></name>
+<name><surname>Nackers</surname><given-names>F.</given-names></name>
+<name><surname>Stratta</surname><given-names>E.</given-names></name>
+<name><surname>Lanusse</surname><given-names>C.</given-names></name>
+<name><surname>Huerga</surname><given-names>H.</given-names></name>
+</person-group><article-title>Evaluation of a Lung Ultrasound Score in Hospitalized Adult Patients with COVID-19 in Barcelona, Spain</article-title><source>J. Clin. Med.</source><year>2024</year><volume>13</volume><elocation-id>3282</elocation-id><pub-id pub-id-type="doi">10.3390/jcm13113282</pub-id><pub-id pub-id-type="pmid">38892993</pub-id>
+</element-citation></ref><ref id="B62-diagnostics-14-02799"><label>62.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Brenner</surname><given-names>D.S.</given-names></name>
+<name><surname>Liu</surname><given-names>G.Y.</given-names></name>
+<name><surname>Omron</surname><given-names>R.</given-names></name>
+<name><surname>Tang</surname><given-names>O.</given-names></name>
+<name><surname>Garibaldi</surname><given-names>B.T.</given-names></name>
+<name><surname>Fong</surname><given-names>T.C.</given-names></name>
+</person-group><article-title>Diagnostic accuracy of lung ultrasound for SARS-CoV-2: A retrospective cohort study</article-title><source>Ultrasound J.</source><year>2021</year><volume>13</volume><fpage>12</fpage><pub-id pub-id-type="doi">10.1186/s13089-021-00217-7</pub-id><pub-id pub-id-type="pmid">33644829</pub-id>
+</element-citation></ref><ref id="B63-diagnostics-14-02799"><label>63.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lugar&#x000e0;</surname><given-names>M.</given-names></name>
+<name><surname>Tamburrini</surname><given-names>S.</given-names></name>
+<name><surname>Coppola</surname><given-names>M.G.</given-names></name>
+<name><surname>Oliva</surname><given-names>G.</given-names></name>
+<name><surname>Fiorini</surname><given-names>V.</given-names></name>
+<name><surname>Catalano</surname><given-names>M.</given-names></name>
+<name><surname>Carbone</surname><given-names>R.</given-names></name>
+<name><surname>Saturnino</surname><given-names>P.P.</given-names></name>
+<name><surname>Rosano</surname><given-names>N.</given-names></name>
+<name><surname>Pesce</surname><given-names>A.</given-names></name>
+<etal/>
+</person-group><article-title>The Role of Lung Ultrasound in SARS-CoV-19 Pneumonia Management</article-title><source>Diagnostics</source><year>2022</year><volume>12</volume><elocation-id>1856</elocation-id><pub-id pub-id-type="doi">10.3390/diagnostics12081856</pub-id><pub-id pub-id-type="pmid">36010207</pub-id>
+</element-citation></ref><ref id="B64-diagnostics-14-02799"><label>64.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Laursen</surname><given-names>C.B.</given-names></name>
+<name><surname>Sloth</surname><given-names>E.</given-names></name>
+<name><surname>Lambrechtsen</surname><given-names>J.</given-names></name>
+<name><surname>Lassen</surname><given-names>A.T.</given-names></name>
+<name><surname>Madsen</surname><given-names>P.H.</given-names></name>
+<name><surname>Henriksen</surname><given-names>D.P.</given-names></name>
+<name><surname>Davidsen</surname><given-names>J.R.</given-names></name>
+<name><surname>Rasmussen</surname><given-names>F.</given-names></name>
+</person-group><article-title>Focused sonography of the heart, lungs, and deep veins identifies missed life-threatening conditions in admitted patients with acute respiratory symptoms</article-title><source>Chest</source><year>2013</year><volume>144</volume><fpage>1868</fpage><lpage>1875</lpage><pub-id pub-id-type="doi">10.1378/chest.13-0882</pub-id><pub-id pub-id-type="pmid">23948720</pub-id>
+</element-citation></ref><ref id="B65-diagnostics-14-02799"><label>65.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Filipiak-Strzecka</surname><given-names>D.</given-names></name>
+<name><surname>Kasprzak</surname><given-names>J.D.</given-names></name>
+<name><surname>Lipiec</surname><given-names>P.</given-names></name>
+</person-group><article-title>Integrated Assessment of Heart, Lung and Lower Extremity Veins Using Hand-Held Ultrasound Device in COVID-19 Patients: Feasibility and Clinical Application</article-title><source>Diagnostics</source><year>2023</year><volume>13</volume><elocation-id>724</elocation-id><pub-id pub-id-type="doi">10.3390/diagnostics13040724</pub-id><pub-id pub-id-type="pmid">36832210</pub-id>
+</element-citation></ref><ref id="B66-diagnostics-14-02799"><label>66.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lorentzen</surname><given-names>M.J.</given-names></name>
+<name><surname>Kristensen</surname><given-names>A.H.</given-names></name>
+<name><surname>Kaldan</surname><given-names>F.P.</given-names></name>
+<name><surname>Cartuliares</surname><given-names>M.B.</given-names></name>
+<name><surname>Hertz</surname><given-names>M.A.</given-names></name>
+<name><surname>Specht</surname><given-names>J.J.</given-names></name>
+<name><surname>Posth</surname><given-names>S.</given-names></name>
+<name><surname>Lindberg MJ</surname><given-names>H.</given-names></name>
+<name><surname>Skaarup</surname><given-names>S.H.</given-names></name>
+<name><surname>Hansen</surname><given-names>M.R.</given-names></name>
+<etal/>
+</person-group><article-title>Handheld Ultrasound Devices Used by Newly Certified Operators for Pneumonia in the Emergency Department-A Diagnostic Accuracy Study</article-title><source>Diagnostics</source><year>2024</year><volume>14</volume><elocation-id>1921</elocation-id><pub-id pub-id-type="doi">10.3390/diagnostics14171921</pub-id><pub-id pub-id-type="pmid">39272706</pub-id>
+</element-citation></ref><ref id="B67-diagnostics-14-02799"><label>67.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Perrone</surname><given-names>T.</given-names></name>
+<name><surname>Soldati</surname><given-names>G.</given-names></name>
+<name><surname>Padovini</surname><given-names>L.</given-names></name>
+<name><surname>Fiengo</surname><given-names>A.</given-names></name>
+<name><surname>Lettieri</surname><given-names>G.</given-names></name>
+<name><surname>Sabatini</surname><given-names>U.</given-names></name>
+<name><surname>Gori</surname><given-names>G.</given-names></name>
+<name><surname>Lepore</surname><given-names>F.</given-names></name>
+<name><surname>Garolfi</surname><given-names>M.</given-names></name>
+<name><surname>Palumbo</surname><given-names>I.</given-names></name>
+<etal/>
+</person-group><article-title>A New Lung Ultrasound Protocol Able to Predict Worsening in Patients Affected by Severe Acute Respiratory Syndrome Coronavirus 2 Pneumonia</article-title><source>J. Ultrasound Med.</source><year>2021</year><volume>40</volume><fpage>1627</fpage><lpage>1635</lpage><pub-id pub-id-type="doi">10.1002/jum.15548</pub-id><pub-id pub-id-type="pmid">33155689</pub-id>
+</element-citation></ref><ref id="B68-diagnostics-14-02799"><label>68.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bedetti</surname><given-names>G.</given-names></name>
+<name><surname>Gargani</surname><given-names>L.</given-names></name>
+<name><surname>Corbisiero</surname><given-names>A.</given-names></name>
+<name><surname>Frassi</surname><given-names>F.</given-names></name>
+<name><surname>Poggianti</surname><given-names>E.</given-names></name>
+<name><surname>Mottola</surname><given-names>G.</given-names></name>
+</person-group><article-title>Evaluation of ultrasound lung comets by hand-held echocardiography</article-title><source>Cardiovasc. Ultrasound.</source><year>2006</year><volume>4</volume><fpage>34</fpage><pub-id pub-id-type="doi">10.1186/1476-7120-4-34</pub-id><pub-id pub-id-type="pmid">16945139</pub-id>
+</element-citation></ref><ref id="B69-diagnostics-14-02799"><label>69.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Volpicelli</surname><given-names>G.</given-names></name>
+<name><surname>Elbarbary</surname><given-names>M.</given-names></name>
+<name><surname>Blaivas</surname><given-names>M.</given-names></name>
+<name><surname>Lichtenstein</surname><given-names>D.A.</given-names></name>
+<name><surname>Mathis</surname><given-names>G.</given-names></name>
+<name><surname>Kirkpatrick</surname><given-names>A.W.</given-names></name>
+<name><surname>Melniker</surname><given-names>L.</given-names></name>
+<name><surname>Gargani</surname><given-names>L.</given-names></name>
+<name><surname>Noble</surname><given-names>V.E.</given-names></name>
+<name><surname>Via</surname><given-names>G.</given-names></name>
+<etal/>
+</person-group><article-title>International evidence-based recommendations for point-of-care lung ultrasound</article-title><source>Intensive Care Med.</source><year>2012</year><volume>38</volume><fpage>577</fpage><lpage>591</lpage><pub-id pub-id-type="doi">10.1007/s00134-012-2513-4</pub-id><pub-id pub-id-type="pmid">22392031</pub-id>
+</element-citation></ref><ref id="B70-diagnostics-14-02799"><label>70.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Targhetta</surname><given-names>R.</given-names></name>
+<name><surname>Chavagneux</surname><given-names>R.</given-names></name>
+<name><surname>Balmes</surname><given-names>P.</given-names></name>
+<name><surname>Lemerre</surname><given-names>C.</given-names></name>
+<name><surname>Mauboussin</surname><given-names>J.M.</given-names></name>
+<name><surname>Bourgeois</surname><given-names>J.M.</given-names></name>
+<name><surname>Pourcelot</surname><given-names>L.</given-names></name>
+</person-group><article-title>Sonographic lung surface evaluation in pulmonary sarcoidosis: Preliminary results</article-title><source>J. Ultrasound Med.</source><year>1994</year><volume>13</volume><fpage>381</fpage><lpage>388</lpage><pub-id pub-id-type="doi">10.7863/jum.1994.13.5.381</pub-id><pub-id pub-id-type="pmid">8015046</pub-id>
+</element-citation></ref><ref id="B71-diagnostics-14-02799"><label>71.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gehmacher</surname><given-names>O.</given-names></name>
+<name><surname>Mathis</surname><given-names>G.</given-names></name>
+<name><surname>Kopf</surname><given-names>A.</given-names></name>
+<name><surname>Scheier</surname><given-names>M.</given-names></name>
+</person-group><article-title>Ultrasound imaging of pneumonia</article-title><source>Ultrasound Med. Biol.</source><year>1995</year><volume>21</volume><fpage>1119</fpage><lpage>1122</lpage><pub-id pub-id-type="doi">10.1016/0301-5629(95)02003-9</pub-id><pub-id pub-id-type="pmid">8849826</pub-id>
+</element-citation></ref><ref id="B72-diagnostics-14-02799"><label>72.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lichtenstein</surname><given-names>D.</given-names></name>
+<name><surname>M&#x000e9;zi&#x000e8;re</surname><given-names>G.</given-names></name>
+<name><surname>Biderman</surname><given-names>P.</given-names></name>
+<name><surname>Gepner</surname><given-names>A.</given-names></name>
+<name><surname>Barr&#x000e9;</surname><given-names>O.</given-names></name>
+</person-group><article-title>The comet-tail artifact. An ultrasound sign of alveolar-interstitial syndrome</article-title><source>Am. J. Respir. Crit. Care Med.</source><year>1997</year><volume>156</volume><fpage>1640</fpage><lpage>1646</lpage><pub-id pub-id-type="doi">10.1164/ajrccm.156.5.96-07096</pub-id><pub-id pub-id-type="pmid">9372688</pub-id>
+</element-citation></ref><ref id="B73-diagnostics-14-02799"><label>73.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Arntfield</surname><given-names>R.</given-names></name>
+<name><surname>Wu</surname><given-names>D.</given-names></name>
+<name><surname>Tschirhart</surname><given-names>J.</given-names></name>
+<name><surname>VanBerlo</surname><given-names>B.</given-names></name>
+<name><surname>Ford</surname><given-names>A.</given-names></name>
+<name><surname>Ho</surname><given-names>J.</given-names></name>
+<name><surname>McCauley</surname><given-names>J.</given-names></name>
+<name><surname>Wu</surname><given-names>B.</given-names></name>
+<name><surname>Deglint</surname><given-names>J.</given-names></name>
+<name><surname>Chaudhary</surname><given-names>R.</given-names></name>
+<etal/>
+</person-group><article-title>Automation of Lung Ultrasound Interpretation via Deep Learning for the Classification of Normal versus Abnormal Lung Parenchyma: A Multicenter Study</article-title><source>Diagnostics</source><year>2021</year><volume>11</volume><elocation-id>2049</elocation-id><pub-id pub-id-type="doi">10.3390/diagnostics11112049</pub-id><pub-id pub-id-type="pmid">34829396</pub-id>
+</element-citation></ref><ref id="B74-diagnostics-14-02799"><label>74.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mendrala</surname><given-names>K.</given-names></name>
+<name><surname>Kosi&#x00144;ski</surname><given-names>S.</given-names></name>
+<name><surname>Czober</surname><given-names>T.</given-names></name>
+<name><surname>Podsiad&#x00142;o</surname><given-names>P.</given-names></name>
+<name><surname>Skoczy&#x00144;ski</surname><given-names>S.</given-names></name>
+<name><surname>Darocha</surname><given-names>T.</given-names></name>
+</person-group><article-title>Detection of Pneumothorax in Severe Acute Respiratory Distress Syndrome-Lung Ultrasound Pitfalls</article-title><source>Diagnostics</source><year>2024</year><volume>14</volume><elocation-id>206</elocation-id><pub-id pub-id-type="doi">10.3390/diagnostics14020206</pub-id><pub-id pub-id-type="pmid">38248082</pub-id>
+</element-citation></ref><ref id="B75-diagnostics-14-02799"><label>75.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fiza</surname><given-names>B.</given-names></name>
+<name><surname>Moll</surname><given-names>V.</given-names></name>
+<name><surname>Ferrero</surname><given-names>N.</given-names></name>
+</person-group><article-title>The Lung Point: Early Identification of Pneumothorax on Point of Care Ultrasound</article-title><source>Anesthesiology</source><year>2019</year><volume>131</volume><fpage>1148</fpage><pub-id pub-id-type="doi">10.1097/ALN.0000000000002843</pub-id><pub-id pub-id-type="pmid">31205072</pub-id>
+</element-citation></ref><ref id="B76-diagnostics-14-02799"><label>76.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lichtenstein</surname><given-names>D.</given-names></name>
+<name><surname>Mezi&#x000e8;re</surname><given-names>G.</given-names></name>
+<name><surname>Seitz</surname><given-names>J.</given-names></name>
+</person-group><article-title>The dynamic air bronchogram. A lung ultrasound sign of alveolar consolidation ruling out atelectasis</article-title><source>Chest</source><year>2009</year><volume>135</volume><fpage>1421</fpage><lpage>1425</lpage><pub-id pub-id-type="doi">10.1378/chest.08-2281</pub-id><pub-id pub-id-type="pmid">19225063</pub-id>
+</element-citation></ref><ref id="B77-diagnostics-14-02799"><label>77.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lichtenstein</surname><given-names>D.A.</given-names></name>
+</person-group><article-title>BLUE-protocol and FALLS-protocol: Two applications of lung ultrasound in the critically ill</article-title><source>Chest</source><year>2015</year><volume>147</volume><fpage>1659</fpage><lpage>1670</lpage><pub-id pub-id-type="doi">10.1378/chest.14-1313</pub-id><pub-id pub-id-type="pmid">26033127</pub-id>
+</element-citation></ref><ref id="B78-diagnostics-14-02799"><label>78.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sultan</surname><given-names>S.R.</given-names></name>
+</person-group><article-title>Association Between Lung Ultrasound Patterns and Pneumonia</article-title><source>Ultrasound Q.</source><year>2022</year><volume>38</volume><fpage>246</fpage><lpage>249</lpage><pub-id pub-id-type="doi">10.1097/RUQ.0000000000000598</pub-id><pub-id pub-id-type="pmid">35235542</pub-id>
+</element-citation></ref><ref id="B79-diagnostics-14-02799"><label>79.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Persona</surname><given-names>B.P.</given-names></name>
+<name><surname>Valeri</surname><given-names>I.</given-names></name>
+<name><surname>Zarantonello</surname><given-names>F.</given-names></name>
+<name><surname>Forin</surname><given-names>E.</given-names></name>
+<name><surname>Sella</surname><given-names>N.</given-names></name>
+<name><surname>Andreatta</surname><given-names>G.</given-names></name>
+<name><surname>Correale</surname><given-names>C.</given-names></name>
+<name><surname>Serra</surname><given-names>E.</given-names></name>
+<name><surname>Boscolo</surname><given-names>A.</given-names></name>
+<name><surname>Volpicelli</surname><given-names>G.</given-names></name>
+<etal/>
+</person-group><article-title>Patients in intensive care unit for COVID-19 pneumonia: The lung ultrasound patterns at admission and discharge. An observational pilot study</article-title><source>Ultrasound J.</source><year>2021</year><volume>13</volume><fpage>15</fpage><pub-id pub-id-type="doi">10.1186/s13089-021-00219-5</pub-id><pub-id pub-id-type="pmid">33687576</pub-id>
+</element-citation></ref><ref id="B80-diagnostics-14-02799"><label>80.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>P.C.</given-names></name>
+<name><surname>Chang</surname><given-names>D.B.</given-names></name>
+<name><surname>Yu</surname><given-names>C.J.</given-names></name>
+<name><surname>Lee</surname><given-names>Y.C.</given-names></name>
+<name><surname>Kuo</surname><given-names>S.H.</given-names></name>
+<name><surname>Luh</surname><given-names>K.T.</given-names></name>
+</person-group><article-title>Ultrasound guided percutaneous cutting biopsy for the diagnosis of pulmonary consolidations of unknown aetiology</article-title><source>Thorax</source><year>1992</year><volume>47</volume><fpage>457</fpage><lpage>460</lpage><pub-id pub-id-type="doi">10.1136/thx.47.6.457</pub-id><pub-id pub-id-type="pmid">1496506</pub-id>
+</element-citation></ref><ref id="B81-diagnostics-14-02799"><label>81.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Weinberg</surname><given-names>B.</given-names></name>
+<name><surname>Diakoumakis</surname><given-names>E.E.</given-names></name>
+<name><surname>Kass</surname><given-names>E.G.</given-names></name>
+<name><surname>Seife</surname><given-names>B.</given-names></name>
+<name><surname>Zvi</surname><given-names>Z.B.</given-names></name>
+</person-group><article-title>The air bronchogram: Sonographic demonstration</article-title><source>AJR Am. J. Roentgenol.</source><year>1986</year><volume>147</volume><fpage>593</fpage><lpage>595</lpage><pub-id pub-id-type="doi">10.2214/ajr.147.3.593</pub-id><pub-id pub-id-type="pmid">3526846</pub-id>
+</element-citation></ref><ref id="B82-diagnostics-14-02799"><label>82.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ionescu</surname><given-names>M.D.</given-names></name>
+<name><surname>Balgradean</surname><given-names>M.</given-names></name>
+<name><surname>Filip</surname><given-names>C.</given-names></name>
+<name><surname>Taras</surname><given-names>R.</given-names></name>
+<name><surname>Capitanescu</surname><given-names>G.M.</given-names></name>
+<name><surname>Berghea</surname><given-names>F.</given-names></name>
+<name><surname>Berghea</surname><given-names>C.E.</given-names></name>
+<name><surname>Cirstoveanu</surname><given-names>C.G.</given-names></name>
+</person-group><article-title>The role of lung ultrasonography in predicting the clinical outcome of complicated community-acquired pneumonia in hospitalized children</article-title><source>Med. Ultrason.</source><year>2022</year><volume>24</volume><fpage>19</fpage><lpage>26</lpage><pub-id pub-id-type="doi">10.11152/mu-3124</pub-id><pub-id pub-id-type="pmid">34379711</pub-id>
+</element-citation></ref><ref id="B83-diagnostics-14-02799"><label>83.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mathis</surname><given-names>G.</given-names></name>
+</person-group><article-title>Thoraxsonography&#x02014;Part II: Peripheral pulmonary consolidation</article-title><source>Ultrasound Med. Biol.</source><year>1997</year><volume>23</volume><fpage>1141</fpage><lpage>1153</lpage><pub-id pub-id-type="doi">10.1016/S0301-5629(97)00111-7</pub-id><pub-id pub-id-type="pmid">9372562</pub-id>
+</element-citation></ref><ref id="B84-diagnostics-14-02799"><label>84.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kocijancic</surname><given-names>I.</given-names></name>
+<name><surname>Kocijancic</surname><given-names>K.</given-names></name>
+<name><surname>Cufer</surname><given-names>T.</given-names></name>
+</person-group><article-title>Imaging of pleural fluid in healthy individuals</article-title><source>Clin. Radiol.</source><year>2004</year><volume>59</volume><fpage>826</fpage><lpage>829</lpage><pub-id pub-id-type="doi">10.1016/j.crad.2004.01.017</pub-id><pub-id pub-id-type="pmid">15351248</pub-id>
+</element-citation></ref><ref id="B85-diagnostics-14-02799"><label>85.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dietrich</surname><given-names>C.F.</given-names></name>
+<name><surname>Mathis</surname><given-names>G.</given-names></name>
+<name><surname>Cui</surname><given-names>X.W.</given-names></name>
+<name><surname>Ignee</surname><given-names>A.</given-names></name>
+<name><surname>Hocke</surname><given-names>M.</given-names></name>
+<name><surname>Hirche</surname><given-names>T.O.</given-names></name>
+</person-group><article-title>Ultrasound of the pleurae and lungs</article-title><source>Ultrasound Med. Biol.</source><year>2015</year><volume>41</volume><fpage>351</fpage><lpage>365</lpage><pub-id pub-id-type="doi">10.1016/j.ultrasmedbio.2014.10.002</pub-id><pub-id pub-id-type="pmid">25592455</pub-id>
+</element-citation></ref><ref id="B86-diagnostics-14-02799"><label>86.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>C.W.</given-names></name>
+<name><surname>Fan</surname><given-names>S.C.</given-names></name>
+<name><surname>Tsai</surname><given-names>C.C.</given-names></name>
+<name><surname>Hsu</surname><given-names>N.C.</given-names></name>
+</person-group><article-title>Elderly Woman with Progressive Orthopnea</article-title><source>Ann. Emerg. Med.</source><year>2023</year><volume>82</volume><fpage>e65</fpage><lpage>e66</lpage><pub-id pub-id-type="doi">10.1016/j.annemergmed.2023.01.034</pub-id><pub-id pub-id-type="pmid">37479411</pub-id>
+</element-citation></ref><ref id="B87-diagnostics-14-02799"><label>87.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>P.C.</given-names></name>
+<name><surname>Luh</surname><given-names>K.T.</given-names></name>
+<name><surname>Chang</surname><given-names>D.B.</given-names></name>
+<name><surname>Wu</surname><given-names>H.D.</given-names></name>
+<name><surname>Yu</surname><given-names>C.J.</given-names></name>
+<name><surname>Kuo</surname><given-names>S.H.</given-names></name>
+</person-group><article-title>Value of sonography in determining the nature of pleural effusion: Analysis of 320 cases</article-title><source>AJR Am. J. Roentgenol.</source><year>1992</year><volume>159</volume><fpage>29</fpage><lpage>33</lpage><pub-id pub-id-type="doi">10.2214/ajr.159.1.1609716</pub-id><pub-id pub-id-type="pmid">1609716</pub-id>
+</element-citation></ref><ref id="B88-diagnostics-14-02799"><label>88.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>K.Y.</given-names></name>
+<name><surname>Liaw</surname><given-names>Y.S.</given-names></name>
+<name><surname>Wang</surname><given-names>H.C.</given-names></name>
+<name><surname>Luh</surname><given-names>K.T.</given-names></name>
+<name><surname>Yang</surname><given-names>P.C.</given-names></name>
+</person-group><article-title>Sonographic septation: A useful prognostic indicator of acute thoracic empyema</article-title><source>J. Ultrasound Med.</source><year>2000</year><volume>19</volume><fpage>837</fpage><lpage>843</lpage><pub-id pub-id-type="doi">10.7863/jum.2000.19.12.837</pub-id><pub-id pub-id-type="pmid">11127008</pub-id>
+</element-citation></ref><ref id="B89-diagnostics-14-02799"><label>89.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Reissig</surname><given-names>A.</given-names></name>
+<name><surname>Kroegel</surname><given-names>C.</given-names></name>
+</person-group><article-title>Sonographic diagnosis and follow-up of pneumonia: A prospective study</article-title><source>Respiration</source><year>2007</year><volume>74</volume><fpage>537</fpage><lpage>547</lpage><pub-id pub-id-type="doi">10.1159/000100427</pub-id><pub-id pub-id-type="pmid">17337882</pub-id>
+</element-citation></ref><ref id="B90-diagnostics-14-02799"><label>90.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Parlamento</surname><given-names>S.</given-names></name>
+<name><surname>Copetti</surname><given-names>R.</given-names></name>
+<name><surname>Di Bartolomeo</surname><given-names>S.</given-names></name>
+</person-group><article-title>Evaluation of lung ultrasound for the diagnosis of pneumonia in the ED</article-title><source>Am. J. Emerg. Med.</source><year>2009</year><volume>27</volume><fpage>379</fpage><lpage>384</lpage><pub-id pub-id-type="doi">10.1016/j.ajem.2008.03.009</pub-id><pub-id pub-id-type="pmid">19555605</pub-id>
+</element-citation></ref><ref id="B91-diagnostics-14-02799"><label>91.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sperandeo</surname><given-names>M.</given-names></name>
+<name><surname>Carnevale</surname><given-names>V.</given-names></name>
+<name><surname>Muscarella</surname><given-names>S.</given-names></name>
+<name><surname>Sperandeo</surname><given-names>G.</given-names></name>
+<name><surname>Varriale</surname><given-names>A.</given-names></name>
+<name><surname>Filabozzi</surname><given-names>P.</given-names></name>
+<name><surname>Piattelli</surname><given-names>M.L.</given-names></name>
+<name><surname>D&#x02019;Alessandro</surname><given-names>V.</given-names></name>
+<name><surname>Copetti</surname><given-names>M.</given-names></name>
+<name><surname>Pellegrini</surname><given-names>F.</given-names></name>
+<etal/>
+</person-group><article-title>Clinical application of transthoracic ultrasonography in inpatients with pneumonia</article-title><source>Eur. J. Clin. Investig.</source><year>2011</year><volume>41</volume><fpage>1</fpage><lpage>7</lpage><pub-id pub-id-type="doi">10.1111/j.1365-2362.2010.02367.x</pub-id></element-citation></ref><ref id="B92-diagnostics-14-02799"><label>92.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cortellaro</surname><given-names>F.</given-names></name>
+<name><surname>Colombo</surname><given-names>S.</given-names></name>
+<name><surname>Coen</surname><given-names>D.</given-names></name>
+<name><surname>Duca</surname><given-names>P.G.</given-names></name>
+</person-group><article-title>Lung ultrasound is an accurate diagnostic tool for the diagnosis of pneumonia in the emergency department</article-title><source>Emerg. Med. J.</source><year>2012</year><volume>29</volume><fpage>19</fpage><lpage>23</lpage><pub-id pub-id-type="doi">10.1136/emj.2010.101584</pub-id><pub-id pub-id-type="pmid">21030550</pub-id>
+</element-citation></ref><ref id="B93-diagnostics-14-02799"><label>93.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>X.L.</given-names></name>
+<name><surname>Lian</surname><given-names>R.</given-names></name>
+<name><surname>Tao</surname><given-names>Y.K.</given-names></name>
+<name><surname>Gu</surname><given-names>C.D.</given-names></name>
+<name><surname>Zhang</surname><given-names>G.Q.</given-names></name>
+</person-group><article-title>Lung ultrasonography: An effective way to diagnose community-acquired pneumonia</article-title><source>Emerg. Med. J.</source><year>2015</year><volume>32</volume><fpage>433</fpage><lpage>438</lpage><pub-id pub-id-type="doi">10.1136/emermed-2013-203039</pub-id><pub-id pub-id-type="pmid">25142033</pub-id>
+</element-citation></ref><ref id="B94-diagnostics-14-02799"><label>94.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pagano</surname><given-names>A.</given-names></name>
+<name><surname>Numis</surname><given-names>F.G.</given-names></name>
+<name><surname>Visone</surname><given-names>G.</given-names></name>
+<name><surname>Pirozzi</surname><given-names>C.</given-names></name>
+<name><surname>Masarone</surname><given-names>M.</given-names></name>
+<name><surname>Olibet</surname><given-names>M.</given-names></name>
+<name><surname>Nasti</surname><given-names>R.</given-names></name>
+<name><surname>Schiraldi</surname><given-names>F.</given-names></name>
+<name><surname>Paladino</surname><given-names>F.</given-names></name>
+</person-group><article-title>Lung ultrasound for diagnosis of pneumonia in emergency department</article-title><source>Intern. Emerg. Med.</source><year>2015</year><volume>10</volume><fpage>851</fpage><lpage>854</lpage><pub-id pub-id-type="doi">10.1007/s11739-015-1297-2</pub-id><pub-id pub-id-type="pmid">26345533</pub-id>
+</element-citation></ref><ref id="B95-diagnostics-14-02799"><label>95.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gon&#x000e7;alves-Bradley</surname><given-names>D.C.</given-names></name>
+<name><surname>Iliffe</surname><given-names>S.</given-names></name>
+<name><surname>Doll</surname><given-names>H.A.</given-names></name>
+<name><surname>Broad</surname><given-names>J.</given-names></name>
+<name><surname>Gladman</surname><given-names>J.</given-names></name>
+<name><surname>Langhorne</surname><given-names>P.</given-names></name>
+<name><surname>Richards</surname><given-names>S.H.</given-names></name>
+<name><surname>Shepperd</surname><given-names>S.</given-names></name>
+</person-group><article-title>Early discharge hospital at home</article-title><source>Cochrane Database Syst. Rev.</source><year>2017</year><volume>6</volume><fpage>CD000356</fpage><pub-id pub-id-type="pmid">28651296</pub-id>
+</element-citation></ref><ref id="B96-diagnostics-14-02799"><label>96.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Berlet</surname><given-names>T.</given-names></name>
+<name><surname>Etter</surname><given-names>R.</given-names></name>
+<name><surname>Fehr</surname><given-names>T.</given-names></name>
+<name><surname>Berger</surname><given-names>D.</given-names></name>
+<name><surname>Sendi</surname><given-names>P.</given-names></name>
+<name><surname>Merz</surname><given-names>T.M.</given-names></name>
+</person-group><article-title>Sonographic patterns of lung consolidation in mechanically ventilated patients with and without ventilator-associated pneumonia: A prospective cohort study</article-title><source>J. Crit. Care</source><year>2015</year><volume>30</volume><fpage>327</fpage><lpage>333</lpage><pub-id pub-id-type="doi">10.1016/j.jcrc.2014.11.021</pub-id><pub-id pub-id-type="pmid">25499414</pub-id>
+</element-citation></ref><ref id="B97-diagnostics-14-02799"><label>97.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xirouchaki</surname><given-names>N.</given-names></name>
+<name><surname>Magkanas</surname><given-names>E.</given-names></name>
+<name><surname>Vaporidi</surname><given-names>K.</given-names></name>
+<name><surname>Kondili</surname><given-names>E.</given-names></name>
+<name><surname>Plataki</surname><given-names>M.</given-names></name>
+<name><surname>Patrianakos</surname><given-names>A.</given-names></name>
+<name><surname>Akoumianaki</surname><given-names>E.</given-names></name>
+<name><surname>Georgopoulos</surname><given-names>D.</given-names></name>
+</person-group><article-title>Lung ultrasound in critically ill patients: Comparison with bedside chest radiography</article-title><source>Intensive Care Med.</source><year>2011</year><volume>37</volume><fpage>1488</fpage><lpage>1493</lpage><pub-id pub-id-type="doi">10.1007/s00134-011-2317-y</pub-id><pub-id pub-id-type="pmid">21809107</pub-id>
+</element-citation></ref><ref id="B98-diagnostics-14-02799"><label>98.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Meli</surname><given-names>M.</given-names></name>
+<name><surname>Spicuzza</surname><given-names>L.</given-names></name>
+<name><surname>Comella</surname><given-names>M.</given-names></name>
+<name><surname>La Spina</surname><given-names>M.</given-names></name>
+<name><surname>Trobia</surname><given-names>G.L.</given-names></name>
+<name><surname>Parisi</surname><given-names>G.F.</given-names></name>
+<name><surname>Di Cataldo</surname><given-names>A.</given-names></name>
+<name><surname>Russo</surname><given-names>G.</given-names></name>
+</person-group><article-title>The Role of Ultrasound in the Diagnosis of Pulmonary Infection Caused by Intracellular, Fungal Pathogens and Mycobacteria: A Systematic Review</article-title><source>Diagnostics</source><year>2023</year><volume>13</volume><elocation-id>1612</elocation-id><pub-id pub-id-type="doi">10.3390/diagnostics13091612</pub-id><pub-id pub-id-type="pmid">37175003</pub-id>
+</element-citation></ref></ref-list></back><floats-group><fig position="float" id="diagnostics-14-02799-f001"><label>Figure 1</label><caption><p>The (<bold>A</bold>) 8-point protocol (Point 1&#x02013;4 for left hemithorax), (<bold>B</bold>) 10-point protocol (Point 1&#x02013;5 for left hemithorax, (<bold>C</bold>) 12-zone protocol (Point 1&#x02013;6 for left hemithorax), and (<bold>D</bold>) 14-zone protocols (Point 1&#x02013;7 for left hemithorax) for the sonographic diagnosis of pneumonia in landmark studies, and the (<bold>E</bold>) modified BLUE protocol (1, superior BLUE point; 2, inferior BLUE point; D, diaphragm point; M, M-point; P, posterolateral point).</p></caption><graphic xlink:href="diagnostics-14-02799-g001" position="float"/></fig><fig position="float" id="diagnostics-14-02799-f002"><label>Figure 2</label><caption><p>(<bold>A</bold>) A-line; (<bold>B</bold>) Multiple non-confluent B-lines; (<bold>C</bold>) Confluent B-lines; (<bold>D</bold>) Subpleural consolidation; (<bold>E</bold>) Large consolidation with air bronchogram.</p></caption><graphic xlink:href="diagnostics-14-02799-g002" position="float"/></fig><fig position="float" id="diagnostics-14-02799-f003"><label>Figure 3</label><caption><p>Internal echogenicity of pleural effusion. (<bold>A</bold>) Anechoic: entirely echo-free fluid, (<bold>B</bold>) Complex non-septated: heterogeneously hyperechoic spots within the effusion, also referred to as the &#x0201c;Plankton sign&#x0201d;, (<bold>C</bold>) Complex septated: presence of visible septa or fibrin strands, and (<bold>D</bold>) Loculated: effusion confined between the parietal and visceral pleura with sharply defined margins.</p></caption><graphic xlink:href="diagnostics-14-02799-g003" position="float"/></fig><table-wrap position="float" id="diagnostics-14-02799-t001"><object-id pub-id-type="pii">diagnostics-14-02799-t001_Table 1</object-id><label>Table 1</label><caption><p>Ten essential questions to address before using point-of-care ultrasonography to diagnose and manage pneumonia in the hospital-at-home model.</p></caption><table frame="hsides" rules="groups"><tbody><tr><td align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="order"><list-item><p>What ultrasound techniques are essential for diagnosing pneumonia?</p></list-item></list>
+</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="simple"><list-item><label>2.</label><p>What are the ultrasound patterns associated with pneumonia?</p></list-item></list>
+</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="simple"><list-item><label>3.</label><p>Do different settings or etiologies of pneumonia influence the diagnostic accuracy of ultrasonography?</p></list-item></list>
+</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="simple"><list-item><label>4.</label><p>Do pulmonary comorbidities affect the accuracy of ultrasound diagnosis of pneumonia?</p></list-item></list>
+</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="simple"><list-item><label>5.</label><p>Do other differential diagnoses mimic the ultrasound patterns of pneumonia?</p></list-item></list>
+</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="simple"><list-item><label>6.</label><p>Do ultrasound findings correlate with pneumonia severity?</p></list-item></list>
+</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="simple"><list-item><label>7.</label><p>Do initial ultrasound findings associated with pneumonia hold prognostic value?</p></list-item></list>
+</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="simple"><list-item><label>8.</label><p>Do the ultrasound patterns improve in accordance with pneumonia recovery?</p></list-item></list>
+</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="simple"><list-item><label>9.</label><p>Is ultrasound superior to chest X-ray for diagnosing pneumonia?</p></list-item></list>
+</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="simple"><list-item><label>10.</label><p>Does ultrasonography lead to the overdiagnosis of pneumonia?</p></list-item></list>
+</td></tr></tbody></table></table-wrap><table-wrap position="float" id="diagnostics-14-02799-t002"><object-id pub-id-type="pii">diagnostics-14-02799-t002_Table 2</object-id><label>Table 2</label><caption><p>Sonographic findings in patients with non-COVID-19 community-acquired pneumonia.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">
+</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Gehmacher, 1995 [<xref rid="B71-diagnostics-14-02799" ref-type="bibr">71</xref>]<break/>(<italic toggle="yes">n</italic> = 143)</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Reissig, 2007 [<xref rid="B89-diagnostics-14-02799" ref-type="bibr">89</xref>] <break/>(<italic toggle="yes">n</italic> = 33)</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Parlamento, 2009 [<xref rid="B90-diagnostics-14-02799" ref-type="bibr">90</xref>]<break/>(<italic toggle="yes">n</italic> = 49)</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Sperandeo, 2011 [<xref rid="B91-diagnostics-14-02799" ref-type="bibr">91</xref>]<break/>(<italic toggle="yes">n</italic> = 342)</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Reissig, 2012 [<xref rid="B49-diagnostics-14-02799" ref-type="bibr">49</xref>]<break/>(<italic toggle="yes">n</italic> = 362)</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Cortellaro, 2012 [<xref rid="B92-diagnostics-14-02799" ref-type="bibr">92</xref>]<break/>(<italic toggle="yes">n</italic> = 80) </th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Liu, 2015 [<xref rid="B93-diagnostics-14-02799" ref-type="bibr">93</xref>] <break/>(<italic toggle="yes">n</italic> = 112)</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Pagano, 2015 [<xref rid="B94-diagnostics-14-02799" ref-type="bibr">94</xref>]<break/>(<italic toggle="yes">n</italic> = 68)</th></tr></thead><tbody><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Setting</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ward</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">ED</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ward</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ward</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">ED</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">ED</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">ED</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Participants</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Adult CAP</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Adult CAP</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Adult CAP</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Adult CAP</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Adult CAP</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Adult CAP</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Adult CAP</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Adult CAP</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Zones</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">All ICS</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10 zones</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">All ICS</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">All ICS</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10 zones</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">All ICS</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">8 zones</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">US findings</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Consolidation</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">88.8%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">100%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">96.9%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">92%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">97.6%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">91.3%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">71.4%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">70.6%</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">B-lines (AIS)</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">68.8%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">61.3%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">39.3%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">27.9%</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Air bronchogram</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">88.1%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">97%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">50.0%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">70%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">86.7%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">88.8%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Fluid bronchogram</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">31%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">8.1%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">35%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pleural effusion</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">54.5%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">70%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">34.4%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">35.1%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">54.4%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">38.8%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.4%</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Normal LUS</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">11.2%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">8%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.5%</td></tr></tbody></table><table-wrap-foot><fn><p>Abbreviations: CAP, community-acquired pneumonia; ED, emergency department; ICS, intercostal space; N/A, not available.</p></fn></table-wrap-foot></table-wrap></floats-group></article>

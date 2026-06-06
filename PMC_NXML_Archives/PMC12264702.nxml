@@ -1,0 +1,1055 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Am J Respir Crit Care Med</journal-id><journal-id journal-id-type="iso-abbrev">Am J Respir Crit Care Med</journal-id><journal-id journal-id-type="publisher-id">ajrccm</journal-id><journal-title-group><journal-title>American Journal of Respiratory and Critical Care Medicine</journal-title></journal-title-group><issn pub-type="ppub">1073-449X</issn><issn pub-type="epub">1535-4970</issn><publisher><publisher-name>American Thoracic Society</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">40153543</article-id><article-id pub-id-type="pmc">12264702</article-id>
+<article-id pub-id-type="publisher-manuscript">202410-1934OC</article-id><article-id pub-id-type="doi">10.1164/rccm.202410-1934OC</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Articles</subject><subj-group><subject>Interstitial Lung Disease</subject></subj-group></subj-group></article-categories><title-group><article-title>Dual &#x003b1;<sub>v</sub>&#x003b2;<sub>6</sub> and &#x003b1;<sub>v</sub>&#x003b2;<sub>1</sub> Inhibition over 12 Weeks Reduces Active Type I Collagen Deposition in Individuals with Idiopathic Pulmonary Fibrosis: A Phase 2, Double-Blind, Placebo-controlled Clinical Trial</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Montesi</surname><given-names>Sydney B.</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Cosgrove</surname><given-names>Gregory P.</given-names></name><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Turner</surname><given-names>Scott M.</given-names></name><xref rid="aff5" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Zhou</surname><given-names>Iris Y.</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="aff6" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-1947-5033</contrib-id><name><surname>Efthimiou</surname><given-names>Nikos</given-names></name><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="aff6" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Susnjar</surname><given-names>Antonia</given-names></name><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="aff6" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-3249-5971</contrib-id><name><surname>Catana</surname><given-names>Ciprian</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="aff6" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Fromson</surname><given-names>Caroline</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Clark</surname><given-names>Annie</given-names></name><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Decaris</surname><given-names>Martin</given-names></name><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Barnes</surname><given-names>Chris N.</given-names></name><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Lefebvre</surname><given-names>&#x000c9;ric A.</given-names></name><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Caravan</surname><given-names>Peter</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="aff6" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><aff id="aff1"><label><sup>1</sup></label>Divison of Pulmonary and Critical Care Medicine and</aff><aff id="aff2"><label><sup>2</sup></label>Institute for Innovation in Imaging, Department of Radiology, Massachusetts General Hospital, Boston, Massachusetts;</aff><aff id="aff3"><label><sup>3</sup></label>Harvard Medical School, Boston, Massachusetts;</aff><aff id="aff4"><label><sup>4</sup></label>Pliant Therapeutics, Inc., South San Francisco, California;</aff><aff id="aff5"><label><sup>5</sup></label>Former employee of Pliant Therapeutics, Inc., South San Francisco, California; and</aff><aff id="aff6"><label><sup>6</sup></label>Athinoula A. Martinos Center for Biomedical Imaging, Department of Radiology, Massachusetts General Hospital, Charlestown, Massachusetts</aff></contrib-group><author-notes><corresp>Correspondence and requests for reprints should be addressed to Sydney B. Montesi, M.D., Division of Pulmonary and Critical Care Medicine, Massachusetts General Hospital, 55 Fruit Street, Boston, MA 02114. E-mail: <email xlink:href="mailto:sbmontesi@mgb.org">sbmontesi@mgb.org</email>.</corresp></author-notes><pub-date date-type="pub" publication-format="electronic"><day>28</day><month>3</month><year>2025</year></pub-date><pub-date date-type="collection" publication-format="electronic"><day>1</day><month>7</month><year>2025</year></pub-date><pub-date pub-type="pmc-release"><day>28</day><month>3</month><year>2025</year></pub-date><!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.--><volume>211</volume><issue>7</issue><fpage>1229</fpage><lpage>1240</lpage><history>
+<date date-type="received"><day>8</day><month>10</month><year>2024</year></date>
+<date date-type="accepted"><day>27</day><month>2</month><year>2025</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2025 by the American Thoracic Society</copyright-statement><copyright-year>2025</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This article is open access and distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution Non-Commercial No Derivatives License 4.0</ext-link>. For commercial usage and reprints, please e-mail Diane Gern (<email xlink:href="mailto:dgern@thoracic.org">dgern@thoracic.org</email>).</license-p></license></permissions><self-uri content-type="pdf" xlink:href="rccm.202410-1934OC.pdf"/><related-article related-article-type="commentary" ext-link-type="doi" id="ra1934OC" xlink:href="10.1164/rccm.202503-0670ED"/><related-object object-id="10.1164/rccm.202410-1934OC_discussion" object-id-type="doi" object-type="discussion" id="ro1934OC"/><abstract><sec><title>Rationale</title><p>Idiopathic pulmonary fibrosis (IPF) is characterized by excessive deposition of type I collagen. <sup>68</sup>Ga-CBP8, a type I collagen positron emission tomography probe, measures collagen accumulation and shows higher collagen deposition in patients with IPF. Bexotegrast (PLN-74809) is an oral, once-daily, dual-selective inhibitor of &#x003b1;<sub>v</sub>&#x003b2;<sub>6</sub> and &#x003b1;<sub>v</sub>&#x003b2;<sub>1</sub> integrins under late-stage evaluation for treatment of IPF.</p></sec><sec><title>Objectives</title><p>To evaluate changes in type I collagen in the lungs of participants with IPF after treatment with bexotegrast.</p></sec><sec><title>Methods</title><p>In this phase 2 (NCT05621252), single-center, double-blind, placebo-controlled study, adults with IPF received bexotegrast 160 mg or placebo for 12 weeks. The primary endpoint was the change in whole-lung standardized uptake value of <sup>68</sup>Ga-CBP8 positron emission tomography. Changes in lung dynamic contrast-enhanced magnetic resonance imaging parameters, FVC, cough severity, and biomarkers of collagen synthesis and progressive disease were also assessed.</p></sec><sec><title>Measurements and Main Results</title><p>Of 10 participants, 7 received bexotegrast and 3 received placebo. At Week 12, the mean change from baseline in the top quartile of <sup>68</sup>Ga-CBP8 whole-lung standardized uptake value was &#x02212;1.2% with bexotegrast versus 6.6% with placebo; the greatest mean changes were observed in subpleural lung regions in both groups (bexotegrast, &#x02212;3.7%; placebo, 10.3%). Dynamic contrast-enhanced magnetic resonance imaging showed numerically increased peak enhancement and faster contrast washout rate in bexotegrast-treated participants, suggesting improvements in lung microvasculature and decreased extravascular extracellular volume. Bexotegrast treatment resulted in numerical improvements in FVC, cough severity, and biomarkers.</p></sec><sec><title>Conclusions</title><p>The reduced uptake of <sup>68</sup>Ga-CBP8 in the lungs of participants with IPF indicates an antifibrotic effect of bexotegrast, suggesting the potential for favorable lung remodeling.</p><p>Clinical trial registered with <ext-link xlink:href="http://www.clinicaltrials.gov" ext-link-type="uri">www.clinicaltrials.gov</ext-link> (NCT05621252).</p></sec></abstract><kwd-group><title>Keywords</title><kwd>idiopathic pulmonary fibrosis</kwd><kwd>positron emission tomography imaging</kwd><kwd>bexotegrast</kwd><kwd>collagen type I</kwd><kwd>fibrotic disease</kwd></kwd-group><funding-group specific-use="FundRef"><award-group award-type="grant"><funding-source country="US">
+<institution>Pliant Therapeutics, Inc</institution></funding-source></award-group></funding-group><counts><fig-count count="6"/><table-count count="2"/><ref-count count="52"/><page-count count="12"/></counts></article-meta></front><body><boxed-text position="float"><sec><title>At a Glance Commentary</title><sec><title>Scientific Knowledge on the Subject</title><p>Idiopathic pulmonary fibrosis (IPF) is characterized by excessive type I collagen deposition in the lungs via elevated transforming growth factor-&#x003b2; signaling. <sup>68</sup>Ga-CBP8 is a positron emission tomography probe that binds to type I collagen and has demonstrated increased uptake in the lungs of patients with IPF compared with healthy individuals. Bexotegrast (PLN-74809) is an oral, once-daily investigational drug that blocks the activation of transforming growth factor-&#x003b2; through the inhibition of &#x003b1;<sub>v</sub>&#x003b2;<sub>6</sub>- and &#x003b1;<sub>v</sub>&#x003b2;<sub>1</sub>-integrins.</p></sec><sec><title>What This Study Adds to the Field</title><p>This positron emission tomography imaging study suggests that changes in pulmonary type I collagen deposition can be monitored longitudinally in patients with IPF using <sup>68</sup>Ga-CBP8 and that bexotegrast demonstrated antifibrotic effects after 12 weeks of treatment. Similar changes in lung dynamic contrast-enhanced magnetic resonance imaging parameters were also observed. Improvements in FVC and cough severity occurred alongside the observed reductions in type I collagen, suggesting the potential of bexotegrast for disease modification.</p></sec></sec></boxed-text><p content-type="flushleft">Idiopathic pulmonary fibrosis (IPF) is a chronic, progressive interstitial lung disease of unknown cause that is ultimately fatal (<xref rid="bib1" ref-type="bibr">1</xref>, <xref rid="bib2" ref-type="bibr">2</xref>). IPF is characterized by a maladaptive response to lung injury that results in excessive type I collagen deposition and replacement of healthy tissue with collagen-rich scar tissue (<xref rid="bib3" ref-type="bibr">3</xref>&#x02013;<xref rid="bib5" ref-type="bibr">5</xref>). Ongoing collagen deposition and cross-linking result in increasing extracellular matrix thickness and contribute to the distinctive expansive pulmonary fibrosis of IPF (<xref rid="bib6" ref-type="bibr">6</xref>, <xref rid="bib7" ref-type="bibr">7</xref>). Progressive disease results in lung architectural distortion, worsening cough and dyspnea, and loss of lung function (<xref rid="bib2" ref-type="bibr">2</xref>, <xref rid="bib3" ref-type="bibr">3</xref>). IPF is a heterogeneous disease. Disease progression is highly variable and is not readily associated with characteristics such as age, sex, and baseline FVC (<xref rid="bib8" ref-type="bibr">8</xref>&#x02013;<xref rid="bib10" ref-type="bibr">10</xref>). Therapeutic options for patients with IPF are limited. Current approved treatments for IPF include pirfenidone and nintedanib, which slow disease progression but do not consistently improve symptom burden, lung function, or quality of life (<xref rid="bib11" ref-type="bibr">11</xref>, <xref rid="bib12" ref-type="bibr">12</xref>).</p><p>Elevated transforming growth factor-&#x003b2; (TGF-&#x003b2;) signaling is a hallmark of IPF; TGF-&#x003b2; activation mediates fibrosis through fibroblast activation and proliferation, which drive collagen synthesis and result in tissue stiffness (<xref rid="bib13" ref-type="bibr">13</xref>&#x02013;<xref rid="bib16" ref-type="bibr">16</xref>). &#x003b1;<sub>v</sub>-Integrins such as &#x003b1;<sub>v</sub>&#x003b2;<sub>6</sub> integrin, expressed by lung epithelial cells, and &#x003b1;<sub>v</sub>&#x003b2;<sub>1</sub> integrin, expressed by lung fibroblasts, are overexpressed in the lungs of patients with IPF and can convert latent TGF-&#x003b2; into its active form (<xref rid="bib17" ref-type="bibr">17</xref>&#x02013;<xref rid="bib19" ref-type="bibr">19</xref>). As TGF-&#x003b2; is involved in multiple biological functions, systemic inhibition carries safety risks (<xref rid="bib14" ref-type="bibr">14</xref>, <xref rid="bib20" ref-type="bibr">20</xref>). Specific targeting of &#x003b1;<sub>v</sub>&#x003b2;<sub>6</sub> and &#x003b1;<sub>v</sub>&#x003b2;<sub>1</sub> integrins may therefore provide a localized, safer approach to TGF-&#x003b2; inhibition in the fibrotic lung.</p><p>Bexotegrast (PLN-74809) is an oral, once-daily, dual-selective inhibitor of &#x003b1;<sub>v</sub>&#x003b2;<sub>6</sub>- and &#x003b1;<sub>v</sub>&#x003b2;<sub>1</sub>-integrins and is in late-stage development for the treatment of IPF (BEACON-IPF [Randomized, Double-blind Study of Efficacy and Safety of Bexotegrast (PLN-74809) for Idiopathic Pulmonary Fibrosis]; NCT06097260). Studies in animal models and precision-cut lung slices from explanted tissue of patients with IPF suggest that bexotegrast can reduce collagen deposition and collagen gene expression by as much as 50% (<xref rid="bib19" ref-type="bibr">19</xref>). In a phase 2 study of participants with IPF (INTEGRIS-IPF [Evaluation of Efficacy and Safety of PLN-74809 in Patients With Idiopathic Pulmonary Fibrosis]; NCT04396756), treatment with bexotegrast for &#x02a7d;40 weeks demonstrated a favorable safety profile with suggested improved lung function based on FVC and antifibrotic effects based on quantitative lung fibrosis imaging and circulating biomarkers (<xref rid="bib21" ref-type="bibr">21</xref>). After 12 weeks, treatment with bexotegrast 160 or 320 mg improved FVC compared with placebo in a participant population in which &#x0223c;80% were receiving pirfenidone or nintedanib background therapy (<xref rid="bib21" ref-type="bibr">21</xref>). Quantitative assessment of lung imaging using high-resolution computed tomography (HRCT) showed no or limited fibrotic progression in participants receiving bexotegrast 160 or 320 mg compared with progression observed with placebo (<xref rid="bib21" ref-type="bibr">21</xref>). However, current imaging approaches only visualize the result of collagen deposition (e.g., reticular opacities and honeycombing) and do not provide clear insight into ongoing, new collagen deposition in the lung.</p><p><sup>68</sup>Ga-CBP8 is a positron emission tomography (PET) probe that binds to type I collagen in fibrotic lung tissue (<xref rid="bib22" ref-type="bibr">22</xref>&#x02013;<xref rid="bib24" ref-type="bibr">24</xref>). In mouse models of pulmonary fibrosis, <sup>68</sup>Ga-CBP8 correlated with levels of fibrosis after injury and revealed a response to antifibrotic therapy with an antibody targeting &#x003b1;<sub>v</sub>&#x003b2;<sub>6</sub>-integrin (<xref rid="bib23" ref-type="bibr">23</xref>, <xref rid="bib24" ref-type="bibr">24</xref>). In a noninterventional study, <sup>68</sup>Ga-CBP8 showed higher collagen levels in patients with IPF compared with healthy individuals, particularly in the subpleural region of the lung, where the disease is most prominent (<xref rid="bib22" ref-type="bibr">22</xref>). <sup>68</sup>Ga-CBP8 PET was assessed using standardized uptake values (SUVs), which measure the uptake or signal intensity of the probe in tissue; a higher SUV reflects a higher concentration of the probe and thus more collagen. <sup>68</sup>Ga-CBP8 PET showed increased uptake in areas that appeared normal (before architectural distortion) on HRCT in patients with IPF, suggesting that it may be more sensitive than HRCT in detecting active or early fibrosis (<xref rid="bib22" ref-type="bibr">22</xref>).</p><p>Dynamic contrast-enhanced magnetic resonance imaging (DCE-MRI) using an extracellular-fluid gadolinium-based contrast agent can provide functional and anatomical information on the lung. The peak signal enhancement after contrast administration and the washout rate (<italic>k</italic><sub>washout</sub>) of the contrast from the lung parenchyma can provide key information on microvascular function and extravascular extracellular volume, respectively (<xref rid="bib25" ref-type="bibr">25</xref>&#x02013;<xref rid="bib27" ref-type="bibr">27</xref>). In noninterventional studies in patients with IPF, lower peak enhancement and slower <italic>k</italic><sub>washout</sub> rates were observed than in healthy individuals (<xref rid="bib28" ref-type="bibr">28</xref>). Slower <italic>k</italic><sub>washout</sub> is likely due to one of several processes that expand the extravascular extracellular volume, including edema, inflammation, and fibrosis. Using <sup>68</sup>Ga-CBP8 PET combined with DCE-MRI allows multimodal direct and indirect assessments of lung collagen and fibrosis in a single examination.</p><p>The primary objective of this study was to quantify changes in type I collagen in the lungs of participants with IPF after 12 weeks of treatment with bexotegrast 160 mg using <sup>68</sup>Ga-CBP8 PET combined with DCE-MRI. Safety, tolerability, efficacy, effect on cough, and biomarkers of collagen synthesis and disease progression were also assessed. A portion of these results was previously published in the form of an abstract (<xref rid="bib29" ref-type="bibr">29</xref>).</p><sec sec-type="methods"><title>Methods</title><sec><title>Study Design</title><p content-type="flushleft">This phase 2, single-center, randomized, double-blind, placebo-controlled study (NCT05621252) was conducted at Massachusetts General Hospital, Boston, Massachusetts. The treating physician, those who acquired the images, the image analysts, and patients were all blinded in this study. Participants were randomized 2:1 to receive once-daily oral bexotegrast 160 mg or placebo for 12 weeks with 2 weeks of follow-up (<xref rid="fig1" ref-type="fig">Figure 1A</xref>). A dose of 160 mg is expected to achieve the target 50% inhibitory concentration (&#x0223c;500 ng/ml) for &#x003b1;<sub>v</sub>&#x003b2;<sub>6</sub>- and &#x003b1;<sub>v</sub>&#x003b2;<sub>1</sub>-integrin&#x02013;mediated TGF-&#x003b2; activation for 24 hours (<xref rid="bib21" ref-type="bibr">21</xref>). No dose modifications were permitted for bexotegrast. This study was conducted in accordance with the Declaration of Helsinki, the study protocol, and the International Council on Harmonization Good Clinical Practice regulations. The Mass General Brigham Institutional Review Board approved the study. All participants provided written informed consent.</p><fig position="float" id="fig1"><label>
+Figure 1.
+</label><caption><p>Overview of (<italic>A</italic>) study design and (<italic>B</italic>) participant disposition.</p></caption><graphic xlink:href="rccm.202410-1934OCf1" position="float"/></fig></sec><sec><title>Study Population</title><p content-type="flushleft">The study enrolled participants aged &#x02a7e;40 years with a diagnosis of IPF within 8 years before screening, according to the American Thoracic Society/European Respiratory Society/Japanese Respiratory Society/Latin American Thoracic Society 2018 clinical practice guideline (<xref rid="bib30" ref-type="bibr">30</xref>), with FVC percent predicted (FVCpp) &#x02a7e;45%, hemoglobin-adjusted D<sc>l</sc><sub>CO</sub> &#x02a7e;30%, and an estimated glomerular filtration rate &#x02a7e;50 ml/min. If IPF diagnosis was &#x0003e;3 years before screening, the participant must have had a decline in FVCpp &#x02a7e;5% within the prior 24 months. Background therapy for IPF with pirfenidone or nintedanib was permitted but not mandated, provided that these drugs had been administered at a stable dose for &#x02a7e;3 months before screening. Key exclusion criteria included receiving any nonapproved agent intended to treat IPF, a FEV<sub>1</sub>/FVC ratio &#x0003c;0.7, and known or suspected acute IPF exacerbation within 6 months of screening.</p></sec><sec><title>Study Objectives</title><p content-type="flushleft">The primary endpoint was the quantification of type I collagen in the lung, which was assessed using changes from baseline in <sup>68</sup>Ga-CBP8 PET SUV after 12 weeks of bexotegrast treatment. The key secondary endpoint was the safety and tolerability of bexotegrast. Key exploratory endpoints were the change from baseline in DCE-MRI contrast peak enhancement and washout rate, change from baseline in absolute FVC and FVCpp, change from baseline in cough severity, and plasma and serum biomarker analysis for type III collagen synthesis neoepitope (PRO-C3) and progressive fibrosing interstitial lung disease biomarker integrin-&#x003b2;6 (ITGB6).</p></sec><sec sec-type="methods"><title>Procedures</title><p content-type="flushleft">Participants underwent a combined PET/MRI scan within 7 days before baseline (Day 1) and within 7 days before Week 12. Full details are provided in the M<sc>ethods</sc> section of the data supplement.</p></sec><sec><title>Statistical Analysis</title><p content-type="flushleft">Given the limited sample size, only descriptive statistics were planned for this study. No statistical comparison was planned. For PET, SUV summary metrics, including the mean (mean of all SUVs by voxel within a region), maximum (maximum SUV by voxel within a region), and top quartile SUV (mean of highest 25% SUVs by voxel within a region) change from baseline, were reported. The top quartile metric was selected as the primary endpoint to capture areas of most active disease within each region. For DCE-MRI, contrast peak enhancement, and <italic>k</italic><sub>washout</sub> change from baseline were reported. Incidence and severity of treatment-emergent adverse events (TEAEs) were summarized using count and proportion of participants. Absolute FVC and FVCpp change from baseline values are presented using least-squares means to adjust for differing baseline levels. The patient-reported outcome of cough severity as assessed on a 100-mm linear visual analog scale from 0 mm (no cough) to 100 mm (most severe cough) was completed at screening, baseline, and Weeks 2, 3, 6, 12, and 14 and summarized as change from baseline.</p><p>Correlations between changes in top quartile SUV, FVC, and FVCpp were described using the Spearman correlation coefficient. Frequency counts and percentages were used for categorical variables, and medians (interquartile ranges [IQRs]), means, SDs, and SEs were used for continuous variables. Further details are provided in the data supplement.</p></sec></sec><sec sec-type="results"><title>Results</title><sec><title>Study Participants</title><p content-type="flushleft">A total of 10 participants met the eligibility criteria. Participants were randomized to once-daily bexotegrast 160 mg (<italic>n</italic>&#x02009;=&#x02009;7) or placebo (<italic>n</italic>&#x02009;=&#x02009;3) (<xref rid="fig1" ref-type="fig">Figure 1A</xref>). All participants completed 12 weeks of treatment (<xref rid="fig1" ref-type="fig">Figure 1B</xref>). Mean (SD) age (bexotegrast vs. placebo) was 69.1 (8.3) versus 74.0 (2.0) years, 85.7% versus 100% of participants were male, and 85.7% versus 100% were White (<xref rid="tbl1" ref-type="table">Table 1</xref>). Eight participants (80.0%) received background therapy, 6 (60.0%) received nintedanib, and 2 (20.0%) received pirfenidone. The median (IQR) time since diagnosis was 50 (22.0&#x02013;70.0) months and 9 (7.0&#x02013;72.0) months in the bexotegrast and placebo groups, respectively. Baseline median (IQR) FVCpp was 66.0% (56.0&#x02013;92.0%) with bexotegrast and 58.0% (49.0&#x02013;69.0%) with placebo. The median (IQR) baseline cough severity in bexotegrast- and placebo-treated participants was 28.0 (5.0&#x02013;66.0) mm and 19.0 (0&#x02013;45.0) mm, respectively.</p><table-wrap position="float" id="tbl1"><label>
+Table 1.
+</label><caption><p>Baseline Demographics and Disease Characteristics (Safety Population)</p></caption><!--OASIS TABLE HERE--><table frame="hsides" rules="groups"><colgroup><col align="left"/><col align="center"/><col align="center"/></colgroup><thead valign="bottom"><tr><th align="left">Characteristic</th><th align="center">Bexotegrast 160 mg (<italic>n</italic>&#x02009;=&#x02009;7)</th><th align="center">Placebo (<italic>n</italic>&#x02009;=&#x02009;3)</th></tr></thead><tbody valign="top"><tr><td align="left">Age, mean (SD), yr</td><td align="center">69.1 (8.3)</td><td align="center">74.0 (2.0)</td></tr><tr><td align="left">Male, <italic>n</italic> (%)</td><td align="center">6 (85.7)</td><td align="center">3 (100)</td></tr><tr><td colspan="3" align="left">Race, <italic>n</italic> (%)</td></tr><tr><td align="left">&#x02003;White</td><td align="center">6 (85.7)</td><td align="center">3 (100)</td></tr><tr><td align="left">&#x02003;Asian</td><td align="center">1 (14.3)</td><td align="center">0</td></tr><tr><td align="left">BMI, mean (SD), kg/m<sup>2</sup></td><td align="center">26.9 (3.9)</td><td align="center">26.9 (3.2)</td></tr><tr><td align="left">Time since IPF diagnosis, median (IQR), mo</td><td align="center">50.0 (22.0&#x02013;70.0)</td><td align="center">9.0 (7.0&#x02013;72.0)</td></tr><tr><td align="left">Standard-of-care use, <italic>n</italic> (%)</td><td align="center">6 (85.7)</td><td align="center">2 (66.7)</td></tr><tr><td align="left">&#x02003;Nintedanib</td><td align="center">5 (71.4)</td><td align="center">1 (33.3)</td></tr><tr><td align="left">&#x02003;Pirfenidone</td><td align="center">1 (14.3)</td><td align="center">1 (33.3)</td></tr><tr><td colspan="3" align="left">FVC</td></tr><tr><td align="left">&#x02003;Median (IQR), ml</td><td align="center">2,750.0 (2,400.0&#x02013;3,080.0)</td><td align="center">2,410.0 (1,700.0&#x02013;2,640.0)</td></tr><tr><td align="left">&#x02003;Percent predicted, median (IQR)</td><td align="center">66.0 (56.0&#x02013;92.0)</td><td align="center">58.0 (49.0&#x02013;69.0)</td></tr><tr><td align="left">Cough severity, median (IQR), mm</td><td align="center">28.0 (5.0&#x02013;66.0)</td><td align="center">19.0 (0.0&#x02013;45.0)</td></tr><tr><td colspan="3" align="left">GAP stage, <italic>n</italic> (%)</td></tr><tr><td align="left">&#x02003;I</td><td align="center">4 (57.1)</td><td align="center">0</td></tr><tr><td align="left">&#x02003;II</td><td align="center">2 (28.6)</td><td align="center">2 (66.7)</td></tr><tr><td align="left">&#x02003;III</td><td align="center">1 (14.3)</td><td align="center">1 (33.3)</td></tr><tr><td colspan="3" align="left"><sup>68</sup>Ga-CBP8 top quartile SUV, mean (SD)</td></tr><tr><td align="left">&#x02003;Whole lung</td><td align="center">0.888 (0.138)</td><td align="center">0.977 (0.142)</td></tr><tr><td align="left">&#x02003;Subpleural</td><td align="center">1.123 (0.208)</td><td align="center">1.193 (0.150)</td></tr><tr><td align="left">&#x02003;Central</td><td align="center">0.709 (0.112)</td><td align="center">0.817 (0.071)</td></tr></tbody></table><table-wrap-foot><fn id="TF1"><p><italic>Definition of abbreviations</italic>: BMI = body mass index; GAP = gender-age-physiology; IPF = idiopathic pulmonary fibrosis; IQR = interquartile range; SUV = standardized uptake value.</p></fn></table-wrap-foot></table-wrap></sec><sec><title>Lung Collagen Deposition</title><p content-type="flushleft">After 12 weeks of treatment, the numerical directionality favored a mean (SE) [%] decrease of &#x02212;0.015 (0.038) [&#x02212;1.2%] from baseline in the whole-lung top quartile of SUVs for bexotegrast 160 mg (<xref rid="fig2" ref-type="fig">Figures 2A, 2B, and 2C</xref>; <italic>see also</italic> Figure E1A in the data supplement), indicating a reduction in total lung collagen. Four of seven participants in the bexotegrast 160 mg group had a stable or reduced top quartile SUV change from baseline (<xref rid="fig2" ref-type="fig">Figures 2B and 2C</xref>), ranging from &#x02212;15.6% to 0% (Figure E1A). Two participants demonstrated a 1.3&#x02013;3.1% increase. Notably, one bexotegrast-treated participant had a numerically large increase from baseline (17.4%), which may have resulted from nonadherence to the study drug (65% study drug adherence with &#x0003c;80% compliance each month on study) and contracting COVID-19 in the first month of treatment.</p><fig position="float" id="fig2"><label>
+Figure 2.
+</label><caption><p>(<italic>A</italic>) Representative positron emission tomography images of total lung collagen at baseline and Week 12 and (<italic>B</italic>) absolute and (<italic>C</italic>) individual change from baseline in top quartile SUV of whole lung at Week 12. The length of the box represents the range between the 25th and 75th percentiles, the whiskers represent the maximum and minimum, and the horizontal line in the box represents the median. All individual data points are displayed. The nonadherent/COVID-19 participant in the bexotegrast group is indicated by the red circle. Baseline FVC and FVC percent predicted values for representative bexotegrast and placebo images were 2,400 ml and 66% and 1,700 ml and 49%, respectively. SUV = standardized uptake value.</p></caption><graphic xlink:href="rccm.202410-1934OCf2" position="float"/></fig><p>The SUV changes at Week 12 were largest in the subpleural lung regions. Mean (SE) [%] change from baseline in the subpleural top quartile SUV in the bexotegrast group was &#x02212;0.051 (0.056) [&#x02212;3.7%] (<xref rid="fig3" ref-type="fig">Figures 3A</xref> and E1B). Five of seven participants had a reduced top quartile SUV, ranging from &#x02212;19.6% to &#x02212;4.0%; one participant demonstrated a small increase (1%), whereas the participant who was nonadherent to the study drug demonstrated a 19.0% increase. The reduction in SUVs in the subpleural regions was generally consistent across treated participants, with five of seven showing decreases in the upper and middle regions and four of seven showing decreases across all three subpleural regions (<xref rid="fig3" ref-type="fig">Figure 3B</xref>).</p><fig position="float" id="fig3"><label>
+Figure 3.
+</label><caption><p>Absolute change from baseline in the top quartile SUV of (<italic>A</italic>) collective subpleural and central regions of the lung and (<italic>B</italic>) individual lung regions. The values for lower subpleural, middle subpleural, upper subpleural, lower central, middle central, and upper central are the average of the left and right values for each region. The length of the box represents the range between the 25th and 75th percentiles, the whiskers represent the maximum and minimum, and the horizontal line in the box represents the median. All individual data points are displayed. The nonadherent/COVID-19 participant in the bexotegrast group is indicated by the red circle. SUV = standardized uptake value.</p></caption><graphic xlink:href="rccm.202410-1934OCf3" position="float"/></fig><p>Conversely, the placebo group had numerical directionality that favored a mean (SE) [%] increase of 0.074 (0.068) [6.6%] from baseline in the top quartile SUV (<xref rid="fig2" ref-type="fig">Figures 2B and 2C</xref> and E1A) of the whole lung and 0.128 (0.079) [10.3%] (<xref rid="fig3" ref-type="fig">Figures 3A</xref> and E1B) in the subpleural whole lung. Two of three placebo-treated participants had increases in both the whole-lung and subpleural region top quartile SUVs (<xref rid="fig2" ref-type="fig">Figures 2B and 2C</xref> and E1). One placebo-treated participant had a slight reduction (&#x02212;1%).</p><p>Changes in the central lung region in both treatment groups were less pronounced and less consistent than those in the subpleural region (<xref rid="fig3" ref-type="fig">Figures 3A and 3B</xref>). The mean (SE) [%] change from baseline in the central region was &#x02212;0.003 (0.026) [&#x02212;0.2%] and 0.020 (0.050) [2.0%] in the bexotegrast and placebo groups, respectively (<xref rid="fig3" ref-type="fig">Figures 3B</xref> and E1B). Two participants in the bexotegrast group showed reductions in the central whole lung (&#x02212;15.4% and &#x02212;11.6%), and five showed increases (1.1&#x02013;8.2%) (Figure E1B). Two participants in the placebo group showed reductions in the central whole lung (&#x02212;5.7% and &#x02212;1.6%), and one showed an increase (13.7%) (Figure E1B).</p><p>DCE-MRI showed changes in peak contrast enhancement and <italic>k</italic><sub>washout</sub> in the whole lung over 12 weeks of treatment with bexotegrast. Absolute median (IQR) [%] change in peak enhancement increased from baseline by 12.0% (&#x02212;2.00%, 29.00%) [10.0%] (<xref rid="fig4" ref-type="fig">Figure 4A</xref>), consistent with increased pulmonary perfusion and/or decreased vascular permeability. The peak enhancement in four of six participants either remained stable or increased (<xref rid="fig4" ref-type="fig">Figures 4A and 4B</xref>), ranging from 6.0% to 53.0%. The bexotegrast-treated participant with study drug nonadherence and COVID-19 had a large decrease from baseline (&#x02212;69.0%).</p><fig position="float" id="fig4"><label>
+Figure 4.
+</label><caption><p>(<italic>A</italic>) Absolute and (<italic>B</italic>) individual changes from baseline in peak enhancement and (<italic>C</italic>) absolute and (<italic>D</italic>) individual changes from baseline in washout rate (<italic>k</italic><sub>washout</sub>) in whole lung at Week 12. (<italic>E</italic>) Representative parametric maps of peak enhancement and <italic>k</italic><sub>washout</sub> at baseline and Week 12. The length of the box represents the range between the 25th and 75th percentiles, the whiskers represent the maximum and minimum, and the horizontal line in the box represents the median. All individual data points are displayed. The nonadherent/COVID-19 participant in the bexotegrast group is indicated by the red circle. Baseline FVC and FVC percent predicted values for the representative bexotegrast and placebo images were 4,500 ml and 92% and 2,640 ml and 69%, respectively.</p></caption><graphic xlink:href="rccm.202410-1934OCf4" position="float"/></fig><p>Participants in the bexotegrast group demonstrated an absolute median (IQR) [%] change from baseline in <italic>k</italic><sub>washout</sub> of &#x02212;1.06% (&#x02212;1.50%, &#x02212;0.72%) [31.7%] per minute (<xref rid="fig4" ref-type="fig">Figure 4C</xref>), indicating faster washout after treatment with bexotegrast and consistent with a reduction in the extravascular extracellular volume of the lung. Of the six participants, five had a faster rate than baseline (<xref rid="fig4" ref-type="fig">Figures 4C and 4D</xref>), whereas the participant with study drug nonadherence and COVID-19 had a slower rate (3.38% per minute) than baseline.</p><p>Similar to the pattern observed with SUVs, where placebo showed more collagen deposition than baseline, the placebo group had an absolute median (IQR) [%] change from baseline in peak enhancement of &#x02212;21.0% (&#x02212;24.0%, &#x02212;19.0%) [&#x02212;16.1%] (<xref rid="fig4" ref-type="fig">Figure 4A</xref>). All three placebo-treated participants had decreased peak enhancement ranging from &#x02212;24.0% to &#x02212;19.0% (<xref rid="fig4" ref-type="fig">Figures 4A and 4B</xref>). Participants in the placebo group demonstrated an absolute median (IQR) [%] change from baseline in <italic>k</italic><sub>washout</sub> of 0.07% (&#x02212;0.69%, 1.63%) [0.8%] per minute (<xref rid="fig4" ref-type="fig">Figure 4C</xref>), indicating slower washout after placebo treatment and suggesting an increase in extravascular extracellular volume. Of the three participants, two had <italic>k</italic><sub>washout</sub> values ranging from 0.07% to 1.63% per minute compared with baseline (i.e., slower washout than baseline) (<xref rid="fig4" ref-type="fig">Figures 4C and 4D</xref>). Representative DCE-MRI lung maps for peak enhancement and <italic>k</italic><sub>washout</sub> at baseline and Week 12 from participants in the bexotegrast and placebo groups are shown in <xref rid="fig4" ref-type="fig">Figure 4E</xref> and demonstrate the heterogeneity in these parameters throughout the lung and how they change with treatment.</p></sec><sec><title>Exploratory Endpoints</title><p content-type="flushleft">Treatment with bexotegrast resulted in numerically reduced FVC decline over 12 weeks, with the bexotegrast group maintaining a clear separation from the placebo group at all time points. At Week 12, the least-squares mean (SE) change from baseline in FVC was 14.5 (46.30) ml and &#x02212;91.5 (73.98) ml in the bexotegrast and placebo groups, respectively (<xref rid="fig5" ref-type="fig">Figure 5A</xref>). The least-squares mean (SE) change from baseline in FVCpp was 1.4% (1.53%) and &#x02212;2.6% (1.89%) in the bexotegrast and placebo groups, respectively (<xref rid="fig5" ref-type="fig">Figure 5B</xref>). Changes in top quartile SUV were moderately negatively correlated with changes in FVC and FVCpp: &#x02212;0.57 and &#x02212;0.63, respectively. Participants in the bexotegrast group reported decreased cough severity across all on-treatment time points compared with the placebo group (<xref rid="fig5" ref-type="fig">Figure 5C</xref>). Individual FVC and cough severity data are presented in Figure E2. Circulating biomarker analysis revealed decreases in markers of collagen synthesis, represented by PRO-C3 (<xref rid="fig6" ref-type="fig">Figures 6A</xref> and E3) and ITGB6 (<xref rid="fig6" ref-type="fig">Figures 6B</xref> and E3), in the bexotegrast versus placebo group after 12 weeks of treatment.</p><fig position="float" id="fig5"><label>
+Figure 5.
+</label><caption><p>LS mean (SE) change from baseline in (<italic>A</italic>) FVC, (<italic>B</italic>) FVCpp, and (<italic>C</italic>) mean (SE) change from baseline in cough severity at Week 12. *One placebo-treated participant did not have acceptable quality spirometry after baseline. FVCpp = percent predicted FVC; LS = least squares; VAS = visual analog scale.</p></caption><graphic xlink:href="rccm.202410-1934OCf5" position="float"/></fig><fig position="float" id="fig6"><label>
+Figure 6.
+</label><caption><p>LS mean (SE) change from baseline in (<italic>A</italic>) PRO-C3 and (<italic>B</italic>) ITGB6 at Week 12. ITGB6 = integrin-&#x003b2;6; LS = least squares; PRO-C3 = type III collagen synthesis neoepitope.</p></caption><graphic xlink:href="rccm.202410-1934OCf6" position="float"/></fig></sec><sec><title>Safety</title><p content-type="flushleft">Overall, bexotegrast demonstrated a favorable safety and tolerability profile over 12 weeks of treatment (<xref rid="tbl2" ref-type="table">Table 2</xref>). Six bexotegrast-treated participants (85.7%) and one placebo-treated participant (33.3%) reported one or more TEAEs. The most frequently reported on-treatment TEAE in the bexotegrast group was diarrhea (three participants; 42.9%). All events of diarrhea were considered mild; all participants in the bexotegrast group who had diarrhea were receiving concomitant nintedanib treatment. Most TEAEs were mild to moderate in severity. No serious AEs occurred in the study. One participant in the bexotegrast group receiving background therapy with nintedanib had asymptomatic grade 3 TEAEs of increased amylase and increased lipase. One participant in the bexotegrast group had a TEAE of COVID-19 that led to an interruption of the study drug; this participant did not withdraw or terminate the study early. No deaths occurred during the study.</p><table-wrap position="float" id="tbl2"><label>
+Table 2.
+</label><caption><p>Nature and Frequency of Treatment-Emergent Adverse Events Over 12 Weeks of Treatment (Safety Population)</p></caption><!--OASIS TABLE HERE--><table frame="hsides" rules="groups"><colgroup><col align="left"/><col align="center"/><col align="center"/></colgroup><thead valign="bottom"><tr><th align="left">TEAEs</th><th align="center">Bexotegrast 160 mg (<italic>n</italic>&#x02009;=&#x02009;7)</th><th align="center">Placebo (<italic>n</italic>&#x02009;=&#x02009;3)</th></tr></thead><tbody valign="top"><tr><td align="left">TEAEs</td><td align="center">6 (85.7)</td><td align="center">1 (33.3)</td></tr><tr><td align="left">TEAEs related to study drug</td><td align="center">5 (71.4)</td><td align="center">1 (33.3)</td></tr><tr><td align="left">Serious TEAEs</td><td align="center">0</td><td align="center">0</td></tr><tr><td align="left">Grade &#x02a7e;3 TEAEs</td><td align="center">1 (14.3)<xref rid="TF4" ref-type="table-fn">*</xref></td><td align="center">0</td></tr><tr><td align="left">Grade &#x02a7e;3 TEAEs related to study drug</td><td align="center">1 (14.3)<xref rid="TF4" ref-type="table-fn">*</xref></td><td align="center">0</td></tr><tr><td align="left">TEAEs leading to interruption of study drug</td><td align="center">1 (14.3)<xref rid="TF5" ref-type="table-fn"><sup>&#x02020;</sup></xref></td><td align="center">0</td></tr><tr><td align="left">TEAEs leading to withdrawal of study drug</td><td align="center">0</td><td align="center">0</td></tr><tr><td align="left">TEAEs leading to early termination from study</td><td align="center">0</td><td align="center">0</td></tr><tr><td align="left">TEAEs leading to death</td><td align="center">0</td><td align="center">0</td></tr><tr><td colspan="3" align="left">Most frequent TEAEs (<italic>n</italic>&#x02009;&#x0003e;&#x02009;1)</td></tr><tr><td align="left">&#x02003;Cough</td><td align="center">4 (57.1)<xref rid="TF6" ref-type="table-fn"><sup>&#x02021;</sup></xref></td><td align="center">0</td></tr><tr><td align="left">&#x02003;Diarrhea</td><td align="center">3 (42.9)<xref rid="TF7" ref-type="table-fn"><sup>&#x000a7;</sup></xref></td><td align="center">1 (33.3)</td></tr></tbody></table><table-wrap-foot><fn id="TF2"><p><italic>Definition of abbreviation</italic>: TEAE = treatment-emergent adverse event.</p></fn><fn id="TF3"><p>Data are expressed as count (percent).</p></fn><fn id="TF4"><label>*</label><p>Participant experienced grade 3 TEAEs of increased amylase and increased lipase.</p></fn><fn id="TF5"><label>
+<sup>&#x02020;</sup>
+</label><p>Participant with COVID-19.</p></fn><fn id="TF6"><label>
+<sup>&#x02021;</sup>
+</label><p>All cough events occurred after Week 12 (end of treatment) during the 14-day follow-up period.</p></fn><fn id="TF7"><label>
+<sup>&#x000a7;</sup>
+</label><p>All events of diarrhea were considered mild. The three participants were receiving nintedanib, which was listed as an alternative cause.</p></fn></table-wrap-foot></table-wrap></sec></sec><sec sec-type="discussion"><title>Discussion</title><p content-type="flushleft">Collagen accumulation in the lungs of patients with fibrotic lung disease, particularly those with IPF, is the hallmark of disease progression. Current imaging modalities only detect pathological structural abnormalities resulting from aberrant collagen deposition. Changes in lung uptake of the type I collagen PET probe <sup>68</sup>Ga-CBP8 correlated with lung collagen content and may be a more sensitive measure of active disease and a tool to assess the early therapeutic effects of antifibrotic drugs (<xref rid="bib23" ref-type="bibr">23</xref>, <xref rid="bib31" ref-type="bibr">31</xref>). The results from this study support the detection of less total lung collagen using <sup>68</sup>Ga-CBP8 PET imaging after 12 weeks of bexotegrast 160 mg treatment, suggesting the potential of bexotegrast to substantially reduce the fibrotic accumulation process.</p><p>To our knowledge, this is the first interventional phase 2 study to evaluate type I collagen deposition in the lungs of participants with IPF. Previous studies have demonstrated the use of molecular imaging for the characterization and localization of fibrosis-related processes (<xref rid="bib22" ref-type="bibr">22</xref>, <xref rid="bib23" ref-type="bibr">23</xref>, <xref rid="bib32" ref-type="bibr">32</xref>, <xref rid="bib33" ref-type="bibr">33</xref>); however, these were either conducted in preclinical mouse models or in human participants who underwent imaging at a single time point. A unique aspect of this study was the ability to follow disease progression in participants over 12 weeks. In this study, collagen deposition increased from baseline in placebo-treated participants, consistent with increases in fibrotic reticular patterns seen in participants with IPF in other phase 2 or 3 studies (<xref rid="bib21" ref-type="bibr">21</xref>, <xref rid="bib34" ref-type="bibr">34</xref>, <xref rid="bib35" ref-type="bibr">35</xref>), whereas collagen deposition decreased from baseline in bexotegrast-treated participants. These results suggest that changes in pulmonary collagen deposition can be monitored longitudinally in patients with IPF using <sup>68</sup>Ga-CBP8 PET imaging and provide important information on early treatment effects.</p><p>IPF is a disease that predominately affects the subpleural lung regions (<xref rid="bib2" ref-type="bibr">2</xref>). Prior use of <sup>68</sup>Ga-CBP8 PET in participants with IPF demonstrated that probe uptake was greatest in the subpleural regions (<xref rid="bib22" ref-type="bibr">22</xref>). Our findings also corroborated this, because we saw that SUV levels in participants were numerically higher in all subpleural regions than in the central region. In addition, the effect of bexotegrast appeared to be predominant in the subpleural regions, because the <sup>68</sup>Ga-CBP8 SUVs in bexotegrast-treated participants decreased in each subpleural region, whereas it increased in placebo-treated participants over 12 weeks. For this study, we used the mean of the top quartile of SUVs within each region of interest as our primary PET measurement. Currently, there are no established PET imaging measurements for use in lung studies. Current imaging modalities (e.g., computed tomography) only detect pathological structural abnormalities resulting from aberrant collagen deposition. Given the heterogeneity of the diseased lung in IPF, the use of top quartile SUV presents an opportunity to more accurately represent the probe uptake within regions with a greater extent of fibrosis, thereby maximizing the ability to measure change over a short period of time.</p><p>The reduction of lung <sup>68</sup>Ga-CBP8 uptake with bexotegrast treatment provides evidence of the pharmacodynamic effect and potential efficacy of bexotegrast in participants with IPF and supports the role of noninvasive imaging of type I collagen as an important biomarker of disease activity. Bexotegrast blocks the activation of TGF-&#x003b2; by inhibiting &#x003b1;<sub>v</sub>&#x003b2;<sub>6</sub> and &#x003b1;<sub>v</sub>&#x003b2;<sub>1</sub> binding to latent TGF-&#x003b2; (<xref rid="bib19" ref-type="bibr">19</xref>). The PET data from this study are consistent with preclinical findings suggesting that bexotegrast interrupts the fibrotic process by blocking TGF-&#x003b2; activation and subsequent type I collagen deposition. Our study supports the hypothesis that bexotegrast reduces collagen deposition in the lungs of participants with IPF and builds on previous evidence of bexotegrast&#x02019;s antifibrotic mechanism of action using quantitative lung imaging (<xref rid="bib21" ref-type="bibr">21</xref>).</p><p>Changes in DCE-MRI measurements of contrast peak enhancement and washout rates after treatment with bexotegrast mirrored our PET imaging data. Patients with IPF have reduced lung peak enhancement (<xref rid="bib28" ref-type="bibr">28</xref>), suggesting leakage of capillaries within the lung and worsening perfusion (<xref rid="bib36" ref-type="bibr">36</xref>, <xref rid="bib37" ref-type="bibr">37</xref>). These data add to this body of knowledge. Participants treated with placebo had decreased peak enhancement over 12 weeks, suggesting that lung perfusion decreased over time, consistent with prior results (<xref rid="bib37" ref-type="bibr">37</xref>). In addition, the rate of contrast washout from the lungs has been shown to be slower in patients with IPF than in healthy control participants, reflecting the larger amount of matrix accumulating in extravascular extracellular space and consistent with the replacement of lung cells by abnormal, collagen-rich extracellular matrix in IPF (<xref rid="bib28" ref-type="bibr">28</xref>, <xref rid="bib38" ref-type="bibr">38</xref>). DCE-MRI methods are established in other organs, such as the heart and liver, for quantification of the extravascular volume as an indirect measurement of fibrosis (<xref rid="bib39" ref-type="bibr">39</xref>, <xref rid="bib40" ref-type="bibr">40</xref>). An interesting observation from our study is that treatment with bexotegrast led to increased peak enhancement (improved perfusion and decreased microvascular permeability) and faster contrast washout rate (decreased extracellular extravascular volume). These findings, in combination with the PET data, suggest the potential for favorable lung remodeling resulting from decreased deposition of new collagen and restoration of the homeostatic balance between collagen synthesis and degradation (<xref rid="bib41" ref-type="bibr">41</xref>). Together, the multimodal data corroborate an antifibrotic mechanism of bexotegrast and support continued clinical development.</p><p>Consistent with other phase 2 data in a larger patient population (<italic>n</italic>&#x02009;=&#x02009;120) (<xref rid="bib21" ref-type="bibr">21</xref>), the exploratory efficacy and biomarker results provide evidence of a treatment effect of bexotegrast in participants with IPF. The results from this study were consistent with improvements in quantitative lung fibrosis and FVC and were further supported by reductions in known biomarkers of IPF progression (<xref rid="bib21" ref-type="bibr">21</xref>). A separation in FVC between bexotegrast and placebo groups was observed as early as Week 4 and at all measured time points through Week 12. In addition, participants treated with bexotegrast self-reported improved cough severity compared with those who received placebo at each on-treatment time point over 12 weeks of treatment. Once treatment ended, cough events returned, which may be an indicator of disease progression (<xref rid="bib42" ref-type="bibr">42</xref>). Although the pathogenesis of cough in IPF is poorly understood and no treatments are available (<xref rid="bib43" ref-type="bibr">43</xref>), the overexpression of TGF-&#x003b2; in airway epithelial cells in patients with chronic cough may be associated with a common pathobiology (<xref rid="bib43" ref-type="bibr">43</xref>, <xref rid="bib44" ref-type="bibr">44</xref>). Therefore, these results suggest that TGF-&#x003b2; pathway inhibition by bexotegrast may play a role in decreasing cough in patients with IPF. By Week 12, improvements in cough in the bexotegrast-treated group were approaching clinical meaningfulness (<xref rid="bib45" ref-type="bibr">45</xref>). PRO-C3 has been shown to be elevated in patients with IPF and is associated with progressive disease, and elevated ITGB6 plasma concentrations are associated with interstitial lung disease progression (<xref rid="bib46" ref-type="bibr">46</xref>&#x02013;<xref rid="bib48" ref-type="bibr">48</xref>). At the end of the study, bexotegrast-treated participants showed decreases in the prognostic biomarkers PRO-C3 and ITGB6. These correlated functional and symptom changes, combined with evidence of reduced lung collagen and extracellular volume, suggest the potential of bexotegrast for disease modification.</p><p>Taken together, the efficacy and biomarker data presented in this study and the previous INTEGRIS-IPF study illustrate potential treatment effects. Late-stage evaluation of bexotegrast will further explore its efficacy and safety in participants with IPF (BEACON-IPF; NCT06097260).</p><sec><title>Limitations</title><p content-type="flushleft">This study should be interpreted in the context of some limitations, most notably the small size of the treatment sample. Because of the small sample size, disease characteristics were not completely balanced. Given that only three participants were in the placebo group, it is expected that there will be differences in percentages in categorical baseline characteristics (e.g., sex, race, and background therapy) compared with the bexotegrast group (<italic>n</italic>&#x02009;=&#x02009;7); a single participant could change the percentage by 33%. Correspondingly, imbalances in continuous variables (e.g., age, FVC, FVCpp) are expected, given the heterogeneity in the IPF sample, where a single participant could change the mean or median value by a large margin. Previous subgroup analyses have found limited differences in treatment effect in baseline characteristics such as sex, race, age, or FVC (<xref rid="bib49" ref-type="bibr">49</xref>&#x02013;<xref rid="bib51" ref-type="bibr">51</xref>). Differences in patient baseline FVC values may have contributed to any changes from baseline observed in this study. To account for this, we reported the relative changes observed in the imaging measurements.</p><p>Participants treated with bexotegrast in this study had lower FVCpp and longer disease duration than other bexotegrast-treated phase 2 participants (<xref rid="bib21" ref-type="bibr">21</xref>). Because of the small participant sample size, disease characteristics were not completely balanced. One bexotegrast-treated participant also had COVID-19 and low adherence to the study drug (65% adherence) during the treatment period, both of which may have confounded the results because worsening interstitial lung disease and reduced pulmonary perfusion have been described in some patients after COVID-19 (<xref rid="bib25" ref-type="bibr">25</xref>, <xref rid="bib52" ref-type="bibr">52</xref>).</p></sec><sec sec-type="conclusions"><title>Conclusions</title><p content-type="flushleft">In conclusion, <sup>68</sup>Ga-CBP8 PET detected antifibrotic effects and potential favorable lung remodeling with bexotegrast. This study used a complementary approach to evaluate the effect of bexotegrast on both lung structure and function using multimodal PET and DCE-MRI. This approach detected improvements in quantifiable structural changes that may lead to clinically meaningful effects in patients with IPF. Treatment with bexotegrast improved FVC, cough severity, and prognostic biomarkers, suggesting its potential for disease modification. Late-stage evaluation of bexotegrast is currently underway in the enrolling BEACON-IPF study (NCT06097260).</p></sec></sec><sec sec-type="supplementary-material"><title>Supplemental Materials</title><supplementary-material id="SD1" position="float" content-type="local-data"><object-id pub-id-type="doi">10.1164/rccm.202410-1934OC</object-id><label>Online data Supplementary</label><media xlink:href="rccm.202410-1934OCS1.docx" id="S1" position="anchor"/></supplementary-material></sec></body><back><ack><sec><title>Acknowledgment</title><p>The authors thank the clinical site staff and patients who participated in this study.</p></sec></ack><fn-group><fn fn-type="supported-by"><p>This study was sponsored by Pliant Therapeutics, Inc. The study sponsor was involved in the study design, data analysis, and preparation of the manuscript. Editorial assistance was provided by Samantha O&#x02019;Dwyer, Ph.D., C.M.P.P., of Nucleus Global and was funded by Pliant Therapeutics, Inc. Development of the imaging methodology employed and the radiochemistry equipment used in this study was supported by National Institutes of Health awards (R01HL153606, K25HL148837, K23HL150331, S10OD028499, and S10OD032138).</p></fn><fn><p>Author Contributions: All authors contributed to, reviewed, and approved the final draft of the paper. All authors had full access to all the data in the study and had final responsibility for the decision to submit for publication. Concept and design: S.B.M., G.P.C., M.D., &#x000c9;.A.L., and P.C. Reconstruction of positron emission tomography data and quality control of positron emission tomography images: N.E. Acquisition, analysis, or interpretation of data: S.B.M., G.P.C., I.Y.Z., N.E., A.S., C.C., C.F., A.C., M.D., C.N.B., &#x000c9;.A.L., and P.C. Drafting of the manuscript: all authors. Critical revision of the manuscript for important intellectual content: all authors. Statistical analysis: C.N.B.</p></fn><fn><p>Pliant Therapeutics, Inc., (&#x0201c;Pliant&#x0201d;) understands and acknowledges the need to share clinical study data with the research community in an open and transparent manner. In furtherance of its research efforts, a member of the scientific community may request aggregated deidentified clinical data collected during a clinical study after its public disclosure by Pliant and filing of any related intellectual property protection. To the extent that Pliant has any additional supporting documentation or summary data, it may, at its discretion, also make such information available. Pliant will take into consideration any reasonable request that it receives pertaining to clinical data that have been accepted and published by a journal. Prior to receipt of clinical study data, Pliant and the requesting institution shall enter into an agreement that takes into consideration applicable data privacy laws and the use of the clinical study data for research purposes only. All requests for access to clinical study data must be submitted in writing to <email xlink:href="mailto:scientificcommunications@pliantrx.com">scientificcommunications@pliantrx.com</email>.</p></fn><fn><p><ext-link xlink:href="https://doi.org/10.1164/rccm.202503-0670ED" ext-link-type="uri">This article has a related editorial</ext-link>.</p></fn><fn><p>A data supplement for this article is available via the <ext-link xlink:href="http://www.atsjournals.org/doi/suppl/10.1164/rccm.202410-1934OC?role=tab" ext-link-type="uri">Supplements tab</ext-link> at the top of the online article.</p></fn><fn><p>Artificial Intelligence Disclaimer: No artificial intelligence tools were used in writing this manuscript.</p></fn><fn><p>Originally Published in Press as DOI: <ext-link xlink:href="https://doi.org/10.1164/rccm.202410-1934OC" ext-link-type="uri">10.1164/rccm.202410-1934OC</ext-link> on March 28, 2025</p></fn><fn fn-type="financial-disclosure"><p><underline><bold><ext-link xlink:href="http://www.atsjournals.org/doi/suppl/10.1164/rccm.202410-1934OC/suppl_file/disclosures.pdf" ext-link-type="uri">Author disclosures</ext-link></bold></underline> are available with the text of this article at <ext-link xlink:href="http://www.atsjournals.org" ext-link-type="uri">www.atsjournals.org</ext-link>.</p></fn></fn-group><ref-list><title>References</title><ref id="bib1"><label>1.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Lederer</surname><given-names>DJ</given-names></name>
+<name><surname>Martinez</surname><given-names>FJ</given-names></name>
+</person-group>
+<article-title>Idiopathic pulmonary fibrosis</article-title>
+<source>
+<italic>N Engl J Med</italic>
+</source>
+<year>2018</year>
+<volume>379</volume>
+<fpage>797</fpage>
+<lpage>798</lpage>
+</mixed-citation></ref><ref id="bib2"><label>2.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Raghu</surname><given-names>G</given-names></name>
+<name><surname>Collard</surname><given-names>HR</given-names></name>
+<name><surname>Egan</surname><given-names>JJ</given-names></name>
+<name><surname>Martinez</surname><given-names>FJ</given-names></name>
+<name><surname>Behr</surname><given-names>J</given-names></name>
+<name><surname>Brown</surname><given-names>KK</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+<collab>ATS/ERS/JRS/ALAT Committee on Idiopathic Pulmonary Fibrosis</collab>
+</person-group>
+<article-title>An official ATS/ERS/JRS/ALAT statement: idiopathic pulmonary fibrosis: evidence-based guidelines for diagnosis and management</article-title>
+<source>
+<italic>Am J Respir Crit Care Med</italic>
+</source>
+<year>2011</year>
+<volume>183</volume>
+<fpage>788</fpage>
+<lpage>824</lpage>
+<pub-id pub-id-type="pmid">21471066</pub-id>
+</mixed-citation></ref><ref id="bib3"><label>3.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Khalil</surname><given-names>W</given-names></name>
+<name><surname>Xia</surname><given-names>H</given-names></name>
+<name><surname>Bodempudi</surname><given-names>V</given-names></name>
+<name><surname>Kahm</surname><given-names>J</given-names></name>
+<name><surname>Hergert</surname><given-names>P</given-names></name>
+<name><surname>Smith</surname><given-names>K</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Pathologic regulation of collagen I by an aberrant protein phosphatase 2A/histone deacetylase C4/microRNA-29 signal axis in idiopathic pulmonary fibrosis fibroblasts</article-title>
+<source>
+<italic>Am J Respir Cell Mol Biol</italic>
+</source>
+<year>2015</year>
+<volume>53</volume>
+<fpage>391</fpage>
+<lpage>399</lpage>
+<pub-id pub-id-type="pmid">25612003</pub-id>
+</mixed-citation></ref><ref id="bib4"><label>4.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Murtha</surname><given-names>LA</given-names></name>
+<name><surname>Schuliga</surname><given-names>MJ</given-names></name>
+<name><surname>Mabotuwana</surname><given-names>NS</given-names></name>
+<name><surname>Hardy</surname><given-names>SA</given-names></name>
+<name><surname>Waters</surname><given-names>DW</given-names></name>
+<name><surname>Burgess</surname><given-names>JK</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>The processes and mechanisms of cardiac and pulmonary fibrosis</article-title>
+<source>
+<italic>Front Physiol</italic>
+</source>
+<year>2017</year>
+<volume>8</volume>
+<fpage>777</fpage>
+<pub-id pub-id-type="pmid">29075197</pub-id>
+</mixed-citation></ref><ref id="bib5"><label>5.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Kuhn</surname><given-names>C</given-names><suffix>3rd</suffix></name>
+<name><surname>Boldt</surname><given-names>J</given-names></name>
+<name><surname>King</surname><given-names>TE</given-names><suffix>Jr</suffix></name>
+<name><surname>Crouch</surname><given-names>E</given-names></name>
+<name><surname>Vartio</surname><given-names>T</given-names></name>
+<name><surname>McDonald</surname><given-names>JA</given-names></name>
+</person-group>
+<article-title>An immunohistochemical study of architectural remodeling and connective tissue synthesis in pulmonary fibrosis</article-title>
+<source>
+<italic>Am Rev Respir Dis</italic>
+</source>
+<year>1989</year>
+<volume>140</volume>
+<fpage>1693</fpage>
+<lpage>1703</lpage>
+<pub-id pub-id-type="pmid">2604297</pub-id>
+</mixed-citation></ref><ref id="bib6"><label>6.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Marinkovic</surname><given-names>A</given-names></name>
+<name><surname>Liu</surname><given-names>F</given-names></name>
+<name><surname>Tschumperlin</surname><given-names>DJ</given-names></name>
+</person-group>
+<article-title>Matrices of physiologic stiffness potently inactivate idiopathic pulmonary fibrosis fibroblasts</article-title>
+<source>
+<italic>Am J Respir Cell Mol Biol</italic>
+</source>
+<year>2013</year>
+<volume>48</volume>
+<fpage>422</fpage>
+<lpage>430</lpage>
+<pub-id pub-id-type="pmid">23258227</pub-id>
+</mixed-citation></ref><ref id="bib7"><label>7.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>Y</given-names></name>
+<name><surname>Huang</surname><given-names>X</given-names></name>
+<name><surname>Hecker</surname><given-names>L</given-names></name>
+<name><surname>Kurundkar</surname><given-names>D</given-names></name>
+<name><surname>Kurundkar</surname><given-names>A</given-names></name>
+<name><surname>Liu</surname><given-names>H</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Inhibition of mechanosensitive signaling in myofibroblasts ameliorates experimental pulmonary fibrosis</article-title>
+<source>
+<italic>J Clin Invest</italic>
+</source>
+<year>2013</year>
+<volume>123</volume>
+<fpage>1096</fpage>
+<lpage>1108</lpage>
+<pub-id pub-id-type="pmid">23434591</pub-id>
+</mixed-citation></ref><ref id="bib8"><label>8.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Ley</surname><given-names>B</given-names></name>
+<name><surname>Bradford</surname><given-names>WZ</given-names></name>
+<name><surname>Vittinghoff</surname><given-names>E</given-names></name>
+<name><surname>Weycker</surname><given-names>D</given-names></name>
+<name><surname>Du Bois</surname><given-names>RM</given-names></name>
+<name><surname>Collard</surname><given-names>HR</given-names></name>
+</person-group>
+<article-title>Predictors of mortality poorly predict common measures of disease progression in idiopathic pulmonary fibrosis</article-title>
+<source>
+<italic>Am J Respir Crit Care Med</italic>
+</source>
+<year>2016</year>
+<volume>194</volume>
+<fpage>711</fpage>
+<lpage>718</lpage>
+<pub-id pub-id-type="pmid">26938706</pub-id>
+</mixed-citation></ref><ref id="bib9"><label>9.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>K&#x000e4;rkk&#x000e4;inen</surname><given-names>M</given-names></name>
+<name><surname>Kettunen</surname><given-names>HP</given-names></name>
+<name><surname>Nurmi</surname><given-names>H</given-names></name>
+<name><surname>Selander</surname><given-names>T</given-names></name>
+<name><surname>Purokivi</surname><given-names>M</given-names></name>
+<name><surname>Kaarteenaho</surname><given-names>R</given-names></name>
+</person-group>
+<article-title>Comparison of disease progression subgroups in idiopathic pulmonary fibrosis</article-title>
+<source>
+<italic>BMC Pulm Med</italic>
+</source>
+<year>2019</year>
+<volume>19</volume>
+<fpage>228</fpage>
+<pub-id pub-id-type="pmid">31783748</pub-id>
+</mixed-citation></ref><ref id="bib10"><label>10.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Ses&#x000e9;</surname><given-names>L</given-names></name>
+<name><surname>Nunes</surname><given-names>H</given-names></name>
+<name><surname>Cottin</surname><given-names>V</given-names></name>
+<name><surname>Israel-Biet</surname><given-names>D</given-names></name>
+<name><surname>Crestani</surname><given-names>B</given-names></name>
+<name><surname>Guillot-Dudoret</surname><given-names>S</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Gender differences in idiopathic pulmonary fibrosis: are men and women equal?</article-title>
+<source>
+<italic>Front Med (Lausanne)</italic>
+</source>
+<year>2021</year>
+<volume>8</volume>
+<fpage>713698</fpage>
+<pub-id pub-id-type="pmid">34422868</pub-id>
+</mixed-citation></ref><ref id="bib11"><label>11.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Mai</surname><given-names>TH</given-names></name>
+<name><surname>Han</surname><given-names>LW</given-names></name>
+<name><surname>Hsu</surname><given-names>JC</given-names></name>
+<name><surname>Kamath</surname><given-names>N</given-names></name>
+<name><surname>Pan</surname><given-names>L</given-names></name>
+</person-group>
+<article-title>Idiopathic pulmonary fibrosis therapy development: a clinical pharmacology perspective</article-title>
+<source>
+<italic>Ther Adv Respir Dis</italic>
+</source>
+<year>2023</year>
+<volume>17</volume>
+<fpage>17534666231181537</fpage>
+<pub-id pub-id-type="pmid">37392011</pub-id>
+</mixed-citation></ref><ref id="bib12"><label>12.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Rozenberg</surname><given-names>D</given-names></name>
+<name><surname>Sitzer</surname><given-names>N</given-names></name>
+<name><surname>Porter</surname><given-names>S</given-names></name>
+<name><surname>Weiss</surname><given-names>A</given-names></name>
+<name><surname>Colman</surname><given-names>R</given-names></name>
+<name><surname>Reid</surname><given-names>WD</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Idiopathic pulmonary fibrosis: a review of disease, pharmacological, and nonpharmacological strategies with a focus on symptoms, function, and health-related quality of life</article-title>
+<source>
+<italic>J Pain Symptom Manage</italic>
+</source>
+<year>2020</year>
+<volume>59</volume>
+<fpage>1362</fpage>
+<lpage>1378</lpage>
+<pub-id pub-id-type="pmid">31887400</pub-id>
+</mixed-citation></ref><ref id="bib13"><label>13.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Shi</surname><given-names>N</given-names></name>
+<name><surname>Wang</surname><given-names>Z</given-names></name>
+<name><surname>Zhu</surname><given-names>H</given-names></name>
+<name><surname>Liu</surname><given-names>W</given-names></name>
+<name><surname>Zhao</surname><given-names>M</given-names></name>
+<name><surname>Jiang</surname><given-names>X</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Research progress on drugs targeting the TGF-beta signaling pathway in fibrotic diseases</article-title>
+<source>
+<italic>Immunol Res</italic>
+</source>
+<year>2022</year>
+<volume>70</volume>
+<fpage>276</fpage>
+<lpage>288</lpage>
+<pub-id pub-id-type="pmid">35147920</pub-id>
+</mixed-citation></ref><ref id="bib14"><label>14.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Aschner</surname><given-names>Y</given-names></name>
+<name><surname>Downey</surname><given-names>GP</given-names></name>
+</person-group>
+<article-title>Transforming growth factor-beta: master regulator of the respiratory system in health and disease</article-title>
+<source>
+<italic>Am J Respir Cell Mol Biol</italic>
+</source>
+<year>2016</year>
+<volume>54</volume>
+<fpage>647</fpage>
+<lpage>655</lpage>
+<pub-id pub-id-type="pmid">26796672</pub-id>
+</mixed-citation></ref><ref id="bib15"><label>15.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Frangogiannis</surname><given-names>N</given-names></name>
+</person-group>
+<article-title>Transforming growth factor-beta in tissue fibrosis</article-title>
+<source>
+<italic>J Exp Med</italic>
+</source>
+<year>2020</year>
+<volume>217</volume>
+<fpage>e20190103</fpage>
+<pub-id pub-id-type="pmid">32997468</pub-id>
+</mixed-citation></ref><ref id="bib16"><label>16.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Saito</surname><given-names>A</given-names></name>
+<name><surname>Horie</surname><given-names>M</given-names></name>
+<name><surname>Nagase</surname><given-names>T</given-names></name>
+</person-group>
+<article-title>TGF-beta signaling in lung health and disease</article-title>
+<source>
+<italic>Int J Mol Sci</italic>
+</source>
+<year>2018</year>
+<volume>19</volume>
+<fpage>2460</fpage>
+<pub-id pub-id-type="pmid">30127261</pub-id>
+</mixed-citation></ref><ref id="bib17"><label>17.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Saini</surname><given-names>G</given-names></name>
+<name><surname>Porte</surname><given-names>J</given-names></name>
+<name><surname>Weinreb</surname><given-names>PH</given-names></name>
+<name><surname>Violette</surname><given-names>SM</given-names></name>
+<name><surname>Wallace</surname><given-names>WA</given-names></name>
+<name><surname>McKeever</surname><given-names>TM</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>&#x003b1;<sub>v</sub>&#x003b2;<sub>6</sub> integrin may be a potential prognostic biomarker in interstitial lung disease</article-title>
+<source>
+<italic>Eur Respir J</italic>
+</source>
+<year>2015</year>
+<volume>46</volume>
+<fpage>486</fpage>
+<lpage>494</lpage>
+<pub-id pub-id-type="pmid">25745053</pub-id>
+</mixed-citation></ref><ref id="bib18"><label>18.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Horan</surname><given-names>GS</given-names></name>
+<name><surname>Wood</surname><given-names>S</given-names></name>
+<name><surname>Ona</surname><given-names>V</given-names></name>
+<name><surname>Li</surname><given-names>DJ</given-names></name>
+<name><surname>Lukashev</surname><given-names>ME</given-names></name>
+<name><surname>Weinreb</surname><given-names>PH</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Partial inhibition of integrin alpha(v)beta6 prevents pulmonary fibrosis without exacerbating inflammation</article-title>
+<source>
+<italic>Am J Respir Crit Care Med</italic>
+</source>
+<year>2008</year>
+<volume>177</volume>
+<fpage>56</fpage>
+<lpage>65</lpage>
+<pub-id pub-id-type="pmid">17916809</pub-id>
+</mixed-citation></ref><ref id="bib19"><label>19.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Decaris</surname><given-names>ML</given-names></name>
+<name><surname>Schaub</surname><given-names>JR</given-names></name>
+<name><surname>Chen</surname><given-names>C</given-names></name>
+<name><surname>Cha</surname><given-names>J</given-names></name>
+<name><surname>Lee</surname><given-names>GG</given-names></name>
+<name><surname>Rexhepaj</surname><given-names>M</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Dual inhibition of &#x003b1;<sub>v</sub>&#x003b2;<sub>6</sub> and &#x003b1;<sub>v</sub>&#x003b2;<sub>1</sub> reduces fibrogenesis in lung tissue explants from patients with IPF</article-title>
+<source>
+<italic>Respir Res</italic>
+</source>
+<year>2021</year>
+<volume>22</volume>
+<fpage>265</fpage>
+<pub-id pub-id-type="pmid">34666752</pub-id>
+</mixed-citation></ref><ref id="bib20"><label>20.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Diebold</surname><given-names>RJ</given-names></name>
+<name><surname>Eis</surname><given-names>MJ</given-names></name>
+<name><surname>Yin</surname><given-names>M</given-names></name>
+<name><surname>Ormsby</surname><given-names>I</given-names></name>
+<name><surname>Boivin</surname><given-names>GP</given-names></name>
+<name><surname>Darrow</surname><given-names>BJ</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Early-onset multifocal inflammation in the transforming growth factor beta 1-null mouse is lymphocyte mediated</article-title>
+<source>
+<italic>Proc Natl Acad Sci U S A</italic>
+</source>
+<year>1995</year>
+<volume>92</volume>
+<fpage>12215</fpage>
+<lpage>12219</lpage>
+<pub-id pub-id-type="pmid">8618872</pub-id>
+</mixed-citation></ref><ref id="bib21"><label>21.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Lancaster</surname><given-names>L</given-names></name>
+<name><surname>Cottin</surname><given-names>V</given-names></name>
+<name><surname>Ramaswamy</surname><given-names>M</given-names></name>
+<name><surname>Wuyts</surname><given-names>WA</given-names></name>
+<name><surname>Jenkins</surname><given-names>RG</given-names></name>
+<name><surname>Scholand</surname><given-names>MB</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+<collab>PLN-74809-IPF-202 Trial Investigators</collab>
+</person-group>
+<article-title>Bexotegrast in patients with idiopathic pulmonary fibrosis: the INTEGRIS-IPF study</article-title>
+<source>
+<italic>Am J Respir Crit Care Med</italic>
+</source>
+<year>2024</year>
+<volume>210</volume>
+<fpage>424</fpage>
+<lpage>434</lpage>
+<pub-id pub-id-type="pmid">38843105</pub-id>
+</mixed-citation></ref><ref id="bib22"><label>22.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Montesi</surname><given-names>SB</given-names></name>
+<name><surname>Izquierdo-Garcia</surname><given-names>D</given-names></name>
+<name><surname>Desogere</surname><given-names>P</given-names></name>
+<name><surname>Abston</surname><given-names>E</given-names></name>
+<name><surname>Liang</surname><given-names>LL</given-names></name>
+<name><surname>Digumarthy</surname><given-names>S</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Type I collagen-targeted positron emission tomography imaging in idiopathic pulmonary fibrosis: first-in-human studies</article-title>
+<source>
+<italic>Am J Respir Crit Care Med</italic>
+</source>
+<year>2019</year>
+<volume>200</volume>
+<fpage>258</fpage>
+<lpage>261</lpage>
+<pub-id pub-id-type="pmid">31161770</pub-id>
+</mixed-citation></ref><ref id="bib23"><label>23.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Desogere</surname><given-names>P</given-names></name>
+<name><surname>Tapias</surname><given-names>LF</given-names></name>
+<name><surname>Hariri</surname><given-names>LP</given-names></name>
+<name><surname>Rotile</surname><given-names>NJ</given-names></name>
+<name><surname>Rietz</surname><given-names>TA</given-names></name>
+<name><surname>Probst</surname><given-names>CK</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Type I collagen-targeted PET probe for pulmonary fibrosis detection and staging in preclinical models</article-title>
+<source>
+<italic>Sci Transl Med</italic>
+</source>
+<year>2017</year>
+<volume>9</volume>
+<fpage>eaaf4696</fpage>
+<pub-id pub-id-type="pmid">28381537</pub-id>
+</mixed-citation></ref><ref id="bib24"><label>24.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Moon</surname><given-names>BF</given-names></name>
+<name><surname>Zhou</surname><given-names>IY</given-names></name>
+<name><surname>Ning</surname><given-names>Y</given-names></name>
+<name><surname>Chen</surname><given-names>YI</given-names></name>
+<name><surname>Le Fur</surname><given-names>M</given-names></name>
+<name><surname>Shuvaev</surname><given-names>S</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Simultaneous positron emission tomography and molecular magnetic resonance imaging of cardiopulmonary fibrosis in a mouse model of left ventricular dysfunction</article-title>
+<source>
+<italic>J Am Heart Assoc</italic>
+</source>
+<year>2024</year>
+<volume>13</volume>
+<fpage>e034363</fpage>
+<pub-id pub-id-type="pmid">38979786</pub-id>
+</mixed-citation></ref><ref id="bib25"><label>25.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>IY</given-names></name>
+<name><surname>Mascia</surname><given-names>M</given-names></name>
+<name><surname>Alba</surname><given-names>GA</given-names></name>
+<name><surname>Magaletta</surname><given-names>M</given-names></name>
+<name><surname>Ginns</surname><given-names>LC</given-names></name>
+<name><surname>Caravan</surname><given-names>P</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Dynamic contrast-enhanced MRI demonstrates pulmonary microvascular abnormalities months after SARS-CoV-2 infection</article-title>
+<source>
+<italic>Am J Respir Crit Care Med</italic>
+</source>
+<year>2023</year>
+<volume>207</volume>
+<fpage>1636</fpage>
+<lpage>1639</lpage>
+<pub-id pub-id-type="pmid">37094097</pub-id>
+</mixed-citation></ref><ref id="bib26"><label>26.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>WJ</given-names></name>
+<name><surname>Niven</surname><given-names>RM</given-names></name>
+<name><surname>Young</surname><given-names>SS</given-names></name>
+<name><surname>Liu</surname><given-names>YZ</given-names></name>
+<name><surname>Parker</surname><given-names>GJ</given-names></name>
+<name><surname>Naish</surname><given-names>JH</given-names></name>
+</person-group>
+<article-title>T1-weighted dynamic contrast-enhanced MR imaging of the lung in asthma: semiquantitative analysis for the assessment of contrast agent kinetic characteristics</article-title>
+<source>
+<italic>Radiology</italic>
+</source>
+<year>2016</year>
+<volume>278</volume>
+<fpage>906</fpage>
+<lpage>916</lpage>
+<pub-id pub-id-type="pmid">26491908</pub-id>
+</mixed-citation></ref><ref id="bib27"><label>27.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Amundsen</surname><given-names>T</given-names></name>
+<name><surname>Torheim</surname><given-names>G</given-names></name>
+<name><surname>Waage</surname><given-names>A</given-names></name>
+<name><surname>Bjermer</surname><given-names>L</given-names></name>
+<name><surname>Steen</surname><given-names>PA</given-names></name>
+<name><surname>Haraldseth</surname><given-names>O</given-names></name>
+</person-group>
+<article-title>Perfusion magnetic resonance imaging of the lung: characterization of pneumonia and chronic obstructive pulmonary disease. A feasibility study</article-title>
+<source>
+<italic>J Magn Reson Imaging</italic>
+</source>
+<year>2000</year>
+<volume>12</volume>
+<fpage>224</fpage>
+<lpage>231</lpage>
+<pub-id pub-id-type="pmid">10931584</pub-id>
+</mixed-citation></ref><ref id="bib28"><label>28.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Montesi</surname><given-names>SB</given-names></name>
+<name><surname>Zhou</surname><given-names>IY</given-names></name>
+<name><surname>Liang</surname><given-names>LL</given-names></name>
+<name><surname>Digumarthy</surname><given-names>SR</given-names></name>
+<name><surname>Mercaldo</surname><given-names>S</given-names></name>
+<name><surname>Mercaldo</surname><given-names>N</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Dynamic contrast-enhanced magnetic resonance imaging of the lung reveals important pathobiology in idiopathic pulmonary fibrosis</article-title>
+<source>
+<italic>ERJ Open Res</italic>
+</source>
+<year>2021</year>
+<volume>7</volume>
+<fpage>00907-02020</fpage>
+<pub-id pub-id-type="pmid">34760997</pub-id>
+</mixed-citation></ref><ref id="bib29"><label>29.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Montesi</surname><given-names>SB</given-names></name>
+<name><surname>Cosgrove</surname><given-names>GP</given-names></name>
+<name><surname>Turner</surname><given-names>S</given-names></name>
+<name><surname>Zhou</surname><given-names>I</given-names></name>
+<name><surname>Efthimiou</surname><given-names>N</given-names></name>
+<name><surname>Susnjar</surname><given-names>A</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Bexotegrast reduces type 1 collagen deposition in participants with idiopathic pulmonary fibrosis (IPF) after 12 weeks of therapy [abstract]</article-title>
+<source>
+<italic>Eur Respir J</italic>
+</source>
+<year>2024</year>
+<volume>64</volume>
+<fpage>OA1058</fpage>
+</mixed-citation></ref><ref id="bib30"><label>30.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Raghu</surname><given-names>G</given-names></name>
+<name><surname>Remy-Jardin</surname><given-names>M</given-names></name>
+<name><surname>Myers</surname><given-names>JL</given-names></name>
+<name><surname>Richeldi</surname><given-names>L</given-names></name>
+<name><surname>Ryerson</surname><given-names>CJ</given-names></name>
+<name><surname>Lederer</surname><given-names>DJ</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+<collab>American Thoracic Society, European Respiratory Society, Japanese Respiratory Society, and Latin American Thoracic Society</collab>
+</person-group>
+<article-title>Diagnosis of idiopathic pulmonary fibrosis. An official ATS/ERS/JRS/ALAT clinical practice guideline</article-title>
+<source>
+<italic>Am J Respir Crit Care Med</italic>
+</source>
+<year>2018</year>
+<volume>198</volume>
+<fpage>e44</fpage>
+<lpage>e68</lpage>
+<pub-id pub-id-type="pmid">30168753</pub-id>
+</mixed-citation></ref><ref id="bib31"><label>31.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Montesi</surname><given-names>SB</given-names></name>
+</person-group>
+<article-title>2020 American Thoracic Society BEAR Cage Winning Proposal: collagen-targeted positron emission tomography imaging as a novel biomarker of treatment response in idiopathic pulmonary fibrosis</article-title>
+<source>
+<italic>Am J Respir Crit Care Med</italic>
+</source>
+<year>2021</year>
+<volume>203</volume>
+<fpage>1065</fpage>
+<lpage>1067</lpage>
+<pub-id pub-id-type="pmid">33545013</pub-id>
+</mixed-citation></ref><ref id="bib32"><label>32.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Ambrosini</surname><given-names>V</given-names></name>
+<name><surname>Zompatori</surname><given-names>M</given-names></name>
+<name><surname>De Luca</surname><given-names>F</given-names></name>
+<name><surname>Antonia</surname><given-names>D</given-names></name>
+<name><surname>Allegri</surname><given-names>V</given-names></name>
+<name><surname>Nanni</surname><given-names>C</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title><sup>68</sup>Ga-DOTANOC PET/CT allows somatostatin receptor imaging in idiopathic pulmonary fibrosis: preliminary results</article-title>
+<source>
+<italic>J Nucl Med</italic>
+</source>
+<year>2010</year>
+<volume>51</volume>
+<fpage>1950</fpage>
+<lpage>1955</lpage>
+<pub-id pub-id-type="pmid">21078794</pub-id>
+</mixed-citation></ref><ref id="bib33"><label>33.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Win</surname><given-names>T</given-names></name>
+<name><surname>Thomas</surname><given-names>BA</given-names></name>
+<name><surname>Lambrou</surname><given-names>T</given-names></name>
+<name><surname>Hutton</surname><given-names>BF</given-names></name>
+<name><surname>Screaton</surname><given-names>NJ</given-names></name>
+<name><surname>Porter</surname><given-names>JC</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Areas of normal pulmonary parenchyma on HRCT exhibit increased FDG PET signal in IPF patients</article-title>
+<source>
+<italic>Eur J Nucl Med Mol Imaging</italic>
+</source>
+<year>2014</year>
+<volume>41</volume>
+<fpage>337</fpage>
+<lpage>342</lpage>
+<pub-id pub-id-type="pmid">23942907</pub-id>
+</mixed-citation></ref><ref id="bib34"><label>34.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>GHJ</given-names></name>
+<name><surname>Goldin</surname><given-names>JG</given-names></name>
+<name><surname>Hayes</surname><given-names>W</given-names></name>
+<name><surname>Oh</surname><given-names>A</given-names></name>
+<name><surname>Soule</surname><given-names>B</given-names></name>
+<name><surname>Du</surname><given-names>S</given-names></name>
+</person-group>
+<article-title>The value of imaging and clinical outcomes in a phase II clinical trial of a lysophosphatidic acid receptor antagonist in idiopathic pulmonary fibrosis</article-title>
+<source>
+<italic>Ther Adv Respir Dis</italic>
+</source>
+<year>2021</year>
+<volume>15</volume>
+<fpage>17534666211004238</fpage>
+<pub-id pub-id-type="pmid">33781141</pub-id>
+</mixed-citation></ref><ref id="bib35"><label>35.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Lancaster</surname><given-names>L</given-names></name>
+<name><surname>Goldin</surname><given-names>J</given-names></name>
+<name><surname>Trampisch</surname><given-names>M</given-names></name>
+<name><surname>Kim</surname><given-names>GH</given-names></name>
+<name><surname>Ilowite</surname><given-names>J</given-names></name>
+<name><surname>Homik</surname><given-names>L</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Effects of nintedanib on quantitative lung fibrosis score in idiopathic pulmonary fibrosis</article-title>
+<source>
+<italic>Open Respir Med J</italic>
+</source>
+<year>2020</year>
+<volume>14</volume>
+<fpage>22</fpage>
+<lpage>31</lpage>
+<pub-id pub-id-type="pmid">33088361</pub-id>
+</mixed-citation></ref><ref id="bib36"><label>36.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Cuenod</surname><given-names>CA</given-names></name>
+<name><surname>Balvay</surname><given-names>D</given-names></name>
+</person-group>
+<article-title>Perfusion and vascular permeability: basic concepts and measurement in DCE-CT and DCE-MRI</article-title>
+<source>
+<italic>Diagn Interv Imaging</italic>
+</source>
+<year>2013</year>
+<volume>94</volume>
+<fpage>1187</fpage>
+<lpage>1204</lpage>
+<pub-id pub-id-type="pmid">24211260</pub-id>
+</mixed-citation></ref><ref id="bib37"><label>37.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Weatherley</surname><given-names>ND</given-names></name>
+<name><surname>Eaden</surname><given-names>JA</given-names></name>
+<name><surname>Hughes</surname><given-names>PJC</given-names></name>
+<name><surname>Austin</surname><given-names>M</given-names></name>
+<name><surname>Smith</surname><given-names>L</given-names></name>
+<name><surname>Bray</surname><given-names>J</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Quantification of pulmonary perfusion in idiopathic pulmonary fibrosis with first pass dynamic contrast-enhanced perfusion MRI</article-title>
+<source>
+<italic>Thorax</italic>
+</source>
+<year>2021</year>
+<volume>76</volume>
+<fpage>144</fpage>
+<lpage>151</lpage>
+<pub-id pub-id-type="pmid">33273022</pub-id>
+</mixed-citation></ref><ref id="bib38"><label>38.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Thannickal</surname><given-names>VJ</given-names></name>
+<name><surname>Henke</surname><given-names>CA</given-names></name>
+<name><surname>Horowitz</surname><given-names>JC</given-names></name>
+<name><surname>Noble</surname><given-names>PW</given-names></name>
+<name><surname>Roman</surname><given-names>J</given-names></name>
+<name><surname>Sime</surname><given-names>PJ</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Matrix biology of idiopathic pulmonary fibrosis: a workshop report of the National Heart, Lung, and Blood Institute</article-title>
+<source>
+<italic>Am J Pathol</italic>
+</source>
+<year>2014</year>
+<volume>184</volume>
+<fpage>1643</fpage>
+<lpage>1651</lpage>
+<pub-id pub-id-type="pmid">24726499</pub-id>
+</mixed-citation></ref><ref id="bib39"><label>39.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Nakamori</surname><given-names>S</given-names></name>
+<name><surname>Dohi</surname><given-names>K</given-names></name>
+<name><surname>Ishida</surname><given-names>M</given-names></name>
+<name><surname>Goto</surname><given-names>Y</given-names></name>
+<name><surname>Imanaka-Yoshida</surname><given-names>K</given-names></name>
+<name><surname>Omori</surname><given-names>T</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Native T1 mapping and extracellular volume mapping for the assessment of diffuse myocardial fibrosis in dilated cardiomyopathy</article-title>
+<source>
+<italic>JACC Cardiovasc Imaging</italic>
+</source>
+<year>2018</year>
+<volume>11</volume>
+<fpage>48</fpage>
+<lpage>59</lpage>
+<pub-id pub-id-type="pmid">28624408</pub-id>
+</mixed-citation></ref><ref id="bib40"><label>40.</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Luetkens</surname><given-names>JA</given-names></name><name><surname>Klein</surname><given-names>S</given-names></name><name><surname>Tr&#x000e4;ber</surname><given-names>F</given-names></name><name><surname>Schmeel</surname><given-names>FC</given-names></name><name><surname>Sprinkart</surname><given-names>AM</given-names></name><name><surname>Kuetting</surname><given-names>DLR</given-names></name><etal><italic>et&#x000a0;al.</italic></etal></person-group><article-title>Quantification of liver fibrosis at T1 and T2 mapping with extracellular volume fraction MRI: preclinical results</article-title><source><italic>Radiology</italic></source><year>2018</year>
+<volume>288</volume><fpage>748</fpage><lpage>754</lpage><pub-id pub-id-type="pmid">29944086</pub-id>
+</mixed-citation></ref><ref id="bib41"><label>41.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Podolsky</surname><given-names>MJ</given-names></name>
+<name><surname>Yang</surname><given-names>CD</given-names></name>
+<name><surname>Valenzuela</surname><given-names>CL</given-names></name>
+<name><surname>Datta</surname><given-names>R</given-names></name>
+<name><surname>Huang</surname><given-names>SK</given-names></name>
+<name><surname>Nishimura</surname><given-names>SL</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Age-dependent regulation of cell-mediated collagen turnover</article-title>
+<source>
+<italic>JCI Insight</italic>
+</source>
+<year>2020</year>
+<volume>5</volume>
+<fpage>e137519</fpage>
+<pub-id pub-id-type="pmid">32315288</pub-id>
+</mixed-citation></ref><ref id="bib42"><label>42.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Ryerson</surname><given-names>CJ</given-names></name>
+<name><surname>Abbritti</surname><given-names>M</given-names></name>
+<name><surname>Ley</surname><given-names>B</given-names></name>
+<name><surname>Elicker</surname><given-names>BM</given-names></name>
+<name><surname>Jones</surname><given-names>KD</given-names></name>
+<name><surname>Collard</surname><given-names>HR</given-names></name>
+</person-group>
+<article-title>Cough predicts prognosis in idiopathic pulmonary fibrosis</article-title>
+<source>
+<italic>Respirology</italic>
+</source>
+<year>2011</year>
+<volume>16</volume>
+<fpage>969</fpage>
+<lpage>975</lpage>
+<pub-id pub-id-type="pmid">21615619</pub-id>
+</mixed-citation></ref><ref id="bib43"><label>43.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Bargagli</surname><given-names>E</given-names></name>
+<name><surname>Di Masi</surname><given-names>M</given-names></name>
+<name><surname>Perruzza</surname><given-names>M</given-names></name>
+<name><surname>Vietri</surname><given-names>L</given-names></name>
+<name><surname>Bergantini</surname><given-names>L</given-names></name>
+<name><surname>Torricelli</surname><given-names>E</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>The pathogenetic mechanisms of cough in idiopathic pulmonary fibrosis</article-title>
+<source>
+<italic>Intern Emerg Med</italic>
+</source>
+<year>2019</year>
+<volume>14</volume>
+<fpage>39</fpage>
+<lpage>43</lpage>
+<pub-id pub-id-type="pmid">30269188</pub-id>
+</mixed-citation></ref><ref id="bib44"><label>44.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Xie</surname><given-names>S</given-names></name>
+<name><surname>Macedo</surname><given-names>P</given-names></name>
+<name><surname>Hew</surname><given-names>M</given-names></name>
+<name><surname>Nassenstein</surname><given-names>C</given-names></name>
+<name><surname>Lee</surname><given-names>KY</given-names></name>
+<name><surname>Chung</surname><given-names>KF</given-names></name>
+</person-group>
+<article-title>Expression of transforming growth factor-beta (TGF-beta) in chronic idiopathic cough</article-title>
+<source>
+<italic>Respir Res</italic>
+</source>
+<year>2009</year>
+<volume>10</volume>
+<fpage>40</fpage>
+<pub-id pub-id-type="pmid">19463161</pub-id>
+</mixed-citation></ref><ref id="bib45"><label>45.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Martin Nguyen</surname><given-names>A</given-names></name>
+<name><surname>Bacci</surname><given-names>ED</given-names></name>
+<name><surname>Vernon</surname><given-names>M</given-names></name>
+<name><surname>Birring</surname><given-names>SS</given-names></name>
+<name><surname>Rosa</surname><given-names>C</given-names></name>
+<name><surname>Muccino</surname><given-names>D</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Validation of a visual analog scale for assessing cough severity in patients with chronic cough</article-title>
+<source>
+<italic>Ther Adv Respir Dis</italic>
+</source>
+<year>2021</year>
+<volume>15</volume>
+<fpage>17534666211049743</fpage>
+<pub-id pub-id-type="pmid">34697975</pub-id>
+</mixed-citation></ref><ref id="bib46"><label>46.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Organ</surname><given-names>LA</given-names></name>
+<name><surname>Duggan</surname><given-names>AR</given-names></name>
+<name><surname>Oballa</surname><given-names>E</given-names></name>
+<name><surname>Taggart</surname><given-names>SC</given-names></name>
+<name><surname>Simpson</surname><given-names>JK</given-names></name>
+<name><surname>Kang&#x02019;ombe</surname><given-names>AR</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Biomarkers of collagen synthesis predict progression in the PROFILE idiopathic pulmonary fibrosis cohort</article-title>
+<source>
+<italic>Respir Res</italic>
+</source>
+<year>2019</year>
+<volume>20</volume>
+<fpage>148</fpage>
+<pub-id pub-id-type="pmid">31299951</pub-id>
+</mixed-citation></ref><ref id="bib47"><label>47.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Bowman</surname><given-names>WS</given-names></name>
+<name><surname>Newton</surname><given-names>CA</given-names></name>
+<name><surname>Linderholm</surname><given-names>AL</given-names></name>
+<name><surname>Neely</surname><given-names>ML</given-names></name>
+<name><surname>Pugashetti</surname><given-names>JV</given-names></name>
+<name><surname>Kaul</surname><given-names>B</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Proteomic biomarkers of progressive fibrosing interstitial lung disease: a multicentre cohort analysis</article-title>
+<source>
+<italic>Lancet Respir Med</italic>
+</source>
+<year>2022</year>
+<volume>10</volume>
+<fpage>593</fpage>
+<lpage>602</lpage>
+<pub-id pub-id-type="pmid">35063079</pub-id>
+</mixed-citation></ref><ref id="bib48"><label>48.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Tatler</surname><given-names>AL</given-names></name>
+<name><surname>Goodwin</surname><given-names>AT</given-names></name>
+<name><surname>Gbolahan</surname><given-names>O</given-names></name>
+<name><surname>Saini</surname><given-names>G</given-names></name>
+<name><surname>Porte</surname><given-names>J</given-names></name>
+<name><surname>John</surname><given-names>AE</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Amplification of TGFbeta induced ITGB6 gene transcription may promote pulmonary fibrosis</article-title>
+<source>
+<italic>PLoS One</italic>
+</source>
+<year>2016</year>
+<volume>11</volume>
+<fpage>e0158047</fpage>
+<pub-id pub-id-type="pmid">27494713</pub-id>
+</mixed-citation></ref><ref id="bib49"><label>49.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Kolb</surname><given-names>M</given-names></name>
+<name><surname>Flaherty</surname><given-names>KR</given-names></name>
+<name><surname>Silva</surname><given-names>RS</given-names></name>
+<name><surname>Prasse</surname><given-names>A</given-names></name>
+<name><surname>Vancheri</surname><given-names>C</given-names></name>
+<name><surname>Mueller</surname><given-names>H</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+<collab>INBUILD trial investigators</collab>
+</person-group>
+<article-title>Effect of nintedanib in patients with progressive pulmonary fibrosis in subgroups with differing baseline characteristics</article-title>
+<source>
+<italic>Adv Ther</italic>
+</source>
+<year>2023</year>
+<volume>40</volume>
+<fpage>5536</fpage>
+<lpage>5546</lpage>
+<pub-id pub-id-type="pmid">37751022</pub-id>
+</mixed-citation></ref><ref id="bib50"><label>50.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Costabel</surname><given-names>U</given-names></name>
+<name><surname>Inoue</surname><given-names>Y</given-names></name>
+<name><surname>Richeldi</surname><given-names>L</given-names></name>
+<name><surname>Collard</surname><given-names>HR</given-names></name>
+<name><surname>Tschoepe</surname><given-names>I</given-names></name>
+<name><surname>Stowasser</surname><given-names>S</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Efficacy of nintedanib in idiopathic pulmonary fibrosis across prespecified subgroups in INPULSIS</article-title>
+<source>
+<italic>Am J Respir Crit Care Med</italic>
+</source>
+<year>2016</year>
+<volume>193</volume>
+<fpage>178</fpage>
+<lpage>185</lpage>
+<pub-id pub-id-type="pmid">26393389</pub-id>
+</mixed-citation></ref><ref id="bib51"><label>51.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Noble</surname><given-names>PW</given-names></name>
+<name><surname>Albera</surname><given-names>C</given-names></name>
+<name><surname>Bradford</surname><given-names>WZ</given-names></name>
+<name><surname>Costabel</surname><given-names>U</given-names></name>
+<name><surname>Du Bois</surname><given-names>RM</given-names></name>
+<name><surname>Fagan</surname><given-names>EA</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Pirfenidone for idiopathic pulmonary fibrosis: analysis of pooled data from three multinational phase 3 trials</article-title>
+<source>
+<italic>Eur Respir J</italic>
+</source>
+<year>2016</year>
+<volume>47</volume>
+<fpage>243</fpage>
+<lpage>253</lpage>
+<pub-id pub-id-type="pmid">26647432</pub-id>
+</mixed-citation></ref><ref id="bib52"><label>52.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Gallay</surname><given-names>L</given-names></name>
+<name><surname>Uzunhan</surname><given-names>Y</given-names></name>
+<name><surname>Borie</surname><given-names>R</given-names></name>
+<name><surname>Lazor</surname><given-names>R</given-names></name>
+<name><surname>Rigaud</surname><given-names>P</given-names></name>
+<name><surname>Marchand-Adam</surname><given-names>S</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Risk factors for mortality after COVID-19 in patients with preexisting interstitial lung disease</article-title>
+<source>
+<italic>Am J Respir Crit Care Med</italic>
+</source>
+<year>2021</year>
+<volume>203</volume>
+<fpage>245</fpage>
+<lpage>249</lpage>
+<pub-id pub-id-type="pmid">33252997</pub-id>
+</mixed-citation></ref></ref-list></back></article>

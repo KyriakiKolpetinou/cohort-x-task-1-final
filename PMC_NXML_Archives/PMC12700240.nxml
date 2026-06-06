@@ -1,0 +1,1041 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Am J Respir Crit Care Med</journal-id><journal-id journal-id-type="iso-abbrev">Am J Respir Crit Care Med</journal-id><journal-id journal-id-type="publisher-id">ajrccm</journal-id><journal-title-group><journal-title>American Journal of Respiratory and Critical Care Medicine</journal-title></journal-title-group><issn pub-type="ppub">1073-449X</issn><issn pub-type="epub">1535-4970</issn><publisher><publisher-name>American Thoracic Society</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">40997225</article-id><article-id pub-id-type="pmc">12700240</article-id>
+<article-id pub-id-type="publisher-manuscript">202407-1454OC</article-id><article-id pub-id-type="doi">10.1164/rccm.202407-1454OC</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Articles</subject><subj-group><subject>Critical Care</subject></subj-group></subj-group></article-categories><title-group><article-title>Acute Respiratory Distress Syndrome Molecular Phenotypes Have Distinct Lower Respiratory Tract Transcriptomes</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-7508-7345</contrib-id><name><surname>Sarma</surname><given-names>Aartik</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="aff13" ref-type="aff">
+<sup>13</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Christenson</surname><given-names>Stephanie A.</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Shoshana</surname><given-names>Beth Zha</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Oliveira</surname><given-names>Angela Pisco</given-names></name><xref rid="aff14" ref-type="aff">
+<sup>14</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-1273-2228</contrib-id><name><surname>Neyton</surname><given-names>Lucile P. A.</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-7299-808X</contrib-id><name><surname>Mick</surname><given-names>Eran</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="aff14" ref-type="aff">
+<sup>14</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Sinha</surname><given-names>Pratik</given-names></name><xref rid="aff15" ref-type="aff">
+<sup>15</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Wilson</surname><given-names>Jennifer G.</given-names></name><xref rid="aff16" ref-type="aff">
+<sup>16</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Moazed</surname><given-names>Farzad</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Leligdowicz</surname><given-names>Aleksandra</given-names></name><xref rid="aff5" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="aff18" ref-type="aff">
+<sup>18</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Maddali</surname><given-names>Manoj V.</given-names></name><xref rid="aff17" ref-type="aff">
+<sup>17</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Siegel</surname><given-names>Emily R.</given-names></name><xref rid="aff6" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Lyon</surname><given-names>Zoe M.</given-names></name><xref rid="aff6" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Carrillo</surname><given-names>Sidney Haller</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Zhou</surname><given-names>Hanjing</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Jauregui</surname><given-names>Alejandra</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Ghale</surname><given-names>Rajani</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Caldera</surname><given-names>Saharai</given-names></name><xref rid="aff14" ref-type="aff">
+<sup>14</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Hayakawa</surname><given-names>Paula Serpa</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="aff14" ref-type="aff">
+<sup>14</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Deiss</surname><given-names>Thomas</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Love</surname><given-names>Christina</given-names></name><xref rid="aff14" ref-type="aff">
+<sup>14</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Byrne</surname><given-names>Ashley</given-names></name><xref rid="aff14" ref-type="aff">
+<sup>14</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Kalantar</surname><given-names>Katrina L.</given-names></name><xref rid="aff14" ref-type="aff">
+<sup>14</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>DeRisi</surname><given-names>Joseph L.</given-names></name><xref rid="aff14" ref-type="aff">
+<sup>14</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-2171-0648</contrib-id><name><surname>Erle</surname><given-names>David J.</given-names></name><xref rid="aff5" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="aff7" ref-type="aff">
+<sup>7</sup>
+</xref><xref rid="aff8" ref-type="aff">
+<sup>8</sup>
+</xref><xref rid="aff9" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Krummel</surname><given-names>Matthew F.</given-names></name><xref rid="aff8" ref-type="aff">
+<sup>8</sup>
+</xref><xref rid="aff10" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Kangelaris</surname><given-names>Kirsten N.</given-names></name><xref rid="aff11" ref-type="aff">
+<sup>11</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Hendrickson</surname><given-names>Carolyn M.</given-names></name><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Woodruff</surname><given-names>Prescott G.</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff5" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Matthay</surname><given-names>Michael A.</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff5" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="aff12" ref-type="aff">
+<sup>12</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Bos</surname><given-names>Lieuwe D. J.</given-names></name><xref rid="aff19" ref-type="aff">
+<sup>19</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Langelier</surname><given-names>Charles R.</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="aff14" ref-type="aff">
+<sup>14</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Calfee</surname><given-names>Carolyn S.</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff5" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="aff12" ref-type="aff">
+<sup>12</sup>
+</xref></contrib><contrib contrib-type="author"><collab>the COMET Consortium</collab></contrib><aff id="aff1"><label><sup>1</sup></label>Division of Pulmonary, Critical Care, Allergy, and Sleep Medicine,</aff><aff id="aff2"><label><sup>2</sup></label>Division of Infectious Diseases, and</aff><aff id="aff3"><label><sup>3</sup></label>Division of Pulmonary and Critical Care Medicine, Department of Medicine, Zuckerberg San Francisco General Hospital and Trauma Center,</aff><aff id="aff4"><label><sup>4</sup></label>Joint Program in Computational Precision Health,</aff><aff id="aff5"><label><sup>5</sup></label>Cardiovascular Research Institute,</aff><aff id="aff6"><label><sup>6</sup></label>School of Medicine,</aff><aff id="aff7"><label><sup>7</sup></label>Lung Biology Center,</aff><aff id="aff8"><label><sup>8</sup></label>Bakar ImmunoX Initiative,</aff><aff id="aff9"><label><sup>9</sup></label>UCSF CoLabs,</aff><aff id="aff10"><label><sup>10</sup></label>Department of Pathology,</aff><aff id="aff11"><label><sup>11</sup></label>Division of Hospital Medicine, and</aff><aff id="aff12"><label><sup>12</sup></label>Department of Anesthesia, University of California San Francisco, San Francisco, California;</aff><aff id="aff13"><label><sup>13</sup></label>University of California Berkeley, Berkeley, California;</aff><aff id="aff14"><label><sup>14</sup></label>Chan Zuckerberg Biohub, San Francisco, California;</aff><aff id="aff15"><label><sup>15</sup></label>Department of Anesthesia, Washington University in St. Louis, St. Louis, Missouri;</aff><aff id="aff16"><label><sup>16</sup></label>Department of Emergency Medicine, Stanford University School of Medicine, and</aff><aff id="aff17"><label><sup>17</sup></label>Division of Pulmonary, Allergy, and Critical Care Medicine, Department of Medicine, Stanford University, Stanford, California;</aff><aff id="aff18"><label><sup>18</sup></label>Interdepartmental Division of Critical Care Medicine, University of Toronto, Toronto, Ontario, Canada; and</aff><aff id="aff19"><label><sup>19</sup></label>Intensive Care, Amsterdam University Medical Center, University of Amsterdam, Amsterdam, the Netherlands</aff></contrib-group><author-notes><corresp>Correspondence and requests for reprints should be addressed to Aartik Sarma, M.D., M.A.S., University of California, 505 Parnassus Avenue, San Francisco, CA 94143. E-mail: <email xlink:href="mailto:aartik.sarma@ucsf.edu">aartik.sarma@ucsf.edu</email>.</corresp></author-notes><pub-date date-type="pub" publication-format="electronic"><day>25</day><month>9</month><year>2025</year></pub-date><pub-date date-type="collection" publication-format="electronic"><day>1</day><month>12</month><year>2025</year></pub-date><pub-date pub-type="pmc-release"><day>25</day><month>9</month><year>2025</year></pub-date><!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.--><volume>211</volume><issue>12</issue><fpage>2352</fpage><lpage>2362</lpage><history>
+<date date-type="received"><day>25</day><month>7</month><year>2024</year></date>
+<date date-type="accepted"><day>25</day><month>9</month><year>2025</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2025 by the American Thoracic Society</copyright-statement><copyright-year>2025</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This article is open access and distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution Non-Commercial No Derivatives License 4.0</ext-link>. For commercial usage and reprints, please e-mail Diane Gern (<email xlink:href="mailto:dgern@thoracic.org">dgern@thoracic.org</email>).</license-p></license></permissions><self-uri content-type="pdf" xlink:href="rccm.202407-1454OC.pdf"/><related-article related-article-type="commentary" ext-link-type="doi" id="ra1454OC" xlink:href="10.1164/rccm.202504-0784ED"/><related-object object-id="10.1164/rccm.202407-1454OC_discussion" object-id-type="doi" object-type="discussion" id="ro1454OC"/><abstract><sec><title>Rationale</title><p>Two molecular phenotypes of the acute respiratory distress syndrome (ARDS) with divergent clinical trajectories and responses to therapy have been identified. Classification as &#x0201c;hyperinflammatory&#x0201d; or &#x0201c;hypoinflammatory&#x0201d; depends on plasma biomarker profiling. Limited data are available about the differences in the pulmonary biology of the molecular phenotypes.</p></sec><sec><title>Objectives</title><p>To identify differences in the pulmonary biology of ARDS molecular phenotypes</p></sec><sec><title>Methods</title><p>We compared tracheal aspirate gene expression between hyperinflammatory and hypoinflammatory phenotypes in bulk RNA sequencing (RNASeq) from coronavirus disease (COVID-19) and non&#x02013;COVID-19 ARDS and single-cell RNASeq from non&#x02013;COVID-19 ARDS. In a subset of subjects, we also compared plasma proteomic data.</p></sec><sec><title>Measurements and Main Results</title><p>In bulk RNASeq analyses, 1,157 genes were differentially expressed (false discovery rate&#x02009;&#x0003c;&#x02009;0.1) between phenotypes in non&#x02013;COVID-19 ARDS, and 85 genes were differentially expressed between phenotypes in COVID-19 ARDS. Eighteen genes were reproducibly differentially expressed between phenotypes in both cohorts, including greater expression of <italic>IL32</italic>, <italic>HSPA8</italic>, and <italic>PPP3CC</italic> in hyperinflammatory ARDS. A total of 195 pathways were reproducibly enriched across the two cohorts by gene set enrichment analysis, including greater expression of granulopoiesis, T-cell and IFN signaling, and integrated stress response pathways in hyperinflammatory ARDS. Network analysis of single-cell RNASeq in a third group of patients identified greater T-cell signaling to other immune cells in hyperinflammatory ARDS.</p></sec><sec><title>Conclusions</title><p>Hyperinflammatory and hypoinflammatory ARDS molecular phenotypes have distinct respiratory biology. Hyperinflammatory ARDS is characterized by an increased IFN-stimulated gene expression and T-cell activation in the lungs.</p></sec></abstract><kwd-group><title>Keywords</title><kwd>ARDS</kwd><kwd>molecular phenotypes</kwd><kwd>RNA sequencing</kwd><kwd>precision medicine</kwd></kwd-group><funding-group specific-use="FundRef"><award-group award-type="grant"><funding-source country="US"><institution-wrap><institution>National Heart, Lung, and Blood Institute</institution><institution-id institution-id-type="doi">10.13039/100000050</institution-id></institution-wrap></funding-source><award-id>F32HL151117</award-id><award-id>K23HL163491</award-id><award-id>R35HL140026</award-id><award-id>5K24HL133390</award-id><award-id>5R01HL155418</award-id></award-group><award-group award-type="grant"><funding-source country="US"><institution-wrap><institution>National Institute of Allergy and Infectious Diseases</institution><institution-id institution-id-type="doi">10.13039/100000050</institution-id></institution-wrap></funding-source><award-id>U19AI1077439</award-id></award-group><award-group award-type="grant"><funding-source country="US"><institution-wrap><institution>Chan Zuckerberg Initiative</institution><institution-id institution-id-type="doi">10.13039/100000050</institution-id></institution-wrap></funding-source></award-group><award-group award-type="grant"><funding-source country="US"><institution-wrap><institution>Genentech</institution><institution-id institution-id-type="doi">10.13039/100000050</institution-id></institution-wrap></funding-source></award-group></funding-group><counts><fig-count count="4"/><table-count count="1"/><ref-count count="50"/><page-count count="11"/></counts></article-meta></front><body><boxed-text position="float"><sec><title>At a Glance Commentary</title><sec><title>Scientific Knowledge on the Subject</title><p>Latent class analyses of plasma biomarkers and clinical variables identify two molecular phenotypes of acute respiratory distress syndrome (&#x0201c;hyperinflammatory&#x0201d; and &#x0201c;hypoinflammatory&#x0201d;) with distinct trajectories and different responses to treatment in clinical trials. The biology at the site of injury, the lung, is not well understood.</p></sec><sec><title>What This Study Adds to the Field</title><p>Bulk and single-cell RNA sequencing identify differences between acute respiratory distress syndrome molecular phenotypes in the lung, including higher IFN signaling and increased T-cell activation in the higher acuity hyperinflammatory molecular phenotype.</p></sec></sec></boxed-text><p content-type="flushleft">The acute respiratory distress syndrome (ARDS) is characterized by noncardiogenic pulmonary edema and hypoxemia within 1 week of a physiologic insult (<xref rid="bib1" ref-type="bibr">1</xref>). The global incidence of ARDS surged during the coronavirus disease (COVID-19) pandemic, drawing increased attention to the importance of finding effective treatments. Although some pharmacologic interventions have decreased mortality in patients with severe COVID-19 (<xref rid="bib2" ref-type="bibr">2</xref>, <xref rid="bib3" ref-type="bibr">3</xref>), no drug has consistently reduced mortality in more typical heterogeneous cohorts of patients with ARDS. There is a growing recognition that biological heterogeneity within the syndrome is a significant barrier to identifying effective treatments (<xref rid="bib4" ref-type="bibr">4</xref>).</p><p>Two clinically distinct molecular phenotypes of ARDS (termed &#x0201c;hyperinflammatory&#x0201d; and &#x0201c;hypoinflammatory&#x0201d;) have been identified using latent class analysis of clinical and plasma biomarker data in numerous cohorts (<xref rid="bib1" ref-type="bibr">1</xref>, <xref rid="bib5" ref-type="bibr">5</xref>&#x02013;<xref rid="bib11" ref-type="bibr">11</xref>). The hyperinflammatory phenotype is characterized by elevated plasma inflammatory cytokines (IL-8, IL-6, TNFr-1), lower plasma Protein C and bicarbonate, and higher mortality than the hypoinflammatory phenotype. Importantly, significant differences in treatment response to simvastatin, ventilator settings, and fluid management have been observed across molecular phenotypes in retrospective analyses of three ARDS clinical trials (<xref rid="bib5" ref-type="bibr">5</xref>, <xref rid="bib6" ref-type="bibr">6</xref>, <xref rid="bib11" ref-type="bibr">11</xref>); furthermore, in patients with COVID-19&#x02013;related ARDS, patients with the hyperinflammatory molecular phenotype may preferentially respond to corticosteroid treatment (<xref rid="bib12" ref-type="bibr">12</xref>, <xref rid="bib13" ref-type="bibr">13</xref>). These results suggest that understanding and targeting the heterogeneous biology underlying ARDS molecular phenotypes is essential to identifying effective new treatments for ARDS. Prospective studies designed to identify these phenotypes using parsimonious models are laying the groundwork for precision clinical trials (<xref rid="bib4" ref-type="bibr">4</xref>, <xref rid="bib14" ref-type="bibr">14</xref>).</p><p>A critical barrier to developing new therapies for ARDS is the limited understanding of the biological pathways characterizing each phenotype. This knowledge gap was recently cited by NHLBI and European Respiratory Society workshops on precision medicine in ARDS as a top research priority for the field (<xref rid="bib4" ref-type="bibr">4</xref>, <xref rid="bib15" ref-type="bibr">15</xref>). Recent studies have highlighted the importance of studying compartment-specific immune responses in patients with ARDS (<xref rid="bib16" ref-type="bibr">16</xref>, <xref rid="bib17" ref-type="bibr">17</xref>). Understanding the biological differences between ARDS molecular phenotypes in the lung, the active site of injury, will be critical to the development of informative preclinical models of disease and targeted treatments for ARDS. Here, we study bulk RNA sequencing (RNASeq) from the respiratory tract in two cohorts and in single-cell RNASeq (scRNASeq) in one of these cohorts to understand differences in lung immunology and inflammatory responses between ARDS molecular phenotypes.</p><p>Some of the results of these studies have been previously reported in the form of a preprint (<ext-link xlink:href="https://doi.org/10.1101/2022.03.31.22272425" ext-link-type="uri">https://doi.org/10.1101/2022.03.31.22272425</ext-link>).</p><sec sec-type="methods"><title>Methods</title><sec><title>Study Subjects</title><p content-type="flushleft">We studied tracheal aspirate (TA) gene expression from two observational cohorts of patients. The first, the ALI (Acute Lung Injury in Critical Illness) study, is a cohort of mechanically ventilated adults admitted to the ICU at the University of California San Francisco (UCSF) Medical Center between July 2013 and March 2020. The study was paused at the start of the COVID-19 pandemic and did not include any patients with COVID-19 ARDS. A single TA sample was collected within 24 hours of enrollment for all patients studied in this cohort. We included all patients in this cohort with Berlin ARDS with TA sequencing data or plasma proteomic data available for analysis (<italic>see</italic> Figure E1 in the online supplement).</p><p>We also studied subjects enrolled in the COMET (COVID-19 Multiphenotyping for Effective Therapies) cohort, a study of hospitalized patients with COVID-19 or other acute respiratory illnesses admitted to the UCSF Medical Center or Zuckerberg San Francisco General Hospital, some of whom were coenrolled in the IMPACC (Immunophenotyping Assessment in a COVID-19 Cohort) study (including 21 subjects included in the present study) (<xref rid="bib18" ref-type="bibr">18</xref>). Within COMET, we studied TA samples collected longitudinally over the first 4 days of mechanical ventilation from patients with COVID-19 ARDS using bulk RNASeq (Figure E1). In addition, we studied patients with non&#x02013;COVID-19 ARDS within 4 days of intubation using scRNASeq of the first available TA sample. scRNASeq was unavailable within 4 days of mechanical ventilation for the subjects with hyperinflammatory COVID-19 ARDS enrolled in COMET, so a separate analysis of scRNASeq in COVID-19 ARDS was not performed.</p><p>The ALI and COMET studies were approved by the UCSF Institutional Review Board (17-24056, 20-30497), which granted an initial waiver of informed consent to collect TA and blood samples. Informed consent was then obtained from patients or surrogates, as previously described (<xref rid="bib19" ref-type="bibr">19</xref>). Some of the subjects in the ALI and COMET cohorts were included in a prior analysis comparing COVID-19 and non&#x02013;COVID-19 ARDS (<xref rid="bib20" ref-type="bibr">20</xref>).</p></sec><sec><title>ARDS Adjudication and Phenotype Assignment</title><p content-type="flushleft">In the ALI and COMET cohorts, electronic health records were adjudicated for ARDS (Berlin definition [<xref rid="bib21" ref-type="bibr">21</xref>]) by at least two clinicians blinded to all biological data (A.S., P.S., E.R.S., Z.M.L., K.N.K., C.M.H., C.R.L., M.A.M., and C.S.C.). Lower respiratory tract infections were diagnosed using the CDC PNEU surveillance definition (<xref rid="bib22" ref-type="bibr">22</xref>). COVID-19 status was confirmed by clinical PCR testing. ARDS phenotype was determined using a validated three-variable classifier model (IL-8, protein C, and bicarbonate) (<xref rid="bib14" ref-type="bibr">14</xref>). Plasma biomarkers were not available for five subjects with TA bulk RNASeq in the ALI cohort and two subjects with scRNASeq in the COMET cohort. For these subjects, we used a validated clinical classifier model to assign phenotype (<xref rid="bib10" ref-type="bibr">10</xref>, <xref rid="bib23" ref-type="bibr">23</xref>). Subjects with a probability of hyperinflammatory class assignment greater than 0.5 were assigned to the hyperinflammatory phenotype.</p></sec><sec><title>Sample Collection and RNASeq</title><p content-type="flushleft">In the ALI cohort, a single TA sample was collected within 3 days of intubation. In the COMET cohort, TA samples were collected daily. TA was collected and stored in DNA/RNA Shield (Zymo, Inc.) at &#x02212;80&#x000b0;C (<xref rid="bib19" ref-type="bibr">19</xref>). Samples underwent library preparation and Illumina paired-end sequencing using established methods described in detail in the online supplement. For scRNASeq, TA was collected and processed within 3 hours, as previously described (<xref rid="bib24" ref-type="bibr">24</xref>).</p></sec><sec><title>Differential Expression, Pathway Analysis, and Cell Signatures</title><p content-type="flushleft">We performed independent comparisons of TA gene expression in ARDS phenotypes in each cohort. RNA count data from the ALI cohort was <italic>voom</italic> (<xref rid="bib25" ref-type="bibr">25</xref>)-transformed and a linear model of gene expression compared with phenotype was fit using <italic>limma</italic> (<xref rid="bib26" ref-type="bibr">26</xref>). The model was adjusted for sex, age, and sequencing batch. To account for repeated measures in the COMET cohort, we compared <italic>voom</italic>-transformed count data using <italic>Dream</italic> (<xref rid="bib27" ref-type="bibr">27</xref>), which extends <italic>limma</italic> to fit linear mixed effects models of gene expression. Because all samples from a given subject were sequenced in the same batch, we fit a model with a random effect for batches, a random effect for subjects nested within batches, and fixed effects for age, sex, and phenotype. Differentially expressed genes were identified as those with a Benjamini-Hochberg false discovery rate (FDR)&#x02009;&#x0003c;&#x02009;0.1, adjusted for all genes included in the analysis after filtering (ALI: 12,311 genes; COMET: 13,024 genes).</p><p>We defined a hyperinflammatory ARDS gene signature using the 100 genes that were most highly differentially expressed in subjects with hyperinflammatory ARDS in the ALI cohort. We then used Gene Set Variation Analysis to calculate an enrichment score for this signature in each sample in the ALI and COMET cohorts. We fit models of hyperinflammatory signature Gene Set Variation Analysis scores against ARDS molecular phenotype in each cohort using linear models adjusted for age, sex, and batch. To account for repeated measures from the same subject in the COMET cohort, we included a random effect term for batch and subject as above and performed a sensitivity analysis restricted to the first available sample for each subject.</p><p>We used Gene Set Enrichment Analysis (GSEA) to test for enrichment of pathways in the Reactome database (<xref rid="bib28" ref-type="bibr">28</xref>) in each phenotype. Differential gene expression lists were ranked by log<sub>2</sub>-fold difference in gene expression between phenotypes. GSEA was performed using the <italic>fgsea</italic> library with a minimum gene set size of 15 genes included in differential expression analysis. Significant pathways were identified by Benjamini-Hochberg FDR&#x02009;&#x0003c;&#x02009;0.1, adjusted for the total number of pathways included in the analysis (ALI: 544 pathways; COMET: 560 pathways).</p></sec><sec><title>scRNASeq</title><p content-type="flushleft">Single-cell transcriptomes were annotated using <italic>SingleR</italic> (<xref rid="bib29" ref-type="bibr">29</xref>) and reference signatures from the Human Primary Cell Atlas. We compared gene expression between phenotypes for each cell type using <italic>MAST</italic> (<xref rid="bib30" ref-type="bibr">30</xref>), using a mixed effects model with fixed effects for phenotype and cellular detection rate and a random effect for subjects. Differentially expressed genes were then analyzed using GSEA as above. To study how cell&#x02013;cell signaling contributed to observed differential expression, we used <italic>CellChat</italic> (<xref rid="bib31" ref-type="bibr">31</xref>) to infer intercellular communication networks by comparing scRNASeq data to a curated database of ligands, receptors, and their cofactors.</p></sec><sec><title>Plasma Proteomic Analysis</title><p content-type="flushleft">Plasma samples from a subset of patients in the ALI cohort were analyzed using the OLink Proteomics Assay, which generates a semiquantitative measurement of 96 plasma proteins. We excluded all samples that were flagged with a quality control warning from the OLink platform and excluded any biomarker for which protein concentrations could not be measured for at least 90% of samples. Normalized protein expression measurements were compared using a Wilcoxon rank-sum test, and significant differences were defined as a Benjamini-Hochberg FDR&#x02009;&#x0003c;&#x02009;0.1 after adjusting for the total number of proteins included after quality control (ALI: 76 proteins).</p></sec></sec><sec sec-type="results"><title>Results</title><sec><title>Patient Characteristics</title><p content-type="flushleft">In the ALI cohort, TA sequencing data were available for 41 participants with ARDS (Figure E1), of whom 27% were classified as the hyperinflammatory phenotype, consistent with the proportion observed in previous studies (<xref rid="bib5" ref-type="bibr">5</xref>&#x02013;<xref rid="bib8" ref-type="bibr">8</xref>, <xref rid="bib11" ref-type="bibr">11</xref>). There were no significant differences in age, sex, body mass index, immunosuppression, respiratory viral or bacterial infections, or ARDS risk factors between patients with hyperinflammatory and hypoinflammatory phenotypes (<xref rid="tbl1" ref-type="table">Table 1</xref>). In the COMET cohort, 72 TA bulk RNASeq samples were available from the first 4 days of mechanical ventilation from 39 subjects with COVID-19 ARDS, of which 8 samples were from 3 subjects with hyperinflammatory ARDS (Table E1). In addition, nine TA scRNASeq samples were available from COMET subjects with non&#x02013;COVID-19 ARDS from the first 4 days of mechanical ventilation, of whom four had hyperinflammatory ARDS (Table E2).</p><table-wrap position="float" id="tbl1"><label>
+Table 1.
+</label><caption><p>Characteristics of Patients Included in Differential Expression Analysis of Acute Respiratory Distress Syndrome Phenotypes from the ALI in Critical Illness Cohort</p></caption><!--OASIS TABLE HERE--><table frame="hsides" rules="groups"><colgroup><col align="left"/><col align="center"/><col align="center"/><col align="center"/></colgroup><thead valign="bottom"><tr><th align="left">&#x000a0;</th><th align="center">Hyperinflammatory</th><th align="center">Hypoinflammatory</th><th align="center"><italic>P</italic> Value</th></tr></thead><tbody valign="top"><tr><td align="left">
+<italic>n</italic>
+</td><td align="center">11</td><td align="center">30</td><td align="center">&#x02014;</td></tr><tr><td align="left">Age, yr</td><td align="center">62 (58&#x02013;73)</td><td align="center">63 (53&#x02013;69)</td><td align="center">0.57</td></tr><tr><td align="left">Female</td><td align="center">4 (36)</td><td align="center">10 (33)</td><td align="center">1.00</td></tr><tr><td align="left">Race</td><td align="center">&#x000a0;</td><td align="center">&#x000a0;</td><td align="center">&#x000a0;</td></tr><tr><td align="left">&#x02003;Asian</td><td align="center">3 (27)</td><td align="center">4 (13)</td><td rowspan="4" align="center">0.55</td></tr><tr><td align="left">&#x02003;Black</td><td align="center">1 (9)</td><td align="center">2 (7)</td></tr><tr><td align="left">&#x02003;White</td><td align="center">7 (67)</td><td align="center">21 (70)</td></tr><tr><td align="left">&#x02003;Other</td><td align="center">0 (0)</td><td align="center">3 (10)</td></tr><tr><td align="left">Hispanic ethnicity</td><td align="center">0 (0)</td><td align="center">3 (10)</td><td align="center">0.68</td></tr><tr><td align="left">Vasopressors at enrollment</td><td align="center">9 (90)</td><td align="center">21 (70)</td><td align="center">0.40</td></tr><tr><td align="left">SOFA score at enrollment</td><td align="center">17 (16&#x02013;19)</td><td align="center">9 (8&#x02013;12)</td><td align="center">&#x0003c;0.01</td></tr><tr><td align="left">IL-8, pg/ml</td><td align="center">423 (121&#x02013;617)</td><td align="center">15 (9&#x02013;26)</td><td align="center">&#x0003c;0.01</td></tr><tr><td align="left">IL-6, pg/ml</td><td align="center">476 (326&#x02013;1,473)</td><td align="center">68 (17&#x02013;97)</td><td align="center">&#x0003c;0.01</td></tr><tr><td align="left">Soluble TNF R1, pg/ml</td><td align="center">17,155 (8,102&#x02013;30,215)</td><td align="center">4,472 (2,802&#x02013;10,425)</td><td align="center">0.05</td></tr><tr><td align="left">Protein C, % control</td><td align="center">48 (31&#x02013;56)</td><td align="center">102 (81&#x02013;132)</td><td align="center">&#x0003c;0.01</td></tr><tr><td align="left">Immunosuppression</td><td align="center">4 (40)</td><td align="center">7 (23)</td><td align="center">0.66</td></tr><tr><td align="left">Primary ALI risk factor</td><td align="center">&#x000a0;</td><td align="center">&#x000a0;</td><td align="center">&#x000a0;</td></tr><tr><td align="left">&#x02003;Pneumonia</td><td align="center">4 (36)</td><td align="center">16 (53)</td><td rowspan="5" align="center">0.70</td></tr><tr><td align="left">&#x02003;Sepsis</td><td align="center">4 (36)</td><td align="center">7 (23)</td></tr><tr><td align="left">&#x02003;Aspiration</td><td align="center">3 (27)</td><td align="center">5 (20)</td></tr><tr><td align="left">&#x02003;Pancreatitis</td><td align="center">0 (0)</td><td align="center">1 (3)</td></tr><tr><td align="left">&#x02003;None identified</td><td align="center">0 (0)</td><td align="center">1 (3)</td></tr><tr><td align="left">Clinical respiratory microbiology</td><td align="center">&#x000a0;</td><td align="center">&#x000a0;</td><td align="center">&#x000a0;</td></tr><tr><td align="left">&#x02003;Respiratory viral pathogen</td><td align="center">1 (9)</td><td align="center">1 (3)</td><td align="center">1.00</td></tr><tr><td align="left">&#x02003;Respiratory bacterial pathogen</td><td align="center">3 (27)</td><td align="center">10 (33)</td><td align="center">1.00</td></tr></tbody></table><table-wrap-foot><fn id="TF1"><p><italic>Definition of abbreviations</italic>: ALI&#x02009;=&#x02009;acute lung injury; SOFA&#x02009;=&#x02009;Sequential Organ Failure Assessment.</p></fn><fn id="TF2"><p>Nonnormally distributed values are reported as median (interquartile range). Categorical data are reported as <italic>n</italic> (% of total for category). <italic>P</italic> values are for a Wilcoxon rank-sum for nonnormally distributed, and chi-square test for categorical data.</p></fn></table-wrap-foot></table-wrap></sec><sec><title>Bulk RNASeq</title><p content-type="flushleft">In TA samples from the ALI cohort, 1,157 genes were differentially expressed between the hyperinflammatory and hypoinflammatory ARDS molecular phenotypes. In the COMET cohort, 85 genes were differentially expressed between hyperinflammatory COVID-19 ARDS and hypoinflammatory COVID-19 ARDS phenotypes (<xref rid="fig1" ref-type="fig">Figure 1A</xref> and Data E1). Eighteen genes were reproducibly differentially expressed between phenotypes in each cohort (<xref rid="fig1" ref-type="fig">Figure 1B</xref> and Data E2), suggesting they played a conserved role in the pulmonary biology distinguishing ARDS molecular phenotypes. Genes that were more highly expressed in hyperinflammatory ARDS included <italic>IL32</italic>, a proinflammatory cytokine; <italic>HSPA8</italic>, a heat shock protein (<xref rid="bib32" ref-type="bibr">32</xref>); and <italic>PPP3CC</italic>, a subunit of calcineurin, which activates T cells via nuclear factors of activated T cells (<xref rid="bib33" ref-type="bibr">33</xref>). TA from the hypoinflammatory phenotype had greater expression of <italic>FRAT1</italic>, a promoter of Wnt signaling (<xref rid="bib34" ref-type="bibr">34</xref>), which plays a key role in lung regeneration after injury (<xref rid="bib35" ref-type="bibr">35</xref>), and <italic>CD14</italic>, a pattern recognition receptor for LPS expressed on myeloid cells (<xref rid="bib36" ref-type="bibr">36</xref>).</p><fig position="float" id="fig1"><label>
+Figure 1.
+</label><caption><p>Differential expression analyses in tracheal aspirate bulk RNA sequencing. (<italic>A</italic>) Volcano plots of differentially expressed genes in the (<italic>A</italic>) ALI (Acute Lung Injury in Critical Illness) cohort of patients with non&#x02013;coronavirus disease (non&#x02013;COVID-19) acute respiratory distress syndrome (ARDS) (<italic>n</italic>&#x02009;=&#x02009;41 patients), and COMET (COVID-19 Multiphenotyping for Effective Therapies) cohort of patients with COVID-19 ARDS (<italic>n</italic>&#x02009;=&#x02009;72 samples from 39 patients). A positive log-fold difference indicates the gene is more highly expressed in hyperinflammatory ARDS. Genes with an adjusted <italic>P</italic> value &#x0003c;0.1 are identified in blue and orange. A complete table of differential expression results is in Data E1. (<italic>B</italic>) Heatmaps of the 18 genes that are reproducibly differentially expressed between molecular phenotypes in the ALI and COMET cohorts (false discovery rate &#x0003c;0.1 in independent analyses of both cohorts). Descriptions of gene functions are in Data E2. Gene expression was voom-transformed, centered, and z-scaled for plotting. Each row represents a different gene, and each column represents a different tracheal aspirate sample. Samples are clustered by Euclidean distance.</p></caption><graphic xlink:href="rccm.202407-1454OCf1" position="float"/></fig><p>A hyperinflammatory ARDS signature derived in the ALI cohort was significantly enriched in samples from the corresponding phenotypes in the COMET cohort (<xref rid="fig2" ref-type="fig">Figure 2A</xref> and Data E3), providing further evidence of reproducible transcriptomic features of TA in each phenotype. This enrichment remained significant in a sensitivity analysis restricted to the first available sample in the COMET cohort (Figure E2). In addition, GSEA identified 195 pathways in the Reactome database that were reproducibly significantly enriched in hyperinflammatory ARDS compared with hypoinflammatory ARDS (<xref rid="fig2" ref-type="fig">Figure 2B</xref> and Data E4). Granulopoiesis, proinflammatory cytokine, and T-cell activation pathways were more highly expressed in hyperinflammatory ARDS, whereas glycosaminoglycan and extracellular matrix pathways were more highly expressed in hypoinflammatory ARDS.</p><fig position="float" id="fig2"><label>
+Figure 2.
+</label><caption><p>Gene set variation and enrichment analyses. (<italic>A</italic>) Gene set variation analysis (GSVA) scores for the set of genes that were significantly higher in hyperinflammatory acute respiratory distress syndrome (ARDS) in the ALI (Acute Lung Injury in Critical Illness) cohort (false discovery rate [FDR]&#x02009;&#x0003c;&#x02009;0.1). Each point represents an individual tracheal aspirate transcriptome. GSVA scores in each phenotype were compared using linear models adjusted for age and sex; models in the COMET (COVID-19 Multiphenotyping for Effective Therapies) cohort included a random effect term for subjects to account for repeated measures (*<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.05 and ***<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001). GSVA scores for each sample are in Data E3. (<italic>B</italic>) Selected gene set enrichment analysis scores (GSEA) for pathways in the Reactome database that were significantly enriched (FDR&#x02009;&#x0003c;&#x02009;0.1) in either phenotype in the ALI and COMET cohorts. A complete list of the 195 pathways that were reproducibly enriched in both pathways is in Data E4. GSEA net enrichment score (NES) is shown on the color bar. The area of the circles is proportional to the absolute NES. A positive NES indicates the Reactome gene set is more highly expressed in hyperinflammatory ARDS. COVID-19&#x02009;=&#x02009;coronavirus disease.</p></caption><graphic xlink:href="rccm.202407-1454OCf2" position="float"/></fig></sec><sec><title>scRNASeq</title><p content-type="flushleft">A total of 26,429 cells from four subjects with hyperinflammatory and five subjects with hypoinflammatory non&#x02013;COVID-19 ARDS passed quality filters (<xref rid="fig3" ref-type="fig">Figure 3A</xref>). Neutrophils were the most common cell in both phenotypes (<xref rid="fig3" ref-type="fig">Figure 3B</xref>). <italic>MAST</italic> identified several cell-specific differences in gene expression between phenotypes, including higher expression of neutrophil <italic>IL1R2</italic>, a marker of emergency granulopoiesis associated with a severe sepsis subphenotype (<xref rid="bib37" ref-type="bibr">37</xref>), in hyperinflammatory ARDS (Figure E3 and Data E5). GSEA identified several pathways that were enriched in immune cells from hyperinflammatory TA that were also enriched in bulk RNASeq data from hyperinflammatory ARDS TA samples in the ALI and COMET cohorts (Figure E4 and Data E4), including IFN signaling in monocyte-derived macrophages, a metabolic shift in T cells, and increased expression of the integrated stress response in monocytes, monocyte-derived macrophages, and T cells.</p><fig position="float" id="fig3"><label>
+Figure 3.
+</label><caption><p>Tracheal aspirate (TA) single-cell RNA sequencing. (<italic>A</italic>) Seurat UMAP projection of 26,429 TA cell transcriptomes from four participants with hyperinflammatory acute respiratory distress syndrome (ARDS) and five participants with hypoinflammatory ARDS, annotated with cell type as predicted by SingleR. (<italic>B</italic>) UMAP projection of TA cell transcriptomes separated by ARDS phenotype. (<italic>C</italic>) Differential interaction between cell types predicted by CellChat. Red arrows identify cell pairs with greater strength of interaction in hyperinflammatory ARDS. (<italic>D</italic>) Differences in strength of ligand&#x02013;receptor interaction for pathways in the CellChat database. Interaction scores from CellChat are in Data E6. UMAP&#x02009;=&#x02009;uniform manifold approximation and projection.</p></caption><graphic xlink:href="rccm.202407-1454OCf3" position="float"/></fig><p><italic>CellChat</italic> predicted greater interactions between T cells and other cell types in the hyperinflammatory phenotype (<xref rid="fig3" ref-type="fig">Figure 3C</xref>), which was consistent with the predicted increase in T-cell activation from the bulk analysis. Phenotype-specific differences in cell&#x02013;cell signaling were driven by ligand&#x02013;receptor pairs in several pathways (<xref rid="fig3" ref-type="fig">Figures 3D</xref> and E5). In the hyperinflammatory phenotype, <italic>CellChat</italic> predicted increased MHC-I signaling, which was driven by increased signaling to CD8 on T cells and natural killer (NK) cells. In contrast, MHC-II activity was predicted to be higher in hypoinflammatory ARDS. <italic>CellChat</italic> also identified increased NAMPT signaling by NK and T cells to integrin &#x00251;5&#x003b2;1 on monocytes, macrophages, and dendritic cells in hyperinflammatory ARDS (Data E6). Notably, <italic>NAMPT</italic> polymorphisms are associated with a 7.7-fold increased risk of sepsis-associated ARDS (<xref rid="bib38" ref-type="bibr">38</xref>).</p></sec><sec><title>Plasma Proteomic Analysis Identifies Cytokines Upregulated in Hyperinflammatory ARDS</title><p content-type="flushleft">In the ALI cohort, we measured plasma concentrations of 96 protein biomarkers using OLink proximity extension assays. Measurements for 73 proteins met quality control and were included for analysis. Twenty-one participants included in the TA bulk sequencing analysis had protein biomarker data available, as did four participants from the same cohort who did not have TA bulk sequencing available. Of these 25 participants, five had hyperinflammatory ARDS and 20 had hypoinflammatory ARDS (Table E3). After adjusting for multiple comparisons, plasma concentrations of 28 proteins were higher in hyperinflammatory ARDS than in hypoinflammatory ARDS (<xref rid="fig4" ref-type="fig">Figure 4</xref> and Data E7). These results confirmed established differences in inflammatory biomarker concentrations between phenotypes, including higher concentrations of IL6 and IL8 in hyperinflammatory ARDS. Plasma proteomics also revealed higher concentrations of the IFN-stimulated proteins CXCL9 and CXCL10 and the T-cell activation markers CD5 and TNFRSF9/CD137, further supporting a role for IFN signaling and T-cell activation in hyperinflammatory ARDS.</p><fig position="float" id="fig4"><label>
+Figure 4.
+</label><caption><p>Volcano plot comparing OLink normalized protein expression (NPX) for plasma biomarkers from 5 participants with hyperinflammatory acute respiratory distress syndrome (ARDS) and 20 participants with hypoinflammatory ARDS. The log<sub>2</sub>-fold difference in mean NPX is shown on the <italic>x</italic>-axis, and a positive difference indicates higher NPX in hyperinflammatory ARDS. The log<sub>10</sub> Benjamini-Hochberg adjusted <italic>P</italic> value is shown on the <italic>y</italic>-axis. Significantly different biomarkers are shown in orange and are labeled in the plot. Results for all 73 biomarkers passing quality control are in Data E7.</p></caption><graphic xlink:href="rccm.202407-1454OCf4" position="float"/></fig></sec></sec><sec sec-type="discussion"><title>Discussion</title><p content-type="flushleft">This analysis is the first report, to our knowledge, of significant differences in pulmonary biology between hyperinflammatory and hypoinflammatory ARDS molecular phenotypes. In three separate transcriptomic analyses of TA samples, we identified marked differences in gene expression and cell&#x02013;cell signaling, suggesting the molecular phenotypes, which were first identified using clinical variables and plasma biomarkers, are also associated with differences in pulmonary biology.</p><p>We found several reproducible differences in TA bulk RNASeq in separate analyses of patients with non&#x02013;COVID-19 ARDS and patients with COVID-19 ARDS. We identified 18 genes that were reproducibly differentially expressed between phenotypes in both cohorts. These genes included <italic>IL32</italic>, a proinflammatory cytokine that stimulates the expression of IL-1&#x003b2;, IL-6, IL-8, TNF-&#x003b1;, and type I IFNs (<xref rid="bib39" ref-type="bibr">39</xref>). In patients with ARDS, polymorphisms in the <italic>IL32</italic> gene are associated with a greater risk of prolonged ventilation and vasopressor-dependent shock (<xref rid="bib40" ref-type="bibr">40</xref>), which is also observed in hyperinflammatory ARDS, suggesting that IL-32 may play an important role in the pathogenesis of the higher-acuity phenotype.</p><p>We also identified nearly 200 key cell-signaling pathways that were reproducibly enriched in TA from either hyperinflammatory ARDS or hypoinflammatory ARDS. Hyperinflammatory ARDS was characterized by increased expression of granulopoiesis and cell cycle pathways, higher IFN and T-cell receptor signaling, and activation of the integrated stress response and inflammasome. Together, these pathways identify several features of dysregulated airspace inflammation in hyperinflammatory ARDS. In contrast, hypoinflammatory ARDS was characterized by greater expression of glycosaminoglycan and extracellular matrix pathways, which was consistent with earlier expression of repair and resolution pathways in the lower mortality hypoinflammatory phenotype.</p><p>Notably, some patients with each molecular phenotype had gene expression more consistent with the opposite subtype. This discordance between protein biomarker profiles and gene expression is unlikely to represent a classification error, because the c-statistic for the classifier models used in this manuscript ranges from 0.88 to 0.95 in prior studies comparing the models to latent class analyses (<xref rid="bib14" ref-type="bibr">14</xref>, <xref rid="bib23" ref-type="bibr">23</xref>). Alternatively, these results suggest that some patients who express the transcriptomic profile associated with the hyperinflammatory molecular phenotype nevertheless do not develop the triad of high circulating inflammatory cytokines, metabolic acidosis, and coagulopathy that defines the higher-acuity subtype. This finding suggests there could be additional biological heterogeneity in the lower respiratory tract within or across these phenotypes and highlights the importance of using multiple biological approaches to characterize critical illness.</p><p>This study adds to a growing body of literature highlighting the importance of studying immune responses in both the lung compartment and blood of critically ill patients (<xref rid="bib17" ref-type="bibr">17</xref>, <xref rid="bib41" ref-type="bibr">41</xref>, <xref rid="bib42" ref-type="bibr">42</xref>). We recently described differences in blood gene expression between patients with the hyper- and hypoinflammatory phenotypes of ARDS in the ROSE (Reevaluation of Systemic Early Neuromuscular Blockade) trial (<xref rid="bib43" ref-type="bibr">43</xref>) and patients with sepsis in an observational cohort (<xref rid="bib44" ref-type="bibr">44</xref>). Expression of IFN and T-cell signaling pathways was greater in blood from patients with hypoinflammatory ARDS and sepsis. In contrast, expression of these pathways when measured in the lower respiratory tract was higher in the hyperinflammatory molecular phenotype. Additional longitudinal investigations of paired blood and respiratory tract samples are required to understand the interaction of systemic and local inflammation in ARDS molecular phenotypes.</p><p>Our results support a central role for T cells in coordinating dysregulated respiratory tract inflammation in hyperinflammatory ARDS. <italic>PPP3CC</italic>, a subunit of calcineurin, which activates T cells (<xref rid="bib33" ref-type="bibr">33</xref>), was more highly expressed in TA samples from hyperinflammatory ARDS in both cohorts, and T-cell receptor signaling pathways were also enriched in bulk RNASeq. In addition, network analysis of scRNASeq predicted increased signaling from MHC-I on neutrophils and monocytes to CD8<sup>+ </sup>T cells and NK cells and increased signaling from T cells to other immune cells. We also found higher plasma concentrations of the T-cell activation markers CD5 (<xref rid="bib45" ref-type="bibr">45</xref>) and TNFSFR9/CD137 (<xref rid="bib46" ref-type="bibr">46</xref>), further supporting a role for T-cell activation in the higher-acuity ARDS molecular phenotype. Although our results suggest T lymphocytes play an important and underrecognized role in ARDS biology, further research is required to identify the specific cell populations that contribute to differences between ARDS molecular phenotypes.</p><p>In addition to the hyperinflammatory and hypoinflammatory molecular phenotypes of ARDS and sepsis, which were defined using latent class analysis of plasma biomarkers and clinical variables, several alternative critical illness subtypes have been described, including the Sepsis Response Signature (<xref rid="bib47" ref-type="bibr">47</xref>) (SRS) subtypes, which were defined using blood gene expression. In the higher-acuity SRS1 subtype, emergency granulopoiesis and immature <italic>IL1R2</italic><sup>+</sup> neutrophils in blood were associated with immune dysregulation (<xref rid="bib37" ref-type="bibr">37</xref>). In this study, we found higher neutrophil <italic>IL1R2</italic> expression in TA samples from the higher-acuity hyperinflammatory ARDS phenotype by scRNASeq. This finding suggests the immature blood neutrophils associated with SRS1 may also be observed in the airspace in hyperinflammatory ARDS and provides further evidence of shared biology across phenotyping schemas.</p><p>Two prior studies have attempted to characterize the pulmonary compartment in ARDS molecular phenotypes. The first study included 10 patients with the hypoinflammatory molecular phenotype and 16 patients with the hyperinflammatory molecular phenotype and found no difference between these groups in concentration of several inflammatory protein biomarkers in mini-BAL samples or in the lung microbiome (<xref rid="bib48" ref-type="bibr">48</xref>). The second compared BAL fluid from 57 patients with hypoinflammatory and 31 patients with hyperinflammatory ARDS and found greater concentrations of IL-6 and G-CSF in BAL fluid from the hyperinflammatory molecular phenotype, but these results did not remain significant after adjusting for multiple hypothesis testing (<xref rid="bib49" ref-type="bibr">49</xref>). Our results may differ from these prior studies because of differing analytic approaches (analyses of proteins vs. gene expression data), differing sampling strategies (TA vs. BAL), or some combination thereof.</p><p>A major strength of this study is the analysis of samples from the focal organ of injury in ARDS in three separate patient subsets, which provides a detailed picture of the pulmonary biology of both ARDS molecular phenotypes. Our results were reproducible across COVID-19 and non&#x02013;COVID-19 ARDS cohorts. The inclusion of a COVID-19 cohort importantly confirmed that differences between phenotypes were observed in patients who had a single etiology of ARDS (100% severe acute respiratory syndrome coronavirus 2 [SARS CoV-2]), which, notably, was not represented in the ALI cohort. These data provide further evidence that the differences observed between the inflammatory phenotypes in the ALI cohort (non&#x02013;COVID-19 &#x0201c;classic&#x0201d; ARDS) are unlikely to be caused by an imbalance in ARDS etiologies or respiratory pathogens.</p><p>This study also has some limitations. We observed fewer differentially expressed genes between molecular phenotypes in a cohort of patients with COVID-19 than in a cohort of patients with non&#x02013;COVID-19 ARDS. This difference may reflect the greater number of patients with the hyperinflammatory molecular phenotype between molecular phenotypes in the ALI cohort. Alternatively, the greater number of differentially expressed genes in the ALI cohort may reflect true differences in lung biology (e.g., greater heterogeneity) observed in patients with non&#x02013;COVID-19 ARDS. Although TA contains cells and proteins from the distal airspaces (<xref rid="bib50" ref-type="bibr">50</xref>), more invasive BAL may identify additional differences between the groups. Protein biomarker measurements and cell counts were not available for TA samples, so we were unable to confirm whether changes in RNA expression were associated with differences in proteins and cell proportions. Although TA scRNASeq and plasma protein concentrations supported our bulk RNASeq results, these measurements were only available in one cohort. In addition, we did not have blood transcriptomic data available on enough patients in these cohorts to provide meaningful comparisons between compartments; future analyses should address compartment-specific differences in biology between phenotypes. Patients in this study were enrolled at two hospitals affiliated with a single academic institution in the United States. Studies in larger patient populations are required to further validate our findings and study heterogeneity within molecular phenotypes.</p><p>In conclusion, our results demonstrate that established ARDS molecular phenotypes defined by plasma biomarkers and clinical variables are also associated with marked differences in pulmonary biology. Hyperinflammatory ARDS, which is associated with higher mortality, is characterized by increased granulopoiesis, T-cell activation, and proinflammatory cytokine signaling in the lung, which may be new opportunities for therapeutic targets in future clinical trials.</p></sec><sec sec-type="supplementary-material"><title>Supplemental Materials</title><supplementary-material id="SD1" position="float" content-type="local-data"><object-id pub-id-type="doi">10.1164/rccm.202407-1454OC</object-id><label>Online Data Supplement</label><media xlink:href="rccm.202407-1454OCS1.pdf" id="S1" position="anchor"/></supplementary-material><supplementary-material id="SD2" position="float" content-type="local-data"><object-id pub-id-type="doi">10.1164/rccm.202407-1454OC</object-id><label>Online Data Supplement</label><media xlink:href="rccm.202407-1454OCS2.docx" id="S2" position="anchor"/></supplementary-material><supplementary-material id="SD3" position="float" content-type="local-data"><object-id pub-id-type="doi">10.1164/rccm.202407-1454OC</object-id><label>Supplementary Data E1 - Bulk RNASeq.xlsx</label><media xlink:href="rccm.202407-1454OCS3.xlsx" id="S3" position="anchor"/></supplementary-material><supplementary-material id="SD4" position="float" content-type="local-data"><object-id pub-id-type="doi">10.1164/rccm.202407-1454OC</object-id><label>Supplementary Data E2 - Gene descriptions.xlsx</label><media xlink:href="rccm.202407-1454OCS4.xlsx" id="S4" position="anchor"/></supplementary-material><supplementary-material id="SD5" position="float" content-type="local-data"><object-id pub-id-type="doi">10.1164/rccm.202407-1454OC</object-id><label>Supplementary Data E3 - GSVA.xlsx</label><media xlink:href="rccm.202407-1454OCS5.xlsx" id="S5" position="anchor"/></supplementary-material><supplementary-material id="SD6" position="float" content-type="local-data"><object-id pub-id-type="doi">10.1164/rccm.202407-1454OC</object-id><label>Supplementary Data E4 - GSEA results.xlsx</label><media xlink:href="rccm.202407-1454OCS6.xlsx" id="S6" position="anchor"/></supplementary-material><supplementary-material id="SD7" position="float" content-type="local-data"><object-id pub-id-type="doi">10.1164/rccm.202407-1454OC</object-id><label>Supplementary Data E5 - scMAST results.xlsx</label><media xlink:href="rccm.202407-1454OCS7.xlsx" id="S7" position="anchor"/></supplementary-material><supplementary-material id="SD8" position="float" content-type="local-data"><object-id pub-id-type="doi">10.1164/rccm.202407-1454OC</object-id><label>Supplementary Data E6 - Ligand-receptor pairs.xlsx</label><media xlink:href="rccm.202407-1454OCS8.xlsx" id="S8" position="anchor"/></supplementary-material><supplementary-material id="SD9" position="float" content-type="local-data"><object-id pub-id-type="doi">10.1164/rccm.202407-1454OC</object-id><label>Supplementary Data E7 - OLink Proteomics Results.xlsx</label><media xlink:href="rccm.202407-1454OCS9.xlsx" id="S9" position="anchor"/></supplementary-material></sec></body><back><ack><sec><title>Acknowledgment</title><p>The authors thank IMPACC for sharing tracheal aspirate sequencing data from subjects coenrolled in the COMET and IMPACC studies.</p></sec></ack><fn-group><fn fn-type="supported-by"><p>Supported by National Heart, Lung, and Blood Institute grants F32HL151117 (A.S.), K23HL163491 (A.S.), R35HL140026 (C.S.C.), 5K24HL133390 (C.S.C.), and 5R01HL155418 (C.R.L.); National Institute of Allergy and Infectious Diseases grant U19AI1077439 (D.J.E. and C.S.C.); University of California San Francisco Bakar ImmunoX Initiative; University of California San Francisco Strategic Initiative Funding for the CoLabs Initiative; Chan Zuckerberg Initiative; and Genentech grant TSK-020586.</p></fn><fn><p>Author Contributions: Conceptualization: A.S., S.A.C., and C.S.C. Formal analysis/software: A.S., S.A.C., A.P.O., L.P.A.N., E.M., M.V.M., S.H.C., A.B., and K.L.K. Data curation: H.Z., A.J., R.G., S.C., and T.D. Investigation: A.S., B.Z.S., P.S., J.G.W., F.M., A.L., E.R.S., Z.M.L., R.G., S.C., P.S.H., T.D., C.L., K.N.K., C.M.H., M.A.M., C.R.L., L.D.J.B., and C.S.C. Visualization: A.S. Funding acquisition: A.S., C.R.L., D.J.E., and C.S.C. Project administration: J.L.D., D.J.E., M.F.K., K.N.K., C.M.H., P.G.W., M.A.M., C.R.L., and C.S.C. Supervision: S.A.C., C.R.L., and C.S.C. Writing &#x02013; original draft: A.S. Writing &#x02013; review &#x00026; editing: all authors.</p></fn><fn><p>Data and materials availability: Code for differential expression and single-cell RNA sequencing analyses is available at <ext-link xlink:href="https://github.com/AartikSarma/ARDSPhenotypes" ext-link-type="uri">https://github.com/AartikSarma/ARDSPhenotypes</ext-link>. The processed gene count data are available from the National Center for Biotechnology Information Gene Expression Omnibus database under accession code GSE200849. The raw sequencing data used in this analysis are protected because of data privacy restrictions from the institutional review board protocols governing patient enrollment in this study, which protect the release of raw genetic sequencing data from those patients enrolled under a waiver of consent. Researchers who wish to obtain raw FASTQ files for the purposes of independently generating gene counts can contact the corresponding author (<email xlink:href="mailto:aartik.sarma@ucsf.edu">aartik.sarma@ucsf.edu</email>) to be added to the institutional review board protocols and sign a materials transfer agreement from the University of California San Francisco ensuring that the data will be securely stored and only used for transcriptomic analyses.</p></fn><fn><p><ext-link xlink:href="https://doi.org/10.1164/rccm.202504-0784ED" ext-link-type="uri">This article has a related editorial</ext-link>.</p></fn><fn><p>A data supplement for this article is available via the <ext-link xlink:href="http://www.atsjournals.org/doi/suppl/10.1164/rccm.202407-1454OC?role=tab" ext-link-type="uri">Supplements tab</ext-link> at the top of the online article.</p></fn><fn><p>Artificial Intelligence Disclaimer: No artificial intelligence tools were used in writing this manuscript.</p></fn><fn><p>Originally Published in Press as DOI: <ext-link xlink:href="https://doi.org/10.1164/rccm.202407-1454OC" ext-link-type="uri">10.1164/rccm.202407-1454OC</ext-link> on September 25, 2025</p></fn><fn fn-type="financial-disclosure"><p><underline><bold><ext-link xlink:href="http://www.atsjournals.org/doi/suppl/10.1164/rccm.202407-1454OC/suppl_file/disclosures.pdf" ext-link-type="uri">Author disclosures</ext-link></bold></underline> are available with the text of this article at <ext-link xlink:href="http://www.atsjournals.org" ext-link-type="uri">www.atsjournals.org</ext-link>.</p></fn></fn-group><ref-list><title>References</title><ref id="bib1"><label>1.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Matthay</surname><given-names>MA</given-names></name>
+<name><surname>Zemans</surname><given-names>RL</given-names></name>
+<name><surname>Zimmerman</surname><given-names>GA</given-names></name>
+<name><surname>Arabi</surname><given-names>YM</given-names></name>
+<name><surname>Beitler</surname><given-names>JR</given-names></name>
+<name><surname>Mercat</surname><given-names>A</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Acute respiratory distress syndrome</article-title>
+<source>
+<italic>Nat Rev Dis Primers</italic>
+</source>
+<year>2019</year>
+<volume>5</volume>
+<fpage>18</fpage>
+<lpage>22</lpage>
+<pub-id pub-id-type="pmid">30872586</pub-id>
+</mixed-citation></ref><ref id="bib2"><label>2.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Horby</surname><given-names>P</given-names></name>
+<name><surname>Lim</surname><given-names>WS</given-names></name>
+<name><surname>Emberson</surname><given-names>JR</given-names></name>
+<name><surname>Mafham</surname><given-names>M</given-names></name>
+<name><surname>Bell</surname><given-names>JL</given-names></name>
+<name><surname>Linsell</surname><given-names>L</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+<collab>RECOVERY Collaborative Group</collab>
+</person-group>
+<article-title>Dexamethasone in hospitalized patients with Covid-19</article-title>
+<source>
+<italic>N Engl J Med</italic>
+</source>
+<year>2021</year>
+<volume>384</volume>
+<fpage>693</fpage>
+<lpage>704</lpage>
+<pub-id pub-id-type="pmid">32678530</pub-id>
+</mixed-citation></ref><ref id="bib3"><label>3.</label><mixed-citation publication-type="journal">
+<collab>RECOVERY Collaborative Group</collab>
+<article-title>Tocilizumab in patients admitted to hospital with COVID-19 (RECOVERY): a randomised, controlled, open-label, platform trial</article-title>
+<source>
+<italic>Lancet</italic>
+</source>
+<year>2021</year>
+<volume>397</volume>
+<fpage>1637</fpage>
+<lpage>1645</lpage>
+<pub-id pub-id-type="pmid">33933206</pub-id>
+</mixed-citation></ref><ref id="bib4"><label>4.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Beitler</surname><given-names>JR</given-names></name>
+<name><surname>Thompson</surname><given-names>BT</given-names></name>
+<name><surname>Baron</surname><given-names>RM</given-names></name>
+<name><surname>Bastarache</surname><given-names>JA</given-names></name>
+<name><surname>Denlinger</surname><given-names>LC</given-names></name>
+<name><surname>Esserman</surname><given-names>L</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Advancing precision medicine for acute respiratory distress syndrome</article-title>
+<source>
+<italic>Lancet Respir Med</italic>
+</source>
+<year>2022</year>
+<volume>10</volume>
+<fpage>107</fpage>
+<lpage>120</lpage>
+<pub-id pub-id-type="pmid">34310901</pub-id>
+</mixed-citation></ref><ref id="bib5"><label>5.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Calfee</surname><given-names>CS</given-names></name>
+<name><surname>Delucchi</surname><given-names>K</given-names></name>
+<name><surname>Parsons</surname><given-names>PE</given-names></name>
+<name><surname>Thompson</surname><given-names>BT</given-names></name>
+<name><surname>Ware</surname><given-names>LB</given-names></name>
+<name><surname>Matthay</surname><given-names>MA</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+<collab>NHLBI ARDS Network</collab>
+</person-group>
+<article-title>Subphenotypes in acute respiratory distress syndrome: latent class analysis of data from two randomised controlled trials</article-title>
+<source>
+<italic>Lancet Respir Med</italic>
+</source>
+<year>2014</year>
+<volume>2</volume>
+<fpage>611</fpage>
+<lpage>620</lpage>
+<pub-id pub-id-type="pmid">24853585</pub-id>
+</mixed-citation></ref><ref id="bib6"><label>6.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Famous</surname><given-names>KR</given-names></name>
+<name><surname>Delucchi</surname><given-names>K</given-names></name>
+<name><surname>Ware</surname><given-names>LB</given-names></name>
+<name><surname>Kangelaris</surname><given-names>KN</given-names></name>
+<name><surname>Liu</surname><given-names>KD</given-names></name>
+<name><surname>Thompson</surname><given-names>BT</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+<collab>ARDS Network</collab>
+</person-group>
+<article-title>Acute respiratory distress syndrome subphenotypes respond differently to randomized fluid management strategy</article-title>
+<source>
+<italic>Am J Respir Crit Care Med</italic>
+</source>
+<year>2017</year>
+<volume>195</volume>
+<fpage>331</fpage>
+<lpage>338</lpage>
+<pub-id pub-id-type="pmid">27513822</pub-id>
+</mixed-citation></ref><ref id="bib7"><label>7.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Sinha</surname><given-names>P</given-names></name>
+<name><surname>Delucchi</surname><given-names>KL</given-names></name>
+<name><surname>Thompson</surname><given-names>BT</given-names></name>
+<name><surname>McAuley</surname><given-names>DF</given-names></name>
+<name><surname>Matthay</surname><given-names>MA</given-names></name>
+<name><surname>Calfee</surname><given-names>CS</given-names></name>
+<collab>NHLBI ARDS Network</collab>
+</person-group>
+<article-title>Latent class analysis of ARDS subphenotypes: a secondary analysis of the statins for acutely injured lungs from sepsis (SAILS) study</article-title>
+<source>
+<italic>Intensive Care Med</italic>
+</source>
+<year>2018</year>
+<volume>44</volume>
+<fpage>1859</fpage>
+<lpage>1869</lpage>
+<pub-id pub-id-type="pmid">30291376</pub-id>
+</mixed-citation></ref><ref id="bib8"><label>8.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Sinha</surname><given-names>P</given-names></name>
+<name><surname>Delucchi</surname><given-names>KL</given-names></name>
+<name><surname>Chen</surname><given-names>Y</given-names></name>
+<name><surname>Zhuo</surname><given-names>H</given-names></name>
+<name><surname>Abbott</surname><given-names>J</given-names></name>
+<name><surname>Wang</surname><given-names>C</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Latent class analysis-derived subphenotypes are generalisable to observational cohorts of acute respiratory distress syndrome: a prospective study</article-title>
+<source>
+<italic>Thorax</italic>
+</source>
+<year>2022</year>
+<volume>77</volume>
+<fpage>13</fpage>
+<lpage>21</lpage>
+<pub-id pub-id-type="pmid">34253679</pub-id>
+</mixed-citation></ref><ref id="bib9"><label>9.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Meyer</surname><given-names>NJ</given-names></name>
+<name><surname>Gattinoni</surname><given-names>L</given-names></name>
+<name><surname>Calfee</surname><given-names>CS</given-names></name>
+</person-group>
+<article-title>Acute respiratory distress syndrome</article-title>
+<source>
+<italic>Lancet</italic>
+</source>
+<year>2021</year>
+<volume>398</volume>
+<fpage>622</fpage>
+<lpage>637</lpage>
+<pub-id pub-id-type="pmid">34217425</pub-id>
+</mixed-citation></ref><ref id="bib10"><label>10.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Maddali</surname><given-names>MV</given-names></name>
+<name><surname>Churpek</surname><given-names>M</given-names></name>
+<name><surname>Pham</surname><given-names>T</given-names></name>
+<name><surname>Rezoagli</surname><given-names>E</given-names></name>
+<name><surname>Zhuo</surname><given-names>H</given-names></name>
+<name><surname>Zhao</surname><given-names>W</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+<collab>LUNG SAFE Investigators and the ESICM Trials Group</collab>
+</person-group>
+<article-title>Validation and utility of ARDS subphenotypes identified by machine-learning models using clinical data: an observational, multicohort, retrospective analysis</article-title>
+<source>
+<italic>Lancet Respir Med</italic>
+</source>
+<year>2022</year>
+<volume>10</volume>
+<fpage>367</fpage>
+<lpage>377</lpage>
+<pub-id pub-id-type="pmid">35026177</pub-id>
+</mixed-citation></ref><ref id="bib11"><label>11.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Calfee</surname><given-names>CS</given-names></name>
+<name><surname>Delucchi</surname><given-names>KL</given-names></name>
+<name><surname>Sinha</surname><given-names>P</given-names></name>
+<name><surname>Matthay</surname><given-names>MA</given-names></name>
+<name><surname>Hackett</surname><given-names>J</given-names></name>
+<name><surname>Shankar-Hari</surname><given-names>M</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+<collab>Irish Critical Care Trials Group</collab>
+</person-group>
+<article-title>Acute respiratory distress syndrome subphenotypes and differential response to simvastatin: secondary analysis of a randomised controlled trial</article-title>
+<source>
+<italic>Lancet Respir Med</italic>
+</source>
+<year>2018</year>
+<volume>6</volume>
+<fpage>691</fpage>
+<lpage>698</lpage>
+<pub-id pub-id-type="pmid">30078618</pub-id>
+</mixed-citation></ref><ref id="bib12"><label>12.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Sinha</surname><given-names>P</given-names></name>
+<name><surname>Furfaro</surname><given-names>D</given-names></name>
+<name><surname>Cummings</surname><given-names>MJ</given-names></name>
+<name><surname>Abrams</surname><given-names>D</given-names></name>
+<name><surname>Delucchi</surname><given-names>K</given-names></name>
+<name><surname>Maddali</surname><given-names>MV</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Latent class analysis reveals COVID-19&#x02013;related acute respiratory distress syndrome subgroups with differential responses to corticosteroids</article-title>
+<source>
+<italic>Am J Respir Crit Care Med</italic>
+</source>
+<year>2021</year>
+<volume>204</volume>
+<fpage>1274</fpage>
+<lpage>1285</lpage>
+<pub-id pub-id-type="pmid">34543591</pub-id>
+</mixed-citation></ref><ref id="bib13"><label>13.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>H</given-names></name>
+<name><surname>Xie</surname><given-names>J</given-names></name>
+<name><surname>Su</surname><given-names>N</given-names></name>
+<name><surname>Wang</surname><given-names>J</given-names></name>
+<name><surname>Sun</surname><given-names>Q</given-names></name>
+<name><surname>Li</surname><given-names>S</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Corticosteroid therapy is associated with improved outcome in critically ill patients with COVID-19 with hyperinflammatory phenotype</article-title>
+<source>
+<italic>Chest</italic>
+</source>
+<year>2021</year>
+<volume>159</volume>
+<fpage>1793</fpage>
+<lpage>1802</lpage>
+<pub-id pub-id-type="pmid">33316235</pub-id>
+</mixed-citation></ref><ref id="bib14"><label>14.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Sinha</surname><given-names>P</given-names></name>
+<name><surname>Delucchi</surname><given-names>KL</given-names></name>
+<name><surname>McAuley</surname><given-names>DF</given-names></name>
+<name><surname>O&#x02019;Kane</surname><given-names>CM</given-names></name>
+<name><surname>Matthay</surname><given-names>MA</given-names></name>
+<name><surname>Calfee</surname><given-names>CS</given-names></name>
+</person-group>
+<article-title>Development and validation of parsimonious algorithms to classify acute respiratory distress syndrome phenotypes: a secondary analysis of randomised controlled trials</article-title>
+<source>
+<italic>Lancet Respir Med</italic>
+</source>
+<year>2020</year>
+<volume>8</volume>
+<fpage>247</fpage>
+<lpage>257</lpage>
+<pub-id pub-id-type="pmid">31948926</pub-id>
+</mixed-citation></ref><ref id="bib15"><label>15.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Bos</surname><given-names>LDJ</given-names></name>
+<name><surname>Artigas</surname><given-names>A</given-names></name>
+<name><surname>Constantin</surname><given-names>J-M</given-names></name>
+<name><surname>Hagens</surname><given-names>LA</given-names></name>
+<name><surname>Heijnen</surname><given-names>N</given-names></name>
+<name><surname>Laffey</surname><given-names>JG</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Precision medicine in acute respiratory distress syndrome: workshop report and recommendations for future research</article-title>
+<source>
+<italic>Eur Respir Rev</italic>
+</source>
+<year>2021</year>
+<volume>30</volume>
+<fpage>200317</fpage>
+<pub-id pub-id-type="pmid">33536264</pub-id>
+</mixed-citation></ref><ref id="bib16"><label>16.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>de Brabander</surname><given-names>J</given-names></name>
+<name><surname>Boers</surname><given-names>LS</given-names></name>
+<name><surname>Kullberg</surname><given-names>RFJ</given-names></name>
+<name><surname>Zhang</surname><given-names>S</given-names></name>
+<name><surname>Nossent</surname><given-names>EJ</given-names></name>
+<name><surname>Heunks</surname><given-names>LMA</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+<collab>Amsterdam UMC COVID study group</collab>
+</person-group>
+<article-title>Persistent alveolar inflammatory response in critically ill patients with COVID-19 is associated with mortality</article-title>
+<source>
+<italic>Thorax</italic>
+</source>
+<year>2023</year>
+<volume>78</volume>
+<fpage>912</fpage>
+<lpage>921</lpage>
+<pub-id pub-id-type="pmid">37142421</pub-id>
+</mixed-citation></ref><ref id="bib17"><label>17.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Neyton</surname><given-names>LPA</given-names></name>
+<name><surname>Patel</surname><given-names>RK</given-names></name>
+<name><surname>Sarma</surname><given-names>A</given-names></name>
+<name><surname>Willmore</surname><given-names>A</given-names></name>
+<name><surname>Haller</surname><given-names>SC</given-names></name>
+<name><surname>Kangelaris</surname><given-names>KN</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+<collab>UCSF COMET Consortium</collab>
+</person-group>
+<article-title>Distinct pulmonary and systemic effects of dexamethasone in severe COVID-19</article-title>
+<source>
+<italic>Nat Commun</italic>
+</source>
+<year>2024</year>
+<volume>15</volume>
+<fpage>5483</fpage>
+<pub-id pub-id-type="pmid">38942804</pub-id>
+</mixed-citation></ref><ref id="bib18"><label>18.</label><mixed-citation publication-type="journal">
+<collab>IMPACC Manuscript Writing Team; IMPACC Network Steering Committee</collab>
+<article-title>Immunophenotyping assessment in a COVID-19 cohort (IMPACC): a prospective longitudinal study</article-title>
+<source>
+<italic>Sci Immunol</italic>
+</source>
+<year>2021</year>
+<volume>6</volume>
+<fpage>eabf3733</fpage>
+<pub-id pub-id-type="pmid">34376480</pub-id>
+</mixed-citation></ref><ref id="bib19"><label>19.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Langelier</surname><given-names>C</given-names></name>
+<name><surname>Kalantar</surname><given-names>KL</given-names></name>
+<name><surname>Moazed</surname><given-names>F</given-names></name>
+<name><surname>Wilson</surname><given-names>MR</given-names></name>
+<name><surname>Crawford</surname><given-names>ED</given-names></name>
+<name><surname>Deiss</surname><given-names>T</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Integrating host response and unbiased microbe detection for lower respiratory tract infection diagnosis in critically ill adults</article-title>
+<source>
+<italic>Proc Natl Acad Sci U S A</italic>
+</source>
+<year>2018</year>
+<volume>115</volume>
+<fpage>E12353</fpage>
+<lpage>E12362</lpage>
+<pub-id pub-id-type="pmid">30482864</pub-id>
+</mixed-citation></ref><ref id="bib20"><label>20.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Sarma</surname><given-names>A</given-names></name>
+<name><surname>Christenson</surname><given-names>SA</given-names></name>
+<name><surname>Byrne</surname><given-names>A</given-names></name>
+<name><surname>Mick</surname><given-names>E</given-names></name>
+<name><surname>Pisco</surname><given-names>AO</given-names></name>
+<name><surname>DeVoe</surname><given-names>C</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+<collab>COMET Consortium</collab>
+</person-group>
+<article-title>Tracheal aspirate RNA sequencing identifies distinct immunological features of COVID-19 ARDS</article-title>
+<source>
+<italic>Nat Commun</italic>
+</source>
+<year>2021</year>
+<volume>12</volume>
+<fpage>5152</fpage>
+<pub-id pub-id-type="pmid">34446707</pub-id>
+</mixed-citation></ref><ref id="bib21"><label>21.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Ranieri</surname><given-names>VM</given-names></name>
+<name><surname>Rubenfeld</surname><given-names>GD</given-names></name>
+<name><surname>Thompson</surname><given-names>BT</given-names></name>
+<name><surname>Ferguson</surname><given-names>ND</given-names></name>
+<name><surname>Caldwell</surname><given-names>E</given-names></name>
+<name><surname>Fan</surname><given-names>E</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+<collab>ARDS Definition Task Force</collab>
+</person-group>
+<article-title>Acute respiratory distress syndrome: the Berlin definition</article-title>
+<source>
+<italic>JAMA</italic>
+</source>
+<year>2012</year>
+<volume>307</volume>
+<fpage>2526</fpage>
+<lpage>2533</lpage>
+<pub-id pub-id-type="pmid">22797452</pub-id>
+</mixed-citation></ref><ref id="bib22"><label>22.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Horan</surname><given-names>TC</given-names></name>
+<name><surname>Andrus</surname><given-names>M</given-names></name>
+<name><surname>Dudeck</surname><given-names>MA</given-names></name>
+</person-group>
+<article-title>CDC/NHSN surveillance definition of health care&#x02013;associated infection and criteria for specific types of infections in the acute care setting</article-title>
+<source>
+<italic>Am J Infect Control</italic>
+</source>
+<year>2008</year>
+<volume>36</volume>
+<fpage>309</fpage>
+<lpage>332</lpage>
+<pub-id pub-id-type="pmid">18538699</pub-id>
+</mixed-citation></ref><ref id="bib23"><label>23.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Sinha</surname><given-names>P</given-names></name>
+<name><surname>Churpek</surname><given-names>MM</given-names></name>
+<name><surname>Calfee</surname><given-names>CS</given-names></name>
+</person-group>
+<article-title>Machine learning classifier models can identify acute respiratory distress syndrome phenotypes using readily available clinical data</article-title>
+<source>
+<italic>Am J Respir Crit Care Med</italic>
+</source>
+<year>2020</year>
+<volume>202</volume>
+<fpage>996</fpage>
+<lpage>1004</lpage>
+<pub-id pub-id-type="pmid">32551817</pub-id>
+</mixed-citation></ref><ref id="bib24"><label>24.</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Spottiswoode</surname><given-names>N</given-names></name><name><surname>Tsitsiklis</surname><given-names>A</given-names></name><name><surname>Chu</surname><given-names>VT</given-names></name><name><surname>Phan</surname><given-names>HV</given-names></name><name><surname>DeVoe</surname><given-names>C</given-names></name><name><surname>Love</surname><given-names>C</given-names></name><etal><italic>et&#x000a0;al.</italic></etal></person-group><article-title>Microbial dynamics and pulmonary immune responses in COVID-19 secondary bacterial pneumonia</article-title><source><italic>Nat Commun</italic></source><year>2024</year>;<volume>15</volume>:<fpage>9339</fpage><pub-id pub-id-type="pmid">39472555</pub-id>
+</mixed-citation></ref><ref id="bib25"><label>25.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Law</surname><given-names>CW</given-names></name>
+<name><surname>Chen</surname><given-names>Y</given-names></name>
+<name><surname>Shi</surname><given-names>W</given-names></name>
+<name><surname>Smyth</surname><given-names>GK</given-names></name>
+</person-group>
+<article-title>voom: precision weights unlock linear model analysis tools for RNA-seq read counts</article-title>
+<source>
+<italic>Genome Biol</italic>
+</source>
+<year>2014</year>
+<volume>15</volume>
+<fpage>R29</fpage>
+<pub-id pub-id-type="pmid">24485249</pub-id>
+</mixed-citation></ref><ref id="bib26"><label>26.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Ritchie</surname><given-names>ME</given-names></name>
+<name><surname>Phipson</surname><given-names>B</given-names></name>
+<name><surname>Wu</surname><given-names>D</given-names></name>
+<name><surname>Hu</surname><given-names>Y</given-names></name>
+<name><surname>Law</surname><given-names>CW</given-names></name>
+<name><surname>Shi</surname><given-names>W</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>limma powers differential expression analyses for RNA-sequencing and microarray studies</article-title>
+<source>
+<italic>Nucleic Acids Res</italic>
+</source>
+<year>2015</year>
+<volume>43</volume>
+<fpage>e47</fpage>
+<pub-id pub-id-type="pmid">25605792</pub-id>
+</mixed-citation></ref><ref id="bib27"><label>27.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Hoffman</surname><given-names>GE</given-names></name>
+<name><surname>Roussos</surname><given-names>P</given-names></name>
+</person-group>
+<article-title>Dream: powerful differential expression analysis for repeated measures designs</article-title>
+<source>
+<italic>Bioinformatics</italic>
+</source>
+<year>2021</year>
+<volume>37</volume>
+<fpage>192</fpage>
+<lpage>201</lpage>
+<pub-id pub-id-type="pmid">32730587</pub-id>
+</mixed-citation></ref><ref id="bib28"><label>28.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Liberzon</surname><given-names>A</given-names></name>
+<name><surname>Birger</surname><given-names>C</given-names></name>
+<name><surname>Thorvaldsd&#x000f3;ttir</surname><given-names>H</given-names></name>
+<name><surname>Ghandi</surname><given-names>M</given-names></name>
+<name><surname>Mesirov</surname><given-names>JP</given-names></name>
+<name><surname>Tamayo</surname><given-names>P</given-names></name>
+</person-group>
+<article-title>The Molecular Signatures Database (MSigDB) hallmark gene set collection</article-title>
+<source>
+<italic>Cell Syst</italic>
+</source>
+<year>2015</year>
+<volume>1</volume>
+<fpage>417</fpage>
+<lpage>425</lpage>
+<pub-id pub-id-type="pmid">26771021</pub-id>
+</mixed-citation></ref><ref id="bib29"><label>29.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Aran</surname><given-names>D</given-names></name>
+<name><surname>Looney</surname><given-names>AP</given-names></name>
+<name><surname>Liu</surname><given-names>L</given-names></name>
+<name><surname>Wu</surname><given-names>E</given-names></name>
+<name><surname>Fong</surname><given-names>V</given-names></name>
+<name><surname>Hsu</surname><given-names>A</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Reference-based analysis of lung single-cell sequencing reveals a transitional profibrotic macrophage</article-title>
+<source>
+<italic>Nat Immunol</italic>
+</source>
+<year>2019</year>
+<volume>20</volume>
+<fpage>163</fpage>
+<lpage>172</lpage>
+<pub-id pub-id-type="pmid">30643263</pub-id>
+</mixed-citation></ref><ref id="bib30"><label>30.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Finak</surname><given-names>G</given-names></name>
+<name><surname>McDavid</surname><given-names>A</given-names></name>
+<name><surname>Yajima</surname><given-names>M</given-names></name>
+<name><surname>Deng</surname><given-names>J</given-names></name>
+<name><surname>Gersuk</surname><given-names>V</given-names></name>
+<name><surname>Shalek</surname><given-names>AK</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>MAST: a flexible statistical framework for assessing transcriptional changes and characterizing heterogeneity in single-cell RNA sequencing data</article-title>
+<source>
+<italic>Genome Biol</italic>
+</source>
+<year>2015</year>
+<volume>16</volume>
+<fpage>278</fpage>
+<pub-id pub-id-type="pmid">26653891</pub-id>
+</mixed-citation></ref><ref id="bib31"><label>31.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Jin</surname><given-names>S</given-names></name>
+<name><surname>Guerrero-Juarez</surname><given-names>CF</given-names></name>
+<name><surname>Zhang</surname><given-names>L</given-names></name>
+<name><surname>Chang</surname><given-names>I</given-names></name>
+<name><surname>Ramos</surname><given-names>R</given-names></name>
+<name><surname>Kuan</surname><given-names>C-H</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Inference and analysis of cell-cell communication using CellChat</article-title>
+<source>
+<italic>Nat Commun</italic>
+</source>
+<year>2021</year>
+<volume>12</volume>
+<fpage>1088</fpage>
+<pub-id pub-id-type="pmid">33597522</pub-id>
+</mixed-citation></ref><ref id="bib32"><label>32.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Mayer</surname><given-names>MP</given-names></name>
+<name><surname>Bukau</surname><given-names>B</given-names></name>
+</person-group>
+<article-title>Hsp70 chaperones: cellular functions and molecular mechanism</article-title>
+<source>
+<italic>Cell Mol Life Sci</italic>
+</source>
+<year>2005</year>
+<volume>62</volume>
+<fpage>670</fpage>
+<lpage>684</lpage>
+<pub-id pub-id-type="pmid">15770419</pub-id>
+</mixed-citation></ref><ref id="bib33"><label>33.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Creamer</surname><given-names>TP</given-names></name>
+</person-group>
+<article-title>Calcineurin</article-title>
+<source>
+<italic>Cell Commun Signal</italic>
+</source>
+<year>2020</year>
+<volume>18</volume>
+</mixed-citation></ref><ref id="bib34"><label>34.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Hay</surname><given-names>E</given-names></name>
+<name><surname>Faucheu</surname><given-names>C</given-names></name>
+<name><surname>Suc-Royer</surname><given-names>I</given-names></name>
+<name><surname>Touitou</surname><given-names>R</given-names></name>
+<name><surname>Stiot</surname><given-names>V</given-names></name>
+<name><surname>Vayssi&#x000e8;re</surname><given-names>B</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Interaction between LRP5 and Frat1 mediates the activation of the Wnt canonical pathway</article-title>
+<source>
+<italic>J Biol Chem</italic>
+</source>
+<year>2005</year>
+<volume>280</volume>
+<fpage>13616</fpage>
+<lpage>13623</lpage>
+<pub-id pub-id-type="pmid">15699046</pub-id>
+</mixed-citation></ref><ref id="bib35"><label>35.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Aros</surname><given-names>CJ</given-names></name>
+<name><surname>Pantoja</surname><given-names>CJ</given-names></name>
+<name><surname>Gomperts</surname><given-names>BN</given-names></name>
+</person-group>
+<article-title>Wnt signaling in lung development, regeneration, and disease progression</article-title>
+<source>
+<italic>Commun Biol</italic>
+</source>
+<year>2021</year>
+<volume>4</volume>
+<fpage>601</fpage>
+<lpage>613</lpage>
+<pub-id pub-id-type="pmid">34017045</pub-id>
+</mixed-citation></ref><ref id="bib36"><label>36.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Na</surname><given-names>K</given-names></name>
+<name><surname>Oh</surname><given-names>B-C</given-names></name>
+<name><surname>Jung</surname><given-names>Y</given-names></name>
+</person-group>
+<article-title>Multifaceted role of CD14 in innate immunity and tissue homeostasis</article-title>
+<source>
+<italic>Cytokine Growth Factor Rev</italic>
+</source>
+<year>2023</year>
+<volume>74</volume>
+<fpage>100</fpage>
+<lpage>107</lpage>
+<pub-id pub-id-type="pmid">37661484</pub-id>
+</mixed-citation></ref><ref id="bib37"><label>37.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Kwok</surname><given-names>AJ</given-names></name>
+<name><surname>Allcock</surname><given-names>A</given-names></name>
+<name><surname>Ferreira</surname><given-names>RC</given-names></name>
+<name><surname>Cano-Gamez</surname><given-names>E</given-names></name>
+<name><surname>Smee</surname><given-names>M</given-names></name>
+<name><surname>Burnham</surname><given-names>KL</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+<collab>Emergency Medicine Research Oxford (EMROx)</collab>
+</person-group>
+<article-title>Neutrophils and emergency granulopoiesis drive immune suppression and an extreme response endotype during sepsis</article-title>
+<source>
+<italic>Nat Immunol</italic>
+</source>
+<year>2023</year>
+<volume>24</volume>
+<fpage>767</fpage>
+<lpage>779</lpage>
+<pub-id pub-id-type="pmid">37095375</pub-id>
+</mixed-citation></ref><ref id="bib38"><label>38.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Ye</surname><given-names>SQ</given-names></name>
+<name><surname>Simon</surname><given-names>BA</given-names></name>
+<name><surname>Maloney</surname><given-names>JP</given-names></name>
+<name><surname>Zambelli-Weiner</surname><given-names>A</given-names></name>
+<name><surname>Gao</surname><given-names>L</given-names></name>
+<name><surname>Grant</surname><given-names>A</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Pre&#x02013;B-cell colony-enhancing factor as a potential novel biomarker in acute lung injury</article-title>
+<source>
+<italic>Am J Respir Crit Care Med</italic>
+</source>
+<year>2005</year>
+<volume>171</volume>
+<fpage>361</fpage>
+<lpage>370</lpage>
+<pub-id pub-id-type="pmid">15579727</pub-id>
+</mixed-citation></ref><ref id="bib39"><label>39.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Ribeiro-Dias</surname><given-names>F</given-names></name>
+<name><surname>Saar Gomes</surname><given-names>R</given-names></name>
+<name><surname>de Lima Silva</surname><given-names>LL</given-names></name>
+<name><surname>dos Santos</surname><given-names>JC</given-names></name>
+<name><surname>Joosten</surname><given-names>LAB</given-names></name>
+</person-group>
+<article-title>Interleukin 32: a novel player in the control of infectious diseases</article-title>
+<source>
+<italic>J Leukoc Biol</italic>
+</source>
+<year>2017</year>
+<volume>101</volume>
+<fpage>39</fpage>
+<lpage>52</lpage>
+<pub-id pub-id-type="pmid">27793959</pub-id>
+</mixed-citation></ref><ref id="bib40"><label>40.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Arcaroli</surname><given-names>JJ</given-names></name>
+<name><surname>Liu</surname><given-names>N</given-names></name>
+<name><surname>Yi</surname><given-names>N</given-names></name>
+<name><surname>Abraham</surname><given-names>E</given-names></name>
+</person-group>
+<article-title>Association between IL-32 genotypes and outcome in infection-associated acute lung injury</article-title>
+<source>
+<italic>Crit Care</italic>
+</source>
+<year>2011</year>
+<volume>15</volume>
+<fpage>R138</fpage>
+<pub-id pub-id-type="pmid">21649914</pub-id>
+</mixed-citation></ref><ref id="bib41"><label>41.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Conway Morris</surname><given-names>A</given-names></name>
+<name><surname>Rynne</surname><given-names>J</given-names></name>
+<name><surname>Shankar-Hari</surname><given-names>M</given-names></name>
+</person-group>
+<article-title>Compartmentalisation of immune responses in critical illness: does it matter?</article-title>
+<source>
+<italic>Intensive Care Med</italic>
+</source>
+<year>2022</year>
+<volume>48</volume>
+<fpage>1617</fpage>
+<lpage>1620</lpage>
+<pub-id pub-id-type="pmid">36050558</pub-id>
+</mixed-citation></ref><ref id="bib42"><label>42.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Saris</surname><given-names>A</given-names></name>
+<name><surname>Reijnders</surname><given-names>TDY</given-names></name>
+<name><surname>Nossent</surname><given-names>EJ</given-names></name>
+<name><surname>Schuurman</surname><given-names>AR</given-names></name>
+<name><surname>Verhoeff</surname><given-names>J</given-names></name>
+<name><surname>Asten</surname><given-names>SV</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+<collab>ArtDECO Consortium and the Amsterdam UMC COVID study group</collab>
+</person-group>
+<article-title>Distinct cellular immune profiles in the airways and blood of critically ill patients with COVID-19</article-title>
+<source>
+<italic>Thorax</italic>
+</source>
+<year>2021</year>
+<volume>76</volume>
+<fpage>1010</fpage>
+<lpage>1019</lpage>
+<pub-id pub-id-type="pmid">33846275</pub-id>
+</mixed-citation></ref><ref id="bib43"><label>43.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Sinha</surname><given-names>P</given-names></name>
+<name><surname>Neyton</surname><given-names>L</given-names></name>
+<name><surname>Sarma</surname><given-names>A</given-names></name>
+<name><surname>Wu</surname><given-names>N</given-names></name>
+<name><surname>Jones</surname><given-names>C</given-names></name>
+<name><surname>Zhuo</surname><given-names>H</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Molecular phenotypes of ARDS in the ROSE trial have differential outcomes and gene expression patterns that differ at baseline and longitudinally over time</article-title>
+<source>
+<italic>Am J Respir Crit Care Med</italic>
+</source>
+<year>2024</year>
+<volume>209</volume>
+<fpage>816</fpage>
+<lpage>828</lpage>
+<pub-id pub-id-type="pmid">38345571</pub-id>
+</mixed-citation></ref><ref id="bib44"><label>44.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Neyton</surname><given-names>LPA</given-names></name>
+<name><surname>Sinha</surname><given-names>P</given-names></name>
+<name><surname>Sarma</surname><given-names>A</given-names></name>
+<name><surname>Mick</surname><given-names>E</given-names></name>
+<name><surname>Kalantar</surname><given-names>K</given-names></name>
+<name><surname>Chen</surname><given-names>S</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Host and microbe blood metagenomics reveals key pathways characterizing critical illness phenotypes</article-title>
+<source>
+<italic>Am J Respir Crit Care Med</italic>
+</source>
+<year>2024</year>
+<volume>209</volume>
+<fpage>805</fpage>
+<lpage>815</lpage>
+<pub-id pub-id-type="pmid">38190719</pub-id>
+</mixed-citation></ref><ref id="bib45"><label>45.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Azzam</surname><given-names>HS</given-names></name>
+<name><surname>Grinberg</surname><given-names>A</given-names></name>
+<name><surname>Lui</surname><given-names>K</given-names></name>
+<name><surname>Shen</surname><given-names>H</given-names></name>
+<name><surname>Shores</surname><given-names>EW</given-names></name>
+<name><surname>Love</surname><given-names>PE</given-names></name>
+</person-group>
+<article-title>CD5 expression is developmentally regulated by T cell receptor (TCR) signals and TCR avidity</article-title>
+<source>
+<italic>J Exp Med</italic>
+</source>
+<year>1998</year>
+<volume>188</volume>
+<fpage>2301</fpage>
+<lpage>2311</lpage>
+<pub-id pub-id-type="pmid">9858516</pub-id>
+</mixed-citation></ref><ref id="bib46"><label>46.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Wolfl</surname><given-names>M</given-names></name>
+<name><surname>Kuball</surname><given-names>J</given-names></name>
+<name><surname>Ho</surname><given-names>WY</given-names></name>
+<name><surname>Nguyen</surname><given-names>H</given-names></name>
+<name><surname>Manley</surname><given-names>TJ</given-names></name>
+<name><surname>Bleakley</surname><given-names>M</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Activation-induced expression of CD137 permits detection, isolation, and expansion of the full repertoire of CD8+ T cells responding to antigen without requiring knowledge of epitope specificities</article-title>
+<source>
+<italic>Blood</italic>
+</source>
+<year>2007</year>
+<volume>110</volume>
+<fpage>201</fpage>
+<lpage>210</lpage>
+<pub-id pub-id-type="pmid">17371945</pub-id>
+</mixed-citation></ref><ref id="bib47"><label>47.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Davenport</surname><given-names>EE</given-names></name>
+<name><surname>Burnham</surname><given-names>KL</given-names></name>
+<name><surname>Radhakrishnan</surname><given-names>J</given-names></name>
+<name><surname>Humburg</surname><given-names>P</given-names></name>
+<name><surname>Hutton</surname><given-names>P</given-names></name>
+<name><surname>Mills</surname><given-names>TC</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Genomic landscape of the individual host response and outcomes in sepsis: a prospective cohort study</article-title>
+<source>
+<italic>Lancet Respir Med</italic>
+</source>
+<year>2016</year>
+<volume>4</volume>
+<fpage>259</fpage>
+<lpage>271</lpage>
+<pub-id pub-id-type="pmid">26917434</pub-id>
+</mixed-citation></ref><ref id="bib48"><label>48.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Heijnen</surname><given-names>NFL</given-names></name>
+<name><surname>Hagens</surname><given-names>LA</given-names></name>
+<name><surname>Smit</surname><given-names>MR</given-names></name>
+<name><surname>Schultz</surname><given-names>MJ</given-names></name>
+<name><surname>van der Poll</surname><given-names>T</given-names></name>
+<name><surname>Schnabel</surname><given-names>RM</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+<collab>BASIC consortium</collab>
+</person-group>
+<article-title>Biological subphenotypes of acute respiratory distress syndrome may not reflect differences in alveolar inflammation</article-title>
+<source>
+<italic>Physiol Rep</italic>
+</source>
+<year>2021</year>
+<volume>9</volume>
+<fpage>e14693</fpage>
+<pub-id pub-id-type="pmid">33547768</pub-id>
+</mixed-citation></ref><ref id="bib49"><label>49.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Sathe</surname><given-names>NA</given-names></name>
+<name><surname>Morrell</surname><given-names>ED</given-names></name>
+<name><surname>Bhatraju</surname><given-names>PK</given-names></name>
+<name><surname>Fessler</surname><given-names>MB</given-names></name>
+<name><surname>Stapleton</surname><given-names>RD</given-names></name>
+<name><surname>Wurfel</surname><given-names>MM</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Alveolar biomarker profiles in subphenotypes of the acute respiratory distress syndrome</article-title>
+<source>
+<italic>Crit Care Med</italic>
+</source>
+<year>2023</year>
+<volume>51</volume>
+<fpage>e13</fpage>
+<lpage>e18</lpage>
+<pub-id pub-id-type="pmid">36519995</pub-id>
+</mixed-citation></ref><ref id="bib50"><label>50.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Bernhard</surname><given-names>W</given-names></name>
+<name><surname>Haagsman</surname><given-names>HP</given-names></name>
+<name><surname>Tschernig</surname><given-names>T</given-names></name>
+<name><surname>Poets</surname><given-names>CF</given-names></name>
+<name><surname>Postle</surname><given-names>AD</given-names></name>
+<name><surname>van Eijk</surname><given-names>ME</given-names></name>
+<etal>
+<italic>et&#x000a0;al.</italic>
+</etal>
+</person-group>
+<article-title>Conductive airway surfactant: surface-tension function, biochemical composition, and possible alveolar origin</article-title>
+<source>
+<italic>Am J Respir Cell Mol Biol</italic>
+</source>
+<year>1997</year>
+<volume>17</volume>
+<fpage>41</fpage>
+<lpage>50</lpage>
+<pub-id pub-id-type="pmid">9224208</pub-id>
+</mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,951 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Am Heart Assoc</journal-id><journal-id journal-id-type="iso-abbrev">J Am Heart Assoc</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2047-9980</journal-id><journal-id journal-id-type="publisher-id">JAH3</journal-id><journal-id journal-id-type="hwp">ahaoa</journal-id><journal-title-group><journal-title>Journal of the American Heart Association: Cardiovascular and Cerebrovascular Disease</journal-title></journal-title-group><issn pub-type="epub">2047-9980</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">32067594</article-id><article-id pub-id-type="pmc">7070213</article-id><article-id pub-id-type="doi">10.1161/JAHA.119.014265</article-id><article-id pub-id-type="publisher-id">JAH34694</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject><subj-group subj-group-type="heading"><subject>Stroke</subject></subj-group></subj-group></article-categories><title-group><article-title>Thrombolysis in Stroke With Unknown Onset Based on Non&#x02010;Contrast Computerized Tomography (TRUST CT)</article-title><alt-title alt-title-type="left-running-head">Sykora et&#x000a0;al</alt-title></title-group><contrib-group><contrib id="jah34694-cr-0001" contrib-type="author"><name><surname>Sykora</surname><given-names>Marek</given-names></name><degrees>MD, PhD, MSc</degrees><xref ref-type="aff" rid="jah34694-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah34694-cr-0002" contrib-type="author"><name><surname>Kellert</surname><given-names>Lars</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah34694-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jah34694-cr-0003" contrib-type="author"><name><surname>Michel</surname><given-names>Patrik</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah34694-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jah34694-cr-0004" contrib-type="author"><name><surname>Eskandari</surname><given-names>Ashraf</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah34694-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jah34694-cr-0005" contrib-type="author"><name><surname>Feil</surname><given-names>Katharina</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah34694-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="jah34694-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="jah34694-cr-0006" contrib-type="author"><name><surname>R&#x000e9;mi</surname><given-names>Jan</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah34694-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jah34694-cr-0007" contrib-type="author"><name><surname>Ferrari</surname><given-names>Julia</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah34694-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah34694-cr-0008" contrib-type="author"><name><surname>Krebs</surname><given-names>Stefan</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah34694-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah34694-cr-0009" contrib-type="author"><name><surname>Lang</surname><given-names>Wilfried</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah34694-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah34694-cr-0010" contrib-type="author"><name><surname>Serles</surname><given-names>Wolfgang</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah34694-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="jah34694-cr-0011" contrib-type="author"><name><surname>Siarnik</surname><given-names>Pavel</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="jah34694-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="jah34694-cr-0012" contrib-type="author"><name><surname>Turcani</surname><given-names>Peter</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="jah34694-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="jah34694-cr-0013" contrib-type="author"><name><surname>Kovacik</surname><given-names>Michal</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah34694-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="jah34694-cr-0014" contrib-type="author"><name><surname>Bender</surname><given-names>Benjamin</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah34694-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="jah34694-cr-0015" contrib-type="author"><name><surname>Mengel</surname><given-names>Annerose</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah34694-aff-0009">
+<sup>9</sup>
+</xref></contrib><contrib id="jah34694-cr-0016" contrib-type="author"><name><surname>Poli</surname><given-names>Khouloud</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah34694-aff-0009">
+<sup>9</sup>
+</xref></contrib><contrib id="jah34694-cr-0017" contrib-type="author" corresp="yes"><name><surname>Poli</surname><given-names>Sven</given-names></name><degrees>MD, MSc</degrees><xref ref-type="aff" rid="jah34694-aff-0009">
+<sup>9</sup>
+</xref><address><email>sven.poli@med.uni-tuebingen.de</email></address></contrib></contrib-group><aff id="jah34694-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<named-content content-type="organisation-division">St. John's Hospital</named-content>
+<named-content content-type="organisation-division">Medical faculty</named-content>
+<institution>Sigmund Freud University Vienna</institution>
+<country country="AT">Austria</country>
+</aff><aff id="jah34694-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>Ludwig Maximilians University</institution>
+<city>Munich</city>
+<country country="DE">Germany</country>
+</aff><aff id="jah34694-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Stroke Center, Neurology Service</named-content>
+<named-content content-type="organisation-division">Department of Clinical Neurosciences</named-content>
+<institution>Lausanne University Hospital</institution>
+<city>Lausanne</city>
+<country country="CH">Switzerland</country>
+</aff><aff id="jah34694-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">German Center for Vertigo and Balance Disorders</named-content>
+<institution>Ludwig Maximilians University</institution>
+<city>Munich</city>
+<country country="DE">Germany</country>
+</aff><aff id="jah34694-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>Medical University Vienna</institution>
+<country country="AT">Austria</country>
+</aff><aff id="jah34694-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>Comenius University Bratislava</institution>
+<country country="SK">Slovakia</country>
+</aff><aff id="jah34694-aff-0007">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>General Hospital</institution>
+<city>Liptovsky Mikulas</city>
+<country country="SK">Slovakia</country>
+</aff><aff id="jah34694-aff-0008">
+<label><sup>8</sup></label>
+<named-content content-type="organisation-division">Department of Diagnostic and Interventional Neuroradiology</named-content>
+<institution>University Hospital T&#x000fc;bingen</institution>
+<country country="DE">Germany</country>
+</aff><aff id="jah34694-aff-0009">
+<label><sup>9</sup></label>
+<named-content content-type="organisation-division">Department of Neurology with Focus on Neurovascular Diseases and Neurooncology and Hertie Institute for Clinical Brain Research</named-content>
+<institution>University Hospital T&#x000fc;bingen</institution>
+<country country="DE">Germany</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence to:</bold> Sven Poli, MD, MSc, Department of Neurology with Focus on Neurovascular Diseases and Neurooncology, and Hertie Institute for Clinical Brain Research, University Hospital T&#x000fc;bingen, Germany. E&#x02010;mail: <email>sven.poli@med.uni-tuebingen.de</email></corresp></author-notes><pub-date pub-type="epub"><day>12</day><month>2</month><year>2020</year></pub-date><pub-date pub-type="collection"><day>18</day><month>2</month><year>2020</year></pub-date><volume>9</volume><issue>4</issue><issue-id pub-id-type="doi">10.1002/jah3.v9.4</issue-id><elocation-id>e014265</elocation-id><history><date date-type="received"><day>19</day><month>8</month><year>2019</year></date><date date-type="accepted"><day>15</day><month>11</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2020 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley Blackwell <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2020 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:JAH3-9-e014265.pdf"/><abstract id="jah34694-abs-0001"><sec id="jah34694-sec-0001"><title>Background</title><p>Intravenous thrombolysis (<styled-content style="fixed-case" toggle="no">IVT</styled-content>) in wake&#x02010;up stroke (<styled-content style="fixed-case" toggle="no">WUS</styled-content>) or stroke with unknown onset (<styled-content style="fixed-case" toggle="no">SUO</styled-content>) has been recently proven to be safe and effective using advanced neuroimaging (magnetic resonance imaging or computerized tomography&#x02010;perfusion) for patient selection. However, in most of the thrombolyzing centers advanced neuroimaging is not instantly available. We hypothesize that pragmatic non&#x02010;contrast computed tomography&#x02010;based <styled-content style="fixed-case" toggle="no">IVT</styled-content> in <styled-content style="fixed-case" toggle="no">WUS</styled-content>/<styled-content style="fixed-case" toggle="no">SUO</styled-content> may be feasible and safe.</p></sec><sec id="jah34694-sec-0002"><title>Methods and Results</title><p>
+<styled-content style="fixed-case" toggle="no">TRUST</styled-content>&#x02010;<styled-content style="fixed-case" toggle="no">CT</styled-content> (Thrombolysis in Stroke With Unknown Onset Based on Non&#x02010;Contrast Computerized Tomography) is an international multicenter registry&#x02010;based study. <styled-content style="fixed-case" toggle="no">WUS</styled-content>/<styled-content style="fixed-case" toggle="no">SUO</styled-content> patients undergoing non&#x02010;contrast computed tomography&#x02010;based <styled-content style="fixed-case" toggle="no">IVT</styled-content> with National Institute of Health Stroke Scale &#x02265;4 and initial Alberta Stroke Program Early Computerized Tomography score &#x02265;7 were included and compared with propensity score matched non&#x02010;thrombolyzed <styled-content style="fixed-case" toggle="no">WUS</styled-content>/<styled-content style="fixed-case" toggle="no">SUO</styled-content> controls. Primary end point was the incidence of symptomatic intracranial hemorrhage; secondary end points included 24&#x02010;hour National Institute of Health Stroke Scale improvement of &#x02265;4 and modified Rankin Scale at 90&#x000a0;days. One hundred and seventeen <styled-content style="fixed-case" toggle="no">WUS</styled-content>/<styled-content style="fixed-case" toggle="no">SUO</styled-content> patients treated with non&#x02010;contrast computed tomography&#x02010;based <styled-content style="fixed-case" toggle="no">IVT</styled-content> were included. As compared with 112 controls, the median admission National Institute of Health Stroke Scale was 10 and the median Alberta Stroke Program Early Computerized Tomography score was 10 in both groups. Four (3.4%) <styled-content style="fixed-case" toggle="no">IVT</styled-content> patients and one control patient (0.9%) suffered symptomatic intracranial hemorrhage (adjusted odds ratio 7.9, 95% <styled-content style="fixed-case" toggle="no">CI</styled-content> 0.65&#x02013;96, <italic>P</italic>=0.1). A decrease of &#x02265;4 National Institute of Health Stroke Scale points was observed in 67 (57.3%) of <styled-content style="fixed-case" toggle="no">IVT</styled-content> patients as compared with 25 (22.3%) in controls (adjusted odds ratio 5.8, <styled-content style="fixed-case" toggle="no">CI</styled-content> 3.0&#x02013;11.2, <italic>P</italic>&#x0003c;0.001). A&#x000a0;months, 39 (33.3%) <styled-content style="fixed-case" toggle="no">IVT</styled-content> patients reached a modified Rankin Scale score of 0 or 1 versus 23 (20.5%) controls (adjusted odds ratio 1.94, <styled-content style="fixed-case" toggle="no">CI</styled-content> 1.0&#x02013;3.76, <italic>P</italic>=0.05).</p></sec><sec id="jah34694-sec-0003"><title>Conclusions</title><p>Non&#x02010;contrast computed tomography&#x02010;based thrombolysis in <styled-content style="fixed-case" toggle="no">WUS</styled-content>/<styled-content style="fixed-case" toggle="no">SUO</styled-content> seems feasible and safe and may be effective. Randomized prospective comparisons are warranted.</p></sec><sec id="jah34694-sec-0004"><title>Clinical Trial Registration</title><p>
+<styled-content style="fixed-case" toggle="no">URL</styled-content>: <ext-link ext-link-type="uri" xlink:href="https://www.clinicaltrials.gov/">https://www.clinicaltrials.gov/</ext-link>. Unique identifier: <styled-content style="fixed-case" toggle="no">NCT</styled-content>03634748.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jah34694-kwd-0001">alteplase</kwd><kwd id="jah34694-kwd-0002">CT</kwd><kwd id="jah34694-kwd-0003">outcome</kwd><kwd id="jah34694-kwd-0004">safety</kwd><kwd id="jah34694-kwd-0005">thrombolysis</kwd><kwd id="jah34694-kwd-0006">wake&#x02010;up stroke</kwd></kwd-group><kwd-group kwd-group-type="subject-categories"><title>Subject Categories</title><kwd>Cerebrovascular Disease/Stroke</kwd><kwd>Ischemic Stroke</kwd><kwd>Cerebrovascular Procedures</kwd></kwd-group><counts><fig-count count="2"/><table-count count="4"/><page-count count="8"/><word-count count="5804"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>18 February 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.6.1 mode:remove_FC converted:04.03.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jah34694-cit-1001">(<source xml:lang="en">J Am Heart Assoc</source>. <year>2020</year>;<volume>9</volume>:<elocation-id>e014265</elocation-id> DOI: <pub-id pub-id-type="doi">10.1161/JAHA.119.014265</pub-id>.)<pub-id pub-id-type="pmid">32067594</pub-id></mixed-citation>
+</p></notes></front><body id="jah34694-body-0001"><p>
+<boxed-text position="anchor" content-type="box" id="jah34694-blkfxd-0001" orientation="portrait"><sec id="jah34694-sec-0006"><title>Clinical Perspective</title><sec id="jah34694-sec-0007"><title>What Is New?</title><p>
+<list list-type="bullet" id="jah34694-list-0001"><list-item><p>Non&#x02010;contrast computed tomography&#x02010;based intravenous thrombolysis in wake&#x02010;up stroke or stroke with unknown onset seems feasible, safe, and may be effective.</p></list-item></list>
+</p></sec><sec id="jah34694-sec-0008"><title>What Are the Clinical Implications?</title><p>
+<list list-type="bullet" id="jah34694-list-0002"><list-item><p>If confirmed in a randomized prospective manner, the non&#x02010;contrast computed tomography &#x02010;based approach will make thrombolytic therapy accessible to patients with wake&#x02010;up stroke or stroke with unknown onset&#x000a0;also&#x000a0;in the absence of computerized tomography&#x02010;perfusion or magnetic resonance imaging.</p></list-item></list>
+</p></sec></sec></boxed-text>
+</p><sec id="jah34694-sec-0009"><title>Introduction</title><p>Intravenous thrombolytic therapy (IVT) for ischemic stroke was repeatedly proven safe and effective in the time window of 4.5&#x000a0;hours after symptoms onset.<xref rid="jah34694-bib-0001" ref-type="ref">1</xref>, <xref rid="jah34694-bib-0002" ref-type="ref">2</xref> Wake&#x02010;up stroke (WUS) and stroke with unknown onset (SUO) have been traditionally excluded from IVT because of missing information on the time since symptoms occurred. Despite sharing similar clinical and radiological features with known onset stroke, IVT in WUS/SUO was not proven effective and safe until recently.<xref rid="jah34694-bib-0003" ref-type="ref">3</xref> Published in 2018, the randomized controlled WAKE&#x02010;UP trial successfully introduced a radiological paradigm using magnetic resonance imaging and the fluid&#x02010;attenuated inversion recovery/diffusion weighted imaging mismatch for selection of WUS patients eligible for IVT.<xref rid="jah34694-bib-0004" ref-type="ref">4</xref> Even more recently, the EXTEND randomized controlled trial positively proved the role of computerized tomography (CT)&#x02010;perfusion mismatch in wake&#x02010;up stroke IVT.<xref rid="jah34694-bib-0005" ref-type="ref">5</xref> However, the majority of centers administering IVT do not have 24/7 access to advanced neuroimaging (magnetic resonance imaging or CT&#x02010;perfusion). Here, we aimed to test a pragmatic and potentially widely applicable approach that does not require advanced neuroimaging to determine eligibility for IVT in WUS/SUO. Previous retrospective case series and monocentric, single&#x02010;arm studies suggested feasibility and safety of using non&#x02010;contrast computed tomography (NCCT) for selecting WUS/OUS patients for IVT.<xref rid="jah34694-bib-0006" ref-type="ref">6</xref>, <xref rid="jah34694-bib-0007" ref-type="ref">7</xref>, <xref rid="jah34694-bib-0008" ref-type="ref">8</xref>, <xref rid="jah34694-bib-0009" ref-type="ref">9</xref> However, because of the limited numbers of subjects included and a non&#x02010;controlled design, the evidence is scarce. We hypothesize that NCCT&#x02010;based IVT using Alberta Stroke Program Early CT score<xref rid="jah34694-bib-0010" ref-type="ref">10</xref> in WUS/SUO patients is feasible, safe, and eventually effective.</p></sec><sec id="jah34694-sec-0010"><title>Methods</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p><sec id="jah34694-sec-0011"><title>Design</title><p>Pre&#x02010;defined retrospective analysis of a dedicated, prospective, multicenter, international registry including WUS/OUS patients undergoing standard IVT with 0.9&#x000a0;mg/kg recombinant tissue plasminogen activator rtPA solely based on NCCT appearance.</p></sec><sec id="jah34694-sec-0012"><title>Study Population</title><p>Consecutive WUS/OUS patients treated with IVT at 5 European stroke centers (Department of Neurology, St. John's Hospital Vienna; Austria, Department of Neurology, University Tuebingen; Germany, Department of Neurology, Ludwig Maximilians University, Munich, Germany; Department of Neurology, Comenius University Bratislava, Slovakia; and Department of Neurology, General Hospital, Liptovsky Mikulas, Slovakia) between September 1, 2017 and December 31, 2018 were recorded, if the inclusion and exclusion criteria were fulfilled, see Table&#x000a0;<xref rid="jah34694-tbl-0001" ref-type="table">1</xref>. The time from last seen well had to be &#x0003e;4.5&#x000a0;hours and the time from symptom discovery to hospital arrival had to be &#x0003c;4.5&#x000a0;hours. Patients with CT perfusion studies or MR imaging before IVT were excluded. Patients undergoing IVT and additional endovascular thrombectomy because of large vessel occlusion were included.</p><table-wrap id="jah34694-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>TRUST CT Study: Inclusion and Exclusion Criteria</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><tbody><tr><td align="left" rowspan="1" colspan="1">
+<p>Inclusion criteria
+<list list-type="order" id="jah34694-list-0003"><list-item><p>Ischemic stroke with NIHSS &#x02265;4;</p></list-item><list-item><p>Wake&#x02010;up stroke or stroke with unknown onset with last seen well &#x0003e;4.5&#x000a0;h; </p></list-item><list-item><p>Aged &#x02265;18&#x000a0;y;</p></list-item><list-item><p>IVT started within 4.5&#x000a0;h of awakening and/or within 4.5&#x000a0;h of discovering symptoms;</p></list-item><list-item><p>IVT started within 30&#x000a0;min of admission CT; and</p></list-item><list-item><p>Non&#x02010;contrast CT scan with no early signs or early signs equivalent to ASPECTS &#x02265;7</p></list-item></list>Exclusion criteria</p>
+<p>
+<list list-type="order" id="jah34694-list-0004"><list-item><p>Non&#x02010;contrast CT scan with clear hypodensity or early signs equivalent to ASPECTS &#x02264;6; </p></list-item><list-item><p>Evidence of intracranial or subarachnoid hemorrhage;</p></list-item><list-item><p>Inability to control high systolic blood pressure &#x0003e;185&#x000a0;mm&#x000a0;Hg, or high diastolic blood pressure &#x0003e;110&#x000a0;mm&#x000a0;Hg with intravenous antihypertensive medication;</p></list-item><list-item><p>Known coagulopathy or evidence of active bleeding;</p></list-item><list-item><p>Surgical procedures, subclavian arterial puncture, trauma, and gastrointestinal or genitourinary bleeding within 14&#x000a0;d of the event;</p></list-item><list-item><p>Patients taking direct oral anticoagulants within last 48&#x000a0;h;</p></list-item><list-item><p>Patients taking vitamin K antagonists and having an INR &#x0003e;1.7;</p></list-item><list-item><p>Platelet count &#x0003c;100&#x000a0;000 per &#x003bc;L, venous glucose either &#x0003c;50 or &#x0003e;450&#x000a0;mg/dL, or </p></list-item><list-item><p>Pre&#x02010;stroke modified Rankin Scale score &#x0003e;3</p></list-item></list>
+</p>
+</td></tr></tbody></table><table-wrap-foot id="jah34694-ntgp-0001"><fn id="jah34694-note-0001"><p>ASPECTS indicates Alberta Stroke Program Early Computerized Tomography Score; CT, computed tomography; INR, international normalized ratio; IVT, intravenous thrombolysis; NIHSS, National Institute of Health Stroke Scale; TRUST CT, Thrombolysis in Stroke With Unknown Onset Based on Non&#x02010;Contrast Computerized Tomography.</p></fn></table-wrap-foot></table-wrap></sec><sec id="jah34694-sec-0013"><title>Clinical Data</title><p>Local sites collected the following demographic and clinical data: age, times of last seen well and symptom discovery, hospital arrival, and door&#x02010;to&#x02010;needle time, initial Alberta Stroke Program Early CT score (ASPECTS),<xref rid="jah34694-bib-0010" ref-type="ref">10</xref> admission NIHSS score, pre&#x02010;stroke modified Rankin Scale (mRS), medical history of previous stroke/TIA, hypertension, diabetes mellitus, atrial fibrillation, coronary artery disease, hyperlipidemia, admission blood pressure, admission glucose, admission platelet count, and international normalized ratio (INR), stroke etiology by Trial of ORG 10172 in Acute Stroke Treatment (TOAST)<xref rid="jah34694-bib-0011" ref-type="ref">11</xref> criteria, thrombolysis in cerebral infarction 2b/3 reperfusion status, NIHSS score at 24&#x000a0;hours and mRS score at 90&#x000a0;days by means of telephonic or personal interview done by mRS&#x02010;certified neurologists. Data were stored in local registries, extracted, anonymized, and pooled using a standardized form with pre&#x02010;specified parameters into a central database. Ethics committee (EK&#x02010;Nr. 1080/2018, Medical University Vienna) approved the study including the pooling of the anonymized data from the respective local registries. Additional local ethical approval for the extraction and transfer of anonymized data was not required.</p></sec><sec id="jah34694-sec-0014"><title>Control Group</title><p>The control group consisted of WUS/SUO patients not undergoing IVT extracted from The Acute Stroke Registry and Analysis of Lausanne database<xref rid="jah34694-bib-0012" ref-type="ref">12</xref> and from the Austrian Stroke Registry<xref rid="jah34694-bib-0013" ref-type="ref">13</xref>, <xref rid="jah34694-bib-0014" ref-type="ref">14</xref> using the same inclusion and exclusion criteria as mentioned above as a filter.</p></sec><sec id="jah34694-sec-0015"><title>Imaging</title><p>Admission CT scan readings were performed using the eASPECTS software (<ext-link ext-link-type="uri" xlink:href="https://www.brainomix.com">https://www.brainomix.com</ext-link>) at 3 of the 5 study sites and by dedicated neuroradiologists using the ASPECTS<xref rid="jah34694-bib-0010" ref-type="ref">10</xref> at the remaining 2 sites. For the control group, the ASPECTS were extracted from the respective registries. CT scans at 24&#x000a0;hours were analyzed by an independent masked radiologist at local sites and categorized into no hemorrhagic transformation, any intracranial hemorrhage, hemorrhagic transformation type 1 (HT1) and type 2 (HT2) and parenchymal hemorrhage type 1 (PH1) and type 2 (PH2) according to ECASS study.<xref rid="jah34694-bib-0015" ref-type="ref">15</xref>
+</p></sec><sec id="jah34694-sec-0016"><title>Primary Outcome and Secondary Outcome Measures</title><p>The primary outcome was the occurrence of symptomatic intracranial hemorrhage (SICH) defined as any new intracranial hemorrhage causing clinical deterioration &#x02265;4 NIHSS points according to ECASS3 criteria.<xref rid="jah34694-bib-0001" ref-type="ref">1</xref> For the control group, the SICH data were extracted from the respective registries. Secondary outcomes included NIHSS improvement &#x02265;4 points in the first 24&#x000a0;hours,<xref rid="jah34694-bib-0016" ref-type="ref">16</xref> mRS score 0 or 1 at 90&#x000a0;days and mRS shift between pre&#x02010;stroke mRS and mRS at 90&#x000a0;days.</p></sec></sec><sec id="jah34694-sec-0017"><title>Statistical Analysis</title><p>All statistics were performed using statistical software SPSS 24.0 (SPSS Inc., Chicago, USA). Distribution of the data was visualized using histograms and tested using the one&#x02010;sample Kolmogorov&#x02013;Smirnov test. Results are presented as mean, range, and standard deviation (SD) for normally distributed variables and as median, range, and interquartile range (IQR) for non&#x02010;normally distributed factors. Data for categorical variables are summarized in absolute frequencies (n) and percentages. Two patient groups were created based on IVT administration. The IVT group consisted of patients extracted from the prospective multicenter registry. The control group consisted of patients not undergoing IVT extracted from Acute Stroke Registry and Analysis of Lausanne database and Austria Stroke Registry using identical inclusion and exclusion criteria as a filter. Propensity score was used to adjust for treatment effects of measured confounders. Propensity score matched analysis was performed using the SPSS build&#x02010;in algorithm. Pre&#x02010;defined confounders included age, admission NIHSS score, pre&#x02010;stroke mRS score, admission ASPECTS, admission blood pressure, admission glucose level, admission platelet count and INR, stroke etiology by TOAST criteria, and thrombectomy. The procedure first tries exact matches 1:1 followed by fuzzy matches if unsuccessful. Caliper was set to 0.1. Baseline variables were compared before and after matching to check for reduction of bias. Adding time metrics into the propensity&#x02010;matching procedure resulted in increased bias and was therefore omitted. Following the matching procedure, a multivariable logistic regression model was performed to adjust for relevant outcome confounders (age, premorbid mRS, admission NIHSS score, ASPECTS, stroke etiology by TOAST, thrombolysis in cerebral infarction 2b/3 reperfusion status, last seen well&#x02010;door times, and center). For the sensitivity analysis matched pairs were simply dropped if both (case and control) underwent thrombectomy. This approach was adopted because of the fact that the resulting sample size would be too small to fit a propensity score model with the given number of covariates. The threshold for statistical significance was set to <italic>P</italic>&#x0003c;0.05. The analysis protocol was finalized before the start of data analysis. The study has been registered at Clinicaltrials.gov (NCT03634748) after the start of the study.</p></sec><sec id="jah34694-sec-0018"><title>Results</title><p>In total, 117 WUS/SUO patients undergoing NCCT&#x02010;based IVT fulfilled the inclusion criteria and for the pooled control group (WUS/SUO patients not undergoing IVT), we identified 532 patients with full respective data sets from the Acute Stroke Registry and Analysis of Lausanne database (n=1171 for WUS/SUO) and from the Austrian Stroke Registry (n=12&#x000a0;534 for WUS/SUO) filtered by the same inclusion and exclusion criteria. After propensity score matching, 117 IVT patients were compared with 112 propensity matched control patients, see Figure&#x000a0;<xref rid="jah34694-fig-0001" ref-type="fig">1</xref>. The median NIHSS score was 10 and the median ASPECTS was 10 in both group, respectively. 29 (24.8%) IVT patients and 24 (21.4%) controls underwent additional endovascular thrombectomy. Age, sex, risk factors, stroke etiology, clinical and laboratory characteristics were well balanced between the groups, see Table&#x000a0;<xref rid="jah34694-tbl-0002" ref-type="table">2</xref>. In the IVT group any new intracranial hemorrhage was present in 24 (20.5%), HT1 in 6 (5.1%), HT2 in 3 (2.6%), PH1 in 6 (5.1%) and PH2 in 1 (0.9%). In the control group any new intracranial hemorrhage was present in 15 (13.4%), HT 1 in 7 (6.3%), HT2 in 2 (1.8%), PH1 in 4 (3.6%) and PH2 in 2 (1.8%). The <italic>P</italic> values for the comparisons were <italic>P</italic>=0.16, <italic>P</italic>=0.78, <italic>P</italic>=1, <italic>P</italic>=0.75, and <italic>P</italic>=0.61, respectively.</p><fig fig-type="Figure" xml:lang="en" id="jah34694-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Flowchart with simplified inclusion criteria showing the study population. ASTRAL indicates The Acute Stroke Registry and Analysis of Lausanne database; ASPECTS, Alberta Stroke Program Early Computerized Tomography Score; INR, international normalized ratio; IVT, intravenous thrombolysis; mRS, modified Rankin Score; NCCT, non&#x02010;contrast computed tomography; NIHSS, National Institute of Health Stroke Scale; OUS, unknown onset stroke; pMRS, premorbid modified Rankin Score; PS, propensity score; TOAST, Trial of ORG 10172 in Acute Stroke Treatment; WUS, wake&#x02010;up stroke.</p></caption><graphic id="nlm-graphic-1" xlink:href="JAH3-9-e014265-g001"/></fig><table-wrap id="jah34694-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Comparison of Baseline Characteristics Between the IVT Patients and Control Group</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Characteristics</th><th align="left" valign="top" rowspan="1" colspan="1">IVT, n=117</th><th align="left" valign="top" rowspan="1" colspan="1">Controls, n=112</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> Value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age, y, mean, (range, SD)</td><td align="left" rowspan="1" colspan="1">73.4 (38&#x02013;95, 11.7)</td><td align="left" rowspan="1" colspan="1">69.9 (28&#x02013;98, 14.9)</td><td align="left" rowspan="1" colspan="1">0.1</td></tr><tr><td align="left" rowspan="1" colspan="1">Sex, men, n (%)</td><td align="left" rowspan="1" colspan="1">65 (55.6)</td><td align="left" rowspan="1" colspan="1">60 (53.6)</td><td align="left" rowspan="1" colspan="1">0.8</td></tr><tr><td align="left" rowspan="1" colspan="1">LSW to door, min., median (range, IQR)</td><td align="left" rowspan="1" colspan="1">574 (300&#x02013;1215, 281)</td><td align="left" rowspan="1" colspan="1">738 (354&#x02013;1430, 564)</td><td align="left" rowspan="1" colspan="1">0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">SDT to door, min., median (range, IQR)</td><td align="left" rowspan="1" colspan="1">85 (13&#x02013;270, 62)</td><td align="left" rowspan="1" colspan="1">170 (17&#x02013;1350, 323)</td><td align="left" rowspan="1" colspan="1">0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Wake&#x02010;up stroke, n (%)</td><td align="left" rowspan="1" colspan="1">104 (88.9)</td><td align="left" rowspan="1" colspan="1">96 (85.7)</td><td align="left" rowspan="1" colspan="1">0.5</td></tr><tr><td align="left" colspan="4" rowspan="1">Pre&#x02010;stroke mRS score, n (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">76 (65)</td><td align="left" rowspan="1" colspan="1">60 (53.6)</td><td align="left" rowspan="1" colspan="1">0.3</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">16 (13.7)</td><td align="left" rowspan="1" colspan="1">23 (20.5)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">10 (8.5)</td><td align="left" rowspan="1" colspan="1">14 (12.5)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">15 (12.8)</td><td align="left" rowspan="1" colspan="1">15 (13.4)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Previous stroke/TIA, n (%)</td><td align="left" rowspan="1" colspan="1">25 (21.4)</td><td align="left" rowspan="1" colspan="1">33 (29.5)</td><td align="left" rowspan="1" colspan="1">0.2</td></tr><tr><td align="left" rowspan="1" colspan="1">Hypertension, n (%)</td><td align="left" rowspan="1" colspan="1">99 (84.6)</td><td align="left" rowspan="1" colspan="1">96 (85.7)</td><td align="left" rowspan="1" colspan="1">0.8</td></tr><tr><td align="left" rowspan="1" colspan="1">Diabetes mellitus, n (%)</td><td align="left" rowspan="1" colspan="1">30 (25.6)</td><td align="left" rowspan="1" colspan="1">38 (33.9)</td><td align="left" rowspan="1" colspan="1">0.2</td></tr><tr><td align="left" rowspan="1" colspan="1">Atrial fibrillation, n (%)</td><td align="left" rowspan="1" colspan="1">46 (39.3)</td><td align="left" rowspan="1" colspan="1">37 (33)</td><td align="left" rowspan="1" colspan="1">0.3</td></tr><tr><td align="left" rowspan="1" colspan="1">Coronary artery disease, n (%)</td><td align="left" rowspan="1" colspan="1">28 (23.9)</td><td align="left" rowspan="1" colspan="1">21 (18.8)</td><td align="left" rowspan="1" colspan="1">0.4</td></tr><tr><td align="left" rowspan="1" colspan="1">Hyperlipidemia, n (%)</td><td align="left" rowspan="1" colspan="1">75 (64.1)</td><td align="left" rowspan="1" colspan="1">80 (71.4)</td><td align="left" rowspan="1" colspan="1">0.3</td></tr><tr><td align="left" rowspan="1" colspan="1">Admission NIHSS score, median (range, IQR)</td><td align="left" rowspan="1" colspan="1">10 (4&#x02013;32, 11)</td><td align="left" rowspan="1" colspan="1">10 (4&#x02013;36, 12)</td><td align="left" rowspan="1" colspan="1">0.1</td></tr><tr><td align="left" rowspan="1" colspan="1">Admission glucose, median (range, IQR)</td><td align="left" rowspan="1" colspan="1">125 (75&#x02013;430, 63)</td><td align="left" rowspan="1" colspan="1">150 (80&#x02013;268, 68)</td><td align="left" rowspan="1" colspan="1">0.2</td></tr><tr><td align="left" rowspan="1" colspan="1">Admission BP systolic, median (range, IQR)</td><td align="left" rowspan="1" colspan="1">150 (105&#x02013;250, 35)</td><td align="left" rowspan="1" colspan="1">153 (80&#x02013;220, 44)</td><td align="left" rowspan="1" colspan="1">0.3</td></tr><tr><td align="left" rowspan="1" colspan="1">Admission BP diastolic, median (range, IQR)</td><td align="left" rowspan="1" colspan="1">80 (30&#x02013;130, 18)</td><td align="left" rowspan="1" colspan="1">83 (40&#x02013;130, 25)</td><td align="left" rowspan="1" colspan="1">0.2</td></tr><tr><td align="left" rowspan="1" colspan="1">Admission platelet count, median (range, IQR)</td><td align="left" rowspan="1" colspan="1">231 (111&#x02013;511, 83)</td><td align="left" rowspan="1" colspan="1">230 (76&#x02013;998, 116)</td><td align="left" rowspan="1" colspan="1">0.3</td></tr><tr><td align="left" rowspan="1" colspan="1">Admission INR, median (range, IQR)</td><td align="left" rowspan="1" colspan="1">1.0 (0.81&#x02013;1.7, 0.1)</td><td align="left" rowspan="1" colspan="1">1.0 (0.8&#x02013;1.7, 0.1)</td><td align="left" rowspan="1" colspan="1">0.6</td></tr><tr><td align="left" colspan="4" rowspan="1">ASPECTS, n (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">68 (58.1)</td><td align="left" rowspan="1" colspan="1">69 (63.3)</td><td align="left" rowspan="1" colspan="1">0.1</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">24 (20.5)</td><td align="left" rowspan="1" colspan="1">12 (11)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">19 (16.2)</td><td align="left" rowspan="1" colspan="1">15 (13.8)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">6 (5.1)</td><td align="left" rowspan="1" colspan="1">13 (11.9)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Additional thrombectomy, n (%)</td><td align="left" rowspan="1" colspan="1">29 (24.8)</td><td align="left" rowspan="1" colspan="1">24 (21.4)</td><td align="left" rowspan="1" colspan="1">0.6</td></tr><tr><td align="left" rowspan="1" colspan="1">TICI 2b/3, n (%)</td><td align="left" rowspan="1" colspan="1">27 (93.1)</td><td align="left" rowspan="1" colspan="1">22 (91.7)</td><td align="left" rowspan="1" colspan="1">1.0</td></tr><tr><td align="left" colspan="4" rowspan="1">Stroke etiology, n (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Cardioembolic</td><td align="left" rowspan="1" colspan="1">53 (47.3)</td><td align="left" rowspan="1" colspan="1">60 (52.6)</td><td align="left" rowspan="1" colspan="1">0.8</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Small vessel disease</td><td align="left" rowspan="1" colspan="1">14 (12.5)</td><td align="left" rowspan="1" colspan="1">16 (14)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Large vessel disease</td><td align="left" rowspan="1" colspan="1">14 (12.3)</td><td align="left" rowspan="1" colspan="1">14 (12.5)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Other</td><td align="left" rowspan="1" colspan="1">6 (5.3)</td><td align="left" rowspan="1" colspan="1">9 (8)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Cryptogenic</td><td align="left" rowspan="1" colspan="1">18 (15.8)</td><td align="left" rowspan="1" colspan="1">22 (19.6)</td><td align="left" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot id="jah34694-ntgp-0002"><fn id="jah34694-note-0002"><p>ASPECTS indicates Alberta Stroke Program Early Computerized Tomography Score; BP, blood pressure; INR, international normalized ratio; IQR, interquartile range; LSW, last seen well time; mRS, modified Rankin Scale; NIHSS, National Institute of Health Stroke Scale; SDT, symptom discovery time; TIA, transient ischemic attack; TICI, thrombolysis in cerebral infarction scale grade.</p></fn></table-wrap-foot></table-wrap><sec id="jah34694-sec-0019"><title>Primary End Points</title><p>SICH according to ECASS3 criteria occurred in 4 (3.4%; 95% CI 0.9%&#x02013;8.5%) patients undergoing IVT as compared with 1 (0.9%, CI 0%&#x02013;4.9%) patients in the control group (odds ratio (OR) 3.8, 95% CI 0.4&#x02013;34.7, <italic>P</italic>=0.2). After adjustment (age, premorbid mRS, admission NIHSS score, ASPECTS, stroke etiology by TOAST, thrombolysis in cerebral infarction 2b/3 reperfusion status, last seen well&#x02010;door times, and center) the adjusted OR (aOR) for SICH was 7.9, CI 0.65&#x02013;96, <italic>P</italic>=0.1, see Table&#x000a0;<xref rid="jah34694-tbl-0003" ref-type="table">3</xref>.</p><table-wrap id="jah34694-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Odds Ratios for Associations Between IVT and Outcome Measures</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Outcome</th><th align="left" valign="top" rowspan="1" colspan="1">Crude OR</th><th align="left" valign="top" rowspan="1" colspan="1">95% CI</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> Value</th><th align="left" valign="top" rowspan="1" colspan="1">Adjusted OR<xref ref-type="fn" rid="jah34694-note-0004">a</xref>
+</th><th align="left" valign="top" rowspan="1" colspan="1">95% CI</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> Value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">SICH ECASS3</td><td align="left" rowspan="1" colspan="1">3.8</td><td align="left" rowspan="1" colspan="1">0.4 to 34.7</td><td align="left" rowspan="1" colspan="1">0.2</td><td align="left" rowspan="1" colspan="1">7.9</td><td align="left" rowspan="1" colspan="1">0.65 to 96</td><td align="left" rowspan="1" colspan="1">0.1</td></tr><tr><td align="left" rowspan="1" colspan="1">NIHSS &#x02265;4 change</td><td align="left" rowspan="1" colspan="1">4.7</td><td align="left" rowspan="1" colspan="1">2.6 to 8.3</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="left" rowspan="1" colspan="1">5.8</td><td align="left" rowspan="1" colspan="1">3.0 to 11.2</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">mRS 0 to 1</td><td align="left" rowspan="1" colspan="1">1.9</td><td align="left" rowspan="1" colspan="1">1.2 to 3.5</td><td align="left" rowspan="1" colspan="1">0.03</td><td align="left" rowspan="1" colspan="1">1.94</td><td align="left" rowspan="1" colspan="1">1.001 to 3.76</td><td align="left" rowspan="1" colspan="1">0.05</td></tr><tr><td align="left" rowspan="1" colspan="1">mRS shift</td><td align="left" rowspan="1" colspan="1">0.48</td><td align="left" rowspan="1" colspan="1">0.25 to 0.9</td><td align="left" rowspan="1" colspan="1">0.02</td><td align="left" rowspan="1" colspan="1">0.47</td><td align="left" rowspan="1" colspan="1">0.22 to 0.99</td><td align="left" rowspan="1" colspan="1">0.05</td></tr></tbody></table><table-wrap-foot id="jah34694-ntgp-0003"><fn id="jah34694-note-0003"><p>mRS, modified Rankin Scale; NIHSS, National Institute of Health Stroke Scale; OR, odds ratio; SICH, symptomatic intracranial hemorrhage according to ECASS3 study definition.</p></fn><fn id="jah34694-note-0004"><label>a</label><p>Adjusted for age, premorbid mRS, admission NIHSS score, Alberta Stroke Program Early Computerized Tomography score, stroke etiology by Trial of ORG 10172 in Acute Stroke Treatment, thrombolysis in cerebral infarction 2b/3 reperfusion, last seen well&#x02010;door times, and center.</p></fn></table-wrap-foot></table-wrap></sec><sec id="jah34694-sec-0020"><title>Secondary End Points</title><p>Improvement in NIHSS by &#x02265;4 points between admission and 24&#x000a0;hours thereafter occurred in 67 (57.3%) of IVT patients as compared with 25 (22.3%) in controls (OR 4.7, CI 2.6&#x02013;8.3, &#x0003c;0.001). After adjustment, the aOR was 5.8, CI 3.0 to 11.2, <italic>P</italic>&#x0003c;0.001. At 3&#x000a0;months, a modified Rankin Scale score of 0 or 1 was present in 39 (33.3%) IVT patients versus 23 (20.5%) controls (OR 1.9, CI 1.2&#x02013;3.5, <italic>P</italic>=0.03), see Figure&#x000a0;<xref rid="jah34694-fig-0002" ref-type="fig">2</xref>. After adjustment, the aOR was 1.94, CI 1.001 to 3.76, <italic>P</italic>=0.05. A shift in the modified Rankin Scale between admission and 3&#x000a0;months was present in 82 (70.1%) IVT patients versus 93 (83%) controls (OR 0.48, CI 0.25&#x02013;0.9, <italic>P</italic>=0.02). After adjustment, the aOR was 0.47, CI 0.22 to 0.99, <italic>P</italic>=0.05, see Table&#x000a0;<xref rid="jah34694-tbl-0003" ref-type="table">3</xref>.</p><fig fig-type="Figure" xml:lang="en" id="jah34694-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Modified Rankin Scale at 90&#x000a0;days in <styled-content style="fixed-case" toggle="no">IVT</styled-content> patients and controls. <styled-content style="fixed-case" toggle="no">IVT</styled-content> indicates intravenous thrombolysis, <styled-content style="fixed-case" toggle="no">mRS</styled-content>, modified Rankin Score.</p></caption><graphic id="nlm-graphic-3" xlink:href="JAH3-9-e014265-g002"/></fig></sec><sec id="jah34694-sec-0021"><title>Sensitivity Analysis After Excluding Patients Who Underwent Thrombectomy</title><p>Eighty&#x02010;eight patients underwent IVT only and 88 controls had no recanalization therapy at all.</p><p>The median admission NIHSS score was 8 (range 4&#x02013;28) in the IVT group and 10 (range 4&#x02013;36) in the control group (<italic>P</italic>=0.03). The median ASPECTS was 10 and 10, respectively. Age, premorbid mRS and etiology by TOAST showed non&#x02010;significant differences between the groups (<italic>P</italic>=1, <italic>P</italic>=0.2 and <italic>P</italic>=0.2), see Table&#x000a0;<xref rid="jah34694-tbl-0004" ref-type="table">4</xref>. SICH occurred in 2 of 88 IVT patients (2.3%; 95% CI 0.3%&#x02013;8.1%) as compared with 0 of 88 controls (0%, CI 0%&#x02013;4.2%). Improvement in NIHSS by &#x02265;4 points between admission and 24&#x000a0;hours thereafter occurred in 42 (48.8%) of IVT patients as compared with 20 (23.2%) in controls (OR 3.1, CI 1.6&#x02013;5.9, <italic>P</italic>=0.001). After adjustment (age, premorbid mRS, admission NIHSS, ASPECTS, stroke etiology by TOAST, last seen well times, and center), the aOR was 4.2, CI 1.9 to 9.0, <italic>P</italic>&#x0003c;0.001. At 3&#x000a0;months, a modified Rankin Scale score of 0 or 1 was present in 32 (37.2%) IVT patients versus 21 (24.4%) controls (OR 1.8, CI 0.95&#x02013;3.51, <italic>P</italic>=0.07). After adjustment, the aOR was 1.3, CI 0.6 to 2.8, <italic>P</italic>=0.4. Shift in the modified Rankin Scale between admission and 3&#x000a0;months was present in 56 (65.1%) IVT patients versus 93 (83.7%) controls (OR 0.39, CI 0.19&#x02013;0.78, <italic>P</italic>=0.008). After adjustment, the aOR was 0.46, CI 0.2 to 1.05, <italic>P</italic>=0.06.</p><table-wrap id="jah34694-tbl-0004" xml:lang="en" orientation="portrait" position="float"><label>Table 4</label><caption><p>Comparison of Baseline Characteristics Between the IVT Patients and Control Group After Excluding Patients Undergoing Thrombectomy</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Characteristics</th><th align="left" valign="top" rowspan="1" colspan="1">IVT, n=88</th><th align="left" valign="top" rowspan="1" colspan="1">Controls, n=88</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> Value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age, y, mean, (range, SD)</td><td align="left" rowspan="1" colspan="1">73.4 (38&#x02013;95, 12)</td><td align="left" rowspan="1" colspan="1">73.2 (38&#x02013;98, 12)</td><td align="left" rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">Sex, men, n (%)</td><td align="left" rowspan="1" colspan="1">49 (55.7)</td><td align="left" rowspan="1" colspan="1">50 (56.8)</td><td align="left" rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">LSW to door, min., median (range, IQR)</td><td align="left" rowspan="1" colspan="1">620 (300&#x02013;1215&#x000a0;272)</td><td align="left" rowspan="1" colspan="1">772 (354&#x02013;1430, 496)</td><td align="left" rowspan="1" colspan="1">0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">SDT to door, min., median (range, IQR)</td><td align="left" rowspan="1" colspan="1">85 (18&#x02013;270, 59)</td><td align="left" rowspan="1" colspan="1">212 (17&#x02013;1350, 387)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Wake&#x02010;up stroke, n (%)</td><td align="left" rowspan="1" colspan="1">80 (90.9)</td><td align="left" rowspan="1" colspan="1">79 (89.8)</td><td align="left" rowspan="1" colspan="1">1</td></tr><tr><td align="left" colspan="4" rowspan="1">Pre&#x02010;stroke mRS score, n (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">57 (64.8)</td><td align="left" rowspan="1" colspan="1">50 (56.8)</td><td align="left" rowspan="1" colspan="1">0.5</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">11 (12.5)</td><td align="left" rowspan="1" colspan="1">18 (20.5)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">9 (10.2)</td><td align="left" rowspan="1" colspan="1">11 (12.5)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">11 (12.5)</td><td align="left" rowspan="1" colspan="1">9 (10.2)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Previous stroke/TIA, n (%)</td><td align="left" rowspan="1" colspan="1">21 (23.9)</td><td align="left" rowspan="1" colspan="1">26 (29.5)</td><td align="left" rowspan="1" colspan="1">0.5</td></tr><tr><td align="left" rowspan="1" colspan="1">Hypertension, n (%)</td><td align="left" rowspan="1" colspan="1">73 (83)</td><td align="left" rowspan="1" colspan="1">73 (83)</td><td align="left" rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">Diabetes mellitus, n (%)</td><td align="left" rowspan="1" colspan="1">25 (28.4)</td><td align="left" rowspan="1" colspan="1">34 (38.6)</td><td align="left" rowspan="1" colspan="1">0.2</td></tr><tr><td align="left" rowspan="1" colspan="1">Atrial fibrillation, n (%)</td><td align="left" rowspan="1" colspan="1">33 (37.5)</td><td align="left" rowspan="1" colspan="1">31 (35.2)</td><td align="left" rowspan="1" colspan="1">0.9</td></tr><tr><td align="left" rowspan="1" colspan="1">Coronary artery disease, n (%)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Hyperlipidemia, n (%)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Admission NIHSS score, median (range, IQR)</td><td align="left" rowspan="1" colspan="1">8 (range 4&#x02013;28, 9)</td><td align="left" rowspan="1" colspan="1">10 (4&#x02013;36, 14)</td><td align="left" rowspan="1" colspan="1">0.03</td></tr><tr><td align="left" rowspan="1" colspan="1">Admission glucose, median (range, IQR)</td><td align="left" rowspan="1" colspan="1">122 (75&#x02013;430, 75)</td><td align="left" rowspan="1" colspan="1">131 (80&#x02013;198, 25)</td><td align="left" rowspan="1" colspan="1">0.4</td></tr><tr><td align="left" rowspan="1" colspan="1">Admission BP systolic, median (range, IQR)</td><td align="left" rowspan="1" colspan="1">150 (105&#x02013;205, 33)</td><td align="left" rowspan="1" colspan="1">153 (107&#x02013;213, 51)</td><td align="left" rowspan="1" colspan="1">0.6</td></tr><tr><td align="left" rowspan="1" colspan="1">Admission BP diastolic, median (range, IQR)</td><td align="left" rowspan="1" colspan="1">80 (30&#x02013;130, 20)</td><td align="left" rowspan="1" colspan="1">85 (55&#x02013;116, 28)</td><td align="left" rowspan="1" colspan="1">0.2</td></tr><tr><td align="left" rowspan="1" colspan="1">Admission platelet count, median (range, IQR)</td><td align="left" rowspan="1" colspan="1">242 (111&#x02013;511, 86)</td><td align="left" rowspan="1" colspan="1">234 (130&#x02013;999, 119)</td><td align="left" rowspan="1" colspan="1">0.8</td></tr><tr><td align="left" rowspan="1" colspan="1">Admission INR, median (range, IQR)</td><td align="left" rowspan="1" colspan="1">1 (0.8&#x02013;1.4, 0.1)</td><td align="left" rowspan="1" colspan="1">1 (0.8&#x02013;1.3, 0)</td><td align="left" rowspan="1" colspan="1">0.3</td></tr><tr><td align="left" colspan="4" rowspan="1">ASPECTS, n (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">57 (64.8)</td><td align="left" rowspan="1" colspan="1">59 (67)</td><td align="left" rowspan="1" colspan="1">0.2</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">17 (19.3)</td><td align="left" rowspan="1" colspan="1">9 (10.2)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">10 (11.4)</td><td align="left" rowspan="1" colspan="1">10 (11.4)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">4 (4.5)</td><td align="left" rowspan="1" colspan="1">10 (11.4)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="4" rowspan="1">Stroke etiology, n (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Cardioembolic</td><td align="left" rowspan="1" colspan="1">44 (55)</td><td align="left" rowspan="1" colspan="1">36 (45)</td><td align="left" rowspan="1" colspan="1">0.2</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Small vessel disease</td><td align="left" rowspan="1" colspan="1">16 (18.6)</td><td align="left" rowspan="1" colspan="1">14 (15.9)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Large vessel disease</td><td align="left" rowspan="1" colspan="1">11 (12.8)</td><td align="left" rowspan="1" colspan="1">9 (10.2)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Other</td><td align="left" rowspan="1" colspan="1">4 (4.7)</td><td align="left" rowspan="1" colspan="1">8 (9.4)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Cryptogenic</td><td align="left" rowspan="1" colspan="1">11 (12.8)</td><td align="left" rowspan="1" colspan="1">21 (23.9)</td><td align="left" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot id="jah34694-ntgp-0004"><fn id="jah34694-note-0005"><p>ASPECTS indicates Alberta Stroke Program Early Computerized Tomography Score; BP, blood pressure; INR, international normalized ratio; IQR, interquartile range; LSW, last seen well time; mRS, modified Rankin Scale; NIHSS, National Institute of Health Stroke Scale; SDT, symptom discovery time; TIA, transient ischemic attack.</p></fn></table-wrap-foot></table-wrap></sec></sec><sec id="jah34694-sec-0022"><title>Discussion</title><p>The primary aim of this study was to examine safety of IVT in WUS/SUO selected using NCCT and ASPECTS. As expected, we found slightly more SICH in the IVT group as compared with controls. The observed rate of 3.4% is comparable with rates in WUS studies using advanced MR or CT&#x02010;perfusion imaging (WAKE&#x02010;UP, EXTEND) and in a real&#x02010;world experience with IVT in WUS.<xref rid="jah34694-bib-0004" ref-type="ref">4</xref>, <xref rid="jah34694-bib-0005" ref-type="ref">5</xref>, <xref rid="jah34694-bib-0017" ref-type="ref">17</xref> Thus, our observation suggests acceptable safety of IVT in WUS/SUO with normal or near&#x02010;normal NCCT appearance. This is also in line with previous reports on the use of NCCT in the WUS selection for IVT. Barreto et&#x000a0;al reported none and Anaissie et&#x000a0;al reported only 1 SICH in 40 and 46 patients undergoing NCCT&#x02010;based thrombolysis for WUS, respectively.<xref rid="jah34694-bib-0007" ref-type="ref">7</xref>, <xref rid="jah34694-bib-0008" ref-type="ref">8</xref>
+</p><p>Secondary aims included established measures of IVT efficacy. As compared with matched controls we observed more IVT patients improving at 24&#x000a0;hours, reaching more often favorable functional outcome at 3&#x000a0;months and experiencing less shift in the mRS score indicating possible clinical efficacy. Importantly, the sensitivity analysis after excluding patients undergoing thrombectomy seem to indicate that the positive efficacy signals may not be driven by effects of thrombectomy alone. After adjustment some end points missed in the later analysis the statistical threshold for significance; this seems, however, to be because of the reduced sample size and consequent lack of statistical power.</p><p>Previous studies describing radiological and clinical features of WUS suggested that the putative symptom onset is most likely during the morning hours and just before awakening, indicating that WUS patients may have salvageable tissue at hospital arrival.<xref rid="jah34694-bib-0018" ref-type="ref">18</xref>, <xref rid="jah34694-bib-0019" ref-type="ref">19</xref>, <xref rid="jah34694-bib-0020" ref-type="ref">20</xref>, <xref rid="jah34694-bib-0021" ref-type="ref">21</xref>, <xref rid="jah34694-bib-0022" ref-type="ref">22</xref> The high percentage of WUS (89%) in our study seems to underline this hypothesis. In analogy to the time&#x02010;based concept of IVT in known onset stroke without penumbra imaging, we hypothesize that WUS patients reaching hospital within 4 to 4.5&#x000a0;hours of awakening may benefit from IVT using the same imaging paradigm, ie, NCCT.</p><p>Time delays from last seen well and symptom discovery in the IVT group and controls in our study were markedly different. This may be because of the fact that the main reason for excluding WUS patients from IVT in the control group was the time from symptom discovery &#x0003e;4.5&#x000a0;hours. However, we suggest that this difference should not bias the safety nor the efficacy results as the outcome measures in the control group (thus not receiving IVT) are not time dependent. Importantly, after adjustment for time metrics in the multivariate regression models, the results remained grossly unchanged.</p><p>Limitations of our study have to be mentioned. Despite being based on a rigorously managed prospective registry, the design of the study has to be acknowledged as retrospective, including all the associated limitations. CT readings were not centralized as well as there was not a uniform use of eASPECTS software across the centers. The assessment of NIHSS and mRS scores at 3&#x000a0;months was performed at each center separately. This may have introduced bias into the efficacy analysis albeit assessed by NIHSS&#x02010; and mRS&#x02010;certified neurologist only. Finally, and most importantly, possible bias by indication and bias by low sample size has to be considered. Data on WUS patients excluded from IVT were not collected precluding assessment of the bias by indication. Low sample size precludes definitive statements on safety and efficacy as with this number of observations the study remains clearly underpowered. Reported <italic>P</italic> values are not adjusted for multiple testing. Given the sample size, we considered the analysis to be exploratory, thus without adjusting <italic>P</italic> values. Thus, the interpretation of our results has to be made with caution, considering the above&#x02010;mentioned limitations and should be used for hypothesis generating only. On the other hand, our observation seems to be to date the largest experience on NCCT&#x02010;based IVT in WUS/SUO and provides a propensity score&#x02013;matched control group mimicking randomization. It suggests no excess in symptomatic hemorrhage and sets signals of efficacy.</p></sec><sec id="jah34694-sec-0023"><title>Conclusions</title><p>To date, WUS/SUO represent an undertreated subgroup of acute stroke patients. Despite the fact that advanced neuroimaging has been recently proven to be safe and effective for IVT selection in this population, it is by far not widely available. Magnetic resonance imaging or CT&#x02010;perfusion imaging might perform superiorly in selecting WUS/SUO patients for IVT in means of safety and efficacy. However, a simple, widely available, and pragmatic NCCT&#x02010;based selection approach may eventually offer IVT indication to those who would otherwise be excluded from this treatment because of missing advanced imaging facilities. Our study suggests that an acceptable safety and eventually efficacy can be achieved by using solely NCCT for selecting IVT candidates in the WUS/SUO population. Randomized proof of this concept or a head&#x02010;to&#x02010;head comparison with advanced neuroimaging is highly warranted.</p></sec><sec id="jah34694-sec-0025"><title>Disclosures</title><p>None.</p></sec></body><back><ack id="jah34694-sec-0024"><title>Acknowledgments</title><p>We acknowledge support from Deutsche Forschungsgemeinschaft and the Open Access Publishing Fund of the University of Tuebingen. This work did not receive financial support.</p></ack><ref-list content-type="cited-references" id="jah34694-bibl-0001"><title>References</title><ref id="jah34694-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jah34694-cit-0001">
+<string-name>
+<surname>Hacke</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Kaste</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bluhmki</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Brozman</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Davalos</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Guidetti</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Larrue</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Lees</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name>
+<surname>Medeghri</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Machnig</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>von Kummer</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Wahlgren</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Toni</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Investigators</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Thrombolysis with alteplase 3 to 4.5&#x000a0;hours after acute ischemic stroke</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2008</year>;<volume>359</volume>:<fpage>1317</fpage>&#x02013;<lpage>1329</lpage>.<pub-id pub-id-type="pmid">18815396</pub-id></mixed-citation></ref><ref id="jah34694-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jah34694-cit-0002">
+<string-name>
+<surname>Lees</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name>
+<surname>Bluhmki</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>von Kummer</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Brott</surname>
+<given-names>TG</given-names>
+</string-name>, <string-name>
+<surname>Toni</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Grotta</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Albers</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>Kaste</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Marler</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Hamilton</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Tilley</surname>
+<given-names>BC</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Donnan</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Hacke</surname>
+<given-names>W</given-names>
+</string-name>; <collab collab-type="authors">Ecass AN, Group Er&#x02010;PS</collab>
+, <string-name>
+<surname>Allen</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Mau</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Meier</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>del Zoppo</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>De Silva</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Butcher</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>Parsons</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name>
+<surname>Barber</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Levi</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bladin</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Byrnes</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Time to treatment with intravenous alteplase and outcome in stroke: an updated pooled analysis of ecass, atlantis, ninds, and epithet trials</article-title>. <source xml:lang="en">Lancet</source>. <year>2010</year>;<volume>375</volume>:<fpage>1695</fpage>&#x02013;<lpage>1703</lpage>.<pub-id pub-id-type="pmid">20472172</pub-id></mixed-citation></ref><ref id="jah34694-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jah34694-cit-0003">
+<string-name>
+<surname>Kurz</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name>
+<surname>Advani</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Behzadi</surname>
+<given-names>GN</given-names>
+</string-name>, <string-name>
+<surname>Eldoen</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Farbu</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Kurz</surname>
+<given-names>KD</given-names>
+</string-name>. <article-title>Wake&#x02010;up stroke&#x02010;amendable for thrombolysis&#x02010;like stroke with known onset time?</article-title>
+<source xml:lang="en">Acta Neurol Scand</source>. <year>2017</year>;<volume>136</volume>:<fpage>4</fpage>&#x02013;<lpage>10</lpage>.</mixed-citation></ref><ref id="jah34694-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jah34694-cit-0004">
+<string-name>
+<surname>Thomalla</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Simonsen</surname>
+<given-names>CZ</given-names>
+</string-name>, <string-name>
+<surname>Boutitie</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Andersen</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Berthezene</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Cheripelli</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Cho</surname>
+<given-names>TH</given-names>
+</string-name>, <string-name>
+<surname>Fazekas</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Fiehler</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ford</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Galinovic</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Gellissen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Golsari</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gregori</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Gunther</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Guibernau</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hausler</surname>
+<given-names>KG</given-names>
+</string-name>, <string-name>
+<surname>Hennerici</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kemmling</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Marstrand</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Modrau</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Neeb</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Perez de la Ossa</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Puig</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ringleb</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Roy</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Scheel</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Schonewille</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Serena</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sunaert</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Villringer</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Wouters</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Thijs</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Ebinger</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Endres</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Fiebach</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Lemmens</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Muir</surname>
+<given-names>KW</given-names>
+</string-name>, <string-name>
+<surname>Nighoghossian</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Pedraza</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Gerloff</surname>
+<given-names>C</given-names>
+</string-name>; <collab collab-type="authors">Investigators W&#x02010;U</collab>
+. <article-title>Mri&#x02010;guided thrombolysis for stroke with unknown time of onset</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2018</year>;<volume>379</volume>:<fpage>611</fpage>&#x02013;<lpage>622</lpage>.<pub-id pub-id-type="pmid">29766770</pub-id></mixed-citation></ref><ref id="jah34694-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jah34694-cit-0005">
+<string-name>
+<surname>Ma</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Campbell</surname>
+<given-names>BCV</given-names>
+</string-name>, <string-name>
+<surname>Parsons</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name>
+<surname>Churilov</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Levi</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Hsu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Kleinig</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name>
+<surname>Wijeratne</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Curtze</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Dewey</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name>
+<surname>Miteff</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Tsai</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name>
+<surname>Phan</surname>
+<given-names>TG</given-names>
+</string-name>, <string-name>
+<surname>Mahant</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Krause</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sturm</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Grimley</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Field</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Barber</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Sabet</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Jannes</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Jeng</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Clissold</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Markus</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Lien</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Bladin</surname>
+<given-names>CF</given-names>
+</string-name>, <string-name>
+<surname>Christensen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Yassi</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Bivard</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Desmond</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Mitchell</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Thijs</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Carey</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Meretoja</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Donnan</surname>
+<given-names>GA</given-names>
+</string-name>; <collab collab-type="authors">Investigators E, the EI</collab>
+. <article-title>Thrombolysis guided by perfusion imaging up to 9 hours after onset of stroke</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2019</year>;<volume>380</volume>:<fpage>1795</fpage>&#x02013;<lpage>1803</lpage>.<pub-id pub-id-type="pmid">31067369</pub-id></mixed-citation></ref><ref id="jah34694-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jah34694-cit-0006">
+<string-name>
+<surname>Urrutia</surname>
+<given-names>VC</given-names>
+</string-name>, <string-name>
+<surname>Faigle</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Zeiler</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Marsh</surname>
+<given-names>EB</given-names>
+</string-name>, <string-name>
+<surname>Bahouth</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Cerdan Trevino</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Dearborn</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Leigh</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Rice</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Lane</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Saheed</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hill</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Llinas</surname>
+<given-names>RH</given-names>
+</string-name>. <article-title>Safety of intravenous alteplase within 4.5&#x000a0;hours for patients awakening with stroke symptoms</article-title>. <source xml:lang="en">PLoS One</source>. <year>2018</year>;<volume>13</volume>:<fpage>e0197714</fpage>.<pub-id pub-id-type="pmid">29787575</pub-id></mixed-citation></ref><ref id="jah34694-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jah34694-cit-0007">
+<string-name>
+<surname>Anaissie</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Monlezun</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Siegler</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Waring</surname>
+<given-names>ED</given-names>
+</string-name>, <string-name>
+<surname>Dowell</surname>
+<given-names>LN</given-names>
+</string-name>, <string-name>
+<surname>Samai</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>George</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Kimbrough</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Berthaud</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Martin&#x02010;Schild</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Intravenous tissue plasminogen activator for wake&#x02010;up stroke: a propensity score&#x02010;matched analysis</article-title>. <source xml:lang="en">J Stroke Cerebrovasc Dis</source>. <year>2016</year>;<volume>25</volume>:<fpage>2603</fpage>&#x02013;<lpage>2609</lpage>.<pub-id pub-id-type="pmid">27476340</pub-id></mixed-citation></ref><ref id="jah34694-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jah34694-cit-0008">
+<string-name>
+<surname>Barreto</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Fanale</surname>
+<given-names>CV</given-names>
+</string-name>, <string-name>
+<surname>Alexandrov</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name>
+<surname>Gaffney</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name>
+<surname>Vahidy</surname>
+<given-names>FS</given-names>
+</string-name>, <string-name>
+<surname>Nguyen</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Sarraj</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Rahbar</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Grotta</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Savitz</surname>
+<given-names>SI</given-names>
+</string-name>; <collab collab-type="authors">Wake&#x02010;Up Stroke I</collab>
+. <article-title>Prospective, open&#x02010;label safety study of intravenous recombinant tissue plasminogen activator in wake&#x02010;up stroke</article-title>. <source xml:lang="en">Ann Neurol</source>. <year>2016</year>;<volume>80</volume>:<fpage>211</fpage>&#x02013;<lpage>218</lpage>.<pub-id pub-id-type="pmid">27273860</pub-id></mixed-citation></ref><ref id="jah34694-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jah34694-cit-0009">
+<string-name>
+<surname>Armon</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Wainstein</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Gour</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Levite</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Bartal</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kriboushay</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kenan</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Khiri</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Shevtzov</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Aroesty</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Bhonkar</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tal</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ilgiyaev</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Blatt</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Haitov</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Bar&#x02010;Hayim</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kimiagar</surname>
+<given-names>I</given-names>
+</string-name>. <collab collab-type="authors">CT&#x02010;guided thrombolytic treatment of patients with wake&#x02010;up strokes</collab>
+. <source xml:lang="en">eNeurologicalSci</source>. <year>2019</year>;<volume>14</volume>:<fpage>91</fpage>&#x02013;<lpage>97</lpage>.<pub-id pub-id-type="pmid">30828649</pub-id></mixed-citation></ref><ref id="jah34694-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jah34694-cit-0010">
+<string-name>
+<surname>Barber</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Demchuk</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Buchan</surname>
+<given-names>AM</given-names>
+</string-name>. <article-title>Validity and reliability of a quantitative computed tomography score in predicting outcome of hyperacute stroke before thrombolytic therapy. Aspects study group. Alberta stroke programme early CT score</article-title>. <source xml:lang="en">Lancet</source>. <year>2000</year>;<volume>355</volume>:<fpage>1670</fpage>&#x02013;<lpage>1674</lpage>.<pub-id pub-id-type="pmid">10905241</pub-id></mixed-citation></ref><ref id="jah34694-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jah34694-cit-0011">
+<string-name>
+<surname>Adams</surname>
+<given-names>HP</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Bendixen</surname>
+<given-names>BH</given-names>
+</string-name>, <string-name>
+<surname>Kappelle</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Biller</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Love</surname>
+<given-names>BB</given-names>
+</string-name>, <string-name>
+<surname>Gordon</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name>
+<surname>Marsh</surname>
+<given-names>EE</given-names>
+<suffix>III</suffix>
+</string-name>. <article-title>Classification of subtype of acute ischemic stroke. Definitions for use in a multicenter clinical trial. Toast. Trial of org 10172 in acute stroke treatment</article-title>. <source xml:lang="en">Stroke</source>. <year>1993</year>;<volume>24</volume>:<fpage>35</fpage>&#x02013;<lpage>41</lpage>.<pub-id pub-id-type="pmid">7678184</pub-id></mixed-citation></ref><ref id="jah34694-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jah34694-cit-0012">
+<string-name>
+<surname>Michel</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Odier</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Rutgers</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Reichhart</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Maeder</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Meuli</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Wintermark</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Maghraoui</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Faouzi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Croquelois</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ntaios</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>The acute stroke registry and analysis of lausanne (astral): design and baseline analysis of an ischemic stroke registry including acute multimodal imaging</article-title>. <source xml:lang="en">Stroke</source>. <year>2010</year>;<volume>41</volume>:<fpage>2491</fpage>&#x02013;<lpage>2498</lpage>.<pub-id pub-id-type="pmid">20930152</pub-id></mixed-citation></ref><ref id="jah34694-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jah34694-cit-0013">
+<string-name>
+<surname>Brainin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lang</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Editorial: stroke units in austria: structure, performance and results</article-title>. <source xml:lang="en">Wien Med Wochenschr</source>. <year>2008</year>;<volume>158</volume>:<fpage>407</fpage>&#x02013;<lpage>408</lpage>, 408&#x02010;10.<pub-id pub-id-type="pmid">18766308</pub-id></mixed-citation></ref><ref id="jah34694-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jah34694-cit-0014">
+<string-name>
+<surname>Ferrari</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Knoflach</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kiechl</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Willeit</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Schnabl</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Seyfang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Lang</surname>
+<given-names>W</given-names>
+</string-name>; <collab collab-type="authors">Austrian Stroke Unit Registry C</collab>
+. <article-title>Early clinical worsening in patients with tia or minor stroke: the Austrian stroke unit registry</article-title>. <source xml:lang="en">Neurology</source>. <year>2010</year>;<volume>74</volume>:<fpage>136</fpage>&#x02013;<lpage>141</lpage>.<pub-id pub-id-type="pmid">20065248</pub-id></mixed-citation></ref><ref id="jah34694-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jah34694-cit-0015">
+<string-name>
+<surname>del Zoppo</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name>
+<surname>Poeck</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Pessin</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Wolpert</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Furlan</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Ferbert</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Alberts</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Zivin</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Wechsler</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Busse</surname>
+<given-names>O</given-names>
+</string-name>. <article-title>Recombinant tissue plasminogen activator in acute thrombotic and embolic stroke</article-title>. <source xml:lang="en">Ann Neurol</source>. <year>1992</year>;<volume>32</volume>:<fpage>78</fpage>&#x02013;<lpage>86</lpage>.<pub-id pub-id-type="pmid">1642475</pub-id></mixed-citation></ref><ref id="jah34694-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jah34694-cit-0016">
+<collab collab-type="authors">National Institute of Neurological D, Stroke rt PASSG</collab>
+. <article-title>Tissue plasminogen activator for acute ischemic stroke</article-title>. <source xml:lang="en">N Enrgl J Med</source>. <year>1995</year>;<volume>333</volume>:<fpage>1581</fpage>&#x02013;<lpage>1587</lpage>.</mixed-citation></ref><ref id="jah34694-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jah34694-cit-0017">
+<string-name>
+<surname>Krebs</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Posekany</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ferrari</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Lang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Sommer</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Gattringer</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Boehme</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Sykora</surname>
+<given-names>M</given-names>
+</string-name>; <collab collab-type="authors">Austrian Stroke Unit Registry C</collab>
+. <article-title>Intravenous thrombolysis in wake&#x02010;up stroke: real&#x02010;world data from the austrian stroke unit registry</article-title>. <source xml:lang="en">Eur J Neurol</source>. <year>2019</year>;<volume>26</volume>:<fpage>754</fpage>&#x02013;<lpage>759</lpage>.<pub-id pub-id-type="pmid">30565361</pub-id></mixed-citation></ref><ref id="jah34694-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jah34694-cit-0018">
+<string-name>
+<surname>Marler</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Price</surname>
+<given-names>TR</given-names>
+</string-name>, <string-name>
+<surname>Clark</surname>
+<given-names>GL</given-names>
+</string-name>, <string-name>
+<surname>Muller</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Robertson</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Mohr</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Hier</surname>
+<given-names>DB</given-names>
+</string-name>, <string-name>
+<surname>Wolf</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Caplan</surname>
+<given-names>LR</given-names>
+</string-name>, <string-name>
+<surname>Foulkes</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>Morning increase in onset of ischemic stroke</article-title>. <source xml:lang="en">Stroke</source>. <year>1989</year>;<volume>20</volume>:<fpage>473</fpage>&#x02013;<lpage>476</lpage>.<pub-id pub-id-type="pmid">2648651</pub-id></mixed-citation></ref><ref id="jah34694-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jah34694-cit-0019">
+<string-name>
+<surname>Serena</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Davalos</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Segura</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Mostacero</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Castillo</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Stroke on awakening: looking for a more rational management</article-title>. <source xml:lang="en">Cerebrovasc Dis</source>. <year>2003</year>;<volume>16</volume>:<fpage>128</fpage>&#x02013;<lpage>133</lpage>.<pub-id pub-id-type="pmid">12792170</pub-id></mixed-citation></ref><ref id="jah34694-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jah34694-cit-0020">
+<string-name>
+<surname>Fink</surname>
+<given-names>JN</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Horkan</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Linfante</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Selim</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Caplan</surname>
+<given-names>LR</given-names>
+</string-name>, <string-name>
+<surname>Schlaug</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>The stroke patient who woke up: clinical and radiological features, including diffusion and perfusion mri</article-title>. <source xml:lang="en">Stroke</source>. <year>2002</year>;<volume>33</volume>:<fpage>988</fpage>&#x02013;<lpage>993</lpage>.<pub-id pub-id-type="pmid">11935049</pub-id></mixed-citation></ref><ref id="jah34694-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jah34694-cit-0021">
+<string-name>
+<surname>Silva</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name>
+<surname>Lima</surname>
+<given-names>FO</given-names>
+</string-name>, <string-name>
+<surname>Camargo</surname>
+<given-names>EC</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>WS</given-names>
+</string-name>, <string-name>
+<surname>Singhal</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Greer</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Ay</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Lev</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name>
+<surname>Halpern</surname>
+<given-names>EF</given-names>
+</string-name>, <string-name>
+<surname>Sonni</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Koroshetz</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Furie</surname>
+<given-names>KL</given-names>
+</string-name>. <article-title>Wake&#x02010;up stroke: clinical and neuroimaging characteristics</article-title>. <source xml:lang="en">Cerebrovasc Dis</source>. <year>2010</year>;<volume>29</volume>:<fpage>336</fpage>&#x02013;<lpage>342</lpage>.<pub-id pub-id-type="pmid">20130399</pub-id></mixed-citation></ref><ref id="jah34694-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jah34694-cit-0022">
+<string-name>
+<surname>Elliott</surname>
+<given-names>WJ</given-names>
+</string-name>. <article-title>Circadian variation in the timing of stroke onset: a meta&#x02010;analysis</article-title>. <source xml:lang="en">Stroke</source>. <year>1998</year>;<volume>29</volume>:<fpage>992</fpage>&#x02013;<lpage>996</lpage>.<pub-id pub-id-type="pmid">9596248</pub-id></mixed-citation></ref></ref-list></back></article>

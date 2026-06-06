@@ -1,0 +1,449 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="mgg370096" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Mol Genet Genomic Med</journal-id><journal-id journal-id-type="iso-abbrev">Mol Genet Genomic Med</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2324-9269</journal-id><journal-id journal-id-type="publisher-id">MGG3</journal-id><journal-title-group><journal-title>Molecular Genetics &#x00026; Genomic Medicine</journal-title></journal-title-group><issn pub-type="epub">2324-9269</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">40237608</article-id><article-id pub-id-type="pmc">12001422</article-id><article-id pub-id-type="doi">10.1002/mgg3.70096</article-id><article-id pub-id-type="publisher-id">MGG370096</article-id><article-id pub-id-type="other">MGG3-2024-08-1105.R3</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>First Prenatal Case of Genotypically and Phenotypically Overlapping Double Molecular Diagnosis of Van den Ende&#x02013;Gupta and 22q11.2 Deletion Syndromes</article-title></title-group><contrib-group><contrib id="mgg370096-cr-0001" contrib-type="author" corresp="yes"><name><surname>Racine</surname><given-names>Caroline</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2378-5982</contrib-id><xref rid="mgg370096-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="mgg370096-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>caroline.racine@chu-dijon.fr</email></address></contrib><contrib id="mgg370096-cr-0002" contrib-type="author"><name><surname>Garde</surname><given-names>Aurore</given-names></name><xref rid="mgg370096-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="mgg370096-cr-0003" contrib-type="author"><name><surname>Martz</surname><given-names>Olivia</given-names></name><xref rid="mgg370096-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="mgg370096-cr-0004" contrib-type="author"><name><surname>Safraou</surname><given-names>Hana</given-names></name><xref rid="mgg370096-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="mgg370096-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="mgg370096-cr-0005" contrib-type="author"><name><surname>Eluard</surname><given-names>Vinciane</given-names></name><xref rid="mgg370096-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="mgg370096-cr-0006" contrib-type="author"><name><surname>Rousseau</surname><given-names>Thierry</given-names></name><xref rid="mgg370096-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="mgg370096-cr-0007" contrib-type="author"><name><surname>Marle</surname><given-names>Nathalie</given-names></name><xref rid="mgg370096-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="mgg370096-cr-0008" contrib-type="author"><name><surname>Harizay</surname><given-names>Fara T.</given-names></name><xref rid="mgg370096-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="mgg370096-cr-0009" contrib-type="author"><name><surname>Martin</surname><given-names>Laurent</given-names></name><xref rid="mgg370096-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="mgg370096-cr-0010" contrib-type="author"><name><surname>Maraval</surname><given-names>Julien</given-names></name><xref rid="mgg370096-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="mgg370096-cr-0011" contrib-type="author"><name><surname>Bruel</surname><given-names>Ange&#x02010;Line</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0526-465X</contrib-id><xref rid="mgg370096-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="mgg370096-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="mgg370096-cr-0012" contrib-type="author"><name><surname>Philippe</surname><given-names>Christophe</given-names></name><xref rid="mgg370096-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="mgg370096-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="mgg370096-cr-0013" contrib-type="author"><name><surname>Thauvin&#x02010;Robinet</surname><given-names>Christel</given-names></name><xref rid="mgg370096-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="mgg370096-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="mgg370096-cr-0014" contrib-type="author"><name><surname>Faivre</surname><given-names>Laurence</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9770-444X</contrib-id><xref rid="mgg370096-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="mgg370096-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="mgg370096-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Centre de R&#x000e9;f&#x000e9;rence Anomalies du D&#x000e9;veloppement et Syndromes Malformatifs, CHU Dijon Bourgogne</named-content>
+<institution>FHU TRANSLAD, H&#x000f4;pital d'Enfants</institution>
+<city>Dijon</city>
+<country country="FR">France</country>
+</aff><aff id="mgg370096-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Inserm &#x02013; Universit&#x000e9; Bourgogne &#x02013; UMR1231 GAD</institution>
+<city>Dijon</city>
+<country country="FR">France</country>
+</aff><aff id="mgg370096-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Centre Pluridisciplinaire de Diagnostic Pr&#x000e9;natal</named-content>
+<institution>CHU Dijon Bourgogne</institution>
+<city>Dijon</city>
+<country country="FR">France</country>
+</aff><aff id="mgg370096-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Laboratoire de G&#x000e9;nomique M&#x000e9;dicale &#x02013; Centre NEOMICS</named-content>
+<institution>CHU Dijon Bourgogne</institution>
+<city>Dijon</city>
+<country country="FR">France</country>
+</aff><aff id="mgg370096-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Laboratoire de G&#x000e9;n&#x000e9;tique Chromosomique et Mol&#x000e9;culaire</named-content>
+<institution>CHU Dijon Bourgogne</institution>
+<city>Dijon</city>
+<country country="FR">France</country>
+</aff><aff id="mgg370096-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Service de Pathologie</named-content>
+<institution>CHU Dijon Bourgogne</institution>
+<city>Dijon</city>
+<country country="FR">France</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold>
+<break/>
+Caroline Racine (<email>caroline.racine@chu-dijon.fr</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>16</day><month>4</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>4</month><year>2025</year></pub-date><volume>13</volume><issue seq="140">4</issue><issue-id pub-id-type="doi">10.1002/mgg3.v13.4</issue-id><elocation-id>e70096</elocation-id><history>
+<date date-type="rev-recd"><day>01</day><month>3</month><year>2025</year></date>
+<date date-type="received"><day>27</day><month>8</month><year>2024</year></date>
+<date date-type="accepted"><day>26</day><month>3</month><year>2025</year></date>
+</history><permissions><!--&#x000a9; 2025 Wiley Periodicals LLC.--><copyright-statement content-type="article-copyright">&#x000a9; 2025 The Author(s). <italic toggle="yes">Molecular Genetics &#x00026; Genomic Medicine</italic> published by Wiley Periodicals LLC.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:MGG3-13-e70096.pdf"/><abstract><title>ABSTRACT</title><sec id="mgg370096-sec-0001"><title>Background</title><p>Multiple molecular diagnoses (MMD) involve distinct or overlapping phenotypes. They are not so rare in the field of congenital anomalies, given an overall 3.5%&#x02013;8% rate. Mainly, MMD imply distinct genotypes. Exceptionally, genotypes are linked, involving a causal CNV by itself, facing a SNV for a recessive disorder resulting in a dual diagnosis.</p></sec><sec id="mgg370096-sec-0002"><title>Methods</title><p>An unrelated couple was referred at 21&#x02009;+&#x02009;3&#x02009;weeks of gestation for talipes equinovarus, cerebellar hypoplasia, clenched fists, elevated hemidiaphragm, and micrognathia. Chromosomal microarray and exome sequencing analyses were performed.</p></sec><sec id="mgg370096-sec-0003"><title>Results</title><p>Both identified a pathogenic de novo 22q11.21 deletion (22q11.2del). Fetal autopsy revealed additional features (postaxial polydactyly, facial features, and abnormal lung lobulation), atypical for 22q11.2del syndrome. At the clinician's request, exome sequencing reanalysis identified a paternally inherited <italic toggle="no">SCARF2</italic> variant, in trans to the 22q11.2del causing autosomal recessive Van den Ende&#x02013;Gupta syndrome. This dual diagnosis explains the entire fetus phenotype.</p></sec><sec id="mgg370096-sec-0004"><title>Discussion</title><p>This is a novel case of dual diagnosis, first prenatal and second case of this ultrarare association. It reflects the crucial role of precise phenotypic description, combined with the importance of considering dual diagnosis in case of atypical clinical presentation. Finally, prenatal phenotypes remain a challenge given the paucity of available known prenatal data for most rare diseases.</p></sec><sec id="mgg370096-sec-0005"><title>Trial Registration</title><p>
+<ext-link xlink:href="http://clinicaltrial.gov" ext-link-type="uri">ClinicalTrial.gov</ext-link> ID: NCT05182242</p></sec></abstract><abstract abstract-type="graphical"><p>We report here the first prenatal dual molecular diagnosis, involving 22q11.2 deletion and Van den Ende&#x02010;Gupta symdromes. A <italic toggle="no">de novo</italic> 22q11.2 deletion was initially detected both by chromosal microarray and exome sequencing. Given atypical additional clinical signs at fetal autopsy, reanalysis of exome sequencing revealed a pathogenic <italic toggle="no">SCARF2</italic> variant in trans, paternally inherited, consistent with autosomal recessive Van den Ende&#x02010;Gupta syndrome. The combined findings fully explain the phenotype, underscoring the importance of considering dual diagnoses in case of atypical clinical presentation.<boxed-text position="anchor" content-type="graphic" id="mgg370096-blkfxd-1001"><graphic xlink:href="MGG3-13-e70096-g002.jpg" position="anchor" id="jats-graphic-1"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="mgg370096-kwd-0001">22q11 deletion syndrome</kwd><kwd id="mgg370096-kwd-0002">multiple molecular diagnosis</kwd><kwd id="mgg370096-kwd-0003">SCARF2</kwd><kwd id="mgg370096-kwd-0004">VDEGS</kwd></kwd-group><counts><fig-count count="6"/><table-count count="2"/><page-count count="8"/><word-count count="4100"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.4 mode:remove_FC converted:16.04.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="mgg370096-ntgp-0001"><fn fn-type="funding" id="mgg370096-note-0001"><p>
+<bold>Funding:</bold> The authors received no specific funding for this work.</p></fn></fn-group></notes></front><body id="mgg370096-body-0001"><sec id="mgg370096-sec-0006"><label>1</label><title>Introduction</title><p>Multiple molecular diagnoses (MMD) are defined by two or more causal loci, leading to the expression of two or more genetic diseases. It might involve distinct or overlapping phenotypes and genotypes. MMD are a long&#x02010;standing concept but were probably underestimated before the advent of next generation sequencing or may have led to the description of atypical signs not validated on larger cohorts. They were first described in dedicated articles by Posey et&#x000a0;al.&#x000a0;(<xref rid="mgg370096-bib-0018" ref-type="bibr">2017</xref>) and Balci et&#x000a0;al.&#x000a0;(<xref rid="mgg370096-bib-0002" ref-type="bibr">2017</xref>). We recently demonstrated that the overall rate of MMD was 3.5%&#x02013;8% in a cohort of congenital anomalies and intellectual disability (Racine et&#x000a0;al.&#x000a0;<xref rid="mgg370096-bib-0019" ref-type="bibr">2023</xref>), consistent with the literature. This rate was consistent with what is known in the literature. MMD are thus not so rare in the field of congenital anomalies and/or intellectual disability.</p><p>Over two&#x02010;thirds of MMD are phenotypically overlapping (22/31, 71%) and almost one&#x02010;third are phenotypically distinct (9/31, 29%), but they are consistently caused by distinct genotypes because the implicated variants are located on different regions of the genome. These variants can either be single nucleotide variants (SNV) and/or copy number variants (CNV). Rare pathogenic CNV, irrespective of their length and genic content, may include genes that are already implicated in human diseases, either following an autosomal dominant or autosomal recessive (AR) pattern. Based on their haploinsufficiency or triplosensitivity (respectively for deletion and duplication), dominant&#x02010;causing genes must be individually considered. Likewise, recessive&#x02010;causing genes should also be considered in case of a compatible phenotype, because a second hit may occur on the opposite allele.</p><p>We report here the case of a fetus presenting with both a de novo 22q11.21 deletion, clinically responsible for 22q11.2 deletion syndrome (22q11.2DS), associated with a paternal variant in the <italic toggle="yes">SCARF2</italic> gene (MIM*613619), jointly causing AR Van den Ende&#x02013;Gupta syndrome (VDEGS) (MIM#600920), compatible with part of its phenotype.</p></sec><sec sec-type="materials-and-methods" id="mgg370096-sec-0007"><label>2</label><title>Materials and Methods</title><sec id="mgg370096-sec-0008"><label>2.1</label><title>Clinical Report</title><p>An unrelated couple was referred to the genetic department at 24&#x02009;+&#x02009;3&#x02009;weeks of gestation (WG) regarding their first pregnancy. The combined first&#x02010;trimester screening test was at low&#x02010;risk. Maternal age was 30&#x02009;years, and paternal age was 33&#x02009;years. Neither parent had congenital anomalies or developmental impairments. There was no relevant family history. The second&#x02010;trimester anatomy scan identified bilateral clubfoot. The ultrasound scan (US) performed by a trained sonographer from the reference prenatal diagnosis center reported talipes equinovarus associated with an unusual aspect of the posterior cranial fossa and with an excess of amniotic fluid (Figure&#x000a0;<xref rid="mgg370096-fig-0001" ref-type="fig">1A,B</xref>). An abnormal hand position was described, with clenched fists apart from the thumbs (Figure&#x000a0;<xref rid="mgg370096-fig-0001" ref-type="fig">1C</xref>). The apical four&#x02010;chamber view revealed an elevated left hemidiaphragm with right axis deviation (Figure&#x000a0;<xref rid="mgg370096-fig-0002" ref-type="fig">2A</xref>). Finally, there was a suspicion of retrognathism (Figure&#x000a0;<xref rid="mgg370096-fig-0002" ref-type="fig">2B</xref>). In addition, a fetal MRI was performed at 27&#x02009;+&#x02009;4 WG, and despite numerous artifacts, noted cerebellar atrophy, given a transverse cerebellar diameter of 27.9&#x02009;mm (&#x0003c;&#x02009;3rd percentile), consistent with the measurement of 22.8&#x02009;mm by US at 25&#x02009;+&#x02009;5 WG.</p><fig position="float" fig-type="FIGURE" id="mgg370096-fig-0001"><label>FIGURE 1</label><caption><p>Prenatal ultrasound scan performed at 25 gestational weeks. (A) Transcerebellar axial sections displaying cerebellar hypoplasia (upper white arrow) and mega&#x02010;cisterna magna (lower white arrow). (B) Sagittal section displaying clubfoot (white arrow). (C) Sagittal sections displaying clenched fists (white arrows).</p></caption><graphic xlink:href="MGG3-13-e70096-g007" position="anchor" id="jats-graphic-3"/></fig><fig position="float" fig-type="FIGURE" id="mgg370096-fig-0002"><label>FIGURE 2</label><caption><p>Prenatal ultrasound scan performed at 25 gestational weeks. (A) Parasagittal section of the chest, displaying the elevated left hemidiaphragm (white arrows) and the stomach (red arrow) as an indirect sign of the diaphragmatic eventration. (B) Sagittal section displaying the micrognathia (white arrow).</p></caption><graphic xlink:href="MGG3-13-e70096-g005" position="anchor" id="jats-graphic-5"/></fig></sec><sec id="mgg370096-sec-0009"><label>2.2</label><title>Molecular Analyses</title><p>In the context of talipes equinovarus, targeted genetic testing for spinal muscular atrophy and myotonic dystrophy type 1 (Steinert's disease) was performed on DNA extracted from amniotic fluid and yielded negative results. Prenatal standard karyotype was noncontributory. Chromosomal microarray analysis (CMA) identified a typical 22q11.21 deletion, of a minimal size of 2.4&#x02009;Mb (arr[GRCh37]22q11.21(19023824_21464119)x1<italic toggle="yes">dn</italic>). This deletion was confirmed by FISH specific probes (TBX1 and TUPLE1) and was found de novo. Simultaneously, as part of a research program comparing the noninvasive approach and fetal exome sequencing (ES) in prenatal diagnosis based on fetal US signs (DPNI&#x02010;Exome), prenatal trio ES was performed both on DNA extracted, respectively from cultured amniocytes and fetoplacental cell&#x02010;free DNA in maternal plasma, as well as on DNA from parental blood samples, as previously described (Tran Mau&#x02010;Them et&#x000a0;al.&#x000a0;<xref rid="mgg370096-bib-0024" ref-type="bibr">2023</xref>). Variants were classified following the American College of Medical Genetics and Genomics recommendations (Richards et&#x000a0;al.&#x000a0;<xref rid="mgg370096-bib-0020" ref-type="bibr">2015</xref>).</p></sec></sec><sec sec-type="results" id="mgg370096-sec-0010"><label>3</label><title>Results</title><p>CMA and ES were performed simultaneously. They both identified only a sporadic heterozygous 22q11.21 deletion, responsible for 22q11.2DS (Figure&#x000a0;<xref rid="mgg370096-fig-0003" ref-type="fig">3A</xref>). This diagnosis well explained the excess of amniotic fluid and the talipes equinovarus. Although less prevalent, the diaphragmatic feature and abnormal posterior cranial fossa could also be part of the 22q11.2DS spectrum. However, the clenched fists could not be linked to this syndrome and thus remained unexplained. Medical termination of pregnancy was requested by the couple and performed at 30&#x02009;+&#x02009;3 WG. Given the presence of unusual distal upper limb phenotype, fetal autopsy was performed and revealed additional features including distal arthrogryposis of all limbs, postaxial polydactyly of both hands with clinodactyly of the 2nd digit (Figure&#x000a0;<xref rid="mgg370096-fig-0004" ref-type="fig">4</xref>), and facial features (hypertelorism, short philtrum, low&#x02010;set ears and hypoplastic lobes, microstomia, and microretrognathism). The thymus appeared hypoplastic. The diaphragmatic eventration was confirmed, associated with abnormal lung lobulation (right two lobes with incomplete fissure and unique left lobe). The prenatally diagnosed talipes equinovarus and cerebellar hypoplasia were also described. In addition, fetal X&#x02010;rays were performed, supporting the presence of micrognathia, talipes equinovarus, contractures of all limbs and the absence of craniosynostosis (Figure&#x000a0;<xref rid="mgg370096-fig-0005" ref-type="fig">5</xref>).</p><fig position="float" fig-type="FIGURE" id="mgg370096-fig-0003"><label>FIGURE 3</label><caption><p>Exome sequencing data of interest. (A) eXome Hidden Markov Model (XHMM) views, with green sections being the parents' 22q11 regions that match with the controls, and red section representing the fetus' 22q11.2 deletion. (B) Integrative Genomics Viewers (IGV) views of the <italic toggle="yes">SCARF2</italic> variant (upper&#x02009;=&#x02009;fetus, middle&#x02009;=&#x02009;father, lower&#x02009;=&#x02009;mother).</p></caption><graphic xlink:href="MGG3-13-e70096-g006" position="anchor" id="jats-graphic-7"/></fig><fig position="float" fig-type="FIGURE" id="mgg370096-fig-0004"><label>FIGURE 4</label><caption><p>Fetal autopsy performed after termination of pregnancy at 30&#x02009;+&#x02009;3 gestational weeks. (A) Front and profile photographs showing distal arthrogryposis affecting all limbs, talipes equinovarus, and low&#x02010;set ears. (B) Focus on right (upper) and left (lower) hands showing postaxial bilateral polydactyly and clenched fists.</p></caption><graphic xlink:href="MGG3-13-e70096-g003" position="anchor" id="jats-graphic-9"/></fig><fig position="float" fig-type="FIGURE" id="mgg370096-fig-0005"><label>FIGURE 5</label><caption><p>Fetal anteroposterior (A) and lateral (B) X&#x02010;rays performed at 30&#x02009;+&#x02009;3 gestational weeks showing contractures of all limbs, talipes equinovarus, and micrognathia. F, feet; H, head; L, left; R, right.</p></caption><graphic xlink:href="MGG3-13-e70096-g004" position="anchor" id="jats-graphic-11"/></fig><p>Based on these results, the clinician requested an ES reanalysis in search of a second disease responsible for the additional/atypical signs to provide appropriate genetic counselling for this couple. ES reanalysis allowed the identification of a paternally inherited SNV, affecting the initiation codon of the <italic toggle="yes">SCARF2</italic> gene: NM_182895.5:c.3G &#x0003e; A, NP_878315.2:p.(Met?) (Figure&#x000a0;<xref rid="mgg370096-fig-0003" ref-type="fig">3B</xref>). This variant had never been reported and was considered pathogenic based on the ACMG criteria (Richards et&#x000a0;al.&#x000a0;<xref rid="mgg370096-bib-0020" ref-type="bibr">2015</xref>) (PM3, PVS1, and PM2). This gene, being located in the 22q11.21 region, was responsible for the VDEGS, following a compound heterozygous transmission of both pathogenic deletion and SNV. This AR disorder, in association with 22q11DS, explains the entirety of this fetus clinical picture (Table&#x000a0;<xref rid="mgg370096-tbl-0001" ref-type="table">1</xref>).</p><table-wrap position="float" id="mgg370096-tbl-0001" content-type="TABLE"><label>TABLE 1</label><caption><p>Clinical description of both patients with Van Den Ende&#x02013;Gupta and 22q11.21 deletion syndromes, displaying distinct and on the contrary shared phenotypic features.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><tbody valign="top"><tr><td valign="middle" align="left" rowspan="1" colspan="1">
+<inline-graphic xlink:href="MGG3-13-e70096-g001.jpg" xlink:title="image"/>
+</td></tr></tbody></table></table-wrap></sec><sec sec-type="discussion" id="mgg370096-sec-0011"><label>4</label><title>Discussion</title><p>We report the first prenatal case of linked double molecular diagnosis of Van den Ende&#x02013;Gupta and 22q11 deletion syndromes. Both syndromes, caused by a pathogenic CNV facing a hemizygous SNV in the <italic toggle="yes">SCARF2</italic> gene, have been described once by Bedeschi et&#x000a0;al.&#x000a0;(<xref rid="mgg370096-bib-0003" ref-type="bibr">2010</xref>) in a young girl presenting with clubfeet, arachnocamptodactyly, skeletal anomalies, facial features, neonatal hypocalcemia, and mild motor developmental delay (Table&#x000a0;<xref rid="mgg370096-tbl-0001" ref-type="table">1</xref>). They reported that CMA identified a 22q11.21 deletion and, at the clinician's request (likely prompted by the concomitant identification of the AR VDEGS) Sanger sequencing of the <italic toggle="yes">SCARF2</italic> gene was performed and revealed a hemizygous splice acceptor variant, inherited from her heterozygous carrier mother.</p><p>22q11.2DS is well&#x02010;characterized and causes inconstant congenital anomalies. Main features are cardiac and palate anomalies, endocrine and immune disorders, global developmental delay&#x02014;with or without intellectual disability, and behavioral and psychiatric disorders (McDonald&#x02010;McGinn et&#x000a0;al.&#x000a0;<xref rid="mgg370096-bib-0014" ref-type="bibr">2024</xref>). This syndrome is known for its variable expressivity. 22q11.2DS explains most of the fetus' clinical signs. Talipes equinovarus has a prevalence 30 times higher than observed in the general population (Homans et&#x000a0;al.&#x000a0;<xref rid="mgg370096-bib-0011" ref-type="bibr">2018</xref>). Thymus hypoplasia is a cardinal sign of the syndrome. Cerebellar hypoplasia has been recently described as a feature of 22q11.2DS, with significantly lower cerebellar lobules (Schmitt et&#x000a0;al.&#x000a0;<xref rid="mgg370096-bib-0021" ref-type="bibr">2023</xref>) and significant deficits in grey matter volume within the cerebellum (Ge et&#x000a0;al.&#x000a0;<xref rid="mgg370096-bib-0007" ref-type="bibr">2024</xref>). Although not typical features of 22q11.2DS, among other skeletal anomalies, pre or postaxial polydactyly has also been described as high as 4% (Ming et&#x000a0;al.&#x000a0;<xref rid="mgg370096-bib-0015" ref-type="bibr">1997</xref>). Diaphragmatic eventration must be screened for at birth in individuals carrying a 22q11.2 deletion, as it may impact the neonatal prognosis&#x000a0;(<xref rid="mgg370096-bib-0005" ref-type="bibr">D&#x000e9;l&#x000e9;tion 22q11</xref>). Lastly, abnormal lung lobulation is not common but has already been described (McDonald&#x02010;McGinn et&#x000a0;al.&#x000a0;<xref rid="mgg370096-bib-0014" ref-type="bibr">2024</xref>).</p><p>VDEGS was first clinically described in 1992 and 1995, respectively, by Van den Ende et&#x000a0;al.&#x000a0;(<xref rid="mgg370096-bib-0026" ref-type="bibr">1992</xref>) and Gupta et&#x000a0;al.&#x000a0;(<xref rid="mgg370096-bib-0008" ref-type="bibr">1995</xref>), both suggesting an AR syndrome. The molecular basis (pathogenic biallelic variants in the <italic toggle="yes">SCARF2</italic> gene) was discovered a few years later by Anastasio et&#x000a0;al.&#x000a0;(<xref rid="mgg370096-bib-0001" ref-type="bibr">2010</xref>). To date, 35 patients have been described (Hildebrandt et&#x000a0;al.&#x000a0;<xref rid="mgg370096-bib-0010" ref-type="bibr">2021</xref>; Karaer and Karaer&#x000a0;<xref rid="mgg370096-bib-0012" ref-type="bibr">2022</xref>; Odeh et&#x000a0;al.&#x000a0;<xref rid="mgg370096-bib-0017" ref-type="bibr">2022</xref>). Fifteen individuals were diagnosed clinically without <italic toggle="yes">SCARF2</italic> sequencing, eighteen presented with homozygous variants (mainly born from consanguineous couple), and two with compound heterozygous variants, including the patient reported by Bedeschi et&#x000a0;al.&#x000a0;(<xref rid="mgg370096-bib-0003" ref-type="bibr">2010</xref>). VDEGS is characterized by craniofacial and skeletal anomalies, without intellectual disability. This syndrome well explains the arthrogryposis described in our fetus and part of his facial features (microretrognathism, microstomia, hypoplastic ear lobes and nose anomalies to a lesser extent).</p><p>In this case, the genetic counselling was not significantly modified by the detection of the additional paternally inherited pathogenic variant in the <italic toggle="yes">SCARF2</italic> gene, since the 22q11.21 deletion occurred sporadically. The maternal ES data were assessed in search of a <italic toggle="yes">SCARF2</italic> variant, even though the probability was minimal given the low frequency of this syndrome. For their following pregnancy, given the risk of germline mosaicism for the CNV, the couple decided to undergo prenatal diagnosis. Both 22q11 FISH probe and karyotype were reassuring, and they gave birth to a healthy boy, born from an uneventful pregnancy.</p><p>Autosomal recessive disorders imply a risk of recurrence of 25% assuming inheritance of one causative allele from each asymptomatic parent. In a low percentage, which has not been described, such diagnoses may imply one de novo event, lowering the risk of recurrence, as it is the case for our family. Another interesting feature of our genotypically linked diagnoses is the joint contribution of a causal CNV by itself, unveiling a SNV for a recessive disorder on the second unscathed allele resulting in a dual diagnosis. Out of a cohort of more than 80,000 CMA/ES data, Yuan et&#x000a0;al.&#x000a0;(<xref rid="mgg370096-bib-0029" ref-type="bibr">2020</xref>) investigated the CNV's contribution to AR disorders. Out of 87 cases with such mechanism, five had large deletions unmasking a causal recessive SNV/indel resulting in a multiple molecular diagnosis. One patient carried a 22q11 deletion, unmasking a deletion of exons 3&#x02013;9 of the <italic toggle="yes">TANGO2</italic> gene (MIM*616830), responsible for a neurometabolic disorder (MIM#616878).</p><p>Seven of nine genes implicated in AR disorders within the 22q11.21 deletion of our patient&#x000a0;(<xref rid="mgg370096-bib-0022" ref-type="bibr">Search&#x02014;DECIPHER v11.26</xref>) are associated with AR disorders implying 22q11DS (Eguchi et&#x000a0;al.&#x000a0;<xref rid="mgg370096-bib-0006" ref-type="bibr">2018</xref>; Unolt et&#x000a0;al.&#x000a0;<xref rid="mgg370096-bib-0025" ref-type="bibr">2020</xref>; Nagoshi et&#x000a0;al.&#x000a0;<xref rid="mgg370096-bib-0016" ref-type="bibr">2024</xref>; McDonald&#x02010;McGinn et&#x000a0;al.&#x000a0;<xref rid="mgg370096-bib-0013" ref-type="bibr">2013</xref>; Chinton et&#x000a0;al.&#x000a0;<xref rid="mgg370096-bib-0004" ref-type="bibr">2022</xref>; Wilson et&#x000a0;al.&#x000a0;<xref rid="mgg370096-bib-0028" ref-type="bibr">1993</xref>) and are summarized in Table&#x000a0;<xref rid="mgg370096-tbl-0002" ref-type="table">2</xref>. These findings suggest that part of the phenotypic heterogeneity in individuals with 22q11.2DS could be explained by a pathogenic variant implicated in an AR disorder on the opposite allele. In cohorts dedicated to multiple molecular diagnosis, such a mechanism has not been described (Posey et&#x000a0;al.&#x000a0;<xref rid="mgg370096-bib-0018" ref-type="bibr">2017</xref>; Balci et&#x000a0;al.&#x000a0;<xref rid="mgg370096-bib-0002" ref-type="bibr">2017</xref>; Racine et&#x000a0;al.&#x000a0;<xref rid="mgg370096-bib-0019" ref-type="bibr">2023</xref>).</p><table-wrap position="float" id="mgg370096-tbl-0002" content-type="TABLE"><label>TABLE 2</label><caption><p>Published cases with 22q11.21 deletion syndrome unmasking a causal recessive SNV.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">Gene (OMIM number)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Matching phenotype (OMIM number)</th><th align="center" valign="bottom" rowspan="1" colspan="1">References</th></tr></thead><tbody valign="top"><tr><td align="left" rowspan="7" valign="top" colspan="1">22q11.21 deletion syndrome associated with</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">SLC25A1</italic> (190315)</td><td align="center" valign="top" rowspan="1" colspan="1">Combined D&#x02010;2&#x02010; and L&#x02010;2&#x02010;hydroxyglutaric aciduria (615182)</td><td align="center" valign="top" rowspan="1" colspan="1">Eguchi et&#x000a0;al.&#x000a0;(<xref rid="mgg370096-bib-0006" ref-type="bibr">2018</xref>)</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">CDC45</italic> (603465)</td><td align="center" valign="top" rowspan="1" colspan="1">Meier&#x02013;Gorlin syndrome 7 (617063)</td><td align="center" valign="top" rowspan="1" colspan="1">Unolt et&#x000a0;al.&#x000a0;(<xref rid="mgg370096-bib-0025" ref-type="bibr">2020</xref>)</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">GP1BB</italic> (138720)</td><td align="center" valign="top" rowspan="1" colspan="1">Bernard&#x02013;Soulier syndrome, type B (231200)</td><td align="center" valign="top" rowspan="1" colspan="1">Nagoshi et&#x000a0;al.&#x000a0;(<xref rid="mgg370096-bib-0016" ref-type="bibr">2024</xref>)</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">TANGO2</italic> (616830)</td><td align="center" valign="top" rowspan="1" colspan="1">Metabolic encephalomyopathic crises, recurrent, with rhabdomyolysis, cardiac arrhythmias, and neurodegeneration (616878)</td><td align="center" valign="top" rowspan="1" colspan="1">Yuan et&#x000a0;al.&#x000a0;(<xref rid="mgg370096-bib-0029" ref-type="bibr">2020</xref>)</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">SCARF2</italic> (613619)</td><td align="center" valign="top" rowspan="1" colspan="1">Van den Ende&#x02013;Gupta syndrome (600920)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Bedeschi et&#x000a0;al.&#x000a0;(<xref rid="mgg370096-bib-0003" ref-type="bibr">2010</xref>)</p>
+<p>Our case</p>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">SNAP29</italic> (604202)</td><td align="center" valign="top" rowspan="1" colspan="1">Cerebral dysgenesis, neuropathy, ichthyosis, and palmoplantar keratoderma syndrome (609528)</td><td align="center" valign="top" rowspan="1" colspan="1">McDonald&#x02010;McGinn et&#x000a0;al.&#x000a0;(<xref rid="mgg370096-bib-0013" ref-type="bibr">2013</xref>)</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">LZTR1</italic> (600574)</td><td align="center" valign="top" rowspan="1" colspan="1">Noonan syndrome 2 (605275)</td><td align="center" valign="top" rowspan="1" colspan="1">Wilson et&#x000a0;al.&#x000a0;(<xref rid="mgg370096-bib-0028" ref-type="bibr">1993</xref>) and Chinton et&#x000a0;al.&#x000a0;(<xref rid="mgg370096-bib-0004" ref-type="bibr">2022</xref>)</td></tr></tbody></table></table-wrap><p>Indeed, 22q11.2DS is not the only recurrent syndrome implicated in linked dual diagnoses. Cystic fibrosis (MIM#219700) is a common rare disease, caused by homozygous or compound heterozygous variants in the <italic toggle="yes">CFTR</italic> gene (MIM*602421). This gene is located on chromosome 7, which is also involved in Silver&#x02013;Russell syndrome type 2 (MIM#618905), caused by chromosome 7 maternal uniparental disomy. In the literature, three cases of cystic fibrosis were caused by the transmission of a maternally heterozygous variant in the <italic toggle="yes">CFTR</italic> gene associated with maternal disomy resulting in causal homozygosity for all three cases (Hehr et&#x000a0;al.&#x000a0;<xref rid="mgg370096-bib-0009" ref-type="bibr">2000</xref>; Spence et&#x000a0;al.&#x000a0;<xref rid="mgg370096-bib-0023" ref-type="bibr">1988</xref>; Voss et&#x000a0;al.&#x000a0;<xref rid="mgg370096-bib-0027" ref-type="bibr">1989</xref>).</p><p>The case reported here reflects the crucial role of precise phenotypic description and the importance of searching for MMD in case of incomplete and/or atypical clinical presentation. The implication of independently causal CNVs in AR disorders should not be neglected. Atypical clinical presentation of well&#x02010;characterized syndromes, such as 22q11.2DS, should always lead to the reassessment of the diagnosis, given great implications on both clinical management and genetic counselling. In addition, prenatal phenotypes remain a challenge given the complexity of their description and the paucity of available known prenatal data for most rare genetic diseases. Prenatal phenotypic description benefits from the constant improvement of ultrasound scanners.</p></sec><sec id="mgg370096-sec-0012"><title>Author Contributions</title><p>Conceptualization: C.R. and L.F. Data curation: all authors. Formal analysis: H.S., F.T.H., L.M., A.&#x02010;L.B., and C.P. Writing &#x02013; original draft: C.R. and L.F. Writing &#x02013; review and editing: all authors.</p></sec><sec id="mgg370096-sec-0014"><title>Ethics Statement</title><p>This study involves human participants and was approved by Dijon University Hospital (GAD collection DC&#x02010;2011&#x02010;1332). The study was performed within the framework of the GAD collection.</p></sec><sec sec-type="conclusions" id="mgg370096-sec-0015"><title>Consent</title><p>Both legal representatives provided a written informed consent for genetic tests and publication of molecular and clinical data, including autopsy pictures excluding the face.</p></sec><sec sec-type="COI-statement" id="mgg370096-sec-0016"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec></body><back><ack id="mgg370096-sec-0013"><title>Acknowledgments</title><p>The authors thank the family for taking part in the study. Several physicians who actively participated in the study are members of the European Reference Network for Developmental Anomalies and Intellectual Disability (ERN&#x02010;ITHACA). We thank the University of Burgundy Centre de Calcul (CCuB) for technical support and management of the informatics platform.</p></ack><sec sec-type="data-availability" id="mgg370096-sec-0018"><title>Data Availability Statement</title><p>Data that supports the findings of this study are available upon request from the corresponding author.</p></sec><ref-list content-type="cited-references" id="mgg370096-bibl-0001"><title>References</title><ref id="mgg370096-bib-0001"><mixed-citation publication-type="journal" id="mgg370096-cit-0001">
+<string-name>
+<surname>Anastasio</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Ben&#x02010;Omran</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Teebi</surname>
+</string-name>, et&#x000a0;al. <year>2010</year>. &#x0201c;<article-title>Mutations in SCARF2 Are Responsible for Van Den Ende&#x02013;Gupta Syndrome</article-title>.&#x0201d; <source>American Journal of Human Genetics</source>
+<volume>87</volume>, no. <issue>4</issue>: <fpage>553</fpage>&#x02013;<lpage>559</lpage>. <pub-id pub-id-type="doi">10.1016/j.ajhg.2010.09.005</pub-id>.<pub-id pub-id-type="pmid">20887961</pub-id>
+</mixed-citation></ref><ref id="mgg370096-bib-0002"><mixed-citation publication-type="journal" id="mgg370096-cit-0002">
+<string-name>
+<surname>Balci</surname>, <given-names>T. B.</given-names>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Hartley</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Xi</surname>
+</string-name>, et&#x000a0;al. <year>2017</year>. &#x0201c;<article-title>Debunking Occam's Razor: Diagnosing Multiple Genetic Diseases in Families by Whole&#x02010;Exome Sequencing</article-title>.&#x0201d; <source>Clinical Genetics</source>
+<volume>92</volume>, no. <issue>3</issue>: <fpage>281</fpage>&#x02013;<lpage>289</lpage>. <pub-id pub-id-type="doi">10.1111/cge.12987</pub-id>.<pub-id pub-id-type="pmid">28170084</pub-id>
+</mixed-citation></ref><ref id="mgg370096-bib-0003"><mixed-citation publication-type="journal" id="mgg370096-cit-0003">
+<string-name>
+<surname>Bedeschi</surname>, <given-names>M. F.</given-names>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Colombo</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Mari</surname>
+</string-name>, et&#x000a0;al. <year>2010</year>. &#x0201c;<article-title>Unmasking of a Recessive SCARF2 Mutation by a 22q11.12 De Novo Deletion in a Patient With Van den Ende&#x02013;Gupta Syndrome</article-title>.&#x0201d; <source>Molecular Syndromology</source>
+<volume>1</volume>, no. <issue>5</issue>: <fpage>239</fpage>&#x02013;<lpage>245</lpage>. <pub-id pub-id-type="doi">10.1159/000328135</pub-id>.<pub-id pub-id-type="pmid">22140376</pub-id>
+</mixed-citation></ref><ref id="mgg370096-bib-0004"><mixed-citation publication-type="journal" id="mgg370096-cit-0004">
+<string-name>
+<surname>Chinton</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Huckstadt</surname>
+</string-name>, <string-name>
+<given-names>M. E.</given-names>
+<surname>Foncuberta</surname>
+</string-name>, et&#x000a0;al. <year>2022</year>. &#x0201c;<article-title>Challenges in Genetic Diagnosis, Co&#x02010;Occurrence of 22q11.2 Deletion Syndrome and Noonan Syndrome</article-title>.&#x0201d; <source>American Journal of Medical Genetics. Part A</source>
+<volume>188</volume>, no. <issue>8</issue>: <fpage>2505</fpage>&#x02013;<lpage>2508</lpage>. <pub-id pub-id-type="doi">10.1002/ajmg.a.62862</pub-id>.<pub-id pub-id-type="pmid">35689529</pub-id>
+</mixed-citation></ref><ref id="mgg370096-bib-0005"><mixed-citation publication-type="miscellaneous" id="mgg370096-cit-0005">
+<collab collab-type="authors">D&#x000e9;l&#x000e9;tion 22q11</collab>
+. <article-title>&#x0201c;Haute Autorit&#x000e9; de Sant&#x000e9;</article-title>.&#x0201d; Accessed July 14, 2024. <ext-link xlink:href="https://www.has-sante.fr/jcms/c_2589363/fr/deletion-22q11" ext-link-type="uri">https://www.has&#x02010;sante.fr/jcms/c_2589363/fr/deletion&#x02010;22q11</ext-link>.</mixed-citation></ref><ref id="mgg370096-bib-0006"><mixed-citation publication-type="journal" id="mgg370096-cit-0006">
+<string-name>
+<surname>Eguchi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Ozaki</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Yamauchi</surname>
+</string-name>, et&#x000a0;al. <year>2018</year>. &#x0201c;<article-title>Manifestation of Recessive Combined D&#x02010;2&#x02010;, L&#x02010;2&#x02010;Hydroxyglutaric Aciduria in Combination With 22q11.2 Deletion Syndrome</article-title>.&#x0201d; <source>American Journal of Medical Genetics. Part A</source>
+<volume>176</volume>, no. <issue>2</issue>: <fpage>351</fpage>&#x02013;<lpage>358</lpage>. <pub-id pub-id-type="doi">10.1002/ajmg.a.38578</pub-id>.<pub-id pub-id-type="pmid">29265763</pub-id>
+</mixed-citation></ref><ref id="mgg370096-bib-0007"><mixed-citation publication-type="journal" id="mgg370096-cit-0007">
+<string-name>
+<surname>Ge</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<given-names>C. R. K.</given-names>
+<surname>Ching</surname>
+</string-name>, <string-name>
+<given-names>A. S.</given-names>
+<surname>Bassett</surname>
+</string-name>, et&#x000a0;al. <year>2024</year>. &#x0201c;<article-title>Source&#x02010;Based Morphometry Reveals Structural Brain Pattern Abnormalities in 22q11.2 Deletion Syndrome</article-title>.&#x0201d; <source>Human Brain Mapping</source>
+<volume>45</volume>, no. <issue>1</issue>: <elocation-id>e26553</elocation-id>. <pub-id pub-id-type="doi">10.1002/hbm.26553</pub-id>.<pub-id pub-id-type="pmid">38224541</pub-id>
+</mixed-citation></ref><ref id="mgg370096-bib-0008"><mixed-citation publication-type="journal" id="mgg370096-cit-0008">
+<string-name>
+<surname>Gupta</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<given-names>C. M.</given-names>
+<surname>Hall</surname>
+</string-name>, <string-name>
+<given-names>Y. F.</given-names>
+<surname>Ransley</surname>
+</string-name>, and <string-name>
+<given-names>V. A.</given-names>
+<surname>Murday</surname>
+</string-name>. <year>1995</year>. &#x0201c;<article-title>A New Autosomal Recessive Syndrome of Characteristic Facies, Joint Contractures, Skeletal Abnormalities, and Normal Development: Second Report With Further Clinical Delineation</article-title>.&#x0201d; <source>Journal of Medical Genetics</source>
+<volume>32</volume>, no. <issue>10</issue>: <fpage>809</fpage>&#x02013;<lpage>812</lpage>. <pub-id pub-id-type="doi">10.1136/jmg.32.10.809</pub-id>.<pub-id pub-id-type="pmid">8558561</pub-id>
+</mixed-citation></ref><ref id="mgg370096-bib-0009"><mixed-citation publication-type="journal" id="mgg370096-cit-0009">
+<string-name>
+<surname>Hehr</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>D&#x000f6;rr</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Hagemann</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Hansmann</surname>
+</string-name>, <string-name>
+<given-names>U.</given-names>
+<surname>Preiss</surname>
+</string-name>, and <string-name>
+<given-names>S.</given-names>
+<surname>Br&#x000f6;mme</surname>
+</string-name>. <year>2000</year>. &#x0201c;<article-title>Silver&#x02013;Russell Syndrome and Cystic Fibrosis Associated With Maternal Uniparental Disomy 7</article-title>.&#x0201d; <source>American Journal of Medical Genetics</source>
+<volume>91</volume>, no. <issue>3</issue>: <fpage>237</fpage>&#x02013;<lpage>239</lpage>. <pub-id pub-id-type="doi">10.1002/(SICI)1096-8628(20000320)91:3&#x0003c;237::AID-AJMG17&#x0003e;3.0.CO;2&#x02013;8</pub-id>.<pub-id pub-id-type="pmid">10756351</pub-id>
+</mixed-citation></ref><ref id="mgg370096-bib-0010"><mixed-citation publication-type="journal" id="mgg370096-cit-0010">
+<string-name>
+<surname>Hildebrandt</surname>, <given-names>C. C.</given-names>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Patel</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Graham</surname>
+<suffix>Jr.</suffix>
+</string-name>, et&#x000a0;al. <year>2021</year>. &#x0201c;<article-title>Further Delineation of van den Ende&#x02013;Gupta Syndrome: Genetic Heterogeneity and Overlap With Congenital Heart Defects and Skeletal Malformations Syndrome</article-title>.&#x0201d; <source>American Journal of Medical Genetics. Part A</source>
+<volume>185</volume>, no. <issue>7</issue>: <fpage>2136</fpage>&#x02013;<lpage>2149</lpage>. <pub-id pub-id-type="doi">10.1002/ajmg.a.62194</pub-id>.<pub-id pub-id-type="pmid">33783941</pub-id>
+</mixed-citation></ref><ref id="mgg370096-bib-0011"><mixed-citation publication-type="journal" id="mgg370096-cit-0011">
+<string-name>
+<surname>Homans</surname>, <given-names>J. F.</given-names>
+</string-name>, <string-name>
+<given-names>T. B.</given-names>
+<surname>Crowley</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Chen</surname>
+</string-name>, et&#x000a0;al. <year>2018</year>. &#x0201c;<article-title>Club Foot in Association With the 22q11.2 Deletion Syndrome: An Observational Study</article-title>.&#x0201d; <source>American Journal of Medical Genetics. Part A</source>
+<volume>176</volume>, no. <issue>10</issue>: <fpage>2135</fpage>&#x02013;<lpage>2139</lpage>. <pub-id pub-id-type="doi">10.1002/ajmg.a.40649</pub-id>.<pub-id pub-id-type="pmid">30380189</pub-id>
+</mixed-citation></ref><ref id="mgg370096-bib-0012"><mixed-citation publication-type="journal" id="mgg370096-cit-0012">
+<string-name>
+<surname>Karaer</surname>, <given-names>D.</given-names>
+</string-name>, and <string-name>
+<given-names>K.</given-names>
+<surname>Karaer</surname>
+</string-name>. <year>2022</year>. &#x0201c;<article-title>Two Novel Variants in SCARF2 Gene Underlie van den Ende&#x02013;Gupta Syndrome</article-title>.&#x0201d; <source>American Journal of Medical Genetics. Part A</source>
+<volume>188</volume>, no. <issue>6</issue>: <fpage>1881</fpage>&#x02013;<lpage>1884</lpage>. <pub-id pub-id-type="doi">10.1002/ajmg.a.62707</pub-id>.<pub-id pub-id-type="pmid">35224863</pub-id>
+</mixed-citation></ref><ref id="mgg370096-bib-0013"><mixed-citation publication-type="journal" id="mgg370096-cit-0013">
+<string-name>
+<surname>McDonald&#x02010;McGinn</surname>, <given-names>D. M.</given-names>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Fahiminiya</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Revil</surname>
+</string-name>, et&#x000a0;al. <year>2013</year>. &#x0201c;<article-title>Hemizygous Mutations in SNAP29 Unmask Autosomal Recessive Conditions and Contribute to Atypical Findings in Patients With 22q11.2DS</article-title>.&#x0201d; <source>Journal of Medical Genetics</source>
+<volume>50</volume>, no. <issue>2</issue>: <fpage>80</fpage>&#x02013;<lpage>90</lpage>. <pub-id pub-id-type="doi">10.1136/jmedgenet-2012-101320</pub-id>.<pub-id pub-id-type="pmid">23231787</pub-id>
+</mixed-citation></ref><ref id="mgg370096-bib-0014"><mixed-citation publication-type="book" id="mgg370096-cit-0014">
+<string-name>
+<surname>McDonald&#x02010;McGinn</surname>, <given-names>D. M.</given-names>
+</string-name>, <string-name>
+<given-names>H. S.</given-names>
+<surname>Hain</surname>
+</string-name>, <string-name>
+<given-names>B. S.</given-names>
+<surname>Emanuel</surname>
+</string-name>, and <string-name>
+<given-names>E. H.</given-names>
+<surname>Zackai</surname>
+</string-name>. <year>2024</year>. &#x0201c;<part-title>22q11.2 Deletion Syndrome</part-title>.&#x0201d; In <source>GeneReviews</source> [Internet], edited by <person-group person-group-type="editor">
+<string-name>
+<given-names>M. P.</given-names>
+<surname>Adam</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name>
+<given-names>J.</given-names>
+<surname>Feldman</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name>
+<given-names>G. M.</given-names>
+<surname>Mirzaa</surname>
+</string-name>
+</person-group>, et&#x000a0;al. <publisher-name>University of Washington</publisher-name>. <ext-link xlink:href="https://www.ncbi.nlm.nih.gov/sites/books/NBK1523/" ext-link-type="uri">https://www.ncbi.nlm.nih.gov/sites/books/NBK1523/</ext-link>.</mixed-citation></ref><ref id="mgg370096-bib-0015"><mixed-citation publication-type="journal" id="mgg370096-cit-0015">
+<string-name>
+<surname>Ming</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name>
+<given-names>M. D.&#x02010;M. G.</given-names>
+<surname>DM</surname>
+</string-name>, <string-name>
+<given-names>T. E.</given-names>
+<surname>Megerian</surname>
+</string-name>, et&#x000a0;al. <year>1997</year>. &#x0201c;<article-title>Skeletal Anomalies and Deformities in Patients With Deletions of 22q11</article-title>.&#x0201d; <source>American Journal of Medical Genetics</source>
+<volume>72</volume>, no. <issue>2</issue>: <fpage>210</fpage>&#x02013;<lpage>215</lpage>. <pub-id pub-id-type="doi">10.1002/(sici)1096-8628(19971017)72:2&#x0003c;210::aid-ajmg16&#x0003e;3.0.co;2-q</pub-id>.<pub-id pub-id-type="pmid">9382145</pub-id>
+</mixed-citation></ref><ref id="mgg370096-bib-0016"><mixed-citation publication-type="journal" id="mgg370096-cit-0016">
+<string-name>
+<surname>Nagoshi</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Sakamoto</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Imai</surname>
+</string-name>, et&#x000a0;al. <year>2024</year>. &#x0201c;<article-title>Bernard&#x02013;Soulier Syndrome Caused by a Novel GP1BB Variant and 22q11.2 Deletion</article-title>.&#x0201d; <source>International Journal of Hematology</source>
+<volume>120</volume>, no. <issue>1</issue>: <fpage>142</fpage>&#x02013;<lpage>145</lpage>. <pub-id pub-id-type="doi">10.1007/s12185-024-03768-2</pub-id>.<pub-id pub-id-type="pmid">38625506</pub-id>
+</mixed-citation></ref><ref id="mgg370096-bib-0017"><mixed-citation publication-type="journal" id="mgg370096-cit-0017">
+<string-name>
+<surname>Odeh</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Barqawi</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Rashid</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Almashhdi</surname>
+</string-name>, and <string-name>
+<given-names>M.</given-names>
+<surname>Shboul</surname>
+</string-name>. <year>2022</year>. &#x0201c;<article-title>Identification of a Novel Variant of SCARF2 in a Jordanian Family With a van den Ende&#x02013;Gupta Syndrome and Literature Review</article-title>.&#x0201d; <source>Clinical Dysmorphology</source>
+<volume>31</volume>, no. <issue>3</issue>: <fpage>157</fpage>. <pub-id pub-id-type="doi">10.1097/MCD.0000000000000415</pub-id>.<pub-id pub-id-type="pmid">35256560</pub-id>
+</mixed-citation></ref><ref id="mgg370096-bib-0018"><mixed-citation publication-type="journal" id="mgg370096-cit-0018">
+<string-name>
+<surname>Posey</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Harel</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Liu</surname>
+</string-name>, et&#x000a0;al. <year>2017</year>. &#x0201c;<article-title>Resolution of Disease Phenotypes Resulting From Multilocus Genomic Variation</article-title>.&#x0201d; <source>New England Journal of Medicine</source>
+<volume>376</volume>, no. <issue>1</issue>: <fpage>21</fpage>&#x02013;<lpage>31</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa1516767</pub-id>.<pub-id pub-id-type="pmid">27959697</pub-id>
+</mixed-citation></ref><ref id="mgg370096-bib-0019"><mixed-citation publication-type="journal" id="mgg370096-cit-0019">
+<string-name>
+<surname>Racine</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<given-names>A. S.</given-names>
+<surname>Denomm&#x000e9;&#x02010;Pichon</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Engel</surname>
+</string-name>, et&#x000a0;al. <year>2023</year>. &#x0201c;<article-title>Multiple Molecular Diagnoses in the Field of Intellectual Disability and Congenital Anomalies: 3.5% of All Positive Cases</article-title>.&#x0201d; <source>Journal of Medical Genetics</source>
+<volume>61</volume>, no. <issue>1</issue>: <fpage>36</fpage>&#x02013;<lpage>46</lpage>. <pub-id pub-id-type="doi">10.1136/jmg-2023-109170</pub-id>.<pub-id pub-id-type="pmid">37586840</pub-id>
+</mixed-citation></ref><ref id="mgg370096-bib-0020"><mixed-citation publication-type="journal" id="mgg370096-cit-0020">
+<string-name>
+<surname>Richards</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Aziz</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Bale</surname>
+</string-name>, et&#x000a0;al. <year>2015</year>. &#x0201c;<article-title>Standards and Guidelines for the Interpretation of Sequence Variants: A Joint Consensus Recommendation of the American College of Medical Genetics and Genomics and the Association for Molecular Pathology</article-title>.&#x0201d; <source>Genetics in Medicine</source>
+<volume>17</volume>, no. <issue>5</issue>: <fpage>405</fpage>&#x02013;<lpage>424</lpage>. <pub-id pub-id-type="doi">10.1038/gim.2015.30</pub-id>.<pub-id pub-id-type="pmid">25741868</pub-id>
+</mixed-citation></ref><ref id="mgg370096-bib-0021"><mixed-citation publication-type="journal" id="mgg370096-cit-0021">
+<string-name>
+<surname>Schmitt</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name>
+<given-names>J. J.</given-names>
+<surname>DeBevits</surname>
+</string-name>, <string-name>
+<given-names>D. R.</given-names>
+<surname>Roalf</surname>
+</string-name>, et&#x000a0;al. <year>2023</year>. &#x0201c;<article-title>A Comprehensive Analysis of Cerebellar Volumes in the 22Q11.2 Deletion Syndrome</article-title>.&#x0201d; <source>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging</source>
+<volume>8</volume>, no. <issue>1</issue>: <fpage>79</fpage>&#x02013;<lpage>90</lpage>. <pub-id pub-id-type="doi">10.1016/j.bpsc.2021.11.008</pub-id>.<pub-id pub-id-type="pmid">34848384</pub-id>
+</mixed-citation></ref><ref id="mgg370096-bib-0022"><mixed-citation publication-type="miscellaneous" id="mgg370096-cit-0022">&#x0201c;<article-title>Search&#x02014;DECIPHER v11.26</article-title>.&#x0201d; Accessed July 14, 2024. <ext-link xlink:href="https://www.deciphergenomics.org/search/genes?q=22%3A19036311-21109830" ext-link-type="uri">https://www.deciphergenomics.org/search/genes?q=22%3A19036311&#x02010;21109830</ext-link>.</mixed-citation></ref><ref id="mgg370096-bib-0023"><mixed-citation publication-type="journal" id="mgg370096-cit-0023">
+<string-name>
+<surname>Spence</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name>
+<given-names>R. G.</given-names>
+<surname>Perciaccante</surname>
+</string-name>, <string-name>
+<given-names>G. M.</given-names>
+<surname>Greig</surname>
+</string-name>, et&#x000a0;al. <year>1988</year>. &#x0201c;<article-title>Uniparental Disomy as a Mechanism for Human Genetic Disease</article-title>.&#x0201d; <source>American Journal of Human Genetics</source>
+<volume>42</volume>, no. <issue>2</issue>: <fpage>217</fpage>&#x02013;<lpage>226</lpage>.<pub-id pub-id-type="pmid">2893543</pub-id>
+</mixed-citation></ref><ref id="mgg370096-bib-0024"><mixed-citation publication-type="journal" id="mgg370096-cit-0024">
+<string-name>
+<surname>Tran Mau&#x02010;Them</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Delanne</surname>
+</string-name>, <string-name>
+<given-names>A. S.</given-names>
+<surname>Denomm&#x000e9;&#x02010;Pichon</surname>
+</string-name>, et&#x000a0;al. <year>2023</year>. &#x0201c;<article-title>Prenatal Diagnosis by Trio Exome Sequencing in Fetuses With Ultrasound Anomalies: A Powerful Diagnostic Tool</article-title>.&#x0201d; <source>Frontiers in Genetics</source>
+<volume>14</volume>: <elocation-id>1099995</elocation-id>. <pub-id pub-id-type="doi">10.3389/fgene.2023.1099995</pub-id>.<pub-id pub-id-type="pmid">37035737</pub-id>
+</mixed-citation></ref><ref id="mgg370096-bib-0025"><mixed-citation publication-type="journal" id="mgg370096-cit-0025">
+<string-name>
+<surname>Unolt</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Kammoun</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Nowakowska</surname>
+</string-name>, et&#x000a0;al. <year>2020</year>. &#x0201c;<article-title>Pathogenic Variants in CDC45 on the Remaining Allele in Patients With a Chromosome 22q11.2 Deletion Result in a Novel Autosomal Recessive Condition</article-title>.&#x0201d; <source>Genetics in Medicine</source>
+<volume>22</volume>, no. <issue>2</issue>: <fpage>326</fpage>&#x02013;<lpage>335</lpage>. <pub-id pub-id-type="doi">10.1038/s41436-019-0645-4</pub-id>.<pub-id pub-id-type="pmid">31474763</pub-id>
+</mixed-citation></ref><ref id="mgg370096-bib-0026"><mixed-citation publication-type="journal" id="mgg370096-cit-0026">
+<string-name>
+<surname>van den Ende</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>van Bever</surname>
+</string-name>, <string-name>
+<given-names>E. S. O.</given-names>
+<surname>Rodini</surname>
+</string-name>, and <string-name>
+<given-names>A.</given-names>
+<surname>Richieri&#x02010;Costa</surname>
+</string-name>. <year>1992</year>. &#x0201c;<article-title>Marden&#x02010;Walker&#x02010;Like Syndrome Without Psychomotor Retardation: Report of a Brazilian Girl Born to Consanguineous Parents</article-title>.&#x0201d; <source>American Journal of Medical Genetics</source>
+<volume>42</volume>, no. <issue>4</issue>: <fpage>467</fpage>&#x02013;<lpage>469</lpage>. <pub-id pub-id-type="doi">10.1002/ajmg.1320420411</pub-id>.<pub-id pub-id-type="pmid">1609830</pub-id>
+</mixed-citation></ref><ref id="mgg370096-bib-0027"><mixed-citation publication-type="journal" id="mgg370096-cit-0027">
+<string-name>
+<surname>Voss</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Ben&#x02010;Simon</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Avital</surname>
+</string-name>, et&#x000a0;al. <year>1989</year>. &#x0201c;<article-title>Isodisomy of Chromosome 7 in a Patient With Cystic Fibrosis: Could Uniparental Disomy Be Common in Humans?</article-title>&#x0201d; <source>American Journal of Human Genetics</source>
+<volume>45</volume>, no. <issue>3</issue>: <fpage>373</fpage>&#x02013;<lpage>380</lpage>.<pub-id pub-id-type="pmid">2570528</pub-id>
+</mixed-citation></ref><ref id="mgg370096-bib-0028"><mixed-citation publication-type="journal" id="mgg370096-cit-0028">
+<string-name>
+<surname>Wilson</surname>, <given-names>D. I.</given-names>
+</string-name>, <string-name>
+<given-names>S. B.</given-names>
+<surname>Britton</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>McKeown</surname>
+</string-name>, et&#x000a0;al. <year>1993</year>. &#x0201c;<article-title>Noonan's and DiGeorge Syndromes With Monosomy 22q11</article-title>.&#x0201d; <source>Archives of Disease in Childhood</source>
+<volume>68</volume>, no. <issue>2</issue>: <fpage>187</fpage>&#x02013;<lpage>189</lpage>. <pub-id pub-id-type="doi">10.1136/adc.68.2.187</pub-id>.<pub-id pub-id-type="pmid">8481040</pub-id>
+</mixed-citation></ref><ref id="mgg370096-bib-0029"><mixed-citation publication-type="journal" id="mgg370096-cit-0029">
+<string-name>
+<surname>Yuan</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Liu</surname>
+</string-name>, et&#x000a0;al. <year>2020</year>. &#x0201c;<article-title>CNVs Cause Autosomal Recessive Genetic Diseases With or Without Involvement of SNV/Indels</article-title>.&#x0201d; <source>Genetics in Medicine</source>
+<volume>22</volume>, no. <issue>10</issue>: <fpage>1633</fpage>&#x02013;<lpage>1641</lpage>. <pub-id pub-id-type="doi">10.1038/s41436-020-0864-8</pub-id>.<pub-id pub-id-type="pmid">32576985</pub-id>
+</mixed-citation></ref></ref-list></back></article>

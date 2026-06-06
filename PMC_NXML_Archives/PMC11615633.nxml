@@ -1,0 +1,920 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Radiol Imaging Cancer</journal-id><journal-id journal-id-type="iso-abbrev">Radiol Imaging Cancer</journal-id><journal-id journal-id-type="publisher-id">imaging-cancer</journal-id><journal-title-group><journal-title>Radiology: Imaging Cancer</journal-title></journal-title-group><issn pub-type="epub">2638-616X</issn><publisher><publisher-name>Radiological Society of North America</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">39485113</article-id><article-id pub-id-type="pmc">11615633</article-id>
+<article-id pub-id-type="publisher-manuscript">240044</article-id><article-id pub-id-type="doi">10.1148/rycan.240044</article-id><article-categories><subj-group subj-group-type="heading"><subject>Technical Development</subject><subj-group><subject>Clinical Research</subject></subj-group></subj-group><subj-group subj-group-type="subject"><compound-subject><compound-subject-part content-type="code">OI</compound-subject-part><compound-subject-part content-type="text">Oncologic
+Imaging</compound-subject-part></compound-subject><compound-subject><compound-subject-part content-type="code">GI</compound-subject-part><compound-subject-part content-type="text">Gastrointestinal
+Radiology</compound-subject-part></compound-subject><compound-subject><compound-subject-part content-type="code">NM</compound-subject-part><compound-subject-part content-type="text">Nuclear
+Medicine</compound-subject-part></compound-subject><compound-subject><compound-subject-part content-type="code">IR</compound-subject-part><compound-subject-part content-type="text">Interventional
+Radiology</compound-subject-part></compound-subject></subj-group></article-categories><title-group><article-title>Safety and Feasibility of Interventional Hybrid Fluoroscopy and
+Nuclear Imaging in the Work-up Procedure of Hepatic
+Radioembolization</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-1159-3510</contrib-id><name><surname>Dietze</surname><given-names>Martijn M. A.</given-names></name><degrees>PhD</degrees><email xlink:href="m.m.a.dietze@umcutrecht.nl">m.m.a.dietze@umcutrecht.nl</email></contrib><contrib contrib-type="author"><name><surname>Meddens</surname><given-names>Marjolein B. M.</given-names></name><degrees>PhD</degrees></contrib><contrib contrib-type="author"><name><surname>van Rooij</surname><given-names>Rob</given-names></name><degrees>PhD</degrees></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-8824-8697</contrib-id><name><surname>Braat</surname><given-names>Arthur J. A. T.</given-names></name><degrees>MD, PhD</degrees></contrib><contrib contrib-type="author"><name><surname>de Keizer</surname><given-names>Bart</given-names></name><degrees>MD, PhD</degrees></contrib><contrib contrib-type="author"><name><surname>Bruijnen</surname><given-names>Rutger C. G.</given-names></name><degrees>MD</degrees></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-4902-9790</contrib-id><name><surname>Lam</surname><given-names>Marnix G. E. H.</given-names></name><degrees>MD, PhD</degrees></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-4735-655X</contrib-id><name><surname>Smits</surname><given-names>Maarten L. J.</given-names></name><degrees>MD, PhD</degrees></contrib><contrib contrib-type="author"><name><surname>de Jong</surname><given-names>Hugo W. A. M.</given-names></name><degrees>PhD</degrees></contrib><aff id="aff1">From the Department of Radiology and Nuclear Medicine, University
+Medical Center Utrecht, Heidelberglaan 100, 3584 CX, PO Box 85500, 3508 GA
+Utrecht, the Netherlands.</aff></contrib-group><author-notes><corresp id="cor1"><bold>Address correspondence to</bold> M.M.A.D. (email:
+<italic toggle="yes"><email xlink:href="m.m.a.dietze@umcutrecht.nl">m.m.a.dietze@umcutrecht.nl</email></italic>).</corresp><fn fn-type="con"><p><bold>Author contributions:</bold> Guarantors of integrity of entire study,
+<bold>M.M.A.D., H.W.A.M.d.J.</bold>; study concepts/study design or data
+acquisition or data analysis/interpretation, all authors; manuscript
+drafting or manuscript revision for important intellectual content, all
+authors; approval of final version of submitted manuscript, all authors;
+agrees to ensure any questions related to the work are appropriately
+resolved, all authors; literature research, <bold>M.M.A.D., M.B.M.M.,
+M.G.E.H.L., H.W.A.M.d.J.</bold>; clinical studies, <bold>M.M.A.D.,
+M.B.M.M., R.v.R., A.J.A.T.B., B.d.K., R.C.G.B., M.G.E.H.L., M.L.J.S.,
+H.W.A.M.d.J.</bold>; statistical analysis, <bold>M.M.A.D.,
+H.W.A.M.d.J.</bold>; and manuscript editing, <bold>M.M.A.D., M.B.M.M.,
+A.J.A.T.B., B.d.K., M.G.E.H.L., M.L.J.S., H.W.A.M.d.J.</bold></p></fn></author-notes><pub-date pub-type="epub"><day>01</day><month>11</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>11</month><year>2024</year></pub-date><volume>6</volume><issue>6</issue><elocation-id>e240044</elocation-id><history>
+<date date-type="received"><day>13</day><month>2</month><year>2024</year></date>
+<date date-type="rev-request"><day>20</day><month>3</month><year>2024</year></date>
+<date date-type="rev-recd"><day>4</day><month>9</month><year>2024</year></date>
+<date date-type="accepted"><day>24</day><month>9</month><year>2024</year></date>
+</history><permissions><copyright-statement>&#x000a9; 2024 by the Radiological Society of North America,
+Inc.</copyright-statement><copyright-year>2024</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Published under a <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/"/>CC BY 4.0
+license.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="rycan.240044.pdf"/><abstract><sec><title>Purpose</title><p>To evaluate the safety and feasibility of a novel hybrid nuclear and
+fluoroscopy C-arm scanner to be used during the work-up procedure of
+hepatic radioembolization.</p></sec><sec><title>Materials and Methods</title><p>In this prospective first-in-human clinical study, 12 participants
+(median age, 67 years [range: 37&#x02013;78 years]; nine [75%] male,
+three [25%] female) with liver tumors undergoing work-up for yttrium 90
+radioembolization were included (<ext-link xlink:href="https://clinicaltrials.gov/" ext-link-type="uri">ClinicalTrials.gov</ext-link> NCT06013774). Work-up angiography and
+technetium 99m&#x02013;macroaggregated albumin injection were performed
+in an angiography suite equipped with a hybrid C-arm that could
+simultaneously perform fluoroscopy and planar nuclear imaging.
+Technetium 99m&#x02013;macroaggregated albumin was injected under
+real-time hybrid imaging, followed by in-room SPECT imaging. Safety and
+feasibility were studied by assessing adverse events, technical
+performance, additional x-ray radiation dose, and questionnaires
+completed by radiologists and technologists.</p></sec><sec><title>Results</title><p>No adverse events were attributed to the hybrid C-arm scanner. The
+additional x-ray radiation dose was low (median, 19 Gy &#x000b7;
+cm<sup>2</sup>; minimum: 12 Gy &#x000b7; cm<sup>2</sup>; maximum: 21
+Gy &#x000b7; cm<sup>2</sup> for participants who completed all imaging
+steps). The interventional personnel considered use of the hybrid C-arm
+scanner safe and feasible, although the additional time spent in the
+intervention room was considered long (median, 64 minutes; minimum: 55
+minutes; maximum: 77 minutes for participants who completed all imaging
+steps).</p></sec><sec><title>Conclusion</title><p>Use of the hybrid C-arm scanner during the work-up procedure of hepatic
+radioembolization was found to be safe and feasible in this
+first-in-human clinical study.</p><p><bold>Keywords:</bold> Angiography, Fluoroscopy, Interventional-Vascular,
+Radionuclide Studies, Radiosurgery, Gamma Knife, Cyberknife, SPECT,
+Instrumentation, Physics, Technical Aspects, Technology Assessment</p><p>
+<ext-link ext-link-type="uri" xlink:href="https://pubs.rsna.org/doi/suppl/10.1148/rycan.240044" specific-use="inline-supplementary-material">
+<italic toggle="yes">Supplemental material is available for this
+article.</italic>
+</ext-link>
+</p><p>Published under a CC BY 4.0 license.</p><p>Clinical trial registration no. NCT06013774</p></sec></abstract><kwd-group><kwd>Angiography</kwd><kwd>Fluoroscopy</kwd><kwd>Interventional-Vascular</kwd><kwd>Radionuclide Studies</kwd><kwd>Radiosurgery</kwd><kwd>Gamma Knife</kwd><kwd>Cyberknife</kwd><kwd>SPECT</kwd><kwd>Instrumentation</kwd><kwd>Physics</kwd><kwd>Technical Aspects</kwd><kwd>Technology Assessment</kwd></kwd-group><funding-group specific-use="FundRef"><award-group id="sp1"><funding-source><institution-wrap><institution> European Research
+Council</institution><institution-id institution-id-type="doi">10.13039/501100000781</institution-id></institution-wrap></funding-source></award-group><award-group id="sp2"><funding-source><institution-wrap><institution>European
+Union&#x02019;s Horizon 2020</institution><institution-id institution-id-type="doi">10.13039/501100007601</institution-id></institution-wrap></funding-source><award-id rid="sp1">no. 646734</award-id><award-id rid="sp1">no. 963934</award-id></award-group><award-group id="sp3"><funding-source><institution-wrap><institution>Horizon Europe
+Innovative Health Initiative</institution><institution-id institution-id-type="doi">10.13039/100020098</institution-id></institution-wrap></funding-source><award-id rid="sp3">no. 101112053</award-id></award-group></funding-group></article-meta></front><body><boxed-text position="float"><sec><title>Summary</title><p>Use of a hybrid C-arm scanner, which performs simultaneous fluoroscopy and
+nuclear imaging, was found to be safe and feasible during the work-up procedure
+of hepatic radioembolization.</p></sec></boxed-text><boxed-text position="float"><sec><title>Key Points</title><list list-type="simple"><list-item><p>&#x025a0; This first-in-human study demonstrated the safety and
+feasibility of using the hybrid C-arm scanner for simultaneous
+fluoroscopy and nuclear imaging in 12 participants undergoing a work-up
+procedure for hepatic radioembolization, with no adverse events
+attributed to use of the hybrid scanner and low additional radiation
+dose (median, 19 Gy &#x000b7; cm<sup>2</sup>) per participant.</p></list-item><list-item><p>&#x025a0; Images acquired during the procedures demonstrated the potential
+applications of the device for image guidance of interventional
+procedures involving radionuclides.</p></list-item></list></sec></boxed-text><sec sec-type="intro" id="s1"><title>Introduction</title><p>C-arm fluoroscopy uses x-rays to acquire real-time planar and three-dimensional
+images during interventional procedures. Hybrid imaging, such as fluoroscopy
+together with scintigraphy, may offer added value for guiding procedures in which
+radiopharmaceuticals are or may be used (eg, radioguided surgery, biopsies,
+intra-arterial radionuclide therapy, cardiac interventions) (<xref rid="r1" ref-type="bibr">1</xref>). Similar applications of hybrid imaging have been
+successfully developed for PET/CT interventional image guidance (<xref rid="r2" ref-type="bibr">2</xref>,<xref rid="r3" ref-type="bibr">3</xref>).</p><p>Previously, a C-arm scanner was developed that can perform hybrid fluoroscopic and
+scintigraphic imaging in the intervention room, and its performance has been tested
+using phantom experiments (<xref rid="r4" ref-type="bibr">4</xref>&#x02013;<xref rid="r6" ref-type="bibr">6</xref>). The transition to using this hybrid C-arm
+scanner in a clinical setting poses several challenges given the hectic environment
+of the intervention room, the complexity of changing the existing workflow for
+interventional procedures, and the large number of personnel who must adapt to the
+new technology.</p><p>Therefore, the aim of this first-in-human study was to evaluate the safety and
+feasibility of the hybrid C-arm scanner in a clinical setting. The scanner was
+tested in the context of hepatic radioembolization (<xref rid="r7" ref-type="bibr">7</xref>,<xref rid="r8" ref-type="bibr">8</xref>) because this is a promising
+application for hybrid interventional imaging. The conventional radioembolization
+workflow consists of three steps. First, an angiographic procedure is performed to
+study the patient&#x02019;s liver vasculature and to inject technetium
+99m&#x02013;macroaggregated albumin (<sup>99m</sup>Tc-MAA) particles at specific
+injection sites. Second, the patient is transferred to the nuclear medicine
+department and receives a SPECT scan to visualize the <sup>99m</sup>Tc-MAA
+distribution in the liver and surrounding organs. The images show whether the
+<sup>99m</sup>Tc-MAA particles primarily end up in tumorous tissue and not
+inadvertently in healthy tissue. If a promising distribution is achieved (ie, good
+tumor targeting), microspheres are ordered for the treatment. If a bad distribution
+is obtained (eg, bad tumor targeting or major particle accumulation in organs other
+than the liver), the patient is not eligible for treatment. Third, the patient
+receives treatment by undergoing a second angiographic procedure in which the
+microspheres are injected according to the treatment plan. With a hybrid imaging
+device as described in this work, the above three steps may be merged into a
+single-session treatment, saving time, costs, and personnel as well as potentially
+improving patient comfort and treatment outcome.</p></sec><sec sec-type="materials|methods" id="s2"><title>Materials and Methods</title><sec><title>Study Design</title><p>This first-in-human study (<ext-link xlink:href="https://clinicaltrials.gov/" ext-link-type="uri">ClinicalTrials.gov</ext-link>
+NCT06013774) performed at the University Medical Center Utrecht (Utrecht, the
+Netherlands) followed a three-plus-three clinical escalation study design. The
+study was approved by the University Medical Center Utrecht institutional review
+board. The prospective study consisted of three cohorts, with participants
+enrolled between January 2021 and May 2023. All participants provided written
+informed consent before study participation. In the first cohort, the safety of
+planar imaging was assessed. In the second cohort, the safety of planar imaging
+and three-dimensional imaging was assessed. In the third cohort, the safety of
+planar imaging and three-dimensional imaging was assessed and more information
+on the feasibility was retrieved.</p><p>If one procedure within one cohort was deemed unsafe, three additional
+participants were enrolled. If two procedures within one cohort were deemed
+unsafe, the study was terminated.</p><p>In total, at least 12 participants were scheduled to be included in the study. If
+the first two cohorts of three participants successfully completed the study,
+the third cohort consisted of six participants. If one of the first two cohorts
+was extended, the third cohort consisted of three participants.</p><p>With 12 to 15 participants, the study sample was expected to have a reasonable
+spread in male-female distribution, body mass index, length, and overall
+physical condition to evaluate the device&#x02019;s performance under realistic
+clinical conditions.</p></sec><sec><title>Participants</title><p>Patients with liver tumors who were scheduled for yttrium 90 (<sup>90</sup>Y)
+radioembolization work-up as decided by the multidisciplinary tumor board were
+eligible for study inclusion. Exclusion criteria included individuals who were
+insufficiently fit to undergo additional examination time of 30&#x02013;90
+minutes (to not overly burden individuals in poor health who would gain no
+immediate benefit from the study), patient whose height was greater than 190 cm
+or bust line was greater than 135 cm (to fit the scanner geometry), and more
+than two expected <sup>99m</sup>Tc-MAA injection positions (to limit the total
+time of the procedure). An individual&#x02019;s participation in the study ended
+on acquisition of the last scan using the hybrid C-arm scanner.</p></sec><sec><title>Hybrid C-Arm Scanner</title><p>The hybrid C-arm scanner (named IXSI: Interventional X-Ray and Scintigraphy
+Imaging, see <xref rid="fig1" ref-type="fig">Fig 1A</xref>) comprised an x-ray
+tube (from a Philips Veradius System) placed on a C-arm gantry on the opposite
+side of a dual-layer detector. The C-arm gantry was manufactured to be compact
+and mobile so that the scanner could be used in multiple operation rooms. The
+dual-layer detector consisted of a flat panel x-ray detector placed in front of
+a gamma camera with a cone-beam collimator. The cone-beam collimator had holes
+with 40.0-mm length, 1.90-mm inner diameter, and 0.25-mm septal thickness. The
+39.9 &#x000d7; 29.5-cm<sup>2</sup> flat panel detector (no antiscatter grid) was
+adapted from a clinical Philips Allura C-arm system to be relatively transparent
+to 140-keV photons (average gamma transmission of 52% at 140 keV) and had a
+thickness of 6.8 cm. The gamma camera was custom made (Intermedical) and
+equipped with short photomultiplier tubes and optimized shielding. The 51.0
+&#x000d7; 38.1-cm<sup>2</sup> gamma camera had a 9.5-mm-thick thallium-doped
+sodium iodide scintillation crystal with 3.9-mm full width at half maximum
+intrinsic spatial resolution and 9.4% energy resolution at 140 keV. For imaging
+of <sup>99m</sup>Tc at 10-cm distance, the gamma camera had a sensitivity of
+66.2 cps/MBq and a full width at half maximum resolution of 12.1 mm. The x-ray
+tube was placed at approximately the focal spot of the cone-beam collimator
+(105-cm distance) so that x-ray and nuclear images were intrinsically
+registered. The x-ray tube allowed beam strengths between 40 and 80 kVp and
+between 0.02 and 14.00 mA and pulses between 3 and 15 Hz. A dose area product
+meter in the housing of the x-ray tube monitored the delivered radiation dose.
+The custom mobile C-arm gantry allowed for flexible two-dimensional imaging as
+well as three-dimensional cone-beam CT (CBCT) and SPECT with programmable
+noncircular orbit following the outline of the participant. The dual-layer
+detector was equipped with a detection system that terminated motion upon
+mechanical compression (eg, upon collision with the participant). The scanner is
+an experimental device (not available on the market) and was certified by the
+local medical ethics committee to be used in clinical trials within the
+institute. Dietze et al (<xref rid="r5" ref-type="bibr">5</xref>) provide
+further details on the technical fluoroscopic and nuclear imaging
+performance.</p><fig position="float" id="fig1"><label>Figure 1:</label><caption><p><bold>(A)</bold> Hybrid C-arm scanner used in this study.
+<bold>(B)</bold> Typical example of the hybrid C-arm scanner used
+during radioembolization work-up in the intervention room.
+<bold>(C)</bold> Schematic illustration of the placement of the
+hybrid C-arm scanner in relation to the clinical cone-beam CT system.
+The patient table is rotated 90 degrees to switch imaging with both
+scanners.</p></caption><alt-text>(A) Hybrid C-arm scanner used in this study. (B) Typical example of
+the hybrid C-arm scanner used during radioembolization work-up in the
+intervention room. (C) Schematic illustration of the placement of the hybrid
+C-arm scanner in relation to the clinical cone-beam CT system. The patient
+table is rotated 90 degrees to switch imaging with both scanners.</alt-text><graphic xlink:href="rycan.240044.fig1" position="float"/></fig></sec><sec><title>Study Workflow</title><p>Participants underwent a routine work-up procedure, meaning that the positioning
+of the catheter was performed on a clinical fluoroscopy and CBCT system (Allura
+Xper FD20; Philips). When the interventional radiologist considered the catheter
+to be in the desired position for the first <sup>99m</sup>Tc-MAA injection, the
+patient table was rotated by 90 degrees so that the participant was in the field
+of view of the hybrid C-arm scanner (see <xref rid="fig1" ref-type="fig">Fig
+1B</xref>). A digital subtraction angiography image was acquired and
+compared with the digital subtraction angiogram acquired on the Philips system
+to ensure that the catheter had not moved during the table rotation. The
+procedure continued on confirmation of the correct catheter location (otherwise,
+the patient table was rotated back and the catheter repositioned).</p><p>Next, <sup>99m</sup>Tc-MAA was injected during hybrid imaging. For this task, an
+adjustment was made to the regular protocol: The syringe that normally contained
+100 MBq <sup>99m</sup>Tc-MAA was split over four syringes of approximately 25
+MBq each, which were injected relatively slowly at intervals of approximately 1
+minute. This protocol adjustment was performed to determine whether the
+distribution of <sup>99m</sup>Tc-MAA changed as more particles were injected
+(eg, due to embolization). In the case of multiple injection positions, only the
+injection at the first position was dynamically visualized with the hybrid C-arm
+scanner to limit the discomfort of the participant (time per injection position
+was approximately 10 minutes). Imaging was performed at the first injection
+position to ensure there was no background gamma radiation component in the
+images, allowing for good visualization of the <sup>99m</sup>Tc-MAA build-up.
+Once all <sup>99m</sup>Tc-MAA was injected, the hybrid C-arm scanner acquired a
+10-minute SPECT/CBCT acquisition of the liver region and 1-minute anterior and
+posterior static planar acquisitions of the lung and liver regions. The
+interventional radiologists (R.C.G.B., with 18 years of experience, and
+M.L.J.S., with 13 years of experience) were blinded to the acquired images for
+the duration of the study.</p><p>Typical x-ray settings with IXSI were 65 kVp with 10.8 mA at 15 Hz for digital
+subtraction angiography imaging, 65 kVp with 0.4 mA at 4 Hz for fluoroscopy, and
+70 kVp with 1.2 mA at 4 Hz for CBCT imaging. Typical x-ray settings with Philips
+Allura were 80 kVp with 20 mA at 2 Hz for digital subtraction angiography
+imaging, 75 kVp with 4 mA at 15 Hz for fluoroscopy, and 120 kVp with 250 mA at
+60 Hz for CBCT imaging. Nuclear acquisitions with IXSI used a 140 keV &#x000b1;
+15% photopeak window.</p></sec><sec><title>Study End Points</title><p>The primary end points of this first-in-human study were safety and feasibility,
+assessed using four metrics: tracking of adverse events, a safety and
+feasibility questionnaire completed by personnel (radiologists and technicians),
+a technical performance review, and tracking the additional x-ray radiation
+dose. Details regarding these measures and their interpretation can be found in
+<ext-link ext-link-type="uri" xlink:href="https://pubs.rsna.org/doi/suppl/10.1148/rycan.240044" specific-use="inline-supplementary-material">Appendix
+S1</ext-link>. The secondary end points related to
+clinical quality of the images acquired with the hybrid C-arm scanner for
+radioembolization guidance were not evaluated in this study.</p></sec></sec><sec sec-type="results" id="s3"><title>Results</title><sec><title>Participant Characteristics</title><p>Twelve participants (median age, 67 years [range: 37&#x02013;78 years]; nine [75%]
+male, three [25%] female) were included in the study (<xref rid="fig2" ref-type="fig">Fig 2</xref>). The addition of participants was not required for
+any cohort. <xref rid="tbl1" ref-type="table">Table 1</xref> provides baseline
+characteristics of the study participants. Injection positions included whole
+liver, lobar, segmental, and superselective. No preparatory embolization was
+performed during the work-up procedure. Nine planar acquisitions of the lung and
+liver region were planned, but only six were correctly acquired because of
+operator mistakes: the acquisitions were accidentally not made in one
+participant, only anterior (and not posterior) views were acquired in another
+participant, and the measurement was performed before all activity was injected
+in another participant. All other imaging steps were completed as planned.</p><fig position="float" id="fig2"><label>Figure 2:</label><caption><p>Flow diagram details the participant selection in the study.</p></caption><alt-text>Flow diagram details the participant selection in the
+study.</alt-text><graphic xlink:href="rycan.240044.fig2" position="float"/></fig><table-wrap position="float" id="tbl1"><label>Table 1:</label><caption><p>Characteristics of Study Participants</p></caption><graphic xlink:href="rycan.240044.tbl1" position="float"/></table-wrap></sec><sec><title>Occurrence of Adverse Events</title><p>One adverse event occurred during the study (grade 1 amnesia: transient, mild, no
+intervention required; the hypothesis of the interventional radiologist was that
+a small blood clot might have entered the circulation during the procedure, but
+because the amnesia quickly resolved, no additional investigation was carried
+out), but this was not attributed to the hybrid C-arm scanner. No technical
+failures occurred. Specifically, repositioning of the catheter after table
+rotation into the hybrid C-arm scanner was not required, no collisions between
+the hybrid C-arm scanner and the participants occurred, all participants fit
+within the possible C-arm gantry orbits, no repeated rotations of the SPECT/CBCT
+scan were required, and it was possible to confirm the catheter position with
+the hybrid C-arm scanner in all procedures (see <xref rid="fig3" ref-type="fig">Fig 3</xref> for a comparison of digital subtraction angiography
+quality).</p><fig position="float" id="fig3"><label>Figure 3:</label><caption><p>Images show comparison between the digital subtraction angiography
+quality made by the clinical fluoroscopy and cone-beam CT scanner
+(Philips Allura Xper FD20, left) and the hybrid C-arm scanner (right) in
+a 62-year-old male participant. The clinical system acquired
+better-quality images because it used a higher x-ray beam strength, had
+an antiscatter grid, and had a dedicated noise reduction system
+(ClarityIQ; Philips).</p></caption><alt-text>Images show comparison between the digital subtraction angiography
+quality made by the clinical fluoroscopy and cone-beam CT scanner (Philips
+Allura Xper FD20, left) and the hybrid C-arm scanner (right) in a
+62-year-old male participant. The clinical system acquired better-quality
+images because it used a higher x-ray beam strength, had an antiscatter
+grid, and had a dedicated noise reduction system (ClarityIQ;
+Philips).</alt-text><graphic xlink:href="rycan.240044.fig3" position="float"/></fig></sec><sec><title>Radiologist Assessment of Safety and Feasibility</title><p>Interventional radiology personnel considered the use of the hybrid C-arm scanner
+safe and feasible in all procedures. However, the additional time spent in the
+intervention room for hybrid imaging using the hybrid C-arm scanner was
+perceived as long. <xref rid="tbl2" ref-type="table">Table 2</xref> shows the
+duration of the imaging steps with the hybrid C-arm scanner. The median total
+additional time (for participants with all imaging steps performed) was 64
+minutes (range: 55&#x02013;77 minutes).</p><table-wrap position="float" id="tbl2"><label>Table 2:</label><caption><p>Details on Duration of Imaging Steps and X-ray Radiation Dose Using the
+Hybrid C-Arm Scanner</p></caption><graphic xlink:href="rycan.240044.tbl2" position="float"/></table-wrap></sec><sec><title>Additional Radiation Dose</title><p><xref rid="tbl2" ref-type="table">Table 2</xref> provides the additional x-ray
+radiation dose administered by the hybrid C-arm scanner for the two imaging
+modes together with the x-ray radiation dose that was administered during the
+work-up procedure (both measured through dose area product meters). The median
+additional x-ray radiation dose (for participants with all imaging steps
+performed) was 19 Gy &#x000b7; cm<sup>2</sup>, which was 12.8% (149 Gy &#x000b7;
+cm<sup>2</sup>) of the median work-up radiation dose. The radiation dose
+from radioisotopes was not included in the comparison since participants would
+receive this dose regardless of the device used for treatment guidance.</p></sec><sec><title>Representative Images</title><p><xref rid="fig4" ref-type="fig">Figure 4</xref> shows a still image from a
+real-time hybrid imaging time series of a <sup>99m</sup>Tc-MAA injection. The
+<xref rid="v1" ref-type="media">Movie</xref> shows time series. These
+visuals show the buildup of radioactivity in the tumor upon injection of four
+<sup>99m</sup>Tc-MAA syringes together with the liver vasculature and
+catheter position.</p><fig position="float" id="fig4"><label>Figure 4:</label><caption><p>Real-time scintigraphic images acquired during the injection of
+technetium 99m&#x02013;macroaggregated albumin in a 74-year-old male
+participant. Left: A still image of the scintigraphy images (color)
+overlaid onto the digital subtraction angiography image (gray scale).
+Right: Graph of the number of counts measured in the scintigraphic
+image, which serves as a measure of the amount of radioactivity. The
+four jumps in the measured counts correspond to the four syringes of
+approximately 25 MBq technetium 99m&#x02013;macroaggregated albumin each.
+Dashed line on right panel indicates the frame in time that is
+visualized in the left panel.</p></caption><alt-text>Real-time scintigraphic images acquired during the injection of
+technetium 99m&#x02013;macroaggregated albumin in a 74-year-old male
+participant. Left: A still image of the scintigraphy images (color) overlaid
+onto the digital subtraction angiography image (gray scale). Right: Graph of
+the number of counts measured in the scintigraphic image, which serves as a
+measure of the amount of radioactivity. The four jumps in the measured
+counts correspond to the four syringes of approximately 25 MBq technetium
+99m&#x02013;macroaggregated albumin each. Dashed line on right panel
+indicates the frame in time that is visualized in the left panel.</alt-text><graphic xlink:href="rycan.240044.fig4" position="float"/></fig><fig id="v1" position="anchor"><label>Movie:</label><caption><p>Real-time scintigraphic images acquired during the injection of
+<sup>99m</sup>Tc-MAA in a 74-year-old male participant. Left: the
+scintigraphy images (color) overlaid onto the digital subtraction
+angiography (DSA) image (grayscale). Right: the number of counts
+measured in the scintigraphic image which serves as a measure of the
+amount of radioactivity. The four jumps in the measured counts
+correspond to the four syringes of approximately 25 MBq each.</p></caption><media xlink:href="rycan240044suppm1.mp4" mimetype="video" mime-subtype="mp4"/></fig><p><xref rid="fig5" ref-type="fig">Figure 5</xref> shows images of a SPECT/CBCT
+acquisition with the hybrid C-arm scanner. The images illustrate that the hybrid
+C-arm scanner can retrieve three-dimensional radioactivity distribution images
+in the demanding environment of the intervention room.</p><fig position="float" id="fig5"><label>Figure 5:</label><caption><p>Representative images of a hybrid SPECT (left, right) and cone-beam CT
+(middle, right) scan obtained with the hybrid C-arm scanner in the
+intervention room almost immediately after injection of all technetium
+99m&#x02013;macroaggregated albumin in a 52-year-old female
+participant.</p></caption><alt-text>Representative images of a hybrid SPECT (left, right) and cone-beam CT
+(middle, right) scan obtained with the hybrid C-arm scanner in the
+intervention room almost immediately after injection of all technetium
+99m&#x02013;macroaggregated albumin in a 52-year-old female
+participant.</alt-text><graphic xlink:href="rycan.240044.fig5" position="float"/></fig><p><xref rid="fig6" ref-type="fig">Figure 6</xref> shows representative images of a
+planar lung and liver acquisition with the hybrid C-arm scanner in the
+intervention room. The measurement consisted of separate acquisitions of the
+lung and liver regions. Masks were drawn on the lung region using the
+fluoroscopic image as a reference and on the liver region using the
+scintigraphic image as reference. These images demonstrate that the hybrid C-arm
+scanner may be used for measurements of the radioactivity fraction present in
+the lung region, which is an important criterion for safety evaluation of
+radioembolization treatment planning.</p><fig position="float" id="fig6"><label>Figure 6:</label><caption><p>Hybrid planar images of the lung (left) and liver (right) regions
+acquired with the hybrid C-arm scanner in the intervention room almost
+immediately after injection of all technetium 99m&#x02013;macroaggregated
+albumin in a 37-year-old female participant. The scintigraphic images
+are shown in color, the fluoroscopic images in gray scale, and the
+applied regions of interest in transparent green. The scintigraphic
+images may be used to measure the relative fraction of radioactivity in
+the lung region, which is an important measure in radioembolization for
+treatment planning. The fluoroscopic image may be used to make
+delineations of low-count regions (such as the lung in this
+participant).</p></caption><alt-text>Hybrid planar images of the lung (left) and liver (right) regions
+acquired with the hybrid C-arm scanner in the intervention room almost
+immediately after injection of all technetium 99m&#x02013;macroaggregated
+albumin in a 37-year-old female participant. The scintigraphic images are
+shown in color, the fluoroscopic images in gray scale, and the applied
+regions of interest in transparent green. The scintigraphic images may be
+used to measure the relative fraction of radioactivity in the lung region,
+which is an important measure in radioembolization for treatment planning.
+The fluoroscopic image may be used to make delineations of low-count regions
+(such as the lung in this participant).</alt-text><graphic xlink:href="rycan.240044.fig6" position="float"/></fig></sec></sec><sec sec-type="discussion" id="s4"><title>Discussion</title><p>The introduction of new technology in the intervention room is not without
+challenges. Nevertheless, this first-in-human study of 12 participants showed that
+the introduction of a novel hybrid C-arm scanner into clinical practice was safe and
+feasible during the work-up procedure of hepatic radioembolization. There were no
+adverse events attributed to use of the hybrid C-arm scanner, and the additional
+radiation dose per participant was low (median, 19 Gy &#x000b7; cm<sup>2</sup>). The
+images obtained during the procedures further demonstrated the potential
+applications of the device for guidance of interventions involving
+radionuclides.</p><p>Interventional radiology personnel in our institute requested to shorten the time
+required for hybrid imaging to align with the busy schedule of the intervention
+room. In this study, much time was spent on preparing for SPECT/CBCT imaging
+(median, 33 minutes, minimum: 17 minutes, maximum: 55 minutes), of which most time
+was spent on the alignment of the patient bed with the hybrid C-arm scanner for
+safety purposes. Efforts are underway to shorten this preparation time.</p><p>Radioembolization was selected as the first clinical application of the hybrid C-arm
+scanner due to the potential benefits. For example, with in-room SPECT and lung
+radioactivity measurements, the work-up procedure may be merged with the subsequent
+treatment in a single-session procedure (<xref rid="r9" ref-type="bibr">9</xref>),
+decreasing costs, improving patient comfort, potentially improving treatment outcome
+(when the catheter can stay in place), and in some cases lowering radiation dose
+(treatment work-up is not required anymore when the catheter can stay in place).
+Requirements for a single-session procedure, such as the clinical evaluation of
+image quality, fast image reconstruction, and fast image analysis software, are
+subjects of current investigations.</p><p>One of the most evident advantages of using the hybrid C-arm scanner for a
+single-session treatment would be requiring the patient to visit only once,
+requiring only one catheterization, and decreasing the total procedure time. It is
+difficult to make a direct comparison between the conventional and proposed
+single-session protocol since there are some assumptions involved and the device is
+under active development. Nevertheless, we will provide some insights.
+<ext-link ext-link-type="uri" xlink:href="https://pubs.rsna.org/doi/suppl/10.1148/rycan.240044" specific-use="inline-supplementary-material">Table
+S1</ext-link> shows the durations of several steps of the
+radioembolization workflow (with median or estimated values). We found that the
+estimated total duration of all procedures combined in the conventional workflow was
+305 minutes, while the duration of the workflow using the hybrid C-arm scanner was
+169 minutes.</p><p>In the presented study, the hybrid C-arm scanner was used in conjunction with the
+Philips Allura system for treatment guidance. There are two limitations that hamper
+stand-alone use of the current version of the hybrid C-arm scanner. First, in
+current clinical practice, a fast breath-hold contrast-enhanced CBCT scan is
+frequently made. The hybrid C-arm scanner is currently unable to rotate fast enough
+to acquire such scans because of the weight of the gamma camera. Second, the power
+of the x-ray tube of the hybrid C-arm scanner is lower than that of the clinical
+scanner, which may be a problem in longer procedures or for larger patients. Efforts
+to decrease the gamma camera weight and size to allow for fast rotations are
+underway.</p><p>Six of nine planar acquisitions were performed correctly, while three were invalid
+due to operator errors (the first three acquisitions of nine). We attribute these
+errors to two factors. First, the acquisitions were made by medical physicists who
+had little experience working in angiography rooms. Second, the software that
+controls the hybrid C-arm scanner does not yet contain the easy-to-follow workflows
+that are present in commercial scanners. With more experience and implementation of
+workflows in the operating software, we expect that the room for error will be
+minimal.</p><p>One of the challenges involved in changing the radioembolization workflow is in the
+potential embolic effects of the particles, which can alter the flow dynamics.
+Although for <sup>99m</sup>Tc-MAA the embolic effects have never been quantified, it
+has been shown for <sup>90</sup>Y and holmium 166 microspheres that saturation can
+occur when many particles are injected (<xref rid="r10" ref-type="bibr">10</xref>,<xref rid="r11" ref-type="bibr">11</xref>). To ensure that the
+presence of <sup>99m</sup>Tc-MAA particles has little influence on the
+<sup>90</sup>Y microsphere distribution, we will in a planned single session be
+conservative in the number of <sup>99m</sup>Tc-MAA particles injected.</p><p>Multiple workflows are possible for a single-session radioembolization protocol. With
+a single injection position, the catheter can stay in place between
+<sup>99m</sup>Tc-MAA and <sup>90</sup>Y injections. With multiple injection
+positions, we aim to first inject all <sup>99m</sup>Tc-MAA, visualize, and afterward
+inject all <sup>90</sup>Y. This option mimics the current two-step protocol and
+hence gives no complications regarding potentially altered flow dynamics. In case of
+two injection positions, the catheter can remain in the same location for one
+position. One future option for multiple injection positions (currently not planned
+for investigation) could be to leave the catheter in place for each injection
+position. This method may have the advantage of potentially being faster due to
+fewer catheter movements, but there may be differences in the flow dynamics between
+injection sites compared with the current two-step protocol.</p><p>In conclusion, this first-in-human study demonstrates the safety and feasibility of
+using the hybrid C-arm scanner for interventional hybrid fluoroscopy and nuclear
+imaging. Larger clinical trials are needed to validate these preliminary findings.
+Although the current study investigated its use in individuals undergoing hepatic
+radioembolization, the hybrid C-arm scanner may be used in various interventional
+procedures, such as radioguided surgeries, biopsies, and intra-arterial radionuclide
+therapy. This study represents the first step in clinical implementation of this
+hybrid C-arm scanner to guide interventional procedures, improve efficiency, and
+potentially improve patient care.</p></sec></body><back><ack><sec><title>Acknowledgment</title><p>Philips Healthcare provided an adapted flat panel detector and software for the
+CBCT reconstruction.</p></sec></ack><fn-group><fn fn-type="supported-by"><p>Supported by the European Research Council under the European Union&#x02019;s
+Horizon 2020 research and innovation program grant agreements no. 646734 and no.
+963934 and under Horizon Europe Innovative Health Initiative no. 101112053.</p></fn><fn fn-type="COI-statement"><p><bold>Disclosures of conflicts of interest: </bold><bold>M.M.A.D.</bold> Funding from the European Research Council (ERC) under
+the European Union&#x02019;s Horizon 2020 research and innovation program
+grant agreements no. 646734 and no. 963934 and under Horizon Europe
+Innovative Health Initiative no. 101112053; Philips Healthcare supported
+this research by providing an adapted flat panel detector and software for
+the CBCT reconstruction. The authors had full control over the data and the
+information submitted for publication. <bold>M.B.M.M.</bold> No relevant
+relationships. <bold>R.v.R.</bold> No relevant relationships.
+<bold>A.J.A.T.B.</bold> Payment or honoraria to institution from Terumo,
+Boston Scientific, and GE HealthCare; consultant for Boston Scientific and
+Terumo/Quirem Medical. <bold>B.d.K.</bold> Member of the EANM thyroid
+committee. <bold>R.C.G.B.</bold> No relevant relationships.
+<bold>M.G.E.H.L.</bold> Consultant for Boston Scientific and
+Terumo/Quirem Medical; participation on a Data Safety Monitoring Board or
+Advisory Board for Boston Scientific and Terumo. <bold>M.L.J.S.</bold>
+Payment or honoraria from Philips, Medtronic, Terumo/Quirem, and GD Medical;
+chair of the scientific committee of the Dutch Society for Interventional
+Radiology. <bold>H.W.A.M.d.J.</bold> No relevant relationships.</p></fn></fn-group><fn-group content-type="abbreviations"><fn fn-type="abbr" id="gloss1"><p>
+<def-list><title>Abbreviations:</title><def-item><term id="G1">CBCT</term><def><p>cone-beam CT</p></def></def-item><def-item><term id="G2">MAA</term><def><p>macroaggregated albumin</p></def></def-item></def-list>
+</p></fn></fn-group><ref-list><title>References</title><ref id="r1"><label>1. </label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Dietze</surname>
+<x xml:space="preserve"> </x>
+<given-names>MMA</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<string-name>
+<surname>de
+Jong</surname>
+<x xml:space="preserve"> </x>
+<given-names>HWAM</given-names>
+</string-name>
+</person-group>
+<x xml:space="preserve">. </x>
+<article-title>Progress
+in large field-of-view interventional planar scintigraphy and SPECT
+imaging</article-title>
+<x xml:space="preserve">. </x>
+<source>Expert Rev Med
+Devices</source>
+<x xml:space="preserve"> </x>
+<year>2022</year>
+<x xml:space="preserve">;</x>
+<volume>19</volume>
+<x xml:space="preserve">(</x>
+<issue>5</issue>
+<x xml:space="preserve">):</x>
+<fpage>393</fpage>
+<x xml:space="preserve">&#x02013;</x>
+<lpage>403</lpage>
+<x xml:space="preserve">.</x>
+<pub-id pub-id-type="pmid">35695477</pub-id>
+</mixed-citation></ref><ref id="r2"><label>2. </label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Dietze</surname>
+<x xml:space="preserve"> </x>
+<given-names>MMA</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<string-name>
+<surname>Kunnen</surname>
+<x xml:space="preserve"> </x>
+<given-names>B</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<string-name>
+<surname>van
+der
+Velden</surname>
+<x xml:space="preserve"> </x>
+<given-names>S</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<etal>et
+al</etal>
+</person-group>
+<x xml:space="preserve">. </x>
+<article-title>Performance of a
+dual-layer scanner for hybrid
+SPECT/CBCT</article-title>
+<x xml:space="preserve">. </x>
+<source>Phys Med
+Biol</source>
+<x xml:space="preserve"> </x>
+<year>2019</year>
+<x xml:space="preserve">;</x>
+<volume>64</volume>
+<x xml:space="preserve">(</x>
+<issue>10</issue>
+<x xml:space="preserve">):</x>
+<fpage>105020</fpage>
+<x xml:space="preserve">.</x>
+<pub-id pub-id-type="pmid">30947146</pub-id>
+</mixed-citation></ref><ref id="r3"><label>3. </label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Cornelis</surname>
+<x xml:space="preserve"> </x>
+<given-names>F</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<string-name>
+<surname>Sotirchos</surname>
+<x xml:space="preserve"> </x>
+<given-names>V</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<string-name>
+<surname>Violari</surname>
+<x xml:space="preserve"> </x>
+<given-names>E</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<etal>et
+al</etal>
+</person-group>
+<x xml:space="preserve">. </x>
+<article-title>18F-FDG PET/CT Is an
+Immediate Imaging Biomarker of Treatment Success After Liver Metastasis
+Ablation</article-title>
+<x xml:space="preserve">. </x>
+<source>J Nucl
+Med</source>
+<x xml:space="preserve"> </x>
+<year>2016</year>
+<x xml:space="preserve">;</x>
+<volume>57</volume>
+<x xml:space="preserve">(</x>
+<issue>7</issue>
+<x xml:space="preserve">):</x>
+<fpage>1052</fpage>
+<x xml:space="preserve">&#x02013;</x>
+<lpage>1057</lpage>
+<x xml:space="preserve">.</x>
+<pub-id pub-id-type="pmid">26912433</pub-id>
+</mixed-citation></ref><ref id="r4"><label>4. </label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Cazzato</surname>
+<x xml:space="preserve"> </x>
+<given-names>RL</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<string-name>
+<surname>Garnon</surname>
+<x xml:space="preserve"> </x>
+<given-names>J</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<string-name>
+<surname>Shaygi</surname>
+<x xml:space="preserve"> </x>
+<given-names>B</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<etal>et
+al</etal>
+</person-group>
+<x xml:space="preserve">. </x>
+<article-title>PET/CT-guided
+interventions: Indications, advantages, disadvantages and the state of the
+art</article-title>
+<x xml:space="preserve">. </x>
+<source>Minim Invasive Ther Allied
+Technol</source>
+<x xml:space="preserve"> </x>
+<year>2018</year>
+<x xml:space="preserve">;</x>
+<volume>27</volume>
+<x xml:space="preserve">(</x>
+<issue>1</issue>
+<x xml:space="preserve">):</x>
+<fpage>27</fpage>
+<x xml:space="preserve">&#x02013;</x>
+<lpage>32</lpage>
+<x xml:space="preserve">.</x>
+<pub-id pub-id-type="pmid">29168421</pub-id>
+</mixed-citation></ref><ref id="r5"><label>5. </label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Dietze</surname>
+<x xml:space="preserve"> </x>
+<given-names>MMA</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<string-name>
+<surname>Kunnen</surname>
+<x xml:space="preserve"> </x>
+<given-names>B</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<string-name>
+<surname>Brontsema</surname>
+<x xml:space="preserve"> </x>
+<given-names>F</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<etal>et
+al</etal>
+</person-group>
+<x xml:space="preserve">. </x>
+<article-title>A compact and mobile
+hybrid C-arm scanner for simultaneous nuclear and fluoroscopic image
+guidance</article-title>
+<x xml:space="preserve">. </x>
+<source>Eur
+Radiol</source>
+<x xml:space="preserve"> </x>
+<year>2022</year>
+<x xml:space="preserve">;</x>
+<volume>32</volume>
+<x xml:space="preserve">(</x>
+<issue>1</issue>
+<x xml:space="preserve">):</x>
+<fpage>517</fpage>
+<x xml:space="preserve">&#x02013;</x>
+<lpage>523</lpage>
+<x xml:space="preserve">.</x>
+<pub-id pub-id-type="pmid">34132877</pub-id>
+</mixed-citation></ref><ref id="r6"><label>6. </label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>van der
+Velden</surname>
+<x xml:space="preserve"> </x>
+<given-names>S</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<string-name>
+<surname>Kunnen</surname>
+<x xml:space="preserve"> </x>
+<given-names>B</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<string-name>
+<surname>Koppert</surname>
+<x xml:space="preserve"> </x>
+<given-names>WJC</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<etal>et
+al</etal>
+</person-group>
+<x xml:space="preserve">. </x>
+<article-title>A Dual-layer Detector
+for Simultaneous Fluoroscopic and Nuclear
+Imaging</article-title>
+<x xml:space="preserve">. </x>
+<source>Radiology</source>
+<x xml:space="preserve"> </x>
+<year>2019</year>
+<x xml:space="preserve">;</x>
+<volume>290</volume>
+<x xml:space="preserve">(</x>
+<issue>3</issue>
+<x xml:space="preserve">):</x>
+<fpage>833</fpage>
+<x xml:space="preserve">&#x02013;</x>
+<lpage>838</lpage>
+<x xml:space="preserve">.</x>
+<pub-id pub-id-type="pmid">30620257</pub-id>
+</mixed-citation></ref><ref id="r7"><label>7. </label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Bastiaannet</surname>
+<x xml:space="preserve"> </x>
+<given-names>R</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<string-name>
+<surname>Kappadath</surname>
+<x xml:space="preserve"> </x>
+<given-names>SC</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<string-name>
+<surname>Kunnen</surname>
+<x xml:space="preserve"> </x>
+<given-names>B</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<string-name>
+<surname>Braat</surname>
+<x xml:space="preserve"> </x>
+<given-names>AJAT</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<string-name>
+<surname>Lam</surname>
+<x xml:space="preserve"> </x>
+<given-names>MGEH</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<string-name>
+<surname>de
+Jong</surname>
+<x xml:space="preserve"> </x>
+<given-names>HWAM</given-names>
+</string-name>
+</person-group>
+<x xml:space="preserve">. </x>
+<article-title>The
+physics of radioembolization</article-title>
+<x xml:space="preserve">. </x>
+<source>EJNMMI
+Phys</source>
+<x xml:space="preserve"> </x>
+<year>2018</year>
+<x xml:space="preserve">;</x>
+<volume>5</volume>
+<x xml:space="preserve">(</x>
+<issue>1</issue>
+<x xml:space="preserve">):</x>
+<fpage>22</fpage>
+<x xml:space="preserve">.</x>
+<pub-id pub-id-type="pmid">30386924</pub-id>
+</mixed-citation></ref><ref id="r8"><label>8. </label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Kennedy</surname>
+<x xml:space="preserve"> </x>
+<given-names>A</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<string-name>
+<surname>Coldwell</surname>
+<x xml:space="preserve"> </x>
+<given-names>D</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<string-name>
+<surname>Sangro</surname>
+<x xml:space="preserve"> </x>
+<given-names>B</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<string-name>
+<surname>Wasan</surname>
+<x xml:space="preserve"> </x>
+<given-names>H</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<string-name>
+<surname>Salem</surname>
+<x xml:space="preserve"> </x>
+<given-names>R</given-names>
+</string-name>
+</person-group>
+<x xml:space="preserve">. </x>
+<article-title>Radioembolization
+for the treatment of liver tumors general
+principles</article-title>
+<x xml:space="preserve">. </x>
+<source>Am J Clin
+Oncol</source>
+<x xml:space="preserve"> </x>
+<year>2012</year>
+<x xml:space="preserve">;</x>
+<volume>35</volume>
+<x xml:space="preserve">(</x>
+<issue>1</issue>
+<x xml:space="preserve">):</x>
+<fpage>91</fpage>
+<x xml:space="preserve">&#x02013;</x>
+<lpage>99</lpage>
+<x xml:space="preserve">.</x>
+<pub-id pub-id-type="pmid">22363944</pub-id>
+</mixed-citation></ref><ref id="r9"><label>9. </label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Gates</surname>
+<x xml:space="preserve"> </x>
+<given-names>VL</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<string-name>
+<surname>Marshall</surname>
+<x xml:space="preserve"> </x>
+<given-names>KG</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<string-name>
+<surname>Salzig</surname>
+<x xml:space="preserve"> </x>
+<given-names>K</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<string-name>
+<surname>Williams</surname>
+<x xml:space="preserve"> </x>
+<given-names>M</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<string-name>
+<surname>Lewandowski</surname>
+<x xml:space="preserve"> </x>
+<given-names>RJ</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<string-name>
+<surname>Salem</surname>
+<x xml:space="preserve"> </x>
+<given-names>R</given-names>
+</string-name>
+</person-group>
+<x xml:space="preserve">. </x>
+<article-title>Outpatient
+single-session yttrium-90 glass microsphere
+radioembolization</article-title>
+<x xml:space="preserve">. </x>
+<source>J Vasc Interv
+Radiol</source>
+<x xml:space="preserve"> </x>
+<year>2014</year>
+<x xml:space="preserve">;</x>
+<volume>25</volume>
+<x xml:space="preserve">(</x>
+<issue>2</issue>
+<x xml:space="preserve">):</x>
+<fpage>266</fpage>
+<x xml:space="preserve">&#x02013;</x>
+<lpage>270</lpage>
+<x xml:space="preserve">.</x>
+<pub-id pub-id-type="pmid">24332243</pub-id>
+</mixed-citation></ref><ref id="r10"><label>10. </label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Roosen</surname>
+<x xml:space="preserve"> </x>
+<given-names>J</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<string-name>
+<surname>Westlund
+Gotby</surname>
+<x xml:space="preserve"> </x>
+<given-names>LEL</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<string-name>
+<surname>Arntz</surname>
+<x xml:space="preserve"> </x>
+<given-names>MJ</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<etal>et
+al</etal>
+</person-group>
+<x xml:space="preserve">. </x>
+<article-title>Intraprocedural
+MRI-based dosimetry during transarterial radioembolization of liver tumours
+with holmium-166 microspheres (EMERITUS-1): a phase I trial towards
+adaptive, image-controlled treatment
+delivery</article-title>
+<x xml:space="preserve">. </x>
+<source>Eur J Nucl Med Mol
+Imaging</source>
+<x xml:space="preserve"> </x>
+<year>2022</year>
+<x xml:space="preserve">;</x>
+<volume>49</volume>
+<x xml:space="preserve">(</x>
+<issue>13</issue>
+<x xml:space="preserve">):</x>
+<fpage>4705</fpage>
+<x xml:space="preserve">&#x02013;</x>
+<lpage>4715</lpage>
+<x xml:space="preserve">.</x>
+<pub-id pub-id-type="pmid">35829749</pub-id>
+</mixed-citation></ref><ref id="r11"><label>11. </label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Lewandowski</surname>
+<x xml:space="preserve"> </x>
+<given-names>RJ</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<string-name>
+<surname>Riaz</surname>
+<x xml:space="preserve"> </x>
+<given-names>A</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<string-name>
+<surname>Ryu</surname>
+<x xml:space="preserve"> </x>
+<given-names>RK</given-names>
+</string-name>
+<x xml:space="preserve">, </x>
+<etal>et
+al</etal>
+</person-group>
+<x xml:space="preserve">. </x>
+<article-title>Optimization of
+radioembolic effect with extended-shelf-life yttrium-90 microspheres:
+results from a pilot study</article-title>
+<x xml:space="preserve">. </x>
+<source>J Vasc Interv
+Radiol</source>
+<x xml:space="preserve"> </x>
+<year>2009</year>
+<x xml:space="preserve">;</x>
+<volume>20</volume>
+<x xml:space="preserve">(</x>
+<issue>12</issue>
+<x xml:space="preserve">):</x>
+<fpage>1557</fpage>
+<x xml:space="preserve">&#x02013;</x>
+<lpage>1563</lpage>
+<x xml:space="preserve">.</x>
+<pub-id pub-id-type="pmid">19854068</pub-id>
+</mixed-citation></ref></ref-list></back></article>

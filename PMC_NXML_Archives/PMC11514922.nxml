@@ -1,0 +1,907 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="acn352170" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Ann Clin Transl Neurol</journal-id><journal-id journal-id-type="iso-abbrev">Ann Clin Transl Neurol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2328-9503</journal-id><journal-id journal-id-type="publisher-id">ACN3</journal-id><journal-title-group><journal-title>Annals of Clinical and Translational Neurology</journal-title></journal-title-group><issn pub-type="epub">2328-9503</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">39078773</article-id><article-id pub-id-type="pmc">11514922</article-id>
+<article-id pub-id-type="doi">10.1002/acn3.52170</article-id><article-id pub-id-type="publisher-id">ACN352170</article-id><article-id pub-id-type="other">ACN3-2024-07-0689</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Improving criteria for dissemination in space in multiple sclerosis by including additional regions</article-title><alt-title alt-title-type="right-running-head">Refining Dissemination in Space</alt-title><alt-title alt-title-type="left-running-head">M. A. Foster <italic toggle="no">et&#x000a0;al.</italic>
+</alt-title></title-group><contrib-group><contrib id="acn352170-cr-0001" contrib-type="author" corresp="yes"><name><surname>Foster</surname><given-names>Michael A.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7201-7475</contrib-id><xref rid="acn352170-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="acn352170-note-0001" ref-type="author-notes">
+<sup>
+<sup>#</sup>
+</sup>
+</xref><address><email>m.a.foster@ucl.ac.uk</email></address></contrib><contrib id="acn352170-cr-0002" contrib-type="author"><name><surname>Pontillo</surname><given-names>Giuseppe</given-names></name><xref rid="acn352170-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="acn352170-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="acn352170-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="acn352170-note-0001" ref-type="author-notes">
+<sup>
+<sup>#</sup>
+</sup>
+</xref></contrib><contrib id="acn352170-cr-0003" contrib-type="author"><name><surname>Davagnanam</surname><given-names>Indran</given-names></name><xref rid="acn352170-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="acn352170-cr-0004" contrib-type="author"><name><surname>Collorone</surname><given-names>Sara</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1506-8983</contrib-id><xref rid="acn352170-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="acn352170-cr-0005" contrib-type="author"><name><surname>Prados</surname><given-names>Ferran</given-names></name><xref rid="acn352170-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="acn352170-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="acn352170-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="acn352170-cr-0006" contrib-type="author"><name><surname>Kanber</surname><given-names>Baris</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2443-8800</contrib-id><xref rid="acn352170-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="acn352170-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="acn352170-cr-0007" contrib-type="author"><name><surname>Yiannakas</surname><given-names>Marios C.</given-names></name><xref rid="acn352170-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="acn352170-cr-0008" contrib-type="author"><name><surname>Ogunbowale</surname><given-names>Lola</given-names></name><xref rid="acn352170-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="acn352170-cr-0009" contrib-type="author"><name><surname>Burke</surname><given-names>Ailbhe</given-names></name><xref rid="acn352170-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="acn352170-cr-0010" contrib-type="author"><name><surname>Gandini Wheeler&#x02010;Kingshott</surname><given-names>Claudia A. M.</given-names></name><xref rid="acn352170-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="acn352170-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="acn352170-cr-0011" contrib-type="author"><name><surname>Ciccarelli</surname><given-names>Olga</given-names></name><xref rid="acn352170-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="acn352170-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="acn352170-cr-0012" contrib-type="author"><name><surname>Brownlee</surname><given-names>Wallace</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0481-8902</contrib-id><xref rid="acn352170-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="acn352170-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="acn352170-cr-0013" contrib-type="author"><name><surname>Barkhof</surname><given-names>Frederik</given-names></name><xref rid="acn352170-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="acn352170-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="acn352170-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="acn352170-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="acn352170-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref><xref rid="acn352170-note-0002" ref-type="author-notes">
+<sup>
+<sup>&#x02020;</sup>
+</sup>
+</xref></contrib><contrib id="acn352170-cr-0014" contrib-type="author"><name><surname>Toosy</surname><given-names>Ahmed T.</given-names></name><xref rid="acn352170-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="acn352170-note-0002" ref-type="author-notes">
+<sup>
+<sup>&#x02020;</sup>
+</sup>
+</xref></contrib></contrib-group><aff id="acn352170-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Queen Square MS Centre, Department of Neuroinflammation, UCL Queen Square Institute of Neurology, Faculty of Brain Sciences</named-content>
+<institution>University College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="acn352170-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Radiology and Nuclear Medicine</named-content>
+<institution>Amsterdam UMC, Vrije Universiteit Amsterdam</institution>
+<city>Amsterdam</city>
+<country country="NL">the Netherlands</country>
+</aff><aff id="acn352170-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Advanced Biomedical Sciences and Electrical Engineering and Information Technology</named-content>
+<institution>University of Naples Federico II</institution>
+<city>Naples</city>
+<country country="IT">Italy</country>
+</aff><aff id="acn352170-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Brain Repair &#x00026; Rehabilitation, UCL Queen Square Institute of Neurology, Faculty of Brain Sciences</named-content>
+<institution>University College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="acn352170-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Centre for Medical Image Computing, Department of Medical Physics and Biomedical Engineering, Faculty of Engineering Science</named-content>
+<institution>University College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="acn352170-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<institution>Universitat Oberta de Catalunya</institution>
+<city>Barcelona</city>
+<country country="ES">Spain</country>
+</aff><aff id="acn352170-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Strabismus and Neuro&#x02010;Ophthalmology Service</named-content>
+<institution>Moorfields Eye Hospital NHS Foundation Trust</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="acn352170-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Department of Brain and Behavioural Sciences</named-content>
+<institution>University of Pavia</institution>
+<city>Pavia</city>
+<country country="IT">Italy</country>
+</aff><aff id="acn352170-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<institution>NIHR University College London Hospitals Biomedical Research Centre</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Michael A. Foster, Department of Neuroinflammation, UCL Queen Square Institute of Neurology, First Floor, Russell Square House, 10&#x02010;12 Russell Square, London WC1B 5EH, UK. Tel: +44 20 3108 2580; E&#x02010;mail: <email>m.a.foster@ucl.ac.uk</email>
+<break/>
+</corresp><fn fn-type="equal" id="acn352170-note-0001"><label>
+<sup>#</sup>
+</label><p>These authors contributed equally to this project.</p></fn><fn id="acn352170-note-0002"><label>
+<sup>&#x02020;</sup>
+</label><p>These authors jointly supervised this project.</p></fn></author-notes><pub-date pub-type="epub"><day>30</day><month>7</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>10</month><year>2024</year></pub-date><volume>11</volume><issue seq="50">10</issue><issue-id pub-id-type="doi">10.1002/acn3.v11.10</issue-id><fpage>2572</fpage><lpage>2582</lpage><history>
+<date date-type="received"><day>02</day><month>7</month><year>2024</year></date>
+<date date-type="accepted"><day>17</day><month>7</month><year>2024</year></date>
+</history><permissions><!--&#x000a9; 2024 American Neurological Association--><copyright-statement content-type="article-copyright">&#x000a9; 2024 The Author(s). <italic toggle="yes">Annals of Clinical and Translational Neurology</italic> published by Wiley Periodicals LLC on behalf of American Neurological Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ACN3-11-2572.pdf"/><abstract><title>Abstract</title><sec id="acn352170-sec-0001"><title>Objective</title><p>We investigated the effects of adding regions to current dissemination in space (DIS) criteria for multiple sclerosis (MS).</p></sec><sec id="acn352170-sec-0002"><title>Methods</title><p>Participants underwent brain, optic nerve, and spinal cord MRI. Baseline DIS was assessed by 2017 McDonald criteria and versions including optic nerve, temporal lobe, or corpus callosum as a fifth region (requiring 2/5), a version with all regions (requiring 3/7) and optic nerve variations requiring 3/5 and 4/5 regions. Performance was evaluated against MS diagnosis (2017 McDonald criteria) during follow&#x02010;up.</p></sec><sec id="acn352170-sec-0003"><title>Results</title><p>Eighty&#x02010;four participants were recruited (53F, 32.8&#x02009;&#x000b1;&#x02009;7.1&#x02009;years). 2017 McDonald DIS criteria were 87% sensitive (95% CI: 76&#x02013;94), 73% specific (50&#x02013;89), and 83% accurate (74&#x02013;91) in identifying MS. Modified criteria with optic nerve improved sensitivity to 98% (91&#x02013;100), with specificity 33% (13&#x02013;59) and accuracy 84% (74&#x02013;91). Criteria including temporal lobe showed sensitivity 94% (84&#x02013;98), specificity 50% (28&#x02013;72), and accuracy 82% (72&#x02013;90); criteria including corpus callosum showed sensitivity 90% (80&#x02013;96), specificity 68% (45&#x02013;86), and accuracy 85% (75&#x02013;91). Criteria adding all three regions (3/7 required) had sensitivity 95% (87&#x02013;99), specificity 55% (32&#x02013;76), and accuracy 85% (75&#x02013;91). When requiring 3/5 regions (optic nerve as the fifth), sensitivity was 82% (70&#x02013;91), specificity 77% (55&#x02013;92), and accuracy 81% (71&#x02013;89); with 4/5 regions, sensitivity was 56% (43&#x02013;69), specificity 95% (77&#x02013;100), and accuracy 67% (56&#x02013;77).</p></sec><sec id="acn352170-sec-0004"><title>Interpretation</title><p>Optic nerve inclusion increased sensitivity while lowering specificity. Increasing required regions in optic nerve criteria increased specificity and decreased sensitivity. Results suggest considering the optic nerve for DIS. An option of 3/5 or 4/5 regions preserved specificity, and criteria adding all three regions had highest accuracy.</p></sec></abstract><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Wings for Life
+</institution><institution-id institution-id-type="doi">10.13039/100012066</institution-id></institution-wrap></funding-source><award-id>169111</award-id></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>Global Challenges Research Fund
+</institution><institution-id institution-id-type="doi">10.13039/100016270</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>European Committee for Treatment and Research in Multiple Sclerosis
+</institution><institution-id institution-id-type="doi">10.13039/100008659</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0004"><funding-source><institution-wrap><institution>Ataxia UK
+</institution><institution-id institution-id-type="doi">10.13039/501100000346</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0005"><funding-source><institution-wrap><institution>Medical Research Council
+</institution><institution-id institution-id-type="doi">10.13039/501100000265</institution-id></institution-wrap></funding-source><award-id>MR/S026088/1</award-id></award-group><award-group id="funding-0006"><funding-source><institution-wrap><institution>Multiple Sclerosis Society
+</institution><institution-id institution-id-type="doi">10.13039/501100000381</institution-id></institution-wrap></funding-source><award-id>77</award-id></award-group><award-group id="funding-0007"><funding-source><institution-wrap><institution>Rosetrees Trust
+</institution><institution-id institution-id-type="doi">10.13039/501100000833</institution-id></institution-wrap></funding-source><award-id>A1332</award-id><award-id>MS632</award-id><award-id>PGL21/10079</award-id></award-group><award-group id="funding-0008"><funding-source><institution-wrap><institution>University College London Hospitals Biomedical Research Centre
+</institution><institution-id institution-id-type="doi">10.13039/501100012317</institution-id></institution-wrap></funding-source><award-id>541/CAP/OC/818837</award-id></award-group><funding-statement>This work was funded by <funding-source><institution-wrap><institution>Wings for Life
+</institution><institution-id institution-id-type="doi">10.13039/100012066</institution-id></institution-wrap></funding-source> grant <award-id>169111</award-id>; <funding-source><institution-wrap><institution>Global Challenges Research Fund
+</institution><institution-id institution-id-type="doi">10.13039/100016270</institution-id></institution-wrap></funding-source>; <funding-source><institution-wrap><institution>European Committee for Treatment and Research in Multiple Sclerosis
+</institution><institution-id institution-id-type="doi">10.13039/100008659</institution-id></institution-wrap></funding-source>; <funding-source><institution-wrap><institution>Ataxia UK
+</institution><institution-id institution-id-type="doi">10.13039/501100000346</institution-id></institution-wrap></funding-source>; <funding-source><institution-wrap><institution>Medical Research Council
+</institution><institution-id institution-id-type="doi">10.13039/501100000265</institution-id></institution-wrap></funding-source> grant <award-id>MR/S026088/1</award-id>; <funding-source><institution-wrap><institution>Multiple Sclerosis Society
+</institution><institution-id institution-id-type="doi">10.13039/501100000381</institution-id></institution-wrap></funding-source> grant <award-id>77</award-id>; <funding-source><institution-wrap><institution>Rosetrees Trust
+</institution><institution-id institution-id-type="doi">10.13039/501100000833</institution-id></institution-wrap></funding-source> grants <award-id>A1332</award-id>, <award-id>MS632</award-id>, and <award-id>PGL21/10079</award-id>; <funding-source><institution-wrap><institution>University College London Hospitals Biomedical Research Centre
+</institution><institution-id institution-id-type="doi">10.13039/501100012317</institution-id></institution-wrap></funding-source> grant <award-id>541/CAP/OC/818837</award-id>.</funding-statement></funding-group><counts><fig-count count="3"/><table-count count="4"/><page-count count="11"/><word-count count="8125"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2024</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.4.9 mode:remove_FC converted:28.10.2024</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="acn352170-ntgp-0001"><fn id="acn352170-note-0003"><p>
+<bold>Funding Information</bold>
+</p><p>MF is supported by a grant from the MRC (MR/S026088/1). GP has received research grants from ECTRIMS&#x02010;MAGNIMS and ESNR. SC is supported by the Rosetrees Trust (PGL21/10079), and she was awarded a MAGNIMS&#x02010;ECTRIMS fellowship in 2016. CGWK receives funding from the MS Society (77), Wings for Life (169111), Global Challenges Research Fund (GCRF), MRC (MR/S026088/1), and Ataxia UK. AT is supported by grants from the MRC (MR/S026088/1), NIHR BRC (541/CAP/OC/818837), and Rosetrees Trust (A1332, MS632). BK, CGWK, FB, FP, OC, and WB are supported by the NIHR BRC.</p></fn></fn-group></notes></front><body id="acn352170-body-0001"><sec id="acn352170-sec-0005"><title>Introduction</title><p>Diagnosing relapsing&#x02013;remitting multiple sclerosis (MS) requires demyelination disseminated in space and time.<xref rid="acn352170-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> Currently, dissemination in space (DIS) is demonstrated on MRI by identifying at least one T2&#x02010;hyperintense lesion in at least two of four CNS areas: periventricular, cortical/juxtacortical, and infratentorial brain regions, and spinal cord.<xref rid="acn352170-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Radiological dissemination in time (DIT) can be achieved through the simultaneous presence of gadolinium&#x02010;enhancing and nonenhancing lesions on one scan, or by presence of new lesions on follow&#x02010;up scans.<xref rid="acn352170-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>
+</p><p>Lesions in other regions are characteristic but not in the current DIS framework, including the optic nerve, corpus callosum, and temporal lobe.<xref rid="acn352170-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> Optic neuritis is a common presenting syndrome<xref rid="acn352170-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> with well&#x02010;described imaging appearances.<xref rid="acn352170-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Demyelinating lesions are seen in optic nerves without a prior history of optic neuritis.<xref rid="acn352170-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="acn352170-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="acn352170-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> 2016 MAGNIMS MRI criteria for MS diagnosis recommended including optic nerve as a fifth location for DIS<xref rid="acn352170-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>; however, the 2017 McDonald criteria did not include this proposal, citing lack of sensitivity and specificity data for techniques identifying optic nerve lesions.<xref rid="acn352170-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Several studies have now addressed this<xref rid="acn352170-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>: Brownlee et&#x000a0;al.<xref rid="acn352170-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> demonstrated increased diagnostic performance when optic nerve involvement (assessed clinically and/or with visual evoked potentials) was considered for DIS; Vidal&#x02010;Jordana et&#x000a0;al.<xref rid="acn352170-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> described similar findings with visual evoked potentials in a larger cohort; and Bsteh et&#x000a0;al.<xref rid="acn352170-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> reported improvement in performance with use of optical coherence tomography. The inclusion of the optic nerve in DIS was also supported by an analysis in a Hispanic population, where optic neuritis is more common.<xref rid="acn352170-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> A recent multicenter analysis has examined the impact of including optic nerve lesions as identified on optic nerve MRI on DIS criteria &#x02013; it noted an increase in sensitivity with a commensurate loss of specificity as accuracy remained stable.<xref rid="acn352170-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+</p><p>The corpus callosum is another typical location for demyelinating lesions in MS which can be detected using MRI.<xref rid="acn352170-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> The morphology and topography of callosal lesions can also help distinguish between MS and other demyelinating conditions such as neuromyelitis optica spectrum disorders,<xref rid="acn352170-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="acn352170-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> or imaging mimics like Susac's syndrome.<xref rid="acn352170-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> Callosal lesions can currently be used to satisfy DIS, but only if abutting a ventricle and classified as a periventricular lesion. Studies investigating the contribution of callosal lesions to predict MS have reported mixed results: Arrambide et&#x000a0;al.<xref rid="acn352170-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> and Barkhof et&#x000a0;al.<xref rid="acn352170-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> confirmed their presence in MS, but not a contribution to its diagnosis, whereas Jafari et&#x000a0;al.<xref rid="acn352170-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> noted that combining the presence of callosal lesions with the Barkhof criteria for MRI assessment<xref rid="acn352170-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> improved prediction of MS diagnosis.</p><p>Temporal lobe lesions are observed in MS, especially in the cortex or near the temporal horns of the lateral ventricles.<xref rid="acn352170-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="acn352170-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> These can only currently be considered for DIS where they are already periventricular or cortical/juxtacortical. Their presence with callosal lesions is predictive of demyelinating activity<xref rid="acn352170-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> and can distinguish MS from neuromyelitis optica spectrum disorders.<xref rid="acn352170-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="acn352170-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="acn352170-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> Temporal lobe lesions make a significant contribution to Extended Disability Status Scale outcomes<xref rid="acn352170-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>; moreover, people with MS with co&#x02010;existing epilepsy<xref rid="acn352170-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> or depression<xref rid="acn352170-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> have a higher temporal lobe lesion load.</p><p>Against this background, we present a novel analysis of variations of DIS diagnostic criteria in a single&#x02010;center, highly phenotyped cohort with consistent follow&#x02010;up to assess their ability to facilitate earlier MS diagnosis after a first demyelinating event. We demonstrate how MRI can establish optic nerve involvement and earlier MS diagnosis.</p></sec><sec sec-type="methods" id="acn352170-sec-0006"><title>Methods</title><sec id="acn352170-sec-0007"><title>Participants</title><p>The study recruited people presenting with neurological symptoms suggestive of a first episode of demyelination within 3&#x02009;months of their presentation. Suitable participants were identified at the National Hospital for Neurology &#x00026; Neurosurgery and at Moorfields Eye Hospital, both in London, UK. All participants had to be aged 18&#x02013;65&#x02009;years old, able to give written informed consent in English, and able to have an MRI scan. Participants needed to have clinically isolated syndrome (CIS) without prior diagnosis of MS and no other medical condition that might affect the central nervous system. The local research ethics committee approved the study protocol (13/LO/1762; 13/0231&#x02010;CIS2013), and all participants gave written informed consent.</p></sec><sec id="acn352170-sec-0008"><title>Clinical and MRI assessment</title><p>Participants underwent assessment at baseline and were then followed up at regular intervals (6, 12, 36, and 60&#x02009;months). New clinical relapse activity was recorded. Participants were assessed for disability using the Expanded Disability Status Scale.<xref rid="acn352170-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> Though not part of the study protocol, some participants underwent CSF examination as part of their routine clinical care. The 2017 revisions of the McDonald criteria<xref rid="acn352170-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> were applied to all participants in the study to establish if MS could be diagnosed at their presentation and at follow&#x02010;up visits.</p><p>MRI scans were acquired on a 3&#x02010;Tesla Philips Achieva TX (Philips, Best, the Netherlands) that during the study was upgraded to a 3T Philips Ingenia CX scanner. All participants underwent imaging of the brain, optic nerve, and spinal cord, including gadolinium&#x02010;based contrast agent. Details of MRI protocols are provided in the supplementary materials.</p></sec><sec id="acn352170-sec-0009"><title>Image analysis</title><p>Three experienced neuroradiologists (GP, ID and FB) reviewed all images by consensus. Lesions suggestive of demyelination were assessed on baseline scans following previous published guidance for current DIS locations (Fig.&#x000a0;<xref rid="acn352170-fig-0001" ref-type="fig">1</xref>).<xref rid="acn352170-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> Corpus callosum lesions had to be included within two planes traversing the external walls of the lateral ventricles, regardless of whether they touched the ventricular roof. Temporal lobe lesions could be either cortical/juxtacortical or located in the deep or periventricular white matter. Optic nerve and brain lesions were primarily assessed on coronal short tau inversion recovery and 3D fluid&#x02010;attenuated inversion recovery images, respectively, while spinal cord lesions were assessed on sagittal proton density&#x02010;weighted and T2&#x02010;weighted scans. For all identified lesions, distinct brain regions were considered as mutually exclusive locations &#x02013; for example, for modified criteria including the corpus callosum as a separate compartment, a lesion in the corpus callosum did not contribute to the periventricular lesion count, or, for modified criteria including the temporal lobe as a separate compartment, a lesion in the juxtacortical temporal white matter did not contribute to the cortical/juxtacortical lesion count.</p><fig position="float" fig-type="Figure" id="acn352170-fig-0001"><label>Figure 1</label><caption><p>Examples of lesions (arrowheads) in the different compartments: (A) periventricular; (B) juxtacortical; (C) infratentorial; (D) spinal cord; (E, F) corpus callosum; (G) optic nerve; (H) temporal lobe.</p></caption><graphic xlink:href="ACN3-11-2572-g002" position="anchor" id="jats-graphic-1"/></fig><p>DIS was defined according to the 2017 McDonald DIS criteria (requiring &#x02265;2/4 regions),<xref rid="acn352170-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> and the following modified criteria including a fifth anatomical location (&#x02265;2/5 regions): (i) modified DIS including the optic nerve, (ii) modified DIS including the temporal lobe, and (iii) modified DIS including the corpus callosum. Performance of the modified criteria including the optic nerve was also assessed where 3/5 or 4/5 regions were required to satisfy DIS. Finally, the three new regions (optic nerve, temporal lobe, and corpus callosum) were added to the standard four compartments, with &#x02265;3/7 regions required to demonstrate DIS. Additionally, in patients where postcontrast MRI sequences and/or the oligoclonal band information were available, the combination of modified DIS criteria with DIT was also considered.</p></sec><sec id="acn352170-sec-0010"><title>Statistical analysis</title><p>The performance of the modified DIS criteria at baseline was tested against the 2017 McDonald criteria (DIS and DIT) for the diagnosis of relapsing&#x02013;remitting multiple sclerosis at any time during the study &#x02013; where DIS was satisfied, diagnosis of relapsing&#x02013;remitting MS was determined by a clinical relapse, new T2 lesion, the simultaneous presence of gadolinium&#x02010;enhancing and nonenhancing lesions on MRI, or the presence of CSF oligoclonal bands.<xref rid="acn352170-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> We calculated sensitivity, specificity, accuracy, and positive and negative predictive values (with 95% confidence intervals, CI). The McNemar test was used to quantitatively compare the performance of the modified criteria with that of the 2017 DIS criteria, with a significance level set at <italic toggle="yes">P</italic>&#x02009;&#x0003c;&#x02009;0.05. Finally, a receiver operating characteristic (ROC) curve analysis was performed to assess the diagnostic accuracy of demonstrating DIS with MRI across the spectrum of possibly involved compartments. Statistical analyses were done using SPSS v25.</p></sec></sec><sec sec-type="results" id="acn352170-sec-0011"><title>Results</title><p>We recruited 84 participants with clinically isolated syndrome between 2014 and 2021 (53 females, age 32.8&#x02009;&#x000b1;&#x02009;7.1&#x02009;years). Of these, 68 (81%) presented with optic neuritis, 7 with a brainstem/cerebellar syndrome, 5 with a spinal cord syndrome, 3 hemispheric presentations and 1 multifocal presentation. Sixty&#x02010;five were recruited from Moorfields Eye Hospital, with the remainder from the National Hospital for Neurology and Neurosurgery. Median time of symptom onset to first MRI was 54&#x02009;days (interquartile range 42&#x02009;days). At baseline MRI, 73 participants (87%) had optic nerve lesions, 64 (76%) had temporal lobe lesions, and 52 (62%) had callosal lesions. Of participants with temporal lobe lesions, 61 had lesions in temporal deep white matter; 31 of this group did not have a co&#x02010;existing periventricular or cortical/juxtacortical temporal lobe lesion. In participants with callosal lesions, six had lesions not abutting the ventricles; only one of this group did not also have a periventricular callosal lesion. Contrast&#x02010;enhanced sequences were obtained in 78 participants (93%); in this group, 45 participants (58%) had at least one enhancing lesion.</p><p>Twenty&#x02010;nine participants (35%) satisfied the 2017 McDonald criteria for MS at the time of baseline MRI, and 33 additional participants (39%) were diagnosed with MS over a median follow&#x02010;up of 36&#x02009;months (interquartile range 48&#x02009;months), with a final total of 62 participants (74%) with McDonald MS; 43 of the participants with McDonald MS were started on disease&#x02010;modifying treatment (69%). No participants with clinically isolated syndrome not satisfying criteria for McDonald MS diagnosis received disease&#x02010;modifying treatment. Median time to McDonald MS diagnosis (if not diagnosed at baseline) was 11.8&#x02009;months (interquartile range: 9.3&#x02009;months). Nineteen participants (23%) underwent CSF examination (at any point in follow&#x02010;up), with unmatched CSF oligoclonal bands identified in 12 of the tested participants (63%). Nineteen participants with McDonald MS (23% of total cohort, 31% of McDonald MS) experienced a second clinical relapse over follow&#x02010;up. A flowchart showing the number of patients belonging to the different categories is shown in Figure&#x000a0;<xref rid="acn352170-fig-0002" ref-type="fig">2</xref>, while demographic, clinical, and MRI characteristics of the studied population are provided in Table&#x000a0;<xref rid="acn352170-tbl-0001" ref-type="table">1</xref>.</p><fig position="float" fig-type="Figure" id="acn352170-fig-0002"><label>Figure 2</label><caption><p>Flowchart showing the number of patients belonging to the different diagnostic categories; CDMS, clinically definite multiple sclerosis; MDMS, McDonald multiple sclerosis.</p></caption><graphic xlink:href="ACN3-11-2572-g001" position="anchor" id="jats-graphic-3"/></fig><table-wrap position="float" id="acn352170-tbl-0001" content-type="Table"><label>Table 1</label><caption><p>Demographic, clinical, and MRI characteristics of study participants.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Mean age, years (SD)</td><td align="left" valign="top" rowspan="1" colspan="1">32.8 (7.1)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Sex, number of females</td><td align="left" valign="top" rowspan="1" colspan="1">52</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Median duration of follow&#x02010;up, months (IQR)</td><td align="left" valign="top" rowspan="1" colspan="1">36 (48)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CSF examination (%)</td><td align="left" valign="top" rowspan="1" colspan="1">19 (23)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">MDMS at baseline (%)</td><td align="left" valign="top" rowspan="1" colspan="1">29 (35)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">MDMS through follow&#x02010;up (%)</td><td align="left" valign="top" rowspan="1" colspan="1">33 (39)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CDMS through follow&#x02010;up (%)</td><td align="left" valign="top" rowspan="1" colspan="1">19 (23)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">MDMS on disease&#x02010;modifying treatment (%)</td><td align="left" valign="top" rowspan="1" colspan="1">43 (69)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">EDSS, median (range)</td><td align="left" valign="top" rowspan="1" colspan="1">1 (0&#x02013;3)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Achieva/Ingenia scanner</td><td align="left" valign="top" rowspan="1" colspan="1">50/34</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Contrast&#x02010;enhanced sequences (%)</td><td align="left" valign="top" rowspan="1" colspan="1">78 (93)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Participants with juxtacortical lesions (%)</td><td align="left" valign="top" rowspan="1" colspan="1">43 (51)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Participants with periventricular lesions (%)</td><td align="left" valign="top" rowspan="1" colspan="1">74 (88)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Participants with infratentorial lesions (%)</td><td align="left" valign="top" rowspan="1" colspan="1">40 (48)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Participants with spinal cord lesions (%)</td><td align="left" valign="top" rowspan="1" colspan="1">38 (45)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Participants with optic nerve lesions (%)</td><td align="left" valign="top" rowspan="1" colspan="1">73 (87)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Participants with corpus callosum lesions (%)</td><td align="left" valign="top" rowspan="1" colspan="1">52 (76)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Participants with temporal lobe lesions (%)</td><td align="left" valign="top" rowspan="1" colspan="1">64 (62)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Participants with enhancing lesions (%)</td><td align="left" valign="top" rowspan="1" colspan="1">45 (54)</td></tr></tbody></table><table-wrap-foot id="acn352170-ntgp-0002"><fn id="acn352170-note-0004"><p>CDMS, clinically definite multiple sclerosis; EDSS, Extended Disability Status Scale; IQR, interquartile range; MDMS, McDonald multiple sclerosis; SD, standard deviation.</p></fn></table-wrap-foot></table-wrap><p>The existing DIS 2017 criteria were 87% sensitive (95% CI: 76&#x02013;94), 73% specific (95% CI: 50&#x02013;89%), and 83% accurate (95% CI: 74&#x02013;91) when compared with the complete McDonald 2017 MS diagnostic criteria. The modified DIS criteria (requiring &#x02265;2/5 regions) including either the optic nerve or the temporal lobe as a fifth anatomical location, as well as that with all the additional regions (optic nerve, temporal lobe and corpus callosum, requiring &#x02265;3/7 regions), were significantly different compared with 2017 DIS criteria (<italic toggle="yes">P</italic>&#x02009;&#x0003c;&#x02009;0.001, <italic toggle="yes">P</italic>&#x02009;=&#x02009;0.004, and <italic toggle="yes">P</italic>&#x02009;=&#x02009;0.004 respectively). The modified DIS criteria including the corpus callosum as a fifth anatomical location were statistically comparable (<italic toggle="yes">P</italic>&#x02009;=&#x02009;0.4) to DIS 2017.</p><p>Among all modified DIS criteria, those including the optic nerve (&#x02265;2/5 regions) yielded the highest sensitivity (98%, 95% CI: 91&#x02013;100) and the lowest specificity (33%, 95% CI: 13&#x02013;59) with accuracy comparable to DIS 2017 criteria (84%, 95% CI: 74&#x02013;91). The modified criteria with all the additional locations (&#x02265;3/7) showed the second highest sensitivity (95%, 95% CI: 87&#x02013;99) and the highest accuracy (85%, 95% CI: 75&#x02013;91). If more regions are required to meet the modified criteria including the optic nerve, specificity increased as sensitivity fell: when 3/5 regions are required, sensitivity was 82% (95% CI: 70&#x02013;91), specificity 77% (95% CI: 55&#x02013;92) and accuracy 81% (95% CI: 71&#x02013;89); if 4/5 are required, sensitivity was 56% (95% CI: 43&#x02013;69), specificity 95% (95% CI: 77&#x02013;100) and accuracy 67% (95% CI: 56&#x02013;77). Using the modified criteria with optic nerve as a fifth region (&#x02265;2/5 regions), six participants could have been diagnosed with MS at their first presentation with CIS, instead of the later diagnosis they obtained under the current criteria (amounting to 18% of the group diagnosed during follow&#x02010;up); with the seven&#x02010;region criteria (&#x02265;3/7 regions), four participants (12%) would have been diagnosed at presentation instead of during follow&#x02010;up. Diagnostic performances for 2017 DIS criteria and all modifications including one additional compartment are reported in Table&#x000a0;<xref rid="acn352170-tbl-0002" ref-type="table">2</xref>. Performance of the modified criteria including the optic nerve where higher numbers of anatomical regions are required is reported in Table&#x000a0;<xref rid="acn352170-tbl-0003" ref-type="table">3</xref>; performance of the seven&#x02010;region version is reported in Table&#x000a0;<xref rid="acn352170-supitem-0001" ref-type="supplementary-material">S1</xref>.</p><table-wrap position="float" id="acn352170-tbl-0002" content-type="Table"><label>Table 2</label><caption><p>Diagnostic performance of the McDonald 2017 and modified DIS criteria adding one anatomical region for the development of relapsing&#x02013;remitting multiple sclerosis according to the 2017 McDonald criteria (DIS&#x02009;+&#x02009;DIT).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">Sensitivity % (95% CI)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Specificity % (95% CI)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Accuracy % (95% CI)</th><th align="left" valign="bottom" rowspan="1" colspan="1">PPV % (95% CI)</th><th align="left" valign="bottom" rowspan="1" colspan="1">NPV % (95% CI)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">DIS 2017 (&#x02265;2/4)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">87 (76&#x02013;94)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">73 (50&#x02013;89)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">83 (74&#x02013;91)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">90 (82&#x02013;95)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">67 (50&#x02013;80)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">DIS+ON (&#x02265;2/5)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">98 (91&#x02013;100)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">33 (13&#x02013;59)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">84 (74&#x02013;91)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">84 (79&#x02013;88)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">86 (44&#x02013;98)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">DIS+CC (&#x02265;2/5)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">90 (80&#x02013;96)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">68 (45&#x02013;86)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">85 (75&#x02013;91)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">89 (81&#x02013;94)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">71 (53&#x02013;85)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">DIS+TL (&#x02265;2/5)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">94 (84&#x02013;98)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">50 (28&#x02013;72)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">82 (72&#x02013;90)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">84 (78&#x02013;89)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">82 (49&#x02013;89)</td></tr></tbody></table><table-wrap-foot id="acn352170-ntgp-0003"><fn id="acn352170-note-0005"><p>CC, corpus callosum; CI, confidence interval; DIS, dissemination in space; DIT, dissemination in time; NPV, negative predictive value; ON, optic nerve; PPV, positive predictive value; TL, temporal lobe.</p></fn></table-wrap-foot></table-wrap><table-wrap position="float" id="acn352170-tbl-0003" content-type="Table"><label>Table 3</label><caption><p>Diagnostic performance of the McDonald 2017 and modified DIS criteria with the optic nerve as an additional anatomical region for the development of relapsing&#x02013;remitting multiple sclerosis according to the 2017 McDonald criteria (DIS+DIT).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">Sensitivity % (95% CI)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Specificity % (95% CI)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Accuracy % (95% CI)</th><th align="left" valign="bottom" rowspan="1" colspan="1">PPV % (95% CI)</th><th align="left" valign="bottom" rowspan="1" colspan="1">NPV % (95% CI)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">DIS 2017 (&#x02265;2/4)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">87 (76&#x02013;94)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">73 (50&#x02013;89)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">83 (74&#x02013;91)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">90 (82&#x02013;95)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">67 (50&#x02013;80)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">DIS+ON (&#x02265;2/5)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">98 (91&#x02013;100)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">33 (13&#x02013;59)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">84 (74&#x02013;91)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">84 (79&#x02013;88)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">86 (44&#x02013;98)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">DIS+ON (&#x02265;3/5)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">82 (70&#x02013;91)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">77 (55&#x02013;92)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">81 (71&#x02013;89)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">91 (82&#x02013;96)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">61 (46&#x02013;73)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">DIS+ON (&#x02265;4/5)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">56 (43&#x02013;69)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">95 (77&#x02013;100)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">67 (56&#x02013;77)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">97 (84&#x02013;100)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">44 (37&#x02013;51)</td></tr></tbody></table><table-wrap-foot id="acn352170-ntgp-0004"><fn id="acn352170-note-0006"><p>CI, confidence interval; DIS, dissemination in space; DIT, dissemination in time; NPV, negative predictive value; ON, optic nerve; PPV, positive predictive value.</p></fn></table-wrap-foot></table-wrap><p>With the ROC curve analysis for the modified criteria including the optic nerve (Fig.&#x000a0;<xref rid="acn352170-fig-0003" ref-type="fig">3</xref>), the area under the curve (AUC) for diagnosis of MS was 0.87 (95% CI: 0.79&#x02013;0.95). Additionally, in the ROC curve where all seven regions were included (Figure&#x000a0;<xref rid="acn352170-supitem-0001" ref-type="supplementary-material">S1</xref>), AUC was 0.88 (95% CI: 0.80&#x02013;0.96).</p><fig position="float" fig-type="Figure" id="acn352170-fig-0003"><label>Figure 3</label><caption><p>ROC curve showing the performance of demonstrating spatial dissemination (considering five possible compartments including the optic nerve) for the diagnosis of relapsing&#x02013;remitting multiple sclerosis according to 2017 McDonald criteria. AUC is 0.87 (95% CI: 0.79&#x02013;0.95).</p></caption><graphic xlink:href="ACN3-11-2572-g003" position="anchor" id="jats-graphic-5"/></fig><p>In combination with DIT criteria, the modified criteria including the optic nerve achieved the highest sensitivity (69%, 95% CI: 55&#x02013;80) and lower specificity (63%, 95% CI: 38&#x02013;84), with higher accuracy than the other combinations of DIS and DIT (68%, 95% CI: 56&#x02013;78) (Table&#x000a0;<xref rid="acn352170-tbl-0004" ref-type="table">4</xref>).</p><table-wrap position="float" id="acn352170-tbl-0004" content-type="Table"><label>Table 4</label><caption><p>Diagnostic performance of the McDonald 2017 and modified DIS criteria, plus DIT, for the development of relapsing&#x02013;remitting multiple sclerosis according to the 2017 McDonald criteria (DIS+DIT) (<italic toggle="no">N</italic>&#x02009;=&#x02009;78).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">Sensitivity % (95% CI)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Specificity % (95% CI)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Accuracy % (95% CI)</th><th align="left" valign="bottom" rowspan="1" colspan="1">PPV % (95% CI)</th><th align="left" valign="bottom" rowspan="1" colspan="1">NPV % (95% CI)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">DIS 2017 (&#x02265;2/4) and DIT</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">43 (30&#x02013;57)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">100 (82&#x02013;100)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">57 (43&#x02013;68)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">100 (86&#x02013;100)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">37 (32&#x02013;42)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">DIS+ON (&#x02265;2/5) and DIT</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">69 (55&#x02013;80)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">63 (38&#x02013;84)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">68 (56&#x02013;78)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">85 (76&#x02013;91)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">40 (28&#x02013;53)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">DIS+CC (&#x02265;2/5) and DIT</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">45 (32&#x02013;58)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">100 (82&#x02013;100)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">58 (47&#x02013;70)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">100 (87&#x02013;100)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">37 (32&#x02013;43)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">DIS+TL (&#x02265;2/5) and DIT</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">43 (30&#x02013;57)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">95 (74&#x02013;100)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">56 (44&#x02013;67)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">96 (78&#x02013;99)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">35 (30&#x02013;41)</td></tr></tbody></table><table-wrap-foot id="acn352170-ntgp-0005"><fn id="acn352170-note-0007"><p>CC, corpus callosum; CI, confidence interval; DIS, dissemination in space; DIT, dissemination in time; NPV, negative predictive value; ON, optic nerve; PPV, positive predictive value; TL, temporal lobe.</p></fn></table-wrap-foot></table-wrap></sec><sec sec-type="discussion" id="acn352170-sec-0012"><title>Discussion</title><p>Our main analysis demonstrates that the addition of new CNS regions to the existing DIS criteria, especially the optic nerve, increases sensitivity at diagnosing McDonald MS. While the inclusion of the optic nerve into the diagnostic criteria has been suggested previously,<xref rid="acn352170-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> this study comprehensively assesses its contribution in a CIS population who all underwent dedicated optic nerve MRI. In a similar way to Vidal&#x02010;Jordana et&#x000a0;al. for visual evoked potentials<xref rid="acn352170-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> and Bsteh et&#x000a0;al. for optical coherence tomography,<xref rid="acn352170-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> this study demonstrates how optic nerve MRI can contribute to establishing optic nerve involvement, and therefore earlier diagnosis of MS. It also helps to address the inconsistency often seen in clinical practice, where people presenting with optic neuritis and lesions in one other CNS region on MRI are treated differently from those presenting with brainstem or spinal cord isolated syndromes and corresponding lesions. Additionally, for the first time, it examines the effect of different thresholds of affected anatomical regions on attainment of DIS when considering the optic nerve. With the growing number of highly effective disease&#x02010;modifying treatments for MS, and evidence demonstrating that early commencement of treatment improves long&#x02010;term outcomes,<xref rid="acn352170-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="acn352170-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="acn352170-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> early diagnosis is becoming increasingly important.</p><p>While the optic nerve can be assessed with these different modalities, MRI carries certain advantages.<xref rid="acn352170-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> Its accuracy is greater than the other modalities, and it is the only modality that allows visualization of the nerve itself, as opposed to markers of nerve integrity or function &#x02013; this is particularly helpful to rule out compressive or infiltrative causes of optic neuropathies. Indeed, a well&#x02010;defined optic nerve lesion can help distinguish MS from mimics such as migraine and small&#x02010;vessel disease. It can be deployed anywhere in the time&#x02010;course of optic neuritis, rather than being restricted to use in either the acute or chronic phase (though it is particularly helpful in the acute phase, where swelling and gadolinium enhancement can be demonstrated).However, when evaluating the optic nerve, it is important to interpret any T2 hyperintensities in the context of the presenting syndrome, to reduce misdiagnosis of non&#x02010;MS optic neuropathies.</p><p>Various MRI sequences can be used to image the optic nerve. This study used two&#x02010;dimensional short tau inversion recovery (STIR), which offers high resolution and fat suppression; sensitivity is high for both acute (93%) and previous optic neuritis (94%).<xref rid="acn352170-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> STIR sequences are acquired in 5&#x02013;10&#x02009;min, making it a clinically viable addition to standard brain and spine diagnostic imaging protocols, with high in&#x02010;plane resolution (0.5&#x02009;&#x000d7;&#x02009;0.5&#x02009;mm). Three&#x02010;dimensional double&#x02010;inversion recovery (DIR) has alternatively been used for optic nerve imaging &#x02013; it offers good contrast with fat and fluid suppression, though resolution is lower than STIR, acquisition time is longer, and it is vulnerable to air&#x02010;bone susceptibility artefacts. Sensitivity (95%) and specificity (94%) of DIR are high for identifying intrinsic optic nerve hyperintensities,<xref rid="acn352170-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> superior to the performance of visual evoked potentials,<xref rid="acn352170-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> and it has better sensitivity and specificity when compared against either 3D fluid&#x02010;attenuated inversion recovery (FLAIR)<xref rid="acn352170-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref> or 2D combined STIR&#x02010;FLAIR sequences.<xref rid="acn352170-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> However, the tissue suppression provided by DIR may obscure soft&#x02010;tissue abnormalities compressing or infiltrating the optic nerve, which are more easily detectable by STIR. STIR therefore plays a helpful role in the differential diagnosis of optic neuritis&#x02010;like presentations (and consequently can contribute to the establishment of DIS in criteria including the optic nerve).</p><p>We acknowledge that the increase in sensitivity when adding the optic nerve as a fifth anatomical location comes at the expense of decreased specificity (and subsequently reduced accuracy). This is not unexpected when diagnostic criteria are expanded. However, it should also be noted that the analyzed cohort is highly controlled &#x02013; clinical presentations were all suggestive of MS, and alternative diagnoses were excluded before inclusion in the cohort, as prescribed by the current 2017 guidelines. Additionally, the follow&#x02010;up duration is relatively short; previous studies reviewing the performance of modified criteria including the optic nerve had similar levels of specificity to this study at 36 and 60&#x02009;months,<xref rid="acn352170-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> whereas studies with longer follow&#x02010;up demonstrate better performance of McDonald criteria.<xref rid="acn352170-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> These factors will conspire to reduce the observed specificity when DIT is a necessary criterion to diagnose MS. Indeed, as frequently stated, the McDonald criteria need judicious application to the clinical setting<xref rid="acn352170-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>: misdiagnosis is most likely when they are used inappropriately in presentations not suggestive of typical demyelination.<xref rid="acn352170-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> We would therefore place greater emphasis on sensitivities rather than specificities in the interpretation of these modified criteria; this approach is likely to become increasingly relevant in future studies that investigate diagnostic criteria. This is particularly the case in clinical settings where early diagnosis and treatment are key &#x02013; greater care might need to be taken in the recruitment for clinical trials. Where there is diagnostic uncertainty (even if criteria have been formally met), clinicians can increase confidence by looking for additional evidence of MS, such as DIT, the presence of CSF&#x02010;specific oligoclonal bands, or a higher degree of DIS.</p><p>It is also helpful to note how specificity increases as more anatomical locations are required (at the loss of sensitivity). The detection of demyelinating lesions in multiple regions on MRI after a single clinical episode is unlikely to suggest a single moment of inflammatory activity. Rather, it may instead be reflective of sub&#x02010;clinical demyelination occurring at timepoints prior to the clinical event &#x02013; what might have been a radiologically isolated syndrome had imaging been performed prior to the first clinical presentation. A higher and more disseminated number of lesions (as a surrogate marker for DIT) could therefore more strongly suggest MS than a modest lesion load. Indeed, specificity is further improved when observed DIT (heterogenous enhancement of lesions on initial MRI, new T2&#x02010;hyperintense lesions, new relapse, presence of oligoclonal bands) is added to the modified criteria. A post hoc analysis distinguishing optic neuritis from other presentations showed that the modified DIS criteria have no impact on nonoptic neuritis presentations (Table&#x000a0;<xref rid="acn352170-supitem-0001" ref-type="supplementary-material">S3</xref>), also previously observed by Brownlee et&#x000a0;al.<xref rid="acn352170-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> However, the nonoptic neuritis group was small (16/84 participants, 19%) and therefore relatively under&#x02010;represented.</p><p>The analysis compares modified diagnostic criteria with the 2017 revisions of the McDonald criteria,<xref rid="acn352170-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> rather than against a diagnosis of &#x0201c;clinically definite multiple sclerosis.&#x0201d;<xref rid="acn352170-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> The latter label, which relies on the occurrence of at least two clinical relapses, has largely been discarded from modern diagnostic criteria. Many people with a diagnosis of MS by McDonald criteria may not experience a second relapse for many years (if at all), as highly effective treatment is started early with the express aim of preventing further relapses. The people in our cohort were treated under this approach &#x02013; of 62 participants diagnosed with McDonald MS, 43 (69%) were started on disease&#x02010;modifying treatment &#x02013; and hence very few achieved the &#x0201c;clinically definite&#x0201d; status. It is possible that more might do so with a longer duration of follow&#x02010;up, of course, but the McDonald criteria<xref rid="acn352170-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> were more suited for use as the current gold&#x02010;standard for diagnosing MS.</p><p>The relatively short median follow&#x02010;up is a limitation of this study: a longer duration might have revealed a higher rate of relapsing&#x02013;remitting MS diagnosis, and an increased ability to compare modified criteria to standard McDonald diagnosis. Additionally, CSF examination was requested when there was a clinical indication in cases who did not fulfil DIT but had DIS, which would be the routine diagnostic pathway (rather than as a study requirement). Six participants meeting DIS criteria at baseline had not demonstrated DIT by the end of the follow&#x02010;up period; of these, one had a negative CSF examination, three declined the procedure, and two withdrew from the study before CSF examination could be performed. Furthermore, five participants with DIS at baseline demonstrated DIT through follow&#x02010;up, precluding the need for CSF examination.</p><p>Another feature of this cohort is the over&#x02010;representation of optic neuritis presentations: 81% of participants presented with optic neuritis, compared with reported frequencies of 18&#x02013;32%.<xref rid="acn352170-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>, <xref rid="acn352170-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref> Other analyses with similar proportions of optic neuritis presentations have been published elsewhere,<xref rid="acn352170-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="acn352170-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> including one assessing validity of a previous iteration of the McDonald criteria.<xref rid="acn352170-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref> This bias might also have contributed to the loss of specificity with the modified criteria, as people presenting with an optic neuritis clinically isolated syndrome may be less likely to convert to MS (though this lower risk is mitigated once cranial MRI at baseline is accounted for)<xref rid="acn352170-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>; a more heterogenous cohort might have had more rapid diagnosis of McDonald MS. However, this does provide a substantial cohort of optic nerve presentations in which to test modified criteria with optic nerve lesion involvement. It is also important to note that, while optic neuritis clinically isolated syndrome may be less likely to convert to MS, people with MS who initially presented with an optic neuritis demonstrate better long&#x02010;term outcomes when disease&#x02010;modifying treatments are started earlier.<xref rid="acn352170-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>
+</p><p>Overall, our results indicate that adding the optic nerve to the criteria for determining DIS as a fifth CNS compartment would increase sensitivity while reducing specificity (and preserving accuracy) when two out of five regions are required. Increasing the number of required regions (e.g., 3/5 or 4/5 where the optic nerve is the fifth region) increases specificity and might provide an alternate pathway to MS diagnosis. Alternatively, modifications adding all three proposed compartments (optic nerve, corpus callosum, and temporal lobe) to the current four, and requiring involvement of three of seven compartments, would still increase sensitivity while better preserving specificity (and also accuracy). However, this approach would be more laborious, with potential for confusing overlap between the new regions and spatial misclassification (e.g., a lesion in the corpus callosum abutting a ventricle being misclassified as periventricular instead of callosal). In either case, optic nerve involvement has an important role to play in the diagnosis of MS.</p></sec><sec id="acn352170-sec-0014"><title>Author Contributions</title><p>AT, CGWK, FB, OC, and WB contributed to conception and design of the study. Acquisition and analysis of data were performed by AB, BK, FB, FP, GP, ID, LO, MF, MY, and SC. Manuscript and figure preparation were undertaken by AT, FB, GP, MF, and OC.</p></sec><sec sec-type="COI-statement" id="acn352170-sec-0015"><title>Conflicts of Interest</title><p>MF has received speaker honoraria from Merck. SC has received speaker honoraria from Merck. OC is a member of independent DSMB for Novartis, gave a teaching talk on McDonald criteria in a Merck local symposium, and contributed to an Advisory Board for Biogen. WB has received speaker honoraria for educational activities and/or acted as a consultant for Biogen, Janssen, Merck, Novartis, Roche, Sanofi&#x02010;Genzyme, and Viatris. FB is a consultant to Bayer, Biogen, Roche, Merck&#x02010;Serono, Novartis, and Janssen. AT has received speaker honoraria from Biomedia and Merck and meeting expenses from Biogen Idec and Merck, and was the UK PI for two clinical trials sponsored by MEDDAY pharmaceutical company (MD1003 in optic neuropathy [MS&#x02010;ON &#x02013; NCT02220244] and progressive MS [MS&#x02010;SPI2 &#x02013; NCT02220244]). The pharmaceutical companies listed manufacture medicines used to treat multiple sclerosis, which may be prescribed more frequently if more diagnoses of multiple sclerosis are made. The other authors have no relevant interests to declare.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="acn352170-supitem-0001" position="float" content-type="local-data"><caption><p>
+<bold>Data S1.</bold> Supplementary materials.</p><p>
+<bold>Table S1.</bold> Diagnostic performance of the McDonald 2017 and modified DIS criteria including all seven compartments for the development of relapsing&#x02010;remitting multiple sclerosis according to the 2017 McDonald criteria (DIS+DIT).</p><p>
+<bold>Table S2.</bold> Diagnostic performance of the McDonald 2017 and modified DIS criteria for the development of relapsing&#x02010;remitting multiple sclerosis according to the 2017 McDonald criteria (DIS+DIT) in patients presenting with an optic neuritis (<italic toggle="yes">N</italic>&#x02009;=&#x02009;68).</p><p>
+<bold>Table S3.</bold> Diagnostic performance of the McDonald 2017 and modified DIS criteria for the development of relapsing&#x02010;remitting multiple sclerosis according to the 2017 McDonald criteria (DIS+DIT) in patients with presentations other than optic neuritis (<italic toggle="yes">N</italic>&#x02009;=&#x02009;16).</p><p>
+<bold>Figure S1.</bold> ROC curve showing the performance of demonstrating spatial dissemination (considering all seven possible compartments) for the diagnosis of relapsing&#x02010;remitting multiple sclerosis according to the 2017 McDonald criteria. AUC is 0.88 (95% CI: 0.80&#x02013;0.96).</p></caption><media xlink:href="ACN3-11-2572-s001.docx"/></supplementary-material></sec></body><back><ack id="acn352170-sec-0013"><title>Acknowledgments</title><p>MF is supported by a grant from the MRC (MR/S026088/1). GP has received research grants from ECTRIMS&#x02010;MAGNIMS and ESNR. SC is supported by the Rosetrees Trust (PGL21/10079), and she was awarded a MAGNIMS&#x02010;ECTRIMS fellowship in 2016. CGWK receives funding from the MS Society (77), Wings for Life (169111), Global Challenges Research Fund (GCRF), MRC (MR/S026088/1), and Ataxia UK. AT is supported by grants from the MRC (MR/S026088/1), NIHR BRC (541/CAP/OC/818837), and Rosetrees Trust (A1332, MS632). BK, CGWK, FB, FP, OC, and WB are supported by the NIHR BRC. The authors are grateful to the reviewers for their time and expertise in reviewing this manuscript &#x02013; their feedback and suggestions have improved the paper.</p></ack><sec sec-type="data-availability" id="acn352170-sec-0017"><title>Data Availability Statement</title><p>The data that support the findings of this study are available on request from the corresponding author. The data are not publicly available due to privacy or ethical restrictions.</p></sec><ref-list content-type="cited-references" id="acn352170-bibl-0001"><title>References</title><ref id="acn352170-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="acn352170-cit-0001">
+<string-name>
+<surname>Filippi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Preziosa</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Banwell</surname>
+<given-names>BL</given-names>
+</string-name>, et&#x000a0;al. <article-title>Assessment of lesions on magnetic resonance imaging in multiple sclerosis: practical guidelines</article-title>. <source>Brain</source>. <year>2019</year>;<volume>142</volume>(<issue>7</issue>):<fpage>1858</fpage>&#x02010;<lpage>1875</lpage>. doi:<pub-id pub-id-type="doi">10.1093/BRAIN/AWZ144</pub-id>
+<pub-id pub-id-type="pmid">31209474</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="acn352170-cit-0002">
+<string-name>
+<surname>Thompson</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Banwell</surname>
+<given-names>BL</given-names>
+</string-name>, <string-name>
+<surname>Barkhof</surname>
+<given-names>F</given-names>
+</string-name>, et&#x000a0;al. <article-title>Diagnosis of multiple sclerosis: 2017 revisions of the McDonald criteria</article-title>. <source>Lancet Neurol</source>. <year>2018</year>;<volume>17</volume>(<issue>2</issue>):<fpage>162</fpage>&#x02010;<lpage>173</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S1474-4422(17)30470-2</pub-id>
+<pub-id pub-id-type="pmid">29275977</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="acn352170-cit-0003">
+<string-name>
+<surname>Pretorius</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Quaghebeur</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>The role of MRI in the diagnosis of MS</article-title>. <source>Clin Radiol</source>. <year>2003</year>;<volume>58</volume>(<issue>6</issue>):<fpage>434</fpage>&#x02010;<lpage>448</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S0009-9260(03)00089-8</pub-id>
+<pub-id pub-id-type="pmid">12788312</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="acn352170-cit-0004">
+<string-name>
+<surname>Toosy</surname>
+<given-names>AT</given-names>
+</string-name>, <string-name>
+<surname>Mason</surname>
+<given-names>DF</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>
+<given-names>DH</given-names>
+</string-name>. <article-title>Optic neuritis</article-title>. <source>Lancet Neurol</source>. <year>2014</year>;<volume>13</volume>(<issue>1</issue>):<fpage>83</fpage>&#x02010;<lpage>99</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S1474-4422(13)70259-X</pub-id>
+<pub-id pub-id-type="pmid">24331795</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="acn352170-cit-0005">
+<string-name>
+<surname>Winter</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Chwalisz</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>MRI characteristics of NMO, MOG and MS related optic neuritis</article-title>. <source>Semin Ophthalmol</source>. <year>2020</year>;<volume>35</volume>(<issue>7&#x02013;8</issue>):<fpage>333</fpage>&#x02010;<lpage>342</lpage>. doi:<pub-id pub-id-type="doi">10.1080/08820538.2020.1866027</pub-id>
+<pub-id pub-id-type="pmid">33395326</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="acn352170-cit-0006">
+<string-name>
+<surname>London</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Z&#x000e9;phir</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Hadhoum</surname>
+<given-names>N</given-names>
+</string-name>, et&#x000a0;al. <article-title>Optic nerve double inversion recovery hypersignal in patients with clinically isolated syndrome is associated with asymptomatic gadolinium&#x02010;enhanced lesion</article-title>. <source>Mult Scler J</source>. <year>2019</year>;<volume>25</volume>(<issue>14</issue>):<fpage>1888</fpage>&#x02010;<lpage>1895</lpage>. doi:<pub-id pub-id-type="doi">10.1177/1352458518815797</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="acn352170-cit-0007">
+<string-name>
+<surname>Hadhoum</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Hodel</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Defoort&#x02010;Dhellemmes</surname>
+<given-names>S</given-names>
+</string-name>, et&#x000a0;al. <article-title>Length of optic nerve double inversion recovery hypersignal is associated with retinal axonal loss</article-title>. <source>Mult Scler J</source>. <year>2016</year>;<volume>22</volume>(<issue>5</issue>):<fpage>649</fpage>&#x02010;<lpage>658</lpage>. doi:<pub-id pub-id-type="doi">10.1177/1352458515598021</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="acn352170-cit-0008">
+<string-name>
+<surname>Miller</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name>
+<surname>Newton</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>van der Poel</surname>
+<given-names>JC</given-names>
+</string-name>, et&#x000a0;al. <article-title>Magnetic resonance imaging of the optic nerve in optic neuritis</article-title>. <source>Neurology</source>. <year>1988</year>;<volume>38</volume>(<issue>2</issue>):<fpage>175</fpage>&#x02010;<lpage>179</lpage>. doi:<pub-id pub-id-type="doi">10.1212/WNL.38.2.175</pub-id>
+<pub-id pub-id-type="pmid">3340276</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="acn352170-cit-0009">
+<string-name>
+<surname>Filippi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rocca</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Ciccarelli</surname>
+<given-names>O</given-names>
+</string-name>, et&#x000a0;al. <article-title>MRI criteria for the diagnosis of multiple sclerosis: MAGNIMS consensus guidelines</article-title>. <source>Lancet Neurol</source>. <year>2016</year>;<volume>15</volume>(<issue>3</issue>):<fpage>292</fpage>&#x02010;<lpage>303</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S1474-4422(15)00393-2</pub-id>
+<pub-id pub-id-type="pmid">26822746</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="acn352170-cit-0010">
+<string-name>
+<surname>Toosy</surname>
+<given-names>AT</given-names>
+</string-name>, <string-name>
+<surname>Vidal&#x02010;Jordana</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Is the optic nerve overdue as a criterion to support the diagnosis of multiple sclerosis?</article-title>
+<source>Neurology</source>. <year>2023</year>;<volume>101</volume>(<issue>8</issue>):<fpage>335</fpage>&#x02010;<lpage>336</lpage>. doi:<pub-id pub-id-type="doi">10.1212/WNL.0000000000207625</pub-id>
+<pub-id pub-id-type="pmid">37400247</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="acn352170-cit-0011">
+<string-name>
+<surname>Brownlee</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Miszkiel</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Tur</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Barkhof</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name>
+<surname>Ciccarelli</surname>
+<given-names>O</given-names>
+</string-name>. <article-title>Inclusion of optic nerve involvement in dissemination in space criteria for multiple sclerosis</article-title>. <source>Neurology</source>. <year>2018</year>;<volume>91</volume>(<issue>12</issue>):<fpage>E1130</fpage>&#x02010;<lpage>E1134</lpage>. doi:<pub-id pub-id-type="doi">10.1212/WNL.0000000000006207</pub-id>
+<pub-id pub-id-type="pmid">30120132</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="acn352170-cit-0012">
+<string-name>
+<surname>Vidal&#x02010;Jordana</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Rovira</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Arrambide</surname>
+<given-names>G</given-names>
+</string-name>, et&#x000a0;al. <article-title>Optic nerve topography in multiple sclerosis diagnosis: the utility of visual evoked potentials</article-title>. <source>Neurology</source>. <year>2021</year>;<volume>96</volume>(<issue>4</issue>):<fpage>E482</fpage>&#x02010;<lpage>E490</lpage>. doi:<pub-id pub-id-type="doi">10.1212/WNL.0000000000011339</pub-id>
+<pub-id pub-id-type="pmid">33328323</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="acn352170-cit-0013">
+<string-name>
+<surname>Bsteh</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Hegen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Altmann</surname>
+<given-names>P</given-names>
+</string-name>, et&#x000a0;al. <article-title>Diagnostic performance of adding the optic nerve region assessed by optical coherence tomography to the diagnostic criteria for multiple sclerosis</article-title>. <source>Neurology</source>. <year>2023</year>;<volume>101</volume>(<issue>8</issue>):<fpage>e784</fpage>&#x02010;<lpage>e793</lpage>. doi:<pub-id pub-id-type="doi">10.1212/WNL.0000000000207507</pub-id>
+<pub-id pub-id-type="pmid">37400245</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="acn352170-cit-0014">
+<string-name>
+<surname>Amezcua</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Robers</surname>
+<given-names>MV</given-names>
+</string-name>, <string-name>
+<surname>Soneji</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Manouvakhova</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Martinez</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Islam</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Inclusion of optic neuritis in dissemination in space improves the performance of McDonald 2017 criteria in Hispanic people with suspected multiple sclerosis</article-title>. <source>Mult Scler J</source>. <year>2023</year>;<volume>29</volume>(<issue>14</issue>):<fpage>1748</fpage>&#x02010;<lpage>1754</lpage>. doi:<pub-id pub-id-type="doi">10.1177/13524585231209016</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="acn352170-cit-0015">
+<string-name>
+<surname>Vidal&#x02010;Jordana</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Rovira</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Calderon</surname>
+<given-names>W</given-names>
+</string-name>, et&#x000a0;al. <article-title>Adding the optic nerve in multiple sclerosis diagnostic criteria</article-title>. <source>Neurology</source>. <year>2024</year>;<volume>102</volume>(<issue>1</issue>):<elocation-id>e200805</elocation-id>. doi:<pub-id pub-id-type="doi">10.1212/WNL.0000000000207805</pub-id>
+<pub-id pub-id-type="pmid">38165378</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="acn352170-cit-0016">
+<string-name>
+<surname>Gean&#x02010;Marton</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Vezina</surname>
+<given-names>LG</given-names>
+</string-name>, <string-name>
+<surname>Marton</surname>
+<given-names>KI</given-names>
+</string-name>, et&#x000a0;al. <article-title>Abnormal corpus callosum: a sensitive and specific indicator of multiple sclerosis</article-title>. <source>Radiology</source>. <year>1991</year>;<volume>180</volume>(<issue>1</issue>):<fpage>215</fpage>&#x02010;<lpage>221</lpage>. doi:<pub-id pub-id-type="doi">10.1148/RADIOLOGY.180.1.2052698</pub-id>
+<pub-id pub-id-type="pmid">2052698</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="acn352170-cit-0017">
+<string-name>
+<surname>Chen</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>MR imaging findings of the corpus callosum region in the differentiation between multiple sclerosis and neuromyelitis optica</article-title>. <source>Eur J Radiol</source>. <year>2012</year>;<volume>81</volume>(<issue>11</issue>):<fpage>3491</fpage>&#x02010;<lpage>3495</lpage>. doi:<pub-id pub-id-type="doi">10.1016/J.EJRAD.2012.02.010</pub-id>
+<pub-id pub-id-type="pmid">22445592</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="acn352170-cit-0018">
+<string-name>
+<surname>Chia</surname>
+<given-names>NH</given-names>
+</string-name>, <string-name>
+<surname>Redenbaugh</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Pittock</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Flanagan</surname>
+<given-names>EP</given-names>
+</string-name>. <article-title>Corpus callosum involvement in MOG antibody&#x02010;associated disease in comparison to AQP4&#x02010;IgG&#x02010;seropositive neuromyelitis optica spectrum disorder and multiple sclerosis</article-title>. <source>Mult Scler J</source>. <year>2023</year>;<volume>29</volume>(<issue>6</issue>):<fpage>748</fpage>&#x02010;<lpage>752</lpage>. doi:<pub-id pub-id-type="doi">10.1177/13524585221150743</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="acn352170-cit-0019">
+<string-name>
+<surname>Geraldes</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ciccarelli</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Barkhof</surname>
+<given-names>F</given-names>
+</string-name>, et&#x000a0;al. <article-title>The current role of MRI in differentiating multiple sclerosis from its imaging mimics</article-title>. <source>Nat Rev Neurol</source>. <year>2018</year>;<volume>14</volume>(<issue>4</issue>):<fpage>199</fpage>&#x02010;<lpage>213</lpage>. doi:<pub-id pub-id-type="doi">10.1038/NRNEUROL.2018.14</pub-id>
+<pub-id pub-id-type="pmid">29521337</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="acn352170-cit-0020">
+<string-name>
+<surname>Arrambide</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Tintor&#x000e9;</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Auger</surname>
+<given-names>C</given-names>
+</string-name>, et&#x000a0;al. <article-title>Lesion topographies in multiple sclerosis diagnosis: a reappraisal</article-title>. <source>Neurology</source>. <year>2017</year>;<volume>89</volume>(<issue>23</issue>):<fpage>2351</fpage>&#x02010;<lpage>2356</lpage>. doi:<pub-id pub-id-type="doi">10.1212/WNL.0000000000004715</pub-id>
+<pub-id pub-id-type="pmid">29101276</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="acn352170-cit-0021">
+<string-name>
+<surname>Barkhof</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Filippi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>
+<given-names>DH</given-names>
+</string-name>, et&#x000a0;al. <article-title>Comparison of MRI criteria at first presentation to predict conversion to clinically definite multiple sclerosis</article-title>. <source>Brain</source>. <year>1997</year>;<volume>120</volume>(<issue>Pt 11</issue>):<fpage>2059</fpage>&#x02010;<lpage>2069</lpage>. doi:<pub-id pub-id-type="doi">10.1093/BRAIN/120.11.2059</pub-id>
+<pub-id pub-id-type="pmid">9397021</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="acn352170-cit-0022">
+<string-name>
+<surname>Jafari</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Kreft</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name>
+<surname>Flach</surname>
+<given-names>HZ</given-names>
+</string-name>, <string-name>
+<surname>Janssens</surname>
+<given-names>ACJW</given-names>
+</string-name>, <string-name>
+<surname>Hintzen</surname>
+<given-names>RQ</given-names>
+</string-name>. <article-title>Callosal lesion predicts future attacks after clinically isolated syndrome</article-title>. <source>Neurology</source>. <year>2009</year>;<volume>73</volume>(<issue>22</issue>):<fpage>1837</fpage>&#x02010;<lpage>1841</lpage>. doi:<pub-id pub-id-type="doi">10.1212/WNL.0B013E3181C3FCCF</pub-id>
+<pub-id pub-id-type="pmid">19949029</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="acn352170-cit-0023">
+<string-name>
+<surname>Calabrese</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Battaglini</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Giorgio</surname>
+<given-names>MA</given-names>
+</string-name>, et&#x000a0;al. <article-title>Imaging distribution and frequency of cortical lesions in patients with multiple sclerosis</article-title>. <source>Neurology</source>. <year>2010</year>;<volume>75</volume>(<issue>14</issue>):<fpage>1234</fpage>&#x02010;<lpage>1240</lpage>. doi:<pub-id pub-id-type="doi">10.1212/WNL.0B013E3181F5D4DA</pub-id>
+<pub-id pub-id-type="pmid">20739644</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="acn352170-cit-0024">
+<string-name>
+<surname>Caucheteux</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Maarouf</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Genevray</surname>
+<given-names>M</given-names>
+</string-name>, et&#x000a0;al. <article-title>Criteria improving multiple sclerosis diagnosis at the first MRI</article-title>. <source>J Neurol</source>. <year>2015</year>;<volume>262</volume>(<issue>4</issue>):<fpage>979</fpage>&#x02010;<lpage>987</lpage>. doi:<pub-id pub-id-type="doi">10.1007/S00415-015-7668-9</pub-id>
+<pub-id pub-id-type="pmid">25683762</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="acn352170-cit-0025">
+<string-name>
+<surname>Clarke</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Arnett</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bukhari</surname>
+<given-names>W</given-names>
+</string-name>, et&#x000a0;al. <article-title>MRI patterns distinguish AQP4 antibody positive neuromyelitis optica spectrum disorder from multiple sclerosis</article-title>. <source>Front Neurol</source>. <year>2021</year>;<volume>12</volume>:<elocation-id>722237</elocation-id>. doi:<pub-id pub-id-type="doi">10.3389/FNEUR.2021.722237</pub-id>
+<pub-id pub-id-type="pmid">34566866</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="acn352170-cit-0026">
+<string-name>
+<surname>Matthews</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Marasco</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Jenkinson</surname>
+<given-names>M</given-names>
+</string-name>, et&#x000a0;al. <article-title>Distinction of seropositive NMO spectrum disorder and MS brain lesion distribution</article-title>. <source>Neurology</source>. <year>2013</year>;<volume>80</volume>(<issue>14</issue>):<fpage>1330</fpage>&#x02010;<lpage>1337</lpage>. doi:<pub-id pub-id-type="doi">10.1212/WNL.0B013E3182887957</pub-id>
+<pub-id pub-id-type="pmid">23486868</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="acn352170-cit-0027">
+<string-name>
+<surname>Jury&#x00144;czyk</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tackley</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Kong</surname>
+<given-names>Y</given-names>
+</string-name>, et&#x000a0;al. <article-title>Brain lesion distribution criteria distinguish MS from AQP4&#x02010;antibody NMOSD and MOG&#x02010;antibody disease</article-title>. <source>J Neurol Neurosurg Psychiatry</source>. <year>2017</year>;<volume>88</volume>(<issue>2</issue>):<fpage>132</fpage>&#x02010;<lpage>136</lpage>. doi:<pub-id pub-id-type="doi">10.1136/JNNP-2016-314005</pub-id>
+<pub-id pub-id-type="pmid">27951522</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="acn352170-cit-0028">
+<string-name>
+<surname>Charil</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Zijdenbos</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>
+<given-names>J</given-names>
+</string-name>, et&#x000a0;al. <article-title>Statistical mapping analysis of lesion location and neurological disability in multiple sclerosis: application to 452 patient data sets</article-title>. <source>NeuroImage</source>. <year>2003</year>;<volume>19</volume>(<issue>3</issue>):<fpage>532</fpage>&#x02010;<lpage>544</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S1053-8119(03)00117-4</pub-id>
+<pub-id pub-id-type="pmid">12880785</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="acn352170-cit-0029">
+<string-name>
+<surname>Calabrese</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Castellaro</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bertoldo</surname>
+<given-names>A</given-names>
+</string-name>, et&#x000a0;al. <article-title>Epilepsy in multiple sclerosis: the role of temporal lobe damage</article-title>. <source>Mult Scler J</source>. <year>2017</year>;<volume>23</volume>(<issue>3</issue>):<fpage>473</fpage>&#x02010;<lpage>482</lpage>. doi:<pub-id pub-id-type="doi">10.1177/1352458516651502</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="acn352170-cit-0030">
+<string-name>
+<surname>Berg</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Supprian</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Thomae</surname>
+<given-names>J</given-names>
+</string-name>, et&#x000a0;al. <article-title>Lesion pattern in patients with multiple sclerosis and depression</article-title>. <source>Mult Scler J</source>. <year>2000</year>;<volume>6</volume>(<issue>3</issue>):<fpage>156</fpage>&#x02010;<lpage>162</lpage>. doi:<pub-id pub-id-type="doi">10.1177/135245850000600304</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="acn352170-cit-0031">
+<string-name>
+<surname>Kurtzke</surname>
+<given-names>JF</given-names>
+</string-name>. <article-title>Rating neurologic impairment in multiple sclerosis: an expanded disability status scale (EDSS)</article-title>. <source>Neurology</source>. <year>1983</year>;<volume>33</volume>(<issue>11</issue>):<elocation-id>1444</elocation-id>. doi:<pub-id pub-id-type="doi">10.1212/WNL.33.11.1444</pub-id>
+<pub-id pub-id-type="pmid">6685237</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="acn352170-cit-0032">
+<string-name>
+<surname>Goodin</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name>
+<surname>Reder</surname>
+<given-names>AT</given-names>
+</string-name>, <string-name>
+<surname>Ebers</surname>
+<given-names>GC</given-names>
+</string-name>, et&#x000a0;al. <article-title>Survival in MS: a randomized cohort study 21&#x02009;years after the start of the pivotal IFN&#x003b2;&#x02010;1b trial</article-title>. <source>Neurology</source>. <year>2012</year>;<volume>78</volume>(<issue>17</issue>):<fpage>1315</fpage>&#x02010;<lpage>1322</lpage>. doi:<pub-id pub-id-type="doi">10.1212/WNL.0B013E3182535CF6</pub-id>
+<pub-id pub-id-type="pmid">22496198</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="acn352170-cit-0033">
+<string-name>
+<surname>O'Connor</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Goodman</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kappos</surname>
+<given-names>L</given-names>
+</string-name>, et&#x000a0;al. <article-title>Long&#x02010;term safety and effectiveness of natalizumab redosing and treatment in the STRATA MS study</article-title>. <source>Neurology</source>. <year>2014</year>;<volume>83</volume>(<issue>1</issue>):<fpage>78</fpage>&#x02010;<lpage>86</lpage>. doi:<pub-id pub-id-type="doi">10.1212/WNL.0000000000000541</pub-id>
+<pub-id pub-id-type="pmid">24898925</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="acn352170-cit-0034">
+<string-name>
+<surname>Simpson</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Mowry</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Newsome</surname>
+<given-names>SD</given-names>
+</string-name>. <article-title>Early aggressive treatment approaches for multiple sclerosis</article-title>. <source>Curr Treat Options Neurol</source>. <year>2021</year>;<volume>23</volume>(<issue>7</issue>):<fpage>19</fpage>. doi:<pub-id pub-id-type="doi">10.1007/S11940-021-00677-1</pub-id>
+<pub-id pub-id-type="pmid">34025110</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="acn352170-cit-0035">
+<string-name>
+<surname>Onofrj</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tartaro</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>
+<given-names>A</given-names>
+</string-name>, et&#x000a0;al. <article-title>Long echo time STIR sequence MRI of optic nerves in optic neuritis</article-title>. <source>Neuroradiology</source>. <year>1996</year>;<volume>38</volume>(<issue>1</issue>):<fpage>66</fpage>&#x02010;<lpage>69</lpage>. doi:<pub-id pub-id-type="doi">10.1007/BF00593226</pub-id>
+<pub-id pub-id-type="pmid">8773282</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="acn352170-cit-0036">
+<string-name>
+<surname>Hodel</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Outteryck</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Bocher</surname>
+<given-names>AL</given-names>
+</string-name>, et&#x000a0;al. <article-title>Comparison of 3D double inversion recovery and 2D STIR FLAIR MR sequences for the imaging of optic neuritis: pilot study</article-title>. <source>Eur Radiol</source>. <year>2014</year>;<volume>24</volume>(<issue>12</issue>):<fpage>3069</fpage>&#x02010;<lpage>3075</lpage>. doi:<pub-id pub-id-type="doi">10.1007/S00330-014-3342-3</pub-id>
+<pub-id pub-id-type="pmid">25149294</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="acn352170-cit-0037">
+<string-name>
+<surname>Riederer</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>M&#x000fc;hlau</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hoshi</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Zimmer</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Kleine</surname>
+<given-names>JF</given-names>
+</string-name>. <article-title>Detecting optic nerve lesions in clinically isolated syndrome and multiple sclerosis: double&#x02010;inversion recovery magnetic resonance imaging in comparison with visually evoked potentials</article-title>. <source>J Neurol</source>. <year>2019</year>;<volume>266</volume>(<issue>1</issue>):<fpage>148</fpage>&#x02010;<lpage>156</lpage>. doi:<pub-id pub-id-type="doi">10.1007/S00415-018-9114-2</pub-id>
+<pub-id pub-id-type="pmid">30446963</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="acn352170-cit-0038">
+<string-name>
+<surname>Murumkar</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Priyadarshini Baishya</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Kulanthaivelu</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Saini</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Manjunath</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>
+<given-names>GR</given-names>
+</string-name>. <article-title>Comparison of 3D double inversion recovery (DIR) versus 3D fluid attenuated inversion recovery (FLAIR) in precise diagnosis of acute optic neuritis</article-title>. <source>Eur J Radiol</source>. <year>2022</year>;<volume>155</volume>:<elocation-id>110505</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/J.EJRAD.2022.110505</pub-id>
+<pub-id pub-id-type="pmid">36113286</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="acn352170-cit-0039">
+<string-name>
+<surname>Filippi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Preziosa</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Meani</surname>
+<given-names>A</given-names>
+</string-name>, et&#x000a0;al. <article-title>Prediction of a multiple sclerosis diagnosis in patients with clinically isolated syndrome using the 2016 MAGNIMS and 2010 McDonald criteria: a retrospective study</article-title>. <source>Lancet Neurol</source>. <year>2018</year>;<volume>17</volume>(<issue>2</issue>):<fpage>133</fpage>&#x02010;<lpage>142</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S1474-4422(17)30469-6</pub-id>
+<pub-id pub-id-type="pmid">29275979</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="acn352170-cit-0040">
+<string-name>
+<surname>Brownlee</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Swanton</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name>
+<surname>Altmann</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Ciccarelli</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>
+<given-names>DH</given-names>
+</string-name>. <article-title>Earlier and more frequent diagnosis of multiple sclerosis using the McDonald criteria</article-title>. <source>J Neurol Neurosurg Psychiatry</source>. <year>2015</year>;<volume>86</volume>(<issue>5</issue>):<fpage>584</fpage>&#x02010;<lpage>585</lpage>. doi:<pub-id pub-id-type="doi">10.1136/JNNP-2014-308675</pub-id>
+<pub-id pub-id-type="pmid">25412872</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="acn352170-cit-0041">
+<string-name>
+<surname>Solomon</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Bourdette</surname>
+<given-names>DN</given-names>
+</string-name>, <string-name>
+<surname>Cross</surname>
+<given-names>AH</given-names>
+</string-name>, et&#x000a0;al. <article-title>The contemporary spectrum of multiple sclerosis misdiagnosis: a multicenter study</article-title>. <source>Neurology</source>. <year>2016</year>;<volume>87</volume>(<issue>13</issue>):<fpage>1393</fpage>&#x02010;<lpage>1399</lpage>. doi:<pub-id pub-id-type="doi">10.1212/WNL.0000000000003152</pub-id>
+<pub-id pub-id-type="pmid">27581217</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="acn352170-cit-0042">
+<string-name>
+<surname>Confavreux</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Vukusic</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Moreau</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Adeleine</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Relapses and progression of disability in multiple sclerosis</article-title>. <source>N Engl J Med</source>. <year>2000</year>;<volume>343</volume>(<issue>20</issue>):<fpage>1430</fpage>&#x02010;<lpage>1438</lpage>. doi:<pub-id pub-id-type="doi">10.1056/NEJM200011163432001</pub-id>
+<pub-id pub-id-type="pmid">11078767</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="acn352170-cit-0043">
+<string-name>
+<surname>Eriksson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Andersen</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Runmarker</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Long&#x02010;term follow up of patients with clinically isolated syndromes, relapsing&#x02010;remitting and secondary progressive multiple sclerosis</article-title>. <source>Mult Scler J</source>. <year>2003</year>;<volume>9</volume>(<issue>3</issue>):<fpage>260</fpage>&#x02010;<lpage>274</lpage>. doi:<pub-id pub-id-type="doi">10.1191/1352458503MS914OA</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="acn352170-cit-0044">
+<string-name>
+<surname>Dalton</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Brex</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Miszkiel</surname>
+<given-names>KA</given-names>
+</string-name>, et&#x000a0;al. <article-title>Application of the new McDonald criteria to patients with clinically isolated syndromes suggestive of multiple sclerosis</article-title>. <source>Ann Neurol</source>. <year>2002</year>;<volume>52</volume>(<issue>1</issue>):<fpage>47</fpage>&#x02010;<lpage>53</lpage>. doi:<pub-id pub-id-type="doi">10.1002/ANA.10240</pub-id>
+<pub-id pub-id-type="pmid">12112046</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="acn352170-cit-0045">
+<string-name>
+<surname>Tintor&#x000e9;</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rovira</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Rio</surname>
+<given-names>J</given-names>
+</string-name>, et&#x000a0;al. <article-title>Is optic neuritis more benign than other first attacks in multiple sclerosis?</article-title>
+<source>Ann Neurol</source>. <year>2005</year>;<volume>57</volume>(<issue>2</issue>):<fpage>210</fpage>&#x02010;<lpage>215</lpage>. doi:<pub-id pub-id-type="doi">10.1002/ANA.20363</pub-id>
+<pub-id pub-id-type="pmid">15668965</pub-id>
+</mixed-citation></ref><ref id="acn352170-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="acn352170-cit-0046">
+<string-name>
+<surname>Kenney</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Patil</surname>
+<given-names>S</given-names>
+</string-name>, et&#x000a0;al. <article-title>Long&#x02010;term outcomes in patients presenting with optic neuritis: analyses of the MSBase registry</article-title>. <source>J Neurol Sci</source>. <year>2021</year>;<volume>430</volume>:<elocation-id>118067</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/J.JNS.2021.118067</pub-id>
+<pub-id pub-id-type="pmid">34537678</pub-id>
+</mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,630 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancer Genomics Proteomics</journal-id><journal-id journal-id-type="iso-abbrev">Cancer Genomics Proteomics</journal-id><journal-title-group><journal-title>Cancer Genomics &#x00026; Proteomics</journal-title></journal-title-group><issn pub-type="ppub">1109-6535</issn><issn pub-type="epub">1790-6245</issn><publisher><publisher-name>International Institute of Anticancer Research</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">41151852</article-id><article-id pub-id-type="pmc">12577598</article-id>
+<article-id pub-id-type="doi">10.21873/cgp.20551</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Angiogenic Edge of ANGPT2: Genetic Variants Shape Prostate Cancer Prognosis on Androgen Deprivation Therapy</article-title></title-group><contrib-group><contrib contrib-type="author" equal-contrib="yes"><name><surname>CHEN</surname><given-names>YEI-TSUNG</given-names></name><xref rid="A1" ref-type="aff">1</xref></contrib><contrib contrib-type="author" equal-contrib="yes"><name><surname>CHEN</surname><given-names>PIN-YI</given-names></name><xref rid="A2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>CHANG</surname><given-names>CHI-FEN</given-names></name><xref rid="A3" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name><surname>HUANG</surname><given-names>CHAO-YUAN</given-names></name><xref rid="A4" ref-type="aff">4</xref></contrib><contrib contrib-type="author"><name><surname>YU</surname><given-names>CHIA-CHENG</given-names></name><xref rid="A5" ref-type="aff">5</xref><xref rid="A6" ref-type="aff">6</xref><xref rid="A7" ref-type="aff">7</xref></contrib><contrib contrib-type="author"><name><surname>LIN</surname><given-names>VICTOR C.</given-names></name><xref rid="A8" ref-type="aff">8</xref><xref rid="A9" ref-type="aff">9</xref></contrib><contrib contrib-type="author"><name><surname>CHANG</surname><given-names>HAO-HAN</given-names></name><xref rid="A10" ref-type="aff">10</xref><xref rid="A11" ref-type="aff">11</xref></contrib><contrib contrib-type="author"><name><surname>LU</surname><given-names>TE-LING</given-names></name><xref rid="A2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>HUANG</surname><given-names>SHU-PIN</given-names></name><xref rid="A10" ref-type="aff">10</xref><xref rid="A11" ref-type="aff">11</xref><xref rid="A12" ref-type="aff">12</xref></contrib><contrib contrib-type="author"><name><surname>BAO</surname><given-names>BO-YING</given-names></name><xref rid="A2" ref-type="aff">2</xref></contrib><aff id="A1">
+<label>1</label>Department of Life Sciences and Institute of Genome Sciences, National Yang Ming Chiao Tung University, Taipei, Taiwan, R.O.C.</aff><aff id="A2">
+<label>2</label>Department of Pharmacy, China Medical University, Taichung, Taiwan, R.O.C.</aff><aff id="A3">
+<label>3</label>Department of Anatomy, School of Medicine, China Medical University, Taichung, Taiwan, R.O.C.</aff><aff id="A4">
+<label>4</label>Department of Urology, National Taiwan University Hospital, College of Medicine, National Taiwan University, Taipei, Taiwan, R.O.C.</aff><aff id="A5">
+<label>5</label>Division of Urology, Department of Surgery, Kaohsiung Veterans General Hospital, Kaohsiung, Taiwan, R.O.C.</aff><aff id="A6">
+<label>6</label>Department of Urology, School of Medicine, National Yang Ming Chiao Tung University, Taipei, Taiwan, R.O.C.</aff><aff id="A7">
+<label>7</label>Department of Pharmacy, College of Pharmacy and Health Care, Tajen University, Pingtung, Taiwan, R.O.C.</aff><aff id="A8">
+<label>8</label>Department of Urology, E-Da Hospital, Kaohsiung, Taiwan, R.O.C.</aff><aff id="A9">
+<label>9</label>School of Medicine for International Students, I-Shou University, Kaohsiung, Taiwan, R.O.C.</aff><aff id="A10">
+<label>10</label>Graduate Institute of Clinical Medicine, College of Medicine, Kaohsiung Medical University, Kaohsiung, Taiwan, R.O.C.</aff><aff id="A11">
+<label>11</label>Department of Urology, Kaohsiung Medical University Hospital, Kaohsiung, Taiwan, R.O.C.</aff><aff id="A12">
+<label>12</label>Institute of Medical Science and Technology, College of Medicine, National Sun Yat-Sen University, Kaohsiung, Taiwan, R.O.C.</aff></contrib-group><author-notes><corresp id="cor1">Shu-Pin Huang, Department of Urology, Kaohsiung Medical University Hospital, 100 Shih-Chuan 1st Road, Kaohsiung 807, Taiwan, R.O.C. Tel: +886 73121101 ext. 6694, Fax: +886 73221033, e-mail: <email>shpihu@kmu.edu.tw</email> and Bo-Ying Bao, Department of Pharmacy, China Medical University, 100 Jingmao Road Section 1, Taichung 406, Taiwan, R.O.C. Tel: +886 422053366 ext. 5126, Fax: +886 422031075, e-mail: <email>bao@mail.cmu.edu.tw</email>
+</corresp></author-notes><pub-date pub-type="epub"><day>28</day><month>10</month><year>2025</year></pub-date><pub-date pub-type="collection"><season>Nov-Dec</season><year>2025</year></pub-date><volume>22</volume><issue>6</issue><fpage>991</fpage><lpage>1005</lpage><history><date date-type="received"><day>9</day><month>5</month><year>2025</year></date><date date-type="rev-recd"><day>29</day><month>7</month><year>2025</year></date><date date-type="accepted"><day>6</day><month>8</month><year>2025</year></date></history><permissions><copyright-statement>&#x000a9;2025 The Author(s). Published by the International Institute of Anticancer Research.</copyright-statement><copyright-year>2025</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY-NC-ND) 4.0 international license</license-p></license></permissions><abstract><sec><title>Background/Aim</title><p>Prostate cancer, a leading global malignancy, exhibits variable progression influenced by angiogenesis, the formation of new blood vessels critical for tumor growth and metastasis. We investigated the impact of genetic variants of angiogenesis-related genes on the survival outcomes of patients with prostate cancer receiving androgen deprivation therapy (ADT).</p></sec><sec><title>Materials and Methods</title><p>We conducted a genetic association study of 87 single-nucleotide polymorphisms across seven angiogenic genes in 630 patients with prostate cancer undergoing ADT. Survival analysis was used to assess progression-free survival (PFS) and overall survival (OS). Functional analyses, including gene ontology and pathway enrichment, were performed to elucidate the underlying biological mechanisms.</p></sec><sec><title>Results</title><p><italic toggle="yes">ANGPT2</italic> rs2959822 was significantly associated with PFS [hazard ratio (HR)=1.22, <italic toggle="yes">p</italic>=0.015] and OS (HR=1.22, <italic toggle="yes">p</italic>=0.021). The minor allele A increased the risk of disease progression and mortality. Functional analyses revealed that rs2959822 influenced <italic toggle="yes">ANGPT2</italic> expression. Elevated <italic toggle="yes">ANGPT2</italic> expression was correlated with higher Gleason score, advanced tumor stage, and shorter PFS. Gene set enrichment analysis linked <italic toggle="yes">ANGPT2</italic> to epithelial-mesenchymal transition (EMT), demonstrating positive correlations with several key EMT genes, along with increased immune cell infiltration, indicating its multifaceted oncogenic roles.</p></sec><sec><title>Conclusion</title><p><italic toggle="yes">ANGPT2</italic> rs2959822 influences the survival outcomes of patients with prostate cancer undergoing ADT. In addition to angiogenesis, <italic toggle="yes">ANGPT2</italic> plays a critical role in prostate cancer progression by promoting EMT and modulating the tumor immune microenvironment.</p></sec></abstract><kwd-group><kwd>Prostate cancer</kwd><kwd>angiogenesis</kwd><kwd>angiopoietin</kwd><kwd>gene set enrichment analysis</kwd><kwd>survival</kwd></kwd-group></article-meta></front><body><sec><title>Introduction</title><p>Prostate cancer represents a formidable global health challenge, characterized by its high incidence and complex management landscape. It is the most prevalent cancer among men across 112 countries, accounting for 15% of all cancer diagnoses (<xref rid="R1" ref-type="bibr">1</xref>), with an estimated 313,780 new cases and 35,770 deaths projected in the United States alone for 2025 (<xref rid="R2" ref-type="bibr">2</xref>). Globally, annual cases are expected to rise from 1.4 million in 2020 to 2.9 million by 2040, driven by aging populations and extended life expectancy (<xref rid="R1" ref-type="bibr">1</xref>). Disease progression varies widely, with localized cases boasting a 5-year survival rate of 99%, whereas metastatic disease plummets to 37% (<xref rid="R3" ref-type="bibr">3</xref>), underscoring the critical need for early detection and precise staging. Treatment options include active surveillance for low-risk cases, surgery and radiation for localized disease, and androgen deprivation therapy (ADT) or chemotherapy for advanced stages. However, challenges such as treatment resistance and side effects persist. The prediction of prostate cancer progression relies on clinical markers, such as prostate-specific antigen (PSA) levels, Gleason scores, tumor stages, and patient factors, including age and comorbidities, with genetic influences, such as mutations in <italic toggle="yes">BRCA1</italic>/<italic toggle="yes">2</italic>, <italic toggle="yes">ATM</italic>, and <italic toggle="yes">CHEK2 </italic>(<xref rid="R4" ref-type="bibr">4</xref>), contributing up to 60% of the risk and driving more aggressive phenotypes (<xref rid="R5" ref-type="bibr">5</xref>). These complexities highlight the urgent need for innovative research to refine diagnostics, optimize therapies, and address disparities in prostate cancer care worldwide (<xref rid="R6" ref-type="bibr">6</xref>).</p><p>Angiogenesis, the process of new blood vessel formation from pre-existing vasculature, is a cornerstone of cancer progression, enabling tumors to surpass a critical size of 1-2 mm<sup>3</sup> by securing oxygen and nutrients essential for growth, invasion, and metastasis (<xref rid="R7" ref-type="bibr">7</xref>). This tightly regulated mechanism hinges on a delicate balance between pro-angiogenic factors, such as vascular endothelial growth factor (VEGF), fibroblast growth factor (FGF)-2, and transforming growth factor-&#x003b2;, and endogenous inhibitors, such as angiostatin and endostatin. In prostate cancer, hypoxia within the tumor microenvironment triggers an &#x0201c;angiogenic switch&#x0201d;, upregulating VEGF<italic toggle="yes"> via </italic>hypoxia-inducible factor-1&#x003b1;, alongside other factors such as cyclooxygenase-2, which collectively stimulate endothelial cell migration, proliferation, and tube formation (<xref rid="R8" ref-type="bibr">8</xref>). These new vessels, stabilized by integrins and angiopoietins (ANGPTs), increase microvessel density, a prognostic marker associated with aggressive disease and poor outcomes (<xref rid="R8" ref-type="bibr">8</xref>). While inhibitors, such as angiostatin, induce endothelial apoptosis, their capacity to counteract this angiogenic drive is often overwhelmed in advanced tumors. Overexpression of VEGF, with its diverse isoforms, has emerged as a key driver strongly linked to prostate tumor expansion, metastatic potential (<xref rid="R9" ref-type="bibr">9</xref>), and immunosuppression through the upregulation of programmed death ligand 1, which hinders T-cell activity by fostering an immunosuppressive tumor microenvironment (<xref rid="R10" ref-type="bibr">10</xref>). Clinical efforts to target angiogenesis, exemplified by bevacizumab (a VEGF-A inhibitor), have yielded mixed results: a phase II trial in hormone-sensitive prostate cancer showed improved relapse-free survival, yet a phase III study in metastatic, castration-resistant cases found no survival benefit and heightened toxicity (<xref rid="R11" ref-type="bibr">11</xref>). Similarly, sunitinib and lenalidomide have shown limited efficacy in advanced disease, with the 27% discontinuation rate of sunitinib due to toxicity and lenalidomide being linked to worse survival, reflecting challenges such as pathway redundancy and resistance (<xref rid="R11" ref-type="bibr">11</xref>). These limited efficacies in late-stage disease contrast with modest efficacy in earlier stages, suggesting a stage-specific therapeutic promise. Furthermore, single-nucleotide polymorphisms (SNPs) in angiogenesis-related genes show inconsistent associations with prostate cancer risk and prognosis; some studies associate them with aggressive disease (<xref rid="R12" ref-type="bibr">12</xref>), whereas others report no clear link (<xref rid="R13" ref-type="bibr">13</xref>). Genome-wide association studies have identified a few SNPs in angiogenic genes, with only one near <italic toggle="yes">FGF receptor 2</italic> associated with aggressive prostate cancer and an intronic variant in <italic toggle="yes">FGF10</italic> linked to susceptibility, emphasizing the need for larger, conclusive studies (<xref rid="R14" ref-type="bibr">14</xref>,<xref rid="R15" ref-type="bibr">15</xref>). Collectively, these findings suggest that angiogenesis is a critical yet challenging target in prostate cancer, underscoring the urgent need for further research to develop effective therapies.</p><p>Given the pivotal role of angiogenesis in cancer progression, we hypothesized that variants of angiogenesis-related genes might influence survival outcomes in patients with prostate cancer undergoing ADT. We conducted a genetic association study of 87 SNPs across seven key angiogenesis-related genes in a cohort of 630 patients. Using survival analysis, we identified genetic variants that were significantly associated with prostate cancer progression and all-cause mortality. In addition, functional analyses, including gene ontology and pathway enrichment, were performed to elucidate biological mechanisms, particularly the role of <italic toggle="yes">ANGPT2</italic>-responsive genes, in prostate cancer prognosis following ADT.</p></sec><sec><title>Patients and Methods</title><p><italic toggle="yes">Study population and outcome evaluation. </italic>This investigation involved 630 individuals with confirmed prostate cancer who received ADT at three institutions in Taiwan: National Taiwan University Hospital, Kaohsiung Medical University Hospital, and Kaohsiung Veterans General Hospital (<xref rid="R16" ref-type="bibr">16</xref>,<xref rid="R17" ref-type="bibr">17</xref>). Ethical approval was granted by the Institutional Review Board of the Kaohsiung Medical University Hospital (KMU-HIRB-2013132). The study complied with the Declaration of Helsinki and Good Clinical Practice standards. All participants provided written informed consent prior to enrollment. Clinical and pathological data were retrieved from the institutional medical records. The primary outcomes assessed were progression-free survival (PFS), measured as the interval from ADT initiation to disease progression (including biochemical recurrence, local or regional failure, nodal involvement, distant metastases, and prostate cancer-specific death), and overall survival (OS), defined as the time from the start of ADT to death from any cause. Disease progression occurred in 518 patients during a median follow-up of 165.8 months, and 413 deaths were recorded (<xref rid="R18" ref-type="bibr">18</xref>). Key clinical variables, such as age, PSA level at ADT initiation, clinical stage, Gleason score, PSA nadir, and time to PSA nadir, were significantly associated with PFS and OS (<italic toggle="yes">p</italic>&#x0003c;0.05).</p><p><italic toggle="yes">SNP identification and genotyping. </italic>Haplotype-tagging SNPs (htSNPs) were chosen from seven genes involved in tumor angiogenesis - angiopoietin 1 (<italic toggle="yes">ANGPT1</italic>), angiopoietin 2 (<italic toggle="yes">ANGPT2</italic>), fibroblast growth factor 2 (<italic toggle="yes">FGF2</italic>), hypoxia-inducible factor 1 subunit alpha (<italic toggle="yes">HIF1A</italic>), integrin subunit alpha V (<italic toggle="yes">ITGAV</italic>), integrin subunit beta 3 (<italic toggle="yes">ITGB3</italic>), and vascular endothelial growth factor A (<italic toggle="yes">VEGFA</italic>) - using Haploview v4.2 and the tagger algorithm (<xref rid="R19" ref-type="bibr">19</xref>). The selection was based on data from the 1000 Genomes Project for Han Chinese populations (Beijing and Southern Han Chinese), targeting SNPs with a minor allele frequency (MAF) &#x0003e;0.05 and a linkage disequilibrium threshold of r<sup>2</sup>&#x0003e;0.8. Genomic DNA was isolated from 5 ml of whole blood collected in EDTA tubes using the QIAamp DNA Blood Maxi Kit (Qiagen, Valencia, CA, USA) following the manufacturer&#x02019;s protocol. Samples were processed within 24 h of collection and stored at &#x02212;80&#x002da;C until analysis. Genotyping was performed at the National Center for Genome Medicine in Taiwan using the Affymetrix Axiom Genotyping Array (Thermo Fisher Scientific, Waltham, MA, USA) (<xref rid="R20" ref-type="bibr">20</xref>). For each sample, 200 ng of genomic DNA was amplified, fragmented and hybridized to an Affymetrix Axiom Genome-Wide TWB 2.0 Array Plate (containing 686,463 SNPs) following the manufacturer&#x02019;s automated protocol. To monitor reproducibility, two blinded duplicate samples were included. Plates were washed, stained and scanned on an Affymetrix GeneTitan Multi-Channel instrument, and raw data were processed using the Axiom Analysis Suite. Genotype calling was performed using default parameters with standard quality control (QC) filters: dish-QC &#x02265;0.82 and per-sample call rate &#x02265;97%, and any sample or plate failing these criteria was reprocessed. SNPs were excluded from further analysis if they had a MAF &#x0003c;0.03, genotyping call rates &#x0003c;95%, or deviations from Hardy-Weinberg equilibrium (<italic toggle="yes">p</italic>&#x0003c;0.001). Finally, 87 htSNPs were retained for subsequent analyses. The average genotype call rate for these SNPs was 99.7%, and the concordance rate among the blind duplicate QC samples was 100%.</p><p><italic toggle="yes">Bioinformatic analyses. </italic>To evaluate the functional implications of rs2959822, we utilized HaploReg v4.2 and the FIVEx database (<xref rid="R21" ref-type="bibr">21</xref>,<xref rid="R22" ref-type="bibr">22</xref>). HaploReg provided insights into the potential regulatory effects of SNPs by analyzing their position relative to enhancer or promoter regions, transcription factor binding sites, and evolutionary conservation, drawing on ENCODE and Roadmap Epigenomics data. FIVEx facilitated expression quantitative trait locus (eQTL) and splicing quantitative trait locus (sQTL) analyses using linear regression to link rs2959822 genotypes with <italic toggle="yes">ANGPT2</italic> expression and transcript isoforms across various tissues, including the prostate. To investigate <italic toggle="yes">ANGPT2</italic> expression patterns and their clinical relevance in prostate cancer, we analyzed the GSE21032 dataset and The Cancer Genome Atlas Prostate Adenocarcinoma (TCGA PRAD) cohort. Molecular pathways associated with <italic toggle="yes">ANGPT2</italic> were explored using LinkedOmics, which performed gene ontology and hallmark pathway enrichment<italic toggle="yes"> via </italic>gene set enrichment analysis (GSEA) (<xref rid="R23" ref-type="bibr">23</xref>). Genes were ranked by Pearson&#x02019;s correlation with <italic toggle="yes">ANGPT2</italic> expression, and GSEA enrichment scores were calculated using a weighted Kolmogorov-Smirnov statistic (<xref rid="R24" ref-type="bibr">24</xref>). Statistical significance was assessed using 1,000 permutations, and false discovery rates (FDR) were corrected using the Benjamini-Hochberg method. The prognostic value of <italic toggle="yes">ANGPT2</italic> and the epithelial-mesenchymal transition (EMT) markers, fibronectin 1 (<italic toggle="yes">FN1</italic>), collagen type I alpha 1 chain (<italic toggle="yes">COL1A1</italic>), and periostin (<italic toggle="yes">POSTN</italic>), was evaluated in the TCGA PRAD dataset. Additionally, <italic toggle="yes">ANGPT2</italic> copy number alterations were examined using Genomic Identification of Significant Targets In Cancer (GISTIC) 2.0 on TCGA PRAD data, categorizing alterations as deep deletion (&#x02212;2), arm-level deletion (&#x02212;1), diploid (0), arm-level gain (1), or high amplification (&#x02265;2). Immune cell infiltration relative to <italic toggle="yes">ANGPT2</italic> expression was assessed using the Tumor Immune Estimation Resource (TIMER), which estimates the abundance of B cells, CD4+ T cells, CD8+ T cells, macrophages, neutrophils, and dendritic cells based on TCGA PRAD gene expression profiles (<xref rid="R25" ref-type="bibr">25</xref>).</p><p><italic toggle="yes">Statistical analyses. </italic>Data analysis was conducted using SPSS v19.0.0 (IBM, Armonk, NY, USA), with statistical significance defined as a two-sided <italic toggle="yes">p</italic>-value &#x0003c;0.05. Survival differences were evaluated using Kaplan-Meier curves and log-rank tests. Univariate and multivariate Cox regression models were used to estimate hazard ratios (HRs) and 95% confidence intervals (CIs) to assess the relationship between clinical factors or genotypes and patient outcomes. Correlations between <italic toggle="yes">ANGPT2</italic> expression and tumor features were determined using Pearson&#x02019;s and Spearman&#x02019;s correlation coefficients.</p></sec><sec><title>Results</title><p>To explore the link between tumor angiogenesis and prostate cancer progression, we evaluated 87 SNPs across seven genes associated with this pathway, focusing on their effects on survival outcomes following ADT. Of these, three SNPs, <italic toggle="yes">ITGAV</italic> rs140419946, <italic toggle="yes">ANGPT2</italic> rs2959822, and <italic toggle="yes">ANGPT1</italic> rs146659513, were significantly associated with PFS, while two SNPs, <italic toggle="yes">ITGAV</italic> rs61763608 and <italic toggle="yes">ANGPT2</italic> rs2959822, were significantly associated with OS (<italic toggle="yes">p</italic>&#x0003c;0.05; <xref rid="F1" ref-type="fig">Figure 1</xref>). The SNP rs2959822 in <italic toggle="yes">ANGPT2</italic> was significantly associated with PFS and OS. Specifically, the minor allele A of rs2959822, compared with the major allele G, increased the risk of disease progression by 22% (HR=1.22, 95% CI=1.04-1.42, <italic toggle="yes">p</italic>=0.015, <xref rid="T1" ref-type="table">Table I</xref>) and all-cause mortality by the same margin (HR=1.22, 95% CI=1.03-1.45, <italic toggle="yes">p</italic>=0.021). After adjusting for clinical variables in the multivariate analysis, rs2959822 remained an independent predictor of PFS and OS (<italic toggle="yes">p</italic>&#x02264;0.012, Table I).</p><fig position="float" id="F1"><label>Figure 1</label><caption><p>Manhattan plots illustrating associations between 87 single-nucleotide polymorphisms (SNPs) in seven angiogenesis-related genes and survival outcomes in patients with prostate cancer on androgen-deprivation therapy. (A) Progression-free survival and (B) overall survival are shown as -log10(p) values on the Y-axis and SNP chromosomal positions on the X-axis. The blue line denotes the p=0.05 significance threshold. Significant SNPs are highlighted with red circles and labeled.</p></caption><graphic xlink:href="cgp-22-995-g0001" position="float"/></fig><table-wrap position="float" id="T1"><label>Table I</label><caption><title>Association of ANGPT2 rs2959822 with progression-free and overall survival in patients with prostate cancer receiving androgen deprivation therapy.</title></caption><graphic xlink:href="cgp-22-996-i0001" position="float"/><table-wrap-foot><fn><p>PFS, Progression-free survival; OS, overall survival; HR, hazard ratio; CI, confidence interval. <sup>a</sup>HRs were adjusted for age, stage, Gleason score at diagnosis, PSA level at ADT initiation, PSA nadir, and time to PSA nadir.</p></fn></table-wrap-foot></table-wrap><p>To assess the functional relevance of rs2959822, we used HaploReg, which indicated that this intronic SNP lies within regions marked by enhancer histone signatures, DNase I hypersensitivity, and transcription regulatory elements across multiple tissues, suggesting a regulatory role (<xref rid="F2" ref-type="fig">Figure 2</xref>A). Further evidence from the FIVEx database showed that rs2959822 influenced <italic toggle="yes">ANGPT2</italic> expression in various tissues, including the prostate tissue in sQTL analysis (<italic toggle="yes">p</italic>=0.011; Figure 2B and C).</p><fig position="float" id="F2"><label>Figure 2</label><caption><p>Functional analysis of ANGPT2 rs2959822. (A) HaploReg annotations showing the regulatory features of rs2959822. (B) Expression quantitative trait loci and (C) splicing quantitative trait loci analyses linking rs2959822 to ANGPT2 expression across tissues. The blue line marks p=0.05. Inverted triangles indicate a negative effect on ANGPT2 expression; circles denote non-significant effects. Sample sizes are noted in parentheses.</p></caption><graphic xlink:href="cgp-22-997-g0001" position="float"/></fig><p>We examined <italic toggle="yes">ANGPT2</italic> expression in prostate cancer using the GSE21032 and TCGA PRAD datasets. <italic toggle="yes">ANGPT2</italic> levels were markedly elevated in primary and metastatic prostate cancers compared with those in normal tissues, with higher expression linked to increased Gleason scores in GSE21032 (<italic toggle="yes">p</italic>&#x0003c;0.001, <xref rid="F3" ref-type="fig">Figure 3</xref>A). In the TCGA PRAD cohort, elevated <italic toggle="yes">ANGPT2</italic> expression correlated with higher Gleason scores and more advanced tumor stages (<italic toggle="yes">p</italic>&#x02264;0.015, Figure 3B). Patients with higher <italic toggle="yes">ANGPT2</italic> expression also experienced shorter PFS (<italic toggle="yes">p</italic>=0.022; Figure 3B), suggesting its role in driving tumor advancement.</p><fig position="float" id="F3"><label>Figure 3</label><caption><p>Clinical relevance of ANGPT2 in prostate cancer. (A) GSE21032 and (B) TCGA PRAD datasets depict ANGPT2 expression trends with cancer progression (left), Gleason score (middle left), tumor stage (middle right), and progression-free survival (right). Spearman&#x02019;s rho reflects correlation strength. Sample sizes are noted in parentheses.</p></caption><graphic xlink:href="cgp-22-998-g0001" position="float"/></fig><p>To uncover the biological contributions of <italic toggle="yes">ANGPT2</italic> in prostate cancer, we analyzed the genes correlated with its expression in TCGA PRAD data. We identified 3,327 genes with positive correlations and 2,164 with negative correlations (Pearson&#x02019;s correlation FDR&#x0003c;0.01). GSEA of this ranked gene list revealed that positively correlated genes were enriched in cellular components such as protein complexes involved in cell adhesion, collagen-containing extracellular matrix, and collagen trimers (<xref rid="F4" ref-type="fig">Figure 4</xref>A). These genes also participated in processes such as endothelium development, sprouting angiogenesis, and heart valve development (Figure 4B) and exhibited molecular functions, including extracellular matrix structural constituents, transmembrane receptor protein kinase activity, and growth factor binding (Figure 4C). Hallmark pathway analysis highlighted enrichment in the EMT and cell cycle progression, particularly in the G<sub>2</sub>/M checkpoint and mitotic spindle assembly (Figure 4D).</p><fig position="float" id="F4"><label>Figure 4</label><caption><p>Enrichment analysis of the genes associated with ANGPT2 expression. The top 10 gene ontology terms for (A) cellular components, (B) biological processes, and (C) molecular functions are shown along with (D) the most enriched hallmark pathways. Bubble size reflects the gene ratio; color indicates FDR significance.</p></caption><graphic xlink:href="cgp-22-999-g0001" position="float"/></fig><p>GSEA identified EMT as the most enriched pathway (normalized enrichment score=2.198, FDR &#x0003c;2.2&#x000d7;10<sup>-16</sup>), suggesting the involvement of <italic toggle="yes">ANGPT2</italic> in this process. To confirm this, we assessed the correlation between <italic toggle="yes">ANGPT2</italic> and key EMT hub genes in the protein-protein interaction network. <italic toggle="yes">ANGPT2</italic> expression was positively correlated with the top three hub genes, <italic toggle="yes">FN1</italic>, <italic toggle="yes">COL1A1</italic>, and <italic toggle="yes">POSTN</italic> (<italic toggle="yes">p</italic>&#x0003c;0.001; <xref rid="F5" ref-type="fig">Figure 5</xref>, left). <italic toggle="yes">COL1A1</italic> and <italic toggle="yes">POSTN</italic> were significantly upregulated as prostate cancer progressed (<italic toggle="yes">p</italic>&#x02264;0.047; Figure 5, middle), and higher <italic toggle="yes">COL1A1</italic> expression was associated with poorer survival (<italic toggle="yes">p</italic>=0.017; Figure 5, right), supporting the idea that <italic toggle="yes">ANGPT2</italic> may promote oncogenesis<italic toggle="yes"> via </italic>EMT gene activation.</p><fig position="float" id="F5"><label>Figure 5</label><caption><p>Relationships between ANGPT2 and epithelial-mesenchymal transition hub genes in prostate cancer. Left: Positive correlation between ANGPT2 and (A) FN1, (B) COL1A1, and (C) POSTN. Middle: Expression of FN1, COL1A1, and POSTN during cancer progression. Right: Prognostic impact of FN1, COL1A1, and POSTN expression. Pearson&#x02019;s r and Spearman&#x02019;s rho reflects correlation strength. Sample sizes are noted in parentheses.</p></caption><graphic xlink:href="cgp-22-1000-g0001" position="float"/></fig><p>Considering the potential influence of <italic toggle="yes">ANGPT2</italic> on the tumor immune microenvironment (TIME), we investigated its relationship with immune cell infiltration. <italic toggle="yes">ANGPT2</italic> deletion was associated with decreased macrophages and neutrophils (<xref rid="F6" ref-type="fig">Figure 6</xref>A), whereas higher <italic toggle="yes">ANGPT2</italic> expression was positively correlated with the infiltration of B cells, CD8+ T cells, CD4+ T cells, macrophages, neutrophils, and dendritic cells in prostate cancer (Figure 6B). These observations suggest that <italic toggle="yes">ANGPT2</italic> shapes immune cell dynamics in the tumor microenvironment.</p><fig position="float" id="F6"><label>Figure 6</label><caption><p>ANGPT2 expression and immune cell infiltration in prostate cancer. (A) Reduced macrophage and neutrophil infiltration with ANGPT2 deletion compared with normal samples via the Wilcoxon rank-sum test (*p&#x0003c;0.05, **p&#x0003c;0.01). (B) Positive correlation between ANGPT2 expression and infiltration of B cells, CD8+ T cells, CD4+ T cells, macrophages, neutrophils, and dendritic cells.</p></caption><graphic xlink:href="cgp-22-1001-g0001" position="float"/></fig></sec><sec><title>Discussion</title><p>This study provides compelling evidence linking genetic variants of angiogenesis-related genes to survival outcomes in patients with prostate cancer undergoing ADT. Other studies have similarly highlighted the impact of genetic variants on ADT response, with those affecting polypyrimidine tract binding protein 1 and DNA methyltransferase 3 alpha influence clinical outcomes in patients receiving ADT (<xref rid="R26" ref-type="bibr">26</xref>,<xref rid="R27" ref-type="bibr">27</xref>). As illustrated in <xref rid="F7" ref-type="fig">Figure 7</xref>, <italic toggle="yes">ANGPT2</italic> rs2959822 emerged as an independent predictor of both PFS and OS in our study, underscoring its potential clinical significance. Our findings suggest that this genetic variant influences <italic toggle="yes">ANGPT2</italic> expression, which in turn correlates with aggressive tumor characteristics, including higher Gleason scores and advanced tumor stages. Moreover, the observed associations underscore the critical role of angiogenesis in prostate cancer progression and the potential of utilizing genetic markers to personalize ADT strategies. These results provide valuable insights into the complex interplay between genetic predisposition and the clinical outcomes of prostate cancer.</p><fig position="float" id="F7"><label>Figure 7</label><caption><p>Study design and key findings.</p></caption><graphic xlink:href="cgp-22-1002-g0001" position="float"/></fig><p>SNP rs2959822, which resides within an intronic region of <italic toggle="yes">ANGPT2</italic>, exhibits chromatin modifications characteristic of enhancers, coupled with DNase I hypersensitive sites and alterations in transcription factor-binding motifs. These features strongly suggest a regulatory role of <italic toggle="yes">ANGPT2</italic> expression. Our sQTL analysis confirmed that rs2959822 is associated with reduced expression of the <italic toggle="yes">ANGPT2</italic> transcript ENST00000338312 in prostate tissues. Physiologically, <italic toggle="yes">ANGPT2</italic> destabilizes blood vessels by antagonizing the TEK receptor tyrosine kinase Tie2, facilitating vascular remodeling; these processes are crucial for wound healing. However, in prostate cancer, <italic toggle="yes">ANGPT2</italic> promotes tumor growth by enhancing the vascular supply (<xref rid="R28" ref-type="bibr">28</xref>). This oncogenic role is underscored by its marked elevation in aggressive metastatic prostate cancer, where it is correlated with increased vascular density, higher histological grade, and diminished survival, thereby establishing it as a significant prognostic marker. Furthermore, observations in gastric cancer, where <italic toggle="yes">ANGPT2</italic> overexpression is linked to EMT markers such as vimentin (<xref rid="R29" ref-type="bibr">29</xref>), suggest a potential contribution to prostate cancer cell invasiveness. Soluble <italic toggle="yes">ANGPT2</italic> has also been identified as a potential prognostic biomarker in colorectal cancer with peritoneal carcinomatosis, where elevated levels are negatively associated with overall survival (<xref rid="R30" ref-type="bibr">30</xref>). Notably, <italic toggle="yes">ANGPT2</italic> significantly modulates the TIME, fostering immunosuppression. In melanoma, it upregulates PD-L1 expression in macrophages, impairing antitumor immunity (<xref rid="R31" ref-type="bibr">31</xref>), a mechanism likely relevant to the immune-evasive phenotype of prostate cancer. Mechanistically, <italic toggle="yes">ANGPT2</italic> drives tumor progression by synergistically enhancing angiogenesis with <italic toggle="yes">VEGF</italic>, promoting EMT through stromal remodeling, and fostering an immunosuppressive niche<italic toggle="yes"> via </italic>IL-10 and regulatory T-cell expansion (<xref rid="R32" ref-type="bibr">32</xref>). These effects, which have been observed in various cancers, appear to be applicable to prostate cancer. While clinical trials of the <italic toggle="yes">ANGPT2</italic> inhibitor MEDI3617 have demonstrated promise in melanoma by enhancing immune checkpoint therapy through improved tumor perfusion (<xref rid="R33" ref-type="bibr">33</xref>), and genetic variants in <italic toggle="yes">ANGPT2</italic> have been implicated in the treatment response in breast, hepatocellular, and colorectal cancers (<xref rid="R34" ref-type="bibr">34</xref>-<xref rid="R36" ref-type="bibr">36</xref>), a definitive link between specific <italic toggle="yes">ANGPT2</italic> SNPs and prostate cancer prognosis remains unexplored.</p><p>GSEA of <italic toggle="yes">ANGPT2</italic>-associated expression networks revealed a significant positive correlation between <italic toggle="yes">ANGPT2</italic> expression and key EMT genes, particularly <italic toggle="yes">COL1A1</italic>. This gene is significantly upregulated as prostate cancer progresses, and elevated <italic toggle="yes">COL1A1</italic> expression is associated with poorer survival outcomes. <italic toggle="yes">COL1A1</italic> drives tumor EMT by stiffening the extracellular matrix, thereby promoting cancer cell invasion. This mechanism is exemplified in colorectal cancer, where <italic toggle="yes">COL1A1</italic> upregulates the Wnt/planar cell polarity pathway, enhancing mesenchymal traits through Rac1-GTP and RhoA-GTP signaling (<xref rid="R37" ref-type="bibr">37</xref>). In prostate cancer, <italic toggle="yes">COL1A1</italic> overexpression likely contributes to EMT and accelerates cancer progression (<xref rid="R38" ref-type="bibr">38</xref>). In addition, <italic toggle="yes">COL1A1</italic> is overexpressed in lung cancer, where it serves as a prognostic biomarker linked to poor outcomes and is correlated with immune cell infiltration, significantly affecting the TIME (<xref rid="R39" ref-type="bibr">39</xref>). These findings underscore the dual role of <italic toggle="yes">ANGPT2</italic> in modulating the EMT and TIME, suggesting its potential as a therapeutic target. However, prostate-specific studies are essential to validate these effects and elucidate the precise mechanisms by which <italic toggle="yes">ANGPT2</italic> and <italic toggle="yes">COL1A1</italic> interact to drive prostate cancer progression.</p><p>This study has several strengths, including a well-characterized cohort of 630 ADT-treated patients with prostate cancer from multiple institutions, which enhances generalizability within this population. A comprehensive analysis of 87 htSNPs across seven angiogenesis-related genes, combined with robust survival and functional analyses, offers a detailed examination of genetic influences on prognosis. Long-term follow-up (median 165.8 months) bolsters the reliability of the outcomes, and integrating functional genomics data elucidates the potential mechanisms behind the identified genetic associations. However, limitations include its retrospective design and focus on a Taiwanese cohort, which may reduce its applicability to diverse ethnic groups owing to genetic differences. Restricting the analysis to preselected angiogenic genes might overlook other relevant pathways. This observational approach limits causal conclusions, and while the functional role of rs2959822 has been inferred bioinformatically, it lacks direct experimental confirmation. Finally, unmeasured confounders, such as lifestyle factors, may have affected the results, necessitating cautious interpretation and further validation.</p></sec><sec><title>Conclusion</title><p>The study highlights the multifaceted role of angiogenesis in prostate cancer progression, particularly through the lens of genetic variants and <italic toggle="yes">ANGPT2</italic>-related mechanisms in patients undergoing ADT. The identification of <italic toggle="yes">ANGPT2</italic> rs2959822 as an independent predictor of PFS and OS highlights its potential as a prognostic biomarker, supported by its regulatory influence on <italic toggle="yes">ANGPT2</italic> expression and correlation with aggressive disease features. Functional analyses further reveal the contribution of <italic toggle="yes">ANGPT2</italic> to tumor advancement<italic toggle="yes"> via </italic>EMT and TIME modulation, suggesting a broader oncogenic role beyond mere vascular support. These findings advocate for a deeper exploration of angiogenesis-targeting strategies, potentially refining therapeutic approaches to improve outcomes in prostate cancer, especially in ADT-treated cohorts, where resistance remains a critical challenge.</p></sec><sec sec-type="COI-statement"><title>Conflicts of Interest</title><p>The Authors declare that they have no potential conflicts of interest in regard to this study.</p></sec><sec><title>Authors&#x02019; Contributions</title><p>Yei-Tsung Chen: Conceptualization, Funding acquisition, Investigation, Visualization, Writing-original draft, Writing-review and editing. Pin-Yi Chen: Conceptualization, Data curation, Formal analysis, Writing-original draft, Writing-review and editing. Chi-Fen Chang: Investigation, Visualization, Writing-review and editing. Chao-Yuan Huang: Conceptualization, Methodology, Writing-review and editing. Chia-Cheng Yu: Conceptualization, Methodology, Writing-review and editing. Victor C. Lin: Conceptualization, Methodology, Writing-review and editing. Hao-Han Chang: Investigation, Visualization, Writing-review and editing. Te-Ling Lu: Formal analysis, Visualization, Writing-review and editing. Shu-Pin Huang: Conceptualization, Funding acquisition, Investigation, Visualization, Writing-original draft, Writing-review and editing. Bo-Ying Bao: Conceptualization, Data curation, Formal analysis, Funding acquisition, Writing-original draft, Writing-review and editing.</p></sec><sec><title>Acknowledgements</title><p>The Authors thank Chao-Shih Chen for data analysis, and the National Centre for Genome Medicine, Taiwan, for technical support. The results published here are based in part on data generated by the 1000 Genomes and TCGA projects.</p></sec><sec><title>Funding</title><p>This work was supported by the National Science and Technology Council of Taiwan (grant nos: 110-2320-B-A49A-515, 110-2314-B-002-113, 111-2314-B-002-240-MY3, 111-2320-B-039-021-MY3, 111-2218-E-037-001, 112-2218-E-037-001, 113-2218-E-037-001, 112-2314-B-037-127, 113-2314-B-037-016, 114-2314-B-037-005, and 114-2314-B-037-033), the National Health Research Institute (grant no: NHRI-EX113-11313SI), the Kaohsiung Medical University (grant nos: KMUH111-1R58, KMUH112-2R59, and KMUH113-3R52), and the China Medical University (grant nos: CMU111-MF-09, CMU112-MF-10, and CMU113-MF-11). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p></sec><sec><title>Artificial Intelligence (AI) Disclosure</title><p>During the preparation of this manuscript, a large language model (Google Gemini) was used solely for language editing and stylistic improvements in select paragraphs. No sections involving the generation, analysis, or interpretation of research data were produced by generative AI. All scientific content was created and verified by the authors. Furthermore, no figures or visual data were generated or modified using generative AI or machine learning-based image enhancement tools.</p></sec></body><back><ref-list><ref id="R1"><label>1</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>James</surname><given-names>ND</given-names></name>
+<name><surname>Tannock</surname><given-names>I</given-names></name>
+<name><surname>N&#x02019;Dow</surname><given-names>J</given-names></name>
+<name><surname>Feng</surname><given-names>F</given-names></name>
+<name><surname>Gillessen</surname><given-names>S</given-names></name>
+<name><surname>Ali</surname><given-names>SA</given-names></name>
+<name><surname>Trujillo</surname><given-names>B</given-names></name>
+<name><surname>Al-Lazikani</surname><given-names>B</given-names></name>
+<name><surname>Attard</surname><given-names>G</given-names></name>
+<name><surname>Bray</surname><given-names>F</given-names></name>
+<name><surname>Comp&#x000e9;rat</surname><given-names>E</given-names></name>
+<name><surname>Eeles</surname><given-names>R</given-names></name>
+<name><surname>Fatiregun</surname><given-names>O</given-names></name>
+<name><surname>Grist</surname><given-names>E</given-names></name>
+<name><surname>Halabi</surname><given-names>S</given-names></name>
+<name><surname>Haran</surname><given-names>&#x000c1;</given-names></name>
+<name><surname>Herchenhorn</surname><given-names>D</given-names></name>
+<name><surname>Hofman</surname><given-names>MS</given-names></name>
+<name><surname>Jalloh</surname><given-names>M</given-names></name>
+<name><surname>Loeb</surname><given-names>S</given-names></name>
+<name><surname>MacNair</surname><given-names>A</given-names></name>
+<name><surname>Mahal</surname><given-names>B</given-names></name>
+<name><surname>Mendes</surname><given-names>L</given-names></name>
+<name><surname>Moghul</surname><given-names>M</given-names></name>
+<name><surname>Moore</surname><given-names>C</given-names></name>
+<name><surname>Morgans</surname><given-names>A</given-names></name>
+<name><surname>Morris</surname><given-names>M</given-names></name>
+<name><surname>Murphy</surname><given-names>D</given-names></name>
+<name><surname>Murthy</surname><given-names>V</given-names></name>
+<name><surname>Nguyen</surname><given-names>PL</given-names></name>
+<name><surname>Padhani</surname><given-names>A</given-names></name>
+<name><surname>Parker</surname><given-names>C</given-names></name>
+<name><surname>Rush</surname><given-names>H</given-names></name>
+<name><surname>Sculpher</surname><given-names>M</given-names></name>
+<name><surname>Soule</surname><given-names>H</given-names></name>
+<name><surname>Sydes</surname><given-names>MR</given-names></name>
+<name><surname>Tilki</surname><given-names>D</given-names></name>
+<name><surname>Tunariu</surname><given-names>N</given-names></name>
+<name><surname>Villanti</surname><given-names>P</given-names></name>
+<name><surname>Xie</surname><given-names>LP</given-names></name>
+</person-group><article-title>The Lancet Commission on prostate cancer: planning for the surge in cases</article-title><source>Lancet</source><year>2024</year><volume>403(10437)</volume><fpage>1683</fpage><lpage>1722</lpage><pub-id pub-id-type="doi">10.1016/S0140-6736(24)00651-2</pub-id><pub-id pub-id-type="pmid">38583453</pub-id>
+</element-citation></ref><ref id="R2"><label>2</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Siegel</surname><given-names>RL</given-names></name>
+<name><surname>Kratzer</surname><given-names>TB</given-names></name>
+<name><surname>Giaquinto</surname><given-names>AN</given-names></name>
+<name><surname>Sung</surname><given-names>H</given-names></name>
+<name><surname>Jemal</surname><given-names>A</given-names></name>
+</person-group><article-title>Cancer statistics, 2025</article-title><source>CA Cancer J Clin</source><year>2025</year><volume>75(1)</volume><fpage>10</fpage><lpage>45</lpage><pub-id pub-id-type="doi">10.3322/caac.21871</pub-id><pub-id pub-id-type="pmid">39817679</pub-id>
+</element-citation></ref><ref id="R3"><label>3</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Ng</surname><given-names>K</given-names></name>
+<name><surname>Smith</surname><given-names>S</given-names></name>
+<name><surname>Shamash</surname><given-names>J</given-names></name>
+</person-group><article-title>Metastatic hormone-sensitive prostate cancer (mHSPC): advances and treatment strategies in the first-line setting</article-title><source>Oncol Ther</source><year>2020</year><volume>8(2)</volume><fpage>209</fpage><lpage>230</lpage><pub-id pub-id-type="doi">10.1007/s40487-020-00119-z</pub-id><pub-id pub-id-type="pmid">32700045</pub-id>
+</element-citation></ref><ref id="R4"><label>4</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Darst</surname><given-names>BF</given-names></name>
+<name><surname>Saunders</surname><given-names>E</given-names></name>
+<name><surname>Dadaev</surname><given-names>T</given-names></name>
+<name><surname>Sheng</surname><given-names>X</given-names></name>
+<name><surname>Wan</surname><given-names>P</given-names></name>
+<name><surname>Pooler</surname><given-names>L</given-names></name>
+<name><surname>Xia</surname><given-names>LY</given-names></name>
+<name><surname>Chanock</surname><given-names>S</given-names></name>
+<name><surname>Berndt</surname><given-names>SI</given-names></name>
+<name><surname>Wang</surname><given-names>Y</given-names></name>
+<name><surname>Patel</surname><given-names>AV</given-names></name>
+<name><surname>Albanes</surname><given-names>D</given-names></name>
+<name><surname>Weinstein</surname><given-names>SJ</given-names></name>
+<name><surname>Gnanapragasam</surname><given-names>V</given-names></name>
+<name><surname>Huff</surname><given-names>C</given-names></name>
+<name><surname>Couch</surname><given-names>FJ</given-names></name>
+<name><surname>Wolk</surname><given-names>A</given-names></name>
+<name><surname>Giles</surname><given-names>GG</given-names></name>
+<name><surname>Nguyen-Dumont</surname><given-names>T</given-names></name>
+<name><surname>Milne</surname><given-names>RL</given-names></name>
+<name><surname>Pomerantz</surname><given-names>MM</given-names></name>
+<name><surname>Schmidt</surname><given-names>JA</given-names></name>
+<name><surname>Travis</surname><given-names>RC</given-names></name>
+<name><surname>Key</surname><given-names>TJ</given-names></name>
+<name><surname>Stopsack</surname><given-names>KH</given-names></name>
+<name><surname>Mucci</surname><given-names>LA</given-names></name>
+<name><surname>Catalona</surname><given-names>WJ</given-names></name>
+<name><surname>Marosy</surname><given-names>B</given-names></name>
+<name><surname>Hetrick</surname><given-names>KN</given-names></name>
+<name><surname>Doheny</surname><given-names>KF</given-names></name>
+<name><surname>MacInnis</surname><given-names>RJ</given-names></name>
+<name><surname>Southey</surname><given-names>MC</given-names></name>
+<name><surname>Eeles</surname><given-names>RA</given-names></name>
+<name><surname>Wiklund</surname><given-names>F</given-names></name>
+<name><surname>Conti</surname><given-names>DV</given-names></name>
+<name><surname>Kote-Jarai</surname><given-names>Z</given-names></name>
+<name><surname>Haiman</surname><given-names>CA</given-names></name>
+</person-group><article-title>Germline sequencing analysis to inform clinical gene panel testing for aggressive prostate cancer</article-title><source>JAMA Oncol</source><year>2023</year><volume>9(11)</volume><fpage>1514</fpage><lpage>1524</lpage><pub-id pub-id-type="doi">10.1001/jamaoncol.2023.3482</pub-id><pub-id pub-id-type="pmid">37733366</pub-id>
+</element-citation></ref><ref id="R5"><label>5</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Mucci</surname><given-names>LA</given-names></name>
+<name><surname>Hjelmborg</surname><given-names>JB</given-names></name>
+<name><surname>Harris</surname><given-names>JR</given-names></name>
+<name><surname>Czene</surname><given-names>K</given-names></name>
+<name><surname>Havelick</surname><given-names>DJ</given-names></name>
+<name><surname>Scheike</surname><given-names>T</given-names></name>
+<name><surname>Graff</surname><given-names>RE</given-names></name>
+<name><surname>Holst</surname><given-names>K</given-names></name>
+<name><surname>M&#x000f6;ller</surname><given-names>S</given-names></name>
+<name><surname>Unger</surname><given-names>RH</given-names></name>
+<name><surname>McIntosh</surname><given-names>C</given-names></name>
+<name><surname>Nuttall</surname><given-names>E</given-names></name>
+<name><surname>Brandt</surname><given-names>I</given-names></name>
+<name><surname>Penney</surname><given-names>KL</given-names></name>
+<name><surname>Hartman</surname><given-names>M</given-names></name>
+<name><surname>Kraft</surname><given-names>P</given-names></name>
+<name><surname>Parmigiani</surname><given-names>G</given-names></name>
+<name><surname>Christensen</surname><given-names>K</given-names></name>
+<name><surname>Koskenvuo</surname><given-names>M</given-names></name>
+<name><surname>Holm</surname><given-names>NV</given-names></name>
+<name><surname>Heikkil&#x000e4;</surname><given-names>K</given-names></name>
+<name><surname>Pukkala</surname><given-names>E</given-names></name>
+<name><surname>Skytthe</surname><given-names>A</given-names></name>
+<name><surname>Adami</surname><given-names>HO</given-names></name>
+<name><surname>Kaprio</surname><given-names>J</given-names></name>
+<name><surname>Nordic Twin Study of Cancer (NorTwinCan) Collaboration</surname></name>
+</person-group><article-title>Familial risk and heritability of cancer among twins in Nordic countries</article-title><source>JAMA</source><year>2016</year><volume>315(1)</volume><fpage>68</fpage><lpage>76</lpage><pub-id pub-id-type="doi">10.1001/jama.2015.17703</pub-id><pub-id pub-id-type="pmid">26746459</pub-id>
+</element-citation></ref><ref id="R6"><label>6</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>JC</given-names></name>
+<name><surname>Shen</surname><given-names>WC</given-names></name>
+<name><surname>Shih</surname><given-names>TC</given-names></name>
+<name><surname>Tsai</surname><given-names>CW</given-names></name>
+<name><surname>Chang</surname><given-names>WS</given-names></name>
+<name><surname>Cho</surname><given-names>Y</given-names></name>
+<name><surname>Tsai</surname><given-names>CH</given-names></name>
+<name><surname>Bau</surname><given-names>DT</given-names></name>
+</person-group><article-title>The current progress and future prospects of personalized radiogenomic cancer study</article-title><source>Biomedicine (Taipei)</source><year>2015</year><volume>5(1)</volume><fpage>2</fpage><pub-id pub-id-type="doi">10.7603/s40681-015-0002-0</pub-id><pub-id pub-id-type="pmid">25705582</pub-id>
+</element-citation></ref><ref id="R7"><label>7</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Nishida</surname><given-names>N</given-names></name>
+<name><surname>Yano</surname><given-names>H</given-names></name>
+<name><surname>Nishida</surname><given-names>T</given-names></name>
+<name><surname>Kamura</surname><given-names>T</given-names></name>
+<name><surname>Kojiro</surname><given-names>M</given-names></name>
+</person-group><article-title>Angiogenesis in cancer</article-title><source>Vasc Health Risk Manag</source><year>2006</year><volume>2(3)</volume><fpage>213</fpage><lpage>219</lpage><pub-id pub-id-type="doi">10.2147/vhrm.2006.2.3.213</pub-id><pub-id pub-id-type="pmid">17326328</pub-id>
+</element-citation></ref><ref id="R8"><label>8</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>van Moorselaar</surname><given-names>RJ</given-names></name>
+<name><surname>Voest</surname><given-names>E</given-names></name>
+</person-group><article-title>Angiogenesis in prostate cancer: its role in disease progression and possible therapeutic approaches</article-title><source>Mol Cell Endocrinol</source><year>2002</year><volume>197(1-2)</volume><fpage>239</fpage><lpage>250</lpage><pub-id pub-id-type="doi">10.1016/s0303-7207(02)00262-9</pub-id><pub-id pub-id-type="pmid">12431818</pub-id>
+</element-citation></ref><ref id="R9"><label>9</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>K</given-names></name>
+<name><surname>Peng</surname><given-names>HL</given-names></name>
+<name><surname>Li</surname><given-names>LK</given-names></name>
+</person-group><article-title>Prognostic value of vascular endothelial growth factor expression in patients with prostate cancer: a systematic review with meta-analysis</article-title><source>Asian Pac J Cancer Prev</source><year>2012</year><volume>13(11)</volume><fpage>5665</fpage><lpage>5669</lpage><pub-id pub-id-type="doi">10.7314/apjcp.2012.13.11.5665</pub-id><pub-id pub-id-type="pmid">23317235</pub-id>
+</element-citation></ref><ref id="R10"><label>10</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>M</given-names></name>
+<name><surname>Wisniewski</surname><given-names>CA</given-names></name>
+<name><surname>Xiong</surname><given-names>C</given-names></name>
+<name><surname>Chhoy</surname><given-names>P</given-names></name>
+<name><surname>Goel</surname><given-names>HL</given-names></name>
+<name><surname>Kumar</surname><given-names>A</given-names></name>
+<name><surname>Zhu</surname><given-names>LJ</given-names></name>
+<name><surname>Li</surname><given-names>R</given-names></name>
+<name><surname>St Louis</surname><given-names>PA</given-names></name>
+<name><surname>Ferreira</surname><given-names>LM</given-names></name>
+<name><surname>Pakula</surname><given-names>H</given-names></name>
+<name><surname>Xu</surname><given-names>Z</given-names></name>
+<name><surname>Loda</surname><given-names>M</given-names></name>
+<name><surname>Jiang</surname><given-names>Z</given-names></name>
+<name><surname>Brehm</surname><given-names>MA</given-names></name>
+<name><surname>Mercurio</surname><given-names>AM</given-names></name>
+</person-group><article-title>Therapeutic blocking of VEGF binding to neuropilin-2 diminishes PD-L1 expression to activate antitumor immunity in prostate cancer</article-title><source>Sci Transl Med</source><year>2023</year><volume>15(694)</volume><fpage>eade5855</fpage><pub-id pub-id-type="doi">10.1126/scitranslmed.ade5855</pub-id><pub-id pub-id-type="pmid">37134151</pub-id>
+</element-citation></ref><ref id="R11"><label>11</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Melegh</surname><given-names>Z</given-names></name>
+<name><surname>Oltean</surname><given-names>S</given-names></name>
+</person-group><article-title>Targeting angiogenesis in prostate cancer</article-title><source>Int J Mol Sci</source><year>2019</year><volume>20(11)</volume><fpage>2676</fpage><pub-id pub-id-type="doi">10.3390/ijms20112676</pub-id><pub-id pub-id-type="pmid">31151317</pub-id>
+</element-citation></ref><ref id="R12"><label>12</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>HY</given-names></name>
+<name><surname>Amankwah</surname><given-names>EK</given-names></name>
+<name><surname>Tseng</surname><given-names>TS</given-names></name>
+<name><surname>Qu</surname><given-names>X</given-names></name>
+<name><surname>Chen</surname><given-names>DT</given-names></name>
+<name><surname>Park</surname><given-names>JY</given-names></name>
+</person-group><article-title>SNP-SNP interaction network in angiogenesis genes associated with prostate cancer aggressiveness</article-title><source>PLoS One</source><year>2013</year><volume>8(4)</volume><fpage>e59688</fpage><pub-id pub-id-type="doi">10.1371/journal.pone.0059688</pub-id><pub-id pub-id-type="pmid">23593148</pub-id>
+</element-citation></ref><ref id="R13"><label>13</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Jacobs</surname><given-names>EJ</given-names></name>
+<name><surname>Hsing</surname><given-names>AW</given-names></name>
+<name><surname>Bain</surname><given-names>EB</given-names></name>
+<name><surname>Stevens</surname><given-names>VL</given-names></name>
+<name><surname>Wang</surname><given-names>Y</given-names></name>
+<name><surname>Chen</surname><given-names>J</given-names></name>
+<name><surname>Chanock</surname><given-names>SJ</given-names></name>
+<name><surname>Zheng</surname><given-names>SL</given-names></name>
+<name><surname>Xu</surname><given-names>J</given-names></name>
+<name><surname>Thun</surname><given-names>MJ</given-names></name>
+<name><surname>Calle</surname><given-names>EE</given-names></name>
+<name><surname>Rodriguez</surname><given-names>C</given-names></name>
+</person-group><article-title>Polymorphisms in angiogenesis-related genes and prostate cancer</article-title><source>Cancer Epidemiol Biomarkers Prev</source><year>2008</year><volume>17(4)</volume><fpage>972</fpage><lpage>977</lpage><pub-id pub-id-type="doi">10.1158/1055-9965.EPI-07-2787</pub-id><pub-id pub-id-type="pmid">18398039</pub-id>
+</element-citation></ref><ref id="R14"><label>14</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Kote-Jarai</surname><given-names>Z</given-names></name>
+<name><surname>Olama</surname><given-names>AA</given-names></name>
+<name><surname>Giles</surname><given-names>GG</given-names></name>
+<name><surname>Severi</surname><given-names>G</given-names></name>
+<name><surname>Schleutker</surname><given-names>J</given-names></name>
+<name><surname>Weischer</surname><given-names>M</given-names></name>
+<name><surname>Campa</surname><given-names>D</given-names></name>
+<name><surname>Riboli</surname><given-names>E</given-names></name>
+<name><surname>Key</surname><given-names>T</given-names></name>
+<name><surname>Gronberg</surname><given-names>H</given-names></name>
+<name><surname>Hunter</surname><given-names>DJ</given-names></name>
+<name><surname>Kraft</surname><given-names>P</given-names></name>
+<name><surname>Thun</surname><given-names>MJ</given-names></name>
+<name><surname>Ingles</surname><given-names>S</given-names></name>
+<name><surname>Chanock</surname><given-names>S</given-names></name>
+<name><surname>Albanes</surname><given-names>D</given-names></name>
+<name><surname>Hayes</surname><given-names>RB</given-names></name>
+<name><surname>Neal</surname><given-names>DE</given-names></name>
+<name><surname>Hamdy</surname><given-names>FC</given-names></name>
+<name><surname>Donovan</surname><given-names>JL</given-names></name>
+<name><surname>Pharoah</surname><given-names>P</given-names></name>
+<name><surname>Schumacher</surname><given-names>F</given-names></name>
+<name><surname>Henderson</surname><given-names>BE</given-names></name>
+<name><surname>Stanford</surname><given-names>JL</given-names></name>
+<name><surname>Ostrander</surname><given-names>EA</given-names></name>
+<name><surname>Sorensen</surname><given-names>KD</given-names></name>
+<name><surname>D&#x000f6;rk</surname><given-names>T</given-names></name>
+<name><surname>Andriole</surname><given-names>G</given-names></name>
+<name><surname>Dickinson</surname><given-names>JL</given-names></name>
+<name><surname>Cybulski</surname><given-names>C</given-names></name>
+<name><surname>Lubinski</surname><given-names>J</given-names></name>
+<name><surname>Spurdle</surname><given-names>A</given-names></name>
+<name><surname>Clements</surname><given-names>JA</given-names></name>
+<name><surname>Chambers</surname><given-names>S</given-names></name>
+<name><surname>Aitken</surname><given-names>J</given-names></name>
+<name><surname>Gardiner</surname><given-names>RA</given-names></name>
+<name><surname>Thibodeau</surname><given-names>SN</given-names></name>
+<name><surname>Schaid</surname><given-names>D</given-names></name>
+<name><surname>John</surname><given-names>EM</given-names></name>
+<name><surname>Maier</surname><given-names>C</given-names></name>
+<name><surname>Vogel</surname><given-names>W</given-names></name>
+<name><surname>Cooney</surname><given-names>KA</given-names></name>
+<name><surname>Park</surname><given-names>JY</given-names></name>
+<name><surname>Cannon-Albright</surname><given-names>L</given-names></name>
+<name><surname>Brenner</surname><given-names>H</given-names></name>
+<name><surname>Habuchi</surname><given-names>T</given-names></name>
+<name><surname>Zhang</surname><given-names>HW</given-names></name>
+<name><surname>Lu</surname><given-names>YJ</given-names></name>
+<name><surname>Kaneva</surname><given-names>R</given-names></name>
+<name><surname>Muir</surname><given-names>K</given-names></name>
+<name><surname>Benlloch</surname><given-names>S</given-names></name>
+<name><surname>Leongamornlert</surname><given-names>DA</given-names></name>
+<name><surname>Saunders</surname><given-names>EJ</given-names></name>
+<name><surname>Tymrakiewicz</surname><given-names>M</given-names></name>
+<name><surname>Mahmud</surname><given-names>N</given-names></name>
+<name><surname>Guy</surname><given-names>M</given-names></name>
+<name><surname>O&#x02019;Brien</surname><given-names>LT</given-names></name>
+<name><surname>Wilkinson</surname><given-names>RA</given-names></name>
+<name><surname>Hall</surname><given-names>AL</given-names></name>
+<name><surname>Sawyer</surname><given-names>EJ</given-names></name>
+<name><surname>Dadaev</surname><given-names>T</given-names></name>
+<name><surname>Morrison</surname><given-names>J</given-names></name>
+<name><surname>Dearnaley</surname><given-names>DP</given-names></name>
+<name><surname>Horwich</surname><given-names>A</given-names></name>
+<name><surname>Huddart</surname><given-names>RA</given-names></name>
+<name><surname>Khoo</surname><given-names>VS</given-names></name>
+<name><surname>Parker</surname><given-names>CC</given-names></name>
+<name><surname>Van As</surname><given-names>N</given-names></name>
+<name><surname>Woodhouse</surname><given-names>CJ</given-names></name>
+<name><surname>Thompson</surname><given-names>A</given-names></name>
+<name><surname>Christmas</surname><given-names>T</given-names></name>
+<name><surname>Ogden</surname><given-names>C</given-names></name>
+<name><surname>Cooper</surname><given-names>CS</given-names></name>
+<name><surname>Lophatonanon</surname><given-names>A</given-names></name>
+<name><surname>Southey</surname><given-names>MC</given-names></name>
+<name><surname>Hopper</surname><given-names>JL</given-names></name>
+<name><surname>English</surname><given-names>DR</given-names></name>
+<name><surname>Wahlfors</surname><given-names>T</given-names></name>
+<name><surname>Tammela</surname><given-names>TL</given-names></name>
+<name><surname>Klarskov</surname><given-names>P</given-names></name>
+<name><surname>Nordestgaard</surname><given-names>BG</given-names></name>
+<name><surname>R&#x000f8;der</surname><given-names>MA</given-names></name>
+<name><surname>Tybj&#x000e6;rg-Hansen</surname><given-names>A</given-names></name>
+<name><surname>Bojesen</surname><given-names>SE</given-names></name>
+<name><surname>Travis</surname><given-names>R</given-names></name>
+<name><surname>Canzian</surname><given-names>F</given-names></name>
+<name><surname>Kaaks</surname><given-names>R</given-names></name>
+<name><surname>Wiklund</surname><given-names>F</given-names></name>
+<name><surname>Aly</surname><given-names>M</given-names></name>
+<name><surname>Lindstrom</surname><given-names>S</given-names></name>
+<name><surname>Diver</surname><given-names>WR</given-names></name>
+<name><surname>Gapstur</surname><given-names>S</given-names></name>
+<name><surname>Stern</surname><given-names>MC</given-names></name>
+<name><surname>Corral</surname><given-names>R</given-names></name>
+<name><surname>Virtamo</surname><given-names>J</given-names></name>
+<name><surname>Cox</surname><given-names>A</given-names></name>
+<name><surname>Haiman</surname><given-names>CA</given-names></name>
+<name><surname>Le Marchand</surname><given-names>L</given-names></name>
+<name><surname>Fitzgerald</surname><given-names>L</given-names></name>
+<name><surname>Kolb</surname><given-names>S</given-names></name>
+<name><surname>Kwon</surname><given-names>EM</given-names></name>
+<name><surname>Karyadi</surname><given-names>DM</given-names></name>
+<name><surname>Orntoft</surname><given-names>TF</given-names></name>
+<name><surname>Borre</surname><given-names>M</given-names></name>
+<name><surname>Meyer</surname><given-names>A</given-names></name>
+<name><surname>Serth</surname><given-names>J</given-names></name>
+<name><surname>Yeager</surname><given-names>M</given-names></name>
+<name><surname>Berndt</surname><given-names>SI</given-names></name>
+<name><surname>Marthick</surname><given-names>JR</given-names></name>
+<name><surname>Patterson</surname><given-names>B</given-names></name>
+<name><surname>Wokolorczyk</surname><given-names>D</given-names></name>
+<name><surname>Batra</surname><given-names>J</given-names></name>
+<name><surname>Lose</surname><given-names>F</given-names></name>
+<name><surname>McDonnell</surname><given-names>SK</given-names></name>
+<name><surname>Joshi</surname><given-names>AD</given-names></name>
+<name><surname>Shahabi</surname><given-names>A</given-names></name>
+<name><surname>Rinckleb</surname><given-names>AE</given-names></name>
+<name><surname>Ray</surname><given-names>A</given-names></name>
+<name><surname>Sellers</surname><given-names>TA</given-names></name>
+<name><surname>Lin</surname><given-names>HY</given-names></name>
+<name><surname>Stephenson</surname><given-names>RA</given-names></name>
+<name><surname>Farnham</surname><given-names>J</given-names></name>
+<name><surname>Muller</surname><given-names>H</given-names></name>
+<name><surname>Rothenbacher</surname><given-names>D</given-names></name>
+<name><surname>Tsuchiya</surname><given-names>N</given-names></name>
+<name><surname>Narita</surname><given-names>S</given-names></name>
+<name><surname>Cao</surname><given-names>GW</given-names></name>
+<name><surname>Slavov</surname><given-names>C</given-names></name>
+<name><surname>Mitev</surname><given-names>V</given-names></name>
+<name><surname>Easton</surname><given-names>DF</given-names></name>
+<name><surname>Eeles</surname><given-names>RA</given-names></name>
+<name><surname>UK Genetic Prostate Cancer Study Collaborators/British Association of Urological Surgeons&#x02019; Section of Oncology</surname></name>
+<name><surname>UK ProtecT Study Collaborators</surname></name>
+<name><surname>The Australian Prostate Cancer BioResource</surname></name>
+<name><surname>PRACTICAL Consortium</surname></name>
+</person-group><article-title>Seven prostate cancer susceptibility loci identified by a multi-stage genome-wide association study</article-title><source>Nat Genet</source><year>2011</year><volume>43(8)</volume><fpage>785</fpage><lpage>791</lpage><pub-id pub-id-type="doi">10.1038/ng.882</pub-id><pub-id pub-id-type="pmid">21743467</pub-id>
+</element-citation></ref><ref id="R15"><label>15</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Nam</surname><given-names>RK</given-names></name>
+<name><surname>Zhang</surname><given-names>W</given-names></name>
+<name><surname>Siminovitch</surname><given-names>K</given-names></name>
+<name><surname>Shlien</surname><given-names>A</given-names></name>
+<name><surname>Kattan</surname><given-names>MW</given-names></name>
+<name><surname>Klotz</surname><given-names>LH</given-names></name>
+<name><surname>Trachtenberg</surname><given-names>J</given-names></name>
+<name><surname>Lu</surname><given-names>Y</given-names></name>
+<name><surname>Zhang</surname><given-names>J</given-names></name>
+<name><surname>Yu</surname><given-names>C</given-names></name>
+<name><surname>Toi</surname><given-names>A</given-names></name>
+<name><surname>Loblaw</surname><given-names>DA</given-names></name>
+<name><surname>Venkateswaran</surname><given-names>V</given-names></name>
+<name><surname>Stanimirovic</surname><given-names>A</given-names></name>
+<name><surname>Sugar</surname><given-names>L</given-names></name>
+<name><surname>Malkin</surname><given-names>D</given-names></name>
+<name><surname>Seth</surname><given-names>A</given-names></name>
+<name><surname>Narod</surname><given-names>SA</given-names></name>
+</person-group><article-title>New variants at 10q26 and 15q21 are associated with aggressive prostate cancer in a genome-wide association study from a prostate biopsy screening cohort</article-title><source>Cancer Biol Ther</source><year>2011</year><volume>12(11)</volume><fpage>997</fpage><lpage>1004</lpage><pub-id pub-id-type="doi">10.4161/cbt.12.11.18366</pub-id><pub-id pub-id-type="pmid">22130093</pub-id>
+</element-citation></ref><ref id="R16"><label>16</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Bao</surname><given-names>BY</given-names></name>
+<name><surname>Pao</surname><given-names>JB</given-names></name>
+<name><surname>Huang</surname><given-names>CN</given-names></name>
+<name><surname>Pu</surname><given-names>YS</given-names></name>
+<name><surname>Chang</surname><given-names>TY</given-names></name>
+<name><surname>Lan</surname><given-names>YH</given-names></name>
+<name><surname>Lu</surname><given-names>TL</given-names></name>
+<name><surname>Lee</surname><given-names>HZ</given-names></name>
+<name><surname>Juang</surname><given-names>SH</given-names></name>
+<name><surname>Chen</surname><given-names>LM</given-names></name>
+<name><surname>Hsieh</surname><given-names>CJ</given-names></name>
+<name><surname>Huang</surname><given-names>SP</given-names></name>
+</person-group><article-title>Polymorphisms inside microRNAs and microRNA target sites predict clinical outcomes in prostate cancer patients receiving androgen-deprivation therapy</article-title><source>Clin Cancer Res</source><year>2011</year><volume>17(4)</volume><fpage>928</fpage><lpage>936</lpage><pub-id pub-id-type="doi">10.1158/1078-0432.CCR-10-2648</pub-id><pub-id pub-id-type="pmid">21149617</pub-id>
+</element-citation></ref><ref id="R17"><label>17</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>CC</given-names></name>
+<name><surname>Huang</surname><given-names>SP</given-names></name>
+<name><surname>Lee</surname><given-names>YC</given-names></name>
+<name><surname>Huang</surname><given-names>CY</given-names></name>
+<name><surname>Liu</surname><given-names>CC</given-names></name>
+<name><surname>Hour</surname><given-names>TC</given-names></name>
+<name><surname>Huang</surname><given-names>CN</given-names></name>
+<name><surname>You</surname><given-names>BJ</given-names></name>
+<name><surname>Chang</surname><given-names>TY</given-names></name>
+<name><surname>Huang</surname><given-names>CH</given-names></name>
+<name><surname>Bao</surname><given-names>BY</given-names></name>
+</person-group><article-title>Molecular markers in sex hormone pathway genes associated with the efficacy of androgen-deprivation therapy for prostate cancer</article-title><source>PLoS One</source><year>2013</year><volume>8(1)</volume><fpage>e54627</fpage><pub-id pub-id-type="doi">10.1371/journal.pone.0054627</pub-id><pub-id pub-id-type="pmid">23359804</pub-id>
+</element-citation></ref><ref id="R18"><label>18</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>LC</given-names></name>
+<name><surname>Huang</surname><given-names>SP</given-names></name>
+<name><surname>Shih</surname><given-names>CT</given-names></name>
+<name><surname>Li</surname><given-names>CY</given-names></name>
+<name><surname>Chen</surname><given-names>YT</given-names></name>
+<name><surname>Huang</surname><given-names>CY</given-names></name>
+<name><surname>Yu</surname><given-names>CC</given-names></name>
+<name><surname>Lin</surname><given-names>VC</given-names></name>
+<name><surname>Lee</surname><given-names>CH</given-names></name>
+<name><surname>Geng</surname><given-names>JH</given-names></name>
+<name><surname>Bao</surname><given-names>BY</given-names></name>
+</person-group><article-title><italic toggle="yes">ATP8B1</italic>: A prognostic prostate cancer biomarker identified<italic toggle="yes"> via </italic>genetic analysis</article-title><source>Prostate</source><year>2023</year><volume>83(6)</volume><fpage>602</fpage><lpage>611</lpage><pub-id pub-id-type="doi">10.1002/pros.24495</pub-id><pub-id pub-id-type="pmid">36794287</pub-id>
+</element-citation></ref><ref id="R19"><label>19</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Barrett</surname><given-names>JC</given-names></name>
+<name><surname>Fry</surname><given-names>B</given-names></name>
+<name><surname>Maller</surname><given-names>J</given-names></name>
+<name><surname>Daly</surname><given-names>MJ</given-names></name>
+</person-group><article-title>Haploview: analysis and visualization of LD and haplotype maps</article-title><source>Bioinformatics</source><year>2005</year><volume>21(2)</volume><fpage>263</fpage><lpage>265</lpage><pub-id pub-id-type="doi">10.1093/bioinformatics/bth457</pub-id><pub-id pub-id-type="pmid">15297300</pub-id>
+</element-citation></ref><ref id="R20"><label>20</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Chang</surname><given-names>HH</given-names></name>
+<name><surname>Lee</surname><given-names>CH</given-names></name>
+<name><surname>Chen</surname><given-names>YT</given-names></name>
+<name><surname>Huang</surname><given-names>CY</given-names></name>
+<name><surname>Yu</surname><given-names>CC</given-names></name>
+<name><surname>Lin</surname><given-names>VC</given-names></name>
+<name><surname>Geng</surname><given-names>JH</given-names></name>
+<name><surname>Lu</surname><given-names>TL</given-names></name>
+<name><surname>Huang</surname><given-names>SP</given-names></name>
+<name><surname>Bao</surname><given-names>BY</given-names></name>
+</person-group><article-title>Genetic analysis reveals the prognostic significance of the DNA mismatch repair gene MSH2 in advanced prostate cancer</article-title><source>Cancers (Basel)</source><year>2022</year><volume>14(1)</volume><fpage>223</fpage><pub-id pub-id-type="doi">10.3390/cancers14010223</pub-id><pub-id pub-id-type="pmid">35008387</pub-id>
+</element-citation></ref><ref id="R21"><label>21</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Kwong</surname><given-names>A</given-names></name>
+<name><surname>Boughton</surname><given-names>AP</given-names></name>
+<name><surname>Wang</surname><given-names>M</given-names></name>
+<name><surname>VandeHaar</surname><given-names>P</given-names></name>
+<name><surname>Boehnke</surname><given-names>M</given-names></name>
+<name><surname>Abecasis</surname><given-names>G</given-names></name>
+<name><surname>Kang</surname><given-names>HM</given-names></name>
+</person-group><article-title>FIVEx: an interactive eQTL browser across public datasets</article-title><source>Bioinformatics</source><year>2022</year><volume>38(2)</volume><fpage>559</fpage><lpage>561</lpage><pub-id pub-id-type="doi">10.1093/bioinformatics/btab614</pub-id><pub-id pub-id-type="pmid">34459872</pub-id>
+</element-citation></ref><ref id="R22"><label>22</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Ward</surname><given-names>LD</given-names></name>
+<name><surname>Kellis</surname><given-names>M</given-names></name>
+</person-group><article-title>HaploReg v4: systematic mining of putative causal variants, cell types, regulators and target genes for human complex traits and disease</article-title><source>Nucleic Acids Res</source><year>2016</year><volume>44(D1)</volume><fpage>D877</fpage><lpage>D881</lpage><pub-id pub-id-type="doi">10.1093/nar/gkv1340</pub-id><pub-id pub-id-type="pmid">26657631</pub-id>
+</element-citation></ref><ref id="R23"><label>23</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Vasaikar</surname><given-names>SV</given-names></name>
+<name><surname>Straub</surname><given-names>P</given-names></name>
+<name><surname>Wang</surname><given-names>J</given-names></name>
+<name><surname>Zhang</surname><given-names>B</given-names></name>
+</person-group><article-title>LinkedOmics: analyzing multi-omics data within and across 32 cancer types</article-title><source>Nucleic Acids Res</source><year>2018</year><volume>46(D1)</volume><fpage>D956</fpage><lpage>D963</lpage><pub-id pub-id-type="doi">10.1093/nar/gkx1090</pub-id><pub-id pub-id-type="pmid">29136207</pub-id>
+</element-citation></ref><ref id="R24"><label>24</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Subramanian</surname><given-names>A</given-names></name>
+<name><surname>Tamayo</surname><given-names>P</given-names></name>
+<name><surname>Mootha</surname><given-names>VK</given-names></name>
+<name><surname>Mukherjee</surname><given-names>S</given-names></name>
+<name><surname>Ebert</surname><given-names>BL</given-names></name>
+<name><surname>Gillette</surname><given-names>MA</given-names></name>
+<name><surname>Paulovich</surname><given-names>A</given-names></name>
+<name><surname>Pomeroy</surname><given-names>SL</given-names></name>
+<name><surname>Golub</surname><given-names>TR</given-names></name>
+<name><surname>Lander</surname><given-names>ES</given-names></name>
+<name><surname>Mesirov</surname><given-names>JP</given-names></name>
+</person-group><article-title>Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles</article-title><source>Proc Natl Acad Sci U S A</source><year>2005</year><volume>102(43)</volume><fpage>15545</fpage><lpage>15550</lpage><pub-id pub-id-type="doi">10.1073/pnas.0506580102</pub-id><pub-id pub-id-type="pmid">16199517</pub-id>
+</element-citation></ref><ref id="R25"><label>25</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>T</given-names></name>
+<name><surname>Fan</surname><given-names>J</given-names></name>
+<name><surname>Wang</surname><given-names>B</given-names></name>
+<name><surname>Traugh</surname><given-names>N</given-names></name>
+<name><surname>Chen</surname><given-names>Q</given-names></name>
+<name><surname>Liu</surname><given-names>JS</given-names></name>
+<name><surname>Li</surname><given-names>B</given-names></name>
+<name><surname>Liu</surname><given-names>XS</given-names></name>
+</person-group><article-title>TIMER: A web server for comprehensive analysis of tumor-infiltrating immune cells</article-title><source>Cancer Res</source><year>2017</year><volume>77(21)</volume><fpage>e108</fpage><lpage>e110</lpage><pub-id pub-id-type="doi">10.1158/0008-5472.CAN-17-0307</pub-id><pub-id pub-id-type="pmid">29092952</pub-id>
+</element-citation></ref><ref id="R26"><label>26</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>SP</given-names></name>
+<name><surname>Bao</surname><given-names>BY</given-names></name>
+<name><surname>Chuang</surname><given-names>TH</given-names></name>
+<name><surname>Huang</surname><given-names>CY</given-names></name>
+<name><surname>Yu</surname><given-names>CC</given-names></name>
+<name><surname>Lin</surname><given-names>VC</given-names></name>
+<name><surname>Lu</surname><given-names>TL</given-names></name>
+<name><surname>Chen</surname><given-names>YT</given-names></name>
+</person-group><article-title>Prognostic significance of EZH2-related gene variants in patients with prostate cancer undergoing androgen deprivation therapy</article-title><source>Cancer Genomics Proteomics</source><year>2025</year><volume>22(4)</volume><fpage>611</fpage><lpage>623</lpage><pub-id pub-id-type="doi">10.21873/cgp.20525</pub-id><pub-id pub-id-type="pmid">40571313</pub-id>
+</element-citation></ref><ref id="R27"><label>27</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>SP</given-names></name>
+<name><surname>Chen</surname><given-names>LC</given-names></name>
+<name><surname>Chen</surname><given-names>YT</given-names></name>
+<name><surname>Lee</surname><given-names>CH</given-names></name>
+<name><surname>Huang</surname><given-names>CY</given-names></name>
+<name><surname>Yu</surname><given-names>CC</given-names></name>
+<name><surname>Lin</surname><given-names>VC</given-names></name>
+<name><surname>Lu</surname><given-names>TL</given-names></name>
+<name><surname>Bao</surname><given-names>BY</given-names></name>
+</person-group><article-title>PTBP1 genetic variants affect the clinical response to androgen-deprivation therapy in patients with prostate cancer</article-title><source>Cancer Genomics Proteomics</source><year>2021</year><volume>18(3)</volume><fpage>325</fpage><lpage>334</lpage><pub-id pub-id-type="doi">10.21873/cgp.20263</pub-id><pub-id pub-id-type="pmid">33893085</pub-id>
+</element-citation></ref><ref id="R28"><label>28</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Lind</surname><given-names>AJ</given-names></name>
+<name><surname>Wikstr&#x000f6;m</surname><given-names>P</given-names></name>
+<name><surname>Granfors</surname><given-names>T</given-names></name>
+<name><surname>Egevad</surname><given-names>L</given-names></name>
+<name><surname>Stattin</surname><given-names>P</given-names></name>
+<name><surname>Bergh</surname><given-names>A</given-names></name>
+</person-group><article-title>Angiopoietin 2 expression is related to histological grade, vascular density, metastases, and outcome in prostate cancer</article-title><source>Prostate</source><year>2005</year><volume>62(4)</volume><fpage>394</fpage><lpage>399</lpage><pub-id pub-id-type="doi">10.1002/pros.20163</pub-id><pub-id pub-id-type="pmid">15378518</pub-id>
+</element-citation></ref><ref id="R29"><label>29</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Piao</surname><given-names>HY</given-names></name>
+<name><surname>Guo</surname><given-names>S</given-names></name>
+<name><surname>Jin</surname><given-names>H</given-names></name>
+<name><surname>Wang</surname><given-names>Y</given-names></name>
+<name><surname>Zhang</surname><given-names>J</given-names></name>
+</person-group><article-title>LINC00184 involved in the regulatory network of ANGPT2<italic toggle="yes"> via </italic>ceRNA mediated miR-145 inhibition in gastric cancer</article-title><source>J Cancer</source><year>2021</year><volume>12(8)</volume><fpage>2336</fpage><lpage>2350</lpage><pub-id pub-id-type="doi">10.7150/jca.49138</pub-id><pub-id pub-id-type="pmid">33758610</pub-id>
+</element-citation></ref><ref id="R30"><label>30</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>HK</given-names></name>
+<name><surname>Yang</surname><given-names>Y</given-names></name>
+<name><surname>Byeon</surname><given-names>S</given-names></name>
+<name><surname>Jeong</surname><given-names>Y</given-names></name>
+<name><surname>Kwon</surname><given-names>J</given-names></name>
+<name><surname>Lee</surname><given-names>KH</given-names></name>
+<name><surname>Son</surname><given-names>SM</given-names></name>
+<name><surname>Han</surname><given-names>HS</given-names></name>
+</person-group><article-title>E-cadherin and angiopoietin-2 as potential biomarkers for colorectal cancer with peritoneal carcinomatosis</article-title><source>Anticancer Res</source><year>2021</year><volume>41(9)</volume><fpage>4497</fpage><lpage>4504</lpage><pub-id pub-id-type="doi">10.21873/anticanres.15260</pub-id><pub-id pub-id-type="pmid">34475075</pub-id>
+</element-citation></ref><ref id="R31"><label>31</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>X</given-names></name>
+<name><surname>Giobbie-Hurder</surname><given-names>A</given-names></name>
+<name><surname>Liao</surname><given-names>X</given-names></name>
+<name><surname>Connelly</surname><given-names>C</given-names></name>
+<name><surname>Connolly</surname><given-names>EM</given-names></name>
+<name><surname>Li</surname><given-names>J</given-names></name>
+<name><surname>Manos</surname><given-names>MP</given-names></name>
+<name><surname>Lawrence</surname><given-names>D</given-names></name>
+<name><surname>McDermott</surname><given-names>D</given-names></name>
+<name><surname>Severgnini</surname><given-names>M</given-names></name>
+<name><surname>Zhou</surname><given-names>J</given-names></name>
+<name><surname>Gjini</surname><given-names>E</given-names></name>
+<name><surname>Lako</surname><given-names>A</given-names></name>
+<name><surname>Lipschitz</surname><given-names>M</given-names></name>
+<name><surname>Pak</surname><given-names>CJ</given-names></name>
+<name><surname>Abdelrahman</surname><given-names>S</given-names></name>
+<name><surname>Rodig</surname><given-names>S</given-names></name>
+<name><surname>Hodi</surname><given-names>FS</given-names></name>
+</person-group><article-title>Angiopoietin-2 as a biomarker and target for immune checkpoint therapy</article-title><source>Cancer Immunol Res</source><year>2017</year><volume>5(1)</volume><fpage>17</fpage><lpage>28</lpage><pub-id pub-id-type="doi">10.1158/2326-6066.CIR-16-0206</pub-id><pub-id pub-id-type="pmid">28003187</pub-id>
+</element-citation></ref><ref id="R32"><label>32</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Coffelt</surname><given-names>SB</given-names></name>
+<name><surname>Chen</surname><given-names>YY</given-names></name>
+<name><surname>Muthana</surname><given-names>M</given-names></name>
+<name><surname>Welford</surname><given-names>AF</given-names></name>
+<name><surname>Tal</surname><given-names>AO</given-names></name>
+<name><surname>Scholz</surname><given-names>A</given-names></name>
+<name><surname>Plate</surname><given-names>KH</given-names></name>
+<name><surname>Reiss</surname><given-names>Y</given-names></name>
+<name><surname>Murdoch</surname><given-names>C</given-names></name>
+<name><surname>De Palma</surname><given-names>M</given-names></name>
+<name><surname>Lewis</surname><given-names>CE</given-names></name>
+</person-group><article-title>Angiopoietin 2 stimulates TIE2-expressing monocytes to suppress T cell activation and to promote regulatory T cell expansion</article-title><source>J Immunol</source><year>2011</year><volume>186(7)</volume><fpage>4183</fpage><lpage>4190</lpage><pub-id pub-id-type="doi">10.4049/jimmunol.1002802</pub-id><pub-id pub-id-type="pmid">21368233</pub-id>
+</element-citation></ref><ref id="R33"><label>33</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Ott</surname><given-names>PA</given-names></name>
+<name><surname>Nazzaro</surname><given-names>M</given-names></name>
+<name><surname>Pfaff</surname><given-names>KL</given-names></name>
+<name><surname>Gjini</surname><given-names>E</given-names></name>
+<name><surname>Felt</surname><given-names>KD</given-names></name>
+<name><surname>Wolff</surname><given-names>JO</given-names></name>
+<name><surname>Buchbinder</surname><given-names>EI</given-names></name>
+<name><surname>Haq</surname><given-names>R</given-names></name>
+<name><surname>Sullivan</surname><given-names>RJ</given-names></name>
+<name><surname>Lawrence</surname><given-names>DP</given-names></name>
+<name><surname>McDermott</surname><given-names>DF</given-names></name>
+<name><surname>Severgnini</surname><given-names>M</given-names></name>
+<name><surname>Giobbie-Hurder</surname><given-names>A</given-names></name>
+<name><surname>Rodig</surname><given-names>SJ</given-names></name>
+<name><surname>Stephen Hodi</surname><given-names>F</given-names></name>
+</person-group><article-title>Combining CTLA-4 and angiopoietin-2 blockade in patients with advanced melanoma: a phase I trial</article-title><source>J Immunother Cancer</source><year>2021</year><volume>9(11)</volume><fpage>e003318</fpage><pub-id pub-id-type="doi">10.1136/jitc-2021-003318</pub-id><pub-id pub-id-type="pmid">34772758</pub-id>
+</element-citation></ref><ref id="R34"><label>34</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Du</surname><given-names>Z</given-names></name>
+<name><surname>Tang</surname><given-names>CH</given-names></name>
+<name><surname>Li</surname><given-names>LJ</given-names></name>
+<name><surname>Kang</surname><given-names>L</given-names></name>
+<name><surname>Zhao</surname><given-names>J</given-names></name>
+<name><surname>Jin</surname><given-names>L</given-names></name>
+<name><surname>Wang</surname><given-names>CQ</given-names></name>
+<name><surname>Su</surname><given-names>CM</given-names></name>
+</person-group><article-title>Angiopoietin-2 gene polymorphisms are biomarkers for the development and progression of colorectal cancer in Han Chinese</article-title><source>Int J Med Sci</source><year>2020</year><volume>17(1)</volume><fpage>97</fpage><lpage>102</lpage><pub-id pub-id-type="doi">10.7150/ijms.37675</pub-id><pub-id pub-id-type="pmid">31929743</pub-id>
+</element-citation></ref><ref id="R35"><label>35</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Makhoul</surname><given-names>I</given-names></name>
+<name><surname>Todorova</surname><given-names>VK</given-names></name>
+<name><surname>Siegel</surname><given-names>ER</given-names></name>
+<name><surname>Erickson</surname><given-names>SW</given-names></name>
+<name><surname>Dhakal</surname><given-names>I</given-names></name>
+<name><surname>Raj</surname><given-names>VR</given-names></name>
+<name><surname>Lee</surname><given-names>JY</given-names></name>
+<name><surname>Orloff</surname><given-names>MS</given-names></name>
+<name><surname>Griffin</surname><given-names>RJ</given-names></name>
+<name><surname>Henry-Tillman</surname><given-names>RS</given-names></name>
+<name><surname>Klimberg</surname><given-names>S</given-names></name>
+<name><surname>Hutchins</surname><given-names>LF</given-names></name>
+<name><surname>Kadlubar</surname><given-names>SA</given-names></name>
+</person-group><article-title>Germline genetic variants in TEK, ANGPT1, ANGPT2, MMP9, FGF2 and VEGFA are associated with pathologic complete response to bevacizumab in breast cancer patients</article-title><source>PLoS One</source><year>2017</year><volume>12(1)</volume><fpage>e0168550</fpage><pub-id pub-id-type="doi">10.1371/journal.pone.0168550</pub-id><pub-id pub-id-type="pmid">28045923</pub-id>
+</element-citation></ref><ref id="R36"><label>36</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Marisi</surname><given-names>G</given-names></name>
+<name><surname>Petracci</surname><given-names>E</given-names></name>
+<name><surname>Raimondi</surname><given-names>F</given-names></name>
+<name><surname>Faloppi</surname><given-names>L</given-names></name>
+<name><surname>Foschi</surname><given-names>FG</given-names></name>
+<name><surname>Lauletta</surname><given-names>G</given-names></name>
+<name><surname>Iavarone</surname><given-names>M</given-names></name>
+<name><surname>Canale</surname><given-names>M</given-names></name>
+<name><surname>Valgiusti</surname><given-names>M</given-names></name>
+<name><surname>Neri</surname><given-names>LM</given-names></name>
+<name><surname>Ulivi</surname><given-names>P</given-names></name>
+<name><surname>Orsi</surname><given-names>G</given-names></name>
+<name><surname>Rovesti</surname><given-names>G</given-names></name>
+<name><surname>Vukotic</surname><given-names>R</given-names></name>
+<name><surname>Conti</surname><given-names>F</given-names></name>
+<name><surname>Cucchetti</surname><given-names>A</given-names></name>
+<name><surname>Ercolani</surname><given-names>G</given-names></name>
+<name><surname>Andrikou</surname><given-names>K</given-names></name>
+<name><surname>Cascinu</surname><given-names>S</given-names></name>
+<name><surname>Scartozzi</surname><given-names>M</given-names></name>
+<name><surname>Casadei-Gardini</surname><given-names>A</given-names></name>
+</person-group><article-title>ANGPT2 and NOS3 polymorphisms and clinical outcome in advanced hepatocellular carcinoma patients receiving sorafenib</article-title><source>Cancers (Basel)</source><year>2019</year><volume>11(7)</volume><fpage>1023</fpage><pub-id pub-id-type="doi">10.3390/cancers11071023</pub-id><pub-id pub-id-type="pmid">31330833</pub-id>
+</element-citation></ref><ref id="R37"><label>37</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Z</given-names></name>
+<name><surname>Wang</surname><given-names>Y</given-names></name>
+<name><surname>Zhang</surname><given-names>J</given-names></name>
+<name><surname>Zhong</surname><given-names>J</given-names></name>
+<name><surname>Yang</surname><given-names>R</given-names></name>
+</person-group><article-title>COL1A1 promotes metastasis in colorectal cancer by regulating the WNT/PCP pathway</article-title><source>Mol Med Rep</source><year>2018</year><volume>17(4)</volume><fpage>5037</fpage><lpage>5042</lpage><pub-id pub-id-type="doi">10.3892/mmr.2018.8533</pub-id><pub-id pub-id-type="pmid">29393423</pub-id>
+</element-citation></ref><ref id="R38"><label>38</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Cong</surname><given-names>G</given-names></name>
+<name><surname>Shao</surname><given-names>J</given-names></name>
+<name><surname>Xiao</surname><given-names>F</given-names></name>
+<name><surname>Zhu</surname><given-names>H</given-names></name>
+<name><surname>Kang</surname><given-names>P</given-names></name>
+</person-group><article-title>The role of endothelial cell-related gene COL1A1 in prostate cancer diagnosis and immunotherapy: insights from machine learning and single-cell analysis</article-title><source>Biol Direct</source><year>2025</year><volume>20(1)</volume><fpage>3</fpage><pub-id pub-id-type="doi">10.1186/s13062-024-00591-x</pub-id><pub-id pub-id-type="pmid">39780278</pub-id>
+</element-citation></ref><ref id="R39"><label>39</label><element-citation publication-type="journal" publication-format="print"><person-group person-group-type="author">
+<name><surname>Geng</surname><given-names>Q</given-names></name>
+<name><surname>Shen</surname><given-names>Z</given-names></name>
+<name><surname>Li</surname><given-names>L</given-names></name>
+<name><surname>Zhao</surname><given-names>J</given-names></name>
+</person-group><article-title>COL1A1 is a prognostic biomarker and correlated with immune infiltrates in lung cancer</article-title><source>PeerJ</source><year>2021</year><volume>9</volume><fpage>e11145</fpage><pub-id pub-id-type="doi">10.7717/peerj.11145</pub-id><pub-id pub-id-type="pmid">33850663</pub-id>
+</element-citation></ref></ref-list></back></article>

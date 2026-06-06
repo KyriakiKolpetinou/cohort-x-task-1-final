@@ -1,0 +1,975 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="review-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancers (Basel)</journal-id><journal-id journal-id-type="iso-abbrev">Cancers (Basel)</journal-id><journal-id journal-id-type="publisher-id">cancers</journal-id><journal-title-group><journal-title>Cancers</journal-title></journal-title-group><issn pub-type="epub">2072-6694</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">40867237</article-id><article-id pub-id-type="pmc">12384129</article-id><article-id pub-id-type="doi">10.3390/cancers17162608</article-id><article-id pub-id-type="publisher-id">cancers-17-02608</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Molecular Imaging in Endometrial Cancer: A Narrative Review</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Garc&#x000ed;a-Vicente</surname><given-names>Ana Mar&#x000ed;a</given-names></name><xref rid="af1-cancers-17-02608" ref-type="aff">1</xref><xref rid="c1-cancers-17-02608" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Perlaza-Jim&#x000e9;nez</surname><given-names>Mar&#x000ed;a Pilar</given-names></name><xref rid="af2-cancers-17-02608" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>Guzm&#x000e1;n-Ortiz</surname><given-names>Stefan&#x000ed;a Aida</given-names></name><xref rid="af1-cancers-17-02608" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-6500-063X</contrib-id><name><surname>Tormo-Ratera</surname><given-names>Marta</given-names></name><xref rid="af2-cancers-17-02608" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>S&#x000e1;nchez-M&#x000e1;rquez</surname><given-names>Ana</given-names></name><xref rid="af3-cancers-17-02608" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name><surname>Cort&#x000e9;s-Romera</surname><given-names>Montserrat</given-names></name><xref rid="af2-cancers-17-02608" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-2725-8920</contrib-id><name><surname>Noriega-&#x000c1;lvarez</surname><given-names>Edel</given-names></name><xref rid="af4-cancers-17-02608" ref-type="aff">4</xref></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Pavlik</surname><given-names>Edward J.</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-cancers-17-02608"><label>1</label>Nuclear Medicine Department, University Hospital of Toledo, 45007 Toledo, Spain; <email>stefaniag@sescam.jccm.es</email></aff><aff id="af2-cancers-17-02608"><label>2</label>Nuclear Medicine-PET (ICS-IDI) Department, Bellvitge University Hospital, L&#x02019;Hospitalet de Llobregat, 08907 Barcelona, Spain; <email>mariadelpilar.perlaza.idi@gencat.cat</email> (M.P.P.-J.); <email>martatormo.idi@gencat.cat</email> (M.T.-R.); <email>mcortes@bellvitgehospital.cat</email> (M.C.-R.)</aff><aff id="af3-cancers-17-02608"><label>3</label>Radiology Department, Bellvitge University Hospital, L&#x02019;Hospitalet de Llobregat, 08907 Barcelona, Spain; <email>ana.sanchez.idi@gencat.cat</email></aff><aff id="af4-cancers-17-02608"><label>4</label>Department of Nuclear Medicine, University Hospital of Guadalajara, 19002 Guadalajara, Spain; <email>edelnoriega@gmail.com</email></aff><author-notes><corresp id="c1-cancers-17-02608"><label>*</label>Correspondence: <email>amgarcia@sescam.jccm.es</email>; Tel.: +34-925-269200</corresp></author-notes><pub-date pub-type="epub"><day>08</day><month>8</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>8</month><year>2025</year></pub-date><volume>17</volume><issue>16</issue><elocation-id>2608</elocation-id><history><date date-type="received"><day>17</day><month>6</month><year>2025</year></date><date date-type="rev-recd"><day>01</day><month>8</month><year>2025</year></date><date date-type="accepted"><day>06</day><month>8</month><year>2025</year></date></history><permissions><copyright-statement>&#x000a9; 2025 by the authors.</copyright-statement><copyright-year>2025</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract abstract-type="plain-language-summary"><title>Simple Summary</title><p>Endometrial cancer is the most common cancer of the female reproductive system in developed countries. Its diagnosis and treatment can be difficult due to the wide variety of tumor types and behaviors. This narrative review explores how diagnostic imaging techniques, particularly molecular imaging methods such as PET/CT and PET/MRI, can help clinicians better understand and manage this disease. These techniques not only improve the detection of tumor spread and response to treatment, but also provide biological information about the cancer in each patient. This knowledge allows for more personalized and effective therapeutic decision-making. The authors also discuss new imaging methods and artificial intelligence-assisted models that could further refine risk assessment in the future. This work highlights the important role of advanced imaging techniques in improving outcomes for women with endometrial cancer, and encourages further research to confirm these promising benefits.</p></abstract><abstract><title>Abstract</title><p><bold>Background/Objectives</bold>: Endometrial cancer (EC) is the most common gynecological tumor in developed countries, and presents a wide variety of histological and molecular characteristics that make its treatment increasingly complex. In recent years, advances in molecular imaging, particularly with [<sup>18</sup>F]FDG-PET/CT and PET/MRI, have changed clinicians&#x02019; management of diagnosis, treatment planning, and prognosis of EC. <bold>Methods</bold>: In this narrative review, a search was conducted for current evidence on the role of [<sup>18</sup>F]FDG-PET/CT and PET/MRI throughout the treatment of EC, focusing on their diagnostic performance, clinical relevance, and prognostic implications. Their use in areas such as initial staging, treatment monitoring, recurrence detection, and individualized risk assessment was also discussed. <bold>Results</bold>: [<sup>18</sup>F]FDG-PET/CT is effective in detecting lymph node and distant metastases, while [<sup>18</sup>F]FDG-PET/MRI offers greater accuracy for T and N staging. In addition, [<sup>18</sup>F]FDG-PET/CT provides early metabolic indicators of therapeutic response and facilitates differentiation between viable tumors and post-treatment changes. Radiomics-derived parameters have shown promising associations with tumor aggressiveness and lymphovascular invasion and survival, supporting their role as prognostic imaging biomarkers. In addition, the use of non-FDG radiotracers, as well as predictive models based on machine learning, can further refine preoperative stratification and treatment planning in certain subtypes of EC. <bold>Conclusions</bold>: Molecular imaging enhances the accuracy of TNM staging in EC. The incorporation of molecular imaging biomarkers into daily clinical practice could significantly improve personalized decision-making in EC. However, large prospective studies are needed to confirm their efficacy.</p></abstract><kwd-group><kwd>endometrial cancer</kwd><kwd>[<sup>18</sup>F]FDG-PET/CT</kwd><kwd>[<sup>18</sup>F]FDG-PET/MRI</kwd><kwd>radiomics</kwd><kwd>staging</kwd><kwd>response</kwd><kwd>progression</kwd><kwd>prognosis</kwd></kwd-group><funding-group><funding-statement>This research received no external funding.</funding-statement></funding-group></article-meta></front><body><sec sec-type="intro" id="sec1-cancers-17-02608"><title>1. Introduction</title><p>Endometrial cancer (EC) is the most common malignancy of the female reproductive system in developed countries. Histopathologically, two main subtypes have been described: type I tumors (&#x0003e;80%), which are estrogen-dependent (and include grade 1 and 2 endometrioid adenocarcinomas), and type II tumors, which are not estrogen-dependent (include the more clinically aggressive grade 3 endometrioid adenocarcinomas, serous papillary adenocarcinomas, clear cell adenocarcinomas, and carcinosarcomas) [<xref rid="B1-cancers-17-02608" ref-type="bibr">1</xref>]. Type II tumors demonstrate a worse prognosis and are responsible for nearly half of the EC-related deaths [<xref rid="B2-cancers-17-02608" ref-type="bibr">2</xref>].</p><p>The 2016 European Society of Gynecological Oncology (ESGO) and the European Society for Radiotherapy and Oncology (ESTRO) consensus defined the high-risk group as endometrioid carcinomas of stage IB with a deep myometrial invasion (MI) &#x0003e; 50% grade 3 or stage II&#x02013;III any grade along with non-endometrioid carcinomas of stage I&#x02013;III [<xref rid="B3-cancers-17-02608" ref-type="bibr">3</xref>,<xref rid="B4-cancers-17-02608" ref-type="bibr">4</xref>]. However, a molecular classification recommended by ESGO, ESTRO, and European Society of Pathology guidelines has been fully integrated in the clinical routine for the risk classification of EC patients [<xref rid="B3-cancers-17-02608" ref-type="bibr">3</xref>,<xref rid="B4-cancers-17-02608" ref-type="bibr">4</xref>,<xref rid="B5-cancers-17-02608" ref-type="bibr">5</xref>,<xref rid="B6-cancers-17-02608" ref-type="bibr">6</xref>]. <xref rid="cancers-17-02608-f001" ref-type="fig">Figure 1</xref> represents an adaptation of the molecular classification of EC.</p><p>The loss of expression of DNA repair proteins (MLH1, PMS2, MSH2, MSH6) reflects a high probability that the tumor presents high microsatellite instability, which leads to an intermediate prognosis. Similarly, an abnormal pattern of p53 staining is associated with alterations (mutations) in the <italic toggle="yes">TP53</italic> gene, which confers a worse prognosis, while the detection of mutations in the <italic toggle="yes">POLE</italic> gene is associated with tumors with a good prognosis with a lower risk of recurrence. Adaptation from SEGO (Spanish Society of Ginecological Oncology) Oncoguide: Endometrial cancer 2023. ISBN: 978-84-09-40278-6.</p><p>The molecular characterization of EC increases the accuracy of the risk classification solely based on histological subtype, grade, and MI [<xref rid="B5-cancers-17-02608" ref-type="bibr">5</xref>]. Thus, when molecular classification reveals an aberrant p53 or <italic toggle="yes">POLE</italic> mutation in stages I and II, this results in overstaging or downstaging of the disease, respectively [<xref rid="B3-cancers-17-02608" ref-type="bibr">3</xref>]. Molecular subtypes independently predict clinical outcomes, helping inform risk stratification, particularly when considering whether to utilize adjuvant chemoradiotherapy (CRT) [<xref rid="B6-cancers-17-02608" ref-type="bibr">6</xref>].</p><p>Most patients with EC are confined to the uterine corpus at the time of diagnosis, with early stage and good prognosis. However, approximately 10&#x02013;15% of patients with EC present with advanced-stage and harbor disease beyond the uterus and abdominopelvic lymph nodes [<xref rid="B7-cancers-17-02608" ref-type="bibr">7</xref>]. Although the International Federation of Gynecology and Obstetrics (FIGO) staging system is primarily surgical, complementary presurgical imaging adds a layer of precision to evaluate tumor size, myometrial and cervical involvement, adnexal status, and lymph node involvement [<xref rid="B8-cancers-17-02608" ref-type="bibr">8</xref>]. Therefore, lymphadenectomy, for staging purposes, is usually reserved for patients with high-risk disease because of its associated perioperative complications and long-term morbidity. <xref rid="cancers-17-02608-t001" ref-type="table">Table 1</xref> summarizes FIGO stage current classification.</p><p>Positron emission tomography/computed tomography (PET/CT) and positron emission tomography/magnetic resonance imaging (PET/MRI), with fluorine-18-2-fluoro-2-deoxy-D-glucose ([<sup>18</sup>F]FDG), are diagnostic techniques with high specificity and positive predictive value (PPV) in gynecological tumor staging, treatment response, recurrence detection, and prognosis prediction.</p><p>The following sections present a review of the current state of PET/CT and PET/MRI using [<sup>18</sup>F]FDG and others radiotracers in EC.</p></sec><sec id="sec2-cancers-17-02608"><title>2. Initial Staging</title><sec id="sec2dot1-cancers-17-02608"><title>2.1. T Stage</title><p>Accurate assessment of the primary tumor (T) stage, encompassing the depth of MI and potential extension to adjacent structures such as the cervix, is fundamental for therapeutic planning in EC. Scientific evidence indicates that [<sup>18</sup>F]FDG-PET/CT is a technique that can facilitate improved diagnosis and, consequently, treatment of EC. Currently, [<sup>18</sup>F]FDG-PET/CT is used as an adjunct to conventional diagnostic imaging techniques. This is due to its limited spatial resolution, which hinders the precise assessment of small tumors and the exact delineation of local invasion; for this reason, the diagnostic performance of [<sup>18</sup>F]FDG-PET/CT for the primary tumor is inferior to that of MRI. Therefore, [<sup>18</sup>F]FDG-PET/CT is not recommended for screening or early diagnosis of primary lesions [<xref rid="B9-cancers-17-02608" ref-type="bibr">9</xref>]. Thus, for assessing the T stage of EC, MRI and, in certain contexts, transvaginal ultrasound performed by experts are recommended, as these modalities offer superior performance for these purposes [<xref rid="B9-cancers-17-02608" ref-type="bibr">9</xref>,<xref rid="B10-cancers-17-02608" ref-type="bibr">10</xref>].</p><p>Based on current evidence, [<sup>18</sup>F]FDG-PET/CT is not considered the imaging modality of choice for the detailed evaluation of T staging. However, although [<sup>18</sup>F]FDG-PET/CT does not replace MRI for T stage determination, the metabolic information it provides could add additional biological characterization [<xref rid="B11-cancers-17-02608" ref-type="bibr">11</xref>,<xref rid="B12-cancers-17-02608" ref-type="bibr">12</xref>,<xref rid="B13-cancers-17-02608" ref-type="bibr">13</xref>,<xref rid="B14-cancers-17-02608" ref-type="bibr">14</xref>]. This implies providing functional information that could influence the interpretation of preoperative risk and, potentially, clinical decision-making.</p><p>[<sup>18</sup>F]FDG-PET/MRI has demonstrated high accuracy in the preoperative evaluation of EC, particularly in determining deep MI, with values around 80%, outperforming [<sup>18</sup>F]FDG-PET/CT [<xref rid="B15-cancers-17-02608" ref-type="bibr">15</xref>,<xref rid="B16-cancers-17-02608" ref-type="bibr">16</xref>,<xref rid="B17-cancers-17-02608" ref-type="bibr">17</xref>,<xref rid="B18-cancers-17-02608" ref-type="bibr">18</xref>]. Similarly, in a study by Yu et al. [<xref rid="B17-cancers-17-02608" ref-type="bibr">17</xref>], [<sup>18</sup>F]FDG-PET/MRI showed a sensitivity, specificity, and accuracy of 89%, 95%, and 93%, respectively, for detecting MI in a cohort of 57 patients with EC. Other study reported an accurate detection of cervical invasion with a sensitivity, specificity, and accuracy of 81%, 95%, and 91%, respectively. Additionally, quantitative parameters extracted from PET and MRI, as SUVmax/minimum apparent diffusion coefficient (ADCmin) index, showed association with clinicopathological characteristics of aggressiveness [<xref rid="B17-cancers-17-02608" ref-type="bibr">17</xref>,<xref rid="B19-cancers-17-02608" ref-type="bibr">19</xref>].</p></sec><sec id="sec2dot2-cancers-17-02608"><title>2.2. N Stage</title><p>The detection of regional lymph node metastases (N stage) is a prognostic factor of great importance in EC and has direct implications for treatment planning.</p><p>Recent clinical studies support the use of [<sup>18</sup>F]FDG-PET/CT for nodal staging, as it possesses greater reliability in diagnosing pelvic and para-aortic lymph node metastases, compared to conventional imaging modalities such as CT or MRI alone [<xref rid="B9-cancers-17-02608" ref-type="bibr">9</xref>,<xref rid="B20-cancers-17-02608" ref-type="bibr">20</xref>].</p><p>Clinical guidelines such as those from the European Society for Medical Oncology (ESMO) indicate that [<sup>18</sup>F]FDG-PET/CT can be considered as an additional diagnostic test in the high-risk patient group to detect preoperative nodal extension in patients with EC [<xref rid="B10-cancers-17-02608" ref-type="bibr">10</xref>]. Likewise, the clinical guidelines of the National Comprehensive Cancer Network (NCCN) and the Spanish Society of Medical Oncology, in collaboration with the Spanish Group for Ovarian Cancer Research (SEOM-GEICO), recommend that [<sup>18</sup>F]FDG-PET/CT should be considered if metastases are suspected, in selected cases in patients eligible for surgery or locoregional therapy [<xref rid="B21-cancers-17-02608" ref-type="bibr">21</xref>,<xref rid="B22-cancers-17-02608" ref-type="bibr">22</xref>]. The European Association of Nuclear Medicine (EANM) and the Society of Nuclear Medicine and Molecular Imaging (SNMMI) have not specific guidelines dedicated to the evaluation of EC, although for cervical cancer, they highlight that CT and MRI are used for the evaluation of locoregional lymph node involvement. However, [<sup>18</sup>F]FDG-PET/CT exhibits higher sensitivity for the detection of metastases, including para-aortic nodal involvement, compared to MRI limited to the pelvis. Thus, this diagnostic approach could also be considered applicable, in certain clinical contexts, to the management of EC [<xref rid="B23-cancers-17-02608" ref-type="bibr">23</xref>].</p><p>A retrospective study that included patients with clinical stage I based on MRI and [<sup>18</sup>F]FDG-PET/CT detected lymph node metastases at both pelvic and para-aortic levels in high-risk patients, as well as a higher recurrence rate. It is noteworthy that in this study, even patients in the low/intermediate-risk group presented lymph node metastases and nodal recurrence. This dual imaging assessment had a negative predictive value (NPV) of 0.945, although the low prevalence of lymph node involvement (5.5%) could bias the results. Therefore, it would be interesting to conduct prospective studies to confirm these findings, as it could help select a subgroup of low-risk patients in whom omitting complete surgical lymphadenectomy would lead to a significant reduction in the morbidity associated with these procedures, such as lymphedema. However, this approach requires robust validation and careful consideration of the inherent risk of not detecting micrometastases, which currently escapes the resolution of [<sup>18</sup>F]FDG-PET/CT [<xref rid="B24-cancers-17-02608" ref-type="bibr">24</xref>].</p><p>Corroborating the aforementioned information, Fasmer et al. [<xref rid="B14-cancers-17-02608" ref-type="bibr">14</xref>] evaluated a dual imaging approach using MRI in all patients and [<sup>18</sup>F]FDG-PET/CT only in selected cases based on MRI findings, which allowed the identification of preoperative risk groups with significant differences in survival. The approach selected approximately 54% of patients for [<sup>18</sup>F]FDG-PET/CT, demonstrating an improvement in the detection of lymph node metastases compared to MRI alone. Likewise, they demonstrated that imaging using MRI and [<sup>18</sup>F]FDG-PET/CT offers comparable diagnostic performance in low and high histological risk groups for predicting central parameters of the FIGO stage [<xref rid="B25-cancers-17-02608" ref-type="bibr">25</xref>].</p><p>[<sup>18</sup>F]FDG-PET/CT has demonstrated moderate sensitivity and high specificity for the detection of pelvic lymph node metastases. The sentinel lymph node (SLN) mapping technique along with thorough histopathological staging increased the identification of micrometastases in pelvic lymph nodes (incidence from 18.3% to 27.3%), which are not detectable by [<sup>18</sup>F]FDG-PET/CT due to its limited spatial resolution. That is, [<sup>18</sup>F]FDG-PET/CT may not detect micrometastases, which can be identified by thorough histopathological staging applied to surgically obtained sentinel nodes. Therefore, the combination of both modalities is promising for nodal staging purposes [<xref rid="B13-cancers-17-02608" ref-type="bibr">13</xref>,<xref rid="B26-cancers-17-02608" ref-type="bibr">26</xref>].</p><p>Fasmer et al. [<xref rid="B13-cancers-17-02608" ref-type="bibr">13</xref>] demonstrated that, although [<sup>18</sup>F]FDG-PET/CT has limitations in diagnosing micrometastases due to its reduced spatial resolution, an elevated metabolic tumor volume (MTV) could be associated with a higher risk of micrometastases, as it showed high diagnostic performance for predicting lymph node metastases and aggressive disease, representing a promising complement to conventional [<sup>18</sup>F]FDG-PET/CT interpretation.</p><p>Previous studies comparing [<sup>18</sup>F]FDG-PET/MRI and [<sup>18</sup>F]FDG-PET/CT for N staging have reported contradictory results with comparable performance for both [<xref rid="B18-cancers-17-02608" ref-type="bibr">18</xref>] vs. higher accuracies for [<sup>18</sup>F]FDG-PET/MRI [<xref rid="B15-cancers-17-02608" ref-type="bibr">15</xref>,<xref rid="B16-cancers-17-02608" ref-type="bibr">16</xref>].</p><p>As disease extension is often unclear before surgery, Weissinger et al. [<xref rid="B27-cancers-17-02608" ref-type="bibr">27</xref>] published a prospective study to evaluate [<sup>18</sup>F]FDG-PET/MRI as a minimal invasive technique to assess N staging. [<sup>18</sup>F]FDG-PET/MRI demonstrated high specificity in detecting para-aortic lymph nodes (99%), but moderate sensitivity (67%). The results were comparable in terms of pelvic lymph nodes, with a specificity of 98% and a sensitivity of 73%. Other authors support the excellent results of [<sup>18</sup>F]FDG-PET/MRI for N staging, showing high accuracy in detecting lymph node involvement (sensitivity: 86%, specificity: 93%, accuracy: 91%), making it especially effective for nodal staging [<xref rid="B16-cancers-17-02608" ref-type="bibr">16</xref>]. <xref rid="cancers-17-02608-f002" ref-type="fig">Figure 2</xref>.</p></sec><sec id="sec2dot3-cancers-17-02608"><title>2.3. M Stage</title><p>The identification of distant metastases (M stage) at the time of initial diagnosis is a crucial prognostic factor that significantly alters the therapeutic approach, generally orienting it towards systemic treatments.</p><p>[<sup>18</sup>F]FDG-PET/CT is considered the most sensitive and useful non-invasive imaging modality for the detection of distant metastases in patients with EC, especially in high-risk cases or those with aggressive histological subtypes (clear cell/serous/dedifferentiated carcinomas and carcinosarcoma), surpassing CT and MRI in the detection of extraregional metastatic disease. Its early use in the diagnosis of high-risk patients could optimize the selection of candidates for cytoreductive surgery versus primary systemic therapy, avoiding unnecessary surgeries in patients with disseminated disease [<xref rid="B28-cancers-17-02608" ref-type="bibr">28</xref>].</p><p>The ESMO clinical guideline suggests considering [<sup>18</sup>F]FDG-PET/CT as an additional diagnostic test in high-risk patients to detect preoperative extrapelvic extension and postoperative recurrence. In addition, a chest CT is recommended as part of the initial evaluation to rule out pulmonary metastases in patients with high-risk EC [<xref rid="B10-cancers-17-02608" ref-type="bibr">10</xref>]. The NCCN clinical guideline recommends considering whole-body CT to assess the presence of metastatic disease in patients with high-grade carcinomas, in those with an incidental finding of cancer or incomplete staging who present significant risk factors, or if there is a well-founded clinical suspicion of metastases or in the context of suspected recurrence or subsequently developed metastatic disease. In addition, this guideline states that [<sup>18</sup>F]FDG-PET/CT can be considered in selected patients with suspected metastases [<xref rid="B21-cancers-17-02608" ref-type="bibr">21</xref>,<xref rid="B29-cancers-17-02608" ref-type="bibr">29</xref>]. The SEOM-GEICO clinical guideline indicates that a whole-body CT should be performed to rule out distant metastases, and [<sup>18</sup>F]FDG-PET/CT could also be used for this purpose in selected patients eligible for surgery or locoregional therapy [<xref rid="B22-cancers-17-02608" ref-type="bibr">22</xref>].</p><p>As previously mentioned, although there is no specific SNMMI or EANM guideline for EC, the joint EANM/SNMMI guideline for cervical cancer mentions a higher sensitivity of [<sup>18</sup>F]FDG-PET/CT for the detection of metastases, an approach that could also be considered applicable in certain clinical contexts of EC [<xref rid="B23-cancers-17-02608" ref-type="bibr">23</xref>]. For example, peritoneal dissemination has been observed in 10&#x02013;20% of patients with high histological risk [<xref rid="B30-cancers-17-02608" ref-type="bibr">30</xref>]. Likewise, Hong et al. [<xref rid="B31-cancers-17-02608" ref-type="bibr">31</xref>] demonstrated that [<sup>18</sup>F]FDG-PET/CT significantly identified bone metastases in patients with type II endometrial carcinoma, especially with serous histology, which is associated with aggressive biology and poorer prognosis. Furthermore, they noted that [<sup>18</sup>F]FDG-PET/CT is superior to CT for detecting bone metastases and other non-visible distant metastases. Therefore, in these high-risk patients, [<sup>18</sup>F]FDG-PET/CT seems to be justified. <xref rid="cancers-17-02608-f003" ref-type="fig">Figure 3</xref>.</p><p>Data published in the literature define that [<sup>18</sup>F]FDG-PET/MRI has a high specificity and accuracy in assessing metastatic disease [<xref rid="B19-cancers-17-02608" ref-type="bibr">19</xref>]. A retrospective study reported a sensitivity, specificity, and accuracy of M staging of 33%, 100%, and 82%, respectively, for [<sup>18</sup>F]FDG-PET/MRI, despite that in this study, [<sup>18</sup>F]FDG-PET/MRI was realized without gadolinium-based contrast [<xref rid="B32-cancers-17-02608" ref-type="bibr">32</xref>]. In a prospective study including 35 patients with pathologically proven EC, [<sup>18</sup>F]FDG-PET/MRI revealed hepatic metastasis in one patient, which was histologically confirmed by biopsy [<xref rid="B27-cancers-17-02608" ref-type="bibr">27</xref>]. Beyond its diagnostic performance, [<sup>18</sup>F]FDG-PET/MRI presents several additional advantages that enhance its clinical value. The combination of PET and MRI adds unique benefits when analyzing endometrial and menstrual changes, particularly in reproductive-age women and complex staging cases. Moreover, [<sup>18</sup>F]FDG-PET/MRI represents a viable alternative to conventional imaging methods, especially for patients who are unable to receive iodinated or gadolinium-based contrast agents. Another benefit is the lower radiation exposure associated with [<sup>18</sup>F]FDG-PET/MRI compared to [<sup>18</sup>F]FDG-PET/CT or CT imaging [<xref rid="B19-cancers-17-02608" ref-type="bibr">19</xref>]. However, PET/MRI is a less available and more expensive technique. <xref rid="cancers-17-02608-t002" ref-type="table">Table 2</xref> summarizes the advantages and disadvantages, for diagnosis and staging, of both hybrid diagnostic techniques.</p></sec></sec><sec id="sec3-cancers-17-02608"><title>3. Image-Guided Surgery and Radiotherapy</title><p>Gynecological cancers have particularly benefitted from the increasing use of imaging to guide both surgery and radiation treatment planning [<xref rid="B25-cancers-17-02608" ref-type="bibr">25</xref>,<xref rid="B33-cancers-17-02608" ref-type="bibr">33</xref>,<xref rid="B34-cancers-17-02608" ref-type="bibr">34</xref>]. In locally advanced EC, CRT is routinely administered as definitive therapy and can be used alone or in combination with surgery in the remaining stages [<xref rid="B35-cancers-17-02608" ref-type="bibr">35</xref>]. The recent identification of molecular EC subtypes has led to the development of targeted therapies, particularly for early recurrent EC subtypes [<xref rid="B36-cancers-17-02608" ref-type="bibr">36</xref>].</p><p>Although imaging is not a part of the staging system for EC, it does influence treatment selection [<xref rid="B37-cancers-17-02608" ref-type="bibr">37</xref>,<xref rid="B38-cancers-17-02608" ref-type="bibr">38</xref>]. MRI is the preferred imaging modality for preoperative assessment of depth of MI, cervical stromal involvement, extrauterine disease, and nodal involvement. In cases of local recurrence with invasion of adjacent organs or the pelvic sidewall, MRI should be used to assess the likelihood of surgical resectability and to plan salvage therapy. Moreover, [<sup>18</sup>F]FDG-PET/CT is helpful to exclude nodal and distant metastases, offering a greater accuracy than CT or MRI alone, especially for the evaluation of para-aortic lymph nodes [<xref rid="B12-cancers-17-02608" ref-type="bibr">12</xref>]. In addition, the high positive predictive value (PPV) of [<sup>18</sup>F]FDG-PET/CT is useful for referring patients to appropriate cytoreductive surgery [<xref rid="B12-cancers-17-02608" ref-type="bibr">12</xref>]. However, its main limitation lies in the detection of micrometastases or involvement in normal-sized lymph nodes, situations in which SLN mapping followed by exhaustive histopathological analysis may offer superior performance. Furthermore, [<sup>18</sup>F]FDG-PET/CT can be particularly useful in patients classified as high-risk to identify nodal disease not suspected by other techniques, which may influence the extent of lymphadenectomy to be performed or the planning of adjuvant radiotherapy. Therefore, the optimization of N staging likely resides in the combination of metabolic-anatomical information from [<sup>18</sup>F]FDG-PET/CT with the biological profile of the tumor. The issue of whether [<sup>18</sup>F]FDG-PET/CT or PET/MRI may reduce the need for systematic lymphadenectomy in low-risk patients by improving nodal assessment needs to be demonstrated in prospective studies.</p></sec><sec id="sec4-cancers-17-02608"><title>4. Response to Treatment</title><sec id="sec4dot1-cancers-17-02608"><title>4.1. Locoregional Disease</title><p>Following the initiation of therapy, monitoring tumor response is critical for guiding further clinical management. Unlike anatomical imaging, [<sup>18</sup>F]FDG-PET/CT enables functional assessment in EC by detecting early changes in glucose metabolism that typically precede morphological alterations. These metabolic changes may serve as early indicators of therapeutic efficacy, providing valuable information on tumor biology before the structural response becomes evident [<xref rid="B39-cancers-17-02608" ref-type="bibr">39</xref>]. However, the clinical use of [<sup>18</sup>F]FDG-PET/CT in the evaluation of locoregional response to treatment in EC remains a developing field.</p><p>Viable tumor is more likely to show hypermetabolism and can therefore be differentiated from post-therapeutic changes on [<sup>18</sup>F]FDG-PET/CT. A key challenge lies in determining the optimal timing of post-therapy imaging, as metabolic changes caused by chemotherapy or radiotherapy&#x02014;particularly inflammation&#x02014;can result in false positive findings. Current evidence suggests that [<sup>18</sup>F]FDG-PET/CT should generally be delayed for 8&#x02013;12 weeks after radiotherapy and at least 6 weeks after surgery to minimize interpretation errors. However, inflammatory changes may persist and interfere with interpretation even up to 6 months post-treatment in some cases. Despite these limitations, post-radiation changes seem to play a minimal impact of on [<sup>18</sup>F]FDG-PET&#x02019;s diagnostic accuracy [<xref rid="B40-cancers-17-02608" ref-type="bibr">40</xref>,<xref rid="B41-cancers-17-02608" ref-type="bibr">41</xref>].</p><p>Few studies have investigated the utility of [<sup>18</sup>F]FDG-PET/CT in the assessment of EC response [<xref rid="B42-cancers-17-02608" ref-type="bibr">42</xref>,<xref rid="B43-cancers-17-02608" ref-type="bibr">43</xref>]. In one cohort of 21 patients undergoing [<sup>18</sup>F]FDG-PET/CT before and after chemotherapy, significant changes in [<sup>18</sup>F]FDG uptake were strongly correlated with treatment response, achieving a sensitivity of 90% and a specificity of 80% in distinguishing responders from non-responders. However, the relatively small cohort size and the moderate rate of false positives highlight the need for further validation in larger prospective studies [<xref rid="B42-cancers-17-02608" ref-type="bibr">42</xref>]. Moreover, the degree of metabolic response demonstrated on [<sup>18</sup>F]FDG-PET/CT may carry prognostic value [<xref rid="B43-cancers-17-02608" ref-type="bibr">43</xref>].</p><p>On the other hand, although [<sup>18</sup>F]FDG-PET/MRI is a promising imaging tool for monitoring treatment response in EC, especially in primary tumor, it has to be validated in order for international societies to reach consensus among the use of hybrid diagnostic techniques in this setting [<xref rid="B3-cancers-17-02608" ref-type="bibr">3</xref>,<xref rid="B4-cancers-17-02608" ref-type="bibr">4</xref>,<xref rid="B5-cancers-17-02608" ref-type="bibr">5</xref>].</p></sec><sec id="sec4dot2-cancers-17-02608"><title>4.2. Distant Metastatic Disease</title><p>[<sup>18</sup>F]FDG-PET/CT plays a critical role in assessing response to systemic therapy in patients with unresectable or metastatic EC [<xref rid="B44-cancers-17-02608" ref-type="bibr">44</xref>]. Its incorporation into post-treatment surveillance protocols has demonstrated utility for early identification of disease progression or treatment response when anatomical imaging is limited by post-therapeutic changes or low sensitivity [<xref rid="B45-cancers-17-02608" ref-type="bibr">45</xref>]. <xref rid="cancers-17-02608-f004" ref-type="fig">Figure 4</xref>.</p><p>Thus, in selected advanced or high-risk cases, [<sup>18</sup>F]FDG-PET/CT provides a robust tool for evaluating systemic therapy response and informing management, especially in oligometastatic settings or when conventional imaging is inconclusive. In addition, early and significant metabolic response to therapy, as measured by [<sup>18</sup>F]FDG-PET/CT, has been associated with improved overall survival (OS) in patients with metastatic gynecological malignancies, including EC [<xref rid="B40-cancers-17-02608" ref-type="bibr">40</xref>,<xref rid="B46-cancers-17-02608" ref-type="bibr">46</xref>].</p></sec></sec><sec id="sec5-cancers-17-02608"><title>5. Recurrence Detection</title><p>Although the overall treatment effect of EC is good, up to 15&#x02013;20% of patients recur within the first 2 years after treatment. This percentage may be even higher in patients with aggressive histologic subtypes (e.g., serous or clear cell carcinoma) [<xref rid="B40-cancers-17-02608" ref-type="bibr">40</xref>,<xref rid="B47-cancers-17-02608" ref-type="bibr">47</xref>]. EC tends to recur in the pelvis, especially in the vaginal vault (rate of 42%) and pelvic lymph nodes, followed by para-aortic lymph nodes [<xref rid="B48-cancers-17-02608" ref-type="bibr">48</xref>]. Reported 5-year cure rates in patients with isolated vaginal apex recurrence range from 40% to 60%, underscoring the importance of early detection through functional imaging modalities such as [<sup>18</sup>F]FDG-PET/CT for guiding rescue therapies [<xref rid="B44-cancers-17-02608" ref-type="bibr">44</xref>]. <xref rid="cancers-17-02608-f005" ref-type="fig">Figure 5</xref>.</p><p>Extrapelvic recurrence commonly involves the peritoneum and lungs, followed by extra-abdominal lymph nodes, liver, adrenals, brain, bones, and soft tissue [<xref rid="B49-cancers-17-02608" ref-type="bibr">49</xref>]. <xref rid="cancers-17-02608-f006" ref-type="fig">Figure 6</xref>.</p><p>A meta-analysis of 11 studies, including 541 patients, confirmed the high diagnostic accuracy of [<sup>18</sup>F]FDG-PET/CT for detecting EC recurrence, with pooled sensitivity and specificity of 95.8% and 92.5%, respectively. Notably, [<sup>18</sup>F]FDG-PET/CT findings altered clinical management in 22&#x02013;35% of cases [<xref rid="B50-cancers-17-02608" ref-type="bibr">50</xref>].</p><p>MRI provides superior soft tissue contrast, which is particularly useful for assessing local recurrences in the pelvis, lymph nodes, and peritoneum appearing as an intermediate or heterogeneous T2 signal intensity mass, with associated restricted diffusion and enhancement [<xref rid="B37-cancers-17-02608" ref-type="bibr">37</xref>]. The evidence supports that [<sup>18</sup>F]FDG-PET/MRI is equivalent or outperforms [<sup>18</sup>F]FDG-PET/CT in recurrence detection [<xref rid="B51-cancers-17-02608" ref-type="bibr">51</xref>,<xref rid="B52-cancers-17-02608" ref-type="bibr">52</xref>,<xref rid="B53-cancers-17-02608" ref-type="bibr">53</xref>]. Chao et al. [<xref rid="B54-cancers-17-02608" ref-type="bibr">54</xref>] reported that the combination [<sup>18</sup>F]FDG-PET with MRI/CT significantly outperformed MRI/CT alone for overall lesion detection (AUC 0.949 vs. 0.872, respectively; <italic toggle="yes">p</italic> = 0.004), including both pelvic and extrapelvic metastases. Using [<sup>18</sup>F]FDG-PET/MRI, Sawicki et al. [<xref rid="B55-cancers-17-02608" ref-type="bibr">55</xref>] identified a higher number of cancer recurrences compared to MRI alone (100% vs. 83.6%, respectively; <italic toggle="yes">p</italic> &#x0003c; 0.01). [<sup>18</sup>F]FDG-PET/MRI also offers the advantage of distinguishing post-therapeutic tissue changes from true local relapse and detecting small lymph node metastases that may appear morphologically benign on conventional imaging. <xref rid="cancers-17-02608-f007" ref-type="fig">Figure 7</xref>. Moreover, [<sup>18</sup>F]FDG-PET/MRI has demonstrated superior performance in restaging non-osteoblastic bone lesions and peritoneal and liver metastases compared to PET/CT [<xref rid="B19-cancers-17-02608" ref-type="bibr">19</xref>].</p><p>Current guidelines recommend [<sup>18</sup>F]FDG-PET/CT when recurrence is suspected [<xref rid="B3-cancers-17-02608" ref-type="bibr">3</xref>,<xref rid="B21-cancers-17-02608" ref-type="bibr">21</xref>,<xref rid="B22-cancers-17-02608" ref-type="bibr">22</xref>]. In follow-up, although intensive surveillance is not generally recommended, an individualized scheme based on symptomatology and clinical aspects is proposed, with periodic physical examinations and transvaginal ultrasounds. Additional imaging (whole-body CT, PET/CT, or MRI) is considered useful in the presence of suspicious findings of recurrence or in patients with stage III&#x02013;IV disease, suggesting in the latter scenario a whole-body CT every 6 months for the first 3 years, and then every 6&#x02013;12 months for an additional 2 years to detect asymptomatic recurrences [<xref rid="B29-cancers-17-02608" ref-type="bibr">29</xref>,<xref rid="B56-cancers-17-02608" ref-type="bibr">56</xref>].</p><p>[<sup>18</sup>F]FDG-PET/CT should not be used for standard surveillance after treatment. However, some authors reported that this technique was able to detect recurrence in up to 12% of asymptomatic patients, influencing treatment decisions in 21.9% of cases [<xref rid="B57-cancers-17-02608" ref-type="bibr">57</xref>,<xref rid="B58-cancers-17-02608" ref-type="bibr">58</xref>]. Thus, although routine use of [<sup>18</sup>F]FDG-PET/CT in unselected EC populations is unlikely to be cost-effective, prospective studies focusing on well-defined high-risk groups are warranted to better define its potential role in personalized post-treatment surveillance strategies. <xref rid="cancers-17-02608-f008" ref-type="fig">Figure 8</xref>.</p></sec><sec id="sec6-cancers-17-02608"><title>6. Radiomics: Molecular Imaging Biomarkers in Clinicopathologic and Prognosis Prediction</title><p>Radiomics is an evolving field that enables high-throughput extraction of quantitative features from medical images, such as [<sup>18</sup>F]FDG-PET/CT, transforming them into structured, analyzable data for predictive modelling and clinical decision support. In EC, radiomics offers a non-invasive approach to characterize tumor biology, and when integrated with clinicopathologic data and multi-omics frameworks, radiomic analysis may enhance risk stratification, treatment response prediction, and personalized prognosis [<xref rid="B59-cancers-17-02608" ref-type="bibr">59</xref>].</p><sec id="sec6dot1-cancers-17-02608"><title>6.1. Clinicopathological Association of <sup>18</sup>F-FDG PET/CT-Derived Parameters</title><p>Several studies have demonstrated that maximum standardized uptake value (SUVmax) and the MTV of the primary tumor, using [<sup>18</sup>F]FDG-PET/CT, can provide indirect prognostic information, reflecting the biological aggressiveness of the tumor. SUVmax, SUVmean, MTV, and TLG have been linked with adverse features including depth of MI, lymphovascular invasion (LVI), larger tumor diameter, cervical stromal involvement, and lymph node metastases [<xref rid="B12-cancers-17-02608" ref-type="bibr">12</xref>,<xref rid="B60-cancers-17-02608" ref-type="bibr">60</xref>,<xref rid="B61-cancers-17-02608" ref-type="bibr">61</xref>]. For example, Sudo et al. [<xref rid="B62-cancers-17-02608" ref-type="bibr">62</xref>] reported an SUVmax threshold of 16 to predict LVI in patients with MI, with an accuracy of 88.2%. Thus, these parameters offer insights into tumor aggressiveness and metabolic burden. An overview of the principal quantitative parameters derived from [<sup>18</sup>F]FDG-PET/CT, used as imaging biomarkers, is summarized in <xref rid="cancers-17-02608-t003" ref-type="table">Table 3</xref>.</p><p>According to parameters indicative of metabolic tumor burden, some groups suggested that MTV and TLG might be promising markers for LN involvement [<xref rid="B63-cancers-17-02608" ref-type="bibr">63</xref>]. Erdogan et al. [<xref rid="B64-cancers-17-02608" ref-type="bibr">64</xref>] proposed MTV cut-offs of 19.6, 14.3, and 29.7 mL for early FIGO, MI, and lymph node metastasis, respectively. Mapelli et al. [<xref rid="B65-cancers-17-02608" ref-type="bibr">65</xref>] found TLG values at 40&#x02013;60% thresholds to correlate with both FIGO and pathological tumor stage, and MTV60 &#x02265; 7.8 mL and TLG40 &#x02265; 77.6 showed high specificity for advanced disease.</p><p>Regarding risk stratification, [<sup>18</sup>F]FDG-PET/CT might serve as a predictive tool for p53 overexpression [<xref rid="B66-cancers-17-02608" ref-type="bibr">66</xref>]. Several studies have defined SUVmax cut-offs for this purpose, and found higher values in high-risk patients compared to low-risk ones, with sensitivities and specificities moderate to high [<xref rid="B12-cancers-17-02608" ref-type="bibr">12</xref>]. Lee et al. [<xref rid="B67-cancers-17-02608" ref-type="bibr">67</xref>] reported a cut-off of 8.7, achieving 75.6% sensitivity, 89.5% specificity, and 81.7% accuracy. &#x000d6;zg&#x000fc; et al. [<xref rid="B68-cancers-17-02608" ref-type="bibr">68</xref>] proposed a threshold of 6.7, with sensitivity as high as 92.9% for identifying low-risk patients. However, overlapping values between high- and low-risk groups limit the reliability of SUVmax alone. Volumetric PET parameters, such as MTV and TLG, have demonstrated greater potential for preoperative risk stratification, although TLG seems to be the most robust outcome predictor [<xref rid="B62-cancers-17-02608" ref-type="bibr">62</xref>,<xref rid="B65-cancers-17-02608" ref-type="bibr">65</xref>,<xref rid="B69-cancers-17-02608" ref-type="bibr">69</xref>].</p><p>For [<sup>18</sup>F]FDG-PET/MRI, Shih et al. [<xref rid="B70-cancers-17-02608" ref-type="bibr">70</xref>] reported an association of ADCmin and SUVmax with tumor grade, stage, deep MI, cervical invasion, lymphovascular space involvement, and lymph node metastasis in 69 patients with newly diagnosed EC.</p></sec><sec id="sec6dot2-cancers-17-02608"><title>6.2. Prognostic Value of <sup>18</sup>F-FDG PET/CT-Derived Parameters</title><p>SUVmax of the primary tumor has been associated with OS, disease-free survival (DFS), and progression-free survival (PFS). Previous authors have suggested that preoperative SUVmax could act as an independent prognostic marker for recurrence and mortality in EC [<xref rid="B13-cancers-17-02608" ref-type="bibr">13</xref>,<xref rid="B71-cancers-17-02608" ref-type="bibr">71</xref>]. Fasmer et al. demonstrated that a high MTV can predict aggressive disease in EC [<xref rid="B13-cancers-17-02608" ref-type="bibr">13</xref>]. Nakamura et al. [<xref rid="B71-cancers-17-02608" ref-type="bibr">71</xref>] reported that high SUVmax independently predicted poorer DFS and OS in a cohort of 131 patients. However, other studies reported weak associations or no significant relationship with prognosis [<xref rid="B72-cancers-17-02608" ref-type="bibr">72</xref>,<xref rid="B73-cancers-17-02608" ref-type="bibr">73</xref>,<xref rid="B74-cancers-17-02608" ref-type="bibr">74</xref>].</p><p>Volumetric parameters such as MTV and TLG are emerging as stronger prognostic indicators. Shim et al. [<xref rid="B75-cancers-17-02608" ref-type="bibr">75</xref>] reported that lower MTV (HR = 1.010; 95% CI: 1.002&#x02013;1.018; <italic toggle="yes">p</italic> = 0.010) and lower TLG (HR = 1.001; 95% CI: 1.000&#x02013;1.002; <italic toggle="yes">p</italic> = 0.024) were significantly associated with prolonged DFS. Liu et al. [<xref rid="B72-cancers-17-02608" ref-type="bibr">72</xref>] demonstrated that MTV &#x0003e; 450 mL and TLG &#x0003e; 2700 were associated with adverse outcomes in FIGO stage IV EC.</p><p>Using [<sup>18</sup>F]FDG-PET/MRI, Shih et al. [<xref rid="B70-cancers-17-02608" ref-type="bibr">70</xref>] showed that derived biomarkers, particularly MTV and TLG, were associated with PFS and OS in patients with endometrial cancer, and MTV was an independent predictor of PFS.</p><p>Metabolic activity in lymph nodes, particularly nodal SUV (SUVN), has also demonstrated prognostic relevance. Kim et al. [<xref rid="B76-cancers-17-02608" ref-type="bibr">76</xref>] reported that both tumor SUV (SUVT) and SUVN predicted OS, with higher SUVN linked to poorer outcomes. In line with these findings, Chung et al. [<xref rid="B77-cancers-17-02608" ref-type="bibr">77</xref>] proposed the SUVN/SUVT ratio as a novel marker, identifying a cut-off that predicted recurrence with a moderate sensitivity and specificity.</p><p>A recent systematic review by Noriega-Alvarez et al. [<xref rid="B78-cancers-17-02608" ref-type="bibr">78</xref>], analyzing 26 studies involving 1918 patients, supported the utility of preoperative SUVmax as a non-invasive prognostic marker of recurrence and survival in EC. Both MTV and TLG also showed potential as independent predictors of outcome, appearing more accurate than SUVmax alone for risk stratification. However, the variability in cut-off values likely reflects methodological differences between studies, including variations in PET thresholding techniques, FIGO stage distributions, and inconsistent definitions of high- and low-risk categories. Thus, further validation through large, multicenter prospective studies with sufficient follow-up is essential to validate their clinical utility.</p><p>In addition, some limitations regarding technical issues may interfere with accurate quantification of metabolic parameters, such as partial volume effects in small or necrotic lesions or physiologic [<sup>18</sup>F]FDG activity in the bladder and ureters. Advanced radiomic approaches, including voxel-by-voxel tumor analysis, may improve reproducibility and capture intratumoral heterogeneity more effectively. However, despite these limitations, the consistent association of MTV and TLG with prognosis across studies supports their potential as robust imaging biomarkers.</p><p>In summary, preoperative [<sup>18</sup>F]FDG-PET/CT FDG-PET/CT, particularly the SUVmax of the primary tumor, may provide valuable clinical and prognostic information in EC, including associations with MI histological grade, lymph node metastasis, and overall risk classification. SUVmax has been proposed as a feasible non-invasive biomarker for risk assessment and treatment planning, with potential utility as an independent prognostic indicator for recurrence and mortality. Moreover, preoperative MTV and TLG have shown promise as independent prognostic factors for predicting recurrence in EC. These volumetric parameters are believed to better reflect the overall hypermetabolic tumor burden compared to SUVmax, supporting their potential role in risk stratification.</p></sec></sec><sec id="sec7-cancers-17-02608"><title>7. Future Directions</title><sec id="sec7dot1-cancers-17-02608"><title>7.1. Non-FDG Radiotracers</title><p>The compound 16a-18F-fluoro17b-estradiol ([<sup>18</sup>F]-FES) binds to estrogen receptor alpha (ERa), enabling a noninvasive assessment of in vivo ERa status across the whole tumor [<xref rid="B79-cancers-17-02608" ref-type="bibr">79</xref>,<xref rid="B80-cancers-17-02608" ref-type="bibr">80</xref>,<xref rid="B81-cancers-17-02608" ref-type="bibr">81</xref>]. Some studies have reported the prognostic value of ERa expression in EC, with a higher level of ERa being identified as a predictive factor for favorable survival [<xref rid="B82-cancers-17-02608" ref-type="bibr">82</xref>,<xref rid="B83-cancers-17-02608" ref-type="bibr">83</xref>,<xref rid="B84-cancers-17-02608" ref-type="bibr">84</xref>]. These data suggest that [<sup>18</sup>F]-FES PET/CT might be a prognostic biomarker [<xref rid="B85-cancers-17-02608" ref-type="bibr">85</xref>].</p><p>In addition, a combined use of [<sup>18</sup>F]FDG-PET/CT and [<sup>18</sup>F]-FES PET/CT seems to discriminate between low- and high-grade EC, the latter showing significantly greater [<sup>18</sup>F]-FDG/[<sup>18</sup>F]-FES ratios than low-risk carcinomas or hyperplasia. Thus, this index may serve as a promising PET biomarker for distinguishing histological subtypes and prognosis [<xref rid="B86-cancers-17-02608" ref-type="bibr">86</xref>,<xref rid="B87-cancers-17-02608" ref-type="bibr">87</xref>]. Previous authors described that [<sup>18</sup>F]-FDG/[<sup>18</sup>F]-FES tumor uptake ratio also correlated well with PFS and OS in more aggressive EC, such as uterine sarcomas [<xref rid="B88-cancers-17-02608" ref-type="bibr">88</xref>,<xref rid="B89-cancers-17-02608" ref-type="bibr">89</xref>]. On the other hand, [<sup>18</sup>F]-FES PET/CT shows slow blood clearance and rapid metabolization that increases nonspecific signals, reducing tumor detectability [<xref rid="B90-cancers-17-02608" ref-type="bibr">90</xref>,<xref rid="B91-cancers-17-02608" ref-type="bibr">91</xref>]. As an alternative, 4-fluoro-11b-methoxy-16a-18 F-fluoroestradiol ([<sup>18</sup>F]-4FMFES) has been developed, showing a resistance to hepatic metabolism in humans [<xref rid="B92-cancers-17-02608" ref-type="bibr">92</xref>,<xref rid="B93-cancers-17-02608" ref-type="bibr">93</xref>]. Preliminary reports indicate that the tumor-to-background ratio is significantly higher for [<sup>18</sup>F]-4FMFES than for [<sup>18</sup>F]FDG-PET/CT in EC [<xref rid="B94-cancers-17-02608" ref-type="bibr">94</xref>].</p><p>The [68Ga]-labeled fibroblast activation protein inhibitors ([68Ga]-FAPI) are novel PET radiopharmaceuticals that target FAPs. Cancer-associated fibroblasts demonstrate FAP expression, unlike the normal fibroblasts from which they differentiate [<xref rid="B95-cancers-17-02608" ref-type="bibr">95</xref>]. FAP expression has been reported in various types of cancers, including gynecologic malignancies [<xref rid="B96-cancers-17-02608" ref-type="bibr">96</xref>,<xref rid="B97-cancers-17-02608" ref-type="bibr">97</xref>].</p><p>The utility of [68Ga]-FAPI PET/CT in EC is limited by physiological uptake in normal uterine tissue [<xref rid="B98-cancers-17-02608" ref-type="bibr">98</xref>]. However, in special subtypes, such as clear cell EC, [68Ga]-FAPI-04 PET/CT outperforms [<sup>18</sup>F]FDG because of its poor uptake [<xref rid="B99-cancers-17-02608" ref-type="bibr">99</xref>,<xref rid="B100-cancers-17-02608" ref-type="bibr">100</xref>].</p><p>The compound 3 0-Deoxy-3&#x02032;-[<sup>18</sup>F]fluorothymidine PET has been reported as a valuable diagnostic tool for differentiating uterine leiomyosarcoma from leiomyoma, although the experience is limited [<xref rid="B101-cancers-17-02608" ref-type="bibr">101</xref>].</p></sec><sec id="sec7dot2-cancers-17-02608"><title>7.2. Machine Learning</title><p>The use of machine learning (ML) and deep learning (DL) models in preoperatively predicting several features of EC aggressiveness is a developing issue.</p><p>Regarding DL, convolutional neural networks for extracting histologic features can support pathologists in classifying the pathologic grades of gynecologic tumors [<xref rid="B102-cancers-17-02608" ref-type="bibr">102</xref>]. However, the combination of data extracted for multiple modalities seem the most robust option [<xref rid="B103-cancers-17-02608" ref-type="bibr">103</xref>]. In a retrospective study, 123 EC patients who underwent [<sup>18</sup>F]FDG-PET/CT for preoperative staging were included. Several PET variables (SUVmax, SUVmean, MTV, and TLG) and histological characteristics (histotype, MI, risk group, lymph-nodal involvement, and p53 expression) were computed on the primary tumor. ML-based classification using conventional [<sup>18</sup>F]FDG-PET/CT parameters and clinical data demonstrated the ability to characterize the investigated features of EC aggressiveness, providing a non-invasive way to support preoperative stratification of EC patients [<xref rid="B104-cancers-17-02608" ref-type="bibr">104</xref>].</p><p>Summarizing, based on the limited standardization and interpretation of the great amount of managed data, the information derived from a single modality might not be consistent and sufficient to capture the heterogeneity of oncological processes. Thus, to advance toward a precision oncology, the use of multimodal data models seems the future direction.</p></sec></sec><sec id="sec8-cancers-17-02608"><title>8. Conclusions</title><p>The reduced spatial resolution limits the diagnostic performance of [<sup>18</sup>F]FDG-PET/CT in the primary tumor assessment, especially in early-stage disease. However, [<sup>18</sup>F]FDG-PET/CT exhibits greater reliability than conventional imaging modalities in the diagnosis of lymph node metastases and distant metastases.</p><p>The functional imaging capability of [<sup>18</sup>F]FDG-PET/CT provides important prognostic information and may guide clinical decisions regarding the continuation, modification, or escalation of therapy. In addition, although the utility of [<sup>18</sup>F]FDG-PET/CT in monitoring response is not yet standardized in clinical guidelines, emerging evidence suggests that it can offer valuable insights into post-therapy metabolic response.</p><p>The compound [<sup>18</sup>F]-FDG PET/MRI enhances the accuracy of TNM staging in EC, offering superior preoperative evaluation of tumor invasion, lymph node involvement, and distant spread, with respect to the rest of imaging techniques, which supports better risk stratification and surgical planning. This modality is especially helpful in cases with ambiguous findings from other imaging methods, and may be critical for planning fertility-preserving or minimally invasive strategies.</p><p>The evidence strengthens the clinical relevance of [<sup>18</sup>F]FDG-PET-based metabolic parameters for predicting tumor biology, treatment outcomes, and prognosis in EC. The incorporation of these molecular imaging biomarkers into risk stratification multimodal models holds promise for refining personalized treatment strategies and guiding clinical decision-making.</p><p>Regarding non-[<sup>18</sup>F]-FDG radiotracers, further research is required to evaluate their role in the management of EC.</p><p>In summary, the choice between PET/CT and PET/MRI depends on the specific clinical situation and the goals of imaging. A careful evaluation of the patient&#x02019;s individual needs and preferences, along with the available resources, is essential for making the most appropriate choice.</p></sec></body><back><fn-group><fn><p><bold>Disclaimer/Publisher&#x02019;s Note:</bold> The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.</p></fn></fn-group><notes><title>Author Contributions</title><p>A.M.G.-V., M.P.P.-J., S.A.G.-O. and E.N.-&#x000c1;. collected and reviewed the literature and wrote the paper; M.T.-R., A.S.-M. and M.C.-R. designed figures; A.M.G.-V. and E.N.-&#x000c1;. integrated and reviewed the paper. All authors have read and agreed to the published version of the manuscript.</p></notes><notes><title>Institutional Review Board Statement</title><p>Not applicable.</p></notes><notes><title>Informed Consent Statement</title><p>Not applicable.</p></notes><notes notes-type="data-availability"><title>Data Availability Statement</title><p>All data generated or analyzed during this study are included in this published article.</p></notes><notes notes-type="COI-statement"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest. The authors have no relevant financial or non-financial interests to disclose. All authors certify that they have no affiliations with or involvement in any organization or entity with any financial interest or non-financial interest in the subject matter or materials discussed in this manuscript. The authors have no financial or proprietary interests in any material discussed in this article.</p></notes><glossary><title>Abbreviations</title><p>The following abbreviations are used in this manuscript:
+<array><tbody><tr><td align="left" valign="top" rowspan="1" colspan="1">EC</td><td align="left" valign="top" rowspan="1" colspan="1">Endometrial cancer</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">PET/CT</td><td align="left" valign="top" rowspan="1" colspan="1">Positron emission tomography/computed tomography</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>18</sup>F]FDG</td><td align="left" valign="top" rowspan="1" colspan="1">Fluorine-18&#x02013;2-fluoro-2-deoxy-D-glucose</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">SUVmax</td><td align="left" valign="top" rowspan="1" colspan="1">Maximum standardized uptake value </td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">MTV</td><td align="left" valign="top" rowspan="1" colspan="1">Metabolic tumor volume</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">TLG </td><td align="left" valign="top" rowspan="1" colspan="1">Total lesion glycolysis</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">MRI</td><td align="left" valign="top" rowspan="1" colspan="1">Magnetic resonance imaging</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">PET/MRI</td><td align="left" valign="top" rowspan="1" colspan="1">Positron emission tomography/ magnetic resonance imaging</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">ESGO</td><td align="left" valign="top" rowspan="1" colspan="1">European Society of Gynecological Oncology (ESGO) </td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">ESTRO</td><td align="left" valign="top" rowspan="1" colspan="1">European Society for Radiotherapy and Oncology</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">EANM</td><td align="left" valign="top" rowspan="1" colspan="1">European Association of Nuclear Medicine </td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CRT</td><td align="left" valign="top" rowspan="1" colspan="1">Chemoradiotherapy</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">SNMMI</td><td align="left" valign="top" rowspan="1" colspan="1">Society of Nuclear Medicine and Molecular Imaging</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[68Ga]-FAPI</td><td align="left" valign="top" rowspan="1" colspan="1">[68Ga]-labeled fibroblast activation protein inhibitors </td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>18</sup>F]-4FMFES</td><td align="left" valign="top" rowspan="1" colspan="1">4-fluoro-11b-methoxy-16a-18 F-fluoroestradiol</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">[<sup>18</sup>F]-FES</td><td align="left" valign="top" rowspan="1" colspan="1">16a-18F-fluoro17b-estradiol </td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">ERa</td><td align="left" valign="top" rowspan="1" colspan="1">Estrogen receptor alpha </td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">FIGO</td><td align="left" valign="top" rowspan="1" colspan="1">International Federation of Gynecology and Obstetrics</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">OS</td><td align="left" valign="top" rowspan="1" colspan="1">Overall survival</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">PPV </td><td align="left" valign="top" rowspan="1" colspan="1">Positive predictive value</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">MI</td><td align="left" valign="top" rowspan="1" colspan="1">Myometrial invasion</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">G</td><td align="left" valign="top" rowspan="1" colspan="1">Grade</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">T</td><td align="left" valign="top" rowspan="1" colspan="1">Tumor</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">N</td><td align="left" valign="top" rowspan="1" colspan="1">Lymph node</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">M</td><td align="left" valign="top" rowspan="1" colspan="1">Distant metastases</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">ML</td><td align="left" valign="top" rowspan="1" colspan="1">Machine learning</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">DL</td><td align="left" valign="top" rowspan="1" colspan="1">Deep learning</td></tr></tbody></array></p></glossary><ref-list><title>References</title><ref id="B1-cancers-17-02608"><label>1.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Maheshwari</surname><given-names>E.</given-names></name>
+<name><surname>Nougaret</surname><given-names>S.</given-names></name>
+<name><surname>Stein</surname><given-names>E.B.</given-names></name>
+<name><surname>Rauch</surname><given-names>G.M.</given-names></name>
+<name><surname>Hwang</surname><given-names>K.-P.</given-names></name>
+<name><surname>Stafford</surname><given-names>R.J.</given-names></name>
+<name><surname>Klopp</surname><given-names>A.H.</given-names></name>
+<name><surname>Soliman</surname><given-names>P.T.</given-names></name>
+<name><surname>Maturen</surname><given-names>K.E.</given-names></name>
+<name><surname>Rockall</surname><given-names>A.G.</given-names></name>
+<etal/>
+</person-group><article-title>Update on MRI in Evaluation and Treatment of Endometrial Cancer</article-title><source>Radiographics</source><year>2022</year><volume>42</volume><fpage>2112</fpage><lpage>2130</lpage><pub-id pub-id-type="doi">10.1148/rg.220070</pub-id><pub-id pub-id-type="pmid">36018785</pub-id>
+</element-citation></ref><ref id="B2-cancers-17-02608"><label>2.</label><element-citation publication-type="book"><person-group person-group-type="editor">
+<name><surname>Kurman</surname><given-names>R.J.</given-names></name>
+<name><surname>Carcangiu</surname><given-names>M.L.</given-names></name>
+<name><surname>Herrington</surname><given-names>C.S.</given-names></name>
+<name><surname>Young</surname><given-names>R.H.</given-names></name>
+</person-group><source>WHO Classification of Tumours of Female Reproductive Organs</source><edition>4th ed.</edition><comment>World Health Organization Classification of Tumours</comment><publisher-name>International Agency for Research on Cancer</publisher-name><publisher-loc>Lyon, France</publisher-loc><year>2014</year><isbn>978-92-832-2435-8</isbn></element-citation></ref><ref id="B3-cancers-17-02608"><label>3.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Berek</surname><given-names>J.S.</given-names></name>
+<name><surname>Matias-Guiu</surname><given-names>X.</given-names></name>
+<name><surname>Creutzberg</surname><given-names>C.</given-names></name>
+<name><surname>Fotopoulou</surname><given-names>C.</given-names></name>
+<name><surname>Gaffney</surname><given-names>D.</given-names></name>
+<name><surname>Kehoe</surname><given-names>S.</given-names></name>
+<name><surname>Lindemann</surname><given-names>K.</given-names></name>
+<name><surname>Mutch</surname><given-names>D.</given-names></name>
+<name><surname>Concin</surname><given-names>N.</given-names></name>
+<collab>Endometrial Cancer Staging Subcommittee</collab>
+<etal/>
+</person-group><article-title>FIGO Staging of Endometrial Cancer: 2023</article-title><source>Int. J. Gynecol. Obstet.</source><year>2023</year><volume>162</volume><fpage>383</fpage><lpage>394</lpage><pub-id pub-id-type="doi">10.1002/ijgo.14923</pub-id></element-citation></ref><ref id="B4-cancers-17-02608"><label>4.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Colombo</surname><given-names>N.</given-names></name>
+<name><surname>Creutzberg</surname><given-names>C.</given-names></name>
+<name><surname>Amant</surname><given-names>F.</given-names></name>
+<name><surname>Bosse</surname><given-names>T.</given-names></name>
+<name><surname>Gonz&#x000e1;lez-Mart&#x000ed;n</surname><given-names>A.</given-names></name>
+<name><surname>Ledermann</surname><given-names>J.</given-names></name>
+<name><surname>Marth</surname><given-names>C.</given-names></name>
+<name><surname>Nout</surname><given-names>R.</given-names></name>
+<name><surname>Querleu</surname><given-names>D.</given-names></name>
+<name><surname>Mirza</surname><given-names>M.R.</given-names></name>
+<etal/>
+</person-group><article-title>ESMO-ESGO-ESTRO Consensus Conference on Endometrial Cancer: Diagnosis, Treatment and Follow-Up</article-title><source>Ann. Oncol.</source><year>2016</year><volume>27</volume><fpage>16</fpage><lpage>41</lpage><pub-id pub-id-type="doi">10.1093/annonc/mdv484</pub-id><pub-id pub-id-type="pmid">26634381</pub-id>
+</element-citation></ref><ref id="B5-cancers-17-02608"><label>5.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Concin</surname><given-names>N.</given-names></name>
+<name><surname>Matias-Guiu</surname><given-names>X.</given-names></name>
+<name><surname>Vergote</surname><given-names>I.</given-names></name>
+<name><surname>Cibula</surname><given-names>D.</given-names></name>
+<name><surname>Mirza</surname><given-names>M.R.</given-names></name>
+<name><surname>Marnitz</surname><given-names>S.</given-names></name>
+<name><surname>Ledermann</surname><given-names>J.</given-names></name>
+<name><surname>Bosse</surname><given-names>T.</given-names></name>
+<name><surname>Chargari</surname><given-names>C.</given-names></name>
+<name><surname>Fagotti</surname><given-names>A.</given-names></name>
+<etal/>
+</person-group><article-title>ESGO/ESTRO/ESP Guidelines for the Management of Patients with Endometrial Carcinoma</article-title><source>Int. J. Gynecol. Cancer</source><year>2021</year><volume>31</volume><fpage>12</fpage><lpage>39</lpage><pub-id pub-id-type="doi">10.1136/ijgc-2020-002230</pub-id><pub-id pub-id-type="pmid">33397713</pub-id>
+</element-citation></ref><ref id="B6-cancers-17-02608"><label>6.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cosgrove</surname><given-names>C.M.</given-names></name>
+<name><surname>Tritchler</surname><given-names>D.L.</given-names></name>
+<name><surname>Cohn</surname><given-names>D.E.</given-names></name>
+<name><surname>Mutch</surname><given-names>D.G.</given-names></name>
+<name><surname>Rush</surname><given-names>C.M.</given-names></name>
+<name><surname>Lankes</surname><given-names>H.A.</given-names></name>
+<name><surname>Creasman</surname><given-names>W.T.</given-names></name>
+<name><surname>Miller</surname><given-names>D.S.</given-names></name>
+<name><surname>Ramirez</surname><given-names>N.C.</given-names></name>
+<name><surname>Geller</surname><given-names>M.A.</given-names></name>
+<etal/>
+</person-group><article-title>An NRG Oncology/GOG Study of Molecular Classification for Risk Prediction in Endometrioid Endometrial Cancer</article-title><source>Gynecol. Oncol.</source><year>2018</year><volume>148</volume><fpage>174</fpage><lpage>180</lpage><pub-id pub-id-type="doi">10.1016/j.ygyno.2017.10.037</pub-id><pub-id pub-id-type="pmid">29132872</pub-id>
+</element-citation></ref><ref id="B7-cancers-17-02608"><label>7.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Brooks</surname><given-names>R.A.</given-names></name>
+<name><surname>Fleming</surname><given-names>G.F.</given-names></name>
+<name><surname>Lastra</surname><given-names>R.R.</given-names></name>
+<name><surname>Lee</surname><given-names>N.K.</given-names></name>
+<name><surname>Moroney</surname><given-names>J.W.</given-names></name>
+<name><surname>Son</surname><given-names>C.H.</given-names></name>
+<name><surname>Tatebe</surname><given-names>K.</given-names></name>
+<name><surname>Veneris</surname><given-names>J.L.</given-names></name>
+</person-group><article-title>Current Recommendations and Recent Progress in Endometrial Cancer</article-title><source>CA Cancer J. Clin.</source><year>2019</year><volume>69</volume><fpage>258</fpage><lpage>279</lpage><pub-id pub-id-type="doi">10.3322/caac.21561</pub-id><pub-id pub-id-type="pmid">31074865</pub-id>
+</element-citation></ref><ref id="B8-cancers-17-02608"><label>8.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>C.-Y.</given-names></name>
+<name><surname>Tai</surname><given-names>Y.-J.</given-names></name>
+<name><surname>Shih</surname><given-names>I.-L.</given-names></name>
+<name><surname>Chiang</surname><given-names>Y.-C.</given-names></name>
+<name><surname>Chen</surname><given-names>Y.-L.</given-names></name>
+<name><surname>Hsu</surname><given-names>H.-C.</given-names></name>
+<name><surname>Cheng</surname><given-names>W.-F.</given-names></name>
+</person-group><article-title>Preoperative Magnetic Resonance Imaging Predicts Clinicopathological Parameters and Stages of Endometrial Carcinomas</article-title><source>Cancer Med.</source><year>2022</year><volume>11</volume><fpage>993</fpage><lpage>1004</lpage><pub-id pub-id-type="doi">10.1002/cam4.4486</pub-id><pub-id pub-id-type="pmid">34967506</pub-id>
+</element-citation></ref><ref id="B9-cancers-17-02608"><label>9.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Civan</surname><given-names>C.</given-names></name>
+<name><surname>Kuyumcu</surname><given-names>S.</given-names></name>
+</person-group><article-title>PET Imaging of Endometrial Cancer</article-title><source>Nucl. Med. Semin.</source><year>2022</year><volume>8</volume><fpage>167</fpage><lpage>173</lpage><pub-id pub-id-type="doi">10.4274/nts.galenos.2022.0019</pub-id></element-citation></ref><ref id="B10-cancers-17-02608"><label>10.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Oaknin</surname><given-names>A.</given-names></name>
+<name><surname>Bosse</surname><given-names>T.J.</given-names></name>
+<name><surname>Creutzberg</surname><given-names>C.L.</given-names></name>
+<name><surname>Giornelli</surname><given-names>G.</given-names></name>
+<name><surname>Harter</surname><given-names>P.</given-names></name>
+<name><surname>Joly</surname><given-names>F.</given-names></name>
+<name><surname>Lorusso</surname><given-names>D.</given-names></name>
+<name><surname>Marth</surname><given-names>C.</given-names></name>
+<name><surname>Makker</surname><given-names>V.</given-names></name>
+<name><surname>Mirza</surname><given-names>M.R.</given-names></name>
+<etal/>
+</person-group><article-title>Endometrial Cancer: ESMO Clinical Practice Guideline for Diagnosis, Treatment and Follow-Up</article-title><source>Ann. Oncol.</source><year>2022</year><volume>33</volume><fpage>860</fpage><lpage>877</lpage><pub-id pub-id-type="doi">10.1016/j.annonc.2022.05.009</pub-id><pub-id pub-id-type="pmid">35690222</pub-id>
+</element-citation></ref><ref id="B11-cancers-17-02608"><label>11.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shibuya</surname><given-names>H.</given-names></name>
+<name><surname>Kobayashi</surname><given-names>Y.</given-names></name>
+<name><surname>Watanabe</surname><given-names>M.</given-names></name>
+<name><surname>Momomura</surname><given-names>M.</given-names></name>
+<name><surname>Matsumoto</surname><given-names>H.</given-names></name>
+<name><surname>Morisada</surname><given-names>T.</given-names></name>
+</person-group><article-title>The Prognostic Value of Maximum Standardized Uptake Value (SUVmax) of <sup>18</sup>F-FDG PET/CT for Risk Stratification and Outcome Prediction in Endometrial Cancer: A Retrospective Analysis</article-title><source>Cureus</source><year>2025</year><volume>17</volume><fpage>e80109</fpage><pub-id pub-id-type="doi">10.7759/cureus.80109</pub-id><pub-id pub-id-type="pmid">40190927</pub-id>
+</element-citation></ref><ref id="B12-cancers-17-02608"><label>12.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ghooshkhanei</surname><given-names>H.</given-names></name>
+<name><surname>Treglia</surname><given-names>G.</given-names></name>
+<name><surname>Sabouri</surname><given-names>G.</given-names></name>
+<name><surname>Davoodi</surname><given-names>R.</given-names></name>
+<name><surname>Sadeghi</surname><given-names>R.</given-names></name>
+</person-group><article-title>Risk Stratification and Prognosis Determination Using (18)F-FDG PET Imaging in Endometrial Cancer Patients: A Systematic Review and Meta-Analysis</article-title><source>Gynecol. Oncol.</source><year>2014</year><volume>132</volume><fpage>669</fpage><lpage>676</lpage><pub-id pub-id-type="doi">10.1016/j.ygyno.2014.01.039</pub-id><pub-id pub-id-type="pmid">24472411</pub-id>
+</element-citation></ref><ref id="B13-cancers-17-02608"><label>13.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fasmer</surname><given-names>K.E.</given-names></name>
+<name><surname>Gulati</surname><given-names>A.</given-names></name>
+<name><surname>Dybvik</surname><given-names>J.A.</given-names></name>
+<name><surname>Ytre-Hauge</surname><given-names>S.</given-names></name>
+<name><surname>Salvesen</surname><given-names>&#x000d8;.</given-names></name>
+<name><surname>Trovik</surname><given-names>J.</given-names></name>
+<name><surname>Krakstad</surname><given-names>C.</given-names></name>
+<name><surname>Haldorsen</surname><given-names>I.S.</given-names></name>
+</person-group><article-title>Preoperative <sup>18</sup>F-FDG PET/CT Tumor Markers Outperform MRI-Based Markers for the Prediction of Lymph Node Metastases in Primary Endometrial Cancer</article-title><source>Eur. Radiol.</source><year>2020</year><volume>30</volume><fpage>2443</fpage><lpage>2453</lpage><pub-id pub-id-type="doi">10.1007/s00330-019-06622-w</pub-id><pub-id pub-id-type="pmid">32034487</pub-id>
+</element-citation></ref><ref id="B14-cancers-17-02608"><label>14.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fasmer</surname><given-names>K.E.</given-names></name>
+<name><surname>Gulati</surname><given-names>A.</given-names></name>
+<name><surname>Dybvik</surname><given-names>J.A.</given-names></name>
+<name><surname>Wagner-Larsen</surname><given-names>K.S.</given-names></name>
+<name><surname>Lura</surname><given-names>N.</given-names></name>
+<name><surname>Salvesen</surname><given-names>&#x000d8;.</given-names></name>
+<name><surname>Forsse</surname><given-names>D.</given-names></name>
+<name><surname>Trovik</surname><given-names>J.</given-names></name>
+<name><surname>Pijnenborg</surname><given-names>J.M.A.</given-names></name>
+<name><surname>Krakstad</surname><given-names>C.</given-names></name>
+<etal/>
+</person-group><article-title>Preoperative Pelvic MRI and 2-[<sup>18</sup>F]FDG PET/CT for Lymph Node Staging and Prognostication in Endometrial Cancer-Time to Revisit Current Imaging Guidelines?</article-title><source>Eur. Radiol.</source><year>2023</year><volume>33</volume><fpage>221</fpage><lpage>232</lpage><pub-id pub-id-type="doi">10.1007/s00330-022-08949-3</pub-id><pub-id pub-id-type="pmid">35763096</pub-id>
+</element-citation></ref><ref id="B15-cancers-17-02608"><label>15.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bian</surname><given-names>L.</given-names></name>
+<name><surname>Wang</surname><given-names>M.</given-names></name>
+<name><surname>Gong</surname><given-names>J.</given-names></name>
+<name><surname>Liu</surname><given-names>H.</given-names></name>
+<name><surname>Wang</surname><given-names>N.</given-names></name>
+<name><surname>Wen</surname><given-names>N.</given-names></name>
+<name><surname>Fan</surname><given-names>W.</given-names></name>
+<name><surname>Xu</surname><given-names>B.</given-names></name>
+<name><surname>Wang</surname><given-names>M.</given-names></name>
+<name><surname>Ye</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group><article-title>Comparison of Integrated PET/MRI with PET/CT in Evaluation of Endometrial Cancer: A Retrospective Analysis of 81 Cases</article-title><source>PeerJ</source><year>2019</year><volume>7</volume><fpage>e7081</fpage><pub-id pub-id-type="doi">10.7717/peerj.7081</pub-id><pub-id pub-id-type="pmid">31341726</pub-id>
+</element-citation></ref><ref id="B16-cancers-17-02608"><label>16.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ironi</surname><given-names>G.</given-names></name>
+<name><surname>Mapelli</surname><given-names>P.</given-names></name>
+<name><surname>Bergamini</surname><given-names>A.</given-names></name>
+<name><surname>Fallanca</surname><given-names>F.</given-names></name>
+<name><surname>Candotti</surname><given-names>G.</given-names></name>
+<name><surname>Gnasso</surname><given-names>C.</given-names></name>
+<name><surname>Taccagni</surname><given-names>G.L.</given-names></name>
+<name><surname>Sant&#x02019;Angelo</surname><given-names>M.</given-names></name>
+<name><surname>Scifo</surname><given-names>P.</given-names></name>
+<name><surname>Bezzi</surname><given-names>C.</given-names></name>
+<etal/>
+</person-group><article-title>Hybrid PET/MRI in Staging Endometrial Cancer: Diagnostic and Predictive Value in a Prospective Cohort</article-title><source>Clin. Nucl. Med.</source><year>2022</year><volume>47</volume><fpage>e221</fpage><lpage>e229</lpage><pub-id pub-id-type="doi">10.1097/RLU.0000000000004064</pub-id><pub-id pub-id-type="pmid">35067539</pub-id>
+</element-citation></ref><ref id="B17-cancers-17-02608"><label>17.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>Y.</given-names></name>
+<name><surname>Zhang</surname><given-names>L.</given-names></name>
+<name><surname>Sultana</surname><given-names>B.</given-names></name>
+<name><surname>Wang</surname><given-names>B.</given-names></name>
+<name><surname>Sun</surname><given-names>H.</given-names></name>
+</person-group><article-title>Diagnostic Value of Integrated 18F-FDG PET/MRI for Staging of Endometrial Carcinoma: Comparison with PET/CT</article-title><source>BMC Cancer</source><year>2022</year><volume>22</volume><elocation-id>947</elocation-id><pub-id pub-id-type="doi">10.1186/s12885-022-10037-0</pub-id><pub-id pub-id-type="pmid">36050751</pub-id>
+</element-citation></ref><ref id="B18-cancers-17-02608"><label>18.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kitajima</surname><given-names>K.</given-names></name>
+<name><surname>Suenaga</surname><given-names>Y.</given-names></name>
+<name><surname>Ueno</surname><given-names>Y.</given-names></name>
+<name><surname>Kanda</surname><given-names>T.</given-names></name>
+<name><surname>Maeda</surname><given-names>T.</given-names></name>
+<name><surname>Takahashi</surname><given-names>S.</given-names></name>
+<name><surname>Ebina</surname><given-names>Y.</given-names></name>
+<name><surname>Miyahara</surname><given-names>Y.</given-names></name>
+<name><surname>Yamada</surname><given-names>H.</given-names></name>
+<name><surname>Sugimura</surname><given-names>K.</given-names></name>
+</person-group><article-title>Value of Fusion of PET and MRI for Staging of Endometrial Cancer: Comparison with <sup>18</sup> F-FDG Contrast-Enhanced PET/CT and Dynamic Contrast-Enhanced Pelvic MRI</article-title><source>Eur. J. Radiol.</source><year>2013</year><volume>82</volume><fpage>1672</fpage><lpage>1676</lpage><pub-id pub-id-type="doi">10.1016/j.ejrad.2013.05.005</pub-id><pub-id pub-id-type="pmid">23727380</pub-id>
+</element-citation></ref><ref id="B19-cancers-17-02608"><label>19.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bezzi</surname><given-names>C.</given-names></name>
+<name><surname>Zambella</surname><given-names>E.</given-names></name>
+<name><surname>Ghezzo</surname><given-names>S.</given-names></name>
+<name><surname>Fallanca</surname><given-names>F.</given-names></name>
+<name><surname>Samanes Gajate</surname><given-names>A.M.</given-names></name>
+<name><surname>Franchini</surname><given-names>A.</given-names></name>
+<name><surname>Ironi</surname><given-names>G.</given-names></name>
+<name><surname>Bergamini</surname><given-names>A.</given-names></name>
+<name><surname>Monaco</surname><given-names>L.</given-names></name>
+<name><surname>Evangelista</surname><given-names>L.</given-names></name>
+<etal/>
+</person-group><article-title>18F-FDG PET/MRI in Endometrial Cancer: Systematic Review and Meta-Analysis</article-title><source>Clin. Transl. Imaging</source><year>2022</year><volume>10</volume><fpage>45</fpage><lpage>58</lpage><pub-id pub-id-type="doi">10.1007/s40336-021-00463-8</pub-id></element-citation></ref><ref id="B20-cancers-17-02608"><label>20.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Vahidfar</surname><given-names>N.</given-names></name>
+<name><surname>Farzanefar</surname><given-names>S.</given-names></name>
+<name><surname>Ahmadzadehfar</surname><given-names>H.</given-names></name>
+<name><surname>Molloy</surname><given-names>E.N.</given-names></name>
+<name><surname>Eppard</surname><given-names>E.</given-names></name>
+</person-group><article-title>A Review of Nuclear Medicine Approaches in the Diagnosis and the Treatment of Gynecological Malignancies</article-title><source>Cancers</source><year>2022</year><volume>14</volume><elocation-id>1779</elocation-id><pub-id pub-id-type="doi">10.3390/cancers14071779</pub-id><pub-id pub-id-type="pmid">35406552</pub-id>
+</element-citation></ref><ref id="B21-cancers-17-02608"><label>21.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Abu-Rustum</surname><given-names>N.</given-names></name>
+<name><surname>Yashar</surname><given-names>C.</given-names></name>
+<name><surname>Arend</surname><given-names>R.</given-names></name>
+<name><surname>Barber</surname><given-names>E.</given-names></name>
+<name><surname>Bradley</surname><given-names>K.</given-names></name>
+<name><surname>Brooks</surname><given-names>R.</given-names></name>
+<name><surname>Campos</surname><given-names>S.M.</given-names></name>
+<name><surname>Chino</surname><given-names>J.</given-names></name>
+<name><surname>Chon</surname><given-names>H.S.</given-names></name>
+<name><surname>Chu</surname><given-names>C.</given-names></name>
+<etal/>
+</person-group><article-title>Uterine Neoplasms, Version 1.2023, NCCN Clinical Practice Guidelines in Oncology</article-title><source>J. Natl. Compr. Cancer Netw.</source><year>2023</year><volume>21</volume><fpage>181</fpage><lpage>209</lpage><pub-id pub-id-type="doi">10.6004/jnccn.2023.0006</pub-id></element-citation></ref><ref id="B22-cancers-17-02608"><label>22.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Barretina-Ginesta</surname><given-names>M.P.</given-names></name>
+<name><surname>Quind&#x000f3;s</surname><given-names>M.</given-names></name>
+<name><surname>Alarc&#x000f3;n</surname><given-names>J.D.</given-names></name>
+<name><surname>Esteban</surname><given-names>C.</given-names></name>
+<name><surname>Gaba</surname><given-names>L.</given-names></name>
+<name><surname>G&#x000f3;mez</surname><given-names>C.</given-names></name>
+<name><surname>Fidalgo</surname><given-names>J.A.P.</given-names></name>
+<name><surname>Romero</surname><given-names>I.</given-names></name>
+<name><surname>Santaballa</surname><given-names>A.</given-names></name>
+<name><surname>Rubio-P&#x000e9;rez</surname><given-names>M.J.</given-names></name>
+</person-group><article-title>SEOM-GEICO Clinical Guidelines on Endometrial Cancer (2021)</article-title><source>Clin. Transl. Oncol.</source><year>2022</year><volume>24</volume><fpage>625</fpage><lpage>634</lpage><pub-id pub-id-type="doi">10.1007/s12094-022-02799-7</pub-id><pub-id pub-id-type="pmid">35312947</pub-id>
+</element-citation></ref><ref id="B23-cancers-17-02608"><label>23.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Adam</surname><given-names>J.A.</given-names></name>
+<name><surname>Loft</surname><given-names>A.</given-names></name>
+<name><surname>Chargari</surname><given-names>C.</given-names></name>
+<name><surname>Delgado Bolton</surname><given-names>R.C.</given-names></name>
+<name><surname>Kidd</surname><given-names>E.</given-names></name>
+<name><surname>Sch&#x000f6;der</surname><given-names>H.</given-names></name>
+<name><surname>Veit-Haibach</surname><given-names>P.</given-names></name>
+<name><surname>Vogel</surname><given-names>W.V.</given-names></name>
+</person-group><article-title>EANM/SNMMI Practice Guideline for [<sup>18</sup>F]FDG PET/CT External Beam Radiotherapy Treatment Planning in Uterine Cervical Cancer v1.0</article-title><source>Eur. J. Nucl. Med. Mol. Imaging</source><year>2021</year><volume>48</volume><fpage>1188</fpage><lpage>1199</lpage><pub-id pub-id-type="doi">10.1007/s00259-020-05112-2</pub-id><pub-id pub-id-type="pmid">33275178</pub-id>
+</element-citation></ref><ref id="B24-cancers-17-02608"><label>24.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Seon</surname><given-names>K.E.</given-names></name>
+<name><surname>Shin</surname><given-names>Y.</given-names></name>
+<name><surname>Lee</surname><given-names>J.-Y.</given-names></name>
+<name><surname>Nam</surname><given-names>E.J.</given-names></name>
+<name><surname>Kim</surname><given-names>S.</given-names></name>
+<name><surname>Kim</surname><given-names>Y.T.</given-names></name>
+<name><surname>Kim</surname><given-names>S.W.</given-names></name>
+</person-group><article-title>Is Presumed Clinical Stage I Endometrial Cancer Using PET-CT and MRI Accurate in Predicting Surgical Staging?</article-title><source>J. Gynecol. Oncol.</source><year>2025</year><volume>36</volume><fpage>e25</fpage><pub-id pub-id-type="doi">10.3802/jgo.2025.36.e25</pub-id><pub-id pub-id-type="pmid">39853258</pub-id>
+</element-citation></ref><ref id="B25-cancers-17-02608"><label>25.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Otero-Garc&#x000ed;a</surname><given-names>M.M.</given-names></name>
+<name><surname>Mesa-&#x000c1;lvarez</surname><given-names>A.</given-names></name>
+<name><surname>Nikolic</surname><given-names>O.</given-names></name>
+<name><surname>Blanco-Lobato</surname><given-names>P.</given-names></name>
+<name><surname>Basta-Nikolic</surname><given-names>M.</given-names></name>
+<name><surname>de Llano-Ortega</surname><given-names>R.M.</given-names></name>
+<name><surname>Paredes-Vel&#x000e1;zquez</surname><given-names>L.</given-names></name>
+<name><surname>Nikolic</surname><given-names>N.</given-names></name>
+<name><surname>Szewczyk-Bieda</surname><given-names>M.</given-names></name>
+</person-group><article-title>Role of MRI in Staging and Follow-up of Endometrial and Cervical Cancer: Pitfalls and Mimickers</article-title><source>Insights Imaging</source><year>2019</year><volume>10</volume><fpage>19</fpage><pub-id pub-id-type="doi">10.1186/s13244-019-0696-8</pub-id><pub-id pub-id-type="pmid">30758678</pub-id>
+</element-citation></ref><ref id="B26-cancers-17-02608"><label>26.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Signorelli</surname><given-names>M.</given-names></name>
+<name><surname>Crivellaro</surname><given-names>C.</given-names></name>
+<name><surname>Buda</surname><given-names>A.</given-names></name>
+<name><surname>Guerra</surname><given-names>L.</given-names></name>
+<name><surname>Fruscio</surname><given-names>R.</given-names></name>
+<name><surname>Elisei</surname><given-names>F.</given-names></name>
+<name><surname>Dolci</surname><given-names>C.</given-names></name>
+<name><surname>Cuzzocrea</surname><given-names>M.</given-names></name>
+<name><surname>Milani</surname><given-names>R.</given-names></name>
+<name><surname>Messa</surname><given-names>C.</given-names></name>
+</person-group><article-title>Staging of High-Risk Endometrial Cancer With PET/CT and Sentinel Lymph Node Mapping</article-title><source>Clin. Nucl. Med.</source><year>2015</year><volume>40</volume><fpage>780</fpage><lpage>785</lpage><pub-id pub-id-type="doi">10.1097/RLU.0000000000000852</pub-id><pub-id pub-id-type="pmid">26053711</pub-id>
+</element-citation></ref><ref id="B27-cancers-17-02608"><label>27.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Weissinger</surname><given-names>M.</given-names></name>
+<name><surname>Bala</surname><given-names>L.</given-names></name>
+<name><surname>Brucker</surname><given-names>S.Y.</given-names></name>
+<name><surname>Kommoss</surname><given-names>S.</given-names></name>
+<name><surname>Hoffmann</surname><given-names>S.</given-names></name>
+<name><surname>Seith</surname><given-names>F.</given-names></name>
+<name><surname>Nikolaou</surname><given-names>K.</given-names></name>
+<name><surname>la Foug&#x000e8;re</surname><given-names>C.</given-names></name>
+<name><surname>Walter</surname><given-names>C.B.</given-names></name>
+<name><surname>Dittmann</surname><given-names>H.</given-names></name>
+</person-group><article-title>Additional Value of FDG-PET/MRI Complementary to Sentinel Lymphonodectomy for Minimal Invasive Lymph Node Staging in Patients with Endometrial Cancer: A Prospective Study</article-title><source>Diagnostics</source><year>2024</year><volume>14</volume><elocation-id>376</elocation-id><pub-id pub-id-type="doi">10.3390/diagnostics14040376</pub-id><pub-id pub-id-type="pmid">38396415</pub-id>
+</element-citation></ref><ref id="B28-cancers-17-02608"><label>28.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>&#x0015e;ahin</surname><given-names>G.</given-names></name>
+<name><surname>Haz&#x00131;rBulan</surname><given-names>A.</given-names></name>
+<name><surname>S&#x000f6;zen</surname><given-names>I.</given-names></name>
+<name><surname>Kocadal</surname><given-names>N.&#x000c7;.</given-names></name>
+<name><surname>Alk&#x00131;&#x0015f;</surname><given-names>&#x00130;.</given-names></name>
+<name><surname>Yard&#x00131;mc&#x00131;</surname><given-names>A.H.</given-names></name>
+<name><surname>Akka&#x0015f;</surname><given-names>B.E.</given-names></name>
+<name><surname>Arslan</surname><given-names>H.S.</given-names></name>
+</person-group><article-title>Optimizing Final Pathology Determination in Endometrial Cancer: The Role of PET/CT, MRI, and Biopsy in Serous, Mixed Cell, Clear Cell, and Grade 3 Endometrioid Subtypes</article-title><source>Diagnostics</source><year>2025</year><volume>15</volume><elocation-id>731</elocation-id><pub-id pub-id-type="doi">10.3390/diagnostics15060731</pub-id><pub-id pub-id-type="pmid">40150074</pub-id>
+</element-citation></ref><ref id="B29-cancers-17-02608"><label>29.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Restaino</surname><given-names>S.</given-names></name>
+<name><surname>Paglietti</surname><given-names>C.</given-names></name>
+<name><surname>Arcieri</surname><given-names>M.</given-names></name>
+<name><surname>Biasioli</surname><given-names>A.</given-names></name>
+<name><surname>Della Martina</surname><given-names>M.</given-names></name>
+<name><surname>Mariuzzi</surname><given-names>L.</given-names></name>
+<name><surname>Andreetta</surname><given-names>C.</given-names></name>
+<name><surname>Titone</surname><given-names>F.</given-names></name>
+<name><surname>Bogani</surname><given-names>G.</given-names></name>
+<name><surname>Raimondo</surname><given-names>D.</given-names></name>
+<etal/>
+</person-group><article-title>Management of Patients Diagnosed with Endometrial Cancer: Comparison of Guidelines</article-title><source>Cancers</source><year>2023</year><volume>15</volume><elocation-id>1091</elocation-id><pub-id pub-id-type="doi">10.3390/cancers15041091</pub-id><pub-id pub-id-type="pmid">36831434</pub-id>
+</element-citation></ref><ref id="B30-cancers-17-02608"><label>30.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bogani</surname><given-names>G.</given-names></name>
+<name><surname>Gostout</surname><given-names>B.S.</given-names></name>
+<name><surname>Dowdy</surname><given-names>S.C.</given-names></name>
+<name><surname>Multinu</surname><given-names>F.</given-names></name>
+<name><surname>Casarin</surname><given-names>J.</given-names></name>
+<name><surname>Cliby</surname><given-names>W.A.</given-names></name>
+<name><surname>Frigerio</surname><given-names>L.</given-names></name>
+<name><surname>Kim</surname><given-names>B.</given-names></name>
+<name><surname>Weaver</surname><given-names>A.L.</given-names></name>
+<name><surname>Glaser</surname><given-names>G.E.</given-names></name>
+<etal/>
+</person-group><article-title>Clinical Utility of Preoperative Computed Tomography in Patients With Endometrial Cancer</article-title><source>Int. J. Gynecol. Cancer</source><year>2017</year><volume>27</volume><fpage>1685</fpage><lpage>1693</lpage><pub-id pub-id-type="doi">10.1097/IGC.0000000000001076</pub-id><pub-id pub-id-type="pmid">28704325</pub-id>
+</element-citation></ref><ref id="B31-cancers-17-02608"><label>31.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hong</surname><given-names>L.</given-names></name>
+<name><surname>Cristiano</surname><given-names>L.</given-names></name>
+<name><surname>Peters</surname><given-names>E.</given-names></name>
+<name><surname>Ioffe</surname><given-names>Y.</given-names></name>
+</person-group><article-title>Detection of Bone Metastases in Uterine Cancer: How Common Are They and Should PET/CT Be the Standard for Diagnosis?</article-title><source>Gynecol. Oncol. Rep.</source><year>2021</year><volume>35</volume><fpage>100698</fpage><pub-id pub-id-type="doi">10.1016/j.gore.2021.100698</pub-id><pub-id pub-id-type="pmid">33521220</pub-id>
+</element-citation></ref><ref id="B32-cancers-17-02608"><label>32.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tsuyoshi</surname><given-names>H.</given-names></name>
+<name><surname>Tsujikawa</surname><given-names>T.</given-names></name>
+<name><surname>Yamada</surname><given-names>S.</given-names></name>
+<name><surname>Okazawa</surname><given-names>H.</given-names></name>
+<name><surname>Yoshida</surname><given-names>Y.</given-names></name>
+</person-group><article-title>Diagnostic Value of 18F-FDG PET/MRI for Staging in Patients with Endometrial Cancer</article-title><source>Cancer Imaging</source><year>2020</year><volume>20</volume><fpage>75</fpage><pub-id pub-id-type="doi">10.1186/s40644-020-00357-4</pub-id><pub-id pub-id-type="pmid">33092631</pub-id>
+</element-citation></ref><ref id="B33-cancers-17-02608"><label>33.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kidd</surname><given-names>E.A.</given-names></name>
+</person-group><article-title>Imaging to Optimize Gynecological Radiation Oncology</article-title><source>Int. J. Gynecol. Cancer</source><year>2022</year><volume>32</volume><fpage>358</fpage><lpage>365</lpage><pub-id pub-id-type="doi">10.1136/ijgc-2021-002460</pub-id><pub-id pub-id-type="pmid">35256424</pub-id>
+</element-citation></ref><ref id="B34-cancers-17-02608"><label>34.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Van Den Heerik</surname><given-names>A.S.V.M.</given-names></name>
+<name><surname>Horeweg</surname><given-names>N.</given-names></name>
+<name><surname>De Boer</surname><given-names>S.M.</given-names></name>
+<name><surname>Bosse</surname><given-names>T.</given-names></name>
+<name><surname>Creutzberg</surname><given-names>C.L.</given-names></name>
+</person-group><article-title>Adjuvant Therapy for Endometrial Cancer in the Era of Molecular Classification: Radiotherapy, Chemoradiation and Novel Targets for Therapy</article-title><source>Int. J. Gynecol. Cancer</source><year>2021</year><volume>31</volume><fpage>594</fpage><lpage>604</lpage><pub-id pub-id-type="doi">10.1136/ijgc-2020-001822</pub-id><pub-id pub-id-type="pmid">33082238</pub-id>
+</element-citation></ref><ref id="B35-cancers-17-02608"><label>35.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Koskas</surname><given-names>M.</given-names></name>
+<name><surname>Amant</surname><given-names>F.</given-names></name>
+<name><surname>Mirza</surname><given-names>M.R.</given-names></name>
+<name><surname>Creutzberg</surname><given-names>C.L.</given-names></name>
+</person-group><article-title>Cancer of the Corpus Uteri: 2021 Update</article-title><source>Int. J. Gynecol. Obstet.</source><year>2021</year><volume>155</volume><issue>(Suppl. S1)</issue><fpage>45</fpage><lpage>60</lpage><pub-id pub-id-type="doi">10.1002/ijgo.13866</pub-id></element-citation></ref><ref id="B36-cancers-17-02608"><label>36.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jamieson</surname><given-names>A.</given-names></name>
+<name><surname>Huvila</surname><given-names>J.</given-names></name>
+<name><surname>Thompson</surname><given-names>E.F.</given-names></name>
+<name><surname>Leung</surname><given-names>S.</given-names></name>
+<name><surname>Chiu</surname><given-names>D.</given-names></name>
+<name><surname>Lum</surname><given-names>A.</given-names></name>
+<name><surname>McConechy</surname><given-names>M.</given-names></name>
+<name><surname>Grondin</surname><given-names>K.</given-names></name>
+<name><surname>Aguirre-Hernandez</surname><given-names>R.</given-names></name>
+<name><surname>Salvador</surname><given-names>S.</given-names></name>
+<etal/>
+</person-group><article-title>Variation in Practice in Endometrial Cancer and Potential for Improved Care and Equity through Molecular Classification</article-title><source>Gynecol. Oncol.</source><year>2022</year><volume>165</volume><fpage>201</fpage><lpage>214</lpage><pub-id pub-id-type="doi">10.1016/j.ygyno.2022.02.001</pub-id><pub-id pub-id-type="pmid">35246332</pub-id>
+</element-citation></ref><ref id="B37-cancers-17-02608"><label>37.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jacobsen</surname><given-names>M.C.</given-names></name>
+<name><surname>Maheshwari</surname><given-names>E.</given-names></name>
+<name><surname>Klopp</surname><given-names>A.H.</given-names></name>
+<name><surname>Venkatesan</surname><given-names>A.M.</given-names></name>
+</person-group><article-title>Image-Guided Radiotherapy for Gynecologic Malignancies: What the Radiologist Needs to Know</article-title><source>Radiol. Clin. N. Am.</source><year>2023</year><volume>61</volume><fpage>725</fpage><lpage>747</lpage><pub-id pub-id-type="doi">10.1016/j.rcl.2023.02.012</pub-id><pub-id pub-id-type="pmid">37169434</pub-id>
+</element-citation></ref><ref id="B38-cancers-17-02608"><label>38.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Conway</surname><given-names>J.L.</given-names></name>
+<name><surname>Lukovic</surname><given-names>J.</given-names></name>
+<name><surname>Laframboise</surname><given-names>S.</given-names></name>
+<name><surname>Ferguson</surname><given-names>S.E.</given-names></name>
+<name><surname>Han</surname><given-names>K.</given-names></name>
+</person-group><article-title>Brachy-Ing Unresectable Endometrial Cancers with Magnetic Resonance Guidance</article-title><source>Cureus</source><year>2018</year><volume>10</volume><fpage>e2274</fpage><pub-id pub-id-type="doi">10.7759/cureus.2274</pub-id><pub-id pub-id-type="pmid">29736358</pub-id>
+</element-citation></ref><ref id="B39-cancers-17-02608"><label>39.</label><element-citation publication-type="book"><person-group person-group-type="editor">
+<name><surname>Collarino</surname><given-names>A.</given-names></name>
+<name><surname>Vidal-Sicart</surname><given-names>S.</given-names></name>
+<name><surname>Vald&#x000e9;s Olmos</surname><given-names>R.A.</given-names></name>
+</person-group><source>Nuclear Medicine Manual on Gynaecological Cancers and Other Female Malignancies</source><publisher-name>Springer International Publishing</publisher-name><publisher-loc>Cham, Switzerland</publisher-loc><year>2022</year><isbn>978-3-031-05496-9</isbn></element-citation></ref><ref id="B40-cancers-17-02608"><label>40.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Amit</surname><given-names>A.</given-names></name>
+<name><surname>Person</surname><given-names>O.</given-names></name>
+<name><surname>Keidar</surname><given-names>Z.</given-names></name>
+</person-group><article-title>FDG PET/CT in Monitoring Response to Treatment in Gynecological Malignancies</article-title><source>Curr. Opin. Obstet. Gynecol.</source><year>2013</year><volume>25</volume><fpage>17</fpage><lpage>22</lpage><pub-id pub-id-type="doi">10.1097/GCO.0b013e32835a7e96</pub-id><pub-id pub-id-type="pmid">23299090</pub-id>
+</element-citation></ref><ref id="B41-cancers-17-02608"><label>41.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zukotynski</surname><given-names>K.</given-names></name>
+<name><surname>Grant</surname><given-names>F.D.</given-names></name>
+<name><surname>Curtis</surname><given-names>C.</given-names></name>
+<name><surname>Micheli</surname><given-names>L.</given-names></name>
+<name><surname>Treves</surname><given-names>S.T.</given-names></name>
+</person-group><article-title>Skeletal Scintigraphy in Pediatric Sports Medicine</article-title><source>AJR Am. J. Roentgenol.</source><year>2010</year><volume>195</volume><fpage>1212</fpage><lpage>1219</lpage><pub-id pub-id-type="doi">10.2214/AJR.10.4562</pub-id><pub-id pub-id-type="pmid">20966330</pub-id>
+</element-citation></ref><ref id="B42-cancers-17-02608"><label>42.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Nishiyama</surname><given-names>Y.</given-names></name>
+<name><surname>Yamamoto</surname><given-names>Y.</given-names></name>
+<name><surname>Kanenishi</surname><given-names>K.</given-names></name>
+<name><surname>Ohno</surname><given-names>M.</given-names></name>
+<name><surname>Hata</surname><given-names>T.</given-names></name>
+<name><surname>Kushida</surname><given-names>Y.</given-names></name>
+<name><surname>Haba</surname><given-names>R.</given-names></name>
+<name><surname>Ohkawa</surname><given-names>M.</given-names></name>
+</person-group><article-title>Monitoring the Neoadjuvant Therapy Response in Gynecological Cancer Patients Using FDG PET</article-title><source>Eur. J. Nucl. Med. Mol. Imaging</source><year>2008</year><volume>35</volume><fpage>287</fpage><lpage>295</lpage><pub-id pub-id-type="doi">10.1007/s00259-007-0627-7</pub-id><pub-id pub-id-type="pmid">17943281</pub-id>
+</element-citation></ref><ref id="B43-cancers-17-02608"><label>43.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chung</surname><given-names>H.H.</given-names></name>
+<name><surname>Lee</surname><given-names>I.</given-names></name>
+<name><surname>Kim</surname><given-names>H.S.</given-names></name>
+<name><surname>Kim</surname><given-names>J.W.</given-names></name>
+<name><surname>Park</surname><given-names>N.-H.</given-names></name>
+<name><surname>Song</surname><given-names>Y.S.</given-names></name>
+<name><surname>Cheon</surname><given-names>G.J.</given-names></name>
+</person-group><article-title>Prognostic Value of Preoperative Metabolic Tumor Volume Measured by <sup>18</sup>F-FDG PET/CT and MRI in Patients with Endometrial Cancer</article-title><source>Gynecol. Oncol.</source><year>2013</year><volume>130</volume><fpage>446</fpage><lpage>451</lpage><pub-id pub-id-type="doi">10.1016/j.ygyno.2013.06.021</pub-id><pub-id pub-id-type="pmid">23791826</pub-id>
+</element-citation></ref><ref id="B44-cancers-17-02608"><label>44.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Faria</surname><given-names>S.</given-names></name>
+<name><surname>Devine</surname><given-names>C.</given-names></name>
+<name><surname>Viswanathan</surname><given-names>C.</given-names></name>
+<name><surname>Javadi</surname><given-names>S.</given-names></name>
+<name><surname>Korivi</surname><given-names>B.R.</given-names></name>
+<name><surname>Bhosale</surname><given-names>P.R.</given-names></name>
+</person-group><article-title>FDG-PET Assessment of Other Gynecologic Cancers</article-title><source>PET Clin.</source><year>2018</year><volume>13</volume><fpage>203</fpage><lpage>223</lpage><pub-id pub-id-type="doi">10.1016/j.cpet.2017.11.006</pub-id><pub-id pub-id-type="pmid">29482750</pub-id>
+</element-citation></ref><ref id="B45-cancers-17-02608"><label>45.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tripathy</surname><given-names>S.</given-names></name>
+<name><surname>Parida</surname><given-names>G.K.</given-names></name>
+<name><surname>Kumar</surname><given-names>R.</given-names></name>
+</person-group><article-title>Quantitative Assessment of Gynecologic Malignancies</article-title><source>PET Clin.</source><year>2018</year><volume>13</volume><fpage>269</fpage><lpage>288</lpage><pub-id pub-id-type="doi">10.1016/j.cpet.2017.11.010</pub-id><pub-id pub-id-type="pmid">29482754</pub-id>
+</element-citation></ref><ref id="B46-cancers-17-02608"><label>46.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Khessib</surname><given-names>T.</given-names></name>
+<name><surname>Jha</surname><given-names>P.</given-names></name>
+<name><surname>Davidzon</surname><given-names>G.A.</given-names></name>
+<name><surname>Iagaru</surname><given-names>A.</given-names></name>
+<name><surname>Shah</surname><given-names>J.</given-names></name>
+</person-group><article-title>Nuclear Medicine and Molecular Imaging Applications in Gynecologic Malignancies: A Comprehensive Review</article-title><source>Semin. Nucl. Med.</source><year>2024</year><volume>54</volume><fpage>270</fpage><lpage>292</lpage><pub-id pub-id-type="doi">10.1053/j.semnuclmed.2024.01.003</pub-id><pub-id pub-id-type="pmid">38342655</pub-id>
+</element-citation></ref><ref id="B47-cancers-17-02608"><label>47.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Amant</surname><given-names>F.</given-names></name>
+<name><surname>Moerman</surname><given-names>P.</given-names></name>
+<name><surname>Neven</surname><given-names>P.</given-names></name>
+<name><surname>Timmerman</surname><given-names>D.</given-names></name>
+<name><surname>Van Limbergen</surname><given-names>E.</given-names></name>
+<name><surname>Vergote</surname><given-names>I.</given-names></name>
+</person-group><article-title>Endometrial Cancer</article-title><source>Lancet</source><year>2005</year><volume>366</volume><fpage>491</fpage><lpage>505</lpage><pub-id pub-id-type="doi">10.1016/S0140-6736(05)67063-8</pub-id><pub-id pub-id-type="pmid">16084259</pub-id>
+</element-citation></ref><ref id="B48-cancers-17-02608"><label>48.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sohaib</surname><given-names>S.A.</given-names></name>
+<name><surname>Houghton</surname><given-names>S.L.</given-names></name>
+<name><surname>Meroni</surname><given-names>R.</given-names></name>
+<name><surname>Rockall</surname><given-names>A.G.</given-names></name>
+<name><surname>Blake</surname><given-names>P.</given-names></name>
+<name><surname>Reznek</surname><given-names>R.H.</given-names></name>
+</person-group><article-title>Recurrent Endometrial Cancer: Patterns of Recurrent Disease and Assessment of Prognosis</article-title><source>Clin. Radiol.</source><year>2007</year><volume>62</volume><fpage>28</fpage><lpage>34</lpage><comment>discussion 35&#x02013;36</comment><pub-id pub-id-type="doi">10.1016/j.crad.2006.06.015</pub-id><pub-id pub-id-type="pmid">17145260</pub-id>
+</element-citation></ref><ref id="B49-cancers-17-02608"><label>49.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kurra</surname><given-names>V.</given-names></name>
+<name><surname>Krajewski</surname><given-names>K.M.</given-names></name>
+<name><surname>Jagannathan</surname><given-names>J.</given-names></name>
+<name><surname>Giardino</surname><given-names>A.</given-names></name>
+<name><surname>Berlin</surname><given-names>S.</given-names></name>
+<name><surname>Ramaiya</surname><given-names>N.</given-names></name>
+</person-group><article-title>Typical and Atypical Metastatic Sites of Recurrent Endometrial Carcinoma</article-title><source>Cancer Imaging</source><year>2013</year><volume>13</volume><fpage>113</fpage><lpage>122</lpage><pub-id pub-id-type="doi">10.1102/1470-7330.2013.0011</pub-id><pub-id pub-id-type="pmid">23545091</pub-id>
+</element-citation></ref><ref id="B50-cancers-17-02608"><label>50.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kadkhodayan</surname><given-names>S.</given-names></name>
+<name><surname>Shahriari</surname><given-names>S.</given-names></name>
+<name><surname>Treglia</surname><given-names>G.</given-names></name>
+<name><surname>Yousefi</surname><given-names>Z.</given-names></name>
+<name><surname>Sadeghi</surname><given-names>R.</given-names></name>
+</person-group><article-title>Accuracy of 18-F-FDG PET Imaging in the Follow up of Endometrial Cancer Patients: Systematic Review and Meta-Analysis of the Literature</article-title><source>Gynecol. Oncol.</source><year>2013</year><volume>128</volume><fpage>397</fpage><lpage>404</lpage><pub-id pub-id-type="doi">10.1016/j.ygyno.2012.10.022</pub-id><pub-id pub-id-type="pmid">23107613</pub-id>
+</element-citation></ref><ref id="B51-cancers-17-02608"><label>51.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Nie</surname><given-names>J.</given-names></name>
+<name><surname>Zhang</surname><given-names>J.</given-names></name>
+<name><surname>Gao</surname><given-names>J.</given-names></name>
+<name><surname>Guo</surname><given-names>L.</given-names></name>
+<name><surname>Zhou</surname><given-names>H.</given-names></name>
+<name><surname>Hu</surname><given-names>Y.</given-names></name>
+<name><surname>Zhu</surname><given-names>C.</given-names></name>
+<name><surname>Li</surname><given-names>Q.</given-names></name>
+<name><surname>Ma</surname><given-names>X.</given-names></name>
+</person-group><article-title>Diagnostic Role of 18F-FDG PET/MRI in Patients with Gynecological Malignancies of the Pelvis: A Systematic Review and Meta-Analysis</article-title><source>PLoS ONE</source><year>2017</year><volume>12</volume><elocation-id>e0175401</elocation-id><pub-id pub-id-type="doi">10.1371/journal.pone.0175401</pub-id><pub-id pub-id-type="pmid">28481958</pub-id>
+</element-citation></ref><ref id="B52-cancers-17-02608"><label>52.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kirchner</surname><given-names>J.</given-names></name>
+<name><surname>Sawicki</surname><given-names>L.M.</given-names></name>
+<name><surname>Suntharalingam</surname><given-names>S.</given-names></name>
+<name><surname>Grueneisen</surname><given-names>J.</given-names></name>
+<name><surname>Ruhlmann</surname><given-names>V.</given-names></name>
+<name><surname>Aktas</surname><given-names>B.</given-names></name>
+<name><surname>Deuschl</surname><given-names>C.</given-names></name>
+<name><surname>Herrmann</surname><given-names>K.</given-names></name>
+<name><surname>Antoch</surname><given-names>G.</given-names></name>
+<name><surname>Forsting</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group><article-title>Whole-Body Staging of Female Patients with Recurrent Pelvic Malignancies: Ultra-Fast 18F-FDG PET/MRI Compared to <sup>18</sup>F-FDG PET/CT and CT</article-title><source>PLoS ONE</source><year>2017</year><volume>12</volume><elocation-id>e0172553</elocation-id><pub-id pub-id-type="doi">10.1371/journal.pone.0172553</pub-id><pub-id pub-id-type="pmid">28225831</pub-id>
+</element-citation></ref><ref id="B53-cancers-17-02608"><label>53.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>M.</given-names></name>
+<name><surname>Xie</surname><given-names>D.</given-names></name>
+<name><surname>Pan</surname><given-names>C.</given-names></name>
+<name><surname>Xu</surname><given-names>Y.</given-names></name>
+<name><surname>Yu</surname><given-names>W.</given-names></name>
+</person-group><article-title>Diagnostic Value of 18F-FDG PET/MRI in Recurrent Pelvis Malignancies of Female Patients: A Systematic Review and Meta-Analysis</article-title><source>Nucl. Med. Commun.</source><year>2018</year><volume>39</volume><fpage>479</fpage><lpage>485</lpage><pub-id pub-id-type="doi">10.1097/MNM.0000000000000839</pub-id><pub-id pub-id-type="pmid">29634659</pub-id>
+</element-citation></ref><ref id="B54-cancers-17-02608"><label>54.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chao</surname><given-names>A.</given-names></name>
+<name><surname>Chang</surname><given-names>T.-C.</given-names></name>
+<name><surname>Ng</surname><given-names>K.-K.</given-names></name>
+<name><surname>Hsueh</surname><given-names>S.</given-names></name>
+<name><surname>Huang</surname><given-names>H.-J.</given-names></name>
+<name><surname>Chou</surname><given-names>H.-H.</given-names></name>
+<name><surname>Tsai</surname><given-names>C.-S.</given-names></name>
+<name><surname>Yen</surname><given-names>T.-C.</given-names></name>
+<name><surname>Wu</surname><given-names>T.-I.</given-names></name>
+<name><surname>Lai</surname><given-names>C.-H.</given-names></name>
+</person-group><article-title>18F-FDG PET in the Management of Endometrial Cancer</article-title><source>Eur. J. Nucl. Med. Mol. Imaging</source><year>2006</year><volume>33</volume><fpage>36</fpage><lpage>44</lpage><pub-id pub-id-type="doi">10.1007/s00259-005-1876-y</pub-id><pub-id pub-id-type="pmid">16167154</pub-id>
+</element-citation></ref><ref id="B55-cancers-17-02608"><label>55.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sawicki</surname><given-names>L.M.</given-names></name>
+<name><surname>Kirchner</surname><given-names>J.</given-names></name>
+<name><surname>Grueneisen</surname><given-names>J.</given-names></name>
+<name><surname>Ruhlmann</surname><given-names>V.</given-names></name>
+<name><surname>Aktas</surname><given-names>B.</given-names></name>
+<name><surname>Schaarschmidt</surname><given-names>B.M.</given-names></name>
+<name><surname>Forsting</surname><given-names>M.</given-names></name>
+<name><surname>Herrmann</surname><given-names>K.</given-names></name>
+<name><surname>Antoch</surname><given-names>G.</given-names></name>
+<name><surname>Umutlu</surname><given-names>L.</given-names></name>
+</person-group><article-title>Comparison of 18F&#x02013;FDG PET/MRI and MRI Alone for Whole-Body Staging and Potential Impact on Therapeutic Management of Women with Suspected Recurrent Pelvic Cancer: A Follow-up Study</article-title><source>Eur. J. Nucl. Med. Mol. Imaging</source><year>2018</year><volume>45</volume><fpage>622</fpage><lpage>629</lpage><pub-id pub-id-type="doi">10.1007/s00259-017-3881-3</pub-id><pub-id pub-id-type="pmid">29164299</pub-id>
+</element-citation></ref><ref id="B56-cancers-17-02608"><label>56.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Queiroz</surname><given-names>M.A.</given-names></name>
+<name><surname>Kubik-Huch</surname><given-names>R.A.</given-names></name>
+<name><surname>Hauser</surname><given-names>N.</given-names></name>
+<name><surname>Freiwald-Chilla</surname><given-names>B.</given-names></name>
+<name><surname>von Schulthess</surname><given-names>G.</given-names></name>
+<name><surname>Froehlich</surname><given-names>J.M.</given-names></name>
+<name><surname>Veit-Haibach</surname><given-names>P.</given-names></name>
+</person-group><article-title>PET/MRI and PET/CT in Advanced Gynaecological Tumours: Initial Experience and Comparison</article-title><source>Eur. Radiol.</source><year>2015</year><volume>25</volume><fpage>2222</fpage><lpage>2230</lpage><pub-id pub-id-type="doi">10.1007/s00330-015-3657-8</pub-id><pub-id pub-id-type="pmid">26017734</pub-id>
+</element-citation></ref><ref id="B57-cancers-17-02608"><label>57.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Belhocine</surname><given-names>T.</given-names></name>
+<name><surname>De Barsy</surname><given-names>C.</given-names></name>
+<name><surname>Hustinx</surname><given-names>R.</given-names></name>
+<name><surname>Willems-Foidart</surname><given-names>J.</given-names></name>
+</person-group><article-title>Usefulness of 18F-FDG PET in the Post-Therapy Surveillance of Endometrial Carcinoma</article-title><source>Eur. J. Nucl. Med.</source><year>2002</year><volume>29</volume><fpage>1132</fpage><lpage>1139</lpage><pub-id pub-id-type="doi">10.1007/s00259-002-0878-2</pub-id><pub-id pub-id-type="pmid">12192557</pub-id>
+</element-citation></ref><ref id="B58-cancers-17-02608"><label>58.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Park</surname><given-names>J.-Y.</given-names></name>
+<name><surname>Kim</surname><given-names>E.N.</given-names></name>
+<name><surname>Kim</surname><given-names>D.-Y.</given-names></name>
+<name><surname>Kim</surname><given-names>J.-H.</given-names></name>
+<name><surname>Kim</surname><given-names>Y.-M.</given-names></name>
+<name><surname>Kim</surname><given-names>Y.-T.</given-names></name>
+<name><surname>Nam</surname><given-names>J.-H.</given-names></name>
+</person-group><article-title>Clinical Impact of Positron Emission Tomography or Positron Emission Tomography/Computed Tomography in the Posttherapy Surveillance of Endometrial Carcinoma: Evaluation of 88 Patients</article-title><source>Int. J. Gynecol. Cancer</source><year>2008</year><volume>18</volume><fpage>1332</fpage><lpage>1338</lpage><pub-id pub-id-type="doi">10.1111/j.1525-1438.2008.01197.x</pub-id><pub-id pub-id-type="pmid">18298562</pub-id>
+</element-citation></ref><ref id="B59-cancers-17-02608"><label>59.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>G.</given-names></name>
+<name><surname>Lai</surname><given-names>C.-H.</given-names></name>
+<name><surname>Yen</surname><given-names>T.-C.</given-names></name>
+</person-group><article-title>Emerging Molecular Imaging Techniques in Gynecologic Oncology</article-title><source>PET Clin.</source><year>2018</year><volume>13</volume><fpage>289</fpage><lpage>299</lpage><pub-id pub-id-type="doi">10.1016/j.cpet.2017.11.011</pub-id><pub-id pub-id-type="pmid">29482755</pub-id>
+</element-citation></ref><ref id="B60-cancers-17-02608"><label>60.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Torizuka</surname><given-names>T.</given-names></name>
+<name><surname>Nakamura</surname><given-names>F.</given-names></name>
+<name><surname>Takekuma</surname><given-names>M.</given-names></name>
+<name><surname>Kanno</surname><given-names>T.</given-names></name>
+<name><surname>Ogusu</surname><given-names>T.</given-names></name>
+<name><surname>Yoshikawa</surname><given-names>E.</given-names></name>
+<name><surname>Okada</surname><given-names>H.</given-names></name>
+<name><surname>Maeda</surname><given-names>M.</given-names></name>
+<name><surname>Ouchi</surname><given-names>Y.</given-names></name>
+</person-group><article-title>FDG PET for the Assessment of Myometrial Infiltration in Clinical Stage I Uterine Corpus Cancer</article-title><source>Nucl. Med. Commun.</source><year>2006</year><volume>27</volume><fpage>481</fpage><lpage>487</lpage><pub-id pub-id-type="doi">10.1097/00006231-200606000-00002</pub-id><pub-id pub-id-type="pmid">16710101</pub-id>
+</element-citation></ref><ref id="B61-cancers-17-02608"><label>61.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Walentowicz-Sad&#x00142;ecka</surname><given-names>M.</given-names></name>
+<name><surname>Sad&#x00142;ecki</surname><given-names>P.</given-names></name>
+<name><surname>Ma&#x00142;ecki</surname><given-names>B.</given-names></name>
+<name><surname>Walentowicz</surname><given-names>P.</given-names></name>
+<name><surname>Marsza&#x00142;ek</surname><given-names>A.</given-names></name>
+<name><surname>Domaracki</surname><given-names>P.</given-names></name>
+<name><surname>Grabiec</surname><given-names>M.</given-names></name>
+</person-group><article-title>SUVmax measured by 18F FDG PET/CT in the primary tumor in relation to clinical and pathological features of endometrial cancer</article-title><source>Ginekol. Pol.</source><year>2013</year><volume>84</volume><fpage>748</fpage><lpage>753</lpage><pub-id pub-id-type="doi">10.17772/gp/1634</pub-id><pub-id pub-id-type="pmid">24191511</pub-id>
+</element-citation></ref><ref id="B62-cancers-17-02608"><label>62.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sudo</surname><given-names>S.</given-names></name>
+<name><surname>Hattori</surname><given-names>N.</given-names></name>
+<name><surname>Manabe</surname><given-names>O.</given-names></name>
+<name><surname>Kato</surname><given-names>F.</given-names></name>
+<name><surname>Mimura</surname><given-names>R.</given-names></name>
+<name><surname>Magota</surname><given-names>K.</given-names></name>
+<name><surname>Sugimori</surname><given-names>H.</given-names></name>
+<name><surname>Hirata</surname><given-names>K.</given-names></name>
+<name><surname>Sakuragi</surname><given-names>N.</given-names></name>
+<name><surname>Tamaki</surname><given-names>N.</given-names></name>
+</person-group><article-title>FDG PET/CT Diagnostic Criteria May Need Adjustment Based on MRI to Estimate the Presurgical Risk of Extrapelvic Infiltration in Patients with Uterine Endometrial Cancer</article-title><source>Eur. J. Nucl. Med. Mol. Imaging</source><year>2015</year><volume>42</volume><fpage>676</fpage><lpage>684</lpage><pub-id pub-id-type="doi">10.1007/s00259-014-2964-7</pub-id><pub-id pub-id-type="pmid">25504022</pub-id>
+</element-citation></ref><ref id="B63-cancers-17-02608"><label>63.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Crivellaro</surname><given-names>C.</given-names></name>
+<name><surname>Landoni</surname><given-names>C.</given-names></name>
+<name><surname>Elisei</surname><given-names>F.</given-names></name>
+<name><surname>Buda</surname><given-names>A.</given-names></name>
+<name><surname>Bonacina</surname><given-names>M.</given-names></name>
+<name><surname>Grassi</surname><given-names>T.</given-names></name>
+<name><surname>Monaco</surname><given-names>L.</given-names></name>
+<name><surname>Giuliani</surname><given-names>D.</given-names></name>
+<name><surname>Gotuzzo</surname><given-names>I.</given-names></name>
+<name><surname>Magni</surname><given-names>S.</given-names></name>
+<etal/>
+</person-group><article-title>Combining Positron Emission Tomography/Computed Tomography, Radiomics, and Sentinel Lymph Node Mapping for Nodal Staging of Endometrial Cancer Patients</article-title><source>Int. J. Gynecol. Cancer</source><year>2020</year><volume>30</volume><fpage>378</fpage><lpage>382</lpage><pub-id pub-id-type="doi">10.1136/ijgc-2019-000945</pub-id><pub-id pub-id-type="pmid">32079712</pub-id>
+</element-citation></ref><ref id="B64-cancers-17-02608"><label>64.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Erdogan</surname><given-names>M.</given-names></name>
+<name><surname>Erdemoglu</surname><given-names>E.</given-names></name>
+<name><surname>Evrimler</surname><given-names>&#x0015e;.</given-names></name>
+<name><surname>Hanedan</surname><given-names>C.</given-names></name>
+<name><surname>&#x0015e;eng&#x000fc;l</surname><given-names>S.S.</given-names></name>
+</person-group><article-title>Prognostic Value of Metabolic Tumor Volume and Total Lesion Glycolysis Assessed by <sup>18</sup>F-FDG PET/CT in Endometrial Cancer</article-title><source>Nucl. Med. Commun.</source><year>2019</year><volume>40</volume><fpage>1099</fpage><lpage>1104</lpage><pub-id pub-id-type="doi">10.1097/MNM.0000000000001091</pub-id><pub-id pub-id-type="pmid">31568194</pub-id>
+</element-citation></ref><ref id="B65-cancers-17-02608"><label>65.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mapelli</surname><given-names>P.</given-names></name>
+<name><surname>Bergamini</surname><given-names>A.</given-names></name>
+<name><surname>Fallanca</surname><given-names>F.</given-names></name>
+<name><surname>Rancoita</surname><given-names>P.M.V.</given-names></name>
+<name><surname>Cioffi</surname><given-names>R.</given-names></name>
+<name><surname>Incerti</surname><given-names>E.</given-names></name>
+<name><surname>Rabaiotti</surname><given-names>E.</given-names></name>
+<name><surname>Petrone</surname><given-names>M.</given-names></name>
+<name><surname>Mangili</surname><given-names>G.</given-names></name>
+<name><surname>Candiani</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group><article-title>Prognostic Role of FDG PET-Derived Parameters in Preoperative Staging of Endometrial Cancer</article-title><source>Rev. Espa&#x000f1;ola Med. Nucl. Imagen Mol.</source><year>2019</year><volume>38</volume><fpage>3</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1016/j.remnie.2018.07.005</pub-id></element-citation></ref><ref id="B66-cancers-17-02608"><label>66.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Perrone</surname><given-names>E.</given-names></name>
+<name><surname>De Felice</surname><given-names>F.</given-names></name>
+<name><surname>Capasso</surname><given-names>I.</given-names></name>
+<name><surname>Distefano</surname><given-names>E.</given-names></name>
+<name><surname>Lorusso</surname><given-names>D.</given-names></name>
+<name><surname>Nero</surname><given-names>C.</given-names></name>
+<name><surname>Arciuolo</surname><given-names>D.</given-names></name>
+<name><surname>Zannoni</surname><given-names>G.F.</given-names></name>
+<name><surname>Scambia</surname><given-names>G.</given-names></name>
+<name><surname>Fanfani</surname><given-names>F.</given-names></name>
+</person-group><article-title>The Immunohistochemical Molecular Risk Classification in Endometrial Cancer: A Pragmatic and High-Reproducibility Method</article-title><source>Gynecol. Oncol.</source><year>2022</year><volume>165</volume><fpage>585</fpage><lpage>593</lpage><pub-id pub-id-type="doi">10.1016/j.ygyno.2022.03.009</pub-id><pub-id pub-id-type="pmid">35341588</pub-id>
+</element-citation></ref><ref id="B67-cancers-17-02608"><label>67.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lee</surname><given-names>H.J.</given-names></name>
+<name><surname>Ahn</surname><given-names>B.-C.</given-names></name>
+<name><surname>Hong</surname><given-names>C.M.</given-names></name>
+<name><surname>Song</surname><given-names>B.I.</given-names></name>
+<name><surname>Kim</surname><given-names>H.W.</given-names></name>
+<name><surname>Kang</surname><given-names>S.</given-names></name>
+<name><surname>Jeong</surname><given-names>S.Y.</given-names></name>
+<name><surname>Lee</surname><given-names>S.-W.</given-names></name>
+<name><surname>Lee</surname><given-names>J.</given-names></name>
+</person-group><article-title>Preoperative Risk Stratification Using (18)F-FDG PET/CT in Women with Endometrial Cancer</article-title><source>Nuklearmedizin</source><year>2011</year><volume>50</volume><fpage>204</fpage><lpage>213</lpage><pub-id pub-id-type="doi">10.3413/nukmed-0375-10-12</pub-id><pub-id pub-id-type="pmid">21727990</pub-id>
+</element-citation></ref><ref id="B68-cancers-17-02608"><label>68.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>&#x000d6;zg&#x000fc;</surname><given-names>E.</given-names></name>
+<name><surname>&#x000d6;z</surname><given-names>M.</given-names></name>
+<name><surname>Y&#x00131;ld&#x00131;z</surname><given-names>Y.</given-names></name>
+<name><surname>&#x000d6;zg&#x000fc;</surname><given-names>B.S.</given-names></name>
+<name><surname>Erkaya</surname><given-names>S.</given-names></name>
+<name><surname>G&#x000fc;ng&#x000f6;r</surname><given-names>T.</given-names></name>
+</person-group><article-title>Prognostic Value of <sup>18</sup>F-FDG PET/CT for Identifying High- and Low-Risk Endometrial Cancer Patients</article-title><source>Ginekol. Pol.</source><year>2016</year><volume>87</volume><fpage>493</fpage><lpage>497</lpage><pub-id pub-id-type="doi">10.5603/GP.2016.0032</pub-id><pub-id pub-id-type="pmid">27504941</pub-id>
+</element-citation></ref><ref id="B69-cancers-17-02608"><label>69.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kitajima</surname><given-names>K.</given-names></name>
+<name><surname>Suenaga</surname><given-names>Y.</given-names></name>
+<name><surname>Ueno</surname><given-names>Y.</given-names></name>
+<name><surname>Maeda</surname><given-names>T.</given-names></name>
+<name><surname>Ebina</surname><given-names>Y.</given-names></name>
+<name><surname>Yamada</surname><given-names>H.</given-names></name>
+<name><surname>Okunaga</surname><given-names>T.</given-names></name>
+<name><surname>Kubo</surname><given-names>K.</given-names></name>
+<name><surname>Sofue</surname><given-names>K.</given-names></name>
+<name><surname>Kanda</surname><given-names>T.</given-names></name>
+<etal/>
+</person-group><article-title>Preoperative Risk Stratification Using Metabolic Parameters of (18)F-FDG PET/CT in Patients with Endometrial Cancer</article-title><source>Eur. J. Nucl. Med. Mol. Imaging</source><year>2015</year><volume>42</volume><fpage>1268</fpage><lpage>1275</lpage><pub-id pub-id-type="doi">10.1007/s00259-015-3037-2</pub-id><pub-id pub-id-type="pmid">25833351</pub-id>
+</element-citation></ref><ref id="B70-cancers-17-02608"><label>70.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shih</surname><given-names>I.-L.</given-names></name>
+<name><surname>Yen</surname><given-names>R.-F.</given-names></name>
+<name><surname>Chen</surname><given-names>C.-A.</given-names></name>
+<name><surname>Cheng</surname><given-names>W.-F.</given-names></name>
+<name><surname>Chen</surname><given-names>B.-B.</given-names></name>
+<name><surname>Zheng</surname><given-names>Q.-Y.</given-names></name>
+<name><surname>Cheng</surname><given-names>M.-F.</given-names></name>
+<name><surname>Chen</surname><given-names>J.L.-Y.</given-names></name>
+<name><surname>Shih</surname><given-names>T.T.-F.</given-names></name>
+</person-group><article-title>PET/MRI in Endometrial Cancer: Imaging Biomarkers Are Associated with Disease Progression and Overall Survival</article-title><source>Acad. Radiol.</source><year>2024</year><volume>31</volume><fpage>939</fpage><lpage>950</lpage><pub-id pub-id-type="doi">10.1016/j.acra.2023.08.012</pub-id><pub-id pub-id-type="pmid">37714718</pub-id>
+</element-citation></ref><ref id="B71-cancers-17-02608"><label>71.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Nakamura</surname><given-names>K.</given-names></name>
+<name><surname>Joja</surname><given-names>I.</given-names></name>
+<name><surname>Fukushima</surname><given-names>C.</given-names></name>
+<name><surname>Haruma</surname><given-names>T.</given-names></name>
+<name><surname>Hayashi</surname><given-names>C.</given-names></name>
+<name><surname>Kusumoto</surname><given-names>T.</given-names></name>
+<name><surname>Seki</surname><given-names>N.</given-names></name>
+<name><surname>Hongo</surname><given-names>A.</given-names></name>
+<name><surname>Hiramatsu</surname><given-names>Y.</given-names></name>
+</person-group><article-title>The Preoperative SUVmax Is Superior to ADCmin of the Primary Tumour as a Predictor of Disease Recurrence and Survival in Patients with Endometrial Cancer</article-title><source>Eur. J. Nucl. Med. Mol. Imaging</source><year>2013</year><volume>40</volume><fpage>52</fpage><lpage>60</lpage><pub-id pub-id-type="doi">10.1007/s00259-012-2240-7</pub-id><pub-id pub-id-type="pmid">22968401</pub-id>
+</element-citation></ref><ref id="B72-cancers-17-02608"><label>72.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>F.-Y.</given-names></name>
+<name><surname>Chao</surname><given-names>A.</given-names></name>
+<name><surname>Lai</surname><given-names>C.-H.</given-names></name>
+<name><surname>Chou</surname><given-names>H.-H.</given-names></name>
+<name><surname>Yen</surname><given-names>T.-C.</given-names></name>
+</person-group><article-title>Metabolic Tumor Volume by <sup>18</sup>F-FDG PET/CT Is Prognostic for Stage IVB Endometrial Carcinoma</article-title><source>Gynecol. Oncol.</source><year>2012</year><volume>125</volume><fpage>566</fpage><lpage>571</lpage><pub-id pub-id-type="doi">10.1016/j.ygyno.2012.03.021</pub-id><pub-id pub-id-type="pmid">22440787</pub-id>
+</element-citation></ref><ref id="B73-cancers-17-02608"><label>73.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kitajima</surname><given-names>K.</given-names></name>
+<name><surname>Kita</surname><given-names>M.</given-names></name>
+<name><surname>Suzuki</surname><given-names>K.</given-names></name>
+<name><surname>Senda</surname><given-names>M.</given-names></name>
+<name><surname>Nakamoto</surname><given-names>Y.</given-names></name>
+<name><surname>Sugimura</surname><given-names>K.</given-names></name>
+</person-group><article-title>Prognostic Significance of SUVmax (Maximum Standardized Uptake Value) Measured by [<sup>18</sup>F]FDG PET/CT in Endometrial Cancer</article-title><source>Eur. J. Nucl. Med. Mol. Imaging</source><year>2012</year><volume>39</volume><fpage>840</fpage><lpage>845</lpage><pub-id pub-id-type="doi">10.1007/s00259-011-2057-9</pub-id><pub-id pub-id-type="pmid">22349717</pub-id>
+</element-citation></ref><ref id="B74-cancers-17-02608"><label>74.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yanarate&#x0015f;</surname><given-names>A.</given-names></name>
+<name><surname>Budak</surname><given-names>E.</given-names></name>
+</person-group><article-title>Prognostic Role of PET/CT in Endometrial Cancer</article-title><source>Ginekol. Pol.</source><year>2019</year><volume>90</volume><fpage>491</fpage><lpage>495</lpage><pub-id pub-id-type="doi">10.5603/GP.2019.0085</pub-id><pub-id pub-id-type="pmid">31588544</pub-id>
+</element-citation></ref><ref id="B75-cancers-17-02608"><label>75.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shim</surname><given-names>S.-H.</given-names></name>
+<name><surname>Kim</surname><given-names>D.-Y.</given-names></name>
+<name><surname>Lee</surname><given-names>D.-Y.</given-names></name>
+<name><surname>Lee</surname><given-names>S.-W.</given-names></name>
+<name><surname>Park</surname><given-names>J.-Y.</given-names></name>
+<name><surname>Lee</surname><given-names>J.</given-names></name>
+<name><surname>Kim</surname><given-names>J.-H.</given-names></name>
+<name><surname>Kim</surname><given-names>Y.-M.</given-names></name>
+<name><surname>Kim</surname><given-names>Y.-T.</given-names></name>
+<name><surname>Nam</surname><given-names>J.-H.</given-names></name>
+</person-group><article-title>Metabolic Tumour Volume and Total Lesion Glycolysis, Measured Using Preoperative <sup>18</sup>F-FDG PET/CT, Predict the Recurrence of Endometrial Cancer</article-title><source>BJOG Int. J. Obstet. Gynecol.</source><year>2014</year><volume>121</volume><fpage>1097</fpage><lpage>1106</lpage><pub-id pub-id-type="doi">10.1111/1471-0528.12543</pub-id><pub-id pub-id-type="pmid">24397772</pub-id>
+</element-citation></ref><ref id="B76-cancers-17-02608"><label>76.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>H.J.</given-names></name>
+<name><surname>Choi</surname><given-names>J.</given-names></name>
+<name><surname>Jeong</surname><given-names>Y.H.</given-names></name>
+<name><surname>Jo</surname><given-names>K.H.</given-names></name>
+<name><surname>Lee</surname><given-names>J.-H.</given-names></name>
+<name><surname>Cho</surname><given-names>A.</given-names></name>
+<name><surname>Yun</surname><given-names>M.</given-names></name>
+<name><surname>Lee</surname><given-names>J.D.</given-names></name>
+<name><surname>Kim</surname><given-names>Y.T.</given-names></name>
+<name><surname>Kang</surname><given-names>W.J.</given-names></name>
+</person-group><article-title>Prognostic Value of Metabolic Activity Measured by (18)F-FDG PET/CT in Patients with Advanced Endometrial Cancer</article-title><source>Nucl. Med. Mol. Imaging</source><year>2013</year><volume>47</volume><fpage>257</fpage><lpage>262</lpage><pub-id pub-id-type="doi">10.1007/s13139-013-0228-2</pub-id><pub-id pub-id-type="pmid">24900121</pub-id>
+</element-citation></ref><ref id="B77-cancers-17-02608"><label>77.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chung</surname><given-names>H.H.</given-names></name>
+<name><surname>Cheon</surname><given-names>G.J.</given-names></name>
+<name><surname>Kim</surname><given-names>J.-W.</given-names></name>
+<name><surname>Park</surname><given-names>N.-H.</given-names></name>
+<name><surname>Song</surname><given-names>Y.S.</given-names></name>
+</person-group><article-title>Prognostic Value of Lymph Node-to-Primary Tumor Standardized Uptake Value Ratio in Endometrioid Endometrial Carcinoma</article-title><source>Eur. J. Nucl. Med. Mol. Imaging</source><year>2018</year><volume>45</volume><fpage>47</fpage><lpage>55</lpage><pub-id pub-id-type="doi">10.1007/s00259-017-3805-2</pub-id><pub-id pub-id-type="pmid">28828510</pub-id>
+</element-citation></ref><ref id="B78-cancers-17-02608"><label>78.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Noriega-&#x000c1;lvarez</surname><given-names>E.</given-names></name>
+<name><surname>Garc&#x000ed;a Vicente</surname><given-names>A.M.</given-names></name>
+<name><surname>Jim&#x000e9;nez Londo&#x000f1;o</surname><given-names>G.A.</given-names></name>
+<name><surname>Mart&#x000ed;nez Bravo</surname><given-names>W.R.</given-names></name>
+<name><surname>Gonz&#x000e1;lez Garc&#x000ed;a</surname><given-names>B.</given-names></name>
+<name><surname>Soriano Castrej&#x000f3;n</surname><given-names>&#x000c1;.M.</given-names></name>
+</person-group><article-title>A Systematic Review about the Role of Preoperative <sup>18</sup>F-FDG PET/CT for Prognosis and Risk Stratification in Patients with Endometrial Cancer</article-title><source>Rev. Espa&#x000f1;ola Med. Nucl. Imagen Mol.</source><year>2023</year><volume>42</volume><fpage>24</fpage><lpage>32</lpage><pub-id pub-id-type="doi">10.1016/j.remnie.2021.05.009</pub-id><pub-id pub-id-type="pmid">34172434</pub-id>
+</element-citation></ref><ref id="B79-cancers-17-02608"><label>79.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tsujikawa</surname><given-names>T.</given-names></name>
+<name><surname>Yoshida</surname><given-names>Y.</given-names></name>
+<name><surname>Kiyono</surname><given-names>Y.</given-names></name>
+<name><surname>Kurokawa</surname><given-names>T.</given-names></name>
+<name><surname>Kudo</surname><given-names>T.</given-names></name>
+<name><surname>Fujibayashi</surname><given-names>Y.</given-names></name>
+<name><surname>Kotsuji</surname><given-names>F.</given-names></name>
+<name><surname>Okazawa</surname><given-names>H.</given-names></name>
+</person-group><article-title>Functional Oestrogen Receptor &#x003b1; Imaging in Endometrial Carcinoma Using 16&#x003b1;-[<sup>18</sup>F]Fluoro-17&#x003b2;-Oestradiol PET</article-title><source>Eur. J. Nucl. Med. Mol. Imaging</source><year>2011</year><volume>38</volume><fpage>37</fpage><lpage>45</lpage><pub-id pub-id-type="doi">10.1007/s00259-010-1589-8</pub-id><pub-id pub-id-type="pmid">20717823</pub-id>
+</element-citation></ref><ref id="B80-cancers-17-02608"><label>80.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>Z.</given-names></name>
+<name><surname>Yoshida</surname><given-names>Y.</given-names></name>
+<name><surname>Kurokawa</surname><given-names>T.</given-names></name>
+<name><surname>Kiyono</surname><given-names>Y.</given-names></name>
+<name><surname>Mori</surname><given-names>T.</given-names></name>
+<name><surname>Okazawa</surname><given-names>H.</given-names></name>
+</person-group><article-title>18F-FES and 18F-FDG PET for Differential Diagnosis and Quantitative Evaluation of Mesenchymal Uterine Tumors: Correlation with Immunohistochemical Analysis</article-title><source>J. Nucl. Med.</source><year>2013</year><volume>54</volume><fpage>499</fpage><lpage>506</lpage><pub-id pub-id-type="doi">10.2967/jnumed.112.113472</pub-id><pub-id pub-id-type="pmid">23471314</pub-id>
+</element-citation></ref><ref id="B81-cancers-17-02608"><label>81.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mori</surname><given-names>T.</given-names></name>
+<name><surname>Kasamatsu</surname><given-names>S.</given-names></name>
+<name><surname>Mosdzianowski</surname><given-names>C.</given-names></name>
+<name><surname>Welch</surname><given-names>M.J.</given-names></name>
+<name><surname>Yonekura</surname><given-names>Y.</given-names></name>
+<name><surname>Fujibayashi</surname><given-names>Y.</given-names></name>
+</person-group><article-title>Automatic Synthesis of 16&#x003b1;-[<sup>18</sup>F]Fluoro-17&#x003b2;-Estradiol Using a Cassette-Type [<sup>18</sup>F]Fluorodeoxyglucose Synthesizer</article-title><source>Nucl. Med. Biol.</source><year>2006</year><volume>33</volume><fpage>281</fpage><lpage>286</lpage><pub-id pub-id-type="doi">10.1016/j.nucmedbio.2005.11.002</pub-id><pub-id pub-id-type="pmid">16546684</pub-id>
+</element-citation></ref><ref id="B82-cancers-17-02608"><label>82.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gehrig</surname><given-names>P.A.</given-names></name>
+<name><surname>Van Le</surname><given-names>L.</given-names></name>
+<name><surname>Olatidoye</surname><given-names>B.</given-names></name>
+<name><surname>Geradts</surname><given-names>J.</given-names></name>
+</person-group><article-title>Estrogen Receptor Status, Determined by Immunohistochemistry, as a Predictor of the Recurrence of Stage I Endometrial Carcinoma</article-title><source>Cancer</source><year>1999</year><volume>86</volume><fpage>2083</fpage><lpage>2089</lpage><pub-id pub-id-type="doi">10.1002/(SICI)1097-0142(19991115)86:10&#x0003c;2083::AID-CNCR28&#x0003e;3.0.CO;2-2</pub-id><pub-id pub-id-type="pmid">10570435</pub-id>
+</element-citation></ref><ref id="B83-cancers-17-02608"><label>83.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jongen</surname><given-names>V.</given-names></name>
+<name><surname>Bri&#x000eb;t</surname><given-names>J.</given-names></name>
+<name><surname>De Jong</surname><given-names>R.</given-names></name>
+<name><surname>Ten Hoor</surname><given-names>K.</given-names></name>
+<name><surname>Boezen</surname><given-names>M.</given-names></name>
+<name><surname>Van Der Zee</surname><given-names>A.</given-names></name>
+<name><surname>Nijman</surname><given-names>H.</given-names></name>
+<name><surname>Hollema</surname><given-names>H.</given-names></name>
+</person-group><article-title>Expression of Estrogen Receptor-Alpha and -Beta and Progesterone Receptor-A and -B in a Large Cohort of Patients with Endometrioid Endometrial Cancer</article-title><source>Gynecol. Oncol.</source><year>2009</year><volume>112</volume><fpage>537</fpage><lpage>542</lpage><pub-id pub-id-type="doi">10.1016/j.ygyno.2008.10.032</pub-id><pub-id pub-id-type="pmid">19108875</pub-id>
+</element-citation></ref><ref id="B84-cancers-17-02608"><label>84.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Trovik</surname><given-names>J.</given-names></name>
+<name><surname>Wik</surname><given-names>E.</given-names></name>
+<name><surname>Werner</surname><given-names>H.M.J.</given-names></name>
+<name><surname>Krakstad</surname><given-names>C.</given-names></name>
+<name><surname>Helland</surname><given-names>H.</given-names></name>
+<name><surname>Vandenput</surname><given-names>I.</given-names></name>
+<name><surname>Njolstad</surname><given-names>T.S.</given-names></name>
+<name><surname>Stefansson</surname><given-names>I.M.</given-names></name>
+<name><surname>Marcickiewicz</surname><given-names>J.</given-names></name>
+<name><surname>Tingulstad</surname><given-names>S.</given-names></name>
+<etal/>
+</person-group><article-title>Hormone Receptor Loss in Endometrial Carcinoma Curettage Predicts Lymph Node Metastasis and Poor Outcome in Prospective Multicentre Trial</article-title><source>Eur. J. Cancer</source><year>2013</year><volume>49</volume><fpage>3431</fpage><lpage>3441</lpage><pub-id pub-id-type="doi">10.1016/j.ejca.2013.06.016</pub-id><pub-id pub-id-type="pmid">23932335</pub-id>
+</element-citation></ref><ref id="B85-cancers-17-02608"><label>85.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yamada</surname><given-names>S.</given-names></name>
+<name><surname>Tsuyoshi</surname><given-names>H.</given-names></name>
+<name><surname>Yamamoto</surname><given-names>M.</given-names></name>
+<name><surname>Tsujikawa</surname><given-names>T.</given-names></name>
+<name><surname>Kiyono</surname><given-names>Y.</given-names></name>
+<name><surname>Okazawa</surname><given-names>H.</given-names></name>
+<name><surname>Yoshida</surname><given-names>Y.</given-names></name>
+</person-group><article-title>Prognostic Value of 16&#x003b1;-18F-Fluoro-17&#x003b2;-Estradiol PET as a Predictor of Disease Outcome in Endometrial Cancer: A Prospective Study</article-title><source>J. Nucl. Med.</source><year>2021</year><volume>62</volume><fpage>636</fpage><lpage>642</lpage><pub-id pub-id-type="doi">10.2967/jnumed.120.244319</pub-id><pub-id pub-id-type="pmid">33008930</pub-id>
+</element-citation></ref><ref id="B86-cancers-17-02608"><label>86.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tsujikawa</surname><given-names>T.</given-names></name>
+<name><surname>Yoshida</surname><given-names>Y.</given-names></name>
+<name><surname>Mori</surname><given-names>T.</given-names></name>
+<name><surname>Kurokawa</surname><given-names>T.</given-names></name>
+<name><surname>Fujibayashi</surname><given-names>Y.</given-names></name>
+<name><surname>Kotsuji</surname><given-names>F.</given-names></name>
+<name><surname>Okazawa</surname><given-names>H.</given-names></name>
+</person-group><article-title>Uterine Tumors: Pathophysiologic Imaging with 16alpha-[<sup>18</sup>F]Fluoro-17beta-Estradiol and 18F Fluorodeoxyglucose PET--Initial Experience</article-title><source>Radiology</source><year>2008</year><volume>248</volume><fpage>599</fpage><lpage>605</lpage><pub-id pub-id-type="doi">10.1148/radiol.2482071379</pub-id><pub-id pub-id-type="pmid">18539894</pub-id>
+</element-citation></ref><ref id="B87-cancers-17-02608"><label>87.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tsujikawa</surname><given-names>T.</given-names></name>
+<name><surname>Yoshida</surname><given-names>Y.</given-names></name>
+<name><surname>Kudo</surname><given-names>T.</given-names></name>
+<name><surname>Kiyono</surname><given-names>Y.</given-names></name>
+<name><surname>Kurokawa</surname><given-names>T.</given-names></name>
+<name><surname>Kobayashi</surname><given-names>M.</given-names></name>
+<name><surname>Tsuchida</surname><given-names>T.</given-names></name>
+<name><surname>Fujibayashi</surname><given-names>Y.</given-names></name>
+<name><surname>Kotsuji</surname><given-names>F.</given-names></name>
+<name><surname>Okazawa</surname><given-names>H.</given-names></name>
+</person-group><article-title>Functional Images Reflect Aggressiveness of Endometrial Carcinoma: Estrogen Receptor Expression Combined with 18F-FDG PET</article-title><source>J. Nucl. Med.</source><year>2009</year><volume>50</volume><fpage>1598</fpage><lpage>1604</lpage><pub-id pub-id-type="doi">10.2967/jnumed.108.060145</pub-id><pub-id pub-id-type="pmid">19759112</pub-id>
+</element-citation></ref><ref id="B88-cancers-17-02608"><label>88.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yamamoto</surname><given-names>M.</given-names></name>
+<name><surname>Tsujikawa</surname><given-names>T.</given-names></name>
+<name><surname>Yamada</surname><given-names>S.</given-names></name>
+<name><surname>Kurokawa</surname><given-names>T.</given-names></name>
+<name><surname>Shinagawa</surname><given-names>A.</given-names></name>
+<name><surname>Chino</surname><given-names>Y.</given-names></name>
+<name><surname>Mori</surname><given-names>T.</given-names></name>
+<name><surname>Kiyono</surname><given-names>Y.</given-names></name>
+<name><surname>Okazawa</surname><given-names>H.</given-names></name>
+<name><surname>Yoshida</surname><given-names>Y.</given-names></name>
+</person-group><article-title>18F-FDG/18F-FES Standardized Uptake Value Ratio Determined Using PET Predicts Prognosis in Uterine Sarcoma</article-title><source>Oncotarget</source><year>2017</year><volume>8</volume><fpage>22581</fpage><lpage>22589</lpage><pub-id pub-id-type="doi">10.18632/oncotarget.15127</pub-id><pub-id pub-id-type="pmid">28186981</pub-id>
+</element-citation></ref><ref id="B89-cancers-17-02608"><label>89.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Van Kruchten</surname><given-names>M.</given-names></name>
+<name><surname>Hospers</surname><given-names>G.A.P.</given-names></name>
+<name><surname>Glaudemans</surname><given-names>A.W.J.M.</given-names></name>
+<name><surname>Hollema</surname><given-names>H.</given-names></name>
+<name><surname>Arts</surname><given-names>H.J.G.</given-names></name>
+<name><surname>Reyners</surname><given-names>A.K.L.</given-names></name>
+</person-group><article-title>Positron Emission Tomography Imaging of Oestrogen Receptor-Expression in Endometrial Stromal Sarcoma Supports Oestrogen Receptor-Targeted Therapy: Case Report and Review of the Literature</article-title><source>Eur. J. Cancer</source><year>2013</year><volume>49</volume><fpage>3850</fpage><lpage>3855</lpage><pub-id pub-id-type="doi">10.1016/j.ejca.2013.08.005</pub-id><pub-id pub-id-type="pmid">24007820</pub-id>
+</element-citation></ref><ref id="B90-cancers-17-02608"><label>90.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mankoff</surname><given-names>D.A.</given-names></name>
+<name><surname>Tewson</surname><given-names>T.J.</given-names></name>
+<name><surname>Eary</surname><given-names>J.F.</given-names></name>
+</person-group><article-title>Analysis of Blood Clearance and Labeled Metabolites for the Estrogen Receptor Tracer [F-18]-16 Alpha-Fluoroestradiol (FES)</article-title><source>Nucl. Med. Biol.</source><year>1997</year><volume>24</volume><fpage>341</fpage><lpage>348</lpage><pub-id pub-id-type="doi">10.1016/S0969-8051(97)00002-4</pub-id><pub-id pub-id-type="pmid">9257333</pub-id>
+</element-citation></ref><ref id="B91-cancers-17-02608"><label>91.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tewson</surname><given-names>T.J.</given-names></name>
+<name><surname>Mankoff</surname><given-names>D.A.</given-names></name>
+<name><surname>Peterson</surname><given-names>L.M.</given-names></name>
+<name><surname>Woo</surname><given-names>I.</given-names></name>
+<name><surname>Petra</surname><given-names>P.</given-names></name>
+</person-group><article-title>Interactions of 16alpha-[<sup>18</sup>F]-Fluoroestradiol (FES) with Sex Steroid Binding Protein (SBP)</article-title><source>Nucl. Med. Biol.</source><year>1999</year><volume>26</volume><fpage>905</fpage><lpage>913</lpage><pub-id pub-id-type="doi">10.1016/S0969-8051(99)00072-4</pub-id><pub-id pub-id-type="pmid">10708304</pub-id>
+</element-citation></ref><ref id="B92-cancers-17-02608"><label>92.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Seimbille</surname><given-names>Y.</given-names></name>
+<name><surname>Ali</surname><given-names>H.</given-names></name>
+<name><surname>Van Lier</surname><given-names>J.E.</given-names></name>
+</person-group><article-title>Synthesis of 2,16&#x003b1;- and 4,16&#x003b1;-Difluoroestradiols and Their 11&#x003b2;-Methoxy Derivatives as Potential Estrogen Receptor-Binding Radiopharmaceuticals</article-title><source>J. Chem. Soc. Perkin Trans. 1</source><year>2002</year><volume>44</volume><issue>(Suppl. 1)</issue><fpage>657</fpage><lpage>663</lpage><pub-id pub-id-type="doi">10.1039/b110021c</pub-id></element-citation></ref><ref id="B93-cancers-17-02608"><label>93.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Seimbille</surname><given-names>Y.</given-names></name>
+<name><surname>Rousseau</surname><given-names>J.</given-names></name>
+<name><surname>B&#x000e9;nard</surname><given-names>F.</given-names></name>
+<name><surname>Morin</surname><given-names>C.</given-names></name>
+<name><surname>Ali</surname><given-names>H.</given-names></name>
+<name><surname>Avvakumov</surname><given-names>G.</given-names></name>
+<name><surname>Hammond</surname><given-names>G.L.</given-names></name>
+<name><surname>Van Lier</surname><given-names>J.E.</given-names></name>
+</person-group><article-title>18F-Labeled Difluoroestradiols: Preparation and Preclinical Evaluation as Estrogen Receptor-Binding Radiopharmaceuticals</article-title><source>Steroids</source><year>2002</year><volume>67</volume><fpage>765</fpage><lpage>775</lpage><pub-id pub-id-type="doi">10.1016/S0039-128X(02)00025-9</pub-id><pub-id pub-id-type="pmid">12123788</pub-id>
+</element-citation></ref><ref id="B94-cancers-17-02608"><label>94.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Paquette</surname><given-names>M.</given-names></name>
+<name><surname>Espinosa-Bentancourt</surname><given-names>E.</given-names></name>
+<name><surname>Lavallee</surname><given-names>E.</given-names></name>
+<name><surname>Phoenix</surname><given-names>S.</given-names></name>
+<name><surname>Lapointe-Milot</surname><given-names>K.</given-names></name>
+<name><surname>Bessette</surname><given-names>P.</given-names></name>
+<name><surname>Guerin</surname><given-names>B.</given-names></name>
+<name><surname>Turcotte</surname><given-names>E.E.</given-names></name>
+</person-group><article-title><sup>18</sup> F-4FMFES and <sup>18</sup>F-FDG PET/CT in ER+ Endometrial Carcinomas: Preliminary Report</article-title><source>J. Nucl. Med.</source><year>2021</year><volume>63</volume><fpage>702</fpage><lpage>707</lpage><pub-id pub-id-type="doi">10.2967/jnumed.121.262617</pub-id><pub-id pub-id-type="pmid">34413142</pub-id>
+</element-citation></ref><ref id="B95-cancers-17-02608"><label>95.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Giesel</surname><given-names>F.L.</given-names></name>
+<name><surname>Kratochwil</surname><given-names>C.</given-names></name>
+<name><surname>Lindner</surname><given-names>T.</given-names></name>
+<name><surname>Marschalek</surname><given-names>M.M.</given-names></name>
+<name><surname>Loktev</surname><given-names>A.</given-names></name>
+<name><surname>Lehnert</surname><given-names>W.</given-names></name>
+<name><surname>Debus</surname><given-names>J.</given-names></name>
+<name><surname>J&#x000e4;ger</surname><given-names>D.</given-names></name>
+<name><surname>Flechsig</surname><given-names>P.</given-names></name>
+<name><surname>Altmann</surname><given-names>A.</given-names></name>
+<etal/>
+</person-group><article-title>68Ga-FAPI PET/CT: Biodistribution and Preliminary Dosimetry Estimate of 2 DOTA-Containing FAP-Targeting Agents in Patients with Various Cancers</article-title><source>J. Nucl. Med.</source><year>2019</year><volume>60</volume><fpage>386</fpage><lpage>392</lpage><pub-id pub-id-type="doi">10.2967/jnumed.118.215913</pub-id><pub-id pub-id-type="pmid">30072500</pub-id>
+</element-citation></ref><ref id="B96-cancers-17-02608"><label>96.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dendl</surname><given-names>K.</given-names></name>
+<name><surname>Koerber</surname><given-names>S.A.</given-names></name>
+<name><surname>Finck</surname><given-names>R.</given-names></name>
+<name><surname>Mokoala</surname><given-names>K.M.G.</given-names></name>
+<name><surname>Staudinger</surname><given-names>F.</given-names></name>
+<name><surname>Schillings</surname><given-names>L.</given-names></name>
+<name><surname>Heger</surname><given-names>U.</given-names></name>
+<name><surname>R&#x000f6;hrich</surname><given-names>M.</given-names></name>
+<name><surname>Kratochwil</surname><given-names>C.</given-names></name>
+<name><surname>Sathekge</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group><article-title>68Ga-FAPI-PET/CT in Patients with Various Gynecological Malignancies</article-title><source>Eur. J. Nucl. Med. Mol. Imaging</source><year>2021</year><volume>48</volume><fpage>4089</fpage><lpage>4100</lpage><pub-id pub-id-type="doi">10.1007/s00259-021-05378-0</pub-id><pub-id pub-id-type="pmid">34050777</pub-id>
+</element-citation></ref><ref id="B97-cancers-17-02608"><label>97.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>T.</given-names></name>
+<name><surname>Zhang</surname><given-names>J.</given-names></name>
+<name><surname>Yan</surname><given-names>Y.</given-names></name>
+<name><surname>Tan</surname><given-names>M.</given-names></name>
+<name><surname>Chen</surname><given-names>Y.</given-names></name>
+</person-group><article-title>Applications of FAPI PET/CT in the Diagnosis and Treatment of Breast and the Most Common Gynecologic Malignancies: A Literature Review</article-title><source>Front. Oncol.</source><year>2024</year><volume>14</volume><elocation-id>1358070</elocation-id><pub-id pub-id-type="doi">10.3389/fonc.2024.1358070</pub-id><pub-id pub-id-type="pmid">38505595</pub-id>
+</element-citation></ref><ref id="B98-cancers-17-02608"><label>98.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Usmani</surname><given-names>S.</given-names></name>
+<name><surname>Al Riyami</surname><given-names>K.</given-names></name>
+<name><surname>Ahmad</surname><given-names>N.</given-names></name>
+<name><surname>Burney</surname><given-names>I.A.</given-names></name>
+</person-group><article-title>The Role of 68Ga-FAPI PET/CT Imaging in Gynecological Cancers: An Integrative Review</article-title><source>Nucl. Med. Commun.</source><year>2025</year><volume>46</volume><fpage>585</fpage><lpage>591</lpage><pub-id pub-id-type="doi">10.1097/MNM.0000000000001977</pub-id><pub-id pub-id-type="pmid">40129262</pub-id>
+</element-citation></ref><ref id="B99-cancers-17-02608"><label>99.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>C.</given-names></name>
+<name><surname>Chen</surname><given-names>R.</given-names></name>
+<name><surname>Zhou</surname><given-names>X.</given-names></name>
+<name><surname>Xia</surname><given-names>Q.</given-names></name>
+<name><surname>Liu</surname><given-names>J.</given-names></name>
+</person-group><article-title>Preoperative Evaluation of Residual Tumor in Patients with Endometrial Carcinoma by Using <sup>18</sup>F-FDG PET/CT</article-title><source>J. Cancer</source><year>2020</year><volume>11</volume><fpage>2283</fpage><lpage>2288</lpage><pub-id pub-id-type="doi">10.7150/jca.39423</pub-id><pub-id pub-id-type="pmid">32127955</pub-id>
+</element-citation></ref><ref id="B100-cancers-17-02608"><label>100.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kiran</surname><given-names>M.Y.</given-names></name>
+<name><surname>Has Simsek</surname><given-names>D.</given-names></name>
+<name><surname>Sanli</surname><given-names>Y.</given-names></name>
+<name><surname>Kuyumcu</surname><given-names>S.</given-names></name>
+</person-group><article-title>18F-FDG and 68Ga-FAPI-04 PET/CT in Evaluating Clear-Cell Endometrial Cancer</article-title><source>Clin. Nucl. Med.</source><year>2023</year><volume>48</volume><fpage>e87</fpage><lpage>e88</lpage><pub-id pub-id-type="doi">10.1097/RLU.0000000000004532</pub-id><pub-id pub-id-type="pmid">36607380</pub-id>
+</element-citation></ref><ref id="B101-cancers-17-02608"><label>101.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yamane</surname><given-names>T.</given-names></name>
+<name><surname>Takaoka</surname><given-names>A.</given-names></name>
+<name><surname>Kita</surname><given-names>M.</given-names></name>
+<name><surname>Imai</surname><given-names>Y.</given-names></name>
+<name><surname>Senda</surname><given-names>M.</given-names></name>
+</person-group><article-title>18F-FLT PET Performs Better than 18F-FDG PET in Differentiating Malignant Uterine Corpus Tumors from Benign Leiomyoma</article-title><source>Ann. Nucl. Med.</source><year>2012</year><volume>26</volume><fpage>478</fpage><lpage>484</lpage><pub-id pub-id-type="doi">10.1007/s12149-012-0597-0</pub-id><pub-id pub-id-type="pmid">22477262</pub-id>
+</element-citation></ref><ref id="B102-cancers-17-02608"><label>102.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Goyal</surname><given-names>M.</given-names></name>
+<name><surname>Tafe</surname><given-names>L.J.</given-names></name>
+<name><surname>Feng</surname><given-names>J.X.</given-names></name>
+<name><surname>Muller</surname><given-names>K.E.</given-names></name>
+<name><surname>Hondelink</surname><given-names>L.</given-names></name>
+<name><surname>Bentz</surname><given-names>J.L.</given-names></name>
+<name><surname>Hassanpour</surname><given-names>S.</given-names></name>
+</person-group><article-title>Deep Learning for Grading Endometrial Cancer</article-title><source>Am. J. Pathol.</source><year>2024</year><volume>194</volume><fpage>1701</fpage><lpage>1711</lpage><pub-id pub-id-type="doi">10.1016/j.ajpath.2024.05.003</pub-id><pub-id pub-id-type="pmid">38879079</pub-id>
+</element-citation></ref><ref id="B103-cancers-17-02608"><label>103.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bezzi</surname><given-names>C.</given-names></name>
+<name><surname>Bergamini</surname><given-names>A.</given-names></name>
+<name><surname>Mathoux</surname><given-names>G.</given-names></name>
+<name><surname>Ghezzo</surname><given-names>S.</given-names></name>
+<name><surname>Monaco</surname><given-names>L.</given-names></name>
+<name><surname>Candotti</surname><given-names>G.</given-names></name>
+<name><surname>Fallanca</surname><given-names>F.</given-names></name>
+<name><surname>Gajate</surname><given-names>A.M.S.</given-names></name>
+<name><surname>Rabaiotti</surname><given-names>E.</given-names></name>
+<name><surname>Cioffi</surname><given-names>R.</given-names></name>
+<etal/>
+</person-group><article-title>Role of Machine Learning (ML)-Based Classification Using Conventional 18F-FDG PET Parameters in Predicting Postsurgical Features of Endometrial Cancer Aggressiveness</article-title><source>Cancers</source><year>2023</year><volume>15</volume><elocation-id>325</elocation-id><pub-id pub-id-type="doi">10.3390/cancers15010325</pub-id><pub-id pub-id-type="pmid">36612321</pub-id>
+</element-citation></ref><ref id="B104-cancers-17-02608"><label>104.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Steyaert</surname><given-names>S.</given-names></name>
+<name><surname>Pizurica</surname><given-names>M.</given-names></name>
+<name><surname>Nagaraj</surname><given-names>D.</given-names></name>
+<name><surname>Khandelwal</surname><given-names>P.</given-names></name>
+<name><surname>Hernandez-Boussard</surname><given-names>T.</given-names></name>
+<name><surname>Gentles</surname><given-names>A.J.</given-names></name>
+<name><surname>Gevaert</surname><given-names>O.</given-names></name>
+</person-group><article-title>Multimodal data fusion for cancer biomarker discovery with deep learning</article-title><source>Nat. Mach. Intell.</source><year>2023</year><volume>5</volume><fpage>351</fpage><lpage>362</lpage><pub-id pub-id-type="doi">10.1038/s42256-023-00633-5</pub-id><pub-id pub-id-type="pmid">37693852</pub-id>
+</element-citation></ref></ref-list></back><floats-group><fig position="float" id="cancers-17-02608-f001"><label>Figure 1</label><caption><p>Preoperative risk groups apparently confined to the uterus with molecular classification. MI: myometrial invasion. POLEmut: Molecular subgroup with mutation in the <italic toggle="yes">POLE</italic> gene. MMRd: Molecular subgroup with mutation in DNA repair proteins. NSMP: Molecular subgroup that does not have mutation in POLE, p53, or DNA repair proteins. p53abr: Molecular subgroup with mutation in p53.</p></caption><graphic xlink:href="cancers-17-02608-g001" position="float"/></fig><fig position="float" id="cancers-17-02608-f002"><label>Figure 2</label><caption><p>A 50-year-old woman with a FIGO IIIC1 EC. (<bold>a</bold>) Maximum intensity projection (MIP) and (<bold>b</bold>) coronal fused [<sup>18</sup>F]F-FDG PET/MRI staging images showing primary endometrial tumor with bilateral common iliac lymph node involvement (white arrows) and left external iliac node metastasis. (<bold>c</bold>) Axial fused [<sup>18</sup>F]F-FDG PET/MRI, (<bold>d</bold>) axial T2-weighted, (<bold>e</bold>) axial [<sup>18</sup>F]F-FDG PET, and (<bold>f</bold>) DWI images showing a heterogeneous on T2 with diffusion restriction of primary tumor (green arrow) and a 9 mm left external iliac lymph node with pathological FDG uptake (red arrow).</p></caption><graphic xlink:href="cancers-17-02608-g002" position="float"/></fig><fig position="float" id="cancers-17-02608-f003"><label>Figure 3</label><caption><p>A 70-year-old woman with a diagnosis of stage IV serous EC. The maximum intensity projection PET image (<bold>a</bold>) shows extensive disease with uterine involvement, supra- and infradiaphragmatic adenopathy, and peritoneal involvement (red arrows). Fused axial CT and [<sup>18</sup>F]F-FDG PET/CT slices (<bold>b</bold>&#x02013;<bold>d</bold>) show foci of pathologic hypermetabolism in the uterus, pelvic lymph nodes, and peritoneum (<bold>b</bold>); peritoneal implants in the greater omentum (<bold>c</bold>); and mediastinal adenopathy in the right paratracheal region and the aortopulmonary window (<bold>d</bold>).</p></caption><graphic xlink:href="cancers-17-02608-g003" position="float"/></fig><fig position="float" id="cancers-17-02608-f004"><label>Figure 4</label><caption><p>A 58-year-old woman diagnosed with stage IV clear cell EC, undergoing treatment with Pembrolizumab and Lenvatinib. A comparison is presented between the pre-treatment [<sup>18</sup>F]F-FDG PET/CT (<bold>top row</bold>) and follow-up study (<bold>bottom row</bold>). The maximum intensity projection PET images (<bold>a</bold>) provide a global view confirming clear disease progression. This progression is evident through both an increase in size and metabolism of known lesions and the appearance of multiple new metastatic foci (red arrows). Axial slices detail these findings, showing increased pelvic involvement (<bold>b</bold>), enlarged supra and infradiaphragmatic lymphadenopathies (<bold>c</bold>,<bold>d</bold>), and the appearance of new bilateral pulmonary nodules (<bold>e</bold>).</p></caption><graphic xlink:href="cancers-17-02608-g004" position="float"/></fig><fig position="float" id="cancers-17-02608-f005"><label>Figure 5</label><caption><p>A 72-year-old woman with a history of stage IA G2 endometrioid EC, treated in October 2014 with laparoscopic hysterectomy and bilateral salpingo-oophorectomy. In May 2019, a follow-up CT scan revealed a suspicious nodular image suggestive of recurrence in the vaginal cuff, prompting a [<sup>18</sup>F]F-FDG PET/CT request in June 2019. The [<sup>18</sup>F]F-FDG PET/CT confirmed disease recurrence; the maximum intensity projection PET image (<bold>a</bold>) shows focal involvement in the vaginal cuff and pelvic lymph nodes (red arrows). Axial CT and PET/CT slices (<bold>b</bold>&#x02013;<bold>d</bold>) localize the recurrence to the left-sided vaginal cuff (<bold>b</bold>) and additionally demonstrate metastatic lymphadenopathies in the common iliac chains (<bold>c</bold>) and bilateral internal iliac chains (<bold>d</bold>).</p></caption><graphic xlink:href="cancers-17-02608-g005" position="float"/></fig><fig position="float" id="cancers-17-02608-f006"><label>Figure 6</label><caption><p>A 75-year-old woman with a history of stage IB FIGO clear cell EC, treated in April 2022 with total hysterectomy, bilateral salpingo-oophorectomy, pelvic and aortocaval lymphadenectomy, and omentectomy, followed by adjuvant chemoradiotherapy and brachytherapy. Due to the appearance of pulmonary nodules on a follow-up CT scan, a [<sup>18</sup>F]F-FDG PET/CT was requested. The study revealed distant disease recurrence, with the maximum intensity projection PET image (<bold>a</bold>) demonstrating multiple pulmonary nodules, pleural implants, and bone involvement (red arrows). Axial CT and PET/CT slices (<bold>b</bold>&#x02013;<bold>d</bold>) confirmed foci of pathological hypermetabolism corresponding to bilateral pulmonary nodules (<bold>b</bold>), an implant in the right costal pleura (<bold>c</bold>), a mediastinal lymphadenopathy in a prevascular location, a subpleural pulmonary nodule in the right lower lobe, and the fourth right anterior costal arch (<bold>d</bold>).</p></caption><graphic xlink:href="cancers-17-02608-g006" position="float"/></fig><fig position="float" id="cancers-17-02608-f007"><label>Figure 7</label><caption><p>A 64-year-old woman with recurrent EC at vaginal stump (red arrow). The lesion demonstrated increased metabolic activity on axial fused [<sup>18</sup>F]F-FDG PET/MRI and axial [<sup>18</sup>F]F-FDG PET images (<bold>a</bold>,<bold>b</bold>), along with diffusion restriction on axial ADC and DWI images (<bold>c</bold>,<bold>d</bold>). The lateral vaginal walls show diffuse increased metabolic activity (yellow arrows; (<bold>e</bold>,<bold>f</bold>)) with no diffusion restriction (<bold>g</bold>,<bold>h</bold>) consistent with inflammatory changes secondary to radiotherapy. Axial fused [<sup>18</sup>F]F-FDG PET/MRI, axial [<sup>18</sup>F]F-FDG PET and axial T2-weighted MRI images (<bold>i</bold>&#x02013;<bold>k</bold>, respectively) show a hypermetabolic nodule in the right upper lung lobe (blue arrow), suggestive of malignancy.</p></caption><graphic xlink:href="cancers-17-02608-g007" position="float"/></fig><fig position="float" id="cancers-17-02608-f008"><label>Figure 8</label><caption><p>A 65-year-old female with a history of stage IB FIGO serous EC, treated with radiotherapy and brachytherapy. A comparison of two [<sup>18</sup>F]F-FDG PET/CT studies is presented. The axial fused CT and PET/CT slices in the top row correspond to the first post-treatment study, showing residual focal uptake in the anterior uterine wall (<bold>a</bold>). The axial fused CT and PET/CT slices in the bottom row, from the follow-up study 6 months later, demonstrate an increase in both the intensity and extent of this uptake suggestive of progression (<bold>b</bold>).</p></caption><graphic xlink:href="cancers-17-02608-g008" position="float"/></fig><table-wrap position="float" id="cancers-17-02608-t001"><object-id pub-id-type="pii">cancers-17-02608-t001_Table 1</object-id><label>Table 1</label><caption><p>TNM stage and description of FIGO classification of endometrial cancer.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">FIGO Stage</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">FIGO Description</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">T</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">N</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">M</th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">I</td><td align="center" valign="middle" rowspan="1" colspan="1">Tumor confined to the body of the uterus</td><td align="center" valign="middle" rowspan="1" colspan="1">T1</td><td align="center" valign="middle" rowspan="1" colspan="1">N0</td><td align="center" valign="middle" rowspan="1" colspan="1">M0</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">IA</td><td align="center" valign="middle" rowspan="1" colspan="1">No myometrial invasion or less than half</td><td align="center" valign="middle" rowspan="1" colspan="1">T1a</td><td align="center" valign="middle" rowspan="1" colspan="1">N0</td><td align="center" valign="middle" rowspan="1" colspan="1">M0</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">IB</td><td align="center" valign="middle" rowspan="1" colspan="1">Myometrial invasion equal to or greater than half</td><td align="center" valign="middle" rowspan="1" colspan="1">T1b</td><td align="center" valign="middle" rowspan="1" colspan="1">N0</td><td align="center" valign="middle" rowspan="1" colspan="1">M0</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">II</td><td align="center" valign="middle" rowspan="1" colspan="1">Tumor invading cervical stroma without extending beyond the uterus</td><td align="center" valign="middle" rowspan="1" colspan="1">T2</td><td align="center" valign="middle" rowspan="1" colspan="1">N0</td><td align="center" valign="middle" rowspan="1" colspan="1">M0</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">III</td><td align="center" valign="middle" rowspan="1" colspan="1">Local and/or regional extension of the tumor</td><td align="center" valign="middle" rowspan="1" colspan="1">T3</td><td align="center" valign="middle" rowspan="1" colspan="1">N0&#x02013;N1</td><td align="center" valign="middle" rowspan="1" colspan="1">M0</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">IIIA</td><td align="center" valign="middle" rowspan="1" colspan="1">Tumor invading the serosa of the uterine body and/or adnexa</td><td align="center" valign="middle" rowspan="1" colspan="1">T3a</td><td align="center" valign="middle" rowspan="1" colspan="1">N0</td><td align="center" valign="middle" rowspan="1" colspan="1">M0</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">IIIB</td><td align="center" valign="middle" rowspan="1" colspan="1">Vaginal and/or parametrial involvement</td><td align="center" valign="middle" rowspan="1" colspan="1">T3b</td><td align="center" valign="middle" rowspan="1" colspan="1">N0</td><td align="center" valign="middle" rowspan="1" colspan="1">M0</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">IIIC1</td><td align="center" valign="middle" rowspan="1" colspan="1">Positive pelvic nodes</td><td align="center" valign="middle" rowspan="1" colspan="1">T1&#x02013;T3</td><td align="center" valign="middle" rowspan="1" colspan="1">N1</td><td align="center" valign="middle" rowspan="1" colspan="1">M0</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">IIIC2</td><td align="center" valign="middle" rowspan="1" colspan="1">Positive aortic nodes with or without positive pelvic nodes</td><td align="center" valign="middle" rowspan="1" colspan="1">T1&#x02013;T3</td><td align="center" valign="middle" rowspan="1" colspan="1">N1</td><td align="center" valign="middle" rowspan="1" colspan="1">M0</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">IVA</td><td align="center" valign="middle" rowspan="1" colspan="1">Tumor invading the lining of the bladder and/or rectum</td><td align="center" valign="middle" rowspan="1" colspan="1">T4</td><td align="center" valign="middle" rowspan="1" colspan="1">Any N</td><td align="center" valign="middle" rowspan="1" colspan="1">M0</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">IVB</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Distant metastases, including intra-abdominal and/or inguinal node metastases</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Any T</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Any N</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">M1</td></tr></tbody></table><table-wrap-foot><fn><p>T: tumor, N: lymph nodes, M: metastases.</p></fn></table-wrap-foot></table-wrap><table-wrap position="float" id="cancers-17-02608-t002"><object-id pub-id-type="pii">cancers-17-02608-t002_Table 2</object-id><label>Table 2</label><caption><p>Pros and cons of PET/CT and PET/MRI in EC initial staging.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">
+</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Pros and Cons of PET/CT</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Pros and Cons of PET/MRI</th></tr></thead><tbody><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<bold>T</bold>
+</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pros: shorter acquisition.<break/>Cons: <break/>- Low soft tissue resolution.<break/>- Not accurate for the evaluation of MI or CI.</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pros: <break/>- Superior soft tissue contrast. <break/>- More accurate assessment of local tumor extent as MI or CI (may help guide radiation therapy planning).<break/>- Possibility of association of radiomic variables of both techniques in prognosis assessment.<break/>Cons: longer acquisition.</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<bold>N</bold>
+</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pros: high specificity.<break/>Cons: low sensitivity.</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pros: high specificity (PET adds specificity to MRI).<break/>Cons: moderate-low sensitivity.</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<bold>M</bold>
+</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pros: effective distant metastases global detection. More optimal in lung metastases detection.<break/>Cons: limitations in liver metastases.</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pros: more optimal in liver, soft tissues, and osteolitic bone metastases detection.<break/>Cons: longer and less comfortable study for patients.</td></tr></tbody></table><table-wrap-foot><fn><p>MI: myometrial invasion; CI: cervical involvement.</p></fn></table-wrap-foot></table-wrap><table-wrap position="float" id="cancers-17-02608-t003"><object-id pub-id-type="pii">cancers-17-02608-t003_Table 3</object-id><label>Table 3</label><caption><p>Quantitative <sup>18</sup>F-FDG PET/CT biomarkers.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Biomarker</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Description</th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">SUV</td><td align="center" valign="middle" rowspan="1" colspan="1">Measure the uptake of the radioactive tracer in a specific ROI to assess the activity and metabolism of tissues:<break/> SUV = Tracer concentration in ROI (kBq/mL)/Injected dose per body weight (kBq/g)</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">SUVmean</td><td align="center" valign="middle" rowspan="1" colspan="1">Calculating the average tracer uptake in the selected ROI<break/> A comprehensive assessment of the overall tracer uptake within the ROI, useful for areas with varying tracer uptake (e.g., tumors)</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">SUVmax</td><td align="center" valign="middle" rowspan="1" colspan="1">Indicating the highest level of tracer uptake within a defined ROI</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">MTV</td><td align="center" valign="middle" rowspan="1" colspan="1">The metabolically active volume of the tumor (i.e., the portion of the tumor with a high SUV)</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">TLG</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Provides a more comprehensive measure of tumor activity than SUVmax or SUVmean alone. TLG = SUVmean &#x000d7; MTV</td></tr></tbody></table><table-wrap-foot><fn><p>SUV: standardized uptake value; ROI: region of interest; SUVmean: mean standardized uptake value; SUVmax: maximum standardized uptake value; MTV: metabolic tumor volume; TLG: total lesion glycolysis.</p></fn></table-wrap-foot></table-wrap></floats-group></article>

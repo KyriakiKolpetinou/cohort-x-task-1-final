@@ -1,0 +1,1310 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="review-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Rev Cardiovasc Med</journal-id><journal-id journal-id-type="iso-abbrev">Rev Cardiovasc Med</journal-id><journal-id journal-id-type="publisher-id">RCM</journal-id><journal-title-group><journal-title>Reviews in Cardiovascular Medicine</journal-title></journal-title-group><issn pub-type="ppub">1530-6550</issn><issn pub-type="epub">2153-8174</issn><publisher><publisher-name>IMR Press</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">41089771</article-id><article-id pub-id-type="pmc">12516765</article-id><article-id pub-id-type="doi">10.31083/RCM39717</article-id><article-id pub-id-type="publisher-id">S1530-6550(25)01916-7</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Coronary Computed Tomography Angiography-Derived Fractional Flow Reserve: A Comprehensive Review</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0009-0007-4930-3079</contrib-id><name><surname>Yi</surname><given-names>Dongna</given-names></name><xref rid="aff1" ref-type="aff"><sup>1</sup>
+</xref><xref rid="fn-1" ref-type="author-notes"><sup>&#x02020;</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-1497-4415</contrib-id><name><surname>Zhou</surname><given-names>Fan</given-names></name><xref rid="aff1" ref-type="aff"><sup>1</sup>
+</xref><xref rid="fn-1" ref-type="author-notes"><sup>&#x02020;</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Liang</surname><given-names>Quan</given-names></name><xref rid="aff1" ref-type="aff"><sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Liu</surname><given-names>Tongyuan</given-names></name><xref rid="aff1" ref-type="aff"><sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff"><sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Bao</surname><given-names>Xueqin</given-names></name><xref rid="aff1" ref-type="aff"><sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Cai</surname><given-names>Jun</given-names></name><xref rid="aff1" ref-type="aff"><sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-0592-7898</contrib-id><name><surname>Tang</surname><given-names>Chunxiang</given-names></name><xref rid="aff1" ref-type="aff"><sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-6664-7224</contrib-id><name><surname>Zhang</surname><given-names>Longjiang</given-names></name><xref rid="aff1" ref-type="aff"><sup>1</sup>
+</xref><xref rid="cor1" ref-type="corresp"><sup>*</sup>
+</xref><email>kevinzhlj@163.com</email></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Korosoglou</surname><given-names>Grigorios</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="aff1"><sup>1</sup>Department of Radiology, Jinling Hospital, Affiliated Hospital of Medical School, Nanjing University, 210002 Nanjing, Jiangsu, China
+</aff><aff id="aff2"><sup>2</sup>Department of Radiology, Jinling Hospital, Nanjing Medical University, 210002 Nanjing, Jiangsu, China
+</aff><author-notes><corresp id="cor1"><sup>*</sup>Correspondence:
+<email>kevinzhlj@163.com</email> (Longjiang Zhang)
+</corresp><fn id="fn-1"><p><sup>&#x02020;</sup>These authors contributed equally.
+</p></fn></author-notes><pub-date pub-type="epub"><day>26</day><month>9</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2025</year></pub-date><volume>26</volume><issue>9</issue><elocation-id>39717</elocation-id><history><date date-type="received"><day>14</day><month>4</month><year>2025</year></date><date date-type="rev-recd"><day>17</day><month>6</month><year>2025</year></date><date date-type="accepted"><day>26</day><month>6</month><year>2025</year></date></history><permissions><copyright-statement>Copyright: &#x000a9; 2025 The Author(s). Published by IMR Press.
+</copyright-statement><copyright-year>2025</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">
+CC BY 4.0 license</ext-link>.
+</license-p></license></permissions><abstract><p> Coronary computed tomography angiography (CCTA)-derived fractional flow reserve (CT-FFR) represents a significant technical advancement in the non-invasive evaluation of coronary artery disease, propelling CCTA into a new era of functional assessment. This review offers a comprehensive perspective on CT-FFR technology and its applications, encompassing technical refinements, diagnostic performance, indications, and other advantages. Furthermore, the implications of China-developed CT-FFR on the community and in different markets are discussed. </p></abstract><kwd-group kwd-group-type="author"><kwd>coronary computed tomography angiography</kwd><kwd>fractional flow reserve</kwd><kwd>coronary artery disease</kwd></kwd-group><funding-group><award-group><funding-source>National Key Research and Development Program of China</funding-source><award-id>2022YFC2010004</award-id></award-group><award-group><funding-source>Outstanding Youth Fund of Jiangsu Province</funding-source><award-id>BK20230048</award-id></award-group><award-group><funding-source>General Program of National Natural Science Foundation of China</funding-source><award-id>82171933</award-id></award-group><funding-statement> This research was supported by National Key Research and Development Program of China (2022YFC2010004), Outstanding Youth Fund of Jiangsu Province (BK20230048) and General Program of National Natural Science Foundation of China (82171933). </funding-statement></funding-group></article-meta></front><body><sec id="S1"><title>1. Introduction</title><p id="S1.p1">Fractional flow reserve (FFR) during invasive coronary angiography (ICA) has 
+traditionally been the gold standard for evaluating anatomical and physiological 
+relevance in coronary artery disease (CAD). It can detect functional ischemia, 
+guide revascularization, and predict clinical outcomes [<xref rid="b1" ref-type="bibr">1</xref>, <xref rid="b2" ref-type="bibr">2</xref>]. However, the 
+invasive nature, high cost, and potential complications of FFR limit its 
+widespread use, highlighting the need for non-invasive, safer, and more 
+cost-effective alternatives.</p><p id="S1.p2">Recently, non-invasive FFR derived from coronary computed tomography angiography 
+(CT-FFR) has been developed to provide both anatomical and physiological data 
+without extra radiation exposure or stress-inducing drug use. The premier CT-FFR 
+algorithm developed by HeartFlow&#x000ae; (Redwood City, CA, USA) 
+has been undergone validation in numerous multicenter clinical trials [<xref rid="b3" ref-type="bibr">3</xref>, <xref rid="b4" ref-type="bibr">4</xref>, <xref rid="b5" ref-type="bibr">5</xref>] and 
+has the ability to accurately identify hemodynamically significant CAD, reduce 
+ICA use, and guide the appropriate management of CAD patients [<xref rid="b6" ref-type="bibr">6</xref>]. However, 
+HeartFlow&#x000ae; CT-FFR requires the transfer of coronary computed 
+tomography angiography (CCTA) data to a core laboratory supercomputer for further 
+image processing [<xref rid="b7" ref-type="bibr">7</xref>]. This off-site model is expensive, time-consuming, and not 
+readily available, thus severely limiting its use in China as well as in many underdeveloped countries.</p><p id="S1.p3">Consequently, there is an urgent need for &#x0201c;on-site&#x0201d; CT-FFR algorithms. 
+Significant progress has recently been made in developing these algorithms, with 
+several domestically developed systems receiving key regulatory approvals in 
+China: DEEPVESSEL-FFR (Keya Medical, Shenzhen, Guangdong, China; FDA/CE/NMPA), AccuFFRct 
+(ArteryFlow Technology, Hangzhou, Zhejiang, China; CE/NMPA), skCT-FFR (ShuKun Technology, 
+Beijing, China; NMPA), and RuiXin CT-FFR (Raysight Medical, Shenzhen, Guangdong, China; 
+CE/NMPA) (<bold>Supplementary Fig. 1</bold>). Such recognition by the regulatory 
+authorities validates performance standards and increases availability and 
+cost-effectiveness in clinical workflows. The application of such on-site CT-FFR 
+algorithms highlights the value of local innovation in improving the 
+availability, efficiency, and cost-effectiveness of CT-FFR. The resulting 
+improvement in patient management has major relevance for other countries and for 
+the community in general. Notably, current on-site CT-FFR software in China can 
+fully automatically provide reliable results within 4 minutes and at a lower cost 
+for stable chest pain patients [<xref rid="b8" ref-type="bibr">8</xref>].</p><p id="S1.p4">This review synthesizes recent advancements in CT-FFR, encompassing technical 
+refinements, diagnostic validation, clinical indications, and additional 
+advantages. Special attention is given to the impact of domestically developed 
+Chinese CT-FFR on clinical practice and global markets.</p></sec><sec id="S2"><title>2. Development of CT-FFR Algorithm</title><p id="S2.p1">The present CT-FFR software is primarily categorized into four groups based on 
+the methods used to calculate FFR: full-order computational fluid dynamics 
+(CFD)-based CT-FFR, which uses comprehensive CFD for high accuracy but is 
+computationally intensive; reduced-order CFD-based CT-FFR, which simplifies the 
+model to reduce computational load while maintaining good accuracy; machine 
+learning (ML)-based CT-FFR, which utilizes algorithms to learn from large 
+datasets for efficient and faster predictions; and deep learning (DL)-based 
+CT-FFR, which employs deep neural networks for both automated coronary artery 
+segmentation and FFR calculation. Several prominent CT-FFR software programs are 
+available and approved by regulatory agency in China, including semi-automatic 
+CT-FFR tools and on-site CT-FFR technique characterized by full automation 
+[<xref rid="b8" ref-type="bibr">8</xref>, <xref rid="b9" ref-type="bibr">9</xref>, <xref rid="b10" ref-type="bibr">10</xref>, <xref rid="b11" ref-type="bibr">11</xref>, <xref rid="b12" ref-type="bibr">12</xref>, <xref rid="b13" ref-type="bibr">13</xref>, <xref rid="b14" ref-type="bibr">14</xref>, <xref rid="b15" ref-type="bibr">15</xref>, <xref rid="b16" ref-type="bibr">16</xref>].</p><sec id="S2.SS1"><title>2.1 CFD-based CT-FFR</title><p id="S2.SS1.p1">The implementation of CFD-based CT-FFR involves 5 fundamental steps: (1) 
+construction of patient-specific coronary anatomical models from CCTA images; (2) 
+estimation of baseline coronary flow with the presumption of normal supply 
+vessels; (3) evaluation of baseline myocardial microcirculatory resistance; (4) 
+measurement of coronary resistance changes during hyperemia; and (5) numerical 
+solution of the Navier-Stokes equations via finite element analysis and CFD 
+methods to derive coronary hemodynamics (flow, pressure, velocity) in both 
+physiologic states [<xref rid="b17" ref-type="bibr">17</xref>]. Since the introduction of HeartFlow&#x000ae; 
+CT-FFR in 2011, researchers have continued to refine computational speed and 
+efficiency [<xref rid="b18" ref-type="bibr">18</xref>, <xref rid="b19" ref-type="bibr">19</xref>]. Typically, one on-site CT-FFR technique employs the 
+transluminal attenuation gradient for setting outlet boundary conditions [<xref rid="b9" ref-type="bibr">9</xref>]. 
+This enables simultaneous standardization of measurements for CT instantaneous 
+wave-free ratio and wall shear stress, thereby offering a comprehensive tool for 
+detailed analysis of the hemodynamic mechanism in CAD. A recent multi-dimensional 
+CFD framework, incorporating 3D (for coronary simulation), 1D (for iterative 
+optimization), and 0D (for boundary condition definition) vascular models, has 
+been developed to improve CT-FFR prediction accuracy and efficiency [<xref rid="b20" ref-type="bibr">20</xref>]. By 
+utilizing patient-specific 0D boundary conditions and initial conditions derived 
+from the 3D model, this framework achieves accurate and efficient CT-FFR 
+computation.</p></sec><sec id="S2.SS2"><title>2.2 ML- and DL-based CT-FFR</title><p id="S2.SS2.p1">ML-based CT-FFR methodologies have emerged as innovative approaches in 
+functional coronary assessment. A representative ML-based technique, cFFR 
+(Siemens Healthineers, Erlangen, Germany), employs deep learning models for 
+offline training to extract coronary artery tree features related to 
+hemodynamics, linking pressure distribution to patient-specific cardiovascular 
+structures. During online prediction, it calculates the CT-FFR for individual 
+patients using the trained model. Advanced neural networks, such as Deep 
+Bidirectional Long-Term Recurrent Neural Network, are critical for the prediction 
+of CT-FFR values across the coronary arterial tree [<xref rid="b11" ref-type="bibr">11</xref>]. The architecture 
+operates in two sequential phases. Phase 1 employs a multilevel neural network 
+with three fully connected layers that extract features from coronary arterial 
+tree reconstructions, including lesion characteristics and proximal/distal 
+markers. Phase 2 utilizes a bidirectional recurrent neural network to process 
+feature sequences bidirectionally, incorporating contextual information from 
+surrounding nodes through recurrent connections with learned weights. The system 
+outputs vessel-specific FFR values, which are trained against ground truth 
+derived from Navier-Stokes equations referenced to ICA-FFR and optimized via 
+stochastic gradient descent. Another innovation combines an automated model for 
+coronary plaque segmentation and luminal extraction with reduced-order 3D CFD 
+into a fully-automated on-site CT-FFR system (Fig. <xref rid="S2.F1" ref-type="fig">1</xref>) [<xref rid="b8" ref-type="bibr">8</xref>]. Employing deep 
+learning, this technique automates coronary segmentation and establishes the 
+CT-FFR to invasive FFR relationship, substantially cutting radiologist 
+post-processing time and mitigating subjective bias. The resulting workflow 
+enables end-to-end CT-FFR assessment&#x02014;from CCTA image processing and report 
+generation to stenosis quantification and ischemia evaluation&#x02014;without manual 
+intervention. With calculation times under 4 minutes and a very low rejection 
+rate (0.2%, 1 of 464), this automated platform has been widely adopted by 
+Chinese healthcare institutions.</p><fig position="float" id="S2.F1"><label>Fig. 1.
+</label><caption><p><bold>Workflow for fully automatic ML-based CT-FFR calculation</bold>. (a) 
+CCTA images are used as the initial input. (b) An artificial intelligence-based segmentation model reconstructs the 
+coronary artery tree in 3D. (c) Segmentation features of the reconstructed tree 
+are extracted to compute CT-FFR values. (d) Regional blood flow, in both 
+non-stenotic and stenotic segments, is reconstructed using POD coefficients and basis, allowing calculation of the pressure 
+drop across lesions. (e) A neural network infers the POD coefficients by 
+integrating boundary conditions (BC) and compressed Xg that 
+represent the vessel morphology of stenotic and non-stenotic regions. CTA, 
+computed tomographic angiography; BC, boundary conditions; Xg, shape features; 
+POD, proper orthogonal decomposition; CT-FFR, coronary computed tomography 
+angiography-derived fractional flow reserve; ML, machine learning; LAD, left anterior descending artery&#x0037e; RCA, right coronary artery; RI, ramus intermedius; OM1, first obtuse marginal branch; D1, first diagonal branch; 3D, three-dimensional. (Reprinted 
+from Guo <italic toggle="yes">et al</italic>. [<xref rid="b8" ref-type="bibr">8</xref>] with permission from Elsevier).</p></caption><graphic xlink:href="2153-8174-26-9-39717-g1" id="S2.F1.g1" position="float"/></fig></sec></sec><sec id="S3"><title>3. Diagnostic Performance of CT-FFR and Influencing Factors </title><p id="S3.p1">Extensive research confirms that CFD-, ML- and DL-based CT-FFR outperform 
+conventional CCTA in detecting lesion-specific ischemia [<xref rid="b3" ref-type="bibr">3</xref>, <xref rid="b4" ref-type="bibr">4</xref>, <xref rid="b5" ref-type="bibr">5</xref>, <xref rid="b8" ref-type="bibr">8</xref>, <xref rid="b9" ref-type="bibr">9</xref>, <xref rid="b10" ref-type="bibr">10</xref>, <xref rid="b11" ref-type="bibr">11</xref>, <xref rid="b13" ref-type="bibr">13</xref>, <xref rid="b14" ref-type="bibr">14</xref>, <xref rid="b15" ref-type="bibr">15</xref>, <xref rid="b16" ref-type="bibr">16</xref>, <xref rid="b21" ref-type="bibr">21</xref>, <xref rid="b22" ref-type="bibr">22</xref>, <xref rid="b23" ref-type="bibr">23</xref>, <xref rid="b24" ref-type="bibr">24</xref>, <xref rid="b25" ref-type="bibr">25</xref>, <xref rid="b26" ref-type="bibr">26</xref>, <xref rid="b27" ref-type="bibr">27</xref>, <xref rid="b28" ref-type="bibr">28</xref>, <xref rid="b29" ref-type="bibr">29</xref>, <xref rid="b30" ref-type="bibr">30</xref>, <xref rid="b31" ref-type="bibr">31</xref>]. Some representative results for different CT-FFR algorithms are 
+summarized in <bold>Supplementary Tables 1,2,3</bold>. Using invasive FFR as a gold 
+standard, a recent study demonstrated superior diagnostic accuracy of fully 
+automated on-site CT-FFR versus CCTA and ICA in detecting lesion-specific 
+ischemia, both on a per-patient (area under the curve [AUC]: 0.82 vs. 0.55 vs. 
+0.57, <italic toggle="yes">p </italic>
+<inline-formula><mml:math id="w1" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.001) and per-vessel basis (AUC: 0.81 vs. 0.56 vs. 0.59, 
+<italic toggle="yes">p </italic>
+<inline-formula><mml:math id="w2" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.001) [<xref rid="b8" ref-type="bibr">8</xref>]. Furthermore, a novel CFD algorithm with optimized 
+parameters was developed, which constructs anatomic models using deep learning 
+and subsequently computes CT-FFR under optimized boundary conditions. In gray 
+zone lesions (FFR: 0.75 to 0.80), CT-FFR achieved 80% diagnostic accuracy, with 
+these lesions showing less severe stenosis than FFR <inline-formula><mml:math id="w3" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.76 lesions, but a 
+heavier plaque burden than non-ischemic lesions [<xref rid="b16" ref-type="bibr">16</xref>]. Combining on-site 
+CT-FFR with CCTA offers a diagnostic accuracy that is comparable to integrating 
+stress CT myocardial perfusion with CCTA [<xref rid="b27" ref-type="bibr">27</xref>, <xref rid="b31" ref-type="bibr">31</xref>, <xref rid="b32" ref-type="bibr">32</xref>]. However, CT-FFR avoids 
+additional scanning-related radiation, contrast media, and stress-inducing drugs, 
+making it safer and potentially more widely available in clinical practice than 
+CT perfusion.</p><p id="S3.p2">Extensive research has examined factors influencing the diagnostic performance 
+of CT-FFR, including patient-related, CT-FFR-related and CCTA-related factors 
+(listed in Table <xref rid="S3.T1" ref-type="table">1</xref>, Ref. [<xref rid="b21" ref-type="bibr">21</xref>, <xref rid="b33" ref-type="bibr">33</xref>, <xref rid="b34" ref-type="bibr">34</xref>, <xref rid="b35" ref-type="bibr">35</xref>, <xref rid="b36" ref-type="bibr">36</xref>, <xref rid="b37" ref-type="bibr">37</xref>, <xref rid="b38" ref-type="bibr">38</xref>, <xref rid="b39" ref-type="bibr">39</xref>, <xref rid="b40" ref-type="bibr">40</xref>, <xref rid="b41" ref-type="bibr">41</xref>, <xref rid="b42" ref-type="bibr">42</xref>, <xref rid="b43" ref-type="bibr">43</xref>, <xref rid="b44" ref-type="bibr">44</xref>, <xref rid="b45" ref-type="bibr">45</xref>, <xref rid="b46" ref-type="bibr">46</xref>, <xref rid="b47" ref-type="bibr">47</xref>]). The 
+consistent diagnostic capability of CT-FFR across diverse patient subgroups 
+highlights its utility for evaluating CAD in various clinical situations [<xref rid="b33" ref-type="bibr">33</xref>, <xref rid="b34" ref-type="bibr">34</xref>, <xref rid="b35" ref-type="bibr">35</xref>, <xref rid="b36" ref-type="bibr">36</xref>, <xref rid="b37" ref-type="bibr">37</xref>, <xref rid="b38" ref-type="bibr">38</xref>, <xref rid="b39" ref-type="bibr">39</xref>]. 
+Among CT-FFR-related factors, the location of the measurement site is crucial, 
+with 2 cm distal offset from the lesion terminus recommended. Of the CCTA-related 
+factors, image quality and calcium burden are the two most important factors. 
+Higher image quality (<inline-formula><mml:math id="w4" alttext="\geq" display="inline" overflow="scroll"><mml:mo>&#x02265;</mml:mo></mml:math></inline-formula>3) yields more accurate CT-FFR values. Emerging 
+evidence suggested that diagnostic capability of CT-FFR was not significantly 
+compromised by coronary calcification pattern, calcification remodeling index, 
+and coronary artery calcium score (CACS) [<xref rid="b40" ref-type="bibr">40</xref>, <xref rid="b41" ref-type="bibr">41</xref>]. While ML-based CT-FFR 
+outperformed CT-FFR in diagnostic performance across all strata for the Agatston 
+score, its accuracy progressively declines with increasing calcium burden [<xref rid="b42" ref-type="bibr">42</xref>]. 
+These findings indicate that high calcium plaque burden may degrade CT-FFR 
+computational accuracy. Novel photon-counting detector CT (PCCT), however, shows 
+promise in addressing this limitation. PCCT demonstrates superior capabilities in 
+reducing calcium blooming artifacts compared to conventional energy-integrating 
+detector CT, especially when utilizing high-energy virtual monoenergetic imaging 
+or ultra-high spatial resolution scanning protocols, as validated in both phantom 
+studies and cadaveric specimens [<xref rid="b48" ref-type="bibr">48</xref>]. Despite PCCT having potential advantages in 
+image quality, recent intra-individual comparative analyses reveal comparable 
+diagnostic accuracy between PCCT-derived FFR and conventional CT systems [<xref rid="b49" ref-type="bibr">49</xref>, <xref rid="b50" ref-type="bibr">50</xref>]. Given the high cost of PCCT and the effectiveness of existing solutions such 
+as stress CT perfusion in handling calcium-related challenges, further studies 
+must establish if PCCT delivers incremental value in CT-FFR assessment.</p><table-wrap position="float" id="S3.T1"><label>Table 1.
+</label><caption><p><bold>Influencing factors and clinical evidence of CT-FFR diagnostic 
+performance</bold>.</p></caption><table frame="hsides" rules="groups"><tbody><tr style="border-top:1px solid #000;border-bottom:1px solid #000;"><td rowspan="1" colspan="1">Factors</td><td rowspan="1" colspan="1">Evidence</td></tr><tr><td rowspan="3" colspan="1">Patient-related factors</td><td rowspan="1" colspan="1">Factors such as diabetes mellitus, hypertension, left ventricular diastolic dysfunction and myocardial bridge do not significantly impact CT-FFR diagnostic performance [<xref rid="b33" ref-type="bibr">33</xref>, <xref rid="b34" ref-type="bibr">34</xref>]</td></tr><tr><td rowspan="1" colspan="1">Although the myocardial bridge alters coronary anatomy during systole and affects CT-FFR values [<xref rid="b35" ref-type="bibr">35</xref>, <xref rid="b36" ref-type="bibr">36</xref>], the morphometric characteristics (depth/length) demonstrated no significant association with CT-FFR&#x02019;s predictive capability for hemodynamically significant lesions [<xref rid="b37" ref-type="bibr">37</xref>]</td></tr><tr><td rowspan="1" colspan="1">CT-FFR has shown reliable diagnostic accuracy across patient groups with varying degrees of stenosis [<xref rid="b38" ref-type="bibr">38</xref>, <xref rid="b39" ref-type="bibr">39</xref>]</td></tr><tr style="border-top:1px solid #000;border-bottom:1px solid #000;"><td rowspan="1" colspan="1">CT-FFR-related factors</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">CT-FFR algorithm</td><td rowspan="1" colspan="1">The ML-based and CFD-based CT-FFR algorithms demonstrate comparable diagnostic performance [<xref rid="b21" ref-type="bibr">21</xref>]</td></tr><tr style="border-top:1px solid #000;border-bottom:1px solid #000;"><td rowspan="1" colspan="1">Measurement location</td><td rowspan="1" colspan="1">The optimal CT-FFR measurement requires positioning at a two-centimeter distal offset from the stenotic segment [<xref rid="b43" ref-type="bibr">43</xref>]</td></tr><tr><td rowspan="1" colspan="1">CCTA-related factors</td><td rowspan="1" colspan="1"/></tr><tr style="border-top:1px solid #000;border-bottom:1px solid #000;"><td rowspan="1" colspan="1">Reconstruction algorithm</td><td rowspan="1" colspan="1">The motion correction algorithms significantly improve CT-FFR&#x02019;s diagnostic accuracy [<xref rid="b44" ref-type="bibr">44</xref>]</td></tr><tr><td rowspan="1" colspan="1">Reconstruction technology</td><td rowspan="1" colspan="1">CT-FFR measurements exhibit stability irrespective of the reconstruction approach employed, whether utilizing single-phase or multiphase cardiac data [<xref rid="b45" ref-type="bibr">45</xref>]</td></tr><tr style="border-top:1px solid #000;border-bottom:1px solid #000;"><td rowspan="1" colspan="1">Image quality</td><td rowspan="1" colspan="1">CT-FFR diagnostic performance improves with a heart rate of <inline-formula><mml:math id="w5" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>70 bpm during scanning, intracoronary enhancement within the range of 300&#x02013;400 HU, and high-quality images [<xref rid="b46" ref-type="bibr">46</xref>]</td></tr><tr style="border-top:1px solid #000;"><td rowspan="3" style="border-bottom:1px solid #000;" colspan="1">Coronary calcification</td><td rowspan="1" colspan="1">Factors such as the coronary calcification pattern, calcification remodeling index, and coronary artery calcium score have no significant impact on the diagnostic efficacy of ML-based CT-FFR [<xref rid="b40" ref-type="bibr">40</xref>, <xref rid="b41" ref-type="bibr">41</xref>]</td></tr><tr><td rowspan="1" colspan="1">CT-FFR outperforms CCTA alone in diagnostic performance across all categories of the Agatston score [<xref rid="b42" ref-type="bibr">42</xref>]</td></tr><tr style="border-bottom:1px solid #000;"><td rowspan="1" colspan="1">A calcium arc of <inline-formula><mml:math id="w6" alttext="&#x0003e;" display="inline" overflow="scroll"><mml:mo>&#x0003e;</mml:mo></mml:math></inline-formula>180 degrees is the sole independent predictor of incorrect diagnoses for ischemic coronary artery stenosis [<xref rid="b47" ref-type="bibr">47</xref>]</td></tr></tbody></table><table-wrap-foot><fn><p>CCTA, coronary computed tomography angiography; CT-FFR, coronary computed 
+tomography angiography-derived fractional flow reserve; ML, machine learning; 
+CFD, computational fluid dynamics.</p></fn></table-wrap-foot></table-wrap></sec><sec id="S4"><title>4. Clinical Indications for CT-FFR</title><p id="S4.p1">The evaluation of lesion-specific ischemia is the primary application for CT-FFR 
+in current clinical practice. According to the expert consensus from the Chinese 
+Society of Radiology [<xref rid="b51" ref-type="bibr">51</xref>], CT-FFR is primarily indicated for individuals 
+exhibiting 30% to 90% coronary stenosis on CCTA, excluding those with complex 
+lesions.</p><p id="S4.p2">CT-FFR applications have recently been expanded to include patients with 
+anomalous coronary origin [<xref rid="b52" ref-type="bibr">52</xref>, <xref rid="b53" ref-type="bibr">53</xref>], myocardial bridge (MB) [<xref rid="b35" ref-type="bibr">35</xref>, <xref rid="b36" ref-type="bibr">36</xref>, <xref rid="b37" ref-type="bibr">37</xref>, <xref rid="b54" ref-type="bibr">54</xref>], and 
+revascularization [<xref rid="b55" ref-type="bibr">55</xref>, <xref rid="b56" ref-type="bibr">56</xref>, <xref rid="b57" ref-type="bibr">57</xref>, <xref rid="b58" ref-type="bibr">58</xref>] (Table <xref rid="S4.T2" ref-type="table">2</xref>, Ref. [<xref rid="b35" ref-type="bibr">35</xref>, <xref rid="b36" ref-type="bibr">36</xref>, <xref rid="b37" ref-type="bibr">37</xref>, <xref rid="b52" ref-type="bibr">52</xref>, <xref rid="b54" ref-type="bibr">54</xref>, <xref rid="b55" ref-type="bibr">55</xref>, <xref rid="b56" ref-type="bibr">56</xref>, <xref rid="b57" ref-type="bibr">57</xref>, <xref rid="b58" ref-type="bibr">58</xref>, <xref rid="b59" ref-type="bibr">59</xref>, <xref rid="b60" ref-type="bibr">60</xref>, <xref rid="b61" ref-type="bibr">61</xref>]). 
+CT-FFR quantification of proximal left anterior descending MB plaque progression 
+has been established as a robust imaging biomarker [<xref rid="b54" ref-type="bibr">54</xref>]. Furthermore, its 
+application has proven valuable in guiding therapeutic approaches for anomalous 
+origin of the left coronary artery from the right sinus of Valsalva [<xref rid="b53" ref-type="bibr">53</xref>], and in 
+assisting the planning phase of coronary artery bypass grafting (CABG) [<xref rid="b56" ref-type="bibr">56</xref>].</p><table-wrap position="float" id="S4.T2"><label>Table 2.
+</label><caption><p><bold>Expansion of clinical indications for CT-FFR and the clinical 
+evidence</bold>.</p></caption><table frame="hsides" rules="groups"><tbody><tr style="border-top:1px solid #000;border-bottom:1px solid #000;"><td colspan="2" rowspan="1">Indications</td><td rowspan="1" colspan="1">Evidence</td></tr><tr><td colspan="2" rowspan="1">Patients with suspected CAD</td><td rowspan="1" colspan="1">CT-FFR application reduces unnecessary ICA referrals and procedures revealing non-obstructive CAD, thereby improving the revascularization-to-ICA ratio [<xref rid="b59" ref-type="bibr">59</xref>, <xref rid="b60" ref-type="bibr">60</xref>, <xref rid="b61" ref-type="bibr">61</xref>]</td></tr><tr style="border-top:1px solid #000;"><td rowspan="5" colspan="1">Patients with congenital coronary artery anomalies</td><td rowspan="1" colspan="1">Patients with R-ACAOS</td><td rowspan="1" colspan="1">CT-FFR serves as a clinically relevant tool for functional assessment in R-ACAOS with interarterial course, effectively linking high-risk anatomical features to ischemic risk and angina symptoms [<xref rid="b52" ref-type="bibr">52</xref>]</td></tr><tr><td rowspan="4" colspan="1">Patients with MB</td><td rowspan="1" colspan="1">CT-FFR demonstrates high sensitivity and negative predictive value for identifying MB-related ischemia, enabling reliable exclusion of hemodynamically relevant MB within clinical workflows [<xref rid="b36" ref-type="bibr">36</xref>]</td></tr><tr><td rowspan="1" colspan="1">Abnormal CT-FFR values are positively associated with typical angina symptoms [<xref rid="b35" ref-type="bibr">35</xref>]</td></tr><tr><td rowspan="1" colspan="1">CT-FFR exhibits excellent diagnostic capability for the detection of MB-related ischemia, unaffected by the depth classification of the MB [<xref rid="b37" ref-type="bibr">37</xref>]</td></tr><tr><td rowspan="1" colspan="1">CT-FFR facilitates early intervention targeting plaque development within the proximal LAD with MB [<xref rid="b54" ref-type="bibr">54</xref>]</td></tr><tr style="border-top:1px solid #000;"><td rowspan="3" style="border-bottom:1px solid #000;" colspan="1">Patients before/after revascularization</td><td rowspan="1" colspan="1">Patients with stent implantation</td><td rowspan="1" colspan="1">CT-FFR can help to identify in-stent restenosis after stent placement [<xref rid="b55" ref-type="bibr">55</xref>]</td></tr><tr><td rowspan="1" colspan="1">Patients with pre-CABG</td><td rowspan="1" colspan="1">Preoperative CT-FFR can predict 1-year graft patency and outperforms intraoperative transit-time flow measurement [<xref rid="b56" ref-type="bibr">56</xref>]</td></tr><tr style="border-bottom:1px solid #000;"><td rowspan="1" colspan="1">Patients with pre-TAVR</td><td rowspan="1" colspan="1">Pre-TAVR CT-FFR enhances physiological assessment of coronary stenosis and reduces unnecessary ICA [<xref rid="b57" ref-type="bibr">57</xref>, <xref rid="b58" ref-type="bibr">58</xref>]</td></tr></tbody></table><table-wrap-foot><fn><p>CT-FFR, coronary computed tomography angiography-derived fractional flow 
+reserve; CAD, coronary artery disease; ICA, Invasive coronary angiography; 
+R-ACAOS, anomalous origin of the right coronary artery from the left coronary 
+sinus; MB, myocardial bridge; LAD, left anterior descending artery; CABG, 
+coronary artery bypass grafting; TAVR, transcatheter aortic valve replacement.</p></fn></table-wrap-foot></table-wrap></sec><sec id="S5"><title>5. Guidance for Clinical Decision Making</title><p id="S5.p1">Integrating CCTA and CT-FFR provides comprehensive coronary artery assessment, 
+offering both anatomical and functional insights that guide treatment strategies 
+for suspected CAD and hence reducing the rate of unnecessary ICA [<xref rid="b59" ref-type="bibr">59</xref>, <xref rid="b60" ref-type="bibr">60</xref>, <xref rid="b61" ref-type="bibr">61</xref>]. This 
+evolution in coronary artery assessment has prompted the development and 
+refinement of various scoring systems, transitioning from purely anatomical 
+evaluation to integrated functional assessment.</p><p id="S5.p2">The Coronary Artery Disease-Reporting and Data System (CAD-RADS) [<xref rid="b62" ref-type="bibr">62</xref>] is the 
+cornerstone of standardized CCTA reporting and has evolved from its original 
+anatomical classification to the updated 2022 CAD-RADS 2.0 version [<xref rid="b63" ref-type="bibr">63</xref>]. This 
+version integrates stenosis, plaque burden, and functional assessment through 
+modifier &#x0201c;I&#x0201d; when CT-FFR or myocardial CT perfusion data is available. Table <xref rid="S5.T3" ref-type="table">3</xref> 
+summarizes the interpretation of modifier &#x0201c;I&#x0201d; for CT-FFR in CAD-RADS 2.0. 
+Several CT-FFR-based scoring systems have emerged from this integration of 
+functional parameters (Table <xref rid="S5.T4" ref-type="table">4</xref>, Ref. [<xref rid="b64" ref-type="bibr">64</xref>, <xref rid="b65" ref-type="bibr">65</xref>, <xref rid="b66" ref-type="bibr">66</xref>, <xref rid="b67" ref-type="bibr">67</xref>, <xref rid="b68" ref-type="bibr">68</xref>]), including the CT-FFR-based 
+functional SYNTAX score, CT-FFR-based functional CAD-RADS (Fig. <xref rid="S5.F2" ref-type="fig">2</xref>), and the 
+CT-FFR based functional Duke Jeopardy Score (Fig. <xref rid="S5.F3" ref-type="fig">3</xref>). Each of these systems is 
+designed to improve specific aspects of risk stratification and treatment 
+planning [<xref rid="b64" ref-type="bibr">64</xref>, <xref rid="b65" ref-type="bibr">65</xref>, <xref rid="b66" ref-type="bibr">66</xref>, <xref rid="b67" ref-type="bibr">67</xref>, <xref rid="b68" ref-type="bibr">68</xref>]. A significant proportion (22.9%) of patients initially 
+categorized as high/intermediate risk were down-classified to low-risk by the 
+CT-FFR-based functional SYNTAX score (FSS<sub>CTA</sub>). Furthermore, management plans 
+were modified in 30% of cases following functional CAD-RADS assessment, 
+diverging from the recommendations based on anatomical CAD-RADS. CT-FFR-based 
+functional scoring systems have demonstrated substantial clinical impact through 
+improved risk stratification and treatment decision-making, thus offering a more 
+precise and personalized approach to CAD management.</p><table-wrap position="float" id="S5.T3"><label>Table 3.
+</label><caption><p><bold>The interpretation of modifier &#x0201c;I&#x0201d; for CT-FFR in CAD-RADS 
+2.0</bold>.</p></caption><table frame="hsides" rules="groups"><tbody><tr style="border-top:1px solid #000;border-bottom:1px solid #000;"><td rowspan="1" colspan="1">CT-FFR</td><td rowspan="1" colspan="1">Interpretation and Considerations</td></tr><tr><td rowspan="1" colspan="1">Abnormal (I+)</td><td rowspan="1" colspan="1">CAD-RADS 3 or 4/I+</td></tr><tr><td rowspan="1" colspan="1"><inline-formula><mml:math id="w7" alttext="\leq" display="inline" overflow="scroll"><mml:mo>&#x02264;</mml:mo></mml:math></inline-formula>0.75</td><td rowspan="1" colspan="1">Anatomical stenosis matches with hemodynamic significance, and revascularization is recommended.</td></tr><tr><td rowspan="1" colspan="1">Borderline (I<inline-formula><mml:math id="w8" alttext="\pm" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula>)</td><td rowspan="1" colspan="1">CAD-RADS 3 or 4/I<inline-formula><mml:math id="w9" alttext="\pm" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula></td></tr><tr><td rowspan="1" colspan="1">0.76 to 0.80</td><td rowspan="1" colspan="1">Indications for invasive angiography include relevant symptoms, lesion location, and a hemodynamically significant &#x00394;CT-FFR (<inline-formula><mml:math id="w10" alttext="&#x0003e;" display="inline" overflow="scroll"><mml:mo>&#x0003e;</mml:mo></mml:math></inline-formula>0.12), quantified as the proximal-to-distal CT-FFR difference measured within 1&#x02013;2 cm of the stenosis.</td></tr><tr><td rowspan="1" colspan="1">Normal (I&#x02013;)</td><td rowspan="1" colspan="1">CAD-RADS 3 or 4/I&#x02013;</td></tr><tr style="border-bottom:1px solid #000;"><td rowspan="1" colspan="1"><inline-formula><mml:math id="w11" alttext="&#x0003e;" display="inline" overflow="scroll"><mml:mo>&#x0003e;</mml:mo></mml:math></inline-formula>0.80</td><td rowspan="1" colspan="1">Anatomic stenosis mismatches with ischemic lesions, or hemodynamic significance present without stenosis. Deferral of invasive coronary angiography and the optimization of medical therapy are recommended.</td></tr></tbody></table><table-wrap-foot><fn><p>CT-FFR is clinically indicated for hemodynamic assessment of 50&#x02013;90% coronary 
+stenoses, specifically CAD-RADS 3 and 4A lesions. For CAD-RADS 2 with proximal 
+<inline-formula><mml:math id="w12" alttext="\geq" display="inline" overflow="scroll"><mml:mo>&#x02265;</mml:mo></mml:math></inline-formula>40% stenosis, CT-FFR may be considered to assess the hemodynamic 
+significance even with high-risk plaque features. CT-FFR, computed 
+tomography-derived fractional flow reserve; CAD-RADS, Coronary Artery 
+Disease-Reporting and Data System.</p></fn></table-wrap-foot></table-wrap><table-wrap position="float" id="S5.T4"><label>Table 4.
+</label><caption><p><bold>CT-FFR-based functional scoring systems</bold>.</p></caption><table frame="hsides" rules="groups"><tbody><tr style="border-top:1px solid #000;border-bottom:1px solid #000;"><td rowspan="1" colspan="1">Scoring system</td><td rowspan="1" colspan="1">Basic principle</td><td rowspan="1" colspan="1">Key findings</td></tr><tr><td rowspan="2" colspan="1">Functional SYNTAX score (FSS) [<xref rid="b64" ref-type="bibr">64</xref>]</td><td rowspan="1" colspan="1">Only lesions that are functionally significant (FFR <inline-formula><mml:math id="w13" alttext="\leq" display="inline" overflow="scroll"><mml:mo>&#x02264;</mml:mo></mml:math></inline-formula>0.80) are included in the FSS calculation.</td><td rowspan="1" colspan="1">Non-invasive FSS achieved 30% reclassification from high/intermediate-risk to low-risk categories, compared 23% with invasive FSS.</td></tr><tr><td rowspan="1" colspan="1">Lesions with FFR <inline-formula><mml:math id="w14" alttext="&#x0003e;" display="inline" overflow="scroll"><mml:mo>&#x0003e;</mml:mo></mml:math></inline-formula>0.80 are not counted in the score, even if they appear to be anatomically significant.</td><td rowspan="1" colspan="1">Technically feasible and inter-modality concordance (Kappa = 0.32) were validated.</td></tr><tr style="border-top:1px solid #000;"><td rowspan="4" colspan="1">SYNTAX score III [<xref rid="b65" ref-type="bibr">65</xref>]</td><td rowspan="1" colspan="1"><bold>Step 1</bold>. The non-invasive functional SYNTAX score is derived by excluding non-flow-limiting lesions (CT-FFR <inline-formula><mml:math id="w15" alttext="&#x0003e;" display="inline" overflow="scroll"><mml:mo>&#x0003e;</mml:mo></mml:math></inline-formula>0.80) from the anatomic SYNTAX assessment.</td><td rowspan="1" colspan="1">CT-FFR integration modified CCTA-guided treatment decisions for 7% patients, concurrently adjusting revascularization strategies in 12.1% of vessels.</td></tr><tr><td rowspan="3" colspan="1"><bold>Step 2</bold>. SYNTAX Score III integrates this functional adjusted score with the patient&#x02019;s clinical profile, thereby integrating coronary anatomy complexity, functional significance, and clinical factors.</td><td rowspan="1" colspan="1">The addition of CT-FFR to conventional angiography altered treatment decisions in 6.6% of patients, and revised management strategies in 18.3% of cases.</td></tr><tr><td rowspan="1" colspan="1">CT-FFR integration prompted SYNTAX score down-reclassification in 15.5% when assessed by CCTA, compared to 14% re-stratification based on conventional angiography.</td></tr><tr><td rowspan="1" colspan="1">CT-FFR reassessment reduced the prevalence of significant triple-vessel CAD identified by CCTA from 92.3% to 78.8%.</td></tr><tr style="border-top:1px solid #000;"><td rowspan="2" colspan="1">CT-FFR-based functional SYNTAX score (FSS<sub>CTA</sub>) [<xref rid="b66" ref-type="bibr">66</xref>]</td><td rowspan="1" colspan="1">Only lesions with CT-FFR <inline-formula><mml:math id="w16" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.80 are included in the final FSS<sub>CTA</sub> calculation.</td><td rowspan="1" colspan="1">FSS<sub>CTA</sub> facilitated risk reclassification in 22.9% of patients, redistributing them from high/intermediate to low-risk groups.</td></tr><tr><td rowspan="1" colspan="1">The score combines both the anatomical data from CCTA and functional data from CT-FFR.</td><td rowspan="1" colspan="1">Patients reclassified to the low-risk group showed a lower incidence of MACE (3.2% vs. 34.3%, <italic toggle="yes">p </italic>
+<inline-formula><mml:math id="w17" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.001).</td></tr><tr style="border-top:1px solid #000;"><td rowspan="4" colspan="1">CT-FFR-based functional CAD-RADS [<xref rid="b67" ref-type="bibr">67</xref>]</td><td rowspan="1" colspan="1">Integrates CT-FFR results with anatomical CAD-RADS.</td><td rowspan="1" colspan="1">Functional CAD-RADS outperformed anatomical CAD-RADS in therapeutic guidance (AUC: 0.828 vs. 0.681, <italic toggle="yes">p </italic>
+<inline-formula><mml:math id="w18" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.001), prompting management modifications in 30% of patients.</td></tr><tr><td rowspan="1" colspan="1">Reclassification rules:</td><td rowspan="1" colspan="1">This integrated approach independently predicted 1-year adverse outcomes.</td></tr><tr><td rowspan="1" colspan="1"><inline-formula><mml:math id="w19" alttext="\bullet" display="inline" overflow="scroll"><mml:mo>&#x02219;</mml:mo></mml:math></inline-formula> CAD-RADS 2/3 lesions are elevated to functional CAD-RADS 3/4 when demonstrating hemodynamic significance (CT-FFR <inline-formula><mml:math id="w20" alttext="\leq" display="inline" overflow="scroll"><mml:mo>&#x02264;</mml:mo></mml:math></inline-formula>0.80) in any vessel.</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"><inline-formula><mml:math id="w21" alttext="\bullet" display="inline" overflow="scroll"><mml:mo>&#x02219;</mml:mo></mml:math></inline-formula> CAD-RADS 4 lesions are revised to functional CAD-RADS 3 if CT-FFR <inline-formula><mml:math id="w22" alttext="&#x0003e;" display="inline" overflow="scroll"><mml:mo>&#x0003e;</mml:mo></mml:math></inline-formula>0.80 in all vessels.</td><td rowspan="1" colspan="1"/></tr><tr style="border-top:1px solid #000;"><td rowspan="3" style="border-bottom:1px solid #000;" colspan="1">CT-FFR-based functional Duke Jeopardy Score (fDJS<sub>CTA</sub>) [<xref rid="b68" ref-type="bibr">68</xref>]</td><td rowspan="1" colspan="1">Uses CT-FFR values to assess the severity of CAD.</td><td rowspan="1" colspan="1">fDJS<sub>CTA</sub> proved to be the strongest predictor for MACE, with a hazard ratio of 7.08 over three years of follow-up.</td></tr><tr><td rowspan="1" colspan="1">Assigns 2 points for segments with CT-FFR <inline-formula><mml:math id="w23" alttext="\leq" display="inline" overflow="scroll"><mml:mo>&#x02264;</mml:mo></mml:math></inline-formula>0.80, and 0 points if CT-FFR is <inline-formula><mml:math id="w24" alttext="&#x0003e;" display="inline" overflow="scroll"><mml:mo>&#x0003e;</mml:mo></mml:math></inline-formula>0.80.</td><td rowspan="1" colspan="1">The predictive accuracy of fDJS<sub>CTA</sub> remained strong over time, with time-dependent AUC values of 0.89 at one year, 0.83 at two years, and 0.82 at three years.</td></tr><tr style="border-bottom:1px solid #000;"><td rowspan="1" colspan="1">The maximum score is 12 points.</td><td rowspan="1" colspan="1">fDJS<sub>CTA</sub> improved risk classification in 19.7% of patients compared to traditional CT-FFR methods.</td></tr></tbody></table><table-wrap-foot><fn><p>CT-FFR, computed tomography-derived fractional flow reserve; CCTA, coronary 
+computed tomography angiography; FFR, fractional flow reserve; FSS, functional 
+SYNTAX score; FSS<sub>CTA</sub>, CT-FFR-based functional SYNTAX score; CAD-RADS, 
+Coronary Artery Disease-Reporting and Data System; fDJS<sub>CTA</sub>, CT-FFR based 
+functional Duke Jeopardy Score; CAD, coronary artery disease; MACE, major adverse 
+cardiovascular events; AUC, area under the curve.</p></fn></table-wrap-foot></table-wrap><fig position="float" id="S5.F2"><label>Fig. 2.
+</label><caption><p><bold>Functional CAD-RADS scoring criteria and case illustrations</bold>. 
+(A) CT-FFR-based functional CAD-RADS scoring system. (B) Case 
+illustration. A 52-year-old male presenting with 25% stenosis in the mid-segment 
+of the LAD was classified as CAD-RADS 2. The lesion-specific CT-FFR value was 
+0.73, leading to a functional CAD-RADS classification of 3. (C) Case 
+illustration. A 70-year-old male with 80% stenosis in the pro-segment of the LAD 
+was classified as CAD-RADS 4. The lesion-specific CT-FFR value was 0.91, leading 
+to a functional CAD-RADS classification of 3. CAD-RADS, Coronary Artery 
+Disease-Reporting and Data System; CT-FFR, coronary computed tomography 
+angiography-derived fractional flow reserve; OMT, optimal medical therapy; REV, 
+revascularization; LAD, left anterior descending artery; LCX, left circumflex 
+artery; RCA, right coronary artery. The white arrows indicate the locations of 
+atherosclerotic plaques in the coronary arteries. * Indicates medical therapy in 
+the category of anatomical CAD-RADS 3, whereas intensive medical therapy is 
+usually suggested for functional CAD-RADS 3 lesions.</p></caption><graphic xlink:href="2153-8174-26-9-39717-g2" id="S5.F2.g1" position="float"/></fig><fig position="float" id="S5.F3"><label>Fig. 3.
+</label><caption><p><bold>CT-FFR based functional Duke Jeopardy Score system</bold>. (A) Right 
+coronary artery dominance. (B) Coronary codominance. (C) Left coronary artery 
+dominance. The functional Duke Jeopardy score system categorizes the 
+coronary artery tree into six segments for patients with right coronary artery 
+(RCA) dominance and coronary codominance: the left anterior descending artery 
+(LAD), the largest diagonal branch (D), the largest septal perforating branch 
+(Sept), the left circumflex artery (LCX), the largest obtuse marginal branch 
+(OM), and the posterior descending artery of RCA (R-PDA). A CT-FFR value 
+<inline-formula><mml:math id="w25" alttext="\leq" display="inline" overflow="scroll"><mml:mo>&#x02264;</mml:mo></mml:math></inline-formula>0.80 in any segment results in a score of 2, otherwise it is scored as 0. 
+In cases of left coronary artery dominance, the scoring system omits R-PDA and 
+reallocates its points to the posterior descending artery of LCX (L-PDA). Each 
+segment can score 2 points, allowing for a maximum score of 12. CT-FFR, coronary 
+computed tomography angiography-derived fractional flow reserve; fDJS<sub>CTA</sub>, 
+CT-FFR based functional Duke Jeopardy score.</p></caption><graphic xlink:href="2153-8174-26-9-39717-g3" id="S5.F3.g1" position="float"/></fig></sec><sec id="S6"><title>6. Prognostic Evaluation</title><p id="S6.p1">Long-term follow-up studies, particularly the landmark ADVANCE trial (Assessing 
+Diagnostic Value of Non-invasive FFR<sub>CT</sub> in Coronary Care) [<xref rid="b69" ref-type="bibr">69</xref>], have 
+established the prognostic significance of CT-FFR. This 3-year prospective study 
+with 900 stable angina participants demonstrated a 3.2-fold higher risk of 
+all-cause mortality and spontaneous myocardial infarction with CT-FFR values 
+<inline-formula><mml:math id="w26" alttext="\leq" display="inline" overflow="scroll"><mml:mo>&#x02264;</mml:mo></mml:math></inline-formula>0.80 versus <inline-formula><mml:math id="w27" alttext="&#x0003e;" display="inline" overflow="scroll"><mml:mo>&#x0003e;</mml:mo></mml:math></inline-formula>0.80. The low-CT-FFR cohort exhibited 8.8-fold elevated 
+cardiovascular mortality and spontaneous myocardial infarction risk, confirming 
+CT-FFR&#x02019;s prognostic value for CAD risk stratification. Other studies have also 
+shown that CT-FFR can improve the prediction of cardiovascular events [<xref rid="b70" ref-type="bibr">70</xref>, <xref rid="b71" ref-type="bibr">71</xref>, <xref rid="b72" ref-type="bibr">72</xref>, <xref rid="b73" ref-type="bibr">73</xref>, <xref rid="b74" ref-type="bibr">74</xref>, <xref rid="b75" ref-type="bibr">75</xref>]. 
+Current evidence indicates that successful implementation of artificial 
+intelligence-based, fully-automated on-site CT-FFR in emergency departments can 
+quickly and reliably identify patients at higher risk of MACE, enabling timely 
+interventions and potentially improving outcomes [<xref rid="b8" ref-type="bibr">8</xref>]. Patients with positive 
+CT-FFR experienced a significantly higher incidence of MACE (44.3%) compared to 
+those with negative CT-FFR, who had a MACE incidence of only 4.2%. Research has 
+shown that certain metrics, such as remodeling index <inline-formula><mml:math id="w28" alttext="\geq" display="inline" overflow="scroll"><mml:mo>&#x02265;</mml:mo></mml:math></inline-formula>1.10 and CT-FFR 
+value <inline-formula><mml:math id="w29" alttext="\leq" display="inline" overflow="scroll"><mml:mo>&#x02264;</mml:mo></mml:math></inline-formula>0.85, are independent predictors of plaque progression [<xref rid="b73" ref-type="bibr">73</xref>]. 
+Moreover, a decreased lesion-specific CT-FFR and an increased fat attenuation 
+index were associated with a higher risk of MACE [<xref rid="b74" ref-type="bibr">74</xref>]. Artificial 
+intelligence-driven integration of quantitative plaque characterization and 
+hemodynamic assessment was found to significantly improve the prediction of acute 
+coronary syndrome culprit lesions compared to conventional CCTA metrics (AUC: 
+0.84 vs. 0.78, <italic toggle="yes">p </italic>
+<inline-formula><mml:math id="w30" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.001) [<xref rid="b76" ref-type="bibr">76</xref>]. Both plaque progression and CT-FFR 
+provided incremental predictive value for MACE, surpassing traditional markers 
+such as CACS and the presence of high-risk plaque.</p><p id="S6.p2">In patients with CAD, the addition of CT-FFR and/or resting static myocardial CT 
+perfusion can help guide subsequent treatment and reduce the incidence of MACE 
+[<xref rid="b77" ref-type="bibr">77</xref>, <xref rid="b78" ref-type="bibr">78</xref>]. The three CT-FFR-based functional scoring systems (CT-FFR-based 
+functional SYNTAX score, functional CAD-RADS, and functional Duke Jeopardy Score) 
+show superior predictive value for CAD prognosis compared to conventional methods 
+[<xref rid="b66" ref-type="bibr">66</xref>, <xref rid="b67" ref-type="bibr">67</xref>, <xref rid="b68" ref-type="bibr">68</xref>]. These methodologies enhance prognostic capabilities, refine risk 
+assessment, and enable more tailored risk stratification strategies, allowing 
+clinicians to more accurately evaluate plaque progression, improve the predictive 
+accuracy of CCTA, and establish a foundation for timely clinical interventions 
+and treatments.</p></sec><sec id="S7"><title>7. Standardization and Promotion of CT-FFR</title><sec id="S7.SS1"><title>7.1 Development of Expert Consensus and a Group Standard</title><p id="S7.SS1.p1">The introduction of CT-FFR underscores the significant progress made in the 
+non-invasive evaluation of CAD, garnering widespread interest in the world. 
+Several expert recommendations and consensus documents have been published [<xref rid="b51" ref-type="bibr">51</xref>, <xref rid="b79" ref-type="bibr">79</xref>, <xref rid="b80" ref-type="bibr">80</xref>, <xref rid="b81" ref-type="bibr">81</xref>]. In particular, the &#x0201c;Coronary computed tomography angiography-derived 
+fractional flow reserve: an expert consensus document of the Chinese Society of 
+Radiology&#x0201d; provides a roadmap for incorporating CT-FFR into CAD diagnostics 
+(Fig. <xref rid="S7.F4" ref-type="fig">4</xref>, Ref. [<xref rid="b51" ref-type="bibr">51</xref>]).</p><fig position="float" id="S7.F4"><label>Fig. 4.
+</label><caption><p><bold>Flowchart of CT-FFR applications and interpretation</bold>. CT-FFR, 
+coronary computed tomography angiography-derived fractional flow reserve; CCTA, 
+coronary computed tomography angiography; OMT, optimal medical therapy; ICA, 
+invasive coronary angiography. (Reprinted from Zhang <italic toggle="yes">et al</italic>. [<xref rid="b51" ref-type="bibr">51</xref>] with 
+permission from Wolters Kluwer Health).</p></caption><graphic xlink:href="2153-8174-26-9-39717-g4" id="S7.F4.g1" position="float"/></fig></sec><sec id="S7.SS2"><title>7.2 Accumulation of Clinical Evidence for CT-FFR</title><p id="S7.SS2.p1">Multiple ongoing multicenter trials are currently investigating the clinical 
+value and cost-benefit profile of CCTA/CT-FFR integrated implementation. Notable 
+amongst these trials are ADVANCE [<xref rid="b69" ref-type="bibr">69</xref>], PLATFORM (Prospective Longitudinal Trial 
+of FFR<sub>CT</sub>: Outcome and Resource Impacts Study) [<xref rid="b82" ref-type="bibr">82</xref>], FORECAST (Fractional 
+Flow Reserve Derived from Computed Tomography Angiography in the Assessment and 
+Management of Stable Chest Pain) [<xref rid="b83" ref-type="bibr">83</xref>], and PRECISE (Prospective Randomized Trial 
+of the Optimal Evaluation of Cardiac Symptoms and Revascularization) [<xref rid="b84" ref-type="bibr">84</xref>]. The 
+aim of such trials is to assess whether a combined CCTA/CT-FFR approach can 
+optimize clinical decision pathways, and enhance patient outcomes across diverse 
+healthcare settings while remaining cost-effective. Initial findings from 
+real-world studies have yielded mixed results. A multicenter study conducted in 
+the United Kingdom reported limitations in the ability of CT-FFR to predict 
+significant CAD, while noting increased costs due to higher rates of invasive 
+procedures [<xref rid="b85" ref-type="bibr">85</xref>]. Selective CT-FFR with CCTA was shown in the FORECAST study to 
+reduce ICA referrals among stable angina cases, though cost and clinical outcomes 
+remained statistically indistinguishable from conventional management [<xref rid="b83" ref-type="bibr">83</xref>]. These 
+findings were corroborated by the Chinese TARGET trial (Effect of On-Site 
+CT-Derived Fractional Flow Reserve on the Management of Decision Making for 
+Patients With Stable Chest Pain) [<xref rid="b12" ref-type="bibr">12</xref>]. Therefore, existing evidence on CT-FFR&#x02019;s 
+cost-effectiveness exhibits significant heterogeneity across clinical settings. 
+Beyond reducing unnecessary ICA, a comprehensive economic evaluation should also 
+include the broader value proposition of CT-FFR, including patient benefits from 
+a non-invasive &#x0201c;one-stop-shop&#x0201d; approach, potential long-term improvements in 
+outcome due to optimized revascularization decisions, and overall gains in system 
+efficiency. Further investigation is required to comprehensively evaluate the 
+long-term economic outcomes and implementation feasibility, particularly in the 
+context of diverse healthcare systems such as those found in China. Two 
+prospective multicenter studies are currently underway. The China CT-FFR study 2 
+(Chinese Multicenter Assessment of CT-derived Fractional Flow Reserve 2) enrolled 
+more than 10,000 participants with non-obstructive CAD across 29 centers in 
+China, with the aim of evaluating the predictive value of CT-FFR for MACE in 
+non-obstructive CAD patients [<xref rid="b86" ref-type="bibr">86</xref>]. One-year follow up results from the China 
+CT-FFR study 3 [<xref rid="b87" ref-type="bibr">87</xref>] have shown that adding CT-FFR to CCTA could reduce the 90-day 
+ICA rate by 19.4% in a Chinese real-word setting. Assessment of longer term 
+prognostic value requires further study. These comprehensive clinical trials are 
+anticipated to enhance the integration of CT-FFR in clinical practice, ultimately 
+improving patient outcomes.</p></sec></sec><sec id="S8"><title>8. Limitations of CT-FFR</title><p id="S8.p1">Despite established utility in diagnosing CAD and informing treatment 
+strategies, CT-FFR is subject to several limitations: (1) Different CT-FFR 
+methodologies have their own strengths and weaknesses. Further comparative 
+studies are needed to evaluate their respective performance and optimize their 
+clinical applications. (2) Diagnostic accuracy is significantly compromised by 
+the reliance on high image quality and by specific high-risk scenarios. For 
+example, severe calcification (inducing blooming artifacts), motion/noise 
+artifacts, and suboptimal contrast can directly undermine reliability. Unreliable 
+results are particularly prevalent in cases of arrhythmias, uncontrolled heart 
+rates, or complex bifurcations. (3) The clinical indications for CT-FFR require 
+further study. Currently, there is insufficient evidence regarding its 
+applicability in specific patient populations, such as post-percutaneous coronary 
+intervention (PCI) patients and those with a myocardial bridge. (4) The long-term 
+prognostic value of CT-FFR in clinical practice needs to be validated in clinical 
+trials. (5) The cost-effectiveness of implementing CT-FFR warrants more 
+comprehensive investigation. (6) CT-FFR should not be considered as the sole 
+indicator for CAD evaluation. Integration with other parameters, particularly 
+plaque characteristics, is essential for improving the diagnostic and prognostic 
+performance.</p></sec><sec id="S9"><title>9. Conclusions</title><p id="S9.p1">The integration of CT-FFR with CCTA has become a powerful diagnostic approach 
+for comprehensive CAD assessment. Recently developed on-site CT-FFR strategies, 
+particularly artificial intelligence-based fully automated on-site CT-FFR, have 
+shown promising diagnostic accuracy, thereby reducing unnecessary ICA rates and 
+improving the prognostic capability. These advances enable a more personalized 
+approach to managing suspected CAD, ultimately improving patient care through 
+precision medicine.</p></sec></body><back><ack id="S13"><title>Acknowledgment</title><p id="S13.p1">Not applicable.</p></ack><fn-group><fn><p><bold>Publisher&#x02019;s Note:</bold>
+IMR Press stays neutral with regard to jurisdictional claims in published maps and institutional
+affiliations.
+</p></fn></fn-group><glossary id="S10"><title>Abbreviations</title><p id="S10.p1">AUC, area under the curve; CABG, coronary artery bypass grafting; CACS, coronary 
+artery calcium score; CAD, coronary artery disease; CAD-RADS, Coronary Artery 
+Disease-Reporting and Data System; CCTA, coronary computed tomography 
+angiography; CFD, computational fluid dynamics; CT-FFR, coronary computed 
+tomography angiography-derived fractional flow reserve; DL, deep learning; 
+FSS<sub>CTA</sub>, CT-FFR-based functional SYNTAX score; fDJS<sub>CTA</sub>, CT-FFR based functional 
+Duke Jeopardy score; FFR, fractional flow reserve; ICA, invasive coronary 
+angiography; MACE, major adverse cardiovascular events; MB, myocardial bridge; 
+ML, machine learning; PCCT, photon-counting detector computed tomography; PCI, 
+percutaneous coronary intervention; TAVR, transcatheter aortic valve replacement. 
+</p></glossary><sec id="S11"><title>Author Contributions</title><p id="S11.p1">CXT and LJZ led the conceptualization and design of the literature review, 
+provided critical input into the manuscript structure, and finalized the 
+manuscript for submission. DNY and FZ performed the literature search and data 
+extraction, drafted the initial manuscript, and critically revised the important 
+content. QL, TYL, XQB and JC participated in the collation and analysis of the 
+literature and provided advice on revising the structure of the manuscript. All 
+authors contributed to editorial changes in the manuscript. All authors read and 
+approved the final manuscript. All authors have participated sufficiently in the 
+work and agreed to be accountable for all aspects of the work.</p></sec><sec id="S12"><title>Ethics Approval and Consent to Participate</title><p id="S12.p1">Not applicable.</p></sec><sec id="S14"><title>Funding</title><p id="S14.p1">This research was supported by National Key Research and Development Program of 
+China (2022YFC2010004), Outstanding Youth Fund of Jiangsu Province (BK20230048) 
+and General Program of National Natural Science Foundation of China (82171933).</p></sec><sec sec-type="COI-statement" id="S15"><title>Conflict of Interest</title><p id="S15.p1">The authors declare no conflict of interest. 
+</p></sec><app-group id="S16"><app><title>Supplementary Material</title><p id="S16.p1">Supplementary material associated with this article can be found, in the online version, at <uri xlink:href="https://doi.org/10.31083/RCM39717">https://doi.org/10.31083/RCM39717</uri>.</p><supplementary-material id="suppl1" position="float" content-type="local-data"><media xlink:href="2153-8174-26-9-39717-s1.docx"/></supplementary-material></app></app-group><ref-list><title>References</title><ref id="b1"><label>[1]</label><element-citation publication-type="journal"><!--Patel MR, Calhoon JH, Dehmer GJ, Grantham JA, Maddox TM, Maron DJ, <italic>et al</italic>. ACC/AATS/AHA/ASE/ASNC/SCAI/SCCT/STS 2016 Appropriate Use Criteria for Coronary Revascularization in Patients With Acute Coronary Syndromes: A Report of the American College of Cardiology Appropriate Use Criteria Task Force, American Association for Thoracic Surgery, American Heart Association, American Society of Echocardiography, American Society of Nuclear Cardiology, Society for Cardiovascular Angiography and Interventions, Society of Cardiovascular Computed Tomography, and the Society of Thoracic Surgeons. Journal of the American College of Cardiology. 2017; 69: 570&#x02013;591. https://doi.org/10.1016/j.jacc.2016.10.034.--><person-group person-group-type="author">
+<name><surname>Patel</surname><given-names>MR</given-names></name>
+<name><surname>Calhoon</surname><given-names>JH</given-names></name>
+<name><surname>Dehmer</surname><given-names>GJ</given-names></name>
+<name><surname>Grantham</surname><given-names>JA</given-names></name>
+<name><surname>Maddox</surname><given-names>TM</given-names></name>
+<name><surname>Maron</surname><given-names>DJ</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>ACC/AATS/AHA/ASE/ASNC/SCAI/SCCT/STS 2016 Appropriate Use Criteria for Coronary Revascularization in Patients With Acute Coronary Syndromes: A Report of the American College of Cardiology Appropriate Use Criteria Task Force, American Association for Thoracic Surgery, American Heart Association, American Society of Echocardiography, American Society of Nuclear Cardiology, Society for Cardiovascular Angiography and Interventions, Society of Cardiovascular Computed Tomography, and the Society of Thoracic Surgeons</article-title><source>
+<italic toggle="yes">Journal of the American College of Cardiology</italic>
+</source><year>2017</year><volume>69</volume><fpage>570</fpage><lpage>591</lpage><pub-id pub-id-type="doi">10.1016/j.jacc.2016.10.034</pub-id><pub-id pub-id-type="pmid">28012615</pub-id>
+</element-citation></ref><ref id="b2"><label>[2]</label><element-citation publication-type="journal"><!--Xaplanteris P, Fournier S, Pijls NHJ, Fearon WF, Barbato E, Tonino PAL, <italic>et al</italic>. Five-Year Outcomes with PCI Guided by Fractional Flow Reserve. The New England Journal of Medicine. 2018; 379: 250&#x02013;259. https://doi.org/10.1056/NEJMoa1803538.--><person-group person-group-type="author">
+<name><surname>Xaplanteris</surname><given-names>P</given-names></name>
+<name><surname>Fournier</surname><given-names>S</given-names></name>
+<name><surname>Pijls</surname><given-names>NHJ</given-names></name>
+<name><surname>Fearon</surname><given-names>WF</given-names></name>
+<name><surname>Barbato</surname><given-names>E</given-names></name>
+<name><surname>Tonino</surname><given-names>PAL</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Five-Year Outcomes with PCI Guided by Fractional Flow Reserve</article-title><source>
+<italic toggle="yes">The New England Journal of Medicine</italic>
+</source><year>2018</year><volume>379</volume><fpage>250</fpage><lpage>259</lpage><pub-id pub-id-type="doi">10.1056/NEJMoa1803538</pub-id><pub-id pub-id-type="pmid">29785878</pub-id>
+</element-citation></ref><ref id="b3"><label>[3]</label><element-citation publication-type="journal"><!--Koo BK, Erglis A, Doh JH, Daniels DV, Jegere S, Kim HS, <italic>et al</italic>. Diagnosis of ischemia-causing coronary stenoses by noninvasive fractional flow reserve computed from coronary computed tomographic angiograms. Results from the prospective multicenter DISCOVER-FLOW (Diagnosis of Ischemia-Causing Stenoses Obtained Via Noninvasive Fractional Flow Reserve) study. Journal of the American College of Cardiology. 2011; 58: 1989&#x02013;1997. https://doi.org/10.1016/j.jacc.2011.06.066.--><person-group person-group-type="author">
+<name><surname>Koo</surname><given-names>BK</given-names></name>
+<name><surname>Erglis</surname><given-names>A</given-names></name>
+<name><surname>Doh</surname><given-names>JH</given-names></name>
+<name><surname>Daniels</surname><given-names>DV</given-names></name>
+<name><surname>Jegere</surname><given-names>S</given-names></name>
+<name><surname>Kim</surname><given-names>HS</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Diagnosis of ischemia-causing coronary stenoses by noninvasive fractional flow reserve computed from coronary computed tomographic angiograms. Results from the prospective multicenter DISCOVER-FLOW (Diagnosis of Ischemia-Causing Stenoses Obtained Via Noninvasive Fractional Flow Reserve) study</article-title><source>
+<italic toggle="yes">Journal of the American College of Cardiology</italic>
+</source><year>2011</year><volume>58</volume><fpage>1989</fpage><lpage>1997</lpage><pub-id pub-id-type="doi">10.1016/j.jacc.2011.06.066</pub-id><pub-id pub-id-type="pmid">22032711</pub-id>
+</element-citation></ref><ref id="b4"><label>[4]</label><element-citation publication-type="journal"><!--Min JK, Leipsic J, Pencina MJ, Berman DS, Koo BK, van Mieghem C, <italic>et al</italic>. Diagnostic accuracy of fractional flow reserve from anatomic CT angiography. JAMA. 2012; 308: 1237&#x02013;1245. https://doi.org/10.1001/2012.jama.11274.--><person-group person-group-type="author">
+<name><surname>Min</surname><given-names>JK</given-names></name>
+<name><surname>Leipsic</surname><given-names>J</given-names></name>
+<name><surname>Pencina</surname><given-names>MJ</given-names></name>
+<name><surname>Berman</surname><given-names>DS</given-names></name>
+<name><surname>Koo</surname><given-names>BK</given-names></name>
+<name><surname>van Mieghem</surname><given-names>C</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Diagnostic accuracy of fractional flow reserve from anatomic CT angiography</article-title><source>
+<italic toggle="yes">JAMA</italic>
+</source><year>2012</year><volume>308</volume><fpage>1237</fpage><lpage>1245</lpage><pub-id pub-id-type="doi">10.1001/2012.jama.11274</pub-id><pub-id pub-id-type="pmid">22922562</pub-id>
+</element-citation></ref><ref id="b5"><label>[5]</label><element-citation publication-type="journal"><!--N&#x000f8;rgaard BL, Leipsic J, Gaur S, Seneviratne S, Ko BS, Ito H, <italic>et al</italic>. Diagnostic performance of noninvasive fractional flow reserve derived from coronary computed tomography angiography in suspected coronary artery disease: the NXT trial (Analysis of Coronary Blood Flow Using CT Angiography: Next Steps). Journal of the American College of Cardiology. 2014; 63: 1145&#x02013;1155. https://doi.org/10.1016/j.jacc.2013.11.043.--><person-group person-group-type="author">
+<name><surname>N&#x000f8;rgaard</surname><given-names>BL</given-names></name>
+<name><surname>Leipsic</surname><given-names>J</given-names></name>
+<name><surname>Gaur</surname><given-names>S</given-names></name>
+<name><surname>Seneviratne</surname><given-names>S</given-names></name>
+<name><surname>Ko</surname><given-names>BS</given-names></name>
+<name><surname>Ito</surname><given-names>H</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Diagnostic performance of noninvasive fractional flow reserve derived from coronary computed tomography angiography in suspected coronary artery disease: the NXT trial (Analysis of Coronary Blood Flow Using CT Angiography: Next Steps)</article-title><source>
+<italic toggle="yes">Journal of the American College of Cardiology</italic>
+</source><year>2014</year><volume>63</volume><fpage>1145</fpage><lpage>1155</lpage><pub-id pub-id-type="doi">10.1016/j.jacc.2013.11.043</pub-id><pub-id pub-id-type="pmid">24486266</pub-id>
+</element-citation></ref><ref id="b6"><label>[6]</label><element-citation publication-type="journal"><!--Douglas PS, Pontone G, Hlatky MA, Patel MR, Norgaard BL, Byrne RA, <italic>et al</italic>. Clinical outcomes of fractional flow reserve by computed tomographic angiography-guided diagnostic strategies vs. usual care in patients with suspected coronary artery disease: the prospective longitudinal trial of FFR(CT): outcome and resource impacts study. European Heart Journal. 2015; 36: 3359&#x02013;3367. https://doi.org/10.1093/eurheartj/ehv444.--><person-group person-group-type="author">
+<name><surname>Douglas</surname><given-names>PS</given-names></name>
+<name><surname>Pontone</surname><given-names>G</given-names></name>
+<name><surname>Hlatky</surname><given-names>MA</given-names></name>
+<name><surname>Patel</surname><given-names>MR</given-names></name>
+<name><surname>Norgaard</surname><given-names>BL</given-names></name>
+<name><surname>Byrne</surname><given-names>RA</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Clinical outcomes of fractional flow reserve by computed tomographic angiography-guided diagnostic strategies vs. usual care in patients with suspected coronary artery disease: the prospective longitudinal trial of FFR(CT): outcome and resource impacts study</article-title><source>
+<italic toggle="yes">European Heart Journal</italic>
+</source><year>2015</year><volume>36</volume><fpage>3359</fpage><lpage>3367</lpage><pub-id pub-id-type="doi">10.1093/eurheartj/ehv444</pub-id><pub-id pub-id-type="pmid">26330417</pub-id>
+</element-citation></ref><ref id="b7"><label>[7]</label><element-citation publication-type="journal"><!--Schuijf JD, Ko BS, Di Carli MF, Hislop-Jambrich J, Ihdayhid AR, Seneviratne SK, <italic>et al</italic>. Fractional flow reserve and myocardial perfusion by computed tomography: a guide to clinical application. European Heart Journal - Cardiovascular Imaging. 2018; 19: 127&#x02013;135. https://doi.org/10.1093/ehjci/jex240.--><person-group person-group-type="author">
+<name><surname>Schuijf</surname><given-names>JD</given-names></name>
+<name><surname>Ko</surname><given-names>BS</given-names></name>
+<name><surname>Di Carli</surname><given-names>MF</given-names></name>
+<name><surname>Hislop-Jambrich</surname><given-names>J</given-names></name>
+<name><surname>Ihdayhid</surname><given-names>AR</given-names></name>
+<name><surname>Seneviratne</surname><given-names>SK</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Fractional flow reserve and myocardial perfusion by computed tomography: a guide to clinical application</article-title><source>
+<italic toggle="yes">European Heart Journal - Cardiovascular Imaging</italic>
+</source><year>2018</year><volume>19</volume><fpage>127</fpage><lpage>135</lpage><pub-id pub-id-type="doi">10.1093/ehjci/jex240</pub-id><pub-id pub-id-type="pmid">29045612</pub-id>
+</element-citation></ref><ref id="b8"><label>[8]</label><element-citation publication-type="journal"><!--Guo B, Jiang M, Guo X, Tang C, Zhong J, Lu M, <italic>et al</italic>. Diagnostic and prognostic performance of artificial intelligence-based fully-automated on-site CT-FFR in patients with CAD. Science Bulletin. 2024; 69: 1472&#x02013;1485. https://doi.org/10.1016/j.scib.2024.03.053.--><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>B</given-names></name>
+<name><surname>Jiang</surname><given-names>M</given-names></name>
+<name><surname>Guo</surname><given-names>X</given-names></name>
+<name><surname>Tang</surname><given-names>C</given-names></name>
+<name><surname>Zhong</surname><given-names>J</given-names></name>
+<name><surname>Lu</surname><given-names>M</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Diagnostic and prognostic performance of artificial intelligence-based fully-automated on-site CT-FFR in patients with CAD</article-title><source>
+<italic toggle="yes">Science Bulletin</italic>
+</source><year>2024</year><volume>69</volume><fpage>1472</fpage><lpage>1485</lpage><pub-id pub-id-type="doi">10.1016/j.scib.2024.03.053</pub-id><pub-id pub-id-type="pmid">38637226</pub-id>
+</element-citation></ref><ref id="b9"><label>[9]</label><element-citation publication-type="journal"><!--Tang CX, Liu CY, Lu MJ, Schoepf UJ, Tesche C, Bayer RR, 2nd, <italic>et al</italic>. CT FFR for Ischemia-Specific CAD With a New Computational Fluid Dynamics Algorithm: A Chinese Multicenter Study. JACC. Cardiovascular Imaging. 2020; 13: 980&#x02013;990. https://doi.org/10.1016/j.jcmg.2019.06.018.--><person-group person-group-type="author">
+<name><surname>Tang</surname><given-names>CX</given-names></name>
+<name><surname>Liu</surname><given-names>CY</given-names></name>
+<name><surname>Lu</surname><given-names>MJ</given-names></name>
+<name><surname>Schoepf</surname><given-names>UJ</given-names></name>
+<name><surname>Tesche</surname><given-names>C</given-names></name>
+<name><surname>Bayer</surname><given-names>RR</given-names><suffix>2nd</suffix></name>
+<etal>et al</etal>
+</person-group><article-title>CT FFR for Ischemia-Specific CAD With a New Computational Fluid Dynamics Algorithm: A Chinese Multicenter Study</article-title><source>
+<italic toggle="yes">JACC. Cardiovascular Imaging</italic>
+</source><year>2020</year><volume>13</volume><fpage>980</fpage><lpage>990</lpage><pub-id pub-id-type="doi">10.1016/j.jcmg.2019.06.018</pub-id><pub-id pub-id-type="pmid">31422138</pub-id>
+</element-citation></ref><ref id="b10"><label>[10]</label><element-citation publication-type="journal"><!--Jiang J, Du C, Hu Y, Yuan H, Wang J, Pan Y, <italic>et al</italic>. Diagnostic performance of computational fluid dynamics (CFD)-based fractional flow reserve (FFR) derived from coronary computed tomographic angiography (CCTA) for assessing functional severity of coronary lesions. Quantitative Imaging in Medicine and Surgery. 2023; 13: 1672&#x02013;1685. https://doi.org/10.21037/qims-22-521.--><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>J</given-names></name>
+<name><surname>Du</surname><given-names>C</given-names></name>
+<name><surname>Hu</surname><given-names>Y</given-names></name>
+<name><surname>Yuan</surname><given-names>H</given-names></name>
+<name><surname>Wang</surname><given-names>J</given-names></name>
+<name><surname>Pan</surname><given-names>Y</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Diagnostic performance of computational fluid dynamics (CFD)-based fractional flow reserve (FFR) derived from coronary computed tomographic angiography (CCTA) for assessing functional severity of coronary lesions</article-title><source>
+<italic toggle="yes">Quantitative Imaging in Medicine and Surgery</italic>
+</source><year>2023</year><volume>13</volume><fpage>1672</fpage><lpage>1685</lpage><pub-id pub-id-type="doi">10.21037/qims-22-521</pub-id><pub-id pub-id-type="pmid">36915362</pub-id>
+</element-citation></ref><ref id="b11"><label>[11]</label><element-citation publication-type="journal"><!--Wang ZQ, Zhou YJ, Zhao YX, Shi DM, Liu YY, Liu W, <italic>et al</italic>. Diagnostic accuracy of a deep learning approach to calculate FFR from coronary CT angiography. Journal of Geriatric Cardiology: JGC. 2019; 16: 42&#x02013;48. https://doi.org/10.11909/j.issn.1671-5411.2019.01.010.--><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>ZQ</given-names></name>
+<name><surname>Zhou</surname><given-names>YJ</given-names></name>
+<name><surname>Zhao</surname><given-names>YX</given-names></name>
+<name><surname>Shi</surname><given-names>DM</given-names></name>
+<name><surname>Liu</surname><given-names>YY</given-names></name>
+<name><surname>Liu</surname><given-names>W</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Diagnostic accuracy of a deep learning approach to calculate FFR from coronary CT angiography</article-title><source>
+<italic toggle="yes">Journal of Geriatric Cardiology: JGC</italic>
+</source><year>2019</year><volume>16</volume><fpage>42</fpage><lpage>48</lpage><pub-id pub-id-type="doi">10.11909/j.issn.1671-5411.2019.01.010</pub-id><pub-id pub-id-type="pmid">30800150</pub-id>
+</element-citation></ref><ref id="b12"><label>[12]</label><element-citation publication-type="journal"><!--Yang J, Shan D, Wang X, Sun X, Shao M, Wang K, <italic>et al</italic>. On-Site Computed Tomography-Derived Fractional Flow Reserve to Guide Management of Patients With Stable Coronary Artery Disease: The TARGET Randomized Trial. Circulation. 2023; 147: 1369&#x02013;1381. https://doi.org/10.1161/CIRCULATIONAHA.123.063996.--><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>J</given-names></name>
+<name><surname>Shan</surname><given-names>D</given-names></name>
+<name><surname>Wang</surname><given-names>X</given-names></name>
+<name><surname>Sun</surname><given-names>X</given-names></name>
+<name><surname>Shao</surname><given-names>M</given-names></name>
+<name><surname>Wang</surname><given-names>K</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>On-Site Computed Tomography-Derived Fractional Flow Reserve to Guide Management of Patients With Stable Coronary Artery Disease: The TARGET Randomized Trial</article-title><source>
+<italic toggle="yes">Circulation</italic>
+</source><year>2023</year><volume>147</volume><fpage>1369</fpage><lpage>1381</lpage><pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.123.063996</pub-id><pub-id pub-id-type="pmid">36870065</pub-id>
+</element-citation></ref><ref id="b13"><label>[13]</label><element-citation publication-type="journal"><!--Hou C, Lu Y, Ma Y, Li Q, Liu C, Lu M, <italic>et al</italic>. Investigation of the predictive value of a novel algorithm based on coronary CT angiography regarding fractional flow reserve and revascularization in patients with stable coronary artery disease. Heart and Vessels. 2024; 39: 195&#x02013;205. https://doi.org/10.1007/s00380-023-02324-y.--><person-group person-group-type="author">
+<name><surname>Hou</surname><given-names>C</given-names></name>
+<name><surname>Lu</surname><given-names>Y</given-names></name>
+<name><surname>Ma</surname><given-names>Y</given-names></name>
+<name><surname>Li</surname><given-names>Q</given-names></name>
+<name><surname>Liu</surname><given-names>C</given-names></name>
+<name><surname>Lu</surname><given-names>M</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Investigation of the predictive value of a novel algorithm based on coronary CT angiography regarding fractional flow reserve and revascularization in patients with stable coronary artery disease</article-title><source>
+<italic toggle="yes">Heart and Vessels</italic>
+</source><year>2024</year><volume>39</volume><fpage>195</fpage><lpage>205</lpage><pub-id pub-id-type="doi">10.1007/s00380-023-02324-y</pub-id><pub-id pub-id-type="pmid">37897523</pub-id>
+</element-citation></ref><ref id="b14"><label>[14]</label><element-citation publication-type="journal"><!--Ding Y, Li Q, Chen Q, Tang Y, Zhang H, He Y, <italic>et al</italic>. Diagnostic performance of a novel automated CT-derived FFR technology in detecting hemodynamically significant coronary artery stenoses: A multicenter trial in China. American Heart Journal. 2023; 265: 180&#x02013;190. https://doi.org/10.1016/j.ahj.2023.08.009.--><person-group person-group-type="author">
+<name><surname>Ding</surname><given-names>Y</given-names></name>
+<name><surname>Li</surname><given-names>Q</given-names></name>
+<name><surname>Chen</surname><given-names>Q</given-names></name>
+<name><surname>Tang</surname><given-names>Y</given-names></name>
+<name><surname>Zhang</surname><given-names>H</given-names></name>
+<name><surname>He</surname><given-names>Y</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Diagnostic performance of a novel automated CT-derived FFR technology in detecting hemodynamically significant coronary artery stenoses: A multicenter trial in China</article-title><source>
+<italic toggle="yes">American Heart Journal</italic>
+</source><year>2023</year><volume>265</volume><fpage>180</fpage><lpage>190</lpage><pub-id pub-id-type="doi">10.1016/j.ahj.2023.08.009</pub-id><pub-id pub-id-type="pmid">37611856</pub-id>
+</element-citation></ref><ref id="b15"><label>[15]</label><element-citation publication-type="journal"><!--Ding Y, Li Q, Zhang Y, Tang Y, Zhang H, Yang Q, <italic>et al</italic>. Diagnostic accuracy of noninvasive fractional flow reserve derived from computed tomography angiography in ischemia-specific coronary artery stenosis and indeterminate lesions: results from a multicenter study in China. Frontiers in Cardiovascular Medicine. 2023; 10: 1236405. https://doi.org/10.3389/fcvm.2023.1236405.--><person-group person-group-type="author">
+<name><surname>Ding</surname><given-names>Y</given-names></name>
+<name><surname>Li</surname><given-names>Q</given-names></name>
+<name><surname>Zhang</surname><given-names>Y</given-names></name>
+<name><surname>Tang</surname><given-names>Y</given-names></name>
+<name><surname>Zhang</surname><given-names>H</given-names></name>
+<name><surname>Yang</surname><given-names>Q</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Diagnostic accuracy of noninvasive fractional flow reserve derived from computed tomography angiography in ischemia-specific coronary artery stenosis and indeterminate lesions: results from a multicenter study in China</article-title><source>
+<italic toggle="yes">Frontiers in Cardiovascular Medicine</italic>
+</source><year>2023</year><volume>10</volume><fpage>1236405</fpage><pub-id pub-id-type="doi">10.3389/fcvm.2023.1236405</pub-id><pub-id pub-id-type="pmid">37849942</pub-id>
+</element-citation></ref><ref id="b16"><label>[16]</label><element-citation publication-type="journal"><!--Gao Y, Zhao N, Song L, Hu H, Jiang T, Chen W, <italic>et al</italic>. Diagnostic Performance of CT FFR With a New Parameter Optimized Computational Fluid Dynamics Algorithm From the CT-FFR-CHINA Trial: Characteristic Analysis of Gray Zone Lesions and Misdiagnosed Lesions. Frontiers in Cardiovascular Medicine. 2022; 9: 819460. https://doi.org/10.3389/fcvm.2022.819460.--><person-group person-group-type="author">
+<name><surname>Gao</surname><given-names>Y</given-names></name>
+<name><surname>Zhao</surname><given-names>N</given-names></name>
+<name><surname>Song</surname><given-names>L</given-names></name>
+<name><surname>Hu</surname><given-names>H</given-names></name>
+<name><surname>Jiang</surname><given-names>T</given-names></name>
+<name><surname>Chen</surname><given-names>W</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Diagnostic Performance of CT FFR With a New Parameter Optimized Computational Fluid Dynamics Algorithm From the CT-FFR-CHINA Trial: Characteristic Analysis of Gray Zone Lesions and Misdiagnosed Lesions</article-title><source>
+<italic toggle="yes">Frontiers in Cardiovascular Medicine</italic>
+</source><year>2022</year><volume>9</volume><fpage>819460</fpage><pub-id pub-id-type="doi">10.3389/fcvm.2022.819460</pub-id><pub-id pub-id-type="pmid">35391840</pub-id>
+</element-citation></ref><ref id="b17"><label>[17]</label><element-citation publication-type="journal"><!--Min JK, Taylor CA, Achenbach S, Koo BK, Leipsic J, N&#x000f8;rgaard BL, <italic>et al</italic>. Noninvasive Fractional Flow Reserve Derived From Coronary CT Angiography: Clinical Data and Scientific Principles. JACC. Cardiovascular Imaging. 2015; 8: 1209&#x02013;1222. https://doi.org/10.1016/j.jcmg.2015.08.006.--><person-group person-group-type="author">
+<name><surname>Min</surname><given-names>JK</given-names></name>
+<name><surname>Taylor</surname><given-names>CA</given-names></name>
+<name><surname>Achenbach</surname><given-names>S</given-names></name>
+<name><surname>Koo</surname><given-names>BK</given-names></name>
+<name><surname>Leipsic</surname><given-names>J</given-names></name>
+<name><surname>N&#x000f8;rgaard</surname><given-names>BL</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Noninvasive Fractional Flow Reserve Derived From Coronary CT Angiography: Clinical Data and Scientific Principles</article-title><source>
+<italic toggle="yes">JACC. Cardiovascular Imaging</italic>
+</source><year>2015</year><volume>8</volume><fpage>1209</fpage><lpage>1222</lpage><pub-id pub-id-type="doi">10.1016/j.jcmg.2015.08.006</pub-id><pub-id pub-id-type="pmid">26481846</pub-id>
+</element-citation></ref><ref id="b18"><label>[18]</label><element-citation publication-type="journal"><!--Shi C, Zhang D, Cao K, Zhang T, Luo L, Liu X, <italic>et al</italic>. A study of noninvasive fractional flow reserve derived from a simplified method based on coronary computed tomography angiography in suspected coronary artery disease. Biomedical Engineering Online. 2017; 16: 43. https://doi.org/10.1186/s12938-017-0330-2.--><person-group person-group-type="author">
+<name><surname>Shi</surname><given-names>C</given-names></name>
+<name><surname>Zhang</surname><given-names>D</given-names></name>
+<name><surname>Cao</surname><given-names>K</given-names></name>
+<name><surname>Zhang</surname><given-names>T</given-names></name>
+<name><surname>Luo</surname><given-names>L</given-names></name>
+<name><surname>Liu</surname><given-names>X</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>A study of noninvasive fractional flow reserve derived from a simplified method based on coronary computed tomography angiography in suspected coronary artery disease</article-title><source>
+<italic toggle="yes">Biomedical Engineering Online</italic>
+</source><year>2017</year><volume>16</volume><fpage>43</fpage><pub-id pub-id-type="doi">10.1186/s12938-017-0330-2</pub-id><pub-id pub-id-type="pmid">28407768</pub-id>
+</element-citation></ref><ref id="b19"><label>[19]</label><element-citation publication-type="journal"><!--Zhao Q, Liu L, Xian H, Luo X, Zhang D, Hou S, <italic>et al</italic>. Prognostic value of computed tomography-derived fractional flow reserve in patients with diabetes mellitus and unstable angina. Cardiovascular Diabetology. 2024; 23: 404. https://doi.org/10.1186/s12933-024-02493-8.--><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>Q</given-names></name>
+<name><surname>Liu</surname><given-names>L</given-names></name>
+<name><surname>Xian</surname><given-names>H</given-names></name>
+<name><surname>Luo</surname><given-names>X</given-names></name>
+<name><surname>Zhang</surname><given-names>D</given-names></name>
+<name><surname>Hou</surname><given-names>S</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Prognostic value of computed tomography-derived fractional flow reserve in patients with diabetes mellitus and unstable angina</article-title><source>
+<italic toggle="yes">Cardiovascular Diabetology</italic>
+</source><year>2024</year><volume>23</volume><fpage>404</fpage><pub-id pub-id-type="doi">10.1186/s12933-024-02493-8</pub-id><pub-id pub-id-type="pmid">39516772</pub-id>
+</element-citation></ref><ref id="b20"><label>[20]</label><element-citation publication-type="journal"><!--Yan Q, Xiao D, Jia Y, Ai D, Fan J, Song H, <italic>et al</italic>. A multi-dimensional CFD framework for fast patient-specific fractional flow reserve prediction. Computers in Biology and Medicine. 2024; 168: 107718. https://doi.org/10.1016/j.compbiomed.2023.107718.--><person-group person-group-type="author">
+<name><surname>Yan</surname><given-names>Q</given-names></name>
+<name><surname>Xiao</surname><given-names>D</given-names></name>
+<name><surname>Jia</surname><given-names>Y</given-names></name>
+<name><surname>Ai</surname><given-names>D</given-names></name>
+<name><surname>Fan</surname><given-names>J</given-names></name>
+<name><surname>Song</surname><given-names>H</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>A multi-dimensional CFD framework for fast patient-specific fractional flow reserve prediction</article-title><source>
+<italic toggle="yes">Computers in Biology and Medicine</italic>
+</source><year>2024</year><volume>168</volume><fpage>107718</fpage><pub-id pub-id-type="doi">10.1016/j.compbiomed.2023.107718</pub-id><pub-id pub-id-type="pmid">37988787</pub-id>
+</element-citation></ref><ref id="b21"><label>[21]</label><element-citation publication-type="journal"><!--Narimani-Javid R, Moradi M, Mahalleh M, Najafi-Vosough R, Arzhangzadeh A, Khalique O, <italic>et al</italic>. Machine learning and computational fluid dynamics derived FFRCT demonstrate comparable diagnostic performance in patients with coronary artery disease; A Systematic Review and Meta-Analysis. Journal of Cardiovascular Computed Tomography. 2025; 19: 232&#x02013;246. https://doi.org/10.1016/j.jcct.2025.02.004.--><person-group person-group-type="author">
+<name><surname>Narimani-Javid</surname><given-names>R</given-names></name>
+<name><surname>Moradi</surname><given-names>M</given-names></name>
+<name><surname>Mahalleh</surname><given-names>M</given-names></name>
+<name><surname>Najafi-Vosough</surname><given-names>R</given-names></name>
+<name><surname>Arzhangzadeh</surname><given-names>A</given-names></name>
+<name><surname>Khalique</surname><given-names>O</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Machine learning and computational fluid dynamics derived FFRCT demonstrate comparable diagnostic performance in patients with coronary artery disease; A Systematic Review and Meta-Analysis</article-title><source>
+<italic toggle="yes">Journal of Cardiovascular Computed Tomography</italic>
+</source><year>2025</year><volume>19</volume><fpage>232</fpage><lpage>246</lpage><pub-id pub-id-type="doi">10.1016/j.jcct.2025.02.004</pub-id><pub-id pub-id-type="pmid">39988511</pub-id>
+</element-citation></ref><ref id="b22"><label>[22]</label><element-citation publication-type="journal"><!--Jiang W, Pan Y, Hu Y, Leng X, Jiang J, Feng L, <italic>et al</italic>. Diagnostic accuracy of coronary computed tomography angiography-derived fractional flow reserve. Biomedical Engineering Online. 2021; 20: 77. https://doi.org/10.1186/s12938-021-00914-3.--><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>W</given-names></name>
+<name><surname>Pan</surname><given-names>Y</given-names></name>
+<name><surname>Hu</surname><given-names>Y</given-names></name>
+<name><surname>Leng</surname><given-names>X</given-names></name>
+<name><surname>Jiang</surname><given-names>J</given-names></name>
+<name><surname>Feng</surname><given-names>L</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Diagnostic accuracy of coronary computed tomography angiography-derived fractional flow reserve</article-title><source>
+<italic toggle="yes">Biomedical Engineering Online</italic>
+</source><year>2021</year><volume>20</volume><fpage>77</fpage><pub-id pub-id-type="doi">10.1186/s12938-021-00914-3</pub-id><pub-id pub-id-type="pmid">34348731</pub-id>
+</element-citation></ref><ref id="b23"><label>[23]</label><element-citation publication-type="journal"><!--Xia G, Fan D, Yao X, Guan G, Wang J. Diagnostic efficacy of fractional flow reserve with coronary angiography in dual-source computed tomography scanner. Acta Cardiologica. 2018; 73: 76&#x02013;83. https://doi.org/10.1080/00015385.2017.1335037.--><person-group person-group-type="author">
+<name><surname>Xia</surname><given-names>G</given-names></name>
+<name><surname>Fan</surname><given-names>D</given-names></name>
+<name><surname>Yao</surname><given-names>X</given-names></name>
+<name><surname>Guan</surname><given-names>G</given-names></name>
+<name><surname>Wang</surname><given-names>J</given-names></name>
+</person-group><article-title>Diagnostic efficacy of fractional flow reserve with coronary angiography in dual-source computed tomography scanner</article-title><source>
+<italic toggle="yes">Acta Cardiologica</italic>
+</source><year>2018</year><volume>73</volume><fpage>76</fpage><lpage>83</lpage><pub-id pub-id-type="doi">10.1080/00015385.2017.1335037</pub-id><pub-id pub-id-type="pmid">28830299</pub-id>
+</element-citation></ref><ref id="b24"><label>[24]</label><element-citation publication-type="journal"><!--Hwang D, Park SH, Nam CW, Doh JH, Kim HK, Kim Y, <italic>et al</italic>. Diagnostic Performance of On-Site Automatic Coronary Computed Tomography Angiography-Derived Fractional Flow Reserve. Korean Circulation Journal. 2024; 54: 382&#x02013;394. https://doi.org/10.4070/kcj.2023.0288.--><person-group person-group-type="author">
+<name><surname>Hwang</surname><given-names>D</given-names></name>
+<name><surname>Park</surname><given-names>SH</given-names></name>
+<name><surname>Nam</surname><given-names>CW</given-names></name>
+<name><surname>Doh</surname><given-names>JH</given-names></name>
+<name><surname>Kim</surname><given-names>HK</given-names></name>
+<name><surname>Kim</surname><given-names>Y</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Diagnostic Performance of On-Site Automatic Coronary Computed Tomography Angiography-Derived Fractional Flow Reserve</article-title><source>
+<italic toggle="yes">Korean Circulation Journal</italic>
+</source><year>2024</year><volume>54</volume><fpage>382</fpage><lpage>394</lpage><pub-id pub-id-type="doi">10.4070/kcj.2023.0288</pub-id><pub-id pub-id-type="pmid">38767442</pub-id>
+</element-citation></ref><ref id="b25"><label>[25]</label><element-citation publication-type="journal"><!--Yan H, Gao Y, Zhao N, Geng W, Hou Z, An Y, <italic>et al</italic>. Change in Computed Tomography-Derived Fractional Flow Reserve Across the Lesion Improve the Diagnostic Performance of Functional Coronary Stenosis. Frontiers in Cardiovascular Medicine. 2022; 8: 788703. https://doi.org/10.3389/fcvm.2021.788703.--><person-group person-group-type="author">
+<name><surname>Yan</surname><given-names>H</given-names></name>
+<name><surname>Gao</surname><given-names>Y</given-names></name>
+<name><surname>Zhao</surname><given-names>N</given-names></name>
+<name><surname>Geng</surname><given-names>W</given-names></name>
+<name><surname>Hou</surname><given-names>Z</given-names></name>
+<name><surname>An</surname><given-names>Y</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Change in Computed Tomography-Derived Fractional Flow Reserve Across the Lesion Improve the Diagnostic Performance of Functional Coronary Stenosis</article-title><source>
+<italic toggle="yes">Frontiers in Cardiovascular Medicine</italic>
+</source><year>2022</year><volume>8</volume><fpage>788703</fpage><pub-id pub-id-type="doi">10.3389/fcvm.2021.788703</pub-id><pub-id pub-id-type="pmid">35097009</pub-id>
+</element-citation></ref><ref id="b26"><label>[26]</label><element-citation publication-type="journal"><!--Li C, Hu Y, Jiang J, Dong L, Sun Y, Tang L, <italic>et al</italic>. Diagnostic Performance of Fractional Flow Reserve Derived From Coronary CT Angiography: The ACCURATE-CT Study. JACC. Cardiovascular Interventions. 2024; 17: 1980&#x02013;1992. https://doi.org/10.1016/j.jcin.2024.06.027.--><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>C</given-names></name>
+<name><surname>Hu</surname><given-names>Y</given-names></name>
+<name><surname>Jiang</surname><given-names>J</given-names></name>
+<name><surname>Dong</surname><given-names>L</given-names></name>
+<name><surname>Sun</surname><given-names>Y</given-names></name>
+<name><surname>Tang</surname><given-names>L</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Diagnostic Performance of Fractional Flow Reserve Derived From Coronary CT Angiography: The ACCURATE-CT Study</article-title><source>
+<italic toggle="yes">JACC. Cardiovascular Interventions</italic>
+</source><year>2024</year><volume>17</volume><fpage>1980</fpage><lpage>1992</lpage><pub-id pub-id-type="doi">10.1016/j.jcin.2024.06.027</pub-id><pub-id pub-id-type="pmid">39177553</pub-id>
+</element-citation></ref><ref id="b27"><label>[27]</label><element-citation publication-type="journal"><!--Pontone G, Baggiano A, Andreini D, Guaricci AI, Guglielmo M, Muscogiuri G, <italic>et al</italic>. Stress Computed Tomography Perfusion Versus Fractional Flow Reserve CT Derived in Suspected Coronary Artery Disease: The PERFECTION Study. JACC. Cardiovascular Imaging. 2019; 12: 1487&#x02013;1497. https://doi.org/10.1016/j.jcmg.2018.08.023.--><person-group person-group-type="author">
+<name><surname>Pontone</surname><given-names>G</given-names></name>
+<name><surname>Baggiano</surname><given-names>A</given-names></name>
+<name><surname>Andreini</surname><given-names>D</given-names></name>
+<name><surname>Guaricci</surname><given-names>AI</given-names></name>
+<name><surname>Guglielmo</surname><given-names>M</given-names></name>
+<name><surname>Muscogiuri</surname><given-names>G</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Stress Computed Tomography Perfusion Versus Fractional Flow Reserve CT Derived in Suspected Coronary Artery Disease: The PERFECTION Study</article-title><source>
+<italic toggle="yes">JACC. Cardiovascular Imaging</italic>
+</source><year>2019</year><volume>12</volume><fpage>1487</fpage><lpage>1497</lpage><pub-id pub-id-type="doi">10.1016/j.jcmg.2018.08.023</pub-id><pub-id pub-id-type="pmid">30343073</pub-id>
+</element-citation></ref><ref id="b28"><label>[28]</label><element-citation publication-type="journal"><!--Coenen A, Lubbers MM, Kurata A, Kono A, Dedic A, Chelu RG, <italic>et al</italic>. Fractional flow reserve computed from noninvasive CT angiography data: diagnostic performance of an on-site clinician-operated computational fluid dynamics algorithm. Radiology. 2015; 274: 674&#x02013;683. https://doi.org/10.1148/radiol.14140992.--><person-group person-group-type="author">
+<name><surname>Coenen</surname><given-names>A</given-names></name>
+<name><surname>Lubbers</surname><given-names>MM</given-names></name>
+<name><surname>Kurata</surname><given-names>A</given-names></name>
+<name><surname>Kono</surname><given-names>A</given-names></name>
+<name><surname>Dedic</surname><given-names>A</given-names></name>
+<name><surname>Chelu</surname><given-names>RG</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Fractional flow reserve computed from noninvasive CT angiography data: diagnostic performance of an on-site clinician-operated computational fluid dynamics algorithm</article-title><source>
+<italic toggle="yes">Radiology</italic>
+</source><year>2015</year><volume>274</volume><fpage>674</fpage><lpage>683</lpage><pub-id pub-id-type="doi">10.1148/radiol.14140992</pub-id><pub-id pub-id-type="pmid">25322342</pub-id>
+</element-citation></ref><ref id="b29"><label>[29]</label><element-citation publication-type="journal"><!--Lossnitzer D, Klenantz S, Andre F, Goerich J, Schoepf UJ, Pazzo KL,<italic> et al</italic>. Stable patients with suspected myocardial ischemia: comparison of machine-learning computed tomography-based fractional flow reserve and stress perfusion cardiovascular magnetic resonance imaging to detect myocardial ischemia. BMC Cardiovascular Disorders. 2022; 22: 34. https://doi.org/10.1186/s12872-022-02467-2.--><person-group person-group-type="author">
+<name><surname>Lossnitzer</surname><given-names>D</given-names></name>
+<name><surname>Klenantz</surname><given-names>S</given-names></name>
+<name><surname>Andre</surname><given-names>F</given-names></name>
+<name><surname>Goerich</surname><given-names>J</given-names></name>
+<name><surname>Schoepf</surname><given-names>UJ</given-names></name>
+<name><surname>Pazzo</surname><given-names>KL</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Stable patients with suspected myocardial ischemia: comparison of machine-learning computed tomography-based fractional flow reserve and stress perfusion cardiovascular magnetic resonance imaging to detect myocardial ischemia</article-title><source>
+<italic toggle="yes">BMC Cardiovascular Disorders</italic>
+</source><year>2022</year><volume>22</volume><fpage>34</fpage><pub-id pub-id-type="doi">10.1186/s12872-022-02467-2</pub-id><pub-id pub-id-type="pmid">35120459</pub-id>
+</element-citation></ref><ref id="b30"><label>[30]</label><element-citation publication-type="journal"><!--Li Y, Yu M, Dai X, Lu Z, Shen C, Wang Y, <italic>et al</italic>. Detection of Hemodynamically Significant Coronary Stenosis: CT Myocardial Perfusion versus Machine Learning CT Fractional Flow Reserve. Radiology. 2019; 293: 305&#x02013;314. https://doi.org/10.1148/radiol.2019190098.--><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Y</given-names></name>
+<name><surname>Yu</surname><given-names>M</given-names></name>
+<name><surname>Dai</surname><given-names>X</given-names></name>
+<name><surname>Lu</surname><given-names>Z</given-names></name>
+<name><surname>Shen</surname><given-names>C</given-names></name>
+<name><surname>Wang</surname><given-names>Y</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Detection of Hemodynamically Significant Coronary Stenosis: CT Myocardial Perfusion versus Machine Learning CT Fractional Flow Reserve</article-title><source>
+<italic toggle="yes">Radiology</italic>
+</source><year>2019</year><volume>293</volume><fpage>305</fpage><lpage>314</lpage><pub-id pub-id-type="doi">10.1148/radiol.2019190098</pub-id><pub-id pub-id-type="pmid">31549943</pub-id>
+</element-citation></ref><ref id="b31"><label>[31]</label><element-citation publication-type="journal"><!--Soschynski M, Storelli R, Birkemeyer C, Hagar MT, Faby S, Schwemmer C, <italic>et al</italic>. CT Myocardial Perfusion and CT-FFR versus Invasive FFR for Hemodynamic Relevance of Coronary Artery Disease. Radiology. 2024; 312: e233234. https://doi.org/10.1148/radiol.233234.--><person-group person-group-type="author">
+<name><surname>Soschynski</surname><given-names>M</given-names></name>
+<name><surname>Storelli</surname><given-names>R</given-names></name>
+<name><surname>Birkemeyer</surname><given-names>C</given-names></name>
+<name><surname>Hagar</surname><given-names>MT</given-names></name>
+<name><surname>Faby</surname><given-names>S</given-names></name>
+<name><surname>Schwemmer</surname><given-names>C</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>CT Myocardial Perfusion and CT-FFR versus Invasive FFR for Hemodynamic Relevance of Coronary Artery Disease</article-title><source>
+<italic toggle="yes">Radiology</italic>
+</source><year>2024</year><volume>312</volume><fpage>e233234</fpage><pub-id pub-id-type="doi">10.1148/radiol.233234</pub-id><pub-id pub-id-type="pmid">39162632</pub-id>
+</element-citation></ref><ref id="b32"><label>[32]</label><element-citation publication-type="journal"><!--Guo W, Lin Y, Taniguchi A, Zhu Y, Tripathi P, Yang S, <italic>et al</italic>. Prospective comparison of integrated on-site CT-fractional flow reserve and static CT perfusion with coronary CT angiography for detection of flow-limiting coronary stenosis. European Radiology. 2021; 31: 5096&#x02013;5105. https://doi.org/10.1007/s00330-020-07508-y.--><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>W</given-names></name>
+<name><surname>Lin</surname><given-names>Y</given-names></name>
+<name><surname>Taniguchi</surname><given-names>A</given-names></name>
+<name><surname>Zhu</surname><given-names>Y</given-names></name>
+<name><surname>Tripathi</surname><given-names>P</given-names></name>
+<name><surname>Yang</surname><given-names>S</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Prospective comparison of integrated on-site CT-fractional flow reserve and static CT perfusion with coronary CT angiography for detection of flow-limiting coronary stenosis</article-title><source>
+<italic toggle="yes">European Radiology</italic>
+</source><year>2021</year><volume>31</volume><fpage>5096</fpage><lpage>5105</lpage><pub-id pub-id-type="doi">10.1007/s00330-020-07508-y</pub-id><pub-id pub-id-type="pmid">33409778</pub-id>
+</element-citation></ref><ref id="b33"><label>[33]</label><element-citation publication-type="journal"><!--Xue Y, Zheng MW, Hou Y, Zhou F, Li JH, Wang YN, <italic>et al</italic>. Influence of diabetes mellitus on the diagnostic performance of machine learning-based coronary CT angiography-derived fractional flow reserve: a multicenter study. European Radiology. 2022; 32: 3778&#x02013;3789. https://doi.org/10.1007/s00330-021-08468-7.--><person-group person-group-type="author">
+<name><surname>Xue</surname><given-names>Y</given-names></name>
+<name><surname>Zheng</surname><given-names>MW</given-names></name>
+<name><surname>Hou</surname><given-names>Y</given-names></name>
+<name><surname>Zhou</surname><given-names>F</given-names></name>
+<name><surname>Li</surname><given-names>JH</given-names></name>
+<name><surname>Wang</surname><given-names>YN</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Influence of diabetes mellitus on the diagnostic performance of machine learning-based coronary CT angiography-derived fractional flow reserve: a multicenter study</article-title><source>
+<italic toggle="yes">European Radiology</italic>
+</source><year>2022</year><volume>32</volume><fpage>3778</fpage><lpage>3789</lpage><pub-id pub-id-type="doi">10.1007/s00330-021-08468-7</pub-id><pub-id pub-id-type="pmid">35020012</pub-id>
+</element-citation></ref><ref id="b34"><label>[34]</label><element-citation publication-type="journal"><!--Xie Z, Wu T, Mu J, Zhang P, Wang X, Liang T, <italic>et al</italic>. Influence of Left Ventricular Diastolic Dysfunction on the Diagnostic Performance of Coronary Computed Tomography Angiography-Derived Fractional Flow Reserve. Journal of Clinical Medicine. 2023; 12: 1724. https://doi.org/10.3390/jcm12051724.--><person-group person-group-type="author">
+<name><surname>Xie</surname><given-names>Z</given-names></name>
+<name><surname>Wu</surname><given-names>T</given-names></name>
+<name><surname>Mu</surname><given-names>J</given-names></name>
+<name><surname>Zhang</surname><given-names>P</given-names></name>
+<name><surname>Wang</surname><given-names>X</given-names></name>
+<name><surname>Liang</surname><given-names>T</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Influence of Left Ventricular Diastolic Dysfunction on the Diagnostic Performance of Coronary Computed Tomography Angiography-Derived Fractional Flow Reserve</article-title><source>
+<italic toggle="yes">Journal of Clinical Medicine</italic>
+</source><year>2023</year><volume>12</volume><fpage>1724</fpage><pub-id pub-id-type="doi">10.3390/jcm12051724</pub-id><pub-id pub-id-type="pmid">36902511</pub-id>
+</element-citation></ref><ref id="b35"><label>[35]</label><element-citation publication-type="journal"><!--Zhou F, Tang CX, Schoepf UJ, Tesche C, Bauer MJ, Jacobs BE, <italic>et al</italic>. Fractional flow reserve derived from CCTA may have a prognostic role in myocardial bridging. European Radiology. 2019; 29: 3017&#x02013;3026. https://doi.org/10.1007/s00330-018-5811-6.--><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>F</given-names></name>
+<name><surname>Tang</surname><given-names>CX</given-names></name>
+<name><surname>Schoepf</surname><given-names>UJ</given-names></name>
+<name><surname>Tesche</surname><given-names>C</given-names></name>
+<name><surname>Bauer</surname><given-names>MJ</given-names></name>
+<name><surname>Jacobs</surname><given-names>BE</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Fractional flow reserve derived from CCTA may have a prognostic role in myocardial bridging</article-title><source>
+<italic toggle="yes">European Radiology</italic>
+</source><year>2019</year><volume>29</volume><fpage>3017</fpage><lpage>3026</lpage><pub-id pub-id-type="doi">10.1007/s00330-018-5811-6</pub-id><pub-id pub-id-type="pmid">30377794</pub-id>
+</element-citation></ref><ref id="b36"><label>[36]</label><element-citation publication-type="journal"><!--Yu Y, Yu L, Dai X, Zhang J. CT Fractional Flow Reserve for the Diagnosis of Myocardial Bridging-Related Ischemia: A Study Using Dynamic CT Myocardial Perfusion Imaging as a Reference Standard. Korean Journal of Radiology. 2021; 22: 1964&#x02013;1973. https://doi.org/10.3348/kjr.2021.0043.--><person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>Y</given-names></name>
+<name><surname>Yu</surname><given-names>L</given-names></name>
+<name><surname>Dai</surname><given-names>X</given-names></name>
+<name><surname>Zhang</surname><given-names>J</given-names></name>
+</person-group><article-title>CT Fractional Flow Reserve for the Diagnosis of Myocardial Bridging-Related Ischemia: A Study Using Dynamic CT Myocardial Perfusion Imaging as a Reference Standard</article-title><source>
+<italic toggle="yes">Korean Journal of Radiology</italic>
+</source><year>2021</year><volume>22</volume><fpage>1964</fpage><lpage>1973</lpage><pub-id pub-id-type="doi">10.3348/kjr.2021.0043</pub-id><pub-id pub-id-type="pmid">34668350</pub-id>
+</element-citation></ref><ref id="b37"><label>[37]</label><element-citation publication-type="journal"><!--Zhou F, Wang YN, Schoepf UJ, Tesche C, Tang CX, Zhou CS, <italic>et al</italic>. Diagnostic Performance of Machine Learning Based CT-FFR in Detecting Ischemia in Myocardial Bridging and Concomitant Proximal Atherosclerotic Disease. The Canadian Journal of Cardiology. 2019; 35: 1523&#x02013;1533. https://doi.org/10.1016/j.cjca.2019.08.026.--><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>F</given-names></name>
+<name><surname>Wang</surname><given-names>YN</given-names></name>
+<name><surname>Schoepf</surname><given-names>UJ</given-names></name>
+<name><surname>Tesche</surname><given-names>C</given-names></name>
+<name><surname>Tang</surname><given-names>CX</given-names></name>
+<name><surname>Zhou</surname><given-names>CS</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Diagnostic Performance of Machine Learning Based CT-FFR in Detecting Ischemia in Myocardial Bridging and Concomitant Proximal Atherosclerotic Disease</article-title><source>
+<italic toggle="yes">The Canadian Journal of Cardiology</italic>
+</source><year>2019</year><volume>35</volume><fpage>1523</fpage><lpage>1533</lpage><pub-id pub-id-type="doi">10.1016/j.cjca.2019.08.026</pub-id><pub-id pub-id-type="pmid">31679622</pub-id>
+</element-citation></ref><ref id="b38"><label>[38]</label><element-citation publication-type="journal"><!--Zhao N, Gao Y, Xu B, Jiang T, Xu L, Hu H, <italic>et al</italic>. CT-FFR vs a model of combined plaque characteristics for identifying ischemia: Results from CT-FFR CHINA trial. European Journal of Radiology. 2021; 138: 109634. https://doi.org/10.1016/j.ejrad.2021.109634.--><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>N</given-names></name>
+<name><surname>Gao</surname><given-names>Y</given-names></name>
+<name><surname>Xu</surname><given-names>B</given-names></name>
+<name><surname>Jiang</surname><given-names>T</given-names></name>
+<name><surname>Xu</surname><given-names>L</given-names></name>
+<name><surname>Hu</surname><given-names>H</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>CT-FFR vs a model of combined plaque characteristics for identifying ischemia: Results from CT-FFR CHINA trial</article-title><source>
+<italic toggle="yes">European Journal of Radiology</italic>
+</source><year>2021</year><volume>138</volume><fpage>109634</fpage><pub-id pub-id-type="doi">10.1016/j.ejrad.2021.109634</pub-id><pub-id pub-id-type="pmid">33721765</pub-id>
+</element-citation></ref><ref id="b39"><label>[39]</label><element-citation publication-type="journal"><!--Dong M, Li C, Yang G, Gou Q, Zhao Q, Liu Y, <italic>et al</italic>. Diagnostic performance of coronary computed tomography angiography-derived fractional flow reverse in lesion-specific ischemia patients with different Gensini score levels. Annals of Translational Medicine. 2022; 10: 412. https://doi.org/10.21037/atm-22-881.--><person-group person-group-type="author">
+<name><surname>Dong</surname><given-names>M</given-names></name>
+<name><surname>Li</surname><given-names>C</given-names></name>
+<name><surname>Yang</surname><given-names>G</given-names></name>
+<name><surname>Gou</surname><given-names>Q</given-names></name>
+<name><surname>Zhao</surname><given-names>Q</given-names></name>
+<name><surname>Liu</surname><given-names>Y</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Diagnostic performance of coronary computed tomography angiography-derived fractional flow reverse in lesion-specific ischemia patients with different Gensini score levels</article-title><source>
+<italic toggle="yes">Annals of Translational Medicine</italic>
+</source><year>2022</year><volume>10</volume><fpage>412</fpage><pub-id pub-id-type="doi">10.21037/atm-22-881</pub-id><pub-id pub-id-type="pmid">35530932</pub-id>
+</element-citation></ref><ref id="b40"><label>[40]</label><element-citation publication-type="journal"><!--Di Jiang M, Zhang XL, Liu H, Tang CX, Li JH, Wang YN, <italic>et al</italic>. The effect of coronary calcification on diagnostic performance of machine learning-based CT-FFR: a Chinese multicenter study. European Radiology. 2021; 31: 1482&#x02013;1493. https://doi.org/10.1007/s00330-020-07261-2.--><person-group person-group-type="author">
+<name><surname>Di Jiang</surname><given-names>M</given-names></name>
+<name><surname>Zhang</surname><given-names>XL</given-names></name>
+<name><surname>Liu</surname><given-names>H</given-names></name>
+<name><surname>Tang</surname><given-names>CX</given-names></name>
+<name><surname>Li</surname><given-names>JH</given-names></name>
+<name><surname>Wang</surname><given-names>YN</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>The effect of coronary calcification on diagnostic performance of machine learning-based CT-FFR: a Chinese multicenter study</article-title><source>
+<italic toggle="yes">European Radiology</italic>
+</source><year>2021</year><volume>31</volume><fpage>1482</fpage><lpage>1493</lpage><pub-id pub-id-type="doi">10.1007/s00330-020-07261-2</pub-id><pub-id pub-id-type="pmid">32929641</pub-id>
+</element-citation></ref><ref id="b41"><label>[41]</label><element-citation publication-type="journal"><!--N&#x000f8;rgaard BL, Gaur S, Leipsic J, Ito H, Miyoshi T, Park SJ, <italic>et al</italic>. Influence of Coronary Calcification on the Diagnostic Performance of CT Angiography Derived FFR in Coronary Artery Disease: A Substudy of the NXT Trial. JACC. Cardiovascular Imaging. 2015; 8: 1045&#x02013;1055. https://doi.org/10.1016/j.jcmg.2015.06.003.--><person-group person-group-type="author">
+<name><surname>N&#x000f8;rgaard</surname><given-names>BL</given-names></name>
+<name><surname>Gaur</surname><given-names>S</given-names></name>
+<name><surname>Leipsic</surname><given-names>J</given-names></name>
+<name><surname>Ito</surname><given-names>H</given-names></name>
+<name><surname>Miyoshi</surname><given-names>T</given-names></name>
+<name><surname>Park</surname><given-names>SJ</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Influence of Coronary Calcification on the Diagnostic Performance of CT Angiography Derived FFR in Coronary Artery Disease: A Substudy of the NXT Trial</article-title><source>
+<italic toggle="yes">JACC. Cardiovascular Imaging</italic>
+</source><year>2015</year><volume>8</volume><fpage>1045</fpage><lpage>1055</lpage><pub-id pub-id-type="doi">10.1016/j.jcmg.2015.06.003</pub-id><pub-id pub-id-type="pmid">26298072</pub-id>
+</element-citation></ref><ref id="b42"><label>[42]</label><element-citation publication-type="journal"><!--Tesche C, Otani K, De Cecco CN, Coenen A, De Geer J, Kruk M, <italic>et al</italic>. Influence of Coronary Calcium on Diagnostic Performance of Machine Learning CT-FFR: Results From MACHINE Registry. JACC. Cardiovascular Imaging. 2020; 13: 760&#x02013;770. https://doi.org/10.1016/j.jcmg.2019.06.027.--><person-group person-group-type="author">
+<name><surname>Tesche</surname><given-names>C</given-names></name>
+<name><surname>Otani</surname><given-names>K</given-names></name>
+<name><surname>De Cecco</surname><given-names>CN</given-names></name>
+<name><surname>Coenen</surname><given-names>A</given-names></name>
+<name><surname>De Geer</surname><given-names>J</given-names></name>
+<name><surname>Kruk</surname><given-names>M</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Influence of Coronary Calcium on Diagnostic Performance of Machine Learning CT-FFR: Results From MACHINE Registry</article-title><source>
+<italic toggle="yes">JACC. Cardiovascular Imaging</italic>
+</source><year>2020</year><volume>13</volume><fpage>760</fpage><lpage>770</lpage><pub-id pub-id-type="doi">10.1016/j.jcmg.2019.06.027</pub-id><pub-id pub-id-type="pmid">31422141</pub-id>
+</element-citation></ref><ref id="b43"><label>[43]</label><element-citation publication-type="journal"><!--Chen YC, Zhou F, Wang YN, Zhang JY, Yu MM, Hou Y, <italic>et al</italic>. Optimal Measurement Sites of Coronary-Computed Tomography Angiography-derived Fractional Flow Reserve: The Insight From China CT-FFR Study. Journal of Thoracic Imaging. 2023; 38: 194&#x02013;202. https://doi.org/10.1097/RTI.0000000000000687.--><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>YC</given-names></name>
+<name><surname>Zhou</surname><given-names>F</given-names></name>
+<name><surname>Wang</surname><given-names>YN</given-names></name>
+<name><surname>Zhang</surname><given-names>JY</given-names></name>
+<name><surname>Yu</surname><given-names>MM</given-names></name>
+<name><surname>Hou</surname><given-names>Y</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Optimal Measurement Sites of Coronary-Computed Tomography Angiography-derived Fractional Flow Reserve: The Insight From China CT-FFR Study</article-title><source>
+<italic toggle="yes">Journal of Thoracic Imaging</italic>
+</source><year>2023</year><volume>38</volume><fpage>194</fpage><lpage>202</lpage><pub-id pub-id-type="doi">10.1097/RTI.0000000000000687</pub-id><pub-id pub-id-type="pmid">36469852</pub-id>
+</element-citation></ref><ref id="b44"><label>[44]</label><element-citation publication-type="journal"><!--Yang W, Yu L, Yu Y, Dai X, Yang W, Zhang J. Novel motion correction algorithm improves diagnostic performance of CT fractional flow reserve. European Journal of Radiology. 2024; 176: 111538. https://doi.org/10.1016/j.ejrad.2024.111538.--><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>W</given-names></name>
+<name><surname>Yu</surname><given-names>L</given-names></name>
+<name><surname>Yu</surname><given-names>Y</given-names></name>
+<name><surname>Dai</surname><given-names>X</given-names></name>
+<name><surname>Yang</surname><given-names>W</given-names></name>
+<name><surname>Zhang</surname><given-names>J</given-names></name>
+</person-group><article-title>Novel motion correction algorithm improves diagnostic performance of CT fractional flow reserve</article-title><source>
+<italic toggle="yes">European Journal of Radiology</italic>
+</source><year>2024</year><volume>176</volume><fpage>111538</fpage><pub-id pub-id-type="doi">10.1016/j.ejrad.2024.111538</pub-id><pub-id pub-id-type="pmid">38838412</pub-id>
+</element-citation></ref><ref id="b45"><label>[45]</label><element-citation publication-type="journal"><!--Shi K, Yang FF, Si N, Zhu CT, Li N, Dong XL, <italic>et al</italic>. Effect of 320-row CT reconstruction technology on fractional flow reserve derived from coronary CT angiography based on machine learning: single- versus multiple-cardiac periodic images. Quantitative Imaging in Medicine and Surgery. 2022; 12: 3092&#x02013;3103. https://doi.org/10.21037/qims-21-659.--><person-group person-group-type="author">
+<name><surname>Shi</surname><given-names>K</given-names></name>
+<name><surname>Yang</surname><given-names>FF</given-names></name>
+<name><surname>Si</surname><given-names>N</given-names></name>
+<name><surname>Zhu</surname><given-names>CT</given-names></name>
+<name><surname>Li</surname><given-names>N</given-names></name>
+<name><surname>Dong</surname><given-names>XL</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Effect of 320-row CT reconstruction technology on fractional flow reserve derived from coronary CT angiography based on machine learning: single- versus multiple-cardiac periodic images</article-title><source>
+<italic toggle="yes">Quantitative Imaging in Medicine and Surgery</italic>
+</source><year>2022</year><volume>12</volume><fpage>3092</fpage><lpage>3103</lpage><pub-id pub-id-type="doi">10.21037/qims-21-659</pub-id><pub-id pub-id-type="pmid">35655842</pub-id>
+</element-citation></ref><ref id="b46"><label>[46]</label><element-citation publication-type="journal"><!--Xu PP, Li JH, Zhou F, Jiang MD, Zhou CS, Lu MJ, <italic>et al</italic>. The influence of image quality on diagnostic performance of a machine learning-based fractional flow reserve derived from coronary CT angiography. European Radiology. 2020; 30: 2525&#x02013;2534. https://doi.org/10.1007/s00330-019-06571-4.--><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>PP</given-names></name>
+<name><surname>Li</surname><given-names>JH</given-names></name>
+<name><surname>Zhou</surname><given-names>F</given-names></name>
+<name><surname>Jiang</surname><given-names>MD</given-names></name>
+<name><surname>Zhou</surname><given-names>CS</given-names></name>
+<name><surname>Lu</surname><given-names>MJ</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>The influence of image quality on diagnostic performance of a machine learning-based fractional flow reserve derived from coronary CT angiography</article-title><source>
+<italic toggle="yes">European Radiology</italic>
+</source><year>2020</year><volume>30</volume><fpage>2525</fpage><lpage>2534</lpage><pub-id pub-id-type="doi">10.1007/s00330-019-06571-4</pub-id><pub-id pub-id-type="pmid">32006167</pub-id>
+</element-citation></ref><ref id="b47"><label>[47]</label><element-citation publication-type="journal"><!--Dai X, Lu Z, Yu Y, Yu L, Xu H, Zhang J. The use of lesion-specific calcium morphology to guide the appropriate use of dynamic CT myocardial perfusion imaging and CT fractional flow reserve. Quantitative Imaging in Medicine and Surgery. 2022; 12: 1257&#x02013;1269. https://doi.org/10.21037/qims-21-491.--><person-group person-group-type="author">
+<name><surname>Dai</surname><given-names>X</given-names></name>
+<name><surname>Lu</surname><given-names>Z</given-names></name>
+<name><surname>Yu</surname><given-names>Y</given-names></name>
+<name><surname>Yu</surname><given-names>L</given-names></name>
+<name><surname>Xu</surname><given-names>H</given-names></name>
+<name><surname>Zhang</surname><given-names>J</given-names></name>
+</person-group><article-title>The use of lesion-specific calcium morphology to guide the appropriate use of dynamic CT myocardial perfusion imaging and CT fractional flow reserve</article-title><source>
+<italic toggle="yes">Quantitative Imaging in Medicine and Surgery</italic>
+</source><year>2022</year><volume>12</volume><fpage>1257</fpage><lpage>1269</lpage><pub-id pub-id-type="doi">10.21037/qims-21-491</pub-id><pub-id pub-id-type="pmid">35111621</pub-id>
+</element-citation></ref><ref id="b48"><label>[48]</label><element-citation publication-type="journal"><!--McCollough CH, Rajiah P, Bois JP, Winfree TN, Carter RE, Rajendran K, <italic>et al</italic>. Comparison of Photon-counting Detector and Energy-integrating Detector CT for Visual Estimation of Coronary Percent Luminal Stenosis. Radiology. 2023; 309: e230853. https://doi.org/10.1148/radiol.230853.--><person-group person-group-type="author">
+<name><surname>McCollough</surname><given-names>CH</given-names></name>
+<name><surname>Rajiah</surname><given-names>P</given-names></name>
+<name><surname>Bois</surname><given-names>JP</given-names></name>
+<name><surname>Winfree</surname><given-names>TN</given-names></name>
+<name><surname>Carter</surname><given-names>RE</given-names></name>
+<name><surname>Rajendran</surname><given-names>K</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Comparison of Photon-counting Detector and Energy-integrating Detector CT for Visual Estimation of Coronary Percent Luminal Stenosis</article-title><source>
+<italic toggle="yes">Radiology</italic>
+</source><year>2023</year><volume>309</volume><fpage>e230853</fpage><pub-id pub-id-type="doi">10.1148/radiol.230853</pub-id><pub-id pub-id-type="pmid">38051190</pub-id>
+</element-citation></ref><ref id="b49"><label>[49]</label><element-citation publication-type="journal"><!--Vecsey-Nagy M, Tremamunno G, Schoepf UJ, Gnasso C, Zsarn&#x000f3;czay E, Fink N, <italic>et al</italic>. Coronary CT angiography-based FFR with ultrahigh-resolution photon-counting detector CT: Intra-individual comparison to energy-integrating detector CT. European Journal of Radiology. 2024; 181: 111797. https://doi.org/10.1016/j.ejrad.2024.111797.--><person-group person-group-type="author">
+<name><surname>Vecsey-Nagy</surname><given-names>M</given-names></name>
+<name><surname>Tremamunno</surname><given-names>G</given-names></name>
+<name><surname>Schoepf</surname><given-names>UJ</given-names></name>
+<name><surname>Gnasso</surname><given-names>C</given-names></name>
+<name><surname>Zsarn&#x000f3;czay</surname><given-names>E</given-names></name>
+<name><surname>Fink</surname><given-names>N</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Coronary CT angiography-based FFR with ultrahigh-resolution photon-counting detector CT: Intra-individual comparison to energy-integrating detector CT</article-title><source>
+<italic toggle="yes">European Journal of Radiology</italic>
+</source><year>2024</year><volume>181</volume><fpage>111797</fpage><pub-id pub-id-type="doi">10.1016/j.ejrad.2024.111797</pub-id><pub-id pub-id-type="pmid">39454427</pub-id>
+</element-citation></ref><ref id="b50"><label>[50]</label><element-citation publication-type="journal"><!--Zsarnoczay E, Pinos D, Schoepf UJ, Fink N, O&#x02019;Doherty J, Gnasso C, <italic>et al</italic>. Intra-individual comparison of coronary CT angiography-based FFR between energy-integrating and photon-counting detector CT systems. International Journal of Cardiology. 2024; 399: 131684. https://doi.org/10.1016/j.ijcard.2023.131684.--><person-group person-group-type="author">
+<name><surname>Zsarnoczay</surname><given-names>E</given-names></name>
+<name><surname>Pinos</surname><given-names>D</given-names></name>
+<name><surname>Schoepf</surname><given-names>UJ</given-names></name>
+<name><surname>Fink</surname><given-names>N</given-names></name>
+<name><surname>O&#x02019;Doherty</surname><given-names>J</given-names></name>
+<name><surname>Gnasso</surname><given-names>C</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Intra-individual comparison of coronary CT angiography-based FFR between energy-integrating and photon-counting detector CT systems</article-title><source>
+<italic toggle="yes">International Journal of Cardiology</italic>
+</source><year>2024</year><volume>399</volume><fpage>131684</fpage><pub-id pub-id-type="doi">10.1016/j.ijcard.2023.131684</pub-id><pub-id pub-id-type="pmid">38151162</pub-id>
+</element-citation></ref><ref id="b51"><label>[51]</label><element-citation publication-type="journal"><!--Zhang LJ, Tang C, Xu P, Guo B, Zhou F, Xue Y, <italic>et al</italic>. Coronary Computed Tomography Angiography-derived Fractional Flow Reserve: An Expert Consensus Document of Chinese Society of Radiology. Journal of Thoracic Imaging. 2022; 37: 385&#x02013;400. https://doi.org/10.1097/RTI.0000000000000679.--><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>LJ</given-names></name>
+<name><surname>Tang</surname><given-names>C</given-names></name>
+<name><surname>Xu</surname><given-names>P</given-names></name>
+<name><surname>Guo</surname><given-names>B</given-names></name>
+<name><surname>Zhou</surname><given-names>F</given-names></name>
+<name><surname>Xue</surname><given-names>Y</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Coronary Computed Tomography Angiography-derived Fractional Flow Reserve: An Expert Consensus Document of Chinese Society of Radiology</article-title><source>
+<italic toggle="yes">Journal of Thoracic Imaging</italic>
+</source><year>2022</year><volume>37</volume><fpage>385</fpage><lpage>400</lpage><pub-id pub-id-type="doi">10.1097/RTI.0000000000000679</pub-id><pub-id pub-id-type="pmid">36162081</pub-id>
+</element-citation></ref><ref id="b52"><label>[52]</label><element-citation publication-type="journal"><!--Tang CX, Lu MJ, Schoepf JU, Tesche C, Bauer M, Nance J, <italic>et al</italic>. Coronary Computed Tomography Angiography-Derived Fractional Flow Reserve in Patients with Anomalous Origin of the Right Coronary Artery from the Left Coronary Sinus. Korean Journal of Radiology. 2020; 21: 192&#x02013;202. https://doi.org/10.3348/kjr.2019.0230.--><person-group person-group-type="author">
+<name><surname>Tang</surname><given-names>CX</given-names></name>
+<name><surname>Lu</surname><given-names>MJ</given-names></name>
+<name><surname>Schoepf</surname><given-names>JU</given-names></name>
+<name><surname>Tesche</surname><given-names>C</given-names></name>
+<name><surname>Bauer</surname><given-names>M</given-names></name>
+<name><surname>Nance</surname><given-names>J</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Coronary Computed Tomography Angiography-Derived Fractional Flow Reserve in Patients with Anomalous Origin of the Right Coronary Artery from the Left Coronary Sinus</article-title><source>
+<italic toggle="yes">Korean Journal of Radiology</italic>
+</source><year>2020</year><volume>21</volume><fpage>192</fpage><lpage>202</lpage><pub-id pub-id-type="doi">10.3348/kjr.2019.0230</pub-id><pub-id pub-id-type="pmid">31997594</pub-id>
+</element-citation></ref><ref id="b53"><label>[53]</label><element-citation publication-type="journal"><!--Zuo H, Xu C, Wang L, Liu C, Liu L, Su X. A CT-FFR-guided unroofing procedure for repairing the anomalous origin of the left coronary artery-a case report. Frontiers in Cardiovascular Medicine. 2023; 10: 1167698. https://doi.org/10.3389/fcvm.2023.1167698.--><person-group person-group-type="author">
+<name><surname>Zuo</surname><given-names>H</given-names></name>
+<name><surname>Xu</surname><given-names>C</given-names></name>
+<name><surname>Wang</surname><given-names>L</given-names></name>
+<name><surname>Liu</surname><given-names>C</given-names></name>
+<name><surname>Liu</surname><given-names>L</given-names></name>
+<name><surname>Su</surname><given-names>X</given-names></name>
+</person-group><article-title>A CT-FFR-guided unroofing procedure for repairing the anomalous origin of the left coronary artery-a case report</article-title><source>
+<italic toggle="yes">Frontiers in Cardiovascular Medicine</italic>
+</source><year>2023</year><volume>10</volume><fpage>1167698</fpage><pub-id pub-id-type="doi">10.3389/fcvm.2023.1167698</pub-id><pub-id pub-id-type="pmid">37283585</pub-id>
+</element-citation></ref><ref id="b54"><label>[54]</label><element-citation publication-type="journal"><!--Zhou F, Tang CX, Schoepf UJ, Tesche C, Rollins JD, Liu H, <italic>et al</italic>. Machine Learning Using CT-FFR Predicts Proximal Atherosclerotic Plaque Formation Associated With LAD Myocardial Bridging. JACC. Cardiovascular Imaging. 2019; 12: 1591&#x02013;1593. https://doi.org/10.1016/j.jcmg.2019.01.018.--><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>F</given-names></name>
+<name><surname>Tang</surname><given-names>CX</given-names></name>
+<name><surname>Schoepf</surname><given-names>UJ</given-names></name>
+<name><surname>Tesche</surname><given-names>C</given-names></name>
+<name><surname>Rollins</surname><given-names>JD</given-names></name>
+<name><surname>Liu</surname><given-names>H</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Machine Learning Using CT-FFR Predicts Proximal Atherosclerotic Plaque Formation Associated With LAD Myocardial Bridging</article-title><source>
+<italic toggle="yes">JACC. Cardiovascular Imaging</italic>
+</source><year>2019</year><volume>12</volume><fpage>1591</fpage><lpage>1593</lpage><pub-id pub-id-type="doi">10.1016/j.jcmg.2019.01.018</pub-id><pub-id pub-id-type="pmid">30878419</pub-id>
+</element-citation></ref><ref id="b55"><label>[55]</label><element-citation publication-type="journal"><!--Toba T, Otake H, Roy A, Choi G, Gobi N, Schaap M, <italic>et al</italic>. Diagnostic performance of fractional flow reserve derived from computed tomography in stented coronary arteries. Journal of Cardiovascular Computed Tomography. 2022; 16: 358&#x02013;361. https://doi.org/10.1016/j.jcct.2022.04.002.--><person-group person-group-type="author">
+<name><surname>Toba</surname><given-names>T</given-names></name>
+<name><surname>Otake</surname><given-names>H</given-names></name>
+<name><surname>Roy</surname><given-names>A</given-names></name>
+<name><surname>Choi</surname><given-names>G</given-names></name>
+<name><surname>Gobi</surname><given-names>N</given-names></name>
+<name><surname>Schaap</surname><given-names>M</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Diagnostic performance of fractional flow reserve derived from computed tomography in stented coronary arteries</article-title><source>
+<italic toggle="yes">Journal of Cardiovascular Computed Tomography</italic>
+</source><year>2022</year><volume>16</volume><fpage>358</fpage><lpage>361</lpage><pub-id pub-id-type="doi">10.1016/j.jcct.2022.04.002</pub-id><pub-id pub-id-type="pmid">35550869</pub-id>
+</element-citation></ref><ref id="b56"><label>[56]</label><element-citation publication-type="journal"><!--Kim MS, Ryu AJ, Kim JW, Lee CH, Hwang SW, Kim KB. Prediction of graft patency during the year following coronary artery bypass grafting: preoperative computed tomography-derived fractional flow reserve versus intraoperative transit-time flow measurement. The Journal of Thoracic and Cardiovascular Surgery. 2025. https://doi.org/10.1016/j.jtcvs.2025.08.030. (in press)--><person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>MS</given-names></name>
+<name><surname>Ryu</surname><given-names>AJ</given-names></name>
+<name><surname>Kim</surname><given-names>JW</given-names></name>
+<name><surname>Lee</surname><given-names>CH</given-names></name>
+<name><surname>Hwang</surname><given-names>SW</given-names></name>
+<name><surname>Kim</surname><given-names>KB</given-names></name>
+</person-group><article-title>Prediction of graft patency during the year following coronary artery bypass grafting: preoperative computed tomography-derived fractional flow reserve versus intraoperative transit-time flow measurement</article-title><source>
+<italic toggle="yes">The Journal of Thoracic and Cardiovascular Surgery</italic>
+</source><year>2025</year><comment>(in press)</comment><pub-id pub-id-type="doi">10.1016/j.jtcvs.2025.08.030</pub-id></element-citation></ref><ref id="b57"><label>[57]</label><element-citation publication-type="journal"><!--Peper J, Becker LM, van den Berg H, Bor WL, Brouwer J, Nijenhuis VJ, <italic>et al</italic>. Diagnostic Performance of CCTA and CT-FFR for the Detection of CAD in TAVR Work-Up. JACC. Cardiovascular Interventions. 2022; 15: 1140&#x02013;1149. https://doi.org/10.1016/j.jcin.2022.03.025.--><person-group person-group-type="author">
+<name><surname>Peper</surname><given-names>J</given-names></name>
+<name><surname>Becker</surname><given-names>LM</given-names></name>
+<name><surname>van den Berg</surname><given-names>H</given-names></name>
+<name><surname>Bor</surname><given-names>WL</given-names></name>
+<name><surname>Brouwer</surname><given-names>J</given-names></name>
+<name><surname>Nijenhuis</surname><given-names>VJ</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Diagnostic Performance of CCTA and CT-FFR for the Detection of CAD in TAVR Work-Up</article-title><source>
+<italic toggle="yes">JACC. Cardiovascular Interventions</italic>
+</source><year>2022</year><volume>15</volume><fpage>1140</fpage><lpage>1149</lpage><pub-id pub-id-type="doi">10.1016/j.jcin.2022.03.025</pub-id><pub-id pub-id-type="pmid">35680194</pub-id>
+</element-citation></ref><ref id="b58"><label>[58]</label><element-citation publication-type="journal"><!--Gohmann RF, Pawelka K, Seitz P, Majunke N, Heiser L, Renatus K, <italic>et al</italic>. Combined cCTA and TAVR Planning for Ruling Out Significant CAD: Added Value of ML-Based CT-FFR. JACC. Cardiovascular Imaging. 2022; 15: 476&#x02013;486. https://doi.org/10.1016/j.jcmg.2021.09.013.--><person-group person-group-type="author">
+<name><surname>Gohmann</surname><given-names>RF</given-names></name>
+<name><surname>Pawelka</surname><given-names>K</given-names></name>
+<name><surname>Seitz</surname><given-names>P</given-names></name>
+<name><surname>Majunke</surname><given-names>N</given-names></name>
+<name><surname>Heiser</surname><given-names>L</given-names></name>
+<name><surname>Renatus</surname><given-names>K</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Combined cCTA and TAVR Planning for Ruling Out Significant CAD: Added Value of ML-Based CT-FFR</article-title><source>
+<italic toggle="yes">JACC. Cardiovascular Imaging</italic>
+</source><year>2022</year><volume>15</volume><fpage>476</fpage><lpage>486</lpage><pub-id pub-id-type="doi">10.1016/j.jcmg.2021.09.013</pub-id><pub-id pub-id-type="pmid">34801449</pub-id>
+</element-citation></ref><ref id="b59"><label>[59]</label><element-citation publication-type="journal"><!--Fairbairn TA, Nieman K, Akasaka T, N&#x000f8;rgaard BL, Berman DS, Raff G, <italic>et al</italic>. Real-world clinical utility and impact on clinical decision-making of coronary computed tomography angiography-derived fractional flow reserve: lessons from the ADVANCE Registry. European Heart Journal. 2018; 39: 3701&#x02013;3711. https://doi.org/10.1093/eurheartj/ehy530.--><person-group person-group-type="author">
+<name><surname>Fairbairn</surname><given-names>TA</given-names></name>
+<name><surname>Nieman</surname><given-names>K</given-names></name>
+<name><surname>Akasaka</surname><given-names>T</given-names></name>
+<name><surname>N&#x000f8;rgaard</surname><given-names>BL</given-names></name>
+<name><surname>Berman</surname><given-names>DS</given-names></name>
+<name><surname>Raff</surname><given-names>G</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Real-world clinical utility and impact on clinical decision-making of coronary computed tomography angiography-derived fractional flow reserve: lessons from the ADVANCE Registry</article-title><source>
+<italic toggle="yes">European Heart Journal</italic>
+</source><year>2018</year><volume>39</volume><fpage>3701</fpage><lpage>3711</lpage><pub-id pub-id-type="doi">10.1093/eurheartj/ehy530</pub-id><pub-id pub-id-type="pmid">30165613</pub-id>
+</element-citation></ref><ref id="b60"><label>[60]</label><element-citation publication-type="journal"><!--Qian Y, Chen M, Hu C, Wang X. CT-derived fractional flow reserve on therapeutic management and outcomes compared with coronary CT angiography in coronary artery disease. British Journal of Radiology. 2025; 98: 956&#x02013;964. https://doi.org/10.1093/bjr/tqaf055.--><person-group person-group-type="author">
+<name><surname>Qian</surname><given-names>Y</given-names></name>
+<name><surname>Chen</surname><given-names>M</given-names></name>
+<name><surname>Hu</surname><given-names>C</given-names></name>
+<name><surname>Wang</surname><given-names>X</given-names></name>
+</person-group><article-title>CT-derived fractional flow reserve on therapeutic management and outcomes compared with coronary CT angiography in coronary artery disease</article-title><source>
+<italic toggle="yes">British Journal of Radiology</italic>
+</source><year>2025</year><volume>98</volume><fpage>956</fpage><lpage>964</lpage><pub-id pub-id-type="doi">10.1093/bjr/tqaf055</pub-id><pub-id pub-id-type="pmid">40107975</pub-id>
+</element-citation></ref><ref id="b61"><label>[61]</label><element-citation publication-type="journal"><!--Bozika M, Apostolos A, Nastouli KM, Papafaklis MI, Skalidis I, Terentes-Printzios D, <italic>et al</italic>. Clinical Impact of CT-Based FFR in Everyday Cardiology: Bridging Computation and Decision-Making. Biomedicines. 2025; 13. https://doi.org/10.3390/biomedicines13081969.--><person-group person-group-type="author">
+<name><surname>Bozika</surname><given-names>M</given-names></name>
+<name><surname>Apostolos</surname><given-names>A</given-names></name>
+<name><surname>Nastouli</surname><given-names>KM</given-names></name>
+<name><surname>Papafaklis</surname><given-names>MI</given-names></name>
+<name><surname>Skalidis</surname><given-names>I</given-names></name>
+<name><surname>Terentes-Printzios</surname><given-names>D</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Clinical Impact of CT-Based FFR in Everyday Cardiology: Bridging Computation and Decision-Making</article-title><source>
+<italic toggle="yes">Biomedicines</italic>
+</source><year>2025</year><volume>13</volume><pub-id pub-id-type="doi">10.3390/biomedicines13081969</pub-id></element-citation></ref><ref id="b62"><label>[62]</label><element-citation publication-type="journal"><!--Cury RC, Abbara S, Achenbach S, Agatston A, Berman DS, Budoff MJ, <italic>et al</italic>. CAD-RADS(TM) Coronary Artery Disease - Reporting and Data System. An expert consensus document of the Society of Cardiovascular Computed Tomography (SCCT), the American College of Radiology (ACR) and the North American Society for Cardiovascular Imaging (NASCI). Endorsed by the American College of Cardiology. Journal of Cardiovascular Computed Tomography. 2016; 10: 269&#x02013;281. https://doi.org/10.1016/j.jcct.2016.04.005.--><person-group person-group-type="author">
+<name><surname>Cury</surname><given-names>RC</given-names></name>
+<name><surname>Abbara</surname><given-names>S</given-names></name>
+<name><surname>Achenbach</surname><given-names>S</given-names></name>
+<name><surname>Agatston</surname><given-names>A</given-names></name>
+<name><surname>Berman</surname><given-names>DS</given-names></name>
+<name><surname>Budoff</surname><given-names>MJ</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>CAD-RADS(TM) Coronary Artery Disease - Reporting and Data System. An expert consensus document of the Society of Cardiovascular Computed Tomography (SCCT), the American College of Radiology (ACR) and the North American Society for Cardiovascular Imaging (NASCI). Endorsed by the American College of Cardiology</article-title><source>
+<italic toggle="yes">Journal of Cardiovascular Computed Tomography</italic>
+</source><year>2016</year><volume>10</volume><fpage>269</fpage><lpage>281</lpage><pub-id pub-id-type="doi">10.1016/j.jcct.2016.04.005</pub-id><pub-id pub-id-type="pmid">27318587</pub-id>
+</element-citation></ref><ref id="b63"><label>[63]</label><element-citation publication-type="journal"><!--Cury RC, Leipsic J, Abbara S, Achenbach S, Berman D, Bittencourt M, <italic>et al</italic>. CAD-RADS&#x02122; 2.0 - 2022 Coronary Artery Disease-Reporting and Data System: An Expert Consensus Document of the Society of Cardiovascular Computed Tomography (SCCT), the American College of Cardiology (ACC), the American College of Radiology (ACR), and the North America Society of Cardiovascular Imaging (NASCI). Journal of Cardiovascular Computed Tomography. 2022; 16: 536&#x02013;557. https://doi.org/10.1016/j.jcct.2022.07.002.--><person-group person-group-type="author">
+<name><surname>Cury</surname><given-names>RC</given-names></name>
+<name><surname>Leipsic</surname><given-names>J</given-names></name>
+<name><surname>Abbara</surname><given-names>S</given-names></name>
+<name><surname>Achenbach</surname><given-names>S</given-names></name>
+<name><surname>Berman</surname><given-names>D</given-names></name>
+<name><surname>Bittencourt</surname><given-names>M</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>CAD-RADS&#x02122; 2.0 - 2022 Coronary Artery Disease-Reporting and Data System: An Expert Consensus Document of the Society of Cardiovascular Computed Tomography (SCCT), the American College of Cardiology (ACC), the American College of Radiology (ACR), and the North America Society of Cardiovascular Imaging (NASCI)</article-title><source>
+<italic toggle="yes">Journal of Cardiovascular Computed Tomography</italic>
+</source><year>2022</year><volume>16</volume><fpage>536</fpage><lpage>557</lpage><pub-id pub-id-type="doi">10.1016/j.jcct.2022.07.002</pub-id><pub-id pub-id-type="pmid">35864070</pub-id>
+</element-citation></ref><ref id="b64"><label>[64]</label><element-citation publication-type="journal"><!--Collet C, Miyazaki Y, Ryan N, Asano T, Tenekecioglu E, Sonck J, <italic>et al</italic>. Fractional Flow Reserve Derived From Computed Tomographic Angiography in Patients With Multivessel CAD. Journal of the American College of Cardiology. 2018; 71: 2756&#x02013;2769. https://doi.org/10.1016/j.jacc.2018.02.053.--><person-group person-group-type="author">
+<name><surname>Collet</surname><given-names>C</given-names></name>
+<name><surname>Miyazaki</surname><given-names>Y</given-names></name>
+<name><surname>Ryan</surname><given-names>N</given-names></name>
+<name><surname>Asano</surname><given-names>T</given-names></name>
+<name><surname>Tenekecioglu</surname><given-names>E</given-names></name>
+<name><surname>Sonck</surname><given-names>J</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Fractional Flow Reserve Derived From Computed Tomographic Angiography in Patients With Multivessel CAD</article-title><source>
+<italic toggle="yes">Journal of the American College of Cardiology</italic>
+</source><year>2018</year><volume>71</volume><fpage>2756</fpage><lpage>2769</lpage><pub-id pub-id-type="doi">10.1016/j.jacc.2018.02.053</pub-id><pub-id pub-id-type="pmid">29802016</pub-id>
+</element-citation></ref><ref id="b65"><label>[65]</label><element-citation publication-type="journal"><!--Andreini D, Modolo R, Katagiri Y, Mushtaq S, Sonck J, Collet C, <italic>et al</italic>. Impact of Fractional Flow Reserve Derived From Coronary Computed Tomography Angiography on Heart Team Treatment Decision-Making in Patients With Multivessel Coronary Artery Disease: Insights From the SYNTAX III REVOLUTION Trial. Circulation. Cardiovascular Interventions. 2019; 12: e007607. https://doi.org/10.1161/CIRCINTERVENTIONS.118.007607.--><person-group person-group-type="author">
+<name><surname>Andreini</surname><given-names>D</given-names></name>
+<name><surname>Modolo</surname><given-names>R</given-names></name>
+<name><surname>Katagiri</surname><given-names>Y</given-names></name>
+<name><surname>Mushtaq</surname><given-names>S</given-names></name>
+<name><surname>Sonck</surname><given-names>J</given-names></name>
+<name><surname>Collet</surname><given-names>C</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Impact of Fractional Flow Reserve Derived From Coronary Computed Tomography Angiography on Heart Team Treatment Decision-Making in Patients With Multivessel Coronary Artery Disease: Insights From the SYNTAX III REVOLUTION Trial</article-title><source>
+<italic toggle="yes">Circulation. Cardiovascular Interventions</italic>
+</source><year>2019</year><volume>12</volume><fpage>e007607</fpage><pub-id pub-id-type="doi">10.1161/CIRCINTERVENTIONS.118.007607</pub-id><pub-id pub-id-type="pmid">31833413</pub-id>
+</element-citation></ref><ref id="b66"><label>[66]</label><element-citation publication-type="journal"><!--Qiao HY, Li JH, Schoepf UJ, Bayer RR, Tinnefeld FC, Di Jiang M, <italic>et al</italic>. Prognostic implication of CT-FFR based functional SYNTAX score in patients with de novo three-vessel disease. European Heart Journal. Cardiovascular Imaging. 2020; jeaa256. https://doi.org/10.1093/ehjci/jeaa256.--><person-group person-group-type="author">
+<name><surname>Qiao</surname><given-names>HY</given-names></name>
+<name><surname>Li</surname><given-names>JH</given-names></name>
+<name><surname>Schoepf</surname><given-names>UJ</given-names></name>
+<name><surname>Bayer</surname><given-names>RR</given-names></name>
+<name><surname>Tinnefeld</surname><given-names>FC</given-names></name>
+<name><surname>Di Jiang</surname><given-names>M</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Prognostic implication of CT-FFR based functional SYNTAX score in patients with de novo three-vessel disease</article-title><source>
+<italic toggle="yes">European Heart Journal. Cardiovascular Imaging</italic>
+</source><year>2020</year><volume>jeaa256</volume><fpage>jeaa256</fpage><pub-id pub-id-type="doi">10.1093/ehjci/jeaa256</pub-id></element-citation></ref><ref id="b67"><label>[67]</label><element-citation publication-type="journal"><!--Tang CX, Qiao HY, Zhang XL, Di Jiang M, Schoepf UJ, Rudzi&#x00144;ski PN, <italic>et al</italic>. Functional CAD-RADS using FFR<sub>C&#x02062;T</sub> on therapeutic management and prognosis in patients with coronary artery disease. European Radiology. 2022; 32: 5210&#x02013;5221. https://doi.org/10.1007/s00330-022-08618-5.--><person-group person-group-type="author">
+<name><surname>Tang</surname><given-names>CX</given-names></name>
+<name><surname>Qiao</surname><given-names>HY</given-names></name>
+<name><surname>Zhang</surname><given-names>XL</given-names></name>
+<name><surname>Di Jiang</surname><given-names>M</given-names></name>
+<name><surname>Schoepf</surname><given-names>UJ</given-names></name>
+<name><surname>Rudzi&#x00144;ski</surname><given-names>PN</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Functional CAD-RADS using FFRC&#x02062;T on therapeutic management and prognosis in patients with coronary artery disease</article-title><source>
+<italic toggle="yes">European Radiology</italic>
+</source><year>2022</year><volume>32</volume><fpage>5210</fpage><lpage>5221</lpage><pub-id pub-id-type="doi">10.1007/s00330-022-08618-5</pub-id><pub-id pub-id-type="pmid">35258672</pub-id>
+</element-citation></ref><ref id="b68"><label>[68]</label><element-citation publication-type="journal"><!--Liu TY, Tang CX, Zhang DM, Zhang B, Schoepf J, Griffith JP, <italic>et al</italic>. Prognostic Value of CT-FFR-Based Functional Duke Jeopardy Score in Patients With Suspected CAD. JACC. Cardiovascular Imaging. 2023; 16: 1227&#x02013;1229. https://doi.org/10.1016/j.jcmg.2023.02.012.--><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>TY</given-names></name>
+<name><surname>Tang</surname><given-names>CX</given-names></name>
+<name><surname>Zhang</surname><given-names>DM</given-names></name>
+<name><surname>Zhang</surname><given-names>B</given-names></name>
+<name><surname>Schoepf</surname><given-names>J</given-names></name>
+<name><surname>Griffith</surname><given-names>JP</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Prognostic Value of CT-FFR-Based Functional Duke Jeopardy Score in Patients With Suspected CAD</article-title><source>
+<italic toggle="yes">JACC. Cardiovascular Imaging</italic>
+</source><year>2023</year><volume>16</volume><fpage>1227</fpage><lpage>1229</lpage><pub-id pub-id-type="doi">10.1016/j.jcmg.2023.02.012</pub-id><pub-id pub-id-type="pmid">37052565</pub-id>
+</element-citation></ref><ref id="b69"><label>[69]</label><element-citation publication-type="journal"><!--Madsen KT, N&#x000f8;rgaard BL, &#x000d8;vrehus KA, Jensen JM, Parner E, Grove EL, <italic>et al</italic>. Prognostic Value of Coronary CT Angiography-derived Fractional Flow Reserve on 3-year Outcomes in Patients with Stable Angina. Radiology. 2023; 308: e230524. https://doi.org/10.1148/radiol.230524.--><person-group person-group-type="author">
+<name><surname>Madsen</surname><given-names>KT</given-names></name>
+<name><surname>N&#x000f8;rgaard</surname><given-names>BL</given-names></name>
+<name><surname>&#x000d8;vrehus</surname><given-names>KA</given-names></name>
+<name><surname>Jensen</surname><given-names>JM</given-names></name>
+<name><surname>Parner</surname><given-names>E</given-names></name>
+<name><surname>Grove</surname><given-names>EL</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Prognostic Value of Coronary CT Angiography-derived Fractional Flow Reserve on 3-year Outcomes in Patients with Stable Angina</article-title><source>
+<italic toggle="yes">Radiology</italic>
+</source><year>2023</year><volume>308</volume><fpage>e230524</fpage><pub-id pub-id-type="doi">10.1148/radiol.230524</pub-id><pub-id pub-id-type="pmid">37698477</pub-id>
+</element-citation></ref><ref id="b70"><label>[70]</label><element-citation publication-type="journal"><!--Wang Y, Chen H, Sun T, Li A, Wang S, Zhang J, <italic>et al</italic>. Risk predicting for acute coronary syndrome based on machine learning model with kinetic plaque features from serial coronary computed tomography angiography. European Heart Journal. Cardiovascular Imaging. 2022; 23: 800&#x02013;810. https://doi.org/10.1093/ehjci/jeab101.--><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y</given-names></name>
+<name><surname>Chen</surname><given-names>H</given-names></name>
+<name><surname>Sun</surname><given-names>T</given-names></name>
+<name><surname>Li</surname><given-names>A</given-names></name>
+<name><surname>Wang</surname><given-names>S</given-names></name>
+<name><surname>Zhang</surname><given-names>J</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Risk predicting for acute coronary syndrome based on machine learning model with kinetic plaque features from serial coronary computed tomography angiography</article-title><source>
+<italic toggle="yes">European Heart Journal. Cardiovascular Imaging</italic>
+</source><year>2022</year><volume>23</volume><fpage>800</fpage><lpage>810</lpage><pub-id pub-id-type="doi">10.1093/ehjci/jeab101</pub-id><pub-id pub-id-type="pmid">34151931</pub-id>
+</element-citation></ref><ref id="b71"><label>[71]</label><element-citation publication-type="journal"><!--Qiao HY, Wu Y, Li HC, Zhang HY, Wu QH, You QJ, <italic>et al</italic>. Role of Quantitative Plaque Analysis and Fractional Flow Reserve Derived From Coronary Computed Tomography Angiography to Assess Plaque Progression. Journal of Thoracic Imaging. 2023; 38: 186&#x02013;193. https://doi.org/10.1097/RTI.0000000000000697.--><person-group person-group-type="author">
+<name><surname>Qiao</surname><given-names>HY</given-names></name>
+<name><surname>Wu</surname><given-names>Y</given-names></name>
+<name><surname>Li</surname><given-names>HC</given-names></name>
+<name><surname>Zhang</surname><given-names>HY</given-names></name>
+<name><surname>Wu</surname><given-names>QH</given-names></name>
+<name><surname>You</surname><given-names>QJ</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Role of Quantitative Plaque Analysis and Fractional Flow Reserve Derived From Coronary Computed Tomography Angiography to Assess Plaque Progression</article-title><source>
+<italic toggle="yes">Journal of Thoracic Imaging</italic>
+</source><year>2023</year><volume>38</volume><fpage>186</fpage><lpage>193</lpage><pub-id pub-id-type="doi">10.1097/RTI.0000000000000697</pub-id><pub-id pub-id-type="pmid">36728026</pub-id>
+</element-citation></ref><ref id="b72"><label>[72]</label><element-citation publication-type="journal"><!--Li Z, Xu T, Wang Z, Ding Y, Zhang Y, Lin L, <italic>et al</italic>. Prognostic Significance of Computed Tomography-Derived Fractional Flow Reserve for Long-Term Outcomes in Individuals With Coronary Artery Disease. Journal of the American Heart Association. 2025; 14: e037988. https://doi.org/10.1161/jaha.124.037988.--><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Z</given-names></name>
+<name><surname>Xu</surname><given-names>T</given-names></name>
+<name><surname>Wang</surname><given-names>Z</given-names></name>
+<name><surname>Ding</surname><given-names>Y</given-names></name>
+<name><surname>Zhang</surname><given-names>Y</given-names></name>
+<name><surname>Lin</surname><given-names>L</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Prognostic Significance of Computed Tomography-Derived Fractional Flow Reserve for Long-Term Outcomes in Individuals With Coronary Artery Disease</article-title><source>
+<italic toggle="yes">Journal of the American Heart Association</italic>
+</source><year>2025</year><volume>14</volume><fpage>e037988</fpage><pub-id pub-id-type="doi">10.1161/jaha.124.037988</pub-id><pub-id pub-id-type="pmid">39791423</pub-id>
+</element-citation></ref><ref id="b73"><label>[73]</label><element-citation publication-type="journal"><!--Yang S, Chung J, Lesina K, Doh JH, Jegere S, Erglis A, <italic>et al</italic>. Long-term prognostic implications of CT angiography-derived fractional flow reserve: Results from the DISCOVER-FLOW study. Journal of Cardiovascular Computed Tomography. 2024; 18: 251&#x02013;258. https://doi.org/10.1016/j.jcct.2024.01.016.--><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>S</given-names></name>
+<name><surname>Chung</surname><given-names>J</given-names></name>
+<name><surname>Lesina</surname><given-names>K</given-names></name>
+<name><surname>Doh</surname><given-names>JH</given-names></name>
+<name><surname>Jegere</surname><given-names>S</given-names></name>
+<name><surname>Erglis</surname><given-names>A</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Long-term prognostic implications of CT angiography-derived fractional flow reserve: Results from the DISCOVER-FLOW study</article-title><source>
+<italic toggle="yes">Journal of Cardiovascular Computed Tomography</italic>
+</source><year>2024</year><volume>18</volume><fpage>251</fpage><lpage>258</lpage><pub-id pub-id-type="doi">10.1016/j.jcct.2024.01.016</pub-id><pub-id pub-id-type="pmid">38378313</pub-id>
+</element-citation></ref><ref id="b74"><label>[74]</label><element-citation publication-type="journal"><!--Lan Z, Ding X, Yu Y, Yu L, Yang W, Dai X, <italic>et al</italic>. CT-derived fractional flow reserve for prediction of major adverse cardiovascular events in diabetic patients. Cardiovascular Diabetology. 2023; 22: 65. https://doi.org/10.1186/s12933-023-01801-y.--><person-group person-group-type="author">
+<name><surname>Lan</surname><given-names>Z</given-names></name>
+<name><surname>Ding</surname><given-names>X</given-names></name>
+<name><surname>Yu</surname><given-names>Y</given-names></name>
+<name><surname>Yu</surname><given-names>L</given-names></name>
+<name><surname>Yang</surname><given-names>W</given-names></name>
+<name><surname>Dai</surname><given-names>X</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>CT-derived fractional flow reserve for prediction of major adverse cardiovascular events in diabetic patients</article-title><source>
+<italic toggle="yes">Cardiovascular Diabetology</italic>
+</source><year>2023</year><volume>22</volume><fpage>65</fpage><pub-id pub-id-type="doi">10.1186/s12933-023-01801-y</pub-id><pub-id pub-id-type="pmid">36944990</pub-id>
+</element-citation></ref><ref id="b75"><label>[75]</label><element-citation publication-type="journal"><!--Liu Z, Ding Y, Dou G, Wang X, Shan D, He B, <italic>et al</italic>. Global trans-lesional computed tomography-derived fractional flow reserve gradient is associated with clinical outcomes in diabetic patients with non-obstructive coronary artery disease. Cardiovascular Diabetology. 2023; 22: 186. https://doi.org/10.1186/s12933-023-01901-9.--><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Z</given-names></name>
+<name><surname>Ding</surname><given-names>Y</given-names></name>
+<name><surname>Dou</surname><given-names>G</given-names></name>
+<name><surname>Wang</surname><given-names>X</given-names></name>
+<name><surname>Shan</surname><given-names>D</given-names></name>
+<name><surname>He</surname><given-names>B</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Global trans-lesional computed tomography-derived fractional flow reserve gradient is associated with clinical outcomes in diabetic patients with non-obstructive coronary artery disease</article-title><source>
+<italic toggle="yes">Cardiovascular Diabetology</italic>
+</source><year>2023</year><volume>22</volume><fpage>186</fpage><pub-id pub-id-type="doi">10.1186/s12933-023-01901-9</pub-id><pub-id pub-id-type="pmid">37496009</pub-id>
+</element-citation></ref><ref id="b76"><label>[76]</label><element-citation publication-type="journal"><!--Koo BK, Yang S, Jung JW, Zhang J, Lee K, Hwang D, <italic>et al</italic>. Artificial Intelligence-Enabled Quantitative Coronary Plaque and Hemodynamic Analysis for Predicting Acute Coronary Syndrome. JACC. Cardiovascular Imaging. 2024; 17: 1062&#x02013;1076. https://doi.org/10.1016/j.jcmg.2024.03.015.--><person-group person-group-type="author">
+<name><surname>Koo</surname><given-names>BK</given-names></name>
+<name><surname>Yang</surname><given-names>S</given-names></name>
+<name><surname>Jung</surname><given-names>JW</given-names></name>
+<name><surname>Zhang</surname><given-names>J</given-names></name>
+<name><surname>Lee</surname><given-names>K</given-names></name>
+<name><surname>Hwang</surname><given-names>D</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Artificial Intelligence-Enabled Quantitative Coronary Plaque and Hemodynamic Analysis for Predicting Acute Coronary Syndrome</article-title><source>
+<italic toggle="yes">JACC. Cardiovascular Imaging</italic>
+</source><year>2024</year><volume>17</volume><fpage>1062</fpage><lpage>1076</lpage><pub-id pub-id-type="doi">10.1016/j.jcmg.2024.03.015</pub-id><pub-id pub-id-type="pmid">38752951</pub-id>
+</element-citation></ref><ref id="b77"><label>[77]</label><element-citation publication-type="journal"><!--Li SY, Zhong J, Qiao HY, Schoepf UJ, Emrich T, Butler WN, <italic>et al</italic>. FFR CT and Static Computed Tomography Myocardial Perfusion Imaging for Therapeutic Decision-making and Prognosis in Patients With Coronary Artery Disease. Journal of Thoracic Imaging. 2024; 39: 101&#x02013;110. https://doi.org/10.1097/RTI.0000000000000718.--><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>SY</given-names></name>
+<name><surname>Zhong</surname><given-names>J</given-names></name>
+<name><surname>Qiao</surname><given-names>HY</given-names></name>
+<name><surname>Schoepf</surname><given-names>UJ</given-names></name>
+<name><surname>Emrich</surname><given-names>T</given-names></name>
+<name><surname>Butler</surname><given-names>WN</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>FFR CT and Static Computed Tomography Myocardial Perfusion Imaging for Therapeutic Decision-making and Prognosis in Patients With Coronary Artery Disease</article-title><source>
+<italic toggle="yes">Journal of Thoracic Imaging</italic>
+</source><year>2024</year><volume>39</volume><fpage>101</fpage><lpage>110</lpage><pub-id pub-id-type="doi">10.1097/RTI.0000000000000718</pub-id><pub-id pub-id-type="pmid">37265250</pub-id>
+</element-citation></ref><ref id="b78"><label>[78]</label><element-citation publication-type="journal"><!--Pan Y, Zhu T, Wang Y, Deng Y, Guan H. Impact of coronary computed tomography angiography-derived fractional flow reserve based on deep learning on clinical management. Frontiers in Cardiovascular Medicine. 2023; 10: 1036682. https://doi.org/10.3389/fcvm.2023.1036682.--><person-group person-group-type="author">
+<name><surname>Pan</surname><given-names>Y</given-names></name>
+<name><surname>Zhu</surname><given-names>T</given-names></name>
+<name><surname>Wang</surname><given-names>Y</given-names></name>
+<name><surname>Deng</surname><given-names>Y</given-names></name>
+<name><surname>Guan</surname><given-names>H</given-names></name>
+</person-group><article-title>Impact of coronary computed tomography angiography-derived fractional flow reserve based on deep learning on clinical management</article-title><source>
+<italic toggle="yes">Frontiers in Cardiovascular Medicine</italic>
+</source><year>2023</year><volume>10</volume><fpage>1036682</fpage><pub-id pub-id-type="doi">10.3389/fcvm.2023.1036682</pub-id><pub-id pub-id-type="pmid">36818335</pub-id>
+</element-citation></ref><ref id="b79"><label>[79]</label><element-citation publication-type="journal"><!--Quality Control and Safety Management Committee of Radiology Committee of Chinese Medical Association, Intelligence Imaging and Quality Safety Committee of Jiangsu Medical Association. Application of CT derived fractional flow reserve: Chinese expert recommendations. Chinese Journal of Radiology. 2020; 54: 925&#x02013;933. https://doi.org/10.3760/cma.j.cn112149-20191108-00896. (In Chinese)--><person-group person-group-type="author">
+<collab>Quality Control and Safety Management Committee of Radiology Committee of Chinese Medical Association</collab>
+<collab>Intelligence Imaging and Quality Safety Committee of Jiangsu Medical Association</collab>
+</person-group><article-title>Application of CT derived fractional flow reserve: Chinese expert recommendations</article-title><source>
+<italic toggle="yes">Chinese Journal of Radiology</italic>
+</source><year>2020</year><volume>54</volume><fpage>925</fpage><lpage>933</lpage><pub-id pub-id-type="doi">10.3760/cma.j.cn112149-20191108-00896</pub-id></element-citation></ref><ref id="b80"><label>[80]</label><element-citation publication-type="journal"><!--Cardiothoracic Sub committee, Chinese Society of Radiology, Chinese Medical Association, Cardiovascular Sub committee, Chinese Society of Radiologists, Chinese Medical Doctor Association, <italic>et al</italic>. Chinese expert consensus on the standardized operation and clinical application of CT derived fractional flow reserve. Chinese Journal of Radiology. 2023; 57: 711&#x02013;722. https://doi.org/10.3760/cma.j.cn112149-20221215-01005. (In Chinese)--><person-group person-group-type="author">
+<collab>Cardiothoracic Sub committee</collab>
+<collab>Chinese Society of Radiology</collab>
+<collab>Chinese Medical Association</collab>
+<collab>Cardiovascular Sub committee</collab>
+<collab>Chinese Society of Radiologists</collab><collab>Chinese Medical Doctor Association</collab><etal>et al</etal>
+</person-group><article-title>Chinese expert consensus on the standardized operation and clinical application of CT derived fractional flow reserve</article-title><source>
+<italic toggle="yes">Chinese Journal of Radiology</italic>
+</source><year>2023</year><volume>57</volume><fpage>711</fpage><lpage>722</lpage><pub-id pub-id-type="doi">10.3760/cma.j.cn112149-20221215-01005</pub-id></element-citation></ref><ref id="b81"><label>[81]</label><element-citation publication-type="journal"><!--Echocardiography and Cardiovascular Imaging Group of Chinese College of Cardiovascular Physicians, Editorail Board of Chinese Journal of Interventional Cardiology. Chinese expert consensus on the clinical pathway of coronary computed tomography angiography-derived fractional flow reserve. Chinese Journal of Interventional Cardiology. 2023; 31: 241&#x02013;251. (In Chinese)--><person-group person-group-type="author">
+<collab>Echocardiography and Cardiovascular Imaging Group of Chinese College of Cardiovascular Physicians</collab>
+<collab>Editorail Board of Chinese Journal of Interventional Cardiology</collab>
+</person-group><article-title>Chinese expert consensus on the clinical pathway of coronary computed tomography angiography-derived fractional flow reserve</article-title><source>
+<italic toggle="yes">Chinese Journal of Interventional Cardiology</italic>
+</source><year>2023</year><volume>31</volume><fpage>241</fpage><lpage>251</lpage><comment>(In Chinese)</comment></element-citation></ref><ref id="b82"><label>[82]</label><element-citation publication-type="journal"><!--Douglas PS, De Bruyne B, Pontone G, Patel MR, Norgaard BL, Byrne RA, <italic>et al</italic>. 1-Year Outcomes of FFRCT-Guided Care in Patients With Suspected Coronary Disease: The PLATFORM Study. Journal of the American College of Cardiology. 2016; 68: 435&#x02013;445. https://doi.org/10.1016/j.jacc.2016.05.057.--><person-group person-group-type="author">
+<name><surname>Douglas</surname><given-names>PS</given-names></name>
+<name><surname>De Bruyne</surname><given-names>B</given-names></name>
+<name><surname>Pontone</surname><given-names>G</given-names></name>
+<name><surname>Patel</surname><given-names>MR</given-names></name>
+<name><surname>Norgaard</surname><given-names>BL</given-names></name>
+<name><surname>Byrne</surname><given-names>RA</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>1-Year Outcomes of FFRCT-Guided Care in Patients With Suspected Coronary Disease: The PLATFORM Study</article-title><source>
+<italic toggle="yes">Journal of the American College of Cardiology</italic>
+</source><year>2016</year><volume>68</volume><fpage>435</fpage><lpage>445</lpage><pub-id pub-id-type="doi">10.1016/j.jacc.2016.05.057</pub-id><pub-id pub-id-type="pmid">27470449</pub-id>
+</element-citation></ref><ref id="b83"><label>[83]</label><element-citation publication-type="journal"><!--Curzen N, Nicholas Z, Stuart B, Wilding S, Hill K, Shambrook J, <italic>et al</italic>. Fractional flow reserve derived from computed tomography coronary angiography in the assessment and management of stable chest pain: the FORECAST randomized trial. European Heart Journal. 2021; 42: 3844&#x02013;3852. https://doi.org/10.1093/eurheartj/ehab444.--><person-group person-group-type="author">
+<name><surname>Curzen</surname><given-names>N</given-names></name>
+<name><surname>Nicholas</surname><given-names>Z</given-names></name>
+<name><surname>Stuart</surname><given-names>B</given-names></name>
+<name><surname>Wilding</surname><given-names>S</given-names></name>
+<name><surname>Hill</surname><given-names>K</given-names></name>
+<name><surname>Shambrook</surname><given-names>J</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Fractional flow reserve derived from computed tomography coronary angiography in the assessment and management of stable chest pain: the FORECAST randomized trial</article-title><source>
+<italic toggle="yes">European Heart Journal</italic>
+</source><year>2021</year><volume>42</volume><fpage>3844</fpage><lpage>3852</lpage><pub-id pub-id-type="doi">10.1093/eurheartj/ehab444</pub-id><pub-id pub-id-type="pmid">34269376</pub-id>
+</element-citation></ref><ref id="b84"><label>[84]</label><element-citation publication-type="journal"><!--Nanna MG, Vemulapalli S, Fordyce CB, Mark DB, Patel MR, Al-Khalidi HR, <italic>et al</italic>. The prospective randomized trial of the optimal evaluation of cardiac symptoms and revascularization: Rationale and design of the PRECISE trial. American Heart Journal. 2022; 245: 136&#x02013;148. https://doi.org/10.1016/j.ahj.2021.12.004.--><person-group person-group-type="author">
+<name><surname>Nanna</surname><given-names>MG</given-names></name>
+<name><surname>Vemulapalli</surname><given-names>S</given-names></name>
+<name><surname>Fordyce</surname><given-names>CB</given-names></name>
+<name><surname>Mark</surname><given-names>DB</given-names></name>
+<name><surname>Patel</surname><given-names>MR</given-names></name>
+<name><surname>Al-Khalidi</surname><given-names>HR</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>The prospective randomized trial of the optimal evaluation of cardiac symptoms and revascularization: Rationale and design of the PRECISE trial</article-title><source>
+<italic toggle="yes">American Heart Journal</italic>
+</source><year>2022</year><volume>245</volume><fpage>136</fpage><lpage>148</lpage><pub-id pub-id-type="doi">10.1016/j.ahj.2021.12.004</pub-id><pub-id pub-id-type="pmid">34953768</pub-id>
+</element-citation></ref><ref id="b85"><label>[85]</label><element-citation publication-type="journal"><!--Mittal TK, Hothi SS, Venugopal V, Taleyratne J, O&#x02019;Brien D, Adnan K, <italic>et al</italic>. The Use and Efficacy of FFR-CT: Real-World Multicenter Audit of Clinical Data With Cost Analysis. JACC. Cardiovascular Imaging. 2023; 16: 1056&#x02013;1065. https://doi.org/10.1016/j.jcmg.2023.02.005.--><person-group person-group-type="author">
+<name><surname>Mittal</surname><given-names>TK</given-names></name>
+<name><surname>Hothi</surname><given-names>SS</given-names></name>
+<name><surname>Venugopal</surname><given-names>V</given-names></name>
+<name><surname>Taleyratne</surname><given-names>J</given-names></name>
+<name><surname>O&#x02019;Brien</surname><given-names>D</given-names></name>
+<name><surname>Adnan</surname><given-names>K</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>The Use and Efficacy of FFR-CT: Real-World Multicenter Audit of Clinical Data With Cost Analysis</article-title><source>
+<italic toggle="yes">JACC. Cardiovascular Imaging</italic>
+</source><year>2023</year><volume>16</volume><fpage>1056</fpage><lpage>1065</lpage><pub-id pub-id-type="doi">10.1016/j.jcmg.2023.02.005</pub-id><pub-id pub-id-type="pmid">37052559</pub-id>
+</element-citation></ref><ref id="b86"><label>[86]</label><element-citation publication-type="journal"><!--Zhou F, Chen Q, Luo X, Cao W, Li Z, Zhang B, <italic>et al</italic>. Prognostic Value of Coronary CT Angiography-Derived Fractional Flow Reserve in Non-obstructive Coronary Artery Disease: A Prospective Multicenter Observational Study. Frontiers in Cardiovascular Medicine. 2021; 8: 778010. https://doi.org/10.3389/fcvm.2021.778010.--><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>F</given-names></name>
+<name><surname>Chen</surname><given-names>Q</given-names></name>
+<name><surname>Luo</surname><given-names>X</given-names></name>
+<name><surname>Cao</surname><given-names>W</given-names></name>
+<name><surname>Li</surname><given-names>Z</given-names></name>
+<name><surname>Zhang</surname><given-names>B</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Prognostic Value of Coronary CT Angiography-Derived Fractional Flow Reserve in Non-obstructive Coronary Artery Disease: A Prospective Multicenter Observational Study</article-title><source>
+<italic toggle="yes">Frontiers in Cardiovascular Medicine</italic>
+</source><year>2021</year><volume>8</volume><fpage>778010</fpage><pub-id pub-id-type="doi">10.3389/fcvm.2021.778010</pub-id><pub-id pub-id-type="pmid">35174219</pub-id>
+</element-citation></ref><ref id="b87"><label>[87]</label><element-citation publication-type="journal"><!--Guo B, Xing W, Hu C, Zha Y, Yin X, He Y, <italic>et al</italic>. Clinical Effectiveness of Automated Coronary CT-derived Fractional Flow Reserve: A Chinese Randomized Controlled Trial. Radiology. 2024; 313: e233354. https://doi.org/10.1148/radiol.233354.--><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>B</given-names></name>
+<name><surname>Xing</surname><given-names>W</given-names></name>
+<name><surname>Hu</surname><given-names>C</given-names></name>
+<name><surname>Zha</surname><given-names>Y</given-names></name>
+<name><surname>Yin</surname><given-names>X</given-names></name>
+<name><surname>He</surname><given-names>Y</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Clinical Effectiveness of Automated Coronary CT-derived Fractional Flow Reserve: A Chinese Randomized Controlled Trial</article-title><source>
+<italic toggle="yes">Radiology</italic>
+</source><year>2024</year><volume>313</volume><fpage>e233354</fpage><pub-id pub-id-type="doi">10.1148/radiol.233354</pub-id><pub-id pub-id-type="pmid">39404624</pub-id>
+</element-citation></ref></ref-list></back></article>

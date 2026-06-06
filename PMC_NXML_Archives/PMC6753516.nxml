@@ -1,0 +1,893 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Trends Hear</journal-id><journal-id journal-id-type="iso-abbrev">Trends Hear</journal-id><journal-id journal-id-type="publisher-id">TIA</journal-id><journal-id journal-id-type="hwp">sptia</journal-id><journal-title-group><journal-title>Trends in Hearing</journal-title></journal-title-group><issn pub-type="epub">2331-2165</issn><publisher><publisher-name>SAGE Publications</publisher-name><publisher-loc>Sage CA: Los Angeles, CA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31533581</article-id><article-id pub-id-type="pmc">6753516</article-id><article-id pub-id-type="doi">10.1177/2331216519866029</article-id><article-id pub-id-type="publisher-id">10.1177_2331216519866029</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Searching for the Sound of a Cochlear Implant: Evaluation of
+Different Vocoder Parameters by Cochlear Implant Users With Single-Sided
+Deafness</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4661-1731</contrib-id><name><surname>Karoui</surname><given-names>Chadlia</given-names></name><xref ref-type="aff" rid="aff1-2331216519866029">1</xref><xref ref-type="aff" rid="aff2-2331216519866029">2</xref><xref ref-type="corresp" rid="corresp1-2331216519866029"/></contrib><contrib contrib-type="author"><name><surname>James</surname><given-names>Chris</given-names></name><xref ref-type="aff" rid="aff2-2331216519866029">2</xref><xref ref-type="aff" rid="aff3-2331216519866029">3</xref></contrib><contrib contrib-type="author"><name><surname>Barone</surname><given-names>Pascal</given-names></name><xref ref-type="aff" rid="aff1-2331216519866029">1</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1417-5082</contrib-id><name><surname>Bakhos</surname><given-names>David</given-names></name><xref ref-type="aff" rid="aff4-2331216519866029">4</xref><xref ref-type="aff" rid="aff5-2331216519866029">5</xref></contrib><contrib contrib-type="author"><name><surname>Marx</surname><given-names>Mathieu</given-names></name><xref ref-type="aff" rid="aff1-2331216519866029">1</xref><xref ref-type="aff" rid="aff3-2331216519866029">3</xref></contrib><contrib contrib-type="author"><name><surname>Macherey</surname><given-names>Olivier</given-names></name><xref ref-type="aff" rid="aff6-2331216519866029">6</xref></contrib></contrib-group><aff id="aff1-2331216519866029"><label>1</label>Centre
+de Recherche Cerveau et Cognition, Toulouse,
+France</aff><aff id="aff2-2331216519866029"><label>2</label>Cochlear
+France SAS, Toulouse, France</aff><aff id="aff3-2331216519866029"><label>3</label>Department of Otology-Neurotology and
+Skull Base Surgery, Purpan University Hospital, Toulouse, France</aff><aff id="aff4-2331216519866029"><label>4</label>Universit&#x000e9; Fran&#x000e7;ois-Rabelais de Tours,
+CHRU de Tours, France</aff><aff id="aff5-2331216519866029"><label>5</label>Ear Nose and Throat department, CHUR de
+Tours, Tours, France</aff><aff id="aff6-2331216519866029"><label>6</label>Aix Marseille University, CNRS, Centrale
+Marseille, LMA, Marseille, France</aff><author-notes><corresp id="corresp1-2331216519866029">Chadlia Karoui, CNRS UMR 5549, Centre de
+Recherche Cerveau et Cognition, CHU Purpan, Pavillon Baudot, BP 25202, 31052
+Toulouse Cedex 3, France. Email: <email>Chadlia.karoui@cnrs.fr</email></corresp></author-notes><pub-date pub-type="epub"><day>18</day><month>9</month><year>2019</year></pub-date><pub-date pub-type="collection"><season>Jan-Dec</season><year>2019</year></pub-date><volume>23</volume><elocation-id>2331216519866029</elocation-id><history><date date-type="received"><day>23</day><month>1</month><year>2019</year></date><date date-type="rev-recd"><day>17</day><month>6</month><year>2019</year></date><date date-type="accepted"><day>22</day><month>6</month><year>2019</year></date></history><permissions><copyright-statement>&#x000a9; The Author(s) 2019</copyright-statement><copyright-year>2019</copyright-year><copyright-holder content-type="sage">SAGE Publications</copyright-holder><license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/"><license-p>Creative Commons Non Commercial CC BY-NC: This article is distributed
+under the terms of the Creative Commons Attribution-NonCommercial 4.0
+License (<ext-link ext-link-type="uri" xlink:href="http://www.creativecommons.org/licenses/by-nc/4.0/">http://www.creativecommons.org/licenses/by-nc/4.0/</ext-link>) which
+permits non-commercial use, reproduction and distribution of the work
+without further permission provided the original work is attributed as
+specified on the SAGE and Open Access pages (<ext-link ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><abstract><p>Cochlear implantation in subjects with single-sided deafness (SSD) offers a
+unique opportunity to directly compare the percepts evoked by a cochlear implant
+(CI) with those evoked acoustically. Here, nine SSD-CI users performed a
+forced-choice task evaluating the similarity of speech processed by their CI
+with speech processed by several vocoders presented to their healthy ear. In
+each trial, subjects heard two intervals: their CI followed by a certain vocoder
+in Interval 1 and their CI followed by a different vocoder in Interval 2. The
+vocoders differed either (i) in carrier type&#x02014;(sinusoidal [SINE], bandfiltered
+noise [NOISE], and pulse-spreading harmonic complex) or (ii) in frequency
+mismatch between the analysis and synthesis frequency ranges&#x02014;(no mismatch, and
+two frequency-mismatched conditions of 2 and 4 equivalent rectangular bandwidths
+[ERBs]). Subjects had to state in which of the two intervals the CI and vocoder
+sounds were more similar. Despite a large intersubject variability, the PSHC
+vocoder was judged significantly more similar to the CI than SINE or NOISE
+vocoders. Furthermore, the No-mismatch and 2-ERB mismatch vocoders were judged
+significantly more similar to the CI than the 4-ERB mismatch vocoder. The
+mismatch data were also interpreted by comparing spiral ganglion characteristic
+frequencies with electrode contact positions determined from postoperative
+computed tomography scans. Only one subject demonstrated a pattern of preference
+consistent with adaptation to the CI sound processor frequency-to-electrode
+allocation table and two subjects showed possible partial adaptation. Those
+subjects with adaptation patterns presented overall small and consistent
+frequency mismatches across their electrode arrays.</p></abstract><kwd-group><kwd>cochlear implant</kwd><kwd>single-sided deafness</kwd><kwd>vocoder</kwd><kwd>simulation</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>cover-date</meta-name><meta-value>January-December 2019</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="sec1-2331216519866029"><title>Introduction</title><p>Cochlear implantation restores auditory sensations in deaf ears. Until recently,
+implantation was only indicated for bilateral severe to profound hearing loss (<xref rid="bibr18-2331216519866029" ref-type="bibr">Gifford, 2013</xref>). In the last
+10 years, interest has grown in the use of cochlear implants (CIs) in cases of
+single-sided deafness (SSD). Initially, the technique was mainly applied to mask
+chronic severe tinnitus (<xref rid="bibr67-2331216519866029" ref-type="bibr">Van de
+Heyning et&#x000a0;al., 2008</xref>). However, further work with implanted SSD subjects
+indicated that there may be auditory benefits for speech recognition in situations
+with spatially separated noise and for sound localization (<xref rid="bibr1-2331216519866029" ref-type="bibr">Arndt et&#x000a0;al., 2011</xref>; <xref rid="bibr12-2331216519866029" ref-type="bibr">Firszt, Holden, Reeder, Waltzman, &#x00026; Arndt,
+2012</xref>; <xref rid="bibr43-2331216519866029" ref-type="bibr">Mertens, Kleine
+Punte, De Bodt, Van de Heyning, 2015</xref>; <xref rid="bibr58-2331216519866029" ref-type="bibr">Stelzig, Jacob, &#x00026; Mueller, 2011</xref>; <xref rid="bibr64-2331216519866029" ref-type="bibr">T&#x000e1;vora-Vieira, Marino,
+Krishnaswamy, Kuthbutheen, &#x00026; Rajan, 2013</xref>; Vermeire &#x00026; Van de
+Heyning, 2009). Besides direct clinical benefits, the use of CI in SSD cases offers
+researchers and engineers a unique opportunity to better understand the shortcomings
+of current CI technology. It allows one to directly compare the percepts induced by
+electric and acoustic stimulation in the same subjects. Traditionally, CIs are
+simulated acoustically using channel vocoders, most often with a number of
+sinusoidal or noise-band carriers that emulate the electrical pulse trains delivered
+by the implanted electrodes (B<xref rid="bibr3-2331216519866029" ref-type="bibr">a&#x0015f;kent &#x00026; Shannon, 2004;</xref>
+<xref rid="bibr10-2331216519866029" ref-type="bibr">Dudley, 1939</xref>; <xref rid="bibr53-2331216519866029" ref-type="bibr">Rosen, Faulkner, &#x00026; Wilkinson,
+1999</xref>). Recently, it has been reported that the sound quality of these
+vocoders differs from the sound of a CI, as evaluated in SSD-CI subjects (<xref rid="bibr9-2331216519866029" ref-type="bibr">Dorman, Natale, Butts, Zeitler,
+&#x00026; Carlson, 2017</xref>; <xref rid="bibr47-2331216519866029" ref-type="bibr">Peters et&#x000a0;al., 2018</xref>).</p><p>Developing realistic CI simulations is important for at least two reasons. First, it
+would allow researchers and engineers to pretest novel signal coding strategies in
+homogeneous normal-hearing subject groups (<xref rid="bibr8-2331216519866029" ref-type="bibr">Dorman &#x00026; Loizou, 1997</xref>) before evaluating
+them in real CI listeners who usually exhibit large intersubject variability (<xref rid="bibr24-2331216519866029" ref-type="bibr">James et&#x000a0;al., 2018</xref>; <xref rid="bibr32-2331216519866029" ref-type="bibr">Lazard et&#x000a0;al., 2012</xref>).
+Second, it could help us better understand the extent of the sound degradation
+experienced by CI users.</p><p>There is a large number of parameters that may affect the sound quality of real and
+simulated CIs. These include (a) the number of physical electrode contacts,
+simulated by the number of vocoder channels (<xref rid="bibr11-2331216519866029" ref-type="bibr">Faulkner, Rosen, &#x00026; Wilkinson, 2001</xref>;
+<xref rid="bibr35-2331216519866029" ref-type="bibr">Loizou &#x00026; Dorman,
+1999</xref>); (b) the amount of frequency mismatch due to the limited insertion
+of the electrode array, simulated by the frequency mismatch between the analysis and
+synthesis frequency ranges (<xref rid="bibr24-2331216519866029" ref-type="bibr">James et&#x000a0;al., 2018</xref>; Landsberger, Svrakic, Roland, &#x00026; Svirsky, 2015;
+<xref rid="bibr53-2331216519866029" ref-type="bibr">Rosen et&#x000a0;al., 1999</xref>;
+<xref rid="bibr56-2331216519866029" ref-type="bibr">Souza &#x00026; Rosen,
+2009</xref>); (c) the variations in current spread, simulated by the width of
+the synthesis bands (<xref rid="bibr4-2331216519866029" ref-type="bibr">Bingabr,
+Espinoza-Varas, &#x00026; Loizou, 2008</xref>; <xref rid="bibr7-2331216519866029" ref-type="bibr">Crew &#x00026; Galvin, 2012</xref>; <xref rid="bibr45-2331216519866029" ref-type="bibr">Mesnildrey &#x00026; Macherey,
+2015</xref>; <xref rid="bibr46-2331216519866029" ref-type="bibr">Oxenham &#x00026;
+Kreft, 2014</xref>); (d) the extent of neural degeneration, simulated by the
+presence of holes in the vocoder frequency spectrum (<xref rid="bibr55-2331216519866029" ref-type="bibr">Shannon, Galvin, &#x00026; Baskent, 2002</xref>); and
+(e) the electrical stimulus waveform, simulated by the acoustic carrier waveform
+(<xref rid="bibr21-2331216519866029" ref-type="bibr">Grange, Culling, Harris,
+&#x00026; Bergfeld, 2017</xref>; <xref rid="bibr44-2331216519866029" ref-type="bibr">Mesnildrey, Hilkhuysen, &#x00026; Macherey, 2016</xref>).</p><p>Here, we focused on two of these parameters and compared the similarity of the CI
+sound with several vocoders differing in the type of acoustic carrier and in the
+amount of frequency mismatch between the analysis and synthesis bands.</p><p>First, we used three different carriers including the usual sinusoidal and noise band
+carriers, as well as a recently introduced pulsatile carrier: the pulse spreading
+harmonic complex (PSHC; <xref rid="bibr23-2331216519866029" ref-type="bibr">Hilkhuysen &#x00026; Macherey, 2014</xref>). The aim of the PSHC carrier is to
+circumvent some of the limitations of sinusoidal and noise carriers for CI
+simulations, that is, that sinusoids cannot simulate the broad spread of excitation
+produced by a CI electrode and that noise contains intrinsic modulations that are
+absent in CIs. The main characteristics of the PSHC carrier are that (a) it is
+broadband and can therefore be shaped in the frequency domain to mimic different
+spreads of excitation as is also the case for random or pseudorandom noise carriers
+(e.g., <xref rid="bibr4-2331216519866029" ref-type="bibr">Bingabr et&#x000a0;al.,
+2008</xref>; <xref rid="bibr21-2331216519866029" ref-type="bibr">Grange et&#x000a0;al.,
+2017</xref>) and (b) that its pulse rate can be adjusted to minimize the amount
+of intrinsic modulations after auditory filtering. <xref rid="bibr23-2331216519866029" ref-type="bibr">Hilkhuysen and Macherey (2014)</xref> showed that
+a PSHC with an &#x0201c;optimized&#x0201d; rate exhibits less intrinsic modulations than several
+other broadband signals, including pseudorandom noise. It was also hypothesized that
+a PSHC could induce a pattern of neural activity more similar to the electrical
+pulse trains delivered by a CI than sinusoidal or noise-band carriers (<xref rid="bibr44-2331216519866029" ref-type="bibr">Mesnildrey et&#x000a0;al., 2016</xref>).
+The first aim of this study was to test the hypothesis that a vocoder using PSHC
+carriers is qualitatively more similar to the implant sound than vocoders using
+sinusoidal or noise-band carriers.</p><p>Second, we varied the amount of frequency mismatch between the analysis and synthesis
+bands in order to emulate differences in electrode insertion depth (<xref rid="bibr34-2331216519866029" ref-type="bibr">Li, Galvin, &#x00026; Fu, 2009</xref>;
+<xref rid="bibr53-2331216519866029" ref-type="bibr">Rosen et&#x000a0;al., 1999</xref>).
+The place&#x02013;frequency mismatch experienced by individual CI subjects can be estimated
+by analyzing computed tomography (CT) images of the electrode array in situ and
+comparing the electrode positions with the frequency-to-electrode allocation table
+used in the sound processor (<xref rid="bibr40-2331216519866029" ref-type="bibr">Marx et&#x000a0;al., 2014</xref>). Several studies reported that large across-ear
+mismatches in bilateral CI subjects were associated with poorer speech recognition
+scores, lower localization performance, and weaker spatial unmasking (<xref rid="bibr26-2331216519866029" ref-type="bibr">Kan, Litovsky, &#x00026; Goupell,
+2015</xref>; <xref rid="bibr27-2331216519866029" ref-type="bibr">Kan, Stoelb,
+Litovsky, &#x00026; Goupell, 2013</xref>; <xref rid="bibr33-2331216519866029" ref-type="bibr">Li &#x00026; Fu, 2010</xref>; <xref rid="bibr36-2331216519866029" ref-type="bibr">Long, Eddington, Colburn, &#x00026; Rabinowitz,
+2003</xref>; <xref rid="bibr66-2331216519866029" ref-type="bibr">Van Besouw,
+Forrester, Crowe, &#x00026; Rowan, 2013</xref>; <xref rid="bibr69-2331216519866029" ref-type="bibr">Wess, Brungart, &#x00026; Bernstein, 2017</xref>;
+<xref rid="bibr70-2331216519866029" ref-type="bibr">Yoon, Li, &#x00026; Fu,
+2011</xref>; <xref rid="bibr71-2331216519866029" ref-type="bibr">Yoon, Shin,
+&#x00026; Fu, 2013</xref>). <xref rid="bibr39-2331216519866029" ref-type="bibr">Ma,
+Morris, and Kitterick (2016)</xref> also reported that introducing a frequency
+mismatch in a simulated CI experiment yielded disrupted binaural integration.
+Nonetheless, there is evidence that CI users can adapt to a mismatched map with
+sufficient exposure (Fu &#x00026; Shannon, 1999b). This adaptation to the frequency
+allocation table has been suggested in several CI studies on subjects with
+low-frequency residual acoustic hearing (<xref rid="bibr5-2331216519866029" ref-type="bibr">Bo&#x000eb;x et&#x000a0;al., 2006</xref>; <xref rid="bibr17-2331216519866029" ref-type="bibr">Fu &#x00026; Galvin, 2003</xref>; <xref rid="bibr15-2331216519866029" ref-type="bibr">Fu &#x00026; Shannon, 1999a</xref>,
+<xref rid="bibr16-2331216519866029" ref-type="bibr">1999b</xref>; <xref rid="bibr34-2331216519866029" ref-type="bibr">Li et&#x000a0;al., 2009</xref>; <xref rid="bibr42-2331216519866029" ref-type="bibr">McDermott, Sucher, &#x00026; Simpson,
+2009</xref>; <xref rid="bibr49-2331216519866029" ref-type="bibr">Reiss, Gantz,
+&#x00026; Turner, 2008</xref>; <xref rid="bibr50-2331216519866029" ref-type="bibr">Reiss, Lowder, Karsten, Turner, &#x00026; Gantz, 2011</xref>; <xref rid="bibr51-2331216519866029" ref-type="bibr">Reiss, Perreau, &#x00026; Turner, 2012</xref>; <xref rid="bibr52-2331216519866029" ref-type="bibr">Reiss, Turner, Karsten, &#x00026;
+Gantz, 2014</xref>; <xref rid="bibr53-2331216519866029" ref-type="bibr">Rosen
+et&#x000a0;al., 1999</xref>). With the expansion of CI use to SSD subjects, a more
+accurate assessment of this adaptation process is now possible through comparisons
+with the normal contralateral hearing of the subjects (<xref rid="bibr9-2331216519866029" ref-type="bibr">Dorman et&#x000a0;al., 2017</xref>; <xref rid="bibr63-2331216519866029" ref-type="bibr">Tan, Martin, &#x00026; Svirsky, 2017</xref>). As an
+illustration, <xref rid="bibr63-2331216519866029" ref-type="bibr">Tan et&#x000a0;al.
+(2017)</xref> concluded from their pitch matching experiment that adaptation may
+happen but in most cases only partially. The second aim of this study was to
+investigate whether a vocoder with a frequency mismatch similar to the CI frequency
+mismatch, due to limited electrode insertion, would sound more similar to the CI
+than a vocoder with no mismatch.</p></sec><sec sec-type="methods" id="sec2-2331216519866029"><title>Methods</title><sec id="sec3-2331216519866029" sec-type="subjects"><title>Subjects</title><p>Nine native French-speaking adults with SSD and near-normal contralateral hearing
+took part. <xref rid="table1-2331216519866029" ref-type="table">Table 1</xref>
+provides their demographic details. All received a CI as part of a multicenter
+French study (<xref rid="bibr41-2331216519866029" ref-type="bibr">Marx et&#x000a0;al.,
+2019</xref>), over a 5-year period preceding the present experiment. This
+study received French approval from the South-West and Overseas territories&#x02019;
+Ethics Committee in May 2014 under the reference CPP14-03/2014-A00533-44&#x02014;Trial
+registration in <ext-link ext-link-type="uri" xlink:href="http://www.clinicaltrials.gov/">http://www.clinicaltrials.gov/</ext-link> on July 29, 2014 under the no.
+NCT02204618. All subjects included in this experiment received all necessary
+information and willingly consented to participate. <table-wrap id="table1-2331216519866029" orientation="portrait" position="float"><label>Table 1.</label><caption><p>Patient Demographics.</p></caption><alternatives><graphic specific-use="table1-2331216519866029" xlink:href="10.1177_2331216519866029-table1"/><table frame="hsides" rules="groups"><thead align="left" valign="top"><tr><th rowspan="1" colspan="1">Research ID</th><th rowspan="1" colspan="1">Age<sup><xref ref-type="table-fn" rid="table-fn1-2331216519866029">a</xref></sup> (years)</th><th rowspan="1" colspan="1">Etiology</th><th rowspan="1" colspan="1">Duration of HL (years)</th><th rowspan="1" colspan="1">Nonimplanted ear PTA (dB HL)</th><th rowspan="1" colspan="1">CI manufacturer</th><th rowspan="1" colspan="1">CI signal processing strategy</th><th rowspan="1" colspan="1">CI side</th></tr></thead><tbody align="left" valign="top"><tr><td rowspan="1" colspan="1">P1</td><td rowspan="1" colspan="1">59</td><td rowspan="1" colspan="1">Sudden</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">15</td><td rowspan="1" colspan="1">Cochlear</td><td rowspan="1" colspan="1">ACE</td><td rowspan="1" colspan="1">R</td></tr><tr><td rowspan="1" colspan="1">P2</td><td rowspan="1" colspan="1">47</td><td rowspan="1" colspan="1">Chronic otitis</td><td rowspan="1" colspan="1">2</td><td rowspan="1" colspan="1">27.5</td><td rowspan="1" colspan="1">Cochlear</td><td rowspan="1" colspan="1">ACE</td><td rowspan="1" colspan="1">R</td></tr><tr><td rowspan="1" colspan="1">P3</td><td rowspan="1" colspan="1">44</td><td rowspan="1" colspan="1">Trauma</td><td rowspan="1" colspan="1">4</td><td rowspan="1" colspan="1">11.25</td><td rowspan="1" colspan="1">Cochlear</td><td rowspan="1" colspan="1">ACE</td><td rowspan="1" colspan="1">L</td></tr><tr><td rowspan="1" colspan="1">P4</td><td rowspan="1" colspan="1">53</td><td rowspan="1" colspan="1">Sudden</td><td rowspan="1" colspan="1">2</td><td rowspan="1" colspan="1">20</td><td rowspan="1" colspan="1">Cochlear</td><td rowspan="1" colspan="1">ACE</td><td rowspan="1" colspan="1">R</td></tr><tr><td rowspan="1" colspan="1">P5</td><td rowspan="1" colspan="1">48</td><td rowspan="1" colspan="1">Trauma</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">16.25</td><td rowspan="1" colspan="1">Cochlear</td><td rowspan="1" colspan="1">ACE</td><td rowspan="1" colspan="1">L</td></tr><tr><td rowspan="1" colspan="1">P6</td><td rowspan="1" colspan="1">65</td><td rowspan="1" colspan="1">Sudden</td><td rowspan="1" colspan="1">5</td><td rowspan="1" colspan="1">6.25</td><td rowspan="1" colspan="1">Cochlear</td><td rowspan="1" colspan="1">ACE</td><td rowspan="1" colspan="1">L</td></tr><tr><td rowspan="1" colspan="1">P7</td><td rowspan="1" colspan="1">59</td><td rowspan="1" colspan="1">Sudden</td><td rowspan="1" colspan="1">11</td><td rowspan="1" colspan="1">10</td><td rowspan="1" colspan="1">Cochlear</td><td rowspan="1" colspan="1">ACE</td><td rowspan="1" colspan="1">L</td></tr><tr><td rowspan="1" colspan="1">P8</td><td rowspan="1" colspan="1">51</td><td rowspan="1" colspan="1">Sudden</td><td rowspan="1" colspan="1">10</td><td rowspan="1" colspan="1">8.75</td><td rowspan="1" colspan="1">MED-El</td><td rowspan="1" colspan="1">FS4</td><td rowspan="1" colspan="1">R</td></tr><tr><td rowspan="1" colspan="1">P9</td><td rowspan="1" colspan="1">65</td><td rowspan="1" colspan="1">Sudden</td><td rowspan="1" colspan="1">7</td><td rowspan="1" colspan="1">15</td><td rowspan="1" colspan="1">Cochlear</td><td rowspan="1" colspan="1">ACE</td><td rowspan="1" colspan="1">R</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn1-2331216519866029"><p><italic>Note.</italic> ACE: Advanced Combination Encoder;
+CI&#x02009;=&#x02009;cochlear implant; PTA&#x02009;=&#x02009;Pure Tone Audiometry.</p></fn><fn id="table-fn2-2331216519866029"><label>a</label><p>Age at cochlear implantation.</p></fn></table-wrap-foot></table-wrap></p><p>Their pure-tone thresholds at individual frequencies from 250 to 8000 Hz,
+visualized in <xref ref-type="fig" rid="fig1-2331216519866029">Figure 1</xref>,
+were always better than 40&#x02009;dB HL except for P1 who had a threshold of 60&#x02009;dB HL
+at 8000&#x02009;Hz. <fig id="fig1-2331216519866029" orientation="portrait" position="float"><label>Figure 1.</label><caption><p>Contralateral hearing thresholds (<italic>N</italic>&#x02009;=&#x02009;9).</p></caption><graphic xlink:href="10.1177_2331216519866029-fig1"/></fig></p></sec><sec id="sec4-2331216519866029"><title>Experimental Set-Up</title><p>The CI sounds were presented via the auxiliary input of the subject&#x02019;s speech
+processor using their standard program while all vocoded sounds were presented
+via a single Etymotic ER1 earphone. The audio files were played through a
+USB-connected sound card (Creative Sound Blaster X-FI HD, SBX PROSTUDIO,
+CREATIVE LABS Model No. SB124O) into a headphone amplifier (Samson S-amp, Samson
+Technologies). The latter had one output connected to the CI and another to the
+earphone. The experiment took place in a soundproof booth and lasted
+approximately 3&#x02009;hr including regular breaks.</p></sec><sec id="sec5-2331216519866029"><title>Software</title><p>The vocoded stimuli were generated using Matlab&#x02122; (The MathWorks, Inc., MA, USA).
+The different experimental tasks were then administered using the Apex2
+experimental software platform (<xref rid="bibr31-2331216519866029" ref-type="bibr">Laneau &#x00026; Wouters, 2004</xref>).</p></sec><sec id="sec6-2331216519866029"><title>Stimuli</title><p>The speech stimuli consisted of two 2.5-s French sentences: one, &#x0201c;Le berger
+rassemble son troupeau,&#x0201d; was extracted from the FIST corpus and spoken by a male
+speaker (<xref rid="bibr38-2331216519866029" ref-type="bibr">Luts, Boon, Wable,
+&#x00026; Wouters, 2008</xref>); the other &#x0201c;Ils ont march&#x000e9; sur l&#x02019;herbe&#x0201d;, was
+recorded in an anechoic chamber as part of another project and was spoken by a
+female speaker.</p></sec><sec id="sec7-2331216519866029"><title>Vocoder Processing</title><p>A six-channel vocoder was used to simulate the reduced spectral resolution
+associated with electrical stimulation, in line with expectations of the number
+of effective channels for an &#x0201c;average&#x0201d; CI user (<xref rid="bibr14-2331216519866029" ref-type="bibr">Friesen, Shannon, Baskent, &#x00026; Wang,
+2001</xref>). The analysis stage consisted of a bank of six zero-phase
+bandpass filters (Butterworth, 36&#x02009;dB/oct, as detailed in <xref rid="bibr45-2331216519866029" ref-type="bibr">Mesnildrey &#x00026; Macherey, 2015</xref>). The
+envelope of each band was extracted by half-wave rectification and low-pass
+filtering using second-order Butterworth filters. The cutoff frequency of the
+low-pass filter was different for the different bands, as explained later.
+Resynthesized signals were then produced by modulating a carrier signal with the
+corresponding envelope and further filtering each modulated carrier by their
+corresponding synthesis bandpass filter (zero-phase, sixth-order Butterworth as
+in the analysis stage). The synthesis filters had the same or different cutoff
+frequencies as the analysis filters, depending on the frequency mismatch
+condition. The three carrier waveforms were sinusoids (SINE), Gaussian noises
+(NOISE), and PSHCs. The PSHC carriers all had a fundamental frequency of 0.3 Hz.
+The PSHC pulse rate differed across bands and was a function of the center
+frequency of the corresponding synthesis bandpass filter following the equation
+in <xref ref-type="fig" rid="fig1-2331216519866029">Figure 1</xref> of <xref rid="bibr44-2331216519866029" ref-type="bibr">Mesnildrey et&#x000a0;al.
+(2016)</xref>. This equation provides the pulse rate yielding a minimum of
+intrinsic modulations after auditory filtering, given the center frequency of
+the synthesis filter. Similar to <xref rid="bibr44-2331216519866029" ref-type="bibr">Mesnildrey et&#x000a0;al. (2016)</xref>, the cutoff
+frequency of the envelope extraction stage was equal to half the PSHC pulse rate
+in cases where it was lower than 200&#x02009;Hz but was otherwise limited to 200&#x02009;Hz to
+mimic the poor salience of temporal pitch cues experienced by CI listeners at
+high rates (e.g., <xref rid="bibr29-2331216519866029" ref-type="bibr">Kong &#x00026;
+Carlyon, 2010</xref>; <xref rid="bibr65-2331216519866029" ref-type="bibr">Townshend, Cotter, Van Compernolle, &#x00026; White, 1987</xref>). The three
+mismatch conditions were as follows: (a) &#x0201c;0-equivalent rectangular bandwidth
+(ERB) mismatch&#x0201d;&#x02014;same analysis and synthesis filters; (b) &#x0201c;2-ERB mismatch
+condition&#x0201d;&#x02014;lowest cutoff of the synthesis bandpass filters mismatched upwards by
+half an octave resulting in a constant 1.8 ERB mismatch relative to the analysis
+bands, and (c) &#x0201c;4-ERB mismatch condition&#x0201d;&#x02014;lowest cutoff of the synthesis
+bandpass filters mismatched up by one octave resulting in a constant 3.9
+ERB-mismatch. The analysis range was always fixed between 250 and 4500&#x02009;Hz. The
+synthesis ranges were [250&#x02013;4500 Hz], [354&#x02013;5525 Hz], and [500&#x02013;6970 Hz] for the
+&#x0201c;0-ERB mismatch,&#x0201d; &#x0201c;2-ERB mismatch,&#x0201d; and &#x0201c;4-ERB mismatch&#x0201d; conditions,
+respectively. All sentences sent to the audio inputs of the CIs were first
+bandpass filtered between 250 and 4500&#x02009;Hz (i.e., the frequency range of the
+analysis filterbank). An exception was made for the trials involving the 2-ERB
+and 4-ERB mismatch stimuli presented to subject P1. In this case, we restricted
+the frequency content of the vocoded stimuli to frequencies below 4500 Hz,
+because of the severe hearing loss at 8000&#x02009;Hz. Consequently, we low-pass
+filtered the comparison CI stimuli so that the stimuli delivered to the two ears
+always had the same bandwidth expressed in ERBs.</p><p>In summary, nine different vocoded conditions were generated:
+<italic>carrier</italic> {SINE, NOISE, PSHC}&#x02009;&#x000d7;&#x02009;<italic>mismatch</italic> {0,
+2, 4 ERB}.</p></sec><sec id="sec8-2331216519866029"><title>Loudness Balancing</title><p>Prior to the main experiment, the sentences were loudness balanced across ears.
+The vocoded sounds were fixed at a comfortable level of 65 dB SPL, although this
+could slightly vary from subject to subject if this level was perceived as being
+too soft. The loudness of the implant sound was then adjusted via the S-amp
+potentiometer for each subject so that the acoustic and electric sounds were
+equally loud. This adjustment was repeated for the NOISE, SINE, and PSHC
+vocoders and for the two sentences, and the average matched level was selected
+for the main experiment.</p></sec><sec id="sec9-2331216519866029"><title>Two-Alternative Forced-Choice Task</title><p>The main task consisted of eight testing blocks of 36 trials. In each trial, the
+subjects heard two intervals, separated by a 1-s gap. In the first interval,
+they heard a sentence processed via the CI followed 500&#x02009;ms later by the same
+sentence processed by one of the nine vocoders. In the second interval, a
+different vocoder simulation followed the same CI-processed speech. When
+comparing differences in <italic>carrier</italic>, the amount of
+<italic>mismatch</italic> was fixed and, conversely, when comparing
+differences in <italic>mismatch</italic>, the <italic>carrier</italic> was
+fixed. In other words, the vocoder stimulus differed in the two intervals either
+by carrier (PSHC, SINE, or NOISE) or by the amount of frequency mismatch imposed
+between the analysis and synthesis bands (0-, 2-, or 4-ERB). There were 18
+different trials per block, each repeated twice. Nine trials involved a change
+in carrier for a fixed mismatch (three different carriers compared between each
+other for three fixed mismatches) and nine trials involved a change in mismatch
+for a fixed carrier (three different mismatches compared between each other for
+three fixed carriers). The subjects were asked to indicate in which of the two
+intervals the two sounds were more similar. The same speech material was
+presented across trials within two consecutive testing blocks.</p></sec><sec id="sec10-2331216519866029"><title>Similarity Ratings</title><p>To familiarize the subjects with the sound quality of the vocoders and to
+introduce a transition when the speech material changed, similarity ratings were
+collected at the beginning and throughout the whole session, that is, every time
+the speech material changed. Each subject performed four blocks of similarity
+ratings in total. These ratings also served to provide subjective feedback on
+the <italic>overall</italic> similarity between the various vocoders and the
+real CI sound. In each block of similarity ratings, the subjects had to rate on
+a 7-point Likert-type scale how similar the vocoder and the CI stimuli were: (1)
+being <italic>extremely close</italic> to (7) being <italic>completely
+different</italic>. The subjects were asked to focus on the sound quality.
+Each block contained 12 pairs of vocoder-CI sounds to judge in similarity. The
+first three were randomly chosen among the nine vocoders and were considered as
+training, hence not taken into account during the analysis. The ultimate nine
+estimations encompassed the nine different vocoders and were presented in random
+order. Every similarity-rating block used the same speech material as in the
+following two forced-choice testing blocks. Overall, each subject performed 288
+forced-choice trials and provided 48 similarity ratings.</p><p>Note that the amount of testing time devoted to the forced-choice trials was much
+larger than that devoted to the similarity ratings. There are indeed at least
+two reasons why the forced-choice task is more appropriate than the similarity
+rating task to compare vocoders differing along specific dimensions. First, the
+sounds of a CI and of a vocoder inevitably differ across multiple dimensions. In
+a similarity rating task, subjects may weigh these dimensions differently across
+each other or even across trials. Consequently, the experimenter cannot control
+upon which dimension(s) the subjects base their judgments. In contrast, for a
+given trial of the forced-choice task, only one dimension is varied at a time
+and the subjects can only base their judgment on this specific dimension.
+Furthermore, similarity ratings may also be contaminated by nonsensory biases,
+which is not the case for the forced-choice task (<xref rid="bibr48-2331216519866029" ref-type="bibr">Poulton, 1979</xref>).</p></sec><sec id="sec11-2331216519866029"><title>Postoperative CT Scan Imaging</title><p>Postoperative imaging data consisted of high-resolution cone beam CT
+reconstructions as illustrated in <xref ref-type="fig" rid="fig2-2331216519866029">Figure 2</xref>. For each subject, the positions
+of the implanted electrodes were determined as follows: The insertion depth
+angle of each contact was measured relative to the round window according to the
+tonotopic coordinate system introduced by <xref rid="bibr57-2331216519866029" ref-type="bibr">Stakhovskaya, Sridhar, Bonham, and Leake
+(2007)</xref>. The angle was then converted to a spiral ganglion
+characteristic frequency. The difference between the spiral ganglion
+characteristic frequency of the electrodes and the center frequency of the
+bandpass filters used in the sound processor was expressed in ERB. The ERB
+mismatches were computed for the apical, middle, and basal frequency regions
+based on the crossover frequencies of the vocoder bands 1&#x02013;2, 3&#x02013;4, and 5&#x02013;6,
+respectively. A positive mismatch indicates a basalward mismatch: The position
+of the electrode contact is associated with a higher spiral ganglion
+characteristic frequency than the corresponding bandpass filter of the CI sound
+processor. <fig id="fig2-2331216519866029" orientation="portrait" position="float"><label>Figure 2.</label><caption><p>Illustration of the CT scan analysis.</p></caption><graphic xlink:href="10.1177_2331216519866029-fig2"/></fig></p><p>The potential effect of frequency allocation tables and electrode positions on
+the mismatch preferences was further investigated by analyzing the CT scans. We
+arbitrarily defined the following levels of adaptation: Complete adaptation
+refers to subjects for whom the 0-ERB mismatch condition was preferred
+significantly over the 2- and 4-ERB conditions. Partial adaptation refers to
+subjects for whom vocoders with smaller mismatches than the actual physical
+mismatch (spiral ganglion characteristic frequency&#x02014;frequency allocation table
+mismatch) were preferred.</p><p>Finally, we calculated the basalward mismatches between the frequency allocation
+table and the spiral ganglion characteristic frequency for three frequency
+regions of each subject: basal, medium, and apical. The mean mismatch across
+regions was calculated and its potential effect on the preference scores was
+investigated.</p></sec></sec><sec sec-type="results" id="sec12-2331216519866029"><title>Results</title><sec id="sec13-2331216519866029"><title>Two-Alternative Forced Choice Task</title><p><xref ref-type="fig" rid="fig3-2331216519866029">Figure 3</xref> illustrates the
+results of the two-alternative forced-choice task (2AFC) task obtained with all
+9 SSD-CI users. The left and right Panels show the results for the carrier and
+mismatch comparisons, respectively. <fig id="fig3-2331216519866029" orientation="portrait" position="float"><label>Figure 3.</label><caption><p>Results of the forced-choice experiment. Error bars represent 95%
+confidence intervals. The <italic>y</italic> axis represents the
+Berkson-transformed scale (see text for details) and the
+corresponding percentage. The left and right panels show the results
+for the carrier and mismatch comparisons, respectively. The
+across-subject mean preferences are illustrated by the three error
+bars at the bottom of the panel representing the mean and 95%
+confidence intervals of the Berkson-transformed scores. For the
+carrier comparisons, the results of each subject are represented by
+three horizontal bars showing, from top to bottom, the percentage of
+trials with preference for: NOISE chosen over SINE (black), PSHC
+chosen over NOISE (red), and PSHC chosen over SINE (gray),
+respectively. The dotted lines illustrate 95% significance level as
+given by the binomial distribution. For the mismatch comparisons,
+the three error bars correspond, from top to bottom, to the
+percentage of trials for which subjects showed preference for 2-ERB
+over 4-ERB mismatch (blue), no mismatch (0-ERB) over 4-ERB mismatch
+(green), and no mismatch (0-ERB) over 4-ERB mismatch (brown),
+respectively.</p></caption><graphic xlink:href="10.1177_2331216519866029-fig3"/></fig></p><p>For the carrier comparisons, the results of each subject are represented by three
+horizontal bars showing, from top to bottom, the percentage of trials with
+preference for: NOISE over SINE, PSHC over NOISE, and PSHC over SINE,
+respectively. The percentage scores were converted to Berkson by calculating
+<italic>P</italic> of the base-two logarithm of the odds, that is,
+<inline-formula id="ilm1-2331216519866029"><mml:math id="mml-math1-2331216519866029"><mml:mrow><mml:mi mathvariant="italic">Perf</mml:mi><mml:mo>=</mml:mo><mml:msub><mml:mrow><mml:mtext>log</mml:mtext></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula>(). Perf is a dimensionless quantity with a
+1&#x02009;&#x02212;&#x02009;<italic>p</italic> affiliated &#x0201c;Berkson&#x0201d; unit (Bk) as proposed by <xref rid="bibr22-2331216519866029" ref-type="bibr">Hilkhuysen, Gaubitch, Brookes,
+and Huckvale (2012)</xref>. The <italic>across-subject</italic> mean
+preferences are illustrated by the three error bars at the bottom of the panel
+representing the mean and 95% confidence intervals of the Berkson-transformed
+scores assuming they are normally distributed. Three mixed-effects logistic
+regression models with a random intercept for subjects were fitted to the
+carrier comparison data and showed significant preference for PSHC over SINE
+(<italic>p</italic>&#x02009;&#x0003c;&#x02009;.001) and for PSHC over NOISE
+(<italic>p</italic>&#x02009;=&#x02009;.009) but no difference between NOISE and SINE
+(<italic>p</italic>&#x02009;=&#x02009;.122). Individual data indicated a large variability
+across subjects both for the carrier and for the mismatch comparisons, as
+detailed later. For each subject, each horizontal bar represents the result of
+144 trials and the dotted lines illustrate 95% significance levels as given by
+the binomial distribution. Only subject P5 was insensitive to carrier type. For
+the remaining eight subjects, PSHC was judged significantly more similar to CI
+than SINE by five subjects and more similar to CI than NOISE by three subjects.
+NOISE was judged significantly more similar to CI than SINE by four subjects,
+and SINE was preferred over PSHC by only one subject, and over NOISE by three
+subjects. The results from the mismatch comparison trials are shown on the right
+panel of <xref ref-type="fig" rid="fig3-2331216519866029">Figure 3</xref> and
+the three error bars correspond, from top to bottom, to the percentage of trials
+for which subjects showed preference for 2-ERB mismatch over 4-ERB mismatch, no
+mismatch over 4-ERB mismatch, and no mismatch over 2-ERB mismatch, respectively.
+Three mixed-effect logistic regression models were also fitted to the mismatch
+comparison data and showed that the no mismatch (0 ERB) and 2-ERB mismatch
+conditions were overall not different from each other
+(<italic>p</italic>&#x02009;=&#x02009;.551) but were both significantly preferred over the 4-ERB
+mismatch condition (<italic>p</italic>&#x02009;&#x0003c;&#x02009;.001 and <italic>p</italic>&#x02009;=&#x02009;.004,
+respectively). <xref ref-type="fig" rid="fig3-2331216519866029">Figure
+3(b)</xref> shows that five of the nine subjects were not sensitive to
+mismatch differences. For the remaining subjects, no mismatch (0-ERB) was
+preferred significantly more often than a 4-ERB mismatch by four subjects. The
+2-ERB mismatch condition was preferred over the 4-ERB mismatch condition by only
+two of the four subjects. Thus, overall, subjects were either not sensitive to
+the mismatch or if they were, they showed preference for the least-mismatched
+conditions.</p></sec><sec id="sec14-2331216519866029"><title>Similarity Ratings</title><p>While the forced-choice results provide some indications on the relative
+similarities of the different vocoders with the sound of a CI, they do not
+inform us on their <italic>overall</italic> level of similarity. <xref ref-type="fig" rid="fig4-2331216519866029">Figure 4</xref> shows the
+outcomes of the similarity ratings for all nine subjects and for all conditions.
+Focusing on the different carrier types, the mean ratings were 4.7, 5.1, and 5.8
+for PSHC, NOISE, and SINE carriers, respectively. <fig id="fig4-2331216519866029" orientation="portrait" position="float"><label>Figure 4.</label><caption><p>Mean rating data of the similarity between the presented vocoder and
+the CI stimuli within and across subjects for the carrier type (a)
+and for the frequency mismatch (b) on a 7-point Likert-type scale
+(1: <italic>extremely close</italic>&#x02013;7: <italic>completely
+different</italic>). Each symbol and associated color refers to
+one subject.</p></caption><graphic xlink:href="10.1177_2331216519866029-fig4"/></fig></p><p>Friedman rank sum test indicates a significant difference in rating only between
+PSHC and SINE (&#x003c7;<sup>2&#x02009;</sup>=&#x02009;4.5, <italic>p</italic>&#x02009;=&#x02009;.03). Comparing
+frequency mismatches, the mean ratings were 5.0 for the no-mismatch condition,
+5.1 for the 2-ERB condition, and 5.6 for the 4-ERB condition. Friedman rank sum
+test revealed that there were significant differences in ratings between the no
+mismatch and the 4-ERB mismatch conditions (&#x003c7;<sup>2&#x02009;</sup>=&#x02009;9,
+<italic>p</italic>&#x02009;=&#x02009;.002), and between the 2-ERB and 4-ERB mismatch
+(&#x003c7;<sup>2&#x02009;</sup>=&#x02009;5.44, <italic>p</italic>&#x02009;=&#x02009;.019).</p><p>We further evaluated the consistency of the results obtained in the forced choice
+task and in the similarity ratings by performing several correlations. To
+normalize the similarity rating scores across subjects, a ranking step was first
+applied to the data. For each subject, the nine vocoder conditions presented in
+the similarity-rating task were ranked from the most to the least similar (1&#x02013;9)
+so that the ranks&#x02019; sum equals 45 (i.e., &#x02211;<sup>9</sup><sub><italic>i</italic></sub><sub>&#x02009;=&#x02009;1</sub>
+<italic>i</italic>). The mean rank for each carrier and for each subject was
+then calculated (i.e., each carrier being used in three out of the nine vocoder
+conditions). Following this, we calculated Spearman correlations between (a) the
+difference in rank between each pair of carriers obtained in the ranking task
+and (b) the preference level in the 2AFC task for the corresponding pair (e.g.,
+difference in rank for the NOISE carrier over the SINE carrier correlated to the
+preference level for NOISE over SINE in the 2AFC task) as illustrated in <xref ref-type="fig" rid="fig5-2331216519866029">Figure 5</xref>. Significant
+correlations were found for the PSHC-SINE comparison (&#x003c1;&#x02009;=&#x02009;0.94;
+<italic>p</italic>&#x02009;&#x0003c;&#x02009;.001) as well as for the NOISE-SINE (&#x003c1;&#x02009;=&#x02009;0.85;
+<italic>p</italic>&#x02009;=&#x02009;.006) and for the NOISE-PSHC (&#x003c1;&#x02009;=&#x02009;0.71;
+<italic>p</italic>&#x02009;=&#x02009;.033) comparisons. This shows that for the carrier
+comparisons, the two procedures used here gave consistent results. <fig id="fig5-2331216519866029" orientation="portrait" position="float"><label>Figure 5.</label><caption><p>Illustration of the correlations between the preference level in the
+2AFC task and the corresponding carriers&#x02019; mean ranking difference.
+Each symbol refers to one subject. Each color refers to a pair of
+carrier conditions.</p></caption><graphic xlink:href="10.1177_2331216519866029-fig5"/></fig></p><p>The same correlation analysis was conducted for the mismatch conditions but did
+not show significant correlations, as illustrated in <xref ref-type="fig" rid="fig6-2331216519866029">Figure 6</xref>. A possible explanation to this
+lack of correlation is that a change in carrier was more salient than a change
+in mismatch and that the subjects weighted the &#x0201c;mismatch&#x0201d; dimensions less than
+the &#x0201c;carrier&#x0201d; dimension in their similarity ratings. <fig id="fig6-2331216519866029" orientation="portrait" position="float"><label>Figure 6.</label><caption><p>Illustration of the correlations between the preference level in the
+2AFC task and the corresponding mismatch conditions&#x02019; ranking
+difference. Each symbol refers to one subject. Each color refers to
+a pair of mismatch conditions.</p></caption><graphic xlink:href="10.1177_2331216519866029-fig6"/></fig></p></sec><sec id="sec15-2331216519866029"><title>Adaptation to the Frequency Allocation Table</title><p>The CT scan analysis revealed that all CI frequency&#x02013;place mismatches were
+positive, with the smallest being 0.9 ERB. The left columns of <xref rid="table2-2331216519866029" ref-type="table">Table 2</xref> show the
+mismatch preference scores. The data in <xref rid="table2-2331216519866029" ref-type="table">Table 2</xref> indicate that (a) full
+adaptation occurred for only one subject (P5), who preferred all &#x0201c;least
+mismatched&#x0201d; conditions, (b) partial adaptation occurred for two subjects (P8 and
+P9), and (c) inconclusive results were obtained for six subjects (P1, P2, P3,
+P4, P6, and P7) who showed only one or no significant preference for any
+mismatch. For example, P8 exhibited partial adaptation with significant
+preferences for both the no-mismatch and the 2-ERB mismatch conditions over the
+4-ERB mismatch condition but no significant preference for the no-mismatch over
+the 2-ERB mismatch condition. <table-wrap id="table2-2331216519866029" orientation="portrait" position="float"><label>Table 2.</label><caption><p>Data Summary of the Preference Level and the Frequency Allocation
+Table and the Spiral Ganglion Characteristic Frequency Mismatches
+(FAT/SGcF Mismatch).</p></caption><alternatives><graphic specific-use="table2-2331216519866029" xlink:href="10.1177_2331216519866029-table2"/><table frame="hsides" rules="groups"><thead align="left" valign="top"><tr><th rowspan="2" colspan="1">Research ID</th><th colspan="3" rowspan="1">Preference (Berksons)<hr/></th><th colspan="4" rowspan="1">FAT/SGcF mismatch ERBs<hr/></th></tr><tr><th rowspan="1" colspan="1">0 vs. 2-ERB</th><th rowspan="1" colspan="1">0 vs. 4-ERB</th><th rowspan="1" colspan="1">2 vs. 4-ERB</th><th rowspan="1" colspan="1">Apical</th><th rowspan="1" colspan="1">Middle</th><th rowspan="1" colspan="1">Basal</th><th rowspan="1" colspan="1">Mean</th></tr></thead><tbody align="left" valign="top"><tr><td rowspan="1" colspan="1">P1</td><td rowspan="1" colspan="1">&#x02212;0.36</td><td rowspan="1" colspan="1">0.00</td><td rowspan="1" colspan="1">&#x02212;0.12</td><td rowspan="1" colspan="1">5.7</td><td rowspan="1" colspan="1">5.9</td><td rowspan="1" colspan="1">4.7</td><td rowspan="1" colspan="1">5.4</td></tr><tr><td rowspan="1" colspan="1">P2</td><td rowspan="1" colspan="1">0.12</td><td rowspan="1" colspan="1">0.87</td><td rowspan="1" colspan="1">0.12</td><td rowspan="1" colspan="1">6.6</td><td rowspan="1" colspan="1">3.3</td><td rowspan="1" colspan="1">0.9</td><td rowspan="1" colspan="1">3.6</td></tr><tr><td rowspan="1" colspan="1">P3</td><td rowspan="1" colspan="1">0.36</td><td rowspan="1" colspan="1">1.93</td><td rowspan="1" colspan="1">0.87</td><td rowspan="1" colspan="1">2.9</td><td rowspan="1" colspan="1">3.3</td><td rowspan="1" colspan="1">1.3</td><td rowspan="1" colspan="1">2.5</td></tr><tr><td rowspan="1" colspan="1">P4</td><td rowspan="1" colspan="1">0.24</td><td rowspan="1" colspan="1">0.36</td><td rowspan="1" colspan="1">0.24</td><td rowspan="1" colspan="1">5.0</td><td rowspan="1" colspan="1">4.3</td><td rowspan="1" colspan="1">3.1</td><td rowspan="1" colspan="1">4.1</td></tr><tr><td rowspan="1" colspan="1">P5</td><td rowspan="1" colspan="1">1.00</td><td rowspan="1" colspan="1">1.75</td><td rowspan="1" colspan="1">1.75</td><td rowspan="1" colspan="1">2.1</td><td rowspan="1" colspan="1">3.1</td><td rowspan="1" colspan="1">1.6</td><td rowspan="1" colspan="1">2.3</td></tr><tr><td rowspan="1" colspan="1">P6</td><td rowspan="1" colspan="1">&#x02212;0.36</td><td rowspan="1" colspan="1">0.87</td><td rowspan="1" colspan="1">0.00</td><td rowspan="1" colspan="1">4.3</td><td rowspan="1" colspan="1">4.9</td><td rowspan="1" colspan="1">4.3</td><td rowspan="1" colspan="1">4.5</td></tr><tr><td rowspan="1" colspan="1">P7</td><td rowspan="1" colspan="1">&#x02212;0.12</td><td rowspan="1" colspan="1">0.74</td><td rowspan="1" colspan="1">0.48</td><td rowspan="1" colspan="1">7.6</td><td rowspan="1" colspan="1">5.6</td><td rowspan="1" colspan="1">2.7</td><td rowspan="1" colspan="1">5.3</td></tr><tr><td rowspan="1" colspan="1">P8</td><td rowspan="1" colspan="1">0.61</td><td rowspan="1" colspan="1">1.93</td><td rowspan="1" colspan="1">1.58</td><td rowspan="1" colspan="1">1.7</td><td rowspan="1" colspan="1">1.2</td><td rowspan="1" colspan="1">2.8</td><td rowspan="1" colspan="1">1.9</td></tr><tr><td rowspan="1" colspan="1">P9</td><td rowspan="1" colspan="1">0.61</td><td rowspan="1" colspan="1">1.58</td><td rowspan="1" colspan="1">0.87</td><td rowspan="1" colspan="1">1.6</td><td rowspan="1" colspan="1">2.0</td><td rowspan="1" colspan="1">2.0</td><td rowspan="1" colspan="1">1.9</td></tr><tr><td rowspan="1" colspan="1">Mean</td><td rowspan="1" colspan="1">0.23</td><td rowspan="1" colspan="1">1.11</td><td rowspan="1" colspan="1">0.64</td><td rowspan="1" colspan="1">4.2</td><td rowspan="1" colspan="1">3.7</td><td rowspan="1" colspan="1">2.6</td><td rowspan="1" colspan="1">3.5</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn3-2331216519866029"><p><italic>Note.</italic> ERBs&#x02009;=&#x02009;equivalent rectangular bandwidths;
+FAT: Frequency Allocation Table: SGcF; Spiral Ganglion
+characteristic Frequencies.</p></fn></table-wrap-foot></table-wrap></p><p>The right columns in <xref rid="table2-2331216519866029" ref-type="table">Table
+2</xref> give the basalward mismatches between the frequency allocation
+table and the spiral ganglion characteristic frequency for the three frequency
+regions and for each subject. P5, whose data exhibit a general pattern of full
+adaptation to the frequency allocation table, had a mean spiral ganglion
+characteristic frequency mismatch equal to 2.3 ERB which was consistent across
+the three frequency regions. Similarly, both P8 and P9, who showed patterns of
+partial adaptation, had a consistently small spiral ganglion characteristic
+frequency mismatch throughout the three frequency regions (mean&#x02009;=&#x02009;1.9 ERB). In
+contrast, P3, who only showed a significant preference to the nomismatch over
+the 4-ERB mismatch condition in the forced-choice task, had a mean spiral
+ganglion characteristic frequency mismatch of 2.5 ERB and inconsistent spiral
+ganglion characteristic frequency mismatches across the three regions.
+Similarly, the subjects who did not show preference for any of the mismatch
+conditions had high mean spiral ganglion characteristic frequency mismatches
+(5.4 ERB, 4.1 ERB, and 4.5 ERB, respectively, for P1, P4, and P6) and
+inconsistent mismatches across the three regions (P2 and P7). For example, P7
+had a mean spiral ganglion characteristic frequency mismatch of 5.3 ERB and a
+large variability across the three frequency regions (up to 7.6 ERB for the
+apical and 2.7 ERB for the basal regions).</p><p>In summary, only one of nine subjects demonstrated a pattern of preference
+indicating adaptation to the frequency allocation table. These data also suggest
+that differences in the amount of frequency mismatch across frequency regions
+for a given subject may be a confounding factor. In other terms, subjects with a
+mean mismatch consistent across frequency regions and smaller than 2.5 ERB were
+the only ones who showed significant preference for at least one mismatch
+condition.</p></sec></sec><sec sec-type="discussion" id="sec16-2331216519866029"><title>Discussion</title><sec id="sec17-2331216519866029"><title>Carrier Comparison</title><p>The first aim of this study was to determine which carrier best mimics the sound
+of a CI. Forced-choice comparisons between SINE, NOISE, and PSHC revealed a
+general pattern of preference for PSHC, suggesting that, within the specific
+conditions tested here, the PSHC carrier type is closer in sound quality to
+electric hearing via a CI than conventional NOISE or SINE carriers. The
+correlations with the results of the similarity ranking task also suggest that
+the subjective similarity assessments of all three carriers were consistent with
+their objective preference levels measured in the 2AFC task.</p><p>Two studies recently conducted similar investigations in SSD subjects using
+different procedures (<xref rid="bibr9-2331216519866029" ref-type="bibr">Dorman
+et&#x000a0;al., 2017</xref>; <xref rid="bibr47-2331216519866029" ref-type="bibr">Peters et&#x000a0;al., 2018</xref>). <xref rid="bibr47-2331216519866029" ref-type="bibr">Peters et&#x000a0;al. (2018)</xref> presented speech
+and music stimuli in free field together with masking noise in the
+normal-hearing ear of their subjects so that they would first hear the stimuli
+only through their CI. In a second phase, they presented the same stimuli passed
+through different vocoders with the CI off and asked the subjects to select the
+vocoder that best matched the CI sounds heard in Phase 1. They reported that a
+NOISE carrier was often found more similar to the CI than a SINE carrier for
+five out of six different speech stimuli. Their individual data, however,
+revealed inconsistent results showing that six subjects chose the NOISE carrier
+as a closer match, whereas four subjects chose the SINE carrier. Although their
+procedure was substantially different than ours as it required short-term memory
+processing (i.e., remembering the sounds from the first phase), our results are
+broadly consistent in that we did not find a significant difference between
+NOISE and SINE either.</p><p>Despite an overall preference for PSHC, we note that the outcomes of the
+similarity ratings suggest that our simulations remain qualitatively different
+from the sound of a CI. Obtaining a better match would therefore require further
+research. <xref rid="bibr9-2331216519866029" ref-type="bibr">Dorman et&#x000a0;al.
+(2017)</xref> also reported poor similarity scores and large variability in
+CI simulations using SINE or NOISE carriers while varying the number of channels
+of their vocoders between 4 and 12 in a group of 8 SSD-CI subjects. For
+instance, median ratings for their six-channel vocoders were equal to 3.2 on a 0
+to 10 scale (0 being the <italic>least similar</italic> and 10 the <italic>most
+similar</italic>) for their SINE vocoder and 1.7 for their NOISE vocoder.
+These authors also reported in a second experiment much higher rating scores (up
+to 10) in three SSD-CI patients when comparing the sound of CI to speech signals
+subjected to different types of spectral smearing. The SSD-CI subjects of <xref rid="bibr47-2331216519866029" ref-type="bibr">Peters et&#x000a0;al. (2018)</xref>
+also reported similarity scores for speech stimuli, with a mean of 6.3 on a 1 to
+10 scale (with &#x0201c;1: <italic>not similar at all</italic>, 6: <italic>similarity
+was fairly good</italic>, 10: <italic>completely similar</italic>&#x0201d;).
+Although these ratings appear to be slightly better than ours, it is worth
+noting that the subjects in the aforementioned study were only asked to rate
+their best-matched stimuli.</p></sec><sec id="sec18-2331216519866029"><title>Mismatch Comparison</title><p>The second aim of this study was to assess if our SSD-CI participants perceived
+speech through their CI as having a frequency mismatch. An analysis of the
+mismatch preferences revealed large intersubject variability, with only four
+subjects (P3, P5, P8, and P9) showing significant differences across mismatch
+conditions. For these cases, the low-mismatch condition(s) were preferred over
+the higher mismatch condition(s). In our subject group, only one subject (P5)
+appeared to have fully adapted to the CI sound processor frequency allocation.
+Two other subjects showed a pattern of partial adaptation. Lack of pitch
+adaptation and variability between subjects has been reported in several
+studies, using pitch matching tasks (<xref rid="bibr9-2331216519866029" ref-type="bibr">Dorman et&#x000a0;al., 2017</xref>; <xref rid="bibr50-2331216519866029" ref-type="bibr">Reiss et&#x000a0;al., 2011</xref>,
+<xref rid="bibr52-2331216519866029" ref-type="bibr">2014</xref>; <xref rid="bibr63-2331216519866029" ref-type="bibr">Tan et&#x000a0;al., 2017</xref>).
+Other studies also showed that some subjects may only partially accommodate to
+spectrally mismatched inputs (Fu &#x00026; Shannon, 1999a; 1999b; Fu et&#x000a0;al., 2005;
+<xref rid="bibr53-2331216519866029" ref-type="bibr">Rosen et&#x000a0;al.,
+1999</xref>) and that the pitch percept may be more influenced by the
+frequency allocation table than by the real spiral ganglion characteristic
+frequency allocation (<xref rid="bibr49-2331216519866029" ref-type="bibr">Reiss
+et&#x000a0;al., 2008</xref>). To our knowledge, none of these studies used full
+sentences as stimuli.</p><p>A striking observation in the mismatch preference choice was that the subjects
+who showed partial or full adaptation to the frequency allocation table had
+relatively small mean mismatches between the frequency allocation table and the
+spiral ganglion characteristic frequency. The analysis of the insertion angles
+of their CT scans indicates insertion angles up to 470&#x000b0; for P5 who adapted fully
+and 475&#x000b0; and 575&#x000b0; for P9 and P8, respectively, who both adapted partially to the
+frequency allocation table. The remaining five subjects all had insertion angles
+&#x0003c;400&#x000b0;. A first possible explanation may be the presence of a ceiling effect
+in cortical plasticity which would prevent adaptation to the new peripheral
+tonotopy imposed by the CI frequency allocation table. In other words, when the
+mismatch is too large, plastic central readjustments may not be effective enough
+to provide adaptation. Here, it might be that the mismatch between the frequency
+allocation table and the spiral ganglion characteristic frequency is too large
+(up to 7.6 ERB in apical region for P7) for plasticity to occur, and hence for
+adaptation to occur, as suggested by <xref rid="bibr52-2331216519866029" ref-type="bibr">Reiss et&#x000a0;al. (2014)</xref>. A second possible
+explanation is that adaptation will take a longer time to occur in these
+subjects. Reiss et&#x000a0;al. (2007) reported that for some subjects, pitch matching
+changes were observed up to 5 years after cochlear implantation. A third
+possibility is that the lack of preference also arises from a kind of
+adaptation&#x02014;such that this dimension of the difference is ignored or
+&#x0201c;accommodated.&#x0201d; Finally, it is worth mentioning that P5 had a significant
+preference for the least mismatched conditions in all comparisons, implying full
+adaptation to the frequency allocation table. This subject has a unique profile:
+P5 is a highly educated subject working in a field related to acoustics. Her
+experience may have helped in this adaptation. This might also explain her
+results in carrier choice since P5 was the only subject with no significant
+carrier preference. P5 informed the experimenter at the end of the test that she
+was more focused on the frequency difference and did not really pay attention to
+the timbre of the sounds.</p></sec><sec id="sec19-2331216519866029"><title>Study Limitations</title><p>Here, we discuss several limitations of our study, including the choice of
+vocoder parameters, the use of real speech as a stimulus, and the inherent
+difficulties in developing realistic acoustic simulations.</p><p>All our vocoders had six channels, whereas for the CIs, they were compared with
+Cochlear or Med-EL that contains between 12 and 22 electrodes. Instead of using
+a fixed number of channels as we did here, an alternative option would have been
+to measure the pitch produced by each electrode of each subject and use carriers
+centered on these pitch values, with as many carriers as the number of
+electrodes.</p><p>This approach is, however, complicated to implement because (a) it is time
+consuming to measure the pitches evoked by each electrode and also because the
+results are often contaminated by nonsensory biases (<xref rid="bibr6-2331216519866029" ref-type="bibr">Carlyon et&#x000a0;al., 2010</xref>) and (b) we
+currently do not have a good measure or model of the spatial spread of
+excitation produced by a given electrode to infer the bandwidth of each carrier
+of the vocoder. The approach used here, therefore, aims to be more general and
+assumes that the number of independent channels of information that CI subjects
+can perceive is close to six and that a vocoder with six channels should
+consequently simulate what a CI subject would receive if several neighboring
+electrodes were exciting the same population of nerve fibers. It is worth noting
+that <xref rid="bibr9-2331216519866029" ref-type="bibr">Dorman et&#x000a0;al.
+(2017)</xref> collected similarity ratings between the sound of a CI and
+different NOISE and SINE vocoders having 4, 6, 8, 10, and 12 channels and did
+not find a significant influence of the number of channels on their ratings,
+which ranged from about 1.9 to 3.2.</p><p>Other parameters of our vocoders differ from the processing performed by real
+CIs, such as the envelope extraction stage or the signal processing strategy. We
+have used envelope cutoff frequencies of 200 Hz or less to avoid conveying
+high-rate pitch cues which are known to be weak in CI listeners. Nevertheless,
+<xref rid="bibr56-2331216519866029" ref-type="bibr">Souza and Rosen
+(2009)</xref> showed that different envelope cutoffs can lead to different
+effects of carrier type (SINE vs. NOISE), especially on speech intelligibility;
+so it is at present unclear what effect this parameter would have had in our
+study. Most of our subjects used the ACE processing strategy from Cochlear
+except P8 who wears a Med-EL device and uses FS4 signal processing strategy (cf.
+<xref rid="table1-2331216519866029" ref-type="table">Table 1</xref>). These
+strategies differ from the processing performed by the vocoder and may therefore
+influence the percept. However, the number of subjects tested here is too small
+to investigate such device differences.</p><p>Another caveat of our study is that we have only used speech stimuli, which
+remained intelligible in all conditions. We used the same two sentences
+throughout the experiment so that the subjects could focus on the sound quality
+and not on the meaning. Nevertheless, speech stimuli are very specific, and a
+possible follow-up could be to conduct the same forced-choice task with stimuli
+that have the same kind of spectrotemporal variations as speech but remain
+unintelligible such as time-reversed or spectrally rotated speech.</p><p>Finally, it is still unclear whether obtaining a &#x0201c;perfect&#x0201d; acoustic simulation of
+the sound of a CI is <italic>at all</italic> possible. At the peripheral level,
+the patterns of neural degeneration may be very subject specific and nonuniform
+along the cochlea (<xref rid="bibr28-2331216519866029" ref-type="bibr">Kim,
+Steele, &#x00026; Puria, 2014</xref>; <xref rid="bibr37-2331216519866029" ref-type="bibr">Long et&#x000a0;al., 2014</xref>). Even if there was a
+method to precisely identify these neural degeneration patterns, they would
+likely be very difficult to reproduce acoustically. In addition, there are some
+known physiological differences between acoustic and electric neural stimulation
+that may be impossible to achieve, such as the higher firing synchrony observed
+electrically (<xref rid="bibr25-2331216519866029" ref-type="bibr">Javel,
+1990</xref>). There is also evidence that extensive central adaptations are
+triggered after cochlear implantation whether on auditory-sensitive areas or
+outside these areas (Rouger et&#x000a0;al., 2011; <xref rid="bibr60-2331216519866029" ref-type="bibr">Strelnikov et&#x000a0;al., 2010</xref>). Efficient
+speech performance by enhancing phonological processing seems to be the primary
+&#x0201c;objective&#x0201d; of the deaf brain in response to the new CI input (<xref rid="bibr19-2331216519866029" ref-type="bibr">Giraud, Price, Graham, &#x00026;
+Frackowiak, 2001</xref>; <xref rid="bibr20-2331216519866029" ref-type="bibr">Giraud &#x00026; Truy, 2002</xref>). Adaptation to the perceived CI input
+involving these higher level processes may take some time to stabilize and it
+may be difficult to capture them within the course of an experiment.</p></sec></sec></body><back><ack><title>Acknowledgments</title><p>The authors would like to thank the subjects for their involvement and their feedback
+and Gaston Hilkhuysen for feedback on the manuscript.</p></ack><sec id="sec20-2331216519866029"><title>Authors&#x02019; Note</title><p>Portions of this work were previously presented at the Conference Implantable
+Auditory Prostheses, Lake Tahoe, CA: July 16-21 2017.</p></sec><sec id="sec21-2331216519866029"><title>Declaration of Conflicting Interests</title><p>The authors declared the following potential conflicts of interest with respect to
+the research, authorship, and/or publication of this article: C. J. is an employee
+of Cochlear France. C. K. received partial doctoral funding from Cochlear France as
+part of the program &#x0201c;Conventions industrielles de formation par la recherch&#x000e9;.&#x0201d; For
+the remaining authors no conflicts of interests were declared. The views expressed
+herein are not necessarily those of the Cochlear Company.</p></sec><sec id="sec22-2331216519866029"><title>Funding</title><p>The authors disclosed receipt of the following financial support for the research,
+authorship, and/or publication of this article: This study is part of the PRME
+multi-center French study that received ethical approval by the South-West and
+Overseas territories&#x02019; Ethics Committee on May 2014 under the reference
+CPP14-03/2014-A00533-44 and that is financed by the French Ministry of Health
+(PRME2013 number 13 7053 10, bureau innovation et recherche Clinique, <ext-link ext-link-type="uri" xlink:href="http://social-sante.gouv.fr/sante.gouv.fr">http://social-sante.gouv.fr/sante.gouv.fr</ext-link>). This study was supported
+by the recurrent funding from the CNRS and Agir pour l&#x02019;Audition (#APA-RD2015-6B).
+None of the sponsors had a role in study design, data collection, analysis or the
+interpretation of data.</p></sec><ref-list><title>References</title><ref id="bibr1-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Arndt</surname><given-names>S.</given-names></name><name><surname>Aschendorff</surname><given-names>A.</given-names></name><name><surname>Laszig</surname><given-names>R.</given-names></name><name><surname>Beck</surname><given-names>R.</given-names></name><name><surname>Schild</surname><given-names>C.</given-names></name><name><surname>Kroeger</surname><given-names>S.</given-names></name><name><surname>Wesarg</surname><given-names>T.</given-names></name></person-group> (<year>2011</year>) <article-title>Comparison of pseudobinaural
+hearing to real binaural hearing rehabilitation after cochlear implantation
+in patients with unilateral deafness and tinnitus</article-title>.
+<source>Otology &#x00026; Neurotology</source>
+<volume>32</volume>(<issue>1</issue>): <fpage>39</fpage>&#x02013;<lpage>47</lpage>.
+<comment>doi:10.1097/MAO.0b013e3181fcf271</comment>.<pub-id pub-id-type="pmid">21068690</pub-id></mixed-citation></ref><ref id="bibr3-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ba&#x0015f;kent</surname><given-names>D.</given-names></name><name><surname>Shannon</surname><given-names>R. V.</given-names></name></person-group> (<year>2004</year>) <article-title>Frequency-place compression
+and expansion in cochlear implant listeners</article-title>. <source>The
+Journal of the Acoustical Society of America</source>
+<volume>116</volume>(<issue>5</issue>): <fpage>3130</fpage>&#x02013;<lpage>3140</lpage>.
+<comment>doi:10.1121/1.1804627</comment>.<pub-id pub-id-type="pmid">15603158</pub-id></mixed-citation></ref><ref id="bibr4-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bingabr</surname><given-names>M.</given-names></name><name><surname>Espinoza-Varas</surname><given-names>B.</given-names></name><name><surname>Loizou</surname><given-names>P. C.</given-names></name></person-group> (<year>2008</year>) <article-title>Simulating the effect of
+spread of excitation in cochlear implants</article-title>. <source>Hearing
+Research</source>
+<volume>241</volume>(<issue>1</issue>): <fpage>73</fpage>&#x02013;<lpage>79</lpage>.
+<comment>doi:10.1016/j.heares.2008.04.012</comment>.<pub-id pub-id-type="pmid">18556160</pub-id></mixed-citation></ref><ref id="bibr5-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bo&#x000eb;x</surname><given-names>C.</given-names></name><name><surname>Baud</surname><given-names>L.</given-names></name><name><surname>Cosendai</surname><given-names>G.</given-names></name><name><surname>Sigrist</surname><given-names>A.</given-names></name><name><surname>K&#x000f3;s</surname><given-names>M.-I.</given-names></name><name><surname>Pelizzone</surname><given-names>M.</given-names></name></person-group> (<year>2006</year>) <article-title>Acoustic to electric pitch
+comparisons in cochlear implant subjects with residual
+hearing</article-title>. <source>JARO: Journal of the Association for
+Research in Otolaryngology</source>
+<volume>7</volume>(<issue>2</issue>): <fpage>110</fpage>&#x02013;<lpage>124</lpage>.
+<comment>doi:10.1007/s10162-005-0027-2</comment>.<pub-id pub-id-type="pmid">16450213</pub-id></mixed-citation></ref><ref id="bibr6-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Carlyon</surname><given-names>R. P.</given-names></name><name><surname>Macherey</surname><given-names>O.</given-names></name><name><surname>Frijns</surname><given-names>J. H. M.</given-names></name><name><surname>Axon</surname><given-names>P. R.</given-names></name><name><surname>Kalkman</surname><given-names>R. K.</given-names></name><name><surname>Boyle</surname><given-names>P.</given-names></name><name><surname>Dauman</surname><given-names>R.</given-names></name></person-group> (<year>2010</year>) <article-title>Pitch comparisons between
+electrical stimulation of a cochlear implant and acoustic stimuli presented
+to a normal-hearing contralateral ear</article-title>. <source>Journal of
+the Association for Research in Otolaryngology</source>
+<volume>11</volume>(<issue>4</issue>): <fpage>625</fpage>&#x02013;<lpage>640</lpage>.
+<comment>doi:10.1007/s10162-010-0222-7</comment>.<pub-id pub-id-type="pmid">20526727</pub-id></mixed-citation></ref><ref id="bibr7-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Crew</surname><given-names>J. D.</given-names></name><name><surname>Galvin</surname><given-names>J. J.</given-names></name></person-group> (<year>2012</year>) <article-title>Channel interaction limits
+melodic pitch perception in simulated cochlear implants</article-title>.
+<source>The Journal of the Acoustical Society of America</source>
+<volume>132</volume>(<issue>5</issue>):
+<fpage>EL429</fpage>&#x02013;<lpage>EL435</lpage>.
+<comment>doi:10.1121/1.4758770</comment>.<pub-id pub-id-type="pmid">23145706</pub-id></mixed-citation></ref><ref id="bibr8-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dorman</surname><given-names>M. F.</given-names></name><name><surname>Loizou</surname><given-names>P. C.</given-names></name></person-group> (<year>1997</year>) <article-title>Speech intelligibility as a
+function of the number of channels of stimulation for normal-hearing
+listeners and patients with cochlear implants</article-title>. <source>The
+American Journal of Otology</source>
+<volume>18</volume>(<issue>6 Suppl</issue>):
+<fpage>S113</fpage>&#x02013;<lpage>114</lpage>.
+<comment>doi:10.1121/1.419603</comment>.<pub-id pub-id-type="pmid">9391623</pub-id></mixed-citation></ref><ref id="bibr9-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dorman</surname><given-names>M. F.</given-names></name><name><surname>Natale</surname><given-names>S. C.</given-names></name><name><surname>Butts</surname><given-names>A. M.</given-names></name><name><surname>Zeitler</surname><given-names>D. M.</given-names></name><name><surname>Carlson</surname><given-names>M. L.</given-names></name></person-group> (<year>2017</year>) <article-title>The sound quality of cochlear
+implants: Studies with single-sided deaf patients</article-title>.
+<source>Otology &#x00026; Neurotology</source>
+<volume>38</volume>(<issue>8</issue>): <fpage>e268</fpage>&#x02013;<lpage>e273</lpage>.
+<comment>doi:10.1097/MAO.0000000000001449</comment>.<pub-id pub-id-type="pmid">28806337</pub-id></mixed-citation></ref><ref id="bibr10-2331216519866029"><mixed-citation publication-type="other"><comment>Dudley, H. (1939). The automatic
+synthesis of speech. <italic>Proceedings of the National Academy of Sciences
+of the United States of America</italic>, <italic>25</italic>(7),
+377&#x02013;383. doi: 10.1073/pnas.25.7.377</comment>.</mixed-citation></ref><ref id="bibr11-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Faulkner</surname><given-names>A.</given-names></name><name><surname>Rosen</surname><given-names>S.</given-names></name><name><surname>Wilkinson</surname><given-names>L.</given-names></name></person-group> (<year>2001</year>) <article-title>Effects of the number of
+channels and speech-to-noise ratio on rate of connected discourse tracking
+through a simulated cochlear implant speech processor</article-title>.
+<source>Ear and Hearing</source>
+<volume>22</volume>(<issue>5</issue>): <fpage>431</fpage>&#x02013;<lpage>438</lpage>.
+<comment>doi:10.1097/00003446-200110000-00007</comment>.<pub-id pub-id-type="pmid">11605950</pub-id></mixed-citation></ref><ref id="bibr12-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Firszt</surname><given-names>J. B.</given-names></name><name><surname>Holden</surname><given-names>L. K.</given-names></name><name><surname>Reeder</surname><given-names>R. M.</given-names></name><name><surname>Waltzman</surname><given-names>S. B.</given-names></name><name><surname>Arndt</surname><given-names>S.</given-names></name></person-group> (<year>2012</year>) <article-title>Auditory abilities after
+cochlear implantation in adults with unilateral deafness: A pilot
+study</article-title>. <source>Otology &#x00026; Neurotology</source>
+<volume>33</volume>(<issue>8</issue>): <fpage>1339</fpage>&#x02013;<lpage>1346</lpage>.
+<comment>doi:10.1097/MAO.0b013e318268d52d</comment>.<pub-id pub-id-type="pmid">22935813</pub-id></mixed-citation></ref><ref id="bibr14-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Friesen</surname><given-names>L. M.</given-names></name><name><surname>Shannon</surname><given-names>R. V.</given-names></name><name><surname>Baskent</surname><given-names>D.</given-names></name><name><surname>Wang</surname><given-names>X.</given-names></name></person-group> (<year>2001</year>) <article-title>Speech recognition in noise
+as a function of the number of spectral channels: Comparison of acoustic
+hearing and cochlear implants</article-title>. <source>The Journal of the
+Acoustical Society of America</source>
+<volume>110</volume>(<issue>2</issue>): <fpage>1150</fpage>&#x02013;<lpage>1163</lpage>.
+<comment>doi:10.1121/1.1381538</comment>.<pub-id pub-id-type="pmid">11519582</pub-id></mixed-citation></ref><ref id="bibr15-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fu</surname><given-names>Q. J.</given-names></name><name><surname>Shannon</surname><given-names>R. V.</given-names></name></person-group> (<year>1999</year>a) <article-title>Effects of electrode
+configuration and frequency allocation on vowel recognition with the
+Nucleus-22 cochlear implant</article-title>. <source>Ear and
+Hearing</source>
+<volume>20</volume>(<issue>4</issue>): <fpage>332</fpage>&#x02013;<lpage>344</lpage>.
+<comment>doi:10.1097/00003446-199908000-00006</comment>.<pub-id pub-id-type="pmid">10466569</pub-id></mixed-citation></ref><ref id="bibr16-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fu</surname><given-names>Q. J.</given-names></name><name><surname>Shannon</surname><given-names>R. V.</given-names></name></person-group> (<year>1999</year>b) <article-title>Recognition of spectrally
+degraded and frequency-shifted vowels in acoustic and electric
+hearing</article-title>. <source>The Journal of the Acoustical Society of
+America</source>
+<volume>105</volume>(<issue>3</issue>): <fpage>1889</fpage>&#x02013;<lpage>1900</lpage>.
+<comment>doi:10.1121/1.426725</comment>.<pub-id pub-id-type="pmid">10089611</pub-id></mixed-citation></ref><ref id="bibr17-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fu</surname><given-names>Q. J.</given-names></name><name><surname>Galvin</surname><given-names>J. J.</given-names></name></person-group> (<year>2003</year>) <article-title>The effects of short-term
+training for spectrally mismatched noiseband speech</article-title>.
+<source>The Journal of the Acoustical Society of America</source>
+<volume>113</volume>(<issue>2</issue>): <fpage>1065</fpage>&#x02013;<lpage>1072</lpage>.
+<comment>doi:10.1121/1.1537708</comment>.<pub-id pub-id-type="pmid">12597199</pub-id></mixed-citation></ref><ref id="bibr72-2331216519866029"><mixed-citation publication-type="other"><comment>Fu, Q.-J., Nogaki, G., &#x00026;
+Galvin, J. J. (2005). Auditory Training with Spectrally Shifted Speech:
+Implications for Cochlear Implant Patient Auditory Rehabilitation.
+Journal of the Association for Research in
+Otolaryngology , 6 (2), 180&#x02013;189. </comment><pub-id pub-id-type="doi">10.1007/s10162-005-5061-6</pub-id>.</mixed-citation></ref><ref id="bibr18-2331216519866029"><mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Gifford</surname><given-names>R. H.</given-names></name></person-group> (<year>2013</year>) <source>Cochlear implant patient assessment:
+Evaluation of candidacy, performance, and outcomes</source>,
+<publisher-loc>San Diego, CA</publisher-loc>: <publisher-name>Plural
+Publishing</publisher-name>.</mixed-citation></ref><ref id="bibr19-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Giraud</surname><given-names>A. L.</given-names></name><name><surname>Price</surname><given-names>C. J.</given-names></name><name><surname>Graham</surname><given-names>J. M.</given-names></name><name><surname>Frackowiak</surname><given-names>R. S.</given-names></name></person-group> (<year>2001</year>) <article-title>Functional plasticity of
+languagerelated brain areas after cochlear implantation</article-title>.
+<source>Brain: A Journal of Neurology</source>
+<volume>124</volume>(<issue>Pt 7</issue>):
+<fpage>1307</fpage>&#x02013;<lpage>1316</lpage>.
+<comment>doi:10.1093/brain/124.7.1307</comment>.<pub-id pub-id-type="pmid">11408326</pub-id></mixed-citation></ref><ref id="bibr20-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Giraud</surname><given-names>A. L.</given-names></name><name><surname>Truy</surname><given-names>E.</given-names></name></person-group> (<year>2002</year>) <article-title>The contribution of visual
+areas to speech comprehension: A PET study in cochlear implants patients and
+normal-hearing subjects</article-title>. <source>Neuropsychologia</source>
+<volume>40</volume>(<issue>9</issue>): <fpage>1562</fpage>&#x02013;<lpage>1569</lpage>.
+<comment>doi:10.1016/S0028-3932(02)00023-4</comment>.<pub-id pub-id-type="pmid">11985837</pub-id></mixed-citation></ref><ref id="bibr21-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Grange</surname><given-names>J. A.</given-names></name><name><surname>Culling</surname><given-names>J. F.</given-names></name><name><surname>Harris</surname><given-names>N. S. L.</given-names></name><name><surname>Bergfeld</surname><given-names>S.</given-names></name></person-group> (<year>2017</year>) <article-title>Cochlear implant simulator
+with independent representation of the full spiral ganglion</article-title>.
+<source>The Journal of the Acoustical Society of America</source>
+<volume>142</volume>(<issue>5</issue>): <fpage>EL484</fpage>
+<comment>doi:10.1121/1.5009602</comment>.<pub-id pub-id-type="pmid">29195445</pub-id></mixed-citation></ref><ref id="bibr22-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hilkhuysen</surname><given-names>G.</given-names></name><name><surname>Gaubitch</surname><given-names>N.</given-names></name><name><surname>Brookes</surname><given-names>M.</given-names></name><name><surname>Huckvale</surname><given-names>M.</given-names></name></person-group> (<year>2012</year>) <article-title>Effects of noise suppression
+on intelligibility: Dependency on signal-to-noise ratios a</article-title>.
+<source>The Journal of the Acoustical Society of America</source>
+<volume>131</volume>(<issue>1</issue>): <fpage>531</fpage>&#x02013;<lpage>539</lpage>.
+<comment>doi:10.1121/1.3665996</comment>.<pub-id pub-id-type="pmid">22280614</pub-id></mixed-citation></ref><ref id="bibr23-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hilkhuysen</surname><given-names>G.</given-names></name><name><surname>Macherey</surname><given-names>O.</given-names></name></person-group> (<year>2014</year>) <article-title>Optimizing pulse-spreading
+harmonic complexes to minimize intrinsic modulations after auditory
+filtering a</article-title>. <source>The Journal of the Acoustical Society
+of America</source>
+<volume>136</volume>(<issue>3</issue>): <fpage>1281</fpage>&#x02013;<lpage>1294</lpage>.
+<comment>doi:10.1121/1.4890642</comment>.<pub-id pub-id-type="pmid">25190401</pub-id></mixed-citation></ref><ref id="bibr24-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>James</surname><given-names>C. J.</given-names></name><name><surname>Karoui</surname><given-names>C.</given-names></name><name><surname>Laborde</surname><given-names>M.-L.</given-names></name><name><surname>Lepage</surname><given-names>B.</given-names></name><name><surname>Molinier</surname><given-names>C.-&#x000c9;.</given-names></name><name><surname>Tartayre</surname><given-names>M.</given-names></name><name><surname>Fraysse</surname><given-names>B.</given-names></name></person-group> (<year>2018</year>) <article-title>Early sentence recognition in
+adult cochlear implant users</article-title>. <source>Ear and
+Hearing</source>
+<volume>40</volume>: <fpage>905</fpage>&#x02013;<lpage>917</lpage>.
+<comment>doi:10.1097/AUD.0000000000000670</comment>.</mixed-citation></ref><ref id="bibr25-2331216519866029"><mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Javel</surname><given-names>E.</given-names></name></person-group> (<year>1990</year>) <article-title>Acoustic and electrical
+encoding of temporal information</article-title>. In: <person-group person-group-type="editor"><name><surname>Miller</surname><given-names>J. M.</given-names></name><name><surname>Spelman</surname><given-names>F. A.</given-names></name></person-group> (eds) <source>Cochlear implants: Models of the electrically
+stimulated ear</source>, <publisher-loc>New York, NY</publisher-loc>:
+<publisher-name>Springer</publisher-name>, pp.
+<fpage>247</fpage>&#x02013;<lpage>295</lpage>.
+<comment>doi:10.1007/978-1-4612-3256-8_17</comment>.</mixed-citation></ref><ref id="bibr26-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kan</surname><given-names>A.</given-names></name><name><surname>Litovsky</surname><given-names>R. Y.</given-names></name><name><surname>Goupell</surname><given-names>M. J.</given-names></name></person-group> (<year>2015</year>) <article-title>Effects of interaural
+pitch-matching and auditory image centering on binaural sensitivity in
+cochlear-implant users</article-title>. <source>Ear and Hearing</source>
+<volume>36</volume>(<issue>3</issue>): <fpage>e62</fpage>.<pub-id pub-id-type="pmid">25565660</pub-id></mixed-citation></ref><ref id="bibr27-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kan</surname><given-names>A.</given-names></name><name><surname>Stoelb</surname><given-names>C.</given-names></name><name><surname>Litovsky</surname><given-names>R. Y.</given-names></name><name><surname>Goupell</surname><given-names>M. J.</given-names></name></person-group> (<year>2013</year>) <article-title>Effect of mismatched
+place-of-stimulation on binaural fusion and lateralization in bilateral
+cochlear-implant users</article-title>. <source>The Journal of the
+Acoustical Society of America</source>
+<volume>134</volume>(<issue>4</issue>): <fpage>2923</fpage>&#x02013;<lpage>2936</lpage>.
+<comment>doi:10.1121/1.4820889</comment>.<pub-id pub-id-type="pmid">24116428</pub-id></mixed-citation></ref><ref id="bibr28-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kim</surname><given-names>N.</given-names></name><name><surname>Steele</surname><given-names>C. R.</given-names></name><name><surname>Puria</surname><given-names>S.</given-names></name></person-group> (<year>2014</year>) <article-title>The importance of the hook
+region of the cochlea for boneconduction hearing</article-title>.
+<source>Biophysical Journal</source>
+<volume>107</volume>(<issue>1</issue>): <fpage>233</fpage>&#x02013;<lpage>241</lpage>.
+<comment>doi:10.1016/j.bpj.2014.04.052</comment>.<pub-id pub-id-type="pmid">24988357</pub-id></mixed-citation></ref><ref id="bibr29-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kong</surname><given-names>Y.-Y.</given-names></name><name><surname>Carlyon</surname><given-names>R. P.</given-names></name></person-group> (<year>2010</year>) <article-title>Temporal pitch perception at
+high rates in cochlear implants</article-title>. <source>The Journal of the
+Acoustical Society of America</source>
+<volume>127</volume>(<issue>5</issue>): <fpage>3114</fpage>&#x02013;<lpage>3123</lpage>.
+<comment>doi:10.1121/1.3372713</comment>.<pub-id pub-id-type="pmid">21117760</pub-id></mixed-citation></ref><ref id="bibr30-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Landsberger</surname><given-names>D. M.</given-names></name><name><surname>Svrakic</surname><given-names>M.</given-names></name><name><surname>Roland</surname><given-names>J. T.</given-names><suffix>Jr</suffix></name><name><surname>Svirsky</surname><given-names>M.</given-names></name></person-group> (<year>2014</year>) <article-title>The relationship between
+insertion angles, default frequency allocations, and spiral ganglion place
+pitch in cochlear implants</article-title>. <source>Ear and Hearing</source>
+<volume>36</volume>(<issue>5</issue>): <fpage>e207</fpage>&#x02013;<lpage>e213</lpage>.
+<comment>doi:10.1097/aud.0000000000000163</comment>.</mixed-citation></ref><ref id="bibr31-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Laneau</surname><given-names>J.</given-names></name><name><surname>Wouters</surname><given-names>J.</given-names></name></person-group> (<year>2004</year>) <article-title>Multichannel place pitch
+sensitivity in cochlear implant recipients</article-title>. <source>Journal
+of the Association for Research in Otolaryngology: JARO</source>
+<volume>5</volume>(<issue>3</issue>): <fpage>285</fpage>&#x02013;<lpage>294</lpage>.
+<comment>doi:10.1007/s10162-004-4049-y</comment>.<pub-id pub-id-type="pmid">15148651</pub-id></mixed-citation></ref><ref id="bibr32-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lazard</surname><given-names>D. S.</given-names></name><name><surname>Vincent</surname><given-names>C.</given-names></name><name><surname>Venail</surname><given-names>F.</given-names></name><name><surname>Van de Heyning</surname><given-names>P.</given-names></name><name><surname>Truy</surname><given-names>E.</given-names></name><name><surname>Sterkers</surname><given-names>O.</given-names></name><name><surname>Blamey</surname><given-names>P. J.</given-names></name></person-group> (<year>2012</year>) <article-title>Pre-, per- and postoperative
+factors affecting performance of postlinguisticaly deaf adults using
+cochlear implants: A new conceptual model over time</article-title>.
+<source>PLoS ONE</source>
+<volume>7</volume>(<issue>11</issue>): <fpage>e48739</fpage>
+<comment>doi:10.1371/journal.pone.0048739</comment>.<pub-id pub-id-type="pmid">23152797</pub-id></mixed-citation></ref><ref id="bibr33-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>T.</given-names></name><name><surname>Fu</surname><given-names>Q.-J.</given-names></name></person-group> (<year>2010</year>) <article-title>Effects of spectral shifting
+on speech perception in noise</article-title>. <source>Hearing
+Research</source>
+<volume>270</volume>(<issue>1&#x02013;2</issue>): <fpage>81</fpage>&#x02013;<lpage>88</lpage>.
+<comment>doi:10.1016/j.heares.2010.09.005</comment>.<pub-id pub-id-type="pmid">20868733</pub-id></mixed-citation></ref><ref id="bibr34-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>T.</given-names></name><name><surname>Galvin</surname><given-names>J. J.</given-names></name><name><surname>Fu</surname><given-names>Q.-J.</given-names></name></person-group> (<year>2009</year>) <article-title>Interactions between
+unsupervised learning and the degree of spectral mismatch on short-term
+perceptual adaptation to spectrally-shifted speech</article-title>.
+<source>Ear and Hearing</source>
+<volume>30</volume>(<issue>2</issue>): <fpage>238</fpage>&#x02013;<lpage>249</lpage>.
+<comment>doi:10.1097/AUD.0b013e31819769ac</comment>.<pub-id pub-id-type="pmid">19194293</pub-id></mixed-citation></ref><ref id="bibr35-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Loizou</surname><given-names>P. C.</given-names></name><name><surname>Dorman</surname><given-names>M.</given-names></name><name><surname>Tu</surname><given-names>Z.</given-names></name></person-group> (<year>1999</year>) <article-title>On the number of channels
+needed to understand speech</article-title>. <source>The Journal of the
+Acoustical Society of America</source>
+<volume>106</volume>(<issue>4 Pt 1</issue>):
+<fpage>2097</fpage>&#x02013;<lpage>2103</lpage>.
+<comment>doi:10.1121/1.427954</comment>.<pub-id pub-id-type="pmid">10530032</pub-id></mixed-citation></ref><ref id="bibr36-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Long</surname><given-names>C. J.</given-names></name><name><surname>Eddington</surname><given-names>D. K.</given-names></name><name><surname>Colburn</surname><given-names>H. S.</given-names></name><name><surname>Rabinowitz</surname><given-names>W. M.</given-names></name></person-group> (<year>2003</year>) <article-title>Binaural sensitivity as a
+function of interaural electrode position with a bilateral cochlear implant
+user</article-title>. <source>The Journal of the Acoustical Society of
+America</source>
+<volume>114</volume>(<issue>3</issue>): <fpage>1565</fpage>&#x02013;<lpage>1574</lpage>.
+<comment>doi:10.1121/1.1603765</comment>.<pub-id pub-id-type="pmid">14514210</pub-id></mixed-citation></ref><ref id="bibr37-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Long</surname><given-names>C. J.</given-names></name><name><surname>Holden</surname><given-names>T. A.</given-names></name><name><surname>McClelland</surname><given-names>G. H.</given-names></name><name><surname>Parkinson</surname><given-names>W. S.</given-names></name><name><surname>Shelton</surname><given-names>C.</given-names></name><name><surname>Kelsall</surname><given-names>D. C.</given-names></name><name><surname>Smith</surname><given-names>Z. M.</given-names></name></person-group> (<year>2014</year>) <article-title>Examining the electro-neural
+interface of cochlear implant users using psychophysics, CT scans, and
+speech understanding</article-title>. <source>Journal of the Association for
+Research in Otolaryngology: JARO</source>
+<volume>15</volume>(<issue>2</issue>): <fpage>293</fpage>&#x02013;<lpage>304</lpage>.
+<comment>doi:10.1007/s10162-013-0437-5</comment>.<pub-id pub-id-type="pmid">24477546</pub-id></mixed-citation></ref><ref id="bibr38-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Luts</surname><given-names>H.</given-names></name><name><surname>Boon</surname><given-names>E.</given-names></name><name><surname>Wable</surname><given-names>J.</given-names></name><name><surname>Wouters</surname><given-names>J.</given-names></name></person-group> (<year>2008</year>) <article-title>FIST: A French sentence test
+for speech intelligibility in noise</article-title>. <source>International
+Journal of Audiology</source>
+<volume>47</volume>(<issue>6</issue>): <fpage>373</fpage>&#x02013;<lpage>374</lpage>.
+<comment>doi:10.1080/14992020801887786</comment>.<pub-id pub-id-type="pmid">18569114</pub-id></mixed-citation></ref><ref id="bibr39-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ma</surname><given-names>N.</given-names></name><name><surname>Morris</surname><given-names>S.</given-names></name><name><surname>Kitterick</surname><given-names>P. T.</given-names></name></person-group> (<year>2016</year>) <article-title>Benefits to speech perception
+in noise from the binaural integration of electric and acoustic signals in
+simulated unilateral deafness</article-title>. <source>Ear and
+Hearing</source>
+<volume>37</volume>(<issue>3</issue>): <fpage>248</fpage>&#x02013;<lpage>259</lpage>.
+<comment>doi:10.1097/AUD.0000000000000252</comment>.<pub-id pub-id-type="pmid">27116049</pub-id></mixed-citation></ref><ref id="bibr40-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Marx</surname><given-names>M.</given-names></name><name><surname>Risi</surname><given-names>F.</given-names></name><name><surname>Escud&#x000e9;</surname><given-names>B.</given-names></name><name><surname>Durmo</surname><given-names>I.</given-names></name><name><surname>James</surname><given-names>C.</given-names></name><name><surname>Lauwers</surname><given-names>F.</given-names></name><name><surname>Fraysse</surname><given-names>B.</given-names></name></person-group> (<year>2014</year>) <article-title>Reliability of cone beam
+computed tomography in scalar localization of the electrode array: A radio
+histological study</article-title>. <source>European Archives of
+Oto-Rhino-Laryngology: Official Journal of the European Federation of
+Oto-Rhino-Laryngological Societies (EUFOS): Affiliated with the German
+Society for OtoRhino-Laryngology&#x02014;Head and Neck Surgery</source>
+<volume>271</volume>(<issue>4</issue>): <fpage>673</fpage>&#x02013;<lpage>679</lpage>.
+<comment>doi:10.1007/s00405-013-2448-6</comment>.</mixed-citation></ref><ref id="bibr41-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Marx</surname><given-names>M.</given-names></name><name><surname>Costa</surname><given-names>N.</given-names></name><name><surname>Lepage</surname><given-names>B.</given-names></name><name><surname>Taoui</surname><given-names>S.</given-names></name><name><surname>Molinier</surname><given-names>L.</given-names></name><name><surname>Deguine</surname><given-names>O.</given-names></name><name><surname>Fraysse</surname><given-names>B.</given-names></name></person-group> (<year>2019</year>) <article-title>Cochlear implantation as a
+treatment for single-sided deafness and asymmetric hearing loss: A
+randomized controlled evaluation of cost-utility</article-title>.
+<source>BMC Ear, Nose, and Throat Disorders</source>
+<fpage>19</fpage>
+<comment>doi:10.1186/s12901-019-0066-7</comment>.</mixed-citation></ref><ref id="bibr42-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McDermott</surname><given-names>H.</given-names></name><name><surname>Sucher</surname><given-names>C.</given-names></name><name><surname>Simpson</surname><given-names>A.</given-names></name></person-group> (<year>2009</year>) <article-title>Electro-acoustic
+stimulation</article-title>. <source>Audiology and Neurotology</source>
+<volume>14</volume>(<issue>1</issue>): <fpage>2</fpage>&#x02013;<lpage>7</lpage>.
+<comment>doi:10.1159/000206489</comment>.<pub-id pub-id-type="pmid">19390169</pub-id></mixed-citation></ref><ref id="bibr43-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mertens</surname><given-names>G.</given-names></name><name><surname>Kleine Punte</surname><given-names>A.</given-names></name><name><surname>De Bodt</surname><given-names>M.</given-names></name><name><surname>Van de Heyning</surname><given-names>P.</given-names></name></person-group> (<year>2015</year>) <article-title>Binaural auditory outcomes in
+patients with postlingual profound unilateral hearing loss: 3 Years after
+cochlear implantation</article-title>. <source>Audiology and
+Neurotology</source>
+<volume>20</volume>(<issue>1</issue>): <fpage>67</fpage>&#x02013;<lpage>72</lpage>.
+<comment>doi:10.1159/000380751</comment>.<pub-id pub-id-type="pmid">25997790</pub-id></mixed-citation></ref><ref id="bibr44-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mesnildrey</surname><given-names>Q.</given-names></name><name><surname>Hilkhuysen</surname><given-names>G.</given-names></name><name><surname>Macherey</surname><given-names>O.</given-names></name></person-group> (<year>2016</year>) <article-title>Pulse-spreading harmonic
+complex as an alternative carrier for vocoder simulations of cochlear
+implants</article-title>. <source>The Journal of the Acoustical Society of
+America</source>
+<volume>139</volume>(<issue>2</issue>): <fpage>986</fpage>&#x02013;<lpage>991</lpage>.
+<comment>doi:10.1121/1.4941451</comment>.<pub-id pub-id-type="pmid">26936577</pub-id></mixed-citation></ref><ref id="bibr45-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mesnildrey</surname><given-names>Q.</given-names></name><name><surname>Macherey</surname><given-names>O.</given-names></name></person-group> (<year>2015</year>) <article-title>Simulating the dual-peak
+excitation pattern produced by bipolar stimulation of a cochlear implant:
+Effects on speech intelligibility</article-title>. <source>Hearing
+Research</source>
+<volume>319</volume>: <fpage>32</fpage>&#x02013;<lpage>47</lpage>.
+<comment>doi:10.1016/j.heares.2014.11.001</comment>.<pub-id pub-id-type="pmid">25449010</pub-id></mixed-citation></ref><ref id="bibr46-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Oxenham</surname><given-names>A. J.</given-names></name><name><surname>Kreft</surname><given-names>H. A.</given-names></name></person-group> (<year>2014</year>) <article-title>Speech perception in tones
+and noise via cochlear implants reveals influence of spectral resolution on
+temporal processing</article-title>. <source>Trends in Hearing</source>
+<volume>18</volume>: <fpage>233121651455378</fpage>
+<comment>doi:10.1177/2331216514553783</comment>.</mixed-citation></ref><ref id="bibr47-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Peters</surname><given-names>J. P. M.</given-names></name><name><surname>Wendrich</surname><given-names>A. W.</given-names></name><name><surname>van Eijl</surname><given-names>R. H. M.</given-names></name><name><surname>Rhebergen</surname><given-names>K. S.</given-names></name><name><surname>Versnel</surname><given-names>H.</given-names></name><name><surname>Grolman</surname><given-names>W.</given-names></name></person-group> (<year>2018</year>) <article-title>The sound of a cochlear
+implant investigated in patients with single-sided deafness and a cochlear
+implant</article-title>. <source>Otology &#x00026; Neurotology</source>
+<volume>39</volume>(<issue>6</issue>): <fpage>707</fpage>
+<comment>doi:10.1097/MAO.0000000000001821</comment>.<pub-id pub-id-type="pmid">29889780</pub-id></mixed-citation></ref><ref id="bibr48-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Poulton</surname><given-names>E. C.</given-names></name></person-group> (<year>1979</year>) <article-title>Models for biases in judging
+sensory magnitude</article-title>. <source>Psychological Bulletin</source>
+<volume>86</volume>(<issue>4</issue>): <fpage>777</fpage>&#x02013;<lpage>803</lpage>.
+<comment>doi:10.1037/0033-2909.86.4.777</comment>.<pub-id pub-id-type="pmid">482484</pub-id></mixed-citation></ref><ref id="bibr73-2331216519866029"><mixed-citation publication-type="other"><comment>Reiss, L. A. J., Turner, C. W.,
+Erenberg, S. R., &#x00026; Gantz, B. J. (2007). Changes in Pitch with a Cochlear
+Implant Over Time. JARO: Journal of the Association for Research in
+Otolaryngology , 8 (2), 241&#x02013;257. </comment><pub-id pub-id-type="doi">10.1007/s10162-007-0077-8</pub-id>.</mixed-citation></ref><ref id="bibr49-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Reiss</surname><given-names>L. A. J.</given-names></name><name><surname>Gantz</surname><given-names>B. J.</given-names></name><name><surname>Turner</surname><given-names>C. W.</given-names></name></person-group> (<year>2008</year>) <article-title>Cochlear implant speech
+processor frequency allocations may influence pitch
+perception</article-title>. <source>Otology &#x00026; Neurotology: Official
+Publication of the American Otological Society, American Neurotology Society
+[and] European Academy of Otology and Neurotology</source>
+<volume>29</volume>(<issue>2</issue>): <fpage>160</fpage>&#x02013;<lpage>167</lpage>.
+<comment>doi:10.1097/mao.0b013e31815aedf4</comment>.</mixed-citation></ref><ref id="bibr50-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Reiss</surname><given-names>L. A. J.</given-names></name><name><surname>Lowder</surname><given-names>M. W.</given-names></name><name><surname>Karsten</surname><given-names>S. A.</given-names></name><name><surname>Turner</surname><given-names>C. W.</given-names></name><name><surname>Gantz</surname><given-names>B. J.</given-names></name></person-group> (<year>2011</year>) <article-title>Effects of extreme tonotopic
+mismatches between bilateral cochlear implants on electric pitch perception:
+A case study</article-title>. <source>Ear and Hearing</source>
+<volume>32</volume>(<issue>4</issue>): <fpage>536</fpage>&#x02013;<lpage>540</lpage>.
+<comment>doi:10.1097/AUD.0b013e31820c81b0</comment>.<pub-id pub-id-type="pmid">21307775</pub-id></mixed-citation></ref><ref id="bibr51-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Reiss</surname><given-names>L. A. J.</given-names></name><name><surname>Perreau</surname><given-names>A. E.</given-names></name><name><surname>Turner</surname><given-names>C. W.</given-names></name></person-group> (<year>2012</year>) <article-title>Effects of lower
+frequency-to-electrode allocations on speech and pitch perception with the
+hybrid short-electrode cochlear implant</article-title>. <source>Audiology
+&#x00026; Neuro-Otology</source>
+<volume>17</volume>(<issue>6</issue>): <fpage>357</fpage>&#x02013;<lpage>372</lpage>.
+<comment>doi:10.1159/000341165</comment>.<pub-id pub-id-type="pmid">22907151</pub-id></mixed-citation></ref><ref id="bibr52-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Reiss</surname><given-names>L. A. J.</given-names></name><name><surname>Turner</surname><given-names>C. W.</given-names></name><name><surname>Karsten</surname><given-names>S. A.</given-names></name><name><surname>Gantz</surname><given-names>B. J.</given-names></name></person-group> (<year>2014</year>) <article-title>Plasticity in human pitch
+perception induced by tonotopically mismatched electro-acoustic
+stimulation</article-title>. <source>Neuroscience</source>
+<volume>256</volume>: <fpage>43</fpage>&#x02013;<lpage>52</lpage>.
+<comment>doi:10.1016/j.neuroscience.2013.10.024</comment>.<pub-id pub-id-type="pmid">24157931</pub-id></mixed-citation></ref><ref id="bibr53-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rosen</surname><given-names>S.</given-names></name><name><surname>Faulkner</surname><given-names>A.</given-names></name><name><surname>Wilkinson</surname><given-names>L.</given-names></name></person-group> (<year>1999</year>) <article-title>Adaptation by normal
+listeners to upward spectral shifts of speech: Implications for cochlear
+implants</article-title>. <source>The Journal of the Acoustical Society of
+America</source>
+<volume>106</volume>(<issue>6</issue>): <fpage>3629</fpage>&#x02013;<lpage>3636</lpage>.
+<comment>doi:10.1121/1.428215</comment>.<pub-id pub-id-type="pmid">10615701</pub-id></mixed-citation></ref><ref id="bibr54-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rouger</surname><given-names>J.</given-names></name><name><surname>Lagleyre</surname><given-names>S.</given-names></name><name><surname>D&#x000e9;monet</surname><given-names>J.-F.</given-names></name><name><surname>Fraysse</surname><given-names>B.</given-names></name><name><surname>Deguine</surname><given-names>O.</given-names></name><name><surname>Barone</surname><given-names>P.</given-names></name></person-group> (<year>2012</year>) <article-title>Evolution of crossmodal
+reorganization of the voice area in cochlear-implanted deaf
+patients</article-title>. <source>Human Brain Mapping</source>
+<volume>33</volume>(<issue>8</issue>): <fpage>1929</fpage>&#x02013;<lpage>1940</lpage>.
+<comment>doi:10.1002/hbm.21331</comment>.<pub-id pub-id-type="pmid">21557388</pub-id></mixed-citation></ref><ref id="bibr55-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shannon</surname><given-names>R. V.</given-names></name><name><surname>Galvin</surname><given-names>J. J.</given-names></name><name><surname>Baskent</surname><given-names>D.</given-names></name></person-group> (<year>2002</year>) <article-title>Holes in
+hearing</article-title>. <source>Journal of the Association for Research in
+Otolaryngology: JARO</source>
+<volume>3</volume>(<issue>2</issue>): <fpage>185</fpage>&#x02013;<lpage>199</lpage>.
+<comment>doi:10.1007/s101620020021</comment>.<pub-id pub-id-type="pmid">12162368</pub-id></mixed-citation></ref><ref id="bibr56-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Souza</surname><given-names>P.</given-names></name><name><surname>Rosen</surname><given-names>S.</given-names></name></person-group> (<year>2009</year>) <article-title>Effects of envelope bandwidth
+on the intelligibility of sine- and noisevocoded speech</article-title>.
+<source>The Journal of the Acoustical Society of America</source>
+<volume>126</volume>(<issue>2</issue>): <fpage>792</fpage>&#x02013;<lpage>805</lpage>.
+<comment>doi:10.1121/1.3158835</comment>.<pub-id pub-id-type="pmid">19640044</pub-id></mixed-citation></ref><ref id="bibr57-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Stakhovskaya</surname><given-names>O.</given-names></name><name><surname>Sridhar</surname><given-names>D.</given-names></name><name><surname>Bonham</surname><given-names>B. H.</given-names></name><name><surname>Leake</surname><given-names>P. A.</given-names></name></person-group> (<year>2007</year>) <article-title>Frequency map for the human
+cochlear spiral ganglion: Implications for cochlear
+implants</article-title>. <source>Journal of the Association for Research in
+Otolaryngology</source>
+<volume>8</volume>(<issue>2</issue>): <fpage>220</fpage>&#x02013;<lpage>233</lpage>.
+<comment>doi:10.1007/s10162-007-0076-9</comment>.<pub-id pub-id-type="pmid">17318276</pub-id></mixed-citation></ref><ref id="bibr58-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Stelzig</surname><given-names>Y.</given-names></name><name><surname>Jacob</surname><given-names>R.</given-names></name><name><surname>Mueller</surname><given-names>J.</given-names></name></person-group> (<year>2011</year>) <article-title>Preliminary speech
+recognition results after cochlear implantation in patients with unilateral
+hearing loss: A case series</article-title>. <source>Journal of Medical Case
+Reports</source>
+<volume>5</volume>(<issue>1</issue>): <fpage>343</fpage>
+<comment>doi:10.1186/1752-1947-5-343</comment>.<pub-id pub-id-type="pmid">21810235</pub-id></mixed-citation></ref><ref id="bibr60-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Strelnikov</surname><given-names>K.</given-names></name><name><surname>Rouger</surname><given-names>J.</given-names></name><name><surname>Demonet</surname><given-names>J.-F.</given-names></name><name><surname>Lagleyre</surname><given-names>S.</given-names></name><name><surname>Fraysse</surname><given-names>B.</given-names></name><name><surname>Deguine</surname><given-names>O.</given-names></name><name><surname>Barone</surname><given-names>P.</given-names></name></person-group> (<year>2010</year>) <article-title>Does brain activity at rest
+reflect adaptive strategies? evidence from speech processing after cochlear
+implantation</article-title>. <source>Cerebral Cortex</source>
+<volume>20</volume>(<issue>5</issue>): <fpage>1217</fpage>&#x02013;<lpage>1222</lpage>.
+<comment>doi:10.1093/cercor/bhp183</comment>.<pub-id pub-id-type="pmid">19805418</pub-id></mixed-citation></ref><ref id="bibr63-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tan</surname><given-names>C.-T.</given-names></name><name><surname>Martin</surname><given-names>B.</given-names></name><name><surname>Svirsky</surname><given-names>M.</given-names></name></person-group> (<year>2017</year>) <article-title>Pitch matching between
+electrical stimulation of a cochlear implant and acoustic stimuli presented
+to a contralateral ear with residual hearing</article-title>.
+<source>Journal of the American Academy of Audiology</source>
+<volume>28</volume>: <fpage>187</fpage>&#x02013;<lpage>199</lpage>.
+<comment>doi:10.3766/jaaa.15063</comment>.<pub-id pub-id-type="pmid">28277210</pub-id></mixed-citation></ref><ref id="bibr64-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>T&#x000e1;vora-Vieira</surname><given-names>D.</given-names></name><name><surname>Marino</surname><given-names>R.</given-names></name><name><surname>Krishnaswamy</surname><given-names>J.</given-names></name><name><surname>Kuthbutheen</surname><given-names>J.</given-names></name><name><surname>Rajan</surname><given-names>G. P.</given-names></name></person-group> (<year>2013</year>) <article-title>Cochlear implantation for
+unilateral deafness with and without tinnitus: A case series: Deafness
+duration and CI in Unilateral Deafness and Tinnitus</article-title>.
+<source>The Laryngoscope</source>
+<volume>123</volume>(<issue>5</issue>): <fpage>1251</fpage>&#x02013;<lpage>1255</lpage>.
+<comment>doi:10.1002/lary.23764</comment>.<pub-id pub-id-type="pmid">23553411</pub-id></mixed-citation></ref><ref id="bibr65-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Townshend</surname><given-names>B.</given-names></name><name><surname>Cotter</surname><given-names>N.</given-names></name><name><surname>Van Compernolle</surname><given-names>D.</given-names></name><name><surname>White</surname><given-names>R. L.</given-names></name></person-group> (<year>1987</year>) <article-title>Pitch perception by cochlear
+implant subjects</article-title>. <source>The Journal of the Acoustical
+Society of America</source>
+<volume>82</volume>(<issue>1</issue>): <fpage>106</fpage>&#x02013;<lpage>115</lpage>.
+<comment>doi:10.1121/1.395554</comment>.<pub-id pub-id-type="pmid">3624633</pub-id></mixed-citation></ref><ref id="bibr66-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Van Besouw</surname><given-names>R. M.</given-names></name><name><surname>Forrester</surname><given-names>L.</given-names></name><name><surname>Crowe</surname><given-names>N. D.</given-names></name><name><surname>Rowan</surname><given-names>D.</given-names></name></person-group> (<year>2013</year>) <article-title>Simulating the effect of
+interaural mismatch in the insertion depth of bilateral cochlear implants on
+speech perception</article-title>. <source>The Journal of the Acoustical
+Society of America</source>
+<volume>134</volume>(<issue>2</issue>): <fpage>1348</fpage>&#x02013;<lpage>1357</lpage>.
+<comment>doi:10.1121/1.4812272</comment>.<pub-id pub-id-type="pmid">23927131</pub-id></mixed-citation></ref><ref id="bibr67-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Van de Heyning</surname><given-names>P.</given-names></name><name><surname>Vermeire</surname><given-names>K.</given-names></name><name><surname>Diebl</surname><given-names>M.</given-names></name><name><surname>Nopp</surname><given-names>P.</given-names></name><name><surname>Anderson</surname><given-names>I.</given-names></name><name><surname>De Ridder</surname><given-names>D.</given-names></name></person-group> (<year>2008</year>) <article-title>Incapacitating unilateral
+tinnitus in single-sided deafness treated by cochlear
+implantation</article-title>. <source>The Annals of Otology, Rhinology, and
+Laryngology</source>
+<volume>117</volume>(<issue>9</issue>): <fpage>645</fpage>&#x02013;<lpage>652</lpage>.
+<comment>doi:10.1177/000348940811700903</comment>.</mixed-citation></ref><ref id="bibr68-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vermeire</surname><given-names>K.</given-names></name><name><surname>Van de Heyning</surname><given-names>P.</given-names></name></person-group> (<year>2008</year>) <article-title>Binaural hearing after
+cochlear implantation in subjects with unilateral sensorineural deafness and
+tinnitus</article-title>. <source>Audiology and Neurotology</source>
+<volume>14</volume>(<issue>3</issue>): <fpage>163</fpage>&#x02013;<lpage>171</lpage>.
+<comment>doi:10.1159/000171478</comment>.<pub-id pub-id-type="pmid">19005250</pub-id></mixed-citation></ref><ref id="bibr69-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wess</surname><given-names>J. M.</given-names></name><name><surname>Brungart</surname><given-names>D. S.</given-names></name><name><surname>Bernstein</surname><given-names>J. G.</given-names></name></person-group> (<year>2017</year>) <article-title>The effect of interaural
+mismatches on contralateral unmasking with single-sided
+vocoders</article-title>. <source>Ear and Hearing</source>
+<volume>38</volume>(<issue>3</issue>):
+<fpage>374</fpage>&#x02013;<lpage>386</lpage>.<pub-id pub-id-type="pmid">28002083</pub-id></mixed-citation></ref><ref id="bibr70-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yoon</surname><given-names>Y.-S.</given-names></name><name><surname>Li</surname><given-names>Y.</given-names></name><name><surname>Fu</surname><given-names>Q.-J.</given-names></name></person-group> (<year>2011</year>) <article-title>Speech recognition and
+acoustic features in combined electric and acoustic
+stimulation</article-title>. <source>Journal of Speech, Language, and
+Hearing Research: JSLHR</source>
+<volume>55</volume>: <fpage>105</fpage>&#x02013;<lpage>124</lpage>.
+<comment>doi:10.1044/1092-4388(2011/10-0325)</comment>.</mixed-citation></ref><ref id="bibr71-2331216519866029"><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yoon</surname><given-names>Y.-S.</given-names></name><name><surname>Shin</surname><given-names>Y.-R.</given-names></name><name><surname>Fu</surname><given-names>Q.-J.</given-names></name></person-group> (<year>2013</year>) <article-title>Binaural benefit with and
+without a bilateral spectral mismatch in acoustic simulations of cochlear
+implant processing</article-title>. <source>Ear and Hearing</source>
+<volume>34</volume>(<issue>3</issue>): <fpage>273</fpage>&#x02013;<lpage>279</lpage>.
+<comment>doi:10.1097/AUD.0b013e31826709e8</comment>.<pub-id pub-id-type="pmid">22968427</pub-id></mixed-citation></ref></ref-list></back></article>

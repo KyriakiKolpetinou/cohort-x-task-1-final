@@ -1,0 +1,835 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.3"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">EJNMMI Phys</journal-id><journal-id journal-id-type="iso-abbrev">EJNMMI Phys</journal-id><journal-title-group><journal-title>EJNMMI Physics</journal-title></journal-title-group><issn pub-type="epub">2197-7364</issn><publisher><publisher-name>Springer International Publishing</publisher-name><publisher-loc>Cham</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">40643752</article-id><article-id pub-id-type="pmc">12254103</article-id>
+<article-id pub-id-type="publisher-id">784</article-id><article-id pub-id-type="doi">10.1186/s40658-025-00784-x</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Effect of data-driven motion correction for respiratory movement on lesion detectability in PET-CT: a phantom study</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes" equal-contrib="yes"><contrib-id contrib-id-type="orcid">http://orcid.org/0009-0000-1012-9092</contrib-id><name><surname>de Winter</surname><given-names>Marloes A.</given-names></name><address><email>ma.de.winter1@antoniusziekenhuis.nl</email></address><xref ref-type="aff" rid="Aff1">1</xref></contrib><contrib contrib-type="author" equal-contrib="yes"><name><surname>Gevers</surname><given-names>Robin</given-names></name><xref ref-type="aff" rid="Aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Lavalaye</surname><given-names>Jules</given-names></name><xref ref-type="aff" rid="Aff2">2</xref></contrib><contrib contrib-type="author"><name><surname>Habraken</surname><given-names>Jan B. A.</given-names></name><xref ref-type="aff" rid="Aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Maspero</surname><given-names>Matteo</given-names></name><xref ref-type="aff" rid="Aff3">3</xref><xref ref-type="aff" rid="Aff4">4</xref></contrib><aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/01jvpb595</institution-id><institution-id institution-id-type="GRID">grid.415960.f</institution-id><institution-id institution-id-type="ISNI">0000 0004 0622 1269</institution-id><institution>Department of Medical Physics, </institution><institution>St Antonius Hospital, </institution></institution-wrap>Nieuwegein, The Netherlands </aff><aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/01jvpb595</institution-id><institution-id institution-id-type="GRID">grid.415960.f</institution-id><institution-id institution-id-type="ISNI">0000 0004 0622 1269</institution-id><institution>Department of Nuclear Medicines, </institution><institution>St Antonius Hospital, </institution></institution-wrap>Nieuwegein, The Netherlands </aff><aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/0575yy874</institution-id><institution-id institution-id-type="GRID">grid.7692.a</institution-id><institution-id institution-id-type="ISNI">0000 0000 9012 6352</institution-id><institution>Department of Radiotherapy, </institution><institution>University Medical Center Utrecht, </institution></institution-wrap>Utrecht, The Netherlands </aff><aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/0575yy874</institution-id><institution-id institution-id-type="GRID">grid.7692.a</institution-id><institution-id institution-id-type="ISNI">0000 0000 9012 6352</institution-id><institution>Computational Imaging Group for MR Diagnostics &#x00026; Therapy, </institution><institution>University Medical Center Utrecht, </institution></institution-wrap>Utrecht, The Netherlands </aff></contrib-group><pub-date pub-type="epub"><day>11</day><month>7</month><year>2025</year></pub-date><pub-date pub-type="pmc-release"><day>11</day><month>7</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2025</year></pub-date><volume>12</volume><elocation-id>68</elocation-id><history><date date-type="received"><day>11</day><month>4</month><year>2025</year></date><date date-type="accepted"><day>26</day><month>6</month><year>2025</year></date></history><permissions><copyright-statement>&#x000a9; The Author(s) 2025</copyright-statement><copyright-year>2025</copyright-year><license><ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>.</license-p></license></permissions><abstract id="Abs1"><sec><title>Purpose</title><p id="Par1">While data-driven motion correction (DDMC) techniques have proven to enhance the visibility of lesions affected by motion, their impact on overall detectability remains unclear. This study investigates whether DDMC improves lesion detectability in PET-CT using FDG-18F.</p></sec><sec><title>Method</title><p id="Par2">A moving platform simulated respiratory motion in a NEMA-IEC body phantom with varying amplitudes (0, 7, 10, 20, 30&#x000a0;mm) and target-to-background ratios (2, 5, 10.5). Scans were reconstructed with and without DDMC, and the spherical targets&#x02019; maximal and mean recovery coefficient (RC) and contrast-to-noise ratio (CNR) were measured.</p></sec><sec><title>Results</title><p id="Par3">DDMC results in higher RC values in the target spheres. CNR values increase for small, high-motion affected targets but decrease for larger spheres with smaller amplitudes. A sub-analysis shows that DDMC increases the contrast of the sphere along with a 36% increase in background noise.</p></sec><sec><title>Conclusion</title><p id="Par4">While DDMC significantly enhances contrast (RC), its impact on detectability (CNR) is less profound due to increased background noise. CNR improves for small targets with high motion amplitude, potentially enhancing the detectability of low-uptake lesions. Given that the increased background noise may reduce detectability for targets unaffected by motion, we suggest that DDMC reconstructions are used best in addition to non-DDMC reconstructions.</p></sec><sec><title>Supplementary Information</title><p>The online version contains supplementary material available at 10.1186/s40658-025-00784-x.</p></sec></abstract><kwd-group xml:lang="en"><title>Keywords</title><kwd>Positron emission tomography</kwd><kwd>Computed tomography</kwd><kwd>Motion correction</kwd><kwd>Artificial intelligence</kwd><kwd>Respiratory motion correction</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>issue-copyright-statement</meta-name><meta-value>&#x000a9; Springer Nature Switzerland AG 2025</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="Sec1"><title>Introduction</title><p id="Par5">PET-CT plays a pivotal role in oncology by providing valuable insights into initial cancer staging, assessment of therapeutic response, restaging, and longitudinal surveillance for recurrence [<xref ref-type="bibr" rid="CR1">1</xref>&#x02013;<xref ref-type="bibr" rid="CR3">3</xref>]. However, respiratory motion can hinder accurate lesion identification and assessment in PET-CT, affecting oncology diagnosis [<xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR5">5</xref>]. The impact of respiratory motion has become relatively more pronounced due to the improvement in resolution and sensitivity of the newest PET-CT systems [<xref ref-type="bibr" rid="CR6">6</xref>].</p><p id="Par6">In the last decade, vendors have proposed elastic motion correction (EMC) [<xref ref-type="bibr" rid="CR7">7</xref>, <xref ref-type="bibr" rid="CR8">8</xref>] and artificial intelligence (AI)-based solutions as deviceless motion correction techniques, improving lesion visibility [<xref ref-type="bibr" rid="CR9">9</xref>, <xref ref-type="bibr" rid="CR10">10</xref>]. Retrospective studies on oncological patients compared EMC methods like OncoFreeze (Siemens) and MotionFree (GE Healthcare) with device-based gating to ungated images. Standardized uptake value (SUV) is comparable for EMC and device-based gating, and increase SUV in comparison to ungated images, however the values for contrast-to-noise ratio decrease (CNR) [<xref ref-type="bibr" rid="CR4">4</xref>].</p><p id="Par7">Data-driven motion correction (DDMC) techniques incorporate previous motion correction techniques with AI, such as OncoFreeze AI (Siemens) [<xref ref-type="bibr" rid="CR11">11</xref>]. DDMC provides a novel solution for improving image analysis and lesion visualization in the presence of motion. DDMC is based on proprietary image-based anatomical landmark recognition [<xref ref-type="bibr" rid="CR11">11</xref>, <xref ref-type="bibr" rid="CR12">12</xref>], promising fast and robust respiratory motion estimation and correction. Considering the novelty of DDMC, clinical evaluation is crucial for their safe and effective use. Retrospective studies on patient lesions showed increased SUV for DDMC compared to no DDMC [<xref ref-type="bibr" rid="CR13">13</xref>], but found no additional diagnostic information [<xref ref-type="bibr" rid="CR14">14</xref>], although CNR was improved [<xref ref-type="bibr" rid="CR12">12</xref>]. The comparison between device-based gating to DDMC has also been made, and shows small absolute differences between the two, unlikely to be clinically relevant [<xref ref-type="bibr" rid="CR14">14</xref>]. However, it remains unclear whether DDMC enables the detection of lesions that would otherwise be missed.</p><p id="Par8">This research aims to investigate the impact of DDMC on the detectability of lesions affected by respiratory motion in PET-CT. A phantom study has been designed to characterize the impact of this novel motion correction approach in a controlled environment.</p></sec><sec id="Sec2"><title>Material and methods</title><p id="Par9">This study used the NEMA-IEC body phantom to modulate several situations [<xref ref-type="bibr" rid="CR15">15</xref>], with a comparable setup as used in the EARL IQ measurements [<xref ref-type="bibr" rid="CR16">16</xref>]. The phantom consists of a body phantom (18&#x000a0;cm length and 9.8 L) and an insert with six hollow spheres with sizes 0.5, 1.2, 2.6, 5.6, 11.5, and 26.5&#x000a0;mL or 10, 13, 17, 22, 28, and 37&#x000a0;mm inside diameter. The body phantom serves as the background and was filled with fluorine-18 (18F) with an activity of about 20&#x000a0;MBq in 9.7 L (2.0&#x000a0;kBq/mL). The spherical targets (0.5&#x02013;26.5&#x000a0;mL) were filled with three targets-to-background ratios (TBRs) of 2, 5, and 10.5.</p><p id="Par10">Respiratory motion was simulated by adapting a device initially designed for knee rehabilitation (Kinetec Spectra, Medical SOT BV, Losser, The Netherlands). The device was adapted to move the phantom on a 3&#x000a0;mm polymethylmethacrylate baseplate mounted on aluminum rails with amplitudes of 7, 10, 20, and 30&#x000a0;mm at a fixed speed of 0.75&#x000a0;cm/s, mimicking respiratory motion in the lung [<xref ref-type="bibr" rid="CR17">17</xref>]. The phantom was driven to cycle in the superior-inferior direction with a period of 4&#x000a0;s (Fig.&#x000a0;<xref rid="Fig1" ref-type="fig">1</xref>). A movie of the setup is included in Supplementary File 1. The scans were performed once for each TBR (2, 5 and 10.5) and amplitude (0, 7, 10, 20 and 30&#x000a0;mm).<fig id="Fig1"><label>Fig.&#x000a0;1</label><caption><p>Experimental setup consisting of PET-CT and the adapted Kinetec Spectra enabled motion of the baseplate where the NEMA/IEC body phantom is positioned</p></caption><graphic xlink:href="40658_2025_784_Fig1_HTML" id="MO1"/></fig></p><sec id="Sec3"><title>PET-CT protocol</title><p id="Par11">The phantom was scanned on a PET-CT with 4D gating capability (Vision BIOGRAPH 600, Siemens Healthineers, Erlangen, Germany). A 3D-PET/3D-CT protocol was adopted to simulate the most widely used and recommended clinical application protocol for the Vision Biograph 600. PET was 3D attenuation corrected using static and moving 3D-CT, and a PET was reconstructed with corresponding attenuation maps from 3D-CT with and without DDMC. CT had a 512&#x02009;&#x000d7;&#x02009;520 matrix size for a 50&#x000a0;cm transaxial FOV. The CT settings are 100&#x000a0;kV, and mA(s) are adjusted according to Siemens&#x02019; Care Dose 4D protocol. Following the CT, the 3D-PET data were acquired for 7&#x02013;8&#x000a0;min with a continuously moving bed position.</p><p id="Par12">PET was acquired with a matrix size of 440&#x02009;&#x000d7;&#x02009;440 for 50&#x000a0;cm transaxial FOV with 2&#x000a0;mm slice thickness and reconstructed using a point spread function modeling reconstruction (True X) with time-of-flight correction (TrueX&#x02009;+&#x02009;TOF&#x02009;=&#x02009;ultraHD PET) algorithm (4 subsets, five iterations, and 5&#x000a0;mm FWHM Gaussian post-filter). It was corrected for attenuation using the 3D-CT attenuation map in Hounsfield units (HU). The corrections for the relative scatter and random events were also incorporated into the reconstruction algorithm.</p><p id="Par13">EMC, part of the DDMC algorithm in OncoFreeze, starts with deriving a blurring kernel from the static whole body and HD Chest. Both have the same integral activity, but different brightness and motion blur are solved with mass preservation optical flow [<xref ref-type="bibr" rid="CR4">4</xref>]. Then, a motion-corrected image estimate is derived using iterative image reconstruction and the deblurring kernel. The AI part in DDMC derives respiratory waveforms from PET raw data using spectral analysis [<xref ref-type="bibr" rid="CR11">11</xref>, <xref ref-type="bibr" rid="CR18">18</xref>], where the total sum of pixel values within a region of interest is proportional to the motion amplitude [<xref ref-type="bibr" rid="CR11">11</xref>, <xref ref-type="bibr" rid="CR19">19</xref>].</p></sec><sec id="Sec4"><title>Measurements and parameters</title><p id="Par14">To investigate whether DDMC affects lesion detectability, the volume recovery coefficients (RC) and contrast-to-noise ratio (CNR) are calculated for the target spheres, TBR values, and motion amplitudes. RCs were determined on PET in the volume-of-interest (VOI) with the phantoms in static and dynamic mode using the following formula:<disp-formula id="Equ1"><label>1</label><alternatives><tex-math id="d33e330">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\text{RC} = \frac{{T}_{observed}/{B}_{mean}}{{T}_{in}/{B}_{in}}$$\end{document}</tex-math><mml:math id="d33e336" display="block"><mml:mrow><mml:mtext>RC</mml:mtext><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mrow><mml:mi mathvariant="italic">observed</mml:mi></mml:mrow></mml:msub><mml:mo stretchy="false">/</mml:mo><mml:msub><mml:mi>B</mml:mi><mml:mrow><mml:mi mathvariant="italic">mean</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mrow><mml:mi mathvariant="italic">in</mml:mi></mml:mrow></mml:msub><mml:mo stretchy="false">/</mml:mo><mml:msub><mml:mi>B</mml:mi><mml:mrow><mml:mi mathvariant="italic">in</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:mrow></mml:math><graphic xlink:href="40658_2025_784_Article_Equ1.gif" position="anchor"/></alternatives></disp-formula>where <inline-formula id="IEq1"><alternatives><tex-math id="d33e369">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${T}_{observed}$$\end{document}</tex-math><mml:math id="d33e374"><mml:msub><mml:mi>T</mml:mi><mml:mrow><mml:mi mathvariant="italic">observed</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq1.gif"/></alternatives></inline-formula> is the activity concentration observed in the VOI, <inline-formula id="IEq2"><alternatives><tex-math id="d33e382">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${B}_{mean}$$\end{document}</tex-math><mml:math id="d33e387"><mml:msub><mml:mi>B</mml:mi><mml:mrow><mml:mi mathvariant="italic">mean</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq2.gif"/></alternatives></inline-formula> is the mean activity concentration in the background, <inline-formula id="IEq3"><alternatives><tex-math id="d33e395">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${T}_{in}$$\end{document}</tex-math><mml:math id="d33e400"><mml:msub><mml:mi>T</mml:mi><mml:mrow><mml:mi mathvariant="italic">in</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq3.gif"/></alternatives></inline-formula> is the activity concentration inserted in the VOI, and <inline-formula id="IEq4"><alternatives><tex-math id="d33e408">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${B}_{in}$$\end{document}</tex-math><mml:math id="d33e413"><mml:msub><mml:mi>B</mml:mi><mml:mrow><mml:mi mathvariant="italic">in</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq4.gif"/></alternatives></inline-formula> is the inserted activity concentration in the background [<xref ref-type="bibr" rid="CR15">15</xref>]. For <inline-formula id="IEq5"><alternatives><tex-math id="d33e425">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${T}_{observed}$$\end{document}</tex-math><mml:math id="d33e430"><mml:msub><mml:mi>T</mml:mi><mml:mrow><mml:mi mathvariant="italic">observed</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq1.gif"/></alternatives></inline-formula>, the maximum activity (<inline-formula id="IEq6"><alternatives><tex-math id="d33e438">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${T}_{max}$$\end{document}</tex-math><mml:math id="d33e443"><mml:msub><mml:mi>T</mml:mi><mml:mrow><mml:mi mathvariant="italic">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq6.gif"/></alternatives></inline-formula>) or the mean activity (<inline-formula id="IEq7"><alternatives><tex-math id="d33e451">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${T}_{mean}$$\end{document}</tex-math><mml:math id="d33e456"><mml:msub><mml:mi>T</mml:mi><mml:mrow><mml:mi mathvariant="italic">mean</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq7.gif"/></alternatives></inline-formula>) in the VOI can be used, resulting in <inline-formula id="IEq8"><alternatives><tex-math id="d33e464">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${RC}_{max}$$\end{document}</tex-math><mml:math id="d33e469"><mml:msub><mml:mrow><mml:mi mathvariant="italic">RC</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="italic">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq8.gif"/></alternatives></inline-formula> and <inline-formula id="IEq9"><alternatives><tex-math id="d33e479">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${RC}_{mean}$$\end{document}</tex-math><mml:math id="d33e484"><mml:msub><mml:mrow><mml:mi mathvariant="italic">RC</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="italic">mean</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq9.gif"/></alternatives></inline-formula>, respectively. All activities are in (Bq &#x022c5; mL<sup>&#x02212;1</sup>).</p><p id="Par15">To better comprehend the effects of DDMC on movement, <inline-formula id="IEq10"><alternatives><tex-math id="d33e499">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${RC}_{max}$$\end{document}</tex-math><mml:math id="d33e504"><mml:msub><mml:mrow><mml:mi mathvariant="italic">RC</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="italic">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq8.gif"/></alternatives></inline-formula> and <inline-formula id="IEq11"><alternatives><tex-math id="d33e514">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${RC}_{mean}$$\end{document}</tex-math><mml:math id="d33e519"><mml:msub><mml:mrow><mml:mi mathvariant="italic">RC</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="italic">mean</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq9.gif"/></alternatives></inline-formula> are computed. The <inline-formula id="IEq12"><alternatives><tex-math id="d33e529">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${RC}_{max}$$\end{document}</tex-math><mml:math id="d33e534"><mml:msub><mml:mrow><mml:mi mathvariant="italic">RC</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="italic">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq8.gif"/></alternatives></inline-formula>, computed using the maximum activity concentration, is more sensitive to image noise than the <inline-formula id="IEq13"><alternatives><tex-math id="d33e544">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${RC}_{mean}$$\end{document}</tex-math><mml:math id="d33e549"><mml:msub><mml:mrow><mml:mi mathvariant="italic">RC</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="italic">mean</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq9.gif"/></alternatives></inline-formula>, calculated using the mean activity concentration in the VOI. However, the <inline-formula id="IEq14"><alternatives><tex-math id="d33e559">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${RC}_{mean}$$\end{document}</tex-math><mml:math id="d33e564"><mml:msub><mml:mrow><mml:mi mathvariant="italic">RC</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="italic">mean</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq9.gif"/></alternatives></inline-formula> is more sensitive to the chosen VOI, which is challenging to determine in a moving object.</p><p id="Par16">The target VOI is identified as follows (Fig.&#x000a0;<xref rid="Fig2" ref-type="fig">2</xref>): First, the target sphere&#x02019;s midpoint is estimated by clicking on the PET image with the first initial guess (<inline-formula id="IEq15"><alternatives><tex-math id="d33e579">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${x}_{i},{ y}_{i}, {z}_{i}$$\end{document}</tex-math><mml:math id="d33e584"><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>y</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>z</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq15.gif"/></alternatives></inline-formula>). Given the sphere&#x02019;s radius (<inline-formula id="IEq16"><alternatives><tex-math id="d33e599">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${r}_{s}$$\end{document}</tex-math><mml:math id="d33e604"><mml:msub><mml:mi>r</mml:mi><mml:mi>s</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq16.gif"/></alternatives></inline-formula>)&#x0200b;, the VOI is defined as:<inline-formula id="IEq17"><alternatives><tex-math id="d33e610">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\text{VOI} =( {x}_{i}\pm {r}_{s} ,{y}_{i}\pm {r}_{s} ,{z}_{i}\pm {r}_{s})$$\end{document}</tex-math><mml:math id="d33e615"><mml:mrow><mml:mtext>VOI</mml:mtext><mml:mo>=</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>&#x000b1;</mml:mo><mml:msub><mml:mi>r</mml:mi><mml:mi>s</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>y</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>&#x000b1;</mml:mo><mml:msub><mml:mi>r</mml:mi><mml:mi>s</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>z</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>&#x000b1;</mml:mo><mml:msub><mml:mi>r</mml:mi><mml:mi>s</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq17.gif"/></alternatives></inline-formula>. The pixel values within this VOI determine <inline-formula id="IEq18"><alternatives><tex-math id="d33e649">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${T}_{mean,i,s}$$\end{document}</tex-math><mml:math id="d33e654"><mml:msub><mml:mi>T</mml:mi><mml:mrow><mml:mi>m</mml:mi><mml:mi>e</mml:mi><mml:mi>a</mml:mi><mml:mi>n</mml:mi><mml:mo>,</mml:mo><mml:mi>i</mml:mi><mml:mo>,</mml:mo><mml:mi>s</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq18.gif"/></alternatives></inline-formula> the target sphere (s) with as midpoint the initial guess (<inline-formula id="IEq19"><alternatives><tex-math id="d33e669">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$i$$\end{document}</tex-math><mml:math id="d33e674"><mml:mi>i</mml:mi></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq19.gif"/></alternatives></inline-formula>), calculated as:<disp-formula id="Equ2"><label>2</label><alternatives><tex-math id="d33e678">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$T_{mean,i,s } = {\text{average}} ( x_{i} \pm r_{s} ,y_{i} \pm r_{s} ,z_{i} \pm r_{s} )$$\end{document}</tex-math><mml:math id="d33e684" display="block"><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mrow><mml:mi>m</mml:mi><mml:mi>e</mml:mi><mml:mi>a</mml:mi><mml:mi>n</mml:mi><mml:mo>,</mml:mo><mml:mi>i</mml:mi><mml:mo>,</mml:mo><mml:mi>s</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mtext>average</mml:mtext><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>&#x000b1;</mml:mo><mml:msub><mml:mi>r</mml:mi><mml:mi>s</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>y</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>&#x000b1;</mml:mo><mml:msub><mml:mi>r</mml:mi><mml:mi>s</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>z</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>&#x000b1;</mml:mo><mml:msub><mml:mi>r</mml:mi><mml:mi>s</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow></mml:math><graphic xlink:href="40658_2025_784_Article_Equ2.gif" position="anchor"/></alternatives></disp-formula><fig id="Fig2"><label>Fig.&#x000a0;2</label><caption><p>Illustration of the method to find the VOI in the PET CT images: the initial estimate for the target sphere&#x02019;s midpoint results in a mean activity over the VOI (<inline-formula id="IEq76"><alternatives><tex-math id="d33e735">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${T}_{mean,i,s})$$\end{document}</tex-math><mml:math id="d33e740"><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mrow><mml:mi>m</mml:mi><mml:mi>e</mml:mi><mml:mi>a</mml:mi><mml:mi>n</mml:mi><mml:mo>,</mml:mo><mml:mi>i</mml:mi><mml:mo>,</mml:mo><mml:mi>s</mml:mi></mml:mrow></mml:msub><mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq76.gif"/></alternatives></inline-formula> is refined by adjusting x, y, and z. This results in multiple candidate midpoints, with the final midpoint selected based on the maximal value for the mean activity (<inline-formula id="IEq77"><alternatives><tex-math id="d33e758">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${T}_{mean,max,s})$$\end{document}</tex-math><mml:math id="d33e763"><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mrow><mml:mi>m</mml:mi><mml:mi>e</mml:mi><mml:mi>a</mml:mi><mml:mi>n</mml:mi><mml:mo>,</mml:mo><mml:mi>m</mml:mi><mml:mi>a</mml:mi><mml:mi>x</mml:mi><mml:mo>,</mml:mo><mml:mi>s</mml:mi></mml:mrow></mml:msub><mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq77.gif"/></alternatives></inline-formula></p></caption><graphic xlink:href="40658_2025_784_Fig2_HTML" id="MO2"/></fig></p><p id="Par17">To locate the VOI with the highest activity <inline-formula id="IEq20"><alternatives><tex-math id="d33e786">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$(T_{mean, max, s} ),$$\end{document}</tex-math><mml:math id="d33e791"><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>T</mml:mi><mml:mrow><mml:mi>m</mml:mi><mml:mi>e</mml:mi><mml:mi>a</mml:mi><mml:mi>n</mml:mi><mml:mo>,</mml:mo><mml:mi>m</mml:mi><mml:mi>a</mml:mi><mml:mi>x</mml:mi><mml:mo>,</mml:mo><mml:mi>s</mml:mi></mml:mrow></mml:msub><mml:mo stretchy="false">)</mml:mo><mml:mo>,</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq20.gif"/></alternatives></inline-formula> the initial guess for the midpoint is refined by adjusting <inline-formula id="IEq21"><alternatives><tex-math id="d33e813">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$x$$\end{document}</tex-math><mml:math id="d33e818"><mml:mi>x</mml:mi></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq21.gif"/></alternatives></inline-formula> and <inline-formula id="IEq22"><alternatives><tex-math id="d33e822">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$y$$\end{document}</tex-math><mml:math id="d33e827"><mml:mi>y</mml:mi></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq22.gif"/></alternatives></inline-formula> by&#x02009;&#x000b1;&#x02009;5 pixels and <inline-formula id="IEq23"><alternatives><tex-math id="d33e831">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$z$$\end{document}</tex-math><mml:math id="d33e836"><mml:mi>z</mml:mi></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq23.gif"/></alternatives></inline-formula> by&#x02009;&#x000b1;&#x02009;3 slices. The smaller range in z-direction accounts for the lower through plane resolution. The refinement results in several midpoints of target spheres (<inline-formula id="IEq24"><alternatives><tex-math id="d33e840">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${x}_{i\pm 5}\pm {r}_{s} ,{y}_{i\pm 5}\pm {r}_{s} ,{z}_{i\pm 3}\pm {r}_{s})$$\end{document}</tex-math><mml:math id="d33e845"><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mo>&#x000b1;</mml:mo><mml:mn>5</mml:mn></mml:mrow></mml:msub><mml:mo>&#x000b1;</mml:mo><mml:msub><mml:mi>r</mml:mi><mml:mi>s</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>y</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mo>&#x000b1;</mml:mo><mml:mn>5</mml:mn></mml:mrow></mml:msub><mml:mo>&#x000b1;</mml:mo><mml:msub><mml:mi>r</mml:mi><mml:mi>s</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>z</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mo>&#x000b1;</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:msub><mml:mo>&#x000b1;</mml:mo><mml:msub><mml:mi>r</mml:mi><mml:mi>s</mml:mi></mml:msub><mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq24.gif"/></alternatives></inline-formula>. The target sphere&#x02019;s final midpoint corresponds to the maximal position.</p><p id="Par18">Finally, the background VOI is chosen to be the same <inline-formula id="IEq25"><alternatives><tex-math id="d33e887">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${r}_{s}$$\end{document}</tex-math><mml:math id="d33e892"><mml:msub><mml:mi>r</mml:mi><mml:mi>s</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq16.gif"/></alternatives></inline-formula> as that of the largest sphere. The position of the background VOI was not optimized but is located at the left posterior corner of the NEMA phantom in the background, which does not include target spheres.</p><p id="Par19">The prepared activity concentration was measured with the Comecer dose calibrator VIK-202. The actual activity in the VOI at the initiation of a scan was calculated by considering the decay of injected activity during the time interval between injection and the initiation of a scan.</p><p id="Par20">The image statistics were evaluated by calculating the contrast-to-noise ratio (CNR). The CNR refers to the ability of the PET to distinguish between various contrasts in an acquired and the inherent noise in the image. The CNR was calculated as<disp-formula id="Equ3"><label>3</label><alternatives><tex-math id="d33e902">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\text{CNR} = \frac{{T}_{observed}-{B}_{mean}}{{\sigma }_{B}}$$\end{document}</tex-math><mml:math id="d33e908" display="block"><mml:mrow><mml:mtext>CNR</mml:mtext><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mrow><mml:mi mathvariant="italic">observed</mml:mi></mml:mrow></mml:msub><mml:mo>-</mml:mo><mml:msub><mml:mi>B</mml:mi><mml:mrow><mml:mi mathvariant="italic">mean</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:msub><mml:mi>&#x003c3;</mml:mi><mml:mi>B</mml:mi></mml:msub></mml:mfrac></mml:mrow></mml:math><graphic xlink:href="40658_2025_784_Article_Equ3.gif" position="anchor"/></alternatives></disp-formula>where the background VOI standard deviation is <inline-formula id="IEq26"><alternatives><tex-math id="d33e930">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\sigma }_{B}$$\end{document}</tex-math><mml:math id="d33e935"><mml:msub><mml:mi>&#x003c3;</mml:mi><mml:mi>B</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq26.gif"/></alternatives></inline-formula> [<xref ref-type="bibr" rid="CR20">20</xref>]. Again, for <inline-formula id="IEq27"><alternatives><tex-math id="d33e944">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${T}_{observed}$$\end{document}</tex-math><mml:math id="d33e949"><mml:msub><mml:mi>T</mml:mi><mml:mrow><mml:mi mathvariant="italic">observed</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq1.gif"/></alternatives></inline-formula>, the maximum activity (<inline-formula id="IEq28"><alternatives><tex-math id="d33e957">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${T}_{max}$$\end{document}</tex-math><mml:math id="d33e962"><mml:msub><mml:mi>T</mml:mi><mml:mrow><mml:mi mathvariant="italic">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq6.gif"/></alternatives></inline-formula>) or the mean activity (<inline-formula id="IEq29"><alternatives><tex-math id="d33e971">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${T}_{mean}$$\end{document}</tex-math><mml:math id="d33e976"><mml:msub><mml:mi>T</mml:mi><mml:mrow><mml:mi mathvariant="italic">mean</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq7.gif"/></alternatives></inline-formula>) in the VOI can be used to result in <inline-formula id="IEq30"><alternatives><tex-math id="d33e984">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{CNR}}_{max}$$\end{document}</tex-math><mml:math id="d33e989"><mml:msub><mml:mtext>CNR</mml:mtext><mml:mrow><mml:mi mathvariant="italic">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq30.gif"/></alternatives></inline-formula> and <inline-formula id="IEq31"><alternatives><tex-math id="d33e997">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{CNR}}_{mean}$$\end{document}</tex-math><mml:math id="d33e1002"><mml:msub><mml:mtext>CNR</mml:mtext><mml:mrow><mml:mi mathvariant="italic">mean</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq31.gif"/></alternatives></inline-formula>, respectively. All activities are in (Bq &#x022c5; mL<sup>&#x02212;1</sup>).</p><p id="Par21">The ratio of parameters such as <inline-formula id="IEq32"><alternatives><tex-math id="d33e1014">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\text{RC}$$\end{document}</tex-math><mml:math id="d33e1019"><mml:mtext>RC</mml:mtext></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq32.gif"/></alternatives></inline-formula> and <inline-formula id="IEq33"><alternatives><tex-math id="d33e1023">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\text{CNR}$$\end{document}</tex-math><mml:math id="d33e1028"><mml:mtext>CNR</mml:mtext></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq33.gif"/></alternatives></inline-formula> is calculated per sphere size (s) and amplitude (<inline-formula id="IEq34"><alternatives><tex-math id="d33e1032">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$a$$\end{document}</tex-math><mml:math id="d33e1037"><mml:mi>a</mml:mi></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq34.gif"/></alternatives></inline-formula>) as<disp-formula id="Equ4"><label>4</label><alternatives><tex-math id="d33e1041">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\text{Ratio} (s,a)= \frac{\text{value with DDMC} (s, a)}{\text{value without DDMC} (s, a)}$$\end{document}</tex-math><mml:math id="d33e1047" display="block"><mml:mrow><mml:mtext>Ratio</mml:mtext><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>s</mml:mi><mml:mo>,</mml:mo><mml:mi>a</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mtext>value with DDMC</mml:mtext><mml:mo stretchy="false">(</mml:mo><mml:mi>s</mml:mi><mml:mo>,</mml:mo><mml:mi>a</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:mtext>value without DDMC</mml:mtext><mml:mo stretchy="false">(</mml:mo><mml:mi>s</mml:mi><mml:mo>,</mml:mo><mml:mi>a</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mfrac></mml:mrow></mml:math><graphic xlink:href="40658_2025_784_Article_Equ4.gif" position="anchor"/></alternatives></disp-formula>where&#x000a0;the parameter values will be averaged over the three TBRs or six sphere sizes for RC and CNR, with &#x0201c;<inline-formula id="IEq35"><alternatives><tex-math id="d33e1080">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\text{value with DDMC}$$\end{document}</tex-math><mml:math id="d33e1085"><mml:mrow><mml:mtext>value with DDMC</mml:mtext></mml:mrow></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq35.gif"/></alternatives></inline-formula>&#x0201d; corresponding to the average RC or CNR values. The parameter value per TBR is not considered if the target sphere or background value is negative. For example, if a CNR with a specific sphere size, amplitude, and TBR is computed and is negative, the ratio parameter will be calculated without that data point.</p><p id="Par22">A statistical analysis is done for the parameters <inline-formula id="IEq36"><alternatives><tex-math id="d33e1092">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${RC}_{max}$$\end{document}</tex-math><mml:math id="d33e1097"><mml:msub><mml:mrow><mml:mi mathvariant="italic">RC</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="italic">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq8.gif"/></alternatives></inline-formula>, <inline-formula id="IEq37"><alternatives><tex-math id="d33e1107">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${RC}_{mean}$$\end{document}</tex-math><mml:math id="d33e1112"><mml:msub><mml:mrow><mml:mi mathvariant="italic">RC</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="italic">mean</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq9.gif"/></alternatives></inline-formula>,<inline-formula id="IEq38"><alternatives><tex-math id="d33e1122">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{CNR}}_{max}$$\end{document}</tex-math><mml:math id="d33e1127"><mml:msub><mml:mtext>CNR</mml:mtext><mml:mrow><mml:mi mathvariant="italic">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq30.gif"/></alternatives></inline-formula> and <inline-formula id="IEq39"><alternatives><tex-math id="d33e1135">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{CNR}}_{mean}$$\end{document}</tex-math><mml:math id="d33e1140"><mml:msub><mml:mtext>CNR</mml:mtext><mml:mrow><mml:mi mathvariant="italic">mean</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq31.gif"/></alternatives></inline-formula>. The data is paired on amplitude, TBR and sphere size, and statistical tests are done on the parameters with and without DDMC. To check normality of the data, Shapiro Wilk test and quantile&#x02013;quantile-plot are used, if data is normally distributed a paired t-test is performed, otherwise the Wilcoxon signed rank test is used. The resulting test statistics and p-values are reported per parameter.</p><p id="Par23">The change in background standard deviation (<inline-formula id="IEq40"><alternatives><tex-math id="d33e1150">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\sigma }_{B}$$\end{document}</tex-math><mml:math id="d33e1155"><mml:msub><mml:mi>&#x003c3;</mml:mi><mml:mi>B</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq26.gif"/></alternatives></inline-formula>) will be averaged over the amplitude settings.</p></sec></sec><sec id="Sec5"><title>Results</title><p id="Par24">The motion correction algorithm reduced image blur originating from movement (Fig.&#x000a0;<xref rid="Fig3" ref-type="fig">3</xref>). DDMC increasingly affects <inline-formula id="IEq41"><alternatives><tex-math id="d33e1168">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{RC}}_{max}$$\end{document}</tex-math><mml:math id="d33e1173"><mml:msub><mml:mtext>RC</mml:mtext><mml:mrow><mml:mi mathvariant="italic">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq41.gif"/></alternatives></inline-formula>, especially with decreasing sphere size, increasing TBR and increasing amplitude (Fig.&#x000a0;<xref rid="Fig4" ref-type="fig">4</xref>).<fig id="Fig3"><label>Fig.&#x000a0;3</label><caption><p>Fused 3D PET/CT image, for a static image (left), motion amplitude 30&#x000a0;mm (middle and right) without and with DDMC, TBR 5</p></caption><graphic xlink:href="40658_2025_784_Fig3_HTML" id="MO3"/></fig><fig id="Fig4"><label>Fig.&#x000a0;4</label><caption><p><inline-formula id="IEq78"><alternatives><tex-math id="d33e1196">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${RC}_{max}$$\end{document}</tex-math><mml:math id="d33e1201"><mml:msub><mml:mrow><mml:mi mathvariant="italic">RC</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="italic">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq8.gif"/></alternatives></inline-formula>
+<bold>a</bold> with and without DDMC, for amplitudes of 0, 10, 20, and 30&#x000a0;mm for TBR 5, with the target spheres on the x-axis. The results with amplitude of 7&#x000a0;mm are omitted from this figure to increase readability. Ratio of <inline-formula id="IEq79"><alternatives><tex-math id="d33e1214">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{RC}}_{max}$$\end{document}</tex-math><mml:math id="d33e1219"><mml:msub><mml:mtext>RC</mml:mtext><mml:mrow><mml:mi mathvariant="italic">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq41.gif"/></alternatives></inline-formula>
+<bold>b</bold> with and without DDMC, for amplitudes of 0, 7, 10, 20, and 30&#x000a0;mm averaged for sphere sizes, with the TBR values on the x-axis</p></caption><graphic xlink:href="40658_2025_784_Fig4_HTML" id="MO4"/></fig></p><p id="Par25">Figure&#x000a0;<xref rid="Fig5" ref-type="fig">5</xref> shows the ratio of <inline-formula id="IEq42"><alternatives><tex-math id="d33e1237">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{RC}}_{max}$$\end{document}</tex-math><mml:math id="d33e1242"><mml:msub><mml:mtext>RC</mml:mtext><mml:mrow><mml:mi mathvariant="italic">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq41.gif"/></alternatives></inline-formula> and <inline-formula id="IEq43"><alternatives><tex-math id="d33e1250">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{RC}}_{mean}$$\end{document}</tex-math><mml:math id="d33e1255"><mml:msub><mml:mtext>RC</mml:mtext><mml:mrow><mml:mi mathvariant="italic">mean</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq43.gif"/></alternatives></inline-formula>, averaged over the TBRs with and without DDMC. DDMC increased the average <inline-formula id="IEq44"><alternatives><tex-math id="d33e1263">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{RC}}_{max}$$\end{document}</tex-math><mml:math id="d33e1268"><mml:msub><mml:mtext>RC</mml:mtext><mml:mrow><mml:mi mathvariant="italic">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq41.gif"/></alternatives></inline-formula> value, with a greater effect for higher amplitude, higher TBR and smaller sphere size. <inline-formula id="IEq45"><alternatives><tex-math id="d33e1276">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{RC}}_{max}$$\end{document}</tex-math><mml:math id="d33e1281"><mml:msub><mml:mtext>RC</mml:mtext><mml:mrow><mml:mi mathvariant="italic">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq41.gif"/></alternatives></inline-formula> and <inline-formula id="IEq46"><alternatives><tex-math id="d33e1290">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{RC}}_{mean}$$\end{document}</tex-math><mml:math id="d33e1295"><mml:msub><mml:mtext>RC</mml:mtext><mml:mrow><mml:mi mathvariant="italic">mean</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq43.gif"/></alternatives></inline-formula> for a sphere with a volume of 1.2&#x000a0;mL and amplitude of 20&#x000a0;mm increased by 40.3% and 21.7%, respectively. For the sphere with a volume of 11.5&#x000a0;mL and amplitude of 7&#x000a0;mm, values changed by 1.9% and &#x02212;&#x02009;0.5%, respectively. A Wilcoxon signed-rank test revealed a statistically significant difference in <inline-formula id="IEq47"><alternatives><tex-math id="d33e1303">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{RC}}_{max}$$\end{document}</tex-math><mml:math id="d33e1308"><mml:msub><mml:mtext>RC</mml:mtext><mml:mrow><mml:mi mathvariant="italic">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq41.gif"/></alternatives></inline-formula>(W&#x02009;=&#x02009;112, <italic>p</italic>&#x02009;=&#x02009;6.82&#x02219;10<sup>&#x02013;15</sup>, n&#x02009;=&#x02009;90) and <inline-formula id="IEq48"><alternatives><tex-math id="d33e1321">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{RC}}_{mean}$$\end{document}</tex-math><mml:math id="d33e1326"><mml:msub><mml:mtext>RC</mml:mtext><mml:mrow><mml:mi mathvariant="italic">mean</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq43.gif"/></alternatives></inline-formula> (W&#x02009;=&#x02009;391, <italic>p</italic>&#x02009;=&#x02009;2.64&#x02219;10<sup>&#x02013;11</sup>, n&#x02009;=&#x02009;90).<fig id="Fig5"><label>Fig.&#x000a0;5</label><caption><p>Ratio of <inline-formula id="IEq80"><alternatives><tex-math id="d33e1346">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{RC}}_{max}$$\end{document}</tex-math><mml:math id="d33e1351"><mml:msub><mml:mtext>RC</mml:mtext><mml:mrow><mml:mi mathvariant="italic">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq41.gif"/></alternatives></inline-formula> (<bold>a</bold>) and <inline-formula id="IEq81"><alternatives><tex-math id="d33e1362">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{RC}}_{mean}$$\end{document}</tex-math><mml:math id="d33e1367"><mml:msub><mml:mtext>RC</mml:mtext><mml:mrow><mml:mi mathvariant="italic">mean</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq43.gif"/></alternatives></inline-formula> (<bold>b</bold>) with and without DDMC, for amplitudes of 0, 7, 10, 20, and 30&#x000a0;mm averaged for TBR 2, 5, and 10.5, with the target spheres on the x-axis from big to small</p></caption><graphic xlink:href="40658_2025_784_Fig5_HTML" id="MO5"/></fig></p><p id="Par26">Figure&#x000a0;<xref rid="Fig6" ref-type="fig">6</xref> shows DDMC results on <inline-formula id="IEq49"><alternatives><tex-math id="d33e1385">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${CNR}_{max}$$\end{document}</tex-math><mml:math id="d33e1390"><mml:msub><mml:mrow><mml:mi mathvariant="italic">CNR</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="italic">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq49.gif"/></alternatives></inline-formula>. The <inline-formula id="IEq50"><alternatives><tex-math id="d33e1400">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${CNR}_{max}$$\end{document}</tex-math><mml:math id="d33e1405"><mml:msub><mml:mrow><mml:mi mathvariant="italic">CNR</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="italic">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq49.gif"/></alternatives></inline-formula> and <inline-formula id="IEq51"><alternatives><tex-math id="d33e1415">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${CNR}_{mean}$$\end{document}</tex-math><mml:math id="d33e1420"><mml:msub><mml:mrow><mml:mi mathvariant="italic">CNR</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="italic">mean</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq51.gif"/></alternatives></inline-formula> averaged results over all TBRs are visible in Fig.&#x000a0;<xref rid="Fig7" ref-type="fig">7</xref> per amplitude and sphere size. <inline-formula id="IEq52"><alternatives><tex-math id="d33e1434">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\text{CNR}$$\end{document}</tex-math><mml:math id="d33e1439"><mml:mtext>CNR</mml:mtext></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq33.gif"/></alternatives></inline-formula> values below zero are not considered when calculating the averaged ratio; this was the case for Fig.&#x000a0;<xref rid="Fig7" ref-type="fig">7</xref>a, <inline-formula id="IEq53"><alternatives><tex-math id="d33e1446">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{CNR}}_{\text{max}}$$\end{document}</tex-math><mml:math id="d33e1451"><mml:msub><mml:mtext>CNR</mml:mtext><mml:mtext>max</mml:mtext></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq53.gif"/></alternatives></inline-formula> with an amplitude of 30&#x000a0;mm and a volume of the target sphere of 0.5&#x000a0;mL. In Fig.&#x000a0;<xref rid="Fig7" ref-type="fig">7</xref>b, <inline-formula id="IEq54"><alternatives><tex-math id="d33e1460">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{CNR}}_{\text{mean}}$$\end{document}</tex-math><mml:math id="d33e1465"><mml:msub><mml:mtext>CNR</mml:mtext><mml:mtext>mean</mml:mtext></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq54.gif"/></alternatives></inline-formula> with an amplitude of 20&#x000a0;mm, a volume of target sphere 0.5&#x000a0;mL with an amplitude of 30&#x000a0;mm, and a volume of target spheres 1.2 and 0.5&#x000a0;mL, values were not considered in the averaged <inline-formula id="IEq55"><alternatives><tex-math id="d33e1471">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{CNR}}_{\text{mean}}$$\end{document}</tex-math><mml:math id="d33e1476"><mml:msub><mml:mtext>CNR</mml:mtext><mml:mtext>mean</mml:mtext></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq54.gif"/></alternatives></inline-formula>.<fig id="Fig6"><label>Fig.&#x000a0;6</label><caption><p><inline-formula id="IEq82"><alternatives><tex-math id="d33e1488">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{CNR}}_{max}$$\end{document}</tex-math><mml:math id="d33e1493"><mml:msub><mml:mtext>CNR</mml:mtext><mml:mrow><mml:mi mathvariant="italic">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq30.gif"/></alternatives></inline-formula>
+<bold>a</bold> for amplitudes of 0, 10, 20, and 30&#x000a0;mm at TBR 5, with the target spheres on the x-axis from big to small. The results with amplitude of 7&#x000a0;mm are omitted from this figure to increase readability. The ratio of <inline-formula id="IEq83"><alternatives><tex-math id="d33e1504">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{CNR}}_{max}$$\end{document}</tex-math><mml:math id="d33e1509"><mml:msub><mml:mtext>CNR</mml:mtext><mml:mrow><mml:mi mathvariant="italic">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq30.gif"/></alternatives></inline-formula>
+<bold>b</bold> with and without DDMC, for amplitudes of 0, 7, 10, 20, and 30&#x000a0;mm averaged for sphere sizes, with the TBR values on the x-axis</p></caption><graphic xlink:href="40658_2025_784_Fig6_HTML" id="MO6"/></fig><fig id="Fig7"><label>Fig.&#x000a0;7</label><caption><p>Ratio of <inline-formula id="IEq84"><alternatives><tex-math id="d33e1528">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{CNR}}_{max}$$\end{document}</tex-math><mml:math id="d33e1533"><mml:msub><mml:mtext>CNR</mml:mtext><mml:mrow><mml:mi mathvariant="italic">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq30.gif"/></alternatives></inline-formula> (<bold>a</bold>) and <inline-formula id="IEq85"><alternatives><tex-math id="d33e1544">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{CNR}}_{mean}$$\end{document}</tex-math><mml:math id="d33e1549"><mml:msub><mml:mtext>CNR</mml:mtext><mml:mrow><mml:mi mathvariant="italic">mean</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq31.gif"/></alternatives></inline-formula> (<bold>b</bold>) with and without DDMC, for amplitudes of 0, 7, 10, 20, and 30&#x000a0;mm averaged for TBR 2, 5, and 10.5, with the target spheres on the x-axis from big to small</p></caption><graphic xlink:href="40658_2025_784_Fig7_HTML" id="MO7"/></fig></p><p id="Par27">For the TBR averaged <inline-formula id="IEq56"><alternatives><tex-math id="d33e1564">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$CNR$$\end{document}</tex-math><mml:math id="d33e1569"><mml:mrow><mml:mi mathvariant="italic">CNR</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq56.gif"/></alternatives></inline-formula> values, spheres with high motion amplitude (20&#x000a0;mm) and small sphere size (2.6&#x000a0;mL), the <inline-formula id="IEq57"><alternatives><tex-math id="d33e1575">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$CNR$$\end{document}</tex-math><mml:math id="d33e1580"><mml:mrow><mml:mi mathvariant="italic">CNR</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq56.gif"/></alternatives></inline-formula> value increased with DDMC, with 39.2% and 11.6% for <inline-formula id="IEq58"><alternatives><tex-math id="d33e1586">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${CNR}_{max}$$\end{document}</tex-math><mml:math id="d33e1591"><mml:msub><mml:mrow><mml:mi mathvariant="italic">CNR</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="italic">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq49.gif"/></alternatives></inline-formula> and <inline-formula id="IEq59"><alternatives><tex-math id="d33e1601">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${CNR}_{mean}$$\end{document}</tex-math><mml:math id="d33e1606"><mml:msub><mml:mrow><mml:mi mathvariant="italic">CNR</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="italic">mean</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq51.gif"/></alternatives></inline-formula>, respectively. However, for smaller motion amplitude (10&#x000a0;mm) and bigger sphere size (11.5&#x000a0;mL), <inline-formula id="IEq60"><alternatives><tex-math id="d33e1616">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$CNR$$\end{document}</tex-math><mml:math id="d33e1621"><mml:mrow><mml:mi mathvariant="italic">CNR</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq56.gif"/></alternatives></inline-formula> values decreased by 8.5% and 10%, respectively. A Wilcoxon signed-rank test revealed a statistically significant difference in <inline-formula id="IEq61"><alternatives><tex-math id="d33e1628">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{CNR}}_{mean}$$\end{document}</tex-math><mml:math id="d33e1633"><mml:msub><mml:mtext>CNR</mml:mtext><mml:mrow><mml:mi mathvariant="italic">mean</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq31.gif"/></alternatives></inline-formula> (W&#x02009;=&#x02009;1330, <italic>p</italic>&#x02009;=&#x02009;0.0039, n&#x02009;=&#x02009;90) but no significant difference for <inline-formula id="IEq62"><alternatives><tex-math id="d33e1644">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{CNR}}_{max}$$\end{document}</tex-math><mml:math id="d33e1649"><mml:msub><mml:mtext>CNR</mml:mtext><mml:mrow><mml:mi mathvariant="italic">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq30.gif"/></alternatives></inline-formula>(W&#x02009;=&#x02009;1960, <italic>p</italic>&#x02009;=&#x02009;0.7248, n&#x02009;=&#x02009;90).</p><p id="Par28">This study revealed that DDMC increases the contrast of the spheres, as well as the background noise. A sub-analysis shows that the background noise increases with 15%, 61% and 37% for respectively TBR 2, 5 and 10.5, hence a 36% average increase in DDMC-reconstructed images.</p></sec><sec id="Sec6"><title>Discussion</title><p id="Par29">In this study, images corrected with DDMC were compared to images without motion correction to determine whether DDMC improves the detectability of lesions. Phantom data with different sphere sizes, amplitudes, and TBRs were used to analyze the effect of the motion correction technique on the RC and CNR values.</p><p id="Par30">DDMC visibly reduced motion-induced blur in target spheres and <inline-formula id="IEq63"><alternatives><tex-math id="d33e1668">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\text{RC}$$\end{document}</tex-math><mml:math id="d33e1673"><mml:mtext>RC</mml:mtext></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq32.gif"/></alternatives></inline-formula> values increased with DDMC, particularly for smaller spheres, higher TBR and larger motion amplitudes. Compared to other studies, this study has analyzed both maximal pixel RC and CNR values and the mean values of these parameters in a defined VOI. Using the mean values can lead to different conclusions; for example, <inline-formula id="IEq64"><alternatives><tex-math id="d33e1677">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{RC}}_{\text{mean}}$$\end{document}</tex-math><mml:math id="d33e1682"><mml:msub><mml:mtext>RC</mml:mtext><mml:mtext>mean</mml:mtext></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq64.gif"/></alternatives></inline-formula> values for larger spheres with small amplitudes, e.g., 7&#x000a0;mm, did not consistently improve. This difference in mean and max values arises because the maximal pixel <inline-formula id="IEq65"><alternatives><tex-math id="d33e1688">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\text{RC}$$\end{document}</tex-math><mml:math id="d33e1693"><mml:mtext>RC</mml:mtext></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq32.gif"/></alternatives></inline-formula> reflects the highest recovery coefficient within the sphere, capturing localized improvements that may occur due to motion compensation. In contrast, the mean RC accounts for the entire VOI, averaging variations and potentially diluting localized enhancements. For larger spheres with small motion amplitudes, the overall effect of DDMC may be less pronounced, as motion artifacts are less, leading to less consistent improvements in the mean <inline-formula id="IEq66"><alternatives><tex-math id="d33e1697">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\text{RC}$$\end{document}</tex-math><mml:math id="d33e1702"><mml:mtext>RC</mml:mtext></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq32.gif"/></alternatives></inline-formula> compared to the maximal pixel <inline-formula id="IEq67"><alternatives><tex-math id="d33e1706">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\text{RC}$$\end{document}</tex-math><mml:math id="d33e1711"><mml:mtext>RC</mml:mtext></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq32.gif"/></alternatives></inline-formula>. This result aligns with prior research reporting that motion correction can degrade image quality for small motion amplitudes [<xref ref-type="bibr" rid="CR21">21</xref>].</p><p id="Par31">The <inline-formula id="IEq68"><alternatives><tex-math id="d33e1721">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{RC}}_{mean}$$\end{document}</tex-math><mml:math id="d33e1726"><mml:msub><mml:mtext>RC</mml:mtext><mml:mrow><mml:mi mathvariant="italic">mean</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq43.gif"/></alternatives></inline-formula> is sensitive to the chosen VOI, which is challenging to determine in a moving object. In this study, we have proposed a method to determine the VOI. However, due to motion, the effective size of the VOI in the image may deviate from the nominal size, making it challenging to fully validate the suggested approach&#x02019;s accuracy. The rigid VOI placement method can underestimate activity in motion-blurred targets. The rigid VOI placement method may not accurately capture targets, particularly for small spheres with large amplitudes. This effect is not expected to affect the conclusion&#x02019;s validity, as the results of the small spheres with large amplitude align with other work.</p><p id="Par32">The comparison of <inline-formula id="IEq69"><alternatives><tex-math id="d33e1736">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${RC}_{max}$$\end{document}</tex-math><mml:math id="d33e1741"><mml:msub><mml:mrow><mml:mi mathvariant="italic">RC</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="italic">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq8.gif"/></alternatives></inline-formula> and <inline-formula id="IEq70"><alternatives><tex-math id="d33e1751">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${CNR}_{max}$$\end{document}</tex-math><mml:math id="d33e1756"><mml:msub><mml:mrow><mml:mi mathvariant="italic">CNR</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="italic">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq49.gif"/></alternatives></inline-formula> across different TBR values reveals that RC values tend to increase more noticeably with higher TBRs. Ideally, a stronger influence of DDMC would have been observed at lower TBRs, where detectability can be more uncertain. In contrast, CNR values do not show a clear trend, suggesting that TBR has little effect on CNR. For lesions that already have a high CNR, detectability is unlikely to improve further&#x02014;once a lesion is clearly visible, additional contrast offers limited benefit.</p><p id="Par33">The results show that the use of DDMC significantly improves the RC values and <inline-formula id="IEq71"><alternatives><tex-math id="d33e1768">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{CNR}}_{mean}$$\end{document}</tex-math><mml:math id="d33e1773"><mml:msub><mml:mtext>CNR</mml:mtext><mml:mrow><mml:mi mathvariant="italic">mean</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq31.gif"/></alternatives></inline-formula>, while having no significant effect on the <inline-formula id="IEq72"><alternatives><tex-math id="d33e1781">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{CNR}}_{max}$$\end{document}</tex-math><mml:math id="d33e1786"><mml:msub><mml:mtext>CNR</mml:mtext><mml:mrow><mml:mi mathvariant="italic">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq30.gif"/></alternatives></inline-formula>. This indicates that DDMC may enhance overall image consistency without altering peak contrast performance. Despite the statistically significant improvements in the RC values and <inline-formula id="IEq73"><alternatives><tex-math id="d33e1794">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{CNR}}_{mean}$$\end{document}</tex-math><mml:math id="d33e1799"><mml:msub><mml:mtext>CNR</mml:mtext><mml:mrow><mml:mi mathvariant="italic">mean</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq31.gif"/></alternatives></inline-formula> with the use of DDMC, the distribution of individual differences reveals variability. This suggests that the effect of DDMC may be dependent on target and amplitude size. This is supported in the results, where particularly for small targets and big amplitudes, DDMC enhances RC and CNR values.</p><p id="Par34">The improvement of image quality and RC aligns with previous studies, where the ability of DDMC was demonstrated to improve image quality and quantifications such as SUV [<xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR12">12</xref>, <xref ref-type="bibr" rid="CR14">14</xref>]. Our study extends this work by evaluating the algorithm&#x02019;s effectiveness across TBRs, motion amplitudes, and varying target sphere sizes, investigating the effects on RC and CNR. However, unlike previous research [<xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR12">12</xref>] we observed a trade-off between improved contrast (RC) and increased background noise (<inline-formula id="IEq74"><alternatives><tex-math id="d33e1825">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\sigma }_{B}$$\end{document}</tex-math><mml:math id="d33e1830"><mml:msub><mml:mi>&#x003c3;</mml:mi><mml:mi>B</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq26.gif"/></alternatives></inline-formula>), which limited the overall detectability (CNR) of lesions. This discrepancy may be due to differences in study design, movement, or reconstruction algorithms. Dias et al. [<xref ref-type="bibr" rid="CR14">14</xref>] have earlier shown that the coefficient of variation in gated reconstructions with DDMC were higher than without, and have shown that using DDMC reconstructions did not increase the detection of extra lesions.</p><p id="Par35">The most important finding was that DDMC enhances the CNR of small, moving lesions, but CNR is reduced for lesions with little to no movement. This may also affect the detectability of small lesions. The increased background noise causes the effect but has also been previously appointed to be caused by image smoothing introduced during the elastic registration at the end of the EMC [<xref ref-type="bibr" rid="CR7">7</xref>]. Unlike previous research that suggests no additional diagnostic information is obtained using DDMC [<xref ref-type="bibr" rid="CR14">14</xref>], the changes in CNR values found by this study show that the detectability indeed can increase for some nodules. This finding suggests that DDMC can best be used selectively, carefully reviewing corrected and uncorrected images.</p><sec id="Sec7"><title>Limitations of the study and suggestions for future research</title><p id="Par36">Previous studies have investigated the effect of motion on tumor volume [<xref ref-type="bibr" rid="CR12">12</xref>]. A limitation of our study is that we used the known volume of the target spheres and therefore do not account for the blurred volume as it appears as a spread target on the PET/CT. Future research could explore the effective volume of the target as it exists both in the phantom and patients. This would enhance our understanding of the algorithm, particularly its response to movement and the impact of the DDMC algorithm on lesion volume evaluation.</p><p id="Par37">Another important consideration is how alternative reconstruction settings&#x02014;such as different numbers of iterations/subsets, varying filter widths, or non-TOF reconstruction&#x02014;might interact with DDMC and impact RC and CNR. While we anticipate that the noise increase observed with DDMC would be similar across different scanners and configurations, this assumption requires further validation. Future studies should explore how these factors influence the interplay between DDMC and quantitative accuracy.</p><p id="Par38">Furthermore, literature has shown that mismatches in CT and PET for areas affected by respiration can occur [<xref ref-type="bibr" rid="CR4">4</xref>]. The current study utilized attenuation correction with free-breathing CT. In a preliminary investigation on the SUV with and without DDMC using static and free breathing CT, we did not observe any difference in SUV within the image noise. To study the best CT-breathing technique in combination with DDMC, more research is required. In future work, it would be interesting to analyze the effect of PET and CT mismatches on DDMC, especially in patient data where more complex respiratory movement is seen.</p><p id="Par39">This work relied on phantom experiments. The phantom&#x02019;s simplified motion of 1D translation does not fully replicate respiratory motion complexity, which includes 3D rotation and heartbeat effects [<xref ref-type="bibr" rid="CR21">21</xref>]. This study used the non-dedicated Kinetec Spectra to model respiratory movement, which may not fully capture the complexity of respiratory patterns. However, using phantom data is valuable in showing that background noise increases. In other patient studies, lesion-free tissue in the lung or liver is considered the background [<xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR12">12</xref>]; this can lead to a wrong assessment of the background activity. The differences in the computation of background noise can be another cause for inconsistencies in CNR results in several studies. In future research, we will employ a dedicated device to model respiratory movements, offering enhanced functionality and greater accuracy, which is currently under development. An explanation video of the functioning of this device can be found under supplementary materials.</p><p id="Par40">While phantom conditions mimicked clinical setups, real thoraco-abdominal motion is more complex, encompassing anterior&#x02013;posterior and medial&#x02013;lateral displacement, baseline drift, irregular breathing patterns, and hysteresis effects. However, our static data also demonstrate an increase in background noise (<inline-formula id="IEq75"><alternatives><tex-math id="d33e1874">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\sigma }_{B}$$\end{document}</tex-math><mml:math id="d33e1879"><mml:msub><mml:mi>&#x003c3;</mml:mi><mml:mi>B</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="40658_2025_784_Article_IEq26.gif"/></alternatives></inline-formula>), and beyond a certain threshold&#x02014;where small spheres and large motion amplitudes are involved&#x02014;the negative influence of higher background noise is outweighed by the positive impact of DDMC. Therefore, incorporating more complex motion patterns would not fundamentally change the conclusions of this study. To gain a deeper understanding of the trade-off between amplitude and lesion size in the presence of complex patient motion, we recommend a future study using simulated irregular respiratory patterns and patient data.</p><p id="Par41">A study may validate our findings in a clinical setting by analyzing patient data with and without DDMC. To ensure a clinically relevant evaluation, detectability will be assessed by clinical observers. Additionally, to objectively validate whether DDMC techniques improve detectability, future work should incorporate a model observer, such as channelized hotelling observer (CHO) analysis [<xref ref-type="bibr" rid="CR22">22</xref>].</p><p id="Par42">This study has shown that DDMC improves RC and CNR in small lesions with high amplitudes.</p></sec></sec><sec id="Sec8"><title>Conclusion</title><p id="Par43">The DDMC algorithm reduced image blur, increased contrast, and increased image noise. Due to the increase in the noise in the background, the effect of DDMC is less profound than the effect of DDMC on the contrast. The CNR will increase for small lesions affected by respiratory motion with a high amplitude, which may lead to the detectability of these lesions with low uptake. Future work is needed to ensure that detectability improves, preferably in a clinical and multi-observer setting. DDMC reconstructions are recommended in addition to non-DDMC reconstructions due to the decreased detectability of lesions unaffected by motion.</p></sec><sec id="Sec9" sec-type="supplementary-material"><title>Supplementary Information</title><p>
+<supplementary-material content-type="local-data" id="MOESM1"><media xlink:href="40658_2025_784_MOESM1_ESM.mp4"><caption><p>Supplementary file1: Video 1 The NEMA/IEC body phantom while moving in cycle mode with an amplitude of 3 cm and speed of 0.75 cm/s.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="MOESM2"><media xlink:href="40658_2025_784_MOESM2_ESM.mp4"><caption><p>Supplementary file2: Video 2 Explanation of functioning of respiratory movement. Code To find VOIs in NEMA phanthom as described in methods section: https://github.com/mwinte11/VOI_identification_IQ</p></caption></media></supplementary-material></p></sec></body><back><fn-group><fn><p><bold>Publisher's Note</bold></p><p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></fn><fn><p>Marloes de Winter and Robin Gevers have equally contributed as first authors.</p></fn></fn-group><ack><title>Acknowledgements</title><p>We would like to thank M. Blommestein and M. Nieuwenhuizen for their help during this study.</p></ack><notes notes-type="author-contribution"><title>Author contributions</title><p>Conceptualization: Matteo Maspero, Robin Gevers, Marloes de Winter, Jan Habraken, Jules Lavalaye; methodology: Matteo Maspero, Robin Gevers, Marloes de Winter, Jan Habraken; formal analysis and investigation: Matteo Maspero, Robin Gevers, Marloes de Winter; writing&#x02014;original draft preparation: Matteo Maspero, Marloes de Winter; writing&#x02014;review and editing: Matteo Maspero, Robin Gevers, Marloes de Winter, Jan Habraken, Jules Lavalaye; funding acquisition: n.a.; resources: Jan Habraken; supervision: Jan Habraken, Matteo Maspero. All the authors contributed to the study&#x02019;s conception and design.</p></notes><notes notes-type="funding-information"><title>Funding</title><p>The authors declare that no funds, grants, or other support were received during the preparation of this manuscript.</p></notes><notes notes-type="data-availability"><title>Availability of data and materials</title><p>The datasets analysed during the current study are available from the corresponding author on reasonable request.</p></notes><notes><title>Declarations</title><notes id="FPar1"><title>Ethics approval and consent to participate</title><p id="Par44">This is an observational study without use of patient data, so no ethical approval is required. This is an observational study without use of patient data, so consent to participate is not required.</p></notes><notes id="FPar2"><title>Consent for publication</title><p id="Par45">This is an observational study without use of patient data, so consent to publish is not required.</p></notes><notes id="FPar3" notes-type="COI-statement"><title>Competing interests</title><p id="Par46">The authors declare that they have no competing interests.</p></notes></notes><ref-list id="Bib1"><title>References</title><ref id="CR1"><label>1.</label><citation-alternatives><element-citation id="ec-CR1" publication-type="journal"><person-group person-group-type="author"><name><surname>Harsini</surname><given-names>S</given-names></name><name><surname>B&#x000e9;nard</surname><given-names>F</given-names></name></person-group><article-title>PET imaging in clinical oncology</article-title><source>Handbook Cancer Immunol</source><year>2023</year><pub-id pub-id-type="doi">10.1007/978-3-030-80962-1_134-1</pub-id></element-citation><mixed-citation id="mc-CR1" publication-type="journal">Harsini S, B&#x000e9;nard F. PET imaging in clinical oncology. Handbook Cancer Immunol. 2023. 10.1007/978-3-030-80962-1_134-1.</mixed-citation></citation-alternatives></ref><ref id="CR2"><label>2.</label><citation-alternatives><element-citation id="ec-CR2" publication-type="journal"><person-group person-group-type="author"><name><surname>Koppula</surname><given-names>BR</given-names></name><name><surname>Fine</surname><given-names>GC</given-names></name><name><surname>Salem</surname><given-names>AE</given-names></name><name><surname>Covington</surname><given-names>MF</given-names></name><name><surname>Wiggins</surname><given-names>RH</given-names></name><name><surname>Hoffman</surname><given-names>JM</given-names></name><name><surname>Morton</surname><given-names>KA</given-names></name></person-group><article-title>PET-CT in clinical adult oncology: III. Gastrointestinal malignancies</article-title><source>Cancers (Basel)</source><year>2022</year><pub-id pub-id-type="doi">10.3390/cancers14112668</pub-id><pub-id pub-id-type="pmid">36497423</pub-id>
+</element-citation><mixed-citation id="mc-CR2" publication-type="journal">Koppula BR, Fine GC, Salem AE, Covington MF, Wiggins RH, Hoffman JM, Morton KA. PET-CT in clinical adult oncology: III. Gastrointestinal malignancies. Cancers (Basel). 2022. 10.3390/cancers14112668.<pub-id pub-id-type="pmid">36497423</pub-id>
+</mixed-citation></citation-alternatives></ref><ref id="CR3"><label>3.</label><citation-alternatives><element-citation id="ec-CR3" publication-type="journal"><person-group person-group-type="author"><name><surname>Salem</surname><given-names>AE</given-names></name><name><surname>Fine</surname><given-names>GC</given-names></name><name><surname>Covington</surname><given-names>MF</given-names></name><name><surname>Koppula</surname><given-names>BR</given-names></name><name><surname>Wiggins</surname><given-names>RH</given-names></name><name><surname>Hoffman</surname><given-names>JM</given-names></name><name><surname>Morton</surname><given-names>KA</given-names></name></person-group><article-title>PET-CT in clinical adult oncology&#x02014;IV. Gynecologic and genitourinary malignancies</article-title><source>Cancers (Basel)</source><year>2022</year><pub-id pub-id-type="doi">10.3390/cancers14123000</pub-id><pub-id pub-id-type="pmid">36497423</pub-id>
+</element-citation><mixed-citation id="mc-CR3" publication-type="journal">Salem AE, Fine GC, Covington MF, Koppula BR, Wiggins RH, Hoffman JM, Morton KA. PET-CT in clinical adult oncology&#x02014;IV. Gynecologic and genitourinary malignancies. Cancers (Basel). 2022. 10.3390/cancers14123000.<pub-id pub-id-type="pmid">36497423</pub-id>
+</mixed-citation></citation-alternatives></ref><ref id="CR4"><label>4.</label><citation-alternatives><element-citation id="ec-CR4" publication-type="journal"><person-group person-group-type="author"><name><surname>Meier</surname><given-names>JG</given-names></name><name><surname>Wu</surname><given-names>CC</given-names></name><name><surname>Betancourt Cuellar</surname><given-names>SL</given-names></name><name><surname>Truong</surname><given-names>MT</given-names></name><name><surname>Erasmus</surname><given-names>JJ</given-names></name><name><surname>Einstein</surname><given-names>SA</given-names></name><name><surname>Mawlawi</surname><given-names>OR</given-names></name></person-group><article-title>Evaluation of a novel elastic respiratory motion correction algorithm on quantification and image quality in abdominothoracic PET/CT</article-title><source>J Nucl Med</source><year>2019</year><pub-id pub-id-type="doi">10.2967/jnumed.118.213884</pub-id><pub-id pub-id-type="pmid">31653713</pub-id>
+</element-citation><mixed-citation id="mc-CR4" publication-type="journal">Meier JG, Wu CC, Betancourt Cuellar SL, Truong MT, Erasmus JJ, Einstein SA, Mawlawi OR. Evaluation of a novel elastic respiratory motion correction algorithm on quantification and image quality in abdominothoracic PET/CT. J Nucl Med. 2019. 10.2967/jnumed.118.213884.<pub-id pub-id-type="pmid">31653713</pub-id>
+</mixed-citation></citation-alternatives></ref><ref id="CR5"><label>5.</label><citation-alternatives><element-citation id="ec-CR5" publication-type="journal"><person-group person-group-type="author"><name><surname>Visvikis</surname><given-names>D</given-names></name><name><surname>Lamare</surname><given-names>F</given-names></name><name><surname>Bruyant</surname><given-names>P</given-names></name><name><surname>Boussion</surname><given-names>N</given-names></name><name><surname>Cheze Le Rest</surname><given-names>C</given-names></name></person-group><article-title>Respiratory motion in positron emission tomography for oncology applications: problems and solutions</article-title><source>Nucl Instrum Methods Phys Res A</source><year>2006</year><pub-id pub-id-type="doi">10.1016/j.nima.2006.08.153</pub-id></element-citation><mixed-citation id="mc-CR5" publication-type="journal">Visvikis D, Lamare F, Bruyant P, Boussion N, Cheze Le Rest C. Respiratory motion in positron emission tomography for oncology applications: problems and solutions. Nucl Instrum Methods Phys Res A. 2006. 10.1016/j.nima.2006.08.153.</mixed-citation></citation-alternatives></ref><ref id="CR6"><label>6.</label><citation-alternatives><element-citation id="ec-CR6" publication-type="journal"><person-group person-group-type="author"><name><surname>Polycarpou</surname><given-names>I</given-names></name><name><surname>Tsoumpas</surname><given-names>C</given-names></name><name><surname>King</surname><given-names>AP</given-names></name><name><surname>Marsden</surname><given-names>PK</given-names></name></person-group><article-title>Impact of respiratory motion correction and spatial resolution on lesion detection in PET: a simulation study based on real MR dynamic data</article-title><source>Phys Med Biol</source><year>2014</year><pub-id pub-id-type="doi">10.1088/0031-9155/59/3/697</pub-id><pub-id pub-id-type="pmid">24442386</pub-id>
+</element-citation><mixed-citation id="mc-CR6" publication-type="journal">Polycarpou I, Tsoumpas C, King AP, Marsden PK. Impact of respiratory motion correction and spatial resolution on lesion detection in PET: a simulation study based on real MR dynamic data. Phys Med Biol. 2014. 10.1088/0031-9155/59/3/697.<pub-id pub-id-type="pmid">24442386</pub-id>
+</mixed-citation></citation-alternatives></ref><ref id="CR7"><label>7.</label><mixed-citation publication-type="other">Hong I, Jones J, Casey M. Ultrafast elastic motion correction via motion deblurring. In: 2014 IEEE nuclear science symposium and medical imaging conference (NSS/MIC), IEEE, 2014. pp. 1&#x02013;2. 10.1109/NSSMIC.2014.7430841</mixed-citation></ref><ref id="CR8"><label>8.</label><citation-alternatives><element-citation id="ec-CR8" publication-type="journal"><person-group person-group-type="author"><name><surname>P&#x000f6;sse</surname><given-names>S</given-names></name><name><surname>B&#x000fc;ther</surname><given-names>F</given-names></name><name><surname>Mannweiler</surname><given-names>D</given-names></name><name><surname>Hong</surname><given-names>I</given-names></name><name><surname>Jones</surname><given-names>J</given-names></name><name><surname>Sch&#x000e4;fers</surname><given-names>M</given-names></name><name><surname>Sch&#x000e4;fers</surname><given-names>KP</given-names></name></person-group><article-title>Comparison of two elastic motion correction approaches for whole-body PET/CT: motion deblurring vs gate-to-gate motion correction</article-title><source>EJNMMI Phys</source><year>2020</year><pub-id pub-id-type="doi">10.1186/s40658-020-0285-4</pub-id><pub-id pub-id-type="pmid">32232687</pub-id>
+</element-citation><mixed-citation id="mc-CR8" publication-type="journal">P&#x000f6;sse S, B&#x000fc;ther F, Mannweiler D, Hong I, Jones J, Sch&#x000e4;fers M, Sch&#x000e4;fers KP. Comparison of two elastic motion correction approaches for whole-body PET/CT: motion deblurring vs gate-to-gate motion correction. EJNMMI Phys. 2020. 10.1186/s40658-020-0285-4.<pub-id pub-id-type="pmid">32232687</pub-id>
+</mixed-citation></citation-alternatives></ref><ref id="CR9"><label>9.</label><citation-alternatives><element-citation id="ec-CR9" publication-type="journal"><person-group person-group-type="author"><name><surname>Lamare</surname><given-names>F</given-names></name><name><surname>Bousse</surname><given-names>A</given-names></name><name><surname>Thielemans</surname><given-names>K</given-names></name><name><surname>Liu</surname><given-names>C</given-names></name><name><surname>Merlin</surname><given-names>T</given-names></name><name><surname>Fayad</surname><given-names>H</given-names></name><name><surname>Visvikis</surname><given-names>D</given-names></name></person-group><article-title>PET respiratory motion correction: quo vadis?</article-title><source>Phys Med Biol</source><year>2022</year><volume>67</volume><fpage>03TR0202</fpage><pub-id pub-id-type="doi">10.1088/1361-6560/ac43fc</pub-id></element-citation><mixed-citation id="mc-CR9" publication-type="journal">Lamare F, Bousse A, Thielemans K, Liu C, Merlin T, Fayad H, Visvikis D. PET respiratory motion correction: quo vadis? Phys Med Biol. 2022;67:03TR0202. 10.1088/1361-6560/ac43fc.</mixed-citation></citation-alternatives></ref><ref id="CR10"><label>10.</label><citation-alternatives><element-citation id="ec-CR10" publication-type="journal"><person-group person-group-type="author"><name><surname>Oren</surname><given-names>O</given-names></name><name><surname>Gersh</surname><given-names>BJ</given-names></name><name><surname>Bhatt</surname><given-names>DL</given-names></name></person-group><article-title>Artificial intelligence in medical imaging: switching from radiographic pathological data to clinically meaningful endpoints</article-title><source>Lancet Digit Health</source><year>2020</year><pub-id pub-id-type="doi">10.1016/S2589-7500(20)30160-6</pub-id><pub-id pub-id-type="pmid">33328116</pub-id>
+</element-citation><mixed-citation id="mc-CR10" publication-type="journal">Oren O, Gersh BJ, Bhatt DL. Artificial intelligence in medical imaging: switching from radiographic pathological data to clinically meaningful endpoints. Lancet Digit Health. 2020. 10.1016/S2589-7500(20)30160-6.<pub-id pub-id-type="pmid">33328116</pub-id>
+</mixed-citation></citation-alternatives></ref><ref id="CR11"><label>11.</label><mixed-citation publication-type="other">Shah V. Automatic landmarking and parsing of human anatomy (ALPHA) for innovative and smart MI applications (Whitepaper), Siemens Healthineers (2021).</mixed-citation></ref><ref id="CR12"><label>12.</label><citation-alternatives><element-citation id="ec-CR12" publication-type="journal"><person-group person-group-type="author"><name><surname>Nii</surname><given-names>T</given-names></name><name><surname>Hosokawa</surname><given-names>S</given-names></name><name><surname>Kotani</surname><given-names>T</given-names></name><name><surname>Domoto</surname><given-names>H</given-names></name><name><surname>Nakamura</surname><given-names>Y</given-names></name><name><surname>Tanada</surname><given-names>Y</given-names></name><name><surname>Kondo</surname><given-names>R</given-names></name><name><surname>Takahashi</surname><given-names>Y</given-names></name></person-group><article-title>Evaluation of data-driven respiration gating in continuous bed motion in lung lesions</article-title><source>J Nucl Med Technol</source><year>2023</year><pub-id pub-id-type="doi">10.2967/jnmt.122.264909</pub-id><pub-id pub-id-type="pmid">36750380</pub-id>
+</element-citation><mixed-citation id="mc-CR12" publication-type="journal">Nii T, Hosokawa S, Kotani T, Domoto H, Nakamura Y, Tanada Y, Kondo R, Takahashi Y. Evaluation of data-driven respiration gating in continuous bed motion in lung lesions. J Nucl Med Technol. 2023. 10.2967/jnmt.122.264909.<pub-id pub-id-type="pmid">36750380</pub-id>
+</mixed-citation></citation-alternatives></ref><ref id="CR13"><label>13.</label><mixed-citation publication-type="other">Agrigoroaie L, Longo M, Garcia C, Anizan N, Balleyguier C, Henry T. Quantification in Respiratory-Gated PET Acquisition: Can data-driven methods replace device-based systems?, J Nucl Med 69 (2023).</mixed-citation></ref><ref id="CR14"><label>14.</label><citation-alternatives><element-citation id="ec-CR14" publication-type="journal"><person-group person-group-type="author"><name><surname>Dias</surname><given-names>AH</given-names></name><name><surname>Schleyer</surname><given-names>P</given-names></name><name><surname>Vendelbo</surname><given-names>MH</given-names></name><name><surname>Hjorthaug</surname><given-names>K</given-names></name><name><surname>Gormsen</surname><given-names>LC</given-names></name><name><surname>Munk</surname><given-names>OL</given-names></name></person-group><article-title>Clinical feasibility and impact of data-driven respiratory motion compensation studied in 200 whole-body 18F-FDG PET/CT scans</article-title><source>EJNMMI Res</source><year>2022</year><pub-id pub-id-type="doi">10.1186/s13550-022-00887-x</pub-id><pub-id pub-id-type="pmid">36210377</pub-id>
+</element-citation><mixed-citation id="mc-CR14" publication-type="journal">Dias AH, Schleyer P, Vendelbo MH, Hjorthaug K, Gormsen LC, Munk OL. Clinical feasibility and impact of data-driven respiratory motion compensation studied in 200 whole-body 18F-FDG PET/CT scans. EJNMMI Res. 2022. 10.1186/s13550-022-00887-x.<pub-id pub-id-type="pmid">36210377</pub-id>
+</mixed-citation></citation-alternatives></ref><ref id="CR15"><label>15.</label><mixed-citation publication-type="other">Rosslyn V. National Electrical Manufactures Association, Standards Publications NU-2: Performance Measurements of Positron Emission Tomographs, (2007).</mixed-citation></ref><ref id="CR16"><label>16.</label><mixed-citation publication-type="other">EANM, Manual EARL Accreditation, Vienna, 2023. <ext-link ext-link-type="uri" xlink:href="https://earl.eanm.org/wp-content/uploads/2023/05/EARL_Manual_4.2.pdf">https://earl.eanm.org/wp-content/uploads/2023/05/EARL_Manual_4.2.pdf</ext-link> Accessed 28 May 2025.</mixed-citation></ref><ref id="CR17"><label>17.</label><citation-alternatives><element-citation id="ec-CR17" publication-type="journal"><person-group person-group-type="author"><name><surname>Keall</surname><given-names>PJ</given-names></name><name><surname>Mageras</surname><given-names>GS</given-names></name><name><surname>Balter</surname><given-names>JM</given-names></name><name><surname>Emery</surname><given-names>RS</given-names></name><name><surname>Forster</surname><given-names>KM</given-names></name><name><surname>Jiang</surname><given-names>SB</given-names></name><name><surname>Kapatoes</surname><given-names>JM</given-names></name><name><surname>Low</surname><given-names>DA</given-names></name><name><surname>Murphy</surname><given-names>MJ</given-names></name><name><surname>Murray</surname><given-names>BR</given-names></name><name><surname>Ramsey</surname><given-names>CR</given-names></name><name><surname>Van Herk</surname><given-names>MB</given-names></name><name><surname>Vedam</surname><given-names>SS</given-names></name><name><surname>Wong</surname><given-names>JW</given-names></name><name><surname>Yorke</surname><given-names>E</given-names></name></person-group><article-title>The management of respiratory motion in radiation oncology report of AAPM Task Group 76</article-title><source>Med Phys</source><year>2006</year><pub-id pub-id-type="doi">10.1118/1.2349696</pub-id><pub-id pub-id-type="pmid">17153383</pub-id>
+</element-citation><mixed-citation id="mc-CR17" publication-type="journal">Keall PJ, Mageras GS, Balter JM, Emery RS, Forster KM, Jiang SB, Kapatoes JM, Low DA, Murphy MJ, Murray BR, Ramsey CR, Van Herk MB, Vedam SS, Wong JW, Yorke E. The management of respiratory motion in radiation oncology report of AAPM Task Group 76. Med Phys. 2006. 10.1118/1.2349696.<pub-id pub-id-type="pmid">17153383</pub-id>
+</mixed-citation></citation-alternatives></ref><ref id="CR18"><label>18.</label><citation-alternatives><element-citation id="ec-CR18" publication-type="journal"><person-group person-group-type="author"><name><surname>B&#x000fc;ther</surname><given-names>F</given-names></name><name><surname>Jones</surname><given-names>J</given-names></name><name><surname>Seifert</surname><given-names>R</given-names></name><name><surname>Stegger</surname><given-names>L</given-names></name><name><surname>Schleyer</surname><given-names>P</given-names></name><name><surname>Sch&#x000e4;fers</surname><given-names>M</given-names></name></person-group><article-title>Clinical evaluation of a data-driven respiratory gating algorithm for whole-body PET with continuous bed motion</article-title><source>J Nucl Med</source><year>2020</year><volume>61</volume><fpage>1520</fpage><lpage>1527</lpage><pub-id pub-id-type="doi">10.2967/jnumed.119.235770</pub-id><pub-id pub-id-type="pmid">32060218</pub-id>
+</element-citation><mixed-citation id="mc-CR18" publication-type="journal">B&#x000fc;ther F, Jones J, Seifert R, Stegger L, Schleyer P, Sch&#x000e4;fers M. Clinical evaluation of a data-driven respiratory gating algorithm for whole-body PET with continuous bed motion. J Nucl Med. 2020;61:1520&#x02013;7. 10.2967/jnumed.119.235770.<pub-id pub-id-type="pmid">32060218</pub-id>
+</mixed-citation></citation-alternatives></ref><ref id="CR19"><label>19.</label><mixed-citation publication-type="other">Schleyer P, Hong I, Jones J, Hamill J, Panin V, Fuerst S. Data-driven respiratory gating whole body PET using continuous bed motion. In: 2018 IEEE nuclear science symposium and medical imaging conference proceedings (NSS/MIC), IEEE, 2018. pp. 1&#x02013;5. 10.1109/NSSMIC.2018.8824401</mixed-citation></ref><ref id="CR20"><label>20.</label><mixed-citation publication-type="other">Dieckens D, Lavalaye J, Romijn L, Habraken J. Contrast-noise-ratio (CNR) analysis and optimisation of breast-specific gamma imaging (BSGI) acquisition protocols, 2013.</mixed-citation></ref><ref id="CR21"><label>21.</label><citation-alternatives><element-citation id="ec-CR21" publication-type="journal"><person-group person-group-type="author"><name><surname>Bouyeure-Petit</surname><given-names>AC</given-names></name><name><surname>Chastan</surname><given-names>M</given-names></name><name><surname>Edet-Sanson</surname><given-names>A</given-names></name><name><surname>Becker</surname><given-names>S</given-names></name><name><surname>Thureau</surname><given-names>S</given-names></name><name><surname>Houivet</surname><given-names>E</given-names></name><name><surname>Vera</surname><given-names>P</given-names></name><name><surname>Hapdey</surname><given-names>S</given-names></name></person-group><article-title>Clinical respiratory motion correction software (reconstruct, register and averaged-RRA), for 18F-FDGPET- CT: phantom validation, practical implications and patient evaluation</article-title><source>Br J Radiol</source><year>2017</year><pub-id pub-id-type="doi">10.1259/bjr.20160549</pub-id><pub-id pub-id-type="pmid">27936893</pub-id>
+</element-citation><mixed-citation id="mc-CR21" publication-type="journal">Bouyeure-Petit AC, Chastan M, Edet-Sanson A, Becker S, Thureau S, Houivet E, Vera P, Hapdey S. Clinical respiratory motion correction software (reconstruct, register and averaged-RRA), for 18F-FDGPET- CT: phantom validation, practical implications and patient evaluation. Br J Radiol. 2017. 10.1259/bjr.20160549.<pub-id pub-id-type="pmid">27936893</pub-id>
+</mixed-citation></citation-alternatives></ref><ref id="CR22"><label>22.</label><citation-alternatives><element-citation id="ec-CR22" publication-type="journal"><person-group person-group-type="author"><name><surname>Brankov</surname><given-names>JG</given-names></name></person-group><article-title>Evaluation of the channelized Hotelling observer with an internal-noise model in a train-test paradigm for cardiac SPECT defect detection</article-title><source>Phys Med Biol</source><year>2013</year><volume>58</volume><fpage>7159</fpage><lpage>7182</lpage><pub-id pub-id-type="doi">10.1088/0031-9155/58/20/7159</pub-id><pub-id pub-id-type="pmid">24051342</pub-id>
+</element-citation><mixed-citation id="mc-CR22" publication-type="journal">Brankov JG. Evaluation of the channelized Hotelling observer with an internal-noise model in a train-test paradigm for cardiac SPECT defect detection. Phys Med Biol. 2013;58:7159&#x02013;82. 10.1088/0031-9155/58/20/7159.<pub-id pub-id-type="pmid">24051342</pub-id>
+</mixed-citation></citation-alternatives></ref></ref-list></back></article>

@@ -1,0 +1,658 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Int J Comput Assist Radiol Surg</journal-id><journal-id journal-id-type="iso-abbrev">Int J Comput Assist Radiol Surg</journal-id><journal-title-group><journal-title>International Journal of Computer Assisted Radiology and Surgery</journal-title></journal-title-group><issn pub-type="ppub">1861-6410</issn><issn pub-type="epub">1861-6429</issn><publisher><publisher-name>Springer Berlin Heidelberg</publisher-name><publisher-loc>Berlin/Heidelberg</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26615428</article-id><article-id pub-id-type="pmc">4958402</article-id><article-id pub-id-type="publisher-id">1326</article-id><article-id pub-id-type="doi">10.1007/s11548-015-1326-7</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>A novel platform for electromagnetic navigated ultrasound bronchoscopy (EBUS)</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Sorger</surname><given-names>Hanne</given-names></name><address><phone>+47 91816787</phone><email>hannesorger@msn.com</email><email>hanne.sorger@ntnu.no</email></address><xref ref-type="aff" rid="Aff1"/><xref ref-type="aff" rid="Aff2"/><xref ref-type="aff" rid="Aff4"/></contrib><contrib contrib-type="author"><name><surname>Hofstad</surname><given-names>Erlend Fagertun</given-names></name><xref ref-type="aff" rid="Aff3"/></contrib><contrib contrib-type="author"><name><surname>Amundsen</surname><given-names>Tore</given-names></name><xref ref-type="aff" rid="Aff1"/><xref ref-type="aff" rid="Aff2"/></contrib><contrib contrib-type="author"><name><surname>Lang&#x000f8;</surname><given-names>Thomas</given-names></name><xref ref-type="aff" rid="Aff3"/></contrib><contrib contrib-type="author"><name><surname>Leira</surname><given-names>H&#x000e5;kon Olav</given-names></name><xref ref-type="aff" rid="Aff1"/><xref ref-type="aff" rid="Aff2"/></contrib><aff id="Aff1"><label/>Department of Thoracic Medicine, St. Olavs Hospital, Postboks 3250, Sluppen, 7006 Trondheim, Norway </aff><aff id="Aff2"><label/>Department of Circulation and Medical Imaging, Faculty of Medicine, Norwegian University of Science and Technology (NTNU), AHL-senteret, Prinsesse Kristinas gate 3, Trondheim, Norway </aff><aff id="Aff3"><label/>Department Medical Technology, SINTEF, Technology and Society, Trondheim, Norway </aff><aff id="Aff4"><label/>Department of Medicine, Levanger Hospital, Nord-Tr&#x000f8;ndelag Health Trust, Levanger, Norway </aff></contrib-group><pub-date pub-type="epub"><day>28</day><month>11</month><year>2015</year></pub-date><pub-date pub-type="pmc-release"><day>28</day><month>11</month><year>2015</year></pub-date><pub-date pub-type="ppub"><year>2016</year></pub-date><volume>11</volume><fpage>1431</fpage><lpage>1443</lpage><history><date date-type="received"><day>3</day><month>7</month><year>2015</year></date><date date-type="accepted"><day>6</day><month>11</month><year>2015</year></date></history><permissions><copyright-statement>&#x000a9; The Author(s) 2015</copyright-statement><license license-type="OpenAccess"><license-p>
+<bold>Open Access</bold>This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.</license-p></license></permissions><abstract id="Abs1"><sec><title>Purpose</title><p>Endobronchial ultrasound transbronchial needle aspiration (EBUS-TBNA) of mediastinal lymph nodes is essential for lung cancer staging and distinction between curative and palliative treatment. Precise sampling is crucial. Navigation and multimodal imaging may improve the efficiency of EBUS-TBNA. We demonstrate a novel EBUS-TBNA navigation system in a dedicated airway phantom.</p></sec><sec><title>Methods</title><p>Using a convex probe EBUS bronchoscope (CP-EBUS) with an integrated sensor for electromagnetic (EM) position tracking, we performed navigated CP-EBUS in a phantom. Preoperative computed tomography (CT) and real-time ultrasound (US) images were integrated into a navigation platform for EM navigated bronchoscopy. The coordinates of targets in CT and US volumes were registered in the navigation system, and the position deviation was calculated.</p></sec><sec><title>Results</title><p>The system visualized all tumor models and displayed their fused CT and US images in correct positions in the navigation system. Navigating the EBUS bronchoscope was fast and easy. Mean error observed between US and CT positions for 11 target lesions (37 measurements) was <inline-formula id="IEq1"><alternatives><tex-math id="M1">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$2.8\pm 1.0$$\end{document}</tex-math><mml:math id="M2"><mml:mrow><mml:mn>2.8</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>1.0</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq1.gif"/></alternatives></inline-formula>&#x000a0;mm, maximum error was 5.9&#x000a0;mm.</p></sec><sec><title>Conclusion</title><p>The feasibility of our novel navigated CP-EBUS system was successfully demonstrated. An EBUS navigation system is needed to meet future requirements of precise mediastinal lymph node mapping, and provides new opportunities for procedure documentation in EBUS-TBNA.</p></sec></abstract><kwd-group xml:lang="en"><title>Keywords</title><kwd>Electromagnetic navigation</kwd><kwd>Endobronchial ultrasound </kwd><kwd>Convex probe endobronchial ultrasound (CP-EBUS)</kwd><kwd>Navigated ultrasound bronchoscopy</kwd><kwd>Navigated EBUS</kwd><kwd>Multimodal image fusion</kwd></kwd-group><funding-group><award-group><funding-source><institution>Liaison Committee between the Central Norway Regional Health Authority (RHA)</institution></funding-source><award-id>46056934</award-id><principal-award-recipient><name><surname>Sorger</surname><given-names>Hanne</given-names></name></principal-award-recipient></award-group><award-group><funding-source><institution>EEA Financial Mechanism 2009 - 2014</institution></funding-source><award-id>3SEE/30.06.2014</award-id><principal-award-recipient><name><surname>Lang&#x000f8;</surname><given-names>Thomas</given-names></name></principal-award-recipient></award-group><award-group><funding-source><institution>Research Council of Norway</institution></funding-source><award-id>196726/V50 eMIT</award-id><principal-award-recipient><name><surname>Leira</surname><given-names>H&#x000e5;kon Olav</given-names></name></principal-award-recipient></award-group></funding-group><custom-meta-group><custom-meta><meta-name>issue-copyright-statement</meta-name><meta-value>&#x000a9; CARS 2016</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="Sec1"><title>Introduction</title><p>Lung cancer is the second most frequent cancer worldwide, and five-year survival rates are only 10&#x02013;15&#x000a0;% [<xref ref-type="bibr" rid="CR1">1</xref>, <xref ref-type="bibr" rid="CR2">2</xref>]. The clinical challenge is early identification of patients with limited disease, who have a markedly better prognosis and should be offered curative treatment [<xref ref-type="bibr" rid="CR3">3</xref>]. Metastatic involvement of mediastinal lymph nodes rules out surgery, and thorough mediastinal investigation is therefore the crucial point of the diagnostic work-up.</p><p>Endobronchial ultrasound transbronchial needle aspiration (EBUS-TBNA) is now the method of choice for tissue confirmation of mediastinal lymph node metastasis [<xref ref-type="bibr" rid="CR4">4</xref>&#x02013;<xref ref-type="bibr" rid="CR9">9</xref>], and helps avoid futile more invasive lung cancer staging procedures [<xref ref-type="bibr" rid="CR10">10</xref>&#x02013;<xref ref-type="bibr" rid="CR15">15</xref>]. An ultrasound (US) probe in the tip of the bronchoscope allows visualization and guides fine-needle sampling of anatomical structures outside the tracheobronchial wall (Fig. <xref rid="Fig1" ref-type="fig">1</xref>).<fig id="Fig1"><label>Fig. 1</label><caption><p>Convex probe endobronchial ultrasound (CP-EBUS) guiding real-time transbronchial fine-needle aspiration of a mediastinal lymph node. The sampling needle is visualized sonographically inside the lymph node. Video bronchoscopy is displayed simultaneously (<italic>bottom left</italic>). The transbronchial needle system emerges from the bronchoscope&#x02019;s working channel just proximal to the CP-EBUS probe (<italic>top right</italic>)</p></caption><graphic xlink:href="11548_2015_1326_Fig1_HTML" id="MO1"/></fig></p><p>For real-time TBNA guiding of lymph nodes positioned close to the central airways, the convex probe EBUS bronchoscope (CP-EBUS) is superior [<xref ref-type="bibr" rid="CR16">16</xref>]. In CP-EBUS, a curvilinear US probe (normally 7.5&#x000a0;MHz, frequency range 5&#x02013;12&#x000a0;MHz) scans a <inline-formula id="IEq2"><alternatives><tex-math id="M3">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$60^{\circ }$$\end{document}</tex-math><mml:math id="M4"><mml:msup><mml:mn>60</mml:mn><mml:mo>&#x02218;</mml:mo></mml:msup></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq2.gif"/></alternatives></inline-formula> image sector parallel to the shaft of the bronchoscope (Fig. <xref rid="Fig1" ref-type="fig">1</xref>). Video bronchoscopy is displayed simultaneously on the US monitor and used for endobronchial inspection and localization of the approximate region of interest. The target lesion is identified sonographically, if necessary by using a water-filled disposable latex balloon attached to the US probe. Under direct US visualization, a transbronchial needle system is inserted through the working channel of the bronchoscope, advanced until emerging proximal to the US probe, and pushed through the bronchial wall into the target lymph node (Fig. <xref rid="Fig1" ref-type="fig">1</xref>). Using intermittent suction and agitation of the needle, a specimen is aspirated. After suction is released, the entire needle system is removed from the bronchoscope in one movement. The cytological material is deposited on a microscope slide for smear preparation. The number of needle aspirations per target can impact the diagnostic yield of CP-EBUS-TBNA, and three punctures are recommended [<xref ref-type="bibr" rid="CR17">17</xref>].</p><p>Although the method&#x02019;s sensitivity and diagnostic accuracy are excellent [<xref ref-type="bibr" rid="CR11">11</xref>, <xref ref-type="bibr" rid="CR12">12</xref>, <xref ref-type="bibr" rid="CR15">15</xref>], CP-EBUS-TBNA is highly operator-dependent. The bronchoscopist&#x02019;s ability to remember the spatial position of the target lymph node from preoperative images is crucial. Anatomical changes can also occur between preoperative imaging and the diagnostic bronchoscopy. Real-time correction with US is necessary, particularly due to respiratory movements. The drawbacks of 2D EBUS are that the field of view is small, the identification of pathological structures can be hard, and artifacts are common. Puncturing the wrong lymph node will have important clinical implications in lung cancer staging. Especially with less experienced operators and in patients with multiple adjacent lymph nodes in the same anatomical region, this is a real possibility. Close attention should therefore be paid to reduce intraoperative technical- and operator-related factors causing errors in CP-EBUS-guided sampling and clinical decision making.</p><p>In lung cancer staging, CP-EBUS-TBNA has previously targeted mainly lymph nodes that are pathologically enlarged (<inline-formula id="IEq3"><alternatives><tex-math id="M5">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$&#x0003e;$$\end{document}</tex-math><mml:math id="M6"><mml:mo>&#x0003e;</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq3.gif"/></alternatives></inline-formula>10&#x000a0;mm) in the preoperative CT scan, and/or nodes that are positron emission tomography&#x02013;computed tomography (PET&#x02013;CT) positive. The clinical use of CP-EBUS-TBNA is currently shifting toward routine systematic mapping of even normal size (5&#x02013;10&#x000a0;mm) lymph nodes below the detection size for PET&#x02013;CT [<xref ref-type="bibr" rid="CR7">7</xref>]. These nodes are technically more challenging to sample, and the clinical need for precise and effective guiding during CP-EBUS-TBNA is therefore increasing.</p><p>Advanced image-guiding technology, such as electromagnetic navigated bronchoscopy (ENB), can facilitate endoscopic access to mediastinal lymph nodes [<xref ref-type="bibr" rid="CR18">18</xref>&#x02013;<xref ref-type="bibr" rid="CR23">23</xref>]. In ENB systems, intraoperative navigation is made possible by sensors for position tracking of the bronchoscope and/or sampling tools in an electromagnetic (EM) field generated around the patient in the bronchoscopy suite. Combined US and ENB for increased sampling precision during bronchoscopy has also been explored with commercially available systems, but only using the radial US probe (RP-EBUS) designed for the peripheral airways and without real-time tracking of the EBUS images [<xref ref-type="bibr" rid="CR24">24</xref>, <xref ref-type="bibr" rid="CR25">25</xref>]. The improvement in diagnostic yield was not enough to justify widespread adoption of the combined technology.</p><p>Real-time position tracking of any EBUS bronchoscope (RP-EBUS and CP-EBUS) has not been available so far. Only a few research groups have addressed this issue. Luo and Mori have presented a research system for navigated RP-EBUS, trying to improve position control during sampling of lung tumors in the peripheral airways [<xref ref-type="bibr" rid="CR26">26</xref>]. The system implies preoperative CT images, electromagnetic tracking (EMT), and position measurements from external sensors mounted on an US miniprobe and a flexible bronchoscope. The reported tracking accuracy (CT/EMT registration accuracy) was 2.6&#x000a0;mm in preclinical studies [<xref ref-type="bibr" rid="CR26">26</xref>]. In 2011, Mori et al. presented another technical solution for navigated RP-EBUS based on CT&#x02013;US calibration [<xref ref-type="bibr" rid="CR27">27</xref>], reporting a total accuracy of 0.97&#x000a0;mm in a preclinical phantom experiment. This has yet to be validated in clinical studies.</p><p>Another system for multimodal image guiding in bronchoscopy was recently presented by Zang et al. [<xref ref-type="bibr" rid="CR28">28</xref>]. Their prototype integrates data from a CP-EBUS bronchoscope into their own, previously developed virtual bronchoscopy (VBN) image-guided intervention system [<xref ref-type="bibr" rid="CR29">29</xref>]. The operator uses the preoperative CT volume to define a diagnostic region of interest. An optimal airway navigation route to target is calculated in the VBN system, and 2D CP-EBUS images are synchronized with CT data intraoperatively. The system is able to reconstruct and depict the 3D CP-EBUS volume around the region of interest, but this requires user-selected CP-EBUS key frames in advance.</p><p>Our research group has previously developed software and hardware platforms for image-guided interventions [<xref ref-type="bibr" rid="CR30">30</xref>&#x02013;<xref ref-type="bibr" rid="CR33">33</xref>]. In this paper, we present a prototype EM navigation system designed for CP-EBUS-TBNA of mediastinal lymph nodes, with intraoperative position tracking of the EBUS bronchoscope. The system fuses preoperative computed tomography (CT) and real-time 2D US images in our existing platform for ENB. Taking advantage of the high spatial resolution and 3D overview of preoperative CT combined with the temporal resolution of real-time 2D US, the hope is to overcome the disadvantages of each imaging method alone.</p><p>We suggest that EM navigated CP-EBUS and multimodal imaging may improve CP-EBUS-TBNA precision in lung cancer staging, shorten the procedure time, provide new possibilities for documentation, and serve as a learning tool for apprentice endoscopists. The purpose of this phantom study was to validate the preclinical feasibility of the navigated CP-EBUS experimental platform. The paper describes technical components, accuracy measurements, and possible future applications of the new technology.</p></sec><sec id="Sec2"><title>Materials and methods</title><sec id="Sec3"><title>Experimental setup</title><p>The navigated EBUS system is based on an existing navigation research platform, CustusX (SINTEF, Trondheim, Norway, <ext-link ext-link-type="uri" xlink:href="http://www.custusx.org">http://www.custusx.org</ext-link>) [<xref ref-type="bibr" rid="CR34">34</xref>]. Figure <xref rid="Fig2" ref-type="fig">2</xref> shows the pre- and intraoperative workflow of EM navigated CP-EBUS. Main system components are:</p><p><italic>Computer and software</italic><list list-type="bullet"><list-item><p>Desktop computer [AMD FX(<inline-formula id="IEq4"><alternatives><tex-math id="M7">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$^\mathrm{TM}$$\end{document}</tex-math><mml:math id="M8"><mml:msup><mml:mrow/><mml:mi mathvariant="normal">TM</mml:mi></mml:msup></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq4.gif"/></alternatives></inline-formula>)-8350 Eight-Core Processor, 32 GB Memory, Ubuntu 12.04 64-bit]</p></list-item><list-item><p>Research navigation software platform (CustusX)</p></list-item></list><italic>Bronchoscopy equipment</italic><list list-type="bullet"><list-item><p>Flexible bronchoscope (Olympus BF Q160, Olympus, Tokyo, Japan) for ENB</p></list-item><list-item><p>CP-EBUS bronchoscope (Olympus BF UC16OF, Olympus, Tokyo, Japan) for navigated EBUS</p></list-item><list-item><p>Video processing unit (Olympus, CV-190, Olympus, Tokyo, Japan)</p></list-item><list-item><p>Light source (Olympus CLV-190, Olympus, Tokyo, Japan)</p></list-item><list-item><p>Ultrasound processor (Olympus EUS Exera EU-C60, Olympus, Tokyo, Japan)</p></list-item></list><italic>Electromagnetic position tracking system</italic><list list-type="bullet"><list-item><p><inline-formula id="IEq5"><alternatives><tex-math id="M9">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\hbox {Aurora}^{\circledR }$$\end{document}</tex-math><mml:math id="M10"><mml:msup><mml:mtext>Aurora</mml:mtext><mml:mo>&#x000ae;</mml:mo></mml:msup></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq5.gif"/></alternatives></inline-formula> (Northern Digital Inc. (NDI), Waterloo, ON, Canada)</p></list-item><list-item><p>Tracking sensor (Aurora 6DOF Probe, Straight Tip, Standard, Northern Digital Inc., Waterloo, ON, Canada)</p></list-item></list><italic>Phantom</italic><list list-type="bullet"><list-item><p>An in-house prepared gelatin-based airway phantom, containing silicone tumor models/targets</p></list-item></list><fig id="Fig2"><label>Fig. 2</label><caption><p>Schematic workflow of navigated convex probe endobronchial ultrasound (CP-EBUS) in the diagnosis of mediastinal lymph node metastasis in a fictive lung cancer case. (1) Mediastinal lymph nodes suspect of metastasis are identified in preoperative 2D CT and/or PET&#x02013;CT images (<italic>top left</italic>), defining the region of interest for CP-EBUS-guided sampling. If a primary lung tumor is also visible, bronchoscopic sampling of the tumor is also considered; (2) the CT images are preprocessed. The target for sampling (lymph node, tumor) is segmented, and the airway centerline is extracted (<italic>bottom left</italic>); (3) image-to-patient centerline-based registration is performed in the operation room in the first phase of EBUS (<italic>top right</italic>, EBUS figure by Terese Winslow, Bronchoscopy, NCI Visuals Online, National Cancer Institute); (4) the level of the target lesion is identified by combined video bronchoscopy and electromagnetic (EM) position tracking of the CP-EBUS bronchoscope (EM navigation, <italic>middle right</italic>), (5) 2D EBUS (<italic>middle right</italic>) is used for target confirmation and visualization when the region of interest is approached and will aid the physician in deciding an optimal site for transbronchial needle aspiration (TBNA) (EM navigated CP-EBUS, <italic>bottom right</italic>), (6) TBNA from the target lymph node can be performed (<italic>bottom right</italic>). A cytology smear will reveal whether metastatic lung cancer is present</p></caption><graphic xlink:href="11548_2015_1326_Fig2_HTML" id="MO2"/></fig></p></sec><sec id="Sec4"><title>Navigation platform</title><p>The research and development system for intraoperative image guiding upon which the navigated EBUS platform is based, CustusX, is open source (<ext-link ext-link-type="uri" xlink:href="http://www.custusx.org">http://www.custusx.org</ext-link>). The system is used by researchers and commercial vendors both internationally and as part of a national research infrastructure. CustusX is already applied in other clinical areas, f.i. neurosurgery, laparoscopy, endovascular therapy, and lung endoscopy [<xref ref-type="bibr" rid="CR30">30</xref>&#x02013;<xref ref-type="bibr" rid="CR34">34</xref>].</p><p>CustusX has modules for importing preoperative radiology images and for real-time streaming and visualization of intraoperative images such as US. The navigation system combines information from the pre- and intraoperative images with information from EM or optical position tracking systems reporting the position and orientation of surgical instruments, in this case the bronchoscope with EMT (Fig.&#x000a0;<xref rid="Fig2" ref-type="fig">2</xref>) [<xref ref-type="bibr" rid="CR32">32</xref>, <xref ref-type="bibr" rid="CR34">34</xref>].</p><p>Image preprocessing involves extracting anatomical structures (e.g., airways, tumor, lymph nodes) and line segments representing the airway centerline (Fig. <xref rid="Fig2" ref-type="fig">2</xref>). A time-saving automatic airway and centerline segmentation method was recently integrated in CustusX [<xref ref-type="bibr" rid="CR35">35</xref>]. Tumors and lymph nodes are semiautomatically or manually segmented in external software (OsiriX [<xref ref-type="bibr" rid="CR36">36</xref>] and ITK-SNAP [<xref ref-type="bibr" rid="CR37">37</xref>]).</p><p>The navigation platform allows several opportunities for graphical user interface (GUI) organization [<xref ref-type="bibr" rid="CR34">34</xref>], e.g., four panels with axial, coronal, and sagittal (ACS) CT views, and a main window displaying a 3D view of the bronchial tree or airway centerline [<xref ref-type="bibr" rid="CR32">32</xref>]. A model of the tracked tool tip is integrated. Target lesions are outlined by segmentation. While the surface model and volume rendering provides overview, the orthogonal slices ACS, or alternatively a plane following the position and orientation of the tracked tool (any plane), provide important details from the original preoperative images. Movement of the EBUS bronchoscope shifts the GUI slices accordingly in real time. The boundaries of the US cone in the corresponding plane are visualized as a white sector in the CT panel and main window.</p><p>The exact location of the bronchoscope during sampling (in relation to image modality) and the relevant anatomical area covered during the procedure are documented and stored in the navigated EBUS system, and the whole procedure may later be replayed.</p></sec><sec id="Sec5"><title>Bronchoscopy equipment</title><p>Our research group has previously modified a flexible bronchoscope, integrating an EMT sensor for position tracking [<xref ref-type="bibr" rid="CR38">38</xref>]. We have also made a prototype traceable US bronchoscope (2.0&#x000a0;mm work channel) (Fig. <xref rid="Fig3" ref-type="fig">3</xref>). A six degrees-of-freedom (DOF) EMT sensor has been attached parallel to the bending section, making it possible to track the movement of the EBUS bronchoscope in 3D space inside the patient/model. The EBUS bronchoscope is connected to the bronchoscopy monitor, a video processing unit, light source, and US processor. The combined navigation/US scene is displayed on a separate monitor (Fig. <xref rid="Fig4" ref-type="fig">4</xref>).<fig id="Fig3"><label>Fig. 3</label><caption><p>Prototype convex probe endobronchial ultrasound (CP-EBUS) bronchoscope with electromagnetic sensor integrated for position tracking</p></caption><graphic xlink:href="11548_2015_1326_Fig3_HTML" id="MO3"/></fig><fig id="Fig4"><label>Fig. 4</label><caption><p>OR setup and interface during navigated convex probe endobronchial ultrasound (CP-EBUS) of a phantom model</p></caption><graphic xlink:href="11548_2015_1326_Fig4_HTML" id="MO4"/></fig></p></sec><sec id="Sec6"><title>Electromagnetic tracking</title><p>The position of the EMT sensor and hence the US transducer of the EBUS bronchoscope is measured using the Aurora Electromagnetic Tracking System<inline-formula id="IEq6"><alternatives><tex-math id="M11">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$^{\circledR }$$\end{document}</tex-math><mml:math id="M12"><mml:msup><mml:mrow/><mml:mo>&#x000ae;</mml:mo></mml:msup></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq6.gif"/></alternatives></inline-formula>. The tracking system consists of a system control unit, maximum of four system interface units for position sensor inputs, and a field generator that generates an electromagnetic tracking volume. The sensors sample positions at a frequency of 40&#x000a0;Hz, with an accuracy of 0.48&#x000a0;mm, according to the manufacturer [<xref ref-type="bibr" rid="CR39">39</xref>].</p></sec><sec id="Sec7"><title>Phantom</title><p>For this navigated EBUS feasibility experiment, we prepared a gelatin-based airway phantom mimicking the trachea and main bronchi, containing silicone tumor models serving as targets (Fig. <xref rid="Fig5" ref-type="fig">5</xref>). The targets were positioned mimicking mediastinal lymph node stations assigned 2, 4, 7, 10L, and 11R according to the IASLC nomenclature 7th edition [<xref ref-type="bibr" rid="CR6">6</xref>]. Ten fiducial markers were evenly distributed on the phantom container, for the purpose of image registration. An EM positioning reference sensor was mounted on the phantom. CT of the phantom was performed preoperatively (Siemens Somatom Sensation, 64 slices, software syngo CT 2007S, VX68A, SL02P04, Windows 5.1), slice thickness 0.3 millimeters. CT images were imported into the navigation system. Tumor models were segmented using a thresholding method [<xref ref-type="bibr" rid="CR35">35</xref>].<fig id="Fig5"><label>Fig. 5</label><caption><p>Gelatin-based airway phantom used for endoscopy. The course and divisions of the phantom airways are indicated by a <italic>red line</italic>. All tumor models are assigned numbers according to their location in the phantom mediastinal space, and a letter indicating right (<italic>R</italic>) or left (<italic>L</italic>) side</p></caption><graphic xlink:href="11548_2015_1326_Fig5_HTML" id="MO5"/></fig></p></sec><sec id="Sec8"><title>Relationship between the coordinate systems</title><p>The transformations between the coordinate systems described in this paper are illustrated in Fig. <xref rid="Fig6" ref-type="fig">6</xref>. A reference position sensor <italic>R</italic> was attached to the phantom, and another position sensor <italic>B</italic> was mounted close to the tip of the EBUS bronchoscope. The tracking system reported the position of sensor <italic>B</italic> relative to the reference sensor <italic>R</italic>, i.e., the transformation <inline-formula id="IEq7"><alternatives><tex-math id="M13">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${}^{R} T_{B}^{i}$$\end{document}</tex-math><mml:math id="M14"><mml:mrow><mml:msup><mml:mrow/><mml:mi>R</mml:mi></mml:msup><mml:msubsup><mml:mi>T</mml:mi><mml:mrow><mml:mi>B</mml:mi></mml:mrow><mml:mi>i</mml:mi></mml:msubsup></mml:mrow></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq7.gif"/></alternatives></inline-formula> from <italic>R</italic> to <italic>B</italic> at time <italic>i</italic>. The probe calibration, i.e., the transformation from the US image coordinate system to the EBUS sensor coordinate system, is denoted as <inline-formula id="IEq8"><alternatives><tex-math id="M15">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${}^{B} T_\mathrm{US} $$\end{document}</tex-math><mml:math id="M16"><mml:mrow><mml:msup><mml:mrow/><mml:mi>B</mml:mi></mml:msup><mml:msub><mml:mi>T</mml:mi><mml:mi mathvariant="normal">US</mml:mi></mml:msub></mml:mrow></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq8.gif"/></alternatives></inline-formula>. The image registration is the relation between the coordinate systems of the sensor on the phantom and the CT images, <inline-formula id="IEq9"><alternatives><tex-math id="M17">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${}^\mathrm{CT} T_R $$\end{document}</tex-math><mml:math id="M18"><mml:mrow><mml:msup><mml:mrow/><mml:mi mathvariant="normal">CT</mml:mi></mml:msup><mml:msub><mml:mi>T</mml:mi><mml:mi>R</mml:mi></mml:msub></mml:mrow></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq9.gif"/></alternatives></inline-formula>. A position in the ultrasound image in the CT coordinate system is found by:<disp-formula id="Equ1"><alternatives><tex-math id="M19">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} p_\mathrm{CT}^i = { }^\mathrm{CT} T_R \times { }^R T_B^i \times { }^B T_\mathrm{US} \times p_\mathrm{US}^i \end{aligned}$$\end{document}</tex-math><mml:math id="M20" display="block"><mml:mrow><mml:mtable columnspacing="0.5ex"><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msubsup><mml:mi>p</mml:mi><mml:mrow><mml:mi mathvariant="normal">CT</mml:mi></mml:mrow><mml:mi>i</mml:mi></mml:msubsup><mml:mo>=</mml:mo><mml:msup><mml:mrow/><mml:mi mathvariant="normal">CT</mml:mi></mml:msup><mml:msub><mml:mi>T</mml:mi><mml:mi>R</mml:mi></mml:msub><mml:mo>&#x000d7;</mml:mo><mml:msup><mml:mrow/><mml:mi>R</mml:mi></mml:msup><mml:msubsup><mml:mi>T</mml:mi><mml:mi>B</mml:mi><mml:mi>i</mml:mi></mml:msubsup><mml:mo>&#x000d7;</mml:mo><mml:msup><mml:mrow/><mml:mi>B</mml:mi></mml:msup><mml:msub><mml:mi>T</mml:mi><mml:mi mathvariant="normal">US</mml:mi></mml:msub><mml:mo>&#x000d7;</mml:mo><mml:msubsup><mml:mi>p</mml:mi><mml:mrow><mml:mi mathvariant="normal">US</mml:mi></mml:mrow><mml:mi>i</mml:mi></mml:msubsup></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11548_2015_1326_Article_Equ1.gif" position="anchor"/></alternatives></disp-formula>where <inline-formula id="IEq10"><alternatives><tex-math id="M21">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p_\mathrm{US}^i$$\end{document}</tex-math><mml:math id="M22"><mml:msubsup><mml:mi>p</mml:mi><mml:mrow><mml:mi mathvariant="normal">US</mml:mi></mml:mrow><mml:mi>i</mml:mi></mml:msubsup></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq10.gif"/></alternatives></inline-formula> is the position in the ultrasound image coordinate system, i.e., the origin [0 0 0 1].<fig id="Fig6"><label>Fig. 6</label><caption><p>Transformation between the coordinate systems of the ultrasound image (US), the positions sensor on the bronchoscope (B), the reference sensor (R) on the phantom, and the computer tomography image of the phantom (CT)</p></caption><graphic xlink:href="11548_2015_1326_Fig6_HTML" id="MO7"/></fig></p></sec><sec id="Sec9"><title>Registration</title><p>An image registration matches the CT image data to the patient at the start of the bronchoscopy (Figs. <xref rid="Fig2" ref-type="fig">2</xref>, <xref rid="Fig6" ref-type="fig">6</xref>). Both the 3D CT image volume and EM navigation field have excellent spatial accuracy, but need the alignment process to find the rotation and translation between the two physical spaces. The resulting registration matrix, <inline-formula id="IEq11"><alternatives><tex-math id="M23">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${ }^\mathrm{CT} T_R$$\end{document}</tex-math><mml:math id="M24"><mml:mrow><mml:msup><mml:mrow/><mml:mi mathvariant="normal">CT</mml:mi></mml:msup><mml:msub><mml:mi>T</mml:mi><mml:mi>R</mml:mi></mml:msub></mml:mrow></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq11.gif"/></alternatives></inline-formula> in Fig. <xref rid="Fig6" ref-type="fig">6</xref>, enables the navigation system to convert the tracked instrument positions in the navigation field to corresponding positions in the CT image volume. The positions of the fiducials in the coordinate system of the phantom reference sensor (P) were found by using an electromagnetic tracking (EMT) pointer. The fiducials were also pinpointed in the CT image volume. The registration matrix was obtained by using a closed-form method that minimizes the total distance between the corresponding points in the CT image and the coordinate system of the phantom reference.</p><p>CustusX also has a built-in automatic image-to-patient centerline-based registration method [<xref ref-type="bibr" rid="CR38">38</xref>], but this would not provide adequate registration accuracy due to the very simplified phantom airway model in this study [<xref ref-type="bibr" rid="CR38">38</xref>].</p></sec><sec id="Sec10"><title>EBUS probe calibration</title><p>In order to find the spatial relation between the real-time US image and the EMT sensor on the EBUS probe, a probe calibration [<xref ref-type="bibr" rid="CR40">40</xref>] had to be performed. The basic principle of most probe calibration methods is to image an object whose position is known in the tracking coordinate system. We imaged a small plastic sphere (diameter 11.5&#x000a0;mm) mounted on a calibration arm, as illustrated in Fig. <xref rid="Fig7" ref-type="fig">7</xref>. A reference EMT sensor <italic>R</italic> was attached to the calibration arm, and the position of the center of the sphere <inline-formula id="IEq15"><alternatives><tex-math id="M25">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p_R $$\end{document}</tex-math><mml:math id="M26"><mml:msub><mml:mi>p</mml:mi><mml:mi>R</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq15.gif"/></alternatives></inline-formula> relative to the reference sensor was measured prior to the calibration procedure using the tracking system.<fig id="Fig7"><label>Fig. 7</label><caption><p>Imaging target is moved through the ultrasound (US) image plane. <inline-formula id="IEq12"><alternatives><tex-math id="M27">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p_{R} , p_{B}^i\hbox { and }p_\mathrm{US}^i $$\end{document}</tex-math><mml:math id="M28"><mml:mrow><mml:msub><mml:mi>p</mml:mi><mml:mi>R</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:msubsup><mml:mi>p</mml:mi><mml:mrow><mml:mi>B</mml:mi></mml:mrow><mml:mi>i</mml:mi></mml:msubsup><mml:mspace width="0.333333em"/><mml:mtext>and</mml:mtext><mml:mspace width="0.333333em"/><mml:msubsup><mml:mi>p</mml:mi><mml:mrow><mml:mi mathvariant="normal">US</mml:mi></mml:mrow><mml:mi>i</mml:mi></mml:msubsup></mml:mrow></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq12.gif"/></alternatives></inline-formula> describes the coordinate vectors of the image target relative to the sensor on the calibration arm, the sensor on the convex probe endobronchial ultrasound (CP-EBUS) bronchoscope and the US image plane. <inline-formula id="IEq13"><alternatives><tex-math id="M29">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${}^{B} T_\mathrm{US}$$\end{document}</tex-math><mml:math id="M30"><mml:mrow><mml:msup><mml:mrow/><mml:mi>B</mml:mi></mml:msup><mml:msub><mml:mi>T</mml:mi><mml:mi mathvariant="normal">US</mml:mi></mml:msub></mml:mrow></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq13.gif"/></alternatives></inline-formula> and <inline-formula id="IEq14"><alternatives><tex-math id="M31">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${}^{R} T_{B}^i$$\end{document}</tex-math><mml:math id="M32"><mml:mrow><mml:msup><mml:mrow/><mml:mi>R</mml:mi></mml:msup><mml:msubsup><mml:mi>T</mml:mi><mml:mrow><mml:mi>B</mml:mi></mml:mrow><mml:mi>i</mml:mi></mml:msubsup></mml:mrow></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq14.gif"/></alternatives></inline-formula> are matrices describing the transformation from the US image plane to the sensor on the EBUS probe and from the sensor on the CP-EBUS probe to the sensor on the calibration arm</p></caption><graphic xlink:href="11548_2015_1326_Fig7_HTML" id="MO8"/></fig></p><p>The calibration arm was then attached to a six-axis robot arm (UR5, Universal Robots, Odense, Denmark) and submerged in water. The EBUS probe was located in a fixed position directly above the imaging target. The robot arm then moved the plastic sphere slowly (1&#x000a0;mm/s), first through the ultrasound image plane and then in the opposite direction along the same path, resulting in two sequences of recorded US images of the sphere passing through the US plane. This was repeated for nine positions evenly distributed throughout the image plane. For each US image, the transformation <inline-formula id="IEq16"><alternatives><tex-math id="M33">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${ }^R T_B^i$$\end{document}</tex-math><mml:math id="M34"><mml:mrow><mml:msup><mml:mrow/><mml:mi>R</mml:mi></mml:msup><mml:msubsup><mml:mi>T</mml:mi><mml:mi>B</mml:mi><mml:mi>i</mml:mi></mml:msubsup></mml:mrow></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq16.gif"/></alternatives></inline-formula> representing the position and orientation of the US probe relative to the reference sensor on the calibration arm was acquired.</p><p>Next, the position of the plastic sphere within each of the totally 18 US recordings was manually located. Each recording was read into the software MATLAB (MathWorks, Natick, MA, USA) and displayed. The image within the recording where the center of the sphere passed through the US image was found. Furthermore, the location of the sphere center within that image was found by adjusting the position of a virtual circle of the same diameter as the sphere, until its circumference corresponded with the surface of the imaged sphere (Fig. <xref rid="Fig8" ref-type="fig">8</xref>). Thus, the sphere center position in each of the 18 US recordings was found to be <inline-formula id="IEq17"><alternatives><tex-math id="M35">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p_\mathrm{US}^i $$\end{document}</tex-math><mml:math id="M36"><mml:msubsup><mml:mi>p</mml:mi><mml:mrow><mml:mi mathvariant="normal">US</mml:mi></mml:mrow><mml:mi>i</mml:mi></mml:msubsup></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq17.gif"/></alternatives></inline-formula>, for <inline-formula id="IEq18"><alternatives><tex-math id="M37">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$i = 1, \ldots , 18$$\end{document}</tex-math><mml:math id="M38"><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mo>&#x02026;</mml:mo><mml:mo>,</mml:mo><mml:mn>18</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq18.gif"/></alternatives></inline-formula>.<fig id="Fig8"><label>Fig. 8</label><caption><p>An ultrasound image cutting through the imaging target (plastic sphere) during probe calibration. The location of the sphere center within that image was found by adjusting the position of a virtual circle of the same diameter as the sphere, until its circumference corresponded with the surface of the imaged sphere</p></caption><graphic xlink:href="11548_2015_1326_Fig8_HTML" id="MO9"/></fig></p><p>The corresponding transformation <inline-formula id="IEq19"><alternatives><tex-math id="M39">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${ }^R T_B^i $$\end{document}</tex-math><mml:math id="M40"><mml:mrow><mml:msup><mml:mrow/><mml:mi>R</mml:mi></mml:msup><mml:msubsup><mml:mi>T</mml:mi><mml:mi>B</mml:mi><mml:mi>i</mml:mi></mml:msubsup></mml:mrow></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq19.gif"/></alternatives></inline-formula> was then extracted from the tracking data. Combining this information with the previously measured position of the image target <inline-formula id="IEq20"><alternatives><tex-math id="M41">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p_R $$\end{document}</tex-math><mml:math id="M42"><mml:msub><mml:mi>p</mml:mi><mml:mi>R</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq20.gif"/></alternatives></inline-formula> relative to the reference on the calibration arm, the imaging target&#x02019;s position relative to the position sensor on the EBUS probe was found as:<disp-formula id="Equ2"><alternatives><tex-math id="M43">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} p_B^i ={ }^B T_R^i \times p_R =\left( {{ }^R T_B^i } \right) ^{-1}\times p_R \end{aligned}$$\end{document}</tex-math><mml:math id="M44" display="block"><mml:mrow><mml:mtable columnspacing="0.5ex"><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msubsup><mml:mi>p</mml:mi><mml:mi>B</mml:mi><mml:mi>i</mml:mi></mml:msubsup><mml:mo>=</mml:mo><mml:msup><mml:mrow/><mml:mi>B</mml:mi></mml:msup><mml:msubsup><mml:mi>T</mml:mi><mml:mi>R</mml:mi><mml:mi>i</mml:mi></mml:msubsup><mml:mo>&#x000d7;</mml:mo><mml:msub><mml:mi>p</mml:mi><mml:mi>R</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:msup><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:msup><mml:mrow/><mml:mi>R</mml:mi></mml:msup><mml:msubsup><mml:mi>T</mml:mi><mml:mi>B</mml:mi><mml:mi>i</mml:mi></mml:msubsup></mml:mrow></mml:mfenced><mml:mrow><mml:mo>-</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msup><mml:mo>&#x000d7;</mml:mo><mml:msub><mml:mi>p</mml:mi><mml:mi>R</mml:mi></mml:msub></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11548_2015_1326_Article_Equ2.gif" position="anchor"/></alternatives></disp-formula>The calibration matrix <inline-formula id="IEq21"><alternatives><tex-math id="M45">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${ }^B T_\mathrm{US}$$\end{document}</tex-math><mml:math id="M46"><mml:mrow><mml:msup><mml:mrow/><mml:mi>B</mml:mi></mml:msup><mml:msub><mml:mi>T</mml:mi><mml:mi mathvariant="normal">US</mml:mi></mml:msub></mml:mrow></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq21.gif"/></alternatives></inline-formula> was obtained by using a closed-form method that minimizes the total distance between the two corresponding sets describing the 18 positions of the image target: in the US image coordinate system <inline-formula id="IEq22"><alternatives><tex-math id="M47">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p_\mathrm{US}^i $$\end{document}</tex-math><mml:math id="M48"><mml:msubsup><mml:mi>p</mml:mi><mml:mrow><mml:mi mathvariant="normal">US</mml:mi></mml:mrow><mml:mi>i</mml:mi></mml:msubsup></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq22.gif"/></alternatives></inline-formula> and in the EBUS probe&#x02019;s coordinate system <inline-formula id="IEq23"><alternatives><tex-math id="M49">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p_B^i $$\end{document}</tex-math><mml:math id="M50"><mml:msubsup><mml:mi>p</mml:mi><mml:mi>B</mml:mi><mml:mi>i</mml:mi></mml:msubsup></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq23.gif"/></alternatives></inline-formula>. A more thorough description of the probe calibration procedure can be found in B&#x000f8; et al. [<xref ref-type="bibr" rid="CR41">41</xref>].</p></sec><sec id="Sec11"><title>Experiment</title><p>The experiment was performed in the bronchoscopy suite at the Dep. of Thoracic medicine, using the in-house prototype EBUS bronchoscope with an external EMT sensor. The experimental setup is illustrated in more detail in Fig.&#x000a0;<xref rid="Fig4" ref-type="fig">4</xref>.</p><sec id="Sec12"><title>Navigated EBUS functionality</title><p>The EBUS bronchoscope was introduced into the phantom airways (Fig. <xref rid="Fig4" ref-type="fig">4</xref>). Conventional video bronchoscopy was used for orienting the tip of the EBUS bronchoscope in anatomical relation to the targets. The position of all 11 extraluminal targets was localized guided by EM navigation and confirmed by EBUS. The intraoperative position of the EBUS bronchoscope, corresponding preoperative CT images, real-time 2D US images, and segmented targets was displayed simultaneously in the navigation scene (Figs. <xref rid="Fig4" ref-type="fig">4</xref>, <xref rid="Fig9" ref-type="fig">9</xref>, <xref rid="Fig10" ref-type="fig">10</xref>).<fig id="Fig9"><label>Fig. 9</label><caption><p>Graphical user interface (GUI) of navigation system&#x000a0;during&#x000a0;tracked&#x000a0;convex probe endobronchial ultrasound (CP-EBUS) in a phantom. A model of the tip of the EBUS&#x000a0;bronchoscope and&#x000a0;the real-time ultrasound image are&#x000a0;displayed. Tumor models are&#x000a0;segmented from computed tomography (CT) (<italic>green</italic>). Axial, coronal, and sagittal&#x000a0;views (<italic>right side</italic>). <italic>Yellow&#x000a0;crosshairs</italic> top center position of ultrasound image. The&#x000a0;3D scene view direction of the&#x000a0;patient/phantom is&#x000a0;displayed in the <italic>top left corner</italic>
+</p></caption><graphic xlink:href="11548_2015_1326_Fig9_HTML" id="MO11"/></fig><fig id="Fig10"><label>Fig. 10</label><caption><p>Navigated convex probe endobronchial ultrasound (CP-EBUS) graphical user interface (GUI) example, with ongoing fine-needle puncture of a target lesion. The fine needle is not tracked, but can easily be visualized sonographically</p></caption><graphic xlink:href="11548_2015_1326_Fig10_HTML" id="MO12"/></fig></p></sec><sec id="Sec13"><title>Tracking accuracy</title><p>The EBUS bronchoscope was advanced through the phantom airway from the proximal to the distal end. EM bronchoscopy guided the localization and subsequent 2D US visualization of all 11 targets in the following order: 2R, 2L, 4R, 4L, 7, 10L, 11R. The experiment was repeated three times in the same sequence.</p><p>After each US acquisition, the inaccuracy of the system was visible in the navigation scene by the mismatch between the surface of the tumor model in the reconstructed US volume and the segmentation of the same model from the CT image. To quantify the system accuracy, we performed a manual shift correction of US volumes to overlay the segmentation of the model from CT. The alignment was found by using 2D ACS projections of the US and CT volume, and finding the optimal match of the target surface in all these planes (Fig. <xref rid="Fig11" ref-type="fig">11</xref>). The manual shift determined the position deviation between US and CT volumes, thus the system accuracy. One separate shift correction was found for each acquired US volume. The center position coordinates of all targets in the CT volume were pinpointed in ACS planes by an engineer experienced in image processing. The target center position in US was then calculated by adding the deviation found by the manual alignment.</p></sec></sec></sec><sec id="Sec14"><title>Results</title><sec id="Sec15"><title>Navigated EBUS functionality</title><p>Maneuvering the bronchoscope by combined US&#x02013;CT&#x02013;EM guidance was easy, fast, and corresponded well with the operator&#x02019;s sense of correct bronchoscope localization. The traceable US bronchoscope had no limitations regarding maneuverability compared to the conventional EBUS bronchoscope, and the phantom model worked well for the feasibility experiment. Electromagnetic tracking of the EBUS bronchoscope and all registration algorithms worked smoothly and as intended. All targets were visualized, and their positions acquired and stored in the navigation system (Figs. <xref rid="Fig9" ref-type="fig">9</xref>, <xref rid="Fig10" ref-type="fig">10</xref>). The navigated EBUS system guided the operator directly and precisely to target, without adding time or complexity to the procedure. The intraoperative position coordinates of the EBUS bronchoscope and US images were stored in CustusX and could be retrieved after the procedure for documentation (Figs.&#x000a0;<xref rid="Fig9" ref-type="fig">9</xref>, <xref rid="Fig10" ref-type="fig">10</xref>, <xref rid="Fig11" ref-type="fig">11</xref>, <xref rid="Fig12" ref-type="fig">12</xref>).<fig id="Fig11"><label>Fig. 11</label><caption><p>Manual shift correction to determine the position deviation between computed tomography (CT) and ultrasound (US) volumes. Reconstructed US volumes (<italic>gray</italic>) were moved manually to the corresponding surface model segmented from CT (<italic>red</italic>). The optimal alignment was then determined in 2D axial, coronal, and sagittal (ACS) planes. <italic>Top row</italic> ACS planes before manual correction. <italic>Bottom row</italic> ACS planes after manual correction</p></caption><graphic xlink:href="11548_2015_1326_Fig11_HTML" id="MO13"/></fig><fig id="Fig12"><label>Fig. 12</label><caption><p>Position of 3D data acquired during navigated convex probe endobronchial ultrasound (CP-EBUS) in a phantom model. <italic>Black line</italic> centerline of airways extracted from computed tomography (CT). <italic>Red circles</italic> center position of tumor model in CT. <italic>Blue crosses</italic> center position of tumor model in ultrasound (calculated as center position in CT + deviation found by manual alignment)</p></caption><graphic xlink:href="11548_2015_1326_Fig12_HTML" id="MO14"/></fig></p></sec><sec id="Sec16"><title>Tracking accuracy</title><p>In total, 37 position measurements from 11 target lesions were taken (Table <xref rid="Tab1" ref-type="table">1</xref>). Four targets had data acquisitions from more than three measurements, reflecting intraoperative doubt of whether the previous dataset was completely acquired for that target. Two targets had less than three measurements (Table <xref rid="Tab1" ref-type="table">1</xref>), which was unintentional. Mean error observed in target lesion position between ultrasound and CT was 2.8 <inline-formula id="IEq24"><alternatives><tex-math id="M51">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm $$\end{document}</tex-math><mml:math id="M52"><mml:mo>&#x000b1;</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq24.gif"/></alternatives></inline-formula> 1.0&#x000a0;mm, maximum error 5.9&#x000a0;mm. Maximum error was found in the 2R2 position, minimum error in position 7 (Fig. <xref rid="Fig12" ref-type="fig">12</xref>; Table <xref rid="Tab1" ref-type="table">1</xref>). The position error for right-sided targets tended to be larger than the left-sided (Fig. <xref rid="Fig12" ref-type="fig">12</xref>; Table <xref rid="Tab1" ref-type="table">1</xref>). Position data and error for all tumor models are presented in Table <xref rid="Tab1" ref-type="table">1</xref> and visualized in Fig.&#x000a0;<xref rid="Fig12" ref-type="fig">12</xref>.<table-wrap id="Tab1"><label>Table 1</label><caption><p>Range of position coordinates for 11 target lesions in computed tomography volumes in the <italic>x</italic>-, <italic>y</italic>-, and <italic>z</italic>-planes</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="2">Tumor position</th><th align="left" rowspan="2">Number of measurements</th><th align="left" colspan="3">Deviation in CT coordinates</th><th align="left" rowspan="2">Error</th></tr><tr><th align="left">
+<italic>X</italic>
+</th><th align="left">
+<italic>Y</italic>
+</th><th align="left">
+<italic>Z</italic>
+</th></tr></thead><tbody><tr><td align="left">2R1</td><td align="center">3</td><td align="left">0.9 to 1.2</td><td align="left">
+<inline-formula id="IEq26"><alternatives><tex-math id="M53">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M54"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq26.gif"/></alternatives></inline-formula>0.7 to (<inline-formula id="IEq27"><alternatives><tex-math id="M55">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M56"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq27.gif"/></alternatives></inline-formula>0.2)</td><td align="left">
+<inline-formula id="IEq28"><alternatives><tex-math id="M57">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M58"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq28.gif"/></alternatives></inline-formula>3.6 to (<inline-formula id="IEq29"><alternatives><tex-math id="M59">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M60"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq29.gif"/></alternatives></inline-formula>2.6)</td><td align="left">2.8 to 3.8</td></tr><tr><td align="left">2R2</td><td align="center">5</td><td align="left">1.2 to 3.3</td><td align="left">
+<inline-formula id="IEq30"><alternatives><tex-math id="M61">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M62"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq30.gif"/></alternatives></inline-formula>3.4 to (<inline-formula id="IEq31"><alternatives><tex-math id="M63">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M64"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq31.gif"/></alternatives></inline-formula>1.9)</td><td align="left">
+<inline-formula id="IEq32"><alternatives><tex-math id="M65">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M66"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq32.gif"/></alternatives></inline-formula>4.5 to (<inline-formula id="IEq33"><alternatives><tex-math id="M67">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M68"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq33.gif"/></alternatives></inline-formula>1.0)</td><td align="left">2.9 to 5.9</td></tr><tr><td align="left">2L1</td><td align="center">3</td><td align="left">
+<inline-formula id="IEq34"><alternatives><tex-math id="M69">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M70"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq34.gif"/></alternatives></inline-formula>0.3 to 0.5</td><td align="left">
+<inline-formula id="IEq35"><alternatives><tex-math id="M71">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M72"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq35.gif"/></alternatives></inline-formula>1.9 to (<inline-formula id="IEq36"><alternatives><tex-math id="M73">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M74"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq36.gif"/></alternatives></inline-formula>0.5)</td><td align="left">
+<inline-formula id="IEq37"><alternatives><tex-math id="M75">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M76"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq37.gif"/></alternatives></inline-formula>3.3 to (<inline-formula id="IEq38"><alternatives><tex-math id="M77">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M78"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq38.gif"/></alternatives></inline-formula>0.2)</td><td align="left">1.2 to 4.2</td></tr><tr><td align="left">2L2</td><td align="center">3</td><td align="left">
+<inline-formula id="IEq39"><alternatives><tex-math id="M79">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M80"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq39.gif"/></alternatives></inline-formula>0.5 to 0.0</td><td align="left">
+<inline-formula id="IEq40"><alternatives><tex-math id="M81">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M82"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq40.gif"/></alternatives></inline-formula>2.1 to (<inline-formula id="IEq41"><alternatives><tex-math id="M83">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M84"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq41.gif"/></alternatives></inline-formula>1.2)</td><td align="left">
+<inline-formula id="IEq42"><alternatives><tex-math id="M85">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M86"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq42.gif"/></alternatives></inline-formula>3.1 to (<inline-formula id="IEq43"><alternatives><tex-math id="M87">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M88"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq43.gif"/></alternatives></inline-formula>1.6)</td><td align="left">2.6 to 3.8</td></tr><tr><td align="left">4R1</td><td align="center">4</td><td align="left">1.4 to 1.7</td><td align="left">
+<inline-formula id="IEq44"><alternatives><tex-math id="M89">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M90"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq44.gif"/></alternatives></inline-formula>2.6 to (<inline-formula id="IEq45"><alternatives><tex-math id="M91">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M92"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq45.gif"/></alternatives></inline-formula>1.7)</td><td align="left">
+<inline-formula id="IEq46"><alternatives><tex-math id="M93">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M94"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq46.gif"/></alternatives></inline-formula>1.6 to (<inline-formula id="IEq47"><alternatives><tex-math id="M95">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M96"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq47.gif"/></alternatives></inline-formula>0.3)</td><td align="left">2.7 to 3.1</td></tr><tr><td align="left">4R2</td><td align="center">2</td><td align="left">1.4 to 1.6</td><td align="left">
+<inline-formula id="IEq48"><alternatives><tex-math id="M97">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M98"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq48.gif"/></alternatives></inline-formula>2.6 to (<inline-formula id="IEq49"><alternatives><tex-math id="M99">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M100"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq49.gif"/></alternatives></inline-formula>1.9)</td><td align="left">
+<inline-formula id="IEq50"><alternatives><tex-math id="M101">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M102"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq50.gif"/></alternatives></inline-formula>0.2 to (<inline-formula id="IEq51"><alternatives><tex-math id="M103">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M104"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq51.gif"/></alternatives></inline-formula>0.2)</td><td align="left">2.5 to 2.9</td></tr><tr><td align="left">4L1</td><td align="center">2</td><td align="left">2.8 to 2.9</td><td align="left">2.4 to 2.8</td><td align="left">
+<inline-formula id="IEq52"><alternatives><tex-math id="M105">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M106"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq52.gif"/></alternatives></inline-formula>1.2 to (<inline-formula id="IEq53"><alternatives><tex-math id="M107">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M108"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq53.gif"/></alternatives></inline-formula>0.3)</td><td align="left">3.9 to 4.0</td></tr><tr><td align="left">4L2</td><td align="center">5</td><td align="left">1.9 to 2.1</td><td align="left">
+<inline-formula id="IEq54"><alternatives><tex-math id="M109">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M110"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq54.gif"/></alternatives></inline-formula>1.4-0.9</td><td align="left">
+<inline-formula id="IEq55"><alternatives><tex-math id="M111">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M112"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq55.gif"/></alternatives></inline-formula>1.0 to (<inline-formula id="IEq56"><alternatives><tex-math id="M113">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M114"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq56.gif"/></alternatives></inline-formula>0.2)</td><td align="left">2.0 to 2.7</td></tr><tr><td align="left">7</td><td align="center">3</td><td align="left">
+<inline-formula id="IEq57"><alternatives><tex-math id="M115">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M116"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq57.gif"/></alternatives></inline-formula>0.2 to 0.5</td><td align="left">
+<inline-formula id="IEq58"><alternatives><tex-math id="M117">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M118"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq58.gif"/></alternatives></inline-formula>1.4 to (<inline-formula id="IEq59"><alternatives><tex-math id="M119">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M120"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq59.gif"/></alternatives></inline-formula>1.0)</td><td align="left">
+<inline-formula id="IEq60"><alternatives><tex-math id="M121">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M122"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq60.gif"/></alternatives></inline-formula>0.2 to 1.0</td><td align="left">1.2 to 1.6</td></tr><tr><td align="left">10L</td><td align="center">3</td><td align="left">1.0 to 1.4</td><td align="left">
+<inline-formula id="IEq61"><alternatives><tex-math id="M123">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M124"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq61.gif"/></alternatives></inline-formula>1.9 to (<inline-formula id="IEq62"><alternatives><tex-math id="M125">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M126"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq62.gif"/></alternatives></inline-formula>0.9)</td><td align="left">0.0 to 0.9</td><td align="left">1.6 to 2.2</td></tr><tr><td align="left">11R</td><td align="center">4</td><td align="left">1.9 to 2.6</td><td align="left">
+<inline-formula id="IEq63"><alternatives><tex-math id="M127">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M128"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq63.gif"/></alternatives></inline-formula>1.4 to (<inline-formula id="IEq64"><alternatives><tex-math id="M129">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M130"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq64.gif"/></alternatives></inline-formula>0.2)</td><td align="left">
+<inline-formula id="IEq65"><alternatives><tex-math id="M131">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M132"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq65.gif"/></alternatives></inline-formula>0.2 to 0.0</td><td align="left">2.3 to 2.9</td></tr><tr><td align="left">
+<italic>n</italic>
+</td><td align="center">37</td><td align="left"/><td align="left"/><td align="left"/><td align="left"/></tr><tr><td align="left">Mean</td><td align="center"/><td align="left">1.4</td><td align="left">
+<inline-formula id="IEq66"><alternatives><tex-math id="M133">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M134"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq66.gif"/></alternatives></inline-formula>1.2</td><td align="left">
+<inline-formula id="IEq67"><alternatives><tex-math id="M135">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-$$\end{document}</tex-math><mml:math id="M136"><mml:mo>-</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq67.gif"/></alternatives></inline-formula>1.1</td><td align="left">2.8</td></tr><tr><td align="left">SD</td><td align="center"/><td align="left">0.9</td><td align="left">1.3</td><td align="left">1.3</td><td align="left">1.0</td></tr><tr><td align="left">Maximum</td><td align="center"/><td align="left"/><td align="left"/><td align="left"/><td align="left">5.9</td></tr></tbody></table><table-wrap-foot><p>Deviation and error in millimeters</p></table-wrap-foot></table-wrap></p></sec></sec><sec id="Sec17"><title>Discussion</title><p>We have proved the feasibility of a novel EM navigated CP-EBUS system in a dedicated, in-house phantom model. In keeping with the intention of the experiment, we were able to track the endoluminal position of the CP-EBUS bronchoscope using EMT and fusion of real-time 2D US and preoperative CT volumes.</p><p>The study results provided a system accuracy estimate of 2.8 <inline-formula id="IEq25"><alternatives><tex-math id="M137">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm $$\end{document}</tex-math><mml:math id="M138"><mml:mo>&#x000b1;</mml:mo></mml:math><inline-graphic xlink:href="11548_2015_1326_Article_IEq25.gif"/></alternatives></inline-formula> 1.0&#x000a0;mm. This includes potential errors from probe calibration, registration, the EM positioning system, and disturbances to the EM field. Since position data were measured repeatedly against several targets, we also got an impression of the robustness of the navigated CP-EBUS system, which seemed good (Table <xref rid="Tab1" ref-type="table">1</xref>). The error component in the <italic>z</italic>-direction seemed smaller when imaging tumor models positioned in the peripheral parts of the phantom volume. This probably reflects an error component from the image registration, or external disturbances to the EM field.</p><p>The in-house airway phantom proved feasible for demonstration of the navigated CP-EBUS system functionality parameters: accuracy, robustness, and clinical usefulness. The traceable CP-EBUS bronchoscope was easy to operate and functioned to its purpose. The navigated CP-EBUS system was feasible for target localization and intraoperative position control of the bronchoscope. All phantom targets were successfully visualized in the 2D and 3D imaging scenes. The correspondence between US, visual control, and the navigation scene display was accurate, judged by the operator. All position coordinates and image documentation were stored in CustusX and available for retrieval. The store and retrieve ability of images and position data provided exact documentation of which targets have been visualized and/or sampled, and in what order.</p><p>The current study is a preclinical proof-of-principle experiment. To its advantage, the phantom model was simple, low cost, and stable enough for precision and robustness testing. Despite the lack of respiratory movement, we find our experimental model fairly realistic of a real-life setting. Even with modification, the traceable CP-EBUS bronchoscope was similar in size and functionality to the conventional CP-EBUS bronchoscope, and the positioning sensor is not expected to interfere with the clinical workflow. The navigation system utilizes regular, low-cost disposable TBNA needles from a commercial vendor. In addition to the EM navigation features, the GUI of our system displayed image views (CT, 2D US) already familiar to the operator during CP-EBUS-TBNA, increasing the user-friendliness of the multimodal image guiding.</p><p>The results presented in this paper have to be carefully interpreted, as they originate from one phantom experiment only. Real-life respiratory movement, heart beats, and disturbances in the EM field from other medical technical equipment could influence the navigated CP-EBUS system accuracy. In clinical cases, time constraints and unforeseen patient-related events can also challenge the workflow of any image-guiding system. Further validation studies are therefore needed before routine clinical use.</p><p>The manual shift correction from US to CT volumes for system accuracy calculations may have introduced error to the experiment, potentially avoided or minimized by letting several persons perform the shift correction. Another limitation to the experimental platform is that the TBNA needle is not traceable in the navigation system. As for now, the operator have to rely on US guidance during the target sampling situation, like in conventional CP-EBUS. By implementing tracked sampling tools, we could get a better impression of the usefulness of fused EM navigation and US during the sampling process, and hopefully increase TBNA precision. Traceable TBNA needles, which are disposable, would however be more costly than using only a permanently mounted position sensor on the bronchoscope.</p><p>As far as the research and development platform for navigated CP-EBUS is concerned, both software and hardware are in-house solutions. However, since the software recently has been made available through open source, reproducing the study results will be easier.</p><p>Some commercial systems involve a position tracking sensor within the working channel of the bronchoscope [<xref ref-type="bibr" rid="CR24">24</xref>]. In our system, the EM sensor is mounted and sealed on the tip of the US bronchoscope, closely positioned to the US probe but not interfering with the US scan sector (Fig. <xref rid="Fig3" ref-type="fig">3</xref>). Leaving the working channel free keeps it open for other purposes (suction, tissue sampling, saline or anesthetic agent installation), and assessing navigation throughout the procedure is possible. The preferable solution would probably be an EM sensor embedded inside the bronchoscope, but outside the working channel. This solution has formerly been attempted in our navigation system, but proved technically difficult and time-consuming. Knowledge of the exact position and orientation of the EM sensor is required to perform a valid probe calibration. In navigated EBUS, the probe must therefore be permanently attached, either inside or on the outer surface of the EBUS bronchoscope. A loose EM probe in the working channel will not be adequate for this purpose. In this navigated CP-EBUS experiment, we opted for a simplified, external EM sensor, aiming for human testing where stability is crucial.</p><p>Although multimodal image guiding in bronchoscopy is increasingly called for by endoscopists, similar studies implying navigated EBUS (RP-EBUS or CP-EBUS) are scarce. The commercial systems previously combining EBUS and EM navigation in clinical studies applied sequential procedures with no real-time tracking of the EBUS images [<xref ref-type="bibr" rid="CR24">24</xref>, <xref ref-type="bibr" rid="CR25">25</xref>]. These studies have utilized RP-EBUS miniprobes, and the clinical field of use was guiding TBNA of peripheral lung lesions. RP-EBUS should not be confused with the CP-EBUS probe used in our system, as RP-EBUS rarely is used to target mediastinal lymph nodes in lung cancer staging. The results from studies using commercial navigation equipment in the lung periphery can therefore for several reasons not be applied to our R&#x00026;D platform.</p><p>The image-guiding system of Zang et al is, like our navigated CP-EBUS system, addressing the problem of 2D EBUS not being directly linked to preoperative CT images. Zang&#x02019;s system does however require an extensive amount of planning and manual image preprocessing, probably making it more suitable for postoperative analysis and learning purposes. Luo and Mori&#x02019;s method for navigated EBUS distinguishes from ours in several aspects. They use an RP-EBUS probe, with a different clinical field of use than the CP-EBUS bronchoscope. Tracking of the radial probe is possible due to an external sensor that could be vulnerable to mechanical strain intraoperatively. The attachment site of the sensor could possibly interfere with the US image, which is an important part of the diagnostic tool for the operator. Neither Luo&#x02019;s system nor ours have traceable sampling tools.</p><p>The main improvement over existing solutions is that our system allows actual guiding of a convex probe EBUS bronchoscope designed for transbronchial lymph node sampling in the mediastinum. Even when bronchoscope vision&#x000a0;is reduced due to blood or mucus within the airways, the combined CP-EBUS and preoperative CT in the same image provides concurrent, real-time image-guided position control and needle puncture. Our navigated CP-EBUS system also makes recording of US imaging combined with the equivalent CT slice possible for documentation purposes. This is not available in current EBUS-TBNA systems. The endoscopist can thereby replay the entire navigated procedure, ensuring that the correct lymph nodes are sampled and in the correct sequence. This is important in lung cancer staging, where mediastinal lymph node sampling should be carefully planned and evaluated to avoid errors depriving patients of life-saving surgery.</p><p>All our technological solutions are focused on user-friendliness and availability through open-source access, and imminent implementation in the clinic is a paramount aim. Basically, anyone can perform EM navigated EBUS with an available EBUS probe and an Aurora or similar EM sensor. The commercial providers currently do not sell their systems with EM-based tracking for any type of EBUS.</p><p>CP-EBUS-TBNA is now the method of choice for mediastinal lung cancer staging in all patients with potential to cure [<xref ref-type="bibr" rid="CR7">7</xref>]. Intraoperatively, CP-EBUS can visualize small lymph nodes not detected in preoperative CT or PET&#x02013;CT. These may also contain malignant tissue and should consequently be sampled to avoid futile thoracic surgery [<xref ref-type="bibr" rid="CR7">7</xref>]. Precise, accurate and minimally invasive lung cancer staging procedures will be highly demanded, and introducing a navigation system for CP-EBUS-TBNA is therefore provident research preparing for future clinical requirements.</p><p>Improving a successful technique such as CP-EBUS is indeed a challenge. Like many other developments in diagnostic or surgical procedures, the navigated CP-EBUS system presented might not be able to improve success rates. Hopefully, the new approach can increase diagnostic confidence in closely located lymph node stations, where puncturing the wrong lymph node will have important clinical implications. Locating smaller lymph nodes in technically challenging positions could be easier with combined CP-EBUS/navigation technology.&#x000a0;Fast and easy target localization, reproducible sampling, and improved quality control could also minimize the inter-operator performance variability.</p><p>The clinical use of CP-EBUS-TBNA will become more widespread and challenging in the future lung cancer work-up due to international agreement on routine systematic mapping [<xref ref-type="bibr" rid="CR7">7</xref>]. Strategies to reduce procedure time, improve procedure safety and (3D) documentation, and develop learning tools for endoscopists will therefore be equally important. Our navigated CP-EBUS system may contribute to all of these aspects.</p><p>Navigated CP-EBUS seems promising for increased efficiency throughout the lung cancer diagnostic patient course, potentially saving time and health resources in line with governmental areas of priority. Traceable TBNA needles may increase the diagnostic reach in the mediastinum, and together with 3D US provide more detailed overview and needle position control than by 2D US guidance alone. The image acquisition store and replay functionality is interesting for medical record procedure documentation, interventional training, multidisciplinary meetings, and therapeutic decision making. Future challenges in refining the navigated CP-EBUS system are improved integration of sensors into the instruments and sampling tools, correction of errors from respiratory movement, and refining visualization techniques and software to better suit the procedure workflow.</p></sec><sec id="Sec18"><title>Conclusion</title><p>A CP-EBUS navigation system is needed to meet future requirements of lung cancer staging in the mediastinum. Our novel platform for EM navigated CP-EBUS performed well in a lung phantom concerning basic functionality, image fusion, target localization, robustness, accuracy, and user-friendliness. Even though some technological solutions must be refined, the EM navigated CP-EBUS system is ready to be applied in the clinic. Human studies are ongoing.</p></sec></body><back><ack><p>The authors would like to thank Randi Sailer and Marit Setvik, Department of Pulmonology at St. Olavs Hospital, for excellent assistance in the clinic to carry out this study. We would also like to thank engineer Lars Erik B&#x000f8;, SINTEF Technology and Society; medical technician Stig Tore Svee, Department of Medico-technical Equipment, St Olavs Hospital; and radiographer Liv Nesje, Department of Radiology, St Olavs Hospital for practical help concerning ultrasound probe calibration, bronchoscopy equipment, and imaging, respectively. This work was supported by the Liaison Committee between the Central Norway Regional Health Authority (RHA), the local Cancer Fund at St. Olavs University hospital, SINTEF Department of Medical Technology, the Ministry of Health and Social Affairs of Norway through the Norwegian National Advisory Unit for Ultrasound and Image-Guided Therapy (Trondheim, Norway), and the Project 196726/V50 eMIT (enhanced minimally invasive therapy) in the FRIMED program of the Research Council of Norway. The research leading to these results has also received funding from EEA Financial Mechanism 2009&#x02013;2014 under the Project EEA-JRP-RO-NO-2013-1-0123&#x02014;Navigation System For Confocal Laser Endomicroscopy To Improve Optical Biopsy Of Peripheral Lesions In The Lungs (NAVICAD), contract No.&#x000a0;3SEE/30.06.2014.</p></ack><notes notes-type="conflict-interest"><title>Compliance with ethical standards</title><sec id="FPar1"><title>Conflict of interest</title><p>The authors Hanne Sorger, Erlend Fagertun Hofstad, Tore Amundsen, Thomas Lang&#x000f8;, and H&#x000e5;kon Olav Leira declare that they have no conflict of interest. The manuscript does not contain clinical studies or patient data.</p></sec></notes><ref-list id="Bib1"><title>References</title><ref id="CR1"><label>1.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shibuya</surname><given-names>K</given-names></name><name><surname>Mathers</surname><given-names>CD</given-names></name><name><surname>Boschi-Pinto</surname><given-names>C</given-names></name><name><surname>Lopez</surname><given-names>AD</given-names></name><name><surname>Murray</surname><given-names>CJ</given-names></name></person-group><article-title>Global and regional estimates of cancer mortality and incidence by site: II. Results for the global burden of disease 2000</article-title><source>BMC Cancer</source><year>2002</year><volume>2</volume><fpage>37</fpage><pub-id pub-id-type="doi">10.1186/1471-2407-2-37</pub-id><pub-id pub-id-type="pmid">12502432</pub-id></element-citation></ref><ref id="CR2"><label>2.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sagerup</surname><given-names>CM</given-names></name><name><surname>Smastuen</surname><given-names>M</given-names></name><name><surname>Johannesen</surname><given-names>TB</given-names></name><name><surname>Helland</surname><given-names>A</given-names></name><name><surname>Brustugun</surname><given-names>OT</given-names></name></person-group><article-title>Sex-specific trends in lung cancer incidence and survival: a population study of 40,118 cases</article-title><source>Thorax</source><year>2011</year><volume>66</volume><issue>4</issue><fpage>301</fpage><lpage>307</lpage><pub-id pub-id-type="doi">10.1136/thx.2010.151621</pub-id><pub-id pub-id-type="pmid">21199818</pub-id></element-citation></ref><ref id="CR3"><label>3.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Strand</surname><given-names>TE</given-names></name><name><surname>Rostad</surname><given-names>H</given-names></name><name><surname>Moller</surname><given-names>B</given-names></name><name><surname>Norstein</surname><given-names>J</given-names></name></person-group><article-title>Survival after resection for primary lung cancer: a population based study of 3211 resected patients</article-title><source>Thorax</source><year>2006</year><volume>61</volume><issue>8</issue><fpage>710</fpage><lpage>715</lpage><pub-id pub-id-type="doi">10.1136/thx.2005.056481</pub-id><pub-id pub-id-type="pmid">16601091</pub-id></element-citation></ref><ref id="CR4"><label>4.</label><mixed-citation publication-type="other">Rivera MP, Mehta AC, Wahidi MM (2013) Establishing the diagnosis of lung cancer: Diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines. Chest 143(5 Suppl):e142S&#x02013;e165S. doi:10.1378/chest.12-2353</mixed-citation></ref><ref id="CR5"><label>5.</label><mixed-citation publication-type="other">Detterbeck FC, Jantz MA, Wallace M, Vansteenkiste J, SilvestriGA, American College of Chest Physicians (2007) Invasive mediastinal staging of lung cancer: ACCP evidence-based clinical practice guidelines (2nd edition). Chest 132(3 Suppl):202S&#x02013;220S. doi:10.1378/chest.07-1362</mixed-citation></ref><ref id="CR6"><label>6.</label><mixed-citation publication-type="other">Rusch VW, Asamura H, Watanabe H, Giroux DJ, Rami-Porta R, Goldstraw P, Members of ISC (2009) The IASLC Lung Cancer Staging Project: a proposal for a new international lymph node map in the forthcoming seventh edition of the TNM classification for lung cancer. J Thorac Oncol 4(5):568&#x02013;577. doi:10.1097/JTO.0b013e3181a0d82e</mixed-citation></ref><ref id="CR7"><label>7.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>De Leyn</surname><given-names>P</given-names></name><name><surname>Dooms</surname><given-names>C</given-names></name><name><surname>Kuzdzal</surname><given-names>J</given-names></name><name><surname>Lardinois</surname><given-names>D</given-names></name><name><surname>Passlick</surname><given-names>B</given-names></name><name><surname>Rami-Porta</surname><given-names>R</given-names></name><name><surname>Turna</surname><given-names>A</given-names></name><name><surname>Schil</surname><given-names>PV</given-names></name><name><surname>Venuta</surname><given-names>F</given-names></name><name><surname>Waller</surname><given-names>D</given-names></name><name><surname>Weder</surname><given-names>W</given-names></name><name><surname>Zielinski</surname><given-names>M</given-names></name></person-group><article-title>Revised ESTS guidelines for preoperative mediastinal lymph node staging for non-small-cell lung cancer</article-title><source>Eur J Cardio-Thorac Surg</source><year>2014</year></element-citation></ref><ref id="CR8"><label>8.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gunluoglu</surname><given-names>MZ</given-names></name><name><surname>Melek</surname><given-names>H</given-names></name><name><surname>Medetoglu</surname><given-names>B</given-names></name><name><surname>Demir</surname><given-names>A</given-names></name><name><surname>Kara</surname><given-names>HV</given-names></name><name><surname>Dincer</surname><given-names>SI</given-names></name></person-group><article-title>The validity of preoperative lymph node staging guidelines of European Society of Thoracic Surgeons in non-small-cell lung cancer patients</article-title><source>Eur J Cardio-Thorac Surg</source><year>2011</year><volume>40</volume><issue>2</issue><fpage>287</fpage><lpage>290</lpage></element-citation></ref><ref id="CR9"><label>9.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>de Langen</surname><given-names>AJ</given-names></name><name><surname>Raijmakers</surname><given-names>P</given-names></name><name><surname>Riphagen</surname><given-names>I</given-names></name><name><surname>Paul</surname><given-names>MA</given-names></name><name><surname>Hoekstra</surname><given-names>OS</given-names></name></person-group><article-title>The size of mediastinal lymph nodes and its relation with metastatic involvement: a meta-analysis</article-title><source>Eur J Cardio-Thorac Surg</source><year>2006</year><volume>29</volume><issue>1</issue><fpage>26</fpage><lpage>29</lpage><pub-id pub-id-type="doi">10.1016/j.ejcts.2005.10.002</pub-id></element-citation></ref><ref id="CR10"><label>10.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Herth</surname><given-names>FJ</given-names></name><name><surname>Eberhardt</surname><given-names>R</given-names></name><name><surname>Krasnik</surname><given-names>M</given-names></name><name><surname>Ernst</surname><given-names>A</given-names></name></person-group><article-title>Endobronchial ultrasound-guided transbronchial needle aspiration of lymph nodes in the radiologically and positron emission tomography-normal mediastinum in patients with lung cancer</article-title><source>Chest</source><year>2008</year><volume>133</volume><issue>4</issue><fpage>887</fpage><lpage>891</lpage><pub-id pub-id-type="doi">10.1378/chest.07-2535</pub-id><pub-id pub-id-type="pmid">18263680</pub-id></element-citation></ref><ref id="CR11"><label>11.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Adams</surname><given-names>K</given-names></name><name><surname>Shah</surname><given-names>PL</given-names></name><name><surname>Edmonds</surname><given-names>L</given-names></name><name><surname>Lim</surname><given-names>E</given-names></name></person-group><article-title>Test performance of endobronchial ultrasound and transbronchial needle aspiration biopsy for mediastinal staging in patients with lung cancer: systematic review and meta-analysis</article-title><source>Thorax</source><year>2009</year><volume>64</volume><issue>9</issue><fpage>757</fpage><lpage>762</lpage><pub-id pub-id-type="doi">10.1136/thx.2008.109868</pub-id><pub-id pub-id-type="pmid">19454408</pub-id></element-citation></ref><ref id="CR12"><label>12.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Varela-Lema</surname><given-names>L</given-names></name><name><surname>Fernandez-Villar</surname><given-names>A</given-names></name><name><surname>Ruano-Ravina</surname><given-names>A</given-names></name></person-group><article-title>Effectiveness and safety of endobronchial ultrasound-transbronchial needle aspiration: a systematic review</article-title><source>Eur Respir J</source><year>2009</year><volume>33</volume><issue>5</issue><fpage>1156</fpage><lpage>1164</lpage><pub-id pub-id-type="doi">10.1183/09031936.00097908</pub-id><pub-id pub-id-type="pmid">19407050</pub-id></element-citation></ref><ref id="CR13"><label>13.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gu</surname><given-names>P</given-names></name><name><surname>Zhao</surname><given-names>YZ</given-names></name><name><surname>Jiang</surname><given-names>LY</given-names></name><name><surname>Zhang</surname><given-names>W</given-names></name><name><surname>Xin</surname><given-names>Y</given-names></name><name><surname>Han</surname><given-names>BH</given-names></name></person-group><article-title>Endobronchial ultrasound-guided transbronchial needle aspiration for staging of lung cancer: a systematic review and meta-analysis</article-title><source>Eur J Cancer</source><year>2009</year><volume>45</volume><issue>8</issue><fpage>1389</fpage><lpage>1396</lpage><pub-id pub-id-type="doi">10.1016/j.ejca.2008.11.043</pub-id><pub-id pub-id-type="pmid">19124238</pub-id></element-citation></ref><ref id="CR14"><label>14.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dong</surname><given-names>X</given-names></name><name><surname>Qiu</surname><given-names>X</given-names></name><name><surname>Liu</surname><given-names>Q</given-names></name><name><surname>Jia</surname><given-names>J</given-names></name></person-group><article-title>Endobronchial ultrasound-guided transbronchial needle aspiration in the mediastinal staging of non-small cell lung cancer: a meta-analysis</article-title><source>Ann Thorac Surg</source><year>2013</year><volume>96</volume><issue>4</issue><fpage>1502</fpage><lpage>1507</lpage><pub-id pub-id-type="doi">10.1016/j.athoracsur.2013.05.016</pub-id><pub-id pub-id-type="pmid">23993894</pub-id></element-citation></ref><ref id="CR15"><label>15.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chandra</surname><given-names>S</given-names></name><name><surname>Nehra</surname><given-names>M</given-names></name><name><surname>Agarwal</surname><given-names>D</given-names></name><name><surname>Mohan</surname><given-names>A</given-names></name></person-group><article-title>Diagnostic accuracy of endobronchial ultrasound-guided transbronchial needle biopsy in mediastinal lymphadenopathy: a systematic review and meta-analysis</article-title><source>Respir Care</source><year>2012</year><volume>57</volume><issue>3</issue><fpage>384</fpage><lpage>391</lpage><pub-id pub-id-type="pmid">22004665</pub-id></element-citation></ref><ref id="CR16"><label>16.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gomez</surname><given-names>M</given-names></name><name><surname>Silvestri</surname><given-names>GA</given-names></name></person-group><article-title>Endobronchial ultrasound for the diagnosis and staging of lung cancer</article-title><source>Proc Am Thorac Soc</source><year>2009</year><volume>6</volume><issue>2</issue><fpage>180</fpage><lpage>186</lpage><pub-id pub-id-type="doi">10.1513/pats.200808-081LC</pub-id><pub-id pub-id-type="pmid">19349486</pub-id></element-citation></ref><ref id="CR17"><label>17.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lee</surname><given-names>HS</given-names></name><name><surname>Lee</surname><given-names>GK</given-names></name><name><surname>Lee</surname><given-names>HS</given-names></name><name><surname>Kim</surname><given-names>MS</given-names></name><name><surname>Lee</surname><given-names>JM</given-names></name><name><surname>Kim</surname><given-names>HY</given-names></name><name><surname>Nam</surname><given-names>BH</given-names></name><name><surname>Zo</surname><given-names>JI</given-names></name><name><surname>Hwangbo</surname><given-names>B</given-names></name></person-group><article-title>Real-time endobronchial ultrasound-guided transbronchial needle aspiration in mediastinal staging of non-small cell lung cancer: how many aspirations per target lymph node station?</article-title><source>Chest</source><year>2008</year><volume>134</volume><issue>2</issue><fpage>368</fpage><lpage>374</lpage><pub-id pub-id-type="doi">10.1378/chest.07-2105</pub-id><pub-id pub-id-type="pmid">18263688</pub-id></element-citation></ref><ref id="CR18"><label>18.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gildea</surname><given-names>TR</given-names></name><name><surname>Mazzone</surname><given-names>PJ</given-names></name><name><surname>Karnak</surname><given-names>D</given-names></name><name><surname>Meziane</surname><given-names>M</given-names></name><name><surname>Mehta</surname><given-names>AC</given-names></name></person-group><article-title>Electromagnetic navigation diagnostic bronchoscopy: a prospective study</article-title><source>Am J Respir Crit Care Med</source><year>2006</year><volume>174</volume><issue>9</issue><fpage>982</fpage><lpage>989</lpage><pub-id pub-id-type="doi">10.1164/rccm.200603-344OC</pub-id><pub-id pub-id-type="pmid">16873767</pub-id></element-citation></ref><ref id="CR19"><label>19.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lamprecht</surname><given-names>B</given-names></name><name><surname>Porsch</surname><given-names>P</given-names></name><name><surname>Wegleitner</surname><given-names>B</given-names></name><name><surname>Strasser</surname><given-names>G</given-names></name><name><surname>Kaiser</surname><given-names>B</given-names></name><name><surname>Studnicka</surname><given-names>M</given-names></name></person-group><article-title>Electromagnetic navigation bronchoscopy (ENB): increasing diagnostic yield</article-title><source>Respir Med</source><year>2012</year><volume>106</volume><issue>5</issue><fpage>710</fpage><lpage>715</lpage><pub-id pub-id-type="doi">10.1016/j.rmed.2012.02.002</pub-id><pub-id pub-id-type="pmid">22391437</pub-id></element-citation></ref><ref id="CR20"><label>20.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Seijo</surname><given-names>LM</given-names></name><name><surname>de Torres</surname><given-names>JP</given-names></name><name><surname>Lozano</surname><given-names>MD</given-names></name><name><surname>Bastarrika</surname><given-names>G</given-names></name><name><surname>Alcaide</surname><given-names>AB</given-names></name><name><surname>Lacunza</surname><given-names>MM</given-names></name><name><surname>Zulueta</surname><given-names>JJ</given-names></name></person-group><article-title>Diagnostic yield of electromagnetic navigation bronchoscopy is highly dependent on the presence of a Bronchus sign on CT imaging: results from a prospective study</article-title><source>Chest</source><year>2010</year><volume>138</volume><issue>6</issue><fpage>1316</fpage><lpage>1321</lpage><pub-id pub-id-type="doi">10.1378/chest.09-2708</pub-id><pub-id pub-id-type="pmid">20435658</pub-id></element-citation></ref><ref id="CR21"><label>21.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Makris</surname><given-names>D</given-names></name><name><surname>Scherpereel</surname><given-names>A</given-names></name><name><surname>Leroy</surname><given-names>S</given-names></name><name><surname>Bouchindhomme</surname><given-names>B</given-names></name><name><surname>Faivre</surname><given-names>JB</given-names></name><name><surname>Remy</surname><given-names>J</given-names></name><name><surname>Ramon</surname><given-names>P</given-names></name><name><surname>Marquette</surname><given-names>CH</given-names></name></person-group><article-title>Electromagnetic navigation diagnostic bronchoscopy for small peripheral lung lesions</article-title><source>Eur Respir J</source><year>2007</year><volume>29</volume><issue>6</issue><fpage>1187</fpage><lpage>1192</lpage><pub-id pub-id-type="doi">10.1183/09031936.00165306</pub-id><pub-id pub-id-type="pmid">17360724</pub-id></element-citation></ref><ref id="CR22"><label>22.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mahajan</surname><given-names>AK</given-names></name><name><surname>Patel</surname><given-names>S</given-names></name><name><surname>Hogarth</surname><given-names>DK</given-names></name><name><surname>Wightman</surname><given-names>R</given-names></name></person-group><article-title>Electromagnetic navigational bronchoscopy: an effective and safe approach to diagnose peripheral lung lesions unreachable by conventional bronchoscopy in high-risk patients</article-title><source>J Bronchol Interv Pulmonol</source><year>2011</year><volume>18</volume><issue>2</issue><fpage>133</fpage><lpage>137</lpage><pub-id pub-id-type="doi">10.1097/LBR.0b013e318216cee6</pub-id></element-citation></ref><ref id="CR23"><label>23.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Eberhardt</surname><given-names>R</given-names></name><name><surname>Anantham</surname><given-names>D</given-names></name><name><surname>Ernst</surname><given-names>A</given-names></name><name><surname>Feller-Kopman</surname><given-names>D</given-names></name><name><surname>Herth</surname><given-names>F</given-names></name></person-group><article-title>Multimodality bronchoscopic diagnosis of peripheral lung lesions: a randomized controlled trial</article-title><source>Am J Respir Crit Care Med</source><year>2007</year><volume>176</volume><issue>1</issue><fpage>36</fpage><lpage>41</lpage><pub-id pub-id-type="doi">10.1164/rccm.200612-1866OC</pub-id><pub-id pub-id-type="pmid">17379850</pub-id></element-citation></ref><ref id="CR24"><label>24.</label><mixed-citation publication-type="other">Reynisson PJ, Leira HO, Hernes TN, Hofstad EF, Scali M, Sorger H, Amundsen T, Lindseth F, Lango T (2014) Navigated bronchoscopy: a technical review. J Bronchology Interv Pulmonol 3:242&#x02013;264</mixed-citation></ref><ref id="CR25"><label>25.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang Memoli</surname><given-names>JS</given-names></name><name><surname>Nietert</surname><given-names>PJ</given-names></name><name><surname>Silvestri</surname><given-names>GA</given-names></name></person-group><article-title>Meta-analysis of guided bronchoscopy for the evaluation of the pulmonary nodule</article-title><source>Chest</source><year>2012</year><volume>142</volume><issue>2</issue><fpage>385</fpage><lpage>393</lpage><pub-id pub-id-type="doi">10.1378/chest.11-1764</pub-id><pub-id pub-id-type="pmid">21980059</pub-id></element-citation></ref><ref id="CR26"><label>26.</label><mixed-citation publication-type="other">Luo X, Mori K (2013) Beyond current guided bronchoscopy: a robust and real-time bronchoscopic ultrasound navigation system. In: Mori K, Sakuma I, Sato Y, Barillot C, Navab N (eds) Medical image computing and computer-assisted intervention&#x02014;MICCAI 2013, vol 8149. Lecture notes in computer science. Springer, Berlin, pp 388&#x02013;395. doi:10.1007/978-3-642-40811-3_49</mixed-citation></ref><ref id="CR27"><label>27.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mori</surname><given-names>KKT</given-names></name><name><surname>Luo</surname><given-names>X</given-names></name><name><surname>Philipp</surname><given-names>D</given-names></name><name><surname>Reichl</surname><given-names>T</given-names></name><name><surname>Feuerstein</surname><given-names>M</given-names></name><name><surname>Navab</surname><given-names>N</given-names></name><name><surname>Kitasaka</surname><given-names>T</given-names></name></person-group><article-title>Endobronchial ultrasound endoscope navigation system based on CT&#x02013;US calibration</article-title><source>Int J CARS</source><year>2011</year><volume>6</volume><issue>Suppl 1</issue><fpage>S164</fpage><lpage>S174</lpage></element-citation></ref><ref id="CR28"><label>28.</label><mixed-citation publication-type="other">Zang X BR, Gilbert CR, Toth JW, Higgins WE (2014) 3D endobronchial ultrasound reconstruction and analysis for multimodal image-guided bronchoscopy. In: Proceedings of SPIE 9040, Medical Imaging 2014: ultrasonic imaging and tomography, 90400X (March 20, 2014) 9040. doi:10.1117/12.2036115</mixed-citation></ref><ref id="CR29"><label>29.</label><mixed-citation publication-type="other">Helferty JP, Sherbondy AJ, Kiraly AP, Higgins WE (2007) Computer-based system for the virtual-endoscopic guidance of bronchoscopy. Comput Vis Image Underst 108(1&#x02013;2):171&#x02013;187. doi:10.1016/j.cviu.2006.10.010</mixed-citation></ref><ref id="CR30"><label>30.</label><mixed-citation publication-type="other">Lango T, Vijayan S, Rethy A, Vapenstad C, Solberg OV, Marvik R, Johnsen G, Hernes TN (2012) Navigated laparoscopic ultrasound in abdominal soft tissue surgery: technological overview and perspectives. Int J Comput Assist Radiol Surg 7(4):585&#x02013;599. doi:10.1007/s11548-011-0656-3</mixed-citation></ref><ref id="CR31"><label>31.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Manstad-Hulaas</surname><given-names>F</given-names></name><name><surname>Tangen</surname><given-names>GA</given-names></name><name><surname>Dahl</surname><given-names>T</given-names></name><name><surname>Hernes</surname><given-names>TA</given-names></name><name><surname>Aadahl</surname><given-names>P</given-names></name></person-group><article-title>Three-dimensional electromagnetic navigation vs. fluoroscopy for endovascular aneurysm repair: a prospective feasibility study in patients</article-title><source>J Endovasc Ther</source><year>2012</year><volume>19</volume><issue>1</issue><fpage>70</fpage><lpage>78</lpage><pub-id pub-id-type="doi">10.1583/11-3557.1</pub-id><pub-id pub-id-type="pmid">22313205</pub-id></element-citation></ref><ref id="CR32"><label>32.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Leira</surname><given-names>HO</given-names></name><name><surname>Amundsen</surname><given-names>T</given-names></name><name><surname>Tangen</surname><given-names>GA</given-names></name><name><surname>Bo</surname><given-names>LE</given-names></name><name><surname>Manstad-Hulaas</surname><given-names>F</given-names></name><name><surname>Lango</surname><given-names>T</given-names></name></person-group><article-title>A novel research platform for electromagnetic navigated bronchoscopy using cone beam CT imaging and an animal model</article-title><source>Minim Invasive Ther Allied Technol</source><year>2011</year><volume>20</volume><issue>1</issue><fpage>30</fpage><lpage>41</lpage><pub-id pub-id-type="doi">10.3109/13645706.2010.518747</pub-id><pub-id pub-id-type="pmid">20874055</pub-id></element-citation></ref><ref id="CR33"><label>33.</label><mixed-citation publication-type="other">Leira HO (2012) Development of an image guidance research system for bronchoscopy. Thesis, Norwegian University of Science and Technology (NTNU), Trondheim</mixed-citation></ref><ref id="CR34"><label>34.</label><mixed-citation publication-type="other">Askeland C, Solberg OV, Bakeng JBL, Reinertsen I, Tangen GA, Hofstad EF, Iversen DH, V&#x000e5;penstad C, Selbekk T, Lang&#x000f8; T, Hernes TAN, Olav Leira H, Unsg&#x000e5;rd G, Lindseth F (2015) CustusX: an open-source research platform for image-guided therapy. Int J Comput Assist Radiol Surg 1&#x02013;15. doi:10.1007/s11548-015-1292-0</mixed-citation></ref><ref id="CR35"><label>35.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Smistad</surname><given-names>E</given-names></name><name><surname>Elster</surname><given-names>AC</given-names></name><name><surname>Lindseth</surname><given-names>F</given-names></name></person-group><article-title>GPU accelerated segmentation and centerline extraction of tubular structures from medical images</article-title><source>Int J Comput Assist Radiol Surg</source><year>2014</year><volume>9</volume><issue>4</issue><fpage>561</fpage><lpage>575</lpage><pub-id pub-id-type="doi">10.1007/s11548-013-0956-x</pub-id><pub-id pub-id-type="pmid">24177985</pub-id></element-citation></ref><ref id="CR36"><label>36.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rosset</surname><given-names>A</given-names></name><name><surname>Spadola</surname><given-names>L</given-names></name><name><surname>Ratib</surname><given-names>O</given-names></name></person-group><article-title>OsiriX: an open-source software for navigating in multidimensional DICOM images</article-title><source>J Digit Imaging</source><year>2004</year><volume>17</volume><issue>3</issue><fpage>205</fpage><lpage>216</lpage><pub-id pub-id-type="doi">10.1007/s10278-004-1014-6</pub-id><pub-id pub-id-type="pmid">15534753</pub-id></element-citation></ref><ref id="CR37"><label>37.</label><mixed-citation publication-type="other">Yushkevich P, Piven J, Cody H, Ho S, Gee JC, Gerig G (2005) User-guided level set segmentation of anatomical structures with ITK-SNAP. Insight J (special issue on ISC/NA-MIC/MICCAI Workshop on Open-Source Software)</mixed-citation></ref><ref id="CR38"><label>38.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hofstad</surname><given-names>EF</given-names></name><name><surname>Sorger</surname><given-names>H</given-names></name><name><surname>Leira</surname><given-names>HO</given-names></name><name><surname>Amundsen</surname><given-names>T</given-names></name><name><surname>Lango</surname><given-names>T</given-names></name></person-group><article-title>Automatic registration of CT images to patient during the initial phase of bronchoscopy: a clinical pilot study</article-title><source>Med Phys</source><year>2014</year><volume>41</volume><issue>4</issue><fpage>041903</fpage><pub-id pub-id-type="doi">10.1118/1.4866884</pub-id><pub-id pub-id-type="pmid">24694134</pub-id></element-citation></ref><ref id="CR39"><label>39.</label><mixed-citation publication-type="other">Aurora technical specifications. Northern Digital Inc. <ext-link ext-link-type="uri" xlink:href="http://www.ndigital.com">http://www.ndigital.com</ext-link></mixed-citation></ref><ref id="CR40"><label>40.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mercier</surname><given-names>L</given-names></name><name><surname>Lango</surname><given-names>T</given-names></name><name><surname>Lindseth</surname><given-names>F</given-names></name><name><surname>Collins</surname><given-names>DL</given-names></name></person-group><article-title>A review of calibration techniques for freehand 3-D ultrasound systems</article-title><source>Ultrasound Med Biol</source><year>2005</year><volume>31</volume><issue>4</issue><fpage>449</fpage><lpage>471</lpage><pub-id pub-id-type="doi">10.1016/j.ultrasmedbio.2004.11.015</pub-id><pub-id pub-id-type="pmid">15831324</pub-id></element-citation></ref><ref id="CR41"><label>41.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>B&#x000f8;</surname><given-names>LE</given-names></name><name><surname>Hofstad</surname><given-names>EF</given-names></name><name><surname>Lindseth</surname><given-names>F</given-names></name><name><surname>Hernes</surname><given-names>TA</given-names></name></person-group><article-title>Versatile robotic probe calibration for position tracking in ultrasound imaging</article-title><source>Phys Med Biol</source><year>2015</year><volume>60</volume><issue>9</issue><fpage>3499</fpage><lpage>35137</lpage><pub-id pub-id-type="doi">10.1088/0031-9155/60/9/3499</pub-id><pub-id pub-id-type="pmid">25855886</pub-id></element-citation></ref></ref-list></back></article>

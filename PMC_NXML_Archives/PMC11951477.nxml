@@ -1,0 +1,693 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Rev Cardiovasc Med</journal-id><journal-id journal-id-type="iso-abbrev">Rev Cardiovasc Med</journal-id><journal-id journal-id-type="publisher-id">RCM</journal-id><journal-title-group><journal-title>Reviews in Cardiovascular Medicine</journal-title></journal-title-group><issn pub-type="ppub">1530-6550</issn><issn pub-type="epub">2153-8174</issn><publisher><publisher-name>IMR Press</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">40160580</article-id><article-id pub-id-type="pmc">11951477</article-id><article-id pub-id-type="doi">10.31083/RCM26744</article-id><article-id pub-id-type="publisher-id">S1530-6550(24)01720-4</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Mitochondrial DNA Polymorphisms of Peripheral Blood Mononuclear Cells Associated with Sustained Ventricular Tachycardia in Patients with Cardioverter-Defibrillator Implantation Indications</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-2645-4142</contrib-id><name><surname>Atabekov</surname><given-names>Tariel</given-names></name><xref rid="aff1" ref-type="aff"><sup>1</sup>
+</xref><xref rid="cor1" ref-type="corresp"><sup>*</sup>
+</xref><email>kgma1011@mail.ru</email></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-2818-1419</contrib-id><name><surname>Korepanov</surname><given-names>Viacheslav</given-names></name><xref rid="aff2" ref-type="aff"><sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-8121-8287</contrib-id><name><surname>Krivolapov</surname><given-names>Sergey</given-names></name><xref rid="aff1" ref-type="aff"><sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-9885-5204</contrib-id><name><surname>Khlynin</surname><given-names>Mikhail</given-names></name><xref rid="aff1" ref-type="aff"><sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-6066-3998</contrib-id><name><surname>Afanasiev</surname><given-names>Sergey</given-names></name><xref rid="aff2" ref-type="aff"><sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-7692-9954</contrib-id><name><surname>Golubenko</surname><given-names>Maria</given-names></name><xref rid="aff3" ref-type="aff"><sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-1415-3932</contrib-id><name><surname>Batalov</surname><given-names>Roman</given-names></name><xref rid="aff1" ref-type="aff"><sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-9050-4493</contrib-id><name><surname>Popov</surname><given-names>Sergey</given-names></name><xref rid="aff1" ref-type="aff"><sup>1</sup>
+</xref></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Fan</surname><given-names>Chengming</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="aff1"><sup>1</sup>Department of Surgical Arrhythmology and Cardiac Pacing, Cardiology Research Institute, Tomsk National Research Medical Center, Russian Academy of Sciences, 634012 Tomsk, Russia
+</aff><aff id="aff2"><sup>2</sup>Laboratory of Molecular and Cellular Pathology and Gene Diagnostics, Cardiology Research Institute, Tomsk National Research Medical Center, Russian Academy of Sciences, 634012 Tomsk, Russia
+</aff><aff id="aff3"><sup>3</sup>Laboratory for Population Genetics, Research Institute of Medical Genetics, Tomsk National Research Medical Center, Russian Academy of Sciences, 634050 Tomsk, Russia
+</aff><author-notes><corresp id="cor1"><sup>*</sup>Correspondence:
+<email>kgma1011@mail.ru</email> (Tariel Atabekov)
+</corresp></author-notes><pub-date pub-type="epub"><day>17</day><month>3</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>3</month><year>2025</year></pub-date><volume>26</volume><issue>3</issue><elocation-id>26744</elocation-id><history><date date-type="received"><day>26</day><month>9</month><year>2024</year></date><date date-type="rev-recd"><day>27</day><month>11</month><year>2024</year></date><date date-type="accepted"><day>17</day><month>12</month><year>2024</year></date></history><permissions><copyright-statement>Copyright: &#x000a9; 2025 The Author(s). Published by IMR Press.
+</copyright-statement><copyright-year>2025</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">
+CC BY 4.0 license</ext-link>.
+</license-p></license></permissions><abstract><sec><title>Background:</title><p>Mitochondrial dysfunction in myocardium cells has been implicated in arrhythmogenesis, including ventricular tachycardia (VT). A carriage of point mitochondrial DNA (mtDNA) polymorphisms may contribute to the risk of certain arrhythmias. Therefore, it is hypothesized that mtDNA genotype could predict the risk of sustained VT (<sub>S</sub>VT). We aimed to explore whether specific mtDNA polymorphisms of peripheral blood mononuclear cells (PBMC) can serve as biomarkers for predicting the risk of <sub>S</sub>VT in patients with indications for an implantable cardioverter-defibrillator (ICD).
+</p></sec><sec><title>Methods:</title><p>A total of 122 patients with ICD implantation indications who underwent transthoracic echocardiography (TTE) were enrolled in the study. Total DNA from PBMC was isolated using the phenol-chloroform extraction method. Genotyping of mtDNA polymorphisms A2706G, G3010A and G9055A was performed using restriction fragment length polymorphism analysis. Correlations between clinical parameters and mtDNA polymorphisms with <sub>S</sub>VT registered prior to ICD implantation were evaluated. Based on our data, we developed a risk model for <sub>S</sub>VT.
+</p></sec><sec><title>Results:</title><p>Prior to ICD implantation, 70 (56.6%) patients had <sub>S</sub>VT (1st group) and 52 (43.4%) patients did not have <sub>S</sub>VT (2nd group). Patients with <sub>S</sub>VT were significantly older than patients without <sub>S</sub>VT (66.9 &#x000b1; 9.9 year vs. 59.5 &#x000b1; 10.6 year, <italic toggle="yes">p</italic> &#x0003c; 0.001), had a lower value estimated glomerular filtration rate (<sub>e</sub>GFR) (65.7 &#x000b1; 19.7 mL/min/1.73 m<sup>2</sup> vs. 77.9 &#x000b1; 16.1 mL/min/1.73 m<sup>2</sup>, <italic toggle="yes">p</italic> &#x0003c; 0.001) and less frequently had A2706G mtDNA polymorphism (55.7% vs. 76.9%, <italic toggle="yes">p</italic> = 0.015). According to the multivariable logistic regression, age (odds ratio (OR) = 1.055, 95% confidence interval (CI) 1.009&#x02013;1.103, <italic toggle="yes">p</italic> = 0.017), <sub>e</sub>GFR (OR = 0.974, 95% CI 0.949&#x02013;0.999, <italic toggle="yes">p</italic> = 0.041) and absence of A2706G mtDNA polymorphism (OR = 0.335, 95% CI 0.141&#x02013;0.797, <italic toggle="yes">p</italic> = 0.013) were independently associated with the <sub>S</sub>VT. We constructed a logistic equation with calculation of the cut-off value. The discriminative ability of the receiver operating characteristic curve (area under the curve) was 0.761 (95% confidence interval 0.675&#x02013;0.833; sensitivity 65.71%; specificity 76.92%).
+</p></sec><sec><title>Conclusions:</title><p>In patients with ICD implantation indications, a carriage of mtDNA polymorphism A2706G is associated with <sub>S</sub>VT. Our risk model including age, <sub>e</sub>GFR and absence of A2706G mtDNA substitution was able to distinguish patients with <sub>S</sub>VT. Further investigations of their predictive significance are warranted.
+</p></sec><sec><title>Clinical Trial Registration:</title><p>NCT03667989 (<uri xlink:href="https://clinicaltrials.gov/study/NCT03667989">https://clinicaltrials.gov/study/NCT03667989</uri>).
+</p></sec></abstract><kwd-group kwd-group-type="author"><kwd>sustained ventricular tachycardia</kwd><kwd>mitochondrial DNA</kwd><kwd>peripheral blood mononuclear cells</kwd><kwd>cardioverter-defibrillator</kwd></kwd-group><funding-group><funding-statement>This research received no external funding.</funding-statement></funding-group></article-meta></front><body><sec id="S1"><title>1. Introduction</title><p id="S1.p1">The major cause of death worldwide is sudden cardiac death (SCD), with an 
+estimated United States and Russian Federation annual incidence of 350 thousand 
+and 142&#x02013;473 thousand, respectively [<xref rid="b1" ref-type="bibr">1</xref>, <xref rid="b2" ref-type="bibr">2</xref>]. Most of these deaths are associated 
+with life-threatening ventricular tachyarrhythmias (VTA) such as sustained 
+ventricular tachycardia (<sub>S</sub>VT) and ventricular fibrillation (VF). Implantable 
+cardioverter-defibrillators (ICD) are the primary management strategy for VTA and 
+they have been proven to reduce mortality rates [<xref rid="b3" ref-type="bibr">3</xref>]. However, this type of SCD 
+prevention is essentially a palliative method and there is currently no effective 
+preventive treatment strategy, because the mechanisms underlying fatal 
+arrhythmias are still poorly understood and risk stratification of VTA remains a 
+major unsolved clinical problem.</p><p id="S1.p2">Dysfunction of mitochondria may contribute to a wide range of cardiovascular 
+pathologies including arrhythmias [<xref rid="b4" ref-type="bibr">4</xref>]. Mitochondrial dysfunction of myocardium 
+cells is implicated in VTA arrhythmogenesis, and plays a crucial role in their 
+development [<xref rid="b5" ref-type="bibr">5</xref>]. Mitochondrial DNA (mtDNA) polymorphism, in turn, can influence 
+the function of the encoded subunits of respiratory chain complexes [<xref rid="b6" ref-type="bibr">6</xref>, <xref rid="b7" ref-type="bibr">7</xref>]. Based 
+on the data obtained from patients with atrial fibrillation, it was revealed that 
+carriage of haplogroup H probably has a protective effect regarding the 
+development of persistent atrial fibrillation compared with haplogroup U [<xref rid="b8" ref-type="bibr">8</xref>]. It 
+has also been shown that a decrease in the mtDNA copy numbers is associated with 
+the development of atrial fibrillation [<xref rid="b9" ref-type="bibr">9</xref>]. Studying mitochondrial dysfunction in 
+myocardium cells is only possible after a biopsy or radionuclide assessment, 
+which is fraught with its own difficulties and potential complications [<xref rid="b10" ref-type="bibr">10</xref>]. 
+Peripheral blood mononuclear cells (PBMC) are a group of mononuclear cells that 
+exist in blood and exhibit important roles in the body&#x02019;s immune responses [<xref rid="b11" ref-type="bibr">11</xref>]. 
+There are numerous mitochondria in each cell of the body, and each of them has up 
+to 10 mtDNA copies [<xref rid="b12" ref-type="bibr">12</xref>]. In cardiovascular disease, the number of mtDNA will 
+change to become comparable to an individual without the disease. Therefore, it 
+could be hypothesized that mtDNA polymorphisms might contribute to the risk of 
+<sub>S</sub>VT. The aims of our study were to evaluate the association of mtDNA 
+polymorphisms with <sub>S</sub>VT in patients with ICD implantation indications and 
+explore whether specific mtDNA polymorphisms can serve as biomarkers for 
+predicting the risk of <sub>S</sub>VT.</p></sec><sec id="S2"><title>2. Materials and Methods</title><sec id="S2.SS1"><title>2.1 Patient Population </title><p id="S2.SS1.p1">Patients with ICD indications (secondary and primary prevention of SCD) were 
+enrolled in this nonrandomized, single-center, clinical, open, cross-sectional 
+observational study. Individuals with myocardial infarction (MI) less than 3 
+months old, hypertrophic cardiomyopathy, severe concomitant pathology (end-stage 
+renal failure and hepatic insufficiency, cancer of any location), cognitive 
+dysfunction and indications for revascularization, and young patients (<inline-formula><mml:math id="w1" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>18 
+year) were not included in the study.</p><p id="S2.SS1.p2">All patients underwent the full physical (6-minute walk distance test (6MWDT), 
+transthoracic echocardiography (TTE), 12-lead electrocardiography (ECG), 24-hour 
+Holter monitoring ECG, coronary angiography and blood analyses) and additional 
+(mitochondrial nucleotide transition assessment using PBMC) examination. All 
+patients received basic therapy in accordance with the guidelines for the 
+management of ventricular tachycardia (VT) and heart failure (HF). All included patients were from a 
+registered study (ClinicalTrials.gov, NCT03667989). 
+</p></sec><sec id="S2.SS2"><title>2.2 Transthoracic Echocardiography Acquisition and Analysis</title><p id="S2.SS2.p1">The echocardiography was performed using the Philips HD15 PureWave ultrasound 
+machine (Philips Ultrasound, Inc., Bothell, WA, USA). The TTE was carried out 
+from standard positions with the intracardiac hemodynamic parameters assessment 
+and determination of the dimensional, volume and indexed indicators of the heart 
+chambers and left ventricular ejection fraction (LVEF). The right and left 
+ventricles contractility and cardiac valve function, with the exception of the 
+pulmonary valve, were evaluated.</p></sec><sec id="S2.SS3"><title>2.3 DNA Isolation and Genotyping</title><p id="S2.SS3.p1">Blood sampling was performed before ICD implantation. DNA extraction from the 
+whole ethylenediaminetetraacetic acid (EDTA) blood was carried out by phenol chloroform extraction. Isolated DNA 
+samples were placed for storage at &#x02013;20 &#x000b0;C until further stages of the study. The 
+DNA sample quality and concentration were evaluated using a NanoDrop &#x02013; 2000C 
+spectrophotometer (Thermo Fisher Scientific, Waltham, MA, USA).</p><p id="S2.SS3.p2">Three mtDNA polymorphisms were selected for the analysis, namely A2706G, G3010A 
+and G9055A. The positions are numbered according corrected reference human mtDNA 
+sequence [<xref rid="b13" ref-type="bibr">13</xref>]. Genotyping of the polymorphisms was carried out by restriction 
+analysis. For this aim, we performed polymerase chain reaction (PCR) analysis 
+using specific primers for each polymorphism [<xref rid="b14" ref-type="bibr">14</xref>]. Primer annealing conditions 
+for PCR were identified individually for each primer pair. Resulting amplicons 
+then underwent restriction fragment length polymorphism analysis using 
+site-specific endonucleases (SibEnzyme Ltd., Novosibirsk, Russia). The mixture for 
+the restriction procedure included PCR-product (10 &#x000b5;L), the 
+restriction buffer supplied with the enzyme (1.2 &#x000b5;L), 1 U of the 
+enzyme, and deionized water to a final volume of 12 &#x000b5;L. The mixture 
+was incubated for 12&#x02013;24 hours at the temperatures optimal for each enzyme, 
+according to the manufacturer&#x02019;s information. Separation of restriction products 
+by size was carried out immediately after incubation with 2% agarose gel 
+electrophoresis for 40 min at a voltage of 130 V with staining with ethidium 
+bromide. Visualization and confirmation of the obtained results were carried out 
+in ultraviolet light on the Gel Doc documentation system (BioRad, Hercules, CA, 
+USA).</p></sec><sec id="S2.SS4"><title>2.4 Clinical Evaluation and Study Design</title><p id="S2.SS4.p1">Information on clinical assessment was obtained for all of the 122 patients 
+included in the study. All participants were divided into 2 cohorts in accordance 
+with the <sub>S</sub>VT presence. The <sub>S</sub>VT criteria were 3 or more consecutive 
+ventricular beats with rate of 120 or more beats per minute and duration for 30 
+or more sec. The 1st group included patients with <sub>S</sub>VT, the 2nd group &#x02013; 
+without <sub>S</sub>VT. The flow chart and study design are presented in Fig. <xref rid="S2.F1" ref-type="fig">1</xref>.</p><fig position="float" id="S2.F1"><label>Fig. 1.
+</label><caption><p><bold>Study flow chart and design</bold>. Abbreviations: HCM, hypertrophic 
+cardiomyopathy; ICD, implantable cardioverter-defibrillator; mtDNA, mitochondrial 
+DNA; PBMC, peripheral blood mononuclear cells; <sub>S</sub>VT, sustained ventricular 
+tachycardia.</p></caption><graphic xlink:href="2153-8174-26-3-26744-g1" id="S2.F1.g1" position="float"/></fig></sec><sec id="S2.SS5"><title>2.5 Statistical Methods</title><p id="S2.SS5.p1">All qualitative and categorical variables are presented as counts (n) and 
+percentages (%). The continuous variables are presented as the mean (M) <inline-formula><mml:math id="w2" alttext="\pm{}" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> 
+standard deviation (SD) for normally distributed variables or as the median (Me) 
+and interquartile ranges [Q1; Q3] for non-normally distributed variables. 
+Kolmogorov-Smirnov, Lilliefors and Shapiro-Wilk tests were used to test the 
+normality of continuous data distribution. Differences between groups for 
+continuous data with normal distribution were assessed using the two-sided 
+Student&#x02019;s <italic toggle="yes">t</italic>-test. The Mann&#x02013;Whitney U-test was used for independent 
+ordinal or non-normally distributed data. The significance of differences between 
+the groups was determined using the nonparametric Chi<sup>2</sup> or Fisher&#x02019;s exact 
+test. A comparison between patients with and without sustained VT was performed 
+for the complete dataset. Statistical analysis was performed with Statistica 10.0 
+(StatSoft Inc., Tulsa, OK, USA) and Medcalc 19.2.6 (MedCalc Software, Ostend, 
+Belgium). Statistical significance was defined by a <italic toggle="yes">p</italic>-value <inline-formula><mml:math id="w3" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.05.</p></sec><sec id="S2.SS6"><title>2.6 Risk Stratification Analysis and Predictive Model Development</title><p id="S2.SS6.p1">The binary logistic regression analysis was used to distinguish variables 
+associated with the <sub>S</sub>VT. The multicollinearity was excluded using the 
+non-parametric Spearman analysis. Based on pairwise correlation coefficients, the 
+presence of collinear factors was revealed. Factors were considered collinear if 
+R <inline-formula><mml:math id="w4" alttext="&#x0003e;" display="inline" overflow="scroll"><mml:mo>&#x0003e;</mml:mo></mml:math></inline-formula>0.7. Only one of the interrelated variables was added to the model. The 
+multivariable logistic regression analysis was performed using a stepwise 
+elimination technique. Only indicators with <italic toggle="yes">p </italic>
+<inline-formula><mml:math id="w5" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.05 were added in the 
+final model. Goodness-of-fit was performed by the Hosmer-Lemeshow test. The 
+Pearson correlation and <italic toggle="yes">t</italic>-test were used to examine the significant 
+correlations between the predictors. Regression analysis results were presented 
+as odds ratios (ORs) with 95% confidence intervals (CIs). Odds ratios and the beta 
+coefficients used in the logistic equation could be converted into each other: OR 
+= e<inline-formula><mml:math id="w6" alttext="\beta{}" display="inline" overflow="scroll"><mml:mi>&#x003b2;</mml:mi></mml:math></inline-formula>.</p><p id="S2.SS6.p2">Finally, three variables (age, estimated glomerular filtration rate (<sub>e</sub>GFR) 
+and absence of mtDNA A2706G transition), independently associated with <sub>S</sub>VT, 
+were added to the predictive model. The area under the curve (AUC) was calculated 
+to assess the discriminatory ability of the risk stratification score.</p></sec></sec><sec id="S3"><title>3. Results</title><sec id="S3.SS1"><title>3.1 Patient&#x02019;s Demographic and Clinical Data</title><p id="S3.SS1.p1">In 141 patients with an ICD implantation indication, we excluded 19 patients 
+with failed blood samples (n = 17) and hypertrophic cardiomyopathy (n = 2). For 
+the remaining 122 (100.0%) participants, the mean age was 63.7 <inline-formula><mml:math id="w7" alttext="\pm{}" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> 10.8 
+years and 94 (77.0%) patients were males. The 1st group included 70 (56.6%) 
+patients with <sub>S</sub>VT. The 2nd group included 52 (43.4%) patients without 
+<sub>S</sub>VT. The baseline characteristics of participants are presented in Table <xref rid="S3.T1" ref-type="table">1</xref>. 
+Patients with <sub>S</sub>VT were significantly older than patients without <sub>S</sub>VT 
+(66.9 <inline-formula><mml:math id="w8" alttext="\pm{}" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> 9.9 year vs. 59.5 <inline-formula><mml:math id="w9" alttext="\pm{}" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> 10.6 year, <italic toggle="yes">p </italic>
+<inline-formula><mml:math id="w10" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.001). The 
+subgroups of patients also differed significantly by the portion of patients with 
+I (7.1% vs. 25.0%, <italic toggle="yes">p</italic> = 0.006) and II (65.7% vs. 38.4%, <italic toggle="yes">p</italic> = 
+0.002) New York Heart Association (NYHA) class, but the 6MWDT indicator didn&#x02019;t differ between groups 
+(<italic toggle="yes">p</italic> = 0.635). Individuals with <sub>S</sub>VT were more likely to have 
+ventricular fibrillation (8.6% vs. 0.0%, <italic toggle="yes">p</italic> = 0.030), lower <sub>e</sub>GFR 
+(65.7 <inline-formula><mml:math id="w11" alttext="\pm{}" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> 19.7 mL/min/1.73 m<sup>2</sup> vs. 77.9 <inline-formula><mml:math id="w12" alttext="\pm{}" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> 16.1 mL/min/1.73 m<sup>2</sup>, 
+<italic toggle="yes">p </italic>
+<inline-formula><mml:math id="w13" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.001) and left ventricular end-systolic volume (74.5 [42.0; 
+106.0] mL vs. 147.5 [114.0; 205.0] mL, <italic toggle="yes">p </italic>
+<inline-formula><mml:math id="w14" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.001), and higher LVEF 
+(47.5 [41.0; 62.0]% vs. 32.5 [28.0; 36.0]%, <italic toggle="yes">p </italic>
+<inline-formula><mml:math id="w15" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.001). Significant 
+differences in echocardiographic indicators were due to the fact that all 
+patients without <sub>S</sub>VT had primary SCD prevention indications for ICD 
+implantation. Also, patients without <sub>S</sub>VT were more likely to have prescribed 
+loop diuretics (59.6% vs. 27.1%, <italic toggle="yes">p </italic>
+<inline-formula><mml:math id="w16" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.001), mineralocorticoid 
+receptor antagonists (84.6% vs. 50.0%, <italic toggle="yes">p </italic>
+<inline-formula><mml:math id="w17" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.001), angiotensin 
+receptor/neprilysin inhibitors (34.6% vs. 8.6%, <italic toggle="yes">p </italic>
+<inline-formula><mml:math id="w18" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.001) and 
+sodium glucose co-transporter 2 inhibitors (44.2% vs. 10.0%, <italic toggle="yes">p </italic>
+<inline-formula><mml:math id="w19" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.001) due to the fact that patients have HF with reduced LVEF and received the 
+therapy in accordance with the current guidelines for the HF management. Patients 
+with <sub>S</sub>VT were more likely to have longer baseline corrected QT 
+interval (QTc) (429.3 <inline-formula><mml:math id="w20" alttext="\pm{}" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> 33.8 ms vs. 419.8 <inline-formula><mml:math id="w21" alttext="\pm{}" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> 31.3 ms, <italic toggle="yes">p</italic> = 0.031). 
+This significant difference was due to the fact that the majority of patients 
+with <sub>S</sub>VT were treated with amiodarone (62.8% vs. 38.4%, <italic toggle="yes">p</italic> = 
+0.007). Also, patients with <sub>S</sub>VT were more likely to have lipid-lowering 
+treatment (92.8% vs. 80.7%, <italic toggle="yes">p</italic> = 0.044).</p><table-wrap position="float" id="S3.T1"><label>Table 1.
+</label><caption><p><bold>Baseline characteristics of the patients</bold>.</p></caption><table frame="hsides" rules="groups"><tbody><tr style="border-top:1px solid #000;"><td colspan="2" rowspan="2">Demographic and clinical characteristics</td><td rowspan="1" colspan="1">Overall population (n = 122)</td><td rowspan="1" colspan="1">1st group Pts with <sub>S</sub>VT (n = 70)</td><td rowspan="1" colspan="1">2nd group Pts without <sub>S</sub>VT (n = 52)</td><td rowspan="2" colspan="1">
+<italic toggle="yes">p</italic>
+<sub>2-3</sub>
+</td></tr><tr style="border-top:1px solid #000;"><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">2</td><td rowspan="1" colspan="1">3</td></tr><tr style="border-top:1px solid #000;"><td colspan="2" rowspan="1">Age, year, M <inline-formula><mml:math id="w22" alttext="\pm" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> SD</td><td rowspan="1" colspan="1">63.7 <inline-formula><mml:math id="w23" alttext="\pm" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> 10.8</td><td rowspan="1" colspan="1">66.9 <inline-formula><mml:math id="w24" alttext="\pm" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> 9.9</td><td rowspan="1" colspan="1">59.5 <inline-formula><mml:math id="w25" alttext="\pm" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> 10.6</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w26" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td></tr><tr><td colspan="2" rowspan="1">Male gender, n (%)</td><td rowspan="1" colspan="1">94 (77.0)</td><td rowspan="1" colspan="1">53 (75.7)</td><td rowspan="1" colspan="1">41 (78.8)</td><td rowspan="1" colspan="1">0.684</td></tr><tr><td colspan="2" rowspan="1">History of myocardial infarction, n (%)</td><td rowspan="1" colspan="1">73 (59.8)</td><td rowspan="1" colspan="1">45 (64.3)</td><td rowspan="1" colspan="1">28 (53.8)</td><td rowspan="1" colspan="1">0.244</td></tr><tr><td colspan="2" rowspan="1">History of coronary artery stenting, n (%)</td><td rowspan="1" colspan="1">48 (39.3)</td><td rowspan="1" colspan="1">28 (40.0)</td><td rowspan="1" colspan="1">20 (38.4)</td><td rowspan="1" colspan="1">0.863</td></tr><tr><td colspan="2" rowspan="1">History of CABG, n (%)</td><td rowspan="1" colspan="1">29 (23.8)</td><td rowspan="1" colspan="1">19 (27.1)</td><td rowspan="1" colspan="1">10 (19.2)</td><td rowspan="1" colspan="1">0.310</td></tr><tr><td colspan="6" rowspan="1">Baseline New York Heart Association class:</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">I, n (%)</td><td rowspan="1" colspan="1">18 (14.7)</td><td rowspan="1" colspan="1">5 (7.1)</td><td rowspan="1" colspan="1">13 (25.0)</td><td rowspan="1" colspan="1">0.006</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">II, n (%)</td><td rowspan="1" colspan="1">66 (54.1)</td><td rowspan="1" colspan="1">46 (65.7)</td><td rowspan="1" colspan="1">20 (38.4)</td><td rowspan="1" colspan="1">0.002</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">III, n (%)</td><td rowspan="1" colspan="1">38 (31.1)</td><td rowspan="1" colspan="1">19 (27.1)</td><td rowspan="1" colspan="1">19 (36.5)</td><td rowspan="1" colspan="1">0.267</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Baseline 6MWDT, m, M <inline-formula><mml:math id="w27" alttext="\pm" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> SD</td><td rowspan="1" colspan="1">353.9 <inline-formula><mml:math id="w28" alttext="\pm" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> 85.3</td><td rowspan="1" colspan="1">352.1 <inline-formula><mml:math id="w29" alttext="\pm" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> 77.3</td><td rowspan="1" colspan="1">356.3 <inline-formula><mml:math id="w30" alttext="\pm" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> 95.8</td><td rowspan="1" colspan="1">0.635</td></tr><tr><td colspan="6" rowspan="1">Arrhythmias prior to ICD implantation:</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">History of <sub>S</sub>VT, n (%)</td><td rowspan="1" colspan="1">70 (56.6)</td><td rowspan="1" colspan="1">70 (100.0)</td><td rowspan="1" colspan="1">0 (0.0)</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w31" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Paroxysmal atrial fibrillation, n (%)</td><td rowspan="1" colspan="1">46 (37.7)</td><td rowspan="1" colspan="1">30 (42.8)</td><td rowspan="1" colspan="1">16 (30.7)</td><td rowspan="1" colspan="1">0.173</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Ventricular fibrillation, n (%)</td><td rowspan="1" colspan="1">6 (4.9)</td><td rowspan="1" colspan="1">6 (8.6)</td><td rowspan="1" colspan="1">0 (0.0)</td><td rowspan="1" colspan="1">0.030</td></tr><tr><td colspan="6" rowspan="1">Comorbidities:</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Hypertension, n (%)</td><td rowspan="1" colspan="1">41 (33.6)</td><td rowspan="1" colspan="1">26 (37.1)</td><td rowspan="1" colspan="1">15 (28.8)</td><td rowspan="1" colspan="1">0.337</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Diabetes mellitus, n (%)</td><td rowspan="1" colspan="1">26 (21.3)</td><td rowspan="1" colspan="1">18 (25.7)</td><td rowspan="1" colspan="1">8 (15.4)</td><td rowspan="1" colspan="1">0.168</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Baseline body mass index, kg/m<sup>2</sup>, M <inline-formula><mml:math id="w32" alttext="\pm" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> SD</td><td rowspan="1" colspan="1">28.9 <inline-formula><mml:math id="w33" alttext="\pm" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> 5.1</td><td rowspan="1" colspan="1">29.2 <inline-formula><mml:math id="w34" alttext="\pm" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> 4.8</td><td rowspan="1" colspan="1">28.5 <inline-formula><mml:math id="w35" alttext="\pm" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> 5.5</td><td rowspan="1" colspan="1">0.324</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Dyslipidemia, n (%)</td><td rowspan="1" colspan="1">61 (50.0)</td><td rowspan="1" colspan="1">37 (52.8)</td><td rowspan="1" colspan="1">24 (46.1)</td><td rowspan="1" colspan="1">0.464</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Baseline <sub>e</sub>GFR, mL/min/1.73 m<sup>2</sup>, M <inline-formula><mml:math id="w36" alttext="\pm" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> SD</td><td rowspan="1" colspan="1">70.9 <inline-formula><mml:math id="w37" alttext="\pm" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> 19.2</td><td rowspan="1" colspan="1">65.7 <inline-formula><mml:math id="w38" alttext="\pm" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> 19.7</td><td rowspan="1" colspan="1">77.9 <inline-formula><mml:math id="w39" alttext="\pm" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> 16.1</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w40" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Chronic obstructive pulmonary disease, n (%)</td><td rowspan="1" colspan="1">16 (13.1)</td><td rowspan="1" colspan="1">10 (14.3)</td><td rowspan="1" colspan="1">6 (11.5)</td><td rowspan="1" colspan="1">0.656</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Stroke, n (%)</td><td rowspan="1" colspan="1">3 (2.4)</td><td rowspan="1" colspan="1">1 (1.4)</td><td rowspan="1" colspan="1">2 (3.8)</td><td rowspan="1" colspan="1">0.393</td></tr><tr><td colspan="6" rowspan="1">Baseline electrocardiographic and echocardiographic findings:</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Baseline QTc, ms, M <inline-formula><mml:math id="w41" alttext="\pm" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> SD</td><td rowspan="1" colspan="1">425.3 <inline-formula><mml:math id="w42" alttext="\pm" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> 33.0</td><td rowspan="1" colspan="1">429.3 <inline-formula><mml:math id="w43" alttext="\pm" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> 33.8</td><td rowspan="1" colspan="1">419.8 <inline-formula><mml:math id="w44" alttext="\pm" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> 31.3</td><td rowspan="1" colspan="1">0.031</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">LV end-systolic volume, mL, Me (Q<sub>1</sub>; Q<sub>3</sub>)</td><td rowspan="1" colspan="1">105.0 (59.0; 150.0)</td><td rowspan="1" colspan="1">74.5 (42.0; 106.0)</td><td rowspan="1" colspan="1">147.5 (114.0; 205.0)</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w45" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">LV ejection fraction, %, Me (Q<sub>1</sub>; Q<sub>3</sub>)</td><td rowspan="1" colspan="1">40.0 (32.0; 55.0)</td><td rowspan="1" colspan="1">47.5 (41.0; 62.0)</td><td rowspan="1" colspan="1">32.5 (28.0; 36.0)</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w46" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td></tr><tr><td colspan="6" rowspan="1">Baseline therapy:</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Beta-blockers, n (%)</td><td rowspan="1" colspan="1">110 (90.2)</td><td rowspan="1" colspan="1">61 (87.1)</td><td rowspan="1" colspan="1">49 (94.2)</td><td rowspan="1" colspan="1">0.193</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Loop diuretics, n (%)</td><td rowspan="1" colspan="1">50 (41.0)</td><td rowspan="1" colspan="1">19 (27.1)</td><td rowspan="1" colspan="1">31 (59.6)</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w47" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Mineralocorticoid receptor antagonists, n (%)</td><td rowspan="1" colspan="1">79 (64.7)</td><td rowspan="1" colspan="1">35 (50.0)</td><td rowspan="1" colspan="1">44 (84.6)</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w48" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">ACEI, n (%)</td><td rowspan="1" colspan="1">72 (59.0)</td><td rowspan="1" colspan="1">44 (62.8)</td><td rowspan="1" colspan="1">28 (53.8)</td><td rowspan="1" colspan="1">0.316</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Antiplatelet agents, n (%)</td><td rowspan="1" colspan="1">72 (59.0)</td><td rowspan="1" colspan="1">41 (58.6)</td><td rowspan="1" colspan="1">31 (59.6)</td><td rowspan="1" colspan="1">0.907</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Lipid-lowering treatment, n (%)</td><td rowspan="1" colspan="1">107 (87.7)</td><td rowspan="1" colspan="1">65 (92.8)</td><td rowspan="1" colspan="1">42 (80.7)</td><td rowspan="1" colspan="1">0.044</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Angiotensin II receptor blocker, n (%)</td><td rowspan="1" colspan="1">24 (19.7)</td><td rowspan="1" colspan="1">18 (25.7)</td><td rowspan="1" colspan="1">6 (11.5)</td><td rowspan="1" colspan="1">0.051</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">ARNi, n (%)</td><td rowspan="1" colspan="1">24 (19.7)</td><td rowspan="1" colspan="1">6 (8.6)</td><td rowspan="1" colspan="1">18 (34.6)</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w49" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Amiodarone, n (%)</td><td rowspan="1" colspan="1">64 (52.4)</td><td rowspan="1" colspan="1">44 (62.8)</td><td rowspan="1" colspan="1">20 (38.4)</td><td rowspan="1" colspan="1">0.007</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Anticoagulants, n (%)</td><td rowspan="1" colspan="1">52 (42.6)</td><td rowspan="1" colspan="1">34 (48.6)</td><td rowspan="1" colspan="1">18 (34.6)</td><td rowspan="1" colspan="1">0.123</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Hypoglycemic drugs, n (%)</td><td rowspan="1" colspan="1">16 (13.1)</td><td rowspan="1" colspan="1">11 (15.7)</td><td rowspan="1" colspan="1">5 (9.6)</td><td rowspan="1" colspan="1">0.323</td></tr><tr style="border-bottom:1px solid #000;"><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">SGLT2i, n (%)</td><td rowspan="1" colspan="1">30 (24.6)</td><td rowspan="1" colspan="1">7 (10.0)</td><td rowspan="1" colspan="1">23 (44.2)</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w50" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td></tr></tbody></table><table-wrap-foot><fn><p>Values in bold indicate statistical significance.</p><p> 
+The values are signified as M <inline-formula><mml:math id="w51" alttext="\pm{}" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> SD and Me (Q<sub>1</sub>; Q<sub>3</sub>) for 
+continuous and n (%) for categorical indicators.</p><p> 
+Abbreviations: 6MWDT, 6-minute walk distance test; ACEI, angiotensin-converting 
+enzyme inhibitors; ARNi, angiotensin receptor neprilysin inhibitors; CABG, 
+coronary artery bypass grafting; ICD, implantable cardioverter-defibrillator; 
+<sub>e</sub>GFR, estimated glomerular filtration rate; QTc, corrected QT interval; 
+LV, left ventricular; Pts, patients; SGLT2i, sodium glucose co-transporter 2 
+inhibitors; <sub>S</sub>VT, sustained ventricular tachycardia; M, mean; Me, median.</p></fn></table-wrap-foot></table-wrap></sec><sec id="S3.SS2"><title>3.2 Mitochondrial DNA Genotypes</title><p id="S3.SS2.p1">Comparison of the mtDNA polymorphisms abundance between the groups revealed that 
+patients with <sub>S</sub>VT less frequently had mtDNA A2706G substitution (55.7% vs. 
+76.9%, <italic toggle="yes">p</italic> = 0.015). The other two polymorphisms G3010A and G9055A did 
+not show statistically significant differences. A detailed comparison of 
+mitochondrial nucleotide transition assessment parameters between groups is shown 
+in Table <xref rid="S3.T2" ref-type="table">2</xref>.</p><table-wrap position="float" id="S3.T2"><label>Table 2.
+</label><caption><p><bold>Mitochondrial nucleotide transition assessment parameters</bold>.</p></caption><table frame="hsides" rules="groups"><tbody><tr style="border-top:1px solid #000;"><td rowspan="2" colspan="1"/><td colspan="2" align="center" rowspan="1">mtDNA A2706G, n (%)</td><td colspan="2" align="center" rowspan="1">mtDNA G3010A, n (%)</td><td colspan="2" align="center" rowspan="1">mtDNA G9055A, n (%)</td></tr><tr style="border-top:1px solid #000;"><td rowspan="1" colspan="1">A</td><td rowspan="1" colspan="1">G</td><td rowspan="1" colspan="1">G</td><td rowspan="1" colspan="1">A</td><td rowspan="1" colspan="1">G</td><td rowspan="1" colspan="1">A</td></tr><tr style="border-top:1px solid #000;"><td rowspan="1" colspan="1">1st group Pts with <sub>S</sub>VT (n = 70)</td><td rowspan="1" colspan="1">31 (44.3)</td><td rowspan="1" colspan="1">39 (55.7)</td><td rowspan="1" colspan="1">13 (18.6)</td><td rowspan="1" colspan="1">57 (81.4)</td><td rowspan="1" colspan="1">7 (10)</td><td rowspan="1" colspan="1">63 (90.0)</td></tr><tr><td rowspan="1" colspan="1">2nd group Pts without <sub>S</sub>VT (n = 52)</td><td rowspan="1" colspan="1">12 (23.1)</td><td rowspan="1" colspan="1">40 (76.9)</td><td rowspan="1" colspan="1">12 (23.1)</td><td rowspan="1" colspan="1">40 (76.9)</td><td rowspan="1" colspan="1">5 (9.6)</td><td rowspan="1" colspan="1">47 (90.4)</td></tr><tr style="border-bottom:1px solid #000;"><td rowspan="1" colspan="1"><italic toggle="yes">p</italic>-value</td><td colspan="2" align="center" rowspan="1">0.015</td><td colspan="2" align="center" rowspan="1">0.542</td><td colspan="2" align="center" rowspan="1">0.943</td></tr></tbody></table><table-wrap-foot><fn><p>Bold values indicate statistical significance.</p><p> 
+Abbreviations: A, adenine; G, guanine; Pts, patients; <sub>S</sub>VT, sustained 
+ventricular tachycardia; mtDNA, mitochondrial DNA.</p></fn></table-wrap-foot></table-wrap></sec><sec id="S3.SS3"><title>3.3 Risk Stratification Analysis of <sub>S</sub>VT</title><p id="S3.SS3.p1">Based on the assessed indicators, age was the parameter most strongly correlated 
+with <sub>S</sub>VT. Its discriminative ability was evaluated by receiver operating 
+characteristic (ROC) analysis showing an AUC of 0.698 (95% CI 0.608&#x02013;0.778) 
+(Fig. <xref rid="S3.F2" ref-type="fig">2</xref>B). The ability of <sub>e</sub>GFR to distinguish for the <sub>S</sub>VT was analogous 
+with an AUC of 0.688 (95% CI: 0.598&#x02013;0.769) (Fig. <xref rid="S3.F2" ref-type="fig">2</xref>C). Concerning the 
+mitochondrial A2706G polymorphism, the ROC curve calculation showed an AUC of 
+0.606 (95% CI 0.514&#x02013;0.693) (Fig. <xref rid="S3.F2" ref-type="fig">2</xref>A).</p><fig position="float" id="S3.F2"><label>Fig. 2.
+</label><caption><p><bold>Receiver operating characteristic (ROC) curves</bold>. ROC curves to 
+assess the ability of (A) mtDNA A2706G polymorphism presence, (B) age, (C) 
+estimated glomerular filtration rate (<sub>e</sub>GFR) and (D) the whole risk 
+stratification model to discriminate patients with and without sustained 
+ventricular tachycardia (<sub>S</sub>VT). mtDNA, mitochondrial DNA; AUC, area under the 
+curve.</p></caption><graphic xlink:href="2153-8174-26-3-26744-g2" id="S3.F2.g1" position="float"/></fig><p id="S3.SS3.p2">According to the univariable logistic regression analysis age (OR = 1.073; 95% 
+CI 1.032&#x02013;1.116; <italic toggle="yes">p </italic>
+<inline-formula><mml:math id="w52" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.001), <sub>e</sub>GFR (OR = 0.964; 95% CI 
+0.943&#x02013;0.985; <italic toggle="yes">p </italic>
+<inline-formula><mml:math id="w53" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.001), absence of mtDNA A2706G polymorphism (OR = 
+0.377; 95% CI 0.169&#x02013;0.839; <italic toggle="yes">p</italic> = 0.014) and lipid-lowering treatment (OR 
+= 3.095; 95% CI 0.988&#x02013;9.692; <italic toggle="yes">p</italic> = 0.045) were independently associated 
+with the <sub>S</sub>VT (Fig. <xref rid="S3.F3" ref-type="fig">3</xref>).</p><fig position="float" id="S3.F3"><label>Fig. 3.
+</label><caption><p><bold>Forest plot for the univariable logistic regression results</bold>. 
+Abbreviations: 95% CI, 95% confidence interval; <sub>e</sub>GFR, 
+estimated glomerular filtration rate; G, guanine; QTc, corrected QT interval; 
+mtDNA, mitochondrial DNA; OR, odds ratio; <sub>S</sub>VT, sustained ventricular 
+tachycardia.</p></caption><graphic xlink:href="2153-8174-26-3-26744-g3" id="S3.F3.g1" position="float"/></fig><p id="S3.SS3.p3">Only three variables (age, <sub>e</sub>GFR and absence of mtDNA A2706G substitution) 
+remained considerable in multivariable regression analysis, even after amendment 
+for male gender, QTc and presence of MI in anamnesis (OR = 1.055, 95% CI 
+1.009&#x02013;1.103, <italic toggle="yes">p</italic> = 0.017; OR = 0.974, 95% CI 0.949&#x02013;0.999, <italic toggle="yes">p</italic> = 
+0.041; OR = 0.335, 95% CI 0.141&#x02013;0.797, <italic toggle="yes">p</italic> = 0.013; respectively). The 
+beta coefficients in the logistic equation match the OR natural logarithm (ln(OR) 
+= <inline-formula><mml:math id="w54" alttext="\beta{}" display="inline" overflow="scroll"><mml:mi>&#x003b2;</mml:mi></mml:math></inline-formula>; OR = e<sup>&#x003b2;</sup>).</p></sec><sec id="S3.SS4"><title>3.4 Risk Score Assessment for <sub>S</sub>VT Development</title><p id="S3.SS4.p1">A risk score for <sub>S</sub>VT was established using logistic regression according to 
+collected data. Three variables (age, <sub>e</sub>GFR and absence of mtDNA A2706G 
+polymorphism) were added in the final model syne these indicators remained 
+significant in multivariable logistic regression, even after amendment for male 
+gender, QTc and presence of MI in anamnesis. The AUC was calculated to assess the 
+discriminatory potential of the risk stratification score. The risk model showed 
+the ability to discriminate evidenced by an AUC of 0.761 (Fig. <xref rid="S3.F2" ref-type="fig">2</xref>D). At a cut-off 
+point of <inline-formula><mml:math id="w55" alttext="&#x0003e;" display="inline" overflow="scroll"><mml:mo>&#x0003e;</mml:mo></mml:math></inline-formula>0.6; the model demonstrates a sensitivity of 65.71% and a 
+specificity of 76.92% in discriminating against patients with ICD implantation 
+indications regarding <sub>S</sub>VT. Our risk stratification model showed a positive 
+prognostic value of 80.00% and a negative prognostic value of 53.85%.</p><p id="S3.SS4.p2">The age and <sub>e</sub>GFR values were inserted in the score equation (in year and 
+mL/min/1.73 m<sup>2</sup>, respectively). The substitution of adenine to guanine in 
+mtDNA A2706G was indicated in the score equation by assigning a value of 1 
+(apparent) or 0 (in-apparent). The result of the logistic equation below is the 
+probability (p) of <sub>S</sub>VT development. If the score is <inline-formula><mml:math id="w56" alttext="&#x0003e;" display="inline" overflow="scroll"><mml:mo>&#x0003e;</mml:mo></mml:math></inline-formula>0.6, this risk score 
+allows identification of individuals with ICD implantation indications at an 
+increased risk for <sub>S</sub>VT and following intensified therapy.</p><p id="S3.SS4.p3">Eqn. <xref rid="S3.Ex1" ref-type="disp-formula">1</xref>: Probability (p) of <sub>S</sub>VT development.</p><p>
+<disp-formula id="S3.Ex1">
+<label/><mml:math id="w57" alttext="\begin{gathered}\displaystyle p=\frac{1}{1+e^{-z}}\\ \displaystyle z=-0.52-1.09\times\text{mtDNA}\text{ A2706G presence }+0.05% \times\text{ age }[\text{year}]-0.02\times\text{${}_{\text{e}}$GFR}[\mathrm{mL% }/\mathrm{min}/1.73\mathrm{m}^{2}]\end{gathered}" display="block" overflow="scroll"><mml:mtable displaystyle="true" rowspacing="0pt"><mml:mtr><mml:mtd columnalign="center"><mml:mrow><mml:mi>p</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:msup><mml:mi>e</mml:mi><mml:mrow><mml:mo>-</mml:mo><mml:mi>z</mml:mi></mml:mrow></mml:msup></mml:mrow></mml:mfrac></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="center"><mml:mrow><mml:mi>z</mml:mi><mml:mo>=</mml:mo><mml:mrow><mml:mrow><mml:mrow><mml:mrow><mml:mo>-</mml:mo><mml:mn>0.52</mml:mn></mml:mrow><mml:mo>-</mml:mo><mml:mrow><mml:mn>1.09</mml:mn><mml:mo>&#x000d7;</mml:mo><mml:mtext>mtDNA A2706G presence </mml:mtext></mml:mrow></mml:mrow><mml:mo>+</mml:mo><mml:mrow><mml:mrow><mml:mn>0.05</mml:mn><mml:mo>&#x000d7;</mml:mo><mml:mtext> age </mml:mtext></mml:mrow><mml:mo>&#x02062;</mml:mo><mml:mrow><mml:mo stretchy="false">[</mml:mo><mml:mtext>year</mml:mtext><mml:mo stretchy="false">]</mml:mo></mml:mrow></mml:mrow></mml:mrow><mml:mo>-</mml:mo><mml:mrow><mml:mrow><mml:mn>0.02</mml:mn><mml:mo>&#x000d7;</mml:mo><mml:mrow><mml:msub><mml:mi/><mml:mtext>e</mml:mtext></mml:msub><mml:mtext>GFR</mml:mtext></mml:mrow></mml:mrow><mml:mo>&#x02062;</mml:mo><mml:mrow><mml:mo stretchy="false">[</mml:mo><mml:mrow><mml:mrow><mml:mi>mL</mml:mi><mml:mo>/</mml:mo><mml:mi>min</mml:mi><mml:mo>/</mml:mo><mml:mn>1.73</mml:mn></mml:mrow><mml:mi>&#x000a0;</mml:mi><mml:mo>&#x02062;</mml:mo><mml:msup><mml:mi mathvariant="normal">m</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mrow><mml:mo stretchy="false">]</mml:mo></mml:mrow></mml:mrow></mml:mrow></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:math>
+</disp-formula>
+</p></sec></sec><sec id="S4"><title>4. Discussion</title><p id="S4.p1">As far as we know, the current results provide the first argument of an 
+association between <sub>S</sub>VT with an mtDNA A2706G polymorphism in patients with 
+ICD implantation indications. In this study, we found that the absence of an 
+mtDNA A2706G substitution was associated with the risk of <sub>S</sub>VT development. 
+Besides, the correlation between the absence of an mtDNA A2706G substitution and 
+<sub>S</sub>VT remained after adjusting for conventional cardiovascular disease risk 
+factors.</p><p id="S4.p2">The adenine in position 2706 is a distinguishing marker for mitochondrial 
+haplogroup H which is the most frequent mtDNA haplogroup in European populations. 
+It should be noted that the human mtDNA reference sequence differs from the 
+ancestral sequence and belongs to the haplogroup H, and the protective effect of 
+&#x0201c;absence of the A2706G polymorphism&#x0201d; should be considered as a risk effect of 
+the haplogroup H. This position is located in the mitochondrial gene that encodes 
+<italic toggle="yes">16S rRNA</italic> for mitochondrial ribosomes. It might be possible that this 
+polymorphism can somehow influence <italic toggle="yes">16S rRNA</italic> structure, and therefore, 
+efficiency of mitochondrial translation. In addition, this position is situated 
+at the end of the gene for the mitochondrial peptide humanin which is known as a 
+signal peptide with cardioprotective and neuroprotective effects [<xref rid="b15" ref-type="bibr">15</xref>]. The G3010A 
+polymorphism is also located in the mitochondrial <italic toggle="yes">16S rRNA</italic> gene and can 
+be found in different mtDNA haplogroups. The G9055A polymorphism is located in 
+<italic toggle="yes">MT-ATP6</italic> (mitochondrially encoded adenosine triphosphate synthase 6) gene, leading to the amino acid substitution <italic toggle="yes">Ala177Thr</italic> in the 
+ATP synthase subunit A. Several studies were published that suggested a role of 
+the haplogroup H in the risk of cardiovascular diseases, including ischaemic 
+cardiomyopathy [<xref rid="b16" ref-type="bibr">16</xref>], hypertrophic cardiomyopathy [<xref rid="b17" ref-type="bibr">17</xref>], dilated cardiomyopathy 
+[<xref rid="b18" ref-type="bibr">18</xref>], ischemic heart disease and myocardial infarction [<xref rid="b19" ref-type="bibr">19</xref>, <xref rid="b20" ref-type="bibr">20</xref>]. Our results 
+correspond to this common tendency of cardiovascular risk effect of haplogroup H 
+(i.e., absence of A2706G substitution), revealing the same allele risk effect for 
+<sub>S</sub>VT in our patients.</p><p id="S4.p3">Dysfunction of the mitochondria has been associated with a wide range of 
+cardiovascular pathologies such as HF, cardiomyopathy and arrhythmias [<xref rid="b4" ref-type="bibr">4</xref>, <xref rid="b21" ref-type="bibr">21</xref>]. 
+However, most of the evidence was obtained in patients with hereditary diseases 
+caused by genetically confirmed mtDNA abnormalities with strong effects, and the 
+clinical involvement of mtDNA variations in the population as a whole is 
+underinvestigated.</p><p id="S4.p4">The exact mechanism underlying the association between mtDNA and VTA is unclear. 
+Cardiomyocytes are cells with a high energy demand using mitochondrial 
+respiration and energy production to maintain electrical activity and 
+contractility. It is estimated that approximately 30% of the cardiac ATP 
+generated by mitochondria is used for sarcoplasmic and sarcolemmal reticulum ion 
+channels and transporters, which are required for the cardiomyocytes electrical 
+activity [<xref rid="b5" ref-type="bibr">5</xref>, <xref rid="b22" ref-type="bibr">22</xref>]. It has been shown that mtDNA changes in peripheral blood cells 
+correlated with that of cardiomyocytes, suggesting that mtDNA in PBMC may serve 
+as a marker for mitochondrial function in the heart [<xref rid="b23" ref-type="bibr">23</xref>]. Accordingly, it is 
+possible that mtDNA changes detected in PBMC could contribute to mitochondrial 
+dysfunction in cardiac cells compromising ATP production and energy supply to ion 
+channels and transporters, leading to altered ion homeostasis, membrane 
+excitability, and cardiac arrhythmias [<xref rid="b5" ref-type="bibr">5</xref>]. In our study we did not study the 
+association between SCD and mtDNA polymorphisms. But, according to our results 
+patients with <sub>S</sub>VT less frequently had A2706G a lower mtDNA polymorphism 
+frequency (55.7% vs. 76.9%, <italic toggle="yes">p</italic> = 0.015). Also, the multivariable 
+logistic regression analysis demonstrated that the absence of the A2706G mtDNA 
+polymorphism (OR = 0.335, 95% CI 0.141&#x02013;0.797, <italic toggle="yes">p</italic> = 0.013) was 
+independently associated with the <sub>S</sub>VT even after adjustment for male gender, 
+QTc and history of MI. The mtDNA haplogroup H, one of the marker polymorphisms of 
+which is A2706G, is widely represented in Western Eurasia, where its share is 
+about 40% [<xref rid="b24" ref-type="bibr">24</xref>]. In this regard, it is impossible to confirm unambiguously 
+whether a described polymorphism A2706G has an effect on the development of VT in 
+patients or the entire complex of substitutions inherent in this haplogroup. In 
+our study, the identification of this substitution made it possible to recognize 
+patients who are carriers of Haplogroup H. Therefore, it would be more correct to 
+define that patients who are carriers of haplogroup H, determined by the carriage 
+of the polymorphic variant A2706G, have a higher risk of VT than non-carriers. 
+Otherwise, to determine the entire mtDNA sequence of each patient, it would be 
+necessary to conduct whole genome sequencing, which is unjustified.</p><p id="S4.p5">Old age and decreased <sub>e</sub>GFR are well-known risk factors for VTA [<xref rid="b25" ref-type="bibr">25</xref>, <xref rid="b26" ref-type="bibr">26</xref>, <xref rid="b27" ref-type="bibr">27</xref>]. In 
+the Weidner K <italic toggle="yes">et al</italic>. [<xref rid="b25" ref-type="bibr">25</xref>] study middle-aged patients (40&#x02013;60 years old) 
+were compared to older ones (<inline-formula><mml:math id="w58" alttext="&#x0003e;" display="inline" overflow="scroll"><mml:mo>&#x0003e;</mml:mo></mml:math></inline-formula>60 years old). Amongst 2259 of the included 
+patients, VTA was more frequent in the <inline-formula><mml:math id="w59" alttext="&#x0003e;" display="inline" overflow="scroll"><mml:mo>&#x0003e;</mml:mo></mml:math></inline-formula>60 year old group (50% vs. 59%, 
+<italic toggle="yes">p</italic> = 0.001) [<xref rid="b25" ref-type="bibr">25</xref>]. Elderly patients were more often associated with 
+all-cause mortality at 2.5 years (27% vs. 50%; hazard ratio (HR) = 2.137; 95% CI 
+1.809&#x02013;2.523; <italic toggle="yes">p</italic> = 0.001) and the secondary endpoints [<xref rid="b25" ref-type="bibr">25</xref>]. The results 
+of research by Weidner K <italic toggle="yes">et al</italic>. [<xref rid="b25" ref-type="bibr">25</xref>] suggest that increasing age is 
+associated with increased mortality in VTA patients. In our study patients with 
+<sub>S</sub>VT were significantly older than patients without <sub>S</sub>VT (66.9 <inline-formula><mml:math id="w60" alttext="\pm{}" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> 
+9.9 year vs. 59.5 <inline-formula><mml:math id="w61" alttext="\pm{}" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> 10.6 year, <italic toggle="yes">p </italic>
+<inline-formula><mml:math id="w62" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.001). Based on the 
+evaluated parameters, an age of more than 62 years was the indicator most 
+strongly correlated with the <sub>S</sub>VT (AUC 0.698; 95% CI 0.608&#x02013;0.778; 
+sensitivity 68.5%; specificity 63.4%; <italic toggle="yes">p </italic>
+<inline-formula><mml:math id="w63" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.001). According to the 
+multivariable logistic regression, age (OR = 1.055; 95% CI 1.009&#x02013;1.103; 
+<italic toggle="yes">p</italic> = 0.017) was one of the parameters independently associated with the 
+<sub>S</sub>VT.</p><p id="S4.p6">In a retrospective study by Li <italic toggle="yes">et al</italic>. [<xref rid="b27" ref-type="bibr">27</xref>] (n = 503) the decrease in 
+<sub>e</sub>GFR (<inline-formula><mml:math id="w64" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>60 mL/min/1.73 m<sup>2</sup>) has been demonstrated as an independent 
+risk factor for VTA after acute MI. In our study, patients with acute MI were not 
+included. But, in our cohort, patients with <sub>S</sub>VT had a significantly lower 
+<sub>e</sub>GFR (65.7 <inline-formula><mml:math id="w65" alttext="\pm{}" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> 19.7 mL/min/1.73 m<sup>2</sup> vs. 77.9 <inline-formula><mml:math id="w66" alttext="\pm{}" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> 16.1 
+mL/min/1.73 m<sup>2</sup>, <italic toggle="yes">p </italic>
+<inline-formula><mml:math id="w67" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.001). The cut-off value of <sub>e</sub>GFR 
+associated with <sub>S</sub>VT was 68 mL/min/1.73 m<sup>2</sup> or less (AUC 0.688; 95% CI 
+0.598&#x02013;0.769; sensitivity 60.0%; specificity 73.0%; <italic toggle="yes">p </italic>
+<inline-formula><mml:math id="w68" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.001). In 
+accordance with the multivariable logistic regression analysis <sub>e</sub>GFR (OR = 
+0.974; 95% CI 0.949&#x02013;0.999; <italic toggle="yes">p</italic> = 0.041) was one of the parameters 
+independently associated with <sub>S</sub>VT.</p><p id="S4.p7">Previous study focusing on creating a risk model for VTA incidence is limited 
+[<xref rid="b28" ref-type="bibr">28</xref>]. Derda A <italic toggle="yes">et al</italic>. [<xref rid="b28" ref-type="bibr">28</xref>] showed that in hypertrophic cardiomyopathy 
+patients, the presence of atrial fibrillation, interventricular septum thickness 
+and average peak systolic velocity capable of VTA incidence, were used in 
+prognosing such patients at high-risk for VTA. All three parameters remained 
+significant in multivariate regression (OR = 5.5; 
+2.1&#x02013;14.4; <italic toggle="yes">p </italic>
+<inline-formula><mml:math id="w69" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.001; 
+OR = 1.09; 1.02&#x02013;1.17, 
+<italic toggle="yes">p</italic> = 0.014; 
+OR = 0.58; 0.4&#x02013;0.85; 
+<italic toggle="yes">p</italic> = 0.005, respectively), even after 
+adjustment for age and gender (OR = 6.1; 2.2&#x02013;16.9, 
+<italic toggle="yes">p </italic>
+<inline-formula><mml:math id="w70" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.001; 
+OR = 1.09; 1.01&#x02013;1.17, 
+<italic toggle="yes">p</italic> = 0.023; 
+OR = 0.59; 0.40&#x02013;0.86, 
+<italic toggle="yes">p</italic> = 0.006) [<xref rid="b28" ref-type="bibr">28</xref>]. The VTA risk model 
+created using these three parameters demonstrated the ability to discriminate 
+evidenced by an AUC of 0.80 [<xref rid="b28" ref-type="bibr">28</xref>]. At a cut-off value of <inline-formula><mml:math id="w71" alttext="&#x0003e;" display="inline" overflow="scroll"><mml:mo>&#x0003e;</mml:mo></mml:math></inline-formula>0.39, 
+the model demonstrated a sensitivity of 63% and a specificity of 88% in 
+distinguishing patients with hypertrophic cardiomyopathy regarding the occurrence 
+of VTA [<xref rid="b28" ref-type="bibr">28</xref>]. The risk stratification analysis of these patients revealed a 
+positive predictive value of 67% and a negative predictive value of 87% [<xref rid="b28" ref-type="bibr">28</xref>]. 
+However, this risk score was more useful in limited cohorts, especially in 
+patients with hypertrophic cardiomyopathy. In our study results, the multivariate 
+logistic regression showed only three independent parameters (age, <sub>e</sub>GFR and 
+the absence of A2706G mtDNA polymorphism) associated with <sub>S</sub>VT. These 
+parameters were added to the ultimate risk score model. The risk score showed the 
+ability to discriminate evidenced by an AUC of 0.761. The developed risk score 
+resulted in an accuracy of 68.9% in correctly predicting <sub>S</sub>VT in our patient 
+sample. In patients with a score above the cut-off value, VT developed more 
+frequently. It is necessary to note that there is no score or model that enables 
+prognosis of 100% probability of the VT. We created a risk score to support 
+physicians to estimate the individual predisposition to VT.</p><p id="S4.p8">This research has some limitations. One of these is non-randomized and 
+single-center type of study. Study limitations also included the absence of 
+follow-up and relatively small sample size, which may have reduced the 
+significance of the results. Because the study included patients whose ICDs were 
+implanted mostly because of previous potentially lethal ventricular arrhythmias 
+(secondary prevention), one cannot apply current study findings to patients whose 
+ICD was implanted for primary prevention, that was only a small proportion (22%) 
+of the subjects studied. Due to the observational nature of our research, we 
+could identify an association but not establish a causal link between mtDNA and 
+<sub>S</sub>VT. In our study, we researched the carriage of mtDNA polymorphisms of 
+samples derived from the whole blood which may not be the relevant tissue with 
+respect to VT. Future studies with a larger number of primary prevention ICD 
+patients could expand the clinical utility of current study findings.</p></sec><sec id="S5"><title>5. Conclusions</title><p id="S5.p1">In summary, in patients with indications for an ICD implantation, mtDNA 
+polymorphism is associated with <sub>S</sub>VT. Our risk model including age, <sub>e</sub>GFR 
+and the absence of A2706G mtDNA polymorphism may distinguish patients with 
+<sub>S</sub>VT. There are potential directions for expanding the study, such as 
+including larger, prospective, randomized, multi-centered, and diverse patient 
+populations, which would be beneficial to validate our predictive model.</p></sec><sec sec-type="data-availability" id="S6"><title>Availability of Data and Materials</title><p id="S6.p1">All data reported in this paper will be shared by the lead contact upon request.</p></sec></body><back><ack id="S9"><title>Acknowledgment</title><p id="S9.p1">Not applicable.</p></ack><fn-group><fn><p><bold>Publisher&#x02019;s Note:</bold>
+IMR Press stays neutral with regard to jurisdictional claims in published maps and institutional
+affiliations.
+</p></fn></fn-group><sec id="S7"><title>Author Contributions</title><p id="S7.p1">TA prepared the manuscript with all text tables, figures and references and was 
+responsible for the database maintaining, data acquisition, statistical analysis 
+and interpretation of the results. VK was involved in the concept and design of 
+this study, reviewed the manuscript, and was responsible for mitochondrial DNA 
+assessment and interpretation of data. SK, MK, RB and SP were responsible for 
+data acquisition, statistical analysis, interpretation of the results and 
+critical review. MG and SA were responsible for mitochondrial DNA assessment and 
+critical review. All authors contributed to editorial changes in the manuscript. 
+All authors read and approved the final manuscript. All authors have participated 
+sufficiently in the work and agreed to be accountable for all aspects of the 
+work.</p></sec><sec id="S8"><title>Ethics Approval and Consent to Participate</title><p id="S8.p1">The study was carried out in accordance with the principles of Helsinki 
+Declaration and with the standards of Good Clinical Practice. The study protocol 
+was approved by the Local Ethics Committee of the Cardiology Research Institute 
+protocol &#x02116; 219 dated October 26, 2021. All participants 
+received written informed consent prior to the study inclusion. Ethical approval 
+by the hospital review committee and patient consent according to the 
+institutional guidelines were obtained.</p></sec><sec id="S10"><title>Funding</title><p id="S10.p1">This research received no external funding.</p></sec><sec sec-type="COI-statement" id="S11"><title>Conflict of Interest</title><p id="S11.p1">The authors declare no conflict of interest.</p></sec><ref-list><title>References</title><ref id="b1"><label>[1]</label><element-citation publication-type="journal"><!--Benjamin EJ, Virani SS, Callaway CW, Chamberlain AM, Chang AR, Cheng S, <italic>et al</italic>. Heart Disease and Stroke Statistics-2018 Update: A Report From the American Heart Association. Circulation. 2018; 137: e67&#x02013;e492. https://doi.org/10.1161/CIR.0000000000000558.--><person-group person-group-type="author">
+<name><surname>Benjamin</surname><given-names>EJ</given-names></name>
+<name><surname>Virani</surname><given-names>SS</given-names></name>
+<name><surname>Callaway</surname><given-names>CW</given-names></name>
+<name><surname>Chamberlain</surname><given-names>AM</given-names></name>
+<name><surname>Chang</surname><given-names>AR</given-names></name>
+<name><surname>Cheng</surname><given-names>S</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Heart Disease and Stroke Statistics-2018 Update: A Report From the American Heart Association</article-title><source>
+<italic toggle="yes">Circulation</italic>
+</source><year>2018</year><volume>137</volume><fpage>e67</fpage><lpage>e492</lpage><pub-id pub-id-type="doi">10.1161/CIR.0000000000000558</pub-id><pub-id pub-id-type="pmid">29386200</pub-id>
+</element-citation></ref><ref id="b2"><label>[2]</label><element-citation publication-type="journal"><!--Bokeria LA, Neminushchiy NM, Postol AS. Implantable Cardioverter-Defibrillators are the Main Link in the Modern Concept of Sudden Cardiac Death Prevention. Problems and Prospects of the Development of the Method. Kardiologiia. 2018; 58: 76&#x02013;84. https://doi.org/10.18087/cardio.2018.12.10197.--><person-group person-group-type="author">
+<name><surname>Bokeria</surname><given-names>LA</given-names></name>
+<name><surname>Neminushchiy</surname><given-names>NM</given-names></name>
+<name><surname>Postol</surname><given-names>AS</given-names></name>
+</person-group><article-title>Implantable Cardioverter-Defibrillators are the Main Link in the Modern Concept of Sudden Cardiac Death Prevention. Problems and Prospects of the Development of the Method</article-title><source>
+<italic toggle="yes">Kardiologiia</italic>
+</source><year>2018</year><volume>58</volume><fpage>76</fpage><lpage>84</lpage><pub-id pub-id-type="doi">10.18087/cardio.2018.12.10197</pub-id></element-citation></ref><ref id="b3"><label>[3]</label><element-citation publication-type="journal"><!--Biton Y, Rosero S, Moss A, Zareba W, Kutyifa V, Baman J, <italic>et al</italic>. Long-Term Survival With Implantable Cardioverter-Defibrillator in Different Symptomatic Functional Classes of Heart Failure. The American Journal of Cardiology. 2018; 121: 615&#x02013;620. https://doi.org/10.1016/j.amjcard.2017.11.032.--><person-group person-group-type="author">
+<name><surname>Biton</surname><given-names>Y</given-names></name>
+<name><surname>Rosero</surname><given-names>S</given-names></name>
+<name><surname>Moss</surname><given-names>A</given-names></name>
+<name><surname>Zareba</surname><given-names>W</given-names></name>
+<name><surname>Kutyifa</surname><given-names>V</given-names></name>
+<name><surname>Baman</surname><given-names>J</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Long-Term Survival With Implantable Cardioverter-Defibrillator in Different Symptomatic Functional Classes of Heart Failure</article-title><source>
+<italic toggle="yes">The American Journal of Cardiology</italic>
+</source><year>2018</year><volume>121</volume><fpage>615</fpage><lpage>620</lpage><pub-id pub-id-type="doi">10.1016/j.amjcard.2017.11.032</pub-id><pub-id pub-id-type="pmid">29307459</pub-id>
+</element-citation></ref><ref id="b4"><label>[4]</label><element-citation publication-type="journal"><!--Wahbi K, Bougouin W, B&#x000e9;hin A, Stojkovic T, B&#x000e9;cane HM, Jardel C, <italic>et al</italic>. Long-term cardiac prognosis and risk stratification in 260 adults presenting with mitochondrial diseases. European Heart Journal. 2015; 36: 2886&#x02013;2893. https://doi.org/10.1093/eurheartj/ehv307.--><person-group person-group-type="author">
+<name><surname>Wahbi</surname><given-names>K</given-names></name>
+<name><surname>Bougouin</surname><given-names>W</given-names></name>
+<name><surname>B&#x000e9;hin</surname><given-names>A</given-names></name>
+<name><surname>Stojkovic</surname><given-names>T</given-names></name>
+<name><surname>B&#x000e9;cane</surname><given-names>HM</given-names></name>
+<name><surname>Jardel</surname><given-names>C</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Long-term cardiac prognosis and risk stratification in 260 adults presenting with mitochondrial diseases</article-title><source>
+<italic toggle="yes">European Heart Journal</italic>
+</source><year>2015</year><volume>36</volume><fpage>2886</fpage><lpage>2893</lpage><pub-id pub-id-type="doi">10.1093/eurheartj/ehv307</pub-id><pub-id pub-id-type="pmid">26224072</pub-id>
+</element-citation></ref><ref id="b5"><label>[5]</label><element-citation publication-type="journal"><!--Yang KC, Bonini MG, Dudley SC, Jr. Mitochondria and arrhythmias. Free Radical Biology & Medicine. 2014; 71: 351&#x02013;361. https://doi.org/10.1016/j.freeradbiomed.2014.03.033.--><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>KC</given-names></name>
+<name><surname>Bonini</surname><given-names>MG</given-names></name>
+<name><surname>Dudley</surname><given-names>SC</given-names><suffix>Jr</suffix></name>
+</person-group><article-title>Mitochondria and arrhythmias</article-title><source>
+<italic toggle="yes">Free Radical Biology &#x00026; Medicine</italic>
+</source><year>2014</year><volume>71</volume><fpage>351</fpage><lpage>361</lpage><pub-id pub-id-type="doi">10.1016/j.freeradbiomed.2014.03.033</pub-id><pub-id pub-id-type="pmid">24713422</pub-id>
+</element-citation></ref><ref id="b6"><label>[6]</label><element-citation publication-type="journal"><!--Zhou H, Nie K, Qiu R, Xiong J, Shao X, Wang B, <italic>et al</italic>. Generation and Bioenergetic Profiles of Cybrids with East Asian mtDNA Haplogroups. Oxidative Medicine and Cellular Longevity. 2017; 2017: 1062314. https://doi.org/10.1155/2017/1062314.--><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>H</given-names></name>
+<name><surname>Nie</surname><given-names>K</given-names></name>
+<name><surname>Qiu</surname><given-names>R</given-names></name>
+<name><surname>Xiong</surname><given-names>J</given-names></name>
+<name><surname>Shao</surname><given-names>X</given-names></name>
+<name><surname>Wang</surname><given-names>B</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Generation and Bioenergetic Profiles of Cybrids with East Asian mtDNA Haplogroups</article-title><source>
+<italic toggle="yes">Oxidative Medicine and Cellular Longevity</italic>
+</source><year>2017</year><volume>2017</volume><fpage>1062314</fpage><pub-id pub-id-type="doi">10.1155/2017/1062314</pub-id><pub-id pub-id-type="pmid">29093766</pub-id>
+</element-citation></ref><ref id="b7"><label>[7]</label><element-citation publication-type="journal"><!--Panvini AR, Gvritishvili A, Galvan H, Nashine S, Atilano SR, Kenney MC, <italic>et al</italic>. Differential mitochondrial and cellular responses between H vs. J mtDNA haplogroup-containing human RPE transmitochondrial cybrid cells. Experimental Eye Research. 2022; 219: 109013. https://doi.org/10.1016/j.exer.2022.109013.--><person-group person-group-type="author">
+<name><surname>Panvini</surname><given-names>AR</given-names></name>
+<name><surname>Gvritishvili</surname><given-names>A</given-names></name>
+<name><surname>Galvan</surname><given-names>H</given-names></name>
+<name><surname>Nashine</surname><given-names>S</given-names></name>
+<name><surname>Atilano</surname><given-names>SR</given-names></name>
+<name><surname>Kenney</surname><given-names>MC</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Differential mitochondrial and cellular responses between H vs. J mtDNA haplogroup-containing human RPE transmitochondrial cybrid cells</article-title><source>
+<italic toggle="yes">Experimental Eye Research</italic>
+</source><year>2022</year><volume>219</volume><fpage>109013</fpage><pub-id pub-id-type="doi">10.1016/j.exer.2022.109013</pub-id><pub-id pub-id-type="pmid">35283109</pub-id>
+</element-citation></ref><ref id="b8"><label>[8]</label><element-citation publication-type="journal"><!--Rosell&#x000f3;-D&#x000ed;ez E, Hove-Madsen L, P&#x000e9;rez-Grijalba V, Mu&#x000f1;oz-Guijosa C, Artigas V, Maria Padr&#x000f3; J, <italic>et al</italic>. Mitochondrial genetic effect on atrial fibrillation: A case-control study. Mitochondrion. 2021; 56: 15&#x02013;24. https://doi.org/10.1016/j.mito.2020.11.007.--><person-group person-group-type="author">
+<name><surname>Rosell&#x000f3;-D&#x000ed;ez</surname><given-names>E</given-names></name>
+<name><surname>Hove-Madsen</surname><given-names>L</given-names></name>
+<name><surname>P&#x000e9;rez-Grijalba</surname><given-names>V</given-names></name>
+<name><surname>Mu&#x000f1;oz-Guijosa</surname><given-names>C</given-names></name>
+<name><surname>Artigas</surname><given-names>V</given-names></name>
+<name><surname>Maria Padr&#x000f3;</surname><given-names>J</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Mitochondrial genetic effect on atrial fibrillation: A case-control study</article-title><source>
+<italic toggle="yes">Mitochondrion</italic>
+</source><year>2021</year><volume>56</volume><fpage>15</fpage><lpage>24</lpage><pub-id pub-id-type="doi">10.1016/j.mito.2020.11.007</pub-id><pub-id pub-id-type="pmid">33171269</pub-id>
+</element-citation></ref><ref id="b9"><label>[9]</label><element-citation publication-type="journal"><!--Zhao D, Bartz TM, Sotoodehnia N, Post WS, Heckbert SR, Alonso A, <italic>et al</italic>. Mitochondrial DNA copy number and incident atrial fibrillation. BMC Medicine. 2020; 18: 246. https://doi.org/10.1186/s12916-020-01715-6.--><person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>D</given-names></name>
+<name><surname>Bartz</surname><given-names>TM</given-names></name>
+<name><surname>Sotoodehnia</surname><given-names>N</given-names></name>
+<name><surname>Post</surname><given-names>WS</given-names></name>
+<name><surname>Heckbert</surname><given-names>SR</given-names></name>
+<name><surname>Alonso</surname><given-names>A</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Mitochondrial DNA copy number and incident atrial fibrillation</article-title><source>
+<italic toggle="yes">BMC Medicine</italic>
+</source><year>2020</year><volume>18</volume><fpage>246</fpage><pub-id pub-id-type="doi">10.1186/s12916-020-01715-6</pub-id><pub-id pub-id-type="pmid">32933497</pub-id>
+</element-citation></ref><ref id="b10"><label>[10]</label><element-citation publication-type="journal"><!--Hayashi D, Ohshima S, Isobe S, Cheng XW, Unno K, Funahashi H, <italic>et al</italic>. Increased (99m)Tc-sestamibi washout reflects impaired myocardial contractile and relaxation reserve during dobutamine stress due to mitochondrial dysfunction in dilated cardiomyopathy patients. Journal of the American College of Cardiology. 2013; 61: 2007&#x02013;2017. https://doi.org/10.1016/j.jacc.2013.01.074.--><person-group person-group-type="author">
+<name><surname>Hayashi</surname><given-names>D</given-names></name>
+<name><surname>Ohshima</surname><given-names>S</given-names></name>
+<name><surname>Isobe</surname><given-names>S</given-names></name>
+<name><surname>Cheng</surname><given-names>XW</given-names></name>
+<name><surname>Unno</surname><given-names>K</given-names></name>
+<name><surname>Funahashi</surname><given-names>H</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Increased (99m)Tc-sestamibi washout reflects impaired myocardial contractile and relaxation reserve during dobutamine stress due to mitochondrial dysfunction in dilated cardiomyopathy patients</article-title><source>
+<italic toggle="yes">Journal of the American College of Cardiology</italic>
+</source><year>2013</year><volume>61</volume><fpage>2007</fpage><lpage>2017</lpage><pub-id pub-id-type="doi">10.1016/j.jacc.2013.01.074</pub-id><pub-id pub-id-type="pmid">23501381</pub-id>
+</element-citation></ref><ref id="b11"><label>[11]</label><element-citation publication-type="journal"><!--Ulmer AJ, Scholz W, Ernst M, Brandt E, Flad HD. Isolation and subfractionation of human peripheral blood mononuclear cells (PBMC) by density gradient centrifugation on Percoll. Immunobiology. 1984; 166: 238&#x02013;250. https://doi.org/10.1016/S0171-2985(84)80042-X.--><person-group person-group-type="author">
+<name><surname>Ulmer</surname><given-names>AJ</given-names></name>
+<name><surname>Scholz</surname><given-names>W</given-names></name>
+<name><surname>Ernst</surname><given-names>M</given-names></name>
+<name><surname>Brandt</surname><given-names>E</given-names></name>
+<name><surname>Flad</surname><given-names>HD</given-names></name>
+</person-group><article-title>Isolation and subfractionation of human peripheral blood mononuclear cells (PBMC) by density gradient centrifugation on Percoll</article-title><source>
+<italic toggle="yes">Immunobiology</italic>
+</source><year>1984</year><volume>166</volume><fpage>238</fpage><lpage>250</lpage><pub-id pub-id-type="doi">10.1016/S0171-2985(84)80042-X</pub-id><pub-id pub-id-type="pmid">6329947</pub-id>
+</element-citation></ref><ref id="b12"><label>[12]</label><element-citation publication-type="journal"><!--Mengel-From J, Thinggaard M, Dalg&#x000e5;rd C, Kyvik KO, Christensen K, Christiansen L. Mitochondrial DNA copy number in peripheral blood cells declines with age and is associated with general health among elderly. Human Genetics. 2014; 133: 1149&#x02013;1159. https://doi.org/10.1007/s00439-014-1458-9.--><person-group person-group-type="author">
+<name><surname>Mengel-From</surname><given-names>J</given-names></name>
+<name><surname>Thinggaard</surname><given-names>M</given-names></name>
+<name><surname>Dalg&#x000e5;rd</surname><given-names>C</given-names></name>
+<name><surname>Kyvik</surname><given-names>KO</given-names></name>
+<name><surname>Christensen</surname><given-names>K</given-names></name>
+<name><surname>Christiansen</surname><given-names>L</given-names></name>
+</person-group><article-title>Mitochondrial DNA copy number in peripheral blood cells declines with age and is associated with general health among elderly</article-title><source>
+<italic toggle="yes">Human Genetics</italic>
+</source><year>2014</year><volume>133</volume><fpage>1149</fpage><lpage>1159</lpage><pub-id pub-id-type="doi">10.1007/s00439-014-1458-9</pub-id><pub-id pub-id-type="pmid">24902542</pub-id>
+</element-citation></ref><ref id="b13"><label>[13]</label><element-citation publication-type="journal"><!--Andrews RM, Kubacka I, Chinnery PF, Lightowlers RN, Turnbull DM, Howell N. Reanalysis and revision of the Cambridge reference sequence for human mitochondrial DNA. Nature Genetics. 1999; 23: 147. https://doi.org/10.1038/13779.--><person-group person-group-type="author">
+<name><surname>Andrews</surname><given-names>RM</given-names></name>
+<name><surname>Kubacka</surname><given-names>I</given-names></name>
+<name><surname>Chinnery</surname><given-names>PF</given-names></name>
+<name><surname>Lightowlers</surname><given-names>RN</given-names></name>
+<name><surname>Turnbull</surname><given-names>DM</given-names></name>
+<name><surname>Howell</surname><given-names>N</given-names></name>
+</person-group><article-title>Reanalysis and revision of the Cambridge reference sequence for human mitochondrial DNA</article-title><source>
+<italic toggle="yes">Nature Genetics</italic>
+</source><year>1999</year><volume>23</volume><fpage>147</fpage><pub-id pub-id-type="doi">10.1038/13779</pub-id><pub-id pub-id-type="pmid">10508508</pub-id>
+</element-citation></ref><ref id="b14"><label>[14]</label><element-citation publication-type="journal"><!--Torroni A, Huoponen K, Francalacci P, Petrozzi M, Morelli L, Scozzari R, <italic>et al</italic>. Classification of European mtDNAs from an analysis of three European populations. Genetics. 1996; 144: 1835&#x02013;1850. https://doi.org/10.1093/genetics/144.4.1835.--><person-group person-group-type="author">
+<name><surname>Torroni</surname><given-names>A</given-names></name>
+<name><surname>Huoponen</surname><given-names>K</given-names></name>
+<name><surname>Francalacci</surname><given-names>P</given-names></name>
+<name><surname>Petrozzi</surname><given-names>M</given-names></name>
+<name><surname>Morelli</surname><given-names>L</given-names></name>
+<name><surname>Scozzari</surname><given-names>R</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Classification of European mtDNAs from an analysis of three European populations</article-title><source>
+<italic toggle="yes">Genetics</italic>
+</source><year>1996</year><volume>144</volume><fpage>1835</fpage><lpage>1850</lpage><pub-id pub-id-type="doi">10.1093/genetics/144.4.1835</pub-id><pub-id pub-id-type="pmid">8978068</pub-id>
+</element-citation></ref><ref id="b15"><label>[15]</label><element-citation publication-type="journal"><!--Minasyan L, Sreekumar PG, Hinton DR, Kannan R. Protective Mechanisms of the Mitochondrial-Derived Peptide Humanin in Oxidative and Endoplasmic Reticulum Stress in RPE Cells. Oxidative Medicine and Cellular Longevity. 2017; 2017: 1675230. https://doi.org/10.1155/2017/1675230.--><person-group person-group-type="author">
+<name><surname>Minasyan</surname><given-names>L</given-names></name>
+<name><surname>Sreekumar</surname><given-names>PG</given-names></name>
+<name><surname>Hinton</surname><given-names>DR</given-names></name>
+<name><surname>Kannan</surname><given-names>R</given-names></name>
+</person-group><article-title>Protective Mechanisms of the Mitochondrial-Derived Peptide Humanin in Oxidative and Endoplasmic Reticulum Stress in RPE Cells</article-title><source>
+<italic toggle="yes">Oxidative Medicine and Cellular Longevity</italic>
+</source><year>2017</year><volume>2017</volume><fpage>1675230</fpage><pub-id pub-id-type="doi">10.1155/2017/1675230</pub-id><pub-id pub-id-type="pmid">28814984</pub-id>
+</element-citation></ref><ref id="b16"><label>[16]</label><element-citation publication-type="journal"><!--Fern&#x000e1;ndez-Caggiano M, Barallobre-Barreiro J, Rego-P&#x000e9;rez I, Crespo-Leiro MG, Paniagua MJ, Grill&#x000e9; Z, <italic>et al</italic>. Mitochondrial haplogroups H and J: risk and protective factors for ischemic cardiomyopathy. PloS One. 2012; 7: e44128. https://doi.org/10.1371/journal.pone.0044128.--><person-group person-group-type="author">
+<name><surname>Fern&#x000e1;ndez-Caggiano</surname><given-names>M</given-names></name>
+<name><surname>Barallobre-Barreiro</surname><given-names>J</given-names></name>
+<name><surname>Rego-P&#x000e9;rez</surname><given-names>I</given-names></name>
+<name><surname>Crespo-Leiro</surname><given-names>MG</given-names></name>
+<name><surname>Paniagua</surname><given-names>MJ</given-names></name>
+<name><surname>Grill&#x000e9;</surname><given-names>Z</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Mitochondrial haplogroups H and J: risk and protective factors for ischemic cardiomyopathy</article-title><source>
+<italic toggle="yes">PloS One</italic>
+</source><year>2012</year><volume>7</volume><fpage>e44128</fpage><pub-id pub-id-type="doi">10.1371/journal.pone.0044128</pub-id><pub-id pub-id-type="pmid">22937160</pub-id>
+</element-citation></ref><ref id="b17"><label>[17]</label><element-citation publication-type="journal"><!--Hagen CM, Aidt FH, Hedley PL, Jensen MK, Havndrup O, Kanters JK, <italic>et al</italic>. Mitochondrial haplogroups modify the risk of developing hypertrophic cardiomyopathy in a Danish population. PloS One. 2013; 8: e71904. https://doi.org/10.1371/journal.pone.0071904.--><person-group person-group-type="author">
+<name><surname>Hagen</surname><given-names>CM</given-names></name>
+<name><surname>Aidt</surname><given-names>FH</given-names></name>
+<name><surname>Hedley</surname><given-names>PL</given-names></name>
+<name><surname>Jensen</surname><given-names>MK</given-names></name>
+<name><surname>Havndrup</surname><given-names>O</given-names></name>
+<name><surname>Kanters</surname><given-names>JK</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Mitochondrial haplogroups modify the risk of developing hypertrophic cardiomyopathy in a Danish population</article-title><source>
+<italic toggle="yes">PloS One</italic>
+</source><year>2013</year><volume>8</volume><fpage>e71904</fpage><pub-id pub-id-type="doi">10.1371/journal.pone.0071904</pub-id><pub-id pub-id-type="pmid">23940792</pub-id>
+</element-citation></ref><ref id="b18"><label>[18]</label><element-citation publication-type="journal"><!--Fern&#x000e1;ndez-Caggiano M, Barallobre-Barreiro J, Rego-P&#x000e9;rez I, Crespo-Leiro MG, Paniagua MJ, Grill&#x000e9; Z, <italic>et al</italic>. Mitochondrial DNA haplogroup H as a risk factor for idiopathic dilated cardiomyopathy in Spanish population. Mitochondrion. 2013; 13: 263&#x02013;268. https://doi.org/10.1016/j.mito.2013.03.005.--><person-group person-group-type="author">
+<name><surname>Fern&#x000e1;ndez-Caggiano</surname><given-names>M</given-names></name>
+<name><surname>Barallobre-Barreiro</surname><given-names>J</given-names></name>
+<name><surname>Rego-P&#x000e9;rez</surname><given-names>I</given-names></name>
+<name><surname>Crespo-Leiro</surname><given-names>MG</given-names></name>
+<name><surname>Paniagua</surname><given-names>MJ</given-names></name>
+<name><surname>Grill&#x000e9;</surname><given-names>Z</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Mitochondrial DNA haplogroup H as a risk factor for idiopathic dilated cardiomyopathy in Spanish population</article-title><source>
+<italic toggle="yes">Mitochondrion</italic>
+</source><year>2013</year><volume>13</volume><fpage>263</fpage><lpage>268</lpage><pub-id pub-id-type="doi">10.1016/j.mito.2013.03.005</pub-id><pub-id pub-id-type="pmid">23528301</pub-id>
+</element-citation></ref><ref id="b19"><label>[19]</label><element-citation publication-type="journal"><!--Palac&#x000ed;n M, Alvarez V, Mart&#x000ed;n M, D&#x000ed;az M, Corao AI, Alonso B, <italic>et al</italic>. Mitochondrial DNA and TFAM gene variation in early-onset myocardial infarction: evidence for an association to haplogroup H. Mitochondrion. 2011; 11: 176&#x02013;181. https://doi.org/10.1016/j.mito.2010.09.004.--><person-group person-group-type="author">
+<name><surname>Palac&#x000ed;n</surname><given-names>M</given-names></name>
+<name><surname>Alvarez</surname><given-names>V</given-names></name>
+<name><surname>Mart&#x000ed;n</surname><given-names>M</given-names></name>
+<name><surname>D&#x000ed;az</surname><given-names>M</given-names></name>
+<name><surname>Corao</surname><given-names>AI</given-names></name>
+<name><surname>Alonso</surname><given-names>B</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Mitochondrial DNA and TFAM gene variation in early-onset myocardial infarction: evidence for an association to haplogroup H</article-title><source>
+<italic toggle="yes">Mitochondrion</italic>
+</source><year>2011</year><volume>11</volume><fpage>176</fpage><lpage>181</lpage><pub-id pub-id-type="doi">10.1016/j.mito.2010.09.004</pub-id><pub-id pub-id-type="pmid">20863902</pub-id>
+</element-citation></ref><ref id="b20"><label>[20]</label><element-citation publication-type="journal"><!--Golubenko MV, Shumakova TV, Makeeva OA, Tarasenko NV, Salakhov RR, Shipulin VM, <italic>et al</italic>. Mitochondrial DNA polymorphism and myocardial ischemia: association of haplogroup H with heart failure. The Siberian Journal of Clinical and Experimental Medicine. 2021; 36: 70&#x02013;77. https://doi.org/10.29001/2073-8552-2021-36-4-70-77.--><person-group person-group-type="author">
+<name><surname>Golubenko</surname><given-names>MV</given-names></name>
+<name><surname>Shumakova</surname><given-names>TV</given-names></name>
+<name><surname>Makeeva</surname><given-names>OA</given-names></name>
+<name><surname>Tarasenko</surname><given-names>NV</given-names></name>
+<name><surname>Salakhov</surname><given-names>RR</given-names></name>
+<name><surname>Shipulin</surname><given-names>VM</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Mitochondrial DNA polymorphism and myocardial ischemia: association of haplogroup H with heart failure</article-title><source>
+<italic toggle="yes">The Siberian Journal of Clinical and Experimental Medicine</italic>
+</source><year>2021</year><volume>36</volume><fpage>70</fpage><lpage>77</lpage><pub-id pub-id-type="doi">10.29001/2073-8552-2021-36-4-70-77</pub-id></element-citation></ref><ref id="b21"><label>[21]</label><element-citation publication-type="journal"><!--Ng YS, Grady JP, Lax NZ, Bourke JP, Alston CL, Hardy SA, <italic>et al</italic>. Sudden adult death syndrome in m.3243A&#x000bf;G-related mitochondrial disease: an unrecognized clinical entity in young, asymptomatic adults. European Heart Journal. 2016; 37: 2552&#x02013;2559. https://doi.org/10.1093/eurheartj/ehv306.--><person-group person-group-type="author">
+<name><surname>Ng</surname><given-names>YS</given-names></name>
+<name><surname>Grady</surname><given-names>JP</given-names></name>
+<name><surname>Lax</surname><given-names>NZ</given-names></name>
+<name><surname>Bourke</surname><given-names>JP</given-names></name>
+<name><surname>Alston</surname><given-names>CL</given-names></name>
+<name><surname>Hardy</surname><given-names>SA</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Sudden adult death syndrome in m.3243A&#x000bf;G-related mitochondrial disease: an unrecognized clinical entity in young, asymptomatic adults</article-title><source>
+<italic toggle="yes">European Heart Journal</italic>
+</source><year>2016</year><volume>37</volume><fpage>2552</fpage><lpage>2559</lpage><pub-id pub-id-type="doi">10.1093/eurheartj/ehv306</pub-id><pub-id pub-id-type="pmid">26188002</pub-id>
+</element-citation></ref><ref id="b22"><label>[22]</label><element-citation publication-type="journal"><!--Zhang Y, Guallar E, Ashar FN, Longchamps RJ, Castellani CA, Lane J, <italic>et al</italic>. Association between mitochondrial DNA copy number and sudden cardiac death: findings from the Atherosclerosis Risk in Communities study (ARIC). European Heart Journal. 2017; 38: 3443&#x02013;3448. https://doi.org/10.1093/eurheartj/ehx354.--><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Y</given-names></name>
+<name><surname>Guallar</surname><given-names>E</given-names></name>
+<name><surname>Ashar</surname><given-names>FN</given-names></name>
+<name><surname>Longchamps</surname><given-names>RJ</given-names></name>
+<name><surname>Castellani</surname><given-names>CA</given-names></name>
+<name><surname>Lane</surname><given-names>J</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Association between mitochondrial DNA copy number and sudden cardiac death: findings from the Atherosclerosis Risk in Communities study (ARIC)</article-title><source>
+<italic toggle="yes">European Heart Journal</italic>
+</source><year>2017</year><volume>38</volume><fpage>3443</fpage><lpage>3448</lpage><pub-id pub-id-type="doi">10.1093/eurheartj/ehx354</pub-id><pub-id pub-id-type="pmid">29020391</pub-id>
+</element-citation></ref><ref id="b23"><label>[23]</label><element-citation publication-type="journal"><!--Sauer F, Riou M, Charles AL, Meyer A, Andres E, Geny B, <italic>et al</italic>. Pathophysiology of Heart Failure: A Role for Peripheral Blood Mononuclear Cells Mitochondrial Dysfunction? Journal of Clinical Medicine. 2022; 11: 741. https://doi.org/10.3390/jcm11030741.--><person-group person-group-type="author">
+<name><surname>Sauer</surname><given-names>F</given-names></name>
+<name><surname>Riou</surname><given-names>M</given-names></name>
+<name><surname>Charles</surname><given-names>AL</given-names></name>
+<name><surname>Meyer</surname><given-names>A</given-names></name>
+<name><surname>Andres</surname><given-names>E</given-names></name>
+<name><surname>Geny</surname><given-names>B</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Pathophysiology of Heart Failure: A Role for Peripheral Blood Mononuclear Cells Mitochondrial Dysfunction?</article-title><source>
+<italic toggle="yes">Journal of Clinical Medicine</italic>
+</source><year>2022</year><volume>11</volume><fpage>741</fpage><pub-id pub-id-type="doi">10.3390/jcm11030741</pub-id><pub-id pub-id-type="pmid">35160190</pub-id>
+</element-citation></ref><ref id="b24"><label>[24]</label><element-citation publication-type="journal"><!--Richards M, Macaulay V, Hickey E, Vega E, Sykes B, Guida V, <italic>et al</italic>. Tracing European founder lineages in the Near Eastern mtDNA pool. American Journal of Human Genetics. 2000; 67: 1251&#x02013;1276.--><person-group person-group-type="author">
+<name><surname>Richards</surname><given-names>M</given-names></name>
+<name><surname>Macaulay</surname><given-names>V</given-names></name>
+<name><surname>Hickey</surname><given-names>E</given-names></name>
+<name><surname>Vega</surname><given-names>E</given-names></name>
+<name><surname>Sykes</surname><given-names>B</given-names></name>
+<name><surname>Guida</surname><given-names>V</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Tracing European founder lineages in the Near Eastern mtDNA pool</article-title><source>
+<italic toggle="yes">American Journal of Human Genetics</italic>
+</source><year>2000</year><volume>67</volume><fpage>1251</fpage><lpage>1276</lpage><pub-id pub-id-type="pmid">11032788</pub-id>
+</element-citation></ref><ref id="b25"><label>[25]</label><element-citation publication-type="journal"><!--Weidner K, Schupp T, Rusnak J, El-Battrawy I, Ansari U, Hoppner J, <italic>et al</italic>. Impact of age on the prognosis of patients with ventricular tachyarrhythmias and aborted cardiac arrest. Zeitschrift Fur Gerontologie Und Geriatrie. 2023; 56: 484&#x02013;491. https://doi.org/10.1007/s00391-022-02131-6.--><person-group person-group-type="author">
+<name><surname>Weidner</surname><given-names>K</given-names></name>
+<name><surname>Schupp</surname><given-names>T</given-names></name>
+<name><surname>Rusnak</surname><given-names>J</given-names></name>
+<name><surname>El-Battrawy</surname><given-names>I</given-names></name>
+<name><surname>Ansari</surname><given-names>U</given-names></name>
+<name><surname>Hoppner</surname><given-names>J</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Impact of age on the prognosis of patients with ventricular tachyarrhythmias and aborted cardiac arrest</article-title><source>
+<italic toggle="yes">Zeitschrift Fur Gerontologie Und Geriatrie</italic>
+</source><year>2023</year><volume>56</volume><fpage>484</fpage><lpage>491</lpage><pub-id pub-id-type="doi">10.1007/s00391-022-02131-6</pub-id><pub-id pub-id-type="pmid">36480051</pub-id>
+</element-citation></ref><ref id="b26"><label>[26]</label><element-citation publication-type="journal"><!--Weidner K, Behnes M, Wei&#x000df; C, Nienaber C, Reiser L, Bollow A, <italic>et al</italic>. Impact of chronic kidney disease on recurrent ventricular tachyarrhythmias in ICD recipients. Heart and Vessels. 2019; 34: 1811&#x02013;1822. https://doi.org/10.1007/s00380-019-01415-z.--><person-group person-group-type="author">
+<name><surname>Weidner</surname><given-names>K</given-names></name>
+<name><surname>Behnes</surname><given-names>M</given-names></name>
+<name><surname>Wei&#x000df;</surname><given-names>C</given-names></name>
+<name><surname>Nienaber</surname><given-names>C</given-names></name>
+<name><surname>Reiser</surname><given-names>L</given-names></name>
+<name><surname>Bollow</surname><given-names>A</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Impact of chronic kidney disease on recurrent ventricular tachyarrhythmias in ICD recipients</article-title><source>
+<italic toggle="yes">Heart and Vessels</italic>
+</source><year>2019</year><volume>34</volume><fpage>1811</fpage><lpage>1822</lpage><pub-id pub-id-type="doi">10.1007/s00380-019-01415-z</pub-id><pub-id pub-id-type="pmid">31076852</pub-id>
+</element-citation></ref><ref id="b27"><label>[27]</label><element-citation publication-type="journal"><!--Li M, Zheng C, Chen C, Zheng X, He Z. The Decrease in Estimated Glomerular Filtration Rate as a Risk Factor of Ventricular Tachyarrhythmias after Acute Myocardial Infarction during Hospitalization: A Retrospective Propensity Score Matching Cohort Study. Reviews in Cardiovascular Medicine. 2024; 25: 42. https://doi.org/10.31083/j.rcm2502042.--><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>M</given-names></name>
+<name><surname>Zheng</surname><given-names>C</given-names></name>
+<name><surname>Chen</surname><given-names>C</given-names></name>
+<name><surname>Zheng</surname><given-names>X</given-names></name>
+<name><surname>He</surname><given-names>Z</given-names></name>
+</person-group><article-title>The Decrease in Estimated Glomerular Filtration Rate as a Risk Factor of Ventricular Tachyarrhythmias after Acute Myocardial Infarction during Hospitalization: A Retrospective Propensity Score Matching Cohort Study</article-title><source>
+<italic toggle="yes">Reviews in Cardiovascular Medicine</italic>
+</source><year>2024</year><volume>25</volume><fpage>42</fpage><pub-id pub-id-type="doi">10.31083/j.rcm2502042</pub-id><pub-id pub-id-type="pmid">39077336</pub-id>
+</element-citation></ref><ref id="b28"><label>[28]</label><element-citation publication-type="journal"><!--Derda AA, Abelmann M, Sieweke JT, Waleczek FJG, Weber N, Zehrfeld N, <italic>et al</italic>. A pilot study for risk stratification of ventricular tachyarrhythmia in hypertrophic cardiomyopathy with routine echocardiography parameters. Scientific Reports. 2024; 14: 3799. https://doi.org/10.1038/s41598-024-54153-2.--><person-group person-group-type="author">
+<name><surname>Derda</surname><given-names>AA</given-names></name>
+<name><surname>Abelmann</surname><given-names>M</given-names></name>
+<name><surname>Sieweke</surname><given-names>JT</given-names></name>
+<name><surname>Waleczek</surname><given-names>FJG</given-names></name>
+<name><surname>Weber</surname><given-names>N</given-names></name>
+<name><surname>Zehrfeld</surname><given-names>N</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>A pilot study for risk stratification of ventricular tachyarrhythmia in hypertrophic cardiomyopathy with routine echocardiography parameters</article-title><source>
+<italic toggle="yes">Scientific Reports</italic>
+</source><year>2024</year><volume>14</volume><fpage>3799</fpage><pub-id pub-id-type="doi">10.1038/s41598-024-54153-2</pub-id><pub-id pub-id-type="pmid">38360886</pub-id>
+</element-citation></ref></ref-list></back></article>

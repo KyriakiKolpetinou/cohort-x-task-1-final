@@ -1,0 +1,689 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">JAMA Neurol</journal-id><journal-id journal-id-type="iso-abbrev">JAMA Neurol</journal-id><journal-id journal-id-type="pmc">JAMA Neurol</journal-id><journal-title-group><journal-title>JAMA Neurology</journal-title></journal-title-group><issn pub-type="ppub">2168-6149</issn><issn pub-type="epub">2168-6157</issn><publisher><publisher-name>American Medical Association</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">33587110</article-id><article-id pub-id-type="pmc">7885097</article-id><article-id pub-id-type="doi">10.1001/jamaneurol.2020.5505</article-id><article-id pub-id-type="publisher-id">noi200102</article-id><article-categories><subj-group subj-group-type="category" specific-use="electronic"><subject>Research</subject></subj-group><subj-group subj-group-type="domain" specific-use="print"><subject>Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Investigation</subject></subj-group><subj-group subj-group-type="featured" specific-use="electronic"><subject>Featured</subject></subj-group><subj-group subj-group-type="online-first"><subject>Online First</subject></subj-group><subj-group subj-group-type="allowCommenting"><subject>Comments</subject></subj-group></article-categories><title-group><article-title>Aggregated Tau Measured by Visual Interpretation of Flortaucipir Positron
+Emission Tomography and the Associated Risk of Clinical Progression of Mild Cognitive
+Impairment and Alzheimer Disease</article-title><subtitle>Results From 2 Phase III Clinical Trials</subtitle><alt-title alt-title-type="headline">Aggregated Tau and the Associated Risk of Clinical
+Progression</alt-title><alt-title alt-title-type="running-head">Aggregated Tau and the Associated Risk of Clinical
+Progression</alt-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Lu</surname><given-names>Ming</given-names></name><degrees>MS</degrees><degrees>MPH</degrees><degrees>MD</degrees><xref ref-type="aff" rid="noi200102aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Pontecorvo</surname><given-names>Michael J.</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="noi200102aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Devous</surname><given-names>Michael D.</given-names><suffix>Sr</suffix></name><degrees>PhD</degrees><xref ref-type="aff" rid="noi200102aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Arora</surname><given-names>Anupa K.</given-names></name><degrees>MD</degrees><degrees>MPH</degrees><xref ref-type="aff" rid="noi200102aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Galante</surname><given-names>Nicholas</given-names></name><degrees>MS</degrees><xref ref-type="aff" rid="noi200102aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>McGeehan</surname><given-names>Anne</given-names></name><degrees>BS</degrees><xref ref-type="aff" rid="noi200102aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Devadanam</surname><given-names>Catherine</given-names></name><degrees>BS</degrees><xref ref-type="aff" rid="noi200102aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Salloway</surname><given-names>Stephen P.</given-names></name><degrees>MD</degrees><degrees>MS</degrees><xref ref-type="aff" rid="noi200102aff2"><sup>2</sup></xref><xref ref-type="aff" rid="noi200102aff3"><sup>3</sup></xref></contrib><contrib contrib-type="author"><name><surname>Doraiswamy</surname><given-names>P. Murali</given-names></name><degrees>MBBS</degrees><xref ref-type="aff" rid="noi200102aff4"><sup>4</sup></xref></contrib><contrib contrib-type="author"><name><surname>Curtis</surname><given-names>Craig</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="noi200102aff5"><sup>5</sup></xref></contrib><contrib contrib-type="author"><name><surname>Truocchio</surname><given-names>Stephen P.</given-names></name><degrees>MS</degrees><xref ref-type="aff" rid="noi200102aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Flitter</surname><given-names>Matthew</given-names></name><degrees>BS</degrees><xref ref-type="aff" rid="noi200102aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Locascio</surname><given-names>Tricia</given-names></name><degrees>BS</degrees><xref ref-type="aff" rid="noi200102aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Devine</surname><given-names>Marybeth</given-names></name><degrees>BS</degrees><xref ref-type="aff" rid="noi200102aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Zimmer</surname><given-names>Jennifer A.</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="noi200102aff6"><sup>6</sup></xref></contrib><contrib contrib-type="author"><name><surname>Fleisher</surname><given-names>Adam S.</given-names></name><degrees>MD</degrees><degrees>MAS</degrees><xref ref-type="aff" rid="noi200102aff6"><sup>6</sup></xref></contrib><contrib contrib-type="author"><name><surname>Mintun</surname><given-names>Mark A.</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="noi200102aff1"><sup>1</sup></xref><xref ref-type="aff" rid="noi200102aff6"><sup>6</sup></xref></contrib><on-behalf-of>for the AVID Collaborators</on-behalf-of></contrib-group><aff id="noi200102aff1"><label>1</label>Avid Radiopharmaceuticals, A Wholly Owned Subsidiary
+of Eli Lilly and Co, Philadelphia, Pennsylvania</aff><aff id="noi200102aff2"><label>2</label>Butler Hospital, Providence, Rhode Island</aff><aff id="noi200102aff3"><label>3</label>Brown University, Providence, Rhode Island</aff><aff id="noi200102aff4"><label>4</label>Duke University School of Medicine and the Duke
+Institute of Brian Science Center, Durham, North Carolina</aff><aff id="noi200102aff5"><label>5</label>Independent</aff><aff id="noi200102aff6"><label>6</label>Eli Lilly and Company, Indianapolis, Indiana</aff><author-notes><title>Article Information</title><p content-type="byline-footnote" specific-use="print"><bold>Group Information: </bold>A
+complete list of the AVID Collaborators can be found at the end of this article.</p><corresp id="noi200102cor1"><bold>Corresponding Author:</bold> Ming Lu, MS, MPH, MD, Avid
+Radiopharmaceuticals, 3711 Market St, Philadelphia, PA 19104 (<email xlink:href="lu@avidrp.com">lu@avidrp.com</email>).</corresp><p><bold>Accepted for Publication:</bold> December 17, 2020.</p><p content-type="published-online"><bold>Published Online:</bold> February 15, 2021.
+doi:<uri content-type="doi">10.1001/jamaneurol.2020.5505</uri></p><p content-type="open-access-note"><bold>Open Access:</bold> This is an open access article
+distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://jamanetwork.com/pages/cc-by-nc-nd-license-permissions">CC-BY-NC-ND
+License</ext-link>. &#x000a9; 2021 Lu M et al. <italic>JAMA Neurology</italic>.</p><p content-type="author-contributions"><bold>Author Contributions:</bold> Dr Lu had full
+access to all the data in the study and takes responsibility for the integrity of the data
+and the accuracy of the data analysis.</p><p><italic>Concept and design:</italic> Lu, Pontecorvo, Devous, Truocchio, Flitter,
+Fleisher, Mintun.</p><p><italic>Acquisition, analysis, or interpretation of data:</italic> All authors.</p><p><italic>Drafting of the manuscript:</italic> Lu, Pontecorvo, Devous, Galante, McGeehan,
+Devadanam, Flitter, Fleisher.</p><p><italic>Critical revision of the manuscript for important intellectual content:</italic>
+Lu, Pontecorvo, Devous, Arora, Galante, Salloway, Doraiswamy, Curtis, Truocchio, Locascio,
+Devine, Zimmer, Fleisher, Mintun.</p><p><italic>Statistical analysis:</italic> Lu, Galante.</p><p><italic>Administrative, technical, or material support:</italic> Devous, Arora, McGeehan,
+Devadanam, Curtis, Truocchio, Flitter, Locascio, Devine, Zimmer, Mintun.</p><p><italic>Supervision:</italic> Lu, Pontecorvo, Devous, Salloway, Truocchio, Flitter,
+Fleisher.</p><p content-type="COI-statement"><bold>Conflict of Interest Disclosures:</bold> Drs Lu,
+Pontecorvo, Devous Sr, Arora, Zimmer, Fleisher, and Mintun; Mrs Galante, Truocchio, and
+Flitter; and Mss McGeehan, Devadanam, Locascio, and Devine are employees of Eli Lilly and
+Company and/or Avid Radiopharmaceuticals and are minor shareholders of Eli Lilly and
+Company. Dr Salloway receives research support and consultancy fees from Lilly, Biogen,
+Merck, Genentech, and Roche. He also receives research support from Avid, Novartis, and
+Functional Neuromodulation. Dr Doraiswamy has received research grants from Avid/Lilly as
+well as other biotech companies reported grants from Avid/Lilly during the conduct of the
+study; personal fees from Neuronix, Brain Forum, Clearview, Transposon, Nutricia, AHEL,
+Anthrotronix, Cognoptix, Genomind, and Holmusk; grants from Avanir, Neuronetrix, and
+Lilly; and personal fees and nonfinancial support from Verily outside the submitted work;
+in addition, Dr Doraiswamy had a patent to diagnostic methods issued and a patent to
+treatment methods pending; and Dr Doraiswamy reported being a minor shareholder in Muses
+Labs, Turtle Shell, Advera Health, and Evidation. No other disclosures were reported.</p><p content-type="funding-statement"><bold>Funding/Support:</bold> Study 1 and Study 2
+presented in this work were sponsored and funded by Avid Radiopharmaceuticals, a wholly
+owned subsidiary of Eli Lilly and Company. The AMARANTH trial was funded by Eli Lilly and
+Company and AstraZeneca.</p><p><bold>Role of the Funder/Sponsor:</bold> The funding sources had no role in the design
+and conduct of the study; collection, management, analysis, and interpretation of the
+data; preparation, review, or approval of the manuscript; and decision to submit the
+manuscript for publication.</p><p><bold>Group Information:</bold> A complete list of the AVID Collaborators can be found in
+<xref ref-type="supplementary-material" rid="note-NOI200102-1-s">Supplement
+2</xref>.</p></author-notes><pub-date pub-type="epub" iso-8601-date="2021-02-15T10:00"><day>15</day><month>2</month><year>2021</year></pub-date><pub-date pub-type="ppub"><month>4</month><year>2021</year></pub-date><pub-date pub-type="pmc-release"><day>15</day><month>2</month><year>2021</year></pub-date><!-- PMC Release delay is 0 months and
+						0 days and was based on the <pub-date
+						pub-type="epub"/>. --><volume>78</volume><issue>4</issue><fpage>445</fpage><lpage>453</lpage><history><date date-type="received"><day>2</day><month>8</month><year>2020</year></date><date date-type="accepted"><day>17</day><month>12</month><year>2020</year></date></history><permissions><copyright-statement>Copyright 2021 Lu M et al. <italic>JAMA
+Neurology</italic>.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article distributed under the terms of the CC-BY-NC-ND License.</license-p></license></permissions><self-uri content-type="pdf-version" xlink:href="jamaneurol-e205505.pdf">jamaneurol-e205505.pdf</self-uri><self-uri content-type="silverchair" xlink:href="https://jamanetwork.com/journals/archneur/fullarticle/10.1001/jamaneurol.2020.5505"/><abstract abstract-type="key-points"><title>Key Points</title><sec id="ab-noi200102-1"><title>Questions</title><p>What is the association between flortaucipir positron emission tomography (PET) imaging
+visual classification using a clinically applicable and US Food and Drug
+Administration&#x02013;approved method and 18-month cognitive and functional decline in
+patients with clinically diagnosed mild cognitive impairment and dementia owing to
+Alzheimer disease (AD)?</p></sec><sec id="ab-noi200102-2"><title>Findings</title><p>In this analysis of 2 open-label clinical trials, visual read of an advanced
+flortaucipir PET AD pattern was associated with an increased risk of 18-month cognitive
+and functional decline compared with other scan patterns.</p></sec><sec id="ab-noi200102-3"><title>Meaning</title><p>Clinically applicable visual reads of flortaucipir PET scans may provide valuable
+information regarding the risk of near-term clinical deterioration among patients with
+clinically diagnosed mild cognitive impairment or dementia owing to AD.</p></sec></abstract><abstract><sec id="ab-noi200102-4"><title>Importance</title><p>Flortaucipir positron emission tomography (PET) scans, rated with a novel, US Food and
+Drug Administration&#x02013;approved, clinically applicable visual interpretation method,
+provide valuable information regarding near-term clinical progression of patients with
+Alzheimer disease (AD) or mild cognitive impairment (MCI).</p></sec><sec id="ab-noi200102-5"><title>Objective</title><p>To evaluate the association between flortaucipir PET visual interpretation and
+patients&#x02019; near-term clinical progression.</p></sec><sec id="ab-noi200102-6"><title>Design/Setting/Participants</title><p>Two prospective, open-label, longitudinal studies were conducted from December 2014 to
+September 2019. Study 1 screened 298 patients and enrolled 160 participants who had a
+flortaucipir scan at baseline visit. Study 2 selected 205 participants from the AMARANTH
+trial, which was terminated after futility analysis. Out of the 2218 AMARANTH
+participants, 424 had a flortaucipir scan around randomization, but 219 did not complete
+18-month clinical dementia rating (CDR) assessments and thus were excluded. In both
+studies, all participants were diagnosed as clinically impaired, and they were
+longitudinally followed up for approximately 18 months after baseline.</p></sec><sec id="ab-noi200102-7"><title>Main Outcomes and Measures</title><p>Flortaucipir scans were rated as either advanced or nonadvanced AD pattern using a
+predetermined visual interpretation method. The CDR sum of box (CDR-SB) score was used
+as primary clinical end point measurement in both studies.</p></sec><sec id="ab-noi200102-8"><title>Results</title><p>Of the 364 study participants who had readable scans, 48% were female
+(n&#x02009;=&#x02009;174 of 364), and the mean (SD) age was 71.8 (8.7) years. Two hundred
+forty participants were rated as having an advanced AD pattern. At 18 months follow-up,
+70% of those with an advanced AD pattern (n&#x02009;=&#x02009;147 of 210) had 1 point or
+more increase in CDR-SB, an event predefined as clinically meaningful deterioration. In
+contrast, only 46% of those with a nonadvanced AD pattern scan (n&#x02009;=&#x02009;48 of
+105) experienced the same event (risk ratio [RR], 1.40; 95% CI, 1.11-1.76;
+<italic>P</italic>&#x02009;=&#x02009;.005). The adjusted mean CDR-SB changes were 2.28 and
+0.98 for advanced and nonadvanced AD pattern groups, respectively
+(<italic>P</italic>&#x02009;&#x0003c;&#x02009;.001). Analyses with other clinical end point
+assessments, as well as analyses with each individual study&#x02019;s data, consistently
+indicated a higher risk of clinical deterioration associated with an advanced AD scan
+pattern.</p></sec><sec id="ab-noi200102-9"><title>Conclusions and Relevance</title><p>These results suggest that flortaucipir PET scans, when interpreted with an US Food and
+Drug Administration&#x02013;approved, clinically applicable visual interpretation method,
+may provide valuable information regarding the risk of clinical deterioration over 18
+months among patients with AD and MCI.</p></sec><sec id="ab-noi200102-10"><title>Trial Registration</title><p>ClinicalTrials.gov Identifier: <ext-link ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/show/NCT02016560">NCT02016560</ext-link>
+and <ext-link ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/show/NCT03901105">NCT03901105</ext-link></p></sec></abstract><abstract abstract-type="teaser"><p>This study evaluates the association between flortaucipir positron emission tomography
+visual interpretation and patients&#x02019; near-term clinical progression of mild cognitive
+impairment and dementia owing to Alzheimer disease.</p></abstract></article-meta></front><body><sec id="H1-1-NOI200102"><title>Introduction</title><p>Alzheimer disease (AD) is characterized pathologically by tau neurofibrillary tangles
+(NFTs)<sup><xref rid="noi200102r1" ref-type="bibr">1</xref></sup> and &#x003b2; amyloid
+plaques (A&#x003b2;).<sup><xref rid="noi200102r2" ref-type="bibr">2</xref>,<xref rid="noi200102r3" ref-type="bibr">3</xref></sup> Neuropathologic criteria for the
+diagnosis of AD requires proof of the presence of both amyloid plaques and
+tangles.<sup><xref rid="noi200102r4" ref-type="bibr">4</xref></sup> Neuropathology
+studies<sup><xref rid="noi200102r5" ref-type="bibr">5</xref>,<xref rid="noi200102r6" ref-type="bibr">6</xref>,<xref rid="noi200102r7" ref-type="bibr">7</xref>,<xref rid="noi200102r8" ref-type="bibr">8</xref></sup> suggest that elevation of A&#x003b2; and
+NFTs are both associated with dementia severity in patients with AD, although the
+association is stronger for NFTs.<sup><xref rid="noi200102r9" ref-type="bibr">9</xref>,<xref rid="noi200102r10" ref-type="bibr">10</xref>,<xref rid="noi200102r11" ref-type="bibr">11</xref></sup> Therefore, accurately detecting tau burden in living patients might
+help to not only establish an AD diagnosis<sup><xref rid="noi200102r12" ref-type="bibr">12</xref></sup> but also to predict a patient&#x02019;s likelihood of clinical
+progression.</p><p>Flortaucipir is a positron emission tomography (PET) tracer for detection of the aggregated
+tau of AD.<sup><xref rid="noi200102r13" ref-type="bibr">13</xref>,<xref rid="noi200102r14" ref-type="bibr">14</xref></sup> Previous cross-sectional studies reported that
+quantitative measures of flortaucipir are associated with degree of cognitive
+impairment<sup><xref rid="noi200102r15" ref-type="bibr">15</xref>,<xref rid="noi200102r16" ref-type="bibr">16</xref>,<xref rid="noi200102r17" ref-type="bibr">17</xref>,<xref rid="noi200102r18" ref-type="bibr">18</xref>,<xref rid="noi200102r19" ref-type="bibr">19</xref>,<xref rid="noi200102r20" ref-type="bibr">20</xref>,<xref rid="noi200102r21" ref-type="bibr">21</xref>,<xref rid="noi200102r22" ref-type="bibr">22</xref>,<xref rid="noi200102r23" ref-type="bibr">23</xref>,<xref rid="noi200102r24" ref-type="bibr">24</xref>,<xref rid="noi200102r25" ref-type="bibr">25</xref></sup> and with
+longitudinal decline in cognitive performance.<sup><xref rid="noi200102r26" ref-type="bibr">26</xref>,<xref rid="noi200102r27" ref-type="bibr">27</xref></sup> Published studies to
+date have focused on quantitative analyses of flortaucipir PET scans, which is suitable for
+research purposes but could pose a challenge in clinical practice. Visual scan
+interpretation may enable broader clinical application and make flortaucipir more accessible
+to medical practitioners and, therefore, to patients. A clinically applicable visual
+interpretation method was recently developed and approved by the US Food and Drug
+Administration (FDA). The accuracy of this method for detecting cortical tau deposition was
+validated in an autopsy study.<sup><xref rid="noi200102r12" ref-type="bibr">12</xref></sup>
+To understand the prognostic value of visually interpreted flortaucipir scans, we applied
+this approach in 2 independent phase III clinical trials and assessed the association
+between flortaucipir visual interpretation patterns and participants&#x02019; clinical decline
+at 18 months.</p></sec><sec id="H1-2-NOI200102"><title>Methods</title><sec id="H2-1-NOI200102"><title>Study Design</title><p>Two prospective, longitudinal clinical studies were conducted independently. Study 1
+(Study 18F-AV-1451-A05; NCT02016560) was designed to evaluate the association between
+flortaucipir uptake at baseline and the subsequent rate of cognitive decline observed over
+an 18-month period. This study was conducted at 26 study sites across the United States
+from December 2014 to July 2017. Study 2 (Study 18F-AV-1451-PX01; <ext-link ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/show/NCT03901105">NCT03901105</ext-link>) was designed to take advantage of data from a 24-month
+therapeutic trial (I8D-MC-AZES/D5010C00009/AMARANTH; <ext-link ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/show/NCT02245737">NCT02245737</ext-link>)
+that included flortaucipir PET scans at baseline in a subset of participants. The AMARANTH
+trial was designed to evaluate the treatment effect of &#x003b2;-secretase 1 (BACE) inhibitor
+AZD3293 (LY3314814; lanabecestat) but was terminated early after a futility analysis. To
+minimize the effect of data missing not at random owing to early termination, only
+participants (both lanabecestat-treated and placebo-treated) who had a flortaucipir scan
+at baseline and completed a clinical dementia rating (CDR) at the week 78 (18 months) were
+selected into Study 2. Study 2 participants were enrolled from 68 study sites worldwide
+from March 2017 to October 2018. Both studies tested the same hypotheses: baseline tau
+status, determined by flortaucipir visual interpretation patterns, would predict the risk
+of clinical decline over 18 months of follow-up.</p><p>Study protocols were approved by the relevant institutional review boards and all
+participants or authorized representatives signed informed consent prior to conduct of
+study procedures. Trials were conducted in compliance with the Declaration of Helsinki and
+the International Conference on Harmonization guideline on good clinical
+practice.<sup><xref rid="noi200102r28" ref-type="bibr">28</xref></sup></p></sec><sec id="H2-2-NOI200102"><title>Participants</title><p>Study 1 participants were cognitively impaired men and women 50 years and older with a
+suspected neurodegenerative cause at enrollment, and with a Mini-Mental State Examination
+(MMSE) score between 20 and 27, inclusive. Study 2 participants were men and women (aged
+55 to 85 years) diagnosed as having mild cognitive impairment (MCI) owing to AD or
+probable AD dementia by National Institute on Aging&#x02013;Alzheimer&#x02019;s Association
+criteria,<sup><xref rid="noi200102r29" ref-type="bibr">29</xref>,<xref rid="noi200102r30" ref-type="bibr">30</xref></sup> with Mini-Mental State Examination (MMSE) score 20
+to 30 inclusive, a CDR Global score (CDR-Global) of 0.5 (MCI) or 0.5 or 1 (AD), a CDR sum
+of box (CDR-SB) score of at least 0.5, and a Repeatable Battery for the Assessment of
+Neuropsychological Status Update delayed memory score of 85 or less. All Study 2
+participants were A&#x003b2;+ by amyloid PET or lumbar puncture.</p></sec><sec id="H2-3-NOI200102"><title>Positron Emission Tomography Imaging Visual Interpretation</title><p>In both studies, flortaucipir scans that passed quality control were independently
+evaluated by 5 imaging physicians blinded to clinical information (details in eMethods in
+the <xref ref-type="supplementary-material" rid="note-NOI200102-1-s">Supplement</xref>).
+Readers rated each scan as either an advanced, moderate, or negative AD tau pattern (<xref ref-type="fig" rid="noi200102f1">Figure 1</xref>) using a predefined visual
+interpretation method.<sup><xref rid="noi200102r12" ref-type="bibr">12</xref></sup> For
+analyses purposes, imaging analysis end points were dichotomized as advanced AD tau
+pattern vs nonadvanced (negative or moderate) AD tau pattern. Majority reads, defined as
+the same interpretation from 3 or more readers for each scan, were derived mathematically
+based on this dichotomized end point.</p><fig id="noi200102f1" fig-type="figure" orientation="portrait" position="float"><label>Figure 1. </label><caption><title>Flortaucipir Positron Emission Tomography (PET) Scan Visual
+Interpretation</title><p>Flortaucipir visual read categories and analysis end point classification. Three
+cases representing the 3 levels of visual reads and corresponding analysis end point
+classification.</p></caption><graphic xlink:href="jamaneurol-e205505-g001"/></fig></sec><sec id="H2-4-NOI200102"><title>Cognitive and Functional Assessments</title><p>In both studies, participants&#x02019; clinical progression was measured with the CDR
+scale, including both CDR-SB and CDR-Global, the MMSE, 11-item version of the Alzheimer
+Disease Assessment Scale&#x02013;Cognitive subscale (ADAS-Cog11), and Functional Activities
+Questionnaire (FAQ). Assessments were collected at baseline and follow-up visits.</p></sec><sec id="H2-5-NOI200102"><title>Statistical Analysis</title><p>All analyses were independently conducted for each individual study and repeated with
+pooled study data. For Study 1, baseline, 9-month, and 18-month visit data were used in
+analyses; for Study 2, baseline, 6-month, 12-month, and 18-month visits were used.
+Although a subset of Study 2 participants completed 24 months&#x02019; follow-up before the
+study was terminated, 24-month follow-up data was not used in the analyses because sample
+size was significantly reduced at 24 months owing to early study termination (90 of 205
+participants completed 24-month assessments) and because no comparable data are available
+from Study 1.</p><p>Participants&#x02019; clinical progression was first assessed using predefined dichotomized
+outcomes, representing clinically meaningful deteriorations: 1 point or more increase in
+CDR-SB, any increase in CDR-Global, 4 points or more increase in ADAS-Cog11, 3 points or
+more decrease in MMSE, and 3 points or more increase in FAQ. The CDR-SB was prespecified
+as the primary end point for determining study success for both studies. In Study 1, Cox
+proportional hazard model, adjusting for baseline age, respective baseline cognitive or
+functional test score, and cognitive reserve (American National Adult Reading Test score
+[ANART]), was used to evaluate the hazard of progressing to these predefined outcomes.
+Hazard ratios (HR) were reported to assess the hazard difference between scan patterns.
+Because Study 2 included only those participants from the AMARANTH trial who had a valid
+baseline scan and who had completed the 18-month CDR evaluation, it was not necessary to
+compensate for potential information loss owing to premature discontinuation. Thus, a
+Poisson regression model was used to estimate the different risks of experiencing the
+pre-defined outcomes by scan patterns, and the risk ratios (RR) were reported accordingly.
+The models were adjusted for respective baseline cognitive/functional test scores, age,
+education, and therapeutic treatment arms from AMARANTH. For the pooled analyses, similar
+Poisson regression models were applied but adjusted for study identification, baseline
+age, and respective baseline scores.</p><p>Additionally, progression was quantified as mean change from baseline in CDR-SB, MMSE,
+ADAS, and FAQ, respectively. Mixed models with repeated measures (MMRM) were used to
+estimate the mean change by scan patterns for each cognitive/functional assessment.
+Covariates included baseline age, respective baseline cognitive/functional test scores,
+visit number, scan pattern-by-visit interaction, and baseline ANART for Study 1, or
+education and treatment arms for Study 2. Adjusted mean change values by scan patterns and
+their differences were reported along with the 2-tailed <italic>P</italic> values, with
+statistical significance declared at .05 level. Pooled data were analyzed with similar
+models, but adjusted for study identification, respective baseline score, and age. For the
+pooled analyses, the 6-month and 12-month visits from Study 2 were averaged to approximate
+the 9-month visit for comparison with the Study 1 nine-month visit.</p></sec></sec><sec id="H1-3-NOI200102"><title>Results</title><sec id="H2-6-NOI200102"><title>Participant Characteristics</title><p>In Study 1, a total of 159 participants had flortaucipir scans that passed quality
+control. Of these, 74 were women (47%), 154 were White (97%), and the mean (SD) age was
+72.9 (9.6) years (<xref rid="noi200102t1" ref-type="table">Table 1</xref>). Study 1
+participants had a mean (SD) baseline MMSE of 24.9 (2.2), CDR-SB of 3.4 (1.9), ADAS-Cog11
+of 14.3 (6.1), and FAQ of 8.3 (6.8). Sixty-two (39%) were clinically diagnosed as having
+dementia, including 5 with a prescan working diagnosis of non-AD dementia (1 vascular, 2
+frontotemporal, 1 atypical frontotemporal, and 1 Lewy body dementia; these were grouped
+with AD for analysis purposes). Sixty-four percent of participants (101 of 159) were
+A&#x003b2;+, 41% were apolipoprotein E (APOE) &#x003b5;4 carriers, and 78 (49%; 76 A&#x003b2;+ and
+2 A&#x003b2;&#x02212;) had an advanced, 11 (7%; 9 A&#x003b2;+ and 2 A&#x003b2;&#x02212;) had a
+moderate, and 70 (44%; 16 A&#x003b2;+ and 54 A&#x003b2;&#x02212;) had a negative AD pattern. About
+70% of participants finished all study visits. Of the 205 AMARANTH participants selected
+into Study 2, 100 were women (49%), 172 were White (84%), and mean (SD) age was 71 (7.7)
+years. Study 2 participants were more impaired than those in Study 1: 69% with AD; mean
+(SD) baseline MMSE, 23.8 (2.6); CDR-SB, 3.7 (1.5); ADAS-Cog11, 17.9 (6.0); and FAQ, 9.7
+(6.5). All participants were A&#x003b2;+ per AMARANTH enrollment criteria, and 69% were APOE
+&#x003b5;4 carriers. In Study 2, 162 participants (79%) had an advanced AD pattern, 15 (7.3%)
+had a moderate AD pattern, and 28 (13.7%) had a negative AD pattern.</p><table-wrap id="noi200102t1" orientation="portrait" position="float"><label>Table 1. </label><caption><title>Study Participants Demographics and Baseline Characteristics</title></caption><table frame="hsides" rules="groups"><col width="35.97%" span="1"/><col width="21.34%" span="1"/><col width="21.34%" span="1"/><col width="21.35%" span="1"/><thead><tr><th rowspan="2" valign="top" align="left" scope="col" colspan="1">Characteristic</th><th colspan="3" valign="top" align="left" scope="colgroup" rowspan="1">No. (%)</th></tr><tr><th valign="top" colspan="1" align="left" scope="colgroup" rowspan="1">Study 1
+(n&#x02009;=&#x02009;159)</th><th valign="top" align="left" scope="col" rowspan="1" colspan="1">Study 2 (n&#x02009;=&#x02009;205)</th><th valign="top" align="left" scope="col" rowspan="1" colspan="1">Pooled (n&#x02009;=&#x02009;364)</th></tr></thead><tbody><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Age, mean (SD) [range]</td><td valign="top" align="left" rowspan="1" colspan="1">72.9 (9.64) [50-97]</td><td valign="top" align="left" rowspan="1" colspan="1">71 (7.74) [55-85]</td><td valign="top" align="left" rowspan="1" colspan="1">71.8 (8.66) [50-97]</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Female</td><td valign="top" align="left" rowspan="1" colspan="1">74 (46.5)</td><td valign="top" align="left" rowspan="1" colspan="1">100 (48.8)</td><td valign="top" align="left" rowspan="1" colspan="1">174 (47.8)</td></tr><tr><td valign="top" align="left" scope="col" rowspan="1" colspan="1">Race/ethnicity</td><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Nonwhite</td><td valign="top" align="left" rowspan="1" colspan="1">5 (3.1)</td><td valign="top" align="left" rowspan="1" colspan="1">33 (16.1)</td><td valign="top" align="left" rowspan="1" colspan="1">38 (10.4)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1"> White</td><td valign="top" align="left" rowspan="1" colspan="1">154 (96.9)</td><td valign="top" align="left" rowspan="1" colspan="1">172 (83.9)</td><td valign="top" align="left" rowspan="1" colspan="1">326 (89.6)</td></tr><tr><td valign="top" align="left" scope="col" rowspan="1" colspan="1">Education</td><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1"> &#x02265;13 y</td><td valign="top" align="left" rowspan="1" colspan="1">156 (98.1)</td><td valign="top" align="left" rowspan="1" colspan="1">133 (64.9)</td><td valign="top" align="left" rowspan="1" colspan="1">289 (79.4)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Otherwise</td><td valign="top" align="left" rowspan="1" colspan="1">3 (1.89)</td><td valign="top" align="left" rowspan="1" colspan="1">72 (35.1)</td><td valign="top" align="left" rowspan="1" colspan="1">75 (20.6)</td></tr><tr><td valign="top" align="left" scope="col" rowspan="1" colspan="1">APOE</td><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1"> &#x003b5;4 carriers</td><td valign="top" align="left" rowspan="1" colspan="1">62 (41.3)</td><td valign="top" align="left" rowspan="1" colspan="1">142 (69.3)</td><td valign="top" align="left" rowspan="1" colspan="1">204 (57.5)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Non &#x003b5;4 carriers</td><td valign="top" align="left" rowspan="1" colspan="1">88 (58.7)</td><td valign="top" align="left" rowspan="1" colspan="1">63 (30.7)</td><td valign="top" align="left" rowspan="1" colspan="1">151 (42.5)</td></tr><tr><td valign="top" align="left" scope="col" rowspan="1" colspan="1">Clinical diagnosis</td><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1"> AD</td><td valign="top" align="left" rowspan="1" colspan="1">62 (39.0)</td><td valign="top" align="left" rowspan="1" colspan="1">141 (68.8)</td><td valign="top" align="left" rowspan="1" colspan="1">203 (55.8)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1"> MCI</td><td valign="top" align="left" rowspan="1" colspan="1">97 (61.0)</td><td valign="top" align="left" rowspan="1" colspan="1">64 (31.2)</td><td valign="top" align="left" rowspan="1" colspan="1">161 (44.2)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">ADAS-Cog11, mean (SD) [range]</td><td valign="top" align="left" rowspan="1" colspan="1">14.3 (6.14) [4-39]</td><td valign="top" align="left" rowspan="1" colspan="1">17.9 (5.99) [5-33]</td><td valign="top" align="left" rowspan="1" colspan="1">16.4 (6.31) [4-39]</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">CDR-SB, mean (SD) [range]</td><td valign="top" align="left" rowspan="1" colspan="1">3.4 (1.88) [0-12]</td><td valign="top" align="left" rowspan="1" colspan="1">3.7 (1.48) [0.5-8]</td><td valign="top" align="left" rowspan="1" colspan="1">3.6 (1.67) [0-12]</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">FAQ, mean (SD) [range]</td><td valign="top" align="left" rowspan="1" colspan="1">8.3 (6.82) [0-30]</td><td valign="top" align="left" rowspan="1" colspan="1">9.7 (6.48) [0-28]</td><td valign="top" align="left" rowspan="1" colspan="1">9.1 (6.66) [0-30]</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">MMSE, mean (SD) [range]</td><td valign="top" align="left" rowspan="1" colspan="1">24.9 (2.19) [20-30]</td><td valign="top" align="left" rowspan="1" colspan="1">23.8 (2.58) [19-30]</td><td valign="top" align="left" rowspan="1" colspan="1">24.3 (2.48) [19-30]</td></tr><tr><td valign="top" align="left" scope="col" rowspan="1" colspan="1">Amyloid status</td><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1"> A&#x003b2;+</td><td valign="top" align="left" rowspan="1" colspan="1">101 (63.5)</td><td valign="top" align="left" rowspan="1" colspan="1">205 (100)</td><td valign="top" align="left" rowspan="1" colspan="1">306 (84.1)</td></tr><tr><td valign="top" align="left" scope="col" rowspan="1" colspan="1">Flortaucipir scan reads</td><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" scope="col" rowspan="1" colspan="1"> AD pattern</td><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Negative</td><td valign="top" align="left" rowspan="1" colspan="1">70 (44.0)</td><td valign="top" align="left" rowspan="1" colspan="1">28 (13.7)</td><td valign="top" align="left" rowspan="1" colspan="1">98 (26.9)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Moderate</td><td valign="top" align="left" rowspan="1" colspan="1">11 (6.9)</td><td valign="top" align="left" rowspan="1" colspan="1">15 (7.3)</td><td valign="top" align="left" rowspan="1" colspan="1">26 (7.1)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Advanced</td><td valign="top" align="left" rowspan="1" colspan="1">78 (49.1)</td><td valign="top" align="left" rowspan="1" colspan="1">162 (79.0)</td><td valign="top" align="left" rowspan="1" colspan="1">240 (65.9)</td></tr></tbody></table><table-wrap-foot><p>Abbreviations: ADAS-Cog11, Alzheimer Disease Assessment Scale&#x02013;Cognitive
+subscale; AD, Alzheimer disease; A&#x003b2;: amyloid &#x003b2;; CDR-SB, clinical dementia
+rating sum of box; FAQ, functional activities questionnaire; MCI, mild cognitive
+impairment; MMSE, Mini-Mental State Examination.</p></table-wrap-foot></table-wrap></sec><sec id="H2-7-NOI200102"><title>Risk of Clinical Progression by Flortaucipir PET Scan Patterns</title><p>Pooling Study 1 and Study 2 data, 240 participants had an advanced and 124 participants
+had a nonadvanced AD flortaucipir scan pattern. Participants with an advanced AD scan
+pattern experienced more predefined clinical meaningful deterioration events than those
+with a nonadvanced pattern. For example, 70% of advanced vs 46% of nonadvanced pattern
+participants had CDR-SB 1 point or more increase (RR, 1.40; 95% CI, 1.11-1.76;
+<italic>P</italic>&#x02009;=&#x02009;.005). Similar statistically significant RRs were
+observed for the other assessments (<xref ref-type="fig" rid="noi200102f2">Figure
+2</xref>). At the 18-month follow-up, adjusted mean changes were CDR-SB, 2.28 vs 0.98
+(<italic>P</italic> &#x0003c;.001); MMSE, &#x02212;4.13 vs &#x02212;1.27 (<italic>P</italic>
+&#x0003c;.001); FAQ, 6.15 vs 2.10 (<italic>P</italic> &#x0003c;.001); and ADAS-Cog11, 6.40 vs 2.30
+(<italic>P</italic> &#x0003c;.001) for advanced vs nonadvanced AD patterns respectively(<xref rid="noi200102t2" ref-type="table">Table 2</xref>, <xref ref-type="fig" rid="noi200102f3">Figure 3</xref>). All <italic>P</italic> values remained significant
+after Bonferroni correction for multiplicity.</p><fig id="noi200102f2" fig-type="figure" orientation="portrait" position="float"><label>Figure 2. </label><caption><title>Risk for Clinical Progression: Comparing Advanced Alzheimer Disease (AD) Pattern
+and Nonadvanced AD Pattern Groups</title><p>Advanced: flortaucipir scan advanced AD pattern; nonadvanced: flortaucipir scan
+nonadvanced AD patterns. Event rate for each scan pattern group: the percentage of
+participants had a prespecified clinical meaning deterioration event, such as Clinical
+Dementia Rating sum of box (CDR-SB) 1 point or more increase. ADAS-Cog11 indicates
+Alzheimer Disease Assessment Scale&#x02013;Cognitive subscale; FAQ, functional
+activities questionnaire; MMSE, Mini-Mental State Examination.</p></caption><graphic xlink:href="jamaneurol-e205505-g002"/></fig><table-wrap id="noi200102t2" orientation="portrait" position="float"><label>Table 2. </label><caption><title>Cognitive and Functional Measurements at Baseline, and Their Changes at 18 Months
+by Flortaucipir Scan Status</title></caption><table frame="hsides" rules="groups"><col width="10.39%" span="1"/><col width="23.99%" span="1"/><col width="7.3%" span="1"/><col width="17.49%" span="1"/><col width="8.84%" span="1"/><col width="21.2%" span="1"/><col width="10.79%" span="1"/><thead><tr><th rowspan="2" colspan="2" valign="top" align="left" scope="colgroup">Measurement</th><th colspan="2" valign="top" align="left" scope="colgroup" rowspan="1">Advanced AD pattern</th><th colspan="2" valign="top" align="left" scope="colgroup" rowspan="1">Nonadvanced AD
+pattern</th><th rowspan="2" valign="top" align="left" scope="col" colspan="1"><italic>P</italic> value<xref ref-type="table-fn" rid="noi200102t2n1"><sup>a</sup></xref></th></tr><tr><th valign="top" colspan="1" align="left" scope="colgroup" rowspan="1">No.</th><th valign="top" align="left" scope="col" rowspan="1" colspan="1">Mean (SE)</th><th valign="top" align="left" scope="col" rowspan="1" colspan="1">No.</th><th valign="top" align="left" scope="col" rowspan="1" colspan="1">Mean (SE)</th></tr></thead><tbody><tr><td colspan="7" valign="top" align="left" scope="col" rowspan="1">CDR-SB</td></tr><tr><td rowspan="2" valign="top" align="left" scope="row" colspan="1"> Study 1</td><td valign="top" align="left" rowspan="1" colspan="1">Baseline</td><td valign="top" align="left" rowspan="1" colspan="1">78</td><td valign="top" align="left" rowspan="1" colspan="1">3.77 (0.23)</td><td valign="top" align="left" rowspan="1" colspan="1">80</td><td valign="top" align="left" rowspan="1" colspan="1">2.99 (0.19)</td><td valign="top" align="left" rowspan="1" colspan="1">.009</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Change at 18 mo</td><td valign="top" align="left" rowspan="1" colspan="1">48</td><td valign="top" align="left" rowspan="1" colspan="1">2.09 (0.35)</td><td valign="top" align="left" rowspan="1" colspan="1">62</td><td valign="top" align="left" rowspan="1" colspan="1">0.66 (0.32)</td><td valign="top" align="left" rowspan="1" colspan="1">.003</td></tr><tr><td rowspan="2" valign="top" align="left" scope="row" colspan="1"> Study 2</td><td valign="top" align="left" rowspan="1" colspan="1">Baseline</td><td valign="top" align="left" rowspan="1" colspan="1">162</td><td valign="top" align="left" rowspan="1" colspan="1">3.80 (0.12)</td><td valign="top" align="left" rowspan="1" colspan="1">43</td><td valign="top" align="left" rowspan="1" colspan="1">3.28 (0.20)</td><td valign="top" align="left" rowspan="1" colspan="1">.04</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Change at 18 mo</td><td valign="top" align="left" rowspan="1" colspan="1">162</td><td valign="top" align="left" rowspan="1" colspan="1">2.22 (0.22)</td><td valign="top" align="left" rowspan="1" colspan="1">43</td><td valign="top" align="left" rowspan="1" colspan="1">1.31 (0.38)</td><td valign="top" align="left" rowspan="1" colspan="1">.03</td></tr><tr><td rowspan="2" valign="top" align="left" scope="row" colspan="1"> Pooled</td><td valign="top" align="left" rowspan="1" colspan="1">Baseline</td><td valign="top" align="left" rowspan="1" colspan="1">240</td><td valign="top" align="left" rowspan="1" colspan="1">3.80 (0.11)</td><td valign="top" align="left" rowspan="1" colspan="1">123</td><td valign="top" align="left" rowspan="1" colspan="1">3.10 (0.14)</td><td valign="top" align="left" rowspan="1" colspan="1">.001</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Change at 18 mo</td><td valign="top" align="left" rowspan="1" colspan="1">210</td><td valign="top" align="left" rowspan="1" colspan="1">2.28 (0.17)</td><td valign="top" align="left" rowspan="1" colspan="1">105</td><td valign="top" align="left" rowspan="1" colspan="1">0.98 (0.24)</td><td valign="top" align="left" rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr><td colspan="7" valign="top" align="left" scope="col" rowspan="1">MMSE</td></tr><tr><td rowspan="2" valign="top" align="left" scope="row" colspan="1"> Study 1</td><td valign="top" align="left" rowspan="1" colspan="1">Baseline</td><td valign="top" align="left" rowspan="1" colspan="1">78</td><td valign="top" align="left" rowspan="1" colspan="1">24.40 (0.25)</td><td valign="top" align="left" rowspan="1" colspan="1">81</td><td valign="top" align="left" rowspan="1" colspan="1">25.40 (0.23)</td><td valign="top" align="left" rowspan="1" colspan="1">.006</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Change at 18 mo</td><td valign="top" align="left" rowspan="1" colspan="1">47</td><td valign="top" align="left" rowspan="1" colspan="1">&#x02212;3.29 (0.67)</td><td valign="top" align="left" rowspan="1" colspan="1">62</td><td valign="top" align="left" rowspan="1" colspan="1">&#x02212;0.33 (0.59)</td><td valign="top" align="left" rowspan="1" colspan="1">.001</td></tr><tr><td rowspan="2" valign="top" align="left" scope="row" colspan="1"> Study 2</td><td valign="top" align="left" rowspan="1" colspan="1">Baseline</td><td valign="top" align="left" rowspan="1" colspan="1">162</td><td valign="top" align="left" rowspan="1" colspan="1">23.50 (0.20)</td><td valign="top" align="left" rowspan="1" colspan="1">43</td><td valign="top" align="left" rowspan="1" colspan="1">24.80 (0.41)</td><td valign="top" align="left" rowspan="1" colspan="1">.003</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Change at 18 mo</td><td valign="top" align="left" rowspan="1" colspan="1">161</td><td valign="top" align="left" rowspan="1" colspan="1">&#x02212;4.89 (0.38)</td><td valign="top" align="left" rowspan="1" colspan="1">42</td><td valign="top" align="left" rowspan="1" colspan="1">&#x02212;2.12 (0.65)</td><td valign="top" align="left" rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr><td rowspan="2" valign="top" align="left" scope="row" colspan="1"> Pooled</td><td valign="top" align="left" rowspan="1" colspan="1">Baseline</td><td valign="top" align="left" rowspan="1" colspan="1">240</td><td valign="top" align="left" rowspan="1" colspan="1">23.80 (0.16)</td><td valign="top" align="left" rowspan="1" colspan="1">124</td><td valign="top" align="left" rowspan="1" colspan="1">25.20 (0.21)</td><td valign="top" align="left" rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Change at 18 mo</td><td valign="top" align="left" rowspan="1" colspan="1">208</td><td valign="top" align="left" rowspan="1" colspan="1">&#x02212;4.13 (0.31)</td><td valign="top" align="left" rowspan="1" colspan="1">104</td><td valign="top" align="left" rowspan="1" colspan="1">&#x02212;1.27 (0.42)</td><td valign="top" align="left" rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr><td colspan="7" valign="top" align="left" scope="col" rowspan="1">FAQ</td></tr><tr><td rowspan="2" valign="top" align="left" scope="row" colspan="1"> Study 1</td><td valign="top" align="left" rowspan="1" colspan="1">Baseline</td><td valign="top" align="left" rowspan="1" colspan="1">78</td><td valign="top" align="left" rowspan="1" colspan="1">9.41 (0.80)</td><td valign="top" align="left" rowspan="1" colspan="1">80</td><td valign="top" align="left" rowspan="1" colspan="1">7.14 (0.72)</td><td valign="top" align="left" rowspan="1" colspan="1">.04</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Change at 18 mo</td><td valign="top" align="left" rowspan="1" colspan="1">48</td><td valign="top" align="left" rowspan="1" colspan="1">6.93 (0.75)</td><td valign="top" align="left" rowspan="1" colspan="1">62</td><td valign="top" align="left" rowspan="1" colspan="1">1.78 (0.69)</td><td valign="top" align="left" rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr><td rowspan="2" valign="top" align="left" scope="row" colspan="1"> Study 2</td><td valign="top" align="left" rowspan="1" colspan="1">Baseline</td><td valign="top" align="left" rowspan="1" colspan="1">159</td><td valign="top" align="left" rowspan="1" colspan="1">10.12 (0.51)</td><td valign="top" align="left" rowspan="1" colspan="1">43</td><td valign="top" align="left" rowspan="1" colspan="1">7.84 (0.93)</td><td valign="top" align="left" rowspan="1" colspan="1">.04</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Change at 18 mo</td><td valign="top" align="left" rowspan="1" colspan="1">158</td><td valign="top" align="left" rowspan="1" colspan="1">5.22 (0.54)</td><td valign="top" align="left" rowspan="1" colspan="1">42</td><td valign="top" align="left" rowspan="1" colspan="1">2.67 (0.90)</td><td valign="top" align="left" rowspan="1" colspan="1">.01</td></tr><tr><td rowspan="2" valign="top" align="left" scope="row" colspan="1"> Pooled</td><td valign="top" align="left" rowspan="1" colspan="1">Baseline</td><td valign="top" align="left" rowspan="1" colspan="1">237</td><td valign="top" align="left" rowspan="1" colspan="1">9.89 (0.43)</td><td valign="top" align="left" rowspan="1" colspan="1">123</td><td valign="top" align="left" rowspan="1" colspan="1">7.38 (0.57)</td><td valign="top" align="left" rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Change at 18 mo</td><td valign="top" align="left" rowspan="1" colspan="1">206</td><td valign="top" align="left" rowspan="1" colspan="1">6.15 (0.40)</td><td valign="top" align="left" rowspan="1" colspan="1">104</td><td valign="top" align="left" rowspan="1" colspan="1">2.10 (0.55)</td><td valign="top" align="left" rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr><td colspan="7" valign="top" align="left" scope="col" rowspan="1">ADAS-Cog11</td></tr><tr><td rowspan="2" valign="top" align="left" scope="row" colspan="1"> Study 1</td><td valign="top" align="left" rowspan="1" colspan="1">Baseline</td><td valign="top" align="left" rowspan="1" colspan="1">78</td><td valign="top" align="left" rowspan="1" colspan="1">16.33 (0.71)</td><td valign="top" align="left" rowspan="1" colspan="1">81</td><td valign="top" align="left" rowspan="1" colspan="1">12.41 (0.60)</td><td valign="top" align="left" rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Change at 18 mo</td><td valign="top" align="left" rowspan="1" colspan="1">48</td><td valign="top" align="left" rowspan="1" colspan="1">6.41 (1.00)</td><td valign="top" align="left" rowspan="1" colspan="1">62</td><td valign="top" align="left" rowspan="1" colspan="1">2.50 (0.91)</td><td valign="top" align="left" rowspan="1" colspan="1">.006</td></tr><tr><td rowspan="2" valign="top" align="left" scope="row" colspan="1"> Study 2</td><td valign="top" align="left" rowspan="1" colspan="1">Baseline</td><td valign="top" align="left" rowspan="1" colspan="1">162</td><td valign="top" align="left" rowspan="1" colspan="1">18.63 (0.48)</td><td valign="top" align="left" rowspan="1" colspan="1">43</td><td valign="top" align="left" rowspan="1" colspan="1">15.33 (0.75)</td><td valign="top" align="left" rowspan="1" colspan="1">.001</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Change at 18 mo</td><td valign="top" align="left" rowspan="1" colspan="1">157</td><td valign="top" align="left" rowspan="1" colspan="1">6.53 (0.66)</td><td valign="top" align="left" rowspan="1" colspan="1">42</td><td valign="top" align="left" rowspan="1" colspan="1">1.97 (1.18)</td><td valign="top" align="left" rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr><td rowspan="2" valign="top" align="left" scope="row" colspan="1"> Pooled</td><td valign="top" align="left" rowspan="1" colspan="1">Baseline</td><td valign="top" align="left" rowspan="1" colspan="1">240</td><td valign="top" align="left" rowspan="1" colspan="1">17.90 (0.40)</td><td valign="top" align="left" rowspan="1" colspan="1">124</td><td valign="top" align="left" rowspan="1" colspan="1">13.40 (0.48)</td><td valign="top" align="left" rowspan="1" colspan="1">&#x0003c;.001</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Change at 18 mo</td><td valign="top" align="left" rowspan="1" colspan="1">205</td><td valign="top" align="left" rowspan="1" colspan="1">6.40 (0.51)</td><td valign="top" align="left" rowspan="1" colspan="1">104</td><td valign="top" align="left" rowspan="1" colspan="1">2.30 (0.71)</td><td valign="top" align="left" rowspan="1" colspan="1">&#x0003c;.001</td></tr></tbody></table><table-wrap-foot><p>Abbreviations: ADAS-Cog11, Alzheimer Disease Assessment Scale&#x02013;Cognitive
+subscale; AD, Alzheimer disease; CDR-SB, clinical dementia rating sum of box; FAQ,
+functional activities questionnaire; MMSE, Mini-Mental State Examination.</p><fn id="noi200102t2n1"><label><sup>a</sup></label><p><italic>P</italic> value was from the test comparing advanced AD pattern and
+nonadvanced AD pattern groups. Baseline mean values between scan pattern groups were
+compared using a 2-sample <italic>t</italic> test; change values at 18 months were
+compared between pattern groups using MMRM models.</p></fn></table-wrap-foot></table-wrap><fig id="noi200102f3" fig-type="figure" orientation="portrait" position="float"><label>Figure 3. </label><caption><title>Change From Baseline Values at Each Follow-up Visits by Flortaucipir Scan
+Patterns</title><p>The y-axis represents the adjusted mean changes values from baseline, from mixed
+models with repeated measures (MMRM) models. The covariates of the models included
+baseline age, respective baseline cognitive/functional test scores, visit number (used
+as a categorical variable), tau status-by-visit interaction, and baseline ANART for
+Study 1, or education and treatment arms for Study 2. For pooled analyses, the
+covariates included study identification, respective baseline cognitive/functional
+test score, and age.</p><p>Red color lines: advanced AD pattern group; dark blue color lines: non-advanced AD
+pattern group. Dashed lines: Study 1 population; dotted lines: Study 2 population;
+solid lines: pooled (Study 1 and 2) population.</p></caption><graphic xlink:href="jamaneurol-e205505-g003"/></fig><p>Among the 3 different scan patterns, the moderate AD pattern occurred the least
+frequently in both studies (<xref rid="noi200102t1" ref-type="table">Table 1</xref>).
+Pooled data revealed an ordinal association of clinical progression by scan patterns
+(advanced&#x02009;&#x0003e;&#x02009;moderate&#x02009;&#x0003e;&#x02009;negative AD pattern). For example,
+participants deteriorated 2.3 points (<italic>P</italic>&#x02009;&#x0003c;&#x02009;.001), 1.7
+points (<italic>P</italic>&#x02009;=&#x02009;.001), and 0.78 points
+(<italic>P</italic>&#x02009;=&#x02009;.005) in CDR-SB at the 18-month follow-up, respectively
+(eFigure 1 in the <xref ref-type="supplementary-material" rid="note-NOI200102-1-s">Supplement</xref>). Similar findings were observed for MMSE, ADAS-Cog11, and FAQ.
+Pairwise comparisons showed that participants with an advanced AD pattern consistently had
+a statistically significantly larger decline than those with a negative AD pattern, while
+those with a moderate AD pattern were not consistently different from either advanced or
+negative pattern participants.</p><p>For the individual studies, analyses suggested a greater risk of clinical progression for
+the advanced AD pattern group, although risk differences did not always meet statistical
+significance. Study 1 data showed a greater risk of progression in CDR-SB for advanced AD
+pattern participants: HR, 1.58 (95% CI, 0.97-2.85; <italic>P</italic>&#x02009;=&#x02009;.07).
+Statistically significant HRs were observed for other prespecified outcome measures,
+including CDR-Global (HR, 2.37; 95% CI, 1.32-4.26; <italic>P</italic>&#x02009;=&#x02009;.004),
+MMSE (HR, 2.51; 95% CI, 1.29-4.89; <italic>P</italic>&#x02009;=&#x02009;.007), and FAQ (HR,
+2.79; 95% CI, 1.67-4.64; <italic>P</italic>&#x02009;&#x0003c;&#x02009;.001) but not ADAS-Cog11 (HR,
+1.36; 95% CI, 0.77-2.41; <italic>P</italic>&#x02009;=&#x02009;.29) (<xref ref-type="fig" rid="noi200102f2">Figure 2</xref>).</p><p>Study 2 yielded a statistically significant RR of 1.36 for CDR-SB (95% CI,1.03-1.79;
+<italic>P</italic>&#x02009;=&#x02009;.03). Other RRs for the secondary prespecified outcome
+measures indicated higher risk for the advanced AD pattern group, reaching statistical
+significance for ADAS-Cog11 (RR, 1.77; 95% CI, 1.12-2.80;
+<italic>P</italic>&#x02009;=&#x02009;.01) but not for CDR-Global (RR, 1.28; 95% CI, 0.82-2.02;
+<italic>P</italic>&#x02009;=&#x02009;.28), MMSE (RR, 1.35; 95% CI, 0.96-1.89;
+<italic>P</italic>&#x02009;=&#x02009;.08), or FAQ (RR, 1.32; 95% CI, 0.98-1.78;
+<italic>P</italic>&#x02009;=&#x02009;.06). In both studies, MMRM analyses demonstrated
+greater declines for advanced AD pattern participants in all the clinical end points
+assessments, and comparisons with nonadvanced AD pattern participants were all
+statistically significant (<xref rid="noi200102t2" ref-type="table">Table 2</xref>; <xref ref-type="fig" rid="noi200102f3">Figure 3</xref>).</p><p>The interreader consistency for flortaucipir scan visual interpretation was high for both
+Study 1 and 2 (94.5% and 91.4% agreement rate; eTable 1 in the <xref ref-type="supplementary-material" rid="note-NOI200102-1-s">Supplement</xref>). This high
+consistency level in scan interpretation also resulted in homogeneous findings similar to
+that observed for majority reads, eg, HR values from the analyses of CDR-SB event ranged
+from 1.49 to 1.70 for Study 1, and the corresponding RR values ranged from 1.25 to 1.46
+for Study 2 (eTable 2 in the <xref ref-type="supplementary-material" rid="note-NOI200102-1-s">Supplement</xref>). The mean changes of each end point
+assessment by visual classification from individual reader&#x02019;s reads were also similar
+to those found using majority reads (eTable 3 in the <xref ref-type="supplementary-material" rid="note-NOI200102-1-s">Supplement</xref>).</p><p>The interaction of amyloid and tau on clinical progression was shown in eFigure 2 in the
+<xref ref-type="supplementary-material" rid="note-NOI200102-1-s">Supplement</xref>.
+Among Study 1 participants, compared with the A&#x003b2;&#x02212; group, the A&#x003b2;+/advanced
+AD pattern group showed significantly greater CDR-SB progression (mean change, 1.99 vs
+0.72; <italic>P</italic>&#x02009;=&#x02009;.02), whereas the A&#x003b2;+/nonadvanced group
+progressed similarly to the A&#x003b2;&#x02212; group (0.86 vs 0.72;
+<italic>P</italic>&#x02009;=&#x02009;.84). The comparison between A&#x003b2;+/advanced and
+A&#x003b2;+/nonadvanced group yielded a <italic>P</italic> value at .10. Similar trends were
+observed for other end point assessments.</p><p>Impairment severity level at baseline was positively associated with participants&#x02019;
+clinical progression. For example, the entire population (regardless of tau status) had
+CDR-SB deteriorated from 0.51 to 3.61 points ranging from the healthiest to the most
+impaired MMSE baseline level (eFigure 3 in the <xref ref-type="supplementary-material" rid="note-NOI200102-1-s">Supplement</xref>). However, at each MMSE level, participants
+with an advanced AD pattern on average had a greater deterioration, eg, CDR-SB changed
+0.98 to 3.97 points for advanced, whereas &#x02212;0.20 to 2.02 points for nonadvanced AD
+group across these MMSE levels. The analysis results with other end point assessments were
+similar.</p></sec></sec><sec id="H1-4-NOI200102"><title>Discussion</title><p>The association between flortaucipir scan pattern and clinical progression over 18 months
+was assessed in 2 clinical studies comprising 364 cognitively impaired participants with a
+range of demographic characteristics, and clinical presentations similar to patients often
+seen in a clinical practice setting. The results indicated that an advanced AD flortaucipir
+pattern was associated with increased risk of clinical progression over 18 months, as
+demonstrated by higher event rates and larger mean deteriorations across all the clinical
+end point measurements. These were almost always statistically different from the
+nonadvanced AD pattern group, except for a few end points analyzed at the individual study
+level.</p><p>Risk ratios for pooled data ranged from approximately 1.4 to 1.8. Although this level of
+risk prediction may seem modest, it must be taken in context of other risk factors patients
+have for progression and that we studied only 18 months of change in a disease that may have
+a 20- to 30-year natural history.<sup><xref rid="noi200102r31" ref-type="bibr">31</xref></sup> While the flortaucipir scan pattern is an important risk factor, it is
+likely not the sole determinant of near-term cognitive decline in AD. This is consistent
+with our understanding of AD, which occurs against a background of genetically and
+experientially determined cognitive reserve, concomitant diseases, and age-related changes,
+which may positively or negatively modulate the effects of underlying AD pathology and rates
+of progression. A diagnosis of AD itself comes with a significant increased risk of
+long-term cognitive and functional decline.<sup><xref rid="noi200102r31" ref-type="bibr">31</xref></sup> Difficulty in predicting an exact outcome for individual patients is
+not unique to AD. Clinical models of cardiovascular risk assessment demonstrated similar
+modest levels of risk prediction.<sup><xref rid="noi200102r32" ref-type="bibr">32</xref>,<xref rid="noi200102r33" ref-type="bibr">33</xref>,<xref rid="noi200102r34" ref-type="bibr">34</xref>,<xref rid="noi200102r35" ref-type="bibr">35</xref></sup>
+Therefore, despite relatively modest effect size, flortaucipir scan patterns may provide
+clinically relevant prognostic information for AD patient management.</p><p>Although statistical significance was not met for all tests, data for each study similarly
+showed that the advanced AD pattern group was at an increased risk of clinical progression.
+For example, while Study 1 showed a borderline statistical significance for the primary end
+point assessment, Study 2 met the same prespecified criteria for the primary hypothesis (1
+point or more increase in CDR-SB). The sample size difference might contribute to the
+different level of significance observed (111 vs 205 completers for Studies 1 and 2,
+respectively). Nevertheless, quantitatively assessed clinical deterioration (<xref ref-type="fig" rid="noi200102f3">Figure 3</xref>; <xref rid="noi200102t2" ref-type="table">Table 2</xref>) demonstrated a statistically significantly higher risk associated with an
+advanced AD scan pattern in all clinical measurements, and from both studies. It is also
+worth noting that the magnitude of changes observed from the advanced AD pattern group were
+about 2-fold or larger than the other group.</p><p>Although the designs and analyses in Study 1 and Study 2 are similar, there are several
+important differences. Study 1 was designed to investigate a range of patients similar to
+those in a real-world clinical practice environment. Therefore, cognitively impaired
+participants were not required to meet established probable AD diagnosis criteria.<sup><xref rid="noi200102r29" ref-type="bibr">29</xref>,<xref rid="noi200102r30" ref-type="bibr">30</xref></sup> In this study, only 64% of participants were A&#x003b2;+, and the dementia
+participants with a suspected neurodegenerative cause (n&#x02009;=&#x02009;62) included 5
+participants with dementia where AD was part of the differential diagnosis but was not the
+primary suspected diagnosis. In contrast, Study 2 participants were required to be A&#x003b2;+,
+with either MCI or probable AD. These characteristics together with the additional inclusion
+criterion of a score 85 or less on the Repeatable Battery for the Assessment of
+Neuropsychological Status Update memory index, suggest that Study 2 may have been biased
+toward a more-impaired/more-likely-to-progress population, despite the more liberal MMSE
+upper limit (30 vs 27 in Study 1). Arguably, Study 2 data, based on a more homogeneous and
+A&#x003b2;+ population, provides a more rigorous estimate of the role of tau in progression in
+AD-spectrum patients. Nevertheless, flortaucipir scan pattern data showed similar results
+across both studies in predicting clinical progression.</p><p>It is important to understand the interaction between amyloid and tau because they usually
+coexist in these patients. The A&#x003b2;&#x02212; participants enrolled in Study 1 provided an
+opportunity to understand this effect. The ordinal association (A&#x003b2;+/advanced AD to
+A&#x003b2;+/nonadvanced AD to A&#x003b2;&#x02212; in progression) as shown in eFigure 2 in the <xref ref-type="supplementary-material" rid="note-NOI200102-1-s">Supplement</xref> indicated
+that although amyloid status influences clinical progression, an advanced AD tau pattern may
+have a more direct association with near-term clinical progression and provides additional
+information beyond amyloid.</p><p>It is also important to consider that 21% of the nonadvanced AD pattern participants
+(n&#x02009;=&#x02009;26 of 124) had a moderate AD pattern, and most of them (n&#x02009;=&#x02009;24
+of 26) were A&#x003b2;+. Thus, these moderate AD pattern participants likely had both hallmark
+pathologies of AD and would be expected to show some cognitive deterioration over 18 months.
+Indeed, in the pooled study data (eFigure 1 in the <xref ref-type="supplementary-material" rid="note-NOI200102-1-s">Supplement</xref>), at month 18, all 3 pattern groups had some
+clinical progression, in the order of advanced AD pattern group, moderate AD pattern group,
+and negative AD pattern group. Nevertheless, except for the FAQ, mean changes between
+moderate and negative AD pattern groups were not statistically different. These data appear
+to support the prespecified hypothesis for both studies, that an advanced AD pattern would
+be more informative when predicting participants&#x02019; near-term clinical progression than
+other patterns.</p><sec id="H2-8-NOI200102"><title>Limitations</title><p>The study had several limitations. To provide a potentially clinically applicable patient
+stratification, both the visual interpretation and the primary end points were
+dichotomized (eg, advanced/nonadvanced AD pattern; CDR-SB worsening 1 point or more).
+However, AD is a continuous, progressive pathology. Hence, the analyses here may not
+provide the most precise representation of the associations between baseline tau and
+cognitive progression. Additionally, as an observational study, only 69% of Study 1
+participants (n&#x02009;=&#x02009;111 of 160) completed the 18-month follow-up. Loss of
+follow-up may have affected the efficacy evaluation, possibly reflected in the borderline
+significant <italic>P</italic> value for the primary analysis. Study 2 participants were
+selected from AMARANTH trial. Although this study was terminated early and primary
+efficacy analyses demonstrated no therapeutic effect, there may have been an undetected
+effect of therapy on cognitive change that could alter the association between baseline
+tau levels and cognitive change. Treatment was entered as a factor in all Study 2
+statistical models, and no significant interactions were found. As a result, the pooled
+analyses were not adjusted for treatment effect.</p><p>Lastly, at baseline, participants with an advanced AD pattern were more cognitively
+impaired (<xref rid="noi200102t2" ref-type="table">Table 2</xref>). Although the baseline
+differences are relatively small, and the studies specifically constrained the baseline
+MMSE range to obtain a more homogeneous sample, it would be expected that more severe
+patients would deteriorate faster. Thus, analyses were corrected for respective baseline
+cognitive or functional scores. Statistically significant differences in progression by
+scan patterns were observed while controlling for this possible confounding effect. In
+addition, baseline MMSE associated with clinical progression independent of tau pattern,
+as expected (eFigure 3 in the <xref ref-type="supplementary-material" rid="note-NOI200102-1-s">Supplement</xref>). However, at any baseline MMSE level, the
+advanced AD group consistently had more progression than the nonadvanced AD group. This
+suggests that flortaucipir scan patterns provided additional information to understand
+patients&#x02019; clinical progression in addition to other clinical data.</p></sec></sec><sec id="H1-5-NOI200102"><title>Conclusions</title><p>In summary, data from 2 independent studies consistently demonstrated that participants
+with a flortaucipir advanced AD tau pattern are at a higher risk of clinically meaningful
+deterioration. Thus, flortaucipir PET, interpreted with a clinically applicable visual
+method, could provide helpful information regarding anticipated clinical decline in the
+management of patients being assessed for causes of cognitive impairment.</p></sec></body><back><ref-list id="REF-NOI200102"><title>References</title><ref id="noi200102r1"><label>1</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Goedert</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Jakes</surname>
+<given-names>R</given-names></string-name></person-group>. <article-title>Mutations
+causing neurodegenerative tauopathies</article-title>. <source>Biochim Biophys
+Acta</source>.
+<year>2005</year>;<volume>1739</volume>(<issue>2-3</issue>):<fpage>240</fpage>-<lpage>250</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/j.bbadis.2004.08.007</pub-id><pub-id pub-id-type="pmid">15615642</pub-id></mixed-citation></ref><ref id="noi200102r2"><label>2</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Kidd</surname>
+<given-names>M</given-names></string-name></person-group>. <article-title>Paired
+helical filaments in electron microscopy of Alzheimer&#x02019;s disease</article-title>.
+<source>Nature</source>.
+<year>1963</year>;<volume>197</volume>:<fpage>192</fpage>-<lpage>193</lpage>.
+doi:<pub-id pub-id-type="doi">10.1038/197192b0</pub-id><pub-id pub-id-type="pmid">14032480</pub-id></mixed-citation></ref><ref id="noi200102r3"><label>3</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Masters</surname>
+<given-names>CL</given-names></string-name>, <string-name><surname>Simms</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Weinman</surname>
+<given-names>NA</given-names></string-name>, <string-name><surname>Multhaup</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>McDonald</surname>
+<given-names>BL</given-names></string-name>,
+<string-name><surname>Beyreuther</surname>
+<given-names>K</given-names></string-name></person-group>. <article-title>Amyloid
+plaque core protein in Alzheimer disease and Down syndrome</article-title>. <source>Proc
+Natl Acad Sci U S A</source>.
+<year>1985</year>;<volume>82</volume>(<issue>12</issue>):<fpage>4245</fpage>-<lpage>4249</lpage>.
+doi:<pub-id pub-id-type="doi">10.1073/pnas.82.12.4245</pub-id><pub-id pub-id-type="pmid">3159021</pub-id></mixed-citation></ref><ref id="noi200102r4"><label>4</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Hyman</surname>
+<given-names>BT</given-names></string-name>, <string-name><surname>Phelps</surname>
+<given-names>CH</given-names></string-name>, <string-name><surname>Beach</surname>
+<given-names>TG</given-names></string-name>, <etal/></person-group>.
+<article-title>National Institute on Aging-Alzheimer&#x02019;s Association guidelines for
+the neuropathologic assessment of Alzheimer&#x02019;s disease</article-title>.
+<source>Alzheimers Dement</source>.
+<year>2012</year>;<volume>8</volume>(<issue>1</issue>):<fpage>1</fpage>-<lpage>13</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/j.jalz.2011.10.007</pub-id><pub-id pub-id-type="pmid">22265587</pub-id></mixed-citation></ref><ref id="noi200102r5"><label>5</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Arriagada</surname>
+<given-names>PV</given-names></string-name>, <string-name><surname>Growdon</surname>
+<given-names>JH</given-names></string-name>,
+<string-name><surname>Hedley-Whyte</surname>
+<given-names>ET</given-names></string-name>, <string-name><surname>Hyman</surname>
+<given-names>BT</given-names></string-name></person-group>.
+<article-title>Neurofibrillary tangles but not senile plaques parallel duration and
+severity of Alzheimer&#x02019;s disease</article-title>. <source>Neurology</source>.
+<year>1992</year>;<volume>42</volume>(<issue>3 Pt
+1</issue>):<fpage>631</fpage>-<lpage>639</lpage>. doi:<pub-id pub-id-type="doi">10.1212/WNL.42.3.631</pub-id><pub-id pub-id-type="pmid">1549228</pub-id></mixed-citation></ref><ref id="noi200102r6"><label>6</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Wilcock</surname>
+<given-names>GK</given-names></string-name>, <string-name><surname>Esiri</surname>
+<given-names>MM</given-names></string-name></person-group>. <article-title>Plaques,
+tangles and dementia: a quantitative study</article-title>. <source>J Neurol
+Sci</source>.
+<year>1982</year>;<volume>56</volume>(<issue>2-3</issue>):<fpage>343</fpage>-<lpage>356</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/0022-510X(82)90155-1</pub-id><pub-id pub-id-type="pmid">7175555</pub-id></mixed-citation></ref><ref id="noi200102r7"><label>7</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Cummings</surname>
+<given-names>BJ</given-names></string-name>, <string-name><surname>Pike</surname>
+<given-names>CJ</given-names></string-name>, <string-name><surname>Shankle</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Cotman</surname>
+<given-names>CW</given-names></string-name></person-group>.
+<article-title>Beta-amyloid deposition and other measures of neuropathology predict
+cognitive status in Alzheimer&#x02019;s disease</article-title>. <source>Neurobiol
+Aging</source>.
+<year>1996</year>;<volume>17</volume>(<issue>6</issue>):<fpage>921</fpage>-<lpage>933</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/S0197-4580(96)00170-4</pub-id><pub-id pub-id-type="pmid">9363804</pub-id></mixed-citation></ref><ref id="noi200102r8"><label>8</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Braak</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Braak</surname>
+<given-names>E</given-names></string-name></person-group>. <article-title>Staging of
+Alzheimer&#x02019;s disease-related neurofibrillary changes</article-title>.
+<source>Neurobiol Aging</source>.
+<year>1995</year>;<volume>16</volume>(<issue>3</issue>):<fpage>271</fpage>-<lpage>278</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/0197-4580(95)00021-6</pub-id><pub-id pub-id-type="pmid">7566337</pub-id></mixed-citation></ref><ref id="noi200102r9"><label>9</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Nelson</surname>
+<given-names>PT</given-names></string-name>, <string-name><surname>Braak</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Markesbery</surname>
+<given-names>WR</given-names></string-name></person-group>.
+<article-title>Neuropathology and cognitive impairment in Alzheimer disease: a complex
+but coherent relationship</article-title>. <source>J Neuropathol Exp Neurol</source>.
+<year>2009</year>;<volume>68</volume>(<issue>1</issue>):<fpage>1</fpage>-<lpage>14</lpage>.
+doi:<pub-id pub-id-type="doi">10.1097/NEN.0b013e3181919a48</pub-id><pub-id pub-id-type="pmid">19104448</pub-id></mixed-citation></ref><ref id="noi200102r10"><label>10</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Berg</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>McKeel</surname>
+<given-names>DW</given-names>
+<suffix>Jr</suffix></string-name>, <string-name><surname>Miller</surname>
+<given-names>JP</given-names></string-name>, <etal/></person-group>.
+<article-title>Clinicopathologic studies in cognitively healthy aging and
+Alzheimer&#x02019;s disease: relation of histologic markers to dementia severity, age,
+sex, and apolipoprotein E genotype</article-title>. <source>Arch Neurol</source>.
+<year>1998</year>;<volume>55</volume>(<issue>3</issue>):<fpage>326</fpage>-<lpage>335</lpage>.
+doi:<pub-id pub-id-type="doi">10.1001/archneur.55.3.326</pub-id><pub-id pub-id-type="pmid">9520006</pub-id></mixed-citation></ref><ref id="noi200102r11"><label>11</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Bennett</surname>
+<given-names>DA</given-names></string-name>, <string-name><surname>Schneider</surname>
+<given-names>JA</given-names></string-name>, <string-name><surname>Wilson</surname>
+<given-names>RS</given-names></string-name>, <string-name><surname>Bienias</surname>
+<given-names>JL</given-names></string-name>, <string-name><surname>Arnold</surname>
+<given-names>SE</given-names></string-name></person-group>.
+<article-title>Neurofibrillary tangles mediate the association of amyloid load with
+clinical Alzheimer disease and level of cognitive function</article-title>. <source>Arch
+Neurol</source>.
+<year>2004</year>;<volume>61</volume>(<issue>3</issue>):<fpage>378</fpage>-<lpage>384</lpage>.
+doi:<pub-id pub-id-type="doi">10.1001/archneur.61.3.378</pub-id><pub-id pub-id-type="pmid">15023815</pub-id></mixed-citation></ref><ref id="noi200102r12"><label>12</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Fleisher</surname>
+<given-names>AS</given-names></string-name>,
+<string-name><surname>Pontecorvo</surname>
+<given-names>MJ</given-names></string-name>, <string-name><surname>Devous</surname>
+<given-names>MD</given-names>
+<suffix>Sr</suffix></string-name>, <etal/>; <collab>A16 Study
+Investigators</collab></person-group>. <article-title>Positron Emission Tomography
+Imaging With [18F]flortaucipir and Postmortem Assessment of Alzheimer Disease
+Neuropathologic Changes</article-title>. <source>JAMA Neurol</source>.
+<year>2020</year>;<volume>77</volume>(<issue>7</issue>):<fpage>829</fpage>-<lpage>839</lpage>.
+doi:<pub-id pub-id-type="doi">10.1001/jamaneurol.2020.0528</pub-id><pub-id pub-id-type="pmid">32338734</pub-id></mixed-citation></ref><ref id="noi200102r13"><label>13</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Chien</surname>
+<given-names>DT</given-names></string-name>, <string-name><surname>Bahri</surname>
+<given-names>S</given-names></string-name>,
+<string-name><surname>Szardenings</surname>
+<given-names>AK</given-names></string-name>, <etal/></person-group>.
+<article-title>Early clinical PET imaging results with the novel PHF-tau radioligand
+[F-18]-T807</article-title>. <source>J Alzheimers Dis</source>.
+<year>2013</year>;<volume>34</volume>(<issue>2</issue>):<fpage>457</fpage>-<lpage>468</lpage>.
+doi:<pub-id pub-id-type="doi">10.3233/JAD-122059</pub-id><pub-id pub-id-type="pmid">23234879</pub-id></mixed-citation></ref><ref id="noi200102r14"><label>14</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Xia</surname>
+<given-names>CF</given-names></string-name>, <string-name><surname>Arteaga</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Chen</surname>
+<given-names>G</given-names></string-name>, <etal/></person-group>.
+<article-title>[(18)F]T807, a novel tau positron emission tomography imaging agent for
+Alzheimer&#x02019;s disease</article-title>. <source>Alzheimers Dement</source>.
+<year>2013</year>;<volume>9</volume>(<issue>6</issue>):<fpage>666</fpage>-<lpage>676</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/j.jalz.2012.11.008</pub-id><pub-id pub-id-type="pmid">23411393</pub-id></mixed-citation></ref><ref id="noi200102r15"><label>15</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Cho</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Choi</surname>
+<given-names>JY</given-names></string-name>, <string-name><surname>Hwang</surname>
+<given-names>MS</given-names></string-name>, <etal/></person-group>. <article-title>In
+vivo cortical spreading pattern of tau and amyloid in the Alzheimer disease
+spectrum</article-title>. <source>Ann Neurol</source>.
+<year>2016</year>;<volume>80</volume>(<issue>2</issue>):<fpage>247</fpage>-<lpage>258</lpage>.
+doi:<pub-id pub-id-type="doi">10.1002/ana.24711</pub-id><pub-id pub-id-type="pmid">27323247</pub-id></mixed-citation></ref><ref id="noi200102r16"><label>16</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Johnson</surname>
+<given-names>KA</given-names></string-name>, <string-name><surname>Schultz</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Betensky</surname>
+<given-names>RA</given-names></string-name>, <etal/></person-group>.
+<article-title>Tau positron emission tomographic imaging in aging and early Alzheimer
+disease</article-title>. <source>Ann Neurol</source>.
+<year>2016</year>;<volume>79</volume>(<issue>1</issue>):<fpage>110</fpage>-<lpage>119</lpage>.
+doi:<pub-id pub-id-type="doi">10.1002/ana.24546</pub-id><pub-id pub-id-type="pmid">26505746</pub-id></mixed-citation></ref><ref id="noi200102r17"><label>17</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Ossenkoppele</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Schonhaut</surname>
+<given-names>DR</given-names></string-name>,
+<string-name><surname>Sch&#x000f6;ll</surname>
+<given-names>M</given-names></string-name>, <etal/></person-group>. <article-title>Tau
+PET patterns mirror clinical and neuroanatomical variability in Alzheimer&#x02019;s
+disease</article-title>. <source>Brain</source>.
+<year>2016</year>;<volume>139</volume>(<issue>Pt
+5</issue>):<fpage>1551</fpage>-<lpage>1567</lpage>. doi:<pub-id pub-id-type="doi">10.1093/brain/aww027</pub-id><pub-id pub-id-type="pmid">26962052</pub-id></mixed-citation></ref><ref id="noi200102r18"><label>18</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Bejanin</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Schonhaut</surname>
+<given-names>DR</given-names></string-name>, <string-name><surname>La Joie</surname>
+<given-names>R</given-names></string-name>, <etal/></person-group>. <article-title>Tau
+pathology and neurodegeneration contribute to cognitive impairment in Alzheimer&#x02019;s
+disease</article-title>. <source>Brain</source>.
+<year>2017</year>;<volume>140</volume>(<issue>12</issue>):<fpage>3286</fpage>-<lpage>3300</lpage>.
+doi:<pub-id pub-id-type="doi">10.1093/brain/awx243</pub-id><pub-id pub-id-type="pmid">29053874</pub-id></mixed-citation></ref><ref id="noi200102r19"><label>19</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Maass</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Landau</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Baker</surname>
+<given-names>SL</given-names></string-name>, <etal/>; <collab>Alzheimer&#x02019;s
+Disease Neuroimaging Initiative</collab></person-group>. <article-title>Comparison of
+multiple tau-PET measures as biomarkers in aging and Alzheimer&#x02019;s
+disease</article-title>. <source>Neuroimage</source>.
+<year>2017</year>;<volume>157</volume>:<fpage>448</fpage>-<lpage>463</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/j.neuroimage.2017.05.058</pub-id><pub-id pub-id-type="pmid">28587897</pub-id></mixed-citation></ref><ref id="noi200102r20"><label>20</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Pontecorvo</surname>
+<given-names>MJ</given-names></string-name>, <string-name><surname>Devous</surname>
+<given-names>MD</given-names>
+<suffix>Sr</suffix></string-name>, <string-name><surname>Navitsky</surname>
+<given-names>M</given-names></string-name>, <etal/>; <collab>18F-AV-1451-A05
+investigators</collab></person-group>. <article-title>Relationships between
+flortaucipir PET tau binding and amyloid burden, clinical diagnosis, age and
+cognition</article-title>. <source>Brain</source>.
+<year>2017</year>;<volume>140</volume>(<issue>3</issue>):<fpage>748</fpage>-<lpage>763</lpage>.
+doi:<pub-id pub-id-type="doi">10.1093/brain/aww334</pub-id><pub-id pub-id-type="pmid">28077397</pub-id></mixed-citation></ref><ref id="noi200102r21"><label>21</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Tosun</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Landau</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Aisen</surname>
+<given-names>PS</given-names></string-name>, <etal/>; <collab>Alzheimer&#x02019;s
+Disease Neuroimaging Initiative</collab></person-group>. <article-title>Association
+between tau deposition and antecedent amyloid-&#x003b2; accumulation rates in normal and
+early symptomatic individuals</article-title>. <source>Brain</source>.
+<year>2017</year>;<volume>140</volume>(<issue>5</issue>):<fpage>1499</fpage>-<lpage>1512</lpage>.
+doi:<pub-id pub-id-type="doi">10.1093/brain/awx046</pub-id><pub-id pub-id-type="pmid">28334939</pub-id></mixed-citation></ref><ref id="noi200102r22"><label>22</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Maass</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Lockhart</surname>
+<given-names>SN</given-names></string-name>, <string-name><surname>Harrison</surname>
+<given-names>TM</given-names></string-name>, <etal/></person-group>.
+<article-title>Entorhinal tau pathology, episodic memory decline, and neurodegeneration
+in aging</article-title>. <source>J Neurosci</source>.
+<year>2018</year>;<volume>38</volume>(<issue>3</issue>):<fpage>530</fpage>-<lpage>543</lpage>.
+doi:<pub-id pub-id-type="doi">10.1523/JNEUROSCI.2028-17.2017</pub-id><pub-id pub-id-type="pmid">29192126</pub-id></mixed-citation></ref><ref id="noi200102r23"><label>23</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Knopman</surname>
+<given-names>DS</given-names></string-name>, <string-name><surname>Lundt</surname>
+<given-names>ES</given-names></string-name>, <string-name><surname>Therneau</surname>
+<given-names>TM</given-names></string-name>, <etal/></person-group>.
+<article-title>Entorhinal cortex tau, amyloid-&#x003b2;, cortical thickness and memory
+performance in non-demented subjects</article-title>. <source>Brain</source>.
+<year>2019</year>;<volume>142</volume>(<issue>4</issue>):<fpage>1148</fpage>-<lpage>1160</lpage>.
+doi:<pub-id pub-id-type="doi">10.1093/brain/awz025</pub-id><pub-id pub-id-type="pmid">30759182</pub-id></mixed-citation></ref><ref id="noi200102r24"><label>24</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Lowe</surname>
+<given-names>VJ</given-names></string-name>, <string-name><surname>Bruinsma</surname>
+<given-names>TJ</given-names></string-name>, <string-name><surname>Wiste</surname>
+<given-names>HJ</given-names></string-name>, <etal/></person-group>.
+<article-title>Cross-sectional associations of tau-PET signal with cognition in
+cognitively unimpaired adults</article-title>. <source>Neurology</source>.
+<year>2019</year>;<volume>93</volume>(<issue>1</issue>):<fpage>e29</fpage>-<lpage>e39</lpage>.
+doi:<pub-id pub-id-type="doi">10.1212/WNL.0000000000007728</pub-id><pub-id pub-id-type="pmid">31147421</pub-id></mixed-citation></ref><ref id="noi200102r25"><label>25</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Sperling</surname>
+<given-names>RA</given-names></string-name>, <string-name><surname>Mormino</surname>
+<given-names>EC</given-names></string-name>, <string-name><surname>Schultz</surname>
+<given-names>AP</given-names></string-name>, <etal/></person-group>.
+<article-title>The impact of amyloid-beta and tau on prospective cognitive decline in
+older individuals</article-title>. <source>Ann Neurol</source>.
+<year>2019</year>;<volume>85</volume>(<issue>2</issue>):<fpage>181</fpage>-<lpage>193</lpage>.
+doi:<pub-id pub-id-type="doi">10.1002/ana.25395</pub-id><pub-id pub-id-type="pmid">30549303</pub-id></mixed-citation></ref><ref id="noi200102r26"><label>26</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Pontecorvo</surname>
+<given-names>MJ</given-names></string-name>, <string-name><surname>Devous</surname>
+<given-names>MD</given-names></string-name>, <string-name><surname>Kennedy</surname>
+<given-names>I</given-names></string-name>, <etal/></person-group>. <article-title>A
+multicentre longitudinal study of flortaucipir (18F) in normal ageing, mild cognitive
+impairment and Alzheimer&#x02019;s disease dementia</article-title>.
+<source>Brain</source>.
+<year>2019</year>;<volume>142</volume>(<issue>6</issue>):<fpage>1723</fpage>-<lpage>1735</lpage>.
+doi:<pub-id pub-id-type="doi">10.1093/brain/awz090</pub-id><pub-id pub-id-type="pmid">31009046</pub-id></mixed-citation></ref><ref id="noi200102r27"><label>27</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Cho</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Choi</surname>
+<given-names>JY</given-names></string-name>, <string-name><surname>Lee</surname>
+<given-names>HS</given-names></string-name>, <etal/></person-group>.
+<article-title>Progressive tau accumulation in Alzheimer disease: 2-year follow-up
+study</article-title>. <source>J Nucl Med</source>.
+<year>2019</year>;<volume>60</volume>(<issue>11</issue>):<fpage>1611</fpage>-<lpage>1621</lpage>.
+doi:<pub-id pub-id-type="doi">10.2967/jnumed.118.221697</pub-id><pub-id pub-id-type="pmid">30926651</pub-id></mixed-citation></ref><ref id="noi200102r28"><label>28</label><mixed-citation publication-type="journal"><article-title>World Medical Association
+declaration of Helsinki: recommendations guiding physicians in biomedical research
+involving human subjects</article-title>. <source>JAMA</source>.
+<year>1997</year>;<volume>277</volume>(<issue>11</issue>):<fpage>925</fpage>-<lpage>926</lpage>.
+doi:<pub-id pub-id-type="doi">10.1001/jama.1997.03540350075038</pub-id><pub-id pub-id-type="pmid">9062334</pub-id></mixed-citation></ref><ref id="noi200102r29"><label>29</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Albert</surname>
+<given-names>MS</given-names></string-name>, <string-name><surname>DeKosky</surname>
+<given-names>ST</given-names></string-name>, <string-name><surname>Dickson</surname>
+<given-names>D</given-names></string-name>, <etal/></person-group>. <article-title>The
+diagnosis of mild cognitive impairment due to Alzheimer&#x02019;s disease: recommendations
+from the National Institute on Aging-Alzheimer&#x02019;s Association workgroups on
+diagnostic guidelines for Alzheimer&#x02019;s disease</article-title>. <source>Alzheimers
+Dement</source>.
+<year>2011</year>;<volume>7</volume>(<issue>3</issue>):<fpage>270</fpage>-<lpage>279</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/j.jalz.2011.03.008</pub-id><pub-id pub-id-type="pmid">21514249</pub-id></mixed-citation></ref><ref id="noi200102r30"><label>30</label><mixed-citation publication-type="journal"><person-group><string-name><surname>McKhann</surname>
+<given-names>GM</given-names></string-name>, <string-name><surname>Knopman</surname>
+<given-names>DS</given-names></string-name>, <string-name><surname>Chertkow</surname>
+<given-names>H</given-names></string-name>, <etal/></person-group>. <article-title>The
+diagnosis of dementia due to Alzheimer&#x02019;s disease: recommendations from the
+National Institute on Aging-Alzheimer&#x02019;s Association workgroups on diagnostic
+guidelines for Alzheimer&#x02019;s disease</article-title>. <source>Alzheimers
+Dement</source>.
+<year>2011</year>;<volume>7</volume>(<issue>3</issue>):<fpage>263</fpage>-<lpage>269</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/j.jalz.2011.03.005</pub-id><pub-id pub-id-type="pmid">21514250</pub-id></mixed-citation></ref><ref id="noi200102r31"><label>31</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Jack</surname>
+<given-names>CR</given-names>
+<suffix>Jr</suffix></string-name>, <string-name><surname>Knopman</surname>
+<given-names>DS</given-names></string-name>, <string-name><surname>Jagust</surname>
+<given-names>WJ</given-names></string-name>, <etal/></person-group>.
+<article-title>Tracking pathophysiological processes in Alzheimer&#x02019;s disease: an
+updated hypothetical model of dynamic biomarkers</article-title>. <source>Lancet
+Neurol</source>.
+<year>2013</year>;<volume>12</volume>(<issue>2</issue>):<fpage>207</fpage>-<lpage>216</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/S1474-4422(12)70291-0</pub-id><pub-id pub-id-type="pmid">23332364</pub-id></mixed-citation></ref><ref id="noi200102r32"><label>32</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Skrtic</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Cabrera</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Olsson</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Schnecke</surname>
+<given-names>V</given-names></string-name>, <string-name><surname>Lind</surname>
+<given-names>M</given-names></string-name></person-group>. <article-title>Contemporary
+risk estimates of three HbA<sub>1c</sub> variables in relation to heart failure
+following diagnosis of type 2 diabetes</article-title>. <source>Heart</source>.
+<year>2017</year>;<volume>103</volume>(<issue>5</issue>):<fpage>353</fpage>-<lpage>358</lpage>.
+doi:<pub-id pub-id-type="doi">10.1136/heartjnl-2016-309806</pub-id><pub-id pub-id-type="pmid">27647169</pub-id></mixed-citation></ref><ref id="noi200102r33"><label>33</label><mixed-citation publication-type="journal"><person-group><string-name><surname>McNeil</surname>
+<given-names>JJ</given-names></string-name>, <string-name><surname>Wolfe</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Woods</surname>
+<given-names>RL</given-names></string-name>, <etal/>; <collab>ASPREE Investigator
+Group</collab></person-group>. <article-title>Effect of aspirin on cardiovascular
+events and bleeding in the healthy elderly</article-title>. <source>N Engl J
+Med</source>.
+<year>2018</year>;<volume>379</volume>(<issue>16</issue>):<fpage>1509</fpage>-<lpage>1518</lpage>.
+doi:<pub-id pub-id-type="doi">10.1056/NEJMoa1805819</pub-id><pub-id pub-id-type="pmid">30221597</pub-id></mixed-citation></ref><ref id="noi200102r34"><label>34</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Elder</surname>
+<given-names>RW</given-names></string-name>, <string-name><surname>Wu</surname>
+<given-names>FM</given-names></string-name></person-group>. <article-title>Clinical
+approaches to the patient with a failing fontan procedure</article-title>. <source>Curr
+Cardiol Rep</source>.
+<year>2016</year>;<volume>18</volume>(<issue>5</issue>):<fpage>44</fpage>. doi:<pub-id pub-id-type="doi">10.1007/s11886-016-0716-y</pub-id><pub-id pub-id-type="pmid">27002620</pub-id></mixed-citation></ref><ref id="noi200102r35"><label>35</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Wilson</surname>
+<given-names>PW</given-names></string-name>,
+<string-name><surname>D&#x02019;Agostino</surname>
+<given-names>RB</given-names></string-name>, <string-name><surname>Levy</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Belanger</surname>
+<given-names>AM</given-names></string-name>,
+<string-name><surname>Silbershatz</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Kannel</surname>
+<given-names>WB</given-names></string-name></person-group>. <article-title>Prediction
+of coronary heart disease using risk factor categories</article-title>.
+<source>Circulation</source>.
+<year>1998</year>;<volume>97</volume>(<issue>18</issue>):<fpage>1837</fpage>-<lpage>1847</lpage>.
+doi:<pub-id pub-id-type="doi">10.1161/01.CIR.97.18.1837</pub-id><pub-id pub-id-type="pmid">9603539</pub-id></mixed-citation></ref><ref id="noi200102r36"><label>36</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Thal</surname>
+<given-names>DR</given-names></string-name>, <string-name><surname>R&#x000fc;b</surname>
+<given-names>U</given-names></string-name>, <string-name><surname>Orantes</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Braak</surname>
+<given-names>H</given-names></string-name></person-group>. <article-title>Phases of A
+beta-deposition in the human brain and its relevance for the development of
+AD</article-title>. <source>Neurology</source>.
+<year>2002</year>;<volume>58</volume>(<issue>12</issue>):<fpage>1791</fpage>-<lpage>1800</lpage>.
+doi:<pub-id pub-id-type="doi">10.1212/WNL.58.12.1791</pub-id><pub-id pub-id-type="pmid">12084879</pub-id></mixed-citation></ref><ref id="noi200102r37"><label>37</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Duyckaerts</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Uchihara</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Seilhean</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>He</surname>
+<given-names>Y</given-names></string-name>, <string-name><surname>Hauw</surname>
+<given-names>JJ</given-names></string-name></person-group>.
+<article-title>Dissociation of Alzheimer type pathology in a disconnected piece of
+cortex</article-title>. <source>Acta Neuropathol</source>.
+<year>1997</year>;<volume>93</volume>(<issue>5</issue>):<fpage>501</fpage>-<lpage>507</lpage>.
+doi:<pub-id pub-id-type="doi">10.1007/s004010050645</pub-id><pub-id pub-id-type="pmid">9144589</pub-id></mixed-citation></ref><ref id="noi200102r38"><label>38</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Price</surname>
+<given-names>JL</given-names></string-name>, <string-name><surname>Morris</surname>
+<given-names>JC</given-names></string-name></person-group>. <article-title>Tangles and
+plaques in nondemented aging and &#x0201c;preclinical&#x0201d; Alzheimer&#x02019;s
+disease</article-title>. <source>Ann Neurol</source>.
+<year>1999</year>;<volume>45</volume>(<issue>3</issue>):<fpage>358</fpage>-<lpage>368</lpage>.
+doi:<pub-id pub-id-type="doi">10.1002/1531-8249(199903)45:3&#x0003c;358::AID-ANA12&#x0003e;3.0.CO;2-X</pub-id><pub-id pub-id-type="pmid">10072051</pub-id></mixed-citation></ref><ref id="noi200102r39"><label>39</label><mixed-citation publication-type="journal"><person-group><string-name><surname>Crary</surname>
+<given-names>JF</given-names></string-name>,
+<string-name><surname>Trojanowski</surname>
+<given-names>JQ</given-names></string-name>, <string-name><surname>Schneider</surname>
+<given-names>JA</given-names></string-name>, <etal/></person-group>.
+<article-title>Primary age-related tauopathy (PART): a common pathology associated with
+human aging</article-title>. <source>Acta Neuropathol</source>.
+<year>2014</year>;<volume>128</volume>(<issue>6</issue>):<fpage>755</fpage>-<lpage>766</lpage>.
+doi:<pub-id pub-id-type="doi">10.1007/s00401-014-1349-0</pub-id><pub-id pub-id-type="pmid">25348064</pub-id></mixed-citation></ref></ref-list><notes notes-type="supplementary-material" id="note-NOI200102-1"><supplementary-material content-type="local-data" id="note-NOI200102-1-s"><label>Supplement 1.</label><caption><p><bold>eMethods.</bold> PET Imaging Acquisition and Visual Interpretation</p><p><bold>eTable 1.</bold> Inter-reader Consistency of Flortaucipir Scan Visual
+Interpretation</p><p><bold>eTable 2.</bold> Risk for Clinical Progression Based on Individual Reader&#x02019;s
+Visual Interpretation Results: Advanced AD Pattern vs. Non-Advanced AD Pattern </p><p><bold>eTable 3.</bold> Risk for Clinical Progression Based on Individual Reader&#x02019;s
+Visual Interpretation Results: Advanced AD Pattern vs. Non-Advanced AD Pattern </p><p><bold>eFigure 1.</bold> Change from Baseline at 18 Months by Flortaucipir Scan
+Patterns, Pooled Data from Study 1 and Study 2</p><p><bold>eFigure 2.</bold> Change from Baseline Values at Each Follow-up Visit by
+Amyloid-Tau Groups</p><p><bold>eFigure 3.</bold> Change from Baseline: Adjusted Mean Values at 18 Months by
+Baseline MMSE, Pooled Data</p><p><bold>eFigure 4.</bold> Flow Diagram for Subject Enrollment and Disposition</p></caption><media xlink:href="jamaneurol-e205505-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><label>Supplement 2.</label><caption><p>AVID Collaborators</p></caption><media xlink:href="jamaneurol-e205505-s002.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></notes></back></article>

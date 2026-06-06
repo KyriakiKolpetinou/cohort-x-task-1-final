@@ -1,0 +1,1100 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Rev Cardiovasc Med</journal-id><journal-id journal-id-type="iso-abbrev">Rev Cardiovasc Med</journal-id><journal-id journal-id-type="publisher-id">RCM</journal-id><journal-title-group><journal-title>Reviews in Cardiovascular Medicine</journal-title></journal-title-group><issn pub-type="ppub">1530-6550</issn><issn pub-type="epub">2153-8174</issn><publisher><publisher-name>IMR Press</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">40475748</article-id><article-id pub-id-type="pmc">12135639</article-id><article-id pub-id-type="doi">10.31083/RCM27100</article-id><article-id pub-id-type="publisher-id">S1530-6550(25)01776-4</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Cardiac Indices Parameters on the Ultrasonic Cardiac Output Monitor as Potential Indicators to Predict the Ultrafiltration Endpoint Success in Acute Heart Failure Treatment</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0009-0000-3865-4147</contrib-id><name><surname>Li</surname><given-names>Yiou</given-names></name><xref rid="aff1" ref-type="aff"><sup>1</sup>
+</xref><xref rid="fn-1" ref-type="author-notes"><sup>&#x02020;</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0009-0002-0183-2514</contrib-id><name><surname>Chen</surname><given-names>Jiajia</given-names></name><xref rid="aff1" ref-type="aff"><sup>1</sup>
+</xref><xref rid="fn-1" ref-type="author-notes"><sup>&#x02020;</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0009-0006-2719-3625</contrib-id><name><surname>Bian</surname><given-names>Jianye</given-names></name><xref rid="aff1" ref-type="aff"><sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0009-0001-1470-1532</contrib-id><name><surname>Chen</surname><given-names>Fangyuan</given-names></name><xref rid="aff1" ref-type="aff"><sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0009-0007-6509-2726</contrib-id><name><surname>Wan</surname><given-names>Qianli</given-names></name><xref rid="aff1" ref-type="aff"><sup>1</sup>
+</xref><xref rid="cor1" ref-type="corresp"><sup>*</sup>
+</xref><email>wql3084@shtrhospital.com</email></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-6026-2385</contrib-id><name><surname>Yuan</surname><given-names>Fang</given-names></name><xref rid="aff1" ref-type="aff"><sup>1</sup>
+</xref><xref rid="cor1" ref-type="corresp"><sup>*</sup>
+</xref><email>yuanfangysh@126.com; yfangBM@163.com</email></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Mele</surname><given-names>Donato</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="aff1"><sup>1</sup>Department of Critical Care Medicine, Tongren Hospital Shanghai Jiao Tong University School of Medicine, 200336 Shanghai, China
+</aff><author-notes><corresp id="cor1"><sup>*</sup>Correspondence:
+<email>wql3084@shtrhospital.com</email> (Qianli Wan);
+<email>yuanfangysh@126.com</email>;
+<email>yfangBM@163.com</email> (Fang Yuan)
+</corresp><fn id="fn-1"><p><sup>&#x02020;</sup>These authors contributed equally.
+</p></fn></author-notes><pub-date pub-type="epub"><day>22</day><month>5</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>5</month><year>2025</year></pub-date><volume>26</volume><issue>5</issue><elocation-id>27100</elocation-id><history><date date-type="received"><day>23</day><month>10</month><year>2024</year></date><date date-type="rev-recd"><day>25</day><month>1</month><year>2025</year></date><date date-type="accepted"><day>14</day><month>2</month><year>2025</year></date></history><permissions><copyright-statement>Copyright: &#x000a9; 2025 The Author(s). Published by IMR Press.
+</copyright-statement><copyright-year>2025</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">
+CC BY 4.0 license</ext-link>.
+</license-p></license></permissions><abstract><sec><title>Background:</title><p>Ultrafiltration (UF) is an alternative approach to diuretic therapy for the treatment of acute heart failure (AHF), but its optimal endpoint is unclear. This study explores using non-invasive ultrasonic cardiac output monitor (USCOM) to determine UF endpoints based on hemodynamic changes.</p></sec><sec><title>Methods:</title><p>In this single-anonymized, randomized controlled trial, acute decompensated heart failure patients were randomly assigned to UF (U, n = 20) and USCOM+UF (UU, n = 20) groups at a ratio of 1:1. A mixed linear model was utilized to analyze repeated measurement data of hemodynamic indicators (primary endpoint) in the U and UU groups. A 30% or 50% decrease in B-type natriuretic peptide (BNP) concentrations relative to the baseline was established as the criteria for the UF endpoint success. Multivariate logistic regression was used to identify potential indicators within the USCOM that could have influenced the UF endpoint success. Receiver operating characteristic (ROC) curves were used to evaluate the value of the predictive model. Economic benefits, including treatment costs and hospitalization duration, were also assessed.</p></sec><sec><title>Results:</title><p>Change rates in mean arterial pressure, heart rate (HR), urine output, hematocrit, and BNP concentrations were similar between the U and UU groups over 7 days (all <italic toggle="yes">p</italic> &#x0003e; 0.05). On day 4, significant correlations were found between various USCOM parameters, including inotropy (INO), systemic vascular resistance index (SVRI), systemic vascular resistance, corrected flow time (FTc), velocity time integral, and the BNP of the UF parameters. Multivariate logistic regression revealed that INO and SVRI were correlated with a 30% reduction in BNP on day 4 compared to baseline, while FTc and HR were found to be independently associated with a 50% reduction in BNP on day 4 compared to baseline. The UF endpoint prediction formula for a 30% reduction in BNP was &#x02013;2.462 + 0.028 &#x000d7; INO &#x02013; 0.069 &#x000d7; SVRI, with sensitivities, specificities, and accuracies of 70%, 83%, and 75%, respectively. The UF endpoint prediction formula for a 50% reduction of BNP was &#x02013;2.640 &#x02013; 0.088 &#x000d7; FTc &#x02013; 0.036 &#x000d7; HR, with sensitivities, specificities, and accuracies of 83%, 63.0%, and 72.5%, respectively. The addition of the USCOM significantly reduced treatment costs and hospitalization stay lengths.
+</p></sec><sec><title>Conclusions:</title><p>Observing the USCOM using probability formulas served to determine appropriate UF endpoints during AHF treatments. UF combined with the USCOM can reduce the costs of UF and hospitalization.</p></sec><sec><title>Clinical Trial Registration:</title><p>NCT06533124, <uri xlink:href="https://clinicaltrials.gov/study/NCT06533124?term=NCT06533124&#x00026;rank=1">https://clinicaltrials.gov/study/NCT06533124?term=NCT06533124&#x00026;rank=1</uri>.
+</p></sec></abstract><kwd-group kwd-group-type="author"><kwd>ultrasonic cardiac output monitor</kwd><kwd>acute decompensated heart failure</kwd><kwd>brain natriuretic peptide</kwd><kwd>ultrafiltration</kwd><kwd>echocardiography</kwd></kwd-group><funding-group><funding-statement> This research received no external funding. </funding-statement></funding-group></article-meta></front><body><sec id="S1"><title>1. Introduction</title><p id="S1.p1">Acute heart failure (AHF) is a clinical syndrome caused by acute onset or 
+exacerbation of left ventricular dysfunction, leading to decreased myocardial 
+contractility and an increased load on the heart. This syndrome results in an 
+abrupt decrease in cardiac output (CO) and an increase in pulmonary circulation 
+pressure and peripheral vascular resistance, leading to acute pulmonary 
+congestion, pulmonary edema and clinical symptoms that may be accompanied by 
+inadequate tissue and organ perfusion resulting in cardiogenic shock [<xref rid="b1" ref-type="bibr">1</xref>, <xref rid="b2" ref-type="bibr">2</xref>]. The 
+etiology of AHF is undoubtedly complex, but is believed to be related to 
+hemodynamic disturbances [<xref rid="b3" ref-type="bibr">3</xref>, <xref rid="b4" ref-type="bibr">4</xref>]. A recent report found that the in-hospital 
+mortality rate of AHF was 3%, and the 3 and 5 year mortality rates were 30% and 
+60%, respectively [<xref rid="b5" ref-type="bibr">5</xref>], indicating poor prognosis and high mortality. 
+Pharmacological interventions aimed at achieving rapid decongestion and improving 
+organ perfusion include positive inotropic drugs that increase CO, raising blood 
+pressure, alleviation of tissue hypoperfusion and maintenance of the functions of 
+vital organs [<xref rid="b6" ref-type="bibr">6</xref>]. Moreover, the use of diuretics for reducing congestion has been 
+a major treatment mode for AHF patients in clinical practice [<xref rid="b7" ref-type="bibr">7</xref>], but about 20% 
+of patients did not exhibit improved symptoms after treatment with diuretic 
+drugs, and furthermore diuretic resistance occurred in <inline-formula><mml:math id="w1" alttext="&#x0003e;" display="inline" overflow="scroll"><mml:mo>&#x0003e;</mml:mo></mml:math></inline-formula>30% of them [<xref rid="b8" ref-type="bibr">8</xref>, <xref rid="b9" ref-type="bibr">9</xref>].</p><p id="S1.p2">Ultrafiltration (UF) is an alternative approach to diuretic therapy for 
+congestion management, according to the European Society of Cardiology Guidelines 
+for the diagnosis and treatment of AHF and chronic heart failure [<xref rid="b3" ref-type="bibr">3</xref>]. It is 
+advised for patients with obvious volume overload in order to alleviate 
+congestive symptoms and fluid weight (Class IIb, Level of Evidence: B). It has 
+also been found to improve long-term outcomes for patients with acute 
+decompensated heart failure (ADHF) [<xref rid="b10" ref-type="bibr">10</xref>]. The use of UF was shown to have little 
+effect on all-cause mortality over the longest follow-up periods studied, but UF 
+reduced all-cause re-hospitalization rates to <inline-formula><mml:math id="w2" alttext="\leq" display="inline" overflow="scroll"><mml:mo>&#x02264;</mml:mo></mml:math></inline-formula>30 days and at the longest 
+available follow-up [<xref rid="b11" ref-type="bibr">11</xref>], which may be related to the fact that UF therapy could 
+more significantly alleviate volume overload. However, UF may lead to a decline 
+in renal function, mainly manifested as elevated concentrations of serum urea and 
+creatinine, as well as an increased risk of renal failure, bleeding and other 
+complications [<xref rid="b12" ref-type="bibr">12</xref>, <xref rid="b13" ref-type="bibr">13</xref>]. Another study also reported that among patients with ADHF 
+who had worsened renal function and persistent congestion, the occurrence of 
+serious adverse events was higher in those receiving UF treatment compared with 
+those treated with pharmacological therapy [<xref rid="b14" ref-type="bibr">14</xref>]. Moreover, the duration of UF has 
+been shown to be related to the cost of hospitalization of patients, and if UF is 
+continued after attainment, it can further increase the financial burden on 
+patients. Therefore, it would be of great clinical interest to have a predictor 
+of when a patient has reached the endpoint of UF via hemodynamic changes. Hence, 
+the alternative strategy for monitoring UF attainment by one non-invasive device 
+is an endeavor of practical clinical relevance.</p><p id="S1.p3">The ultrasonic cardiac output monitor (USCOM) 1A system (USCOM Ltd., Sydney, 
+Australia) is a non-invasive Doppler stroke volume (SV) technique derived from 
+echocardiography, that has been validated for a CO of 0.12 L/min to 18.3 L/min 
+[<xref rid="b15" ref-type="bibr">15</xref>]. Moreover, it has the advantages of high repeatability, continuous 
+monitoring and cost-effectiveness, and is especially suitable for predicting 
+hemodynamic changes [<xref rid="b16" ref-type="bibr">16</xref>]. Furthermore, there are indicators on USCOM that reflect 
+the volume, such as corrected flow time (FTc) and the systemic vascular 
+resistance index (SVRI) [<xref rid="b17" ref-type="bibr">17</xref>, <xref rid="b18" ref-type="bibr">18</xref>]. Compared with traditional invasive monitoring 
+methods, such as pulse indicator continuous CO and Swan-Ganz floating catheters, 
+USCOM can also obtain accurate and reliable data, and has been verified for both 
+adult and pediatric patients [<xref rid="b19" ref-type="bibr">19</xref>, <xref rid="b20" ref-type="bibr">20</xref>]. USCOM is easy to operate and trainees 
+reached the same level as trainers after 50 operations, with the learning curve 
+for skill acquisition being significantly shorter [<xref rid="b21" ref-type="bibr">21</xref>, <xref rid="b22" ref-type="bibr">22</xref>]. USCOM combined with 
+UF is a valuable tool for cardiologists to diagnose and manage the burden of body 
+fluids, where adjusting UF periods according to USCOM data may well reduce the 
+costs of AHF treatments. However, it remains a challenge to integrate optimally 
+USCOM metrics with UF parameters to determine the exact timing of effective and 
+timely monitoring of the UF endpoint.</p><p id="S1.p4">The detection of B-type natriuretic peptide (BNP) or N-terminal pro-BNP 
+(NT-proBNP) is recommended for screening, diagnosis and differential diagnosis of 
+AHF, as well as for the assessment of the severity and prognosis of AHF [<xref rid="b23" ref-type="bibr">23</xref>, <xref rid="b24" ref-type="bibr">24</xref>]. 
+The variations of BNP before discharge have been independently associated with an 
+increased risk of cardiovascular events, re-hospitalization or death after 
+discharge [<xref rid="b25" ref-type="bibr">25</xref>]. At present, the Chinese guideline recommends UF to be applied for 
+7 consecutive days and BNP concentrations should be reduced by at least 50% 
+compared to baseline [<xref rid="b26" ref-type="bibr">26</xref>]. Studies have shown that 30% and 46% declines in BNP 
+at discharge are favorable values for the prognosis of heart failure patients 
+[<xref rid="b10" ref-type="bibr">10</xref>, <xref rid="b27" ref-type="bibr">27</xref>]. Other authors proposed a BNP/NT-proBNP reduction <inline-formula><mml:math id="w3" alttext="\geq" display="inline" overflow="scroll"><mml:mo>&#x02265;</mml:mo></mml:math></inline-formula>30% as the 
+standard for effective treatment, and a decrease of BNP/NT-proBNp <inline-formula><mml:math id="w4" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>30% during 
+hospitalization for AHF as indicative of an increased risk of re-hospitalization 
+and death [<xref rid="b28" ref-type="bibr">28</xref>]. Thus, thresholds of a 30% and 50% reduction in BNP 
+concentrations relative to baseline during the UF process were set as criteria to 
+identify one or more potential indicators on the USCOM monitor and to establish a 
+predictive model in the present study.</p><p id="S1.p5">It would be of great clinical interest to have a predictor of when a patient has 
+reached the endpoint of UF via hemodynamic changes. Therefore, the present 
+single-blind, randomized control trial was designed to evaluate the feasibility 
+of USCOM for determining UF endpoints during AHF treatments and to establish 
+whether it is useful in reducing the financial burden on ADHF patients requiring 
+UF. The primary objective of the trial was to evaluate differences in 
+hemodynamics of patients receiving UF alone (U group) or UF + USCOM (UU group). 
+The secondary objective was to construct a prediction model of potential 
+indicators on USCOM (i.e., inotropy (INO), FTc, SVRI) for achieving UF standards 
+based on threshold criteria of a 30% or 50% decrease in BNP concentration 
+relative to baseline.</p></sec><sec id="S2"><title>2. Materials and Methods</title><sec id="S2.SS1"><title>2.1 Study Design</title><p id="S2.SS1.p1">This study was a single-blind, randomized controlled trial where ADHF patients 
+were randomly assigned to U (n = 20) and UU (n = 20) groups at a ratio of 1:1. UF 
+alone and UF + USCOM treatments from Day 1 to Day 7 were monitored. Repeated 
+measurement data of hemodynamic indicators (primary endpoint) in U and UU groups 
+were collected. A 30% or 50% decrease in BNP concentrations relative to 
+baseline was set as the criteria for achieving UF-endpoint. Detailed information 
+are shown in <bold>Supplementary Fig. 1</bold>.</p></sec><sec id="S2.SS2"><title>2.2 Patients</title><p id="S2.SS2.p1">This trial was based on the American College of Cardiology, American Heart 
+Association, and Heart Failure Society of America guidelines for the management 
+of AHF [<xref rid="b29" ref-type="bibr">29</xref>] and involved 40 patients diagnosed with ADHF from January 2022 to 
+July 2023. Patients were randomly assigned to U (n = 20) and UU (n = 20) groups.</p><p id="S2.SS2.p2">The inclusion criteria were: (1) age <inline-formula><mml:math id="w5" alttext="\geq" display="inline" overflow="scroll"><mml:mo>&#x02265;</mml:mo></mml:math></inline-formula>18 years; (2) male or non-pregnant 
+female patients; and (3) clinical symptoms or signs of fluid overload, among 
+which fluid overload was defined as having met at least two of the following 
+criteria: (a) pitting edema <inline-formula><mml:math id="w6" alttext="\geq" display="inline" overflow="scroll"><mml:mo>&#x02265;</mml:mo></mml:math></inline-formula>2+ of the lower extremities; (b) moist rales 
+in the lungs; (c) jugular venous distention <inline-formula><mml:math id="w7" alttext="&#x0003e;" display="inline" overflow="scroll"><mml:mo>&#x0003e;</mml:mo></mml:math></inline-formula>10 cm; (d) pulmonary edema or 
+pleural effusion on chest X-ray; (e) paroxysmal nocturnal dyspnea or <inline-formula><mml:math id="w8" alttext="\geq" display="inline" overflow="scroll"><mml:mo>&#x02265;</mml:mo></mml:math></inline-formula> 
+two-pillow orthopnea; (f) congestive hepatomegaly or ascites; and (g) BNP <inline-formula><mml:math id="w9" alttext="&#x0003e;" display="inline" overflow="scroll"><mml:mo>&#x0003e;</mml:mo></mml:math></inline-formula>400 pg/mL.</p><p id="S2.SS2.p3">The exclusion criteria were: (1) hematocrit (HCT) <inline-formula><mml:math id="w10" alttext="&#x0003e;" display="inline" overflow="scroll"><mml:mo>&#x0003e;</mml:mo></mml:math></inline-formula>45%; (2) systolic blood 
+pressure <inline-formula><mml:math id="w11" alttext="\leq" display="inline" overflow="scroll"><mml:mo>&#x02264;</mml:mo></mml:math></inline-formula>90 mmHg and poor peripheral circulation; (3) contraindications 
+to heparin anticoagulation; (4) renal insufficiency with a serum creatine 
+<inline-formula><mml:math id="w12" alttext="\geq" display="inline" overflow="scroll"><mml:mo>&#x02265;</mml:mo></mml:math></inline-formula>3.0 mg/dL or planned renal replacement therapies; (5) acute coronary 
+syndromes; (6) life-threatening organ dysfunction caused by a dysregulated host 
+response to infection; (7) active myocarditis; (8) patients with heart failure 
+attributed to restrictive or hypertrophic cardiomyopathy or uncorrected valvular 
+stenotic disease; (9) infection; (10) malignancies; (11) systemic immune disease; 
+(12) unwillingness to cooperate; and (13) withdrawal from the study or death. The 
+study adhered to the principles of the Declaration of Helsinki and the protocols 
+were approved by the Institutional Review Board of our hospital (2021-072-01). 
+Informed consent was obtained from all enrolled patients. This study was 
+registered with ClinicalTrials.gov (identifier: NCT06533124).</p></sec><sec id="S2.SS3"><title>2.3 Randomization and Masking</title><p id="S2.SS3.p1">This study employed a randomized and single-blind design, where the 
+randomization approach was &#x0201c;static randomization&#x0201d; and no stratification factors 
+were set. The allocation of study participants was processed through an 
+interactive web response system (IWRS), with a non-stratified permutated block 
+size of 4. Patients were randomly assigned in a 1:1 ratio, with one group 
+receiving UF treatment alone and the other receiving UF treatment plus USCOM 
+monitoring. The statistician responsible for randomization set the randomization 
+parameters in the background of the IWRS in advance. The IWRS generated the 
+random allocation table, and the codes of the treatment regimens were also input 
+into the system background. The study coordinator was responsible for obtaining 
+the random number and corresponding treatment regimen through the IWRS and 
+communicating the assignment information to the relevant investigator, in which, 
+treating clinicians and the enrolled patients were unaware of group assignments.</p></sec><sec id="S2.SS4"><title>2.4 The Operator Steps of USCOM</title><p id="S2.SS4.p1">The operation of USCOM only requires the placement of the probe in the patient&#x02019;s 
+pulmonary artery or aortic window for monitoring. In pulmonary artery window 
+monitoring, the probe is positioned beside the right sternal border or upper 
+abdomen to assess blood flow in the pulmonary artery, thereby monitoring the 
+pulmonary circulation and right heart function. For aortic window monitoring, the 
+probe is placed at the sternal notch or subclavian fossa (same as the pulmonary 
+artery window), and measurements are taken from the aorta to assess the systemic 
+circulation, primarily monitoring left ventricular output. USCOM is easy to 
+operate and trainees reached the same level as trainers after about 50 
+operations, with the learning curve for skill acquisition being significantly 
+shorter [<xref rid="b21" ref-type="bibr">21</xref>]. In the present trial, all patients in the UU group were monitored 
+by the same skilled operator and three consecutive measurements were made with a 
+deviation of no more than 10% each time, in order to ensure the consistency and 
+reliability of the data.</p></sec><sec id="S2.SS5"><title>2.5 Assessments</title><p id="S2.SS5.p1">Patients were assessed at baseline and throughout the period of treatment. The 
+documented variables were medical history, physical examination data, 
+echocardiography, laboratory blood test monitoring (continuous), including the 
+total UF volume, body weight, patient symptoms, body position, transcutaneous 
+oxygen saturation (SpO<sub>2</sub>), degree of edema, leg circumference, abdominal 
+circumference, input-output balance and other variables for 7 days. Adverse 
+events were assessed and documented by clinicians within 24 h.</p><p id="S2.SS5.p2">The UF treatment period was generally for 3 days. On the 4th Day, the effect of 
+UF was observed, and on the 7th Day, the recovery of diuretic sensitivity 
+evaluated. Thus, measurements for UF parameters were taken on Day 1, Day 2, Day 
+3, Day 4 and Day 7. In the UU group, the parameters of USCOM were also monitored 
+on Day 1, Day 2, Day 3, Day 4 and Day 7 using a non-invasive USCOM device, which 
+employed transaortic or transpulmonary Doppler flow tracing; the valve area was 
+estimated using the patient&#x02019;s height, with subsequent calculation of CO.</p></sec><sec id="S2.SS6"><title>2.6 Variable Collection and Definitions</title><p id="S2.SS6.p1">Baseline data from the patients after enrollment were recorded, including age, 
+gender and height. Test results were collected, including BNP, the blood urea 
+nitrogen to creatinine ratio, creatinine, C-reactive protein, estimated 
+glomerular filtration rate, hemoglobin, jugular venous pressure, left ventricular 
+ejection fraction, neutrophils percentage, procalcitonin and white blood cell 
+counts.</p><p id="S2.SS6.p2">ADHF is a clinical syndrome characterized by newly developed AHF or a worsening 
+of the previously diagnosed chronic heart failure, accompanied by progressive 
+fluid retention, resulting in an abrupt decrease in CO and systemic congestion. 
+In addition, the definitions of comorbidities related to ADHF included atrial 
+fibrillation, cerebral stroke, chronic obstructive pulmonary disease, diabetes 
+mellitus, dilated cardiomyopathy, hypertension, hyperlipidemia, ischemic 
+cardiomyopathy, renal insufficiency and valvular heart disease, in accordance 
+with guidelines and previous literature reviews [<xref rid="b26" ref-type="bibr">26</xref>, <xref rid="b30" ref-type="bibr">30</xref>].</p><p id="S2.SS6.p3">The USCOM monitored parameters included the SV index (SVI), SV variation (SVV), 
+CO, cardiac index, systemic vascular resistance (SVR), SVRI and the velocity time 
+integral (VTI). CO refers to the total volume of blood ejected by one side of the 
+heart per minute and is one of the most direct indicators reflecting cardiac 
+function. CO was estimated by heart rate (HR) and the flow calculated from the 
+VTI and the cross-sectional area of the valve orifice. VTI refers to the integral 
+of blood flow velocity over a single ejection time. Cardiac index was calculated 
+by dividing CO by the body surface area. FTc refers to the time required by the 
+heart for systolic ejection, which was calculated using Bazett&#x02019;s formula [<xref rid="b17" ref-type="bibr">17</xref>]. SV 
+was calculated by measuring the Doppler flow in the aortic valve, which refers to 
+the amount of blood ejected into the aorta during each systole. SVV was the 
+percentage change in SV with each systole, that is, the percentage of the 
+difference between the maximum and minimum SV values within a certain period of 
+time compared to the average SV value during that period [<xref rid="b31" ref-type="bibr">31</xref>]. SVRI refers to the 
+force exerted by peripheral blood vessels on the circulating blood [<xref rid="b32" ref-type="bibr">32</xref>].</p></sec><sec id="S2.SS7"><title>2.7 Endpoints</title><p id="S2.SS7.p1">The primary endpoint was differences in the hemodynamics of patients in the U 
+and UU groups during UF, monitored at Day 1, Day 2, Day 3, Day 4 and Day 7. The 
+secondary endpoints were the identification of one or more indicators on the 
+USCOM that could predict the endpoint of UF, in which, thresholds of a 
+30% or 50% reduction in BNP relative to baseline were set as criteria for 
+reaching the UF endpoint. Additionally, the economic benefits including treatment 
+costs (such as UF related costs, hospitalization expenses, costs of blood 
+concentrator, hemodialysis circuit and continuous renal replacement therapy), 
+hospitalization duration and re-hospitalization rates at <inline-formula><mml:math id="w13" alttext="\leq" display="inline" overflow="scroll"><mml:mo>&#x02264;</mml:mo></mml:math></inline-formula>30 days were 
+also assessed between the two groups.</p></sec><sec id="S2.SS8"><title>2.8 Statistical Analysis</title><p id="S2.SS8.p1">All statistical analyses were conducted using SPSS (version 26.0, IBM Corp., 
+Chicago, IL, USA) and <italic toggle="yes">p</italic>-values <inline-formula><mml:math id="w14" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.05 were deemed to be significant. 
+Normality was tested using the Shapiro-Wilk test. The Kruskal-Wallis test was 
+used to determine significant differences between groups when the data did not 
+meet the assumptions for parametric tests, whereas a <italic toggle="yes">t</italic>-test or ANOVA are 
+parametric tests based on the assumption that the data follow a normal 
+distribution and exhibit homoscedasticity. Normally distributed data are 
+presented as the mean <inline-formula><mml:math id="w15" alttext="\pm{}" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> SD. A Mann-Whitney U test or Wilcoxon rank sum test 
+was used for continuous variables that were not normally distributed, and the 
+results are reported as medians (Q1, Q3). To assess potential differences between 
+categorical variables, a <inline-formula><mml:math id="w16" alttext="\chi{}" display="inline" overflow="scroll"><mml:mi>&#x003c7;</mml:mi></mml:math></inline-formula><sup>2</sup> test or Fisher&#x02019;s exact test were 
+employed. A mixed linear model was utilized to analyze repeated measurement data 
+to obtain the trend of hemodynamic indicators over time, and the Bonferroni 
+correction was applied to perform statistical comparisons between the two groups 
+at each time point. The change rate at each time point refers to the percentage 
+change compared to the baseline (Day 1). Spearman&#x02019;s correlation analysis was used 
+to establish correlations between the changes of USCOM output and UF parameters 
+on Day 4 compared to baseline UU treatments. Univariate and multivariate logistic 
+regression analysis were employed to identify independent predictors, and 
+receiver operating characteristic (ROC) curves and area under the curve (AUC) 
+values to establish the prediction model. The fit of the model was assessed using 
+the Hosmer-Lemeshow test. A regression imputation was employed to fill in the 
+missing data in the present trial. 
+</p><p id="S2.SS8.p2">The sample size was not calculated prior to enrollment, but post hoc power 
+estimates were carried out using G*Power 3.1 software (University of Dusseldorf, 
+Dusseldorf, Germany). Based on previously published study by Liu <italic toggle="yes">et al</italic>. 
+[<xref rid="b33" ref-type="bibr">33</xref>] and the primary endpoint of the present trial, the assessment of 
+hemodynamics differences between the U and UU groups during UF was considered, 
+with monitoring performed at Day 1, Day 2, Day 3, Day 4 and Day 7. The present 
+trial particularly focused on the time to achieve UF endpoints during emergency 
+hospitalization in patients with AHF, analyzing the correlation between 
+hemodynamic changes in the UU group and the U endpoint markers before and after 
+achieving U achievement. The assumption was made that the UU group would have a 
+reduced average length of emergency stay of 8 days compared to conventional 
+medication, and the U group time by 4.5 days. Under the premise of a one-sided 
+<italic toggle="yes">p</italic>
+<inline-formula><mml:math id="w17" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.05, an 80% power for a statistically significant difference to 
+achieve an 80% reduction in emergency stay length for the UU group compared to 
+the U group was required. The effect size of 80% was considered to be a 
+reasonable estimate in the present trial. A total of 40 patients (20 per group) 
+were enrolled for the final analysis, with an average reduction in emergency stay 
+length of 7.7 days for the UU group (n = 20) and 4.2 days for the U group (n = 
+20), with an effect size of 80%. The power of this study was calculated to be 
+79.9% under a one-sided test at <inline-formula><mml:math id="w18" alttext="\alpha{}" display="inline" overflow="scroll"><mml:mi>&#x003b1;</mml:mi></mml:math></inline-formula> = 0.05 and 70% under two-sided test 
+at <inline-formula><mml:math id="w19" alttext="\alpha{}" display="inline" overflow="scroll"><mml:mi>&#x003b1;</mml:mi></mml:math></inline-formula> = 0.05.</p></sec></sec><sec id="S3"><title>3. Results</title><sec id="S3.SS1"><title>3.1 Baseline and Clinical Characteristics of Patients</title><p id="S3.SS1.p1">In this trial, the overall population exhibited the following median (interquartile range (IQR)) values: hemoglobin concentrations of 
+117.0 g/L (110.0, 124.8 g/L), creatinine 128.0 &#x000b5;moI/L (86.3, 163.7 
+&#x000b5;moI/L), an estimated glomerular filtration rate of 48.9 mL/min/1.73 
+m<sup>2</sup> (29.5, 64.4 mL/min/1.73 m<sup>2</sup>), left ventricular ejection fraction 
+44.0% (32.9, 56.8%) and a BNP concentration of 2098.8 ng/L (922.0, 3929.0 
+ng/L). Notably, 95% of patients presented with renal insufficiency, 72.5% 
+hypertension and 65.0% were diagnosed with diabetes mellitus. Cerebral stroke was 
+diagnosed in 22.5% of cases, while chronic obstructive pulmonary disease 
+occurred in 1 case. Additionally, the congestion status of the two groups showed 
+that the blood urea nitrogen to creatinine ratio was 26.6 in the UU group and 
+24.6 for the U group. Among 28 patients (70.0%) received positive inotropic 
+support medication, mainly dopamine (47.5%), followed by a type 3 
+phosphodiesterase inhibitor (milrinone) (32.5%) in both groups. It is worth 
+noting that the baseline and clinical characteristics of the two treatment groups 
+were closely matched (all <italic toggle="yes">p</italic>
+<inline-formula><mml:math id="w20" alttext="&#x0003e;" display="inline" overflow="scroll"><mml:mo>&#x0003e;</mml:mo></mml:math></inline-formula> 0.05; Table <xref rid="S3.T1" ref-type="table">1</xref>).</p><table-wrap position="float" id="S3.T1"><label>Table 1.
+</label><caption><p><bold>Baseline and clinical characteristics of the trial patients</bold>.</p></caption><table frame="hsides" rules="groups"><tbody><tr style="border-top:1px solid #000;border-bottom:1px solid #000;"><td colspan="2" rowspan="1"/><td rowspan="1" colspan="1">Total (n = 40)</td><td rowspan="1" colspan="1">UU Group (n = 20)</td><td rowspan="1" colspan="1">U group (n = 20)</td><td rowspan="1" colspan="1"><italic toggle="yes">p</italic>-value</td></tr><tr><td colspan="2" rowspan="1">Gender, n (%)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Male</td><td rowspan="1" colspan="1">21 (52.5)</td><td rowspan="1" colspan="1">13 (65.0)</td><td rowspan="1" colspan="1">8 (40.0)</td><td rowspan="1" colspan="1">0.205</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Female</td><td rowspan="1" colspan="1">19 (47.5)</td><td rowspan="1" colspan="1">7 (35.0)</td><td rowspan="1" colspan="1">12 (60.0)</td><td rowspan="1" colspan="1"/></tr><tr><td colspan="2" rowspan="1">Age (years)</td><td rowspan="1" colspan="1">74.5 (65.3, 82.0)</td><td rowspan="1" colspan="1">79.0 (69.5, 83.8)</td><td rowspan="1" colspan="1">72.0 (57.8, 81.5)</td><td rowspan="1" colspan="1">0.093</td></tr><tr><td colspan="2" rowspan="1">Height (cm)</td><td rowspan="1" colspan="1">164.5 (160.0, 171.0)</td><td rowspan="1" colspan="1">164.5 (159.3, 171.5)</td><td rowspan="1" colspan="1">163.5 (160.0, 171.0)</td><td rowspan="1" colspan="1">0.888</td></tr><tr><td colspan="2" rowspan="1">Weight (kg)</td><td rowspan="1" colspan="1">69.0 (60.0, 80.0)</td><td rowspan="1" colspan="1">63.5 (57.8, 75.0)</td><td rowspan="1" colspan="1">71.0 (64.3, 83.8)</td><td rowspan="1" colspan="1">0.157</td></tr><tr><td colspan="2" rowspan="1">BMI (kg/m<sup>2</sup>)</td><td rowspan="1" colspan="1">24.8 (22.6, 29.0)</td><td rowspan="1" colspan="1">24.4 (21.9, 27.9)</td><td rowspan="1" colspan="1">26.2 (22.8, 30.7)</td><td rowspan="1" colspan="1">0.303</td></tr><tr><td colspan="2" rowspan="1">Hemoglobin (g/L)</td><td rowspan="1" colspan="1">117.0 (110.0, 124.8)</td><td rowspan="1" colspan="1">119.0 (107.3, 128.8)</td><td rowspan="1" colspan="1">116.0 (110.0, 123.0)</td><td rowspan="1" colspan="1">0.369</td></tr><tr><td colspan="2" rowspan="1">Creatinine (&#x000b5;moI/L)</td><td rowspan="1" colspan="1">128.0 (86.3, 163.7)</td><td rowspan="1" colspan="1">96.1 (85.2, 135.8)</td><td rowspan="1" colspan="1">147.2 (89.0, 176.0)</td><td rowspan="1" colspan="1">0.142</td></tr><tr><td colspan="2" rowspan="1">Estimated glomerular filtration rate (mL/min/1.73 m<sup>2</sup>)</td><td rowspan="1" colspan="1">48.9 (29.5, 64.4)</td><td rowspan="1" colspan="1">49.8 (41.6, 61.3)</td><td rowspan="1" colspan="1">35.3 (25.7, 70.0)</td><td rowspan="1" colspan="1">0.142</td></tr><tr><td colspan="2" rowspan="1">C-reactive protein (mg/L)</td><td rowspan="1" colspan="1">7.2 (5.8, 10.3)</td><td rowspan="1" colspan="1">7.2 (4.5, 7.5)</td><td rowspan="1" colspan="1">8.2 (6.2, 12.2)</td><td rowspan="1" colspan="1">0.083</td></tr><tr><td colspan="2" rowspan="1">Procalcitonin (ng/mL)</td><td rowspan="1" colspan="1">1.5 (0.2, 2.0)</td><td rowspan="1" colspan="1">1.3 (0.1, 1.8)</td><td rowspan="1" colspan="1">1.5 (0.9, 2.8)</td><td rowspan="1" colspan="1">0.316</td></tr><tr><td colspan="2" rowspan="1">White blood cell count (&#x000d7;10<sup>9</sup>/L)</td><td rowspan="1" colspan="1">5.6 (5.1, 6.4)</td><td rowspan="1" colspan="1">5.5 (5.0, 5.9)</td><td rowspan="1" colspan="1">5.7 (5.2, 6.8)</td><td rowspan="1" colspan="1">0.203</td></tr><tr><td colspan="2" rowspan="1">Neutrophil (%)</td><td rowspan="1" colspan="1">70.6 (68.2, 75.7)</td><td rowspan="1" colspan="1">70.2 (66.4, 75.7)</td><td rowspan="1" colspan="1">71.4 (68.8, 76.7)</td><td rowspan="1" colspan="1">0.208</td></tr><tr><td colspan="2" rowspan="1">Left ventricular ejection fraction (%)</td><td rowspan="1" colspan="1">44.0 (32.9, 56.8)</td><td rowspan="1" colspan="1">46.5 (33.0, 56.8)</td><td rowspan="1" colspan="1">41.7 (32.9, 57.5)</td><td rowspan="1" colspan="1">0.947</td></tr><tr><td colspan="2" rowspan="1">BNP (pg/mL)</td><td rowspan="1" colspan="1">2098.8 (922.0, 3929.0)</td><td rowspan="1" colspan="1">1990.3 (1080.0, 4562.2)</td><td rowspan="1" colspan="1">2098.8 (703.0, 3506.6)</td><td rowspan="1" colspan="1">0.242</td></tr><tr><td colspan="2" rowspan="1">Jugular venous pressure (cmH<sub>2</sub>O)</td><td rowspan="1" colspan="1">18.0 (16.0, 19.8)</td><td rowspan="1" colspan="1">18.0 (16.0, 19.7)</td><td rowspan="1" colspan="1">18.5 (13.8, 19.8)</td><td rowspan="1" colspan="1">0.902</td></tr><tr><td colspan="2" rowspan="1">Blood urea nitrogen to creatinine ratio</td><td rowspan="1" colspan="1">25.3 (21.6, 29.4)</td><td rowspan="1" colspan="1">26.6 (21.8, 30.4)</td><td rowspan="1" colspan="1">24.6 (21.3, 27.3)</td><td rowspan="1" colspan="1">0.337</td></tr><tr><td colspan="2" rowspan="1">Etiology of ADHF, n (%)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Ischemic cardiomyopathy</td><td rowspan="1" colspan="1">21 (52.5)</td><td rowspan="1" colspan="1">10 (50.0)</td><td rowspan="1" colspan="1">11 (55.0)</td><td rowspan="1" colspan="1">0.083</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Dilated cardiomyopathy</td><td rowspan="1" colspan="1">7 (17.5)</td><td rowspan="1" colspan="1">4 (20.0)</td><td rowspan="1" colspan="1">3 (15.0)</td><td rowspan="1" colspan="1">0.316</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Valvular heart disease</td><td rowspan="1" colspan="1">3 (33.3)</td><td rowspan="1" colspan="1">2 (10.0)</td><td rowspan="1" colspan="1">1 (5.0)</td><td rowspan="1" colspan="1">0.203</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Atrial fibrillation</td><td rowspan="1" colspan="1">19 (47.5)</td><td rowspan="1" colspan="1">10 (50.0)</td><td rowspan="1" colspan="1">9 (45.0)</td><td rowspan="1" colspan="1">0.208</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Hypertension</td><td rowspan="1" colspan="1">29 (72.5)</td><td rowspan="1" colspan="1">13 (65.0)</td><td rowspan="1" colspan="1">16 (80.0)</td><td rowspan="1" colspan="1">0.478</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Hyperlipidemia</td><td rowspan="1" colspan="1">10 (25.0)</td><td rowspan="1" colspan="1">4 (20.0)</td><td rowspan="1" colspan="1">6 (30.0)</td><td rowspan="1" colspan="1">0.472</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Chronic obstructive pulmonary disease</td><td rowspan="1" colspan="1">1 (2.5)</td><td rowspan="1" colspan="1">1 (5.0)</td><td rowspan="1" colspan="1">0 (0.0)</td><td rowspan="1" colspan="1">1.000</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Renal insufficiency</td><td rowspan="1" colspan="1">38 (95.0)</td><td rowspan="1" colspan="1">20 (100.0)</td><td rowspan="1" colspan="1">18 (90.0)</td><td rowspan="1" colspan="1">0.490</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Diabetes mellitus</td><td rowspan="1" colspan="1">26 (65.0)</td><td rowspan="1" colspan="1">12 (60.0)</td><td rowspan="1" colspan="1">14 (70.0)</td><td rowspan="1" colspan="1">0.512</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Cerebral stroke</td><td rowspan="1" colspan="1">9 (22.5)</td><td rowspan="1" colspan="1">7 (35.0)</td><td rowspan="1" colspan="1">2 (10.0)</td><td rowspan="1" colspan="1">0.132</td></tr><tr><td colspan="2" rowspan="1">Positive inotropic agents, n (%)</td><td rowspan="1" colspan="1">28 (70.0)</td><td rowspan="1" colspan="1">14 (70.0)</td><td rowspan="1" colspan="1">13 (65)</td><td rowspan="1" colspan="1">1.000</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Dopamine</td><td rowspan="1" colspan="1">19 (47.5)</td><td rowspan="1" colspan="1">10 (50.0)</td><td rowspan="1" colspan="1">9 (45.0)</td><td rowspan="1" colspan="1">1.000</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Type 3 phosphodiesterase inhibitor (milrinone)</td><td rowspan="1" colspan="1">13 (32.5)</td><td rowspan="1" colspan="1">4 (20.0)</td><td rowspan="1" colspan="1">9 (45.0)</td><td rowspan="1" colspan="1">0.176</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Calcium sensitizer (levosimendan)</td><td rowspan="1" colspan="1">7 (17.5)</td><td rowspan="1" colspan="1">4 (20.0)</td><td rowspan="1" colspan="1">3 (15.0)</td><td rowspan="1" colspan="1">1.000</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Epinephrine</td><td rowspan="1" colspan="1">3 (7.5)</td><td rowspan="1" colspan="1">1 (5.0)</td><td rowspan="1" colspan="1">2 (10.0)</td><td rowspan="1" colspan="1">1.000</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Hydroxylamine</td><td rowspan="1" colspan="1">3 (7.5)</td><td rowspan="1" colspan="1">2 (10.0)</td><td rowspan="1" colspan="1">1 (5.0)</td><td rowspan="1" colspan="1">1.000</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Isoproterenol</td><td rowspan="1" colspan="1">2 (5.0)</td><td rowspan="1" colspan="1">1 (5.0)</td><td rowspan="1" colspan="1">1 (5.0)</td><td rowspan="1" colspan="1">1.000</td></tr><tr style="border-bottom:1px solid #000;"><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Digitalis medication</td><td rowspan="1" colspan="1">11 (27.5)</td><td rowspan="1" colspan="1">4 (20.0)</td><td rowspan="1" colspan="1">7 (35.0)</td><td rowspan="1" colspan="1">0.480</td></tr></tbody></table><table-wrap-foot><fn><p>Note. Data are presented as medians (Q1, Q3) and n (%).</p><p> 
+Abbreviations: ADHF, acute decompensated heart failure; BMI, body mass index; 
+BNP, B-type natriuretic peptide; U group, ultrafiltration group; UU group, ultrafiltration + 
+ultrasonic cardiac output monitor group.</p></fn></table-wrap-foot></table-wrap></sec><sec id="S3.SS2"><title>3.2 Primary Endpoint</title><p id="S3.SS2.p1">As shown in Fig. <xref rid="S3.F1" ref-type="fig">1</xref>, there were no statistically significant differences between 
+the two groups (UU and U) in the change rates of variables such as mean arterial 
+pressure (MAP), HR, urine output, HCT and BNP at different time points (all 
+<italic toggle="yes">p</italic>
+<inline-formula><mml:math id="w21" alttext="&#x0003e;" display="inline" overflow="scroll"><mml:mo>&#x0003e;</mml:mo></mml:math></inline-formula> 0.05). Specifically, the change rates of MAP and BNP showed a 
+linear decrease with increasing UF time, while HCT gradually increased as UF 
+progressed. According to the hemodynamic indicators shown by USCOM, FTc, SV and 
+SVRI significantly decreased with the extension of UF time, whereas VTI, INO, CO 
+and SVI significantly increased. Except for urine output and BNP, which exhibited 
+a sharp decrease in the change rate after Day 4, other variables stabilized 
+between Day 4 and Day 7. These findings suggest that changes in hemodynamic 
+indicators may help predict the likelihood of achieving UF targets.</p><fig position="float" id="S3.F1"><label>Fig. 1.
+</label><caption><p><bold>The trends of change rates on Day 2, Day 3, Day 4 and Day 7 from 
+baseline in (a) MAP, (b) HR, (c) urine output, (d) HCT and (e) BNP measured by UF 
+parameters in the U and UU groups, and (f) USCOM output in the UU group</bold>. BNP, 
+B-type natriuretic peptide; CO, cardiac output; FTc, corrected flow time; HCT, 
+hematocrit; HR, heart rate; INO, inotropy; MAP, mean arterial pressure; SVI, 
+stroke volume index; SVV, stroke volume variation; SVRI, systemic vascular 
+resistance index; VTI, velocity time integral; UF, ultrafiltration; USCOM, 
+ultrasonic cardiac output monitor; U group, ultrafiltration group; UU group, 
+ultrafiltration + ultrasonic cardiac output monitor group.</p></caption><graphic xlink:href="2153-8174-26-5-27100-g1" id="S3.F1.g1" position="float"/></fig><p id="S3.SS2.p2">Similarly, from Table <xref rid="S3.T2" ref-type="table">2</xref>, we can more clearly perceive the indicators 
+related to UF. In both the U and UU groups, diastolic blood pressure, urine 
+output, HCT and BNP exhibited a linear increase or decrease in the changes from 
+baseline as UF progressed (<italic toggle="yes">p</italic>-trend <inline-formula><mml:math id="w22" alttext="\leq" display="inline" overflow="scroll"><mml:mo>&#x02264;</mml:mo></mml:math></inline-formula> 0.05). Additionally, 
+compared to Day 4, only the change rate of urine output and BNP showed 
+significant differences on Day 7 (<italic toggle="yes">p</italic>
+<inline-formula><mml:math id="w23" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.05), while the change rates of 
+other indicators stabilized after Day 4. However, regarding the change rates in 
+USCOM parameters, except for SVV, the change rates of other hemodynamic 
+indicators showed a linear increase or decrease as UF progressed (all <italic toggle="yes">p</italic>
+<inline-formula><mml:math id="w24" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.05). When comparing the changes from baseline on Day 4 and Day 7, 
+significant differences were still observed in the change rates of CO, cardiac 
+index, INO, SVRI, SVR, FTc and VTI (Table <xref rid="S3.T2" ref-type="table">2</xref>). These findings raise the question 
+of whether it is possible to combine hemodynamic indicators that show a linear 
+change over the course of UF, along with those that stabilize by Day 4 and Day 7, 
+to perform a correlation analysis and predict the optimal time for UF achievement 
+in patients with AHF. 
+</p><table-wrap position="float" id="S3.T2"><label>Table 2.
+</label><caption><p><bold>Changes in hemodynamic indices measured by UF parameters at 
+five different time points compared to baseline in the U and UU groups and USCOM 
+output in the UU group</bold>.</p></caption><table frame="hsides" rules="groups"><tbody><tr style="border-top:1px solid #000;"><td colspan="2" rowspan="1"/><td rowspan="2" colspan="1">Day 1</td><td rowspan="2" colspan="1"><inline-formula><mml:math id="w25" alttext="\bigtriangleup{}" display="inline" overflow="scroll"><mml:mo>&#x025b3;</mml:mo></mml:math></inline-formula>Day 2</td><td rowspan="2" colspan="1"><inline-formula><mml:math id="w26" alttext="\bigtriangleup{}" display="inline" overflow="scroll"><mml:mo>&#x025b3;</mml:mo></mml:math></inline-formula>Day 3</td><td rowspan="2" colspan="1"><inline-formula><mml:math id="w27" alttext="\bigtriangleup{}" display="inline" overflow="scroll"><mml:mo>&#x025b3;</mml:mo></mml:math></inline-formula>Day 4</td><td rowspan="2" colspan="1"><inline-formula><mml:math id="w28" alttext="\bigtriangleup{}" display="inline" overflow="scroll"><mml:mo>&#x025b3;</mml:mo></mml:math></inline-formula>Day 7</td><td style="border-bottom:1px solid #000;" rowspan="1" colspan="1"><italic toggle="yes">p</italic>-value</td><td style="border-bottom:1px solid #000;" rowspan="1" colspan="1"><italic toggle="yes">p-</italic>value</td><td style="border-bottom:1px solid #000;" rowspan="1" colspan="1"><italic toggle="yes">p-</italic>value</td></tr><tr><td colspan="2" rowspan="1"/><td rowspan="1" colspan="1">(trend for 1&#x02013;4 days)</td><td rowspan="1" colspan="1">(Day 7 vs. Day 4)</td><td rowspan="1" colspan="1">(trend)</td></tr><tr style="border-top:1px solid #000;"><td rowspan="2" colspan="1">UF parameters of the U group</td><td rowspan="1" colspan="1">SBP (mmHg)</td><td rowspan="1" colspan="1">133.5 (117.3, 154.5)</td><td rowspan="1" colspan="1">&#x02013;1.0 (&#x02013;11.5, 5.8)</td><td rowspan="1" colspan="1">&#x02013;3.5 (&#x02013;14.8, 5.0)</td><td rowspan="1" colspan="1">0.0 (&#x02013;14.8, 7.0)</td><td rowspan="1" colspan="1">&#x02013;6.0 (&#x02013;15.2, 2.0)</td><td rowspan="1" colspan="1">0.072</td><td rowspan="1" colspan="1">0.621</td><td rowspan="1" colspan="1">0.065</td></tr><tr><td rowspan="1" colspan="1">DBP (mmHg)</td><td rowspan="1" colspan="1">70.0 (64.0, 81.3)</td><td rowspan="1" colspan="1">&#x02013;2.0 (&#x02013;8.2, 5.2)</td><td rowspan="1" colspan="1">&#x02013;5.5 (&#x02013;14.0, 1.5)</td><td rowspan="1" colspan="1">&#x02013;8.0 (&#x02013;13.2, 0.2)</td><td rowspan="1" colspan="1">&#x02013;8.0 (&#x02013;16.2, 0.5)</td><td rowspan="1" colspan="1">0.003</td><td rowspan="1" colspan="1">0.726</td><td rowspan="1" colspan="1">0.007</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">MAP (mmHg)</td><td rowspan="1" colspan="1">94.8 (83.3, 104.5)</td><td rowspan="1" colspan="1">&#x02013;0.5 (&#x02013;6.1, 3.5)</td><td rowspan="1" colspan="1">&#x02013;5.7 (&#x02013;14.2, 2.7)</td><td rowspan="1" colspan="1">&#x02013;6.2 (&#x02013;16.0, 1.0)</td><td rowspan="1" colspan="1">&#x02013;8.3 (&#x02013;14.0, 0.4)</td><td rowspan="1" colspan="1">0.004</td><td rowspan="1" colspan="1">0.634</td><td rowspan="1" colspan="1">0.006</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">HR (bpm)</td><td rowspan="1" colspan="1">82.0 (72.0, 91.8)</td><td rowspan="1" colspan="1">3.5 (&#x02013;6.2, 5.2)</td><td rowspan="1" colspan="1">&#x02013;3.5 (&#x02013;11.2, 3.8)</td><td rowspan="1" colspan="1">&#x02013;7.0 (&#x02013;14.2, 2.5)</td><td rowspan="1" colspan="1">&#x02013;8.0 (&#x02013;15.0, 2.2)</td><td rowspan="1" colspan="1">0.194</td><td rowspan="1" colspan="1">0.649</td><td rowspan="1" colspan="1">0.094</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Urine output (mL)</td><td rowspan="1" colspan="1">950.0 (700.0, 1362.5)</td><td rowspan="1" colspan="1">750.0 (562.5, 1195.0)</td><td rowspan="1" colspan="1">1175.0 (637.5, 1625.0)</td><td rowspan="1" colspan="1">850.0 (568.8, 1350.0)</td><td rowspan="1" colspan="1">475.0 (237.5, 925.0)</td><td rowspan="1" colspan="1">0.726</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w29" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td><td rowspan="1" colspan="1">0.005</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">SpO<sub>2</sub> (%)</td><td rowspan="1" colspan="1">96.0 (95.0, 97.0)</td><td rowspan="1" colspan="1">0.5 (0.0, 1.2)</td><td rowspan="1" colspan="1">0.5 (0.0, 2.0)</td><td rowspan="1" colspan="1">1.0 (0.0, 2.0)</td><td rowspan="1" colspan="1">1.0 (0.0, 2.0)</td><td rowspan="1" colspan="1">0.266</td><td rowspan="1" colspan="1">0.359</td><td rowspan="1" colspan="1">0.053</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">HCT (%)</td><td rowspan="1" colspan="1">35.0 (33.1, 36.3)</td><td rowspan="1" colspan="1">&#x02013;0.0 (&#x02013;1.1, 2.0)</td><td rowspan="1" colspan="1">1.0 (&#x02013;0.5, 2.4)</td><td rowspan="1" colspan="1">2.4 (0.1, 3.4)</td><td rowspan="1" colspan="1">1.2 (0.7, 3.2)</td><td rowspan="1" colspan="1">0.007</td><td rowspan="1" colspan="1">0.431</td><td rowspan="1" colspan="1">0.001</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">BNP (pg/mL)</td><td rowspan="1" colspan="1">2098.9 (709.7, 3015.8)</td><td rowspan="1" colspan="1">&#x02013;168.4 (&#x02013;844.8, &#x02013;29.8)</td><td rowspan="1" colspan="1">&#x02013;570.2 (&#x02013;1276.9, &#x02013;129.2)</td><td rowspan="1" colspan="1">&#x02013;1218.1 (&#x02013;1646.0, &#x02013;328.7)</td><td rowspan="1" colspan="1">&#x02013;1512.0 (&#x02013;1891.5, &#x02013;406.4)</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w30" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td><td rowspan="1" colspan="1">0.007</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w31" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td></tr><tr style="border-top:1px solid #000;"><td rowspan="2" colspan="1">UF parameters of the UU group</td><td rowspan="1" colspan="1">SBP (mmHg)</td><td rowspan="1" colspan="1">128.5 (111.2, 148.0)</td><td rowspan="1" colspan="1">&#x02013;2.0 (&#x02013;7.0, 2.5)</td><td rowspan="1" colspan="1">&#x02013;8.5 (&#x02013;17.5, 1.2)</td><td rowspan="1" colspan="1">&#x02013;8.5 (&#x02013;17.8, &#x02013;3.8)</td><td rowspan="1" colspan="1">&#x02013;9.5 (&#x02013;17.0, &#x02013;2.8)</td><td rowspan="1" colspan="1">0.070</td><td rowspan="1" colspan="1">0.492</td><td rowspan="1" colspan="1">0.056</td></tr><tr><td rowspan="1" colspan="1">DBP (mmHg)</td><td rowspan="1" colspan="1">66.5 (63.8, 81.0)</td><td rowspan="1" colspan="1">0.0 (&#x02013;4.2, 2.0)</td><td rowspan="1" colspan="1">&#x02013;3.0 (&#x02013;9.8, 1.0)</td><td rowspan="1" colspan="1">&#x02013;6.0 (&#x02013;12.5, &#x02013;2.0)</td><td rowspan="1" colspan="1">&#x02013;5.5 (&#x02013;14.2, &#x02013;2.0)</td><td rowspan="1" colspan="1">0.004</td><td rowspan="1" colspan="1">0.911</td><td rowspan="1" colspan="1">0.021</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">MAP (mmHg)</td><td rowspan="1" colspan="1">90.2 (81.0, 98.7)</td><td rowspan="1" colspan="1">&#x02013;0.7 (&#x02013;5.3, 1.7)</td><td rowspan="1" colspan="1">&#x02013;5.2 (&#x02013;10.2, &#x02013;0.4)</td><td rowspan="1" colspan="1">&#x02013;6.5 (&#x02013;12.8, &#x02013;4.5)</td><td rowspan="1" colspan="1">&#x02013;5.2 (&#x02013;11.9, &#x02013;2.3)</td><td rowspan="1" colspan="1">0.004</td><td rowspan="1" colspan="1">0.720</td><td rowspan="1" colspan="1">0.011</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">HR (bpm)</td><td rowspan="1" colspan="1">84.5 (71.8, 106.2)</td><td rowspan="1" colspan="1">0.5 (&#x02013;13.0, 13.0)</td><td rowspan="1" colspan="1">&#x02013;2.7 (&#x02013;9.9, 10.6)</td><td rowspan="1" colspan="1">&#x02013;3.0 (&#x02013;13.2, 13.5)</td><td rowspan="1" colspan="1">&#x02013;3.0 (&#x02013;14.5, 9.8)</td><td rowspan="1" colspan="1">0.400</td><td rowspan="1" colspan="1">0.755</td><td rowspan="1" colspan="1">0.331</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Urine output (mL)</td><td rowspan="1" colspan="1">895.0 (700.0, 1000.0)</td><td rowspan="1" colspan="1">1205.0 (836.0, 1612.5)</td><td rowspan="1" colspan="1">1375.0 (961.0, 2000.0)</td><td rowspan="1" colspan="1">1139.0 (975.0, 1462.5)</td><td rowspan="1" colspan="1">750.0 (500.0, 987.5)</td><td rowspan="1" colspan="1">0.857</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w32" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w33" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">SpO<sub>2</sub> (%)</td><td rowspan="1" colspan="1">96.0 (95.0, 97.0)</td><td rowspan="1" colspan="1">1.0 (&#x02013;1.0, 2.2)</td><td rowspan="1" colspan="1">1.0 (0.0, 2.0)</td><td rowspan="1" colspan="1">1.0 (1.0, 2.0)</td><td rowspan="1" colspan="1">1.5 (0.0, 3.0)</td><td rowspan="1" colspan="1">0.237</td><td rowspan="1" colspan="1">0.644</td><td rowspan="1" colspan="1">0.104</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">HCT (%)</td><td rowspan="1" colspan="1">35.9 (33.6, 38.1)</td><td rowspan="1" colspan="1">0.1 (&#x02013;0.7, 1.5)</td><td rowspan="1" colspan="1">1.2 (&#x02013;0.1, 1.9)</td><td rowspan="1" colspan="1">1.9 (0.5, 2.6)</td><td rowspan="1" colspan="1">2.2 (0.1, 3.0)</td><td rowspan="1" colspan="1">0.002</td><td rowspan="1" colspan="1">0.466</td><td rowspan="1" colspan="1">0.001</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">BNP (pg/mL)</td><td rowspan="1" colspan="1">1647.0 (1047.0, 4041.3)</td><td rowspan="1" colspan="1">&#x02013;314.0 (&#x02013;794.6, &#x02013;204.4)</td><td rowspan="1" colspan="1">&#x02013;748.8 (&#x02013;1221.4, &#x02013;248.5)</td><td rowspan="1" colspan="1">&#x02013;837.0 (&#x02013;1691.0, &#x02013;352.7)</td><td rowspan="1" colspan="1">&#x02013;1036.5 (&#x02013;1853.2, &#x02013;502.9)</td><td rowspan="1" colspan="1">0.002</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w34" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w35" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td></tr><tr style="border-top:1px solid #000;"><td rowspan="3" colspan="1">USCOM monitoring output of the UU group</td><td rowspan="1" colspan="1">SV (mL)</td><td rowspan="1" colspan="1">22.3 (14.1, 33.5)</td><td rowspan="1" colspan="1">0.7 (&#x02013;3.5, 6.2)</td><td rowspan="1" colspan="1">9.2 (1.5, 14.9)</td><td rowspan="1" colspan="1">8.9 (&#x02013;0.9, 21.2)</td><td rowspan="1" colspan="1">12.1 (3.6, 21.9)</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w36" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td><td rowspan="1" colspan="1">0.279</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w37" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td></tr><tr><td rowspan="1" colspan="1">SVI (mL/beats)</td><td rowspan="1" colspan="1">12.5 (7.8, 18.8)</td><td rowspan="1" colspan="1">0.4 (&#x02013;2.0, 3.2)</td><td rowspan="1" colspan="1">4.6 (0.8, 7.3)</td><td rowspan="1" colspan="1">5.1 (&#x02013;0.5, 11.0)</td><td rowspan="1" colspan="1">7.0 (2.0, 11.7)</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w38" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td><td rowspan="1" colspan="1">0.250</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w39" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td></tr><tr><td rowspan="1" colspan="1">SVV (%)</td><td rowspan="1" colspan="1">58.5 (34.5, 72.5)</td><td rowspan="1" colspan="1">&#x02013;3.5 (&#x02013;16.5, 16.0)</td><td rowspan="1" colspan="1">0.2 (&#x02013;28.8, 14.0)</td><td rowspan="1" colspan="1">&#x02013;5.0 (&#x02013;30.0, 14.2)</td><td rowspan="1" colspan="1">&#x02013;9.5 (&#x02013;27.8, 16.0)</td><td rowspan="1" colspan="1">0.430</td><td rowspan="1" colspan="1">0.505</td><td rowspan="1" colspan="1">0.927</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">CO (L/min)</td><td rowspan="1" colspan="1">1.9 (1.6, 2.3)</td><td rowspan="1" colspan="1">0.3 (&#x02013;0.2, 0.4)</td><td rowspan="1" colspan="1">0.5 (0.3, 1.0)</td><td rowspan="1" colspan="1">0.8 (0.3, 1.1)</td><td rowspan="1" colspan="1">1.2 (0.2, 1.6)</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w40" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td><td rowspan="1" colspan="1">0.027</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w41" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Cardiac index, (L/min/m<sup>2</sup>)</td><td rowspan="1" colspan="1">1.1 (0.8, 1.3)</td><td rowspan="1" colspan="1">0.1 (&#x02013;0.1, 0.2)</td><td rowspan="1" colspan="1">0.3 (0.2, 0.5)</td><td rowspan="1" colspan="1">0.4 (0.2, 0.7)</td><td rowspan="1" colspan="1">0.6 (0.1, 0.8)</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w42" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td><td rowspan="1" colspan="1">0.020</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w43" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">INO (W/m<sup>2</sup>)</td><td rowspan="1" colspan="1">0.6 (0.4, 0.9)</td><td rowspan="1" colspan="1">0.1 (0.0, 0.2)</td><td rowspan="1" colspan="1">0.1 (0.1, 0.3)</td><td rowspan="1" colspan="1">0.3 (0.2, 0.4)</td><td rowspan="1" colspan="1">0.3 (0.2, 0.4)</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w44" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td><td rowspan="1" colspan="1">0.009</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w45" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">SVRI (mmHg&#x000b7;min/mL)</td><td rowspan="1" colspan="1">8339 (6356, 13,527)</td><td rowspan="1" colspan="1">&#x02013;1116 (&#x02013;1975.5, &#x02013;689.5)</td><td rowspan="1" colspan="1">&#x02013;2011.5 (&#x02013;3870.0, &#x02013;1565.8)</td><td rowspan="1" colspan="1">&#x02013;3594.5 (&#x02013;4674.0, &#x02013;2180.0)</td><td rowspan="1" colspan="1">&#x02013;4080 (&#x02013;6530.0, &#x02013;2656.0)</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w46" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w47" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w48" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">SVR (mmHg&#x000b7;min/L)</td><td rowspan="1" colspan="1">4430 (3258, 7862)</td><td rowspan="1" colspan="1">&#x02013;594 (&#x02013;1130.0, &#x02013;377.6)</td><td rowspan="1" colspan="1">&#x02013;1106.1 (&#x02013;2135.3, &#x02013;863.9)</td><td rowspan="1" colspan="1">&#x02013;1696.4 (&#x02013;2779.5, &#x02013;1188.6)</td><td rowspan="1" colspan="1">&#x02013;1925.5 (&#x02013;3745.3, &#x02013;1282.1)</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w49" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w50" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w51" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">FTc (ms)</td><td rowspan="1" colspan="1">427 (388, 464)</td><td rowspan="1" colspan="1">&#x02013;25 (&#x02013;39.5, &#x02013;8.5)</td><td rowspan="1" colspan="1">&#x02013;46.5 (&#x02013;65.2, &#x02013;33.5)</td><td rowspan="1" colspan="1">&#x02013;70.5 (&#x02013;115.0, &#x02013;54.8)</td><td rowspan="1" colspan="1">&#x02013;103.5 (&#x02013;144.2, &#x02013;84.2)</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w52" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w53" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w54" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td></tr><tr style="border-bottom:1px solid #000;"><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">VTI (cm)</td><td rowspan="1" colspan="1">8.1 (6.4, 9.4)</td><td rowspan="1" colspan="1">0.9 (0.4, 1.8)</td><td rowspan="1" colspan="1">2.6 (1.1, 4.1)</td><td rowspan="1" colspan="1">3.1 (1.8, 5.7)</td><td rowspan="1" colspan="1">5.3 (2.8, 7.1)</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w55" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w56" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w57" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td></tr></tbody></table><table-wrap-foot><fn><p>Note. Data are presented as median (Q1, Q3) unless otherwise indicated. 
+<inline-formula><mml:math id="w58" alttext="\bigtriangleup{}" display="inline" overflow="scroll"><mml:mo>&#x025b3;</mml:mo></mml:math></inline-formula> denotes changes from baseline. </p><p>
+Abbreviations: BNP, B-type natriuretic peptide; CO, cardiac output; DBP, 
+diastolic blood pressure; FTc, corrected flow time; HCT, hematocrit; HR, heart 
+rate; INO, inotropy; MAP, mean arterial pressure; SBP, systolic blood pressure; 
+SpO<sub>2</sub>, oxygen saturation; SV, stroke volume; SVI, stroke volume index; SVR, 
+systemic vascular resistance; SVRI, systemic vascular resistance index; SVV, 
+stroke volume variation; UF, ultrafiltration; USCOM, ultrasonic cardiac output 
+monitor; U group, ultrafiltration group; UU group, ultrafiltration + ultrasonic 
+cardiac output monitor group; VTI, velocity time integral.</p></fn></table-wrap-foot></table-wrap></sec><sec id="S3.SS3"><title>3.3 Secondary Endpoints</title><sec id="S3.SS3.SSS1"><title>3.3.1 Correlations of the Changes Rates From Baseline on Day 4 
+Between USCOM Output and UF Parameters </title><p id="S3.SS3.SSS1.p1">We conducted an analysis using <bold>Supplementary Table 1</bold>, and the results 
+showed that change rates in SV and SVI in the USCOM were negatively correlated 
+with change rates in MAP (r = &#x02013;0.329, <italic toggle="yes">p</italic> = 0.003), and positively 
+correlated with change rates of HR (r = 0.673, <italic toggle="yes">p</italic>
+<inline-formula><mml:math id="w59" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.001) and 
+SpO<sub>2</sub> (r = 0.229, <italic toggle="yes">p</italic> = 0.041) during the UF process 
+(<bold>Supplementary Table 2</bold>). The change rate of SVV in USCOM was positively 
+correlated with the change rate of MAP (r = 0.296, <italic toggle="yes">p</italic> = 0.008), while the 
+change rate of INO in USCOM was negatively correlated with the BNP change rate (r 
+= &#x02013;0.473, <italic toggle="yes">p</italic>
+<inline-formula><mml:math id="w60" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.001). The change rates of SVR and SVRI in USCOM were 
+positively correlated with the change rates of MAP (r = 0.322, <italic toggle="yes">p</italic> = 
+0.004), HCT (r = 0.251, <italic toggle="yes">p</italic> = 0.012) and BNP (r = 0.422, <italic toggle="yes">p</italic>
+<inline-formula><mml:math id="w61" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 
+0.001) during the UF process. The FTc change rate in USCOM was positively 
+correlated with the change rates of MAP (r = 0.280, <italic toggle="yes">p</italic> = 0.012), urine 
+output (r = 0.255, <italic toggle="yes">p</italic> = 0.022) and BNP (r = 0.353, <italic toggle="yes">p</italic> = 0.001), 
+and negatively correlated with the change rates of SpO<sub>2</sub> (r = &#x02013;0.198, 
+<italic toggle="yes">p</italic> = 0.048) and HCT (r = &#x02013;0.500, <italic toggle="yes">p</italic>
+<inline-formula><mml:math id="w62" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.001) during the UF 
+process. The VTI change rate in USCOM was positively correlated with the 
+SpO<sub>2</sub> change rate (r = 0.197, <italic toggle="yes">p</italic> = 0.050) and negatively correlated 
+with the change rates of MAP (r = &#x02013;0.263, <italic toggle="yes">p</italic> = 0.019), HR (r = &#x02013;0.454, 
+<italic toggle="yes">p</italic>
+<inline-formula><mml:math id="w63" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.001), urine output (r = &#x02013;0.27, <italic toggle="yes">p</italic> = 0.016) and BNP (r = 
+&#x02013;0.602, <italic toggle="yes">p</italic>
+<inline-formula><mml:math id="w64" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.001) during the UF process. The HR change rate was 
+positively correlated with the change rates of MAP (r = 0.273, <italic toggle="yes">p</italic> = 
+0.014) and BNP (r = 0.229, <italic toggle="yes">p</italic> = 0.041), and negatively correlated with 
+the SpO<sub>2</sub> change rate (r = &#x02013;0.222, <italic toggle="yes">p</italic> = 0.048) 
+(<bold>Supplementary Table 2</bold>). Therefore, indicators such as SV, SVI, SVV, 
+INO, SVR, SVRI, FTc, VTI and HR change rates in USCOM were correlated with UF 
+indicators.</p></sec><sec id="S3.SS3.SSS2"><title>3.3.2 Independent Predictors of 30% or 50% Decrease in BNP 
+Relative to Baseline</title><p id="S3.SS3.SSS2.p1">Before performing the multivariate regression analysis, we selected variables 
+based not only on their statistical significance in univariate analysis 
+(<italic toggle="yes">p</italic>
+<inline-formula><mml:math id="w65" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.05, as shown in Table <xref rid="S3.T2" ref-type="table">2</xref>) but also on their clinical relevance. 
+Additionally, we incorporated clinical experience to select variables for 
+univariate regression analysis, which are listed in Table <xref rid="S3.T3" ref-type="table">3</xref>, including: age 
+(years), SVI (mL/beats), SVV (%), CO (L/min), INO (W/m<sup>2</sup>), cardiac index 
+(L/min/m<sup>2</sup>), SVRI (mmHg<inline-formula><mml:math id="w66" alttext="\cdot{}" display="inline" overflow="scroll"><mml:mo>&#x022c5;</mml:mo></mml:math></inline-formula>min/mL), FTc (ms), VTI (cm), HR (bpm), 
+SpO<sub>2</sub> (%), HCT (%), urine output (mL) and MAP (mmHg). Based on these 
+values, we included the variables with <italic toggle="yes">p</italic>-values <inline-formula><mml:math id="w67" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 0.05 from the 
+univariate regression analysis (SVI, INO, SVRI, FTc, VTI) into the 
+multivariate regression analysis to identify variables with a significant impact 
+on achieving UF endpoints.</p><table-wrap position="float" id="S3.T3"><label>Table 3.
+</label><caption><p><bold>Correlation of standard and substandard UF endpoints and USCOM 
+output based on a 30% reduction on Day 4 compared to baseline in BNP from the 
+baseline during UF</bold>.</p></caption><table frame="hsides" rules="groups"><tbody><tr style="border-top:1px solid #000;"><td rowspan="2" colspan="1"/><td style="border-bottom:1px solid #000;" colspan="3" align="center" rowspan="1">Univariate analysis</td><td style="border-bottom:1px solid #000;" colspan="4" align="center" rowspan="1">Multivariate analysis</td><td rowspan="2" colspan="1">Hosmer-Lemeshow test</td></tr><tr><td rowspan="1" colspan="1">Substandard (BNP)</td><td rowspan="1" colspan="1">Standard (BNP)</td><td rowspan="1" colspan="1"><italic toggle="yes">p</italic>-value</td><td rowspan="1" colspan="1">Substandard (BNP)</td><td rowspan="1" colspan="1">Standard (BNP)</td><td rowspan="1" colspan="1">OR (95% CI)</td><td rowspan="1" colspan="1"><italic toggle="yes">p</italic>-value</td></tr><tr style="border-top:1px solid #000;"><td rowspan="1" colspan="1">Age (years)</td><td rowspan="1" colspan="1">79.0 (72.0, 84.0)</td><td rowspan="1" colspan="1">78.0 (68.8, 83.0)</td><td rowspan="1" colspan="1">0.247</td><td rowspan="1" colspan="1">79.0 (72.0, 84.0)</td><td rowspan="1" colspan="1">78.0 (68.8, 83.0)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.549</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">SVI (mL/beats)</td><td rowspan="1" colspan="1">22.5 (&#x02013;6.6, 47.8)</td><td rowspan="1" colspan="1">43.9 (1.3, 89.7)</td><td rowspan="1" colspan="1">0.033</td><td rowspan="1" colspan="1">22.5 (&#x02013;6.6, 47.8)</td><td rowspan="1" colspan="1">43.9 (1.3, 89.7)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.162</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">SVV (%)</td><td rowspan="1" colspan="1">&#x02013;1.3 (&#x02013;29.9, 37.6)</td><td rowspan="1" colspan="1">&#x02013;17.4 (&#x02013;40.9, 39.5)</td><td rowspan="1" colspan="1">0.358</td><td rowspan="1" colspan="1">&#x02013;1.3 (&#x02013;29.9, 37.6)</td><td rowspan="1" colspan="1">&#x02013;17.4 (&#x02013;40.9, 39.5)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.933</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Cardiac output (L/min)</td><td rowspan="1" colspan="1">19.8 (5.8, 47.9)</td><td rowspan="1" colspan="1">34.1 (9.2, 73.6)</td><td rowspan="1" colspan="1">0.145</td><td rowspan="1" colspan="1">19.8 (5.8, 47.9)</td><td rowspan="1" colspan="1">34.1 (9.2, 73.6)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.574</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">INO (W/m<sup>2</sup>)</td><td rowspan="1" colspan="1">13.5 (4.2, 30.5)</td><td rowspan="1" colspan="1">39.5 (26.7, 63.9)</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w68" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td><td rowspan="1" colspan="1">13.5 (4.2, 30.5)</td><td rowspan="1" colspan="1">39.5 (26.7, 63.9)</td><td rowspan="1" colspan="1">1.028 (1.005&#x02013;1.051)</td><td rowspan="1" colspan="1">0.015</td><td rowspan="1" colspan="1">0.814</td></tr><tr><td rowspan="1" colspan="1">Cardiac index (L/min/m<sup>2</sup>)</td><td rowspan="1" colspan="1">19.8 (5.8, 47.9)</td><td rowspan="1" colspan="1">34.1 (9.2, 73.6)</td><td rowspan="1" colspan="1">0.145</td><td rowspan="1" colspan="1">19.8 (5.8, 47.9)</td><td rowspan="1" colspan="1">34.1 (9.2, 73.6)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.574</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">SVRI (mmHg&#x000b7;min/mL)</td><td rowspan="1" colspan="1">&#x02013;21.0 (&#x02013;33.8, &#x02013;14.2)</td><td rowspan="1" colspan="1">&#x02013;38.3 (&#x02013;48.8, &#x02013;28.4)</td><td rowspan="1" colspan="1"><inline-formula><mml:math id="w69" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>0.001</td><td rowspan="1" colspan="1">&#x02013;21.0 (&#x02013;33.8, &#x02013;14.2)</td><td rowspan="1" colspan="1">&#x02013;38.3 (&#x02013;48.8, &#x02013;28.4)</td><td rowspan="1" colspan="1">0.933 (0.892&#x02013;0.976)</td><td rowspan="1" colspan="1">0.003</td><td rowspan="1" colspan="1">0.814</td></tr><tr><td rowspan="1" colspan="1">FTc (ms)</td><td rowspan="1" colspan="1">&#x02013;10.0 (&#x02013;13.7, &#x02013;4.3)</td><td rowspan="1" colspan="1">&#x02013;17.7 (&#x02013;27.0, &#x02013;9.2)</td><td rowspan="1" colspan="1">0.002</td><td rowspan="1" colspan="1">&#x02013;10.0 (&#x02013;13.7, &#x02013;4.3)</td><td rowspan="1" colspan="1">&#x02013;17.7 (&#x02013;27.0, &#x02013;9.2)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.230</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">VTI (cm)</td><td rowspan="1" colspan="1">18.1 (8.4, 38.1)</td><td rowspan="1" colspan="1">34.6 (22.4, 67.7)</td><td rowspan="1" colspan="1">0.003</td><td rowspan="1" colspan="1">18.1 (8.4, 38.1)</td><td rowspan="1" colspan="1">34.6 (22.4, 67.7)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.126</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">HR (bpm)</td><td rowspan="1" colspan="1">&#x02013;0.8 (&#x02013;10.5, 24.6)</td><td rowspan="1" colspan="1">&#x02013;4.6 (&#x02013;22.8, 14.0)</td><td rowspan="1" colspan="1">0.090</td><td rowspan="1" colspan="1">&#x02013;0.8 (&#x02013;10.5, 24.6)</td><td rowspan="1" colspan="1">&#x02013;4.6 (&#x02013;22.8, 14.0)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.116</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">SpO<sub>2</sub> (%)</td><td rowspan="1" colspan="1">1.0 (&#x02013;1.0, 2.1)</td><td rowspan="1" colspan="1">1.0 (0, 2.4)</td><td rowspan="1" colspan="1">0.128</td><td rowspan="1" colspan="1">1.0 (&#x02013;1.0, 2.1)</td><td rowspan="1" colspan="1">1.0 (0, 2.4)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.109</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">HCT (%)</td><td rowspan="1" colspan="1">2.6 (&#x02013;1.2, 5.5)</td><td rowspan="1" colspan="1">5.3 (&#x02013;2.5, 7.9)</td><td rowspan="1" colspan="1">0.291</td><td rowspan="1" colspan="1">2.6 (&#x02013;1.2, 5.5)</td><td rowspan="1" colspan="1">5.3 (&#x02013;2.5, 7.9)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.794</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Urine output (mL)</td><td rowspan="1" colspan="1">133.8 (98.6, 200.0)</td><td rowspan="1" colspan="1">124.9 (89.3, 184.0)</td><td rowspan="1" colspan="1">0.306</td><td rowspan="1" colspan="1">133.8 (98.6, 200.0)</td><td rowspan="1" colspan="1">124.9 (89.3, 184.0)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.735</td><td rowspan="1" colspan="1"/></tr><tr style="border-bottom:1px solid #000;"><td rowspan="1" colspan="1">MAP (mmHg)</td><td rowspan="1" colspan="1">&#x02013;4.0 (&#x02013;10.9, &#x02013;0.9)</td><td rowspan="1" colspan="1">&#x02013;6.5 (&#x02013;11.5, &#x02013;1.7)</td><td rowspan="1" colspan="1">0.390</td><td rowspan="1" colspan="1">&#x02013;4.0 (&#x02013;10.9, &#x02013;0.9)</td><td rowspan="1" colspan="1">&#x02013;6.5 (&#x02013;11.5, &#x02013;1.7)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.458</td><td rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn><p>Note. Data represent the change rates, except the age and are expressed as 
+median (Q1, Q3). </p><p>
+Abbreviations: BNP, B-type natriuretic peptide; CI, confidence interval; FTc, 
+corrected flow time; HCT, hematocrit; HR, heart rate; INO, inotropy; MAP, mean 
+arterial pressure; OR, odds ratio; SpO<sub>2</sub>, oxygen saturation; SVI, stroke 
+volume index; SVRI, systemic vascular resistance index; SVV, stroke volume 
+variation; UF, ultrafiltration; USCOM, ultrasonic cardiac output monitor; VTI, 
+velocity time integral.</p></fn></table-wrap-foot></table-wrap><p id="S3.SS3.SSS2.p2">Since a 30% or 50% decrease in BNP is the clinical standard for achieving UF, 
+we used these two thresholds as cut-off values to separate the study patients 
+into those who met the standard and those who did not on Day 4 compared to the 
+baseline. Multivariate logistic regression showed that INO (odds ratio (OR) 
+1.028, 95% confidence interval (CI): 1.005&#x02013;1.051; <italic toggle="yes">p</italic> = 0.015) and SVRI 
+(OR 0.933, 95% CI: 0.892&#x02013;0.976; <italic toggle="yes">p</italic> = 0.003) on USCOM were found to be 
+factors correlated to a 30% reduction in BNP on Day 4 compared to the baseline 
+(Table <xref rid="S3.T3" ref-type="table">3</xref>), while FTc (OR 0.916, 95% CI: 0.865&#x02013;0.969; <italic toggle="yes">p</italic> = 0.002) and HR 
+(OR 0.965, 95% CI: 0.939&#x02013;0.991; <italic toggle="yes">p</italic> = 0.009) on USCOM were found to be 
+independent factors correlated to a 50% reduction in BNP on Day 4 compared to 
+the baseline (Table <xref rid="S3.T4" ref-type="table">4</xref>).</p><table-wrap position="float" id="S3.T4"><label>Table 4.
+</label><caption><p><bold>Correlations between standard and substandard UF endpoints and 
+USCOM output based on a 50% reduction on Day 4 compared to baseline in BNP from 
+the baseline during UF</bold>.</p></caption><table frame="hsides" rules="groups"><tbody><tr style="border-top:1px solid #000;"><td rowspan="2" colspan="1"/><td style="border-bottom:1px solid #000;" colspan="3" align="center" rowspan="1">Univariate analysis</td><td style="border-bottom:1px solid #000;" colspan="4" align="center" rowspan="1">Multivariate analysis</td><td rowspan="2" colspan="1">Hosmer-Lemeshow test</td></tr><tr><td rowspan="1" colspan="1">Substandard (BNP)</td><td rowspan="1" colspan="1">Standard (BNP)</td><td rowspan="1" colspan="1"><italic toggle="yes">p</italic>-value</td><td rowspan="1" colspan="1">Substandard (BNP)</td><td rowspan="1" colspan="1">Standard (BNP)</td><td rowspan="1" colspan="1">OR (95% CI)</td><td rowspan="1" colspan="1"><italic toggle="yes">p</italic>-value</td></tr><tr style="border-top:1px solid #000;"><td rowspan="1" colspan="1">Age (years)</td><td rowspan="1" colspan="1">79.0 (73.0, 84.0)</td><td rowspan="1" colspan="1">71.0 (63.0, 79.0)</td><td rowspan="1" colspan="1">0.001</td><td rowspan="1" colspan="1">79.0 (73.0, 84.0)</td><td rowspan="1" colspan="1">71.0 (63.0, 79.0)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.065</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">SVI (mL/beats)</td><td rowspan="1" colspan="1">26.3 (&#x02013;4.2, 56.3)</td><td rowspan="1" colspan="1">52.6 (20.8, 173.5)</td><td rowspan="1" colspan="1">0.021</td><td rowspan="1" colspan="1">26.3 (&#x02013;4.2, 56.3)</td><td rowspan="1" colspan="1">52.6 (20.8, 173.5)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.564</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">SVV (%)</td><td rowspan="1" colspan="1">&#x02013;3.7 (&#x02013;34.6, 37.4)</td><td rowspan="1" colspan="1">&#x02013;18.2 (&#x02013;39.8, 39.4)</td><td rowspan="1" colspan="1">0.617</td><td rowspan="1" colspan="1">&#x02013;3.7 (&#x02013;34.6, 37.4)</td><td rowspan="1" colspan="1">&#x02013;18.2 (&#x02013;39.8, 39.4)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.415</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">CO (L/min)</td><td rowspan="1" colspan="1">26.0 (8.6, 56.4)</td><td rowspan="1" colspan="1">31.3 (12.4, 90.5)</td><td rowspan="1" colspan="1">0.395</td><td rowspan="1" colspan="1">26.0 (8.6, 56.4)</td><td rowspan="1" colspan="1">31.3 (12.4, 90.5)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.441</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">INO (W/m<sup>2</sup>)</td><td rowspan="1" colspan="1">25.0 (7.7, 45.1)</td><td rowspan="1" colspan="1">39.8 (28.4, 92.1)</td><td rowspan="1" colspan="1">0.006</td><td rowspan="1" colspan="1">25.0 (7.7, 45.1)</td><td rowspan="1" colspan="1">39.8 (28.4, 92.1)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.089</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Cardiac index (L/min/m<sup>2</sup>)</td><td rowspan="1" colspan="1">26.0 (8.6, 56.4)</td><td rowspan="1" colspan="1">31.3 (12.4, 90.5)</td><td rowspan="1" colspan="1">0.395</td><td rowspan="1" colspan="1">26.0 (8.6, 56.4)</td><td rowspan="1" colspan="1">31.3 (12.4, 90.5)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.441</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">SVRI (mmHg&#x000b7;min/mL)</td><td rowspan="1" colspan="1">&#x02013;29.0 (&#x02013;38.0, &#x02013;18.3)</td><td rowspan="1" colspan="1">&#x02013;39.9 (&#x02013;48.9, &#x02013;31.6)</td><td rowspan="1" colspan="1">0.006</td><td rowspan="1" colspan="1">&#x02013;29.0 (&#x02013;38.0, &#x02013;18.3)</td><td rowspan="1" colspan="1">&#x02013;39.9 (&#x02013;48.9, &#x02013;31.6)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.136</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">FTc (ms)</td><td rowspan="1" colspan="1">&#x02013;10.6 (&#x02013;19.8, &#x02013;5.5)</td><td rowspan="1" colspan="1">&#x02013;23.3 (&#x02013;31.3, &#x02013;13.3)</td><td rowspan="1" colspan="1">0.001</td><td rowspan="1" colspan="1">&#x02013;10.6 (&#x02013;19.8, &#x02013;5.5)</td><td rowspan="1" colspan="1">&#x02013;23.3 (&#x02013;31.3, &#x02013;13.3)</td><td rowspan="1" colspan="1">0.916 (0.865&#x02013;0.969)</td><td rowspan="1" colspan="1">0.002</td><td rowspan="1" colspan="1">0.655</td></tr><tr><td rowspan="1" colspan="1">VTI (cm)</td><td rowspan="1" colspan="1">26.4 (11.8, 46.7)</td><td rowspan="1" colspan="1">55.7 (29.7, 78.9)</td><td rowspan="1" colspan="1">0.002</td><td rowspan="1" colspan="1">26.4 (11.8, 46.7)</td><td rowspan="1" colspan="1">55.7 (29.7, 78.9)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.560</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">HR (bpm)</td><td rowspan="1" colspan="1">2.8 (&#x02013;11.0, 21.4)</td><td rowspan="1" colspan="1">&#x02013;14.1 (&#x02013;34.9, 0)</td><td rowspan="1" colspan="1">0.002</td><td rowspan="1" colspan="1">2.8 (&#x02013;11.0, 21.4)</td><td rowspan="1" colspan="1">&#x02013;14.1 (&#x02013;34.9, 0)</td><td rowspan="1" colspan="1">0.965 (0.939&#x02013;0.991)</td><td rowspan="1" colspan="1">0.009</td><td rowspan="1" colspan="1">0.655</td></tr><tr><td rowspan="1" colspan="1">SpO<sub>2</sub> (%)</td><td rowspan="1" colspan="1">1.0 (0, 2.1)</td><td rowspan="1" colspan="1">2.0 (0, 3.2)</td><td rowspan="1" colspan="1">0.522</td><td rowspan="1" colspan="1">1.0 (0, 2.1)</td><td rowspan="1" colspan="1">2.0 (0, 3.2)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.367</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">HCT (%)</td><td rowspan="1" colspan="1">4.3 (&#x02013;0.5, 6.7)</td><td rowspan="1" colspan="1">1.9 (&#x02013;4.2, 8.5)</td><td rowspan="1" colspan="1">0.359</td><td rowspan="1" colspan="1">4.3 (&#x02013;0.5, 6.7)</td><td rowspan="1" colspan="1">1.9 (&#x02013;4.2, 8.5)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.182</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Urine output (mL)</td><td rowspan="1" colspan="1">138.5 (101.1, 193.1)</td><td rowspan="1" colspan="1">106.5 (78.6, 134.3)</td><td rowspan="1" colspan="1">0.005</td><td rowspan="1" colspan="1">138.5 (101.1, 193.1)</td><td rowspan="1" colspan="1">106.5 (78.6, 134.3)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.094</td><td rowspan="1" colspan="1"/></tr><tr style="border-bottom:1px solid #000;"><td rowspan="1" colspan="1">MAP (mmHg)</td><td rowspan="1" colspan="1">&#x02013;5.2 (&#x02013;13.1, &#x02013;0.3)</td><td rowspan="1" colspan="1">&#x02013;6.6 (&#x02013;10.8, &#x02013;2.4)</td><td rowspan="1" colspan="1">0.733</td><td rowspan="1" colspan="1">&#x02013;5.2 (&#x02013;13.1, &#x02013;0.3)</td><td rowspan="1" colspan="1">&#x02013;6.6 (&#x02013;10.8, &#x02013;2.4)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.326</td><td rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn><p>Note. Data represent the change rates, except the age, and are expressed as 
+median (Q1, Q3). </p><p>
+Abbreviations: BNP, B-type natriuretic peptide; CI, confidence interval; CO, 
+cardiac output; FTc, corrected flow time; HCT, hematocrit; HR, heart rate; INO, 
+inotropy; MAP, mean arterial pressure; OR, odds ratio; SpO<sub>2</sub>, oxygen 
+saturation; SVI, stroke volume index; SVRI, systemic vascular resistance index; 
+SVV, stroke volume variation; UF, ultrafiltration; USCOM, ultrasonic cardiac 
+output monitor; VTI, velocity time integral.</p></fn></table-wrap-foot></table-wrap><p id="S3.SS3.SSS2.p3">Additionally, in this trial, using a 30% reduction in BNP as the criterion for 
+UF success, the proportion of patients achieving the standard by Day 7 was 90% 
+in the U group and 100% in the UU group, with a median achievement time of 4.0 
+days for both groups. The average time to standard achievement was 5.9 days in 
+the UU group and 6.0 days in the U group.</p><p id="S3.SS3.SSS2.p4">By Day 7, using a 50% reduction in BNP as the criterion for UF success, the 
+proportion of patients achieving the standard was 70% in both the U and UU 
+groups, with a median achievement time of 7 days. The average time to standard 
+achievement was 3.5 days in the UU group and 3.9 days in the U group.</p></sec><sec id="S3.SS3.SSS3"><title>3.3.3 Predictive Model of USCOM Parameters for Achieving UF 
+Standards</title><p id="S3.SS3.SSS3.p1">After including variables directly affecting UF standards (all <italic toggle="yes">p</italic>
+<inline-formula><mml:math id="w70" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 
+0.05) in multiple regression analysis, we focused on the variables included from 
+univariate analysis and performed ROC curve analysis for these variables in 
+single or combined situations to predict the possibility model of achieving UF 
+attainments.</p><p id="S3.SS3.SSS3.p2">After including variables directly affecting UF standards (all <italic toggle="yes">p</italic>
+<inline-formula><mml:math id="w71" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula> 
+0.05) in multiple regression analysis, we focused on the influential INO and SVRI 
+variables and performed ROC curve analysis for these variables in single or 
+combined situations to predict the possibility model of achieving UF attainments. 
+By evaluating the sensitivity (true positive rate), specificity (true negative 
+rate), and accuracy, we found that considering a reduction in BNP on Day 4 
+compared to a baseline <inline-formula><mml:math id="w72" alttext="&#x0003e;" display="inline" overflow="scroll"><mml:mo>&#x0003e;</mml:mo></mml:math></inline-formula>30%, Eqn. 1 for determining UF endpoints was: &#x02013;2.462 
++ 0.028 <inline-formula><mml:math id="w73" alttext="\times{}" display="inline" overflow="scroll"><mml:mo>&#x000d7;</mml:mo></mml:math></inline-formula> INO &#x02013; 0.069 <inline-formula><mml:math id="w74" alttext="\times{}" display="inline" overflow="scroll"><mml:mo>&#x000d7;</mml:mo></mml:math></inline-formula> SVRI (AUC ROC 0.831, 95% CI: 
+0.741&#x02013;0.920; Hosmer-Lemeshow index 0.814), with a predicted sensitivity, 
+specificity and accuracy of 70% (37%, 89%), 83% (47%, 97%) and 75.0%, with 
+a cut-off value of 0.567 (Fig. <xref rid="S3.F2" ref-type="fig">2</xref>a and<bold> Supplementary Table 3</bold>). In other 
+words, when using USCOM for UF monitoring, we could predict UF attainment using 
+this formula thus avoiding over UF for patients.</p><fig position="float" id="S3.F2"><label>Fig. 2.
+</label><caption><p><bold>ROC curve analysis for achieving UF standards of thresholds of 
+(a) 30% and (b) 50% reduction in BNP concentrations relative to baseline on Day 
+4</bold>. BNP, B-type natriuretic peptide; FTc, corrected flow time; HR, heart rate; 
+INO, inotropy; ROC, receiver operating characteristic; SVRI, systemic vascular 
+resistance index; UF, ultrafiltration.</p></caption><graphic xlink:href="2153-8174-26-5-27100-g2" id="S3.F2.g1" position="float"/></fig><p id="S3.SS3.SSS3.p3">For the condition of considering a reduction in BNP on Day 4 compared to a 
+baseline of <inline-formula><mml:math id="w75" alttext="&#x0003e;" display="inline" overflow="scroll"><mml:mo>&#x0003e;</mml:mo></mml:math></inline-formula>50%, Eqn. 2 was: &#x02013;2.640 &#x02013; 0.088 <inline-formula><mml:math id="w76" alttext="\times{}" display="inline" overflow="scroll"><mml:mo>&#x000d7;</mml:mo></mml:math></inline-formula> FTc &#x02013; 0.036 
+<inline-formula><mml:math id="w77" alttext="\times{}" display="inline" overflow="scroll"><mml:mo>&#x000d7;</mml:mo></mml:math></inline-formula> HR (AUC ROC 0.809, 95% CI: 0.709&#x02013;0.909; Hosmer-Lemeshow index 
+0.655), with a predicted cut-off value of 0.572 (Fig. <xref rid="S3.F2" ref-type="fig">2</xref>b and 
+<bold>Supplementary Table 4</bold>). This means that, according to the 50% reduction 
+in the BNP standard, when inserting the corresponding USCOM variables, if the 
+probability value (<italic toggle="yes">p</italic>) was <inline-formula><mml:math id="w78" alttext="&#x0003e;" display="inline" overflow="scroll"><mml:mo>&#x0003e;</mml:mo></mml:math></inline-formula>0.572, it indicated that UF attainments had 
+been achieved with sensitivity, specificity and accuracy of this model of 83% 
+(52%, 96%), 63% (33%, 86%) and 72.5%, respectively.</p></sec></sec><sec id="S3.SS4"><title>3.4 Adverse Events </title><p id="S3.SS4.p1">No adverse events were reported due to USCOM within 24 h, indicating that USCOM 
+was a safe and non-invasive monitoring device.</p></sec><sec id="S3.SS5"><title>3.5 Economic Benefits After Using USCOM + UF</title><p id="S3.SS5.p1">The use of USCOM could significantly reduce treatment costs including UF related 
+costs (1309.9 vs. 955.8 USD, <italic toggle="yes">p</italic> = 0.030), hospitalization expenses 
+(5175.5 vs. 3524.6 USD, <italic toggle="yes">p</italic> = 0.007) and costs of blood concentrator 
+(504.0 vs. 336.0 USD, <italic toggle="yes">p</italic> = 0.046) and the hemodialysis circuit (546.0 vs. 
+364.0 USD, <italic toggle="yes">p</italic> = 0.046), as well as a shorter mean hospitalization 
+duration (9.3 vs. 12.8 days, <italic toggle="yes">p</italic> = 0.015). In addition, there was no 
+significant difference in re-hospitalization rates associated with heart failure 
+at <inline-formula><mml:math id="w79" alttext="\leq" display="inline" overflow="scroll"><mml:mo>&#x02264;</mml:mo></mml:math></inline-formula>30 days (25.0% vs. 20.0%, <italic toggle="yes">p</italic> = 0.705) and costs related to 
+continuous renal replacement therapy (268.8.0 vs. 156.8.0 USD, <italic toggle="yes">p</italic> = 
+0.142) between the U and UU groups (Table <xref rid="S3.T5" ref-type="table">5</xref>).</p><table-wrap position="float" id="S3.T5"><label>Table 5.
+</label><caption><p><bold>Economic benefits after using USCOM + UF</bold>.</p></caption><table frame="hsides" rules="groups"><tbody><tr style="border-top:1px solid #000;border-bottom:1px solid #000;"><td colspan="2" rowspan="1"/><td rowspan="1" colspan="1">Total (n = 40)</td><td rowspan="1" colspan="1">UU group (n = 20)</td><td rowspan="1" colspan="1">U group (n = 20)</td><td rowspan="1" colspan="1"><italic toggle="yes">p</italic>-value</td></tr><tr><td colspan="2" rowspan="1">Treatment costs (USD)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">UF related costs</td><td rowspan="1" colspan="1">1208.8 (896.1, 1327.0)</td><td rowspan="1" colspan="1">955.8 (862.4, 1277.4)</td><td rowspan="1" colspan="1">1309.9 (919.8, 1331.0)</td><td rowspan="1" colspan="1">0.030</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Hospitalization expenses</td><td rowspan="1" colspan="1">3769.5 (3152.8, 5506.1)</td><td rowspan="1" colspan="1">3524.6 (2923.1, 4245.4)</td><td rowspan="1" colspan="1">5175.5 (3465.1, 7732.1)</td><td rowspan="1" colspan="1">0.007</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Blood concentrator</td><td rowspan="1" colspan="1">420.0 (336.0, 504.0)</td><td rowspan="1" colspan="1">336.0 (336.0, 504.0)</td><td rowspan="1" colspan="1">504.0 (336.0, 504.0)</td><td rowspan="1" colspan="1">0.046</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Hemodialysis circuit</td><td rowspan="1" colspan="1">455.0 (364.0, 546.0)</td><td rowspan="1" colspan="1">364.0 (364.0, 546.0)</td><td rowspan="1" colspan="1">546.0 (364.0, 546.0)</td><td rowspan="1" colspan="1">0.046</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Continuous renal replacement therapy</td><td rowspan="1" colspan="1">235.2 (156.8, 268.8)</td><td rowspan="1" colspan="1">156.8 (156.8, 268.8)</td><td rowspan="1" colspan="1">268.8 (156.8, 268.8)</td><td rowspan="1" colspan="1">0.142</td></tr><tr><td colspan="2" rowspan="1">Hospitalization durations (Days)</td><td rowspan="1" colspan="1">11.0 <inline-formula><mml:math id="w80" alttext="\pm" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> 4.5</td><td rowspan="1" colspan="1">9.3 <inline-formula><mml:math id="w81" alttext="\pm" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> 2.5</td><td rowspan="1" colspan="1">12.8 <inline-formula><mml:math id="w82" alttext="\pm" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> 5.4</td><td rowspan="1" colspan="1">0.015</td></tr><tr style="border-bottom:1px solid #000;"><td colspan="2" rowspan="1">Re-hospitalization at 30 days or less, n (%)</td><td rowspan="1" colspan="1">9 (22.5)</td><td rowspan="1" colspan="1">4 (20.0)</td><td rowspan="1" colspan="1">5 (25.0)</td><td rowspan="1" colspan="1">0.705</td></tr></tbody></table><table-wrap-foot><fn><p>Note. Data are presented as medians (Q1, Q3) and the mean <inline-formula><mml:math id="w83" alttext="\pm{}" display="inline" overflow="scroll"><mml:mo>&#x000b1;</mml:mo></mml:math></inline-formula> SD unless 
+otherwise indicated. </p><p>
+Abbreviations: UF, ultrafiltration; USCOM, ultrasonic cardiac output monitor; U 
+group, ultrafiltration group; UU group, ultrafiltration + ultrasonic cardiac 
+output monitor group.</p></fn></table-wrap-foot></table-wrap></sec></sec><sec id="S4"><title>4. Discussion</title><p id="S4.p1">The present study found that change rates in MAP, HR, urine output, HCT and BNP over 7 days were similar between the U and 
+UU groups. Our study also evaluated whether USCOM could be used to estimate the 
+endpoints of UF for ADHF patients and provided two UF-endpoint prediction 
+formulae for evaluating a 30% reduction in BNP: &#x02013;2.462 + 0.028 <inline-formula><mml:math id="w84" alttext="\times{}" display="inline" overflow="scroll"><mml:mo>&#x000d7;</mml:mo></mml:math></inline-formula> INO 
+&#x02013; 0.069 <inline-formula><mml:math id="w85" alttext="\times{}" display="inline" overflow="scroll"><mml:mo>&#x000d7;</mml:mo></mml:math></inline-formula> SVRI, and for a 50% reduction of BNP: &#x02013;2.640 &#x02013; 0.088 
+<inline-formula><mml:math id="w86" alttext="\times{}" display="inline" overflow="scroll"><mml:mo>&#x000d7;</mml:mo></mml:math></inline-formula> FTc &#x02013; 0.036 <inline-formula><mml:math id="w87" alttext="\times{}" display="inline" overflow="scroll"><mml:mo>&#x000d7;</mml:mo></mml:math></inline-formula> HR. Moreover, UF combined with USCOM also 
+reduced the financial burden of treatment and hospitalization for patients.</p><p id="S4.p2">The introduction of non-invasive devices for monitoring CO in AHF patients 
+represents a significant advance in that they can reduce the occurrence of 
+complications (e.g., infection, thrombosis) compared with invasive hemodynamic 
+monitoring [<xref rid="b34" ref-type="bibr">34</xref>]. The present trial also confirmed that USCOM was a safe 
+non-invasive device, as no adverse events due to USCOM were observed within 24 h. 
+Current non-invasive approaches for determining CO include impedance cardiography 
+and echocardiography, but other techniques are under investigation but are 
+proving to have varying efficacies [<xref rid="b35" ref-type="bibr">35</xref>]. Operator dependence was undoubtedly the 
+greatest limitation for the application of echocardiography. That is, the 
+operator required advanced experience and echocardiography training, so that the 
+learning curve was even longer compared to that of other non-invasive hemodynamic 
+monitoring approaches [<xref rid="b36" ref-type="bibr">36</xref>]. Impedance cardiography was an operator-independent 
+cost-effective and non-invasive approach, but the measurement accuracy might be 
+limited to pathological states, such as too low or high CO values, valvular 
+regurgitation, intracardiac shunts and the incidence of arrhythmia [<xref rid="b37" ref-type="bibr">37</xref>]. The 
+clinical application worth of USCOM remains controversial, with its accuracy and 
+precision being assessed with varied results compared with other non-invasive 
+methods [<xref rid="b38" ref-type="bibr">38</xref>, <xref rid="b39" ref-type="bibr">39</xref>]. USCOM was easy to operate so that trainees could reach the same 
+level as the trainers after 50 operations, thus the learning curve for skill 
+acquisition was significantly shorter [<xref rid="b21" ref-type="bibr">21</xref>]. Moreover, the addition of USCOM also 
+significantly resulted in treatment cost savings and a reduced hospitalization 
+stay length, which confirmed the cost-effectiveness of USCOM as previously 
+reported [<xref rid="b16" ref-type="bibr">16</xref>]. Notably, USCOM was also susceptible to operational influences. 
+Consequently, all patients in the UU group in the present trial were monitored by 
+the same skilled operator and three consecutive measurements were made with a 
+deviation of no more than 10% each time, in order to ensure the consistency and 
+reliability of the data.</p><p id="S4.p3">In the present trial, there were clear differences in the changes of hemodynamic 
+parameters during UF, which reached a steady-state level after 4 days. Since BNP 
+was the standard biomarker, variations of BNP concentrations were associated with 
+the re-hospitalization and mortality rates [<xref rid="b26" ref-type="bibr">26</xref>, <xref rid="b28" ref-type="bibr">28</xref>]. Thus, a decrease in the BNP 
+concentration on Day 4 relative to baseline was set as the UF-endpoint to 
+determine its correlation with USCOM parameters. On Day 4, INO and SVRI on USCOM 
+were found to be significantly correlated to a 30% reduction in BNP relative to 
+baseline, and the predictive formula for the UF endpoint of a 30% reduction in 
+BNP was: &#x02013;2.462 + 0.028 <inline-formula><mml:math id="w88" alttext="\times{}" display="inline" overflow="scroll"><mml:mo>&#x000d7;</mml:mo></mml:math></inline-formula> INO &#x02013; 0.069 <inline-formula><mml:math id="w89" alttext="\times{}" display="inline" overflow="scroll"><mml:mo>&#x000d7;</mml:mo></mml:math></inline-formula> SVRI (AUC ROC 0.831, 
+95% CI: 0.741&#x02013;0.920; Hosmer-Lemeshow index 0.814), with a predicted 
+sensitivity, specificity and accuracy of 70%, 83% and 75.0%, respectively, 
+with a cut-off value of 0.567. INO, serving as one of the indicators of cardiac 
+contractility, was also a distinctive hemodynamic parameter of USCOM [<xref rid="b40" ref-type="bibr">40</xref>]. 
+Previous studies found that a higher INO could result in a greater SV under the 
+same cardiac preload, while a lower INO was associated with impaired myocardial 
+contractile function [<xref rid="b41" ref-type="bibr">41</xref>, <xref rid="b42" ref-type="bibr">42</xref>]. SVRI reflected the cardiac afterload situation, 
+with afterload being another key factor that influenced SV and CO. That is, with 
+a reduction in SVRI, SV and CO were both increased. In the present trial, the 
+elevation trends of INO, SV and CO, and a reduction trend of SVRI, were also 
+observed during the UF process. Previous studies indicated that FTc effectively 
+reflected the cardiac preload situation and was utilized to predict fluid 
+responsiveness [<xref rid="b43" ref-type="bibr">43</xref>]. Chaiyakulsil <italic toggle="yes">et al</italic>. [<xref rid="b19" ref-type="bibr">19</xref>] employed USCOM, 
+transthoracic echocardiography and electrical velocimetry for hemodynamic 
+monitoring, and their findings confirmed that the FTc derived from the three 
+non-invasive monitoring approaches could be utilized interchangeably. Moreover, 
+FTc was easily measured by USCOM, and FTc may be a better predictive indicator to 
+assess volume status and diuretic therapy [<xref rid="b44" ref-type="bibr">44</xref>]. As FTc was HR dependent, the 
+present trial also confirmed a predictive formula of &#x02013;2.640 &#x02013; 0.088 <inline-formula><mml:math id="w90" alttext="\times{}" display="inline" overflow="scroll"><mml:mo>&#x000d7;</mml:mo></mml:math></inline-formula> 
+FTc &#x02013; 0.036 <inline-formula><mml:math id="w91" alttext="\times{}" display="inline" overflow="scroll"><mml:mo>&#x000d7;</mml:mo></mml:math></inline-formula> HR (AUC ROC 0.809, 95% CI: 0.709&#x02013;0.909; Hosmer-Lemeshow 
+index 0.655) for the UF endpoint of a 50% reduction in BNP, with a predicted 
+cut-off value of 0.572, with sensitivity, specificity and accuracy for this model 
+being 83%, 63% and 72.5%, respectively. Therefore, this trial highlights the 
+feasibility of using USCOM indicators to predict the achievement of UF standards 
+and has certain clinical significance.</p><p id="S4.p4">However, the kinetics of BNP release vary between individuals and are influenced 
+by factors such as renal function, medication use and comorbidities [<xref rid="b45" ref-type="bibr">45</xref>]. In some 
+cases, despite improvements in hemodynamics, there may be a delayed reduction in 
+BNP concentrations. This delay can be attributed to the time needed for the heart 
+to adjust preload and afterload, as well as the clearance rate of BNP from the 
+circulation [<xref rid="b46" ref-type="bibr">46</xref>]. In addition, it has also been reported that BNP cannot be used 
+in isolation to measure congestion; rather, the concentration must be assessed in 
+a proper clinical setting, like most other tests, and a precise cut-off point is 
+not suitable. However, as noted by Mueller <italic toggle="yes">et al</italic>. 
+[<xref rid="b47" ref-type="bibr">47</xref>], adjusting UF rates to patients&#x02019; vital signs and renal function has been 
+linked to more effective decongestion and fewer heart failure events. It is well 
+known that fluid overload is the main cause of hospitalization for patients with 
+AHF, and changes in urine output may be explored as a predictor of fluid balance 
+[<xref rid="b48" ref-type="bibr">48</xref>]. The present trial findings also indicated that urine output was positively 
+correlated with the change rate of FTc (r = 0.255, <italic toggle="yes">p</italic> = 0.022) and 
+negatively correlated with the VTI change rate (r = &#x02013;0.27, <italic toggle="yes">p</italic> = 0.016). 
+Thus, although in this trial, the rate of BNP reduction was used as a criterion 
+for terminating UF, we need to consider other clinical features and the 
+hemodynamic status of patients when considering BNP concentrations, including 
+changes in fluid balance and signs of congestion, to make wise decisions 
+regarding the termination of UF in clinical practice.</p><p id="S4.p5">Another concern was the influence of comorbidities to hemodynamic changes during 
+UF [<xref rid="b49" ref-type="bibr">49</xref>], since diabetes [<xref rid="b50" ref-type="bibr">50</xref>], hypertension [<xref rid="b51" ref-type="bibr">51</xref>], chronic kidney disease [<xref rid="b52" ref-type="bibr">52</xref>, <xref rid="b53" ref-type="bibr">53</xref>] 
+and cardiovascular diseases [<xref rid="b54" ref-type="bibr">54</xref>], both demonstrated to have an impact on fluid 
+balance and vascular tone, are crucial factors in hemodynamics [<xref rid="b55" ref-type="bibr">55</xref>]. Patients 
+with pre-existing cardiac conditions may be more susceptible to hemodynamic 
+fluctuations during UF [<xref rid="b56" ref-type="bibr">56</xref>], and require careful monitoring and management. In 
+contrast, another study demonstrated that the diverse physical conditions of 
+critically ill patients might exert a rather limited influence on the graphic 
+quality of USCOM [<xref rid="b57" ref-type="bibr">57</xref>]. In the present trial, the distribution was balanced 
+between the UU group and the U group of patients with ADHF, so that it could be 
+assumed that the hemodynamic impact was the same for both groups during their 
+respective UF sessions.</p><p id="S4.p6">This trial had several limitations. The selected ADHF patients were from a 
+single center and were not stratified randomly, which might have led to a 
+potential for bias. Besides the relative low number of samples, the frequent 
+comorbidities might have had some influence on the hemodynamic changes in the 
+graphic quality of USCOM and should be validated in a further large cohort trial. 
+Since the kinetics of BNP release vary between individuals and are influenced by 
+various factors, the usefulness of measurements of BNP concentrations may be 
+limited by the possibility that their production and release may lag behind acute 
+changes in hemodynamic measurements, thus additional potential endpoint criteria 
+(e.g., urine output changes) should be explored in the near future. Further 
+research is needed on the applicability of USCOM for different types of AHF 
+patients (e.g., those with chronic kidney disease) and to validate its economic 
+and clinical value after long-term follow-up data have been analyzed.</p></sec><sec id="S5"><title>5. Conclusions</title><p id="S5.p1">USCOM data were correlated significantly with UF outcomes and might serve as 
+measures to determine endpoints for congestion therapy with UF in patients with 
+ADHF. UF combined with USCOM also reduced the financial burdens of treatment and 
+hospitalization for patients. No adverse events were reported due to USCOM within 
+24 h use, indicating that USCOM was a safe and non-invasive monitoring device.</p></sec></body><back><ack id="S10"><title>Acknowledgment</title><p id="S10.p1">Not applicable.</p></ack><fn-group><fn><p><bold>Publisher&#x02019;s Note:</bold>
+IMR Press stays neutral with regard to jurisdictional claims in published maps and institutional
+affiliations.
+</p></fn></fn-group><glossary id="S6"><title>Abbreviations</title><p id="S6.p1">ADHF, acute decompensated heart failure; AHF, acute heart failure; AUC, area 
+under curve; BNP, B-type natriuretic peptide; CI, confidence interval; CO, 
+cardiac output; FTc, corrected flow time; HCT, hematocrit; HR, heart rate; INO, 
+inotropy; IWRS, interactive web response system; MAP, mean arterial pressure; 
+NT-proBNP, N-terminal pro-B-type natriuretic peptide; OR, odds ratio; ROC, 
+receiver operating characteristic; SpO<sub>2</sub>, oxygen saturation; SV, stroke 
+volume; SVI, stroke volume index; SVR, systemic vascular resistance; SVRI, 
+systemic vascular resistance index; SVV, stroke volume variation; U, 
+ultrafiltration alone; UF, ultrafiltration; USCOM, ultrasonic cardiac output 
+monitor; UU, ultrafiltration + ultrasonic cardiac output monitor; VTI, velocity 
+time integral.</p></glossary><sec sec-type="data-availability" id="S7"><title>Availability of Data and Materials</title><p id="S7.p1">The datasets used and/or analyzed during the current study are available from 
+the corresponding authors on reasonable request. 
+</p></sec><sec id="S8"><title>Author Contributions</title><p id="S8.p1">YL: Conceptualization, Investigation, Visualization, Writing &#x02013; original draft. 
+JC: Conceptualization, Formal analysis, Investigation, Visualization, Writing &#x02013; 
+original draft. JB: Investigation, Visualization, Writing &#x02013; review and editing. 
+FC: Investigation, Visualization, Writing &#x02013; review and editing. QW: 
+Conceptualization, Formal analysis, Project administration, Supervision, 
+Visualization, Writing &#x02013; original draft, Writing &#x02013; review and editing. FY: 
+Conceptualization, Formal analysis, Project administration, Supervision, 
+Visualization, Writing &#x02013; original draft, Writing &#x02013; review and editing. All 
+authors read and approved the final manuscript. All authors have participated 
+sufficiently in the work and agreed to be accountable for all aspects of the 
+work.</p></sec><sec id="S9"><title>Ethics Approval and Consent to Participate</title><p id="S9.p1">The study adhered to the principles of the Declaration of Helsinki and the 
+protocols were approved by the Institutional Review Board of Tongren Hospital 
+Shanghai Jiao Tong University School of Medicine (approval number: 
+2021-072-01). Written informed consent was obtained from all enrolled patients.</p></sec><sec id="S11"><title>Funding</title><p id="S11.p1">This research received no external funding. 
+</p></sec><sec sec-type="COI-statement" id="S12"><title>Conflict of Interest</title><p id="S12.p1">The authors declare no conflict of interest.</p></sec><app-group id="S13"><app><title>Supplementary Material</title><p id="S13.p1">Supplementary material associated with this article can be found, in the online version, at <uri xlink:href="https://doi.org/10.31083/RCM27100">https://doi.org/10.31083/RCM27100</uri>.</p><supplementary-material id="suppl1" position="float" content-type="local-data"><media xlink:href="2153-8174-26-5-27100-s1.docx"/></supplementary-material></app></app-group><ref-list><title>References</title><ref id="b1"><label>[1]</label><element-citation publication-type="journal"><!--Arrigo M, Jessup M, Mullens W, Reza N, Shah AM, Sliwa K, <italic>et al</italic>. Acute heart failure. Nature Reviews. Disease Primers. 2020; 6: 16. https://doi.org/10.1038/s41572&#x02013;020&#x02013;0151-7.--><person-group person-group-type="author">
+<name><surname>Arrigo</surname><given-names>M</given-names></name>
+<name><surname>Jessup</surname><given-names>M</given-names></name>
+<name><surname>Mullens</surname><given-names>W</given-names></name>
+<name><surname>Reza</surname><given-names>N</given-names></name>
+<name><surname>Shah</surname><given-names>AM</given-names></name>
+<name><surname>Sliwa</surname><given-names>K</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Acute heart failure</article-title><source>
+<italic toggle="yes">Nature Reviews. Disease Primers</italic>
+</source><year>2020</year><volume>6</volume><fpage>16</fpage><pub-id pub-id-type="doi">10.1038/s41572-020-0151-7</pub-id></element-citation></ref><ref id="b2"><label>[2]</label><element-citation publication-type="journal"><!--Chioncel O, Parissis J, Mebazaa A, Thiele H, Desch S, Bauersachs J, <italic>et al</italic>. Epidemiology, pathophysiology and contemporary management of cardiogenic shock - a position statement from the Heart Failure Association of the European Society of Cardiology. European Journal of Heart Failure. 2020; 22: 1315&#x02013;1341. https://doi.org/10.1002/ejhf.1922.--><person-group person-group-type="author">
+<name><surname>Chioncel</surname><given-names>O</given-names></name>
+<name><surname>Parissis</surname><given-names>J</given-names></name>
+<name><surname>Mebazaa</surname><given-names>A</given-names></name>
+<name><surname>Thiele</surname><given-names>H</given-names></name>
+<name><surname>Desch</surname><given-names>S</given-names></name>
+<name><surname>Bauersachs</surname><given-names>J</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Epidemiology, pathophysiology and contemporary management of cardiogenic shock - a position statement from the Heart Failure Association of the European Society of Cardiology</article-title><source>
+<italic toggle="yes">European Journal of Heart Failure</italic>
+</source><year>2020</year><volume>22</volume><fpage>1315</fpage><lpage>1341</lpage><pub-id pub-id-type="doi">10.1002/ejhf.1922</pub-id><pub-id pub-id-type="pmid">32469155</pub-id>
+</element-citation></ref><ref id="b3"><label>[3]</label><element-citation publication-type="journal"><!--Ponikowski P, Voors AA, Anker SD, Bueno H, Cleland JGF, Coats AJS, <italic>et al</italic>. 2016 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: The Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC). Developed with the special contribution of the Heart Failure Association (HFA) of the ESC. European Journal of Heart Failure. 2016; 18: 891&#x02013;975. https://doi.org/10.1002/ejhf.592.--><person-group person-group-type="author">
+<name><surname>Ponikowski</surname><given-names>P</given-names></name>
+<name><surname>Voors</surname><given-names>AA</given-names></name>
+<name><surname>Anker</surname><given-names>SD</given-names></name>
+<name><surname>Bueno</surname><given-names>H</given-names></name>
+<name><surname>Cleland</surname><given-names>JGF</given-names></name>
+<name><surname>Coats</surname><given-names>AJS</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>2016 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: The Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC). Developed with the special contribution of the Heart Failure Association (HFA) of the ESC</article-title><source>
+<italic toggle="yes">European Journal of Heart Failure</italic>
+</source><year>2016</year><volume>18</volume><fpage>891</fpage><lpage>975</lpage><pub-id pub-id-type="doi">10.1002/ejhf.592</pub-id><pub-id pub-id-type="pmid">27207191</pub-id>
+</element-citation></ref><ref id="b4"><label>[4]</label><element-citation publication-type="journal"><!--Klein L. Treating Hemodynamic Congestion Is the Key to Prevent Heart Failure Hospitalizations. JACC. Heart Failure. 2016; 4: 345&#x02013;347. https://doi.org/10.1016/j.jchf.2016.03.004.--><person-group person-group-type="author">
+<name><surname>Klein</surname><given-names>L</given-names></name>
+</person-group><article-title>Treating Hemodynamic Congestion Is the Key to Prevent Heart Failure Hospitalizations</article-title><source>
+<italic toggle="yes">JACC. Heart Failure</italic>
+</source><year>2016</year><volume>4</volume><fpage>345</fpage><lpage>347</lpage><pub-id pub-id-type="doi">10.1016/j.jchf.2016.03.004</pub-id><pub-id pub-id-type="pmid">27126282</pub-id>
+</element-citation></ref><ref id="b5"><label>[5]</label><element-citation publication-type="journal"><!--Falco L, Martucci ML, Valente F, Verrengia M, Pacileo G, Masarone D. Pathophysiology-Based Management of Acute Heart Failure. Clinics and Practice. 2023; 13: 206&#x02013;218. https://doi.org/10.3390/clinpract13010019.--><person-group person-group-type="author">
+<name><surname>Falco</surname><given-names>L</given-names></name>
+<name><surname>Martucci</surname><given-names>ML</given-names></name>
+<name><surname>Valente</surname><given-names>F</given-names></name>
+<name><surname>Verrengia</surname><given-names>M</given-names></name>
+<name><surname>Pacileo</surname><given-names>G</given-names></name>
+<name><surname>Masarone</surname><given-names>D</given-names></name>
+</person-group><article-title>Pathophysiology-Based Management of Acute Heart Failure</article-title><source>
+<italic toggle="yes">Clinics and Practice</italic>
+</source><year>2023</year><volume>13</volume><fpage>206</fpage><lpage>218</lpage><pub-id pub-id-type="doi">10.3390/clinpract13010019</pub-id><pub-id pub-id-type="pmid">36826161</pub-id>
+</element-citation></ref><ref id="b6"><label>[6]</label><element-citation publication-type="journal"><!--Bistola V, Arfaras-Melainis A, Polyzogopoulou E, Ikonomidis I, Parissis J. Inotropes in Acute Heart Failure: From Guidelines to Practical Use: Therapeutic Options and Clinical Practice. Cardiac Failure Review. 2019; 5: 133&#x02013;139. https://doi.org/10.15420/cfr.2019.11.2.--><person-group person-group-type="author">
+<name><surname>Bistola</surname><given-names>V</given-names></name>
+<name><surname>Arfaras-Melainis</surname><given-names>A</given-names></name>
+<name><surname>Polyzogopoulou</surname><given-names>E</given-names></name>
+<name><surname>Ikonomidis</surname><given-names>I</given-names></name>
+<name><surname>Parissis</surname><given-names>J</given-names></name>
+</person-group><article-title>Inotropes in Acute Heart Failure: From Guidelines to Practical Use: Therapeutic Options and Clinical Practice</article-title><source>
+<italic toggle="yes">Cardiac Failure Review</italic>
+</source><year>2019</year><volume>5</volume><fpage>133</fpage><lpage>139</lpage><pub-id pub-id-type="doi">10.15420/cfr.2019.11.2</pub-id><pub-id pub-id-type="pmid">31768269</pub-id>
+</element-citation></ref><ref id="b7"><label>[7]</label><element-citation publication-type="journal"><!--Felker GM, Lee KL, Bull DA, Redfield MM, Stevenson LW, Goldsmith SR, <italic>et al</italic>. Diuretic strategies in patients with acute decompensated heart failure. The New England Journal of Medicine. 2011; 364: 797&#x02013;805. https://doi.org/10.1056/NEJMoa1005419.--><person-group person-group-type="author">
+<name><surname>Felker</surname><given-names>GM</given-names></name>
+<name><surname>Lee</surname><given-names>KL</given-names></name>
+<name><surname>Bull</surname><given-names>DA</given-names></name>
+<name><surname>Redfield</surname><given-names>MM</given-names></name>
+<name><surname>Stevenson</surname><given-names>LW</given-names></name>
+<name><surname>Goldsmith</surname><given-names>SR</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Diuretic strategies in patients with acute decompensated heart failure</article-title><source>
+<italic toggle="yes">The New England Journal of Medicine</italic>
+</source><year>2011</year><volume>364</volume><fpage>797</fpage><lpage>805</lpage><pub-id pub-id-type="doi">10.1056/NEJMoa1005419</pub-id><pub-id pub-id-type="pmid">21366472</pub-id>
+</element-citation></ref><ref id="b8"><label>[8]</label><element-citation publication-type="journal"><!--Shchekochikhin D, Al Ammary F, Lindenfeld JA, Schrier R. Role of diuretics and ultrafiltration in congestive heart failure. Pharmaceuticals (Basel, Switzerland). 2013; 6: 851&#x02013;866. https://doi.org/10.3390/ph6070851.--><person-group person-group-type="author">
+<name><surname>Shchekochikhin</surname><given-names>D</given-names></name>
+<name><surname>Al Ammary</surname><given-names>F</given-names></name>
+<name><surname>Lindenfeld</surname><given-names>JA</given-names></name>
+<name><surname>Schrier</surname><given-names>R</given-names></name>
+</person-group><article-title>Role of diuretics and ultrafiltration in congestive heart failure</article-title><source>
+<italic toggle="yes">Pharmaceuticals (Basel, Switzerland)</italic>
+</source><year>2013</year><volume>6</volume><fpage>851</fpage><lpage>866</lpage><pub-id pub-id-type="doi">10.3390/ph6070851</pub-id><pub-id pub-id-type="pmid">24276318</pub-id>
+</element-citation></ref><ref id="b9"><label>[9]</label><element-citation publication-type="journal"><!--Lu R, Muci&#x000f1;o-Bermejo MJ, Ribeiro LC, Tonini E, Estremadoyro C, Samoni S, <italic>et al</italic>. Peritoneal dialysis in patients with refractory congestive heart failure: a systematic review. Cardiorenal Medicine. 2015; 5: 145&#x02013;156. https://doi.org/10.1159/000380915.--><person-group person-group-type="author">
+<name><surname>Lu</surname><given-names>R</given-names></name>
+<name><surname>Muci&#x000f1;o-Bermejo</surname><given-names>MJ</given-names></name>
+<name><surname>Ribeiro</surname><given-names>LC</given-names></name>
+<name><surname>Tonini</surname><given-names>E</given-names></name>
+<name><surname>Estremadoyro</surname><given-names>C</given-names></name>
+<name><surname>Samoni</surname><given-names>S</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Peritoneal dialysis in patients with refractory congestive heart failure: a systematic review</article-title><source>
+<italic toggle="yes">Cardiorenal Medicine</italic>
+</source><year>2015</year><volume>5</volume><fpage>145</fpage><lpage>156</lpage><pub-id pub-id-type="doi">10.1159/000380915</pub-id><pub-id pub-id-type="pmid">25999963</pub-id>
+</element-citation></ref><ref id="b10"><label>[10]</label><element-citation publication-type="journal"><!--Siddiqui WJ, Kohut AR, Hasni SF, Goldman JM, Silverman B, Kelepouris E, <italic>et al</italic>. Readmission rate after ultrafiltration in acute decompensated heart failure: a systematic review and meta-analysis. Heart Failure Reviews. 2017; 22: 685&#x02013;698. https://doi.org/10.1007/s10741&#x02013;017-9650-3.--><person-group person-group-type="author">
+<name><surname>Siddiqui</surname><given-names>WJ</given-names></name>
+<name><surname>Kohut</surname><given-names>AR</given-names></name>
+<name><surname>Hasni</surname><given-names>SF</given-names></name>
+<name><surname>Goldman</surname><given-names>JM</given-names></name>
+<name><surname>Silverman</surname><given-names>B</given-names></name>
+<name><surname>Kelepouris</surname><given-names>E</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Readmission rate after ultrafiltration in acute decompensated heart failure: a systematic review and meta-analysis</article-title><source>
+<italic toggle="yes">Heart Failure Reviews</italic>
+</source><year>2017</year><volume>22</volume><fpage>685</fpage><lpage>698</lpage><pub-id pub-id-type="doi">10.1007/s10741-017-9650-3</pub-id><pub-id pub-id-type="pmid">28900774</pub-id>
+</element-citation></ref><ref id="b11"><label>[11]</label><element-citation publication-type="journal"><!--Srivastava M, Harrison N, Caetano AFS, Tan AR, Law M. Ultrafiltration for acute heart failure. The Cochrane Database of Systematic Reviews. 2022; 1: CD013593. https://doi.org/10.1002/14651858.CD013593.pub2.--><person-group person-group-type="author">
+<name><surname>Srivastava</surname><given-names>M</given-names></name>
+<name><surname>Harrison</surname><given-names>N</given-names></name>
+<name><surname>Caetano</surname><given-names>AFS</given-names></name>
+<name><surname>Tan</surname><given-names>AR</given-names></name>
+<name><surname>Law</surname><given-names>M</given-names></name>
+</person-group><article-title>Ultrafiltration for acute heart failure</article-title><source>
+<italic toggle="yes">The Cochrane Database of Systematic Reviews</italic>
+</source><year>2022</year><volume>1</volume><fpage>CD013593</fpage><pub-id pub-id-type="doi">10.1002/14651858.CD013593.pub2</pub-id><pub-id pub-id-type="pmid">35061249</pub-id>
+</element-citation></ref><ref id="b12"><label>[12]</label><element-citation publication-type="journal"><!--Grodin JL, Carter S, Bart BA, Goldsmith SR, Drazner MH, Tang WHW. Direct comparison of ultrafiltration to pharmacological decongestion in heart failure: a per-protocol analysis of CARRESS-HF. European Journal of Heart Failure. 2018; 20: 1148&#x02013;1156. https://doi.org/10.1002/ejhf.1158.--><person-group person-group-type="author">
+<name><surname>Grodin</surname><given-names>JL</given-names></name>
+<name><surname>Carter</surname><given-names>S</given-names></name>
+<name><surname>Bart</surname><given-names>BA</given-names></name>
+<name><surname>Goldsmith</surname><given-names>SR</given-names></name>
+<name><surname>Drazner</surname><given-names>MH</given-names></name>
+<name><surname>Tang</surname><given-names>WHW</given-names></name>
+</person-group><article-title>Direct comparison of ultrafiltration to pharmacological decongestion in heart failure: a per-protocol analysis of CARRESS-HF</article-title><source>
+<italic toggle="yes">European Journal of Heart Failure</italic>
+</source><year>2018</year><volume>20</volume><fpage>1148</fpage><lpage>1156</lpage><pub-id pub-id-type="doi">10.1002/ejhf.1158</pub-id><pub-id pub-id-type="pmid">29493059</pub-id>
+</element-citation></ref><ref id="b13"><label>[13]</label><element-citation publication-type="journal"><!--Chung ES, O&#x02019;Brien TM, Menon S, Bartone C, Mazur W, Kereiakes DJ. A pilot study of target weight guided treatment in acute heart failure using ultrafiltration or usual care: effect on sodium removal. Korean Circulation Journal. 2014; 44: 156&#x02013;161. https://doi.org/10.4070/kcj.2014.44.3.156.--><person-group person-group-type="author">
+<name><surname>Chung</surname><given-names>ES</given-names></name>
+<name><surname>O&#x02019;Brien</surname><given-names>TM</given-names></name>
+<name><surname>Menon</surname><given-names>S</given-names></name>
+<name><surname>Bartone</surname><given-names>C</given-names></name>
+<name><surname>Mazur</surname><given-names>W</given-names></name>
+<name><surname>Kereiakes</surname><given-names>DJ</given-names></name>
+</person-group><article-title>A pilot study of target weight guided treatment in acute heart failure using ultrafiltration or usual care: effect on sodium removal</article-title><source>
+<italic toggle="yes">Korean Circulation Journal</italic>
+</source><year>2014</year><volume>44</volume><fpage>156</fpage><lpage>161</lpage><pub-id pub-id-type="doi">10.4070/kcj.2014.44.3.156</pub-id><pub-id pub-id-type="pmid">24876856</pub-id>
+</element-citation></ref><ref id="b14"><label>[14]</label><element-citation publication-type="journal"><!--Bart BA, Goldsmith SR, Lee KL, Givertz MM, O&#x02019;Connor CM, Bull DA, <italic>et al</italic>. Ultrafiltration in decompensated heart failure with cardiorenal syndrome. The New England Journal of Medicine. 2012; 367: 2296&#x02013;2304. https://doi.org/10.1056/NEJMoa1210357.--><person-group person-group-type="author">
+<name><surname>Bart</surname><given-names>BA</given-names></name>
+<name><surname>Goldsmith</surname><given-names>SR</given-names></name>
+<name><surname>Lee</surname><given-names>KL</given-names></name>
+<name><surname>Givertz</surname><given-names>MM</given-names></name>
+<name><surname>O&#x02019;Connor</surname><given-names>CM</given-names></name>
+<name><surname>Bull</surname><given-names>DA</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Ultrafiltration in decompensated heart failure with cardiorenal syndrome</article-title><source>
+<italic toggle="yes">The New England Journal of Medicine</italic>
+</source><year>2012</year><volume>367</volume><fpage>2296</fpage><lpage>2304</lpage><pub-id pub-id-type="doi">10.1056/NEJMoa1210357</pub-id><pub-id pub-id-type="pmid">23131078</pub-id>
+</element-citation></ref><ref id="b15"><label>[15]</label><element-citation publication-type="journal"><!--Phillips RA, Smith BE, Madigan VM. Stroke Volume Monitoring: Novel Continuous Wave Doppler Parameters, Algorithms and Advanced Noninvasive Haemodynamic Concepts. Current Anesthesiology Reports. 2017; 7: 387&#x02013;398. https://doi.org/10.1007/s40140&#x02013;017&#x02013;0235-4.--><person-group person-group-type="author">
+<name><surname>Phillips</surname><given-names>RA</given-names></name>
+<name><surname>Smith</surname><given-names>BE</given-names></name>
+<name><surname>Madigan</surname><given-names>VM</given-names></name>
+</person-group><article-title>Stroke Volume Monitoring: Novel Continuous Wave Doppler Parameters, Algorithms and Advanced Noninvasive Haemodynamic Concepts</article-title><source>
+<italic toggle="yes">Current Anesthesiology Reports</italic>
+</source><year>2017</year><volume>7</volume><fpage>387</fpage><lpage>398</lpage><pub-id pub-id-type="doi">10.1007/s40140-017-0235-4</pub-id><pub-id pub-id-type="pmid">29200974</pub-id>
+</element-citation></ref><ref id="b16"><label>[16]</label><element-citation publication-type="journal"><!--Tan HL, Pinder M, Parsons R, Roberts B, van Heerden PV. Clinical evaluation of USCOM ultrasonic cardiac output monitor in cardiac surgical patients in intensive care unit. British Journal of Anaesthesia. 2005; 94: 287&#x02013;291. https://doi.org/10.1093/bja/aei054.--><person-group person-group-type="author">
+<name><surname>Tan</surname><given-names>HL</given-names></name>
+<name><surname>Pinder</surname><given-names>M</given-names></name>
+<name><surname>Parsons</surname><given-names>R</given-names></name>
+<name><surname>Roberts</surname><given-names>B</given-names></name>
+<name><surname>van Heerden</surname><given-names>PV</given-names></name>
+</person-group><article-title>Clinical evaluation of USCOM ultrasonic cardiac output monitor in cardiac surgical patients in intensive care unit</article-title><source>
+<italic toggle="yes">British Journal of Anaesthesia</italic>
+</source><year>2005</year><volume>94</volume><fpage>287</fpage><lpage>291</lpage><pub-id pub-id-type="doi">10.1093/bja/aei054</pub-id><pub-id pub-id-type="pmid">15653709</pub-id>
+</element-citation></ref><ref id="b17"><label>[17]</label><element-citation publication-type="journal"><!--Pare JR, Liu R, Moore CL, Safdar B. Corrected flow time: a noninvasive ultrasound measure to detect preload reduction by nitroglycerin. The American Journal of Emergency Medicine. 2016; 34: 1859&#x02013;1862. https://doi.org/10.1016/j.ajem.2016.06.077.--><person-group person-group-type="author">
+<name><surname>Pare</surname><given-names>JR</given-names></name>
+<name><surname>Liu</surname><given-names>R</given-names></name>
+<name><surname>Moore</surname><given-names>CL</given-names></name>
+<name><surname>Safdar</surname><given-names>B</given-names></name>
+</person-group><article-title>Corrected flow time: a noninvasive ultrasound measure to detect preload reduction by nitroglycerin</article-title><source>
+<italic toggle="yes">The American Journal of Emergency Medicine</italic>
+</source><year>2016</year><volume>34</volume><fpage>1859</fpage><lpage>1862</lpage><pub-id pub-id-type="doi">10.1016/j.ajem.2016.06.077</pub-id><pub-id pub-id-type="pmid">27431739</pub-id>
+</element-citation></ref><ref id="b18"><label>[18]</label><element-citation publication-type="journal"><!--Cheng YW, Xu F, Li J. Identification of volume parameters monitored with a noninvasive ultrasonic cardiac output monitor for predicting fluid responsiveness in children after congenital heart disease surgery. Medicine. 2018; 97: e12289. https://doi.org/10.1097/MD.0000000000012289.--><person-group person-group-type="author">
+<name><surname>Cheng</surname><given-names>YW</given-names></name>
+<name><surname>Xu</surname><given-names>F</given-names></name>
+<name><surname>Li</surname><given-names>J</given-names></name>
+</person-group><article-title>Identification of volume parameters monitored with a noninvasive ultrasonic cardiac output monitor for predicting fluid responsiveness in children after congenital heart disease surgery</article-title><source>
+<italic toggle="yes">Medicine</italic>
+</source><year>2018</year><volume>97</volume><fpage>e12289</fpage><pub-id pub-id-type="doi">10.1097/MD.0000000000012289</pub-id><pub-id pub-id-type="pmid">30278500</pub-id>
+</element-citation></ref><ref id="b19"><label>[19]</label><element-citation publication-type="journal"><!--Chaiyakulsil C, Chantra M, Katanyuwong P, Khositseth A, Anantasit N. Comparison of three non-invasive hemodynamic monitoring methods in critically ill children. PloS One. 2018; 13: e0199203. https://doi.org/10.1371/journal.pone.0199203.--><person-group person-group-type="author">
+<name><surname>Chaiyakulsil</surname><given-names>C</given-names></name>
+<name><surname>Chantra</surname><given-names>M</given-names></name>
+<name><surname>Katanyuwong</surname><given-names>P</given-names></name>
+<name><surname>Khositseth</surname><given-names>A</given-names></name>
+<name><surname>Anantasit</surname><given-names>N</given-names></name>
+</person-group><article-title>Comparison of three non-invasive hemodynamic monitoring methods in critically ill children</article-title><source>
+<italic toggle="yes">PloS One</italic>
+</source><year>2018</year><volume>13</volume><fpage>e0199203</fpage><pub-id pub-id-type="doi">10.1371/journal.pone.0199203</pub-id><pub-id pub-id-type="pmid">29912937</pub-id>
+</element-citation></ref><ref id="b20"><label>[20]</label><element-citation publication-type="journal"><!--Zhang Y, Wang Y, Ji D, Qian J, Xu J, Shi J. Ultrasound cardiac output monitor and thermodilution for cardiac function monitoring in critical patients: a Meta-analysis. Zhonghua Wei Zhong Bing Ji Jiu Yi Xue. 2019; 31: 1462&#x02013;1468. https://doi.org/10.3760/cma.j.issn.2095-4352.2019.12.006. (In Chinese)--><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Y</given-names></name>
+<name><surname>Wang</surname><given-names>Y</given-names></name>
+<name><surname>Ji</surname><given-names>D</given-names></name>
+<name><surname>Qian</surname><given-names>J</given-names></name>
+<name><surname>Xu</surname><given-names>J</given-names></name>
+<name><surname>Shi</surname><given-names>J</given-names></name>
+</person-group><article-title>Ultrasound cardiac output monitor and thermodilution for cardiac function monitoring in critical patients: a Meta-analysis</article-title><source>
+<italic toggle="yes">Zhonghua Wei Zhong Bing Ji Jiu Yi Xue</italic>
+</source><year>2019</year><volume>31</volume><fpage>1462</fpage><lpage>1468</lpage><comment>In Chinese</comment><pub-id pub-id-type="doi">10.3760/cma.j.issn.2095-4352.2019.12.006</pub-id><pub-id pub-id-type="pmid">32029030</pub-id>
+</element-citation></ref><ref id="b21"><label>[21]</label><element-citation publication-type="journal"><!--Chan CPY, Li YL, Agarwal N, Sin KK, Leung YK, Narain S, <italic>et al</italic>. Learning profiles for noninvasive transcutaneous Doppler ultrasound. European Journal of Emergency Medicine: Official Journal of the European Society for Emergency Medicine. 2015; 22: 128&#x02013;134. https://doi.org/10.1097/MEJ.0000000000000146.--><person-group person-group-type="author">
+<name><surname>Chan</surname><given-names>CPY</given-names></name>
+<name><surname>Li</surname><given-names>YL</given-names></name>
+<name><surname>Agarwal</surname><given-names>N</given-names></name>
+<name><surname>Sin</surname><given-names>KK</given-names></name>
+<name><surname>Leung</surname><given-names>YK</given-names></name>
+<name><surname>Narain</surname><given-names>S</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Learning profiles for noninvasive transcutaneous Doppler ultrasound</article-title><source>
+<italic toggle="yes">European Journal of Emergency Medicine: Official Journal of the European Society for Emergency Medicine</italic>
+</source><year>2015</year><volume>22</volume><fpage>128</fpage><lpage>134</lpage><pub-id pub-id-type="doi">10.1097/MEJ.0000000000000146</pub-id><pub-id pub-id-type="pmid">24802104</pub-id>
+</element-citation></ref><ref id="b22"><label>[22]</label><element-citation publication-type="journal"><!--Hodgson LE, Venn R, Forni LG, Samuels TL, Wakeling HG. Measuring the cardiac output in acute emergency admissions: use of the non-invasive ultrasonic cardiac output monitor (USCOM) with determination of the learning curve and inter-rater reliability. Journal of the Intensive Care Society. 2016; 17: 122&#x02013;128. https://doi.org/10.1177/1751143715619186.--><person-group person-group-type="author">
+<name><surname>Hodgson</surname><given-names>LE</given-names></name>
+<name><surname>Venn</surname><given-names>R</given-names></name>
+<name><surname>Forni</surname><given-names>LG</given-names></name>
+<name><surname>Samuels</surname><given-names>TL</given-names></name>
+<name><surname>Wakeling</surname><given-names>HG</given-names></name>
+</person-group><article-title>Measuring the cardiac output in acute emergency admissions: use of the non-invasive ultrasonic cardiac output monitor (USCOM) with determination of the learning curve and inter-rater reliability</article-title><source>
+<italic toggle="yes">Journal of the Intensive Care Society</italic>
+</source><year>2016</year><volume>17</volume><fpage>122</fpage><lpage>128</lpage><pub-id pub-id-type="doi">10.1177/1751143715619186</pub-id><pub-id pub-id-type="pmid">28979476</pub-id>
+</element-citation></ref><ref id="b23"><label>[23]</label><element-citation publication-type="journal"><!--Martindale JL, Wakai A, Collins SP, Levy PD, Diercks D, Hiestand BC, <italic>et al</italic>. Diagnosing Acute Heart Failure in the Emergency Department: A Systematic Review and Meta-analysis. Academic Emergency Medicine: Official Journal of the Society for Academic Emergency Medicine. 2016; 23: 223&#x02013;242. https://doi.org/10.1111/acem.12878.--><person-group person-group-type="author">
+<name><surname>Martindale</surname><given-names>JL</given-names></name>
+<name><surname>Wakai</surname><given-names>A</given-names></name>
+<name><surname>Collins</surname><given-names>SP</given-names></name>
+<name><surname>Levy</surname><given-names>PD</given-names></name>
+<name><surname>Diercks</surname><given-names>D</given-names></name>
+<name><surname>Hiestand</surname><given-names>BC</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Diagnosing Acute Heart Failure in the Emergency Department: A Systematic Review and Meta-analysis</article-title><source>
+<italic toggle="yes">Academic Emergency Medicine: Official Journal of the Society for Academic Emergency Medicine</italic>
+</source><year>2016</year><volume>23</volume><fpage>223</fpage><lpage>242</lpage><pub-id pub-id-type="doi">10.1111/acem.12878</pub-id><pub-id pub-id-type="pmid">26910112</pub-id>
+</element-citation></ref><ref id="b24"><label>[24]</label><element-citation publication-type="journal"><!--Booth RA, Hill SA, Don-Wauchope A, Santaguida PL, Oremus M, McKelvie R, <italic>et al</italic>. Performance of BNP and NT-proBNP for diagnosis of heart failure in primary care patients: a systematic review. Heart Failure Reviews. 2014; 19: 439&#x02013;451. https://doi.org/10.1007/s10741&#x02013;014-9445-8.--><person-group person-group-type="author">
+<name><surname>Booth</surname><given-names>RA</given-names></name>
+<name><surname>Hill</surname><given-names>SA</given-names></name>
+<name><surname>Don-Wauchope</surname><given-names>A</given-names></name>
+<name><surname>Santaguida</surname><given-names>PL</given-names></name>
+<name><surname>Oremus</surname><given-names>M</given-names></name>
+<name><surname>McKelvie</surname><given-names>R</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Performance of BNP and NT-proBNP for diagnosis of heart failure in primary care patients: a systematic review</article-title><source>
+<italic toggle="yes">Heart Failure Reviews</italic>
+</source><year>2014</year><volume>19</volume><fpage>439</fpage><lpage>451</lpage><pub-id pub-id-type="doi">10.1007/s10741-014-9445-8</pub-id><pub-id pub-id-type="pmid">24969534</pub-id>
+</element-citation></ref><ref id="b25"><label>[25]</label><element-citation publication-type="journal"><!--Bettencourt P, Azevedo A, Pimenta J, Fri&#x000f5;es F, Ferreira S, Ferreira A. N-terminal-pro-brain natriuretic peptide predicts outcome after hospital discharge in heart failure patients. Circulation. 2004; 110: 2168&#x02013;2174. https://doi.org/10.1161/01.CIR.0000144310.04433.BE.--><person-group person-group-type="author">
+<name><surname>Bettencourt</surname><given-names>P</given-names></name>
+<name><surname>Azevedo</surname><given-names>A</given-names></name>
+<name><surname>Pimenta</surname><given-names>J</given-names></name>
+<name><surname>Fri&#x000f5;es</surname><given-names>F</given-names></name>
+<name><surname>Ferreira</surname><given-names>S</given-names></name>
+<name><surname>Ferreira</surname><given-names>A</given-names></name>
+</person-group><article-title>N-terminal-pro-brain natriuretic peptide predicts outcome after hospital discharge in heart failure patients</article-title><source>
+<italic toggle="yes">Circulation</italic>
+</source><year>2004</year><volume>110</volume><fpage>2168</fpage><lpage>2174</lpage><pub-id pub-id-type="doi">10.1161/01.CIR.0000144310.04433.BE</pub-id><pub-id pub-id-type="pmid">15451800</pub-id>
+</element-citation></ref><ref id="b26"><label>[26]</label><element-citation publication-type="journal"><!--Heart Failure Group of Chinese Society of Cardiology of Chinese Medical Association, Chinese Heart Failure Association of Chinese Medical Doctor Association, Editorial Board of Chinese Journal of Cardiology. Chinese guidelines for the diagnosis and treatment of heart failure 2018. Zhonghua Xin Xue Guan Bing Za Zhi. 2018; 46: 760&#x02013;789. https://doi.org/10.3760/cma.j.issn.0253-3758.2018.10.004. (In Chinese)--><person-group person-group-type="author">
+<collab>Heart Failure Group of Chinese Society of Cardiology of Chinese Medical Association</collab>
+<collab>Chinese Heart Failure Association of Chinese Medical Doctor Association</collab>
+<collab>Editorial Board of Chinese Journal of Cardiology</collab>
+</person-group><article-title>Chinese guidelines for the diagnosis and treatment of heart failure 2018</article-title><source>
+<italic toggle="yes">Zhonghua Xin Xue Guan Bing Za Zhi</italic>
+</source><year>2018</year><volume>46</volume><fpage>760</fpage><lpage>789</lpage><comment>In Chinese</comment><pub-id pub-id-type="doi">10.3760/cma.j.issn.0253-3758.2018.10.004</pub-id><pub-id pub-id-type="pmid">30369168</pub-id>
+</element-citation></ref><ref id="b27"><label>[27]</label><element-citation publication-type="journal"><!--Stienen S, Salah K, Dickhoff C, Carubelli V, Metra M, Magrini L, <italic>et al</italic>. N-Terminal Pro-B-Type Natriuretic Peptide (NT-proBNP) Measurements Until a 30% Reduction Is Attained During Acute Decompensated Heart Failure Admissions and Comparison With Discharge NT-proBNP Levels: Implications for In-Hospital Guidance of Treatment. Journal of Cardiac Failure. 2015; 21: 930&#x02013;934. https://doi.org/10.1016/j.cardfail.2015.07.011.--><person-group person-group-type="author">
+<name><surname>Stienen</surname><given-names>S</given-names></name>
+<name><surname>Salah</surname><given-names>K</given-names></name>
+<name><surname>Dickhoff</surname><given-names>C</given-names></name>
+<name><surname>Carubelli</surname><given-names>V</given-names></name>
+<name><surname>Metra</surname><given-names>M</given-names></name>
+<name><surname>Magrini</surname><given-names>L</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>N-Terminal Pro-B-Type Natriuretic Peptide (NT-proBNP) Measurements Until a 30% Reduction Is Attained During Acute Decompensated Heart Failure Admissions and Comparison With Discharge NT-proBNP Levels: Implications for In-Hospital Guidance of Treatment</article-title><source>
+<italic toggle="yes">Journal of Cardiac Failure</italic>
+</source><year>2015</year><volume>21</volume><fpage>930</fpage><lpage>934</lpage><pub-id pub-id-type="doi">10.1016/j.cardfail.2015.07.011</pub-id><pub-id pub-id-type="pmid">26216495</pub-id>
+</element-citation></ref><ref id="b28"><label>[28]</label><element-citation publication-type="journal"><!--Di Somma S, Magrini L, Pittoni V, Marino R, Mastrantuono A, Ferri E, <italic>et al</italic>. In-hospital percentage BNP reduction is highly predictive for adverse events in patients admitted for acute heart failure: the Italian RED Study. Critical Care (London, England). 2010; 14: R116. https://doi.org/10.1186/cc9067.--><person-group person-group-type="author">
+<name><surname>Di Somma</surname><given-names>S</given-names></name>
+<name><surname>Magrini</surname><given-names>L</given-names></name>
+<name><surname>Pittoni</surname><given-names>V</given-names></name>
+<name><surname>Marino</surname><given-names>R</given-names></name>
+<name><surname>Mastrantuono</surname><given-names>A</given-names></name>
+<name><surname>Ferri</surname><given-names>E</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>In-hospital percentage BNP reduction is highly predictive for adverse events in patients admitted for acute heart failure: the Italian RED Study</article-title><source>
+<italic toggle="yes">Critical Care (London, England)</italic>
+</source><year>2010</year><volume>14</volume><fpage>R116</fpage><pub-id pub-id-type="doi">10.1186/cc9067</pub-id><pub-id pub-id-type="pmid">20550660</pub-id>
+</element-citation></ref><ref id="b29"><label>[29]</label><element-citation publication-type="journal"><!--Yancy CW, Jessup M, Bozkurt B, Butler J, Casey DE, Jr, Colvin MM, <italic>et al</italic>. 2017 ACC/AHA/HFSA Focused Update of the 2013 ACCF/AHA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Failure Society of America. Circulation. 2017; 136: e137&#x02013;e161. https://doi.org/10.1161/CIR.0000000000000509.--><person-group person-group-type="author">
+<name><surname>Yancy</surname><given-names>CW</given-names></name>
+<name><surname>Jessup</surname><given-names>M</given-names></name>
+<name><surname>Bozkurt</surname><given-names>B</given-names></name>
+<name><surname>Butler</surname><given-names>J</given-names></name>
+<name><surname>Casey</surname><given-names>DE</given-names><suffix>Jr</suffix></name>
+<name><surname>Colvin</surname><given-names>MM</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>2017 ACC/AHA/HFSA Focused Update of the 2013 ACCF/AHA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Failure Society of America</article-title><source>
+<italic toggle="yes">Circulation</italic>
+</source><year>2017</year><volume>136</volume><fpage>e137</fpage><lpage>e161</lpage><pub-id pub-id-type="doi">10.1161/CIR.0000000000000509</pub-id><pub-id pub-id-type="pmid">28455343</pub-id>
+</element-citation></ref><ref id="b30"><label>[30]</label><element-citation publication-type="journal"><!--Wang H, Chai K, Du M, Wang S, Cai JP, Li Y, <italic>et al</italic>. Prevalence and Incidence of Heart Failure Among Urban Patients in China: A National Population-Based Analysis. Circulation. Heart Failure. 2021; 14: e008406. https://doi.org/10.1161/CIRCHEARTFAILURE.121.008406.--><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>H</given-names></name>
+<name><surname>Chai</surname><given-names>K</given-names></name>
+<name><surname>Du</surname><given-names>M</given-names></name>
+<name><surname>Wang</surname><given-names>S</given-names></name>
+<name><surname>Cai</surname><given-names>JP</given-names></name>
+<name><surname>Li</surname><given-names>Y</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Prevalence and Incidence of Heart Failure Among Urban Patients in China: A National Population-Based Analysis</article-title><source>
+<italic toggle="yes">Circulation. Heart Failure</italic>
+</source><year>2021</year><volume>14</volume><fpage>e008406</fpage><pub-id pub-id-type="doi">10.1161/CIRCHEARTFAILURE.121.008406</pub-id><pub-id pub-id-type="pmid">34455858</pub-id>
+</element-citation></ref><ref id="b31"><label>[31]</label><element-citation publication-type="journal"><!--Mair S, Tschirdewahn J, G&#x000f6;tz S, Frank J, Phillip V, Henschel B, <italic>et al</italic>. Applicability of stroke volume variation in patients of a general intensive care unit: a longitudinal observational study. Journal of Clinical Monitoring and Computing. 2017; 31: 1177&#x02013;1187. https://doi.org/10.1007/s10877&#x02013;016-9951-4.--><person-group person-group-type="author">
+<name><surname>Mair</surname><given-names>S</given-names></name>
+<name><surname>Tschirdewahn</surname><given-names>J</given-names></name>
+<name><surname>G&#x000f6;tz</surname><given-names>S</given-names></name>
+<name><surname>Frank</surname><given-names>J</given-names></name>
+<name><surname>Phillip</surname><given-names>V</given-names></name>
+<name><surname>Henschel</surname><given-names>B</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Applicability of stroke volume variation in patients of a general intensive care unit: a longitudinal observational study</article-title><source>
+<italic toggle="yes">Journal of Clinical Monitoring and Computing</italic>
+</source><year>2017</year><volume>31</volume><fpage>1177</fpage><lpage>1187</lpage><pub-id pub-id-type="doi">10.1007/s10877-016-9951-4</pub-id><pub-id pub-id-type="pmid">27817009</pub-id>
+</element-citation></ref><ref id="b32"><label>[32]</label><element-citation publication-type="book"><!--Trammel JE, Sapra A. Physiology, systemic vascular resistance. StatPearls. StatPearls Publishing LLC.: Treasure Island (FL). 2024.--><person-group person-group-type="author">
+<name><surname>Trammel</surname><given-names>JE</given-names></name>
+<name><surname>Sapra</surname><given-names>A</given-names></name>
+</person-group><article-title>Physiology, systemic vascular resistance</article-title><source>
+<italic toggle="yes">StatPearls</italic>
+</source><publisher-name>StatPearls Publishing LLC.</publisher-name><publisher-loc>Treasure Island (FL)</publisher-loc><year>2024</year></element-citation></ref><ref id="b33"><label>[33]</label><element-citation publication-type="journal"><!--Liu Z, Liao X, Zhou Y, Li W, Zhou D. Efficacy and safety of early application of ultra-filtration in patients hospitalized with acute heart failure and volume overload. Chinese Journal of Clinicians (Electronic Edition). 2021; 15: 526&#x02013;531. https://doi.org/10.3877/cma.j.issn.1674-0785.2021.07.009. (In Chinese)--><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Z</given-names></name>
+<name><surname>Liao</surname><given-names>X</given-names></name>
+<name><surname>Zhou</surname><given-names>Y</given-names></name>
+<name><surname>Li</surname><given-names>W</given-names></name>
+<name><surname>Zhou</surname><given-names>D</given-names></name>
+</person-group><article-title>Efficacy and safety of early application of ultra-filtration in patients hospitalized with acute heart failure and volume overload</article-title><source>
+<italic toggle="yes">Chinese Journal of Clinicians (Electronic Edition)</italic>
+</source><year>2021</year><volume>15</volume><fpage>526</fpage><lpage>531</lpage><comment>In Chinese</comment><pub-id pub-id-type="doi">10.3877/cma.j.issn.1674-0785.2021.07.009</pub-id></element-citation></ref><ref id="b34"><label>[34]</label><element-citation publication-type="journal"><!--Sladen A. Complications of invasive hemodynamic monitoring in the intensive care unit. Current Problems in Surgery. 1988; 25: 69&#x02013;145. https://doi.org/10.1016/0011-3840(88)90009-3.--><person-group person-group-type="author">
+<name><surname>Sladen</surname><given-names>A</given-names></name>
+</person-group><article-title>Complications of invasive hemodynamic monitoring in the intensive care unit</article-title><source>
+<italic toggle="yes">Current Problems in Surgery</italic>
+</source><year>1988</year><volume>25</volume><fpage>69</fpage><lpage>145</lpage><pub-id pub-id-type="doi">10.1016/0011-3840(88)90009-3</pub-id><pub-id pub-id-type="pmid">3280251</pub-id>
+</element-citation></ref><ref id="b35"><label>[35]</label><element-citation publication-type="journal"><!--McGregor D, Sharma S, Gupta S, Ahmed S, Harris T. Emergency department non-invasive cardiac output study (EDNICO): an accuracy study. Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine. 2020; 28: 8. https://doi.org/10.1186/s13049&#x02013;020&#x02013;0704-5.--><person-group person-group-type="author">
+<name><surname>McGregor</surname><given-names>D</given-names></name>
+<name><surname>Sharma</surname><given-names>S</given-names></name>
+<name><surname>Gupta</surname><given-names>S</given-names></name>
+<name><surname>Ahmed</surname><given-names>S</given-names></name>
+<name><surname>Harris</surname><given-names>T</given-names></name>
+</person-group><article-title>Emergency department non-invasive cardiac output study (EDNICO): an accuracy study</article-title><source>
+<italic toggle="yes">Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine</italic>
+</source><year>2020</year><volume>28</volume><pub-id pub-id-type="doi">10.1186/s13049-020-0704-5</pub-id></element-citation></ref><ref id="b36"><label>[36]</label><element-citation publication-type="journal"><!--Lancellotti P, Price S, Edvardsen T, Cosyns B, Neskovic AN, Dulgheru R, <italic>et al</italic>. The use of echocardiography in acute cardiovascular care: recommendations of the European Association of Cardiovascular Imaging and the Acute Cardiovascular Care Association. European Heart Journal. Acute Cardiovascular Care. 2015; 4: 3&#x02013;5. https://doi.org/10.1177/2048872614568073.--><person-group person-group-type="author">
+<name><surname>Lancellotti</surname><given-names>P</given-names></name>
+<name><surname>Price</surname><given-names>S</given-names></name>
+<name><surname>Edvardsen</surname><given-names>T</given-names></name>
+<name><surname>Cosyns</surname><given-names>B</given-names></name>
+<name><surname>Neskovic</surname><given-names>AN</given-names></name>
+<name><surname>Dulgheru</surname><given-names>R</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>The use of echocardiography in acute cardiovascular care: recommendations of the European Association of Cardiovascular Imaging and the Acute Cardiovascular Care Association</article-title><source>
+<italic toggle="yes">European Heart Journal. Acute Cardiovascular Care</italic>
+</source><year>2015</year><volume>4</volume><fpage>3</fpage><lpage>5</lpage><pub-id pub-id-type="doi">10.1177/2048872614568073</pub-id><pub-id pub-id-type="pmid">25635106</pub-id>
+</element-citation></ref><ref id="b37"><label>[37]</label><element-citation publication-type="journal"><!--Ogawa K, Igarashi M, Nogami A, Yamamoto M, Sugano A, Sekiguchi Y, <italic>et al</italic>. The Usefulness and Limitations of Impedance Cardiography for Cardiac Resynchronization Therapy Device Optimization. International Heart Journal. 2020; 61: 896&#x02013;904. https://doi.org/10.1536/ihj.19-620.--><person-group person-group-type="author">
+<name><surname>Ogawa</surname><given-names>K</given-names></name>
+<name><surname>Igarashi</surname><given-names>M</given-names></name>
+<name><surname>Nogami</surname><given-names>A</given-names></name>
+<name><surname>Yamamoto</surname><given-names>M</given-names></name>
+<name><surname>Sugano</surname><given-names>A</given-names></name>
+<name><surname>Sekiguchi</surname><given-names>Y</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>The Usefulness and Limitations of Impedance Cardiography for Cardiac Resynchronization Therapy Device Optimization</article-title><source>
+<italic toggle="yes">International Heart Journal</italic>
+</source><year>2020</year><volume>61</volume><fpage>896</fpage><lpage>904</lpage><pub-id pub-id-type="doi">10.1536/ihj.19-620</pub-id><pub-id pub-id-type="pmid">32999195</pub-id>
+</element-citation></ref><ref id="b38"><label>[38]</label><element-citation publication-type="journal"><!--Menif K, Ayari A, Louati A, Ibn Haj Hassine S, Bouziri A, Borgi A. Agreement of cardiac index measurements between ultrasonic cardiac output monitor and transthoracic echocardiography in neonates. La Tunisie Medicale. 2024; 102: 565&#x02013;570. https://doi.org/10.62438/tunismed.v102i9.5095.--><person-group person-group-type="author">
+<name><surname>Menif</surname><given-names>K</given-names></name>
+<name><surname>Ayari</surname><given-names>A</given-names></name>
+<name><surname>Louati</surname><given-names>A</given-names></name>
+<name><surname>Ibn Haj Hassine</surname><given-names>S</given-names></name>
+<name><surname>Bouziri</surname><given-names>A</given-names></name>
+<name><surname>Borgi</surname><given-names>A</given-names></name>
+</person-group><article-title>Agreement of cardiac index measurements between ultrasonic cardiac output monitor and transthoracic echocardiography in neonates</article-title><source>
+<italic toggle="yes">La Tunisie Medicale</italic>
+</source><year>2024</year><volume>102</volume><fpage>565</fpage><lpage>570</lpage><pub-id pub-id-type="doi">10.62438/tunismed.v102i9.5095</pub-id><pub-id pub-id-type="pmid">39287349</pub-id>
+</element-citation></ref><ref id="b39"><label>[39]</label><element-citation publication-type="journal"><!--Elgendy A, Seppelt IM, Lane AS. Comparison of continous-wave Doppler ultrasound monitor and echocardiography to assess cardiac output in intensive care patients. Critical Care and Resuscitation: Journal of the Australasian Academy of Critical Care Medicine. 2017; 19: 222&#x02013;229.--><person-group person-group-type="author">
+<name><surname>Elgendy</surname><given-names>A</given-names></name>
+<name><surname>Seppelt</surname><given-names>IM</given-names></name>
+<name><surname>Lane</surname><given-names>AS</given-names></name>
+</person-group><article-title>Comparison of continous-wave Doppler ultrasound monitor and echocardiography to assess cardiac output in intensive care patients. Critical Care and Resuscitation: Journal of the Australasian Academy of Critical Care Medicine</article-title><source>
+<italic toggle="yes">Critical Care and Resuscitation: Journal of the Australasian Academy of Critical Care Medicine</italic>
+</source><year>2017</year><volume>19</volume><fpage>222</fpage><lpage>229</lpage><pub-id pub-id-type="pmid">28866972</pub-id>
+</element-citation></ref><ref id="b40"><label>[40]</label><element-citation publication-type="journal"><!--Smith BE, Madigan VM. Non-invasive method for rapid bedside estimation of inotropy: theory and preliminary clinical validation. British Journal of Anaesthesia. 2013; 111: 580&#x02013;588. https://doi.org/10.1093/bja/aet118.--><person-group person-group-type="author">
+<name><surname>Smith</surname><given-names>BE</given-names></name>
+<name><surname>Madigan</surname><given-names>VM</given-names></name>
+</person-group><article-title>Non-invasive method for rapid bedside estimation of inotropy: theory and preliminary clinical validation</article-title><source>
+<italic toggle="yes">British Journal of Anaesthesia</italic>
+</source><year>2013</year><volume>111</volume><fpage>580</fpage><lpage>588</lpage><pub-id pub-id-type="doi">10.1093/bja/aet118</pub-id><pub-id pub-id-type="pmid">23645929</pub-id>
+</element-citation></ref><ref id="b41"><label>[41]</label><element-citation publication-type="journal"><!--Ilebekk A, Kiil F. Role of preload and inotropy in stroke volume regulation at constant heart rate. Scandinavian Journal of Clinical and Laboratory Investigation. 1979; 39: 71&#x02013;78. https://doi.org/10.3109/00365517909104941.--><person-group person-group-type="author">
+<name><surname>Ilebekk</surname><given-names>A</given-names></name>
+<name><surname>Kiil</surname><given-names>F</given-names></name>
+</person-group><article-title>Role of preload and inotropy in stroke volume regulation at constant heart rate</article-title><source>
+<italic toggle="yes">Scandinavian Journal of Clinical and Laboratory Investigation</italic>
+</source><year>1979</year><volume>39</volume><fpage>71</fpage><lpage>78</lpage><pub-id pub-id-type="doi">10.3109/00365517909104941</pub-id><pub-id pub-id-type="pmid">42964</pub-id>
+</element-citation></ref><ref id="b42"><label>[42]</label><element-citation publication-type="journal"><!--Stangl V, Baumann G, Stangl K, Felix SB. Negative inotropic mediators released from the heart after myocardial ischaemia-reperfusion. Cardiovascular Research. 2002; 53: 12&#x02013;30. https://doi.org/10.1016/s0008-6363(01)00420-5.--><person-group person-group-type="author">
+<name><surname>Stangl</surname><given-names>V</given-names></name>
+<name><surname>Baumann</surname><given-names>G</given-names></name>
+<name><surname>Stangl</surname><given-names>K</given-names></name>
+<name><surname>Felix</surname><given-names>SB</given-names></name>
+</person-group><article-title>Negative inotropic mediators released from the heart after myocardial ischaemia-reperfusion</article-title><source>
+<italic toggle="yes">Cardiovascular Research</italic>
+</source><year>2002</year><volume>53</volume><fpage>12</fpage><lpage>30</lpage><pub-id pub-id-type="doi">10.1016/s0008-6363(01)00420-5</pub-id><pub-id pub-id-type="pmid">11744010</pub-id>
+</element-citation></ref><ref id="b43"><label>[43]</label><element-citation publication-type="journal"><!--Singla D, Gupta B, Varshney P, Mangla M, Walikar BN, Jamir T. Role of carotid corrected flow time and peak velocity variation in predicting fluid responsiveness: a systematic review and meta-analysis. Korean Journal of Anesthesiology. 2023; 76: 183&#x02013;193. https://doi.org/10.4097/kja.22385.--><person-group person-group-type="author">
+<name><surname>Singla</surname><given-names>D</given-names></name>
+<name><surname>Gupta</surname><given-names>B</given-names></name>
+<name><surname>Varshney</surname><given-names>P</given-names></name>
+<name><surname>Mangla</surname><given-names>M</given-names></name>
+<name><surname>Walikar</surname><given-names>BN</given-names></name>
+<name><surname>Jamir</surname><given-names>T</given-names></name>
+</person-group><article-title>Role of carotid corrected flow time and peak velocity variation in predicting fluid responsiveness: a systematic review and meta-analysis</article-title><source>
+<italic toggle="yes">Korean Journal of Anesthesiology</italic>
+</source><year>2023</year><volume>76</volume><fpage>183</fpage><lpage>193</lpage><pub-id pub-id-type="doi">10.4097/kja.22385</pub-id><pub-id pub-id-type="pmid">36377330</pub-id>
+</element-citation></ref><ref id="b44"><label>[44]</label><element-citation publication-type="journal"><!--Pare J, Pang P, Noble V, Moore C, Sam F. 104<sup>EMF</sup> Can corrected flow time detect changes in patients undergoing heart failure treatment? Annals of Emergency Medicine. 2017; 70: S42. https://doi.org/10.1016/j.annemergmed.2017.07.130.--><person-group person-group-type="author">
+<name><surname>Pare</surname><given-names>J</given-names></name>
+<name><surname>Pang</surname><given-names>P</given-names></name>
+<name><surname>Noble</surname><given-names>V</given-names></name>
+<name><surname>Moore</surname><given-names>C</given-names></name>
+<name><surname>Sam</surname><given-names>F</given-names></name>
+</person-group><article-title>104EMF Can corrected flow time detect changes in patients undergoing heart failure treatment?</article-title><source>
+<italic toggle="yes">Annals of Emergency Medicine</italic>
+</source><year>2017</year><volume>70</volume><fpage>S42</fpage><pub-id pub-id-type="doi">10.1016/j.annemergmed.2017.07.130</pub-id></element-citation></ref><ref id="b45"><label>[45]</label><element-citation publication-type="journal"><!--Maries L, Manitiu I. Diagnostic and prognostic values of B-type natriuretic peptides (BNP) and N-terminal fragment brain natriuretic peptides (NT-pro-BNP). Cardiovascular Journal of Africa. 2013; 24: 286&#x02013;289. https://doi.org/10.5830/CVJA-2013&#x02013;055.--><person-group person-group-type="author">
+<name><surname>Maries</surname><given-names>L</given-names></name>
+<name><surname>Manitiu</surname><given-names>I</given-names></name>
+</person-group><article-title>Diagnostic and prognostic values of B-type natriuretic peptides (BNP) and N-terminal fragment brain natriuretic peptides (NT-pro-BNP)</article-title><source>
+<italic toggle="yes">Cardiovascular Journal of Africa</italic>
+</source><year>2013</year><volume>24</volume><fpage>286</fpage><lpage>289</lpage><pub-id pub-id-type="doi">10.5830/CVJA-2013-055</pub-id><pub-id pub-id-type="pmid">24217307</pub-id>
+</element-citation></ref><ref id="b46"><label>[46]</label><element-citation publication-type="journal"><!--Tsai SH, Lin YY, Chu SJ, Hsu CW, Cheng SM. Interpretation and use of natriuretic peptides in non-congestive heart failure settings. Yonsei Medical Journal. 2010; 51: 151&#x02013;163. https://doi.org/10.3349/ymj.2010.51.2.151.--><person-group person-group-type="author">
+<name><surname>Tsai</surname><given-names>SH</given-names></name>
+<name><surname>Lin</surname><given-names>YY</given-names></name>
+<name><surname>Chu</surname><given-names>SJ</given-names></name>
+<name><surname>Hsu</surname><given-names>CW</given-names></name>
+<name><surname>Cheng</surname><given-names>SM</given-names></name>
+</person-group><article-title>Interpretation and use of natriuretic peptides in non-congestive heart failure settings</article-title><source>
+<italic toggle="yes">Yonsei Medical Journal</italic>
+</source><year>2010</year><volume>51</volume><fpage>151</fpage><lpage>163</lpage><pub-id pub-id-type="doi">10.3349/ymj.2010.51.2.151</pub-id><pub-id pub-id-type="pmid">20191004</pub-id>
+</element-citation></ref><ref id="b47"><label>[47]</label><element-citation publication-type="journal"><!--Mueller C, McDonald K, de Boer RA, Maisel A, Cleland JGF, Kozhuharov N, <italic>et al</italic>. Heart Failure Association of the European Society of Cardiology practical guidance on the use of natriuretic peptide concentrations. European Journal of Heart Failure. 2019; 21: 715&#x02013;731. https://doi.org/10.1002/ejhf.1494.--><person-group person-group-type="author">
+<name><surname>Mueller</surname><given-names>C</given-names></name>
+<name><surname>McDonald</surname><given-names>K</given-names></name>
+<name><surname>de Boer</surname><given-names>RA</given-names></name>
+<name><surname>Maisel</surname><given-names>A</given-names></name>
+<name><surname>Cleland</surname><given-names>JGF</given-names></name>
+<name><surname>Kozhuharov</surname><given-names>N</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Heart Failure Association of the European Society of Cardiology practical guidance on the use of natriuretic peptide concentrations</article-title><source>
+<italic toggle="yes">European Journal of Heart Failure</italic>
+</source><year>2019</year><volume>21</volume><fpage>715</fpage><lpage>731</lpage><pub-id pub-id-type="doi">10.1002/ejhf.1494</pub-id><pub-id pub-id-type="pmid">31222929</pub-id>
+</element-citation></ref><ref id="b48"><label>[48]</label><element-citation publication-type="journal"><!--Verbrugge FH, Nijst P, Dupont M, Penders J, Tang WHW, Mullens W. Urinary composition during decongestive treatment in heart failure with reduced ejection fraction. Circulation. Heart Failure. 2014; 7: 766&#x02013;772. https://doi.org/10.1161/CIRCHEARTFAILURE.114.001377.--><person-group person-group-type="author">
+<name><surname>Verbrugge</surname><given-names>FH</given-names></name>
+<name><surname>Nijst</surname><given-names>P</given-names></name>
+<name><surname>Dupont</surname><given-names>M</given-names></name>
+<name><surname>Penders</surname><given-names>J</given-names></name>
+<name><surname>Tang</surname><given-names>WHW</given-names></name>
+<name><surname>Mullens</surname><given-names>W</given-names></name>
+</person-group><article-title>Urinary composition during decongestive treatment in heart failure with reduced ejection fraction</article-title><source>
+<italic toggle="yes">Circulation. Heart Failure</italic>
+</source><year>2014</year><volume>7</volume><fpage>766</fpage><lpage>772</lpage><pub-id pub-id-type="doi">10.1161/CIRCHEARTFAILURE.114.001377</pub-id><pub-id pub-id-type="pmid">25037309</pub-id>
+</element-citation></ref><ref id="b49"><label>[49]</label><element-citation publication-type="journal"><!--Freda BJ, Slawsky M, Mallidi J, Braden GL. Decongestive treatment of acute decompensated heart failure: cardiorenal implications of ultrafiltration and diuretics. American Journal of Kidney Diseases: the Official Journal of the National Kidney Foundation. 2011; 58: 1005&#x02013;1017. https://doi.org/10.1053/j.ajkd.2011.07.023.--><person-group person-group-type="author">
+<name><surname>Freda</surname><given-names>BJ</given-names></name>
+<name><surname>Slawsky</surname><given-names>M</given-names></name>
+<name><surname>Mallidi</surname><given-names>J</given-names></name>
+<name><surname>Braden</surname><given-names>GL</given-names></name>
+</person-group><article-title>Decongestive treatment of acute decompensated heart failure: cardiorenal implications of ultrafiltration and diuretics</article-title><source>
+<italic toggle="yes">American Journal of Kidney Diseases: the Official Journal of the National Kidney Foundation</italic>
+</source><year>2011</year><volume>58</volume><fpage>1005</fpage><lpage>1017</lpage><pub-id pub-id-type="doi">10.1053/j.ajkd.2011.07.023</pub-id><pub-id pub-id-type="pmid">22014726</pub-id>
+</element-citation></ref><ref id="b50"><label>[50]</label><element-citation publication-type="journal"><!--van Velzen DM, Smits MM, van Bommel EJM, Muskiet MHA, Tonneijck L, Kramer MHH, <italic>et al</italic>. Kidney hemodynamic function in men and postmenopausal women with type 2 diabetes and preserved kidney function. American Journal of Physiology. Renal Physiology. 2021; 320: F1152&#x02013;F1158. https://doi.org/10.1152/ajprenal.00660.2020.--><person-group person-group-type="author">
+<name><surname>van Velzen</surname><given-names>DM</given-names></name>
+<name><surname>Smits</surname><given-names>MM</given-names></name>
+<name><surname>van Bommel</surname><given-names>EJM</given-names></name>
+<name><surname>Muskiet</surname><given-names>MHA</given-names></name>
+<name><surname>Tonneijck</surname><given-names>L</given-names></name>
+<name><surname>Kramer</surname><given-names>MHH</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Kidney hemodynamic function in men and postmenopausal women with type 2 diabetes and preserved kidney function</article-title><source>
+<italic toggle="yes">American Journal of Physiology. Renal Physiology</italic>
+</source><year>2021</year><volume>320</volume><fpage>F1152</fpage><lpage>F1158</lpage><pub-id pub-id-type="doi">10.1152/ajprenal.00660.2020</pub-id><pub-id pub-id-type="pmid">33900855</pub-id>
+</element-citation></ref><ref id="b51"><label>[51]</label><element-citation publication-type="journal"><!--Charra B, Chazot C. Volume control, blood pressure and cardiovascular function. Lessons from hemodialysis treatment. Nephron. Physiology. 2003; 93: p94&#x02013;101. https://doi.org/10.1159/000070242.--><person-group person-group-type="author">
+<name><surname>Charra</surname><given-names>B</given-names></name>
+<name><surname>Chazot</surname><given-names>C</given-names></name>
+</person-group><article-title>Volume control, blood pressure and cardiovascular function. Lessons from hemodialysis treatment</article-title><source>
+<italic toggle="yes">Nephron. Physiology</italic>
+</source><year>2003</year><volume>93</volume><fpage>p94</fpage><lpage>101</lpage><pub-id pub-id-type="doi">10.1159/000070242</pub-id><pub-id pub-id-type="pmid">12759570</pub-id>
+</element-citation></ref><ref id="b52"><label>[52]</label><element-citation publication-type="journal"><!--31st International Symposium on Intensive Care and Emergency Medicine, Brussels, Belgium. 22-25 March 2011. Abstracts. Critical Care (London, England). 2011; 15 Suppl 1: S1&#x02013;199.--><article-title>31st International Symposium on Intensive Care and Emergency Medicine, Brussels, Belgium. 22-25 March 2011. Abstracts</article-title><source>
+<italic toggle="yes">Critical Care (London, England)</italic>
+</source><year>2011</year><volume>15 Suppl 1</volume><fpage>S1</fpage><lpage>199</lpage><pub-id pub-id-type="pmid">21406123</pub-id>
+</element-citation></ref><ref id="b53"><label>[53]</label><element-citation publication-type="journal"><!--Verbrugge FH, Guazzi M, Testani JM, Borlaug BA. Altered Hemodynamics and End-Organ Damage in Heart Failure: Impact on the Lung and Kidney. Circulation. 2020; 142: 998&#x02013;1012. https://doi.org/10.1161/CIRCULATIONAHA.119.045409.--><person-group person-group-type="author">
+<name><surname>Verbrugge</surname><given-names>FH</given-names></name>
+<name><surname>Guazzi</surname><given-names>M</given-names></name>
+<name><surname>Testani</surname><given-names>JM</given-names></name>
+<name><surname>Borlaug</surname><given-names>BA</given-names></name>
+</person-group><article-title>Altered Hemodynamics and End-Organ Damage in Heart Failure: Impact on the Lung and Kidney</article-title><source>
+<italic toggle="yes">Circulation</italic>
+</source><year>2020</year><volume>142</volume><fpage>998</fpage><lpage>1012</lpage><pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.119.045409</pub-id><pub-id pub-id-type="pmid">32897746</pub-id>
+</element-citation></ref><ref id="b54"><label>[54]</label><element-citation publication-type="journal"><!--Ahmadmehrabi S, Tang WHW. Hemodialysis-induced cardiovascular disease. Seminars in Dialysis. 2018; 31: 258&#x02013;267. https://doi.org/10.1111/sdi.12694.--><person-group person-group-type="author">
+<name><surname>Ahmadmehrabi</surname><given-names>S</given-names></name>
+<name><surname>Tang</surname><given-names>WHW</given-names></name>
+</person-group><article-title>Hemodialysis-induced cardiovascular disease</article-title><source>
+<italic toggle="yes">Seminars in Dialysis</italic>
+</source><year>2018</year><volume>31</volume><fpage>258</fpage><lpage>267</lpage><pub-id pub-id-type="doi">10.1111/sdi.12694</pub-id><pub-id pub-id-type="pmid">29624739</pub-id>
+</element-citation></ref><ref id="b55"><label>[55]</label><element-citation publication-type="journal"><!--Lai CJ, Shih CC, Huang HH, Chien MH, Wu MS, Cheng YJ. Detecting Volemic, Cardiac, and Autonomic Responses From Hypervolemia to Normovolemia <italic>via</italic> Non-Invasive ClearSight Hemodynamic Monitoring During Hemodialysis: An Observational Investigation. Frontiers in Physiology. 2022; 13: 775631. https://doi.org/10.3389/fphys.2022.775631.--><person-group person-group-type="author">
+<name><surname>Lai</surname><given-names>CJ</given-names></name>
+<name><surname>Shih</surname><given-names>CC</given-names></name>
+<name><surname>Huang</surname><given-names>HH</given-names></name>
+<name><surname>Chien</surname><given-names>MH</given-names></name>
+<name><surname>Wu</surname><given-names>MS</given-names></name>
+<name><surname>Cheng</surname><given-names>YJ</given-names></name>
+</person-group><article-title>Detecting Volemic, Cardiac, and Autonomic Responses From Hypervolemia to Normovolemia via Non-Invasive ClearSight Hemodynamic Monitoring During Hemodialysis: An Observational Investigation</article-title><source>
+<italic toggle="yes">Frontiers in Physiology</italic>
+</source><year>2022</year><volume>13</volume><fpage>775631</fpage><pub-id pub-id-type="doi">10.3389/fphys.2022.775631</pub-id><pub-id pub-id-type="pmid">35574491</pub-id>
+</element-citation></ref><ref id="b56"><label>[56]</label><element-citation publication-type="journal"><!--Sarafidis PA, Kamperidis V, Loutradis C, Tsilonis K, Mpoutsiouki F, Saratzis A, <italic>et al</italic>. Haemodialysis acutely deteriorates left and right diastolic function and myocardial performance: an effect related to high ultrafiltration volumes? Nephrology, Dialysis, Transplantation: Official Publication of the European Dialysis and Transplant Association - European Renal Association. 2017; 32: 1402&#x02013;1409. https://doi.org/10.1093/ndt/gfw345.--><person-group person-group-type="author">
+<name><surname>Sarafidis</surname><given-names>PA</given-names></name>
+<name><surname>Kamperidis</surname><given-names>V</given-names></name>
+<name><surname>Loutradis</surname><given-names>C</given-names></name>
+<name><surname>Tsilonis</surname><given-names>K</given-names></name>
+<name><surname>Mpoutsiouki</surname><given-names>F</given-names></name>
+<name><surname>Saratzis</surname><given-names>A</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Haemodialysis acutely deteriorates left and right diastolic function and myocardial performance: an effect related to high ultrafiltration volumes? </article-title><source>
+<italic toggle="yes">Nephrology, Dialysis, Transplantation: Official Publication of the European Dialysis and Transplant Association - European Renal Association</italic>
+</source><year>2017</year><volume>32</volume><fpage>1402</fpage><lpage>1409</lpage><pub-id pub-id-type="doi">10.1093/ndt/gfw345</pub-id><pub-id pub-id-type="pmid">27738230</pub-id>
+</element-citation></ref><ref id="b57"><label>[57]</label><element-citation publication-type="journal"><!--Gao H, Zhang T, Wang L, Hu P, Shou S. Factors influencing ultrasound cardiac output monitor waveform quality in patients admitted to the emergency intensive care unit. Heliyon. 2024; 10: e29242. https://doi.org/10.1016/j.heliyon.2024.e29242.--><person-group person-group-type="author">
+<name><surname>Gao</surname><given-names>H</given-names></name>
+<name><surname>Zhang</surname><given-names>T</given-names></name>
+<name><surname>Wang</surname><given-names>L</given-names></name>
+<name><surname>Hu</surname><given-names>P</given-names></name>
+<name><surname>Shou</surname><given-names>S</given-names></name>
+</person-group><article-title>Factors influencing ultrasound cardiac output monitor waveform quality in patients admitted to the emergency intensive care unit</article-title><source>
+<italic toggle="yes">Heliyon</italic>
+</source><year>2024</year><volume>10</volume><fpage>e29242</fpage><pub-id pub-id-type="doi">10.1016/j.heliyon.2024.e29242</pub-id><pub-id pub-id-type="pmid">38623198</pub-id>
+</element-citation></ref></ref-list></back></article>

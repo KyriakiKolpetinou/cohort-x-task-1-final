@@ -1,0 +1,453 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="jon70010" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Neuroimaging</journal-id><journal-id journal-id-type="iso-abbrev">J Neuroimaging</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1552-6569</journal-id><journal-id journal-id-type="publisher-id">JON</journal-id><journal-title-group><journal-title>Journal of Neuroimaging</journal-title></journal-title-group><issn pub-type="ppub">1051-2284</issn><issn pub-type="epub">1552-6569</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">39803790</article-id><article-id pub-id-type="pmc">11726603</article-id><article-id pub-id-type="doi">10.1111/jon.70010</article-id><article-id pub-id-type="publisher-id">JON70010</article-id><article-categories><subj-group subj-group-type="overline"><subject>Clinical Investigative Study</subject></subj-group><subj-group subj-group-type="heading"><subject>Clinical Investigative Study</subject></subj-group></article-categories><title-group><article-title>Transcranial Doppler Arterial Pressure Gradient Is Associated With Delayed Infarction After Subarachnoid Hemorrhage</article-title></title-group><contrib-group><contrib id="jon70010-cr-0001" contrib-type="author" corresp="yes"><name><surname>Kim</surname><given-names>Yongwoo</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6389-7423</contrib-id><xref rid="jon70010-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jon70010-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>yongwoo.kim@medstar.net</email></address></contrib><contrib id="jon70010-cr-0002" contrib-type="author"><name><surname>Kim</surname><given-names>Alexander</given-names></name><xref rid="jon70010-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jon70010-cr-0003" contrib-type="author"><name><surname>Williams</surname><given-names>Josef D.</given-names></name><xref rid="jon70010-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jon70010-cr-0004" contrib-type="author"><name><surname>Withington</surname><given-names>Charles</given-names></name><xref rid="jon70010-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jon70010-cr-0005" contrib-type="author"><name><surname>Tefera</surname><given-names>Eshetu</given-names></name><xref rid="jon70010-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="jon70010-cr-0006" contrib-type="author"><name><surname>Gizaw</surname><given-names>Samrawit</given-names></name><xref rid="jon70010-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="jon70010-cr-0007" contrib-type="author"><name><surname>Felbaum</surname><given-names>Daniel R.</given-names></name><xref rid="jon70010-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="jon70010-cr-0008" contrib-type="author"><name><surname>Mai</surname><given-names>Jeffrey C.</given-names></name><xref rid="jon70010-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="jon70010-cr-0009" contrib-type="author"><name><surname>Liu</surname><given-names>Ai&#x02010;Hsi</given-names></name><xref rid="jon70010-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="jon70010-cr-0010" contrib-type="author"><name><surname>Armonda</surname><given-names>Rocco A.</given-names></name><xref rid="jon70010-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="jon70010-cr-0011" contrib-type="author"><name><surname>Chang</surname><given-names>Jason J.</given-names></name><xref rid="jon70010-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="jon70010-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib></contrib-group><aff id="jon70010-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Comrehensive Stroke Center</named-content>
+<institution>MedStar Washington Hospital Center</institution>
+<city>Washington</city>
+<named-content content-type="country-part">District of Columbia</named-content>
+<country country="US">USA</country>
+</aff><aff id="jon70010-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>Georgetown University School of Medicine</institution>
+<city>Washington</city>
+<named-content content-type="country-part">District of Columbia</named-content>
+<country country="US">USA</country>
+</aff><aff id="jon70010-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>Georgetown University School of Medicine</institution>
+<city>Washington</city>
+<named-content content-type="country-part">District of Columbia</named-content>
+<country country="US">USA</country>
+</aff><aff id="jon70010-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Center for Biostatistics</named-content>
+<named-content content-type="organisation-division">Informatics and Data Science</named-content>
+<institution>MedStar Health Research Institute</institution>
+<city>Hyattsville</city>
+<named-content content-type="country-part">Maryland</named-content>
+<country country="US">USA</country>
+</aff><aff id="jon70010-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurosurgery</named-content>
+<institution>MedStar Washington Hospital Center</institution>
+<city>Washington</city>
+<named-content content-type="country-part">District of Columbia</named-content>
+<country country="US">USA</country>
+</aff><aff id="jon70010-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Department of Radiology</named-content>
+<institution>MedStar Washington Hospital Center</institution>
+<city>Washington</city>
+<named-content content-type="country-part">District of Columbia</named-content>
+<country country="US">USA</country>
+</aff><aff id="jon70010-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Department of Critical Care Medicine</named-content>
+<institution>MedStar Washington Hospital Center</institution>
+<city>Washington</city>
+<named-content content-type="country-part">District of Columbia</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>: Yongwoo Kim (<email>yongwoo.kim@medstar.net</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>1</month><year>2025</year></pub-date><pub-date pub-type="ppub"><season>Jan-Feb</season><year>2025</year></pub-date><volume>35</volume><issue seq="190">1</issue><issue-id pub-id-type="doi">10.1111/jon.v35.1</issue-id><elocation-id>e70010</elocation-id><history>
+<date date-type="rev-recd"><day>09</day><month>12</month><year>2024</year></date>
+<date date-type="received"><day>04</day><month>10</month><year>2024</year></date>
+<date date-type="accepted"><day>27</day><month>12</month><year>2024</year></date>
+</history><permissions><!--&#x000a9; 2025 American Society of Neuroimaging.--><copyright-statement content-type="article-copyright">&#x000a9; 2025 The Author(s). <italic toggle="yes">Journal of Neuroimaging</italic> published by Wiley Periodicals LLC on behalf of American Society of Neuroimaging.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:JON-35-0.pdf"/><abstract><title>ABSTRACT</title><sec id="jon70010-sec-0010"><title>Background and Purpose</title><p>While the pulsatility index (PI) measured by transcranial Doppler (TCD) has broader associations with outcomes in neurocritical care, its use in monitoring delayed cerebral infarction (DCI) in patients with aneurysmal subarachnoid hemorrhage (SAH) is not endorsed by current clinical guidelines. Recognizing that arterial pressure gradient (&#x00394;<italic toggle="yes">P</italic>) can be estimated using PI, we investigated the potential significance of TCD&#x02010;estimated &#x00394;<italic toggle="yes">P</italic>.</p></sec><sec id="jon70010-sec-0020"><title>Methods</title><p>In this observational study of 186 SAH patients, we recorded the mean cerebral blood flow velocity (mCBFV) and PI values from the middle cerebral artery, along with corresponding blood pressures. Using a previously reported mathematical model, we estimated &#x00394;<italic toggle="yes">P</italic> by dividing pulse pressure by PI. We investigated the association between &#x00394;<italic toggle="yes">P</italic> and mCBFV values and two acute phase complications of SAH&#x02014;DCI and angiographic vasospasm. Additionally, we explored the association between DCI, vasospasm, and 90&#x02010;day functional outcome.</p></sec><sec id="jon70010-sec-0030"><title>Results</title><p>Elevated &#x00394;<italic toggle="yes">P</italic> was associated with DCI (odds ratio [OR] 1.021, 95% confidence interval [CI] 1.004&#x02013;1.039, <italic toggle="yes">p</italic>&#x000a0;=&#x000a0;0.014) but not vasospasm (OR 1.006, 95% CI 0.991&#x02013;1.022, <italic toggle="yes">p</italic>&#x000a0;=&#x000a0;0.402). Elevated mCBFV was associated with vasospasm (OR 1.037, 95% CI 1.017&#x02013;1.057, <italic toggle="yes">p</italic>&#x000a0;&#x0003c;&#x000a0;0.001) but not DCI (OR 0.998, 95% CI 0.979&#x02013;1.018, <italic toggle="yes">p</italic>&#x000a0;=&#x000a0;0.873). DCI (OR 29.380, 95% CI 2.930&#x02013;294.615, <italic toggle="yes">p</italic>&#x000a0;=&#x000a0;0.004), rather than vasospasm (OR 0.695, 95% CI 0.120&#x02013;4.043, <italic toggle="yes">p</italic>&#x000a0;=&#x000a0;0.686), was associated with functional outcome.</p></sec><sec id="jon70010-sec-0040"><title>Conclusions</title><p>Increased &#x00394;<italic toggle="yes">P</italic>, rather than elevated mCBFV, was associated with DCI. While elevated mCBFV was associated with vasospasm, it was not associated with DCI. Hence, TCD&#x02010;estimated &#x00394;<italic toggle="yes">P</italic> may serve as a predictor for the DCI in SAH patients, a condition that impacts long&#x02010;term outcome.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jon70010-kwd-0001">delayed cerebral infarct</kwd><kwd id="jon70010-kwd-0002">subarachnoid hemorrhage</kwd><kwd id="jon70010-kwd-0003">transcranial Doppler</kwd><kwd id="jon70010-kwd-0004">vasospasm</kwd></kwd-group><counts><fig-count count="1"/><table-count count="3"/><page-count count="7"/><word-count count="4084"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January/February 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.2 mode:remove_FC converted:13.01.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group><fn id="jon70010-note-0001"><p>
+<bold>Funding</bold>: The authors received no specific funding for this work.</p></fn></fn-group></notes></front><body><sec id="jon70010-sec-0050"><label>1</label><title>Introduction</title><p>Transcranial Doppler (TCD) is a noninvasive bedside neuromonitoring tool that allows repetitive and dynamic assessment of vasospasm after aneurysmal subarachnoid hemorrhage (SAH) [<xref rid="jon70010-bib-0001" ref-type="bibr">1</xref>]. TCD measures mean cerebral blood flow velocity (mCBFV) and pulsatility index (PI) values specific to the insonated artery with each insonation. As most studies focus on middle cerebral artery (MCA) vasospasm, the interpretation of TCD monitoring in SAH patients has primarily centered on mCBFV [<xref rid="jon70010-bib-0001" ref-type="bibr">1</xref>]. The role and significance of PI in this context remain uncertain.</p><p>Delayed cerebral infarction (DCI) is a significant complication of SAH, often linked to poor clinical outcomes [<xref rid="jon70010-bib-0002" ref-type="bibr">2</xref>]. Although vasospasm is a well&#x02010;established contributor to DCI, DCI is typically multifactorial and can arise even in the absence of vasospasm [<xref rid="jon70010-bib-0002" ref-type="bibr">2</xref>]. Consequently, while TCD measurements of mCBFV are useful for detecting vasospasm, they may not reliably predict DCI development.</p><p>Blood volume flow, also known as perfusion, follows Ohm's law: <italic toggle="yes">Q</italic>&#x000a0;=&#x000a0;&#x00394;<italic toggle="yes">P</italic>/<italic toggle="yes">R</italic>, where <italic toggle="yes">Q</italic> represents perfusion, &#x00394;<italic toggle="yes">P</italic> is the arterial pressure gradient, and <italic toggle="yes">R</italic> is the arterial resistance [<xref rid="jon70010-bib-0003" ref-type="bibr">3</xref>]. When arterial resistance increases for any reason while the &#x00394;<italic toggle="yes">P</italic> remains constant, perfusion decreases. To compensate, the body must elevate &#x00394;<italic toggle="yes">P</italic> to maintain stable perfusion. Therefore, an elevated &#x00394;<italic toggle="yes">P</italic> may indicate increased arterial resistance and a compensatory mechanism at work. A significantly elevated &#x00394;<italic toggle="yes">P</italic> may suggest that this compensation is maximized, signaling an impending compensation failure, potentially leading to cerebral infarction.</p><p>PI is calculated by dividing the difference between peak systolic flow velocity and end diastolic flow velocity by the mCBFV [<xref rid="jon70010-bib-0004" ref-type="bibr">4</xref>]. Gosling et&#x000a0;al., who originally introduced the concept of PI, applied Ohm's law to its definition, showing that PI is dependent on &#x00394;<italic toggle="yes">P</italic> and the pulse pressure (PP) [<xref rid="jon70010-bib-0005" ref-type="bibr">5</xref>]. From this demonstration, the &#x00394;<italic toggle="yes">P</italic> can be estimated by dividing the PP by the PI. More details are provided in Section&#x000a0;<xref rid="jon70010-sec-0060" ref-type="sec">2</xref>.</p><p>Our aim was to take this novel TCD&#x02010;derived variable &#x00394;<italic toggle="yes">P</italic> and evaluate its utility in predicting DCI and vasospasm.</p></sec><sec id="jon70010-sec-0060"><label>2</label><title>Methods</title><sec id="jon70010-sec-0070"><label>2.1</label><title>Study Population</title><p>Institutional Review Board approval (protocol # 2018&#x02013;186) was obtained for this retrospective observational study. No informed consent was required. Between March 2017 and December 2020, a total of 256 patients with SAH were admitted to our hospital. The study cohort included patients who underwent serial TCD monitoring at least three times.</p></sec><sec id="jon70010-sec-0080"><label>2.2</label><title>TCD Monitoring</title><p>Per our protocol, TCDs were acquired on days 1&#x02013;3 of hospitalization and continued daily until day 14 [<xref rid="jon70010-bib-0006" ref-type="bibr">6</xref>, <xref rid="jon70010-bib-0007" ref-type="bibr">7</xref>]. All TCDs were conducted using a standard 2&#x02010;MHz pulsed wave probe from a Nicolet SONARA (Natus, Middleton, WI, USA). A complete diagnostic TCD examination adhering to a practice standard&#x000a0;was performed unless specific factors limited the study's feasibility (e.g., poor acoustic window) [<xref rid="jon70010-bib-0008" ref-type="bibr">8</xref>]. Bilateral TCD measurements at the transtemporal window (depth of 40&#x02013;60&#x000a0;mm) were used to gather mCBFV and PI of the MCA from at least two different depths. Specifically, sonographers typically insonate the MCA at depths of 46, 50, and 54&#x000a0;mm by default. However, the number and specific depths of each insonations may be adjusted by the sonographers to optimize image quality. An average mCBFV and PI value of multi&#x02010;depth MCA insonation was then recorded. We focused our evaluation exclusively on the MCA, as most published studies on TCD monitoring in SAH patients have focused on MCA [<xref rid="jon70010-bib-0001" ref-type="bibr">1</xref>, <xref rid="jon70010-bib-0009" ref-type="bibr">9</xref>&#x02013;<xref rid="jon70010-bib-0011" ref-type="bibr">11</xref>].</p><p>Two qualified reviewers (Y.K. and J.J.C.) independently assessed the TCD data to ensure the accuracy of the recorded mCBFV and PI values. Blood pressure measurements, obtained via arterial lines leveled to the phlebostatic axis, are recorded during TCD insonation. If the patient does not have an arterial line, blood pressure readings from a cuff at brachial artery are recorded instead.</p></sec><sec id="jon70010-sec-0090"><label>2.3</label><title>Data Collection</title><p>Hemodynamic parameters were noted as follows: (1) PP&#x000a0;=&#x000a0;systolic blood pressure (SBP)&#x000a0;&#x02212;&#x000a0;diastolic blood pressure (DBP); (2) mean arterial pressure (MAP)&#x000a0;=&#x000a0;DBP&#x000a0;+&#x000a0;PP/3; and (3) &#x00394;<italic toggle="yes">P</italic>&#x000a0;=&#x000a0;PP/PI [<xref rid="jon70010-bib-0005" ref-type="bibr">5</xref>]. The age, biological sex, Hunt&#x02013;Hess scale (HH), modified Fisher scale (mFS), discharge disposition, and modified Rankin scale (mRS) scores at 90&#x000a0;days post&#x02010;SAH were recorded for the patients. Two readers (Y.K and J.J.C) reviewed all head CT, brain MRI, and conventional angiography images performed during hospitalization for DCI and vasospasm independent of the treating physician's evaluations.</p></sec><sec id="jon70010-sec-0100"><label>2.4</label><title>&#x00394;<italic toggle="yes">P</italic> Derivation as Introduced by Gosling et&#x000a0;al. [<xref rid="jon70010-bib-0005" ref-type="bibr">5</xref>]</title><p>According to Ohm's law, the volumetric flow (perfusion) within the system is determined by the difference between the upstream input pressure (<italic toggle="yes">P</italic>
+<sub>i</sub>) and downstream backward pressure (<italic toggle="yes">P</italic>
+<sub>z</sub>) divided by R:
+<disp-formula id="jon70010-disp-0001">
+<label>(1)</label>
+<mml:math id="jats-math-1" display="block"><mml:mrow><mml:mrow><mml:mi>Flow</mml:mi><mml:mo linebreak="badbreak">=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>P</mml:mi><mml:mi mathvariant="normal">i</mml:mi></mml:msub><mml:mo>&#x02212;</mml:mo><mml:msub><mml:mi>P</mml:mi><mml:mi mathvariant="normal">z</mml:mi></mml:msub></mml:mrow><mml:mi>R</mml:mi></mml:mfrac><mml:mo>.</mml:mo></mml:mrow></mml:mrow></mml:math>
+</disp-formula>
+</p><p>The PI of volumetric blood flow is defined as the difference between systolic blood flow (<italic toggle="yes">F</italic>
+<sub>s</sub>) and diastolic blood flow (<italic toggle="yes">F</italic>
+<sub>d</sub>), divided by the mean blood flow over a cardiac cycle (<italic toggle="yes">F</italic>
+<sub>m</sub>).
+<disp-formula id="jon70010-disp-0002">
+<label>(2)</label>
+<mml:math id="jats-math-2" display="block"><mml:mrow><mml:mrow><mml:mrow><mml:mi>PI</mml:mi><mml:mspace width="0.33em"/><mml:mi>flow</mml:mi></mml:mrow><mml:mo linebreak="badbreak">=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>F</mml:mi><mml:mi mathvariant="normal">s</mml:mi></mml:msub><mml:mo>&#x02212;</mml:mo><mml:msub><mml:mi>F</mml:mi><mml:mi mathvariant="normal">d</mml:mi></mml:msub></mml:mrow><mml:msub><mml:mi>F</mml:mi><mml:mi mathvariant="normal">m</mml:mi></mml:msub></mml:mfrac><mml:mo>.</mml:mo></mml:mrow></mml:mrow></mml:math>
+</disp-formula>
+</p><p>In systems with continuous forward flow throughout the cardiac cycle, such as the brain, the input pressure is consistently higher than downstream backward pressure. Hence,
+<disp-formula id="jon70010-disp-0003">
+<label>(3)</label>
+<mml:math id="jats-math-3" display="block"><mml:mrow><mml:mrow><mml:msub><mml:mi>F</mml:mi><mml:mi mathvariant="normal">m</mml:mi></mml:msub><mml:mo linebreak="badbreak">=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mi>T</mml:mi></mml:mfrac><mml:munderover><mml:mo>&#x0222b;</mml:mo><mml:mn>0</mml:mn><mml:mi>T</mml:mi></mml:munderover><mml:mfenced separators="" open="(" close=")"><mml:mrow><mml:msub><mml:mi>P</mml:mi><mml:mi mathvariant="normal">i</mml:mi></mml:msub><mml:mo>&#x02212;</mml:mo><mml:msub><mml:mi>P</mml:mi><mml:mi mathvariant="normal">z</mml:mi></mml:msub></mml:mrow></mml:mfenced><mml:mi>d</mml:mi><mml:mi>t</mml:mi><mml:mo>/</mml:mo><mml:mi>R</mml:mi><mml:mo linebreak="goodbreak">=</mml:mo><mml:mfenced separators="" open="(" close=")"><mml:mrow><mml:mi>MAP</mml:mi><mml:mo>&#x02212;</mml:mo><mml:msub><mml:mi>P</mml:mi><mml:mi mathvariant="normal">z</mml:mi></mml:msub></mml:mrow></mml:mfenced><mml:mo>/</mml:mo><mml:mi>R</mml:mi><mml:mo>.</mml:mo></mml:mrow></mml:mrow></mml:math>
+</disp-formula>
+</p><p>By applying this, Equation&#x000a0;(<xref rid="jon70010-disp-0002" ref-type="disp-formula">2</xref>) becomes
+<disp-formula id="jon70010-disp-0004">
+<label>(4)</label>
+<mml:math id="jats-math-4" display="block"><mml:mrow><mml:mrow><mml:mrow><mml:mi>PI</mml:mi><mml:mspace width="0.33em"/><mml:mi>flow</mml:mi></mml:mrow><mml:mo linebreak="badbreak">=</mml:mo><mml:mfrac><mml:mrow><mml:mi>SBP</mml:mi><mml:mo>/</mml:mo><mml:mi>R</mml:mi><mml:mo>&#x02212;</mml:mo><mml:mi>DBP</mml:mi><mml:mo>/</mml:mo><mml:mi>R</mml:mi></mml:mrow><mml:mrow><mml:mfenced separators="" open="(" close=")"><mml:mrow><mml:mi>MAP</mml:mi><mml:mo>&#x02212;</mml:mo><mml:msub><mml:mi>P</mml:mi><mml:mi mathvariant="normal">z</mml:mi></mml:msub></mml:mrow></mml:mfenced><mml:mo>/</mml:mo><mml:mi>R</mml:mi></mml:mrow></mml:mfrac><mml:mo linebreak="goodbreak">=</mml:mo><mml:mfrac><mml:mrow><mml:mi>SBP</mml:mi><mml:mo>&#x02212;</mml:mo><mml:mi>DBP</mml:mi></mml:mrow><mml:mrow><mml:mi>MAP</mml:mi><mml:mo>&#x02212;</mml:mo><mml:msub><mml:mi>P</mml:mi><mml:mi mathvariant="normal">z</mml:mi></mml:msub></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:mrow></mml:mrow></mml:math>
+</disp-formula>
+</p><p>We defined the difference between the MAP and <italic toggle="yes">P</italic>
+<sub>z</sub> as the &#x00394;<italic toggle="yes">P</italic>. The difference between SBP and DBP is known as the PP. Lastly, if the arterial cross section is assumed to remain essentially constant throughout the cardiac cycle (since the normal distensibility of arteries in adults is less than 5% for a 40&#x02010;mmHg PP) [<xref rid="jon70010-bib-0005" ref-type="bibr">5</xref>], then the PI of volumetric blood flow would be equal to PI of linear blood flow velocity, which is the parameter measured using TCD. Hence,
+<disp-formula id="jon70010-disp-0005">
+<label>(5)</label>
+<mml:math id="jats-math-5" display="block"><mml:mrow><mml:mrow><mml:mrow><mml:mi>PI</mml:mi><mml:mspace width="0.33em"/><mml:mi>velocity</mml:mi></mml:mrow><mml:mo linebreak="badbreak">=</mml:mo><mml:mfrac><mml:mi>PP</mml:mi><mml:mrow><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>P</mml:mi></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:mrow></mml:mrow></mml:math>
+</disp-formula>
+</p><p>By rearranging this equation, we can estimate &#x00394;<italic toggle="yes">P</italic> by dividing PP by PI of the blood flow velocity that TCD provides.</p></sec><sec id="jon70010-sec-0110"><label>2.5</label><title>Outcomes</title><p>Our primary outcome measure is DCI in the MCA territory. We defined DCI as the presence of cerebral infarction on a CT or MRI of the brain within 6&#x000a0;weeks after SAH, or on the latest CT or MRI performed before death within 6&#x000a0;weeks [<xref rid="jon70010-bib-0012" ref-type="bibr">12</xref>]. This infarction could not appear on imaging between 24 and 48&#x000a0;h after early aneurysm occlusion and could not be attributable to other causes, such as surgical clipping or endovascular treatment [<xref rid="jon70010-bib-0012" ref-type="bibr">12</xref>]. Hypodensities on CT resulting from a ventricular catheter or intraparenchymal hematoma were also not regarded as DCI [<xref rid="jon70010-bib-0012" ref-type="bibr">12</xref>].</p><p>Secondary outcomes include vasospasm, unfavorable disposition (defined as placement in a skilled nursing facility, hospice, or death, while favorable disposition is defined as home or acute rehab) [<xref rid="jon70010-bib-0013" ref-type="bibr">13</xref>], and mRS 3&#x02013;6 at 90&#x000a0;days from the onset of SAH. Vasospasm is defined as the detection of vessel constriction resulting in &#x0003e;50% luminal narrowing of MCA horizontal (M1) and/or proximal insular (M2) segment on conventional angiography. A threshold of 50% was selected because it correlates with perfusion abnormalities in the territories of affected vessels, which are more likely to have clinical significance [<xref rid="jon70010-bib-0014" ref-type="bibr">14</xref>, <xref rid="jon70010-bib-0015" ref-type="bibr">15</xref>, <xref rid="jon70010-bib-0016" ref-type="bibr">16</xref>].</p></sec><sec id="jon70010-sec-0120"><label>2.6</label><title>Statistical Analysis</title><p>Statistical analysis was conducted using SPSS Statistics (version 29.0.1.0, IBM, Armonk, NY, USA, <ext-link xlink:href="https://www.ibm.com/spss" ext-link-type="uri">https://www.ibm.com/spss</ext-link>) and Statistical Analysis System (version 9.4, SAS Institute Inc., Cary, NC, USA, <ext-link xlink:href="https://www.sas.com" ext-link-type="uri">https://www.sas.com</ext-link>). The Mann&#x02013;Whitney test was used to compare the mean values of the parameters between the two groups. Binary logistic regression analysis was used to evaluate the association between binary dependent variables (e.g., presence or absence of DCI) and two or more independent variables. The highest values of mCBFV, Lindegaard's ratio (LR), MAP, and &#x00394;<italic toggle="yes">P</italic> measured before the onset of outcomes were considered as independent variables. If the outcomes did not occur, the highest value during the entire TCD monitoring was chosen.</p></sec></sec><sec id="jon70010-sec-0130"><label>3</label><title>Results</title><p>Of the 256 SAH patients admitted during the study period, 186 patients (mean age 54&#x000a0;&#x000b1;&#x000a0;18 years; 44% male; 54% African American, 30% Caucasian) met our study criteria, resulting in 363 insonated hemispheres (five with no left transtemporal window, four with no right transtemporal window). The median number of insonations performed on a hemisphere was 11 (interquartile range [IQR] 8&#x02013;12), totaling the number of insonations to 3469. The median value of HH score was 3 (IQR 2&#x02013;3), and the mFS score was 3 (IQR 3&#x02013;4). Ninety&#x02010;seven (52%) had hypertension, and 26 (14%) had diabetes. Forty&#x02010;nine (26%) were active tobacco users.</p><p>Among the 186 patients, 13 (7%) developed DCI within an MCA territory (five in the left, six in the right, two in bilateral MCA territories) and 21 (11%) experienced vasospasms at MCA M1 and/or proximal M2 segments (six in the left, four in the right, 11 in bilateral MCAs; Figure&#x000a0;<xref rid="jon70010-fig-0001" ref-type="fig">1</xref>). Only six (3%) patients simultaneously experienced MCA vasospasm and DCI within MCA territory. Forty (22%) patients had an unfavorable disposition following hospitalization. At 90&#x000a0;days post&#x02010;SAH, 40 (22%) patients had an mRS score of 3&#x02013;6. Figure&#x000a0;<xref rid="jon70010-fig-0001" ref-type="fig">1</xref> provides detailed information on patient selection and the distribution of DCI and vasospasm in the MCA territory.</p><fig position="float" fig-type="FIGURE" id="jon70010-fig-0001"><label>FIGURE 1</label><caption><p>Patient selection and distribution of delayed cerebral infarction (DCI) and vasospasm in middle cerebral artery (MCA) territory. SAH, subarachnoid hemorrhage; TCD, transcranial Doppler.</p></caption><graphic xlink:href="JON-35-0-g001" position="anchor" id="jats-graphic-1"/></fig><p>The mean values of the highest &#x00394;<italic toggle="yes">P</italic>, mCBFV, LR, and MAP are shown in Table&#x000a0;<xref rid="jon70010-tbl-0001" ref-type="table">1</xref>. The mean highest &#x00394;<italic toggle="yes">P</italic> was 95.7&#x000a0;&#x000b1;&#x000a0;33.6 in patients without DCI, compared to 142.2&#x000a0;&#x000b1;&#x000a0;46.5 in patients with DCI, showing a statistically significant difference (<italic toggle="yes">p</italic>&#x000a0;&#x0003c;&#x000a0;0.001). Similarly, the mean values of highest mCBFV and LR, traditionally used parameters, were significantly different between the groups with and without DCI. However, the MAP did not differ between the groups.</p><table-wrap position="float" id="jon70010-tbl-0001" content-type="TABLE"><label>TABLE 1</label><caption><p>Comparison of mean values&#x000a0;&#x000b1;&#x000a0;standard deviation of peak parameter values.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Parameters</th><th align="center" rowspan="1" colspan="1">DCI</th><th align="center" rowspan="1" colspan="1">Non&#x02010;DCI</th><th align="center" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">&#x00394;<italic toggle="yes">P</italic>
+</td><td align="center" rowspan="1" colspan="1">142.2 &#x000b1; 46.5</td><td align="center" rowspan="1" colspan="1">95.7 &#x000b1; 33.6</td><td align="center" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">mCBFV</td><td align="center" rowspan="1" colspan="1">142.0 &#x000b1; 39.6</td><td align="center" rowspan="1" colspan="1">96.0 &#x000b1; 40.0</td><td align="center" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Lindegaard's ratio</td><td align="center" rowspan="1" colspan="1">6.1 &#x000b1; 1.7</td><td align="center" rowspan="1" colspan="1">4.2 &#x000b1; 1.6</td><td align="center" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Mean arterial pressure</td><td align="center" rowspan="1" colspan="1">125.9 &#x000b1;16.6</td><td align="center" rowspan="1" colspan="1">121.8 &#x000b1; 18.2</td><td align="center" rowspan="1" colspan="1">0.398</td></tr></tbody></table><table-wrap-foot><fn id="jon70010-tbl1-note-0001"><p>
+<italic toggle="yes">Note</italic>: &#x00394;<italic toggle="yes">P</italic>&#x000a0;=&#x000a0;arterial pressure gradient.</p></fn><fn id="jon70010-tbl1-note-0002"><p>Abbreviations: DCI, delayed cerebral infarct; mCBFV, mean cerebral blood flow velocity.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>To determine whether &#x00394;<italic toggle="yes">P</italic> values are independently associated with the occurrence of DCI, apart from the traditionally used parameters (mCBFV and LR), we performed a binary logistic regression analysis on 363 hemispheres. We also examined the association between the occurrence of vasospasm and the highest mCBFV, LR, MAP, and &#x00394;<italic toggle="yes">P</italic> measured prior to onset of vasospasm. The results are shown in Table&#x000a0;<xref rid="jon70010-tbl-0002" ref-type="table">2</xref>.</p><table-wrap position="float" id="jon70010-tbl-0002" content-type="TABLE"><label>TABLE 2</label><caption><p>Binary logistic regression analysis per 363 hemispheres.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Outcome</th><th align="center" rowspan="1" colspan="1">Parameters</th><th align="center" rowspan="1" colspan="1">Odds ratio (95% CI)</th><th align="center" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Delayed cerebral infarction</td><td align="center" rowspan="1" colspan="1">mCBFV</td><td align="center" rowspan="1" colspan="1">0.998 (0.979&#x02013;1.018)</td><td align="center" rowspan="1" colspan="1">0.873</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">LR</td><td align="center" rowspan="1" colspan="1">1.366 (0.889&#x02013;2.099)</td><td align="center" rowspan="1" colspan="1">0.154</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">&#x00394;<italic toggle="yes">P</italic>
+</td><td align="center" rowspan="1" colspan="1">1.021 (1.004&#x02013;1.039)</td><td align="center" rowspan="1" colspan="1">0.014</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">MAP</td><td align="center" rowspan="1" colspan="1">0.983 (0.947&#x02013;1.019)</td><td align="center" rowspan="1" colspan="1">0.352</td></tr><tr><td align="left" rowspan="1" colspan="1">Angiographic vasospasm</td><td align="center" rowspan="1" colspan="1">mCBFV</td><td align="center" rowspan="1" colspan="1">1.037 (1.017&#x02013;1.057)</td><td align="center" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">LR</td><td align="center" rowspan="1" colspan="1">1.285 (0.856&#x02013;1.929)</td><td align="center" rowspan="1" colspan="1">0.226</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">&#x00394;<italic toggle="yes">P</italic>
+</td><td align="center" rowspan="1" colspan="1">1.006 (0.991&#x02013;1.022)</td><td align="center" rowspan="1" colspan="1">0.402</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">MAP</td><td align="center" rowspan="1" colspan="1">1.002 (0.975&#x02013;1.029)</td><td align="center" rowspan="1" colspan="1">0.909</td></tr></tbody></table><table-wrap-foot><fn id="jon70010-tbl2-note-0001"><p>
+<italic toggle="yes">Note</italic>: &#x00394;<italic toggle="yes">P</italic>&#x000a0;=&#x000a0;arterial pressure gradient.</p></fn><fn id="jon70010-tbl2-note-0002"><p>Abbreviations: CI, confidence interval; MAP, mean arterial pressure; mCBFV, mean cerebral blood flow velocity; LR, Lindegaard ratio.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Increased &#x00394;<italic toggle="yes">P</italic> demonstrated a significant association with DCI (OR 1.021, 95% CI 1.004&#x02013;1.039, <italic toggle="yes">p</italic>&#x000a0;=&#x000a0;0.014), while elevated mCBFV did not show any association with DCI (OR 0.998, 95% CI 0.979&#x02013;1.018, <italic toggle="yes">p</italic>&#x000a0;=&#x000a0;0.873). Conversely, elevated mCBFV demonstrated an association with vasospasm (OR 1.037, 95% CI 1.017&#x02013;1.057, <italic toggle="yes">p</italic>&#x000a0;&#x0003c;&#x000a0;0.001), whereas increased &#x00394;<italic toggle="yes">P</italic> did not show a significant association with vasospasm (OR 1.006, 95% CI 0.991&#x02013;1.022, <italic toggle="yes">p</italic>&#x000a0;=&#x000a0;0.402). Neither LR nor MAP demonstrated associations with either DCI or vasospasm.</p><p>Receiver operating characteristic curve analysis was performed to evaluate predictive performance of &#x00394;<italic toggle="yes">P</italic> for DCI. The area under the curve for &#x00394;<italic toggle="yes">P</italic> was 0.806 (95% CI 0.699&#x02013;0.913), with an optimal cutoff value of 124&#x000a0;mmHg. A &#x00394;<italic toggle="yes">P</italic> greater than 124&#x000a0;mmHg demonstrated a sensitivity of 66.7% and a specificity of 82.5% for predicting DCI. Among patients with a &#x00394;<italic toggle="yes">P</italic> above 124&#x000a0;mmHg, 14.1% developed DCI, compared to only 1.7% of patients with a &#x00394;<italic toggle="yes">P</italic> of 124&#x000a0;mmHg or lower.</p><p>The normal range for &#x00394;<italic toggle="yes">P</italic> was determined based on the mean &#x00394;<italic toggle="yes">P</italic> of from all insonations of non&#x02010;DCI patients (66.2&#x000a0;mmHg)&#x000a0;&#x000b1;&#x000a0;two standard deviations (&#x000b1;2&#x000a0;&#x000d7;&#x000a0;26.1&#x000a0;mmHg). After rounding to the nearest whole number, the proposed normal range for &#x00394;<italic toggle="yes">P</italic> is 14&#x02013;118&#x000a0;mmHg.</p><p>To evaluate which radiologic outcomes&#x02014;DCI or vasospasm&#x02014;have a more crucial impact in the long term, we conducted a binary logistic regression analysis on 186 patients. The incorporated independent variables include the patient's age, biological sex, scores of HH and mFS, as well as the presence of DCI and vasospasm. The incidence of mRS 3&#x02013;6 at 90&#x000a0;days post&#x02010;SAH and unfavorable disposition at discharge were considered as dependent variables. The results are summarized in Table&#x000a0;<xref rid="jon70010-tbl-0003" ref-type="table">3</xref>.</p><table-wrap position="float" id="jon70010-tbl-0003" content-type="TABLE"><label>TABLE 3</label><caption><p>Binary logistic regression analyses per 186 patients.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Outcome</th><th align="center" rowspan="1" colspan="1">Parameters</th><th align="center" rowspan="1" colspan="1">Odds ratio (95% CI)</th><th align="center" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">mRS 3&#x02013;6 at 90&#x000a0;days</td><td align="center" rowspan="1" colspan="1">Age<xref rid="jon70010-tbl3-note-0003" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.060 (1.021&#x02013;1.100)</td><td align="center" rowspan="1" colspan="1">0.002</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Male sex</td><td align="center" rowspan="1" colspan="1">1.379 (0.480&#x02013;3.960)</td><td align="center" rowspan="1" colspan="1">0.550</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Hunt&#x02013;Hess scale</td><td align="center" rowspan="1" colspan="1">5.335 (2.775&#x02013;10.257)</td><td align="center" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Modified Fisher scale</td><td align="center" rowspan="1" colspan="1">1.685 (0.749&#x02013;3.795)</td><td align="center" rowspan="1" colspan="1">0.207</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">DCI</td><td align="center" rowspan="1" colspan="1">29.380 (2.930&#x02013;294.615)</td><td align="center" rowspan="1" colspan="1">0.004</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Vasospasm</td><td align="center" rowspan="1" colspan="1">0.695 (0.120&#x02013;4.043)</td><td align="center" rowspan="1" colspan="1">0.686</td></tr><tr><td align="left" rowspan="1" colspan="1">Unfavorable disposition<xref rid="jon70010-tbl3-note-0002" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">Age<xref rid="jon70010-tbl3-note-0003" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">1.043 (1.010&#x02013;1.078)</td><td align="center" rowspan="1" colspan="1">0.011</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Male sex</td><td align="center" rowspan="1" colspan="1">0.709 (0.277&#x02013;1.815)</td><td align="center" rowspan="1" colspan="1">0.473</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Hunt&#x02013;Hess scale</td><td align="center" rowspan="1" colspan="1">3.202 (1.941&#x02013;5.284)</td><td align="center" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Modified Fisher scale</td><td align="center" rowspan="1" colspan="1">1.843 (0.905&#x02013;3.752)</td><td align="center" rowspan="1" colspan="1">0.092</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">DCI</td><td align="center" rowspan="1" colspan="1">7.728 (1.584&#x02013;37.687)</td><td align="center" rowspan="1" colspan="1">0.011</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Vasospasm</td><td align="center" rowspan="1" colspan="1">0.896 (0.196&#x02013;4.104)</td><td align="center" rowspan="1" colspan="1">0.888</td></tr></tbody></table><table-wrap-foot><fn id="jon70010-tbl3-note-0001"><p>Abbreviations: CI, confidence interval; DCI, delayed cerebral infarction; mRS, modified Rankin Scale.</p></fn><fn id="jon70010-tbl3-note-0002"><label>
+<sup>a</sup>
+</label><p>Unfavorable disposition is defined as being discharged to a skilled nursing facility, hospice, or death. Favorable disposition is defined as being discharged to home or acute rehabilitation.</p></fn><fn id="jon70010-tbl3-note-0003"><label>
+<sup>b</sup>
+</label><p>Per 1&#x000a0;year increase of the patient's age.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Advanced age (OR 1.060, 95% CI 1.021&#x02013;1.100, <italic toggle="yes">p</italic>&#x000a0;=&#x000a0;0.002), higher HH scores (OR 5.355, 95% CI 2.775&#x02013;10.257, <italic toggle="yes">p</italic>&#x000a0;&#x0003c;&#x000a0;0.001), and the occurrence of DCI (OR 29.380, 95% CI 2.930&#x02013;294.615, <italic toggle="yes">p</italic>&#x000a0;=&#x000a0;0.004) were significantly associated with mRS scores of 3&#x02013;6 at 90&#x000a0;days post&#x02010;SAH. Conversely, male sex (OR 1.379, 95% CI 0.480&#x02013;3.960, <italic toggle="yes">p</italic>&#x000a0;=&#x000a0;0.550), mFS (OR 1.685, 95% CI 0.749&#x02013;3.795, <italic toggle="yes">p</italic>&#x000a0;=&#x000a0;0.207), and the occurrence of vasospasm (OR 0.695, 95% CI 0.120&#x02013;4.043, <italic toggle="yes">p</italic>&#x000a0;=&#x000a0;0.686) did not demonstrate any association with the 90&#x02010;day outcome. Similarly, older age (OR 1.043, 95% CI 1.010&#x02013;1.078, <italic toggle="yes">p</italic>&#x000a0;=&#x000a0;0.011), higher HH scores (OR 3.202, 95% CI 1.941&#x02013;5.284, <italic toggle="yes">p</italic>&#x000a0;&#x0003c;&#x000a0;0.001), and the occurrence of DCI (OR 7.728, 95% CI 1.584&#x02013;37.687, <italic toggle="yes">p</italic>&#x000a0;=&#x000a0;0.011) were associated with unfavorable discharge disposition, while male sex (OR 0.709, 95% CI 0.277&#x02013;1.815, <italic toggle="yes">p</italic>&#x000a0;=&#x000a0;0.473), mFS (OR 1.843, 95% CI 0.905&#x02013;3.752, <italic toggle="yes">p</italic>&#x000a0;=&#x000a0;0.092), and vasospasm (OR 0.896, 95% CI 0.196&#x02013;4.104, <italic toggle="yes">p</italic>&#x000a0;=&#x000a0;0.888) were not.</p></sec><sec id="jon70010-sec-0140"><label>4</label><title>Discussion</title><p>Our study demonstrates that increased &#x00394;<italic toggle="yes">P</italic> is associated with the occurrence of DCI. We also reaffirmed the well&#x02010;established link between elevated mCBFV and vasospasm and found that DCI, rather than vasospasm, is associated with 90&#x02010;day functional outcomes.</p><p>TCD consistently provides both mCBFV and PI values, yet traditional monitoring in SAH patients has predominantly focused on mCBFV as a marker of vasospasm. Given that DCI, more so than vasospasm, has stronger associations with functional outcomes [<xref rid="jon70010-bib-0017" ref-type="bibr">17</xref>], it would be more effective to monitor the development of DCI rather than vasospasm for neuroprognostication purposes.</p><p>Approximately 30% of SAH patients experience neurological deterioration between 4 and 14&#x000a0;days after the SAH, a condition known as DCI. The deterioration has traditionally been attributed to cerebral vasospasm. While SAH patients may develop angiographic vasospasm, DCI occurs in only a subset of those patients and can even occur in the absence of vasospasm [<xref rid="jon70010-bib-0018" ref-type="bibr">18</xref>, <xref rid="jon70010-bib-0019" ref-type="bibr">19</xref>]. Vasospasm may not always signify critical ischemia, as adequate cerebrovascular reserve can maintain sufficient perfusion despite local arterial narrowing [<xref rid="jon70010-bib-0020" ref-type="bibr">20</xref>]. Modern understanding frames DCI as a multifactorial process that incorporates vasospasm but is not solely caused by it.</p><p>Elevated mCBFV, the traditional marker of vasospasm used in TCD monitoring [<xref rid="jon70010-bib-0011" ref-type="bibr">11</xref>, <xref rid="jon70010-bib-0021" ref-type="bibr">21</xref>, <xref rid="jon70010-bib-0022" ref-type="bibr">22</xref>], may still indirectly predict the risk of DCI. A meta&#x02010;analysis has suggested that elevated mCBFV may be a better predictor of DCI than angiographic vasospasm [<xref rid="jon70010-bib-0023" ref-type="bibr">23</xref>], corroborating that vasospasm is not the sole cause of DCI. We propose two mechanisms by which elevated mCBFV relates to DCI: (1) as an indicator of underlying vasospasm and (2) as a reflection of increased &#x00394;<italic toggle="yes">P</italic>. Our finding showed that &#x00394;<italic toggle="yes">P</italic> was significantly associated with DCI, while mCBFV was not. This suggests that between these two related TCD markers, &#x00394;<italic toggle="yes">P</italic> demonstrates a stronger and more direct association with DCI, making it a potentially more reliable marker than mCBFV.</p><p>Elevated &#x00394;<italic toggle="yes">P</italic> can be interpreted as increased energy loss required to push blood through an arterial segment, reflecting higher arterial resistance, irrespective of the underlying cause. A significantly high or prolonged elevation of &#x00394;<italic toggle="yes">P</italic> may indicate severely elevated arterial resistance, overwhelming the brain's compensatory mechanisms. When perfusion continues to decline beyond the point of maximal compensation, these mechanisms fail, increasing the risk of infarction in the affected brain tissue. This hypothesis explains the observed association between elevated &#x00394;<italic toggle="yes">P</italic> and DCI.</p><p>As expected, only DCI&#x02014;not vasospasm&#x02014;demonstrated an association with the 90&#x02010;day functional outcome. Lasting deficits from permanent infarction are likely responsible for unfavorable outcomes, whereas vasospasm, if asymptomatic or properly treated without causing permanent neuronal damage, may not lead to long&#x02010;term deficits. This highlights the importance of developing dedicated monitoring and prevention strategies for DCI that are distinct from current vasospasm treatments.</p><p>Unlike vasospasm, no specific prevention or treatment methods exist for DCI at present. In this context, the practical utility of a DCI&#x02010;specific variable may be limited. However, a DCI&#x02010;specific monitoring marker could be helpful in future studies targeting DCI. For example, studies could explore whether interventions targeting patients with &#x00394;<italic toggle="yes">P</italic> exceeding 124&#x000a0;mmHg provide benefits for the prevention and treatment of DCI.</p><p>Our study has limitations. The retrospective design and single&#x02010;center study location limit the generalizability of our findings, making them only hypothesis generating. The &#x00394;<italic toggle="yes">P</italic> values used were derived from a mathematical model based on systemic blood pressure measurement, as direct measurement of &#x00394;<italic toggle="yes">P</italic> in each cerebral artery is impractical and too invasive. Consequently, these estimated &#x00394;<italic toggle="yes">P</italic> values may not precisely reflect the actual &#x00394;<italic toggle="yes">P</italic> and should be regarded as indirect markers. Nevertheless, the noninvasive nature of the &#x00394;<italic toggle="yes">P</italic> estimation using systemic blood pressure and TCD offers practical advantage, making it feasible for use in SAH patients, including those in unstable conditions. As the posterior circulation was excluded from our study, applying these findings to that region may not be accurate. A separate study to validate &#x00394;<italic toggle="yes">P</italic> and mCBFV of the basilar artery and DCI in the posterior circulation territory may be needed.</p><p>In summary, increased &#x00394;<italic toggle="yes">P</italic>, estimated using TCD PI and systemic PP, was associated with the occurrence of DCI, independent of elevated mCBFV. While elevated mCBFV was associated with the vasospasm, as expected, it showed no association with DCI. The presence of DCI, rather than vasospasm, was the factor associated with 90&#x02010;day functional outcome. TCD&#x02010;estimated &#x00394;<italic toggle="yes">P</italic> may serve as a useful predictor for the development of DCI in SAH patients.</p></sec><sec sec-type="COI-statement" id="jon70010-sec-0150"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec></body><back><ref-list id="jon70010-bibl-0001"><title>References</title><ref id="jon70010-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jon70010-cit-0001">
+<string-name>
+<given-names>B. L.</given-names>
+<surname>Hoh</surname>
+</string-name>, <string-name>
+<given-names>N. U.</given-names>
+<surname>Ko</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Amin&#x02010;Hanjani</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>2023 guideline for the Management of Patients With Aneurysmal Subarachnoid Hemorrhage: A Guideline From the American Heart Association/American Stroke Association</article-title>,&#x0201d; <source>Stroke; A Journal of Cerebral Circulation</source>
+<volume>54</volume> (<year>2023</year>): <fpage>e314</fpage>&#x02013;<lpage>e370</lpage>.</mixed-citation></ref><ref id="jon70010-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jon70010-cit-0002">
+<string-name>
+<given-names>J. J.</given-names>
+<surname>Provencio</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Inkelas</surname>
+</string-name>, and <string-name>
+<given-names>M. D. I.</given-names>
+<surname>Vergouwen</surname>
+</string-name>, &#x0201c;<article-title>Delayed Cerebral Ischemia After Aneurysmal Subarachnoid Hemorrhage: The Role of the Complement and Innate Immune System</article-title>,&#x0201d; <source>Translational Stroke Research</source>. Published ahead of print, August 21, 2024. <pub-id pub-id-type="doi">10.1007/s12975-024-01290-5</pub-id>.</mixed-citation></ref><ref id="jon70010-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jon70010-cit-0003">
+<string-name>
+<given-names>A. V.</given-names>
+<surname>Alexandrov</surname>
+</string-name>, &#x0201c;<article-title>The Spencer's Curve: Clinical Implications of a Classic Hemodynamic Model</article-title>,&#x0201d; <source>Journal of Neuroimaging</source>
+<volume>17</volume> (<year>2007</year>): <fpage>6</fpage>&#x02013;<lpage>10</lpage>.<pub-id pub-id-type="pmid">17238866</pub-id>
+</mixed-citation></ref><ref id="jon70010-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jon70010-cit-0004">
+<string-name>
+<given-names>R. G.</given-names>
+<surname>Gosling</surname>
+</string-name> and <string-name>
+<given-names>D. H.</given-names>
+<surname>King</surname>
+</string-name>, &#x0201c;<article-title>Arterial Assessment by Doppler&#x02010;Shift Ultrasound</article-title>,&#x0201d; <source>Proceedings of the Royal Society of Medicine</source>
+<volume>67</volume> (<year>1974</year>): <fpage>447</fpage>&#x02013;<lpage>449</lpage>.<pub-id pub-id-type="pmid">4850636</pub-id>
+</mixed-citation></ref><ref id="jon70010-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jon70010-cit-0005">
+<string-name>
+<given-names>R. G.</given-names>
+<surname>Gosling</surname>
+</string-name>, <string-name>
+<given-names>P. T. S.</given-names>
+<surname>Lo</surname>
+</string-name>, and <string-name>
+<given-names>M. G.</given-names>
+<surname>Taylor</surname>
+</string-name>., &#x0201c;<article-title>Interpretation of Pulsatility Index in Feeder Arteries to Low&#x02010;Impedance Vascular Beds</article-title>,&#x0201d; <source>Ultrasound in Obstetrics &#x00026; Gynecology: The Official Journal of the International Society of Ultrasound in Obstetrics and Gynecology</source>
+<volume>1</volume> (<year>1991</year>): <fpage>175</fpage>&#x02013;<lpage>179</lpage>.<pub-id pub-id-type="pmid">12797068</pub-id>
+</mixed-citation></ref><ref id="jon70010-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jon70010-cit-0006">
+<string-name>
+<given-names>J. J.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Triano</surname>
+</string-name>, <string-name>
+<given-names>M. J.</given-names>
+<surname>Corbin</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Transcranial Doppler Velocity and Associations With Delayed Cerebral Ischemia in Aneurysmal Subarachnoid Hemorrhage</article-title>,&#x0201d; <source>Journal of the Neurological Sciences</source>
+<volume>415</volume> (<year>2020</year>): <elocation-id>116934</elocation-id>.<pub-id pub-id-type="pmid">32526525</pub-id>
+</mixed-citation></ref><ref id="jon70010-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jon70010-cit-0007">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Mehta</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Nair</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>The TCD Hyperemia Index to Detect Vasospasm and Delayed Cerebral Ischemia in Aneurysmal Subarachnoid Hemorrhage</article-title>,&#x0201d; <source>Journal of Neuroimaging</source>
+<volume>33</volume> (<year>2023</year>): <fpage>725</fpage>&#x02013;<lpage>730</lpage>
+<pub-id pub-id-type="pmid">37291461</pub-id>
+</mixed-citation></ref><ref id="jon70010-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jon70010-cit-0008">
+<string-name>
+<given-names>A. V.</given-names>
+<surname>Alexandrov</surname>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>Sloan</surname>
+</string-name>, <string-name>
+<given-names>L. K. S.</given-names>
+<surname>Wong</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Practice Standards for Transcranial Doppler Ultrasound: Part I&#x02014;Test Performance</article-title>,&#x0201d; <source>Journal of Neuroimaging</source>
+<volume>17</volume> (<year>2007</year>): <fpage>11</fpage>&#x02013;<lpage>18</lpage>.<pub-id pub-id-type="pmid">17238867</pub-id>
+</mixed-citation></ref><ref id="jon70010-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jon70010-cit-0009">
+<string-name>
+<given-names>N.</given-names>
+<surname>Samagh</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Bhagat</surname>
+</string-name>, and <string-name>
+<given-names>K.</given-names>
+<surname>Jangra</surname>
+</string-name>, &#x0201c;<article-title>Monitoring Cerebral Vasospasm: How Much Can We Rely on Transcranial Doppler</article-title>,&#x0201d; <source>Journal of Anaesthesiology Clinical Pharmacology</source>
+<volume>35</volume> (<year>2019</year>): <fpage>12</fpage>&#x02013;<lpage>18</lpage>.<pub-id pub-id-type="pmid">31057233</pub-id>
+</mixed-citation></ref><ref id="jon70010-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jon70010-cit-0010">
+<string-name>
+<given-names>K.&#x02010;F.</given-names>
+<surname>Lindegaard</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Nornes</surname>
+</string-name>, <string-name>
+<given-names>S. J.</given-names>
+<surname>Bakke</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Sorteberg</surname>
+</string-name>, and <string-name>
+<given-names>P.</given-names>
+<surname>Nakstad</surname>
+</string-name>, &#x0201c;<article-title>Cerebral Vasospasm Diagnosis by Means of Angiography and Blood Velocity Measurements</article-title>,&#x0201d; <source>Acta Neurochirurgica</source>
+<volume>100</volume> (<year>1989</year>): <fpage>12</fpage>&#x02013;<lpage>24</lpage>.<pub-id pub-id-type="pmid">2683600</pub-id>
+</mixed-citation></ref><ref id="jon70010-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jon70010-cit-0011">
+<string-name>
+<given-names>J.&#x02010;M.</given-names>
+<surname>Mastantuono</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Combescure</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Elia</surname>
+</string-name>, <string-name>
+<given-names>M. R.</given-names>
+<surname>Tram&#x000e8;r</surname>
+</string-name>, and <string-name>
+<given-names>C.</given-names>
+<surname>Lysakowski</surname>
+</string-name>, &#x0201c;<article-title>Transcranial Doppler in the Diagnosis of Cerebral Vasospasm</article-title>,&#x0201d; <source>Critical Care Medicine</source>
+<volume>46</volume> (<year>2018</year>): <fpage>1665</fpage>&#x02013;<lpage>1672</lpage>.<pub-id pub-id-type="pmid">30080684</pub-id>
+</mixed-citation></ref><ref id="jon70010-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jon70010-cit-0012">
+<string-name>
+<given-names>M. D. I.</given-names>
+<surname>Vergouwen</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Vermeulen</surname>
+</string-name>, and <string-name>
+<given-names>G. J.</given-names>
+<surname>van</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Definition of Delayed Cerebral Ischemia After Aneurysmal Subarachnoid Hemorrhage as an Outcome Event in Clinical Trials and Observational Studies</article-title>,&#x0201d; <source>Stroke; A Journal of Cerebral Circulation</source>
+<volume>41</volume> (<year>2010</year>): <fpage>2391</fpage>&#x02013;<lpage>2395</lpage>.</mixed-citation></ref><ref id="jon70010-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jon70010-cit-0013">
+<string-name>
+<given-names>J. J.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Kepplinger</surname>
+</string-name>, <string-name>
+<given-names>E. J.</given-names>
+<surname>Metter</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Pressure Reactivity Index for Early Neuroprognostication in Poor&#x02010;Grade Subarachnoid Hemorrhage</article-title>,&#x0201d; <source>Journal of the Neurological Sciences</source>
+<volume>450</volume> (<year>2023</year>): <elocation-id>120691</elocation-id>.<pub-id pub-id-type="pmid">37267816</pub-id>
+</mixed-citation></ref><ref id="jon70010-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jon70010-cit-0014">
+<string-name>
+<given-names>A.</given-names>
+<surname>Aralasmak</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Akyuz</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Ozkaynak</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Sindel</surname>
+</string-name>, and <string-name>
+<given-names>R.</given-names>
+<surname>Tuncer</surname>
+</string-name>, &#x0201c;<article-title>CT Angiography and Perfusion Imaging in Patients With Subarachnoid Hemorrhage: Correlation of Vasospasm to Perfusion Abnormality</article-title>,&#x0201d; <source>Neuroradiology</source>
+<volume>51</volume> (<year>2008</year>): <fpage>85</fpage>.<pub-id pub-id-type="pmid">18850093</pub-id>
+</mixed-citation></ref><ref id="jon70010-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jon70010-cit-0015">
+<string-name>
+<given-names>Y. Y.</given-names>
+<surname>Vora</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Suarez&#x02010;Almazor</surname>
+</string-name>, <string-name>
+<given-names>D. E.</given-names>
+<surname>Steinke</surname>
+</string-name>, <string-name>
+<given-names>M. L.</given-names>
+<surname>Martin</surname>
+</string-name>, and <string-name>
+<given-names>J. M.</given-names>
+<surname>Findlay</surname>
+</string-name>, &#x0201c;<article-title>Role of Transcranial Doppler Monitoring in the Diagnosis of Cerebral Vasospasm After Subarachnoid Hemorrhage</article-title>,&#x0201d; <source>Neurosurgery</source>
+<volume>44</volume> (<year>1999</year>): <fpage>1237</fpage>&#x02013;<lpage>1247</lpage>.<pub-id pub-id-type="pmid">10371622</pub-id>
+</mixed-citation></ref><ref id="jon70010-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jon70010-cit-0016">
+<string-name>
+<given-names>A. M.</given-names>
+<surname>Mortimer</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Steinfort</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Faulder</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>The Detrimental Clinical Impact of Severe Angiographic Vasospasm May Be Diminished by Maximal Medical Therapy and Intensive Endovascular Treatment</article-title>,&#x0201d; <source>Journal of NeuroInterventional Surgery</source>
+<volume>7</volume> (<year>2015</year>): <fpage>881</fpage>.<pub-id pub-id-type="pmid">25304500</pub-id>
+</mixed-citation></ref><ref id="jon70010-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jon70010-cit-0017">
+<string-name>
+<given-names>J. P.</given-names>
+<surname>Galea</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Dulhanty</surname>
+</string-name>, and <string-name>
+<given-names>H. C.</given-names>
+<surname>Patel</surname>
+</string-name>, &#x0201c;<article-title>Predictors of Outcome in Aneurysmal Subarachnoid Hemorrhage Patients</article-title>,&#x0201d; <source>Stroke; A Journal of Cerebral Circulation</source>
+<volume>48</volume> (<year>2017</year>): <fpage>2958</fpage>&#x02013;<lpage>2963</lpage>.</mixed-citation></ref><ref id="jon70010-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jon70010-cit-0018">
+<string-name>
+<given-names>R. W.</given-names>
+<surname>Crowley</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Medel</surname>
+</string-name>, <string-name>
+<given-names>A. S.</given-names>
+<surname>Dumont</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Angiographic Vasospasm Is Strongly Correlated With Cerebral Infarction After Subarachnoid Hemorrhage</article-title>,&#x0201d; <source>Stroke; A Journal of Cerebral Circulation</source>
+<volume>42</volume> (<year>2011</year>): <fpage>919</fpage>&#x02013;<lpage>923</lpage>.</mixed-citation></ref><ref id="jon70010-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jon70010-cit-0019">
+<string-name>
+<given-names>S.</given-names>
+<surname>Weidauer</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Lanfermann</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Raabe</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Zanella</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Seifert</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Beck</surname>
+</string-name>, &#x0201c;<article-title>Impairment of Cerebral Perfusion and Infarct Patterns Attributable to Vasospasm After Aneurysmal Subarachnoid Hemorrhage</article-title>,&#x0201d; <source>Stroke; A Journal of Cerebral Circulation</source>
+<volume>38</volume> (<year>2007</year>): <fpage>1831</fpage>&#x02013;<lpage>1836</lpage>.</mixed-citation></ref><ref id="jon70010-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jon70010-cit-0020">
+<string-name>
+<given-names>E.</given-names>
+<surname>Carrera</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Schmidt</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Oddo</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Transcranial Doppler for Predicting Delayed Cerebral Ischemia After Subarachnoid Hemorrhage</article-title>,&#x0201d; <source>Neurosurgery</source>
+<volume>65</volume> (<year>2009</year>): <fpage>316</fpage>&#x02013;<lpage>324</lpage>.<pub-id pub-id-type="pmid">19625911</pub-id>
+</mixed-citation></ref><ref id="jon70010-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jon70010-cit-0021">
+<string-name>
+<given-names>G.</given-names>
+<surname>Kumar</surname>
+</string-name>, <string-name>
+<given-names>R. B.</given-names>
+<surname>Shahripour</surname>
+</string-name>, and <string-name>
+<given-names>M. R.</given-names>
+<surname>Harrigan</surname>
+</string-name>, &#x0201c;<article-title>Vasospasm on Transcranial Doppler Is Predictive of Delayed Cerebral Ischemia in Aneurysmal Subarachnoid Hemorrhage: A Systematic Review and Meta&#x02010;Analysis</article-title>,&#x0201d; <source>Journal of Neurosurgery</source>
+<volume>124</volume> (<year>2016</year>): <fpage>1257</fpage>&#x02013;<lpage>1264</lpage>.<pub-id pub-id-type="pmid">26495942</pub-id>
+</mixed-citation></ref><ref id="jon70010-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jon70010-cit-0022">
+<string-name>
+<given-names>T. E.</given-names>
+<surname>Darsaut</surname>
+</string-name>, <string-name>
+<given-names>M. B.</given-names>
+<surname>Keough</surname>
+</string-name>, <string-name>
+<given-names>A. M.</given-names>
+<surname>Chan</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Transcranial Doppler Velocities and Angiographic Vasospasm After SAH: A Diagnostic Accuracy Study</article-title>,&#x0201d; <source>American Journal of Neuroradiology</source>
+<volume>43</volume> (<year>2021</year>): <fpage>80</fpage>&#x02013;<lpage>86</lpage>.<pub-id pub-id-type="pmid">34794947</pub-id>
+</mixed-citation></ref><ref id="jon70010-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jon70010-cit-0023">
+<string-name>
+<given-names>G.</given-names>
+<surname>Kumar</surname>
+</string-name>, <string-name>
+<given-names>O. M.</given-names>
+<surname>Dumitrascu</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;C.</given-names>
+<surname>Chiang</surname>
+</string-name>, <string-name>
+<given-names>C. B.</given-names>
+<surname>O'Carroll</surname>
+</string-name>, and <string-name>
+<given-names>A. V.</given-names>
+<surname>Alexandrov</surname>
+</string-name>, &#x0201c;<article-title>Prediction of Delayed Cerebral Ischemia With Cerebral Angiography: A Meta&#x02010;Analysis</article-title>,&#x0201d; <source>Neurocritical Care</source>
+<volume>30</volume> (<year>2019</year>): <fpage>62</fpage>&#x02013;<lpage>71</lpage>.<pub-id pub-id-type="pmid">29998428</pub-id>
+</mixed-citation></ref></ref-list></back></article>

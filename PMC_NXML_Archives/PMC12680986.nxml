@@ -1,0 +1,1468 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="review-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Rev Cardiovasc Med</journal-id><journal-id journal-id-type="iso-abbrev">Rev Cardiovasc Med</journal-id><journal-id journal-id-type="publisher-id">RCM</journal-id><journal-title-group><journal-title>Reviews in Cardiovascular Medicine</journal-title></journal-title-group><issn pub-type="ppub">1530-6550</issn><issn pub-type="epub">2153-8174</issn><publisher><publisher-name>IMR Press</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">41356292</article-id><article-id pub-id-type="pmc">12680986</article-id><article-id pub-id-type="doi">10.31083/RCM40892</article-id><article-id pub-id-type="publisher-id">S1530-6550(25)01972-6</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Artificial Intelligence in Drug-Coated Cardiovascular Devices: A Narrative Review</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-1382-0262</contrib-id><name><surname>Dinc</surname><given-names>Rasit</given-names></name><xref rid="aff1" ref-type="aff"><sup>1</sup>
+</xref><xref rid="cor1" ref-type="corresp"><sup>*</sup>
+</xref><email>rasitdinc@hotmail.com</email></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Sun</surname><given-names>Zhonghua</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="aff1"><sup>1</sup>INVAMED Medical Innovation Institute, New York, NY 10007, USA
+</aff><author-notes><corresp id="cor1"><sup>*</sup>Correspondence:
+<email>rasitdinc@hotmail.com</email> (Rasit Dinc)
+</corresp></author-notes><pub-date pub-type="epub"><day>18</day><month>11</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>11</month><year>2025</year></pub-date><volume>26</volume><issue>11</issue><elocation-id>40892</elocation-id><history><date date-type="received"><day>12</day><month>5</month><year>2025</year></date><date date-type="rev-recd"><day>30</day><month>7</month><year>2025</year></date><date date-type="accepted"><day>12</day><month>8</month><year>2025</year></date></history><permissions><copyright-statement>Copyright: &#x000a9; 2025 The Author(s). Published by IMR Press.
+</copyright-statement><copyright-year>2025</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">
+CC BY 4.0 license</ext-link>.
+</license-p></license></permissions><abstract><p> Drug-coated cardiovascular devices (DCCDs), including drug-eluting stents (DESs) and drug-coated balloons (DCBs), have significantly advanced interventional cardiology by reducing restenosis and improving long-term outcomes. However, their effectiveness is limited by challenges such as patient-device mismatch, variability in drug delivery kinetics, and dependence on operator experience. Traditional strategies for device selection and performance evaluation are often inadequate to address patient-specific complexities. This narrative review aims to explore how artificial intelligence (AI) can improve the design, deployment, and monitoring of DCCDs, focusing on personalized treatment strategies, regulatory implications, and future innovations in interventional cardiology. A targeted literature search was conducted in PubMed, Scopus, and Web of Science between 2020 and 2025 using keywords such as &#x0201c;artificial intelligence&#x0201d;, &#x0201c;drug-eluting stents&#x0201d;, &#x0201c;cardiovascular devices&#x0201d;, &#x0201c;machine learning&#x0201d;, and &#x0201c;intravascular imaging&#x0201d;. Studies were included based on their relevance to AI applications in DCCD design, procedural support, or post-procedural monitoring. AI has demonstrated significant potential throughout the DCCD lifecycle. In design, machine learning models enable optimization of drug release kinetics and device geometry. During procedures, AI improves real-time intravascular imaging interpretation and provides guidance for precise device placement. Post-intervention, predictive analyses using patient data can aid in the early detection of complications such as in-stent restenosis. Furthermore, technical, regulatory, and ethical challenges remain, including model validation, data bias, and the need for transparency in decision-making algorithms. AI-driven approaches offer a promising paradigm for advancing cardiovascular device technology toward more adaptable, personalized, and efficient care. Integrating explainable, clinically validated AI systems with DCCDs can improve outcomes, reduce procedural variability, and support value-based care. Future research should prioritize real-time intraoperative feedback systems, adaptive AI models based on longitudinal patient data, and regulatory compliance and fairness strategies. </p></abstract><kwd-group kwd-group-type="author"><kwd>artificial intelligence</kwd><kwd>drug-coated cardiovascular devices</kwd><kwd>cardiovascular intervention</kwd><kwd>monitoring</kwd></kwd-group><funding-group><funding-statement> This research received no external funding. </funding-statement></funding-group></article-meta></front><body><sec id="S1"><title>1. Introduction </title><p id="S1.p1">Cardiovascular diseases (CVDs) remain the leading cause of death and disability 
+globally, accounting for and estimated 17.9 million deaths annually [<xref rid="b1" ref-type="bibr">1</xref>]. These 
+not only make cardiovascular diseases the leading cause of death worldwide but 
+also impose a significant economic burden, expected to rise from around US<inline-formula id="p1.mm1"><mml:math id="j1" alttext="\$" display="inline" overflow="scroll"><mml:mo>$</mml:mo></mml:math></inline-formula>400 
+billion annually to approximately US<inline-formula id="p1.mm2"><mml:math id="j2" alttext="\$" display="inline" overflow="scroll"><mml:mo>$</mml:mo></mml:math></inline-formula>1500 billion by 2050. This growing burden 
+is fueled by both an aging population and the increasing prevalence of 
+comorbidities such as diabetes, hypertension, and dyslipidemia [<xref rid="b2" ref-type="bibr">2</xref>]. These factors 
+necessitate personalized and effective treatment approaches, particularly in the 
+field of interventional cardiology.</p><p id="S1.p2">Advances in interventional modalities over the past two decades, particularly 
+the development of drug-coated cardiovascular devices (DCCDs) such as 
+drug-eluting stents (DESs) and drug-coated balloons (DCBs), have significantly 
+improved patient outcomes by reducing complications and the need for repeated 
+revascularization procedures [<xref rid="b3" ref-type="bibr">3</xref>, <xref rid="b4" ref-type="bibr">4</xref>]. However, current DCCD technologies still face 
+significant limitations, including long-term risk of in-stent restenosis (ISR), 
+patient-device incompatibility, and variability in drug release kinetics [<xref rid="b5" ref-type="bibr">5</xref>, <xref rid="b6" ref-type="bibr">6</xref>]. 
+Optimizing device performance remains inconsistent, with significant patient 
+response variability affecting outcomes [<xref rid="b7" ref-type="bibr">7</xref>]. Current approaches to device 
+selection and deployment rely heavily on operator experience and standardized 
+protocols that fail to account for individual patient characteristics, lesion 
+complexity, or anatomic variations [<xref rid="b7" ref-type="bibr">7</xref>, <xref rid="b8" ref-type="bibr">8</xref>]. These challenges limit procedural 
+precision and necessitate repeated interventions in a significant proportion of 
+patients. Moreover, traditional risk stratification models often fail to capture 
+the full spectrum of patient-specific variables that influence procedural success 
+and long-term outcomes.</p><p id="S1.p3">Artificial intelligence (AI) has the potential to transform the healthcare 
+industry, including the cardiovascular domain [<xref rid="b9" ref-type="bibr">9</xref>]. Machine learning (ML) and deep 
+learning (DL) within AI offer unprecedented capabilities in data analysis, 
+pattern recognition, and predictive modeling that can optimize treatment 
+selection, predict adverse events, and enhance procedural techniques. AI can be 
+utilized to improve the design, deployment, and post-procedure evaluation of 
+DCCDs [<xref rid="b10" ref-type="bibr">10</xref>]. AI&#x02019;s ability to process and analyze vast amounts of heterogeneous 
+data, including imaging, genetic, clinical, and procedural parameters, offers 
+unique opportunities for developing personalized treatment plans based on 
+individual patient characteristics and risk profiles [<xref rid="b11" ref-type="bibr">11</xref>].</p><p id="S1.p4">While previous reviews have generally generalized the use of AI in cardiology 
+without addressing the device-specific effects or regulatory challenges 
+associated with AI-integrated cardiovascular implants, recent advances in quantum 
+machine learning approaches have offered new paradigms for processing 
+larger-scale medical datasets. These approaches have not yet addressed the 
+application of AI in interventional cardiology workflows or implantable device 
+innovation. However, quantum machine learning (QML)-based strategies, including 
+cloud-based ones, have further expanded computational capabilities for complex 
+cardiovascular disease classification and risk prediction, providing valuable 
+insights, particularly in diagnostic modeling [<xref rid="b12" ref-type="bibr">12</xref>, <xref rid="b13" ref-type="bibr">13</xref>].</p><p id="S1.p5">The integration of AI with DCCDs spans the entire device lifecycle, from initial 
+design and development to real-time procedural guidance and long-term outcome 
+monitoring. AI algorithms can assist with pre-procedural planning for optimal 
+device selection and placement strategies, provide real-time guidance during 
+procedures to increase precision and reduce complications, and enable 
+post-procedural monitoring for early detection of adverse events such as in-stent 
+restenosis or thrombosis [<xref rid="b14" ref-type="bibr">14</xref>, <xref rid="b15" ref-type="bibr">15</xref>, <xref rid="b16" ref-type="bibr">16</xref>]. However, to our knowledge, there is currently 
+no comprehensive review integrating these AI innovations into the lifecycle of 
+DCCDs, from design and regulatory modeling to intraprocedural guidance and 
+postprocedural surveillance. This gap limits the broader understanding of how AI 
+can transform the future of smart cardiovascular implants.</p><p id="S1.p6">However, ensuring the fairness, transparency, and clinical credibility of AI 
+models remains a pressing concern. Furthermore, the integration of AI into 
+clinical practice presents significant regulatory and implementation challenges. 
+Current regulatory frameworks for AI applications in healthcare are still in 
+their early stage, lacking a global standardization [<xref rid="b17" ref-type="bibr">17</xref>]. Regulatory agencies in 
+the United States (US), the European Union (EU) countries, and other regions are 
+working to create frameworks that balance the transformative capabilities of AI 
+with patient safety and ethical considerations [<xref rid="b18" ref-type="bibr">18</xref>, <xref rid="b19" ref-type="bibr">19</xref>, <xref rid="b20" ref-type="bibr">20</xref>]. The complexity of 
+validating AI-enabled medical devices, particularly those that learn and adapt 
+over time, requires new approaches to clinical testing and post-market 
+surveillance [<xref rid="b21" ref-type="bibr">21</xref>].</p><p id="S1.p7">Therefore, this narrative review aims to fill this gap by analyzing and 
+categorizing the existing literature on AI applications in DCCDs, from 
+imaging-guided procedural support to AI-assisted drug administration modeling. We 
+also highlight technical, regulatory, and ethical barriers to implementation and 
+suggest future directions aligned with precision interventional cardiology.</p><sec id="S1.SS1"><title>1.1 Literature Review and Inclusion Criteria</title><p id="S1.SS1.p1">This article used a targeted literature search using keywords such as 
+&#x0201c;artificial intelligence&#x0201d;, &#x0201c;cardiovascular stents&#x0201d;, &#x0201c;drug-coated balloons&#x0201d;, 
+&#x0201c;computational modeling&#x0201d;, and &#x0201c;intravascular imaging&#x0201d; through PubMed, Scopus, 
+and Web of Science databases between 2020 and 2025. Peer-reviewed studies 
+reporting original data, validated platforms, or ready-to-implement tools were 
+emphasized. Studies were included based on relevance, originality, and clinical 
+utility to AI applications in DCCDs. Reviews, preclinical studies, and conference 
+proceedings were excluded unless they presented novel, validated models or 
+datasets.</p><p id="S1.SS1.p2">The key contributions of this comprehensive narrative review are as follows: (i) 
+summarizing the clinical development and current limitations of DCCDs, including 
+DESs and DCBs, to demonstrate the need for AI integration, (ii) systematically 
+examining the latest AI models applicable to device design, intravascular 
+imaging, and post-procedural monitoring, (iii) exploring how AI contributes to the 
+development of novel DCCDs, including predictive drug delivery modeling and stent 
+optimization, (iv) discussing the evaluation of the regulatory, technical, and 
+ethical issues involved in translating AI-integrated DCCDs into clinical use, (v) 
+identifying research gaps and suggesting future directions, such as adaptive AI 
+tools for real-time procedural feedback.</p></sec><sec id="S1.SS2"><title>1.2 Article Organization</title><p id="S1.SS2.p1">The rest of this article is organized as follows: Section 2 provides background 
+information on the current state of drug-coated cardiovascular devices, setting 
+the clinical context for AI applications. Section 3 examines the role of AI in 
+cardiovascular interventions by addressing pre-procedure planning, real-time 
+guidance, and post-procedure monitoring. Section 4 focuses on AI applications in 
+DCCD development, including device design optimization and drug release kinetics 
+modeling. Section 5 discusses the various challenges associated with AI 
+applications, including ethical, economic, and regulatory considerations. Section 
+6 acknowledges the limitations of this review, and Section 7 concludes with 
+future perspectives and actionable recommendations for advancing the field.</p></sec></sec><sec id="S2"><title>2. Current Landscape of Drug-Coated Cardiovascular Devices</title><p id="S2.p1">DCCDs have revolutionized the interventional cardiovascular field by combining 
+localized drug delivery and mechanical support to diseased vessels, providing 
+significant improvements in reducing restenosis rates and improving 
+revascularization outcomes compared to bare-metal stents (BMSs) and plain balloon 
+angioplasty (PBA) [<xref rid="b3" ref-type="bibr">3</xref>, <xref rid="b4" ref-type="bibr">4</xref>]. This section provides essential background on the 
+current DCCD landscape to establish the clinical context for AI applications.</p><sec id="S2.SS1"><title>2.1 Device Categories and Clinical Applications</title><sec id="S2.SS1.SSS1"><title>2.1.1 Drug-Eluting Stents (DESs)</title><p id="S2.SS1.SSS1.p1">DESs, metallic scaffold coated with antiproliferative drugs, represent the most 
+widely used DCCDs in clinical practice [<xref rid="b5" ref-type="bibr">5</xref>]. The transition from first-generation 
+devices using durable polymers containing sirolimus or paclitaxel to today&#x02019;s 
+biocompatible and bioresorbable platforms reflects ongoing efforts to balance 
+efficacy against restenosis with improved safety profiles [<xref rid="b22" ref-type="bibr">22</xref>, <xref rid="b23" ref-type="bibr">23</xref>]. Modern DES 
+platforms combine advanced polymer technologies and new-generation limus family 
+drugs (everolimus, zotarolimus) to optimize drug release kinetics and minimize 
+long-term complications [<xref rid="b7" ref-type="bibr">7</xref>].</p></sec><sec id="S2.SS1.SSS2"><title>2.1.2 Drug-Coated Balloons (DCBs)</title><p id="S2.SS1.SSS2.p1">DCBs deliver antiproliferative agents, most often paclitaxel, directly to the 
+vessel wall during balloon angioplasty without permanent implantation. This 
+offers particular advantages in in-stent restenosis, small vessel disease, and 
+complex lesion subgroups where permanent hardware retention may be suboptimal 
+[<xref rid="b3" ref-type="bibr">3</xref>, <xref rid="b24" ref-type="bibr">24</xref>, <xref rid="b25" ref-type="bibr">25</xref>].</p></sec></sec><sec id="S2.SS2"><title>2.2 Therapeutic Agents and Mechanisms</title><p id="S2.SS2.p1">Current DCCD platforms primarily utilize two drug classes: the limus family of 
+compounds (sirolimus, everolimus, zotarolimus), which inhibit mammalian target of 
+rapamycin (mTOR) signaling and prevent smooth muscle cell proliferation, and 
+paclitaxel, which disrupts microtubule dynamics to inhibit cell division and 
+migration [<xref rid="b26" ref-type="bibr">26</xref>, <xref rid="b27" ref-type="bibr">27</xref>, <xref rid="b28" ref-type="bibr">28</xref>]. Emerging therapeutic approaches are exploring 
+anti-inflammatory agents such as tacrolimus and corticosteroids to address the 
+inflammatory components of restenosis [<xref rid="b29" ref-type="bibr">29</xref>, <xref rid="b30" ref-type="bibr">30</xref>].</p></sec><sec id="S2.SS3"><title>2.3 Key Clinical Challenges and Unmet Needs</title><p id="S2.SS3.p1">Despite significant technological advances, there are several challenges that 
+still require intelligence-driven solutions.</p><p id="S2.SS3.p2">The first challenge is related to optimizing device performance. Current device 
+selection is primarily based on angiographic measurements and operator judgment, 
+potentially missing opportunities for patient-specific optimization based on 
+lesion characteristics, vascular biology, and individual risk factors [<xref rid="b8" ref-type="bibr">8</xref>].</p><p id="S2.SS3.p3">Another challenge is risk of ISR, which affects 5&#x02013;15% of the patients with 
+modern DES. This variability reflects the complex interactions between patient 
+factors (genetic polymorphisms, diabetes, inflammatory status), lesion 
+characteristics (calcification, vessel size, plaque composition), and device 
+characteristics (polymer biocompatibility, drug release kinetics, and support 
+design) [<xref rid="b8" ref-type="bibr">8</xref>, <xref rid="b31" ref-type="bibr">31</xref>]. Late stent thrombosis (LST), while rare, remains a significant 
+concern, necessitating prolonged antiplatelet therapy and careful patient 
+evaluation [<xref rid="b7" ref-type="bibr">7</xref>]. Achieving optimal drug concentrations in target tissues while 
+minimizing systemic exposure remains challenging, particularly in calcified 
+lesions or complex anatomies where drug penetration may be compromised [<xref rid="b6" ref-type="bibr">6</xref>, <xref rid="b32" ref-type="bibr">32</xref>].</p><p id="S2.SS3.p4">Recent innovations have explored dual-drug delivery systems (e.g., 
+paclitaxel-sirolimus combinations), polymer-free coatings, and 
+feedback-controlled pharmacokinetics to enhance vascular healing while minimizing 
+systemic exposure [<xref rid="b32" ref-type="bibr">32</xref>, <xref rid="b33" ref-type="bibr">33</xref>, <xref rid="b34" ref-type="bibr">34</xref>]. However, the widespread clinical adoption of these 
+advanced systems is limited by the lack of patient-specific optimization and 
+real-time decision support, creating an area where artificial intelligence has 
+transformative potential.</p></sec><sec id="S2.SS4"><title>2.4 The AI Opportunity</title><p id="S2.SS4.p1">The complexity of optimizing DCCD performance across diverse patient populations 
+and clinical scenarios creates an ideal environment for AI-driven innovation. The 
+multidimensional nature of cardiovascular interventions, encompassing imaging 
+data, procedural variables, patient characteristics, and device features, aligns 
+with AI&#x02019;s strengths in pattern recognition, predictive modeling, and decision 
+support.</p><p id="S2.SS4.p2">Modern interventional cardiology generates vast datasets through intravascular 
+imaging [intravascular ultrasound (IVUS) and optical coherence tomography (OCT)], 
+physiological assessments [instantaneous wave free ratio (iFR), fractional flow 
+reserve (FFR)], angiographic analysis, and electronic health records [<xref rid="b35" ref-type="bibr">35</xref>]. These 
+rich data sources, combined with evolving computational capabilities, enable AI 
+applications that can improve every aspect of DCCD use, from initial device 
+design to long-term patient follow-up.</p><p id="S2.SS4.p3">The following sections examine how AI technologies are being integrated 
+throughout the DCCD lifecycle to address these persistent challenges and unlock 
+new possibilities for personalized cardiovascular care.</p></sec></sec><sec id="S3"><title>3. Role of AI Role in Cardiovascular Interventions</title><sec id="S3.SS1"><title>3.1 Technical Foundation and AI Methodologies</title><p id="S3.SS1.p1">AI encompasses multiple computational approaches that have demonstrated 
+significant potential in cardiovascular medicine [<xref rid="b9" ref-type="bibr">9</xref>]. The technical foundation of 
+AI applications in DCCDs rests on several core methodologies, each optimized for 
+specific clinical tasks.</p><p id="S3.SS1.p2">Among AI methodologies, ML and its subfields 
+are central to cardiovascular device applications [<xref rid="b36" ref-type="bibr">36</xref>]. Supervised learning 
+approaches, including support vector machines (SVM), random forests, and gradient 
+boosting methods (XGBoost, LightGBM), excel at risk prediction and outcome 
+classification tasks. These algorithms achieve superior performance in predicting 
+in-stent restenosis (area under the curve (AUC) 0.82&#x02013;0.89) and bleeding 
+complications (AUC 0.76&#x02013;0.84) compared to traditional clinical scoring systems 
+[<xref rid="b32" ref-type="bibr">32</xref>, <xref rid="b37" ref-type="bibr">37</xref>].</p><p id="S3.SS1.p3">DL, a subfield of machine learning based on artificial neural networks, has 
+shown remarkable potential in processing high-dimensional imaging data. 
+Convolutional neural networks (CNNs), particularly U-Net and ResNet architectures, 
+are particularly effective in analyzing IVUS, OCT, and coronary computed 
+tomography angiography (CCTA) and can automate plaque characterization, lumen 
+measurement, and stent sizing [<xref rid="b35" ref-type="bibr">35</xref>]. For intravascular imaging, CNN-based 
+segmentation algorithms achieve 92&#x02013;95% accuracy in vessel boundary detection 
+and 88&#x02013;92% accuracy in plaque characterization [<xref rid="b38" ref-type="bibr">38</xref>, <xref rid="b39" ref-type="bibr">39</xref>]. Recurrent neural 
+networks (RNNs) and Long Short-Term Memory (LSTM) networks provide excellent 
+results in temporal data analysis, enabling real-time monitoring of operational 
+parameters and outcome prediction.</p><p id="S3.SS1.p4">Reinforcement learning (RL), which learns optimal strategies through 
+reward-based feedback, is emerging in interventional cardiology for procedural 
+planning, such as selecting stent type and length based on lesion characteristics 
+and simulated outcomes. Unsupervised learning techniques, including clustering 
+and dimensionality reduction algorithms, are used to discover new patient 
+subtypes or treatment response profiles from electronic health records and 
+registries [<xref rid="b40" ref-type="bibr">40</xref>].</p><p id="S3.SS1.p5">Computer vision (CV)-based advanced image processing techniques such as semantic segmentation, 
+object detection (YOLO, R-CNN), and image registration algorithms enable 
+automated analysis of angiographic and intravascular imaging data. These methods 
+provide human-level performance in stenosis detection (sensitivity 94%, 
+specificity 91%) and vessel measurement accuracy within 0.1 mm of expert 
+judgment [<xref rid="b35" ref-type="bibr">35</xref>].</p><p id="S3.SS1.p6">Natural language processing (NLP) techniques, including transformer-based models (BERT, GPT variants), 
+facilitate the extraction of clinical insights from unstructured electronic 
+health records, transactional reports, and literature analysis, supporting 
+clinical decision-making and research synthesis [<xref rid="b41" ref-type="bibr">41</xref>].</p><p id="S3.SS1.p7">AI systems in cardiovascular interventions are evaluated using established 
+metrics [<xref rid="b42" ref-type="bibr">42</xref>, <xref rid="b43" ref-type="bibr">43</xref>]. Important metrics for classification tasks include area AUC, 
+sensitivity, specificity, and positive/negative predictive values. Mean absolute 
+error (MAE), root mean square error (RMSE), and R-squared values are prominent in 
+regression tasks. Apart from these, metrics such as the dice similarity 
+coefficient and Hausdorff distance used for image analysis; C-index, net 
+reclassification improvement (NRI), and integrated discrimination improvement 
+(IDI) for survival analysis used in clinical validation are widely used.</p><p id="S3.SS1.p8">AI technologies are increasingly being adopted in cardiovascular medicine to 
+support diagnostic and procedural decision-making [<xref rid="b9" ref-type="bibr">9</xref>]. Broadly, AI simulates 
+human cognitive functions, including learning, reasoning, and problem solving, 
+using various algorithmic approaches. A key subset of AI is ML, which enables 
+systems to learn patterns from data without the need for explicit programming. 
+DL, a branch of ML, uses multilayered neural networks to model complex 
+relationships in big data. DL has demonstrated particularly strong performance in 
+cardiovascular imaging tasks due to its ability to automate feature extraction 
+and improve classification accuracy [<xref rid="b44" ref-type="bibr">44</xref>].</p><p id="S3.SS1.p9">NLP is increasingly being used to extract meaningful clinical information from 
+unstructured data such as electronic health records or research literature. CNNs, 
+a type of DL architecture, have proven particularly effective for image-based 
+tasks and are widely used in computer vision, including automated analysis of 
+coronary angiograms and IVUS [<xref rid="b38" ref-type="bibr">38</xref>, <xref rid="b39" ref-type="bibr">39</xref>].</p><p id="S3.SS1.p10">These innovations have led to the development of AI-integrated intravascular 
+imaging platforms that support vessel segmentation, lesion detection, and 
+real-time device selection. These tools provide rapid and standardized imaging 
+interpretations, reducing operator variability and improving processing 
+precision. For example, many commercially available AI tools now offer automatic 
+vessel size estimation and lesion characterization, enabling personalized stent 
+selection and optimization of percutaneous coronary intervention (PCI) strategies 
+[<xref rid="b10" ref-type="bibr">10</xref>, <xref rid="b11" ref-type="bibr">11</xref>].</p><p id="S3.SS1.p11">Among the leading commercial platforms, the AVVIGO+ Multimodality Guidance 
+System (Boston Scientific) exemplifies the integration of AI into intravascular 
+imaging. It combines high-resolution IVUS with physiological data and uses a 
+machine learning algorithm based on U-Net CNNs for automatic segmentation of the 
+vessel lumen and its boundaries. A distinctive feature of the AI-powered AVVIGO+ 
+system is the ability to automatically determine lesion length, proximal and 
+distal reference segments, and the location of the minimal lumen area in the 
+longitudinal view. This capability can significantly improve accurate and rapid 
+device sizing without manual input. In a study by Matsumura <italic toggle="yes">et al</italic>. [<xref rid="b35" ref-type="bibr">35</xref>], 
+this automation achieved 92.4% agreement with expert-based sizing for balloon 
+selection, highlighting its clinical utility and sensitivity.</p><p id="S3.SS1.p12">Another leading platform, the Ultreon 2.0 software (Version: 2.0, Abbott 
+Vascular, Santa Clara, CA, USA), applies AI to OCT imaging. Ultreon 2.0 provides 
+automatic detection and quantification of calcified plaque, providing key 
+measurements such as total calcium arc, maximum thickness, and plaque length, 
+which are necessary to assess the need for calcium modification before stenting. 
+The system also detects the external elastic lamina (EEL) to assist with stent 
+sizing and landing site selection. By automating these complex assessments, 
+Ultreon 2.0 improves pre- and post-stenting decisions, increases the 
+reproducibility of image interpretation, and reduces reliance on operator 
+expertise [<xref rid="b45" ref-type="bibr">45</xref>]. Table <xref rid="S3.T1" ref-type="table">1</xref> summarizes the key features of AI-enabled intravascular 
+imaging software from selected commercially available examples.</p><table-wrap position="float" id="S3.T1"><label>Table 1.
+</label><caption><p><bold>Selected examples of commercially available AI in intravascular 
+imaging and percutaneous intervention</bold>.</p></caption><table frame="hsides" rules="groups"><tbody><tr style="border-top:1px solid #000;border-bottom:1px solid #000;"><td rowspan="1" colspan="1">AI-enabled tool</td><td rowspan="1" colspan="1">Company</td><td rowspan="1" colspan="1">Modality</td><td rowspan="1" colspan="1">AI capability</td><td rowspan="1" colspan="1">Clinical implication</td></tr><tr><td rowspan="1" colspan="1">AVVIGO+ Multimodality Guidance System, Version: Not specified</td><td rowspan="1" colspan="1">Boston Scientific, Marlborough, MA, USA</td><td rowspan="1" colspan="1">IVUS</td><td rowspan="1" colspan="1">Lumen and vessel segmentation, plaque burden detection, length measurement</td><td rowspan="1" colspan="1">Stent/balloon sizing, lesion length assessment, landing site selection, post-PCI optimization</td></tr><tr style="border-top:1px solid #000;border-bottom:1px solid #000;"><td rowspan="1" colspan="1">Ultreon 2.0, Version: 2.0</td><td rowspan="1" colspan="1">Abbott Vascular, Santa Clara, CA, USA</td><td rowspan="1" colspan="1">OCT</td><td rowspan="1" colspan="1">EEL detection, calcium arc/thickness/length recognition</td><td rowspan="1" colspan="1">Stent/balloon sizing, calcium modification planning</td></tr><tr><td rowspan="1" colspan="1">Gentuity HF-OCT, Version: Not specified</td><td rowspan="1" colspan="1">Gentuity LLC, Sudbury, MA, USA (distributed by Nipro Corporation, Osaka, Japan)</td><td rowspan="1" colspan="1">HF-OCT</td><td rowspan="1" colspan="1">Lumen and MLA/MSA detection, segmentation, guidance for catheter identification</td><td rowspan="1" colspan="1">PCI decision support, extension monitoring, image optimization</td></tr><tr style="border-top:1px solid #000;border-bottom:1px solid #000;"><td rowspan="1" colspan="1">HyperVue, Version: Not specified</td><td rowspan="1" colspan="1">SpectraWAVE, Bedford, MA, USA</td><td rowspan="1" colspan="1">NIRS-OCT</td><td rowspan="1" colspan="1">Lumen/EEL detection, calcium and lipid core detection, stent evaluation</td><td rowspan="1" colspan="1">High-risk plaque detection, advanced calcium therapy, post-PCI optimization</td></tr><tr><td rowspan="1" colspan="1">CathWorks FFR Angio, Version: Fourth generation</td><td rowspan="1" colspan="1">CathWorks, Kfar Saba, Israel</td><td rowspan="1" colspan="1">Angiography</td><td rowspan="1" colspan="1">FFR mapping from angiograms</td><td rowspan="1" colspan="1">Lesion-specific FFR guidance for PCI</td></tr><tr style="border-top:1px solid #000;border-bottom:1px solid #000;"><td rowspan="1" colspan="1">CAAS IntraVascular, Version: 2.0</td><td rowspan="1" colspan="1">Pie Medical, Maastricht, Netherlands</td><td rowspan="1" colspan="1">Angiography, OCT, IVUS</td><td rowspan="1" colspan="1">Automatic segmentation and coronary tree reconstruction</td><td rowspan="1" colspan="1">Stent placement assessment and placement support</td></tr><tr><td rowspan="1" colspan="1">IntraSight Imaging, Version: IntraSight 7</td><td rowspan="1" colspan="1">Philips, Amsterdam, Netherlands</td><td rowspan="1" colspan="1">IVUS, iFR, FFR</td><td rowspan="1" colspan="1">Real-time plaque/lesion detection, vessel wall analysis</td><td rowspan="1" colspan="1">iFR/FFR decision making, precise stent placement</td></tr><tr style="border-top:1px solid #000;border-bottom:1px solid #000;"><td rowspan="1" colspan="1">QAngio XA, Version: 7.3</td><td rowspan="1" colspan="1">Medis Medical Imaging, Leiden, Netherlands</td><td rowspan="1" colspan="1">Angiography</td><td rowspan="1" colspan="1">3D reconstruction and stenosis quantification</td><td rowspan="1" colspan="1">Stenosis assessment, PCI planning</td></tr></tbody></table><table-wrap-foot><fn><p>Abbreviations: AI, artificial intelligence; IVUS, intravascular ultrasound; PCI, 
+percutaneous coronary intervention; OCT, optical coherence tomography; HF, high 
+frequency; NIRS, near-infrared spectroscopy; iFR, instantaneous wave-free ratio; 
+FFR, fractional flow reserve; CAAS, Cardiac analysis system; EEL, external 
+elastic lamina; MLA, minimal lumen area; MSA, minimal stent area.</p></fn></table-wrap-foot></table-wrap><p id="S3.SS1.p13">Taken together, these AI technologies underpin current and emerging applications 
+in the development and implementation of DCCD. The following sections discuss how 
+these tools support planning, real-time intervention, post-procedure prediction, 
+and device design.</p></sec><sec id="S3.SS2"><title>3.2 AI-Supported Pre-Procedural Planning</title><sec id="S3.SS2.SSS1"><title>3.2.1 Clinical Decision Support Systems (CDSSs)</title><p id="S3.SS2.SSS1.p1">AI technologies transform preprocedural planning by integrating multimodal data 
+sources to optimize patient selection and procedural strategies. ML models that 
+analyze demographic, clinical, and imaging parameters achieve superior 
+performance in identifying patients who will benefit from intervention compared 
+to medical therapy (AUC 0.87 vs. 0.72 for traditional risk scores).</p><p id="S3.SS2.SSS1.p2">DL algorithms, particularly 3D CNN architectures, automates coronary artery 
+segmentation and stenosis quantification from computed tomography angiography (CTA) datasets. Advanced models, 
+including ResNet-50 and DenseNet architectures, achieve 94% accuracy in 
+detecting significant stenosis (<inline-formula><mml:math id="w1" alttext="&#x0003e;" display="inline" overflow="scroll"><mml:mo>&#x0003e;</mml:mo></mml:math></inline-formula>70% diameter reduction) and provide automated 
+calcium scoring with correlation coefficients <inline-formula><mml:math id="w2" alttext="&#x0003e;" display="inline" overflow="scroll"><mml:mo>&#x0003e;</mml:mo></mml:math></inline-formula>0.95 compared to manual analysis 
+[<xref rid="b46" ref-type="bibr">46</xref>, <xref rid="b47" ref-type="bibr">47</xref>].</p><p id="S3.SS2.SSS1.p3">Physics-informed neural networks (PINNs) enable noninvasive fractional flow 
+reserve calculation by solving the Navier-Stokes equations using patient-specific 
+geometric models. These approaches provide diagnostic accuracy comparable to 
+invasive FFR (AUC 0.93, sensitivity 90%, specificity 91%) while reducing 
+procedure complexity and radiation exposure [<xref rid="b48" ref-type="bibr">48</xref>].</p><p id="S3.SS2.SSS1.p4">AI-enabled simulation platforms use finite element analysis combined with 
+machine learning to predict procedure outcomes. These systems model stent 
+deployment mechanics, drug delivery patterns, and vascular response, enabling 
+virtual testing of different device strategies before intervention [<xref rid="b15" ref-type="bibr">15</xref>, <xref rid="b16" ref-type="bibr">16</xref>].</p></sec><sec id="S3.SS2.SSS2"><title>3.2.2 Operator Training and Skill Development</title><p id="S3.SS2.SSS2.p1">Although AI has enabled significant improvements in procedural decision-making, 
+real-world implementation is highly dependent on operator expertise, particularly 
+in anatomically complex interventions. AI tools are now being integrated not only 
+to improve clinical planning but also to reduce inter-operator variability and 
+support personalized training environments.</p><p id="S3.SS2.SSS2.p2">Patient-specific digital twins created using AI-powered computational modeling 
+provide realistic training environments for interventional procedures. These 
+virtual replicas include real-time physics simulation, haptic feedback, and 
+adaptive learning algorithms that adjust difficulty based on trainee performance 
+metrics [<xref rid="b49" ref-type="bibr">49</xref>].</p><p id="S3.SS2.SSS2.p3">Augmented reality (AR, allowing visualization of data and virtual objects in a 
+physical environment) and virtual reality (VR, creating an immersive virtual 
+environment that allows interaction with virtual objects and scenarios as if they 
+were real), combined with AI-powered analytics, have opened up new possibilities 
+for training interventionalists and improving their procedural skills [<xref rid="b49" ref-type="bibr">49</xref>]. For 
+example, VCSim3 (Mentice AB), a real-time virtual reality simulation software, 
+creates a realistic and dynamic training environment by simulating the physical 
+behavior of catheters and guidewires, helping healthcare trainees effectively 
+practice procedural techniques. ML algorithms analyze trainee performance 
+patterns to identify skill gaps and provide personalized feedback to accelerate 
+learning curves [<xref rid="b50" ref-type="bibr">50</xref>]. These tools allow medical students, residents, and other 
+healthcare professionals with limited experience to develop a deeper 
+understanding and clinical skills in vascular interventions.</p><p id="S3.SS2.SSS2.p4">AI systems monitor procedural metrics (catheter manipulation time, contrast 
+agent use, radiation exposure) and correlate these with outcomes to determine the 
+most appropriate procedural techniques. Reinforcement learning algorithms can 
+recommend procedural changes in real time based on accumulated experience data 
+[<xref rid="b51" ref-type="bibr">51</xref>].</p></sec></sec><sec id="S3.SS3"><title>3.3 AI in Real-Time Guidance</title><p id="S3.SS3.p1">AI technologies have played a significant role in improving real-time 
+decision-making during PCI by assisting operators with dynamic image 
+interpretation, procedural navigation, and device positioning. Modern AI-enabled 
+intravascular imaging platforms support intraprocedural adjustments and optimize 
+procedural outcomes in real time.</p><sec id="S3.SS3.SSS1"><title>3.3.1 AI-Supported Intravascular Imaging Platforms</title><p id="S3.SS3.SSS1.p1"><bold>AVVIGO+ system (Boston Scientific)</bold>: This AI platforms utilizes U-Net 
+CNN architectures for automated IVUS image segmentation. The system provides 
+real-time measurements of minimum lumen area (MLA), vessel diameter, and lesion 
+length, achieving 92.4% agreement with expert vessel sizing. Machine learning 
+algorithms automatically determine optimal landing zones and recommend 
+appropriate device sizes, reducing processing time by 15&#x02013;20% [<xref rid="b35" ref-type="bibr">35</xref>].</p><p id="S3.SS3.SSS1.p2"><bold>Ultreon 2.0 platforms (Abbott Vascular)</bold>: Advanced OCT analysis using 
+deep learning enables automated calcium detection and quantification. The 
+system&#x02019;s CNN-based algorithms achieve 89% accuracy in calcium arc measurement 
+and 91% accuracy in thickness assessment, providing critical data for pre-stent 
+optimization strategies. External elastic lamina detection algorithms demonstrate 
+94% correlation with expert annotations [<xref rid="b45" ref-type="bibr">45</xref>, <xref rid="b52" ref-type="bibr">52</xref>].</p><p id="S3.SS3.SSS1.p3">Among these platforms, Gentuity High-Frequency (HF)-OCT (Nipro) can automate recognition of the 
+MLA, minimal stent area (MSA), and external elastic lamina (EEL), improving stent 
+sizing and landing zone decisions, reducing operator subjectivity and the risk of 
+restenosis or stent failure [<xref rid="b53" ref-type="bibr">53</xref>]. Platforms such as IntraSight (Philips) and CAAS 
+IntraVascular (Pie Medical) provide further support to operators by providing 
+real-time feedback during stent deployment, leveraging automated segmentation and 
+plaque characterization across IVUS, OCT, and angiography modalities. These 
+capabilities transform procedural guidance into a dynamic, data-driven process 
+that improves outcomes and minimizes complications [<xref rid="b10" ref-type="bibr">10</xref>].</p><p id="S3.SS3.SSS1.p4">These platforms integrate multiple AI components, including real-time inference 
+engines, automated image quantification, and predictive modeling for device 
+selection [<xref rid="b54" ref-type="bibr">54</xref>, <xref rid="b55" ref-type="bibr">55</xref>].</p></sec><sec id="S3.SS3.SSS2"><title>3.3.2 Advanced Guidance Technologies</title><p id="S3.SS3.SSS2.p1"><bold>Augmented reality (AR) systems</bold>: These systems such as SentiAR (St. 
+Louis, MO, USA) project holographic anatomical representations directly into the 
+operator&#x02019;s field of view. CV algorithms enable real-time registration of virtual 
+objects with fluoroscopic images, improving spatial understanding and reducing 
+procedural complexity [<xref rid="b56" ref-type="bibr">56</xref>].</p><p id="S3.SS3.SSS2.p2"><bold>Robotic-assisted interventions</bold>: With improved precision, fewer 
+operative complications, and reduced occupational hazards, robotics has become 
+increasingly prevalent in vascular interventions [<xref rid="b57" ref-type="bibr">57</xref>]. AI-assisted robotic 
+systems such as CorPath GRX (Corindus Vascular Robotics) integrate machine 
+learning algorithms for optimal catheter navigation. These systems reduce 
+radiation exposure for operators by 95% while maintaining procedural success 
+rates above 98%. RL algorithms refine navigation strategies by learning from 
+procedural feedback to optimize catheter trajectories [<xref rid="b58" ref-type="bibr">58</xref>].</p><p id="S3.SS3.SSS2.p3"><bold>Integration of physiological assessment</bold>: AI-based functional assessment 
+algorithms enable noninvasive FFR estimation from angiographic images, bypassing 
+the need for pressure wire-based measurements in select cases. Deep learning 
+models trained on paired angiographic-FFR datasets provide over 90% diagnostic 
+accuracy (AUC 0.91) [<xref rid="b59" ref-type="bibr">59</xref>].</p><p id="S3.SS3.SSS2.p4">The integration of AI not only improves intraprocedural accuracy, but also 
+improves operator and patient safety through optimized planning, decision 
+support, and reduced radiation exposure. Moving forward, real-time AI integration 
+is expected to evolve towards closed-loop systems that continuously learn from 
+previous cases and adapt to operator preferences. The exploration of 
+incorporating haptic feedback, haptic systems, and augmented reality (AR)-based 
+visualization to improve procedural accuracy is ongoing. However, widespread 
+clinical implementation will rely on prospective validation, regulatory 
+compliance, and operator training.</p></sec></sec><sec id="S3.SS4"><title>3.4 AI in Postprocedural Monitoring and Outcome Prediction</title><sec id="S3.SS4.SSS1"><title>3.4.1 Predictive Analysis for Complication Prevention</title><p id="S3.SS4.SSS1.p1">Although still in the early stages, AI technologies are increasingly involved in 
+the post-procedure phase of interventions with DCCDs. Post-procedural management 
+includes monitoring complications such as ISR, thrombosis, and bleeding, and 
+predicting long-term outcomes such as major adverse cardiovascular events (MACE). 
+This enables proactive management strategies.</p><p id="S3.SS4.SSS1.p2">ML models has been trained in electronic health records (EHRs) to predict 
+complications such as ISR and MACE. These models incorporate procedural 
+variables, patient characteristics, and imaging parameters achieve superior 
+predictive performance compared to traditional risk scores [<xref rid="b31" ref-type="bibr">31</xref>, <xref rid="b37" ref-type="bibr">37</xref>]. Using 
+variables such as stent type, lesion complexity, and comorbidities, XGBoost 
+algorithms analyzing 47 clinical variables demonstrated an AUC of 0.89 for 
+12-month ISR prediction, compared to 0.67 for traditional scoring systems [<xref rid="b36" ref-type="bibr">36</xref>].</p><p id="S3.SS4.SSS1.p3">DL models analyzing intravascular imaging parameters, platelet function 
+testing, and genetic markers achieve 85% accuracy in predicting stent thrombosis 
+within 30 days. These systems provide personalized dual antiplatelet therapy 
+duration recommendations, potentially reducing bleeding risk without increasing 
+ischemic risk [<xref rid="b60" ref-type="bibr">60</xref>].</p><p id="S3.SS4.SSS1.p4">Ensemble learning approaches combining multiple algorithms (random forest, 
+gradient boosting, neural networks) provide personalized bleeding risk 
+assessments with c-statistics of 0.82&#x02013;0.86 and significantly outperform 
+traditional bleeding scores (c-statistics of 0.64&#x02013;0.71) [<xref rid="b61" ref-type="bibr">61</xref>].</p></sec><sec id="S3.SS4.SSS2"><title>3.4.2 Automated Monitoring Systems</title><p id="S3.SS4.SSS2.p1">Some trending applications are emerging in post-procedure follow-up [<xref rid="b62" ref-type="bibr">62</xref>]. One 
+example is imaging-based longitudinal analysis. CNN-powered platforms 
+automatically analyze follow-up angiography, IVUS, or OCT scans to measure lumen 
+narrowing over time. These tools offer improved sensitivity compared to 
+traditional monitoring methods, facilitating earlier detection of restenosis 
+before clinical symptoms appear. Again, wearable device integration and remote 
+monitoring tools can detect arrhythmic events or hemodynamic instability while 
+monitoring physiological signals (e.g., electrocardiogram (ECG), activity monitors) post-PCI. NLP 
+algorithms continuously monitor clinical notes, lab values, and imaging reports 
+to identify early signs of complications.</p><p id="S3.SS4.SSS2.p2">In conclusion, AI-powered procedures make significant contributions to 
+pre-intervention planning compared to traditional methods. They assist in 
+predicting procedure duration, making decision in unforeseen circumstances, and 
+optimizing surgical workflows. Furthermore, they can improve diagnostic and 
+prognostic outcomes in the post-operative setting. The ability of AI to enhance 
+risk stratification, facilitate complex imaging analyses, and support real-time 
+clinical decision-making highlights its potential to improve patient outcomes and 
+increase procedural efficiency. Fig. <xref rid="S3.F1" ref-type="fig">1</xref> illustrates the comprehensive integration 
+of AI technologies across the entire cardiovascular intervention lifecycle, the 
+interconnected nature of these applications, and their collective impact on 
+clinical outcomes.</p><fig position="float" id="S3.F1"><label>Fig. 1.
+</label><caption><p><bold>AI applications across the lifecycle of drug-coated 
+cardiovascular devices, showing the integration points, key technologies, and 
+clinical outcomes at each stage</bold>. The illustration was drawn using the Adobe 
+Creative Suite Package [(Illustrator, version 28.7.1 and Photoshop, version 
+25.12) (Adobe Systems Incorporated, San Jose, CA, USA)].</p></caption><graphic xlink:href="2153-8174-26-11-40892-g1" id="S3.F1.g1" position="float"/></fig><p id="S3.SS4.SSS2.p3">Benchmarks have shown that DL models often outperform traditional ML techniques 
+on tasks requiring high-dimensional feature extraction. For example, CNNs trained 
+on intravascular OCT data have achieved segmentation accuracies exceeding 90%, 
+outperforming traditional support vector machines or random forest classifiers in 
+both precision and recall [<xref rid="b42" ref-type="bibr">42</xref>]. However, while CNNs are superior for image-based 
+inputs, gradient boosting models such as XGBoost demonstrate greater stability 
+and interpretability on structured clinical datasets, particularly for risk 
+stratification and dual antiplatelet therapy duration prediction [<xref rid="b60" ref-type="bibr">60</xref>]. These 
+performance discrepancies underscore the importance of aligning model 
+architecture with the data modality and clinical purpose. Despite impressive 
+metrics (AUC <inline-formula><mml:math id="w3" alttext="&#x0003e;" display="inline" overflow="scroll"><mml:mo>&#x0003e;</mml:mo></mml:math></inline-formula>0.90 in many retrospective studies), concerns about 
+generalizability persist, especially when models trained on single-center 
+datasets are applied to populations with varying comorbidities and procedural 
+standards.</p></sec></sec></sec><sec id="S4"><title>4. AI in Drug-Coated Devices Development</title><p id="S4.p1">The integration of AI into the DCCD development process represents a paradigm 
+shift from traditional experimental approaches to data-driven, predictive design 
+methodologies. By leveraging ML, DL, and RL, the entire DCCD lifecycle from 
+concept to validation is being accelerated and refined. 
+</p><p id="S4.p2">Traditional development typically involves years of laboratory testing, animal 
+experiments, and phased clinical trials. In contrast, in silico testing, 
+supported by ML/DL and mechanistic modeling, enables virtual evaluation of device 
+mechanics and drug delivery, supporting accelerated development cycles. 
+Regulatory bodies such as the US FDA are increasingly recognizing the value of 
+these virtual (<italic toggle="yes">in silico</italic>) clinical trials as a supplement or alternative 
+to traditional clinical trials during regulatory approval processes [<xref rid="b18" ref-type="bibr">18</xref>, <xref rid="b63" ref-type="bibr">63</xref>].</p><sec id="S4.SS1"><title>4.1 Device Design</title><p id="S4.SS1.p1">The design and material composition of DCCDs significantly affect their 
+performance. AI algorithms are widely used in stent and balloon design, 
+particularly for optimizing structural geometry, mechanical behavior, and drug 
+delivery efficiency. For example, supervised learning models trained on past 
+stent deployment results have achieved over 90% predictive accuracy in 
+predicting strut malposition and mechanical deformation [<xref rid="b54" ref-type="bibr">54</xref>]. Gaussian process 
+regression models and Bayesian optimization techniques explore large design 
+spaces to identify optimal configurations that balance mechanical performance, 
+hemodynamic properties, and drug delivery characteristics. These approaches 
+reduce design iteration cycles from months to weeks while simultaneously 
+examining thousands of design variants [<xref rid="b63" ref-type="bibr">63</xref>, <xref rid="b64" ref-type="bibr">64</xref>, <xref rid="b65" ref-type="bibr">65</xref>].</p><p id="S4.SS1.p2">ML and DL models are used to predict how design parameters (e.g., support 
+geometry, polymer composition, drug-polymer interactions) affect device behavior. 
+For example, supervised learning algorithms trained on clinical, and materials 
+datasets have been used to optimize scaffold thickness and expansion profiles for 
+novel stents [<xref rid="b54" ref-type="bibr">54</xref>, <xref rid="b64" ref-type="bibr">64</xref>]. Samant <italic toggle="yes">et al</italic>. [<xref rid="b66" ref-type="bibr">66</xref>] demonstrated that AI-based 
+modeling significantly improved the mechanical performance and drug distribution 
+profile of everolimus-eluting stents specifically designed for left main coronary 
+interventions. Similarly, Poletti <italic toggle="yes">et al</italic>. [<xref rid="b64" ref-type="bibr">64</xref>] developed an image-based, 
+patient-specific digital twin approach to virtually model and test stent 
+deployment strategies. These tools allow for iterative design testing under 
+physiological conditions without physical prototyping, accelerating the 
+development cycle and reducing costs.</p><p id="S4.SS1.p3">In recent years, in silico studies based on finite element analysis (FEA) have 
+been conducted to consider the geometric and material properties of intravascular 
+devices such as stents and balloons, their different deployment strategies, and 
+the patient&#x02019;s vascular anatomical characteristics. FEA frameworks, when combined 
+with RL, further support iterative modeling of intravascular mechanics under 
+pulsating flow conditions. These frameworks enable rapid testing of structural 
+changes and device positioning strategies without the need for physical 
+prototyping [<xref rid="b54" ref-type="bibr">54</xref>, <xref rid="b64" ref-type="bibr">64</xref>].</p><p id="S4.SS1.p4">AI-driven computational modeling allows the simulation of various design 
+parameters through in silico testing and enables virtual models to predict the 
+physical and biological behavior of devices under various conditions. For 
+example, stent designs can be tested in virtual environments for durability, 
+hemodynamic performance, and drug release properties. This provides significant 
+advantages in optimizing stent designs and accelerating the time from inception 
+to clinical use [<xref rid="b63" ref-type="bibr">63</xref>]. RL techniques have also been 
+applied to simulate catheter-based deployment strategies, providing adaptive 
+guidance to minimize misplacement and vessel wall stress [<xref rid="b54" ref-type="bibr">54</xref>, <xref rid="b55" ref-type="bibr">55</xref>]. Such simulation 
+environments, when integrated with patient-specific imaging data, form the basis 
+for AI-assisted design processes tailored to individualized anatomy and lesion 
+morphology.</p></sec><sec id="S4.SS2"><title>4.2 Computational Modeling for Drug Release Kinetics</title><p id="S4.SS2.p1">Modeling drug diffusion and pharmacokinetics in complex vascular environments 
+remains a fundamental challenge in DCCD development. By analyzing large datasets 
+of material properties and clinical outcomes, AI can also help select optimal 
+polymer coatings and drug combinations. This approach could significantly 
+contribute to the development of DCCDs with improved biocompatibility and 
+targeted drug delivery capabilities [<xref rid="b32" ref-type="bibr">32</xref>, <xref rid="b67" ref-type="bibr">67</xref>].</p><p id="S4.SS2.p2">Although DCCDs are widely used to reduce the rate of restenosis, ISR remains a 
+challenge. The development of new DCCDs requires observation of the 
+pharmacodynamic and pharmacokinetic properties of the loaded drugs, as well as 
+testing for efficacy and safety. This process is time-consuming and costly 
+[<xref rid="b22" ref-type="bibr">22</xref>, <xref rid="b68" ref-type="bibr">68</xref>]. In the context of drug kinetic modeling, AI can make a powerful 
+contribution to overcoming these limitations. AI can play an important role in 
+optimizing various aspects, from drug release from the stent or balloon to drug 
+transport in the blood stream and passage through the vascular wall. For example, 
+AI-assisted algorithms can significantly contribute to the design of polymeric 
+biocompatible cardiovascular devices with tunable mechanical and release 
+properties, as well as optimize process parameters for coating technologies to 
+achieve desired thickness, uniformity, and adhesion [<xref rid="b69" ref-type="bibr">69</xref>].</p><p id="S4.SS2.p3">AI algorithms have enabled the modeling of complex pharmacokinetic and 
+pharmacodynamic processes. For example, supervised CNNs have been trained on in vitro and animal model data to predict arterial 
+wall drug concentration gradients with an average absolute error of less than 
+10% [<xref rid="b69" ref-type="bibr">69</xref>]. Graph neural networks (GNNs) have demonstrated potential for modeling 
+drug diffusion pathways across non-uniform vascular tissue structures. Gracia&#x02019;s 
+computational framework modeled stent-based delivery systems using CNN-assisted 
+simulations and validated outputs against physical measurements in porcine artery 
+models [<xref rid="b69" ref-type="bibr">69</xref>]. These AI-assisted simulators accurately replicate <italic toggle="yes">in vivo</italic> behavior, 
+reducing reliance on animal testing.</p><p id="S4.SS2.p4">Beyond passive diffusion, AI models are now contributing to the design of 
+feedback-controlled delivery systems that integrate biosensor inputs (e.g., 
+endothelial response, flow shear stress). These systems can adapt drug release 
+rates in real time using reinforcement learning controllers [<xref rid="b33" ref-type="bibr">33</xref>, <xref rid="b34" ref-type="bibr">34</xref>].</p><p id="S4.SS2.p5">AI models also play a key role in the development of patient-specific DCCDs. 
+Vascular properties, such as calcification in the lesion composition, have a 
+significant impact on drug absorption and distribution. This underscores the 
+importance of modeling binding-diffusion kinetics and developing strategies for 
+lesion-specific DCCDs [<xref rid="b6" ref-type="bibr">6</xref>]. AI algorithms are also transforming the 
+personalization of antiplatelet therapy by customizing the dosage for each the 
+patient. Traditional fixed dual antiplatelet therapy (DAPT) may not be optimal for all patients in balancing 
+the risks of ischemia and bleeding. In this regard, ML models have been created 
+to tailor the duration of DAPT to individual patient profiles [<xref rid="b70" ref-type="bibr">70</xref>]. Specific AI 
+models such as XGBoost have been developed for this purpose [<xref rid="b60" ref-type="bibr">60</xref>]. These 
+approaches hold the promise of personalizing not only device configurations but 
+also pharmacotherapy regimens.</p><p id="S4.SS2.p6">Table <xref rid="S4.T2" ref-type="table">2</xref> summarizes the main types of AI models applied at various stages of the 
+DCCD development process, including their core functions, advantages, and 
+limitations.</p><table-wrap position="float" id="S4.T2"><label>Table 2.
+</label><caption><p><bold>Common ML models used in DCCD development tasks</bold>.</p></caption><table frame="hsides" rules="groups"><tbody><tr style="border-top:1px solid #000;border-bottom:1px solid #000;"><td rowspan="1" colspan="1">Algorithm/Model</td><td rowspan="1" colspan="1">Application</td><td rowspan="1" colspan="1">Strengths</td><td rowspan="1" colspan="1">Limitations</td></tr><tr><td rowspan="1" colspan="1">Convolutional neural network (CNN), e.g., ResNet, U-Net</td><td rowspan="1" colspan="1">Drug diffusion modeling, image segmentation</td><td rowspan="1" colspan="1">High accuracy in image-based tasks</td><td rowspan="1" colspan="1">Large, labeled datasets are needed</td></tr><tr style="border-top:1px solid #000;border-bottom:1px solid #000;"><td rowspan="1" colspan="1">Graph neural networks (GNNs)</td><td rowspan="1" colspan="1">Modeling vascular drug distribution</td><td rowspan="1" colspan="1">Captures complex topologies</td><td rowspan="1" colspan="1">Computationally intensive</td></tr><tr><td rowspan="1" colspan="1">Bayesian Optimization</td><td rowspan="1" colspan="1">Stent material and geometry design</td><td rowspan="1" colspan="1">Efficient search space exploration</td><td rowspan="1" colspan="1">Performance depends on surrogate model quality</td></tr><tr style="border-top:1px solid #000;border-bottom:1px solid #000;"><td rowspan="1" colspan="1">Reinforcement Learning</td><td rowspan="1" colspan="1">Adaptive drug delivery control</td><td rowspan="1" colspan="1">Learns from dynamic feedback</td><td rowspan="1" colspan="1">Slower convergence; needs tuning</td></tr><tr style="border-bottom:1px solid #000;"><td rowspan="1" colspan="1">XGBoost</td><td rowspan="1" colspan="1">Personalized DAPT</td><td rowspan="1" colspan="1">High interpretability and speed</td><td rowspan="1" colspan="1">Can overfit small datasets</td></tr></tbody></table><table-wrap-foot><fn><p>Abbreviations: ML, machine learning; DCCD, drug-coated cardiovascular devices; DAPT, dual antiplatelet 
+therapy.</p></fn></table-wrap-foot></table-wrap></sec><sec id="S4.SS3"><title>4.3 Integration With Imaging and Manufacturing</title><p id="S4.SS3.p1">AI-powered integration of imaging modalities (e.g., OCT, IVUS, CT) into design 
+workflows enables real-time feedback loops between anatomy, device design, and 
+delivery simulations. Advanced segmentation tools based on U-Net and DenseNet 
+architectures achieve Dice similarity coefficients <inline-formula><mml:math id="w4" alttext="&#x0003e;" display="inline" overflow="scroll"><mml:mo>&#x0003e;</mml:mo></mml:math></inline-formula>0.9 for vessel and lesion 
+segmentation, enabling precise simulation of device-tissue interactions [<xref rid="b35" ref-type="bibr">35</xref>, <xref rid="b53" ref-type="bibr">53</xref>] 
+These imaging algorithm pipelines are essential for reducing geographic mismatch 
+and customizing drug delivery profiles based on lesion morphology and 
+calcification.</p><p id="S4.SS3.p2">In the manufacturing arena, computer vision models, including generative 
+adversarial networks (GANs), have been used to detect defects in polymer coatings 
+and structural alignment. Real-time optical inspection systems have demonstrated 
+over 95% accuracy in identifying microstructural inconsistencies, improving both 
+quality control and manufacturing efficiency [<xref rid="b42" ref-type="bibr">42</xref>, <xref rid="b43" ref-type="bibr">43</xref>].</p><p id="S4.SS3.p3">To improve the interpretability of complex workflows, Fig. <xref rid="S4.F2" ref-type="fig">2</xref> summarizes the 
+AI-assisted pipeline for DCCD development, including design optimization, 
+pharmacokinetic modeling, and simulation-guided evaluation.</p><fig position="float" id="S4.F2"><label>Fig. 2.
+</label><caption><p><bold>Workflow for AI-assisted development of drug-coated 
+cardiovascular devices (DCCDs)</bold>. This process demonstrates the integration of AI 
+algorithms into device design, drug release modeling, and virtual testing, 
+highlighting feedback loops for optimization and regulatory validation. The 
+illustration was drawn using the Adobe Creative Suite Package [(Illustrator, 
+version 28.7.1 and Photoshop, version 25.12) (Adobe Systems Incorporated, San 
+Jose, CA, USA)]. CFD, computational fluid dynamics; FEA, finite element analysis; MD, molecular dynamics.</p></caption><graphic xlink:href="2153-8174-26-11-40892-g2" id="S4.F2.g1" position="float"/></fig></sec></sec><sec id="S5"><title>5. Challenges of AI in Drug-Coated Cardiovascular Devices Practice</title><p id="S5.p1">While the integration of AI into DCCD applications is promising, it faces 
+numerous technical, ethical, regulatory, and economic challenges. These 
+challenges require systematic approaches and coordinated solutions for AI to 
+realize its full potential in cardiovascular interventions.</p><sec id="S5.SS1"><title>5.1 Ethical Challenges and Mitigation Strategies</title><p id="S5.SS1.p1">Applications of AI in healthcare, including its integration into cardiovascular 
+interventions, raise several ethical challenges that need to be addressed. One of 
+these challenges is data privacy and security. AI systems often rely on large 
+datasets containing sensitive personal health information. Risks such as data 
+breaches, unauthorized use, and cyberattacks can lead to discrimination or harm 
+[<xref rid="b71" ref-type="bibr">71</xref>]. Regulatory bodies, such as the Health Insurance Portability and 
+Accountability Act (HIPAA) in the United States and the General Data Protection 
+Regulation (GDPR) in the European Union, are working to reduce these risks 
+[<xref rid="b72" ref-type="bibr">72</xref>, <xref rid="b73" ref-type="bibr">73</xref>]. For example, model inversion is a type of attack that exploits the final 
+output of an AI model. It can reconstruct or extract training data from the 
+outputs of a machine learning model, potentially exposing sensitive information. 
+Attackers use the model&#x02019;s behavior to &#x0201c;reverse engineer&#x0201d; the data it was 
+trained on, even without direct access to the original dataset. These attacks 
+pose significant privacy risks, especially when dealing with sensitive data like 
+medical records or personal information [<xref rid="b74" ref-type="bibr">74</xref>]. Advanced privacy-preserving 
+technologies offer robust solutions to these challenges. Differential privacy, 
+which provides quantifiable privacy (<inline-formula><mml:math id="w5" alttext="\varepsilon{}" display="inline" overflow="scroll"><mml:mi>&#x003b5;</mml:mi></mml:math></inline-formula>
+<inline-formula><mml:math id="w6" alttext="\leq" display="inline" overflow="scroll"><mml:mo>&#x02264;</mml:mo></mml:math></inline-formula> 1) guarantees for 
+cardiovascular risk models, can offer a mathematical framework for privacy 
+protection [<xref rid="b75" ref-type="bibr">75</xref>]. 
+</p><p id="S5.SS1.p2">Algorithmic bias and fairness are another important challenge. AI models trained 
+on biased or non-diverse datasets often struggle when applied to populations 
+different from those on which they were trained [<xref rid="b76" ref-type="bibr">76</xref>, <xref rid="b77" ref-type="bibr">77</xref>]. Developing AI 
+applications that address specific health needs at the local community or 
+individual level can hinder the creation of robust AI models due to limited data 
+availability or variability. However, a comprehensive bias reduction framework 
+addresses these challenges through a variety of approaches. Bias-detection 
+algorithms, such as fairness-aware machine learning and statistical equity tests, 
+can accurately detect unfair model behavior. Regular fairness audit protocols 
+using standardized fairness metrics ensure ongoing compliance with equity 
+standards.</p><p id="S5.SS1.p3">The third challenge is explainability and transparency. Many AI models, 
+especially those using deep learning, operate as &#x0201c;black boxes&#x0201d;. Their opaque 
+nature hinders trust and accountability. Transparent or federated AI systems and 
+explainable AI (XAI) approaches are encouraged to increase user trust [<xref rid="b65" ref-type="bibr">65</xref>, <xref rid="b66" ref-type="bibr">66</xref>]. 
+Physicians must trust and understand algorithmic outputs, especially when 
+considering factors affecting stent selection, drug-coating parameters, or 
+treatment duration. Therefore, explainability should be a non-negotiable 
+requirement for AI applications in interventional cardiology. XAI methods such as 
+SHAP (SHapley Additive Explanations), LIME (Local Interpretable Model-Independent 
+Explanations), and attention heatmaps are increasingly being used to clarify 
+model rationale for individual predictions. These tools help uncover hidden 
+biases and increase user confidence. However, considering the difficulties that 
+explainability brings with it trade-offs in terms of model complexity, latency, 
+and interpretation accuracy, hybrid strategies should not be ignored [<xref rid="b39" ref-type="bibr">39</xref>, <xref rid="b73" ref-type="bibr">73</xref>, <xref rid="b78" ref-type="bibr">78</xref>].</p><p id="S5.SS1.p4">The fourth challenge is accountability and responsibility. Defining the roles 
+among developers, clinicians, and institutions in AI-driven clinical decisions 
+remains a challenge. Unfortunately, current legal systems have difficulty 
+assigning responsibility for this issue [<xref rid="b17" ref-type="bibr">17</xref>]. Finally, global inequalities and 
+accessibility to services can be addressed. AI tools may not be accessible to the 
+desired level in low-resource environments due to reasons such as cost, 
+infrastructure, or local barriers. Minimizing this requires adapting AI to local 
+health needs and encouraging international regulatory cooperation [<xref rid="b39" ref-type="bibr">39</xref>, <xref rid="b79" ref-type="bibr">79</xref>, <xref rid="b80" ref-type="bibr">80</xref>].</p><p id="S5.SS1.p5">Furthermore, traditional informed consent models are inadequate for continuously 
+learning and evolving AI systems, creating ongoing consent challenges [<xref rid="b81" ref-type="bibr">81</xref>]. 
+Blockchain-based systems and natural language processing systems could provide 
+significant improvements [<xref rid="b82" ref-type="bibr">82</xref>, <xref rid="b83" ref-type="bibr">83</xref>].</p><p id="S5.SS1.p6">Techniques such as federative learning and adversarial bias removal have been 
+proposed to increase data privacy and fairness in AI models for cardiovascular 
+applications [<xref rid="b17" ref-type="bibr">17</xref>]. These methods can minimize demographic bias and improve 
+generalizability.</p></sec><sec id="S5.SS2"><title>5.2 Cost Aspect</title><p id="S5.SS2.p1">Healthcare applications, including AI-based models, require initial setup, 
+training, infrastructure, and other investments requirements. This not only 
+presents a technical hurdle for AI implementation but also poses significant 
+economic burdens. Economic impact metrics are critical in calculating these costs 
+[<xref rid="b84" ref-type="bibr">84</xref>]. Traditional health economics models struggle to capture the dynamic 
+benefits and costs of AI, especially for systems that improve over time [<xref rid="b85" ref-type="bibr">85</xref>]. 
+Advanced economic modeling, such as dynamic cost-effectiveness models (e.g., 
+Markov models), value-based pricing, total cost of ownership, and budget impact 
+analysis, can address these challenges [<xref rid="b84" ref-type="bibr">84</xref>]. Integrating AI with these strategies 
+has the potential to significantly reduce healthcare costs while improving 
+diagnostic accuracy and treatment efficiency. For example, AI-assisted screening 
+for diabetic retinopathy has been shown to lead to better health outcomes at 
+lower costs than traditional methods [<xref rid="b47" ref-type="bibr">47</xref>]. Therefore, it is crucial to address 
+the economic impact of AI adoption in healthcare.</p><p id="S5.SS2.p2">On the other hand, the high initial costs of AI systems and the need for ongoing 
+maintenance and updates pose significant implementation challenges. Furthermore, 
+the lack of standardized methodologies makes it difficult to analyze the 
+economics of AI interventions and understand their value. This challenge is 
+particularly evident in regions with health inequalities [<xref rid="b79" ref-type="bibr">79</xref>, <xref rid="b86" ref-type="bibr">86</xref>].</p></sec><sec id="S5.SS3"><title>5.3 Validation Challenges</title><p id="S5.SS3.p1">Rigorous validation of AI algorithms is critical for the development and 
+clinical deployment of DCCDs. Validation strategies typically involve multistage 
+testing. These include internal validation (e.g., cross-validation within the 
+training set), external validation using independent datasets to assess 
+generalizability, and prospective validation within clinical workflows 
+[<xref rid="b10" ref-type="bibr">10</xref>, <xref rid="b16" ref-type="bibr">16</xref>, <xref rid="b63" ref-type="bibr">63</xref>].</p><p id="S5.SS3.p2">Unlike static software tools, AI systems (especially those using deep learning) 
+learn from large, high-dimensional datasets and can improve over time. Therefore, 
+traditional validation metrics need to be expanded to assess both model 
+performance and robustness under real-world variability. Performance metrics such 
+as accuracy, AUC, sensitivity, specificity, and calibration should be tailored to 
+each use case. Applications for DCCDs include predicting ISR, optimizing drug 
+release kinetics, or customizing dual antiplatelet therapy duration [<xref rid="b36" ref-type="bibr">36</xref>, <xref rid="b60" ref-type="bibr">60</xref>, <xref rid="b70" ref-type="bibr">70</xref>].</p><p id="S5.SS3.p3">Digital twin-based simulation frameworks and high-fidelity virtual experiments 
+are emerging as complementary validation methods, reducing reliance on animal 
+studies, and accelerating preclinical evaluation [<xref rid="b64" ref-type="bibr">64</xref>, <xref rid="b69" ref-type="bibr">69</xref>]. These systems have the 
+potential to play a critical role in modeling stent performance, drug elution 
+dynamics, and vascular tissue interactions under physiological flow conditions.</p></sec><sec id="S5.SS4"><title>5.4 Regulatory Considerations</title><p id="S5.SS4.p1">It is crucial to establish validated and approved comprehensive regulatory 
+frameworks to govern the application of these technologies. This is necessary to 
+protect patients from misdiagnosis, misuse of personal data, and biases embedded 
+in algorithms [<xref rid="b87" ref-type="bibr">87</xref>, <xref rid="b88" ref-type="bibr">88</xref>]. Despite the intense efforts of regulatory bodies in some 
+countries, there is still no global regulatory framework for AI applications in 
+healthcare. Currently, the global regulatory environment primarily regulates the 
+use of AI in healthcare for medical devices, specifically Software as a Medical 
+Device (SaMD) [<xref rid="b89" ref-type="bibr">89</xref>]. Regulatory agencies such as the US Food and Drug 
+Administration (FDA), the European Commission, and the UK Medicines and 
+Healthcare products Regulatory Agency (MHRA) are developing frameworks to address 
+the inherent risks of AI/ML-driven systems [<xref rid="b18" ref-type="bibr">18</xref>, <xref rid="b19" ref-type="bibr">19</xref>, <xref rid="b88" ref-type="bibr">88</xref>, <xref rid="b90" ref-type="bibr">90</xref>].</p><p id="S5.SS4.p2">The FDA&#x02019;s Predetermined Change Control Plan (PCCP) framework is particularly 
+important for machine learning-enabled devices, enabling post-approval algorithm 
+updates while maintaining safety and performance assurance [<xref rid="b18" ref-type="bibr">18</xref>]. Similarly, the 
+proposed EU Artificial Intelligence Act mandates risk stratification, 
+documentation, and human oversight for high-risk AI applications in healthcare 
+[<xref rid="b19" ref-type="bibr">19</xref>]. National organizations such as National institute for Health and Care 
+Excellence (NICE (UK)) and the World Health Organization (WHO) have published 
+evidence standards frameworks for AI tools that emphasize clinical effectiveness, 
+economic value, and patient safety. These are crucial for deploying AI in DCCD 
+personalization, where inaccurate predictions can have disastrous consequences 
+[<xref rid="b20" ref-type="bibr">20</xref>, <xref rid="b80" ref-type="bibr">80</xref>, <xref rid="b86" ref-type="bibr">86</xref>].</p><p id="S5.SS4.p3">AI/ML models continuously learn and improve over time, requiring adaptive 
+algorithms and presenting unique regulatory challenges. To address this issue, 
+the FDA introduced the &#x0201c;Proposed Regulatory Framework for Changes to AI/ML-based 
+SaMD&#x0201d; in April 2019. This framework adopts a &#x0201c;total product life cycle (TPLC)&#x0201d; 
+approach, acknowledging that AI/ML-based software frequently evolves as it learns 
+from new data [<xref rid="b90" ref-type="bibr">90</xref>]. Regulatory fragmentation across different regions poses 
+significant obstacles to global AI deployment. Harmonization initiatives such as 
+the International Medical Device Regulators Forum (IMDRF) and ISO/IEC Standards 
+(including ISO 14155 and ISO 13485) are addressing these challenges through 
+various international efforts [<xref rid="b91" ref-type="bibr">91</xref>, <xref rid="b92" ref-type="bibr">92</xref>].</p><p id="S5.SS4.p4">Ensuring that AI algorithms perform reliably across diverse patient populations 
+and clinical settings is essential. Regulators require robust clinical evidence 
+for AI-based medical devices, but traditional clinical trial designs may be 
+insufficient for adaptive AI systems [<xref rid="b74" ref-type="bibr">74</xref>]. Adaptive trials utilize Bayesian 
+designs, allowing for protocol changes based on accumulated evidence and 
+significantly increasing efficiency. Real-world evidence obtained through 
+post-market surveillance using electronic health records and registry data 
+enables continuous safety and efficacy monitoring. Digital biomarkers enable 
+continuous monitoring using wearable devices and smartphone sensors, providing 
+high-frequency outcome data [<xref rid="b93" ref-type="bibr">93</xref>, <xref rid="b94" ref-type="bibr">94</xref>, <xref rid="b95" ref-type="bibr">95</xref>].</p></sec></sec><sec id="S6"><title>6. Limitations</title><p id="S6.p1">This narrative review offers a comprehensive overview of AI applications in 
+DCCDs. However, it is important to acknowledge that there are several key 
+limitations. Firstly, while a structured and targeted literature review was 
+conducted using substantial databases and peer-reviewed sources, it does not 
+adhere to the rigorous methodology of a systematic review. Therefore, there is a 
+possibility of selection bias, and some relevant studies may have been 
+inadvertently excluded. Secondly, the rapidly evolving nature of AI in healthcare 
+means that some new technological developments or regulatory changes may not have 
+yet been addressed at the time of writing.</p><p id="S6.p2">Thirdly, although this review covers a wide range of topics, from device design 
+and drug modeling to regulatory and ethical considerations, it does not provide a 
+quantitative meta-analysis of outcomes associated with AI-assisted DCCDs. The 
+performance of AI models often depends on data quality, population heterogeneity, 
+and clinical validation status, which vary significantly across studies. 
+Therefore, comparisons between studies should be interpreted with caution. 
+Fourth, many studies cited here are based on early-stage data, simulated 
+environments, or animal models. Translational gaps remain significant when 
+considering generalizability to human populations or real-world intervention 
+settings. Furthermore, a few of the AI platforms discussed have received 
+regulatory approval or been prospectively validated in large-scale trials, 
+limiting their immediate applicability.</p><p id="S6.p3">Finally, this review emphasizes technological and algorithmic advancements 
+rather than health economic modeling or interdisciplinary integration with 
+behavioral, operational, or social determinants of cardiovascular health. These 
+issues warrant future investigation to ensure the equitable and sustainable 
+implementation of AI-enabled drug-coated cardiovascular technologies.</p></sec><sec id="S7"><title>7. Future Perspective</title><p id="S7.p1">The future integration of artificial intelligence (AI) into DCCDs must progress 
+from theoretical promises to practical, patient-centered systems. One of the most 
+urgent technical challenges is developing real-time intraoperative AI feedback 
+systems. These systems can analyze intraprocedural imaging, vascular dynamics, 
+and device positioning in real time to guide clinicians during stent or balloon 
+deployment, reducing complications such as misplacement or incomplete lesion 
+coverage.</p><p id="S7.p2">Another crucial area is adaptive AI models that can learn from individual 
+patient responses. By combining reinforcement learning and fusion learning 
+architectures, these models can improve treatment recommendations, drug delivery 
+strategies, and follow-up protocols over time. For example, DCCDs can regulate 
+drug release kinetics based on evolving local hemodynamic signals or tissue 
+responses.</p><p id="S7.p3">To ensure the safe and effective implementation of these technologies, future 
+research should prioritize explainability, generalizability across populations, 
+and regulatory compliance. This involves using interpretable AI methods (e.g., 
+SHAP, LIME) and validation frameworks that meet FDA and CE requirements for 
+real-world clinical decision tools.</p></sec><sec id="S8"><title>8. Conclusion</title><p id="S8.p1">This review highlights the increasing role of AI in the design, deployment, and 
+monitoring of DCCDs. Theoretically, AI represents a shift from empirical 
+trial-and-error methods to predictive, personalized modeling. In practice, it 
+enables enhanced personalization, device optimization, and procedural precision 
+through advanced data integration and real-time decision-making.</p><p id="S8.p2">This study provides several key contributions. These include: a comprehensive 
+synthesis of AI applications across the DCCD lifecycle; a detailed examination of 
+technical enablers, including drug delivery modeling and patient-specific stent 
+simulation; identification of key challenges in model validation, 
+interpretability, and ethical oversight; and practical recommendations for 
+bridging the gaps between in silico tools and clinical implementation.</p><p id="S8.p3">While AI show promise in enhancing cardiovascular device innovation, its 
+clinical adoption faces obstacles such as biased training data, lack of external 
+validation, algorithmic opacity, and fragmented regulatory standards. Overcoming 
+these limitations requires a focused effort to integrate standardized assessment 
+criteria, conduct multicenter studies, and establish ethical frameworks 
+emphasizing fairness, transparency, and accountability.</p><p id="S8.p4">Future research should concentrate on developing intraoperative AI guidance 
+systems for real-time device optimization, implementing adaptive learning 
+frameworks to personalize therapy over time, and establishing 
+regulatory-compliant validation processes for AI-integrated DCCDs.</p><p id="S8.p5">By advancing in these areas, AI-powered cardiovascular implants can move from 
+innovation to clinical reality, bringing precision, safety, and personalization 
+to interventional cardiology.</p></sec></body><back><ack id="S11"><title>Acknowledgment</title><p id="S11.p1">Not applicable.</p></ack><fn-group><fn><p><bold>Publisher&#x02019;s Note:</bold>
+IMR Press stays neutral with regard to jurisdictional claims in published maps and institutional
+affiliations.
+</p></fn></fn-group><sec id="S9"><title>Author Contributions</title><p id="S9.p1">RD conceptualized, designed, searched for data, wrote, and finalized, read and 
+approved the final manuscript, agreed to be accountable for all aspects of the 
+work.</p></sec><sec id="S10"><title>Ethics Approval and Consent to Participate</title><p id="S10.p1">Not applicable.</p></sec><sec id="S12"><title>Funding</title><p id="S12.p1">This research received no external funding.</p></sec><sec sec-type="COI-statement" id="S13"><title>Conflict of Interest</title><p id="S13.p1">RD is the president of INVAMED Medical Innovation Institute.</p></sec><ref-list><title>References</title><ref id="b1"><label>[1]</label><element-citation publication-type="webpage"><!--World Health Organization. Cardiovascular diseases (CVDs). 2021. Available at: https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds) (Accessed: 4 May 2025).--><person-group person-group-type="author">
+<collab>World Health Organization</collab>
+</person-group><article-title>Cardiovascular diseases (CVDs)</article-title><year>2021</year><comment>Available at:
+<ext-link xlink:href="https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)" ext-link-type="uri">https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)</ext-link>
+</comment><date-in-citation content-type="access-date" iso-8601-date="2025-05-04">(Accessed: 4 May 2025)</date-in-citation></element-citation></ref><ref id="b2"><label>[2]</label><element-citation publication-type="journal"><!--Kazi DS, Elkind MSV, Deutsch A, Dowd WN, Heidenreich P, Khavjou O, <italic>et al</italic>. Forecasting the Economic Burden of Cardiovascular Disease and Stroke in the United States Through 2050: A Presidential Advisory From the American Heart Association. Circulation. 2024; 150: e89&#x02013;e101. https://doi.org/10.1161/CIR.0000000000001258.--><person-group person-group-type="author">
+<name><surname>Kazi</surname><given-names>DS</given-names></name>
+<name><surname>Elkind</surname><given-names>MSV</given-names></name>
+<name><surname>Deutsch</surname><given-names>A</given-names></name>
+<name><surname>Dowd</surname><given-names>WN</given-names></name>
+<name><surname>Heidenreich</surname><given-names>P</given-names></name>
+<name><surname>Khavjou</surname><given-names>O</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Forecasting the Economic Burden of Cardiovascular Disease and Stroke in the United States Through 2050: A Presidential Advisory From the American Heart Association</article-title><source>
+<italic toggle="yes">Circulation</italic>
+</source><year>2024</year><volume>150</volume><fpage>e89</fpage><lpage>e101</lpage><pub-id pub-id-type="doi">10.1161/CIR.0000000000001258</pub-id><pub-id pub-id-type="pmid">38832515</pub-id>
+</element-citation></ref><ref id="b3"><label>[3]</label><element-citation publication-type="journal"><!--Jeger RV, Eccleshall S, Wan Ahmad WA, Ge J, Poerner TC, Shin ES, <italic>et al</italic>. Drug-Coated Balloons for Coronary Artery Disease: Third Report of the International DCB Consensus Group. JACC. Cardiovascular Interventions. 2020; 13: 1391&#x02013;1402. https://doi.org/10.1016/j.jcin.2020.02.043.--><person-group person-group-type="author">
+<name><surname>Jeger</surname><given-names>RV</given-names></name>
+<name><surname>Eccleshall</surname><given-names>S</given-names></name>
+<name><surname>Wan Ahmad</surname><given-names>WA</given-names></name>
+<name><surname>Ge</surname><given-names>J</given-names></name>
+<name><surname>Poerner</surname><given-names>TC</given-names></name>
+<name><surname>Shin</surname><given-names>ES</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Drug-Coated Balloons for Coronary Artery Disease: Third Report of the International DCB Consensus Group</article-title><source>
+<italic toggle="yes">JACC. Cardiovascular Interventions</italic>
+</source><year>2020</year><volume>13</volume><fpage>1391</fpage><lpage>1402</lpage><pub-id pub-id-type="doi">10.1016/j.jcin.2020.02.043</pub-id><pub-id pub-id-type="pmid">32473887</pub-id>
+</element-citation></ref><ref id="b4"><label>[4]</label><element-citation publication-type="journal"><!--Stefanini GG, Holmes DR, Jr. Drug-eluting coronary-artery stents. The New England Journal of Medicine. 2013; 368: 254&#x02013;265. https://doi.org/10.1056/NEJMra1210816.--><person-group person-group-type="author">
+<name><surname>Stefanini</surname><given-names>GG</given-names></name>
+<name><surname>Holmes</surname><given-names>DR</given-names><suffix>Jr</suffix></name>
+</person-group><article-title>Drug-eluting coronary-artery stents</article-title><source>
+<italic toggle="yes">The New England Journal of Medicine</italic>
+</source><year>2013</year><volume>368</volume><fpage>254</fpage><lpage>265</lpage><pub-id pub-id-type="doi">10.1056/NEJMra1210816</pub-id><pub-id pub-id-type="pmid">23323902</pub-id>
+</element-citation></ref><ref id="b5"><label>[5]</label><element-citation publication-type="journal"><!--Torrado J, Buckley L, Dur&#x000e1;n A, Trujillo P, Toldo S, Valle Raleigh J, <italic>et al</italic>. Restenosis, Stent Thrombosis, and Bleeding Complications: Navigating Between Scylla and Charybdis. Journal of the American College of Cardiology. 2018; 71: 1676&#x02013;1695. https://doi.org/10.1016/j.jacc.2018.02.023.--><person-group person-group-type="author">
+<name><surname>Torrado</surname><given-names>J</given-names></name>
+<name><surname>Buckley</surname><given-names>L</given-names></name>
+<name><surname>Dur&#x000e1;n</surname><given-names>A</given-names></name>
+<name><surname>Trujillo</surname><given-names>P</given-names></name>
+<name><surname>Toldo</surname><given-names>S</given-names></name>
+<name><surname>Valle Raleigh</surname><given-names>J</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Restenosis, Stent Thrombosis, and Bleeding Complications: Navigating Between Scylla and Charybdis</article-title><source>
+<italic toggle="yes">Journal of the American College of Cardiology</italic>
+</source><year>2018</year><volume>71</volume><fpage>1676</fpage><lpage>1695</lpage><pub-id pub-id-type="doi">10.1016/j.jacc.2018.02.023</pub-id><pub-id pub-id-type="pmid">29650125</pub-id>
+</element-citation></ref><ref id="b6"><label>[6]</label><element-citation publication-type="journal"><!--Tzafriri AR, Garcia-Polite F, Li X, Keating J, Balaguer JM, Zani B, <italic>et al</italic>. Defining drug and target protein distributions after stent-based drug release: Durable versus deployable coatings. Journal of Controlled Release. 2018; 274: 102&#x02013;108. https://doi.org/10.1016/j.jconrel.2018.02.007.--><person-group person-group-type="author">
+<name><surname>Tzafriri</surname><given-names>AR</given-names></name>
+<name><surname>Garcia-Polite</surname><given-names>F</given-names></name>
+<name><surname>Li</surname><given-names>X</given-names></name>
+<name><surname>Keating</surname><given-names>J</given-names></name>
+<name><surname>Balaguer</surname><given-names>JM</given-names></name>
+<name><surname>Zani</surname><given-names>B</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Defining drug and target protein distributions after stent-based drug release: Durable versus deployable coatings</article-title><source>
+<italic toggle="yes">Journal of Controlled Release</italic>
+</source><year>2018</year><volume>274</volume><fpage>102</fpage><lpage>108</lpage><pub-id pub-id-type="doi">10.1016/j.jconrel.2018.02.007</pub-id><pub-id pub-id-type="pmid">29421608</pub-id>
+</element-citation></ref><ref id="b7"><label>[7]</label><element-citation publication-type="webpage"><!--European Parliament. Artificial intelligence in healthcare: Applications, risks, and ethical and societal impacts. 2022. Available at: https://data.europa.eu/doi/10.2861/568473 (Accessed: 5 May 2025).--><person-group person-group-type="author">
+<collab>European Parliament</collab>
+</person-group><article-title>Artificial intelligence in healthcare: Applications, risks, and ethical and societal impacts</article-title><year>2022</year><comment>Available at:
+<ext-link xlink:href="https://data.europa.eu/doi/10.2861/568473" ext-link-type="uri">https://data.europa.eu/doi/10.2861/568473</ext-link>
+</comment><date-in-citation content-type="access-date" iso-8601-date="2025-05-05">(Accessed: 5 May 2025)</date-in-citation></element-citation></ref><ref id="b8"><label>[8]</label><element-citation publication-type="journal"><!--Paradies V, Alfonso F. Challenges and Evolving Strategies in the Treatment of In-Stent Restenosis With Drug-Coated Balloons. Circulation. Cardiovascular Interventions. 2025; 18: e015359. https://doi.org/10.1161/CIRCINTERVENTIONS.125.015359.--><person-group person-group-type="author">
+<name><surname>Paradies</surname><given-names>V</given-names></name>
+<name><surname>Alfonso</surname><given-names>F</given-names></name>
+</person-group><article-title>Challenges and Evolving Strategies in the Treatment of In-Stent Restenosis With Drug-Coated Balloons</article-title><source>
+<italic toggle="yes">Circulation. Cardiovascular Interventions</italic>
+</source><year>2025</year><volume>18</volume><fpage>e015359</fpage><pub-id pub-id-type="doi">10.1161/CIRCINTERVENTIONS.125.015359</pub-id><pub-id pub-id-type="pmid">40270261</pub-id>
+</element-citation></ref><ref id="b9"><label>[9]</label><element-citation publication-type="journal"><!--Dinc R, Ekingen E. Biodegradable Stents in the Treatment of Arterial Stenosis. Journal of Clinical Medicine. 2025; 14: 532. https://doi.org/10.3390/jcm14020532.--><person-group person-group-type="author">
+<name><surname>Dinc</surname><given-names>R</given-names></name>
+<name><surname>Ekingen</surname><given-names>E</given-names></name>
+</person-group><article-title>Biodegradable Stents in the Treatment of Arterial Stenosis</article-title><source>
+<italic toggle="yes">Journal of Clinical Medicine</italic>
+</source><year>2025</year><volume>14</volume><fpage>532</fpage><pub-id pub-id-type="doi">10.3390/jcm14020532</pub-id><pub-id pub-id-type="pmid">39860538</pub-id>
+</element-citation></ref><ref id="b10"><label>[10]</label><element-citation publication-type="journal"><!--Samant S, Panagopoulos AN, Wu W, Zhao S, Chatzizisis YS. Artificial Intelligence in Coronary Artery Interventions: Preprocedural Planning and Procedural Assistance. Journal of the Society for Cardiovascular Angiography & Interventions. 2025; 4: 102519. https://doi.org/10.1016/j.jscai.2024.102519.--><person-group person-group-type="author">
+<name><surname>Samant</surname><given-names>S</given-names></name>
+<name><surname>Panagopoulos</surname><given-names>AN</given-names></name>
+<name><surname>Wu</surname><given-names>W</given-names></name>
+<name><surname>Zhao</surname><given-names>S</given-names></name>
+<name><surname>Chatzizisis</surname><given-names>YS</given-names></name>
+</person-group><article-title>Artificial Intelligence in Coronary Artery Interventions: Preprocedural Planning and Procedural Assistance</article-title><source>
+<italic toggle="yes">Journal of the Society for Cardiovascular Angiography &#x00026; Interventions</italic>
+</source><year>2025</year><volume>4</volume><fpage>102519</fpage><pub-id pub-id-type="doi">10.1016/j.jscai.2024.102519</pub-id><pub-id pub-id-type="pmid">40230668</pub-id>
+</element-citation></ref><ref id="b11"><label>[11]</label><element-citation publication-type="journal"><!--Shin D, Sami Z, Cannata M, Ciftcikal Y, Caron E, Thomas SV, <italic>et al</italic>. Artificial Intelligence in Intravascular Imaging for Percutaneous Coronary Interventions: A New Era of Precision. Journal of the Society for Cardiovascular Angiography & Interventions. 2025; 4: 102506. https://doi.org/10.1016/j.jscai.2024.102506.--><person-group person-group-type="author">
+<name><surname>Shin</surname><given-names>D</given-names></name>
+<name><surname>Sami</surname><given-names>Z</given-names></name>
+<name><surname>Cannata</surname><given-names>M</given-names></name>
+<name><surname>Ciftcikal</surname><given-names>Y</given-names></name>
+<name><surname>Caron</surname><given-names>E</given-names></name>
+<name><surname>Thomas</surname><given-names>SV</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Artificial Intelligence in Intravascular Imaging for Percutaneous Coronary Interventions: A New Era of Precision</article-title><source>
+<italic toggle="yes">Journal of the Society for Cardiovascular Angiography &#x00026; Interventions</italic>
+</source><year>2025</year><volume>4</volume><fpage>102506</fpage><pub-id pub-id-type="doi">10.1016/j.jscai.2024.102506</pub-id><pub-id pub-id-type="pmid">40230676</pub-id>
+</element-citation></ref><ref id="b12"><label>[12]</label><element-citation publication-type="journal"><!--Enad HG, Mohammed MA. A Review on Artificial Intelligence and Quantum Machine Learning for Heart Disease Diagnosis: Current Techniques, Challenges and Issues, Recent Developments, and Future Directions. Fusion: Practice & Applications. 2023; 11: 8&#x02013;25. https://doi.org/10.54216/FPA.110101.--><person-group person-group-type="author">
+<name><surname>Enad</surname><given-names>HG</given-names></name>
+<name><surname>Mohammed</surname><given-names>MA</given-names></name>
+</person-group><article-title>A Review on Artificial Intelligence and Quantum Machine Learning for Heart Disease Diagnosis: Current Techniques, Challenges and Issues, Recent Developments, and Future Directions</article-title><source>
+<italic toggle="yes">Fusion: Practice &#x00026; Applications</italic>
+</source><year>2023</year><volume>11</volume><fpage>8</fpage><lpage>25</lpage><pub-id pub-id-type="doi">10.54216/FPA.110101</pub-id></element-citation></ref><ref id="b13"><label>[13]</label><element-citation publication-type="journal"><!--Enad HG, Mohammed MA. Cloud computing-based framework for heart disease classification using quantum machine learning approach. Journal of Intelligent Systems. 2024; 33: 20230261. https://doi.org/10.1515/jisys-2023-0261.--><person-group person-group-type="author">
+<name><surname>Enad</surname><given-names>HG</given-names></name>
+<name><surname>Mohammed</surname><given-names>MA</given-names></name>
+</person-group><article-title>Cloud computing-based framework for heart disease classification using quantum machine learning approach</article-title><source>
+<italic toggle="yes">Journal of Intelligent Systems</italic>
+</source><year>2024</year><volume>33</volume><fpage>20230261</fpage><pub-id pub-id-type="doi">10.1515/jisys-2023-0261</pub-id></element-citation></ref><ref id="b14"><label>[14]</label><element-citation publication-type="journal"><!--Labrecque Langlais &#x000c9;, Corbin D, Tastet O, Hayek A, Doolub G, Mrad S, <italic>et al</italic>. Evaluation of stenoses using AI video models applied to coronary angiography. NPJ Digital Medicine. 2024; 7: 138. https://doi.org/10.1038/s41746-024-01134-4.--><person-group person-group-type="author">
+<name><surname>Labrecque Langlais</surname><given-names>&#x000c9;</given-names></name>
+<name><surname>Corbin</surname><given-names>D</given-names></name>
+<name><surname>Tastet</surname><given-names>O</given-names></name>
+<name><surname>Hayek</surname><given-names>A</given-names></name>
+<name><surname>Doolub</surname><given-names>G</given-names></name>
+<name><surname>Mrad</surname><given-names>S</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Evaluation of stenoses using AI video models applied to coronary angiography</article-title><source>
+<italic toggle="yes">NPJ Digital Medicine</italic>
+</source><year>2024</year><volume>7</volume><fpage>138</fpage><pub-id pub-id-type="doi">10.1038/s41746-024-01134-4</pub-id><pub-id pub-id-type="pmid">38783037</pub-id>
+</element-citation></ref><ref id="b15"><label>[15]</label><element-citation publication-type="journal"><!--Nagumo S, Collet C, Norgaard BL, Otake H, Ko B, Koo BK, <italic>et al</italic>. Rationale and design of the precise percutaneous coronary intervention plan (P3) study: Prospective evaluation of a virtual computed tomography-based percutaneous intervention planner. Clinical Cardiology. 2021; 44: 446&#x02013;454. https://doi.org/10.1002/clc.23551.--><person-group person-group-type="author">
+<name><surname>Nagumo</surname><given-names>S</given-names></name>
+<name><surname>Collet</surname><given-names>C</given-names></name>
+<name><surname>Norgaard</surname><given-names>BL</given-names></name>
+<name><surname>Otake</surname><given-names>H</given-names></name>
+<name><surname>Ko</surname><given-names>B</given-names></name>
+<name><surname>Koo</surname><given-names>BK</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Rationale and design of the precise percutaneous coronary intervention plan (P3) study: Prospective evaluation of a virtual computed tomography-based percutaneous intervention planner</article-title><source>
+<italic toggle="yes">Clinical Cardiology</italic>
+</source><year>2021</year><volume>44</volume><fpage>446</fpage><lpage>454</lpage><pub-id pub-id-type="doi">10.1002/clc.23551</pub-id><pub-id pub-id-type="pmid">33656754</pub-id>
+</element-citation></ref><ref id="b16"><label>[16]</label><element-citation publication-type="journal"><!--Sonck J, Nagumo S, Norgaard BL, Otake H, Ko B, Zhang J, <italic>et al</italic>. Clinical Validation of a Virtual Planner for Coronary Interventions Based on Coronary CT Angiography. JACC. Cardiovascular Imaging. 2022; 15: 1242&#x02013;1255. https://doi.org/10.1016/j.jcmg.2022.02.003.--><person-group person-group-type="author">
+<name><surname>Sonck</surname><given-names>J</given-names></name>
+<name><surname>Nagumo</surname><given-names>S</given-names></name>
+<name><surname>Norgaard</surname><given-names>BL</given-names></name>
+<name><surname>Otake</surname><given-names>H</given-names></name>
+<name><surname>Ko</surname><given-names>B</given-names></name>
+<name><surname>Zhang</surname><given-names>J</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Clinical Validation of a Virtual Planner for Coronary Interventions Based on Coronary CT Angiography</article-title><source>
+<italic toggle="yes">JACC. Cardiovascular Imaging</italic>
+</source><year>2022</year><volume>15</volume><fpage>1242</fpage><lpage>1255</lpage><pub-id pub-id-type="doi">10.1016/j.jcmg.2022.02.003</pub-id><pub-id pub-id-type="pmid">35798401</pub-id>
+</element-citation></ref><ref id="b17"><label>[17]</label><element-citation publication-type="journal"><!--Bottomley D, Thaldar D. Liability for harm caused by AI in healthcare: an overview of the core legal concepts [correction appears in Frontiers in Pharmacology. 2024; 15: 1366004. https://doi.org/10.3389/fphar.2024.1366004]. Frontiers in Pharmacology. 2023; 14: 1297353. https://doi.org/10.3389/fphar.2023.1297353.--><person-group person-group-type="author">
+<name><surname>Bottomley</surname><given-names>D</given-names></name>
+<name><surname>Thaldar</surname><given-names>D</given-names></name>
+</person-group><article-title>Liability for harm caused by AI in healthcare: an overview of the core legal concepts [correction appears in Frontiers in Pharmacology. 2024; 15: 1366004. https://doi.org/10.3389/fphar.2024.1366004]</article-title><source>
+<italic toggle="yes">Frontiers in Pharmacology</italic>
+</source><year>2023</year><volume>14</volume><fpage>1297353</fpage><pub-id pub-id-type="doi">10.3389/fphar.2023.1297353</pub-id><pub-id pub-id-type="pmid">38161692</pub-id>
+</element-citation></ref><ref id="b18"><label>[18]</label><element-citation publication-type="webpage"><!--US Food and Drug Administration. Predetermined Change Control Plans for Machine Learning-Enabled Medical Devices: Guiding Principles. 2023. Available at: https://www.fda.gov/media/173206/download?attachment (Accessed: 10 May 2025).--><person-group person-group-type="author">
+<collab>US Food and Drug Administration</collab>
+</person-group><article-title>Predetermined Change Control Plans for Machine Learning-Enabled Medical Devices: Guiding Principles</article-title><year>2023</year><comment>Available at:
+<ext-link xlink:href="https://www.fda.gov/media/173206/download?attachment" ext-link-type="uri">https://www.fda.gov/media/173206/download?attachment</ext-link>
+</comment><date-in-citation content-type="access-date" iso-8601-date="2025-05-10">(Accessed: 10 May 2025)</date-in-citation></element-citation></ref><ref id="b19"><label>[19]</label><element-citation publication-type="webpage"><!--European Commission. Artificial Intelligence Act. Proposal for a regulation of the European parliament and the council laying down harmonised rules on artificial intelligence (artificial intelligence act) and amending certain union legislative acts. 2021. Available at: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021PC0206 (Accessed: 4 May 2025).--><person-group person-group-type="author">
+<collab>European Commission</collab>
+</person-group><article-title>Artificial Intelligence Act. Proposal for a regulation of the European parliament and the council laying down harmonised rules on artificial intelligence (artificial intelligence act) and amending certain union legislative acts</article-title><year>2021</year><comment>Available at:
+<ext-link xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021PC0206" ext-link-type="uri">https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021PC0206</ext-link>
+</comment><date-in-citation content-type="access-date" iso-8601-date="2025-05-04">(Accessed: 4 May 2025)</date-in-citation></element-citation></ref><ref id="b20"><label>[20]</label><element-citation publication-type="webpage"><!--National Institute for Health and Care Excellence. Evidence standards framework for digital health technologies. 2018 (Last update 2022). Available at: https://www.nice.org.uk/corporate/ecd7/resources/evidence-standards-framework-for-digital-health-technologies-pdf-1124017457605 (Accessed: 11 May 2025).--><person-group person-group-type="author">
+<collab>National Institute for Health and Care Excellence</collab>
+</person-group><article-title>Evidence standards framework for digital health technologies. 2018 (Last update 2022)</article-title><comment>Available at:
+<ext-link xlink:href="https://www.nice.org.uk/corporate/ecd7/resources/evidence-standards-framework-for-digital-health-technologies-pdf-1124017457605" ext-link-type="uri">https://www.nice.org.uk/corporate/ecd7/resources/evidence-standards-framework-for-digital-health-technologies-pdf-1124017457605</ext-link>
+</comment><date-in-citation content-type="access-date" iso-8601-date="2025-05-11">(Accessed: 11 May 2025)</date-in-citation></element-citation></ref><ref id="b21"><label>[21]</label><element-citation publication-type="journal"><!--Muehlematter UJ, Daniore P, Vokinger KN. Approval of artificial intelligence and machine learning-based medical devices in the USA and Europe (2015-20): a comparative analysis. The Lancet. Digital Health. 2021; 3: e195&#x02013;e203. https://doi.org/10.1016/S2589-7500(20)30292-2.--><person-group person-group-type="author">
+<name><surname>Muehlematter</surname><given-names>UJ</given-names></name>
+<name><surname>Daniore</surname><given-names>P</given-names></name>
+<name><surname>Vokinger</surname><given-names>KN</given-names></name>
+</person-group><article-title>Approval of artificial intelligence and machine learning-based medical devices in the USA and Europe (2015-20): a comparative analysis</article-title><source>
+<italic toggle="yes">The Lancet. Digital Health</italic>
+</source><year>2021</year><volume>3</volume><fpage>e195</fpage><lpage>e203</lpage><pub-id pub-id-type="doi">10.1016/S2589-7500(20)30292-2</pub-id><pub-id pub-id-type="pmid">33478929</pub-id>
+</element-citation></ref><ref id="b22"><label>[22]</label><element-citation publication-type="journal"><!--Dinc R, Yerebakan H. Atlas Drug-Eluting Coronary Stents Inhibit Neointimal Hyperplasia in Sheep Modeling. Acta Cardiologica Sinica. 2024; 40: 585&#x02013;594. https://doi.org/10.6515/ACS.202409_40(5).20240618A.--><person-group person-group-type="author">
+<name><surname>Dinc</surname><given-names>R</given-names></name>
+<name><surname>Yerebakan</surname><given-names>H</given-names></name>
+</person-group><article-title>Atlas Drug-Eluting Coronary Stents Inhibit Neointimal Hyperplasia in Sheep Modeling</article-title><source>
+<italic toggle="yes">Acta Cardiologica Sinica</italic>
+</source><year>2024</year><volume>40</volume><fpage>585</fpage><lpage>594</lpage><pub-id pub-id-type="doi">10.6515/ACS.202409_40(5).20240618A</pub-id><pub-id pub-id-type="pmid">39308654</pub-id>
+</element-citation></ref><ref id="b23"><label>[23]</label><element-citation publication-type="journal"><!--Rzeszutko &#x00141;, Tokarek T, Siudak Z, Dziewierz A, &#x0017b;mudka K, Dudek D. Patient profile and periprocedural outcomes of bioresorbable vascular scaffold implantation in comparison with drug-eluting and bare-metal stent implantation. Experience from ORPKI Polish National Registry 2014-2015. Advances in Interventional Cardiology. 2016; 12: 321&#x02013;328. https://doi.org/10.5114/aic.2016.63632.--><person-group person-group-type="author">
+<name><surname>Rzeszutko</surname><given-names>&#x00141;</given-names></name>
+<name><surname>Tokarek</surname><given-names>T</given-names></name>
+<name><surname>Siudak</surname><given-names>Z</given-names></name>
+<name><surname>Dziewierz</surname><given-names>A</given-names></name>
+<name><surname>&#x0017b;mudka</surname><given-names>K</given-names></name>
+<name><surname>Dudek</surname><given-names>D</given-names></name>
+</person-group><article-title>Patient profile and periprocedural outcomes of bioresorbable vascular scaffold implantation in comparison with drug-eluting and bare-metal stent implantation. Experience from ORPKI Polish National Registry 2014-2015</article-title><source>
+<italic toggle="yes">Advances in Interventional Cardiology</italic>
+</source><year>2016</year><volume>12</volume><fpage>321</fpage><lpage>328</lpage><pub-id pub-id-type="doi">10.5114/aic.2016.63632</pub-id><pub-id pub-id-type="pmid">27980545</pub-id>
+</element-citation></ref><ref id="b24"><label>[24]</label><element-citation publication-type="journal"><!--Giacoppo D, Alfonso F, Xu B, Claessen BEPM, Adriaenssens T, Jensen C, <italic>et al</italic>. Drug-Coated Balloon Angioplasty Versus Drug-Eluting Stent Implantation in Patients With Coronary Stent Restenosis. Journal of the American College of Cardiology. 2020; 75: 2664&#x02013;2678. https://doi.org/10.1016/j.jacc.2020.04.006.--><person-group person-group-type="author">
+<name><surname>Giacoppo</surname><given-names>D</given-names></name>
+<name><surname>Alfonso</surname><given-names>F</given-names></name>
+<name><surname>Xu</surname><given-names>B</given-names></name>
+<name><surname>Claessen</surname><given-names>BEPM</given-names></name>
+<name><surname>Adriaenssens</surname><given-names>T</given-names></name>
+<name><surname>Jensen</surname><given-names>C</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Drug-Coated Balloon Angioplasty Versus Drug-Eluting Stent Implantation in Patients With Coronary Stent Restenosis</article-title><source>
+<italic toggle="yes">Journal of the American College of Cardiology</italic>
+</source><year>2020</year><volume>75</volume><fpage>2664</fpage><lpage>2678</lpage><pub-id pub-id-type="doi">10.1016/j.jacc.2020.04.006</pub-id><pub-id pub-id-type="pmid">32466881</pub-id>
+</element-citation></ref><ref id="b25"><label>[25]</label><element-citation publication-type="journal"><!--Kundu A, Moliterno DJ. Drug-Coated Balloons for In-Stent Restenosis-Finally Leaving Nothing Behind for US Patients. JAMA. 2024; 331: 1011&#x02013;1012. https://doi.org/10.1001/jama.2024.0813.--><person-group person-group-type="author">
+<name><surname>Kundu</surname><given-names>A</given-names></name>
+<name><surname>Moliterno</surname><given-names>DJ</given-names></name>
+</person-group><article-title>Drug-Coated Balloons for In-Stent Restenosis-Finally Leaving Nothing Behind for US Patients</article-title><source>
+<italic toggle="yes">JAMA</italic>
+</source><year>2024</year><volume>331</volume><fpage>1011</fpage><lpage>1012</lpage><pub-id pub-id-type="doi">10.1001/jama.2024.0813</pub-id><pub-id pub-id-type="pmid">38460158</pub-id>
+</element-citation></ref><ref id="b26"><label>[26]</label><element-citation publication-type="journal"><!--Scafa Udri&#x00219;te A, Niculescu AG, Grumezescu AM, B&#x00103;dil&#x00103; E. Cardiovascular Stents: A Review of Past, Current, and Emerging Devices. Materials. 2021; 14: 2498. https://doi.org/10.3390/ma14102498.--><person-group person-group-type="author">
+<name><surname>Scafa Udri&#x00219;te</surname><given-names>A</given-names></name>
+<name><surname>Niculescu</surname><given-names>AG</given-names></name>
+<name><surname>Grumezescu</surname><given-names>AM</given-names></name>
+<name><surname>B&#x00103;dil&#x00103;</surname><given-names>E</given-names></name>
+</person-group><article-title>Cardiovascular Stents: A Review of Past, Current, and Emerging Devices</article-title><source>
+<italic toggle="yes">Materials</italic>
+</source><year>2021</year><volume>14</volume><fpage>2498</fpage><pub-id pub-id-type="doi">10.3390/ma14102498</pub-id><pub-id pub-id-type="pmid">34065986</pub-id>
+</element-citation></ref><ref id="b27"><label>[27]</label><element-citation publication-type="journal"><!--Piccolo R, Bonaa KH, Efthimiou O, Varenne O, Baldo A, Urban P, <italic>et al</italic>. Drug-eluting or bare-metal stents for percutaneous coronary intervention: a systematic review and individual patient data meta-analysis of randomised clinical trials [published correction appears in Lancet. 2019; 393: 2492. https://doi.org/10.1016/S0140-6736(19)31324-8]. Lancet. 2019; 393: 2503&#x02013;2510. https://doi.org/10.1016/S0140-6736(19)30474-X.--><person-group person-group-type="author">
+<name><surname>Piccolo</surname><given-names>R</given-names></name>
+<name><surname>Bonaa</surname><given-names>KH</given-names></name>
+<name><surname>Efthimiou</surname><given-names>O</given-names></name>
+<name><surname>Varenne</surname><given-names>O</given-names></name>
+<name><surname>Baldo</surname><given-names>A</given-names></name>
+<name><surname>Urban</surname><given-names>P</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Drug-eluting or bare-metal stents for percutaneous coronary intervention: a systematic review and individual patient data meta-analysis of randomised clinical trials [published correction appears in Lancet. 2019; 393: 2492. https://doi.org/10.1016/S0140-6736(19)31324-8]</article-title><source>
+<italic toggle="yes">Lancet</italic>
+</source><year>2019</year><volume>393</volume><fpage>2503</fpage><lpage>2510</lpage><pub-id pub-id-type="doi">10.1016/S0140-6736(19)30474-X</pub-id><pub-id pub-id-type="pmid">31056295</pub-id>
+</element-citation></ref><ref id="b28"><label>[28]</label><element-citation publication-type="journal"><!--Schneider PA, Laird JR, Doros G, Gao Q, Ansel G, Brodmann M, <italic>et al</italic>. Mortality Not Correlated With Paclitaxel Exposure: An Independent Patient-Level Meta-Analysis of a Drug-Coated Balloon [published correction appears in Journal of the American College of Cardiology. 2019; 73: 2643&#x02013;2645. https://doi.org/10.1016/j.jacc.2019.02.029]. Journal of the American College of Cardiology. 2019; 73: 2550&#x02013;2563. https://doi.org/10.1016/j.jacc.2019.01.013.--><person-group person-group-type="author">
+<name><surname>Schneider</surname><given-names>PA</given-names></name>
+<name><surname>Laird</surname><given-names>JR</given-names></name>
+<name><surname>Doros</surname><given-names>G</given-names></name>
+<name><surname>Gao</surname><given-names>Q</given-names></name>
+<name><surname>Ansel</surname><given-names>G</given-names></name>
+<name><surname>Brodmann</surname><given-names>M</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Mortality Not Correlated With Paclitaxel Exposure: An Independent Patient-Level Meta-Analysis of a Drug-Coated Balloon [published correction appears in Journal of the American College of Cardiology. 2019; 73: 2643&#x02013;2645. https://doi.org/10.1016/j.jacc.2019.02.029]</article-title><source>
+<italic toggle="yes">Journal of the American College of Cardiology</italic>
+</source><year>2019</year><volume>73</volume><fpage>2550</fpage><lpage>2563</lpage><pub-id pub-id-type="doi">10.1016/j.jacc.2019.01.013</pub-id><pub-id pub-id-type="pmid">30690141</pub-id>
+</element-citation></ref><ref id="b29"><label>[29]</label><element-citation publication-type="journal"><!--Park DS, Na MH, Jeong MH, Sim DS, Jin YJ, Kee HJ, <italic>et al</italic>. Efficacy and Safety Evaluation of Tacrolimus-Eluting Stent in a Porcine Coronary Artery Model. Tissue Engineering and Regenerative Medicine. 2024; 21: 723&#x02013;735. https://doi.org/10.1007/s13770-024-00646-0.--><person-group person-group-type="author">
+<name><surname>Park</surname><given-names>DS</given-names></name>
+<name><surname>Na</surname><given-names>MH</given-names></name>
+<name><surname>Jeong</surname><given-names>MH</given-names></name>
+<name><surname>Sim</surname><given-names>DS</given-names></name>
+<name><surname>Jin</surname><given-names>YJ</given-names></name>
+<name><surname>Kee</surname><given-names>HJ</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Efficacy and Safety Evaluation of Tacrolimus-Eluting Stent in a Porcine Coronary Artery Model</article-title><source>
+<italic toggle="yes">Tissue Engineering and Regenerative Medicine</italic>
+</source><year>2024</year><volume>21</volume><fpage>723</fpage><lpage>735</lpage><pub-id pub-id-type="doi">10.1007/s13770-024-00646-0</pub-id><pub-id pub-id-type="pmid">38834902</pub-id>
+</element-citation></ref><ref id="b30"><label>[30]</label><element-citation publication-type="journal"><!--Razavi MK, Donohoe D, D&#x02019;Agostino RB, Jr, Jaff MR, Adams G, DANCE Investigators. Adventitial Drug Delivery of Dexamethasone to Improve Primary Patency in the Treatment of Superficial Femoral and Popliteal Artery Disease: 12-Month Results From the DANCE Clinical Trial. JACC. Cardiovascular Interventions. 2018; 11: 921&#x02013;931. https://doi.org/10.1016/j.jcin.2017.12.015.--><person-group person-group-type="author">
+<name><surname>Razavi</surname><given-names>MK</given-names></name>
+<name><surname>Donohoe</surname><given-names>D</given-names></name>
+<name><surname>D&#x02019;Agostino</surname><given-names>RB</given-names><suffix>Jr</suffix></name>
+<name><surname>Jaff</surname><given-names>MR</given-names></name>
+<name><surname>Adams</surname><given-names>G</given-names></name>
+<name><surname>DANCE</surname><given-names>Investigators</given-names></name>
+</person-group><article-title>Adventitial Drug Delivery of Dexamethasone to Improve Primary Patency in the Treatment of Superficial Femoral and Popliteal Artery Disease: 12-Month Results From the DANCE Clinical Trial</article-title><source>
+<italic toggle="yes">JACC. Cardiovascular Interventions</italic>
+</source><year>2018</year><volume>11</volume><fpage>921</fpage><lpage>931</lpage><pub-id pub-id-type="doi">10.1016/j.jcin.2017.12.015</pub-id><pub-id pub-id-type="pmid">29730377</pub-id>
+</element-citation></ref><ref id="b31"><label>[31]</label><element-citation publication-type="journal"><!--Klein LW, Nathan S, Maehara A, Messenger J, Mintz GS, Ali ZA, <italic>et al</italic>. SCAI Expert Consensus Statement on Management of In-Stent Restenosis and Stent Thrombosis. Journal of the Society for Cardiovascular Angiography & Interventions. 2023; 2: 100971. https://doi.org/10.1016/j.jscai.2023.100971.--><person-group person-group-type="author">
+<name><surname>Klein</surname><given-names>LW</given-names></name>
+<name><surname>Nathan</surname><given-names>S</given-names></name>
+<name><surname>Maehara</surname><given-names>A</given-names></name>
+<name><surname>Messenger</surname><given-names>J</given-names></name>
+<name><surname>Mintz</surname><given-names>GS</given-names></name>
+<name><surname>Ali</surname><given-names>ZA</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>SCAI Expert Consensus Statement on Management of In-Stent Restenosis and Stent Thrombosis</article-title><source>
+<italic toggle="yes">Journal of the Society for Cardiovascular Angiography &#x00026; Interventions</italic>
+</source><year>2023</year><volume>2</volume><fpage>100971</fpage><pub-id pub-id-type="doi">10.1016/j.jscai.2023.100971</pub-id><pub-id pub-id-type="pmid">39131655</pub-id>
+</element-citation></ref><ref id="b32"><label>[32]</label><element-citation publication-type="journal"><!--Kawai K, Rahman MT, Nowicki R, Kolodgie FD, Sakamoto A, Kawakami R, <italic>et al</italic>. Efficacy and Safety of Dual Paclitaxel and Sirolimus Nanoparticle-Coated Balloon. JACC. Basic to Translational Science. 2024; 9: 774&#x02013;789. https://doi.org/10.1016/j.jacbts.2024.02.002.--><person-group person-group-type="author">
+<name><surname>Kawai</surname><given-names>K</given-names></name>
+<name><surname>Rahman</surname><given-names>MT</given-names></name>
+<name><surname>Nowicki</surname><given-names>R</given-names></name>
+<name><surname>Kolodgie</surname><given-names>FD</given-names></name>
+<name><surname>Sakamoto</surname><given-names>A</given-names></name>
+<name><surname>Kawakami</surname><given-names>R</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Efficacy and Safety of Dual Paclitaxel and Sirolimus Nanoparticle-Coated Balloon</article-title><source>
+<italic toggle="yes">JACC. Basic to Translational Science</italic>
+</source><year>2024</year><volume>9</volume><fpage>774</fpage><lpage>789</lpage><pub-id pub-id-type="doi">10.1016/j.jacbts.2024.02.002</pub-id><pub-id pub-id-type="pmid">39070273</pub-id>
+</element-citation></ref><ref id="b33"><label>[33]</label><element-citation publication-type="journal"><!--Gen&#x000e7; H, Efthimiadou E, Cicha I. On-demand drug delivery: recent advances in cardiovascular applications. Frontiers in Drug Delivery. 2022; 2: 913225. https://doi.org/10.3389/fddev.2022.913225.--><person-group person-group-type="author">
+<name><surname>Gen&#x000e7;</surname><given-names>H</given-names></name>
+<name><surname>Efthimiadou</surname><given-names>E</given-names></name>
+<name><surname>Cicha</surname><given-names>I</given-names></name>
+</person-group><article-title>On-demand drug delivery: recent advances in cardiovascular applications</article-title><source>
+<italic toggle="yes">Frontiers in Drug Delivery</italic>
+</source><year>2022</year><volume>2</volume><fpage>913225</fpage><pub-id pub-id-type="doi">10.3389/fddev.2022.913225</pub-id></element-citation></ref><ref id="b34"><label>[34]</label><element-citation publication-type="journal"><!--Arroyo-Curr&#x000e1;s N, Ortega G, Copp DA, Ploense KL, Plaxco ZA, Kippin TE, <italic>et al</italic>. High-Precision Control of Plasma Drug Levels Using Feedback-Controlled Dosing. ACS Pharmacology & Translational Science. 2018; 1: 110&#x02013;118. https://doi.org/10.1021/acsptsci.8b00033.--><person-group person-group-type="author">
+<name><surname>Arroyo-Curr&#x000e1;s</surname><given-names>N</given-names></name>
+<name><surname>Ortega</surname><given-names>G</given-names></name>
+<name><surname>Copp</surname><given-names>DA</given-names></name>
+<name><surname>Ploense</surname><given-names>KL</given-names></name>
+<name><surname>Plaxco</surname><given-names>ZA</given-names></name>
+<name><surname>Kippin</surname><given-names>TE</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>High-Precision Control of Plasma Drug Levels Using Feedback-Controlled Dosing</article-title><source>
+<italic toggle="yes">ACS Pharmacology &#x00026; Translational Science</italic>
+</source><year>2018</year><volume>1</volume><fpage>110</fpage><lpage>118</lpage><pub-id pub-id-type="doi">10.1021/acsptsci.8b00033</pub-id><pub-id pub-id-type="pmid">32219207</pub-id>
+</element-citation></ref><ref id="b35"><label>[35]</label><element-citation publication-type="journal"><!--Matsumura M, Mintz GS, Dohi T, Li W, Shang A, Fall K, <italic>et al</italic>. Accuracy of IVUS-Based Machine Learning Segmentation Assessment of Coronary Artery Dimensions and Balloon Sizing. JACC. Advances. 2023; 2: 100564. https://doi.org/10.1016/j.jacadv.2023.100564.--><person-group person-group-type="author">
+<name><surname>Matsumura</surname><given-names>M</given-names></name>
+<name><surname>Mintz</surname><given-names>GS</given-names></name>
+<name><surname>Dohi</surname><given-names>T</given-names></name>
+<name><surname>Li</surname><given-names>W</given-names></name>
+<name><surname>Shang</surname><given-names>A</given-names></name>
+<name><surname>Fall</surname><given-names>K</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Accuracy of IVUS-Based Machine Learning Segmentation Assessment of Coronary Artery Dimensions and Balloon Sizing</article-title><source>
+<italic toggle="yes">JACC. Advances</italic>
+</source><year>2023</year><volume>2</volume><fpage>100564</fpage><pub-id pub-id-type="doi">10.1016/j.jacadv.2023.100564</pub-id><pub-id pub-id-type="pmid">38939499</pub-id>
+</element-citation></ref><ref id="b36"><label>[36]</label><element-citation publication-type="journal"><!--Sampedro-G&#x000f3;mez J, Dorado-D&#x000ed;az PI, Vicente-Palacios V, S&#x000e1;nchez-Puente A, Jim&#x000e9;nez-Navarro M, San Roman JA, <italic>et al</italic>. Machine Learning to Predict Stent Restenosis Based on Daily Demographic, Clinical, and Angiographic Characteristics. The Canadian Journal of Cardiology. 2020; 36: 1624&#x02013;1632. https://doi.org/10.1016/j.cjca.2020.01.027.--><person-group person-group-type="author">
+<name><surname>Sampedro-G&#x000f3;mez</surname><given-names>J</given-names></name>
+<name><surname>Dorado-D&#x000ed;az</surname><given-names>PI</given-names></name>
+<name><surname>Vicente-Palacios</surname><given-names>V</given-names></name>
+<name><surname>S&#x000e1;nchez-Puente</surname><given-names>A</given-names></name>
+<name><surname>Jim&#x000e9;nez-Navarro</surname><given-names>M</given-names></name>
+<name><surname>San Roman</surname><given-names>JA</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Machine Learning to Predict Stent Restenosis Based on Daily Demographic, Clinical, and Angiographic Characteristics</article-title><source>
+<italic toggle="yes">The Canadian Journal of Cardiology</italic>
+</source><year>2020</year><volume>36</volume><fpage>1624</fpage><lpage>1632</lpage><pub-id pub-id-type="doi">10.1016/j.cjca.2020.01.027</pub-id><pub-id pub-id-type="pmid">32311312</pub-id>
+</element-citation></ref><ref id="b37"><label>[37]</label><element-citation publication-type="journal"><!--Hou Y, Cui E, Ikramuddin S, Zhang R. Association of Physical Activity from Wearable Devices and Chronic Disease Risk: Insights from the All of Us Research Program. medRxiv. 2024. https://doi.org/10.1101/2024.11.11.24317124. (preprint)--><person-group person-group-type="author">
+<name><surname>Hou</surname><given-names>Y</given-names></name>
+<name><surname>Cui</surname><given-names>E</given-names></name>
+<name><surname>Ikramuddin</surname><given-names>S</given-names></name>
+<name><surname>Zhang</surname><given-names>R</given-names></name>
+</person-group><article-title>Association of Physical Activity from Wearable Devices and Chronic Disease Risk: Insights from the All of Us Research Program</article-title><source>
+<italic toggle="yes">medRxiv</italic>
+</source><year>2024</year><comment>preprint</comment><pub-id pub-id-type="doi">10.1101/2024.11.11.24317124</pub-id></element-citation></ref><ref id="b38"><label>[38]</label><element-citation publication-type="journal"><!--Alowais SA, Alghamdi SS, Alsuhebany N, Alqahtani T, Alshaya AI, Almohareb SN, <italic>et al</italic>. Revolutionizing healthcare: the role of artificial intelligence in clinical practice. BMC Medical Education. 2023; 23: 689. https://doi.org/10.1186/s12909-023-04698-z.--><person-group person-group-type="author">
+<name><surname>Alowais</surname><given-names>SA</given-names></name>
+<name><surname>Alghamdi</surname><given-names>SS</given-names></name>
+<name><surname>Alsuhebany</surname><given-names>N</given-names></name>
+<name><surname>Alqahtani</surname><given-names>T</given-names></name>
+<name><surname>Alshaya</surname><given-names>AI</given-names></name>
+<name><surname>Almohareb</surname><given-names>SN</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Revolutionizing healthcare: the role of artificial intelligence in clinical practice</article-title><source>
+<italic toggle="yes">BMC Medical Education</italic>
+</source><year>2023</year><volume>23</volume><fpage>689</fpage><pub-id pub-id-type="doi">10.1186/s12909-023-04698-z</pub-id><pub-id pub-id-type="pmid">37740191</pub-id>
+</element-citation></ref><ref id="b39"><label>[39]</label><element-citation publication-type="journal"><!--Ghassemi M, Oakden-Rayner L, Beam AL. The false hope of current approaches to explainable artificial intelligence in health care. The Lancet. Digital Health. 2021; 3: e745&#x02013;e750. https://doi.org/10.1016/S2589-7500(21)00208-9.--><person-group person-group-type="author">
+<name><surname>Ghassemi</surname><given-names>M</given-names></name>
+<name><surname>Oakden-Rayner</surname><given-names>L</given-names></name>
+<name><surname>Beam</surname><given-names>AL</given-names></name>
+</person-group><article-title>The false hope of current approaches to explainable artificial intelligence in health care</article-title><source>
+<italic toggle="yes">The Lancet. Digital Health</italic>
+</source><year>2021</year><volume>3</volume><fpage>e745</fpage><lpage>e750</lpage><pub-id pub-id-type="doi">10.1016/S2589-7500(21)00208-9</pub-id><pub-id pub-id-type="pmid">34711379</pub-id>
+</element-citation></ref><ref id="b40"><label>[40]</label><element-citation publication-type="journal"><!--Hamilton DE, Albright J, Seth M, Painter I, Maynard C, Hira RS, <italic>et al</italic>. Merging machine learning and patient preference: a novel tool for risk prediction of percutaneous coronary interventions. European Heart Journal. 2024; 45: 601&#x02013;609. https://doi.org/10.1093/eurheartj/ehad836.--><person-group person-group-type="author">
+<name><surname>Hamilton</surname><given-names>DE</given-names></name>
+<name><surname>Albright</surname><given-names>J</given-names></name>
+<name><surname>Seth</surname><given-names>M</given-names></name>
+<name><surname>Painter</surname><given-names>I</given-names></name>
+<name><surname>Maynard</surname><given-names>C</given-names></name>
+<name><surname>Hira</surname><given-names>RS</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Merging machine learning and patient preference: a novel tool for risk prediction of percutaneous coronary interventions</article-title><source>
+<italic toggle="yes">European Heart Journal</italic>
+</source><year>2024</year><volume>45</volume><fpage>601</fpage><lpage>609</lpage><pub-id pub-id-type="doi">10.1093/eurheartj/ehad836</pub-id><pub-id pub-id-type="pmid">38233027</pub-id>
+</element-citation></ref><ref id="b41"><label>[41]</label><element-citation publication-type="journal"><!--Houssein EH, Mohamed RE, Hu G, Ali AA. Adapting transformer-based language models for heart disease detection and risk factors extraction. Journal of Big Data. 2024; 11: 47. https://doi.org/10.1186/s40537-024-00903-y.--><person-group person-group-type="author">
+<name><surname>Houssein</surname><given-names>EH</given-names></name>
+<name><surname>Mohamed</surname><given-names>RE</given-names></name>
+<name><surname>Hu</surname><given-names>G</given-names></name>
+<name><surname>Ali</surname><given-names>AA</given-names></name>
+</person-group><article-title>Adapting transformer-based language models for heart disease detection and risk factors extraction</article-title><source>
+<italic toggle="yes">Journal of Big Data</italic>
+</source><year>2024</year><volume>11</volume><fpage>47</fpage><pub-id pub-id-type="doi">10.1186/s40537-024-00903-y</pub-id></element-citation></ref><ref id="b42"><label>[42]</label><element-citation publication-type="journal"><!--Chang Junior J, Caneo LF, Turquetto ALR, Amato LP, Arita ECTC, Fernandes AMDS, <italic>et al</italic>. Predictors of in-ICU length of stay among congenital heart defect patients using artificial intelligence model: A pilot study. Heliyon. 2024; 10: e25406. https://doi.org/10.1016/j.heliyon.2024.e25406.--><person-group person-group-type="author">
+<name><surname>Chang Junior</surname><given-names>J</given-names></name>
+<name><surname>Caneo</surname><given-names>LF</given-names></name>
+<name><surname>Turquetto</surname><given-names>ALR</given-names></name>
+<name><surname>Amato</surname><given-names>LP</given-names></name>
+<name><surname>Arita</surname><given-names>ECTC</given-names></name>
+<name><surname>Fernandes</surname><given-names>AMDS</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Predictors of in-ICU length of stay among congenital heart defect patients using artificial intelligence model: A pilot study</article-title><source>
+<italic toggle="yes">Heliyon</italic>
+</source><year>2024</year><volume>10</volume><fpage>e25406</fpage><pub-id pub-id-type="doi">10.1016/j.heliyon.2024.e25406</pub-id><pub-id pub-id-type="pmid">38370176</pub-id>
+</element-citation></ref><ref id="b43"><label>[43]</label><element-citation publication-type="journal"><!--Kocak B, Klontzas ME, Stanzione A, Meddeb A, Demircio&#x0011f;lu A, Bluethgen C, <italic>et al</italic>. Evaluation metrics in medical imaging AI: fundamentals, pitfalls, misapplications, and recommendations. European Journal of Radiology Artificial Intelligence. 2025; 100030. https://doi.org/10.1016/j.ejrai.2025.100030.--><person-group person-group-type="author">
+<name><surname>Kocak</surname><given-names>B</given-names></name>
+<name><surname>Klontzas</surname><given-names>ME</given-names></name>
+<name><surname>Stanzione</surname><given-names>A</given-names></name>
+<name><surname>Meddeb</surname><given-names>A</given-names></name>
+<name><surname>Demircio&#x0011f;lu</surname><given-names>A</given-names></name>
+<name><surname>Bluethgen</surname><given-names>C</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Evaluation metrics in medical imaging AI: fundamentals, pitfalls, misapplications, and recommendations</article-title><source>
+<italic toggle="yes">European Journal of Radiology Artificial Intelligence</italic>
+</source><year>2025</year><fpage>100030</fpage><pub-id pub-id-type="doi">10.1016/j.ejrai.2025.100030</pub-id></element-citation></ref><ref id="b44"><label>[44]</label><element-citation publication-type="journal"><!--Chowdhury MA, Rizk R, Chiu C, Zhang JJ, Scholl JL, Bosch TJ, <italic>et al</italic>. The Heart of Transformation: Exploring Artificial Intelligence in Cardiovascular Disease. Biomedicines. 2025; 13: 427. https://doi.org/10.3390/biomedicines13020427.--><person-group person-group-type="author">
+<name><surname>Chowdhury</surname><given-names>MA</given-names></name>
+<name><surname>Rizk</surname><given-names>R</given-names></name>
+<name><surname>Chiu</surname><given-names>C</given-names></name>
+<name><surname>Zhang</surname><given-names>JJ</given-names></name>
+<name><surname>Scholl</surname><given-names>JL</given-names></name>
+<name><surname>Bosch</surname><given-names>TJ</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>The Heart of Transformation: Exploring Artificial Intelligence in Cardiovascular Disease</article-title><source>
+<italic toggle="yes">Biomedicines</italic>
+</source><year>2025</year><volume>13</volume><fpage>427</fpage><pub-id pub-id-type="doi">10.3390/biomedicines13020427</pub-id><pub-id pub-id-type="pmid">40002840</pub-id>
+</element-citation></ref><ref id="b45"><label>[45]</label><element-citation publication-type="journal"><!--Cioffi GM, Pinilla-Echeverri N, Sheth T, Sibbald MG. Does artificial intelligence enhance physician interpretation of optical coherence tomography: insights from eye tracking. Frontiers in Cardiovascular Medicine. 2023; 10: 1283338. https://doi.org/10.3389/fcvm.2023.1283338.--><person-group person-group-type="author">
+<name><surname>Cioffi</surname><given-names>GM</given-names></name>
+<name><surname>Pinilla-Echeverri</surname><given-names>N</given-names></name>
+<name><surname>Sheth</surname><given-names>T</given-names></name>
+<name><surname>Sibbald</surname><given-names>MG</given-names></name>
+</person-group><article-title>Does artificial intelligence enhance physician interpretation of optical coherence tomography: insights from eye tracking</article-title><source>
+<italic toggle="yes">Frontiers in Cardiovascular Medicine</italic>
+</source><year>2023</year><volume>10</volume><fpage>1283338</fpage><pub-id pub-id-type="doi">10.3389/fcvm.2023.1283338</pub-id><pub-id pub-id-type="pmid">38144364</pub-id>
+</element-citation></ref><ref id="b46"><label>[46]</label><element-citation publication-type="journal"><!--Zhang Y, Feng Y, Sun J, Zhang L, Ding Z, Wang L, <italic>et al</italic>. Fully automated artificial intelligence-based coronary CT angiography image processing: efficiency, diagnostic capability, and risk stratification. European Radiology. 2024; 34: 4909&#x02013;4919. https://doi.org/10.1007/s00330-023-10494-6.--><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Y</given-names></name>
+<name><surname>Feng</surname><given-names>Y</given-names></name>
+<name><surname>Sun</surname><given-names>J</given-names></name>
+<name><surname>Zhang</surname><given-names>L</given-names></name>
+<name><surname>Ding</surname><given-names>Z</given-names></name>
+<name><surname>Wang</surname><given-names>L</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Fully automated artificial intelligence-based coronary CT angiography image processing: efficiency, diagnostic capability, and risk stratification</article-title><source>
+<italic toggle="yes">European Radiology</italic>
+</source><year>2024</year><volume>34</volume><fpage>4909</fpage><lpage>4919</lpage><pub-id pub-id-type="doi">10.1007/s00330-023-10494-6</pub-id><pub-id pub-id-type="pmid">38193925</pub-id>
+</element-citation></ref><ref id="b47"><label>[47]</label><element-citation publication-type="journal"><!--Wang Y, Liu C, Hu W, Luo L, Shi D, Zhang J, <italic>et al</italic>. Economic evaluation for medical artificial intelligence: accuracy vs. cost-effectiveness in a diabetic retinopathy screening case. NPJ Digital Medicine. 2024; 7: 43. https://doi.org/10.1038/s41746-024-01032-9.--><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y</given-names></name>
+<name><surname>Liu</surname><given-names>C</given-names></name>
+<name><surname>Hu</surname><given-names>W</given-names></name>
+<name><surname>Luo</surname><given-names>L</given-names></name>
+<name><surname>Shi</surname><given-names>D</given-names></name>
+<name><surname>Zhang</surname><given-names>J</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Economic evaluation for medical artificial intelligence: accuracy vs. cost-effectiveness in a diabetic retinopathy screening case</article-title><source>
+<italic toggle="yes">NPJ Digital Medicine</italic>
+</source><year>2024</year><volume>7</volume><fpage>43</fpage><pub-id pub-id-type="doi">10.1038/s41746-024-01032-9</pub-id><pub-id pub-id-type="pmid">38383738</pub-id>
+</element-citation></ref><ref id="b48"><label>[48]</label><element-citation publication-type="journal"><!--Ybarra LF, Piazza N. Expanding the Role of Coronary Computed Tomography Angiography in Interventional Cardiology. Circulation. 2022; 145: 5&#x02013;7. https://doi.org/10.1161/CIRCULATIONAHA.121.053038.--><person-group person-group-type="author">
+<name><surname>Ybarra</surname><given-names>LF</given-names></name>
+<name><surname>Piazza</surname><given-names>N</given-names></name>
+</person-group><article-title>Expanding the Role of Coronary Computed Tomography Angiography in Interventional Cardiology</article-title><source>
+<italic toggle="yes">Circulation</italic>
+</source><year>2022</year><volume>145</volume><fpage>5</fpage><lpage>7</lpage><pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.121.053038</pub-id><pub-id pub-id-type="pmid">34965167</pub-id>
+</element-citation></ref><ref id="b49"><label>[49]</label><element-citation publication-type="book"><!--Pandey PK, Pandey PK, Mahajan S, Paul J, Iyer S. Digital Twin and Virtual Reality, Augmented Reality, and Mixed Reality. In Iyer S, Nayyar A, Paul A, Naved M (eds.) Digital Twins for Smart Cities and Villages (pp. 273&#x02013;293). Elsevier: Amsterdam, Netherland, 2025. https://doi.org/10.1016/B978-0-443-28884-5.00013-0.--><person-group person-group-type="author">
+<name><surname>Pandey</surname><given-names>PK</given-names></name>
+<name><surname>Pandey</surname><given-names>PK</given-names></name>
+<name><surname>Mahajan</surname><given-names>S</given-names></name>
+<name><surname>Paul</surname><given-names>J</given-names></name>
+<name><surname>Iyer</surname><given-names>S</given-names></name>
+</person-group><article-title>Digital Twin and Virtual Reality, Augmented Reality, and Mixed Reality</article-title><source>
+<italic toggle="yes">Digital Twins for Smart Cities and Villages</italic>
+</source><person-group person-group-type="editor">
+<name><surname>Iyer</surname><given-names>S</given-names></name>
+<name><surname>Nayyar</surname><given-names>A</given-names></name>
+<name><surname>Paul</surname><given-names>A</given-names></name>
+<name><surname>Naved</surname><given-names>M</given-names></name>
+</person-group><publisher-name>Elsevier</publisher-name><publisher-loc>Amsterdam, Netherland</publisher-loc><year>2025</year><fpage>273</fpage><lpage>293</lpage><pub-id pub-id-type="doi">10.1016/B978-0-443-28884-5.00013-0</pub-id></element-citation></ref><ref id="b50"><label>[50]</label><element-citation publication-type="journal"><!--Korzeniowski P, White RJ, Bello F. VCSim3: a VR simulator for cardiovascular interventions. International Journal of Computer Assisted Radiology and Surgery. 2018; 13: 135&#x02013;149. https://doi.org/10.1007/s11548-017-1679-1.--><person-group person-group-type="author">
+<name><surname>Korzeniowski</surname><given-names>P</given-names></name>
+<name><surname>White</surname><given-names>RJ</given-names></name>
+<name><surname>Bello</surname><given-names>F</given-names></name>
+</person-group><article-title>VCSim3: a VR simulator for cardiovascular interventions</article-title><source>
+<italic toggle="yes">International Journal of Computer Assisted Radiology and Surgery</italic>
+</source><year>2018</year><volume>13</volume><fpage>135</fpage><lpage>149</lpage><pub-id pub-id-type="doi">10.1007/s11548-017-1679-1</pub-id><pub-id pub-id-type="pmid">29079992</pub-id>
+</element-citation></ref><ref id="b51"><label>[51]</label><element-citation publication-type="journal"><!--Bouden C. Towards an optimization of catheter guidance in vascular surgery: A comparative analysis of the contribution of reinforcement learning. Intelligent Surgery. 2024; 7: 53&#x02013;61. https://doi.org/10.1016/j.isurg.2024.07.002.--><person-group person-group-type="author">
+<name><surname>Bouden</surname><given-names>C</given-names></name>
+</person-group><article-title>Towards an optimization of catheter guidance in vascular surgery: A comparative analysis of the contribution of reinforcement learning</article-title><source>
+<italic toggle="yes">Intelligent Surgery</italic>
+</source><year>2024</year><volume>7</volume><fpage>53</fpage><lpage>61</lpage><pub-id pub-id-type="doi">10.1016/j.isurg.2024.07.002</pub-id></element-citation></ref><ref id="b52"><label>[52]</label><element-citation publication-type="journal"><!--Fujino A, Mintz GS, Matsumura M, Lee T, Kim SY, Hoshino M, <italic>et al</italic>. A new optical coherence tomography-based calcium scoring system to predict stent underexpansion. EuroIntervention. 2018; 13: e2182&#x02013;e2189. https://doi.org/10.4244/EIJ-D-17-00962.--><person-group person-group-type="author">
+<name><surname>Fujino</surname><given-names>A</given-names></name>
+<name><surname>Mintz</surname><given-names>GS</given-names></name>
+<name><surname>Matsumura</surname><given-names>M</given-names></name>
+<name><surname>Lee</surname><given-names>T</given-names></name>
+<name><surname>Kim</surname><given-names>SY</given-names></name>
+<name><surname>Hoshino</surname><given-names>M</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>A new optical coherence tomography-based calcium scoring system to predict stent underexpansion</article-title><source>
+<italic toggle="yes">EuroIntervention</italic>
+</source><year>2018</year><volume>13</volume><fpage>e2182</fpage><lpage>e2189</lpage><pub-id pub-id-type="doi">10.4244/EIJ-D-17-00962</pub-id><pub-id pub-id-type="pmid">29400655</pub-id>
+</element-citation></ref><ref id="b53"><label>[53]</label><element-citation publication-type="journal"><!--Ughi GJ, Marosfoi MG, King RM, Caroff J, Peterson LM, Duncan BH, <italic>et al</italic>. A neurovascular high-frequency optical coherence tomography system enables in situ cerebrovascular volumetric microscopy. Nature Communications. 2020; 11: 3851. https://doi.org/10.1038/s41467-020-17702-7.--><person-group person-group-type="author">
+<name><surname>Ughi</surname><given-names>GJ</given-names></name>
+<name><surname>Marosfoi</surname><given-names>MG</given-names></name>
+<name><surname>King</surname><given-names>RM</given-names></name>
+<name><surname>Caroff</surname><given-names>J</given-names></name>
+<name><surname>Peterson</surname><given-names>LM</given-names></name>
+<name><surname>Duncan</surname><given-names>BH</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>A neurovascular high-frequency optical coherence tomography system enables in situ cerebrovascular volumetric microscopy</article-title><source>
+<italic toggle="yes">Nature Communications</italic>
+</source><year>2020</year><volume>11</volume><fpage>3851</fpage><pub-id pub-id-type="doi">10.1038/s41467-020-17702-7</pub-id></element-citation></ref><ref id="b54"><label>[54]</label><element-citation publication-type="journal"><!--Chatigny P, B&#x000e9;langer C, Poulin &#x000c9;, Beaulieu L. PSOR03 Presentation Time: 11: 40 AM: Reinforcement Learning Algorithm for Catheter Optimization in HDR Prostate Brachytherapy. Brachytherapy. 2024; 23: S80&#x02013;S81. https://doi.org/10.1016/j.brachy.2024.08.113.--><person-group person-group-type="author">
+<name><surname>Chatigny</surname><given-names>P</given-names></name>
+<name><surname>B&#x000e9;langer</surname><given-names>C</given-names></name>
+<name><surname>Poulin</surname><given-names>&#x000c9;</given-names></name>
+<name><surname>Beaulieu</surname><given-names>L</given-names></name>
+</person-group><article-title>PSOR03 Presentation Time: 11: 40 AM: Reinforcement Learning Algorithm for Catheter Optimization in HDR Prostate Brachytherapy</article-title><source>
+<italic toggle="yes">Brachytherapy</italic>
+</source><year>2024</year><volume>23</volume><fpage>S80</fpage><lpage>S81</lpage><pub-id pub-id-type="doi">10.1016/j.brachy.2024.08.113</pub-id></element-citation></ref><ref id="b55"><label>[55]</label><element-citation publication-type="journal"><!--You H, Bae E, Moon Y, Kweon J, Choi J. Automatic control of cardiac ablation catheter with deep reinforcement learning method. Journal of Mechanical Science and Technology. 2019; 33: 5415&#x02013;5423. https://doi.org/10.1007/s12206-019-1036-0.--><person-group person-group-type="author">
+<name><surname>You</surname><given-names>H</given-names></name>
+<name><surname>Bae</surname><given-names>E</given-names></name>
+<name><surname>Moon</surname><given-names>Y</given-names></name>
+<name><surname>Kweon</surname><given-names>J</given-names></name>
+<name><surname>Choi</surname><given-names>J</given-names></name>
+</person-group><article-title>Automatic control of cardiac ablation catheter with deep reinforcement learning method</article-title><source>
+<italic toggle="yes">Journal of Mechanical Science and Technology</italic>
+</source><year>2019</year><volume>33</volume><fpage>5415</fpage><lpage>5423</lpage><pub-id pub-id-type="doi">10.1007/s12206-019-1036-0</pub-id></element-citation></ref><ref id="b56"><label>[56]</label><element-citation publication-type="journal"><!--Opolski MP, Debski A, Borucki BA, Staruch AD, Kepka C, Rokicki JK, <italic>et al</italic>. Feasibility and safety of augmented-reality glass for computed tomography-assisted percutaneous revascularization of coronary chronic total occlusion: A single center prospective pilot study. Journal of Cardiovascular Computed Tomography. 2017; 11: 489&#x02013;496. https://doi.org/10.1016/j.jcct.2017.09.013.--><person-group person-group-type="author">
+<name><surname>Opolski</surname><given-names>MP</given-names></name>
+<name><surname>Debski</surname><given-names>A</given-names></name>
+<name><surname>Borucki</surname><given-names>BA</given-names></name>
+<name><surname>Staruch</surname><given-names>AD</given-names></name>
+<name><surname>Kepka</surname><given-names>C</given-names></name>
+<name><surname>Rokicki</surname><given-names>JK</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Feasibility and safety of augmented-reality glass for computed tomography-assisted percutaneous revascularization of coronary chronic total occlusion: A single center prospective pilot study</article-title><source>
+<italic toggle="yes">Journal of Cardiovascular Computed Tomography</italic>
+</source><year>2017</year><volume>11</volume><fpage>489</fpage><lpage>496</lpage><pub-id pub-id-type="doi">10.1016/j.jcct.2017.09.013</pub-id><pub-id pub-id-type="pmid">28964751</pub-id>
+</element-citation></ref><ref id="b57"><label>[57]</label><element-citation publication-type="journal"><!--Nimmagadda N, Aboian E, Kiang S, Fischer U. The Role of Artificial Intelligence in Vascular Care. JVS-Vascular Insights. 2024; 3: 100179. https://doi.org/10.1016/j.jvsvi.2024.100179.--><person-group person-group-type="author">
+<name><surname>Nimmagadda</surname><given-names>N</given-names></name>
+<name><surname>Aboian</surname><given-names>E</given-names></name>
+<name><surname>Kiang</surname><given-names>S</given-names></name>
+<name><surname>Fischer</surname><given-names>U</given-names></name>
+</person-group><article-title>The Role of Artificial Intelligence in Vascular Care</article-title><source>
+<italic toggle="yes">JVS-Vascular Insights</italic>
+</source><year>2024</year><volume>3</volume><fpage>100179</fpage><pub-id pub-id-type="doi">10.1016/j.jvsvi.2024.100179</pub-id></element-citation></ref><ref id="b58"><label>[58]</label><element-citation publication-type="journal"><!--Stevenson A, Kirresh A, Ahmad M, Candilio L. Robotic-Assisted PCI: The Future of Coronary Intervention? Cardiovascular Revascularization Medicine. 2022; 35: 161&#x02013;168. https://doi.org/10.1016/j.carrev.2021.03.025.--><person-group person-group-type="author">
+<name><surname>Stevenson</surname><given-names>A</given-names></name>
+<name><surname>Kirresh</surname><given-names>A</given-names></name>
+<name><surname>Ahmad</surname><given-names>M</given-names></name>
+<name><surname>Candilio</surname><given-names>L</given-names></name>
+</person-group><article-title>Robotic-Assisted PCI: The Future of Coronary Intervention?</article-title><source>
+<italic toggle="yes">Cardiovascular Revascularization Medicine</italic>
+</source><year>2022</year><volume>35</volume><fpage>161</fpage><lpage>168</lpage><pub-id pub-id-type="doi">10.1016/j.carrev.2021.03.025</pub-id><pub-id pub-id-type="pmid">33867293</pub-id>
+</element-citation></ref><ref id="b59"><label>[59]</label><element-citation publication-type="journal"><!--Cerrato E, Mej&#x000ed;a-Renter&#x000ed;a H, Dehbi HM, Ahn JM, Cook C, Dupouy P, <italic>et al</italic>. Revascularization Deferral of Nonculprit Stenoses on the Basis of Fractional Flow Reserve: 1-Year Outcomes of 8,579 Patients. JACC. Cardiovascular Interventions. 2020; 13: 1894&#x02013;1903. https://doi.org/10.1016/j.jcin.2020.05.024.--><person-group person-group-type="author">
+<name><surname>Cerrato</surname><given-names>E</given-names></name>
+<name><surname>Mej&#x000ed;a-Renter&#x000ed;a</surname><given-names>H</given-names></name>
+<name><surname>Dehbi</surname><given-names>HM</given-names></name>
+<name><surname>Ahn</surname><given-names>JM</given-names></name>
+<name><surname>Cook</surname><given-names>C</given-names></name>
+<name><surname>Dupouy</surname><given-names>P</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Revascularization Deferral of Nonculprit Stenoses on the Basis of Fractional Flow Reserve: 1-Year Outcomes of 8,579 Patients</article-title><source>
+<italic toggle="yes">JACC. Cardiovascular Interventions</italic>
+</source><year>2020</year><volume>13</volume><fpage>1894</fpage><lpage>1903</lpage><pub-id pub-id-type="doi">10.1016/j.jcin.2020.05.024</pub-id><pub-id pub-id-type="pmid">32739305</pub-id>
+</element-citation></ref><ref id="b60"><label>[60]</label><element-citation publication-type="journal"><!--Qian Y, Wanlin L, Maofeng W. Machine learning derived model for the prediction of bleeding in dual antiplatelet therapy patients. Frontiers in Cardiovascular Medicine. 2024; 11: 1402672. https://doi.org/10.3389/fcvm.2024.1402672.--><person-group person-group-type="author">
+<name><surname>Qian</surname><given-names>Y</given-names></name>
+<name><surname>Wanlin</surname><given-names>L</given-names></name>
+<name><surname>Maofeng</surname><given-names>W</given-names></name>
+</person-group><article-title>Machine learning derived model for the prediction of bleeding in dual antiplatelet therapy patients</article-title><source>
+<italic toggle="yes">Frontiers in Cardiovascular Medicine</italic>
+</source><year>2024</year><volume>11</volume><fpage>1402672</fpage><pub-id pub-id-type="doi">10.3389/fcvm.2024.1402672</pub-id><pub-id pub-id-type="pmid">39416431</pub-id>
+</element-citation></ref><ref id="b61"><label>[61]</label><element-citation publication-type="journal"><!--Shahryari Fard S, Perkins TJ, Wells PS. A deep-learning approach to predict bleeding risk over time in patients on extended anticoagulation therapy. Journal of Thrombosis and Haemostasis. 2024; 22: 1997&#x02013;2008. https://doi.org/10.1016/j.jtha.2024.04.005.--><person-group person-group-type="author">
+<name><surname>Shahryari Fard</surname><given-names>S</given-names></name>
+<name><surname>Perkins</surname><given-names>TJ</given-names></name>
+<name><surname>Wells</surname><given-names>PS</given-names></name>
+</person-group><article-title>A deep-learning approach to predict bleeding risk over time in patients on extended anticoagulation therapy</article-title><source>
+<italic toggle="yes">Journal of Thrombosis and Haemostasis</italic>
+</source><year>2024</year><volume>22</volume><fpage>1997</fpage><lpage>2008</lpage><pub-id pub-id-type="doi">10.1016/j.jtha.2024.04.005</pub-id><pub-id pub-id-type="pmid">38642704</pub-id>
+</element-citation></ref><ref id="b62"><label>[62]</label><element-citation publication-type="journal"><!--Yannakula VK, Alluri AA, Samuel D, Popoola SA, Barake BA, Alabbasi A, <italic>et al</italic>. The Role of Artificial Intelligence in Providing Real-Time Guidance During Interventional Cardiology Procedures: A Narrative Review. Cureus. 2025; 17: e83464. https://doi.org/10.7759/cureus.83464.--><person-group person-group-type="author">
+<name><surname>Yannakula</surname><given-names>VK</given-names></name>
+<name><surname>Alluri</surname><given-names>AA</given-names></name>
+<name><surname>Samuel</surname><given-names>D</given-names></name>
+<name><surname>Popoola</surname><given-names>SA</given-names></name>
+<name><surname>Barake</surname><given-names>BA</given-names></name>
+<name><surname>Alabbasi</surname><given-names>A</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>The Role of Artificial Intelligence in Providing Real-Time Guidance During Interventional Cardiology Procedures: A Narrative Review</article-title><source>
+<italic toggle="yes">Cureus</italic>
+</source><year>2025</year><volume>17</volume><fpage>e83464</fpage><pub-id pub-id-type="doi">10.7759/cureus.83464</pub-id><pub-id pub-id-type="pmid">40322608</pub-id>
+</element-citation></ref><ref id="b63"><label>[63]</label><element-citation publication-type="journal"><!--Chatzizisis YS, Edelman ER. Revolutionizing Cardiovascular Interventions With Artificial Intelligence. Journal of the Society for Cardiovascular Angiography & Interventions. 2025; 4: 102580. https://doi.org/10.1016/j.jscai.2025.102580.--><person-group person-group-type="author">
+<name><surname>Chatzizisis</surname><given-names>YS</given-names></name>
+<name><surname>Edelman</surname><given-names>ER</given-names></name>
+</person-group><article-title>Revolutionizing Cardiovascular Interventions With Artificial Intelligence</article-title><source>
+<italic toggle="yes">Journal of the Society for Cardiovascular Angiography &#x00026; Interventions</italic>
+</source><year>2025</year><volume>4</volume><fpage>102580</fpage><pub-id pub-id-type="doi">10.1016/j.jscai.2025.102580</pub-id><pub-id pub-id-type="pmid">40230674</pub-id>
+</element-citation></ref><ref id="b64"><label>[64]</label><element-citation publication-type="journal"><!--Poletti G, Antonini L, Mandelli L, Tsompou P, Karanasiou GS, Papafaklis MI, <italic>et al</italic>. Towards a digital twin of coronary stenting: a suitable and validated image-based approach for mimicking patient-specific coronary arteries. Electronics. 2022; 11: 502. https://doi.org/10.3390/electronics11030502.--><person-group person-group-type="author">
+<name><surname>Poletti</surname><given-names>G</given-names></name>
+<name><surname>Antonini</surname><given-names>L</given-names></name>
+<name><surname>Mandelli</surname><given-names>L</given-names></name>
+<name><surname>Tsompou</surname><given-names>P</given-names></name>
+<name><surname>Karanasiou</surname><given-names>GS</given-names></name>
+<name><surname>Papafaklis</surname><given-names>MI</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Towards a digital twin of coronary stenting: a suitable and validated image-based approach for mimicking patient-specific coronary arteries</article-title><source>
+<italic toggle="yes">Electronics</italic>
+</source><year>2022</year><volume>11</volume><fpage>502</fpage><pub-id pub-id-type="doi">10.3390/electronics11030502</pub-id></element-citation></ref><ref id="b65"><label>[65]</label><element-citation publication-type="journal"><!--Snoek J, Larochelle H, Adams RP. Practical bayesian optimization of machine learning algorithms. Advances in Neural Information Processing Systems. 2012; 25. https://doi.org/10.48550/arXiv.1206.2944.--><person-group person-group-type="author">
+<name><surname>Snoek</surname><given-names>J</given-names></name>
+<name><surname>Larochelle</surname><given-names>H</given-names></name>
+<name><surname>Adams</surname><given-names>RP</given-names></name>
+</person-group><article-title>Practical bayesian optimization of machine learning algorithms</article-title><source>
+<italic toggle="yes">Advances in Neural Information Processing Systems</italic>
+</source><year>2012</year><volume>25.</volume><pub-id pub-id-type="doi">10.48550/arXiv.1206.2944</pub-id></element-citation></ref><ref id="b66"><label>[66]</label><element-citation publication-type="journal"><!--Samant S, Wu W, Zhao S, Khan B, Sharzehee M, Panagopoulos A, <italic>et al</italic>. Computational and experimental mechanical performance of a new everolimus-eluting stent purpose-built for left main interventions. Scientific Reports. 2021; 11: 8728. https://doi.org/10.1038/s41598-021-87908-2.--><person-group person-group-type="author">
+<name><surname>Samant</surname><given-names>S</given-names></name>
+<name><surname>Wu</surname><given-names>W</given-names></name>
+<name><surname>Zhao</surname><given-names>S</given-names></name>
+<name><surname>Khan</surname><given-names>B</given-names></name>
+<name><surname>Sharzehee</surname><given-names>M</given-names></name>
+<name><surname>Panagopoulos</surname><given-names>A</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Computational and experimental mechanical performance of a new everolimus-eluting stent purpose-built for left main interventions</article-title><source>
+<italic toggle="yes">Scientific Reports</italic>
+</source><year>2021</year><volume>11</volume><fpage>8728</fpage><pub-id pub-id-type="doi">10.1038/s41598-021-87908-2</pub-id><pub-id pub-id-type="pmid">33888765</pub-id>
+</element-citation></ref><ref id="b67"><label>[67]</label><element-citation publication-type="journal"><!--Dinc R, Ardic N. Bioinspired Coronary Stents: A Technological Perspective on Exosome-Mimetic Nanoengineering and Mini-Review of Existing Platforms. Reviews in Cardiovascular Medicine. 2025; 26: 42781. https://doi.org/10.31083/RCM42781.--><person-group person-group-type="author">
+<name><surname>Dinc</surname><given-names>R</given-names></name>
+<name><surname>Ardic</surname><given-names>N</given-names></name>
+</person-group><article-title>Bioinspired Coronary Stents: A Technological Perspective on Exosome-Mimetic Nanoengineering and Mini-Review of Existing Platforms</article-title><source>
+<italic toggle="yes">Reviews in Cardiovascular Medicine</italic>
+</source><year>2025</year><volume>26</volume><fpage>42781</fpage><pub-id pub-id-type="doi">10.31083/RCM42781</pub-id><pub-id pub-id-type="pmid">41209143</pub-id>
+</element-citation></ref><ref id="b68"><label>[68]</label><element-citation publication-type="journal"><!--Ijichi T, Nakazawa G, Torii S, Nagamatsu H, Yoshikawa A, Nakamura S, <italic>et al</italic>. Late neointimal volume reduction is observed following biodegradable polymer-based drug eluting stent in porcine model. International Journal of Cardiology. Heart & Vasculature. 2021; 34: 100792. https://doi.org/10.1016/j.ijcha.2021.100792.--><person-group person-group-type="author">
+<name><surname>Ijichi</surname><given-names>T</given-names></name>
+<name><surname>Nakazawa</surname><given-names>G</given-names></name>
+<name><surname>Torii</surname><given-names>S</given-names></name>
+<name><surname>Nagamatsu</surname><given-names>H</given-names></name>
+<name><surname>Yoshikawa</surname><given-names>A</given-names></name>
+<name><surname>Nakamura</surname><given-names>S</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Late neointimal volume reduction is observed following biodegradable polymer-based drug eluting stent in porcine model</article-title><source>
+<italic toggle="yes">International Journal of Cardiology. Heart &#x00026; Vasculature</italic>
+</source><year>2021</year><volume>34</volume><fpage>100792</fpage><pub-id pub-id-type="doi">10.1016/j.ijcha.2021.100792</pub-id><pub-id pub-id-type="pmid">34036146</pub-id>
+</element-citation></ref><ref id="b69"><label>[69]</label><element-citation publication-type="webpage"><!--Gracia JE. Computational modelling of endovascular drug-delivery devices to better understand their performance. Doctoral Degree in Mechanical Engineering. 2022. Available at: https://zaguan.unizar.es/record/124078/files/TESIS-2023-003.pdf?version=1 (Accessed: 9 May 2025).--><person-group person-group-type="author">
+<name><surname>Gracia</surname><given-names>JE</given-names></name>
+</person-group><article-title>Computational modelling of endovascular drug-delivery devices to better understand their performance</article-title><source>
+<italic toggle="yes">Doctoral Degree in Mechanical Engineering</italic>
+</source><year>2022</year><comment>Available at:
+<ext-link xlink:href="https://zaguan.unizar.es/record/124078/files/TESIS-2023-003.pdf?version=1" ext-link-type="uri">https://zaguan.unizar.es/record/124078/files/TESIS-2023-003.pdf?version=1</ext-link>
+</comment><date-in-citation content-type="access-date" iso-8601-date="2025-05-09">(Accessed: 9 May 2025)</date-in-citation></element-citation></ref><ref id="b70"><label>[70]</label><element-citation publication-type="journal"><!--Lee SJ, Cho J, Shin J, Hong SJ, Ahn CM, Kim JS, <italic>et al</italic>. Predicting Individual Treatment Effects to Determine Duration of Dual Antiplatelet Therapy After Stent Implantation. Journal of the American Heart Association. 2024; 13: e034862. https://doi.org/10.1161/JAHA.124.034862.--><person-group person-group-type="author">
+<name><surname>Lee</surname><given-names>SJ</given-names></name>
+<name><surname>Cho</surname><given-names>J</given-names></name>
+<name><surname>Shin</surname><given-names>J</given-names></name>
+<name><surname>Hong</surname><given-names>SJ</given-names></name>
+<name><surname>Ahn</surname><given-names>CM</given-names></name>
+<name><surname>Kim</surname><given-names>JS</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Predicting Individual Treatment Effects to Determine Duration of Dual Antiplatelet Therapy After Stent Implantation</article-title><source>
+<italic toggle="yes">Journal of the American Heart Association</italic>
+</source><year>2024</year><volume>13</volume><fpage>e034862</fpage><pub-id pub-id-type="doi">10.1161/JAHA.124.034862</pub-id><pub-id pub-id-type="pmid">39344653</pub-id>
+</element-citation></ref><ref id="b71"><label>[71]</label><element-citation publication-type="journal"><!--Ardic N, Dinc R. Artificial Intelligence in Healthcare: Current Regulatory Landscape and Future Directions. British Journal of Hospital Medicine. 2025; 86: 1&#x02013;21. https://doi.org/10.12968/hmed.2024.0972.--><person-group person-group-type="author">
+<name><surname>Ardic</surname><given-names>N</given-names></name>
+<name><surname>Dinc</surname><given-names>R</given-names></name>
+</person-group><article-title>Artificial Intelligence in Healthcare: Current Regulatory Landscape and Future Directions</article-title><source>
+<italic toggle="yes">British Journal of Hospital Medicine</italic>
+</source><year>2025</year><volume>86</volume><fpage>1</fpage><lpage>21</lpage><pub-id pub-id-type="doi">10.12968/hmed.2024.0972</pub-id></element-citation></ref><ref id="b72"><label>[72]</label><element-citation publication-type="journal"><!--Cohen IG, Mello MM. HIPAA and Protecting Health Information in the 21st Century. JAMA. 2018; 320: 231&#x02013;232. https://doi.org/10.1001/jama.2018.5630.--><person-group person-group-type="author">
+<name><surname>Cohen</surname><given-names>IG</given-names></name>
+<name><surname>Mello</surname><given-names>MM</given-names></name>
+</person-group><article-title>HIPAA and Protecting Health Information in the 21st Century</article-title><source>
+<italic toggle="yes">JAMA</italic>
+</source><year>2018</year><volume>320</volume><fpage>231</fpage><lpage>232</lpage><pub-id pub-id-type="doi">10.1001/jama.2018.5630</pub-id><pub-id pub-id-type="pmid">29800120</pub-id>
+</element-citation></ref><ref id="b73"><label>[73]</label><element-citation publication-type="journal"><!--Yuan H. Current perspective on artificial intelligence, machine learning and deep learning. Applied and Computational Engineering. 2023; 19: 116&#x02013;122. https://doi.org/10.54254/2755-2721/19/20231019.--><person-group person-group-type="author">
+<name><surname>Yuan</surname><given-names>H</given-names></name>
+</person-group><article-title>Current perspective on artificial intelligence, machine learning and deep learning</article-title><source>
+<italic toggle="yes">Applied and Computational Engineering</italic>
+</source><year>2023</year><volume>19</volume><fpage>116</fpage><lpage>122</lpage><pub-id pub-id-type="doi">10.54254/2755-2721/19/20231019</pub-id></element-citation></ref><ref id="b74"><label>[74]</label><element-citation publication-type="journal"><!--Wu M, Zhang X, Ding J, Nguyen H, Yu R, Pan M, <italic>et al</italic>. Evaluation of inference attack models for deep learning on medical data. arXiv. 2020. https://doi.org/10.48550/arXiv.2011.00177. (preprint)--><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>M</given-names></name>
+<name><surname>Zhang</surname><given-names>X</given-names></name>
+<name><surname>Ding</surname><given-names>J</given-names></name>
+<name><surname>Nguyen</surname><given-names>H</given-names></name>
+<name><surname>Yu</surname><given-names>R</given-names></name>
+<name><surname>Pan</surname><given-names>M</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Evaluation of inference attack models for deep learning on medical data</article-title><source>
+<italic toggle="yes">arXiv</italic>
+</source><year>2011</year><comment>preprint</comment><pub-id pub-id-type="doi">10.48550/arXiv.2011.00177</pub-id></element-citation></ref><ref id="b75"><label>[75]</label><element-citation publication-type="journal"><!--Bu Z, Dong J, Long Q, Su WJ. Deep Learning with Gaussian Differential Privacy. Harvard Data Science Review. 2020; 2020: 10&#x02013;162. https://doi.org/10.1162/99608f92.cfc5dd25.--><person-group person-group-type="author">
+<name><surname>Bu</surname><given-names>Z</given-names></name>
+<name><surname>Dong</surname><given-names>J</given-names></name>
+<name><surname>Long</surname><given-names>Q</given-names></name>
+<name><surname>Su</surname><given-names>WJ</given-names></name>
+</person-group><article-title>Deep Learning with Gaussian Differential Privacy</article-title><source>
+<italic toggle="yes">Harvard Data Science Review</italic>
+</source><year>2020</year><volume>2020</volume><fpage>10</fpage><lpage>162</lpage><pub-id pub-id-type="doi">10.1162/99608f92.cfc5dd25</pub-id></element-citation></ref><ref id="b76"><label>[76]</label><element-citation publication-type="journal"><!--Agarwal R, Bjarnadottir M, Rhue L, Dugas M, Crowley K, Clark J, <italic>et al</italic>. Addressing algorithmic bias and the perpetuation of health inequities: An AI bias aware framework. Health Policy and Technology. 2023; 12: 100702. https://doi.org/10.1016/j.hlpt.2022.100702.--><person-group person-group-type="author">
+<name><surname>Agarwal</surname><given-names>R</given-names></name>
+<name><surname>Bjarnadottir</surname><given-names>M</given-names></name>
+<name><surname>Rhue</surname><given-names>L</given-names></name>
+<name><surname>Dugas</surname><given-names>M</given-names></name>
+<name><surname>Crowley</surname><given-names>K</given-names></name>
+<name><surname>Clark</surname><given-names>J</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Addressing algorithmic bias and the perpetuation of health inequities: An AI bias aware framework</article-title><source>
+<italic toggle="yes">Health Policy and Technology</italic>
+</source><year>2023</year><volume>12</volume><fpage>100702</fpage><pub-id pub-id-type="doi">10.1016/j.hlpt.2022.100702</pub-id></element-citation></ref><ref id="b77"><label>[77]</label><element-citation publication-type="journal"><!--Obermeyer Z, Powers B, Vogeli C, Mullainathan S. Dissecting racial bias in an algorithm used to manage the health of populations. Science. 2019; 366: 447&#x02013;453. https://doi.org/10.1126/science.aax2342.--><person-group person-group-type="author">
+<name><surname>Obermeyer</surname><given-names>Z</given-names></name>
+<name><surname>Powers</surname><given-names>B</given-names></name>
+<name><surname>Vogeli</surname><given-names>C</given-names></name>
+<name><surname>Mullainathan</surname><given-names>S</given-names></name>
+</person-group><article-title>Dissecting racial bias in an algorithm used to manage the health of populations</article-title><source>
+<italic toggle="yes">Science</italic>
+</source><year>2019</year><volume>366</volume><fpage>447</fpage><lpage>453</lpage><pub-id pub-id-type="doi">10.1126/science.aax2342</pub-id><pub-id pub-id-type="pmid">31649194</pub-id>
+</element-citation></ref><ref id="b78"><label>[78]</label><element-citation publication-type="journal"><!--Topol EJ. High-performance medicine: the convergence of human and artificial intelligence. Nature Medicine. 2019; 25: 44&#x02013;56. https://doi.org/10.1038/s41591-018-0300-7.--><person-group person-group-type="author">
+<name><surname>Topol</surname><given-names>EJ</given-names></name>
+</person-group><article-title>High-performance medicine: the convergence of human and artificial intelligence</article-title><source>
+<italic toggle="yes">Nature Medicine</italic>
+</source><year>2019</year><volume>25</volume><fpage>44</fpage><lpage>56</lpage><pub-id pub-id-type="doi">10.1038/s41591-018-0300-7</pub-id></element-citation></ref><ref id="b79"><label>[79]</label><element-citation publication-type="journal"><!--Khan MS, Umer H, Faruqe F. Artificial intelligence for low income countries. Humanities and Social Sciences Communications. 2024; 11: 1&#x02013;3. https://doi.org/10.1057/s41599-024-03947-w.--><person-group person-group-type="author">
+<name><surname>Khan</surname><given-names>MS</given-names></name>
+<name><surname>Umer</surname><given-names>H</given-names></name>
+<name><surname>Faruqe</surname><given-names>F</given-names></name>
+</person-group><article-title>Artificial intelligence for low income countries</article-title><source>
+<italic toggle="yes">Humanities and Social Sciences Communications</italic>
+</source><year>2024</year><volume>11</volume><fpage>1</fpage><lpage>3</lpage><pub-id pub-id-type="doi">10.1057/s41599-024-03947-w</pub-id></element-citation></ref><ref id="b80"><label>[80]</label><element-citation publication-type="webpage"><!--World Health Organization. WHO outlines considerations for regulation of artificial intelligence for health. 2023. Available at: https://www.who.int/news/item/19-10-2023-who-outlines-considerations-for-regulation-of-artificial-intelligence-for-health?utm_source=chatgpt.com (Accessed: 11 May 2025).--><person-group person-group-type="author">
+<collab>World Health Organization</collab>
+</person-group><article-title>WHO outlines considerations for regulation of artificial intelligence for health</article-title><year>2023</year><comment>Available at:
+<ext-link xlink:href="https://www.who.int/news/item/19-10-2023-who-outlines-considerations-for-regulation-of-artificial-intelligence-for-health?utm_source=chatgpt.com" ext-link-type="uri">https://www.who.int/news/item/19-10-2023-who-outlines-considerations-for-regulation-of-artificial-intelligence-for-health?utm_source=chatgpt.com</ext-link>
+</comment><date-in-citation content-type="access-date" iso-8601-date="2025-05-11">(Accessed: 11 May 2025)</date-in-citation></element-citation></ref><ref id="b81"><label>[81]</label><element-citation publication-type="journal"><!--Price WN, 2nd, Cohen IG. Privacy in the age of medical big data. Nature Medicine. 2019; 25: 37&#x02013;43. https://doi.org/10.1038/s41591-018-0272-7.--><person-group person-group-type="author">
+<name><surname>Price</surname><given-names>WN</given-names><suffix>2nd</suffix></name>
+<name><surname>Cohen</surname><given-names>IG</given-names></name>
+</person-group><article-title>Privacy in the age of medical big data</article-title><source>
+<italic toggle="yes">Nature Medicine</italic>
+</source><year>2019</year><volume>25</volume><fpage>37</fpage><lpage>43</lpage><pub-id pub-id-type="doi">10.1038/s41591-018-0272-7</pub-id></element-citation></ref><ref id="b82"><label>[82]</label><element-citation publication-type="journal"><!--Grady C, Eckstein L, Berkman B, Brock D, Cook-Deegan R, Fullerton SM, <italic>et al</italic>. Broad Consent for Research With Biological Samples: Workshop Conclusions. The American Journal of Bioethics. 2015; 15: 34&#x02013;42. https://doi.org/10.1080/15265161.2015.1062162.--><person-group person-group-type="author">
+<name><surname>Grady</surname><given-names>C</given-names></name>
+<name><surname>Eckstein</surname><given-names>L</given-names></name>
+<name><surname>Berkman</surname><given-names>B</given-names></name>
+<name><surname>Brock</surname><given-names>D</given-names></name>
+<name><surname>Cook-Deegan</surname><given-names>R</given-names></name>
+<name><surname>Fullerton</surname><given-names>SM</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Broad Consent for Research With Biological Samples: Workshop Conclusions</article-title><source>
+<italic toggle="yes">The American Journal of Bioethics</italic>
+</source><year>2015</year><volume>15</volume><fpage>34</fpage><lpage>42</lpage><pub-id pub-id-type="doi">10.1080/15265161.2015.1062162</pub-id></element-citation></ref><ref id="b83"><label>[83]</label><element-citation publication-type="journal"><!--Dinc R, Ardic N. An Evaluation of Opportunities and Challenges of Blockchain Technology in Healthcare. British Journal of Hospital Medicine. 2024; 85: 1&#x02013;19. https://doi.org/10.12968/hmed.2024.0355.--><person-group person-group-type="author">
+<name><surname>Dinc</surname><given-names>R</given-names></name>
+<name><surname>Ardic</surname><given-names>N</given-names></name>
+</person-group><article-title>An Evaluation of Opportunities and Challenges of Blockchain Technology in Healthcare</article-title><source>
+<italic toggle="yes">British Journal of Hospital Medicine</italic>
+</source><year>2024</year><volume>85</volume><fpage>1</fpage><lpage>19</lpage><pub-id pub-id-type="doi">10.12968/hmed.2024.0355</pub-id></element-citation></ref><ref id="b84"><label>[84]</label><element-citation publication-type="journal"><!--Bates DW, Saria S, Ohno-Machado L, Shah A, Escobar G. Big data in health care: using analytics to identify and manage high-risk and high-cost patients. Health Affairs. 2014; 33: 1123&#x02013;1131. https://doi.org/10.1377/hlthaff.2014.0041.--><person-group person-group-type="author">
+<name><surname>Bates</surname><given-names>DW</given-names></name>
+<name><surname>Saria</surname><given-names>S</given-names></name>
+<name><surname>Ohno-Machado</surname><given-names>L</given-names></name>
+<name><surname>Shah</surname><given-names>A</given-names></name>
+<name><surname>Escobar</surname><given-names>G</given-names></name>
+</person-group><article-title>Big data in health care: using analytics to identify and manage high-risk and high-cost patients</article-title><source>
+<italic toggle="yes">Health Affairs</italic>
+</source><year>2014</year><volume>33</volume><fpage>1123</fpage><lpage>1131</lpage><pub-id pub-id-type="doi">10.1377/hlthaff.2014.0041</pub-id><pub-id pub-id-type="pmid">25006137</pub-id>
+</element-citation></ref><ref id="b85"><label>[85]</label><element-citation publication-type="book"><!--Drummond MF, Sculpher MJ, Claxton K, Stoddart GL, Torrance GW. Methods for the economic evaluation of health care programmes. Oxford University Press: Oxford, United Kingdom. 2015.--><person-group person-group-type="author">
+<name><surname>Drummond</surname><given-names>MF</given-names></name>
+<name><surname>Sculpher</surname><given-names>MJ</given-names></name>
+<name><surname>Claxton</surname><given-names>K</given-names></name>
+<name><surname>Stoddart</surname><given-names>GL</given-names></name>
+<name><surname>Torrance</surname><given-names>GW</given-names></name>
+</person-group><source>
+<italic toggle="yes">Methods for the economic evaluation of health care programmes</italic>
+</source><publisher-name>Oxford University Press</publisher-name><publisher-loc>Oxford, United Kingdom</publisher-loc><year>2015</year></element-citation></ref><ref id="b86"><label>[86]</label><element-citation publication-type="journal"><!--Kastrup N, Holst-Kristensen AW, Valentin JB. Landscape and challenges in economic evaluations of artificial intelligence in healthcare: a systematic review of methodology. BMC Digit Health. 2024; 2: 1&#x02013;2. https://doi.org/10.1186/s44247-024-00088-7.--><person-group person-group-type="author">
+<name><surname>Kastrup</surname><given-names>N</given-names></name>
+<name><surname>Holst-Kristensen</surname><given-names>AW</given-names></name>
+<name><surname>Valentin</surname><given-names>JB</given-names></name>
+</person-group><article-title>Landscape and challenges in economic evaluations of artificial intelligence in healthcare: a systematic review of methodology</article-title><source>
+<italic toggle="yes">BMC Digit Health</italic>
+</source><year>2024</year><volume>2</volume><fpage>1</fpage><lpage>2</lpage><pub-id pub-id-type="doi">10.1186/s44247-024-00088-7</pub-id></element-citation></ref><ref id="b87"><label>[87]</label><element-citation publication-type="journal"><!--Jiang F, Jiang Y, Zhi H, Dong Y, Li H, Ma S, <italic>et al</italic>. Artificial intelligence in healthcare: past, present and future. Stroke and Vascular Neurology. 2017; 2: 230&#x02013;243. https://doi.org/10.1136/svn-2017-000101.--><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>F</given-names></name>
+<name><surname>Jiang</surname><given-names>Y</given-names></name>
+<name><surname>Zhi</surname><given-names>H</given-names></name>
+<name><surname>Dong</surname><given-names>Y</given-names></name>
+<name><surname>Li</surname><given-names>H</given-names></name>
+<name><surname>Ma</surname><given-names>S</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Artificial intelligence in healthcare: past, present and future</article-title><source>
+<italic toggle="yes">Stroke and Vascular Neurology</italic>
+</source><year>2017</year><volume>2</volume><fpage>230</fpage><lpage>243</lpage><pub-id pub-id-type="doi">10.1136/svn-2017-000101</pub-id><pub-id pub-id-type="pmid">29507784</pub-id>
+</element-citation></ref><ref id="b88"><label>[88]</label><element-citation publication-type="journal"><!--Palaniappan K, Lin EYT, Vogel S. Global Regulatory Frameworks for the Use of Artificial Intelligence (AI) in the Healthcare Services Sector. Healthcare. 2024; 12: 562. https://doi.org/10.3390/healthcare12050562.--><person-group person-group-type="author">
+<name><surname>Palaniappan</surname><given-names>K</given-names></name>
+<name><surname>Lin</surname><given-names>EYT</given-names></name>
+<name><surname>Vogel</surname><given-names>S</given-names></name>
+</person-group><article-title>Global Regulatory Frameworks for the Use of Artificial Intelligence (AI) in the Healthcare Services Sector</article-title><source>
+<italic toggle="yes">Healthcare</italic>
+</source><year>2024</year><volume>12</volume><fpage>562</fpage><pub-id pub-id-type="doi">10.3390/healthcare12050562</pub-id><pub-id pub-id-type="pmid">38470673</pub-id>
+</element-citation></ref><ref id="b89"><label>[89]</label><element-citation publication-type="journal"><!--Lal A, Dang J, Nabzdyk C, Gajic O, Herasevich V. Regulatory oversight and ethical concerns surrounding software as medical device (SaMD) and digital twin technology in healthcare. Annals of Translational Medicine. 2022; 10: 950. https://doi.org/10.21037/atm-22-4203.--><person-group person-group-type="author">
+<name><surname>Lal</surname><given-names>A</given-names></name>
+<name><surname>Dang</surname><given-names>J</given-names></name>
+<name><surname>Nabzdyk</surname><given-names>C</given-names></name>
+<name><surname>Gajic</surname><given-names>O</given-names></name>
+<name><surname>Herasevich</surname><given-names>V</given-names></name>
+</person-group><article-title>Regulatory oversight and ethical concerns surrounding software as medical device (SaMD) and digital twin technology in healthcare</article-title><source>
+<italic toggle="yes">Annals of Translational Medicine</italic>
+</source><year>2022</year><volume>10</volume><fpage>950</fpage><pub-id pub-id-type="doi">10.21037/atm-22-4203</pub-id><pub-id pub-id-type="pmid">36267783</pub-id>
+</element-citation></ref><ref id="b90"><label>[90]</label><element-citation publication-type="webpage"><!--US Food and Drug Administration. Proposed Regulatory Framework for Modifications to Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device (SaMD) - Discussion Paper and Request for Feedback. 2019. Available at: https://www.fda.gov/media/122535/download?attachment (Accessed: 4 May 2025).--><person-group person-group-type="author">
+<collab>US Food and Drug Administration</collab>
+</person-group><article-title>Proposed Regulatory Framework for Modifications to Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device (SaMD) - Discussion Paper and Request for Feedback</article-title><year>2019</year><comment>Available at:
+<ext-link xlink:href="https://www.fda.gov/media/122535/download?attachment" ext-link-type="uri">https://www.fda.gov/media/122535/download?attachment</ext-link>
+</comment><date-in-citation content-type="access-date" iso-8601-date="2025-05-04">(Accessed: 4 May 2025)</date-in-citation></element-citation></ref><ref id="b91"><label>[91]</label><element-citation publication-type="webpage"><!--IMDRF Software as a Medical Device (SaMD): Software-Specific Risk Management. International Medical Device Regulators Forum. IMDRF/SaMD WG/N81. 2025. Available at: https://www.imdrf.org/sites/default/files/2025-01/IMDRF_SaMD%20WG_Software-Specific%20Risk_N81%20Final_0.pdf (Accessed: 27 July 2025).--><article-title>IMDRF Software as a Medical Device (SaMD): Software-Specific Risk Management</article-title><source>
+<italic toggle="yes">International Medical Device Regulators Forum. IMDRF/SaMD WG/N81</italic>
+</source><year>2025</year><comment>Available at:
+<ext-link xlink:href="https://www.imdrf.org/sites/default/files/2025-01/IMDRF_SaMD%20WG_Software-Specific%20Risk_N81%20Final_0.pdf" ext-link-type="uri">https://www.imdrf.org/sites/default/files/2025-01/IMDRF_SaMD%20WG_Software-Specific%20Risk_N81%20Final_0.pdf</ext-link>
+</comment><date-in-citation content-type="access-date" iso-8601-date="2025-07-27">(Accessed: 27 July 2025)</date-in-citation></element-citation></ref><ref id="b92"><label>[92]</label><element-citation publication-type="webpage"><!--Harvey H. Every regulatory AI medical device standard you need to know. 2024. Available at: https://www.hardianhealth.com/insights/regulatory-ai-medical-device-standards#::text=ISO%2013485%20is%20so%20important,you%20should%20just%20use%20it (Accessed: 27 July 2025).--><person-group person-group-type="author">
+<name><surname>Harvey</surname><given-names>H</given-names></name>
+</person-group><article-title>Every regulatory AI medical device standard you need to know</article-title><year>2024</year><comment>Available at:
+<ext-link xlink:href="https://www.hardianhealth.com/insights/regulatory-ai-medical-device-standards#::text=ISO%2013485%20is%20so%20important,you%20should%20just%20use%20it" ext-link-type="uri">https://www.hardianhealth.com/insights/regulatory-ai-medical-device-standards#::text=ISO%2013485%20is%20so%20important,you%20should%20just%20use%20it</ext-link>
+</comment><date-in-citation content-type="access-date" iso-8601-date="2025-07-27">(Accessed: 27 July 2025)</date-in-citation></element-citation></ref><ref id="b93"><label>[93]</label><element-citation publication-type="journal"><!--Bothwell LE, Greene JA, Podolsky SH, Jones DS. Assessing the Gold Standard&#x02013;Lessons from the History of RCTs. The New England Journal of Medicine. 2016; 374: 2175&#x02013;2181. https://doi.org/10.1056/NEJMms1604593.--><person-group person-group-type="author">
+<name><surname>Bothwell</surname><given-names>LE</given-names></name>
+<name><surname>Greene</surname><given-names>JA</given-names></name>
+<name><surname>Podolsky</surname><given-names>SH</given-names></name>
+<name><surname>Jones</surname><given-names>DS</given-names></name>
+</person-group><article-title>Assessing the Gold Standard&#x02013;Lessons from the History of RCTs</article-title><source>
+<italic toggle="yes">The New England Journal of Medicine</italic>
+</source><year>2016</year><volume>374</volume><fpage>2175</fpage><lpage>2181</lpage><pub-id pub-id-type="doi">10.1056/NEJMms1604593</pub-id><pub-id pub-id-type="pmid">27248626</pub-id>
+</element-citation></ref><ref id="b94"><label>[94]</label><element-citation publication-type="journal"><!--Goldsack JC, Coravos A, Bakker JP, Bent B, Dowling AV, Fitzer-Attas C, <italic>et al</italic>. Verification, analytical validation, and clinical validation (V3): the foundation of determining fit-for-purpose for Biometric Monitoring Technologies (BioMeTs). NPJ Digital Medicine. 2020; 3: 55. https://doi.org/10.1038/s41746-020-0260-4.--><person-group person-group-type="author">
+<name><surname>Goldsack</surname><given-names>JC</given-names></name>
+<name><surname>Coravos</surname><given-names>A</given-names></name>
+<name><surname>Bakker</surname><given-names>JP</given-names></name>
+<name><surname>Bent</surname><given-names>B</given-names></name>
+<name><surname>Dowling</surname><given-names>AV</given-names></name>
+<name><surname>Fitzer-Attas</surname><given-names>C</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Verification, analytical validation, and clinical validation (V3): the foundation of determining fit-for-purpose for Biometric Monitoring Technologies (BioMeTs)</article-title><source>
+<italic toggle="yes">NPJ Digital Medicine</italic>
+</source><year>2020</year><volume>3</volume><fpage>55</fpage><pub-id pub-id-type="doi">10.1038/s41746-020-0260-4</pub-id><pub-id pub-id-type="pmid">32337371</pub-id>
+</element-citation></ref><ref id="b95"><label>[95]</label><element-citation publication-type="journal"><!--Sherman RE, Anderson SA, Dal Pan GJ, Gray GW, Gross T, Hunter NL, <italic>et al</italic>. Real-World Evidence - What Is It and What Can It Tell Us? The New England Journal of Medicine. 2016; 375: 2293&#x02013;2297. https://doi.org/10.1056/NEJMsb1609216.--><person-group person-group-type="author">
+<name><surname>Sherman</surname><given-names>RE</given-names></name>
+<name><surname>Anderson</surname><given-names>SA</given-names></name>
+<name><surname>Dal Pan</surname><given-names>GJ</given-names></name>
+<name><surname>Gray</surname><given-names>GW</given-names></name>
+<name><surname>Gross</surname><given-names>T</given-names></name>
+<name><surname>Hunter</surname><given-names>NL</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Real-World Evidence - What Is It and What Can It Tell Us?</article-title><source>
+<italic toggle="yes">The New England Journal of Medicine</italic>
+</source><year>2016</year><volume>375</volume><fpage>2293</fpage><lpage>2297</lpage><pub-id pub-id-type="doi">10.1056/NEJMsb1609216</pub-id><pub-id pub-id-type="pmid">27959688</pub-id>
+</element-citation></ref></ref-list></back></article>

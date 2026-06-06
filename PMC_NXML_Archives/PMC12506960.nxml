@@ -1,0 +1,1456 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="jebm70054" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Evid Based Med</journal-id><journal-id journal-id-type="iso-abbrev">J Evid Based Med</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1756-5391</journal-id><journal-id journal-id-type="publisher-id">JEBM</journal-id><journal-title-group><journal-title>Journal of Evidence-Based Medicine</journal-title></journal-title-group><issn pub-type="epub">1756-5391</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">40810699</article-id><article-id pub-id-type="pmc">12506960</article-id>
+<article-id pub-id-type="doi">10.1111/jebm.70054</article-id><article-id pub-id-type="publisher-id">JEBM70054</article-id><article-categories><subj-group subj-group-type="overline"><subject>Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Comparison of Coronary Angiographic&#x02010;Derived and Intracoronary Imaging&#x02010;Based Fractional Flow Reserve in Assessing Coronary Artery Stenosis Severity: A Systematic Review and Network Meta&#x02010;Analysis</article-title></title-group><contrib-group><contrib id="jebm70054-cr-0001" contrib-type="author"><name><surname>Xie</surname><given-names>Jianchang</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8499-7626</contrib-id><xref rid="jebm70054-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jebm70054-cr-0002" contrib-type="author"><name><surname>Ye</surname><given-names>Lu</given-names></name><xref rid="jebm70054-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jebm70054-cr-0003" contrib-type="author"><name><surname>Yang</surname><given-names>Jianmin</given-names></name><xref rid="jebm70054-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jebm70054-cr-0004" contrib-type="author"><name><surname>Zhong</surname><given-names>Yigang</given-names></name><xref rid="jebm70054-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jebm70054-cr-0005" contrib-type="author"><name><surname>Xu</surname><given-names>Peng</given-names></name><xref rid="jebm70054-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jebm70054-cr-0006" contrib-type="author"><name><surname>Gao</surname><given-names>Beibei</given-names></name><xref rid="jebm70054-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jebm70054-cr-0007" contrib-type="author"><name><surname>Wang</surname><given-names>Ningfu</given-names></name><xref rid="jebm70054-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jebm70054-cr-0008" contrib-type="author"><name><surname>Ye</surname><given-names>Xianhua</given-names></name><xref rid="jebm70054-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jebm70054-cr-0009" contrib-type="author" corresp="yes"><name><surname>Tong</surname><given-names>Guoxin</given-names></name><xref rid="jebm70054-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>sunnystewen@sina.com</email></address></contrib><contrib id="jebm70054-cr-0010" contrib-type="author" corresp="yes"><name><surname>Huang</surname><given-names>Jinyu</given-names></name><xref rid="jebm70054-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>hjyuo@163.com</email></address></contrib></contrib-group><aff id="jebm70054-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Cardiology</named-content>
+<institution>Affiliated Hangzhou First People's Hospital</institution>
+<institution>Westlake University School of Medicine</institution>
+<city>Hangzhou</city>
+<country country="CN">China</country>
+</aff><aff id="jebm70054-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">The Fourth School of Clinical Medicine</named-content>
+<institution>Zhejiang Chinese Medical University</institution>
+<city>Hangzhou</city>
+<country country="CN">China</country>
+</aff><pub-date pub-type="epub"><day>14</day><month>8</month><year>2025</year></pub-date><pub-date pub-type="ppub"><month>9</month><year>2025</year></pub-date><volume>18</volume><issue seq="80">3</issue><issue-id pub-id-type="doi">10.1111/jebm.v18.3</issue-id><elocation-id>e70054</elocation-id><history>
+<date date-type="rev-recd"><day>03</day><month>7</month><year>2025</year></date>
+<date date-type="received"><day>03</day><month>8</month><year>2024</year></date>
+<date date-type="accepted"><day>15</day><month>7</month><year>2025</year></date>
+</history><permissions><!--&#x000a9; 2025 Chinese Cochrane Center, West China Hospital of Sichuan University and John Wiley & Sons Australia, Ltd.--><copyright-statement content-type="article-copyright">&#x000a9; 2025 The Author(s). <italic toggle="yes">Journal of Evidence&#x02010;Based Medicine</italic> published by Chinese Cochrane Center, West China Hospital of Sichuan University and John Wiley &#x00026; Sons Australia, Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:JEBM-18-0.pdf"/><abstract><title>ABSTRACT</title><sec id="jebm70054-sec-0010"><title>Objective</title><p>This systematic review and network meta&#x02010;analysis aimed to compare the accuracy of coronary angiographic&#x02010;derived fractional flow reserve (Angio&#x02010;FFR), optical coherence tomography (OCT)&#x02010;FFR, and intravascular ultrasound (IVUS)&#x02010;FFR in evaluating the severity of coronary artery stenosis.</p></sec><sec id="jebm70054-sec-0020"><title>Methods</title><p>PubMed, Embase, and Cochrane Library were searched from January 1, 2010 to April 1, 2024 for studies on the accuracy assessment of Angio&#x02010;FFR, OCT&#x02010;FFR, and IVUS&#x02010;FFR. A network meta&#x02010;analysis was performed with accuracy and analysis of variance models. The diagnostic performance was evaluated through absolute sensitivity (SEN), specificity (SPE), diagnostic dominance index (DDI), and diagnostic odds ratio (DOR), with the corresponding 95% confidence interval (CI).</p></sec><sec id="jebm70054-sec-0030"><title>Results</title><p>The analysis included 86 studies (16,552 lesions). Network meta&#x02010;analysis showed that IVUS&#x02010;FFR demonstrated the highest absolute SEN of 0.92 (0.91, 0.94), while OCT&#x02010;FFR demonstrated the highest absolute SPE of 0.92 (0.91, 0.94). In comparison to Angio&#x02010;FFR, intracoronary imaging (ICI)&#x02010;FFR demonstrated superior diagnostic performance, with a DDI and DOR of 1.00 (95% CI: 0.99, 1.01) versus 0.96 (95% CI: 0.94, 0.98) and 79.18 (95% CI: 62.20, 92.35) versus 56.15 (95% CI: 52.86, 59.29), respectively. Furthermore, ICI&#x02010;FFR demonstrated significantly greater overall accuracy than Angio&#x02010;FFR, with a relative risk of 1.03 (95% CI: 1.01&#x02013;1.04).</p></sec><sec id="jebm70054-sec-0040"><title>Conclusion</title><p>This comprehensive network meta&#x02010;analysis establishes that ICI&#x02010;FFR provides superior diagnostic performance for coronary artery stenosis assessment compared to Angio&#x02010;FFR. These findings support the clinical value of ICI modalities in functional stenosis evaluation.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jebm70054-kwd-0001">coronary angiography</kwd><kwd id="jebm70054-kwd-0002">fractional flow reserve</kwd><kwd id="jebm70054-kwd-0003">intravascular ultrasound</kwd><kwd id="jebm70054-kwd-0004">network meta&#x02010;analysis</kwd><kwd id="jebm70054-kwd-0005">optical coherence tomography</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>Funds for International Cooperation and Exchange of the National Natural Science Foundation of China</institution></institution-wrap>
+</funding-source><award-id>62161160312</award-id></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>Zhejiang Provincial Key Research and Development Program</institution></institution-wrap>
+</funding-source><award-id>2020C03018</award-id></award-group><award-group id="funding-0003"><funding-source>
+<institution-wrap><institution>Zhejiang Provincial Science and Technology Programme of Traditional Chinese Medicine</institution></institution-wrap>
+</funding-source><award-id>2024ZL752</award-id><award-id>2025ZL457</award-id></award-group><award-group id="funding-0004"><funding-source>
+<institution-wrap><institution>Hangzhou Agricultural and Social Development Scientific Research Project</institution></institution-wrap>
+</funding-source><award-id>20220919Y066</award-id></award-group></funding-group><counts><fig-count count="4"/><table-count count="5"/><page-count count="14"/><word-count count="8232"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.4 mode:remove_FC converted:08.10.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jebm70054-cit-0001">
+<string-name>
+<given-names>J.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, et al. &#x0201c;<article-title>Comparison of Coronary Angiographic&#x02010;Derived and Intracoronary Imaging&#x02010;Based Fractional Flow Reserve in Assessing Coronary Artery Stenosis Severity: A Systematic Review and Network Meta&#x02010;Analysis</article-title>.&#x0201d; <source>Journal of Evidence&#x02010;Based Medicine</source>
+<volume>18</volume>, no. <issue>3</issue> (<year>2025</year>): <elocation-id>e70054</elocation-id>. <pub-id pub-id-type="doi">10.1111/jebm.70054</pub-id>
+</mixed-citation>
+</p><fn-group><fn id="jebm70054-note-0001" fn-type="equal"><p>Jianchang Xie and Lu Ye contributed equally to this work.</p></fn></fn-group></notes></front><body><sec id="jebm70054-sec-0050"><label>1</label><title>Introduction</title><p>Accumulating evidence indicates that the role of functional coronary assessment in coronary interventions is widely accepted and recommended by guidelines, particularly in the assessment of moderate lesions [<xref rid="jebm70054-bib-0001" ref-type="bibr">1</xref>]. However, the clinical application of pressure wire&#x02010;based fractional flow reserve (FFR) is limited due to its high economic cost, prolonged surgery duration, and adenosine&#x02010;associated adverse reactions [<xref rid="jebm70054-bib-0002" ref-type="bibr">2</xref>]. In recent years, coronary angiographic&#x02010;based functional assessment that is inferred via the fluid&#x02010;mechanics model and the flow velocity of contrast agents has been developed rapidly. Compared with pressure wire&#x02010;based FFR, coronary angiographic&#x02010;derived FFR (Angio&#x02010;FFR) exhibits excellent accuracy and rapid evaluation and is independent of pressure wire and adenosine, suggesting its promising application prospect [<xref rid="jebm70054-bib-0003" ref-type="bibr">3</xref>].</p><p>There is an inconsistency between Angio&#x02010;FFR and pressure wire&#x02010;based FFR. The inaccurate evaluation may be associated with poor imaging, distorted or overlapped vessel development, and contrast agent underfilling [<xref rid="jebm70054-bib-0004" ref-type="bibr">4</xref>]. Moreover, standalone FFR has inherent limitations in evaluating left main disease and vulnerable plaques. IVUS and OCT enable high&#x02010;resolution anatomical characterization of coronary structures (vessel dimensions, plaque morphology), facilitating procedural planning for stent sizing and landing zone selection [<xref rid="jebm70054-bib-0005" ref-type="bibr">5</xref>]. When integrated with FFR, these techniques provide complementary physiological assessment to optimize interventions [<xref rid="jebm70054-bib-0006" ref-type="bibr">6</xref>, <xref rid="jebm70054-bib-0007" ref-type="bibr">7</xref>]. Emerging ICI&#x02010;based FFR technologies demonstrate enhanced diagnostic performance in validation studies [<xref rid="jebm70054-bib-0006" ref-type="bibr">6</xref>, <xref rid="jebm70054-bib-0007" ref-type="bibr">7</xref>], though comparative efficacy against conventional methods requires further network meta&#x02010;analysis [<xref rid="jebm70054-bib-0008" ref-type="bibr">8</xref>].</p><p>Network meta&#x02010;analysis (NMA) refers to indirect comparisons of more than two interventions (primarily adjusted indirect comparison) or pooled meta&#x02010;analysis for direct comparisons and indirect comparisons (fixed therapeutic effects). It ranks the effect of different interventions and estimates the probability of the optimal intervention [<xref rid="jebm70054-bib-0009" ref-type="bibr">9</xref>, <xref rid="jebm70054-bib-0010" ref-type="bibr">10</xref>]. There are few head&#x02010;to&#x02010;head comparisons of these FFR&#x02010;evaluating methods. It remains unclear whether a functional assessment, derived from a vessel model based on higher resolution and more practical ICI is superior to an Angio&#x02010;FFR&#x02010;derived functional assessment. This diagnostic NMA aims to compare the diagnostic performance of Angio&#x02010;FFR and ICI&#x02010;FFR with pressure wire&#x02010;based FFR as the reference standard.</p></sec><sec id="jebm70054-sec-0060"><label>2</label><title>Methods</title><sec id="jebm70054-sec-0070"><label>2.1</label><title>Search Strategies and Research Sources</title><p>The NMA is conducted under the <italic toggle="yes">Preferred Reporting Items for Systematic Reviews and Meta&#x02010;Analyse</italic>s (PRISMA) statement, and the study protocol has been registered on PROSPERO (registration No. CRD42022336977) [<xref rid="jebm70054-bib-0011" ref-type="bibr">11</xref>].</p><p>We searched PubMed, Embase, and Cochrane Library from January 1, 2010 to April 1, 2024 for relevant studies published. Core terms used to build the search strategy include &#x0201c;intravascular ultrasound,&#x0201d; &#x0201c;optical coherence tomography,&#x0201d; &#x0201c;coronary angiography,&#x0201d; &#x0201c;fractional flow reserve,&#x0201d; etc. Search strategy included a combination of free words and Medical Subject Headings (provided in the <xref rid="jebm70054-supinfo-0001" ref-type="">Supplementary Material</xref>).</p></sec><sec id="jebm70054-sec-0080"><label>2.2</label><title>Inclusion and Exclusion Criteria</title><p>Eligible studies were selected by two reviewers independently. Disagreements were settled via discussion with a third reviewer. Inclusion criteria were as follows: the study population consisted of adults with coronary artery disease and intermediate coronary stenosis; FFR calculated was based on images of coronary angiography, OCT, or IVUS; the diagnostic accuracy metrics of Angio&#x02010;FFR, OCT&#x02010;FFR, and IVUS&#x02010;FFR were compared, taking pressure wire&#x02010;based FFR as the reference standard; the cut&#x02010;off value of FFR was set as 0.8 in coronary functional assessment, and a FFR less than 0.8 indicated abnormal coronary function. Exclusion criteria were as follows: data of interest were unavailable or unextractable; FFR was calculated via machine learning; study subject was an animal model.</p></sec><sec id="jebm70054-sec-0090"><label>2.3</label><title>Data Extraction and Risk of Bias Assessment</title><p>Data extraction and risk of bias assessment were conducted by two reviewers independently. Any disagreement was settled via discussion with the third reviewer. Extracted data mainly included basic information (study title, first author, study design, characteristics of participants, diagnosing methods, and sample size), diagnosis&#x02010;related information (the absolute values of true&#x02010;positive, false&#x02010;positive, true&#x02010;negative, and false&#x02010;negative in the examination results, the vascular diameter stenosis in coronary angiography, sensitivity [SEN], specificity [SPE], and accuracy), and risk of bias information.</p><p>The risk of bias was assessed using the QUADAS&#x02010;2 tool in Cochrane Review Manager [<xref rid="jebm70054-bib-0012" ref-type="bibr">12</xref>], which contains four domains: patient selection, index test, reference standard, and flow and timing. The risk of bias was assessed in each domain, and the first three domains assessed the applicability. Methodological quality assessments were categorized into three tiers of risk stratification: low risk: all signaling questions answered &#x0201c;yes&#x0201d;; high risk:&#x02265;1 critical question answered &#x0201c;no&#x0201d;; unclear risk: insufficient reporting for judgment. Overall study risk was defined as: low: all domains low&#x02010;risk; moderate:&#x02264;2 domains high/unclear&#x02010;risk without critical flaws; high: &#x02265;3 domains high/unclear&#x02010;risk OR critical flaw in patient selection.</p></sec><sec id="jebm70054-sec-0100"><label>2.4</label><title>Statistical Analysis</title><p>All statistical analyses were performed using R 4.1.3. The accuracy was assessed through Bayesian NMA using the &#x0201c;Gemtc&#x0201d; package 1.0.1. The analysis of variance (ANOVA)&#x02010;based diagnostic NMA was conducted using the &#x0201c;rstan&#x0201d; 2.21.5.</p><p>NMA assessing the accuracy: the fixed&#x02010;effect and random&#x02010;effect models were applied preliminarily for fitting. The detection rate was analyzed using the relative risk (RR) with its 95% confidence intervals (CIs), which were calculated by Markov chain Monte Carlo methods. Surface under the cumulative ranking curve (SUCRA) was calculated to rank different scoring systems. The value of SUCRA ranged from 0 to 1, and a higher value indicated higher accuracy [<xref rid="jebm70054-bib-0010" ref-type="bibr">10</xref>].</p><p>ANOVA&#x02010;based diagnostic NMA: ANOVA model needs to load &#x0201c;rstan&#x0201d; for Bayesian calculation, which can be performed via imputing &#x0201c;results &#x0201d; stan (model_code = model, data = datalist, chains = 2, iter = 10000, warmup = 5000, thin = 1). In this instruction, the &#x0201c;chains&#x0201d; refers to the number of Monte Carlo chains, &#x0201c;warmup&#x0201d; refers to the times of pre&#x02010;iteration, &#x0201c;iter&#x0201d; the times of iteration, and &#x0201c;thin&#x0201d; the step&#x02010;length [<xref rid="jebm70054-bib-0009" ref-type="bibr">9</xref>]. The diagnostic performance was evaluated by calculating the absolute sensitivity (ASEN), specificity (ASPE), diagnostic dominance index (DDI), and diagnostic odds ratio (DOR), with the corresponding 95% CIs. The detailed code is presented in the <xref rid="jebm70054-supinfo-0001" ref-type="">Supplementary Material</xref>.</p></sec></sec><sec id="jebm70054-sec-0110"><label>3</label><title>Results</title><sec id="jebm70054-sec-0120"><label>3.1</label><title>Searching Results</title><p>A systematic search identified 9458 potentially relevant publications. Through an automated deduplication process and preliminary quality control, 4366 records were excluded. Subsequent title/abstract screening eliminated 4950 non&#x02010;qualifying studies. The 142 potentially eligible articles underwent full&#x02010;text reviews. Following rigorous assessment, 56 studies were excluded for the following reasons: absence of wire&#x02010;based FFR as the reference standard (<italic toggle="yes">n</italic> = 27), insufficient diagnostic data (<italic toggle="yes">n</italic> = 19), duplicate datasets (<italic toggle="yes">n</italic> = 7), and FFR achieved by machine learning approach (<italic toggle="yes">n</italic> = 3). Ultimately, 86 qualified studies were included in the final quantitative synthesis. The PRISMA flow diagram of study search and selection is shown in Figure&#x000a0;<xref rid="jebm70054-fig-0001" ref-type="fig">1</xref>.</p><fig position="float" fig-type="FIGURE" id="jebm70054-fig-0001"><label>FIGURE 1</label><caption><p>PRISMA 2020 flow diagram of search results and study attrition.</p></caption><graphic xlink:href="JEBM-18-0-g002" position="anchor" id="jats-graphic-1"/></fig></sec><sec id="jebm70054-sec-0130"><label>3.2</label><title>Characteristics of Included Studies</title><p>Among the included studies, 67 applied Angio&#x02010;FFR, 11 applied OCT&#x02010;FFR, and 8 applied IVUS&#x02010;FFR. All the studies had taken pressure wire&#x02010;based FFR as the reference standard, in which 3 studies head&#x02010;to&#x02010;head compared ICI&#x02010;FFR and Angio&#x02010;FFR [<xref rid="jebm70054-bib-0013" ref-type="bibr">13</xref>, <xref rid="jebm70054-bib-0014" ref-type="bibr">14</xref>, <xref rid="jebm70054-bib-0015" ref-type="bibr">15</xref>] and 2 compared different kinds of Angio&#x02010;FFR [virtual FFR (vFFR), quantitative flow ratio (QFR), and FFRangio] [<xref rid="jebm70054-bib-0016" ref-type="bibr">16</xref>, <xref rid="jebm70054-bib-0017" ref-type="bibr">17</xref>]. All included studies specifically assessed intermediate&#x02010;grade stenosis lesions (40%&#x02013;90% diameter stenosis), with consistent inclusion criteria across studies regarding stenosis severity thresholds. The 86 included studies involved a total of 16,552 lesions, in which there were 26 prospective studies, 53 retrospective studies, 5 post hoc analyses for previous registered studies, and 2 studies with no specific description of the study design. The calculation models of QFR included fixed flow model fQFR and comparative flow model cQFR. All the related studies reported that cQFR was close to FFR, so cQFR was considered the default calculation result of QFR. Among the trials, there were 12 randomized controlled trials (RCTs), while there was 1 trial for the ICI&#x02010;FFR. Detailed characteristics of included studies are shown in Table&#x000a0;<xref rid="jebm70054-tbl-0001" ref-type="table">1</xref>.</p><table-wrap position="float" id="jebm70054-tbl-0001" content-type="TABLE"><label>TABLE 1</label><caption><p>Characteristics of studies.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Author/study</th><th align="center" rowspan="1" colspan="1">Year</th><th align="center" rowspan="1" colspan="1">Diameter stenosis %</th><th align="center" rowspan="1" colspan="1">Number of Lesions</th><th align="center" rowspan="1" colspan="1">Index</th><th align="center" rowspan="1" colspan="1">Study design</th><th align="center" rowspan="1" colspan="1">Accuracy rate</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Angiography</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Morris [<xref rid="jebm70054-bib-0018" ref-type="bibr">18</xref>]</td><td align="center" rowspan="1" colspan="1">2013</td><td align="center" rowspan="1" colspan="1">/</td><td align="center" rowspan="1" colspan="1">35</td><td align="center" rowspan="1" colspan="1">vFFR</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.97</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Tu [<xref rid="jebm70054-bib-0019" ref-type="bibr">19</xref>]</td><td align="center" rowspan="1" colspan="1">2014</td><td align="center" rowspan="1" colspan="1">46.6 &#x000b1; 7.3</td><td align="center" rowspan="1" colspan="1">77</td><td align="center" rowspan="1" colspan="1">FFR<sub>QCA</sub>
+</td><td align="center" rowspan="1" colspan="1">Retrospective multicenter</td><td align="center" rowspan="1" colspan="1">0.88</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Tr&#x000f6;bs [<xref rid="jebm70054-bib-0020" ref-type="bibr">20</xref>]</td><td align="center" rowspan="1" colspan="1">2016</td><td align="center" rowspan="1" colspan="1">56 &#x000b1; 14</td><td align="center" rowspan="1" colspan="1">100</td><td align="center" rowspan="1" colspan="1">FFRangio</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.90</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Tu/FAVOR Pilot [<xref rid="jebm70054-bib-0021" ref-type="bibr">21</xref>]</td><td align="center" rowspan="1" colspan="1">2016</td><td align="center" rowspan="1" colspan="1">64.5&#x000b1; 4.5</td><td align="center" rowspan="1" colspan="1">84</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Prospective multicenter</td><td align="center" rowspan="1" colspan="1">0.86</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Pellicano [<xref rid="jebm70054-bib-0022" ref-type="bibr">22</xref>]</td><td align="center" rowspan="1" colspan="1">2017</td><td align="center" rowspan="1" colspan="1">/</td><td align="center" rowspan="1" colspan="1">203</td><td align="center" rowspan="1" colspan="1">FFRangio</td><td align="center" rowspan="1" colspan="1">Prospective multicenter</td><td align="center" rowspan="1" colspan="1">0.93</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Emori [<xref rid="jebm70054-bib-0023" ref-type="bibr">23</xref>]</td><td align="center" rowspan="1" colspan="1">2017</td><td align="center" rowspan="1" colspan="1">
+<p>53&#x000b1;14(MI+)<xref rid="jebm70054-tbl1-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</p>
+<p>54 &#x000b1; 14(MI&#x02010;)</p>
+</td><td align="center" rowspan="1" colspan="1">
+<p>75</p>
+<p>75</p>
+</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">
+<p>0.87</p>
+<p>0.92</p>
+</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Emori [<xref rid="jebm70054-bib-0024" ref-type="bibr">24</xref>]</td><td align="center" rowspan="1" colspan="1">2017</td><td align="center" rowspan="1" colspan="1">55 &#x000b1; 10</td><td align="center" rowspan="1" colspan="1">100</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.94</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Xu/FAVOR II China [<xref rid="jebm70054-bib-0025" ref-type="bibr">25</xref>]</td><td align="center" rowspan="1" colspan="1">2017</td><td align="center" rowspan="1" colspan="1">46.5 &#x000b1; 11.3</td><td align="center" rowspan="1" colspan="1">328</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Prospective multicenter</td><td align="center" rowspan="1" colspan="1">0.93</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yazaki [<xref rid="jebm70054-bib-0026" ref-type="bibr">26</xref>]</td><td align="center" rowspan="1" colspan="1">2017</td><td align="center" rowspan="1" colspan="1">48.8 &#x000b1; 8.2</td><td align="center" rowspan="1" colspan="1">151</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.89</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Tar [<xref rid="jebm70054-bib-0027" ref-type="bibr">27</xref>]</td><td align="center" rowspan="1" colspan="1">2018</td><td align="center" rowspan="1" colspan="1">46</td><td align="center" rowspan="1" colspan="1">68</td><td align="center" rowspan="1" colspan="1">FFR<sub>sim</sub>
+</td><td align="center" rowspan="1" colspan="1">Retrospective multicenter</td><td align="center" rowspan="1" colspan="1">0.96</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Mej&#x000ed;a&#x02010;Renter&#x000ed;a [<xref rid="jebm70054-bib-0028" ref-type="bibr">28</xref>]</td><td align="center" rowspan="1" colspan="1">2018</td><td align="center" rowspan="1" colspan="1">52 &#x000b1; 12</td><td align="center" rowspan="1" colspan="1">300</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Retrospective multicenter</td><td align="center" rowspan="1" colspan="1">0.88</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Spitaleri [<xref rid="jebm70054-bib-0029" ref-type="bibr">29</xref>]</td><td align="center" rowspan="1" colspan="1">2018</td><td align="center" rowspan="1" colspan="1">66 &#x000b1; 10</td><td align="center" rowspan="1" colspan="1">49</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Retrospective multicenter</td><td align="center" rowspan="1" colspan="1">0.94</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Ties [<xref rid="jebm70054-bib-0030" ref-type="bibr">30</xref>]</td><td align="center" rowspan="1" colspan="1">2018</td><td align="center" rowspan="1" colspan="1">/</td><td align="center" rowspan="1" colspan="1">101</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.90</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Westra/FAVOR II Europe&#x02010;Japan [<xref rid="jebm70054-bib-0031" ref-type="bibr">31</xref>]</td><td align="center" rowspan="1" colspan="1">2018</td><td align="center" rowspan="1" colspan="1">45 &#x000b1; 10</td><td align="center" rowspan="1" colspan="1">317</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Prospective multicenter</td><td align="center" rowspan="1" colspan="1">0.87</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Westra/WIFI II [<xref rid="jebm70054-bib-0032" ref-type="bibr">32</xref>]</td><td align="center" rowspan="1" colspan="1">2018</td><td align="center" rowspan="1" colspan="1">50 &#x000b1; 12</td><td align="center" rowspan="1" colspan="1">240</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Prospective multicenter</td><td align="center" rowspan="1" colspan="1">0.83</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Kornowski [<xref rid="jebm70054-bib-0033" ref-type="bibr">33</xref>]</td><td align="center" rowspan="1" colspan="1">2018</td><td align="center" rowspan="1" colspan="1">59.8 &#x000b1; 14.8</td><td align="center" rowspan="1" colspan="1">60</td><td align="center" rowspan="1" colspan="1">FFRangio</td><td align="center" rowspan="1" colspan="1">Prospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.95</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Fearon/FAST&#x02010;FFR [<xref rid="jebm70054-bib-0034" ref-type="bibr">34</xref>]</td><td align="center" rowspan="1" colspan="1">2019</td><td align="center" rowspan="1" colspan="1">63 &#x000b1; 17</td><td align="center" rowspan="1" colspan="1">319</td><td align="center" rowspan="1" colspan="1">FFRangio</td><td align="center" rowspan="1" colspan="1">Prospective multicenter</td><td align="center" rowspan="1" colspan="1">0.92</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Omori [<xref rid="jebm70054-bib-0035" ref-type="bibr">35</xref>]</td><td align="center" rowspan="1" colspan="1">2019</td><td align="center" rowspan="1" colspan="1">64.7 &#x000b1; 15.2</td><td align="center" rowspan="1" colspan="1">118</td><td align="center" rowspan="1" colspan="1">FFRangio</td><td align="center" rowspan="1" colspan="1">Prospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.92</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Smit [<xref rid="jebm70054-bib-0036" ref-type="bibr">36</xref>]</td><td align="center" rowspan="1" colspan="1">2019</td><td align="center" rowspan="1" colspan="1">43.2 &#x000b1; 8.6</td><td align="center" rowspan="1" colspan="1">320</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.95</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">St&#x000e4;hli [<xref rid="jebm70054-bib-0037" ref-type="bibr">37</xref>]</td><td align="center" rowspan="1" colspan="1">2019</td><td align="center" rowspan="1" colspan="1">41 [36&#x02013;46]</td><td align="center" rowspan="1" colspan="1">516</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.86</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Hwang [<xref rid="jebm70054-bib-0038" ref-type="bibr">38</xref>]</td><td align="center" rowspan="1" colspan="1">2019</td><td align="center" rowspan="1" colspan="1">53.1 &#x000b1; 19.0</td><td align="center" rowspan="1" colspan="1">358</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Retrospective multicenter</td><td align="center" rowspan="1" colspan="1">0.93</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Kleczy&#x00144;ski [<xref rid="jebm70054-bib-0039" ref-type="bibr">39</xref>]</td><td align="center" rowspan="1" colspan="1">2019</td><td align="center" rowspan="1" colspan="1">44.2 &#x000b1; 11.7</td><td align="center" rowspan="1" colspan="1">123</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Prospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.91</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Gosling [<xref rid="jebm70054-bib-0040" ref-type="bibr">40</xref>]</td><td align="center" rowspan="1" colspan="1">2019</td><td align="center" rowspan="1" colspan="1">58 &#x000b1; 13.1</td><td align="center" rowspan="1" colspan="1">59</td><td align="center" rowspan="1" colspan="1">vFFR</td><td align="center" rowspan="1" colspan="1">Prospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.93</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Li/FLASH FFR [<xref rid="jebm70054-bib-0041" ref-type="bibr">41</xref>]</td><td align="center" rowspan="1" colspan="1">2020</td><td align="center" rowspan="1" colspan="1">64.2 &#x000b1; 14.3</td><td align="center" rowspan="1" colspan="1">328</td><td align="center" rowspan="1" colspan="1">caFFR</td><td align="center" rowspan="1" colspan="1">Prospective multicenter</td><td align="center" rowspan="1" colspan="1">0.96</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Erbay [<xref rid="jebm70054-bib-0042" ref-type="bibr">42</xref>]</td><td align="center" rowspan="1" colspan="1">2020</td><td align="center" rowspan="1" colspan="1">
+<p>41.4 [36.4&#x02013;47.6] group A<xref rid="jebm70054-tbl1-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</p>
+<p>41.4 [36.4&#x02013;45.7] group B</p>
+</td><td align="center" rowspan="1" colspan="1">516</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">
+<p>0.94</p>
+<p>0.92</p>
+</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Lauri [<xref rid="jebm70054-bib-0043" ref-type="bibr">43</xref>]</td><td align="center" rowspan="1" colspan="1">2020</td><td align="center" rowspan="1" colspan="1">51.6 &#x000b1; 9.8</td><td align="center" rowspan="1" colspan="1">91</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Retrospective multicenter</td><td align="center" rowspan="1" colspan="1">0.84</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Kanno [<xref rid="jebm70054-bib-0044" ref-type="bibr">44</xref>]</td><td align="center" rowspan="1" colspan="1">2020</td><td align="center" rowspan="1" colspan="1">49.6 &#x000b1; 12.0</td><td align="center" rowspan="1" colspan="1">504</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Post hoc analysis</td><td align="center" rowspan="1" colspan="1">0.79</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Mehta [<xref rid="jebm70054-bib-0045" ref-type="bibr">45</xref>]</td><td align="center" rowspan="1" colspan="1">2020</td><td align="center" rowspan="1" colspan="1">/</td><td align="center" rowspan="1" colspan="1">85</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.93</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Mej&#x000ed;a&#x02010;Renter&#x000ed;a [<xref rid="jebm70054-bib-0046" ref-type="bibr">46</xref>]</td><td align="center" rowspan="1" colspan="1">2020</td><td align="center" rowspan="1" colspan="1">48 &#x000b1; 10</td><td align="center" rowspan="1" colspan="1">138</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Retrospective multicenter</td><td align="center" rowspan="1" colspan="1">0.81</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Ely [<xref rid="jebm70054-bib-0047" ref-type="bibr">47</xref>]</td><td align="center" rowspan="1" colspan="1">2020</td><td align="center" rowspan="1" colspan="1">53.3 &#x000b1; 18.2</td><td align="center" rowspan="1" colspan="1">219</td><td align="center" rowspan="1" colspan="1">vFFR</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.68</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Li [<xref rid="jebm70054-bib-0048" ref-type="bibr">48</xref>]</td><td align="center" rowspan="1" colspan="1">2021</td><td align="center" rowspan="1" colspan="1">44 &#x000b1; 12</td><td align="center" rowspan="1" colspan="1">300</td><td align="center" rowspan="1" colspan="1">AccuFFRangio</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.94</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Ai [<xref rid="jebm70054-bib-0049" ref-type="bibr">49</xref>]</td><td align="center" rowspan="1" colspan="1">2021</td><td align="center" rowspan="1" colspan="1">48.5 &#x000b1; 9.3</td><td align="center" rowspan="1" colspan="1">170</td><td align="center" rowspan="1" colspan="1">caFFR</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.95</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Gong/FLASH FFR [<xref rid="jebm70054-bib-0050" ref-type="bibr">50</xref>]</td><td align="center" rowspan="1" colspan="1">2021</td><td align="center" rowspan="1" colspan="1">64.2 &#x000b1; 14.3</td><td align="center" rowspan="1" colspan="1">328</td><td align="center" rowspan="1" colspan="1">cFFR</td><td align="center" rowspan="1" colspan="1">Post&#x02010;hoc analysis</td><td align="center" rowspan="1" colspan="1">0.89</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Babakhani [<xref rid="jebm70054-bib-0051" ref-type="bibr">51</xref>]</td><td align="center" rowspan="1" colspan="1">2021</td><td align="center" rowspan="1" colspan="1">/</td><td align="center" rowspan="1" colspan="1">265</td><td align="center" rowspan="1" colspan="1">NiFFR</td><td align="center" rowspan="1" colspan="1">Prospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.81</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Choi [<xref rid="jebm70054-bib-0052" ref-type="bibr">52</xref>]</td><td align="center" rowspan="1" colspan="1">2021</td><td align="center" rowspan="1" colspan="1">51.7 &#x000b1; 16.1</td><td align="center" rowspan="1" colspan="1">599</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Retrospective multicenter</td><td align="center" rowspan="1" colspan="1">0.91</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Finizio [<xref rid="jebm70054-bib-0053" ref-type="bibr">53</xref>]</td><td align="center" rowspan="1" colspan="1">2021</td><td align="center" rowspan="1" colspan="1">54 &#x000b1; 8.6</td><td align="center" rowspan="1" colspan="1">100</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.91</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Kirigaya [<xref rid="jebm70054-bib-0004" ref-type="bibr">4</xref>]</td><td align="center" rowspan="1" colspan="1">2021</td><td align="center" rowspan="1" colspan="1">49.2 &#x000b1; 8.6</td><td align="center" rowspan="1" colspan="1">160</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.88</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Lee/C&#x02010;iFR [<xref rid="jebm70054-bib-0054" ref-type="bibr">54</xref>]</td><td align="center" rowspan="1" colspan="1">2021</td><td align="center" rowspan="1" colspan="1">/</td><td align="center" rowspan="1" colspan="1">1077</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Post&#x02010;hoc analysis</td><td align="center" rowspan="1" colspan="1">0.96</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Liontou [<xref rid="jebm70054-bib-0055" ref-type="bibr">55</xref>]</td><td align="center" rowspan="1" colspan="1">2021</td><td align="center" rowspan="1" colspan="1">51 &#x000b1; 9</td><td align="center" rowspan="1" colspan="1">78</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Retrospective multicenter</td><td align="center" rowspan="1" colspan="1">0.83</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Milzi [<xref rid="jebm70054-bib-0056" ref-type="bibr">56</xref>]</td><td align="center" rowspan="1" colspan="1">2021</td><td align="center" rowspan="1" colspan="1">46.1 &#x000b1; 9.0</td><td align="center" rowspan="1" colspan="1">46</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.83</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Tebaldi [<xref rid="jebm70054-bib-0057" ref-type="bibr">57</xref>]</td><td align="center" rowspan="1" colspan="1">2021</td><td align="center" rowspan="1" colspan="1">62 [55&#x02013;75]</td><td align="center" rowspan="1" colspan="1">164</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Prospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.86</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Peper [<xref rid="jebm70054-bib-0058" ref-type="bibr">58</xref>]</td><td align="center" rowspan="1" colspan="1">2021</td><td align="center" rowspan="1" colspan="1">48.5 &#x000b1; 9.4</td><td align="center" rowspan="1" colspan="1">377</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Retrospective multicenter</td><td align="center" rowspan="1" colspan="1">0.88</td></tr><tr><td rowspan="2" style="padding-left:10%" align="left" colspan="1">Jin [<xref rid="jebm70054-bib-0017" ref-type="bibr">17</xref>]</td><td rowspan="2" align="center" colspan="1">2021</td><td rowspan="2" align="center" colspan="1">44 &#x000b1; 9</td><td rowspan="2" align="center" colspan="1">134</td><td align="center" rowspan="1" colspan="1">QFR</td><td rowspan="2" align="center" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.85</td></tr><tr><td align="center" rowspan="1" colspan="1">vFFR</td><td align="center" rowspan="1" colspan="1">0.77</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Masdjedi/FAST [<xref rid="jebm70054-bib-0059" ref-type="bibr">59</xref>]</td><td align="center" rowspan="1" colspan="1">2021</td><td align="center" rowspan="1" colspan="1">37 &#x000b1; 13</td><td align="center" rowspan="1" colspan="1">100</td><td align="center" rowspan="1" colspan="1">vFFR</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.86</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Mileva [<xref rid="jebm70054-bib-0060" ref-type="bibr">60</xref>]</td><td align="center" rowspan="1" colspan="1">2021</td><td align="center" rowspan="1" colspan="1">32.5 &#x000b1; 16.0</td><td align="center" rowspan="1" colspan="1">39</td><td align="center" rowspan="1" colspan="1">vFFR</td><td align="center" rowspan="1" colspan="1">Prospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.97</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Neleman/FAST EXTEND [<xref rid="jebm70054-bib-0061" ref-type="bibr">61</xref>]</td><td align="center" rowspan="1" colspan="1">2021</td><td align="center" rowspan="1" colspan="1">/</td><td align="center" rowspan="1" colspan="1">294</td><td align="center" rowspan="1" colspan="1">vFFR</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.88</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Tu/FAVOR II China [<xref rid="jebm70054-bib-0062" ref-type="bibr">62</xref>]</td><td align="center" rowspan="1" colspan="1">2021</td><td align="center" rowspan="1" colspan="1">/</td><td align="center" rowspan="1" colspan="1">330</td><td align="center" rowspan="1" colspan="1">&#x003bc;QFR</td><td align="center" rowspan="1" colspan="1">Post&#x02010;hoc analysis</td><td align="center" rowspan="1" colspan="1">0.93</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Jiang [<xref rid="jebm70054-bib-0063" ref-type="bibr">63</xref>]</td><td align="center" rowspan="1" colspan="1">2022</td><td align="center" rowspan="1" colspan="1">45.5 &#x000b1; 11.6</td><td align="center" rowspan="1" colspan="1">298</td><td align="center" rowspan="1" colspan="1">AccuFFRangio</td><td align="center" rowspan="1" colspan="1">Retrospective two centers</td><td align="center" rowspan="1" colspan="1">0.93</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Wienemann [<xref rid="jebm70054-bib-0064" ref-type="bibr">64</xref>]</td><td align="center" rowspan="1" colspan="1">2022</td><td align="center" rowspan="1" colspan="1">44.5 &#x000b1; 7.5</td><td align="center" rowspan="1" colspan="1">626</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Retrospective multicenter</td><td align="center" rowspan="1" colspan="1">0.94</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Masdjedi/FAST II [<xref rid="jebm70054-bib-0065" ref-type="bibr">65</xref>]</td><td align="center" rowspan="1" colspan="1">2022</td><td align="center" rowspan="1" colspan="1">42 &#x000b1; 11</td><td align="center" rowspan="1" colspan="1">334</td><td align="center" rowspan="1" colspan="1">vFFR</td><td align="center" rowspan="1" colspan="1">Prospective multicenter</td><td align="center" rowspan="1" colspan="1">0.90</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Aminfar [<xref rid="jebm70054-bib-0066" ref-type="bibr">66</xref>]</td><td align="center" rowspan="1" colspan="1">2022</td><td align="center" rowspan="1" colspan="1">47 &#x000b1;14</td><td align="center" rowspan="1" colspan="1">100</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Prospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.92</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Ando [<xref rid="jebm70054-bib-0067" ref-type="bibr">67</xref>]</td><td align="center" rowspan="1" colspan="1">2022</td><td align="center" rowspan="1" colspan="1">43 &#x000b1;7.4</td><td align="center" rowspan="1" colspan="1">22</td><td align="center" rowspan="1" colspan="1">AngioFFR</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.91</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">de Moura Santos [<xref rid="jebm70054-bib-0068" ref-type="bibr">68</xref>]</td><td align="center" rowspan="1" colspan="1">2022</td><td align="center" rowspan="1" colspan="1">46.2 &#x000b1; 7.4</td><td align="center" rowspan="1" colspan="1">75</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.84</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Dowling [<xref rid="jebm70054-bib-0069" ref-type="bibr">69</xref>]</td><td align="center" rowspan="1" colspan="1">2022</td><td align="center" rowspan="1" colspan="1">/</td><td align="center" rowspan="1" colspan="1">57</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Prospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.84</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Echavarria&#x02010;Pinto [<xref rid="jebm70054-bib-0070" ref-type="bibr">70</xref>]</td><td align="center" rowspan="1" colspan="1">2022</td><td align="center" rowspan="1" colspan="1">46.6 &#x000b1; 12.8</td><td align="center" rowspan="1" colspan="1">90</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.83</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Kasinadhuni [<xref rid="jebm70054-bib-0071" ref-type="bibr">71</xref>]</td><td align="center" rowspan="1" colspan="1">2022</td><td align="center" rowspan="1" colspan="1">45.25&#x02009;&#x000b1;&#x02009;11.22</td><td align="center" rowspan="1" colspan="1">56</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.93</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Kleczynski [<xref rid="jebm70054-bib-0072" ref-type="bibr">72</xref>]</td><td align="center" rowspan="1" colspan="1">2022</td><td align="center" rowspan="1" colspan="1">58.6 &#x000b1; 13.4</td><td align="center" rowspan="1" colspan="1">416</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Prospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.93</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Zhang [<xref rid="jebm70054-bib-0073" ref-type="bibr">73</xref>]</td><td align="center" rowspan="1" colspan="1">2022</td><td align="center" rowspan="1" colspan="1">48.29 &#x000b1; 13.2</td><td align="center" rowspan="1" colspan="1">175</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Prospective multicenter</td><td align="center" rowspan="1" colspan="1">0.82</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Fezzi [<xref rid="jebm70054-bib-0074" ref-type="bibr">74</xref>]</td><td align="center" rowspan="1" colspan="1">2023</td><td align="center" rowspan="1" colspan="1">42.9 &#x000b1; 16.4</td><td align="center" rowspan="1" colspan="1">381</td><td align="center" rowspan="1" colspan="1">&#x003bc;QFR</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.93</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Li [<xref rid="jebm70054-bib-0075" ref-type="bibr">75</xref>]</td><td align="center" rowspan="1" colspan="1">2023</td><td align="center" rowspan="1" colspan="1">41 &#x000b1; 14</td><td align="center" rowspan="1" colspan="1">101</td><td align="center" rowspan="1" colspan="1">AccuFFRangio</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.96</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Liang [<xref rid="jebm70054-bib-0076" ref-type="bibr">76</xref>]</td><td align="center" rowspan="1" colspan="1">2023</td><td align="center" rowspan="1" colspan="1">/</td><td align="center" rowspan="1" colspan="1">159</td><td align="center" rowspan="1" colspan="1">AngioFFR</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.91</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Lopez&#x02010;Palop [<xref rid="jebm70054-bib-0077" ref-type="bibr">77</xref>]</td><td align="center" rowspan="1" colspan="1">2023</td><td align="center" rowspan="1" colspan="1">/</td><td align="center" rowspan="1" colspan="1">107</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.91</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Omori [<xref rid="jebm70054-bib-0078" ref-type="bibr">78</xref>]</td><td align="center" rowspan="1" colspan="1">2023</td><td align="center" rowspan="1" colspan="1">50.0 &#x000b1; 12.1</td><td align="center" rowspan="1" colspan="1">253</td><td align="center" rowspan="1" colspan="1">AngioFFR</td><td align="center" rowspan="1" colspan="1">Prospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.88</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Wang [<xref rid="jebm70054-bib-0079" ref-type="bibr">79</xref>]</td><td align="center" rowspan="1" colspan="1">2023</td><td align="center" rowspan="1" colspan="1">44.5 &#x000b1; 11.8</td><td align="center" rowspan="1" colspan="1">230</td><td align="center" rowspan="1" colspan="1">AccuFFRangio</td><td align="center" rowspan="1" colspan="1">Retrospective dual&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.94</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yang [<xref rid="jebm70054-bib-0080" ref-type="bibr">80</xref>]</td><td align="center" rowspan="1" colspan="1">2023</td><td align="center" rowspan="1" colspan="1">/</td><td align="center" rowspan="1" colspan="1">167</td><td align="center" rowspan="1" colspan="1">caFFR</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.91</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Zuo [<xref rid="jebm70054-bib-0081" ref-type="bibr">81</xref>]</td><td align="center" rowspan="1" colspan="1">2023</td><td align="center" rowspan="1" colspan="1">38.0 &#x000b1; 8.3%</td><td align="center" rowspan="1" colspan="1">571</td><td align="center" rowspan="1" colspan="1">&#x003bc;QFR</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.87</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Skalidis [<xref rid="jebm70054-bib-0016" ref-type="bibr">16</xref>]</td><td align="center" rowspan="1" colspan="1">2024</td><td align="center" rowspan="1" colspan="1">/</td><td align="center" rowspan="1" colspan="1">84</td><td align="center" rowspan="1" colspan="1">
+<p>QFR</p>
+<p>FFRangio</p>
+</td><td align="center" rowspan="1" colspan="1">Prospective multicenter</td><td align="center" rowspan="1" colspan="1">
+<p>0.94</p>
+<p>0.97</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">OCT</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Zafar [<xref rid="jebm70054-bib-0082" ref-type="bibr">82</xref>]</td><td align="center" rowspan="1" colspan="1">2014</td><td align="center" rowspan="1" colspan="1">45 &#x000b1; 11.1</td><td align="center" rowspan="1" colspan="1">26</td><td align="center" rowspan="1" colspan="1">OCT</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.81</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Ha [<xref rid="jebm70054-bib-0083" ref-type="bibr">83</xref>]</td><td align="center" rowspan="1" colspan="1">2016</td><td align="center" rowspan="1" colspan="1">58.1 &#x000b1; 13.4</td><td align="center" rowspan="1" colspan="1">92</td><td align="center" rowspan="1" colspan="1">OCT</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.88</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Jang [<xref rid="jebm70054-bib-0084" ref-type="bibr">84</xref>]</td><td align="center" rowspan="1" colspan="1">2017</td><td align="center" rowspan="1" colspan="1">56</td><td align="center" rowspan="1" colspan="1">95</td><td align="center" rowspan="1" colspan="1">OCT</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.86</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Lee [<xref rid="jebm70054-bib-0085" ref-type="bibr">85</xref>]</td><td align="center" rowspan="1" colspan="1">2017</td><td align="center" rowspan="1" colspan="1">/</td><td align="center" rowspan="1" colspan="1">17</td><td align="center" rowspan="1" colspan="1">OCT</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.94</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Seike [<xref rid="jebm70054-bib-0086" ref-type="bibr">86</xref>]</td><td align="center" rowspan="1" colspan="1">2017</td><td align="center" rowspan="1" colspan="1">55.2 &#x000b1; 14.0</td><td align="center" rowspan="1" colspan="1">31</td><td align="center" rowspan="1" colspan="1">OCT</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.94</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yu [<xref rid="jebm70054-bib-0006" ref-type="bibr">6</xref>]</td><td align="center" rowspan="1" colspan="1">2019</td><td align="center" rowspan="1" colspan="1">/</td><td align="center" rowspan="1" colspan="1">125</td><td align="center" rowspan="1" colspan="1">OFR</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.90</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Emori [<xref rid="jebm70054-bib-0087" ref-type="bibr">87</xref>]</td><td align="center" rowspan="1" colspan="1">2020</td><td align="center" rowspan="1" colspan="1">/</td><td align="center" rowspan="1" colspan="1">103</td><td align="center" rowspan="1" colspan="1">OFR</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.92</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Guti&#x000e9;rrez [<xref rid="jebm70054-bib-0013" ref-type="bibr">13</xref>]</td><td rowspan="2" align="center" colspan="1">2020</td><td align="center" rowspan="1" colspan="1">/</td><td rowspan="2" align="center" colspan="1">69</td><td align="center" rowspan="1" colspan="1">OFR</td><td rowspan="2" align="center" colspan="1">Prospective two centers</td><td align="center" rowspan="1" colspan="1">0.93</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">/</td><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">0.90</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Huang [<xref rid="jebm70054-bib-0014" ref-type="bibr">14</xref>]</td><td rowspan="2" align="center" colspan="1">2020</td><td rowspan="2" align="center" colspan="1">49.4 &#x000b1; 11.7</td><td rowspan="2" align="center" colspan="1">212</td><td align="center" rowspan="1" colspan="1">OFR</td><td rowspan="2" align="center" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.92</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">0.87</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Pan [<xref rid="jebm70054-bib-0088" ref-type="bibr">88</xref>]</td><td align="center" rowspan="1" colspan="1">2023</td><td align="center" rowspan="1" colspan="1">48.5 &#x000b1; 10.3</td><td align="center" rowspan="1" colspan="1">32</td><td align="center" rowspan="1" colspan="1">AccuFFRoct</td><td align="center" rowspan="1" colspan="1">Prospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.94</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Jeremias/ FUSION [<xref rid="jebm70054-bib-0089" ref-type="bibr">89</xref>]</td><td align="center" rowspan="1" colspan="1">2024</td><td align="center" rowspan="1" colspan="1">65.5 &#x000b1; 14.9</td><td align="center" rowspan="1" colspan="1">266</td><td align="center" rowspan="1" colspan="1">VFR</td><td align="center" rowspan="1" colspan="1">Prospective multicenter</td><td align="center" rowspan="1" colspan="1">0.82</td></tr><tr><td align="left" rowspan="1" colspan="1">IVUS</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Seike [<xref rid="jebm70054-bib-0090" ref-type="bibr">90</xref>]</td><td align="center" rowspan="1" colspan="1">2018</td><td align="center" rowspan="1" colspan="1">56.4 &#x000b1; 10.7</td><td align="center" rowspan="1" colspan="1">50</td><td align="center" rowspan="1" colspan="1">IVUS</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.90</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Bezerra [<xref rid="jebm70054-bib-0091" ref-type="bibr">91</xref>]</td><td align="center" rowspan="1" colspan="1">2019</td><td align="center" rowspan="1" colspan="1">50 [40&#x02013;60]</td><td align="center" rowspan="1" colspan="1">34</td><td align="center" rowspan="1" colspan="1">IVUS</td><td align="center" rowspan="1" colspan="1">Unknown</td><td align="center" rowspan="1" colspan="1">0.91</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Siogkas [<xref rid="jebm70054-bib-0092" ref-type="bibr">92</xref>]</td><td align="center" rowspan="1" colspan="1">2019</td><td align="center" rowspan="1" colspan="1">/</td><td align="center" rowspan="1" colspan="1">22</td><td align="center" rowspan="1" colspan="1">IVUS</td><td align="center" rowspan="1" colspan="1">Unknown</td><td align="center" rowspan="1" colspan="1">0.96</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Jiang [<xref rid="jebm70054-bib-0093" ref-type="bibr">93</xref>]</td><td align="center" rowspan="1" colspan="1">2021</td><td align="center" rowspan="1" colspan="1">/</td><td align="center" rowspan="1" colspan="1">32</td><td align="center" rowspan="1" colspan="1">AccuFFRivus</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.94</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yu [<xref rid="jebm70054-bib-0007" ref-type="bibr">7</xref>]</td><td align="center" rowspan="1" colspan="1">2021</td><td align="center" rowspan="1" colspan="1">/</td><td align="center" rowspan="1" colspan="1">167</td><td align="center" rowspan="1" colspan="1">UFR</td><td align="center" rowspan="1" colspan="1">Post&#x02010;hoc analysis</td><td align="center" rowspan="1" colspan="1">0.92</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Huang [<xref rid="jebm70054-bib-0094" ref-type="bibr">94</xref>]</td><td align="center" rowspan="1" colspan="1">2023</td><td align="center" rowspan="1" colspan="1">/</td><td align="center" rowspan="1" colspan="1">47</td><td align="center" rowspan="1" colspan="1">AccuFFRivus</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.94</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Dong [<xref rid="jebm70054-bib-0095" ref-type="bibr">95</xref>]</td><td align="center" rowspan="1" colspan="1">2023</td><td align="center" rowspan="1" colspan="1">/</td><td align="center" rowspan="1" colspan="1">108</td><td align="center" rowspan="1" colspan="1">IVUS&#x02010;FFR</td><td align="center" rowspan="1" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.91</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yang [<xref rid="jebm70054-bib-0096" ref-type="bibr">96</xref>]</td><td rowspan="2" align="center" colspan="1">2024</td><td rowspan="2" align="center" colspan="1">/</td><td rowspan="2" align="center" colspan="1">104</td><td align="center" rowspan="1" colspan="1">UFR</td><td rowspan="2" align="center" colspan="1">Retrospective single&#x02010;center</td><td align="center" rowspan="1" colspan="1">0.94</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">QFR</td><td align="center" rowspan="1" colspan="1">0.90</td></tr></tbody></table><table-wrap-foot><fn id="jebm70054-tbl1-note-0002"><p>
+<italic toggle="yes">Note</italic>: Values are mean &#x000b1; SD or % or median [interquartile range].</p></fn><fn id="jebm70054-tbl1-note-0001"><p>Abbreviations: caFFR, coronary angiography&#x02010;derived fractional flow reserve; cFFR, contrast FFR fractional flow reserve; FFR<sub>sim</sub>, simplified computation of the FFR; FAST&#x02010;FFR, the FFRangio accuracy versus standard fractional flow reserve; FAVOR, functional assessment by various flow reconstructions; FAST, the fast assessment of stenosis severity; FUSION, validation of OCT&#x02010;based functional diagnosis of coronary stenosis; NiFFR, non&#x02010;invasive fractional flow reserve; OFR, optic flow ratio; QFR, quantitative flow ratio; QCA, quantitative coronary angiography; &#x003bc;QFR, Murray law&#x02010;based quantitative flow ratio; UFR, ultrasonic flow ratio; vFFR, virtual fractional flow reserve; WIFI II, wire&#x02010;free functional imaging II.</p></fn><fn id="jebm70054-tbl1-note-0003"><label>
+<sup>a</sup>
+</label><p>MI+, prior myocardial infarction&#x02010;related coronary arteries, MI&#x02010;, non&#x02010;prior myocardial infarction&#x02010;related coronary arteries;.</p></fn><fn id="jebm70054-tbl1-note-0004"><label>
+<sup>b</sup>
+</label><p>Group 1, median reference vessel diameter &#x02264; 2.8&#x000a0;mm; Group 2, median reference vessel diameter&#x0003e;2.8&#x000a0;mm.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="jebm70054-sec-0140"><label>3.3</label><title>Risk of Bias Assessment</title><p>The methodological quality of the included studies demonstrated a low&#x02010;to&#x02010;moderate overall risk of bias based on the QUADAS&#x02010;2 framework. Briefly, 4 studies were graded as high risk of bias, 63 studies as medium risk of bias, and 19 studies as low. The main source of risk of bias might be the few prospective studies included, specifically referring to: (1) reliance on non&#x02010;consecutive or non&#x02010;randomized patient recruitment from existing databases; (2) inadequate blinding protocols regarding wire&#x02010;based FFR results during calculated&#x02010;FFR analyses; (3) absence of real&#x02010;time FFR validation during percutaneous interventions. The results of risk of bias assessment is shown in Figure&#x000a0;<xref rid="jebm70054-fig-0002" ref-type="fig">2</xref>.</p><fig position="float" fig-type="FIGURE" id="jebm70054-fig-0002"><label>FIGURE 2</label><caption><p>Risk of bias assessment.</p></caption><graphic xlink:href="JEBM-18-0-g003" position="anchor" id="jats-graphic-3"/></fig><p>The random&#x02010;effects model analysis revealed that Angio&#x02010;FFR and ICI&#x02010;FFR exhibited moderate&#x02010;to&#x02010;high heterogeneity (<italic toggle="yes">I</italic>
+<sup>2</sup> = 76% and 52%). This substantial variability primarily reflects: (1) technical heterogeneity in FFR computation protocols (e.g., 11 distinct Angio&#x02010;FFR algorithms identified), (2) clinical heterogeneity in patient profiles (range of stenosis is not entirely consistent), (3) methodological limitations from retrospective designs (53/86 studies). Sensitivity analysis found a pooled DOR of 0.47 (95% CI: 0.36&#x02013;0.60) and 0.51 (95% CI: 0.28&#x02013;0.93), indicating robust overall diagnostic efficacy. Deeks&#x02019; tests for publication bias demonstrated a nonsignificant trend toward small&#x02010;study effects for Angio&#x02010;FFR (bias estimate = &#x02010;7.37 &#x000b1; 4.74, <italic toggle="yes">p</italic> = 0.124), and no detectable bias was observed for ICI&#x02010;FFR (bias estimate = 3.04 &#x000b1; 4.78, <italic toggle="yes">p</italic> = 0.533).</p></sec><sec id="jebm70054-sec-0150"><label>3.4</label><title>Sensitivity and Specificity of Computational FFR</title><p>According to the ANOVA model, IVUS&#x02010;FFR had the highest ASEN of 0.92 (0.91, 0.94), and Angio&#x02010;FFR and OCT&#x02010;FFR performed similarly with the ASEN of 0.84 (0.84, 0.85) and 0.82 (0.79, 0.84), respectively. OCT&#x02010;FFR had the highest ASPE of 0.92 (0.91, 0.94) and Angio&#x02010;FFR and IVUS&#x02010;FFR also performed well with an ASPE of 0.91 (0.91, 0.92) and 0.90 (0.88, 0.92), respectively. Regarding the DDI and DOR, the IVUS&#x02010;FFR had the highest diagnostic value, with a DDI of 2.03 (1, 3) and a DOR of 126.53 (80.28, 155.45), showing a significant advantage over Angio&#x02010;FFR [DDI: 1.05 (0.33, 1), DOR: 56.49 (53.25, 59.60)] and OCT&#x02010;FFR [1.15 (0.33, 1), DOR: 61.55 (43.78, 74.14)].</p><p>Based on the overall diagnostic performance of IVUS&#x02010;FFR and OCT&#x02010;FFR, the diagnostic efficacy of ICI&#x02010;FFR was significantly better than that of Angio&#x02010;FFR, with a DDI and DOR of 1.00 (0.99, 1.01) versus 0.96 (0.94, 0.98) and 79.18 (62.20, 92.35) versus 56.15 (52.86, 59.29), respectively (Tables&#x000a0;<xref rid="jebm70054-tbl-0002" ref-type="table">2</xref> and <xref rid="jebm70054-tbl-0003" ref-type="table">3</xref>).</p><table-wrap position="float" id="jebm70054-tbl-0002" content-type="TABLE"><label>TABLE 2</label><caption><p>AVNOVA&#x02010;based network meta&#x02010;analysis of Angio&#x02010;FFR, OCT&#x02010;FFR, and IVUS&#x02010;FFR.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1">ASEN</th><th align="center" rowspan="1" colspan="1">ASPE</th><th align="center" rowspan="1" colspan="1">DDI</th><th align="center" rowspan="1" colspan="1">DOR</th><th align="center" rowspan="1" colspan="1">RSEN</th><th align="center" rowspan="1" colspan="1">RSPE</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Angio&#x02010;FFR</td><td align="center" rowspan="1" colspan="1">0.84 (0.84, 0.85)</td><td align="center" rowspan="1" colspan="1">0.91 (0.91, 0.92)</td><td align="center" rowspan="1" colspan="1">1.05 (0.33, 1)</td><td align="center" rowspan="1" colspan="1">56.49 (53.25, 59.60)</td><td align="center" rowspan="1" colspan="1">0.91 (0.89, 0.93)</td><td align="center" rowspan="1" colspan="1">1.02 (1.00, 1.04)</td></tr><tr><td align="left" rowspan="1" colspan="1">OCT&#x02010;FFR</td><td align="center" rowspan="1" colspan="1">0.82 (0.79, 0.84)</td><td align="center" rowspan="1" colspan="1">0.92 (0.91, 0.94)</td><td align="center" rowspan="1" colspan="1">1.15 (0.33, 1)</td><td align="center" rowspan="1" colspan="1">61.55 (43.78, 74.14)</td><td align="center" rowspan="1" colspan="1">0.88 (0.85, 0.92)</td><td align="center" rowspan="1" colspan="1">1.03 (1.00, 1.06)</td></tr><tr><td align="left" rowspan="1" colspan="1">IVUS&#x02010;FFR</td><td align="center" rowspan="1" colspan="1">0.92 (0.91, 0.94)</td><td align="center" rowspan="1" colspan="1">0.90 (0.88, 0.92)</td><td align="center" rowspan="1" colspan="1">2.03 (1, 3)</td><td align="center" rowspan="1" colspan="1">126.53 (80.28, 155.45)</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">1</td></tr></tbody></table><table-wrap-foot><fn id="jebm70054-tbl2-note-0001"><p>Abbreviations: ANOVA, analysis of variance; ASEN, absolute sensitivity; ASPE, absolute specificity; DDI, diagnostic dominance index; DOR, diagnostic odds ratio; FFR, fractional flow reserve; IVUS, intravascular ultrasound; OCT, optical coherence tomography; RSEN, relative sensitivity; RSPE, relative specificity.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap><table-wrap position="float" id="jebm70054-tbl-0003" content-type="TABLE"><label>TABLE 3</label><caption><p>AVNOVA&#x02010;based network meta&#x02010;analysis of Angio&#x02010;FFR and ICI&#x02010;FFR.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1">ASEN</th><th align="center" rowspan="1" colspan="1">ASPE</th><th align="center" rowspan="1" colspan="1">DDI</th><th align="center" rowspan="1" colspan="1">DOR</th><th align="center" rowspan="1" colspan="1">RSEN</th><th align="center" rowspan="1" colspan="1">RSPE</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Angio&#x02010;FFR</td><td align="center" rowspan="1" colspan="1">0.84 (0.83, 0.85)</td><td align="center" rowspan="1" colspan="1">0.91 (0.91, 0.92)</td><td align="center" rowspan="1" colspan="1">0.96 (0.94, 0.98)</td><td align="center" rowspan="1" colspan="1">56.15 (52.86, 59.29)</td><td align="center" rowspan="1" colspan="1">0.96 (0.94, 0.98)</td><td align="center" rowspan="1" colspan="1">1.00 (0.99, 1.01)</td></tr><tr><td align="left" rowspan="1" colspan="1">ICI&#x02010;FFR</td><td align="center" rowspan="1" colspan="1">0.87 (0.86, 0.89)</td><td align="center" rowspan="1" colspan="1">0.91 (0.90, 0.93)</td><td align="center" rowspan="1" colspan="1">1.00 (0.99, 1.01)</td><td align="center" rowspan="1" colspan="1">79.18 (62.20, 92.35)</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">1</td></tr></tbody></table><table-wrap-foot><fn id="jebm70054-tbl3-note-0001"><p>Abbreviations: ANOVA, analysis of variance; ASEN, absolute sensitivity; ASPE, absolute specificity; DDI, diagnostic dominance index; DOR, diagnostic odds ratio; FFR, fractional flow reserve; ICI, intracoronary imaging; RSEN, relative sensitivity; RSPE, relative specificity.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="jebm70054-sec-0160"><label>3.5</label><title>Accuracy of Computational FFR</title><p>The three types were analyzed according to the Gemtc package. Taking FFR as the reference standard, most studies were controlled trials on Angio&#x02010;FFR and FFR, and 3 were two&#x02010;arm trials comparing OFR/UFR and QFR. The constructed network map is shown in Figure&#x000a0;<xref rid="jebm70054-fig-0003" ref-type="fig">3</xref>. Compared to Angio&#x02010;FFR, IVUS&#x02010;FFR [RR: 1.04 (1.01, 1.06)] and OCT&#x02010;FFR [RR: 1.02 (0.99 1.04)] showed better accuracy. In terms of overall performance, ICI&#x02010;FFR had a significant diagnostic accuracy advantage over Angio&#x02010;FFR (RR: 1.03, 95% CI: 1.01&#x02013;1.04) (Tables&#x000a0;<xref rid="jebm70054-tbl-0004" ref-type="table">4</xref> and <xref rid="jebm70054-tbl-0005" ref-type="table">5</xref>). With FFR used as the reference standard, the probability ranking plot and the SUCRA value confirmed that IVUS&#x02010;FFR demonstrated the best performance, followed by OCT&#x02010;FFR (Figure&#x000a0;<xref rid="jebm70054-fig-0004" ref-type="fig">4B</xref>). Overall, ICI&#x02010;FFR was unequivocally superior to Angio&#x02010;FFR (Figure&#x000a0;<xref rid="jebm70054-fig-0004" ref-type="fig">4A</xref>
+<bold>)</bold>.</p><fig position="float" fig-type="FIGURE" id="jebm70054-fig-0003"><label>FIGURE 3</label><caption><p>The network map demonstrates that the majority of studies have focused on separate comparisons between Angio&#x02010;FFR, IVUS&#x02010;FFR, OCT&#x02010;FFR and FFR(A), and a small number of studies have made head&#x02010;to&#x02010;head comparisons between Angio&#x02010;FFR and ICI&#x02010;FFR (B).</p></caption><graphic xlink:href="JEBM-18-0-g001" position="anchor" id="jats-graphic-5"/></fig><table-wrap position="float" id="jebm70054-tbl-0004" content-type="TABLE"><label>TABLE 4</label><caption><p>League table of Angio&#x02010;FFR, OCT&#x02010;FFR, and IVUS&#x02010;FFR.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">FFR</th><th align="center" rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1"/></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">1.11 (1.1, 1.11)</td><td align="center" rowspan="1" colspan="1">IVUS&#x02010;FFR</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">1.09 (1.07, 1.11)</td><td align="center" rowspan="1" colspan="1">1.03 (1.05, 1.02)</td><td align="center" rowspan="1" colspan="1">OCT&#x02010;FFR</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">1.07 (1.05, 1.01)</td><td align="center" rowspan="1" colspan="1">1.04 (1.01, 1.06)</td><td align="center" rowspan="1" colspan="1">1.02 (0.99 1.04)</td><td align="center" rowspan="1" colspan="1">Angio&#x02010;FFR</td></tr></tbody></table><table-wrap-foot><fn id="jebm70054-tbl4-note-0001"><p>Abbreviations: FFR, fractional flow reserve; IVUS, intravascular ultrasound; OCT, optical coherence tomography.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap><table-wrap position="float" id="jebm70054-tbl-0005" content-type="TABLE"><label>TABLE 5</label><caption><p>League table of Angio&#x02010;FFR and ICI&#x02010;FFR.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">FFR</th><th align="center" rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1"/></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">1.1 (1.1, 1.11)</td><td align="center" rowspan="1" colspan="1">ICI&#x02010;FFR</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">1.08 (1.06, 1.11)</td><td align="center" rowspan="1" colspan="1">1.03 (1.01, 1.04)</td><td align="center" rowspan="1" colspan="1">Angio&#x02010;FFR</td></tr></tbody></table><table-wrap-foot><fn id="jebm70054-tbl5-note-0001"><p>Abbreviations: FFR, fractional flow reserve; ICI, intracoronary imaging.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap><fig position="float" fig-type="FIGURE" id="jebm70054-fig-0004"><label>FIGURE 4</label><caption><p>The probability histogram and the SUCRA table demonstrated that the diagnostic performance of ICI&#x02010;FFR was more closely aligned with the gold standard (FFR) than Angio&#x02010;FFR (A), while IVUS&#x02010;FFR exhibited the most optimal overall diagnostic efficacy, followed by OCT&#x02010;FFR and Angio&#x02010;FFR, respectively (B).</p></caption><graphic xlink:href="JEBM-18-0-g004" position="anchor" id="jats-graphic-7"/></fig></sec></sec><sec id="jebm70054-sec-0170"><label>4</label><title>Discussion</title><p>This study employed a dual&#x02010;method diagnostic network meta&#x02010;analysis to comprehensively evaluate Angio&#x02010;FFR and ICI&#x02010;FFR performance. Through the ANOVA model, we quantified both absolute metrics and direct comparative indices: IVUS&#x02010;FFR demonstrated superior absolute sensitivity (ASEN 0.92 [0.91&#x02013;0.94]) while OCT&#x02010;FFR achieved optimal absolute specificity (ASPE 0.92 [0.91&#x02013;0.94]); critically, this model also revealed ICI&#x02010;FFR's advantage in DDI (1.00&#x000a0;vs. 0.96) and DOR (79.18&#x000a0;vs. 56.15). Complementarily, the Bayesian NMA generated evidence&#x02010;synthesized hierarchies: a relative risk of 1.03 (95% CI: 1.01&#x02013;1.04) favoring ICI&#x02010;FFR and superior SUCRA rankings confirming its diagnostic primacy. This methodological synergy&#x02014;where ANOVA provides granular performance profiling but cannot integrate multi&#x02010;arm evidence, while Bayesian NMA establishes relative hierarchies through network synthesis&#x02014;convergently validates ICI&#x02010;FFR's superiority for intermediate coronary stenosis assessment.</p><p>Increasing evidence supports that Angio&#x02010;FFR is the earliest&#x02010;developed and the most widely applied diagnostic method. Compared with quantitative coronary angiography (QCA), Angio&#x02010;FFR presents undoubtable merits for the diagnosis of vessel diameter stenosis [<xref rid="jebm70054-bib-0021" ref-type="bibr">21</xref>]. The contrast agent flow model could significantly improve the diagnostic performance of QFR, compared with the fixed flow model [<xref rid="jebm70054-bib-0021" ref-type="bibr">21</xref>, <xref rid="jebm70054-bib-0030" ref-type="bibr">30</xref>], which has been validated in the following FAVOR II study in China, with cQFR as the default calculation model [<xref rid="jebm70054-bib-0025" ref-type="bibr">25</xref>]. Angio&#x02010;FFR has lower economic costs, rapid operation, the most validation studies with FFR, and continuous advantages through technological advances. For example, automated computational procedures, single angiographic view, and the introduced bifurcation fractal law are designed to improve convenience and accuracy [<xref rid="jebm70054-bib-0062" ref-type="bibr">62</xref>, <xref rid="jebm70054-bib-0067" ref-type="bibr">67</xref>]. Furthermore, additional analyses for other physiological functions, such as radial wall strain and index of microvascular resistance calculation, have been developed based on coronary images [<xref rid="jebm70054-bib-0097" ref-type="bibr">97</xref>, <xref rid="jebm70054-bib-0098" ref-type="bibr">98</xref>]. A FAVOR III China study revealed that QFR&#x02010;guided percutaneous coronary intervention (PCI) had significantly favorable 1&#x02010;year clinical endpoint outcomes than coronary angiography&#x02010;guided PCI [<xref rid="jebm70054-bib-0099" ref-type="bibr">99</xref>].</p><p>Due to the inherent limitations of angiographic&#x02010;based methods, such as vascular shortening and overlap on 2D images, and interference by calcification on edge measurement, the inconsistency in functional assessment was higher in patients with acute myocardial infarction (AMI) than in patients with stable coronary heart disease [<xref rid="jebm70054-bib-0023" ref-type="bibr">23</xref>]. This can be attributed to the early onset of microcirculation dysfunction in AMI patients. Coronary microcirculation dysfunction may compromise the diagnostic consistency between QFR and FFR [<xref rid="jebm70054-bib-0028" ref-type="bibr">28</xref>]. On the other hand, the lack of anatomical information of the collateral vessels will affect the accuracy of the hydrodynamic model of the main collateral vessels [<xref rid="jebm70054-bib-0100" ref-type="bibr">100</xref>]. To ensure sufficient filling of the contrast agent in the coronary artery, the angiographic catheter should be inserted into the LMCA, leading to inadequate development of the main artery. We observed that many Angio&#x02010;FFR studies usually ruled out LMCA disease.</p><p>ICI, typified by OCT and IVUS, can help further understand the structure of the vascular wall and the composition and characteristics of plaques. It is critical in guiding clinical coronary intervention and has been widely applied in the catheter room. Compared with FFR, OCT can identify high&#x02010;risk plaques like thin&#x02010;cap fibroatheroma, and this risk factor is directly related to the poor prognosis of patients, even if they have normal FFR [<xref rid="jebm70054-bib-0101" ref-type="bibr">101</xref>, <xref rid="jebm70054-bib-0102" ref-type="bibr">102</xref>]. In the context of assessing ischemia&#x02010;directed PCI, FFR is a more advantageous modality, whereas ICI is better suited for assessing anatomical characteristics and planning the strategy for PCI [<xref rid="jebm70054-bib-0103" ref-type="bibr">103</xref>]. For an intermediate coronary lesion, clinicians prefer to use FFR to assess the need for PCI and to use ICI to confirm the optimal approach for performing PCI. In low&#x02010;risk coronary arteries, FFR&#x02010;guided PCI may not be inferior to ICI&#x02010;guided PCI. However, in intermediate&#x02010; to high&#x02010;risk complex PCI that involves long lesions and left main lesions, ICI&#x02010;guided PCI may be the more advantageous approach [<xref rid="jebm70054-bib-0104" ref-type="bibr">104</xref>].</p><p>While ICI&#x02010;FFR demonstrates stronger correlation with wire&#x02010;based FFR than Angio&#x02010;FFR [<xref rid="jebm70054-bib-0014" ref-type="bibr">14</xref>, <xref rid="jebm70054-bib-0087" ref-type="bibr">87</xref>, <xref rid="jebm70054-bib-0105" ref-type="bibr">105</xref>], its clinical advantage remains moderate due to three key limitations: (1) physical constraints preventing OCT/IVUS catheter access to distal small vessels; (2) use of fixed blood flow parameters rather than patient&#x02010;specific hemodynamics; (3) technical gaps in real&#x02010;time imaging&#x02010;flow integration. Emerging solutions address these: Real&#x02010;time OCT and Angiographic Co&#x02010;Registration (ACR) now provides contrast&#x02010;flow parameters for OCT&#x02010;FFR without prolonging procedures [<xref rid="jebm70054-bib-0106" ref-type="bibr">106</xref>], while hybrid algorithms like OCT&#x02010;&#x003bc;QFR&#x000a0;integrate high&#x02010;resolution plaque/stent data with functional metrics [<xref rid="jebm70054-bib-0107" ref-type="bibr">107</xref>]. These advances enable single&#x02010;scan comprehensive assessment for optimized treatment planning.</p><p>The dual use of ANOVA model&#x02010;based diagnostic NMA and traditional Bayesian NMA is a methodological strength of this study. The former provides results such as SEN, SPE, ASEN, ASPE, and DOR, while the latter offers a comprehensive evaluation of diagnostic accuracy. These two methods are cross&#x02010;validated, and the similarity between the two sets of analytical results further ensures the reliability of the comparison outcomes. Notwithstanding the fact that the GRADE assessment is not applicable to diagnostic NMA, given the consistent findings across the different analytic models, the presence of clinically informative confidence intervals, and the fact that the primary cause of the risk of bias was non&#x02010;consecutive recruitment, the level of evidence included in this study was generally moderate and acceptable.</p><p>This study's limitations impact clinical applicability: (1) retrospective design dominance (63/86 studies) reduces real&#x02010;world generalizability by underrepresenting complex cases; (2) algorithmic differences can lead to inconsistent diagnostic performance for a particular technique and the overall performance of the system; (3) differential lesion inclusion&#x02014;systematic exclusion of left main coronary artery (LMCA) lesions in Angio&#x02010;FFR studies versus inclusion in ICI&#x02010;FFR studies&#x02014;restricts guidance for high&#x02010;risk anatomies; (4) technical evolution bias from ongoing computational refinements limits result relevance to current technologies; (5) evidence gaps in head&#x02010;to&#x02010;head comparisons constrain definitive superiority conclusions; and (6) substantial heterogeneity exists in some results (Angio&#x02010;FFR and ICI&#x02010;FFR exhibited moderate&#x02010;to&#x02010;high heterogeneity with <italic toggle="yes">I</italic>
+<sup>2</sup> = 76% and 52%), it primarily reflects technical heterogeneity in FFR computation protocol, clinical heterogeneity in patient profiles and methodological limitations from retrospective designs. These factors collectively affect clinical translation through selection bias in retrospective cohorts, protocol inconsistencies, anatomical exclusions and technological disparities, necessitating prospective trials with standardized frameworks and comprehensive lesion inclusion.</p><p>In conclusion, this NMA establishes that ICI&#x02010;FFR demonstrates superior diagnostic accuracy over Angio&#x02010;FFR for intermediate coronary stenosis. However, high heterogeneity and retrospective design dominance limit generalizability to complex scenarios. Prospective validation with a higher level of certainty will be essential for clinical implementation in the future.</p></sec><sec sec-type="COI-statement" id="jebm70054-sec-0190"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="jebm70054-supinfo-0001" position="float" content-type="local-data"/><supplementary-material id="jebm70054-supitem-0001" position="float" content-type="local-data"><caption><p>
+<bold>Supporting File</bold>: jebm70054&#x02010;sup&#x02010;0001&#x02010;SuppMat.docx</p></caption><media xlink:href="JEBM-18-0-s001.docx"/></supplementary-material></sec></body><back><ack id="jebm70054-sec-0180"><title>Acknowledgments</title><p>This work was supported by the Funds for International Cooperation and Exchange of the National Natural Science Foundation of China (Grant Number: 62161160312), Zhejiang Provincial Key Research and Development Program (Grant Number: 2020C03018), Zhejiang Provincial Science and Technology Programme of Traditional Chinese Medicine (Grant Number: 2024ZL752, 2025ZL457) and Hangzhou Agricultural and Social Development Scientific Research Project (Grant Number: 20220919Y066).</p></ack><ref-list id="jebm70054-bibl-0001"><title>References</title><ref id="jebm70054-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jebm70054-cite-0001">
+<string-name>
+<given-names>M.</given-names>
+<surname>Sousa&#x02010;Uva</surname>
+</string-name>, <string-name>
+<given-names>F. J.</given-names>
+<surname>Neumann</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Ahlsson</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>2018 ESC/EACTS Guidelines on Myocardial Revascularization</article-title>,&#x0201d; <source>European Journal of Cardio&#x02010;Thoracic Surgery</source>
+<volume>55</volume>, no. <issue>1</issue> (<year>2019</year>): <fpage>4</fpage>&#x02013;<lpage>90</lpage>.<pub-id pub-id-type="pmid">30165632</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jebm70054-cite-0002">
+<string-name>
+<given-names>M.</given-names>
+<surname>Tebaldi</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Biscaglia</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Fineschi</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Evolving Routine Standards in Invasive Hemodynamic Assessment of Coronary Stenosis: The Nationwide Italian SICI&#x02010;GISE Cross&#x02010;Sectional ERIS Study</article-title>,&#x0201d; <source>Circulation: Cardiovascular Interventions</source>
+<volume>11</volume>, no. <issue>15</issue> (<year>2018</year>): <fpage>1482</fpage>&#x02013;<lpage>1491</lpage>.</mixed-citation></ref><ref id="jebm70054-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jebm70054-cite-0003">
+<string-name>
+<given-names>C.</given-names>
+<surname>Collet</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Onuma</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sonck</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Diagnostic Performance of Angiography&#x02010;Derived Fractional Flow Reserve: A Systematic Review and Bayesian Meta&#x02010;Analysis</article-title>,&#x0201d; <source>European Heart Journal</source>
+<volume>39</volume>, no. <issue>35</issue> (<year>2018</year>): <fpage>3314</fpage>&#x02013;<lpage>3321</lpage>.<pub-id pub-id-type="pmid">30137305</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jebm70054-cite-0004">
+<string-name>
+<given-names>H.</given-names>
+<surname>Kirigaya</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Okada</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Hibi</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Diagnostic Performance and Limitation of Quantitative Flow Ratio for Functional Assessment of Intermediate Coronary Stenosis</article-title>,&#x0201d; <source>Journal of Cardiology</source>
+<volume>77</volume>, no. <issue>5</issue> (<year>2021</year>): <fpage>492</fpage>&#x02013;<lpage>499</lpage>.<pub-id pub-id-type="pmid">33246845</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jebm70054-cite-0005">
+<string-name>
+<given-names>L.</given-names>
+<surname>Raber</surname>
+</string-name>, <string-name>
+<given-names>G. S.</given-names>
+<surname>Mintz</surname>
+</string-name>, <string-name>
+<given-names>K. C.</given-names>
+<surname>Koskinas</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Clinical Use of Intracoronary Imaging. Part 1: Guidance and Optimization of Coronary Interventions. An Expert Consensus Document of the European Association of Percutaneous Cardiovascular Interventions</article-title>,&#x0201d; <source>EuroIntervention</source>
+<volume>14</volume>, no. <issue>6</issue> (<year>2018</year>): <fpage>656</fpage>&#x02013;<lpage>677</lpage>.<pub-id pub-id-type="pmid">29939149</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jebm70054-cite-0006">
+<string-name>
+<given-names>W.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Jia</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Diagnostic Accuracy of Intracoronary Optical Coherence Tomography&#x02010;Derived Fractional Flow Reserve for Assessment of Coronary Stenosis Severity</article-title>,&#x0201d; <source>EuroIntervention</source>
+<volume>15</volume>, no. <issue>2</issue> (<year>2019</year>): <fpage>189</fpage>&#x02013;<lpage>197</lpage>.<pub-id pub-id-type="pmid">31147309</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jebm70054-cite-0007">
+<string-name>
+<given-names>W.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Tanigaki</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Ding</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Accuracy of Intravascular Ultrasound&#x02010;Based Fractional Flow Reserve in Identifying Hemodynamic Significance of Coronary Stenosis</article-title>,&#x0201d; <source>Circulation: Cardiovascular Interventions</source>
+<volume>14</volume>, no. <issue>2</issue> (<year>2021</year>): <elocation-id>e009840</elocation-id>.<pub-id pub-id-type="pmid">33541105</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jebm70054-cite-0008">
+<string-name>
+<given-names>T.</given-names>
+<surname>Takahashi</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Shin</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Kuno</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Diagnostic Performance of Fractional Flow Reserve Derived From Coronary Angiography, Intravascular Ultrasound, and Optical Coherence Tomography: A Meta&#x02010;Analysis</article-title>,&#x0201d; <source>Journal of Cardiology</source>
+<volume>80</volume>, no. <issue>1</issue> (<year>2022</year>): <fpage>1</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">35282944</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jebm70054-cite-0009">
+<string-name>
+<given-names>V. N.</given-names>
+<surname>Nyaga</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Aerts</surname>
+</string-name>, and <string-name>
+<given-names>M.</given-names>
+<surname>Arbyn</surname>
+</string-name>, &#x0201c;<article-title>ANOVA Model for Network Meta&#x02010;Analysis of Diagnostic Test Accuracy Data</article-title>,&#x0201d; <source>Statistical Methods in Medical Research</source>
+<volume>27</volume>, no. <issue>6</issue> (<year>2018</year>): <fpage>1766</fpage>&#x02013;<lpage>1784</lpage>.<pub-id pub-id-type="pmid">27655805</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jebm70054-cite-0010">
+<string-name>
+<given-names>L.</given-names>
+<surname>Mbuagbaw</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Rochwerg</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Jaeschke</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Approaches to Interpreting and Choosing the Best Treatments in Network Meta&#x02010;analyses</article-title>,&#x0201d; <source>Systematic Reviews</source>
+<volume>6</volume>, no. <issue>1</issue> (<year>2017</year>): <fpage>79</fpage>.<pub-id pub-id-type="pmid">28403893</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jebm70054-cite-0011">
+<string-name>
+<given-names>M. J.</given-names>
+<surname>Page</surname>
+</string-name>, <string-name>
+<given-names>J. E.</given-names>
+<surname>McKenzie</surname>
+</string-name>, <string-name>
+<given-names>P. M.</given-names>
+<surname>Bossuyt</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>The PRISMA 2020 Statement: An Updated Guideline for Reporting Systematic Reviews</article-title>,&#x0201d; <source>Bmj</source>
+<volume>372</volume> (<year>2021</year>): <fpage>n71</fpage>.<pub-id pub-id-type="pmid">33782057</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jebm70054-cite-0012">
+<string-name>
+<given-names>P. F.</given-names>
+<surname>Whiting</surname>
+</string-name>, <string-name>
+<given-names>A. W.</given-names>
+<surname>Rutjes</surname>
+</string-name>, <string-name>
+<given-names>M. E.</given-names>
+<surname>Westwood</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>QUADAS&#x02010;2: A Revised Tool for the Quality Assessment of Diagnostic Accuracy Studies</article-title>,&#x0201d; <source>Annals of Internal Medicine</source>
+<volume>155</volume>, no. <issue>8</issue> (<year>2011</year>): <fpage>529</fpage>&#x02013;<lpage>536</lpage>.<pub-id pub-id-type="pmid">22007046</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jebm70054-cite-0013">
+<string-name>
+<given-names>J. L.</given-names>
+<surname>Guti&#x000e9;rrez&#x02010;Chico</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Yu</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Diagnostic Accuracy and Reproducibility of Optical Flow Ratio for Functional Evaluation of Coronary Stenosis in a Prospective Series</article-title>,&#x0201d; <source>Cardiology Journal</source>
+<volume>27</volume>, no. <issue>4</issue> (<year>2020</year>): <fpage>350</fpage>&#x02013;<lpage>361</lpage>.<pub-id pub-id-type="pmid">32436590</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jebm70054-cite-0014">
+<string-name>
+<given-names>J.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Emori</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Ding</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Diagnostic Performance of Intracoronary Optical Coherence Tomography&#x02010;based versus Angiography&#x02010;Based Fractional Flow Reserve for the Evaluation of Coronary Lesions</article-title>,&#x0201d; <source>EuroIntervention</source>
+<volume>16</volume>, no. <issue>7</issue> (<year>2020</year>): <fpage>568</fpage>&#x02013;<lpage>576</lpage>.<pub-id pub-id-type="pmid">31951207</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jebm70054-cite-0015">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Sui</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Wu</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Qian</surname>
+</string-name>, &#x0201c;<article-title>Diagnostic Performance of Intravascular Ultrasound&#x02010;Based Fractional Flow Reserve Versus Angiography&#x02010;based Quantitative Flow Ratio Measurements for Evaluating Left Main Coronary Artery Stenosis</article-title>,&#x0201d; <source>Catheterization and Cardiovascular Interventions</source>
+<volume>99</volume>, no. <issue>S1</issue> (<year>2022</year>): <fpage>1403</fpage>&#x02013;<lpage>1409</lpage>.<pub-id pub-id-type="pmid">35129284</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jebm70054-cite-0016">
+<string-name>
+<given-names>I.</given-names>
+<surname>Skalidis</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Noirclerc</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Meier</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Head&#x02010;to&#x02010;Head Comparison of Two Angiography&#x02010;Derived Fractional Flow Reserve Techniques in Patients With High&#x02010;Risk Acute Coronary Syndrome: A Multicenter Prospective Study</article-title>,&#x0201d; <source>International Journal of Cardiology</source>
+<volume>399</volume> (<year>2024</year>): <elocation-id>131663</elocation-id>.<pub-id pub-id-type="pmid">38141730</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jebm70054-cite-0017">
+<string-name>
+<given-names>C.</given-names>
+<surname>Jin</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Ramasamy</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Safi</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Diagnostic Accuracy of Quantitative Flow Ratio (QFR) and Vessel Fractional Flow Reserve (vFFR) Estimated Retrospectively by Conventional Radiation Saving X&#x02010;Ray Angiography</article-title>,&#x0201d; <source>The International Journal of Cardiovascular Imaging</source>
+<volume>37</volume>, no. <issue>5</issue> (<year>2021</year>): <fpage>1491</fpage>&#x02013;<lpage>1501</lpage>.<pub-id pub-id-type="pmid">33454897</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jebm70054-cite-0018">
+<string-name>
+<given-names>P. D.</given-names>
+<surname>Morris</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Ryan</surname>
+</string-name>, <string-name>
+<given-names>A. C.</given-names>
+<surname>Morton</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Virtual Fractional Flow Reserve From Coronary Angiography: Modeling the Significance of Coronary Lesions: Results From the VIRTU&#x02010;1 (VIRTUal Fractional Flow Reserve From Coronary Angiography) Study</article-title>,&#x0201d; <source>Circulation: Cardiovascular Interventions</source>
+<volume>6</volume>, no. <issue>2</issue> (<year>2013</year>): <fpage>149</fpage>&#x02013;<lpage>157</lpage>.</mixed-citation></ref><ref id="jebm70054-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jebm70054-cite-0019">
+<string-name>
+<given-names>S.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Barbato</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>K&#x000f6;szegi</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Fractional Flow Reserve Calculation From 3&#x02010;Dimensional Quantitative Coronary Angiography and TIMI Frame Count: A Fast Computer Model to Quantify the Functional Significance of Moderately Obstructed Coronary Arteries</article-title>,&#x0201d; <source>Circulation: Cardiovascular Interventions</source>
+<volume>7</volume>, no. <issue>7</issue> (<year>2014</year>): <fpage>768</fpage>&#x02013;<lpage>777</lpage>.<pub-id pub-id-type="pmid">25466551</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jebm70054-cite-0020">
+<string-name>
+<given-names>M.</given-names>
+<surname>Trobs</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Achenbach</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Rother</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Comparison of Fractional Flow Reserve Based on Computational Fluid Dynamics Modeling Using Coronary Angiographic Vessel Morphology Versus Invasively Measured Fractional Flow Reserve</article-title>,&#x0201d; <source>American Journal of Cardiology</source>
+<volume>117</volume>, no. <issue>1</issue> (<year>2016</year>): <fpage>29</fpage>&#x02013;<lpage>35</lpage>.<pub-id pub-id-type="pmid">26596195</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jebm70054-cite-0021">
+<string-name>
+<given-names>S.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Westra</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Diagnostic Accuracy of Fast Computational Approaches to Derive Fractional Flow Reserve From Diagnostic Coronary Angiography: The International Multicenter FAVOR Pilot Study</article-title>,&#x0201d; <source>JACC: Cardiovascular Interventions</source>
+<volume>9</volume>, no. <issue>19</issue> (<year>2016</year>): <fpage>2024</fpage>&#x02013;<lpage>2035</lpage>.<pub-id pub-id-type="pmid">27712739</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jebm70054-cite-0022">
+<string-name>
+<given-names>M.</given-names>
+<surname>Pellicano</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Lavi</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>De Bruyne</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Validation Study of Image&#x02010;Based Fractional Flow Reserve During Coronary Angiography</article-title>,&#x0201d; <source>Circulation: Cardiovascular Interventions</source>
+<volume>10</volume>, no. <issue>9</issue> (<year>2017</year>): <elocation-id>e005259</elocation-id>.<pub-id pub-id-type="pmid">28916602</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jebm70054-cite-0023">
+<string-name>
+<given-names>H.</given-names>
+<surname>Emori</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Kubo</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Kameyama</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Diagnostic Accuracy of Quantitative Flow Ratio for Assessing Myocardial Ischemia in Prior Myocardial Infarction</article-title>,&#x0201d; <source>Circulation Journal</source>
+<volume>82</volume>, no. <issue>3</issue> (<year>2018</year>): <fpage>807</fpage>&#x02013;<lpage>814</lpage>.<pub-id pub-id-type="pmid">29343675</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jebm70054-cite-0024">
+<string-name>
+<given-names>H.</given-names>
+<surname>Emori</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Kubo</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Kameyama</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Quantitative Flow Ratio and Instantaneous Wave&#x02010;Free Ratio for the Assessment of the Functional Severity of Intermediate Coronary Artery Stenosis</article-title>,&#x0201d; <source>Coronary Artery Disease</source>
+<volume>29</volume>, no. <issue>8</issue> (<year>2018</year>): <fpage>611</fpage>&#x02013;<lpage>617</lpage>.<pub-id pub-id-type="pmid">29965837</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jebm70054-cite-0025">
+<string-name>
+<given-names>B.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Qiao</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Diagnostic Accuracy of Angiography&#x02010;Based Quantitative Flow Ratio Measurements for Online Assessment of Coronary Stenosis</article-title>,&#x0201d; <source>Journal of the American College of Cardiology</source>
+<volume>70</volume>, no. <issue>25</issue> (<year>2017</year>): <fpage>3077</fpage>&#x02013;<lpage>3087</lpage>.<pub-id pub-id-type="pmid">29101020</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jebm70054-cite-0026">
+<string-name>
+<given-names>K.</given-names>
+<surname>Yazaki</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Otsuka</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Kataoka</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Applicability of 3&#x02010;Dimensional Quantitative Coronary Angiography&#x02010;Derived Computed Fractional Flow Reserve for Intermediate Coronary Stenosis</article-title>,&#x0201d; <source>Circulation Journal: Official Journal of the Japanese Circulation Society</source>
+<volume>81</volume>, no. <issue>7</issue> (<year>2017</year>): <fpage>988</fpage>&#x02013;<lpage>992</lpage>.<pub-id pub-id-type="pmid">28331135</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jebm70054-cite-0027">
+<string-name>
+<given-names>B.</given-names>
+<surname>Tar</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Jenei</surname>
+</string-name>, <string-name>
+<given-names>C. A.</given-names>
+<surname>Dezsi</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Less Invasive Fractional Flow Reserve Measurement From 3&#x02010;Dimensional Quantitative Coronary Angiography and Classic Fluid Dynamic Equations</article-title>,&#x0201d; <source>EuroIntervention</source>
+<volume>14</volume>, no. <issue>8</issue> (<year>2018</year>): <fpage>942</fpage>&#x02013;<lpage>950</lpage>.<pub-id pub-id-type="pmid">29488883</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jebm70054-cite-0028">
+<string-name>
+<given-names>H.</given-names>
+<surname>Mejia&#x02010;Renteria</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Lauri</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Influence of Microcirculatory Dysfunction on Angiography&#x02010;Based Functional Assessment of Coronary Stenoses</article-title>,&#x0201d; <source>Circulation: Cardiovascular Interventions</source>
+<volume>11</volume>, no. <issue>8</issue> (<year>2018</year>): <fpage>741</fpage>&#x02013;<lpage>753</lpage>.</mixed-citation></ref><ref id="jebm70054-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jebm70054-cite-0029">
+<string-name>
+<given-names>G.</given-names>
+<surname>Spitaleri</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Tebaldi</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Biscaglia</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Quantitative Flow Ratio Identifies Nonculprit Coronary Lesions Requiring Revascularization in Patients With ST&#x02010;Segment&#x02010;Elevation Myocardial Infarction and Multivessel Disease</article-title>,&#x0201d; <source>Circulation: Cardiovascular Interventions</source>
+<volume>11</volume>, no. <issue>2</issue> (<year>2018</year>): <elocation-id>e006023</elocation-id>.<pub-id pub-id-type="pmid">29449325</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jebm70054-cite-0030">
+<string-name>
+<given-names>D.</given-names>
+<surname>Ties</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>van Dijk</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Pundziute</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Computational Quantitative Flow Ratio to Assess Functional Severity of Coronary Artery Stenosis</article-title>,&#x0201d; <source>International Journal of Cardiology</source>
+<volume>271</volume> (<year>2018</year>): <fpage>36</fpage>&#x02013;<lpage>41</lpage>.<pub-id pub-id-type="pmid">30131233</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jebm70054-cite-0031">
+<string-name>
+<given-names>J.</given-names>
+<surname>Westra</surname>
+</string-name>, <string-name>
+<given-names>B. K.</given-names>
+<surname>Andersen</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Campo</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Diagnostic Performance of in&#x02010;Procedure Angiography&#x02010;Derived Quantitative Flow Reserve Compared to Pressure&#x02010;Derived Fractional Flow Reserve: The FAVOR II Europe&#x02010;Japan Study</article-title>,&#x0201d; <source>Journal of the American Heart Association</source>
+<volume>7</volume>, no. <issue>14</issue> (<year>2018</year>): <elocation-id>e009603</elocation-id>.<pub-id pub-id-type="pmid">29980523</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jebm70054-cite-0032">
+<string-name>
+<given-names>J.</given-names>
+<surname>Westra</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Winther</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Evaluation of Coronary Artery Stenosis by Quantitative Flow Ratio during Invasive Coronary Angiography: The WIFI II Study (Wire&#x02010;Free Functional Imaging II)</article-title>,&#x0201d; <source>Circulation Cardiovascular Imaging</source>
+<volume>11</volume>, no. <issue>3</issue> (<year>2018</year>): <elocation-id>e007107</elocation-id>.<pub-id pub-id-type="pmid">29555835</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jebm70054-cite-0033">
+<string-name>
+<given-names>R.</given-names>
+<surname>Kornowski</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Vaknin&#x02010;Assa</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Assali</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Greenberg</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Valtzer</surname>
+</string-name>, and <string-name>
+<given-names>I.</given-names>
+<surname>Lavi</surname>
+</string-name>, &#x0201c;<article-title>Online Angiography Image&#x02010;Based FFR Assessment During Coronary Catheterization: A Single&#x02010;Center Study</article-title>,&#x0201d; <source>Journal of Invasive Cardiology</source>
+<volume>30</volume>, no. <issue>6</issue> (<year>2018</year>): <fpage>224</fpage>&#x02013;<lpage>229</lpage>.<pub-id pub-id-type="pmid">29543186</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jebm70054-cite-0034">
+<string-name>
+<given-names>W. F.</given-names>
+<surname>Fearon</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Achenbach</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Engstrom</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Accuracy of Fractional Flow Reserve Derived From Coronary Angiography</article-title>,&#x0201d; <source>Circulation</source>
+<volume>139</volume>, no. <issue>4</issue> (<year>2019</year>): <fpage>477</fpage>&#x02013;<lpage>484</lpage>.<pub-id pub-id-type="pmid">30586699</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jebm70054-cite-0035">
+<string-name>
+<given-names>H.</given-names>
+<surname>Omori</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Witberg</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Kawase</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Angiogram Based Fractional Flow Reserve in Patients With Dual/Triple Vessel Coronary Artery Disease</article-title>,&#x0201d; <source>International Journal of Cardiology</source>
+<volume>283</volume> (<year>2019</year>): <fpage>17</fpage>&#x02013;<lpage>22</lpage>.<pub-id pub-id-type="pmid">30819589</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jebm70054-cite-0036">
+<string-name>
+<given-names>J. M.</given-names>
+<surname>Smit</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>El Mahdiui</surname>
+</string-name>, <string-name>
+<given-names>A. R.</given-names>
+<surname>van Rosendael</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Comparison of Diagnostic Performance of Quantitative Flow Ratio in Patients With Versus Without Diabetes Mellitus</article-title>,&#x0201d; <source>American Journal of Cardiology</source>
+<volume>123</volume>, no. <issue>10</issue> (<year>2019</year>): <fpage>1722</fpage>&#x02013;<lpage>1728</lpage>.<pub-id pub-id-type="pmid">30853082</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jebm70054-cite-0037">
+<string-name>
+<given-names>B. E.</given-names>
+<surname>Stahli</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Erbay</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Steiner</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Comparison of Resting Distal to Aortic Coronary Pressure With Angiography&#x02010;Based Quantitative Flow Ratio</article-title>,&#x0201d; <source>International Journal of Cardiology</source>
+<volume>279</volume> (<year>2019</year>): <fpage>12</fpage>&#x02013;<lpage>17</lpage>.<pub-id pub-id-type="pmid">30545620</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jebm70054-cite-0038">
+<string-name>
+<given-names>D.</given-names>
+<surname>Hwang</surname>
+</string-name>, <string-name>
+<given-names>K. H.</given-names>
+<surname>Choi</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Lee</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Diagnostic Agreement of Quantitative Flow Ratio with Fractional Flow Reserve and Instantaneous Wave&#x02010;Free Ratio</article-title>,&#x0201d; <source>Journal of the American Heart Association</source>
+<volume>8</volume>, no. <issue>8</issue> (<year>2019</year>): <elocation-id>e011605</elocation-id>.<pub-id pub-id-type="pmid">30977410</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="jebm70054-cite-0039">
+<string-name>
+<given-names>P.</given-names>
+<surname>Kleczy&#x00144;ski</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Dziewierz</surname>
+</string-name>, <string-name>
+<given-names>&#x00141;.</given-names>
+<surname>Rzeszutko</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Dudek</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Legutko</surname>
+</string-name>, &#x0201c;<article-title>Is Quantitative Flow Ratio Enough to Accurately Assess Intermediate Coronary Stenosis? A Comparison Study With Fractional Flow Reserve</article-title>,&#x0201d; <source>Cardiology Journal</source>
+<volume>26</volume>, no. <issue>6</issue> (<year>2019</year>): <fpage>793</fpage>&#x02013;<lpage>795</lpage>.<pub-id pub-id-type="pmid">31970737</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="jebm70054-cite-0040">
+<string-name>
+<given-names>R. C.</given-names>
+<surname>Gosling</surname>
+</string-name>, <string-name>
+<given-names>P. D.</given-names>
+<surname>Morris</surname>
+</string-name>, <string-name>
+<given-names>D. A.</given-names>
+<surname>Silva Soto</surname>
+</string-name>, <string-name>
+<given-names>P. V.</given-names>
+<surname>Lawford</surname>
+</string-name>, <string-name>
+<given-names>D. R.</given-names>
+<surname>Hose</surname>
+</string-name>, and <string-name>
+<given-names>J. P.</given-names>
+<surname>Gunn</surname>
+</string-name>, &#x0201c;<article-title>Virtual Coronary Intervention: A Treatment Planning Tool Based Upon the Angiogram</article-title>,&#x0201d; <source>JACC Cardiovascular Imaging</source>
+<volume>12</volume>, no. <issue>5</issue> (<year>2019</year>): <fpage>865</fpage>&#x02013;<lpage>872</lpage>.<pub-id pub-id-type="pmid">29550308</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="jebm70054-cite-0041">
+<string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Gong</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Wang</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Accuracy of Computational Pressure&#x02010;Fluid Dynamics Applied to Coronary Angiography to Derive Fractional Flow Reserve: FLASH FFR</article-title>,&#x0201d; <source>Cardiovascular Research</source>
+<volume>116</volume>, no. <issue>7</issue> (<year>2020</year>): <fpage>1349</fpage>&#x02013;<lpage>1356</lpage>.<pub-id pub-id-type="pmid">31693092</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="jebm70054-cite-0042">
+<string-name>
+<given-names>A.</given-names>
+<surname>Erbay</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Steiner</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Lauten</surname>
+</string-name>, <string-name>
+<given-names>U.</given-names>
+<surname>Landmesser</surname>
+</string-name>, <string-name>
+<given-names>D. M.</given-names>
+<surname>Leistner</surname>
+</string-name>, and <string-name>
+<given-names>B. E.</given-names>
+<surname>St&#x000e4;hli</surname>
+</string-name>, &#x0201c;<article-title>Assessment of Intermediate Coronary Lesions by Fractional Flow Reserve and Quantitative Flow Ratio in Patients With Small&#x02010;Vessel Disease</article-title>,&#x0201d; <source>Catheterization and Cardiovascular Interventions</source>
+<volume>96</volume>, no. <issue>4</issue> (<year>2020</year>): <fpage>743</fpage>&#x02013;<lpage>751</lpage>.<pub-id pub-id-type="pmid">31631499</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="jebm70054-cite-0043">
+<string-name>
+<given-names>F. M.</given-names>
+<surname>Lauri</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Macaya</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Mejia&#x02010;Renteria</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Angiography&#x02010;Derived Functional Assessment of Non&#x02010;Culprit Coronary Stenoses in Primary Percutaneous Coronary Intervention</article-title>,&#x0201d; <source>EuroIntervention</source>
+<volume>15</volume>, no. <issue>18</issue> (<year>2020</year>): <fpage>e1594</fpage>&#x02013;<lpage>e1601</lpage>.<pub-id pub-id-type="pmid">31543501</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="jebm70054-cite-0044">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Kanno</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Hoshino</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Hamaya</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Functional Classification Discordance in Intermediate Coronary Stenoses Between Fractional Flow Reserve and Angiography&#x02010;Based Quantitative Flow Ratio</article-title>,&#x0201d; <source>Open Heart</source>
+<volume>7</volume>, no. <issue>1</issue> (<year>2020</year>): <elocation-id>e001179</elocation-id>.<pub-id pub-id-type="pmid">32076563</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="jebm70054-cite-0045">
+<string-name>
+<given-names>O. H.</given-names>
+<surname>Mehta</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Hay</surname>
+</string-name>, <string-name>
+<given-names>R. Y.</given-names>
+<surname>Lim</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Comparison of Diagnostic Performance Between Quantitative Flow Ratio, Non&#x02010;Hyperemic Pressure Indices and Fractional Flow Reserve</article-title>,&#x0201d; <source>Cardiovascular Diagnosis and Therapy</source>
+<volume>10</volume>, no. <issue>3</issue> (<year>2020</year>): <fpage>442</fpage>&#x02013;<lpage>452</lpage>.<pub-id pub-id-type="pmid">32695624</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="jebm70054-cite-0046">
+<string-name>
+<given-names>H.</given-names>
+<surname>Mej&#x000ed;a&#x02010;Renter&#x000ed;a</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Nombela&#x02010;Franco</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Paradis</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Angiography&#x02010;Based Quantitative Flow Ratio Versus Fractional Flow Reserve in Patients With Coronary Artery Disease and Severe Aortic Stenosis</article-title>,&#x0201d; <source>EuroIntervention</source>
+<volume>16</volume>, no. <issue>4</issue> (<year>2020</year>): <fpage>e285</fpage>&#x02013;<lpage>e292</lpage>.<pub-id pub-id-type="pmid">32207408</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="jebm70054-cite-0047">
+<string-name>
+<given-names>P.</given-names>
+<surname>Ely Pizzato</surname>
+</string-name>, <string-name>
+<given-names>A. J.</given-names>
+<surname>Samdani</surname>
+</string-name>, and <string-name>
+<given-names>A.</given-names>
+<surname>Vergara&#x02010;Martel</surname>
+</string-name>, &#x0201c;<article-title>Feasibility of Coronary Angiogram&#x02010;Derived Vessel Fractional Flow Reserve in the Setting of Standard of Care Percutaneous Coronary Intervention and Its Correlation With Invasive FFR</article-title>,&#x0201d; <source>International Journal of Cardiology</source>
+<volume>301</volume> (<year>2020</year>): <fpage>45</fpage>&#x02013;<lpage>49</lpage>.<pub-id pub-id-type="pmid">31757646</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="jebm70054-cite-0048">
+<string-name>
+<given-names>C.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Leng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>He</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Diagnostic Performance of Angiography&#x02010;Based Fractional Flow Reserve for Functional Evaluation of Coronary Artery Stenosis</article-title>,&#x0201d; <source>Frontiers in Cardiovascular Medicine</source>
+<volume>8</volume> (<year>2021</year>): <elocation-id>714077</elocation-id>.<pub-id pub-id-type="pmid">34712703</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="jebm70054-cite-0049">
+<string-name>
+<given-names>H.</given-names>
+<surname>Ai</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Agreement of Angiography&#x02010;Derived and Wire&#x02010;Based Fractional Flow Reserves in Percutaneous Coronary Intervention</article-title>,&#x0201d; <source>Frontiers in Cardiovascular Medicine</source>
+<volume>8</volume> (<year>2021</year>): <elocation-id>654392</elocation-id>.<pub-id pub-id-type="pmid">33969017</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="jebm70054-cite-0050">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Gong</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Yi</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Coronary Angiography&#x02010;Derived Contrast Fractional Flow Reserve</article-title>,&#x0201d; <source>Catheterization and Cardiovascular Interventions</source>
+<volume>99</volume>, no. <issue>3</issue> (<year>2022</year>): <fpage>763</fpage>&#x02013;<lpage>771</lpage>.<pub-id pub-id-type="pmid">33590679</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="jebm70054-cite-0051">
+<string-name>
+<given-names>H.</given-names>
+<surname>Babakhani</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Sadeghipour</surname>
+</string-name>, and <string-name>
+<given-names>A.</given-names>
+<surname>Tashakori Beheshti</surname>
+</string-name>, &#x0201c;<article-title>Diagnostic Accuracy of Two&#x02010;Dimensional Coronary Angiographic&#x02010;Derived Fractional Flow Reserve&#x02010;Preliminary Results</article-title>,&#x0201d; <source>Catheterization and Cardiovascular Interventions</source>
+<volume>97</volume>, no. <issue>4</issue> (<year>2021</year>): <fpage>E484</fpage>&#x02013;<lpage>e494</lpage>.<pub-id pub-id-type="pmid">32716124</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="jebm70054-cite-0052">
+<string-name>
+<given-names>K. H.</given-names>
+<surname>Choi</surname>
+</string-name>, <string-name>
+<given-names>S. H.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Lee</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Clinical Relevance and Prognostic Implications of Contrast Quantitative Flow Ratio in Patients With Coronary Artery Disease</article-title>,&#x0201d; <source>International Journal of Cardiology</source>
+<volume>325</volume> (<year>2021</year>): <fpage>23</fpage>&#x02013;<lpage>29</lpage>.<pub-id pub-id-type="pmid">32910999</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="jebm70054-cite-0053">
+<string-name>
+<given-names>M.</given-names>
+<surname>Finizio</surname>
+</string-name>, <string-name>
+<given-names>G. D.</given-names>
+<surname>Melaku</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Kahsay</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Comparison of Quantitative Flow Ratio and Invasive Physiology Indices in a Diverse Population at a Tertiary United States Hospital</article-title>,&#x0201d; <source>Cardiovascular Revascularization Medicine: Including Molecular Interventions</source>
+<volume>32</volume> (<year>2021</year>): <fpage>1</fpage>&#x02013;<lpage>4</lpage>.<pub-id pub-id-type="pmid">34215559</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="jebm70054-cite-0054">
+<string-name>
+<given-names>K. Y.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>B. H.</given-names>
+<surname>Hwang</surname>
+</string-name>, <string-name>
+<given-names>M. J.</given-names>
+<surname>Kim</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Influence of Lesion and Disease Subsets on the Diagnostic Performance of the Quantitative Flow Ratio in Real&#x02010;World Patients</article-title>,&#x0201d; <source>Scientific Reports</source>
+<volume>11</volume>, no. <issue>1</issue> (<year>2021</year>): <fpage>2995</fpage>.<pub-id pub-id-type="pmid">33542310</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="jebm70054-cite-0055">
+<string-name>
+<given-names>C.</given-names>
+<surname>Liontou</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Mej&#x000ed;a&#x02010;Renter&#x000ed;a</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Lauri</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Quantitative Flow Ratio for Functional Evaluation of In&#x02010;Stent Restenosis</article-title>,&#x0201d; <source>EuroIntervention</source>
+<volume>17</volume>, no. <issue>5</issue> (<year>2021</year>): <fpage>396</fpage>&#x02013;<lpage>398</lpage>.</mixed-citation></ref><ref id="jebm70054-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="jebm70054-cite-0056">
+<string-name>
+<given-names>A.</given-names>
+<surname>Milzi</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Dettori</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Marx</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Reith</surname>
+</string-name>, and <string-name>
+<given-names>M.</given-names>
+<surname>Burgmaier</surname>
+</string-name>, &#x0201c;<article-title>Quantitative Flow Ratio (QFR) Identifies Functional Relevance of Non&#x02010;Culprit Lesions in Coronary Angiographies of Patients With Acute Myocardial Infarction</article-title>,&#x0201d; <source>Clinical Research in Cardiology</source>
+<volume>110</volume>, no. <issue>10</issue> (<year>2021</year>): <fpage>1659</fpage>&#x02013;<lpage>1667</lpage>.<pub-id pub-id-type="pmid">34251507</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="jebm70054-cite-0057">
+<string-name>
+<given-names>M.</given-names>
+<surname>Tebaldi</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Biscaglia</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Erriquez</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Comparison of Quantitative Flow Ratio, Pd/Pa and Diastolic Hyperemia&#x02010;Free Ratio versus Fractional Flow Reserve in Non&#x02010;Culprit Lesion of Patients With Non ST&#x02010;Segment Elevation Myocardial Infarction</article-title>,&#x0201d; <source>Catheterization and Cardiovascular Interventions</source>
+<volume>98</volume>, no. <issue>6</issue> (<year>2021</year>): <fpage>1057</fpage>&#x02013;<lpage>1065</lpage>.<pub-id pub-id-type="pmid">33211381</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="jebm70054-cite-0058">
+<string-name>
+<given-names>J.</given-names>
+<surname>Peper</surname>
+</string-name>, <string-name>
+<given-names>R. W.</given-names>
+<surname>van Hamersvelt</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Rensing</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Diagnostic Performance and Clinical Implications for Enhancing a Hybrid Quantitative Flow Ratio&#x02010;FFR Revascularization Decision&#x02010;Making Strategy</article-title>,&#x0201d; <source>Scientific Reports</source>
+<volume>11</volume>, no. <issue>1</issue> (<year>2021</year>): <fpage>6425</fpage>.<pub-id pub-id-type="pmid">33742077</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="jebm70054-cite-0059">
+<string-name>
+<given-names>K.</given-names>
+<surname>Masdjedi</surname>
+</string-name>, <string-name>
+<given-names>L. J. C.</given-names>
+<surname>van Zandvoort</surname>
+</string-name>, <string-name>
+<given-names>M. M.</given-names>
+<surname>Balbi</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Validation of a Three&#x02010;Dimensional Quantitative Coronary Angiography&#x02010;Based Software to Calculate Fractional Flow Reserve: The FAST Study</article-title>,&#x0201d; <source>EuroIntervention</source>
+<volume>16</volume>, no. <issue>7</issue> (<year>2021</year>): <fpage>591</fpage>&#x02013;<lpage>599</lpage>.</mixed-citation></ref><ref id="jebm70054-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="jebm70054-cite-0060">
+<string-name>
+<given-names>N.</given-names>
+<surname>Mileva</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Nagumo</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Gallinoro</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Validation of Coronary Angiography&#x02010;Derived Vessel Fractional Flow Reserve in Heart Transplant Patients With Suspected Graft Vasculopathy</article-title>,&#x0201d; <source>Diagnostics (Basel, Switzerland)</source>
+<volume>11</volume>, no. <issue>10</issue> (<year>2021</year>): <fpage>1750</fpage>.<pub-id pub-id-type="pmid">34679451</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="jebm70054-cite-0061">
+<string-name>
+<given-names>T.</given-names>
+<surname>Neleman</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Masdjedi</surname>
+</string-name>, <string-name>
+<given-names>L. J. C.</given-names>
+<surname>Van Zandvoort</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Extended Validation of Novel 3D Quantitative Coronary Angiography&#x02010;Based Software to Calculate vFFR: The FAST EXTEND Study</article-title>,&#x0201d; <source>JACC Cardiovascular Imaging</source>
+<volume>14</volume>, no. <issue>2</issue> (<year>2021</year>): <fpage>504</fpage>&#x02013;<lpage>506</lpage>.<pub-id pub-id-type="pmid">33011122</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="jebm70054-cite-0062">
+<string-name>
+<given-names>S.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Wijns</surname>
+</string-name>, and <string-name>
+<given-names>B.</given-names>
+<surname>Xu</surname>
+</string-name>, &#x0201c;<article-title>Diagnostic Accuracy of Quantitative Flow Ratio for Assessment of Coronary Stenosis Significance From a Single Angiographic View: A Novel Method Based on Bifurcation Fractal Law</article-title>,&#x0201d; <source>Catheterization and Cardiovascular Interventions</source>
+<volume>97</volume>, no. Suppl <issue>2</issue> (<year>2021</year>): <fpage>1040</fpage>&#x02013;<lpage>1047</lpage>.<pub-id pub-id-type="pmid">33660921</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="jebm70054-cite-0063">
+<string-name>
+<given-names>J.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Du</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Diagnostic Performance of AccuFFRangio in the Functional Assessment of Coronary Stenosis Compared With Pressure Wire&#x02010;Derived Fractional Flow Reserve</article-title>,&#x0201d; <source>Quantitative Imaging in Medicine and Surgery</source>
+<volume>12</volume>, no. <issue>2</issue> (<year>2022</year>): <fpage>949</fpage>&#x02013;<lpage>958</lpage>.<pub-id pub-id-type="pmid">35111596</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="jebm70054-cite-0064">
+<string-name>
+<given-names>H.</given-names>
+<surname>Wienemann</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Ameskamp</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Mej&#x000ed;a&#x02010;Renter&#x000ed;a</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Diagnostic Performance of Quantitative Flow Ratio Versus Fractional Flow Reserve and Resting Full&#x02010;Cycle Ratio in Intermediate Coronary Lesions</article-title>,&#x0201d; <source>International Journal of Cardiology</source> 362 (<year>2022</year>): 59&#x02013;67.</mixed-citation></ref><ref id="jebm70054-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="jebm70054-cite-0065">
+<string-name>
+<given-names>K.</given-names>
+<surname>Masdjedi</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Tanaka</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Van Belle</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Vessel Fractional Flow Reserve (vFFR) for the Assessment of Stenosis Severity: The FAST II Study</article-title>,&#x0201d; <source>EuroIntervention</source>
+<volume>17</volume>, no. <issue>18</issue> (<year>2022</year>): <fpage>1498</fpage>&#x02013;<lpage>1505</lpage>.<pub-id pub-id-type="pmid">34647890</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="jebm70054-cite-0066">
+<string-name>
+<given-names>F.</given-names>
+<surname>Aminfar</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Honton</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Meyer</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Quantitative Flow Ratio Analysis by Paramedical Compared With Medical Users</article-title>,&#x0201d; <source>Journal of Invasive Cardiology</source>
+<volume>34</volume>, no. <issue>4</issue> (<year>2022</year>): <fpage>E281</fpage>&#x02013;<lpage>E285</lpage>.<pub-id pub-id-type="pmid">35302947</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="jebm70054-cite-0067">
+<string-name>
+<given-names>J.</given-names>
+<surname>Ando</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Otani</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Redel</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Agreement Between Single Plane and Biplane Derived Angiographic Fractional Flow Reserve in Patients With Intermediate Coronary Artery Stenosis</article-title>,&#x0201d; <source>Heart and Vessels</source>
+<volume>37</volume>, no. <issue>4</issue> (<year>2022</year>): <fpage>549</fpage>&#x02013;<lpage>554</lpage>.<pub-id pub-id-type="pmid">34762151</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="jebm70054-cite-0068">
+<string-name>
+<given-names>L.</given-names>
+<surname>de Moura Santos</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Borges Carvalho</surname>
+<suffix>Jr.</suffix>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>Ribeiro</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Offline Assessment of the Quantitative Flow Ratio: Is It Useful in Clinical Practice?</article-title>,&#x0201d; <source>Journal of Invasive Cardiology</source>
+<volume>34</volume>, no. <issue>8</issue> (<year>2022</year>): <fpage>E620</fpage>&#x02013;<lpage>e626</lpage>.<pub-id pub-id-type="pmid">35920731</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="jebm70054-cite-0069">
+<string-name>
+<given-names>C.</given-names>
+<surname>Dowling</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Michail</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Zhang</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Diagnostic Performance of Quantitative Flow Ratio, Non&#x02010;Hyperaemic Pressure Indices and Fractional Flow Reserve for the Assessment of Coronary Lesions in Severe Aortic Stenosis</article-title>,&#x0201d; <source>Cardiovasc Diagn Ther</source>
+<volume>12</volume>, no. <issue>3</issue> (<year>2022</year>): <fpage>314</fpage>&#x02013;<lpage>324</lpage>.<pub-id pub-id-type="pmid">35800353</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="jebm70054-cite-0070">
+<string-name>
+<given-names>M.</given-names>
+<surname>Echavarr&#x000ed;a&#x02010;Pinto</surname>
+</string-name>, <string-name>
+<given-names>T. P.</given-names>
+<surname>Van de Hoef</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Pacheco&#x02010;Beltran</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Diagnostic Agreement of Quantitative Flow Ratio With Fractional Flow Reserve in a Latin&#x02010;American Population</article-title>,&#x0201d; <source>International Journal of Cardiovascular Imaging</source>
+<volume>38</volume>, no. <issue>7</issue> (<year>2022</year>): <fpage>1423</fpage>&#x02013;<lpage>1430</lpage>.<pub-id pub-id-type="pmid">35122581</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="jebm70054-cite-0071">
+<string-name>
+<given-names>G.</given-names>
+<surname>Kasinadhuni</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Batta</surname>
+</string-name>, <string-name>
+<given-names>A. A.</given-names>
+<surname>Gawalkar</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Budakoty</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Gupta</surname>
+</string-name>, and <string-name>
+<given-names>R.</given-names>
+<surname>Vijayvergiya</surname>
+</string-name>, &#x0201c;<article-title>Validity and Correlation of Quantitative Flow Ratio With Fractional Flow Reserve for Assessment of Intermediate Coronary Lesions</article-title>,&#x0201d; <source>Acta Cardiologica</source> 78 (<year>2022</year>): 9<fpage>1</fpage>&#x02013;<lpage>98</lpage>.<pub-id pub-id-type="pmid">33683181</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="jebm70054-cite-0072">
+<string-name>
+<given-names>P.</given-names>
+<surname>Kleczynski</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Dziewierz</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Rzeszutko</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Dudek</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Legutko</surname>
+</string-name>, &#x0201c;<article-title>Quantitative Flow Ratio for Evaluation of Borderline Coronary Lesions in Patients With Severe Aortic Stenosis</article-title>,&#x0201d; <source>Revista Espanola De Cardiologia (English Ed)</source>
+<volume>75</volume>, no. <issue>6</issue> (<year>2022</year>): <fpage>472</fpage>&#x02013;<lpage>478</lpage>.<pub-id pub-id-type="pmid">34024746</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="jebm70054-cite-0073">
+<string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Xu</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Angiographic Lesion Morphology Provides Incremental Value to Generalize Quantitative Flow Ratio for Predicting Myocardial Ischemia</article-title>,&#x0201d; <source>Frontiers in Cardiovascular Medicine</source>
+<volume>9</volume> (<year>2022</year>): <elocation-id>872498</elocation-id>.<pub-id pub-id-type="pmid">35734275</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0074"><label>74</label><mixed-citation publication-type="journal" id="jebm70054-cite-0074">
+<string-name>
+<given-names>S.</given-names>
+<surname>Fezzi</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Scarsini</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Integrated Assessment of Computational Coronary Physiology From a Single Angiographic View in Patients Undergoing TAVI</article-title>,&#x0201d; <source>Circulation: Cardiovascular Interventions</source>
+<volume>16</volume>, no. <issue>10</issue> (<year>2023</year>): <elocation-id>e013185</elocation-id>.<pub-id pub-id-type="pmid">37712285</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="jebm70054-cite-0075">
+<string-name>
+<given-names>C.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Are Baseline Conditions of Coronary Arteries Sufficient for Calculating Angio&#x02010;Based Index of Microcirculatory Resistance and Fractional Flow Reserve?</article-title>,&#x0201d; <source>Quantitative Imaging in Medicine and Surgery</source>
+<volume>13</volume>, no. <issue>9</issue> (<year>2023</year>): <fpage>6215</fpage>&#x02013;<lpage>6227</lpage>.<pub-id pub-id-type="pmid">37711819</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="jebm70054-cite-0076">
+<string-name>
+<given-names>H.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Gao</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Diagnostic Performance of Angiography&#x02010;Derived Fractional Flow Reserve Analysis Based on Bifurcation Fractal Law for Assessing Hemodynamic Significance of Coronary Stenosis</article-title>,&#x0201d; <source>European Radiology</source>
+<volume>33</volume>, no. <issue>10</issue> (<year>2023</year>): <fpage>6771</fpage>&#x02013;<lpage>6780</lpage>.<pub-id pub-id-type="pmid">37133521</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="jebm70054-cite-0077">
+<string-name>
+<given-names>R.</given-names>
+<surname>Lopez&#x02010;Palop</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Carrillo</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Leithold</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Accuracy of the Angiography&#x02010;Based Quantitative Flow Ratio in Intermediate Left Main Coronary Artery Lesions and Comparison With Visual Estimation</article-title>,&#x0201d; <source>International Journal of Cardiology</source>
+<volume>383</volume> (<year>2023</year>): <fpage>8</fpage>&#x02013;<lpage>14</lpage>.<pub-id pub-id-type="pmid">37085119</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0078"><label>78</label><mixed-citation publication-type="journal" id="jebm70054-cite-0078">
+<string-name>
+<given-names>H.</given-names>
+<surname>Omori</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Kawase</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Mizukami</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Diagnostic Accuracy of Artificial Intelligence&#x02010;Based Angiography&#x02010;Derived Fractional Flow Reserve Using Pressure Wire&#x02010;Based Fractional Flow Reserve as a Reference</article-title>,&#x0201d; <source>Circulation Journal: Official Journal of the Japanese Circulation Society</source>
+<volume>87</volume>, no. <issue>6</issue> (<year>2023</year>): <fpage>783</fpage>&#x02013;<lpage>790</lpage>.<pub-id pub-id-type="pmid">36990778</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0079"><label>79</label><mixed-citation publication-type="journal" id="jebm70054-cite-0079">
+<string-name>
+<given-names>W.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Xiang</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>The Diagnostic Performance of AccuFFRangio for Evaluating Coronary Artery Stenosis Under Different Computational Conditions</article-title>,&#x0201d; <source>Quantitative Imaging in Medicine and Surgery</source>
+<volume>13</volume>, no. <issue>4</issue> (<year>2023</year>): <fpage>2496</fpage>&#x02013;<lpage>2506</lpage>.<pub-id pub-id-type="pmid">37064384</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0080"><label>80</label><mixed-citation publication-type="journal" id="jebm70054-cite-0080">
+<string-name>
+<given-names>G.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Peng</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Accuracy and Reproducibility of Coronary Angiography&#x02010;Derived Fractional Flow Reserve in the Assessment of Coronary Lesion Severity</article-title>,&#x0201d; <source>International Journal of General Medicine</source>
+<volume>16</volume> (<year>2023</year>): <fpage>3805</fpage>&#x02013;<lpage>3814</lpage>.<pub-id pub-id-type="pmid">37662502</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0081"><label>81</label><mixed-citation publication-type="journal" id="jebm70054-cite-0081">
+<string-name>
+<given-names>W.</given-names>
+<surname>Zuo</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Xu</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Impact of Calcification on Murray Law&#x02010;based Quantitative Flow Ratio for Physiological Assessment of Intermediate Coronary Stenoses</article-title>,&#x0201d; <source>Cardiology Journal</source> 31(<year>2023</year>): 205&#x02013;214.</mixed-citation></ref><ref id="jebm70054-bib-0082"><label>82</label><mixed-citation publication-type="journal" id="jebm70054-cite-0082">
+<string-name>
+<given-names>H.</given-names>
+<surname>Zafar</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Sharif</surname>
+</string-name>, and <string-name>
+<given-names>M. J.</given-names>
+<surname>Leahy</surname>
+</string-name>, &#x0201c;<article-title>Feasibility of Intracoronary Frequency Domain Optical Coherence Tomography Derived Fractional Flow Reserve for the Assessment of Coronary Artery Stenosis</article-title>,&#x0201d; <source>International Heart Journal</source>
+<volume>55</volume>, no. <issue>4</issue> (<year>2014</year>): <fpage>307</fpage>&#x02013;<lpage>311</lpage>.<pub-id pub-id-type="pmid">24909988</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0083"><label>83</label><mixed-citation publication-type="journal" id="jebm70054-cite-0083">
+<string-name>
+<given-names>J.</given-names>
+<surname>Ha</surname>
+</string-name>, <string-name>
+<given-names>J. S.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lim</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Assessing Computational Fractional Flow Reserve From Optical Coherence Tomography in Patients With Intermediate Coronary Stenosis in the Left Anterior Descending Artery</article-title>,&#x0201d; <source>Circulation: Cardiovascular Interventions</source>
+<volume>9</volume>, no. <issue>8</issue> (<year>2016</year>): <elocation-id>e003613</elocation-id>.<pub-id pub-id-type="pmid">27502209</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0084"><label>84</label><mixed-citation publication-type="journal" id="jebm70054-cite-0084">
+<string-name>
+<given-names>S. J.</given-names>
+<surname>Jang</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Ahn</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Kim</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Comparison of Accuracy of One&#x02010;Use Methods for Calculating Fractional Flow Reserve by Intravascular Optical Coherence Tomography to That Determined by the Pressure&#x02010;Wire Method</article-title>,&#x0201d; <source>American Journal of Cardiology</source>
+<volume>120</volume>, no. <issue>11</issue> (<year>2017</year>): <fpage>1920</fpage>&#x02013;<lpage>1925</lpage>.<pub-id pub-id-type="pmid">29050684</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0085"><label>85</label><mixed-citation publication-type="journal" id="jebm70054-cite-0085">
+<string-name>
+<given-names>K. E.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>S. H.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>E. S.</given-names>
+<surname>Shin</surname>
+</string-name>, and <string-name>
+<given-names>E. B.</given-names>
+<surname>Shim</surname>
+</string-name>, &#x0201c;<article-title>A Vessel Length&#x02010;based Method to Compute Coronary Fractional Flow Reserve From Optical Coherence Tomography Images</article-title>,&#x0201d; <source>Biomedical Engineering Online [Electronic Resource]</source>
+<volume>16</volume>, no. <issue>1</issue> (<year>2017</year>): <fpage>83</fpage>.<pub-id pub-id-type="pmid">28651585</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0086"><label>86</label><mixed-citation publication-type="journal" id="jebm70054-cite-0086">
+<string-name>
+<given-names>F.</given-names>
+<surname>Seike</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Uetani</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Nishimura</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Intracoronary Optical Coherence Tomography&#x02010;Derived Virtual Fractional Flow Reserve for the Assessment of Coronary Artery Disease</article-title>,&#x0201d; <source>American Journal of Cardiology</source>
+<volume>120</volume>, no. <issue>10</issue> (<year>2017</year>): <fpage>1772</fpage>&#x02013;<lpage>1779</lpage>.<pub-id pub-id-type="pmid">28864324</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0087"><label>87</label><mixed-citation publication-type="journal" id="jebm70054-cite-0087">
+<string-name>
+<given-names>H.</given-names>
+<surname>Emori</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Kubo</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shiono</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Comparison of Optical Flow Ratio and Fractional Flow Ratio in Stent&#x02010;Treated Arteries Immediately After Percutaneous Coronary Intervention</article-title>,&#x0201d; <source>Circulation Journal: Official Journal of the Japanese Circulation Society</source>
+<volume>84</volume>, no. <issue>12</issue> (<year>2020</year>): <fpage>2253</fpage>&#x02013;<lpage>2258</lpage>.<pub-id pub-id-type="pmid">33115983</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0088"><label>88</label><mixed-citation publication-type="journal" id="jebm70054-cite-0088">
+<string-name>
+<given-names>W.</given-names>
+<surname>Pan</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Wei</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Hu</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Diagnostic Accuracy of a Novel Optical Coherence Tomography&#x02010;Based Fractional Flow Reserve Algorithm for Assessment of Coronary Stenosis Significance</article-title>,&#x0201d; <source>Cardiol J</source> (<year>2023</year>).</mixed-citation></ref><ref id="jebm70054-bib-0089"><label>89</label><mixed-citation publication-type="journal" id="jebm70054-cite-0089">
+<string-name>
+<given-names>A.</given-names>
+<surname>Jeremias</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Maehara</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Matsumura</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Optical Coherence Tomography&#x02010;Based Functional Stenosis Assessment: FUSION&#x02010;A Prospective Multicenter Trial</article-title>,&#x0201d; <source>Circulation: Cardiovascular Interventions</source>
+<volume>17</volume>, no. <issue>4</issue> (<year>2024</year>): <elocation-id>e013702</elocation-id>.<pub-id pub-id-type="pmid">38525609</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0090"><label>90</label><mixed-citation publication-type="journal" id="jebm70054-cite-0090">
+<string-name>
+<given-names>F.</given-names>
+<surname>Seike</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Uetani</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Nishimura</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Intravascular Ultrasound&#x02010;Derived Virtual Fractional Flow Reserve for the Assessment of Myocardial Ischemia</article-title>,&#x0201d; <source>Circulation Journal: Official Journal of the Japanese Circulation Society</source>
+<volume>82</volume>, no. <issue>3</issue> (<year>2018</year>): <fpage>815</fpage>&#x02013;<lpage>823</lpage>.<pub-id pub-id-type="pmid">29367514</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0091"><label>91</label><mixed-citation publication-type="journal" id="jebm70054-cite-0091">
+<string-name>
+<given-names>C. G.</given-names>
+<surname>Bezerra</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Hideo&#x02010;Kajita</surname>
+</string-name>, <string-name>
+<given-names>C. A.</given-names>
+<surname>Bulant</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Coronary Fractional Flow Reserve Derived From Intravascular Ultrasound Imaging: Validation of a New Computational Method of Fusion Between Anatomy and Physiology</article-title>,&#x0201d; <source>Catheterization and Cardiovascular Interventions</source>
+<volume>93</volume>, no. <issue>2</issue> (<year>2019</year>): <fpage>266</fpage>&#x02013;<lpage>274</lpage>.<pub-id pub-id-type="pmid">30277641</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0092"><label>92</label><mixed-citation publication-type="journal" id="jebm70054-cite-0092">
+<string-name>
+<given-names>P. K.</given-names>
+<surname>Siogkas</surname>
+</string-name>, <string-name>
+<given-names>M. I.</given-names>
+<surname>Papafaklis</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Lakkas</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Virtual Functional Assessment of Coronary Stenoses Using Intravascular Ultrasound Imaging: A Proof&#x02010;of&#x02010;Concept Pilot Study</article-title>,&#x0201d; <source>Heart, Lung and Circulation</source>
+<volume>28</volume>, no. <issue>4</issue> (<year>2019</year>): <fpage>e33</fpage>&#x02013;<lpage>e36</lpage>.</mixed-citation></ref><ref id="jebm70054-bib-0093"><label>93</label><mixed-citation publication-type="journal" id="jebm70054-cite-0093">
+<string-name>
+<given-names>J.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Li</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Fractional Flow Reserve for Coronary Stenosis Assessment Derived From Fusion of Intravascular Ultrasound and X&#x02010;Ray Angiography</article-title>,&#x0201d; <source>Quantitative Imaging in Medicine and Surgery</source>
+<volume>11</volume>, no. <issue>11</issue> (<year>2021</year>): <fpage>4543</fpage>&#x02013;<lpage>4555</lpage>.<pub-id pub-id-type="pmid">34737922</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0094"><label>94</label><mixed-citation publication-type="journal" id="jebm70054-cite-0094">
+<string-name>
+<given-names>W.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Yang</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Accuracy of Intravascular Ultrasound&#x02010;Derived Virtual Fractional Flow Reserve (FFR) and FFR Derived From Computed Tomography for Functional Assessment of Coronary Artery Disease</article-title>,&#x0201d; <source>Biomedical Engineering Online [Electronic Resource]</source>
+<volume>22</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>64</fpage>.<pub-id pub-id-type="pmid">37370077</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0095"><label>95</label><mixed-citation publication-type="journal" id="jebm70054-cite-0095">
+<string-name>
+<given-names>D.</given-names>
+<surname>Yong</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Minjie</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Yujie</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Diagnostic Performance of IVUS&#x02010;FFR Analysis Based on Generative Adversarial Network and Bifurcation Fractal Law for Assessing Myocardial Ischemia</article-title>,&#x0201d; <source>Frontiers in Cardiovascular Medicine</source>
+<volume>10</volume> (<year>2023</year>): <elocation-id>1155969</elocation-id>.<pub-id pub-id-type="pmid">37020517</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0096"><label>96</label><mixed-citation publication-type="journal" id="jebm70054-cite-0096">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Sui</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Wu</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Qian</surname>
+</string-name>, &#x0201c;<article-title>Diagnostic Performance of Intravascular Ultrasound&#x02010;Based Fractional Flow Reserve Versus Angiography&#x02010;based Quantitative Flow Ratio Measurements for Evaluating Left Main Coronary Artery Stenosis</article-title>,&#x0201d; <source>Catheterization and Cardiovascular Interventions: Official Journal of the Society for Cardiac Angiography &#x00026; Interventions</source>
+<volume>99</volume>, no. Suppl <issue>1</issue> (<year>2022</year>): <fpage>1403</fpage>&#x02013;<lpage>1409</lpage>.<pub-id pub-id-type="pmid">35129284</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0097"><label>97</label><mixed-citation publication-type="journal" id="jebm70054-cite-0097">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Fezzi</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Sun</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>In Vivo Validation of a Novel Computational Approach to Assess Microcirculatory Resistance Based on a Single Angiographic View</article-title>,&#x0201d; <source>Journal of Personalized Medicine</source>
+<volume>12</volume>, no. <issue>11</issue> (<year>2022</year>): <fpage>1798</fpage>.<pub-id pub-id-type="pmid">36573725</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0098"><label>98</label><mixed-citation publication-type="journal" id="jebm70054-cite-0098">
+<string-name>
+<given-names>H.</given-names>
+<surname>Hong</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J. L.</given-names>
+<surname>Gutierrez&#x02010;Chico</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Radial Wall Strain: A Novel Angiographic Measure of Plaque Composition and Vulnerability</article-title>,&#x0201d; <source>EuroIntervention</source>
+<volume>18</volume>, no. <issue>12</issue> (<year>2022</year>): <fpage>1001</fpage>&#x02013;<lpage>1010</lpage>.<pub-id pub-id-type="pmid">36073027</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0099"><label>99</label><mixed-citation publication-type="journal" id="jebm70054-cite-0099">
+<string-name>
+<given-names>B.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Song</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Angiographic Quantitative Flow Ratio&#x02010;guided Coronary Intervention (FAVOR III China): A Multicentre, Randomised, Sham&#x02010;controlled Trial</article-title>,&#x0201d; <source>Lancet (London, England)</source>
+<volume>398</volume>, no. <issue>10317</issue> (<year>2021</year>): <fpage>2149</fpage>&#x02013;<lpage>2159</lpage>.<pub-id pub-id-type="pmid">34742368</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0100"><label>100</label><mixed-citation publication-type="journal" id="jebm70054-cite-0100">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J. L.</given-names>
+<surname>Guti&#x000e9;rrez&#x02010;Chico</surname>
+</string-name>, <string-name>
+<given-names>N. R.</given-names>
+<surname>Holm</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Impact of Side Branch Modeling on Computation of Endothelial Shear Stress in Coronary Artery Disease: Coronary Tree Reconstruction by Fusion of 3D Angiography and OCT</article-title>,&#x0201d; <source>Journal of the American College of Cardiology</source>
+<volume>66</volume>, no. <issue>2</issue> (<year>2015</year>): <fpage>125</fpage>&#x02013;<lpage>135</lpage>.<pub-id pub-id-type="pmid">26160628</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0101"><label>101</label><mixed-citation publication-type="journal" id="jebm70054-cite-0101">
+<string-name>
+<given-names>E.</given-names>
+<surname>Kedhi</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Berta</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Roleder</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Thin&#x02010;cap Fibroatheroma Predicts Clinical Events in Diabetic&#x02002;Patients With Normal Fractional Flow Reserve: The COMBINE OCT&#x02010;FFR Trial</article-title>,&#x0201d; <source>European Heart Journal</source>
+<volume>42</volume>, no. <issue>45</issue> (<year>2021</year>): <fpage>4671</fpage>&#x02013;<lpage>4679</lpage>.<pub-id pub-id-type="pmid">34345911</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0102"><label>102</label><mixed-citation publication-type="journal" id="jebm70054-cite-0102">
+<string-name>
+<given-names>J. Q.</given-names>
+<surname>Mol</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Volleberg</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Belkacemi</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Fractional Flow Reserve&#x02010;Negative High&#x02010;Risk Plaques and Clinical Outcomes After Myocardial Infarction</article-title>,&#x0201d; <source>JAMA Cardiology</source>
+<volume>8</volume>, no. <issue>11</issue> (<year>2023</year>): <fpage>1013</fpage>&#x02013;<lpage>1021</lpage>.<pub-id pub-id-type="pmid">37703036</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0103"><label>103</label><mixed-citation publication-type="journal" id="jebm70054-cite-0103">
+<string-name>
+<given-names>E. M.</given-names>
+<surname>Groves</surname>
+</string-name>, <string-name>
+<given-names>A. H.</given-names>
+<surname>Seto</surname>
+</string-name>, and <string-name>
+<given-names>M. J.</given-names>
+<surname>Kern</surname>
+</string-name>, &#x0201c;<article-title>Invasive Testing for Coronary Artery Disease: FFR, IVUS, OCT, NIRS</article-title>,&#x0201d; <source>Cardiology Clinics</source>
+<volume>32</volume>, no. <issue>3</issue> (<year>2014</year>): <fpage>405</fpage>&#x02013;<lpage>417</lpage>.<pub-id pub-id-type="pmid">25091966</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0104"><label>104</label><mixed-citation publication-type="journal" id="jebm70054-cite-0104">
+<string-name>
+<given-names>F.</given-names>
+<surname>Burzotta</surname>
+</string-name>, <string-name>
+<given-names>A. M.</given-names>
+<surname>Leone</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Aurigemma</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Fractional Flow Reserve or Optical Coherence Tomography to Guide Management of Angiographically Intermediate Coronary Stenosis: A Single&#x02010;Center Trial</article-title>,&#x0201d; <source>JACC: Cardiovascular Interventions</source>
+<volume>13</volume>, no. <issue>1</issue> (<year>2020</year>): <fpage>49</fpage>&#x02013;<lpage>58</lpage>.<pub-id pub-id-type="pmid">31918942</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0105"><label>105</label><mixed-citation publication-type="journal" id="jebm70054-cite-0105">
+<string-name>
+<given-names>C.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y. G.</given-names>
+<surname>Sui</surname>
+</string-name>, <string-name>
+<given-names>J. Y.</given-names>
+<surname>Shen</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Diagnostic Performance of Ultrasonic Flow Ratio Versus Quantitative Flow Ratio for Assessment of Coronary Stenosis</article-title>,&#x0201d; <source>International Journal of Cardiology</source>
+<volume>400</volume> (<year>2024</year>): <elocation-id>131765</elocation-id>.<pub-id pub-id-type="pmid">38211669</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0106"><label>106</label><mixed-citation publication-type="journal" id="jebm70054-cite-0106">
+<string-name>
+<given-names>V. S.</given-names>
+<surname>Schneider</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Bohm</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Blum</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Impact of Real&#x02010;time Angiographic Co&#x02010;Registered Optical Coherence Tomography on Percutaneous Coronary Intervention: The OPTICO&#x02010;integration II Trial</article-title>,&#x0201d; <source>Clinical Research in Cardiology</source>
+<volume>110</volume>, no. <issue>2</issue> (<year>2021</year>): <fpage>249</fpage>&#x02013;<lpage>257</lpage>.<pub-id pub-id-type="pmid">32889633</pub-id>
+</mixed-citation></ref><ref id="jebm70054-bib-0107"><label>107</label><mixed-citation publication-type="journal" id="jebm70054-cite-0107">
+<string-name>
+<given-names>D.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Tu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Quantitative Flow Ratio Modulated by Intracoronary Optical Coherence Tomography for Predicting Physiological Efficacy of Percutaneous Coronary Intervention</article-title>,&#x0201d; <source>Catheterization and Cardiovascular Interventions</source>
+<volume>102</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>36</fpage>&#x02013;<lpage>45</lpage>.<pub-id pub-id-type="pmid">37172214</pub-id>
+</mixed-citation></ref></ref-list></back></article>

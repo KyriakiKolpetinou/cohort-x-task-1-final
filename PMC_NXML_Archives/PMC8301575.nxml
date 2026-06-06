@@ -1,0 +1,673 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article id="cts12967" xml:lang="en" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Clin Transl Sci</journal-id><journal-id journal-id-type="iso-abbrev">Clin Transl Sci</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1752-8062</journal-id><journal-id journal-id-type="publisher-id">CTS</journal-id><journal-title-group><journal-title>Clinical and Translational Science</journal-title></journal-title-group><issn pub-type="ppub">1752-8054</issn><issn pub-type="epub">1752-8062</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">33503313</article-id><article-id pub-id-type="pmc">8301575</article-id><article-id pub-id-type="doi">10.1111/cts.12967</article-id><article-id pub-id-type="publisher-id">CTS12967</article-id><article-categories><subj-group subj-group-type="overline"><subject>Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research</subject><subj-group subj-group-type="heading"><subject>Articles</subject></subj-group></subj-group></article-categories><title-group><article-title>Pharmacokinetic equivalence of CT&#x02010;P17 to high&#x02010;concentration (100&#x000a0;mg/ml) reference adalimumab: A randomized phase I study in healthy subjects</article-title><alt-title alt-title-type="right-running-head">PK EQUIVALENCE OF CT&#x02010;P17 AND ADALIMUMAB</alt-title><alt-title alt-title-type="left-running-head">YU et al.</alt-title></title-group><contrib-group><contrib id="cts12967-cr-0001" contrib-type="author"><name><surname>Yu</surname><given-names>Kyung&#x02010;Sang</given-names></name><xref rid="cts12967-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cts12967-cr-0002" contrib-type="author"><name><surname>Jang</surname><given-names>In&#x02010;Jin</given-names></name><xref rid="cts12967-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cts12967-cr-0003" contrib-type="author"><name><surname>Lim</surname><given-names>Hyeong&#x02010;Seok</given-names></name><xref rid="cts12967-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cts12967-cr-0004" contrib-type="author"><name><surname>Hong</surname><given-names>Jang Hee</given-names></name><xref rid="cts12967-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="cts12967-cr-0005" contrib-type="author"><name><surname>Kim</surname><given-names>Min&#x02010;Gul</given-names></name><xref rid="cts12967-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="cts12967-cr-0006" contrib-type="author"><name><surname>Park</surname><given-names>Min Kyu</given-names></name><xref rid="cts12967-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="cts12967-cr-0007" contrib-type="author"><name><surname>Cho</surname><given-names>Doo&#x02010;Yeoun</given-names></name><xref rid="cts12967-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="cts12967-cr-0008" contrib-type="author"><name><surname>Park</surname><given-names>Min Soo</given-names></name><xref rid="cts12967-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="cts12967-cr-0009" contrib-type="author"><name><surname>Chung</surname><given-names>Jae Yong</given-names></name><xref rid="cts12967-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="cts12967-cr-0010" contrib-type="author"><name><surname>Ghim</surname><given-names>Jong&#x02010;Lyul</given-names></name><xref rid="cts12967-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="cts12967-cr-0011" contrib-type="author"><name><surname>Lee</surname><given-names>SeungHwan</given-names></name><xref rid="cts12967-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cts12967-cr-0012" contrib-type="author"><name><surname>Yoon</surname><given-names>Seok Kyu</given-names></name><xref rid="cts12967-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cts12967-cr-0013" contrib-type="author"><name><surname>Kwon</surname><given-names>In Sun</given-names></name><xref rid="cts12967-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="cts12967-cr-0014" contrib-type="author"><name><surname>Lee</surname><given-names>Sang Joon</given-names></name><xref rid="cts12967-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="cts12967-cr-0015" contrib-type="author"><name><surname>Kim</surname><given-names>Sung Hyun</given-names></name><xref rid="cts12967-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="cts12967-cr-0016" contrib-type="author"><name><surname>Bae</surname><given-names>Yun Ju</given-names></name><xref rid="cts12967-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="cts12967-cr-0017" contrib-type="author"><name><surname>Cha</surname><given-names>Jung Bin</given-names></name><xref rid="cts12967-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="cts12967-cr-0018" contrib-type="author"><name><surname>Furst</surname><given-names>Daniel E.</given-names></name><xref rid="cts12967-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref><xref rid="cts12967-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref><xref rid="cts12967-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref></contrib><contrib id="cts12967-cr-0019" contrib-type="author"><name><surname>Keystone</surname><given-names>Edward</given-names></name><xref rid="cts12967-aff-0014" ref-type="aff">
+<sup>14</sup>
+</xref></contrib><contrib id="cts12967-cr-0020" contrib-type="author" corresp="yes"><name><surname>Kay</surname><given-names>Jonathan</given-names></name><xref rid="cts12967-aff-0015" ref-type="aff">
+<sup>15</sup>
+</xref><address><email>jonathan.kay@umassmemorial.org</email></address></contrib></contrib-group><aff id="cts12967-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<institution>Seoul National University College of Medicine and Hospital</institution>
+<city>Seoul</city>
+<country country="KR">Korea</country>
+</aff><aff id="cts12967-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Asan Medical Center</named-content>
+<named-content content-type="organisation-division">College of Medicine</named-content>
+<institution>University of Ulsan</institution>
+<city>Seoul</city>
+<country country="KR">Korea</country>
+</aff><aff id="cts12967-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>Chungnam National University Hospital</institution>
+<city>Daejeon</city>
+<country country="KR">Korea</country>
+</aff><aff id="cts12967-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">College of Medicine</named-content>
+<institution>Jeonbuk National University</institution>
+<city>Jeonbuk</city>
+<country country="KR">Korea</country>
+</aff><aff id="cts12967-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>Chungbuk National University Hospital</institution>
+<city>Cheongju</city>
+<country country="KR">Korea</country>
+</aff><aff id="cts12967-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">CHA Bundang Medical Center</named-content>
+<institution>CHA University</institution>
+<city>Seongnam</city>
+<country country="KR">Korea</country>
+</aff><aff id="cts12967-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Severance Hospital</named-content>
+<institution>Yonsei University College of Medicine</institution>
+<city>Seoul</city>
+<country country="KR">Korea</country>
+</aff><aff id="cts12967-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<institution>Seoul National University Bundang Hospital</institution>
+<city>Seongnam</city>
+<country country="KR">Korea</country>
+</aff><aff id="cts12967-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<institution>Inje University Busan Paik Hospital</institution>
+<city>Busan</city>
+<country country="KR">Korea</country>
+</aff><aff id="cts12967-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<institution>Celltrion, Inc.</institution>
+<city>Incheon</city>
+<country country="KR">Korea</country>
+</aff><aff id="cts12967-aff-0011">
+<label>
+<sup>11</sup>
+</label>
+<institution>University of California</institution>
+<city>Los Angeles</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><aff id="cts12967-aff-0012">
+<label>
+<sup>12</sup>
+</label>
+<institution>University of Washington</institution>
+<city>Seattle</city>
+<named-content content-type="country-part">Washington</named-content>
+<country country="US">USA</country>
+</aff><aff id="cts12967-aff-0013">
+<label>
+<sup>13</sup>
+</label>
+<institution>University of Florence</institution>
+<city>Florence</city>
+<country country="IT">Italy</country>
+</aff><aff id="cts12967-aff-0014">
+<label>
+<sup>14</sup>
+</label>
+<named-content content-type="organisation-division">Mount Sinai Hospital</named-content>
+<institution>University of Toronto</institution>
+<city>Toronto</city>
+<country country="CA">Canada</country>
+</aff><aff id="cts12967-aff-0015">
+<label>
+<sup>15</sup>
+</label>
+<institution>University of Massachusetts Medical School and UMass Memorial Medical Center</institution>
+<city>Worcester</city>
+<named-content content-type="country-part">Massachusetts</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Jonathan Kay, Rheumatology Center, UMass Memorial Medical Center&#x02014;Memorial Campus, 119 Belmont Street, Worcester, MA 01605, USA.<break/>
+Email: <email>jonathan.kay@umassmemorial.org</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>02</day><month>3</month><year>2021</year></pub-date><pub-date pub-type="ppub"><month>7</month><year>2021</year></pub-date><volume>14</volume><issue seq="120">4</issue><issue-id pub-id-type="doi">10.1111/cts.v14.4</issue-id><fpage>1280</fpage><lpage>1291</lpage><history>
+<date date-type="rev-recd"><day>02</day><month>11</month><year>2020</year></date>
+<date date-type="received"><day>29</day><month>9</month><year>2020</year></date>
+<date date-type="accepted"><day>09</day><month>12</month><year>2020</year></date>
+</history><permissions><!--&#x000a9; 2021 ASCPT.--><copyright-statement content-type="article-copyright">&#x000a9; 2021 Celltrion, Inc. <italic toggle="yes">Clinical and Translational Science</italic> published by Wiley Periodicals LLC on behalf of the American Society for Clinical Pharmacology and Therapeutics.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CTS-14-1280.pdf"/><abstract id="cts12967-abs-0001"><title>Abstract</title><p>This study aimed to demonstrate pharmacokinetic (PK) equivalence of a single dose of the proposed adalimumab biosimilar CT&#x02010;P17 to United States&#x02010;licensed adalimumab (US&#x02010;adalimumab) and European Union&#x02010;approved adalimumab (EU&#x02010;adalimumab). This double&#x02010;blind, parallel&#x02010;group, phase I trial (clinicaltrials.gov NCT03970824) was conducted at 10 hospitals (Republic of Korea), in which healthy subjects (1:1:1) were randomized to receive a single 40&#x000a0;mg (100&#x000a0;mg/ml) subcutaneous injection of CT&#x02010;P17, US&#x02010;adalimumab, or EU&#x02010;adalimumab. Primary end points were PK equivalence in terms of: area under the concentration&#x02013;time curve from time zero to infinity (AUC<sub>0&#x02013;inf</sub>); AUC from time zero to the last quantifiable concentration (AUC<sub>0&#x02013;last</sub>); and maximum serum concentration (C<sub>max</sub>). PK equivalence was concluded if 90% confidence intervals (CIs) for percent ratios of geometric least squares means (GLSMs) for pairwise comparisons were within the equivalence margin of 80&#x02013;125%. Additional PK end points, safety, and immunogenicity were evaluated. Of the 312 subjects who were randomized (103 CT&#x02010;P17; 103 US&#x02010;adalimumab; 106 EU&#x02010;adalimumab), 308 subjects received study drug. AUC<sub>0&#x02013;inf</sub>, AUC<sub>0&#x02013;last</sub>, and C<sub>max</sub> were equivalent among CT&#x02010;P17, US&#x02010;adalimumab, and EU&#x02010;adalimumab, because 90% CIs for the ratios of GLSMs were within the 80&#x02013;125% equivalence margin for each pairwise comparison. Secondary PK end points, safety, and immunogenicity were similar between treatment groups. In conclusion, PK equivalence for single&#x02010;dose administration of CT&#x02010;P17, EU&#x02010;adalimumab, and US&#x02010;adalimumab was demonstrated in healthy adults. Safety and immunogenicity profiles were comparable between treatment groups and consistent with previous reports for adalimumab biosimilars.</p></abstract><funding-group><award-group id="funding-0001"><funding-source>Celltrion, Inc.</funding-source></award-group></funding-group><counts><fig-count count="2"/><table-count count="4"/><page-count count="12"/><word-count count="6769"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>July 2021</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.0.4 mode:remove_FC converted:23.07.2021</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="cts12967-ntgp-0001"><fn id="cts12967-note-0001"><p>Previous presentation: The manuscript has not been previously published and the manuscript is not under consideration elsewhere. Selected results from this study were presented in a poster at the American College of Rheumatology (ACR) Convergence 2020. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://acrabstracts.org/abstract/pharmacokinetics-and-safety-of-ct-p17-a-proposed-high-concentration-100-mg-ml-adalimumab-biosimilar-in-comparison-with-eu-approved-adalimumab-and-us-licensed-adalimumab-results-of-a-phase-1-rand/" ext-link-type="uri">https://acrabstracts.org/abstract/pharmacokinetics-and-safety-of-ct-p17-a-proposed-high-concentration-100-mg-ml-adalimumab-biosimilar-in-comparison-with-eu-approved-adalimumab-and-us-licensed-adalimumab-results-of-a-phase-1-rand/</ext-link>
+</p></fn><fn fn-type="funding" id="cts12967-note-0002"><p>
+<bold>Funding information</bold>
+</p><p>This study was funded by Celltrion, Inc. (Incheon, Republic of Korea).</p></fn></fn-group></notes></front><body id="cts12967-body-0001"><p>
+<boxed-text position="anchor" content-type="box" id="cts12967-blkfxd-0001"><caption><title>Study Highlights</title></caption><p>
+<list list-type="simple" id="cts12967-list-0001"><list-item><p>
+<bold>WHAT IS THE CURRENT KNOWLEDGE ON THE TOPIC?</bold>
+</p></list-item></list>
+</p><p>Lower&#x02010;cost biosimilars of tumor necrosis factor inhibitors, including adalimumab, have increased patient access to biologic therapy. Currently available adalimumab biosimilars are formulated at a concentration of 50&#x000a0;mg/ml. CT&#x02010;P17, a proposed adalimumab biosimilar, is under development at a concentration of 100&#x000a0;mg/ml, consistent with the new high&#x02010;concentration formulation of reference adalimumab.
+<list list-type="simple" id="cts12967-list-0002"><list-item><p>
+<bold>WHAT QUESTION DID THIS STUDY ADDRESS?</bold>
+</p></list-item></list>
+</p><p>This phase I, randomized, double&#x02010;blind study aimed to demonstrate pharmacokinetic equivalence of a single dose of CT&#x02010;P17 to European Union&#x02010;approved adalimumab and United States&#x02010;licensed adalimumab in healthy adults.
+<list list-type="simple" id="cts12967-list-0003"><list-item><p>
+<bold>WHAT DOES THIS STUDY ADD TO OUR KNOWLEDGE?</bold>
+</p></list-item></list>
+</p><p>Single&#x02010;dose CT&#x02010;P17 was pharmacokinetically equivalent to high&#x02010;concentration European Union&#x02010; and United States&#x02010;licensed reference adalimumab in healthy subjects, with comparable safety and immunogenicity.
+<list list-type="simple" id="cts12967-list-0004"><list-item><p>
+<bold>HOW MIGHT THIS CHANGE CLINICAL PHARMACOLOGY OR TRANSLATIONAL SCIENCE?</bold>
+</p></list-item></list>
+</p><p>CT&#x02010;P17 may facilitate effective adalimumab treatment by requiring fewer injections than the 50&#x000a0;mg/ml formulation for equivalent dosing regimens. It may also benefit patients by reducing discomfort during injection, compared with the older reference adalimumab formulation or existing adalimumab biosimilars that are formulated with citrate&#x02010;containing buffers.</p></boxed-text>
+</p><sec id="cts12967-sec-0002"><title>INTRODUCTION</title><p>Adalimumab is a fully human monoclonal antibody targeting tumor necrosis factor (TNF) that was first licensed in the United States in 2002 and in Europe in 2003 for the treatment of rheumatoid arthritis (RA).<xref rid="cts12967-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="cts12967-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="cts12967-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> In the United States and Europe, reference adalimumab is also approved for the treatment of juvenile idiopathic arthritis, ankylosing spondylitis (in adults), psoriatic arthritis (in adults), psoriasis (for the United States, only adults), hidradenitis suppurativa, Crohn&#x02019;s disease, ulcerative colitis (in adults), uveitis, and nonradiographic axial spondyloarthritis (in adults; Europe only).<xref rid="cts12967-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="cts12967-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Although high costs of TNF inhibitors, such as adalimumab, may limit access to these medications for patients with these immune&#x02010;mediated inflammatory diseases,<xref rid="cts12967-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="cts12967-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> lower&#x02010;cost biosimilars have improved patient access to biologic therapy<xref rid="cts12967-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="cts12967-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> and resulted in price reductions for reference biologics.<xref rid="cts12967-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="cts12967-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>
+</p><p>The determination of biosimilarity by regulators, including the US Food and Drug Administration (FDA) and the European Medicines Agency (EMA), is based on the &#x0201c;totality of evidence&#x0201d; from a stepwise comparative similarity exercise (including analytical analyses, nonclinical studies, and clinical trials) between the proposed biosimilar and its reference product.<xref rid="cts12967-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="cts12967-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="cts12967-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> The goals of a biosimilar clinical development program are to demonstrate equivalent pharmacokinetic (PK) parameters and efficacy, in comparison to the reference product, and that pharmacodynamic, immunogenicity, and safety profiles of the two drugs are comparable.<xref rid="cts12967-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="cts12967-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="cts12967-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>
+</p><p>CT&#x02010;P17 is a recombinant human monoclonal antibody that is under development as a proposed adalimumab biosimilar.<xref rid="cts12967-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> CT&#x02010;P17 is being developed as a high&#x02010;concentration formulation, to be administered by prefilled syringe or autoinjector, which is consistent with the new formulation of reference adalimumab.<xref rid="cts12967-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="cts12967-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="cts12967-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> Here, we report data from a phase I, randomized, double&#x02010;blind study that aimed to demonstrate the PK equivalence of a single dose of CT&#x02010;P17 to EU&#x02010;approved adalimumab (EU&#x02010;adalimumab) and US&#x02010;licensed adalimumab (US&#x02010;adalimumab) in healthy adults. The study also investigated additional PK end points, safety, and immunogenicity.</p></sec><sec sec-type="methods" id="cts12967-sec-0003"><title>METHODS</title><sec id="cts12967-sec-0004"><title>Study design and procedures</title><p>This was a randomized, double&#x02010;blind, three&#x02010;arm, parallel&#x02010;group, single&#x02010;dose phase I trial (clinicaltrials.gov NCT03970824) conducted at 10 hospitals in the Republic of Korea (Table&#x000a0;<xref rid="cts12967-sup-0001" ref-type="supplementary-material">S1</xref>). Screening occurred between day &#x02013;28 and day &#x02013;2. Eligible subjects were enrolled and randomized by study&#x02010;center personnel using an interactive web response system in the ratio of 1:1:1 to receive CT&#x02010;P17, EU&#x02010;adalimumab (Humira; AbbVie Deutschland GmbH Co. KG, Ludwigshafen, Germany), or US&#x02010;adalimumab (Humira, AbbVie Inc., North Chicago, IL). Randomization was stratified by body weight (&#x0003c;80&#x000a0;kg vs. &#x02265;80&#x000a0;kg), sex, and study center. Randomization codes, generated by the contract research organization statistical team, were assigned on day &#x02013;1 and were concealed from subjects, investigators, and study&#x02010;center personnel. Subjects and investigators were blinded to the identity of the study drug administered.</p><p>On day 1, subjects received a single 40&#x000a0;mg dose (100&#x000a0;mg/ml) administered as a subcutaneous injection by prefilled syringe. Injections were administered to the lower abdomen, avoiding a 5&#x000a0;cm area around the navel. The appearance of the prefilled syringe and the consistency of the injected products were identical for each treatment group.</p><p>The study was conducted in accordance with the International Council for Harmonisation Tripartite Guideline for Good Clinical Practice and the Declaration of Helsinki. All national, state, and local laws or regulations were followed. Before study initiation, the study protocol and informed consent form received approval from institutional review boards at each study center (Table&#x000a0;<xref rid="cts12967-sup-0001" ref-type="supplementary-material">S1</xref>). All subjects provided informed written consent before study enrollment.</p></sec><sec id="cts12967-sec-0005"><title>Subjects</title><p>Full eligibility criteria are provided in the Supplementary Methods. Briefly, all subjects were healthy (defined as no clinically relevant abnormalities identified by detailed medical history, full physical examination, and clinical laboratory tests prior to study drug administration) adults aged 19&#x02013;55&#x000a0;years with a body mass index (BMI) of 18.0&#x02013;29.9&#x000a0;kg/m<sup>2</sup> (inclusive). Key exclusion criteria included: history or current infection of hepatitis B virus (except for past resolved infection), hepatitis C virus, HIV, or syphilis; active or latent tuberculosis; history of malignancy; previous monoclonal antibody or fusion protein treatment; or current use of any biologic.</p></sec><sec id="cts12967-sec-0006"><title>Study end points</title><p>Primary end points were equivalence of PK between CT&#x02010;P17, EU&#x02010;adalimumab, and US&#x02010;adalimumab in terms of: area under the concentration&#x02013;time curve from time zero to infinity (AUC<sub>0&#x02013;inf</sub>); AUC from time zero to the last quantifiable concentration (AUC<sub>0&#x02013;last</sub>); and maximum serum concentration (C<sub>max</sub>). Secondary PK end points included: time to maximum serum concentration (T<sub>max</sub>); terminal elimination half&#x02010;life (<italic toggle="yes">t</italic>
+<sub>&#x000bd;</sub>); terminal elimination rate constant (<italic toggle="yes">&#x003bb;</italic>
+<sub>z</sub>); percentage of the area extrapolated for calculation of area under the serum concentration&#x02013;time curve from time zero to infinity (%AUC<sub>extrap</sub>); apparent total body clearance (CL/F); and apparent volume of distribution during the terminal phase after non&#x02010;intravenous administration (<italic toggle="yes">V</italic>
+<sub>z</sub>/<italic toggle="yes">F</italic>). Safety and immunogenicity were also evaluated throughout the study.</p></sec><sec id="cts12967-sec-0007"><title>Study assessments</title><p>Subjects were admitted to the study center on day &#x02013;1 and remained there until the completion of 48&#x02010;h postdose assessments; admission could have been extended based on availability at the study center up to day 7. Following the administration of the single dose of study drug, patients were followed for 10&#x000a0;weeks on an outpatient basis, during which PK, safety, and immunogenicity assessments were conducted. The end&#x02010;of&#x02010;study (EOS) visit was completed on day 71, during which subjects returned to the study center and completed PK and safety assessments.</p><p>Blood samples for PK assessments of CT&#x02010;P17 and adalimumab were taken predose on day 1 and at all subsequent study visits (Table&#x000a0;<xref rid="cts12967-sup-0001" ref-type="supplementary-material">S2</xref>). PK samples were analyzed at PPD Bioanalytical Laboratory (Richmond, VA) using an electrochemiluminescent method (Meso Scale Discovery, Rockville, MD) for the quantitation of CT&#x02010;P17 and adalimumab. Streptavidin&#x02010;coated plates were coated with biotinylated TNF&#x02010;&#x003b1; and the chemiluminescent signal was measured in relative light units using a SECTOR plate reader (Meso Scale Discovery). The lower limit of quantification was 100&#x000a0;ng/ml. Concentrations below the lower limit of quantification (BLOQ) were set to zero for prior to study drug administration and missing for postdose; measurable concentrations after consecutive BLOQ values were set to missing. Serum PK parameters were calculated by a noncompartmental method using Phoenix WinNonlin version 8.0 (Certara, Princeton, NJ).</p><p>Safety parameters assessed throughout the study included monitoring of adverse events (AEs), and prior/concomitant medications. AEs of special interest were injection&#x02010;site reactions (ISRs; assessed 30&#x000a0;&#x000b1;&#x000a0;10 min after study drug administration), hypersensitivity/allergic reactions (assessed by additional electrocardiogram and vital sign monitoring on days 1 and 2), infections, and malignancies. Clinical laboratory tests (hematology, serum chemistry, and urinalysis) were conducted at screening and days &#x02212;1, 3, 8, 15, 29, 43, 57, and 71. Vital signs, body weight, electrocardiogram, physical examination, and pregnancy assessments were conducted during screening, at EOS, and at selected study visits. Local site pain was assessed by 100&#x000a0;mm Visual Analog Scale (VAS) within 15 min after study drug administration. At screening, an interferon&#x02010;&#x003b3; release assay (IGRA) and chest x&#x02010;ray image (both posterior&#x02010;anterior and lateral views) were performed, and subjects were monitored for the clinical signs and symptoms of tuberculosis throughout the study. IGRA was also performed at the EOS visit. Hepatitis B, hepatitis C, HIV status, and syphilis testing were also used to determine eligibility. AEs were coded according to the Medical Dictionary for Regulatory Activities version 22.0 and graded according to Common Terminology Criteria for Adverse Events (CTCAE) version 5.0. Prior/concomitant medications were coded using the World Health Organization Drug Dictionary (March 2019 version).</p><p>Immunogenicity was assessed for serum samples collected predose on day 1 and on days 15, 29, 57, and 71. Antidrug antibodies (ADAs) were detected using a validated electrochemiluminescent bridging assay with acid dissociation. ADA&#x02010;positive samples were further investigated to confirm the specificity of binding and to evaluate ADA titer by titration. The assay sensitivity was 0.588&#x000a0;ng/ml. In samples confirmed positive for specific ADAs, the neutralizing activity of these antibodies was further investigated. Neutralizing antibodies (NAbs) were detected using a validated electrochemiluminescent assay with affinity capture elution; assay sensitivity was 113.4&#x000a0;ng/ml.</p></sec><sec id="cts12967-sec-0008"><title>Statistical analysis</title><p>Categorical variables were presented as number (%) of subjects; continuous variables were summarized using descriptive statistics. Calculated primary PK end points (AUC<sub>0&#x02013;inf</sub>, AUC<sub>0&#x02013;last</sub>, and C<sub>max</sub>) were log&#x02010;transformed and analyzed using an analysis of covariance model with treatment as a fixed effect. Sex (male or female), day &#x02013;1 body weight, and study center were covariates. For each primary end point, PK equivalence between CT&#x02010;P17 and US&#x02010;adalimumab, CT&#x02010;P17 and EU&#x02010;adalimumab, or US&#x02010;adalimumab and EU&#x02010;adalimumab was to be concluded if the 90% confidence intervals (CIs) for percent ratios of geometric least squares mean (GLSM) of each comparison were entirely contained within the 80&#x02013;125% equivalence margin. A sample size of 91 subjects in each group was required to achieve 90% power to demonstrate equivalence in PK, based on the equivalence margin, 2 one&#x02010;sided alpha level of 0.05, expected geometric mean ratio of 1.0, and percent coefficient of variation of 48% (determined based on historical PK data in healthy individuals). Assuming a 10% dropout rate, a sample size of 306 subjects (102 per group) was planned.</p><p>Analysis populations are described in the Supplementary Methods; PK parameters were analyzed in the PK population. As prespecified in the study protocol, PK parameters were also summarized by ADA status (ADA&#x02010;positive: at least one positive post&#x02010;treatment ADA result; ADA&#x02010;negative: all post&#x02010;treatment ADA results were negative). A post hoc analysis to investigate the relationship between ADA titers and primary PK end points was assessed by Pearson correlation coefficients (using log<sub>2</sub>&#x02010;transformed ADA titers) in each treatment group. The <italic toggle="yes">p</italic> values for correlation coefficients were calculated using Fisher&#x02019;s <italic toggle="yes">z</italic> transformation. All statistical analyses were performed using SAS software version 9.4 (SAS Institute, Cary, NC).</p></sec></sec><sec sec-type="results" id="cts12967-sec-0009"><title>RESULTS</title><sec id="cts12967-sec-0010"><title>Subject disposition</title><p>Subjects were enrolled at nine sites; one site (Inha University Hospital) did not enroll any subjects. The first subject was randomized on June 13, 2019, and the last subject was randomized on September 3, 2019; the last visit of the last subject was on November 13, 2019. Overall, 312 subjects were randomized (intention&#x02010;to&#x02010;treat [ITT] population): CT&#x02010;P17, <italic toggle="yes">n</italic>&#x000a0;=&#x000a0;103; US&#x02010;adalimumab, <italic toggle="yes">n</italic>&#x000a0;=&#x000a0;103; and EU&#x02010;adalimumab, <italic toggle="yes">n</italic>&#x000a0;=&#x000a0;106; Figure&#x000a0;<xref rid="cts12967-fig-0001" ref-type="fig">1</xref>). A total of 308 (98.7%) subjects received study drug; all (100.0%) of them received the full dose of study drug. One and two subjects randomized to CT&#x02010;P17 and EU&#x02010;adalimumab, respectively, withdrew consent before study drug administration, whereas one subject in the US&#x02010;adalimumab group was lost to follow&#x02010;up before study drug administration. Overall, 303 subjects completed the study. Five (1.6%) subjects discontinued after study drug administration due to withdrawal of consent (<italic toggle="yes">n</italic>&#x000a0;=&#x000a0;2; US&#x02010;adalimumab and EU&#x02010;adalimumab groups), loss to follow&#x02010;up (<italic toggle="yes">n</italic>&#x000a0;=&#x000a0;2; US&#x02010;adalimumab and EU&#x02010;adalimumab groups), and AEs (<italic toggle="yes">n</italic>&#x000a0;=&#x000a0;1; CT&#x02010;P17 group). No major protocol deviations were reported during the study. Four subjects in the ITT population did not meet the definition of the safety population. In addition, 18 subjects from the safety population were excluded from the PK population owing to their terminal elimination rate constant not being estimated due to not having at least three time points following C<sub>max</sub>.</p><fig position="float" fig-type="Figure" id="cts12967-fig-0001"><label>Figure 1</label><caption><p>Subject flow diagram. EU&#x02010;adalimumab, European Union&#x02010;approved adalimumab; US&#x02010;adalimumab, United States&#x02010;licensed adalimumab. <sup>&#x02020;</sup>Grade 2 alopecia areata considered related to study drug</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CTS-14-1280-g001" position="anchor" id="jats-graphic-1"/></fig><p>Baseline demographics and characteristics were similar between treatment groups in the safety population (Table&#x000a0;<xref rid="cts12967-tbl-0001" ref-type="table">1</xref>). All (100.0%) subjects were Asian, and most were men (85.7% overall). Median BMI and the distribution of subjects between weight categories was similar between treatment groups.</p><table-wrap position="float" id="cts12967-tbl-0001" content-type="Table"><label>Table 1</label><caption><p>Subject demographics and baseline characteristics (safety population)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="left" colspan="2" valign="top" rowspan="1">CT&#x02010;P17 (<italic toggle="yes">n</italic>&#x000a0;=&#x000a0;102)</th><th align="left" valign="top" rowspan="1" colspan="1">US&#x02010;adalimumab (<italic toggle="yes">n</italic>&#x000a0;=&#x000a0;102)</th><th align="left" valign="top" rowspan="1" colspan="1">EU&#x02010;adalimumab (<italic toggle="yes">n</italic>&#x000a0;=&#x000a0;104)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age, years, median (range)</td><td align="left" colspan="2" rowspan="1">25.0 (19&#x02013;51)</td><td align="left" rowspan="1" colspan="1">26.0 (19&#x02013;53)</td><td align="left" rowspan="1" colspan="1">26.0 (19&#x02013;54)</td></tr><tr><td align="left" rowspan="1" colspan="1">Male, <italic toggle="yes">n</italic> (%)</td><td align="left" colspan="2" rowspan="1">87 (85.3)</td><td align="left" rowspan="1" colspan="1">88 (86.3)</td><td align="left" rowspan="1" colspan="1">89 (85.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">Ethnicity not Hispanic or Latino, <italic toggle="yes">n</italic> (%)</td><td align="left" colspan="2" rowspan="1">102 (100.0)</td><td align="left" rowspan="1" colspan="1">102 (100.0)</td><td align="left" rowspan="1" colspan="1">104 (100.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Asian race, <italic toggle="yes">n</italic> (%)</td><td align="left" colspan="2" rowspan="1">102 (100.0)</td><td align="left" rowspan="1" colspan="1">102 (100.0)</td><td align="left" rowspan="1" colspan="1">104 (100.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Screening height, cm, median (range)</td><td align="left" colspan="2" rowspan="1">173.05 (153.7&#x02013;185.1)</td><td align="left" rowspan="1" colspan="1">172.85 (156.2&#x02013;185.9)</td><td align="left" rowspan="1" colspan="1">173.05 (157.3&#x02013;186.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Screening weight, kg, median (range)</td><td align="left" colspan="2" rowspan="1">71.15 (45.7&#x02013;97.7)</td><td align="left" rowspan="1" colspan="1">70.35 (46.7&#x02013;96.1)</td><td align="left" rowspan="1" colspan="1">70.30 (45.0&#x02013;96.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">Screening BMI, kg/m<sup>2</sup>, median (range)</td><td align="left" colspan="2" rowspan="1">23.45 (18.1&#x02013;29.4)</td><td align="left" rowspan="1" colspan="1">23.40 (18.4&#x02013;29.5)</td><td align="left" rowspan="1" colspan="1">23.25 (18.1&#x02013;29.8)</td></tr><tr><td align="left" colspan="5" rowspan="1">Day &#x02212;1 weight category, <italic toggle="yes">n</italic> (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x0003c;80&#x000a0;kg</td><td align="left" colspan="2" rowspan="1">83 (81.4)</td><td align="left" rowspan="1" colspan="1">80 (78.4)</td><td align="left" rowspan="1" colspan="1">85 (81.7)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x02265;80&#x000a0;kg</td><td align="left" colspan="2" rowspan="1">19 (18.6)</td><td align="left" rowspan="1" colspan="1">22 (21.6)</td><td align="left" rowspan="1" colspan="1">19 (18.3)</td></tr></tbody></table><table-wrap-foot id="cts12967-ntgp-0002"><fn id="cts12967-note-0003"><p>Abbreviations: BMI, body mass index; EU&#x02010;adalimumab, European Union&#x02010;approved adalimumab; US&#x02010;adalimumab, United States&#x02010;licensed adalimumab.</p></fn><fn id="cts12967-note-0004"><p>Percentages are based on the number of subjects in the safety population per treatment group.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="cts12967-sec-0011"><title>PK results</title><p>Mean peak and total systemic exposure (assessed by AUC<sub>0&#x02013;inf</sub>, AUC<sub>0&#x02013;last</sub>, and C<sub>max</sub>) were equivalent among CT&#x02010;P17, US&#x02010;adalimumab, and EU&#x02010;adalimumab following a single subcutaneous administration of study drug (Table&#x000a0;<xref rid="cts12967-tbl-0002" ref-type="table">2</xref>); the 90% CIs for the ratios of GLSMs were within the predefined 80&#x02013;125% equivalence margin for each pairwise treatment comparison. Primary PK parameters (AUC<sub>0&#x02013;inf</sub>, AUC<sub>0&#x02013;last</sub>, and C<sub>max</sub>) and secondary PK parameters are summarized by treatment group in Table&#x000a0;<xref rid="cts12967-tbl-0003" ref-type="table">3</xref>. Overall, secondary PK end points, including T<sub>max</sub>, CL/F, and <italic toggle="yes">t</italic>
+<sub>&#x000bd;</sub>, were similar among the three treatment groups. Serum adalimumab concentrations were comparable among the three treatment groups until day 71 (Figure&#x000a0;<xref rid="cts12967-fig-0002" ref-type="fig">2</xref>).</p><table-wrap position="float" id="cts12967-tbl-0002" content-type="Table"><label>Table 2</label><caption><p>Statistical analysis of the primary PK endpoints (PK population<xref rid="cts12967-note-0006" ref-type="table-fn">
+<sup>a</sup>
+</xref>)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Treatment or comparison</th><th align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1" colspan="1">C<sub>max</sub> (&#x000b5;g/ml)</th><th align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1" colspan="1">AUC<sub>0&#x02013;inf</sub> (h&#x000b7;&#x000b5;g/ml)</th><th align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1" colspan="1">AUC<sub>0&#x02013;last</sub> (h&#x000b7;&#x000b5;g/ml)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">GLSM (<italic toggle="yes">n</italic>)</th><th align="left" valign="bottom" rowspan="1" colspan="1">GLSM (<italic toggle="yes">n</italic>)</th><th align="left" valign="bottom" rowspan="1" colspan="1">GLSM (<italic toggle="yes">n</italic>)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">CT&#x02010;P17</td><td align="char" char="(" rowspan="1" colspan="1">3.008 (96)</td><td align="char" char="(" rowspan="1" colspan="1">2165.0 (80)</td><td align="char" char="(" rowspan="1" colspan="1">1949.2 (96)</td></tr><tr><td align="left" rowspan="1" colspan="1">US&#x02010;adalimumab</td><td align="char" char="(" rowspan="1" colspan="1">2.952 (93)</td><td align="char" char="(" rowspan="1" colspan="1">2046.5 (86)</td><td align="char" char="(" rowspan="1" colspan="1">1816.6 (93)</td></tr><tr><td align="left" rowspan="1" colspan="1">EU&#x02010;adalimumab</td><td align="char" char="(" rowspan="1" colspan="1">3.006 (98)</td><td align="char" char="(" rowspan="1" colspan="1">2209.3 (89)</td><td align="char" char="(" rowspan="1" colspan="1">1933.9 (98)</td></tr><tr><td align="left" colspan="4" rowspan="1">Ratio of GLSMs (90% CI)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">CT&#x02010;P17 vs. US&#x02010;adalimumab</td><td align="char" char="(" rowspan="1" colspan="1">101.89 (95.33&#x02013;108.89)</td><td align="char" char="(" rowspan="1" colspan="1">105.79 (97.19&#x02013;115.16)</td><td align="char" char="(" rowspan="1" colspan="1">107.30 (98.29&#x02013;117.13)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">CT&#x02010;P17 vs. EU&#x02010;adalimumab</td><td align="char" char="(" rowspan="1" colspan="1">100.05 (93.69&#x02013;106.85)</td><td align="char" char="(" rowspan="1" colspan="1">98.00 (90.06&#x02013;106.63)</td><td align="char" char="(" rowspan="1" colspan="1">100.79 (92.42&#x02013;109.92)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">US&#x02010;adalimumab vs. EU&#x02010;adalimumab</td><td align="char" char="(" rowspan="1" colspan="1">98.20 (91.91&#x02013;104.92)</td><td align="char" char="(" rowspan="1" colspan="1">92.63 (85.29&#x02013;100.61)</td><td align="char" char="(" rowspan="1" colspan="1">93.93 (86.08&#x02013;102.50)</td></tr></tbody></table><table-wrap-foot id="cts12967-ntgp-0003"><fn id="cts12967-note-0005"><p>Abbreviations: %AUC<sub>extrap</sub>, percentage of the area extrapolated for calculation of area under the concentration&#x02013;time curve from time zero to infinity; AUC<sub>0&#x02013;inf</sub>, area under the concentration&#x02013;time curve from time zero to infinity; AUC<sub>0&#x02013;last</sub>, area under the concentration&#x02013;time curve from time zero to the last quantifiable concentration; CI, confidence interval; C<sub>max</sub>, maximum serum concentration; EU&#x02010;adalimumab, European Union&#x02010;approved adalimumab; GLSM, geometric least squares mean; PK, pharmacokinetic; US&#x02010;adalimumab, United States&#x02010;licensed adalimumab.</p></fn><fn id="cts12967-note-0006"><label>
+<sup>a</sup>
+</label><p>PK population: <italic toggle="yes">n</italic>&#x000a0;=&#x000a0;97 (CT&#x02010;P17), <italic toggle="yes">n</italic>&#x000a0;=&#x000a0;93 (US&#x02010;adalimumab), and <italic toggle="yes">n</italic>&#x000a0;=&#x000a0;100 (EU&#x02010;adalimumab). AUC<sub>0&#x02013;inf</sub> values were excluded from the statistical analysis after not meeting one or more of the following criteria: an adjusted correlation coefficient <italic toggle="yes">r</italic>
+<sup>2</sup> of &#x02265;0.85 and %AUC<sub>extrap</sub> &#x02264;20%.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><table-wrap position="float" id="cts12967-tbl-0003" content-type="Table"><label>Table 3</label><caption><p>Summary of PK end points (PK population)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Parameter</th><th align="left" valign="top" rowspan="1" colspan="1">CT&#x02010;P17 (<italic toggle="yes">n</italic>&#x000a0;=&#x000a0;97)</th><th align="left" valign="top" rowspan="1" colspan="1">US&#x02010;adalimumab (<italic toggle="yes">n</italic>&#x000a0;=&#x000a0;93)</th><th align="left" valign="top" rowspan="1" colspan="1">EU&#x02010;adalimumab (<italic toggle="yes">n</italic>&#x000a0;=&#x000a0;100)</th></tr></thead><tbody><tr><td align="left" colspan="4" rowspan="1">C<sub>max</sub>, &#x000b5;g/ml</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</td><td align="left" rowspan="1" colspan="1">96</td><td align="left" rowspan="1" colspan="1">93</td><td align="left" rowspan="1" colspan="1">98</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mean (SD)</td><td align="left" rowspan="1" colspan="1">3.62 (1.35)</td><td align="left" rowspan="1" colspan="1">3.56 (1.20)</td><td align="left" rowspan="1" colspan="1">3.66 (1.22)</td></tr><tr><td align="left" colspan="4" rowspan="1">AUC<sub>0&#x02013;inf</sub>, h&#x000b7;&#x000b5;g/ml<xref rid="cts12967-note-0009" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</td><td align="left" rowspan="1" colspan="1">80</td><td align="left" rowspan="1" colspan="1">86</td><td align="left" rowspan="1" colspan="1">89</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mean (SD)</td><td align="left" rowspan="1" colspan="1">2656.5 (1150.16)</td><td align="left" rowspan="1" colspan="1">2469.7 (917.47)</td><td align="left" rowspan="1" colspan="1">2690.6 (943.76)</td></tr><tr><td align="left" colspan="4" rowspan="1">AUC<sub>0&#x02013;last</sub>, h&#x000b7;&#x000b5;g/ml</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</td><td align="left" rowspan="1" colspan="1">96</td><td align="left" rowspan="1" colspan="1">93</td><td align="left" rowspan="1" colspan="1">98</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mean (SD)</td><td align="left" rowspan="1" colspan="1">2372.7 (954.82)</td><td align="left" rowspan="1" colspan="1">2185.0 (795.91)</td><td align="left" rowspan="1" colspan="1">2394.7 (866.95)</td></tr><tr><td align="left" colspan="4" rowspan="1">T<sub>max</sub>, h</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</td><td align="left" rowspan="1" colspan="1">96</td><td align="left" rowspan="1" colspan="1">93</td><td align="left" rowspan="1" colspan="1">98</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Median (range)</td><td align="left" rowspan="1" colspan="1">167 (48.00&#x02013;504.08)</td><td align="left" rowspan="1" colspan="1">167 (48.00&#x02013;433.22)</td><td align="left" rowspan="1" colspan="1">144 (48.00&#x02013;671.35)</td></tr><tr><td align="left" colspan="4" rowspan="1">
+<italic toggle="yes">t</italic>
+<sub>&#x000bd;</sub>, h</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</td><td align="left" rowspan="1" colspan="1">80</td><td align="left" rowspan="1" colspan="1">86</td><td align="left" rowspan="1" colspan="1">89</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mean (SD)</td><td align="left" rowspan="1" colspan="1">340 (164)</td><td align="left" rowspan="1" colspan="1">331 (165)</td><td align="left" rowspan="1" colspan="1">340 (151)</td></tr><tr><td align="left" colspan="4" rowspan="1">
+<italic toggle="yes">&#x003bb;</italic>
+<sub>z</sub>, /h</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</td><td align="left" rowspan="1" colspan="1">80</td><td align="left" rowspan="1" colspan="1">86</td><td align="left" rowspan="1" colspan="1">89</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mean (SD)</td><td align="left" rowspan="1" colspan="1">0.00276 (0.00185)</td><td align="left" rowspan="1" colspan="1">0.00271 (0.00148)</td><td align="left" rowspan="1" colspan="1">0.00253 (0.00126)</td></tr><tr><td align="left" colspan="4" rowspan="1">CL/F, L/h</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</td><td align="left" rowspan="1" colspan="1">80</td><td align="left" rowspan="1" colspan="1">86</td><td align="left" rowspan="1" colspan="1">89</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mean (SD)</td><td align="left" rowspan="1" colspan="1">0.0187 (0.00968)</td><td align="left" rowspan="1" colspan="1">0.0186 (0.00723)</td><td align="left" rowspan="1" colspan="1">0.0169 (0.00664)</td></tr><tr><td align="left" colspan="4" rowspan="1">
+<italic toggle="yes">V</italic>
+<sub>z</sub>/<italic toggle="yes">F</italic>, L</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</td><td align="left" rowspan="1" colspan="1">80</td><td align="left" rowspan="1" colspan="1">86</td><td align="left" rowspan="1" colspan="1">89</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mean (SD)</td><td align="left" rowspan="1" colspan="1">7.66 (2.88)</td><td align="left" rowspan="1" colspan="1">7.88 (3.18)</td><td align="left" rowspan="1" colspan="1">7.48 (2.85)</td></tr><tr><td align="left" colspan="4" rowspan="1">%AUC<sub>extrap</sub>, %</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</td><td align="left" rowspan="1" colspan="1">80</td><td align="left" rowspan="1" colspan="1">86</td><td align="left" rowspan="1" colspan="1">89</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mean (SD)</td><td align="left" rowspan="1" colspan="1">8.07 (5.01)</td><td align="left" rowspan="1" colspan="1">7.51 (5.06)</td><td align="left" rowspan="1" colspan="1">7.35 (4.78)</td></tr></tbody></table><table-wrap-foot id="cts12967-ntgp-0004"><title>Note</title><fn id="cts12967-note-0007"><p>The data are shown to three significant figures for parameters other than AUC<sub>0&#x02013;inf</sub> and AUC<sub>0&#x02013;last</sub>; data for T<sub>max</sub> range are shown to two decimal places.</p></fn><fn id="cts12967-note-0008"><p>Abbreviations: %AUC<sub>extrap</sub>, percentage of the area extrapolated for calculation of area under the serum concentration&#x02013;time curve from time zero to infinity; AUC<sub>0&#x02013;inf</sub>, area under the concentration&#x02013;time curve from time zero to infinity; AUC<sub>0&#x02013;last</sub>, area under the concentration&#x02013;time curve from time zero to the last quantifiable concentration; CL/F, apparent total body clearance; C<sub>max</sub>, maximum serum concentration; EU&#x02010;adalimumab, European Union&#x02010;approved adalimumab; <italic toggle="yes">t</italic>
+<sub>&#x000bd;</sub>, terminal half&#x02010;life; <italic toggle="yes">&#x003bb;</italic>
+<sub>z</sub>, terminal elimination rate constant; PK, pharmacokinetic; T<sub>max</sub>, time to maximum serum concentration; US&#x02010;adalimumab, United States&#x02010;licensed adalimumab; <italic toggle="yes">V</italic>
+<sub>z</sub>/<italic toggle="yes">F</italic>, apparent volume of distribution during the terminal phase after non&#x02010;intravenous administration.</p></fn><fn id="cts12967-note-0009"><label>
+<sup>a</sup>
+</label><p>AUC<sub>0&#x02013;inf</sub> values were excluded from the statistical analysis after not meeting at least one of the following criteria: adjusted correlation coefficient <italic toggle="yes">r</italic>
+<sup>2</sup> of &#x02265;0.85 and %AUC<sub>extrap</sub> &#x02264;20%.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig position="float" fig-type="Figure" id="cts12967-fig-0002"><label>Figure 2</label><caption><p>Mean (SD) serum concentrations of CT&#x02010;P17, EU&#x02010;adalimumab, and US&#x02010;adalimumab (PK population). EU&#x02010;adalimumab, European Union&#x02010;approved adalimumab; PK, pharmacokinetic; US&#x02010;adalimumab, United States&#x02010;licensed adalimumab</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CTS-14-1280-g002" position="anchor" id="jats-graphic-3"/></fig></sec><sec id="cts12967-sec-0012"><title>Immunogenicity</title><p>At baseline (day 1) before study drug administration, four (1.3%) subjects were ADA&#x02010;positive (CT&#x02010;P17: one [1.0%]; US&#x02010;adalimumab: one [1.0%]; EU&#x02010;adalimumab: two [1.9%]), but no subjects were NAb&#x02010;positive (Table&#x000a0;<xref rid="cts12967-sup-0001" ref-type="supplementary-material">S3</xref>). Similar proportions of subjects in each of the three treatment groups were ADA&#x02010; or NAb&#x02010;positive, with a trend toward increasing proportions throughout the study (Table&#x000a0;<xref rid="cts12967-sup-0001" ref-type="supplementary-material">S3</xref>). Overall, 99 (97.1%), 96 (94.1%), and 99 (95.2%) subjects in the CT&#x02010;P17, US&#x02010;adalimumab, and EU&#x02010;adalimumab groups, respectively, had at least one post&#x02010;treatment positive ADA result. Overall, 79 (77.5%), 85 (83.3%), and 84 (80.8%) subjects in the CT&#x02010;P17, US&#x02010;adalimumab, and EU&#x02010;adalimumab groups, respectively, had at least one post&#x02010;treatment positive NAb result.</p><p>Subject distribution by maximum ADA titer is shown in Figure&#x000a0;<xref rid="cts12967-sup-0001" ref-type="supplementary-material">S1</xref> (PK population). At EOS, mean (SD) ADA titer was 171.1 (317.21), 187.9 (328.13), and 340.2 (1,727.75) in the CT&#x02010;P17, US&#x02010;adalimumab, and EU&#x02010;adalimumab groups, respectively (safety population).</p></sec><sec id="cts12967-sec-0013"><title>PK parameters by immunogenicity status</title><p>Mean serum adalimumab concentrations were generally higher in ADA&#x02010;negative than in ADA&#x02010;positive subjects across treatment groups after day 15. For example, at day 71, mean (SD) serum concentrations (&#x003bc;g/ml) were 722.0 (301.78), 573.6 (159.29), and 702.8 (305.45) for ADA&#x02010;negative subjects in the CT&#x02010;P17, US&#x02010;adalimumab, and EU&#x02010;adalimumab groups, respectively, whereas corresponding concentrations in ADA&#x02010;positive subjects were 516.1 (260.84), 425.4 (225.15), and 419.4 (232.79). Mean total exposure parameters (AUC<sub>0&#x02013;inf</sub> and AUC<sub>0&#x02013;last</sub>) were generally higher and mean peak exposure (C<sub>max</sub>) was generally lower in ADA&#x02010;negative subjects compared with ADA&#x02010;positive subjects across treatment groups. In ADA&#x02010;positive subjects, AUC<sub>0&#x02013;inf</sub>, AUC<sub>0&#x02013;last</sub>, and C<sub>max</sub> were equivalent among treatment groups (Table&#x000a0;<xref rid="cts12967-sup-0001" ref-type="supplementary-material">S4</xref>). Due to the low number of subjects (CT&#x02010;P17: <italic toggle="yes">n</italic>&#x000a0;=&#x000a0;3; US&#x02010;adalimumab: <italic toggle="yes">n</italic>&#x000a0;=&#x000a0;5; and EU&#x02010;adalimumab: <italic toggle="yes">n</italic>&#x000a0;=&#x000a0;5), this analysis could not be conducted for those with negative ADA status.</p><p>In the ADA&#x02010;positive subgroup, negative correlations were identified between AUC<sub>0&#x02013;inf</sub> or AUC<sub>0&#x02013;last</sub> and ADA titer in each treatment group (Figure&#x000a0;<xref rid="cts12967-sup-0001" ref-type="supplementary-material">S2</xref>). Depending on treatment group, there was insufficient evidence for a correlation between C<sub>max</sub> and ADA titer. In all cases, there was no evidence for a difference between correlation coefficients for each treatment group (Table&#x000a0;<xref rid="cts12967-sup-0001" ref-type="supplementary-material">S5</xref>).</p></sec><sec id="cts12967-sec-0014"><title>Safety</title><p>Overall, 56 (54.9%), 65 (63.7%), and 60 (57.7%) subjects in the CT&#x02010;P17, US&#x02010;adalimumab, and EU&#x02010;adalimumab treatment groups, respectively, experienced at least one treatment&#x02010;emergent adverse event (TEAE) during the study (Table&#x000a0;<xref rid="cts12967-tbl-0004" ref-type="table">4</xref>). Correspondingly, study drug&#x02010;related TEAEs were reported by 45 (44.1%), 49 (48.0%), and 49 (47.1%) subjects. Most TEAEs were grade 1 or 2 in intensity.</p><table-wrap position="float" id="cts12967-tbl-0004" content-type="Table"><label>Table 4</label><caption><p>Summary of AEs (safety population)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="left" valign="top" rowspan="1" colspan="1">CT&#x02010;P17 (<italic toggle="yes">n</italic>&#x000a0;=&#x000a0;102)</th><th align="left" valign="top" rowspan="1" colspan="1">US&#x02010;adalimumab (<italic toggle="yes">n</italic>&#x000a0;=&#x000a0;102)</th><th align="left" valign="top" rowspan="1" colspan="1">EU&#x02010;adalimumab (<italic toggle="yes">n</italic>&#x000a0;=&#x000a0;104)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Subjects with &#x02265;1 TEAE, <italic toggle="yes">n</italic> (%)</td><td align="left" rowspan="1" colspan="1">56 (54.9)</td><td align="left" rowspan="1" colspan="1">65 (63.7)</td><td align="left" rowspan="1" colspan="1">60 (57.7)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x02265;1 grade 3 TEAE</td><td align="left" rowspan="1" colspan="1">5 (4.9)</td><td align="left" rowspan="1" colspan="1">3 (2.9)</td><td align="left" rowspan="1" colspan="1">3 (2.9)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x02265;1 grade 4 TEAE<xref rid="cts12967-note-0011" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">2 (2.0)</td><td align="left" rowspan="1" colspan="1">1 (1.0)</td><td align="left" rowspan="1" colspan="1">3 (2.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">Subjects with &#x02265;1 TESAE, <italic toggle="yes">n</italic> (%)<xref rid="cts12967-note-0012" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">2 (2.0)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">1 (1.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Subjects with &#x02265;1 TEAE leading to study drug discontinuation, <italic toggle="yes">n</italic> (%)</td><td align="left" rowspan="1" colspan="1">1 (1.0)<xref rid="cts12967-note-0015" ref-type="table-fn">
+<sup>e</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" rowspan="1" colspan="1">Subjects with &#x02265;1 TEAE due to hypersensitivity/allergic reaction, <italic toggle="yes">n</italic> (%)<xref rid="cts12967-note-0013" ref-type="table-fn">
+<sup>
+c
+</sup>
+</xref>, <xref rid="cts12967-note-0014" ref-type="table-fn">
+<sup>
+d
+</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">1 (1.0)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">1 (1.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Subjects with &#x02265;1 TEAE due to ISR, <italic toggle="yes">n</italic> (%)<xref rid="cts12967-note-0013" ref-type="table-fn">
+<sup>
+c
+</sup>
+</xref>, <xref rid="cts12967-note-0014" ref-type="table-fn">
+<sup>
+d
+</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">20 (19.6)</td><td align="left" rowspan="1" colspan="1">16 (15.7)</td><td align="left" rowspan="1" colspan="1">19 (18.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Subjects with &#x02265;1 TEAE due to infection, <italic toggle="yes">n</italic> (%)<xref rid="cts12967-note-0014" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">10 (9.8)</td><td align="left" rowspan="1" colspan="1">19 (18.6)</td><td align="left" rowspan="1" colspan="1">13 (12.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Subjects with &#x02265;1 TEAE due to malignancy, <italic toggle="yes">n</italic> (%)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" rowspan="1" colspan="1">Total number of TEAEs leading to death, <italic toggle="yes">n</italic> (%)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td></tr></tbody></table><table-wrap-foot id="cts12967-ntgp-0005"><fn id="cts12967-note-0010"><p>Abbreviations: AE, adverse event; EU&#x02010;adalimumab, European Union&#x02010;approved adalimumab; ISR, injection&#x02010;site reaction; TEAE, treatment&#x02010;emergent adverse event; TESAE, treatment&#x02010;emergent serious adverse event; US&#x02010;adalimumab, United States&#x02010;licensed adalimumab.</p></fn><fn id="cts12967-note-0011"><label>
+<sup>a</sup>
+</label><p>All grade 4 TEAEs were related to abnormal laboratory tests and resolved without any treatment.</p></fn><fn id="cts12967-note-0012"><label>
+<sup>b</sup>
+</label><p>No TEAEs were considered study drug&#x02010;related.</p></fn><fn id="cts12967-note-0013"><label>
+<sup>c</sup>
+</label><p>All considered study drug&#x02010;related.</p></fn><fn id="cts12967-note-0014"><label>
+<sup>d</sup>
+</label><p>All TEAEs classified as hypersensitivity/allergic reaction, ISR, or infection were grade 1&#x02013;2 in intensity.</p></fn><fn id="cts12967-note-0015"><label>
+<sup>e</sup>
+</label><p>Grade 2 alopecia areata considered study drug&#x02010;related.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>TEAEs by System Organ Class for each treatment group are shown in Table&#x000a0;<xref rid="cts12967-sup-0001" ref-type="supplementary-material">S6</xref>. The most frequently reported TEAE by Preferred Term was ISR, experienced by 55 (17.9%) subjects overall, followed by headache (Table&#x000a0;<xref rid="cts12967-sup-0001" ref-type="supplementary-material">S7</xref>). Injection&#x02010;site erythema was the most frequently reported sign of ISR (CT&#x02010;P17: 19 [18.6%] subjects; US&#x02010;adalimumab: 16 [15.7%] subjects; and EU&#x02010;adalimumab: 16 [15.4%] subjects). Mean (SD) local site pain scores on the 100&#x000a0;mm VAS were 6.1 (9.45) mm, 3.6 (5.38) mm, and 5.8 (8.90) mm for subjects in the CT&#x02010;P17, US&#x02010;adalimumab, and EU&#x02010;adalimumab treatment groups, respectively.</p><p>There were three study drug&#x02010;unrelated treatment&#x02010;emergent serious adverse events during the study (two road traffic accidents and tympanic membrane perforation caused by an accidental injury). One subject (CT&#x02010;P17 group) discontinued study participation after study drug administration due to a grade 2 TEAE of alopecia areata, which was considered related to study drug. There were no deaths in the study, and there were no TEAEs classified as malignancy.</p><p>TEAEs of hypersensitivity/allergic reaction were reported by one (1.0%) subject each in the CT&#x02010;P17 and EU&#x02010;adalimumab treatment groups. The subjects experienced urticaria and erythema, respectively. Forty&#x02010;two (13.6%) subjects overall reported TEAEs classified as infections, with study drug&#x02010;related infections reported by nine (8.8%), 16 (15.7%), and 12 (11.5%) subjects in the CT&#x02010;P17, US&#x02010;adalimumab, and EU&#x02010;adalimumab groups, respectively (Table&#x000a0;<xref rid="cts12967-tbl-0004" ref-type="table">4</xref>; Table&#x000a0;<xref rid="cts12967-sup-0001" ref-type="supplementary-material">S8</xref>). No subject had any signs or symptoms during the study that were indicative of tuberculosis. Overall, four (1.3%) subjects were positive for the IGRA assay at the EOS visit; active tuberculosis was ruled out in all cases, and latent tuberculosis was reported as a TEAE (CT&#x02010;P17: one [1.0%]; US&#x02010;adalimumab: two [2.0%]; and EU&#x02010;adalimumab: one [1.0%]).</p><p>The most frequent grade &#x02265;3 laboratory parameter was creatine phosphokinase increased, reported in 22 (7.1%) subjects overall (CT&#x02010;P17: 10 [9.8%]; US&#x02010;adalimumab: six [5.9%]; and EU&#x02010;adalimumab: six [5.8%]). Most of the creatine phosphokinase elevations were due to physical activity. There was no correlation with weakness, other clinical muscle&#x02010;related symptoms or ISRs. CTCAE grade 3 neutrophil count decreased (&#x0003c;1.0&#x02013;0.5&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup>/L) was reported for two (2.0%) subjects in the US&#x02010;adalimumab group and for none in the CT&#x02010;P17 and EU&#x02010;adalimumab groups. The abnormal values had returned to above that level at their next routine visits. Infections were not reported in either of these subjects. No CTCAE grade 4 or 5 neutrophil count decreased was reported.</p><p>Overall, no clinically notable differences in clinical laboratory results, vital signs, electrocardiogram, and physical examination were observed among treatment groups.</p></sec></sec><sec sec-type="discussion" id="cts12967-sec-0015"><title>DISCUSSION</title><p>In this phase I clinical trial, healthy subjects were randomly assigned to receive a single dose of CT&#x02010;P17, a proposed biosimilar of adalimumab, or of the reference product sourced from the European Union (EU&#x02010;adalimumab) or from the United States (US&#x02010;adalimumab). The primary end point of the study was met: following the administration of a single dose of study drug in healthy adults, PK equivalence of CT&#x02010;P17 to both EU&#x02010;adalimumab and US&#x02010;adalimumab was demonstrated. All other measured PK end points, including CL/F, were similar among the three treatment groups. In addition, safety and immunogenicity profiles were comparable for the three drugs.</p><p>The equivalence of mean and peak total exposure and the similarity of secondary PK end points among CT&#x02010;P17, US&#x02010;adalimumab, and EU&#x02010;adalimumab is consistent with reports of PK studies of lower concentration (50&#x000a0;mg/ml) adalimumab biosimilars in healthy volunteers.<xref rid="cts12967-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="cts12967-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="cts12967-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="cts12967-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="cts12967-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> The comparability of PK parameters within subsets of ADA&#x02010;positive (<italic toggle="yes">n</italic>&#x000a0;=&#x000a0;277) and ADA&#x02010;negative (<italic toggle="yes">n</italic>&#x000a0;=&#x000a0;13) subjects among CT&#x02010;P17, US&#x02010;adalimumab, and EU&#x02010;adalimumab is also in line with previous reports for adalimumab biosimilars that were evaluated in healthy subjects.<xref rid="cts12967-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="cts12967-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="cts12967-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="cts12967-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> The negative correlation between ADA titer and AUC<sub>0&#x02013;inf</sub> or AUC<sub>0&#x02013;last</sub> is also in accordance with previous reports of PK studies in which adalimumab biosimilars were administered to healthy subjects.<xref rid="cts12967-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="cts12967-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="cts12967-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> As previously proposed,<xref rid="cts12967-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="cts12967-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> increased adalimumab clearance occurring with increasing ADA titers might account for this relationship.</p><p>Consistent with published studies of three&#x02010;way comparisons of other adalimumab biosimilars with US&#x02010;adalimumab and EU&#x02010;adalimumab in healthy individuals, overall safety was comparable among CT&#x02010;P17, US&#x02010;adalimumab, and EU&#x02010;adalimumab.<xref rid="cts12967-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="cts12967-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="cts12967-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="cts12967-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="cts12967-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> The proportions of subjects experiencing AEs of special interest did not differ among treatment groups. In addition, the incidence of ISRs of 17.9% in this study is similar to that of 20% reported in the prescribing information for US&#x02010;adalimumab.<xref rid="cts12967-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>
+</p><p>Throughout this study, immunogenicity was comparable among the three study drugs for both ADA and NAb positivity. Over 90% of subjects in the safety population had at least one positive ADA result during the study across treatment groups. This high rate of ADA positivity may reflect the high sensitivity of the electrochemiluminescent bridging assay that was used to detect ADAs, and is consistent with recent reports for other adalimumab biosimilars evaluated in healthy subjects.<xref rid="cts12967-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="cts12967-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> Similarly, the high rate of NAb positivity (81% overall in the safety population) is comparable to that identified in a recent study of another adalimumab biosimilar.<xref rid="cts12967-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> Furthermore, the comparable immunogenicity of CT&#x02010;P17, US&#x02010;adalimumab, and EU&#x02010;adalimumab is consistent with that in published reports of PK clinical trials of adalimumab biosimilars<xref rid="cts12967-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="cts12967-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="cts12967-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="cts12967-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="cts12967-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> and other proposed adalimumab biosimilars.<xref rid="cts12967-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="cts12967-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="cts12967-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>
+</p><p>Limitations of this study include the ethnic homogeneity of the study subjects, who were all healthy Asian volunteers; however, a previous study of patients with psoriasis who were treated with adalimumab did not suggest differences in adalimumab efficacy by ethnicity.<xref rid="cts12967-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> Another limitation is the low number of ADA&#x02010;negative subjects, which limits the ability to interpret PK findings in relation to ADA status; however, correlations between ADA titer and PK parameters (AUC<sub>0&#x02013;inf</sub> and AUC<sub>0&#x02013;last</sub>) were confirmed by the analyses conducted.</p><p>Strengths of this study include its randomized design, the large number of patients enrolled, and the duration of the follow&#x02010;up period. The three&#x02010;arm study design allowed for demonstration of PK equivalence of CT&#x02010;P17 to both EU&#x02010; and US&#x02010;sourced reference adalimumab, because the EMA and FDA each require studies to compare proposed biosimilars with reference products authorized in the corresponding region. Additionally, this study provided bridging data demonstrating PK equivalence of US&#x02010;sourced reference adalimumab to EU&#x02010;sourced reference adalimumab to support the application of conclusions drawn from comparison of CT&#x02010;P17 with reference adalimumab sourced in one region for regulatory approval in the other region.<xref rid="cts12967-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="cts12967-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>
+</p><p>As of October 2020, 11 adalimumab biosimilars had been approved by the EMA, of which three have been withdrawn voluntarily.<xref rid="cts12967-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> Whereas in the United States, despite approval of six adalimumab biosimilars by the FDA to date,<xref rid="cts12967-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> none are expected to be marketed until 2023.<xref rid="cts12967-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> All of the currently licensed adalimumab biosimilars are formulated at a concentration of 50&#x000a0;mg/ml,<xref rid="cts12967-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="cts12967-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="cts12967-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> because they were developed in line with the original low&#x02010;concentration formulation of reference adalimumab.<xref rid="cts12967-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="cts12967-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Subsequently, a high&#x02010;concentration (100&#x000a0;mg/ml), citrate&#x02010;free reference adalimumab formulation obtained regulatory approval<xref rid="cts12967-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="cts12967-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>; CT&#x02010;P17 is the first adalimumab biosimilar to be developed based on this formulation. The high&#x02010;concentration formulation of CT&#x02010;P17 may facilitate effective adalimumab treatment with fewer injections than with the former, low&#x02010;concentration formulation for patients requiring treatment with doses exceeding 40&#x000a0;mg (as described in the reference adalimumab product information<xref rid="cts12967-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="cts12967-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>). Furthermore, the citrate&#x02010;free formulation of CT&#x02010;P17 may also offer benefits of reduced discomfort during injection, compared with the older, citrate&#x02010;containing reference adalimumab formulation or adalimumab biosimilars formulated with citrate&#x02010;containing buffers.<xref rid="cts12967-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>
+</p><p>This phase I study demonstrated that PK parameters were equivalent, and safety and immunogenicity profiles were comparable, for a single dose of CT&#x02010;P17, US&#x02010;adalimumab, and EU&#x02010;adalimumab in healthy adults. Data from this phase I study support the growing evidence for the biosimilarity of CT&#x02010;P17 and reference adalimumab obtained from clinical studies of CT&#x02010;P17, both in healthy adults (NCT04295356)<xref rid="cts12967-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> and in patients with active, moderate&#x02010;to&#x02010;severe RA (NCT03789292<xref rid="cts12967-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> and NCT04171414<xref rid="cts12967-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>).</p></sec><sec sec-type="COI-statement" id="cts12967-sec-0017"><title>CONFLICT OF INTEREST</title><p>K.&#x02010;S.Y., I.&#x02010;J.J., H.&#x02010;S.L., J.H.H., M.&#x02010;G.K., M.K.P., D.&#x02010;Y.C., M.S.P., J.Y.C., J.&#x02010;L.G., S.H.L., S.K.Y., and I.S.K. received investigator fees from Celltrion, Inc. in relation to this study. S.J.L., S.H.K., Y.J.B., and J.B.C. are employees of Celltrion, Inc. D.E.F. has received grant/research support from Corbus Pharmaceuticals, CSL Behring, Galapagos NV, Gilead Sciences, Inc., GlaxoSmithKline PLC, Kadmon Pharmaceuticals, LLC, Pfizer Inc., and Talaris Therapeutics; and honoraria for speaking and/or consulting from AbbVie Inc., Amgen Inc., Boehringer Ingelheim GmbH, Celltrion Healthcare Co. Ltd., Corbus Pharmaceuticals, CSL Behring, Galapagos NV, Genentech Inc., Gilead Sciences, Inc., Novartis AG, Pfizer Inc., Roche Pharmaceuticals, and Talaris Therapeutics. E.K. has received research support from Amgen Inc., Merck &#x00026; Co, Inc., Pfizer Inc., and PuraPharm Corporation Ltd.; has consulting agreements and/or advisory board membership with AbbVie Inc., Amgen Inc., Bristol&#x02010;Myers Squibb Company, Celltrion Healthcare Co. Ltd., Eli Lilly and Company, F. Hoffman&#x02010;La Roche AG, Gilead Sciences, Inc., Janssen Pharmaceuticals, Inc., Merck &#x00026; Co., Inc., Myriad Autoimmune, Pfizer Inc., Samsung Bioepis Co., Ltd, Sandoz Inc., and Sanofi Genzyme; and has speaker honoraria agreements with AbbVie Inc., Amgen Inc., F. Hoffman&#x02010;La Roche AG, Janssen Pharmaceuticals, Inc., Merck &#x00026; Co., Inc., Novartis AG, Pfizer Inc., and Sanofi Genzyme. J.K. has received research support (paid to the University of Massachusetts Medical School) from Gilead Sciences, Inc. and Pfizer Inc. and honoraria for consulting from Alvotech Suisse AG, Arena Pharmaceuticals, Inc., Boehringer Ingelheim GmbH, Celltrion Healthcare Co. Ltd., Mylan Inc., Novartis AG, Samsung Bioepis Co. Ltd., and Sandoz Inc.</p></sec><sec id="cts12967-sec-0018"><title>AUTHOR CONTRIBUTIONS</title><p>K.&#x02010;S.Y., I.&#x02010;J.J., H.&#x02010;S.L., J.H.H., M.&#x02010;G.K., M.K.P., D.&#x02010;Y.C., M.S.P., J.Y.C., J.&#x02010;L.G., S.L., S.K.Y., I.S.K., S.J.L., S.H.K., Y.J.B., J.B.C., D.E.F., E.K., and J.K. wrote the manuscript. S.J.L., S.H.K., Y.J.B., J.B.C., D.E.F., E.K., and J.K. designed the research. K.&#x02010;S.Y., I.&#x02010;J.J., H.&#x02010;S.L., J.H.H., M.&#x02010;G.K., M.K.P., D.&#x02010;Y.C., M.S.P., J.Y.C., J.&#x02010;L.G., S.L., S.K.Y., I.S.K., S.J.L., S.H.K., Y.J.B., and J.B.C. performed the research. K.&#x02010;S.Y., I.&#x02010;J.J., H.&#x02010;S.L., J.H.H., M.&#x02010;G.K., M.K.P., D.&#x02010;Y.C., M.S.P., J.Y.C., J.&#x02010;L.G., S.L., S.K.Y., I.S.K., S.J.L., S.H.K., Y.J.B., J.B.C., D.E.F., E.K., and J.K. analyzed the data.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="cts12967-sup-0001" position="float" content-type="local-data"><caption><p>Supplementary Material</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CTS-14-1280-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="cts12967-sec-0016"><title>ACKNOWLEDGMENTS</title><p>The authors thank all study investigators, staff, and individuals who contributed to this study. Medical writing support, including development of a draft outline and subsequent drafts in consultation with the authors, collating author comments, copyediting, fact checking, and referencing, was provided by Emma Evans, PhD, CMPP, and Beatrice Tyrrell, DPhil, at Aspire Scientific Limited (Bollington, UK). Funding for medical writing support for this article was provided by Celltrion, Inc. (Incheon, Republic of Korea).</p></ack><sec sec-type="data-availability" id="cts12967-sec-0020"><title>DATA AVAILABILITY STATEMENT</title><p>Available data and methodological information for this ongoing study are included in this article and accompanying supplementary materials.</p></sec><ref-list content-type="cited-references" id="cts12967-bibl-0001"><title>REFERENCES</title><ref id="cts12967-bib-0001"><label>1</label><mixed-citation publication-type="miscellaneous" id="cts12967-cit-0001">
+<collab collab-type="authors">US Food and Drug Administration</collab>
+. <article-title>Humira prescribing information</article-title>, <year>2019</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/125057Orig1s411lbl.pdf" ext-link-type="uri">https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/125057Orig1s411lbl.pdf</ext-link>. Accessed March 13, 2020.</mixed-citation></ref><ref id="cts12967-bib-0002"><label>2</label><mixed-citation publication-type="miscellaneous" id="cts12967-cit-0002">
+<collab collab-type="authors">European Medicines Agency</collab>
+. <article-title>Humira summary of product characteristics</article-title>, <year>2020</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ema.europa.eu/en/documents/product-information/humira-epar-product-information_en.pdf" ext-link-type="uri">https://www.ema.europa.eu/en/documents/product&#x02010;information/humira&#x02010;epar&#x02010;product&#x02010;information_en.pdf</ext-link>. Accessed March 6, 2020.</mixed-citation></ref><ref id="cts12967-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cts12967-cit-0003">
+<string-name>
+<surname>Murdaca</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Span&#x000f2;</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Puppo</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Long&#x02010;term treatment of rheumatoid arthritis with adalimumab</article-title>. <source>Open Access Rheumatol.</source>
+<year>2013</year>;<volume>5</volume>:<fpage>43</fpage>&#x02010;<lpage>49</lpage>.<pub-id pub-id-type="pmid">27790023</pub-id></mixed-citation></ref><ref id="cts12967-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cts12967-cit-0004">
+<string-name>
+<surname>Park</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Lukas</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kolar</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Loftus</surname>
+<given-names>EV</given-names>
+</string-name>. <article-title>Biosimilars: concept, current status, and future perspectives in inflammatory bowel diseases</article-title>. <source>Intest Res</source>. <year>2020</year>;<volume>18</volume>:<fpage>34</fpage>&#x02010;<lpage>44</lpage>.<pub-id pub-id-type="pmid">32013313</pub-id></mixed-citation></ref><ref id="cts12967-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cts12967-cit-0005">
+<string-name>
+<surname>Smolen</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Goncalves</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Quinn</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Benedetti</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>JY</given-names>
+</string-name>. <article-title>Era of biosimilars in rheumatology: reshaping the healthcare environment</article-title>. <source>RMD Open</source>. <year>2019</year>;<volume>5</volume>:<elocation-id>e000900</elocation-id>.<pub-id pub-id-type="pmid">31245050</pub-id></mixed-citation></ref><ref id="cts12967-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cts12967-cit-0006">
+<string-name>
+<surname>Dutta</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Huys</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Vulto</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name>
+<surname>Simoens</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Identifying key benefits in European off&#x02010;patent biologics and biosimilar markets: it is not only about price!</article-title>
+<source>BioDrugs</source>. <year>2020</year>;<volume>34</volume>:<fpage>159</fpage>&#x02010;<lpage>170</lpage>.<pub-id pub-id-type="pmid">31792843</pub-id></mixed-citation></ref><ref id="cts12967-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cts12967-cit-0007">
+<string-name>
+<surname>San&#x02010;Juan&#x02010;Rodriguez</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gellad</surname>
+<given-names>WF</given-names>
+</string-name>, <string-name>
+<surname>Good</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>Trends in list prices, net prices, and discounts for originator biologics facing biosimilar competition</article-title>. <source>JAMA Netw Open</source>. <year>2019</year>;<volume>2</volume>:<elocation-id>e1917379</elocation-id>.<pub-id pub-id-type="pmid">31834391</pub-id></mixed-citation></ref><ref id="cts12967-bib-0008"><label>8</label><mixed-citation publication-type="miscellaneous" id="cts12967-cit-0008">
+<collab collab-type="authors">European Medicines Agency</collab>
+. <article-title>Guideline on similar biological medicinal products containing biotechnology&#x02010;derived proteins as active substance: non&#x02010;clinical and clinical issues</article-title>, <year>2014</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2015/01/WC500180219.pdf" ext-link-type="uri">http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2015/01/WC500180219.pdf</ext-link>. Accessed April 8, 2020.</mixed-citation></ref><ref id="cts12967-bib-0009"><label>9</label><mixed-citation publication-type="miscellaneous" id="cts12967-cit-0009">
+<collab collab-type="authors">US Food and Drug Administration</collab>
+. <article-title>Scientific considerations in demonstrating biosimilarity to a reference product</article-title>, <year>2015</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.fda.gov/regulatory-information/search-fda-guidance-documents/scientific-considerations-demonstrating-biosimilarity-reference-product" ext-link-type="uri">https://www.fda.gov/regulatory&#x02010;information/search&#x02010;fda&#x02010;guidance&#x02010;documents/scientific&#x02010;considerations&#x02010;demonstrating&#x02010;biosimilarity&#x02010;reference&#x02010;product</ext-link>. Accessed March 12, 2020.</mixed-citation></ref><ref id="cts12967-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cts12967-cit-0010">
+<string-name>
+<surname>Kozlowski</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Woodcock</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Midthun</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Behrman Sherman</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Developing the nation's biosimilars program</article-title>. <source>N Engl J Med.</source>
+<year>2011</year>;<volume>365</volume>:<fpage>385</fpage>&#x02010;<lpage>388</lpage>.<pub-id pub-id-type="pmid">21812668</pub-id></mixed-citation></ref><ref id="cts12967-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cts12967-cit-0011">
+<string-name>
+<surname>Alten</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Cronstein</surname>
+<given-names>BN</given-names>
+</string-name>. <article-title>Clinical trial development for biosimilars</article-title>. <source>Semin Arthritis Rheum</source>. <year>2015</year>;<volume>44</volume>:<fpage>S2</fpage>&#x02010;<lpage>S8</lpage>.<pub-id pub-id-type="pmid">26058550</pub-id></mixed-citation></ref><ref id="cts12967-bib-0012"><label>12</label><mixed-citation publication-type="miscellaneous" id="cts12967-cit-0012">
+<article-title>ClinicalTrials.gov. CT&#x02010;P17 3.1 study (NCT03789292)</article-title>, <year>2019</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/ct2/show/NCT03789292" ext-link-type="uri">https://clinicaltrials.gov/ct2/show/NCT03789292</ext-link>. Accessed March 6, 2020.</mixed-citation></ref><ref id="cts12967-bib-0013"><label>13</label><mixed-citation publication-type="miscellaneous" id="cts12967-cit-0013">
+<string-name>
+<surname>Davio</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Celltrion completes enrollment of phase 3 trial of CT&#x02010;P17, gives update on subcutaneous CT&#x02010;P13</article-title>, <year>2019</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.centerforbiosimilars.com/news/celltrion-completes-enrollment-of-phase-3-trial-of-ctp17-gives-update-on-subcutaneous-ctp13" ext-link-type="uri">https://www.centerforbiosimilars.com/news/celltrion&#x02010;completes&#x02010;enrollment&#x02010;of&#x02010;phase&#x02010;3&#x02010;trial&#x02010;of&#x02010;ctp17&#x02010;gives&#x02010;update&#x02010;on&#x02010;subcutaneous&#x02010;ctp13</ext-link>. Accessed March 5, 2020.</mixed-citation></ref><ref id="cts12967-bib-0014"><label>14</label><mixed-citation publication-type="miscellaneous" id="cts12967-cit-0014">
+<collab collab-type="authors">ClinicalTrials.gov</collab>
+. <article-title>CT&#x02010;P17 1.3 study (NCT04295356)</article-title>, <year>2020</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/ct2/show/NCT04295356" ext-link-type="uri">https://clinicaltrials.gov/ct2/show/NCT04295356</ext-link>. Accessed March 12, 2020.</mixed-citation></ref><ref id="cts12967-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cts12967-cit-0015">
+<string-name>
+<surname>Shin</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>K&#x000f6;rnicke</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Fuhr</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>A randomized phase I comparative pharmacokinetic study comparing SB5 with reference adalimumab in healthy volunteers</article-title>. <source>J Clin Pharm Ther.</source>
+<year>2017</year>;<volume>42</volume>:<fpage>672</fpage>&#x02010;<lpage>678</lpage>.<pub-id pub-id-type="pmid">28675520</pub-id></mixed-citation></ref><ref id="cts12967-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cts12967-cit-0016">
+<string-name>
+<surname>Puri</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Niewiarowski</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Arai</surname>
+<given-names>Y,</given-names>
+</string-name> et al. <article-title>Pharmacokinetics, safety, tolerability and immunogenicity of FKB327, a new biosimilar medicine of adalimumab/Humira, in healthy subjects</article-title>. <source>Br J Clin Pharmacol.</source>
+<year>2017</year>;<volume>83</volume>:<fpage>1405</fpage>&#x02010;<lpage>1415</lpage>.<pub-id pub-id-type="pmid">28133772</pub-id></mixed-citation></ref><ref id="cts12967-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cts12967-cit-0017">
+<string-name>
+<surname>Wynne</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Altendorfer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sonderegger</surname>
+<given-names>I,</given-names>
+</string-name> et al. <article-title>Bioequivalence, safety and immunogenicity of BI 695501, an adalimumab biosimilar candidate, compared with the reference biologic in a randomized, double&#x02010;blind, active comparator phase I clinical study (VOLTAIRE<sup>&#x000ae;</sup>&#x02010;PK) in healthy subjects</article-title>. <source>Expert Opin Investig Drugs.</source>
+<year>2016</year>;<volume>25</volume>:<fpage>1361</fpage>&#x02010;<lpage>1370</lpage>.</mixed-citation></ref><ref id="cts12967-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cts12967-cit-0018">
+<string-name>
+<surname>Kaur</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Chow</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Moxness</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kaliyaperumal</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Markus</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>A randomised, single&#x02010;blind, single&#x02010;dose, three&#x02010;arm, parallel&#x02010;group study in healthy subjects to demonstrate pharmacokinetic equivalence of ABP 501 and adalimumab</article-title>. <source>Ann Rheum Dis</source>. <year>2017</year>;<volume>76</volume>:<fpage>526</fpage>&#x02010;<lpage>533</lpage>.<pub-id pub-id-type="pmid">27466231</pub-id></mixed-citation></ref><ref id="cts12967-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cts12967-cit-0019">
+<string-name>
+<surname>von Richter</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Lemke</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Haliduola</surname>
+<given-names>H,</given-names>
+</string-name> et al. <article-title>GP2017, an adalimumab biosimilar: pharmacokinetic similarity to its reference medicine and pharmacokinetics comparison of different administration methods</article-title>. <source>Expert Opin Biol Ther</source>. <year>2019</year>;<volume>19</volume>:<fpage>1075</fpage>&#x02010;<lpage>1083</lpage>.<pub-id pub-id-type="pmid">30698045</pub-id></mixed-citation></ref><ref id="cts12967-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cts12967-cit-0020">
+<string-name>
+<surname>Hyland</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Mant</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Vlachos</surname>
+<given-names>P,</given-names>
+</string-name> et al. <article-title>Comparison of the pharmacokinetics, safety, and immunogenicity of MSB11022, a biosimilar of adalimumab, with Humira(<sup>&#x000ae;</sup>) in healthy subjects</article-title>. <source>Br J Clin Pharmacol</source>. <year>2016</year>;<volume>82</volume>:<fpage>983</fpage>&#x02010;<lpage>993</lpage>.<pub-id pub-id-type="pmid">27285856</pub-id></mixed-citation></ref><ref id="cts12967-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cts12967-cit-0021">
+<string-name>
+<surname>Dillingh</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Reijers</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Malone</surname>
+<given-names>KE,</given-names>
+</string-name> et al. <article-title>Clinical evaluation of Humira<sup>&#x000ae;</sup> biosimilar ONS&#x02010;3010 in healthy volunteers: focus on pharmacokinetics and pharmacodynamics</article-title>. <source>Front Immunol</source>. <year>2016</year>;<volume>7</volume>:<fpage>508</fpage>.<pub-id pub-id-type="pmid">27965661</pub-id></mixed-citation></ref><ref id="cts12967-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cts12967-cit-0022">
+<string-name>
+<surname>Hillson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Mant</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Rosano</surname>
+<given-names>M,</given-names>
+</string-name> et al. <article-title>Pharmacokinetic equivalence, comparable safety, and immunogenicity of an adalimumab biosimilar product (M923) to Humira in healthy subjects</article-title>. <source>Pharmacol Res Perspect</source>. <year>2018</year>;<volume>6</volume>:<elocation-id>e00380</elocation-id>.</mixed-citation></ref><ref id="cts12967-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cts12967-cit-0023">
+<string-name>
+<surname>Menter</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gordon</surname>
+<given-names>KB</given-names>
+</string-name>, <string-name>
+<surname>Leonardi</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Gu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Goldblum</surname>
+<given-names>OM</given-names>
+</string-name>. <article-title>Efficacy and safety of adalimumab across subgroups of patients with moderate to severe psoriasis</article-title>. <source>J Am Acad Dermatol</source>. <year>2010</year>;<volume>63</volume>:<fpage>448</fpage>&#x02010;<lpage>456</lpage>.<pub-id pub-id-type="pmid">20605254</pub-id></mixed-citation></ref><ref id="cts12967-bib-0024"><label>24</label><mixed-citation publication-type="miscellaneous" id="cts12967-cit-0024">
+<collab collab-type="authors">European Medicines Agency</collab>
+. <article-title>European Medicines Agency procedural advice for users of the centralised procedure for similar biological medicinal products applications</article-title>, <year>2019</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/european-medicines-agency-procedural-advice-users-centralised-procedure-similar-biological-medicinal_en.pdf" ext-link-type="uri">https://www.ema.europa.eu/en/documents/regulatory&#x02010;procedural&#x02010;guideline/european&#x02010;medicines&#x02010;agency&#x02010;procedural&#x02010;advice&#x02010;users&#x02010;centralised&#x02010;procedure&#x02010;similar&#x02010;biological&#x02010;medicinal_en.pdf</ext-link>. Accessed March 12, 2020.</mixed-citation></ref><ref id="cts12967-bib-0025"><label>25</label><mixed-citation publication-type="miscellaneous" id="cts12967-cit-0025">
+<collab collab-type="authors">European Medicines Agency</collab>
+. <article-title>EMA&#x02010;approved biosimilar medicines</article-title>, <year>2020</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ema.europa.eu/en/medicines/search_api_aggregation_ema_medicine_types/field_ema_med_biosimilar?search_api_views_fulltext=adalimumab" ext-link-type="uri">https://www.ema.europa.eu/en/medicines/search_api_aggregation_ema_medicine_types/field_ema_med_biosimilar?search_api_views_fulltext=adalimumab</ext-link>. Accessed October 23, 2020.</mixed-citation></ref><ref id="cts12967-bib-0026"><label>26</label><mixed-citation publication-type="miscellaneous" id="cts12967-cit-0026">
+<collab collab-type="authors">US Food and Drug Administration</collab>
+. <article-title>Biosimilar product information</article-title>, <year>2020</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.fda.gov/drugs/biosimilars/biosimilar-product-information" ext-link-type="uri">https://www.fda.gov/drugs/biosimilars/biosimilar&#x02010;product&#x02010;information</ext-link>. Accessed October 23, 2020.</mixed-citation></ref><ref id="cts12967-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cts12967-cit-0027">
+<string-name>
+<surname>Jensen</surname>
+<given-names>TB</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Jimenez&#x02010;Solem</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Bartels</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Christensen</surname>
+<given-names>HR</given-names>
+</string-name>, <string-name>
+<surname>Andersen</surname>
+<given-names>JT</given-names>
+</string-name>. <article-title>Shift from adalimumab originator to biosimilars in Denmark</article-title>. <source>JAMA Intern Med</source>. <year>2020</year>;<volume>180</volume>:<fpage>902</fpage>&#x02010;<lpage>903</lpage>.<pub-id pub-id-type="pmid">32227137</pub-id></mixed-citation></ref><ref id="cts12967-bib-0028"><label>28</label><mixed-citation publication-type="miscellaneous" id="cts12967-cit-0028">
+<collab collab-type="authors">European Medicines Agency</collab>
+. <article-title>Amsparity prescribing information</article-title>, <year>2020</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ema.europa.eu/en/documents/product-information/amsparity-epar-product-information_en.pdf" ext-link-type="uri">https://www.ema.europa.eu/en/documents/product&#x02010;information/amsparity&#x02010;epar&#x02010;product&#x02010;information_en.pdf</ext-link>. Accessed March 6, 2020.</mixed-citation></ref><ref id="cts12967-bib-0029"><label>29</label><mixed-citation publication-type="miscellaneous" id="cts12967-cit-0029">
+<collab collab-type="authors">US Food and Drug Administration</collab>
+. <article-title>Abrilada prescribing information</article-title>, <year>2019</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/761118s000lbl.pdf" ext-link-type="uri">https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/761118s000lbl.pdf</ext-link>. Accessed March 6, 2020.</mixed-citation></ref><ref id="cts12967-bib-0030"><label>30</label><mixed-citation publication-type="miscellaneous" id="cts12967-cit-0030">
+<article-title>ClinicalTrials.gov. CT&#x02010;P17 3.2 study (NCT04171414)</article-title>, <year>2019</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/ct2/show/NCT04171414" ext-link-type="uri">https://clinicaltrials.gov/ct2/show/NCT04171414</ext-link>. Accessed March 6, 2020.</mixed-citation></ref></ref-list></back></article>

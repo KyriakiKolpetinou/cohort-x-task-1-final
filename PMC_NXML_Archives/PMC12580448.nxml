@@ -1,0 +1,741 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="jne70079" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Neuroendocrinol</journal-id><journal-id journal-id-type="iso-abbrev">J Neuroendocrinol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2826</journal-id><journal-id journal-id-type="publisher-id">JNE</journal-id><journal-title-group><journal-title>Journal of Neuroendocrinology</journal-title></journal-title-group><issn pub-type="ppub">0953-8194</issn><issn pub-type="epub">1365-2826</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">40825538</article-id><article-id pub-id-type="pmc">12580448</article-id>
+<article-id pub-id-type="doi">10.1111/jne.70079</article-id><article-id pub-id-type="publisher-id">JNE70079</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Translational and Clinical Neuroendocrinology</subject></subj-group></article-categories><title-group><article-title>Intraoperative hepatic ultrasonography in patients with gastrointestinal and pancreatic neuroendocrine neoplasms without preoperative evidence of liver metastases</article-title><alt-title alt-title-type="left-running-head">Vigan&#x000f2; et al.</alt-title></title-group><contrib-group><contrib id="jne70079-cr-0001" contrib-type="author" corresp="yes"><name><surname>Vigan&#x000f2;</surname><given-names>L.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4108-4832</contrib-id><xref rid="jne70079-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jne70079-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>luca.vigano@hunimed.eu</email></address></contrib><contrib id="jne70079-cr-0002" contrib-type="author"><name><surname>Maruccio</surname><given-names>M.</given-names></name><xref rid="jne70079-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jne70079-cr-0003" contrib-type="author"><name><surname>Faustini</surname><given-names>F.</given-names></name><xref rid="jne70079-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jne70079-cr-0004" contrib-type="author"><name><surname>Frigerio</surname><given-names>I.</given-names></name><xref rid="jne70079-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="jne70079-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="jne70079-cr-0005" contrib-type="author"><name><surname>Gavazzi</surname><given-names>F.</given-names></name><xref rid="jne70079-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="jne70079-cr-0006" contrib-type="author"><name><surname>De Robertis Lombardi</surname><given-names>R.</given-names></name><xref rid="jne70079-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="jne70079-cr-0007" contrib-type="author"><name><surname>Scopelliti</surname><given-names>F.</given-names></name><xref rid="jne70079-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="jne70079-cr-0008" contrib-type="author"><name><surname>Capretti</surname><given-names>G.</given-names></name><xref rid="jne70079-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="jne70079-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="jne70079-cr-0009" contrib-type="author"><name><surname>Ammirabile</surname><given-names>A.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3724-053X</contrib-id><xref rid="jne70079-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="jne70079-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="jne70079-cr-0010" contrib-type="author"><name><surname>D'Onofrio</surname><given-names>M.</given-names></name><xref rid="jne70079-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="jne70079-cr-0011" contrib-type="author"><name><surname>Giardino</surname><given-names>A.</given-names></name><xref rid="jne70079-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="jne70079-cr-0012" contrib-type="author"><name><surname>Ferrillo</surname><given-names>G.</given-names></name><xref rid="jne70079-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="jne70079-cr-0013" contrib-type="author"><name><surname>Rodari</surname><given-names>M.</given-names></name><xref rid="jne70079-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="jne70079-cr-0014" contrib-type="author"><name><surname>Regi</surname><given-names>P.</given-names></name><xref rid="jne70079-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="jne70079-cr-0015" contrib-type="author"><name><surname>Procopio</surname><given-names>F.</given-names></name><xref rid="jne70079-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="jne70079-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="jne70079-cr-0016" contrib-type="author"><name><surname>Salvia</surname><given-names>R.</given-names></name><xref rid="jne70079-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jne70079-cr-0017" contrib-type="author"><name><surname>Lania</surname><given-names>A.</given-names></name><xref rid="jne70079-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="jne70079-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref></contrib><contrib id="jne70079-cr-0018" contrib-type="author"><name><surname>Butturini</surname><given-names>G.</given-names></name><xref rid="jne70079-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="jne70079-cr-0019" contrib-type="author"><name><surname>Landoni</surname><given-names>L.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2474-3496</contrib-id><xref rid="jne70079-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jne70079-cr-0020" contrib-type="author"><name><surname>Torzilli</surname><given-names>G.</given-names></name><xref rid="jne70079-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="jne70079-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="jne70079-cr-0021" contrib-type="author" corresp="yes"><name><surname>Zerbi</surname><given-names>A.</given-names></name><xref rid="jne70079-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="jne70079-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><address><email>alessandro.zerbi@hunimed.eu</email></address></contrib></contrib-group><aff id="jne70079-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Hepatobiliary Unit, Department of Minimally Invasive General &#x00026; Oncologic Surgery</named-content>
+<institution>Humanitas Gavazzeni University Hospital</institution>
+<city>Bergamo</city>
+<country country="IT">Italy</country>
+</aff><aff id="jne70079-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Biomedical Sciences</named-content>
+<institution>Humanitas University</institution>
+<city>Milan</city>
+<country country="IT">Italy</country>
+</aff><aff id="jne70079-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">General and Pancreatic Surgery Unit</named-content>
+<institution>Pancreas Institute, Policlinico GB Rossi University of Verona Hospital Trust</institution>
+<city>Verona</city>
+<country country="IT">Italy</country>
+</aff><aff id="jne70079-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">HPB Unit</named-content>
+<institution>Pederzoli Hospital</institution>
+<city>Verona</city>
+<country country="IT">Italy</country>
+</aff><aff id="jne70079-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>Collegium Medicum, University of Social Sciences</institution>
+<city>&#x00141;odz</city>
+<country country="PL">Poland</country>
+</aff><aff id="jne70079-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Pancreatic Surgery Unit</named-content>
+<institution>IRCCS Humanitas Research Hospital</institution>
+<city>Milan</city>
+<country country="IT">Italy</country>
+</aff><aff id="jne70079-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Unit of Radiology</named-content>
+<institution>Pancreas Institute, Policlinico GB Rossi, University of Verona Hospital Trust</institution>
+<city>Verona</city>
+<country country="IT">Italy</country>
+</aff><aff id="jne70079-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Department of Radiology</named-content>
+<institution>IRCCS Humanitas Research Hospital</institution>
+<city>Milan</city>
+<country country="IT">Italy</country>
+</aff><aff id="jne70079-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<named-content content-type="organisation-division">Department of Nuclear Medicine</named-content>
+<institution>IRCCS Humanitas Research Hospital</institution>
+<city>Milan</city>
+<country country="IT">Italy</country>
+</aff><aff id="jne70079-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<named-content content-type="organisation-division">Division of Hepatobiliary and General Surgery</named-content>
+<institution>IRCCS Humanitas Research Hospital</institution>
+<city>Milan</city>
+<country country="IT">Italy</country>
+</aff><aff id="jne70079-aff-0011">
+<label>
+<sup>11</sup>
+</label>
+<named-content content-type="organisation-division">Endocrinology, Diabetology and Medical Andrology Unit</named-content>
+<institution>IRCCS, Humanitas Research Hospital</institution>
+<city>Milan</city>
+<country country="IT">Italy</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+L. Vigan&#x000f2;, Hepatobiliary Unit, Department of Minimally Invasive General &#x00026; Oncologic Surgery, Humanitas Gavazzeni University Hospital, Viale M. Gavazzeni 21, 24125 Bergamo, Italy; Department of Biomedical Sciences, Humanitas University, Pieve Emanuele, Milan, Italy.<break/>
+Email: <email>luca.vigano@hunimed.eu</email>
+<break/>
+A. Zerbi, Pancreatic Surgery Unit, IRCCS Humanitas Research Hospital, Milan, Italy; Department of Biomedical Sciences, Humanitas University, Pieve Emanuele, Milan, Italy.<break/>
+Email: <email>alessandro.zerbi@hunimed.eu</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>18</day><month>8</month><year>2025</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2025</year></pub-date><volume>37</volume><issue seq="110">11</issue><issue-id pub-id-type="doi">10.1111/jne.v37.11</issue-id><elocation-id>e70079</elocation-id><history>
+<date date-type="rev-recd"><day>13</day><month>6</month><year>2025</year></date>
+<date date-type="received"><day>21</day><month>3</month><year>2025</year></date>
+<date date-type="accepted"><day>29</day><month>7</month><year>2025</year></date>
+</history><permissions><!--&#x000a9; 2025 British Society for Neuroendocrinology--><copyright-statement content-type="article-copyright">&#x000a9; 2025 The Author(s). <italic toggle="yes">Journal of Neuroendocrinology</italic> published by John Wiley &#x00026; Sons Ltd on behalf of British Society for Neuroendocrinology.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:JNE-37-e70079.pdf"/><abstract><title>Abstract</title><p>In patients with gastroenteric and pancreatic neuroendocrine neoplasms (GEP&#x02010;NENs), the risk of liver metastases is high, but the accuracy of standard imaging for detecting small hepatic nodules is limited. This raises concerns about the adequacy of staging in cM0 patients. This study aims to determine the percentage of cM0 GEP&#x02010;NEN patients with occult liver metastases that can be identified using intraoperative ultrasound (IOUS) during surgery for the primary tumor. A prospective study was conducted at three high&#x02010;volume centers between October 2020 and December 2023. Patients who underwent surgery for GEP&#x02010;NENs staged as cM0 based on CT and PET/CT (MRI in selected cases) were included. IOUS was systematically performed, in combination with contrast&#x02010;enhanced IOUS (CE&#x02010;IOUS) and biopsy when necessary. The ground truth was the result of a contrast&#x02010;enhanced CT or MRI performed 6 months after surgery. A total of 51 cM0 GEP&#x02010;NEN patients were enrolled. IOUS detected suspicious liver nodules in seven patients (14%). Three were classified as metastatic based on the IOUS pattern, CE&#x02010;IOUS pattern, and biopsy, respectively, while four were classified as non&#x02010;metastatic based on biopsy (<italic toggle="no">n</italic>&#x02009;=&#x02009;2) or CE&#x02010;IOUS pattern (<italic toggle="no">n</italic>&#x02009;=&#x02009;2). At six&#x02010;month follow&#x02010;up imaging, two patients (4%) were confirmed as metastatic (the suspicious metastasis at CE&#x02010;IOUS was not confirmed). GEP&#x02010;NENs G3 and those with necrosis had a higher risk of metastases (one&#x02010;third of patients, <italic toggle="no">p</italic>&#x02009;&#x0003c;&#x02009;0.05 compared to G1&#x02010;2 and non&#x02010;necrotic neoplasms). IOUS, combined with CE&#x02010;IOUS and biopsy, achieved 100% sensitivity, 98% accuracy, and 100% negative predictive value. IOUS, along with CE&#x02010;IOUS and biopsy, provides accurate staging in GEP&#x02010;NENs, identifying occult metastases in approximately 4% of cM0 cases. Due to the low incidence of occult metastases, routine use of IOUS cannot be recommended. It should be considered selectively in aggressive tumors, which have shown a significantly higher risk of liver involvement.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jne70079-kwd-0001">intraoperative ultrasonography</kwd><kwd id="jne70079-kwd-0002">liver metastases</kwd><kwd id="jne70079-kwd-0005">magnetic resonance imaging</kwd><kwd id="jne70079-kwd-0003">neuroendocrine neoplasm</kwd><kwd id="jne70079-kwd-0004">staging</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>IT.A.NET (Italian Association for Neuroendocrine Tumors)</institution></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="2"/><table-count count="4"/><page-count count="10"/><word-count count="6500"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.4 mode:remove_FC converted:02.11.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jne70079-cit-9001">
+<string-name>
+<surname>Vigan&#x000f2;</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Maruccio</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Faustini</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Intraoperative hepatic ultrasonography in patients with gastrointestinal and pancreatic neuroendocrine neoplasms without preoperative evidence of liver metastases</article-title>. <source>J Neuroendocrinol</source>. <year>2025</year>;<volume>37</volume>(<issue>11</issue>):<elocation-id>e70079</elocation-id>. doi:<pub-id pub-id-type="doi">10.1111/jne.70079</pub-id>
+<pub-id pub-id-type="pmid">40825538</pub-id>
+</mixed-citation>
+</p></notes></front><body id="jne70079-body-0001"><sec sec-type="background" id="jne70079-sec-0001"><label>1</label><title>BACKGROUND</title><p>Liver metastases are common in patients with neuroendocrine neoplasms (NENs), with autopsy series reporting an incidence of up to 80%&#x02013;90% in patients with ileal tumors and 60%&#x02013;70% in patients with pancreatic tumors.<xref rid="jne70079-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="jne70079-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="jne70079-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> However, the detection of liver nodules can be challenging because they are often small, in the millimeter range, and difficult to characterize. In surgical series of liver resections for NEN metastases, it is commonly reported that additional nodules, missed by preoperative imaging, are detected intraoperatively through intraoperative ultrasonography (IOUS).<xref rid="jne70079-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="jne70079-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Pathological studies of resected livers have even shown the presence of intrahepatic micrometastases that were invisible to preoperative imaging in nearly all patients, raising concerns about the true completeness of partial hepatectomy.<xref rid="jne70079-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> Such data call into question the adequacy of current staging methods for NENs. In tumors staged as cM0 based on preoperative imaging, the presence of occult liver metastases could have significant clinical implications, both in terms of treatment strategy and prognosis.</p><p>IOUS is the reference standard for staging primary and metastatic liver tumors, with diagnostic accuracy superior to that of computed tomography (CT) and magnetic resonance imaging (MRI).<xref rid="jne70079-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="jne70079-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="jne70079-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="jne70079-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="jne70079-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> In patients with liver metastases from colorectal cancer, despite advancements in modern imaging, IOUS still identifies additional lesions in 10%&#x02013;15% of cases.<xref rid="jne70079-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="jne70079-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> To date, the contribution of IOUS in staging NENs remains unclear.</p><p>The present study aims to determine the proportion of patients with gastrointestinal or pancreatic NEN staged as cM0 on preoperative imaging who have occult liver metastases detected intraoperatively by IOUS. To this aim, we conducted a prospective analysis across three high&#x02010;volume pancreatic surgery centers, adopting the WHO 2022 classification of NENs for all cases.<xref rid="jne70079-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>
+</p></sec><sec sec-type="methods" id="jne70079-sec-0002"><label>2</label><title>METHODS</title><sec id="jne70079-sec-0003"><label>2.1</label><title>Study design</title><p>All consecutive patients scheduled for surgery for gastrointestinal or pancreatic NENs at three high&#x02010;volume pancreatic surgery units expert in NEN treatment between October 1st, 2020, and December 31st, 2023, were considered for this prospective study. The list of centers is detailed in Supporting Information Table&#x000a0;<xref rid="jne70079-supitem-0001" ref-type="supplementary-material">1</xref>. The enrollment period was initially set for the period October 2020&#x02013;December 2022, but it was subsequently extended to December 2023 in an amendment to the protocol (see Section&#x000a0;<xref rid="jne70079-sec-0004" ref-type="sec">2.2</xref>).</p><p>Only patients meeting the following inclusion criteria were enrolled: age &#x02265;18&#x02009;years; diagnosis of gastrointestinal or pancreatic NEN confirmed at biopsy or final pathology; no other malignancies in the previous 5&#x02009;years; NEN staged as cM0 on preoperative imaging; preoperative staging including abdominal CT and gallium&#x02010;68 ((68)Ga)&#x02010;DOTATOC positron emission tomography (PET)/CT. Contrast&#x02010;enhanced liver MRI was not mandatory, although it was recommended. Only patients who underwent IOUS were included. Patients who underwent exploratory laparotomy without primary tumor resection were included if a complete intraoperative hepatic exploration was performed. We excluded patients who refused to participate in the study, those with preoperative imaging performed more than 60&#x02009;days before surgery, and those with incomplete intraoperative hepatic exploration (e.g., peri&#x02010;hepatic adhesions preventing complete exploration, unavailability of IOUS, etc.).</p><p>The primary endpoint of the study was to determine the proportion of patients with gastrointestinal or pancreatic NENs classified as cM0 on preoperative imaging who had liver metastases detected during intraoperative staging. The secondary endpoints were: (1) to analyze the performance of preoperative imaging (CT, MRI, and PET&#x02010;CT) in comparison with IOUS for liver staging; (2) to assess the capability of IOUS in characterizing newly detected liver nodules; (3) to evaluate the impact of IOUS on the therapeutic strategy.</p><p>The ground truth was defined as the result of liver staging based on contrast&#x02010;enhanced liver imaging (CT or MRI) performed 6 months after surgery, with any newly detected liver metastases classified as failures of intraoperative staging.</p><p>The study adhered to the principles of the Declaration of Helsinki and its subsequent amendments. It was conducted according to the STARD guidelines<xref rid="jne70079-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> (STARD checklist available as Supporting Information Table&#x000a0;<xref rid="jne70079-supitem-0001" ref-type="supplementary-material">2</xref>). Approval was obtained from the local ethics committee of the coordinating center (Humanitas Research Hospital Ethics Committee, study protocol 748/20, approval date: 24/09/2020, with amendment protocol 865/22, approval date: 15/11/2022); followed by the ethics committees of the other two participating centers. Written informed consent was obtained from all participants. The study is registered on <ext-link xlink:href="http://clinicaltrials.gov" ext-link-type="uri">ClinicalTrials.gov</ext-link> (ID: NCT06779708).</p></sec><sec id="jne70079-sec-0004"><label>2.2</label><title>Sample size calculation</title><p>Using Buderer's formula,<xref rid="jne70079-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> the enrollment of 99 patients was scheduled to achieve a sensitivity of 96% and a specificity of 90% for IOUS in detecting occult liver metastases, with an &#x003b1; error of 0.05 and a margin of error of 0.1, assuming an intraoperative detection rate of 15%. However, due to the COVID&#x02010;19 pandemic, enrollment progressed more slowly than anticipated, with only five patients enrolled in the first 6 months. A protocol amendment in 2022 extended the enrollment period to December 2023. Although the enrollment rate improved, it remained below the expected targets (Supporting Information Figure&#x000a0;<xref rid="jne70079-supitem-0001" ref-type="supplementary-material">1</xref>). By the end of the study period, only 51 patients were enrolled, rather than the originally planned 99. An interim analysis was conducted to determine whether to continue the study; based on the findings (reported in this study), the decision was made to terminate the study.</p></sec><sec id="jne70079-sec-0005"><label>2.3</label><title>Preoperative management</title><p>The staging of all enrolled patients included contrast&#x02010;enhanced abdominal CT and (68)Ga&#x02010;DOTATOC PET/CT. Contrast&#x02010;enhanced liver MRI was performed according to each center's policy but was systematically used in patients with liver lesions suspicious for metastases on CT. In all three centers, a multidisciplinary team dedicated to NENs&#x02014;which included medical oncologists, surgical oncologists, endocrinologists, gastroenterologists, radiologists, interventional radiologists, radiation oncologists, nuclear medicine physicians, and pathologists&#x02014;systematically discussed the treatment plan for each patient. For the purposes of this study, the multidisciplinary team confirmed the cM0 staging and the indication for surgery in all cases. In each center, expert radiologists systematically reviewed preoperative imaging to confirm the cM0 staging and classify any visible liver lesion as non&#x02010;metastatic (e.g., hemangioma, cysts, etc.).</p></sec><sec id="jne70079-sec-0006"><label>2.4</label><title>Intraoperative management</title><p>During surgery, a thorough exploration of the abdominal cavity was performed, including an evaluation of the primary tumor and the presence of any lymph node or peritoneal metastases. A detailed examination of the liver followed, involving inspection of the Glissonean sheath, palpation of the parenchyma, and IOUS. In minimally invasive procedures, only liver inspection and IOUS were performed. No liver mobilization was carried out prior to liver assessment. IOUS was performed by dedicated physicians (radiologists or surgeons) with long&#x02010;lasting experience in this imaging modality, using dedicated intraoperative probes for open, laparoscopic, or robotic procedures.</p><p>All intraoperatively detected liver lesions were recorded, with differentiation between lesions previously identified and those unknown based on preoperative imaging. For each detected lesion, the operator documented the hepatic segment, size (in mm), IOUS characteristics, and the diagnostic hypothesis. Contrast&#x02010;enhanced IOUS (CE&#x02010;IOUS) was performed in selected patients using Sonovue&#x000ae; (sulfur hexafluoride microbubbles, Bracco Imaging, Milan, Italy) to improve the characterization of liver nodules. According to previous analyses of contrast&#x02010;enhanced ultrasonography for liver tumors,<xref rid="jne70079-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="jne70079-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> nodules with pronounced early enhancement in the arterial phase and hypoenhancement in the portal&#x02010;venous phase were considered typical for NEN metastases. Lesions showing isolated portal&#x02010;venous hypoenhancement, or mild arterial&#x02010;phase enhancement with incomplete portal&#x02010;venous hypoenhancement, were considered suspicious and required further confirmation. If one or more nodules suspected to be NEN metastases were identified, a biopsy (fine&#x02010;needle or excisional for superficial lesions) was recommended when feasible for histological confirmation. The treatment of any metastases was determined by the individual surgeon based on intraoperative evaluations.</p></sec><sec id="jne70079-sec-0007"><label>2.5</label><title>Postoperative management</title><p>Enrolled patients received standard postoperative management according to the policies of each center. Once the pathology results were available, a new multidisciplinary evaluation was conducted to determine the appropriate follow&#x02010;up or treatment protocol. For all patients, the pathological results were reviewed according to the 2022 WHO Classification of Endocrine and Neuroendocrine Neoplasms.<xref rid="jne70079-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> For the purposes of this study, all patients underwent contrast&#x02010;enhanced panoramic liver imaging (CT or MRI) 6 months after surgery. Radiologists reviewing follow&#x02010;up imaging were blinded to intraoperative data.</p></sec><sec id="jne70079-sec-0008"><label>2.6</label><title>Statistical analyses</title><p>Categorical variables were reported as numbers and percentages and compared using the &#x003c7;<sup>2</sup> test or Fisher's exact test, as appropriate. Continuous variables were reported as medians and interquartile ranges (IQR) and compared using the unpaired <italic toggle="yes">t</italic>&#x02010;test or Mann&#x02013;Whitney <italic toggle="yes">U</italic> test, depending on the results of the Shapiro&#x02010;Wilk test for normality. A <italic toggle="yes">p</italic>&#x02010;value &#x0003c;0.05 was considered significant for all analyses. The performance of preoperative and intraoperative staging was assessed by computing sensitivity, specificity, negative and positive predictive values, and accuracy.</p></sec></sec><sec sec-type="results" id="jne70079-sec-0009"><label>3</label><title>RESULTS</title><p>During the study period, 185 patients were assessed for eligibility across the three centers. Of these, 117 were excluded from the analysis for the following reasons: liver metastases evident on preoperative imaging (<italic toggle="yes">n</italic>&#x02009;=&#x02009;31); incomplete preoperative staging (CT and PET/CT) or imaging performed more than 60&#x02009;days before surgery (<italic toggle="yes">n</italic>&#x02009;=&#x02009;41); and unavailability of IOUS during the planned surgery (<italic toggle="yes">n</italic>&#x02009;=&#x02009;45). Sixty&#x02010;eight patients were enrolled; however, 17 were excluded from the final analysis for the following reasons: incomplete intraoperative staging in 10 patients (due to adhesions or the inability to perform IOUS); an interval between imaging and surgery exceeding 60&#x02009;days in 5 patients (the surgical procedure was delayed and the predefined cut&#x02010;off value for imaging was exceeded); and diagnoses other than gastrointestinal or pancreatic NEN at final pathology in two patients (one case of mixed NET/adenocarcinoma and one of paraganglioma). A flowchart detailing patient selection is shown in Figure&#x000a0;<xref rid="jne70079-fig-0001" ref-type="fig">1</xref>.</p><fig position="float" fig-type="FIGURE" id="jne70079-fig-0001"><label>FIGURE 1</label><caption><p>Patients' selection flowchart. *The surgical procedure was delayed, and the predefined cut&#x02010;off value for imaging was exceeded.</p></caption><graphic xlink:href="JNE-37-e70079-g002" position="anchor" id="jats-graphic-1"/></fig><p>Overall, the study prospectively enrolled 51 patients with a median age of 60&#x02009;years (IQR 51&#x02013;70), including 20 females. Most of the patients had a pancreatic NEN (42 individuals, including two with simultaneous pancreatic and ileal NET), with the tumor located in the head of the pancreas in 20 cases, in the body/tail in 21 cases, and presenting with dual localization (head and tail) in one case. In this last case, the patient underwent surgery for the cephalic lesion only. The two patients with simultaneous pancreatic and ileal NET underwent intestinal resection only. Neoadjuvant 177&#x02010;Lu&#x02010;labelled DOTA&#x02010;octreotate was administered in 10 cases because of a simultaneous enrollment in the NEOLUPANET multicenter trial.<xref rid="jne70079-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> Twenty&#x02010;four patients had NEN&#x02010;related symptoms, and one had a final diagnosis of somatostatinoma. Patients' and tumor characteristics are summarized in Tables&#x000a0;<xref rid="jne70079-tbl-0001" ref-type="table">1</xref> and <xref rid="jne70079-tbl-0002" ref-type="table">2</xref>; surgical procedures are detailed in Supporting Information Table&#x000a0;<xref rid="jne70079-supitem-0001" ref-type="supplementary-material">3</xref>.</p><table-wrap position="float" id="jne70079-tbl-0001" content-type="TABLE"><label>TABLE 1</label><caption><p>Patients' characteristics.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Characteristic</th><th align="left" valign="bottom" rowspan="1" colspan="1">#</th></tr></thead><tbody valign="top"><tr><td colspan="2" align="left" valign="top" rowspan="1">Demographic data</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Sex, M:F</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">31 (61%):20 (39%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Age, years</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">60 (51&#x02013;70)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">BMI, kg/m<sup>2</sup>
+</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">25.4 (24.1&#x02013;28.7)</td></tr><tr><td colspan="2" align="left" valign="top" rowspan="1">Primary location of the neoplasm</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Pancreas</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">40 (78%)</td></tr><tr><td align="left" style="padding-left:15%" valign="top" rowspan="1" colspan="1">Head/uncinate process</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">19 (37%)</td></tr><tr><td align="left" style="padding-left:15%" valign="top" rowspan="1" colspan="1">Isthmus&#x02010;body</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">11 (22%)</td></tr><tr><td align="left" style="padding-left:15%" valign="top" rowspan="1" colspan="1">Tail</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">9 (18%)</td></tr><tr><td align="left" style="padding-left:15%" valign="top" rowspan="1" colspan="1">Head + tail<xref rid="jne70079-note-0002" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (2%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Pancreas + ileum<xref rid="jne70079-note-0003" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2 (4%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Ileum</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">5 (10%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Ampulla</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2 (4%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Duodenum</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (2%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Stomach</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (2%)</td></tr><tr><td colspan="2" align="left" valign="top" rowspan="1">Other characteristics</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Symptoms</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">24 (47%)</td></tr><tr><td align="left" style="padding-left:15%" valign="top" rowspan="1" colspan="1">Abdominal pain</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">10 (20%)</td></tr><tr><td align="left" style="padding-left:15%" valign="top" rowspan="1" colspan="1">Jaundice</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">5 (10%)</td></tr><tr><td align="left" style="padding-left:15%" valign="top" rowspan="1" colspan="1">Diarrhea</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2 (4%)</td></tr><tr><td align="left" style="padding-left:15%" valign="top" rowspan="1" colspan="1">Other</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">7 (14%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Preoperative treatment</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">13 (25%)</td></tr><tr><td align="left" style="padding-left:15%" valign="top" rowspan="1" colspan="1">PRRT</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">9 (18%)</td></tr><tr><td align="left" style="padding-left:15%" valign="top" rowspan="1" colspan="1">PRRT + SSA</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (2%)</td></tr><tr><td align="left" style="padding-left:15%" valign="top" rowspan="1" colspan="1">Systemic chemotherapy</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3 (6%)</td></tr><tr><td colspan="2" align="left" valign="top" rowspan="1">Preoperative imaging</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">CT</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">51 (100%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">MRI within 90&#x02009;days before surgery</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">17 (33%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">PET&#x02010;CT</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">51 (100%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Minimum interval imaging&#x02010;surgery, days</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">30 (16&#x02013;49)</td></tr></tbody></table><table-wrap-foot id="jne70079-ntgp-0002"><fn id="jne70079-note-0001"><p>
+<italic toggle="yes">Note</italic>: Continuous variables are reported as median (IQR).</p></fn><fn id="jne70079-note-0002"><label>
+<sup>a</sup>
+</label><p>The patient underwent surgery for the cephalic lesion only.</p></fn><fn id="jne70079-note-0003"><label>
+<sup>b</sup>
+</label><p>Both patients underwent bowel resection only; the pancreatic NEN was located in the head of the pancreas in one patient and in the tail in the other patient.</p></fn></table-wrap-foot></table-wrap><table-wrap position="float" id="jne70079-tbl-0002" content-type="TABLE"><label>TABLE 2</label><caption><p>Pathological data and Staging of resected NENs.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th colspan="2" align="left" valign="bottom" rowspan="1">Pathology data</th><th align="left" valign="bottom" rowspan="1" colspan="1">#</th></tr></thead><tbody valign="top"><tr><td colspan="2" align="left" valign="top" rowspan="1">Well differentiated NENs (NETs)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">50 (98%)</td></tr><tr><td colspan="2" align="left" style="padding-left:10%" valign="top" rowspan="1">G1 (Ki67% &#x02264;2%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">20 (39%)</td></tr><tr><td colspan="2" align="left" style="padding-left:10%" valign="top" rowspan="1">G2 (Ki67% 3%&#x02013;20%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">28 (55%)</td></tr><tr><td colspan="2" align="left" style="padding-left:10%" valign="top" rowspan="1">G3 (Ki67% &#x0003e;20%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2 (4%)</td></tr><tr><td colspan="2" align="left" valign="top" rowspan="1">Poorly differentiated NENs (NECs)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (2%)</td></tr><tr><td colspan="2" align="left" valign="top" rowspan="1">Other pathology details</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td colspan="2" align="left" style="padding-left:10%" valign="top" rowspan="1">Necrosis</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">7 (14%)</td></tr><tr><td colspan="2" align="left" style="padding-left:10%" valign="top" rowspan="1">Microscopic vascular invasion</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">38 (75%)</td></tr><tr><td colspan="2" align="left" style="padding-left:10%" valign="top" rowspan="1">Perineural invasion</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">19 (37%)</td></tr><tr><td colspan="2" align="left" style="padding-left:10%" valign="top" rowspan="1">Number of retrieved LNDs, number</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">20 (13&#x02013;32)</td></tr><tr><td colspan="2" align="left" style="padding-left:10%" valign="top" rowspan="1">Number of metastatic LNDs, number</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (0&#x02013;3)</td></tr><tr><td colspan="2" align="left" style="padding-left:10%" valign="top" rowspan="1">R0 rate<xref rid="jne70079-note-0005" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">45 (88%)</td></tr><tr><td colspan="2" align="left" valign="top" rowspan="1">Staging<xref rid="jne70079-note-0006" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td rowspan="5" align="left" style="padding-left:10%" valign="top" colspan="1">Pancreas (<italic toggle="yes">n</italic>&#x02009;=&#x02009;40)</td><td align="left" valign="top" rowspan="1" colspan="1">N+</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">18 (45%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Stage I</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">6 (15%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Stage II</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">14 (35%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Stage III</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">18 (45%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Stage IV</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2 (5%)<xref rid="jne70079-note-0007" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td></tr><tr><td rowspan="2" align="left" style="padding-left:10%" valign="top" colspan="1">Ileum (<italic toggle="yes">n</italic>&#x02009;=&#x02009;7)</td><td align="left" valign="top" rowspan="1" colspan="1">N+</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">7 (100%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Stage III</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">7 (100%)</td></tr><tr><td rowspan="2" align="left" style="padding-left:10%" valign="top" colspan="1">Duodenum/Ampulla (<italic toggle="yes">n</italic>&#x02009;=&#x02009;3)</td><td align="left" valign="top" rowspan="1" colspan="1">N+</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3 (100%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Stage III</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3 (100%)</td></tr><tr><td colspan="2" align="left" style="padding-left:10%" valign="top" rowspan="1">Stomach (<italic toggle="yes">n</italic>&#x02009;=&#x02009;1)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (T2N1M0)</td></tr></tbody></table><table-wrap-foot id="jne70079-ntgp-0003"><fn id="jne70079-note-0004"><p>
+<italic toggle="yes">Note</italic>: Continuous variables are reported as median (IQR).</p></fn><fn id="jne70079-note-0005"><label>
+<sup>a</sup>
+</label><p>Patients with double NEN location and resection of a single NEN were classified as R0 if the margin of the resected neoplasm was negative. Five patients had R1 resection; one patient had one untreated liver metastasis.</p></fn><fn id="jne70079-note-0006"><label>
+<sup>b</sup>
+</label><p>Staging was reported for the resected NENs. NENs were staged according to the WHO classification of neuroendocrine neoplasms (2022),<xref rid="jne70079-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> and version 9 American Joint Committee on Cancer staging system for gastroenteropancreatic neuroendocrine tumors (<ext-link xlink:href="https://doi.org/10.3322/caac.21840" ext-link-type="uri">https://doi.org/10.3322/caac.21840</ext-link>).</p></fn><fn id="jne70079-note-0007"><label>
+<sup>c</sup>
+</label><p>Two patients had intraoperative diagnosis of liver metastases confirmed at follow&#x02010;up.</p></fn></table-wrap-foot></table-wrap><p>Preoperative staging included a contrast&#x02010;enhanced CT scan and a 68Ga&#x02010;DOTATOC PET/CT for all patients. A contrast&#x02010;enhanced hepatic MRI was performed in 30 patients (59%), with 17 of these (33%) conducted within 90&#x02009;days before surgery. The median interval between the last preoperative imaging and surgery was 30&#x02009;days (IQR 16&#x02013;49).</p><p>Preoperative imaging identified benign liver lesions in 25 patients (49%), including biliary cysts in 16 patients (solitary in 6), hemangiomas in 10 patients (solitary in 6), and multiple focal nodular hyperplasia in one patient. Two patients had both cysts and hemangiomas. By definition, no patient had preoperative detection of liver metastases, either suspicious or confirmed.</p><sec id="jne70079-sec-0010"><label>3.1</label><title>Intraoperative staging</title><p>During intraoperative exploration, IOUS detected intrahepatic nodules suspicious for liver metastases in seven patients (14%). The median number of detected nodules was 2 (range, 1&#x02013;10), with a median largest size of 4&#x02009;mm (range, 3&#x02013;6&#x02009;mm).</p><p>Among these seven patients, at the end of surgery, two were classified as metastatic, one was considered highly suspicious for liver metastases, and four were classified as non&#x02010;metastatic. Of the two metastatic patients, the first had a solitary 6&#x02010;mm hypoechoic nodule in segment 5 (S5), classified as a NEN liver metastasis based on IOUS. The lesion was treated with IOUS&#x02010;guided thermal ablation. The second patient had two hypoechoic nodules: one superficial in S5 and one deep&#x02010;located in S8. The diagnosis of NEN metastases was confirmed through CE&#x02010;IOUS (early enhancement in the arterial phase and hypoenhancement in the portal&#x02010;venous phase) and pathology analysis after removal of the superficial lesion. No intraoperative treatment was performed for the deep&#x02010;located lesion.</p><p>The patient classified as highly suspicious for metastases had multiple hyperechoic hepatic nodules. CE&#x02010;IOUS demonstrated a mild enhancement in the arterial phase followed by a mixed iso&#x02010;hypoechoic pattern during the parenchymal phase; no biopsy was performed.</p><p>The remaining four patients had a diagnosis of benign lesions based on their pattern at CE&#x02010;IOUS (<italic toggle="yes">n</italic>&#x02009;=&#x02009;2, isoechoic in the portal&#x02010;venous phase), IOUS&#x02010;guided biopsy (<italic toggle="yes">n</italic>&#x02009;=&#x02009;1), and resection of a superficial lesion after a doubtful CE&#x02010;IOUS pattern (<italic toggle="yes">n</italic>&#x02009;=&#x02009;1, lesion was mildly hyper&#x02010;echoic in the arterial phase and mixed iso&#x02010;hypoechoic in the parenchymal phase). Details of intraoperative staging are summarized in Table&#x000a0;<xref rid="jne70079-tbl-0003" ref-type="table">3</xref> and Figure&#x000a0;<xref rid="jne70079-fig-0002" ref-type="fig">2</xref>.</p><table-wrap position="float" id="jne70079-tbl-0003" content-type="TABLE"><label>TABLE 3</label><caption><p>Detail of patients with suspicious hepatic nodules detected at IOUS.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th colspan="2" align="left" valign="bottom" rowspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">#1</th><th align="left" valign="bottom" rowspan="1" colspan="1">#2</th><th align="left" valign="bottom" rowspan="1" colspan="1">#3</th><th align="left" valign="bottom" rowspan="1" colspan="1">#4</th><th align="left" valign="bottom" rowspan="1" colspan="1">#5</th><th align="left" valign="bottom" rowspan="1" colspan="1">#6</th><th align="left" valign="bottom" rowspan="1" colspan="1">#7</th></tr></thead><tbody valign="top"><tr><td rowspan="3" align="left" valign="top" colspan="1">IOUS</td><td align="left" valign="top" rowspan="1" colspan="1">Number of nodules</td><td align="left" valign="top" rowspan="1" colspan="1">One</td><td align="left" valign="top" rowspan="1" colspan="1">Two</td><td align="left" valign="top" rowspan="1" colspan="1">Multiple</td><td align="left" valign="top" rowspan="1" colspan="1">Multiple</td><td align="left" valign="top" rowspan="1" colspan="1">Two</td><td align="left" valign="top" rowspan="1" colspan="1">Three</td><td align="left" valign="top" rowspan="1" colspan="1">One</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Size (max)</td><td align="left" valign="top" rowspan="1" colspan="1">6&#x02009;mm</td><td align="left" valign="top" rowspan="1" colspan="1">5&#x02009;mm</td><td align="left" valign="top" rowspan="1" colspan="1">6&#x02009;mm</td><td align="left" valign="top" rowspan="1" colspan="1">4&#x02009;mm</td><td align="left" valign="top" rowspan="1" colspan="1">4&#x02009;mm</td><td align="left" valign="top" rowspan="1" colspan="1">3&#x02009;mm</td><td align="left" valign="top" rowspan="1" colspan="1">3&#x02009;mm</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Pattern</td><td align="left" valign="top" rowspan="1" colspan="1">Hypo</td><td align="left" valign="top" rowspan="1" colspan="1">Hypo</td><td align="left" valign="top" rowspan="1" colspan="1">Hyper</td><td align="left" valign="top" rowspan="1" colspan="1">Hyper</td><td align="left" valign="top" rowspan="1" colspan="1">Hyper</td><td align="left" valign="top" rowspan="1" colspan="1">Hyper</td><td align="left" valign="top" rowspan="1" colspan="1">Hyper</td></tr><tr><td colspan="2" align="left" valign="top" rowspan="1">CE&#x02010;IOUS</td><td align="left" valign="top" rowspan="1" colspan="1">N</td><td align="left" valign="top" rowspan="1" colspan="1">Y</td><td align="left" valign="top" rowspan="1" colspan="1">Y</td><td align="left" valign="top" rowspan="1" colspan="1">Y</td><td align="left" valign="top" rowspan="1" colspan="1">N</td><td align="left" valign="top" rowspan="1" colspan="1">Y</td><td align="left" valign="top" rowspan="1" colspan="1">Y</td></tr><tr><td colspan="2" align="left" style="padding-left:10%" valign="top" rowspan="1">Arterial phase</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Hyper</td><td align="left" valign="top" rowspan="1" colspan="1">Mild hyper</td><td align="left" valign="top" rowspan="1" colspan="1">Mild hyper</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Iso</td><td align="left" valign="top" rowspan="1" colspan="1">Hyper</td></tr><tr><td colspan="2" align="left" style="padding-left:10%" valign="top" rowspan="1">Portal&#x02010;venous phase</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Hypo</td><td align="left" valign="top" rowspan="1" colspan="1">Mixed iso/hypo</td><td align="left" valign="top" rowspan="1" colspan="1">Mixed iso/hypo</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Iso</td><td align="left" valign="top" rowspan="1" colspan="1">Iso</td></tr><tr><td colspan="2" align="left" valign="top" rowspan="1">Biopsy</td><td align="left" valign="top" rowspan="1" colspan="1">N</td><td align="left" valign="top" rowspan="1" colspan="1">Y</td><td align="left" valign="top" rowspan="1" colspan="1">N</td><td align="left" valign="top" rowspan="1" colspan="1">Y</td><td align="left" valign="top" rowspan="1" colspan="1">Y</td><td align="left" valign="top" rowspan="1" colspan="1">N</td><td align="left" valign="top" rowspan="1" colspan="1">N</td></tr><tr><td colspan="2" align="left" valign="top" rowspan="1">Final diagnosis at surgery</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Mets</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Mets</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Mets(?)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">N</td><td align="left" valign="top" rowspan="1" colspan="1">N</td><td align="left" valign="top" rowspan="1" colspan="1">N</td><td align="left" valign="top" rowspan="1" colspan="1">N</td></tr><tr><td colspan="2" align="left" valign="top" rowspan="1">Treatment</td><td align="left" valign="top" rowspan="1" colspan="1">Ablation</td><td align="left" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="left" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="left" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="left" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="left" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="left" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td colspan="2" align="left" valign="top" rowspan="1">Follow&#x02010;up</td><td align="left" valign="top" rowspan="1" colspan="1">No new mets (20 mo)</td><td align="left" valign="top" rowspan="1" colspan="1">Mets at 6&#x02010;mo imaging</td><td align="left" valign="top" rowspan="1" colspan="1">Neg (11 mo)</td><td align="left" valign="top" rowspan="1" colspan="1">Neg (42 mo)</td><td align="left" valign="top" rowspan="1" colspan="1">Neg (22 mo)</td><td align="left" valign="top" rowspan="1" colspan="1">Neg (47 mo)</td><td align="left" valign="top" rowspan="1" colspan="1">Neg (34 mo)</td></tr><tr><td colspan="2" align="left" valign="top" rowspan="1">Final diagnosis</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Mets</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Mets</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">N</td><td align="left" valign="top" rowspan="1" colspan="1">N</td><td align="left" valign="top" rowspan="1" colspan="1">N</td><td align="left" valign="top" rowspan="1" colspan="1">N</td><td align="left" valign="top" rowspan="1" colspan="1">N</td></tr></tbody></table><table-wrap-foot><fn id="jne70079-note-0009"><p>
+<italic toggle="yes">Note</italic>: Bold emphasis identifies suspicious or confirmed liver metastases after surgery and after 6&#x02010;month follow&#x02010;up.</p></fn></table-wrap-foot></table-wrap><fig position="float" fig-type="FIGURE" id="jne70079-fig-0002"><label>FIGURE 2</label><caption><p>Impact of IOUS, CE&#x02010;IOUS and biopsy on liver staging.</p></caption><graphic xlink:href="JNE-37-e70079-g001" position="anchor" id="jats-graphic-3"/></fig><p>In summary, of the 51 enrolled patients, 48 (94%) were confirmed to be non&#x02010;metastatic, while 3 (6%) were classified as metastatic after intraoperative assessment, including two with a conclusive diagnosis and one with a suspicion based on IOUS and CE&#x02010;IOUS results. No adverse events were associated with IOUS, CE&#x02010;IOUS, or biopsy.</p></sec><sec id="jne70079-sec-0011"><label>3.2</label><title>Follow&#x02010;up imaging</title><p>All patients underwent contrast&#x02010;enhanced follow&#x02010;up imaging (CT or MRI) at 6&#x02009;months post&#x02010;surgery. Among them, only the patient with two liver metastases documented during surgery (one superficial lesion that was removed and one deep&#x02010;located lesion left untreated) had evidence of liver metastases on the 6&#x02010;month CT. This imaging showed only the untreated deep&#x02010;located metastasis, with no additional nodules. The patient who underwent intraoperative thermal ablation had a negative MRI, demonstrating complete necrosis of the ablated area with no evidence of new nodules. All other patients had 6&#x02010;month imaging results negative for liver metastases.</p><p>Notably, at the end of the study, after a median follow&#x02010;up of 20&#x02009;months (IQR 13.5&#x02013;29.9), all patients were alive. Only one patient was diagnosed with a 5&#x02010;mm solitary nodule suspicious for being a liver metastasis, 23&#x02009;months after the resection of a pancreatic head G1 pT1N0 NET. The multidisciplinary team planned a strict follow&#x02010;up monitoring without any immediate treatment.</p></sec><sec id="jne70079-sec-0012"><label>3.3</label><title>Characteristics of metastatic patients and performances of imaging</title><p>The two patients with an intraoperative diagnosis of liver metastases had the following characteristics: a 54&#x02010;year&#x02010;old female who underwent a distal pancreatectomy and splenectomy for a G1 pT1 N1 NET of the body of the pancreas, with 3/24 lymph nodes involved; and a 53&#x02010;year&#x02010;old male who underwent a distal pancreatectomy and splenectomy for a G3 pT3 N0 (0/31) NET of the tail of the pancreas. Neither patient underwent preoperative MRI. Both exhibited microscopic vascular invasion, perineural invasion, and necrosis (overall, these features were observed in 38, 19, and 7 patients, respectively). Univariate analysis revealed that G3 neoplasms and evidence of necrosis on final pathology were associated with the presence of liver metastases (1/3, 33% vs. 1/48, 2%, <italic toggle="yes">p</italic>&#x02009;=&#x02009;0.007; and 2/7, 29%, vs. 0/44, 0%, <italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.001). The detailed results of univariate analysis are reported in Supporting Information Table&#x000a0;<xref rid="jne70079-supitem-0001" ref-type="supplementary-material">4</xref>.</p><p>The performances of preoperative and intraoperative imaging are reported in Table&#x000a0;<xref rid="jne70079-tbl-0004" ref-type="table">4</xref>. IOUS in combination with other intraoperative investigations (CE&#x02010;IOUS and biopsy) demonstrated 100% sensitivity (vs. 0% for preoperative CT and PET, and 100% for IOUS), 98% accuracy (vs. 96% and 92%, respectively), 100% negative predictive value (vs. 96% and 100%), and 67% positive predictive value (vs. 33% for IOUS). Notably, of the 17 patients who had a contrast&#x02010;enhanced hepatic MRI performed within 90&#x02009;days before surgery, none had intraoperative detection of liver metastases.</p><table-wrap position="float" id="jne70079-tbl-0004" content-type="TABLE"><label>TABLE 4</label><caption><p>Performance of imaging modalities: preoperative (CT and PET/CT in all patients, and MRI in selected patients) versus IOUS versus intraoperative staging (IOUS in all patients, and CE&#x02010;IOUS and biopsy in selected patients).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">Preop staging</th><th align="left" valign="bottom" rowspan="1" colspan="1">IOUS</th><th align="left" valign="bottom" rowspan="1" colspan="1">Intraoperative staging (IOUS/CE&#x02010;IOUS/biopsy)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Sensitivity</td><td align="left" valign="top" rowspan="1" colspan="1">0%</td><td align="left" valign="top" rowspan="1" colspan="1">100%</td><td align="left" valign="top" rowspan="1" colspan="1">100%</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Specificity</td><td align="left" valign="top" rowspan="1" colspan="1">100%</td><td align="left" valign="top" rowspan="1" colspan="1">91.3%</td><td align="left" valign="top" rowspan="1" colspan="1">98.0%</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">PPV</td><td align="left" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="left" valign="top" rowspan="1" colspan="1">33.3%</td><td align="left" valign="top" rowspan="1" colspan="1">66.7%</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">NPV</td><td align="left" valign="top" rowspan="1" colspan="1">96.1%</td><td align="left" valign="top" rowspan="1" colspan="1">100%</td><td align="left" valign="top" rowspan="1" colspan="1">100%</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Accuracy</td><td align="left" valign="top" rowspan="1" colspan="1">96.1%</td><td align="left" valign="top" rowspan="1" colspan="1">91.7%</td><td align="left" valign="top" rowspan="1" colspan="1">98.0%</td></tr></tbody></table><table-wrap-foot id="jne70079-ntgp-0004"><fn id="jne70079-note-0008"><p>
+<italic toggle="yes">Note</italic>: The ground truth was the result of contrast&#x02010;enhanced imaging performed 6 months after surgery.</p></fn></table-wrap-foot></table-wrap></sec></sec><sec sec-type="discussion" id="jne70079-sec-0013"><label>4</label><title>DISCUSSION</title><p>The present study demonstrated that approximately 4% of patients undergoing surgery for cM0 NEN have occult liver metastases, even after state&#x02010;of&#x02010;the&#x02010;art preoperative staging. This risk increased up to one third of patients for aggressive neoplasms (G3 or necrotic NENs). IOUS was confirmed as a reliable tool for liver staging, demonstrating excellent sensitivity and negative predictive value. However, CE&#x02010;IOUS and IOUS&#x02010;guided biopsy were essential complementary tools for characterizing millimeter&#x02010;sized nodules that may mimic liver metastases on IOUS but remain unconfirmed during follow&#x02010;up, detected in approximately 10% of patients.</p><p>The impact of IOUS on the staging of primary and metastatic liver tumors is indisputable. Even in the era of liver&#x02010;specific magnetic resonance imaging, Langella et al. and Arita et al. demonstrated that IOUS identifies additional colorectal liver metastases in 13% and 12% of patients, respectively.<xref rid="jne70079-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="jne70079-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> Some authors have reported even higher percentages when using CE&#x02010;IOUS.<xref rid="jne70079-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="jne70079-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="jne70079-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> Similar data have been depicted for HCC,<xref rid="jne70079-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="jne70079-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="jne70079-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> and IOUS and CE&#x02010;IOUS demonstrated consistent performance when performed during minimally invasive procedures.<xref rid="jne70079-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> The present study relies on these findings but explores a different scenario: the role of IOUS in detecting metastases in cM0 NEN patients. At least three strong background data support our hypothesis. First, NENs are frequently associated with liver metastases, with prevalence rates reaching 80%&#x02013;90% in patients with ileal tumors and 60%&#x02013;70% in those with pancreatic tumors in autopsy series.<xref rid="jne70079-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="jne70079-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="jne70079-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> Clift et al. observed that 20% (4 out of 20) of patients undergoing surgery for small bowel NENs have an intraoperative diagnosis of occult liver metastases, identified through surgical exploration without the use of IOUS.<xref rid="jne70079-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> Secondly, liver metastases from neuroendocrine neoplasms are difficult to identify because they are often small (millimeter&#x02010;sized) and diffuse. In a study by Elias et al., pathological analysis identified approximately twice as many NEN metastases as state&#x02010;of&#x02010;the&#x02010;art preoperative imaging modalities such as CT, MRI, and PET&#x02010;CT.<xref rid="jne70079-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> D'Assignies et al. reported Gadolinium&#x02010;enhanced MRI as the current standard for liver staging but also highlighted its limitations, noting that its sensitivity reaches 80% only after combined analysis of multiple phases (DW, T2, and dynamic gadolinium&#x02010;enhanced imaging) and drops below 50% for metastases &#x02264;10&#x02009;mm.<xref rid="jne70079-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> Finally, IOUS staging in NEN patients with liver metastases scheduled for resection identifies additional nodules in a significant proportion of cases. Dogeas et al. reported newly detected intraoperative liver metastases in 41 out of 65 patients (63%),<xref rid="jne70079-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> while Kose et al. found additional metastases in 11 out of 23 patients (48%),<xref rid="jne70079-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> despite the systematic use of preoperative gadolinium&#x02010;based contrast&#x02010;enhanced MRI in the latter series.</p><p>The present results confirmed the excellent capability of IOUS in optimizing liver staging, even in cM0 NEN patients. It identified occult metastases in 4% of patients and achieved a 100% negative predictive value, as validated by 6&#x02010;month follow&#x02010;up imaging in all patients classified as negative during surgery. The accurate preoperative staging (CT and PET&#x02010;CT in all patients) led to a small proportion of metastatic patients (<italic toggle="yes">n</italic>&#x02009;=&#x02009;2), much lower than previously reported by Clift et al. (20%).<xref rid="jne70079-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> Despite the low number of M+ patients and the heterogeneity of the cohort, two risk factors for liver metastases were identified: G3 tumor grading and the presence of necrosis at final pathology, with liver metastases observed in one&#x02010;third and 29% of cases, respectively. Both characteristics are indicative of tumor aggressiveness and have been previously associated with the development of distant metastases during NENs follow&#x02010;up.<xref rid="jne70079-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="jne70079-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="jne70079-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="jne70079-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> Preoperative staging deserves further consideration. According to the most recent ENETS guidelines,<xref rid="jne70079-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="jne70079-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="jne70079-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="jne70079-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> contrast&#x02010;enhanced MRI is recognized as the standard for liver staging but is not recommended for all patients. The present series reflected the current clinical practice and preoperative MRI was performed in one third of patients. Although further analyses are needed, we do not believe that MRI would have replaced IOUS, given its low sensitivity for small nodules (the size of the occult metastases was 5 and 6&#x02009;mm).<xref rid="jne70079-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="jne70079-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>
+</p><p>The ability of IOUS to identify liver metastases must be weighed against two primary limitations. First, its accuracy in classifying suspicious nodules. In IOUS imaging, NEN metastases appear hypoechoic in approximately 50% of cases and hyperechoic in 40%, so lacking a pathognomonic pattern in most cases.<xref rid="jne70079-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> Interpreting millimeter&#x02010;sized lesions, which are the ones considered in the present analysis, remains even more challenging. In this series, seven patients presented with suspicious liver metastases on IOUS, but only two were confirmed at six&#x02010;month follow&#x02010;up. The use of CE&#x02010;IOUS and biopsy was crucial for accurate classification, resulting in only one false&#x02010;positive metastasis after comprehensive intraoperative staging. The ultrasonographic pattern of NEN liver metastases after administration of the intravascular contrast agent (Sonovue&#x000ae;&#x02014;Bracco Imaging, Milan, Italy) is characteristic in two&#x02010;thirds of patients, typically showing arterial phase enhancement followed by a wash&#x02010;out effect in the portal phase, resulting in a hypoechoic lesion during the parenchymal phase.<xref rid="jne70079-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="jne70079-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> However, a biopsy should be considered in the uncertain cases. Second, the adoption of IOUS faces logistical hurdles, including the need for trained operators and specialized equipment. This challenge was evident in the present series, where 40 patients could not be enrolled due to the inability to plan IOUS, and 20 were excluded post&#x02010;enrollment because IOUS could not be performed during surgery as planned.</p><p>The present study is clinically relevant. It is a prospective analysis involving 51 consecutive patients with cM0 NEN, treated at three high&#x02010;volume centers following state&#x02010;of&#x02010;the&#x02010;art staging and with a median follow&#x02010;up period of 20&#x02009;months post&#x02010;surgery. Further, it demonstrates that current staging methods for NENs, including contrast&#x02010;enhanced CT and PET/CT, fail to detect liver metastases in about 4% of patients. Although these cases represent a minority, they highlight potential undertreatment with important clinical implications. The proportion increases when focusing on more aggressive neoplasms.</p><p>Some limitations of the present analysis must be acknowledged. First, the cohort size is relatively small (51 patients): the study had a slow accrual, resulting in a final enrollment lower than initially planned. Following an interim analysis, we decided to stop the study because the observed rate of occult metastases was much lower than expected. Although this limitation may affect the generalizability of our findings, a larger sample size is unlikely to significantly alter the current results. Future studies should probably focus on high&#x02010;risk patients. Second, not all patients underwent contrast&#x02010;enhanced liver MRI before surgery, and neither of the two patients with occult metastases had preoperative MRI, precluding any specific considerations. Nevertheless, although MRI is the current standard for liver staging, it is not routinely recommended for all NEN patients and has limited sensitivity for detecting millimeter&#x02010;sized metastases. Finally, the enrolled population was heterogeneous, comprising patients with both pancreatic and gastrointestinal NENs at varying disease stages, some of whom had received preoperative systemic or intra&#x02010;arterial therapy (NEOLUPANET trial). We acknowledge that a more homogeneous population would have facilitated the interpretation of results. However, we underscore the challenges in achieving this, given the limited patient accrual over 3&#x02009;years across three high&#x02010;volume centers in this study.</p><p>In conclusion, IOUS, when combined with CE&#x02010;IOUS and IOUS&#x02010;guided biopsy, achieves the most accurate hepatic staging for NENs, detecting occult liver metastases in approximately 4% of patients initially staged as cM0. Despite its diagnostic precision, the routine use of IOUS in cM0 NEN patients cannot be recommended because of the low incidence of occult liver metastases, the logistical complexities of the procedure, and the expertise required for accurate interpretation. Notwithstanding this, IOUS should be selectively applied to patients with aggressive neoplasms, such as G3 or necrotic neoplasms, where the likelihood of liver metastases increases significantly, affecting up to one&#x02010;third of cases.</p></sec><sec id="jne70079-sec-0019"><title>AUTHOR CONTRIBUTIONS</title><p>
+<bold>L. Vigan&#x000f2;:</bold> Conceptualization; investigation; funding acquisition; methodology; validation; writing &#x02013; review and editing; formal analysis; project administration; supervision. <bold>M. Maruccio:</bold> Writing &#x02013; original draft; data curation; investigation. <bold>F. Faustini:</bold> Writing &#x02013; original draft; data curation; investigation. <bold>I. Frigerio:</bold> Conceptualization; writing &#x02013; review and editing; methodology; supervision. <bold>F. Gavazzi:</bold> Supervision; formal analysis; writing &#x02013; review and editing; conceptualization; methodology. <bold>R. De Robertis Lombardi:</bold> Investigation; writing &#x02013; original draft; formal analysis; data curation. <bold>F. Scopelliti:</bold> Investigation; writing &#x02013; original draft; data curation. <bold>G. Capretti:</bold> Conceptualization; writing &#x02013; review and editing; supervision; formal analysis. <bold>A. Ammirabile:</bold> Writing &#x02013; original draft; investigation; data curation; methodology; formal analysis. <bold>M. D'Onofrio:</bold> Conceptualization; investigation; writing &#x02013; review and editing; formal analysis; supervision. <bold>A. Giardino:</bold> Writing &#x02013; original draft; data curation; investigation. <bold>G. Ferrillo:</bold> Investigation; methodology; formal analysis; data curation; writing &#x02013; review and editing. <bold>M. Rodari:</bold> Conceptualization; writing &#x02013; review and editing; supervision. <bold>P. Regi:</bold> Investigation; writing &#x02013; original draft; data curation. <bold>F. Procopio:</bold> Data curation; investigation; writing &#x02013; original draft. <bold>R. Salvia:</bold> Conceptualization; writing &#x02013; review and editing; supervision. <bold>A. Lania:</bold> Conceptualization; writing &#x02013; review and editing; supervision. <bold>G. Butturini:</bold> Conceptualization; writing &#x02013; review and editing; supervision. <bold>L. Landoni:</bold> Conceptualization; writing &#x02013; review and editing; supervision. <bold>G. Torzilli:</bold> Conceptualization; writing &#x02013; review and editing; supervision. <bold>A. Zerbi:</bold> Conceptualization; writing &#x02013; review and editing; supervision; formal analysis; methodology; funding acquisition.</p></sec><sec id="jne70079-sec-0015"><title>FUNDING INFORMATION</title><p>The present study received funding support from IT.A.NET (Italian Association for Neuroendocrine Tumors). The funding did not influence any aspect of the study.</p></sec><sec sec-type="COI-statement" id="jne70079-sec-0016"><title>CONFLICT OF INTEREST STATEMENT</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="peer-review" id="jne70079-sec-0020"><title>PEER REVIEW</title><p>The peer review history for this article is available at <ext-link xlink:href="https://www.webofscience.com/api/gateway/wos/peer-review/10.1111/jne.70079" ext-link-type="uri">https://www.webofscience.com/api/gateway/wos/peer-review/10.1111/jne.70079</ext-link>.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="jne70079-supitem-0001" position="float" content-type="local-data"><caption><p>
+<bold>Data S1:</bold> Supporting Information.</p></caption><media xlink:href="JNE-37-e70079-s001.docx"/></supplementary-material></sec></body><back><ack id="jne70079-sec-0014"><title>ACKNOWLEDGEMENTS</title><p>This activity was supported by the European Reference Network (ERN) on Rare Adult Solid Cancers (EURACAN). The authors acknowledge the contribution to this work of the Humanitas Multidisciplinary NET Group (collaborators: Alexia Bertuzzi, Laura Evangelista, Giuseppe Ferrillo, Alice Laffi, Elisabetta Lavezzi, Giuseppe Marulli, Gennaro Nappo, Cristina Ridolfi, Michele Pagnanelli, Vittorio Pedicini, Fabio Procopio, Marcello Rodari) and the Pederzoli Hospital Multidisciplinary Pancreas Cancer Group (collaborators: Laura Bignotto, Roberto Girelli, Gabriele Giannotti, Marco Toaiari, Elisa Bannone, Erica Pizzocaro). Open access funding provided by BIBLIOSAN. [Correction added on 25 September 2025, after first online publication: BIBLIOSAN 2023 funding statement has been added.]</p></ack><sec sec-type="data-availability" id="jne70079-sec-0018"><title>DATA AVAILABILITY STATEMENT</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list id="jne70079-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="jne70079-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jne70079-cit-0001">
+<string-name>
+<surname>Halfdanarson</surname>
+<given-names>TR</given-names>
+</string-name>, <string-name>
+<surname>Rabe</surname>
+<given-names>KG</given-names>
+</string-name>, <string-name>
+<surname>Rubin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Petersen</surname>
+<given-names>GM</given-names>
+</string-name>. <article-title>Pancreatic neuroendocrine tumors (PNETs): incidence, prognosis and recent trend toward improved survival</article-title>. <source>Ann Oncol</source>. <year>2008</year>;<volume>19</volume>(<issue>10</issue>):<fpage>1727</fpage>&#x02010;<lpage>1733</lpage>. doi:<pub-id pub-id-type="doi">10.1093/annonc/mdn351</pub-id>
+<pub-id pub-id-type="pmid">18515795</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jne70079-cit-0002">
+<string-name>
+<surname>Sonbol</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Mazza</surname>
+<given-names>GL</given-names>
+</string-name>, <string-name>
+<surname>Mi</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Survival and incidence patterns of pancreatic neuroendocrine tumors over the last 2 decades: a SEER database analysis</article-title>. <source>Oncologist</source>. <year>2022</year>;<volume>27</volume>(<issue>7</issue>):<fpage>573</fpage>&#x02010;<lpage>578</lpage>. doi:<pub-id pub-id-type="doi">10.1093/oncolo/oyac049</pub-id>
+<pub-id pub-id-type="pmid">35348774</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jne70079-cit-0003">
+<string-name>
+<surname>Pavel</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Baudin</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Couvelard</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>ENETS consensus guidelines for the Management of Patients with liver and other distant metastases from neuroendocrine neoplasms of foregut, midgut, hindgut, and unknown primary</article-title>. <source>Neuroendocrinology</source>. <year>2012</year>;<volume>95</volume>(<issue>2</issue>):<fpage>157</fpage>&#x02010;<lpage>176</lpage>. doi:<pub-id pub-id-type="doi">10.1159/000335597</pub-id>
+<pub-id pub-id-type="pmid">22262022</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jne70079-cit-0004">
+<string-name>
+<surname>Dogeas</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Chong</surname>
+<given-names>CCN</given-names>
+</string-name>, <string-name>
+<surname>Weiss</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Ahuja</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Choti</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>Can echogenic appearance of neuroendocrine liver metastases on intraoperative ultrasonography predict tumor biology and prognosis?</article-title>
+<source>HPB</source>. <year>2018</year>;<volume>20</volume>(<issue>3</issue>):<fpage>237</fpage>&#x02010;<lpage>243</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.hpb.2017.08.029</pub-id>
+<pub-id pub-id-type="pmid">29103839</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jne70079-cit-0005">
+<string-name>
+<surname>Kose</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Kahramangil</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Purysko</surname>
+<given-names>AS</given-names>
+</string-name>, et al. <article-title>The utility of laparoscopic ultrasound during minimally invasive liver procedures in patients with malignant liver tumors who have undergone preoperative magnetic resonance imaging</article-title>. <source>Surg Endosc</source>. <year>2022</year>;<volume>36</volume>(<issue>7</issue>):<fpage>4939</fpage>&#x02010;<lpage>4945</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s00464-021-08849-5</pub-id>
+<pub-id pub-id-type="pmid">34734301</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jne70079-cit-0006">
+<string-name>
+<surname>Elias</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Lefevre</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Duvillard</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Hepatic metastases from neuroendocrine tumors with a &#x0201c;thin slice&#x0201d; pathological examination: they are many more than you think&#x02026;</article-title>. <source>Ann Surg</source>. <year>2010</year>;<volume>251</volume>(<issue>2</issue>):<fpage>307</fpage>&#x02010;<lpage>310</lpage>. doi:<pub-id pub-id-type="doi">10.1097/SLA.0b013e3181bdf8cf</pub-id>
+<pub-id pub-id-type="pmid">20010089</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jne70079-cit-0007">
+<string-name>
+<surname>Takigawa</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Sugawara</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Yamamoto</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>New lesions detected by intraoperative ultrasound during liver resection for hepatocellular carcinoma</article-title>. <source>Ultrasound Med Biol</source>. <year>2001</year>;<volume>27</volume>(<issue>2</issue>):<fpage>151</fpage>&#x02010;<lpage>156</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S0301-5629(00)00346-X</pub-id>
+<pub-id pub-id-type="pmid">11316523</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jne70079-cit-0008">
+<string-name>
+<surname>Torzilli</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Botea</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Donadon</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Criteria for the selective use of contrast&#x02010;enhanced intra&#x02010;operative ultrasound during surgery for colorectal liver metastases</article-title>. <source>HPB</source>. <year>2014</year>;<volume>16</volume>(<issue>11</issue>):<fpage>994</fpage>&#x02010;<lpage>1001</lpage>. doi:<pub-id pub-id-type="doi">10.1111/hpb.12272</pub-id>
+<pub-id pub-id-type="pmid">24830573</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jne70079-cit-0009">
+<string-name>
+<surname>Langella</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ardito</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Russolillo</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Intraoperative ultrasound staging for colorectal liver metastases in the era of liver&#x02010;specific magnetic resonance imaging: is it still worthwhile?</article-title>
+<source>J Oncol</source>. <year>2019</year>;<volume>2019</volume>:<fpage>1</fpage>&#x02010;<lpage>8</lpage>. doi:<pub-id pub-id-type="doi">10.1155/2019/1369274</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jne70079-cit-0010">
+<string-name>
+<surname>Vigan&#x000f2;</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Ferrero</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Amisano</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Russolillo</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Capussotti</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Comparison of laparoscopic and open intraoperative ultrasonography for staging liver tumours</article-title>. <source>Br J Surg</source>. <year>2013</year>;<volume>100</volume>(<issue>4</issue>):<fpage>535</fpage>&#x02010;<lpage>542</lpage>. doi:<pub-id pub-id-type="doi">10.1002/bjs.9025</pub-id>
+<pub-id pub-id-type="pmid">23339035</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jne70079-cit-0011">
+<string-name>
+<surname>D'Onofrio</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gallotti</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Martone</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Is intraoperative ultrasound (IOUS) still useful for the detection of liver metastases?</article-title>
+<source>J Ultrasound</source>. <year>2009</year>;<volume>12</volume>(<issue>4</issue>):<fpage>144</fpage>&#x02010;<lpage>147</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jus.2009.09.003</pub-id>
+<pub-id pub-id-type="pmid">23396172</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jne70079-cit-0012">
+<string-name>
+<surname>Arita</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ono</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Takahashi</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Routine preoperative liver&#x02010;specific magnetic resonance imaging does not exclude the necessity of contrast&#x02010;enhanced intraoperative ultrasound in hepatic resection for colorectal liver metastasis</article-title>. <source>Ann Surg</source>. <year>2015</year>;<volume>262</volume>(<issue>6</issue>):<fpage>1086</fpage>&#x02010;<lpage>1091</lpage>. doi:<pub-id pub-id-type="doi">10.1097/SLA.0000000000001085</pub-id>
+<pub-id pub-id-type="pmid">26010441</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jne70079-cit-0013">
+<string-name>
+<surname>Rindi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Mete</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Uccella</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Overview of the 2022 WHO classification of neuroendocrine neoplasms</article-title>. <source>Endocr Pathol</source>. <year>2022</year>;<volume>33</volume>(<issue>1</issue>):<fpage>115</fpage>&#x02010;<lpage>154</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s12022-022-09708-2</pub-id>
+<pub-id pub-id-type="pmid">35294740</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jne70079-cit-0014">
+<string-name>
+<surname>Bossuyt</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Reitsma</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Bruns</surname>
+<given-names>DE</given-names>
+</string-name>, et al. <article-title>STARD 2015: an updated list of essential items for reporting diagnostic accuracy studies</article-title>. <source>BMJ</source>. <year>2015</year>;<volume>351</volume>:<elocation-id>h5527</elocation-id>. doi:<pub-id pub-id-type="doi">10.1136/bmj.h5527</pub-id>
+<pub-id pub-id-type="pmid">26511519</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jne70079-cit-0015">
+<string-name>
+<surname>Buderer</surname>
+<given-names>NMF</given-names>
+</string-name>. <article-title>Statistical methodology: I. Incorporating the prevalence of disease into the sample size calculation for sensitivity and specificity</article-title>. <source>Acad Emerg Med</source>. <year>1996</year>;<volume>3</volume>(<issue>9</issue>):<fpage>895</fpage>&#x02010;<lpage>900</lpage>. doi:<pub-id pub-id-type="doi">10.1111/j.1553-2712.1996.tb03538.x</pub-id>
+<pub-id pub-id-type="pmid">8870764</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jne70079-cit-0016">
+<string-name>
+<surname>Massironi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Conte</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Sciola</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>Contrast&#x02010;enhanced ultrasonography in evaluating hepatic metastases from neuroendocrine tumours</article-title>. <source>Dig Liver Dis</source>. <year>2010</year>;<volume>42</volume>(<issue>9</issue>):<fpage>635</fpage>&#x02010;<lpage>641</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.dld.2010.01.009</pub-id>
+<pub-id pub-id-type="pmid">20172770</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jne70079-cit-0017">
+<string-name>
+<surname>M&#x000f6;rk</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Ignee</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Schuessler</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Ott</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Dietrich</surname>
+<given-names>CF</given-names>
+</string-name>. <article-title>Analysis of neuroendocrine tumour metastases in the liver using contrast enhanced ultrasonography</article-title>. <source>Scand J Gastroenterol</source>. <year>2007</year>;<volume>42</volume>(<issue>5</issue>):<fpage>652</fpage>&#x02010;<lpage>662</lpage>. doi:<pub-id pub-id-type="doi">10.1080/00365520601021765</pub-id>
+<pub-id pub-id-type="pmid">17454888</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jne70079-cit-0018">
+<string-name>
+<surname>Partelli</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Landoni</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Bartolomei</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Neoadjuvant 177Lu&#x02010;DOTATATE for non&#x02010;functioning pancreatic neuroendocrine tumours (NEOLUPANET): multicentre phase II study</article-title>. <source>Br J Surg</source>. <year>2024</year>;<volume>111</volume>(<issue>9</issue>):<elocation-id>znae178</elocation-id>. doi:<pub-id pub-id-type="doi">10.1093/bjs/znae178</pub-id>
+<pub-id pub-id-type="pmid">39213395</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jne70079-cit-0019">
+<string-name>
+<surname>Ruzzenente</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Conci</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Iacono</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Usefulness of contrast&#x02010;enhanced intraoperative ultrasonography (CE&#x02010;IOUS) in patients with colorectal liver metastases after preoperative chemotherapy</article-title>. <source>J Gastrointest Surg</source>. <year>2013</year>;<volume>17</volume>(<issue>2</issue>):<fpage>281</fpage>&#x02010;<lpage>287</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s11605-012-2043-y</pub-id>
+<pub-id pub-id-type="pmid">23065500</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jne70079-cit-0020">
+<string-name>
+<surname>Fergadi</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name>
+<surname>Magouliotis</surname>
+<given-names>DE</given-names>
+</string-name>, <string-name>
+<surname>Vlychou</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rountas</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Athanasiou</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Zacharoulis</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>A meta&#x02010;analysis evaluating contrast&#x02010;enhanced intraoperative ultrasound (CE&#x02010;IOUS) in the context of surgery for colorectal liver metastases</article-title>. <source>Abdom Radiol</source>. <year>2021</year>;<volume>46</volume>(<issue>9</issue>):<fpage>4178</fpage>&#x02010;<lpage>4188</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s00261-021-03096-7</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jne70079-cit-0021">
+<string-name>
+<surname>Pace</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Nardone</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Roma</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Evaluation of contrast&#x02010;enhanced intraoperative ultrasound in the detection and Management of Liver Lesions in patients with hepatocellular carcinoma</article-title>. <source>J Oncol</source>. <year>2019</year>;<volume>2019</volume>:<fpage>1</fpage>&#x02010;<lpage>7</lpage>. doi:<pub-id pub-id-type="doi">10.1155/2019/6089340</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jne70079-cit-0022">
+<string-name>
+<surname>Torzilli</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Palmisano</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Del Fabbro</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Contrast&#x02010;enhanced intraoperative ultrasonography during surgery for hepatocellular carcinoma in liver cirrhosis: is it useful or useless? A prospective cohort study of our experience</article-title>. <source>Ann Surg Oncol</source>. <year>2007</year>;<volume>14</volume>(<issue>4</issue>):<fpage>1347</fpage>&#x02010;<lpage>1355</lpage>. doi:<pub-id pub-id-type="doi">10.1245/s10434-006-9278-3</pub-id>
+<pub-id pub-id-type="pmid">17253105</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jne70079-cit-0023">
+<string-name>
+<surname>Clift</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name>
+<surname>Faiz</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Al&#x02010;Nahhas</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Role of staging in patients with small intestinal neuroendocrine Tumours</article-title>. <source>J Gastrointest Surg</source>. <year>2016</year>;<volume>20</volume>(<issue>1</issue>):<fpage>180</fpage>&#x02010;<lpage>188</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s11605-015-2953-6</pub-id>
+<pub-id pub-id-type="pmid">26394880</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jne70079-cit-0024">
+<string-name>
+<surname>d'Assignies</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Fina</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Bruno</surname>
+<given-names>O</given-names>
+</string-name>, et al. <article-title>High sensitivity of diffusion&#x02010;weighted MR imaging for the detection of liver metastases from neuroendocrine tumors: comparison with T2&#x02010;weighted and dynamic gadolinium&#x02010;enhanced MR imaging</article-title>. <source>Radiology</source>. <year>2013</year>;<volume>268</volume>(<issue>2</issue>):<fpage>390</fpage>&#x02010;<lpage>399</lpage>. doi:<pub-id pub-id-type="doi">10.1148/radiol.13121628</pub-id>
+<pub-id pub-id-type="pmid">23533288</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jne70079-cit-0025">
+<string-name>
+<surname>Mei</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Cao</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Characteristics of small pancreatic neuroendocrine tumors and risk factors for invasion and metastasis</article-title>. <source>Front Endocrinol</source>. <year>2023</year>;<volume>14</volume>:<elocation-id>1140873</elocation-id>. doi:<pub-id pub-id-type="doi">10.3389/fendo.2023.1140873</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jne70079-cit-0026">
+<string-name>
+<surname>Xu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Dai</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Epidemiologic trends of and factors associated with overall survival for patients with Gastroenteropancreatic neuroendocrine tumors in the United States</article-title>. <source>JAMA Netw Open</source>. <year>2021</year>;<volume>4</volume>(<issue>9</issue>):<elocation-id>e2124750</elocation-id>. doi:<pub-id pub-id-type="doi">10.1001/jamanetworkopen.2021.24750</pub-id>
+<pub-id pub-id-type="pmid">34554237</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jne70079-cit-0027">
+<string-name>
+<surname>Cai</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Ge</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Pattern and risk factors for distant metastases in gastrointestinal neuroendocrine neoplasms: a population&#x02010;based study</article-title>. <source>Cancer Med</source>. <year>2018</year>;<volume>7</volume>(<issue>6</issue>):<fpage>2699</fpage>&#x02010;<lpage>2709</lpage>. doi:<pub-id pub-id-type="doi">10.1002/cam4.1507</pub-id>
+<pub-id pub-id-type="pmid">29733523</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jne70079-cit-0028">
+<string-name>
+<surname>Russolillo</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Vigano&#x02019;</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Razzore</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Survival prognostic factors of gastro&#x02010;enteric&#x02010;pancreatic neuroendocrine tumors after primary tumor resection in a single tertiary center: comparison of gastro&#x02010;enteric and pancreatic locations</article-title>. <source>Eur J Surg Oncol</source>. <year>2015</year>;<volume>41</volume>(<issue>6</issue>):<fpage>751</fpage>&#x02010;<lpage>757</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.ejso.2015.02.011</pub-id>
+<pub-id pub-id-type="pmid">25887286</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jne70079-cit-0029">
+<string-name>
+<surname>Kos&#x02010;Kud&#x00142;a</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Casta&#x000f1;o</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Denecke</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>European neuroendocrine tumour society (ENETS) 2023 guidance paper for nonfunctioning pancreatic neuroendocrine tumours</article-title>. <source>J Neuroendocrinol</source>. <year>2023</year>;<volume>35</volume>(<issue>12</issue>):<elocation-id>e13343</elocation-id>. doi:<pub-id pub-id-type="doi">10.1111/jne.13343</pub-id>
+<pub-id pub-id-type="pmid">37877341</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jne70079-cit-0030">
+<string-name>
+<surname>Lamarca</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bartsch</surname>
+<given-names>DK</given-names>
+</string-name>, <string-name>
+<surname>Caplin</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>European neuroendocrine tumor society (ENETS) 2024 guidance paper for the management of well&#x02010;differentiated small intestine neuroendocrine tumours</article-title>. <source>J Neuroendocrinol</source>. <year>2024</year>;<volume>36</volume>(<issue>9</issue>):<elocation-id>e13423</elocation-id>. doi:<pub-id pub-id-type="doi">10.1111/jne.13423</pub-id>
+<pub-id pub-id-type="pmid">38977327</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jne70079-cit-0031">
+<string-name>
+<surname>Panzuto</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Ramage</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Pritchard</surname>
+<given-names>DM</given-names>
+</string-name>, et al. <article-title>European neuroendocrine tumor society (ENETS) 2023 guidance paper for gastroduodenal neuroendocrine tumours (NETs) G1&#x02013;G3</article-title>. <source>J Neuroendocrinol</source>. <year>2023</year>;<volume>35</volume>(<issue>8</issue>):<elocation-id>e13306</elocation-id>. doi:<pub-id pub-id-type="doi">10.1111/jne.13306</pub-id>
+<pub-id pub-id-type="pmid">37401795</pub-id>
+</mixed-citation></ref><ref id="jne70079-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jne70079-cit-0032">
+<string-name>
+<surname>Sorbye</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Grande</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Pavel</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>European Neuroendocrine Tumor Society (ENETS) 2023 guidance paper for digestive neuroendocrine carcinoma</article-title>. <source>J Neuroendocrinol</source>. <year>2023</year>;<volume>35</volume>(<issue>3</issue>):<elocation-id>e13249</elocation-id>. doi:<pub-id pub-id-type="doi">10.1111/jne.13249</pub-id>
+<pub-id pub-id-type="pmid">36924180</pub-id>
+</mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,902 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="jlcr4166" xml:lang="en" article-type="review-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Labelled Comp Radiopharm</journal-id><journal-id journal-id-type="iso-abbrev">J Labelled Comp Radiopharm</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1099-1344</journal-id><journal-id journal-id-type="publisher-id">JLCR</journal-id><journal-title-group><journal-title>Journal of Labelled Compounds &#x00026; Radiopharmaceuticals</journal-title></journal-title-group><issn pub-type="ppub">0362-4803</issn><issn pub-type="epub">1099-1344</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">41052791</article-id><article-id pub-id-type="pmc">12500388</article-id><article-id pub-id-type="doi">10.1002/jlcr.4166</article-id><article-id pub-id-type="publisher-id">JLCR4166</article-id><article-id pub-id-type="other">6681889</article-id><article-categories><subj-group subj-group-type="overline"><subject>Review</subject></subj-group><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Automated Manufacturing of Carbon&#x02010;11 Radiopharmaceuticals Using Cassette&#x02010;Based Radiosynthesizers</article-title></title-group><contrib-group><contrib id="jlcr4166-cr-0001" contrib-type="author" corresp="yes"><name><surname>Schulte</surname><given-names>Michael&#x000a0;L.</given-names></name><xref rid="jlcr4166-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jlcr4166-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>schultml@iu.edu</email></address></contrib><contrib id="jlcr4166-cr-0002" contrib-type="author" corresp="yes"><name><surname>Rosenberg</surname><given-names>Adam&#x000a0;J.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2459-7043</contrib-id><xref rid="jlcr4166-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="jlcr4166-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="jlcr4166-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><address><email>adam.j.rosenberg@vumc.org</email></address></contrib></contrib-group><aff id="jlcr4166-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Medical Imaging Research Institute</named-content>
+<institution>Indiana University School of Medicine</institution>
+<city>Indianapolis</city>
+<named-content content-type="country-part">Indiana</named-content>
+<country country="US">USA</country>
+</aff><aff id="jlcr4166-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Radiology and Imaging Sciences</named-content>
+<institution>Indiana University School of Medicine</institution>
+<city>Indianapolis</city>
+<named-content content-type="country-part">Indiana</named-content>
+<country country="US">USA</country>
+</aff><aff id="jlcr4166-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>Vanderbilt University Institute of Imaging Science</institution>
+<city>Nashville</city>
+<named-content content-type="country-part">Tennessee</named-content>
+<country country="US">USA</country>
+</aff><aff id="jlcr4166-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Radiology and Radiological Sciences</named-content>
+<institution>Vanderbilt University Medical Center</institution>
+<city>Nashville</city>
+<named-content content-type="country-part">Tennessee</named-content>
+<country country="US">USA</country>
+</aff><aff content-type="private-address" id="jlcr4166-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>Vanderbilt Ingram Cancer Center</institution>
+<city>Nashville</city>
+<named-content content-type="country-part">Tennessee</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold>
+<break/>
+Michael L. Schulte (<email>schultml@iu.edu</email>)<break/>
+Adam J. Rosenberg (<email>adam.j.rosenberg@vumc.org</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>06</day><month>10</month><year>2025</year></pub-date><pub-date pub-type="ppub"><season>Sep-Oct</season><year>2025</year></pub-date><volume>68</volume><issue seq="80">11-12</issue><issue-id pub-id-type="doi">10.1002/jlcr.v68.11-12</issue-id><elocation-id>e4166</elocation-id><history>
+<date date-type="rev-recd"><day>15</day><month>9</month><year>2025</year></date>
+<date date-type="received"><day>20</day><month>3</month><year>2025</year></date>
+<date date-type="accepted"><day>18</day><month>9</month><year>2025</year></date>
+</history><permissions><!--&#x000a9; 2025 John Wiley & Sons, Ltd.--><copyright-statement content-type="article-copyright">&#x000a9; 2025 The Authors. Journal of Labelled Compounds and Radiopharmaceuticals published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:JLCR-68-0.pdf"/><abstract><title>ABSTRACT</title><p>As the field of radiochemistry moves toward the rapid development and translation of radiopharmaceuticals, the radiosynthetic methodology and manufacturing are becoming more and more refined. As the use of radiopharmaceuticals in clinical research is one of the primary goals of radiochemistry research, compliance with cGMP regulations is a key factor in radiosynthesis developments. This review is primarily focused on the automation of the radiosynthesis on modules, with a special focus on the use of disposable cassettes for the reactors and flow&#x02010;paths. This review aims to cover the developments and current state&#x02010;of&#x02010;the&#x02010;art for cassette&#x02010;based radiosynthesis of carbon&#x02010;11 radiopharmaceuticals.</p></abstract><abstract abstract-type="graphical"><p>Carbon&#x02010;11 on cassette&#x02010;based radiosynthesis modules: Current state of the art.<boxed-text position="anchor" content-type="graphic" id="jlcr4166-blkfxd-0001"><graphic xlink:href="JLCR-68-0-g012.jpg" position="anchor" id="jats-graphic-1"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jlcr4166-kwd-0001">automation</kwd><kwd id="jlcr4166-kwd-0002">carbon&#x02010;11</kwd><kwd id="jlcr4166-kwd-0003">cGMP</kwd><kwd id="jlcr4166-kwd-0004">radiochemistry</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>National Institutes of Health</institution><institution-id institution-id-type="doi">10.13039/100000002</institution-id></institution-wrap>
+</funding-source><award-id>P30CA068485</award-id></award-group></funding-group><counts><fig-count count="18"/><table-count count="1"/><page-count count="11"/><word-count count="7600"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September&#x02010;October 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.4 mode:remove_FC converted:06.10.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jlcr4166-cit-1001">
+<string-name>
+<given-names>M.</given-names>
+<surname>Schulte</surname>
+</string-name> and <string-name>
+<given-names>A.</given-names>
+<surname>Rosenberg</surname>
+</string-name>, &#x0201c;<article-title>Automated Manufacturing of Carbon&#x02010;11 Radiopharmaceuticals Using Cassette&#x02010;Based Radiosynthesizers</article-title>,&#x0201d; <source>Journal of Labelled Compounds and Radiopharmaceuticals</source>
+<volume>68</volume>, no. <issue>11&#x02010;12</issue> (<year>2025</year>): <elocation-id>e4166</elocation-id>, <pub-id pub-id-type="doi">10.1002/jlcr.4166</pub-id>.</mixed-citation>
+</p><fn-group id="jlcr4166-ntgp-0001"><fn fn-type="funding" id="jlcr4166-note-0001"><p>
+<bold>Funding:</bold> This work was supported by the National Institutes of Health (P30CA068485).</p></fn></fn-group></notes></front><body id="jlcr4166-body-0001"><sec id="jlcr4166-sec-0001"><label>1</label><title>Introduction</title><p>Most PET radiotracers go through the same developmental lifecycle. When they are first discovered, they are prepared via manual methods, sometimes using semiautomated systems to reduce the radiation exposure to the operators. Once the radiotracers are advanced to research in human subjects, they are typically transferred to a fixed&#x02010;flow, fully automated system for current Good Manufacturing Process (cGMP) purposes [<xref rid="jlcr4166-bib-0001" ref-type="bibr">1</xref>]. The last stage for radiosynthesis development is translation to a cassette&#x02010;based module. Cassette&#x02010;based modules utilize a preassembled cassette, typically commercially sourced, to provide a highly reproducible process that requires minimal setup time and streamlined material sources, especially in today's rapidly changing logistics environment [<xref rid="jlcr4166-bib-0002" ref-type="bibr">2</xref>, <xref rid="jlcr4166-bib-0003" ref-type="bibr">3</xref>].</p><p>Single&#x02010;use cassette systems can be of immense aid in this development/qualification pathway. For a fixed&#x02010;flow system, the production method needs to be optimized for each system because of the idiosyncratic differences between modules, even of the same model. For a cassette system, every facet of the production materials is identical since the cassettes are manufactured to specific tolerances. Cassette&#x02010;based synthesis offers a clear advantage over fixed&#x02010;flow systems for method sharing between production sites. Because cassettes are preassembled and standardized, they eliminate module&#x02010;to&#x02010;module variability and simplify validation, enabling straightforward replication of processes across multiple sites without extensive reoptimization. Furthermore, cassette&#x02010;based designs are straightforward to commercialize and distribute to multiple manufacturing sites. Commercial cassettes are presterilized, and all components can be manufactured under strict cGMP conditions, which greatly ease regulatory concerns. Fixed&#x02010;flow synthesizers also suffer from reusable components that not only must be thoroughly cleaned before each production (which in turn requires validation) but also suffer from wear and tear. For the purposes of this review, we have defined a &#x0201c;cassette&#x02010;based radiosynthesis&#x0201d; as an automated radiosynthesis that uses only single&#x02010;use components other than HPLC purification.</p><p>Most radiochemical methodology development has been focused on fluorine&#x02010;18 because of its commercial potential and ability to be distributed regionally (8+&#x02009;h from the manufacturing site). This focus has left the methodology to install carbon&#x02010;11 underdeveloped. Carbon&#x02010;11 radiotracers are of great interest both due to their short half&#x02010;life and because isotopic substitution of carbon&#x02010;12 for carbon&#x02010;11 preserves the biological properties of the nonradioactive isotope [<xref rid="jlcr4166-bib-0004" ref-type="bibr">4</xref>]. Normally, the short half&#x02010;life (20.3&#x02009;min) of carbon&#x02010;11 would be considered a detriment since it severely increases the challenge of radiosynthesis and reduces the potential length available for scanning. However, viewed from a different perspective, this is a serious benefit for scanning both animal and human research subjects as it enables scans with multiple tracers in a single day (e.g., an amyloid scan in the morning and a tau scan in the afternoon). There is growing interest in using multiple molecular imaging probes to explore related physiological changes. [<xref rid="jlcr4166-bib-0005" ref-type="bibr">5</xref>] With two or more scans in a single day, it is possible to directly compare the results of the imaging and massively simplify the logistics of the scanning, an especially important variable when it comes to human research subjects and potentially in standard of care imaging in the future.</p></sec><sec id="jlcr4166-sec-0002"><label>2</label><title>Generation of C&#x02010;11 Synthons on Cassette</title><p>The most common method of production of carbon&#x02010;11 is via the <sup>14</sup>N(<italic toggle="yes">p</italic>,&#x003b1;)<sup>11</sup>C reaction in a cyclotron gas target, followed by oxidation with oxygen to form [<sup>11</sup>C]CO<sub>2</sub>, or rarely with the use of hydrogen instead of oxygen to produce [<sup>11</sup>C]CH<sub>4</sub>. From [<sup>11</sup>C]CO<sub>2</sub>, it is possible to produce [<sup>11</sup>C]CO, [<sup>11</sup>C]CH<sub>3</sub>OH, [<sup>11</sup>C]CH<sub>4</sub>, [<sup>11</sup>C]HCN, [<sup>11</sup>C]MeI, and [<sup>11</sup>C]CH<sub>3</sub>OTf, with occasional forays into [<sup>11</sup>C]CH<sub>2</sub>O, [<sup>11</sup>C]COCl<sub>2</sub>, and [<sup>11</sup>C]CS<sub>2</sub> being reported as well [<xref rid="jlcr4166-bib-0006" ref-type="bibr">6</xref>] (Scheme&#x000a0;<xref rid="jlcr4166-fig-0006" ref-type="fig">1</xref>). The most common carbon&#x02010;11 synthons are [<sup>11</sup>C]MeI or [<sup>11</sup>C]MeOTf and are used either for direct nucleophilic substitution reactions or in palladium&#x02010;mediated cross&#x02010;couplings. The generation of [<sup>11</sup>C]MeI/MeOTf requires the use of specialized automated modules that transform the cyclotron&#x02010;produced [<sup>11</sup>C]CO<sub>2</sub> to MeI/MeOTf using either the &#x0201c;wet method&#x0201d; of reduction to methanol and iodination with HI, or the &#x0201c;gas method&#x0201d; of reduction to methane and iodination with iodine [<xref rid="jlcr4166-bib-0007" ref-type="bibr">7</xref>, <xref rid="jlcr4166-bib-0008" ref-type="bibr">8</xref>]. Although both methods are utilized, the gas method is used more commonly. However, the wet method is more amenable to cassette&#x02010;based methodology, avoiding the use of heated pressurized hydrogen, as well as the much higher temperatures needed for the [<sup>11</sup>C]CH<sub>4</sub>&#x02009;&#x02192;&#x02009;[<sup>11</sup>C]MeI conversion [<xref rid="jlcr4166-bib-0007" ref-type="bibr">7</xref>]. Although the wet method uses harsh reagents like lithium aluminum hydride and hydroiodic acid, this is ameliorated on a disposable cassette because the single&#x02010;use nature of the cassette minimizes the wear and tear concerns related to the harsh reagents and eliminates the need for cleaning the by&#x02010;products of these reagents.</p><fig position="float" fig-type="SCHEME" id="jlcr4166-fig-0006"><label>SCHEME 1</label><caption><p>Generation of carbon&#x02010;11&#x02010;labeled synthons.</p></caption><graphic xlink:href="JLCR-68-0-g003" position="anchor" id="jats-graphic-3"/></fig><p>To automate the wet method on a cassette, three steps need to be accounted for: (1) trapping of [<sup>11</sup>C]CO<sub>2</sub>, (2) reduction to [<sup>11</sup>C]CH<sub>3</sub>OH, and (3) functional&#x02010;group interchange to [<sup>11</sup>C]CH<sub>3</sub>I. If MeOTf is required, then a fourth step of functional&#x02010;group interchange to [<sup>11</sup>C]CH<sub>3</sub>OTf is required.</p><p>The first report of cassette automated carbon&#x02010;11 synthon generation was published in 2017 by Jolly and coworkers [<xref rid="jlcr4166-bib-0009" ref-type="bibr">9</xref>]. Using the Scintomics module series and over three cassette manifolds, they were able to generate [<sup>11</sup>C]CH<sub>3</sub>I/OTf and Label 5 different compounds. This was accomplished via the standard method of trapping on molecular sieves [<xref rid="jlcr4166-bib-0010" ref-type="bibr">10</xref>] and then heating the sieves at 275&#x000b0;C under a stream of nitrogen to release the purified [<sup>11</sup>C]CO<sub>2</sub> into the second manifold. The [<sup>11</sup>C]CO<sub>2</sub> is bubbled into a reactor containing a solution of LiAlH<sub>4</sub> in THF, heating to 105&#x000b0;C, and removal of THF under vacuum. The [<sup>11</sup>C]CH<sub>3</sub>O<sup>&#x02010;</sup> is quenched with concentrated HI, and the generated [<sup>11</sup>C]CH<sub>3</sub>I is transferred to the reaction vial through a sodium hydroxide drying column and, if required, through a silver triflate column, which has been heated to 175&#x000b0;C to prepare the [<sup>11</sup>C]CH<sub>3</sub>OTf. They were able to achieve up to a 35% activity yield for the final products, although the molar activity was relatively low at 18.5&#x02013;33.3&#x02009;GBq/&#x003bc;mol (500&#x02013;900&#x02009;Ci/mmol). Contamination with cold [<sup>12</sup>C]CO<sub>2</sub> is a known issue with both methods, but it is a bigger issue with the wet method [<xref rid="jlcr4166-bib-0011" ref-type="bibr">11</xref>].</p><p>More recently, in 2023, Myburgh and coworkers working with Trasis developed a fully automated cassette that used an unmodified Trasis All&#x02010;In&#x02010;One (AIO) module with a preassembled cassette to produce [<sup>11</sup>C]CH<sub>3</sub>OTf and then perform the established loop synthesis of [<sup>11</sup>C]PIB [<xref rid="jlcr4166-bib-0012" ref-type="bibr">12</xref>] (Figure&#x000a0;<xref rid="jlcr4166-fig-0001" ref-type="fig">1</xref>). This process was reported earlier [<xref rid="jlcr4166-bib-0013" ref-type="bibr">13</xref>, <xref rid="jlcr4166-bib-0014" ref-type="bibr">14</xref>] but not described until 2023. This process utilizes a single&#x02010;use, commercially available cassette and kit to generate the [<sup>11</sup>C]MeOTf via the wet method and perform the radiolabeling, HPLC purification, and reformulation to prepare [<sup>11</sup>C]PIB. The activity yield (from [<sup>11</sup>C]CO<sub>2</sub>) was 9.8%&#x02009;&#x000b1;&#x02009;1.7% over a 25&#x02010;min process. The molar activity achieved was only moderate at 38.9&#x02013;81.1&#x02009;GBq/&#x003bc;mol (1051&#x02013;2192&#x02009;Ci/mmol) but is well within the acceptance criteria for [<sup>11</sup>C]PIB (&#x0003e;&#x02009;11&#x02009;GBq/&#x003bc;mol).</p><fig position="float" fig-type="FIGURE" id="jlcr4166-fig-0001"><label>FIGURE 1</label><caption><p>[<sup>11</sup>C]MeOTf generation on Trasis AIO.</p></caption><graphic xlink:href="JLCR-68-0-g013" position="anchor" id="jats-graphic-5"/></fig></sec><sec id="jlcr4166-sec-0003"><label>3</label><title>Cassette&#x02010;Based Radiochemistry Modules</title><p>Radiochemistry modules based on cassette systems have revolutionized the synthesis of radiopharmaceuticals by introducing a standardized approach to radiolabeling processes [<xref rid="jlcr4166-bib-0002" ref-type="bibr">2</xref>]. Unlike fixed&#x02010;tubing or fixed&#x02010;manifold systems that require extensive setup and cleaning before and after each synthesis, cassette&#x02010;based modules utilize preassembled, disposable kits containing all required reagents and components for specific radiochemical transformations. These systems, often supported by modular hardware and automated software, have become essential tools in the production of radiotracers for molecular imaging. Their compatibility with stringent regulatory requirements, reproducibility, and ease of implementation have driven their widespread adoption in both clinical and research environments.</p><p>The core advantage of cassette&#x02010;based radiochemistry modules lies in their modularity and versatility. By enabling the rapid interchange of cassettes, these systems facilitate the synthesis of a wide array of radiotracers without the need for extensive reconfiguration of the underlying platform. This adaptability is particularly advantageous for facilities producing multiple radiopharmaceuticals, as it reduces downtime, minimizes cross&#x02010;contamination, and allows for straightforward transitions between production runs. Furthermore, the use of single&#x02010;use cassettes aligns with current good manufacturing practice (cGMP) guidelines, enhancing sterility and compliance with regulatory standards.</p><p>Another key benefit of cassette&#x02010;based systems is their high level of automation. Automated protocols reduce operator variability, improve reproducibility, and enable the synthesis of radiotracers with consistently high yields and specific activities. For isotopes like carbon&#x02010;11, with its short half&#x02010;life of ~20&#x02009;min, automation is critical for meeting the stringent time constraints associated with synthesis, purification, and quality control. Additionally, the integration of software&#x02010;driven control systems allows for real&#x02010;time monitoring and documentation, streamlining compliance with regulatory agencies and facilitating batch&#x02010;to&#x02010;batch quality assurance.</p><p>Despite these advantages, cassette&#x02010;based radiochemistry modules are not without limitations. The reliance on proprietary, preassembled cassettes can lead to increased operational costs, particularly for facilities with high production demands or those developing novel radiotracers that require bespoke synthesis pathways. The design and validation of custom cassettes can be labor&#x02010;intensive and may introduce delays in radiotracer development pipelines. Moreover, the inherent constraints of cassette designs may limit the scope of chemistry that can be performed, particularly for complex or multistep syntheses requiring precise control over reaction conditions.</p><p>This review aims to provide a comprehensive analysis of cassette&#x02010;based radiochemistry modules with a particular focus on carbon&#x02010;11 radiochemistry. Although cassette&#x02010;based modules have been instrumental in expanding the accessibility of fluorine&#x02010;18 radiotracers, their utility for carbon&#x02010;11 tracer synthesis is far less explored. By examining the current state of the field, including the advantages, challenges, and future directions, this work seeks to offer insights that will guide the optimization and innovation of cassette&#x02010;based radiochemistry systems for the next generation of carbon&#x02010;11 radiopharmaceuticals.</p><sec id="jlcr4166-sec-0004"><label>3.1</label><title>Trasis AIO</title><p>The AIO module from Trasis can accommodate cassettes with up to 36 valve positions and possesses multiple syringe drivers and an integrated HPLC purification system (Figure&#x000a0;<xref rid="jlcr4166-fig-0002" ref-type="fig">2</xref>). It has been extensively used for fluorine&#x02010;18 chemistry [<xref rid="jlcr4166-bib-0002" ref-type="bibr">2</xref>] and somewhat for gallium&#x02010;68 labelings [<xref rid="jlcr4166-bib-0015" ref-type="bibr">15</xref>]. The AIO module has also begun to be used for cassette&#x02010;based carbon&#x02010;11 chemistry, with [<sup>11</sup>C]acetate [<xref rid="jlcr4166-bib-0016" ref-type="bibr">16</xref>], [<sup>11</sup>C]acetoacetate [<xref rid="jlcr4166-bib-0017" ref-type="bibr">17</xref>], [<sup>11</sup>C]methionine [<xref rid="jlcr4166-bib-0013" ref-type="bibr">13</xref>], [<sup>11</sup>C]choline [<xref rid="jlcr4166-bib-0014" ref-type="bibr">14</xref>], [<sup>11</sup>C]LY2795050 [<xref rid="jlcr4166-bib-0018" ref-type="bibr">18</xref>], and [<sup>11</sup>C]PIB [<xref rid="jlcr4166-bib-0012" ref-type="bibr">12</xref>] being reported on the module.</p><fig position="float" fig-type="FIGURE" id="jlcr4166-fig-0002"><label>FIGURE 2</label><caption><p>Trasis All&#x02010;In&#x02010;One module.</p></caption><graphic xlink:href="JLCR-68-0-g016" position="anchor" id="jats-graphic-7"/></fig></sec><sec id="jlcr4166-sec-0005"><label>3.2</label><title>3D&#x02010;Printed Modules [<xref rid="jlcr4166-bib-0019" ref-type="bibr">19</xref>]</title><p>Purpose&#x02010;built 3D&#x02010;printed modules offer a compact, cost&#x02010;effective, and highly customizable automated system for PET radiotracer synthesis (Figure&#x000a0;<xref rid="jlcr4166-fig-0003" ref-type="fig">3</xref>). These modules can be optimized for each tracer and integrate only the necessary reactors, purification systems, and fluid&#x02010;handling mechanisms into a small physical footprint. The reported system is optimized for the production of carbon&#x02010;11 fatty acids and offers significant advantages in reproducibility, reduced radiation exposure, and adaptability to diverse chemistries.</p><fig position="float" fig-type="FIGURE" id="jlcr4166-fig-0003"><label>FIGURE 3</label><caption><p>3D printed module.</p></caption><graphic xlink:href="JLCR-68-0-g018" position="anchor" id="jats-graphic-9"/></fig></sec><sec id="jlcr4166-sec-0006"><label>3.3</label><title>Scintomics</title><p>Scintomics modules differ from the standard cassette module offerings in that they offer a versatile module design composed of submodule components [<xref rid="jlcr4166-bib-0020" ref-type="bibr">20</xref>]. Although these modules are not as widespread as some of the other modules, they can be arranged in advantageous ways to support both carbon&#x02010;11 cassette&#x02010;based radiosynthesis, as well as other isotopes.</p></sec><sec id="jlcr4166-sec-0007"><label>3.4</label><title>GE Healthcare FASTlab</title><p>The GE FASTlab platform is one of the most widely utilized radiosynthesis platforms available, with over 1000 installed worldwide. It utilizes a 25&#x02010;position cassette, which has three built&#x02010;in syringes (1&#x02009;mL, 2&#x02009;&#x000d7;&#x02009;6&#x02009;mL), and six vial positions (one of which can be used as a spike for a water bag or other bag) (Figure&#x000a0;<xref rid="jlcr4166-fig-0004" ref-type="fig">4</xref>). The module can supply both vacuum and inert gas pushes, which are controlled along with the values by a computer. The FASTlab has been extensively utilized for fluorine&#x02010;18 radiosyntheses and gallium&#x02010;68 manufacturing, as well as more limited uses for other radiometals. There is one report of its use for carbon&#x02010;11 radiochemistry to prepare [<sup>11</sup>C]PIB.</p><fig position="float" fig-type="FIGURE" id="jlcr4166-fig-0004"><label>FIGURE 4</label><caption><p>GE healthcare FASTlab 2.</p></caption><graphic xlink:href="JLCR-68-0-g007" position="anchor" id="jats-graphic-11"/></fig></sec><sec id="jlcr4166-sec-0008"><label>3.5</label><title>iMiDEV Microfluidic Module</title><p>The iMiDEV microfluidic system is an automated radiochemistry platform for the synthesis of PET radiotracers, including those labeled with carbon&#x02010;11. Its compact design incorporates microfluidic reactors, solid&#x02010;phase extraction (SPE) units, and integrated fluid handling, enabling precise control of reaction conditions while minimizing reagent consumption and synthesis time [<xref rid="jlcr4166-bib-0021" ref-type="bibr">21</xref>].</p></sec><sec id="jlcr4166-sec-0009"><label>3.6</label><title>Eckert &#x00026; Ziegler Modular&#x02010;Lab PharmTracer [<xref rid="jlcr4166-bib-0022" ref-type="bibr">22</xref>]</title><p>The E&#x00026;Z Modular&#x02010;Lab platform is a cassette&#x02010;based radiochemistry system designed for automated production of PET tracers, including several carbon&#x02010;11 radiopharmaceuticals. Single&#x02010;use cassettes are available for the generation of [<sup>11</sup>C]MeI, as well as for downstream synthesis of tracers such as [<sup>11</sup>C]choline, [<sup>11</sup>C]acetate, [<sup>11</sup>C]methionine, and [<sup>11</sup>C]raclopride. Some cassettes incorporate SPE purification, whereas others, like [<sup>11</sup>C]raclopride, include integrated HPLC purification. The system offers cGMP&#x02010;compliant workflows suitable for routine clinical use.</p></sec></sec><sec id="jlcr4166-sec-0010"><label>4</label><title>Developed Radiopharmaceutical on Cassette</title><sec id="jlcr4166-sec-0011"><label>4.1</label><title>[<sup>11</sup>C]Acetate</title><p>
+<boxed-text position="anchor" content-type="graphic" id="jlcr4166-blkfxd-0002"><graphic xlink:href="JLCR-68-0-g010.jpg" position="anchor" id="jats-graphic-13"/></boxed-text>
+</p><p>[<sup>11</sup>C]Acetate is widely used as a PET tracer for imaging oxidative metabolism, particularly in cardiac and oncologic applications. In tumors, it reflects lipid synthesis via the citric acid cycle, whereas in myocardium, it serves as a substrate for &#x003b2;&#x02010;oxidation. Its rapid clearance and low background make it a valuable tool in differentiating malignancy from benign processes, especially in prostate and hepatocellular cancers. [<xref rid="jlcr4166-bib-0023" ref-type="bibr">23</xref>, <xref rid="jlcr4166-bib-0024" ref-type="bibr">24</xref>] Traditionally, it has been prepared through either manual [<xref rid="jlcr4166-bib-0025" ref-type="bibr">25</xref>] or fixed&#x02010;flow [<xref rid="jlcr4166-bib-0007" ref-type="bibr">7</xref>, <xref rid="jlcr4166-bib-0026" ref-type="bibr">26</xref>] radiosyntheses. In 2017, Sai and coworkers published a cassette&#x02010;based automated radiosynthesis on the Trasis AIO [<xref rid="jlcr4166-bib-0016" ref-type="bibr">16</xref>]. The synthesis was carried out by [<sup>11</sup>C]carboxylation of MeMgCl in THF. After the trapping of the [<sup>11</sup>C]CO<sub>2</sub> with the Grignard reagent at rt, the reaction was quenched with aqueous acetic acid solution and purified by passing the radioactive reaction mixture through activated PS&#x02010;H<sup>+</sup>, PS&#x02010;AG<sup>+</sup>, and PS&#x02010;OH<sup>&#x02212;</sup> ion&#x02010;exchange column resins. The final [<sup>11</sup>C]acetate was eluted from PS&#x02010;OH<sup>&#x02212;</sup> resin with aqueous citrate buffer solution into the final vial through a sterilizing filter to give a 51% activity yield and a 98% radiochemical purity.</p><p>In the 3D&#x02010;printed module [<xref rid="jlcr4166-bib-0019" ref-type="bibr">19</xref>], [<sup>11</sup>C]CO<sub>2</sub> is trapped on a zeolite&#x02010;based SPE cartridge. Following trapping, [<sup>11</sup>C]CO<sub>2</sub> is reacted with methylmagnesium bromide to yield [<sup>11</sup>C]acetate. The product is purified using SPE, with the final compound eluted into a sterile vial through a 0.22&#x02010;&#x003bc;m filter. This method achieves an activity yield of 62.8%&#x02009;&#x000b1;&#x02009;8.3% and a radiochemical purity of 97.5&#x02009;&#x000b1;&#x02009;1.0%, with a total synthesis time of approximately 5.3&#x02009;min.</p></sec><sec id="jlcr4166-sec-0012"><label>4.2</label><title>[<sup>11</sup>C]Propionate</title><p>
+<boxed-text position="anchor" content-type="graphic" id="jlcr4166-blkfxd-0003"><graphic xlink:href="JLCR-68-0-g015.jpg" position="anchor" id="jats-graphic-15"/></boxed-text>
+</p><p>[<sup>11</sup>C]Propionate is a short&#x02010;chain fatty acid PET tracer used to investigate propionate metabolism, which plays a role in lipid biosynthesis and gluconeogenesis. Though less common than acetate, it has potential for probing intermediary metabolism in metabolic disorders and certain cancers. [<sup>11</sup>C]Propionate is synthesized using [<sup>11</sup>C]CO<sub>2</sub> and ethylmagnesium bromide in a manner similar to [<sup>11</sup>C]acetate synthesis [<xref rid="jlcr4166-bib-0019" ref-type="bibr">19</xref>]. The reaction occurs on a zeolite cartridge and is followed by SPE purification. The product is eluted into a sterile vial with radiochemical purity exceeding 99.7%&#x02009;&#x000b1;&#x02009;0.2%. The decay&#x02010;corrected activity yields an average of 24.4%&#x02009;&#x000b1;&#x02009;5.1%, with a synthesis time of approximately 5.1&#x02009;min.</p></sec><sec id="jlcr4166-sec-0013"><label>4.3</label><title>[<sup>11</sup>C]Palmitate</title><p>
+<boxed-text position="anchor" content-type="graphic" id="jlcr4166-blkfxd-0004"><graphic xlink:href="JLCR-68-0-g017.jpg" position="anchor" id="jats-graphic-17"/></boxed-text>
+</p><p>[<sup>11</sup>C]Palmitate is a long&#x02010;chain fatty acid analog used to measure myocardial fatty acid uptake and oxidation. It has also been used in metabolic studies of diabetes and obesity. Its longer chain length compared with acetate allows for evaluation of distinct metabolic pathways relevant to lipid homeostasis [<xref rid="jlcr4166-bib-0027" ref-type="bibr">27</xref>]. [<sup>11</sup>C]Palmitate, a long&#x02010;chain fatty acid tracer, is synthesized by reacting [<sup>11</sup>C]CO<sub>2</sub> with pentadecylmagnesium bromide on a zeolite&#x02010;based cartridge [<xref rid="jlcr4166-bib-0019" ref-type="bibr">19</xref>]. The reaction proceeds at room temperature, followed by washing and SPE purification steps. The purified [<sup>11</sup>C]palmitate is eluted with a solution of acetic acid and ethanol. This process achieves a decay&#x02010;corrected activity yield of 57.2%&#x02009;&#x000b1;&#x02009;12.4% and a radiochemical purity of 96.7%&#x02009;&#x000b1;&#x02009;0.8%, with a synthesis time of approximately 6.5&#x02009;min.</p></sec><sec id="jlcr4166-sec-0014"><label>4.4</label><title>[<sup>11</sup>C]Acetoacetate</title><p>
+<boxed-text position="anchor" content-type="graphic" id="jlcr4166-blkfxd-0005"><graphic xlink:href="JLCR-68-0-g006.jpg" position="anchor" id="jats-graphic-19"/></boxed-text>
+</p><p>[<sup>11</sup>C]Acetoacetate (AcAc) is a ketone body tracer used to assess ketone metabolism in the brain, heart, and kidneys [<xref rid="jlcr4166-bib-0028" ref-type="bibr">28</xref>]. It has been applied in studies of aging, neurodegeneration, and cardiac metabolism, often alongside [<sup>11</sup>C]acetate to differentiate metabolic substrate preference in various disease states. [<sup>11</sup>C]AcAc can be used as a measure of ketone metabolism, especially in the brain [<xref rid="jlcr4166-bib-0024" ref-type="bibr">24</xref>, <xref rid="jlcr4166-bib-0029" ref-type="bibr">29</xref>]. In 2017, Sai and colleagues reported the automated radiosynthesis of [<sup>11</sup>C]AcAc. Starting with a solution of methyl lithium in diethyl ether, isopropenylacetate was manually added under inert conditions, which was then mounted on the cassette/AIO [<xref rid="jlcr4166-bib-0017" ref-type="bibr">17</xref>]. The solution was cooled to &#x02212;25&#x000b0;C (&#x000b1;15&#x000b0;C) via liquid nitrogen, controlled from the module. The cyclotron&#x02010;produced [<sup>11</sup>C]CO<sub>2</sub> was bubbled through the solution, and the mixture was allowed to react for 6&#x02009;min at which time it was hydrolyzed with water. The [<sup>11</sup>C]AcAc was purified via solid phase purification and eluted with a citrate buffer through a sterilizing filter. The radiosynthesis gave a 35% activity yield with the radiochemical purity of &#x0003e;&#x02009;95% and a synthesis time of 16&#x02009;min.</p></sec><sec id="jlcr4166-sec-0015"><label>4.5</label><title>[<sup>11</sup>C]Methionine</title><p>
+<boxed-text position="anchor" content-type="graphic" id="jlcr4166-blkfxd-0006"><graphic xlink:href="JLCR-68-0-g009.jpg" position="anchor" id="jats-graphic-21"/></boxed-text>
+</p><p>
+<italic toggle="yes">L</italic>&#x02010;[<sup>11</sup>C]Methionine is a PET radiotracer used to assess amino acid transport and protein synthesis, particularly in brain tumors. It offers improved tumor&#x02010;to&#x02010;background contrast compared with [<sup>18</sup>F]FDG, making it especially useful for imaging low&#x02010;grade gliomas and recurrent glioblastoma. On the AIO module, L&#x02010;homocysteine is preloaded onto a tC18 cartridge, and the cassette&#x02010;based system generates [<sup>11</sup>C]MeI via the wet method. The [<sup>11</sup>C]MeI is transferred to the cartridge to form [<sup>11</sup>C]methionine. The labeled product is eluted with phosphate buffer and saline through a sterilizing filter into the product vial, yielding &#x0003e;&#x02009;20% activity yield in 15&#x02009;min with 98% radiochemical purity and enantiomeric purity &#x0003e;&#x02009;99.5%. The iMiDEV module converts [<sup>11</sup>C]CO<sub>2</sub> into [<sup>11</sup>C]CH<sub>3</sub>I, which is delivered to a reactor preloaded with L&#x02010;homocysteine thiolactone and HLB resin [<xref rid="jlcr4166-bib-0030" ref-type="bibr">30</xref>]. The radiolabeling reaction is complete in approximately 3&#x02009;min. After SPE purification, the final product is eluted with phosphate&#x02010;buffered saline (PBS) and sterile filtered. The synthesis achieves a radiochemical yield of 84%&#x02009;&#x000b1;&#x02009;4% (decay&#x02010;corrected), with radiochemical purity of &#x0003e;&#x02009;96%, with a synthesis time of 18&#x02009;min.</p></sec><sec id="jlcr4166-sec-0016"><label>4.6</label><title>[<sup>11</sup>C]Choline</title><p>
+<boxed-text position="anchor" content-type="graphic" id="jlcr4166-blkfxd-0007"><graphic xlink:href="JLCR-68-0-g004.jpg" position="anchor" id="jats-graphic-23"/></boxed-text>
+</p><p>[<sup>11</sup>C]Choline is a PET tracer for imaging phospholipid metabolism and cell membrane synthesis, frequently used in prostate cancer and certain brain tumor studies. Its rapid uptake and fast clearance from nontarget tissues enhance diagnostic accuracy. Cassette&#x02010;based synthesis on the AIO module uses dimethylaminoethanol preloaded onto a CM cartridge. The [<sup>11</sup>C]MeI generated from [<sup>11</sup>C]CO<sub>2</sub> is delivered to the cartridge where the labeling occurs. Following reaction, the cartridge is washed with ethanol and water, and the product is eluted with PBS, providing &#x0003e;&#x02009;30% activity yield in 15&#x02009;min with &#x0003e;&#x02009;98% radiochemical purity. On the iMiDEV module, [<sup>11</sup>C]CO<sub>2</sub> is converted to [<sup>11</sup>C]CH<sub>3</sub>I in a precursor module and transferred to a reactor preloaded with dimethylaminoethanol on CM resin [<xref rid="jlcr4166-bib-0030" ref-type="bibr">30</xref>]. The methylation reaction is conducted under ambient temperature conditions. SPE purification removes unreacted precursor and impurities, and the purified [<sup>11</sup>C]choline is eluted into a sterile saline solution. The process delivers a radiochemical yield of 66%&#x02009;&#x000b1;&#x02009;2%, with radiochemical purity of &#x0003e;&#x02009;99%, in approximately 24&#x02009;min.</p></sec><sec id="jlcr4166-sec-0017"><label>4.7</label><title>[<sup>11</sup>C]PIB</title><p>
+<boxed-text position="anchor" content-type="graphic" id="jlcr4166-blkfxd-0008"><graphic xlink:href="JLCR-68-0-g002.jpg" position="anchor" id="jats-graphic-25"/></boxed-text>
+</p><p>[<sup>11</sup>C]Pittsburgh Compound B (PIB) has been the gold standard for measurement of &#x003b2;&#x02010;amyloid burden for several decades [<xref rid="jlcr4166-bib-0031" ref-type="bibr">31</xref>]. Not only does it provide excellent images, but its short half&#x02010;life allows for a second scan on the same subject later in the day with a tau or other imaging agent of choice. It enables early diagnosis, disease staging, and longitudinal monitoring of therapeutic interventions in Alzheimer's disease. Until recently, [<sup>11</sup>C]PIB has been exclusively prepared for clinical research on fixed&#x02010;flow automated synthesis modules, with either a reactor or &#x0201c;loop&#x0201d;&#x02010;based approach [<xref rid="jlcr4166-bib-0007" ref-type="bibr">7</xref>]. In 2023, Sai and colleagues reported the automated synthesis of [<sup>11</sup>C]PIB on the Trasis AIO, utilizing the AIO for both preparation of the [<sup>11</sup>C]MeOTf and the radiosynthesis of [<sup>11</sup>C]PIB [<xref rid="jlcr4166-bib-0012" ref-type="bibr">12</xref>]. The [<sup>11</sup>C]MeOTf was generated as previously discussed and passed through a C18 sep&#x02010;pak that had been loaded with the precursor. After the maximal amount of [<sup>11</sup>C]MeOTf was transferred, the reaction was continued for 50&#x02009;s, at which time the sep&#x02010;pak was eluted with 60% MeCN/H<sub>2</sub>O and injected onto the HPLC for purification. The HPLC fraction was collected, diluted with sterile water, and trapped on a second C18 sep&#x02010;pak. This sep&#x02010;pak was rinsed with sterile water, eluted with ethanol, and diluted with saline. The activity yield was 9.8%&#x02009;&#x000b1;&#x02009;1.7% and the molar activity was 57&#x02009;&#x000b1;&#x02009;18&#x02009;GBq/&#x003bc;mol for a 25&#x02010;min synthesis.</p><p>In 2017, Boudjemeline and coworkers published a cassette&#x02010;based synthesis of [<sup>11</sup>C]PIB on the Scintomics module series [<xref rid="jlcr4166-bib-0032" ref-type="bibr">32</xref>]. This work was groundbreaking for the radiosynthesis on cassette as it demonstrated the labeling of 6&#x02010;OH&#x02010;BTA&#x02010;0 with [<sup>11</sup>C]MeOTf on a sep&#x02010;pak that was preloaded with the precursor. They utilized a Synthra C&#x02010;11 module to convert cyclotron&#x02010;produced [<sup>11</sup>C]CO2 to [<sup>11</sup>]MeOTf, which was then passed over the precursor&#x02010;loaded sep&#x02010;pak. After radiolabel incorporation, they then used the same sep&#x02010;pak for solid&#x02010;phase purification by elution with increasing concentrations of ethanol in an acetate buffer. The product was then eluted from the sep&#x02010;pak and formulated to give the desired [<sup>11</sup>C]PIB in excellent activity yield (23.6%&#x02009;&#x000b1;&#x02009;2.7% from [<sup>11</sup>C]MeOTf), radiochemical purity (98.1%&#x02009;&#x000b1;&#x02009;0.8%), activity (190&#x02009;&#x000b1;&#x02009;90&#x02009;GBq/&#x003bc;mol), and meeting the other quality metrics required for cGMP use. The authors also note that the acetone used to dissolve the precursor can degrade the polycarbonate cassette manifold; however, this can be alleviated by the use of specialized manifolds.</p><p>The most recent publication of [<sup>11</sup>C]PIB on a cassette module was published by Nair and colleagues in 2024 (Figure&#x000a0;<xref rid="jlcr4166-fig-0005" ref-type="fig">5</xref>) [<xref rid="jlcr4166-bib-0033" ref-type="bibr">33</xref>]. This radiosynthesis used [<sup>11</sup>C]MeOTf produced via the gas&#x02010;phase method on a TRACERlab FXc Pro and delivered to the FASTlab cassette. Starting with the concept developed by Boudjemeline [<xref rid="jlcr4166-bib-0032" ref-type="bibr">32</xref>], the process was optimized on the FASTlab to provide 2.58&#x02013;3.85&#x02009;GBq with excellent radiochemical purity (&#x0003e;&#x02009;98%) and high molar activity (825&#x02009;&#x000b1;&#x02009;124&#x02009;GBq/&#x003bc;mol) in a 16&#x02010;min radiosynthesis (from [<sup>11</sup>C]MeOTf delivery start) without the use of HPLC purification. The process was validated for use in clinical research and accepted by the FDA. Additionally, Nair and colleagues developed a cassette that would allow for a second production of [<sup>11</sup>C]PIB up to 6&#x02009;h after the end of the first production. This allows for multiple productions of [<sup>11</sup>C]PIB in a single day on a single module/hotcell without an operator having to expose themselves to radioactivity to clean a hot module.</p><fig position="float" fig-type="FIGURE" id="jlcr4166-fig-0005"><label>FIGURE 5</label><caption><p>FASTlab dual [<sup>11</sup>C]PIB cassette layout.</p></caption><graphic xlink:href="JLCR-68-0-g008" position="anchor" id="jats-graphic-27"/></fig></sec><sec id="jlcr4166-sec-0018"><label>4.8</label><title>[<sup>11</sup>C]LY2795050</title><p>
+<boxed-text position="anchor" content-type="graphic" id="jlcr4166-blkfxd-0009"><graphic xlink:href="JLCR-68-0-g011.jpg" position="anchor" id="jats-graphic-29"/></boxed-text>
+</p><p>[<sup>11</sup>C]LY2795050 is a selective antagonist for the &#x003ba;&#x02010;opioid receptor, enabling in&#x000a0;vivo studies of the endogenous opioid system. It has been used to study mood disorders, pain, and addiction and supports kinetic modeling with well&#x02010;characterized binding dynamics in the human brain [<xref rid="jlcr4166-bib-0034" ref-type="bibr">34</xref>]. Sai and colleagues published the synthesis on the Trasis AIO using a palladium&#x02010;mediated cyanation using [<sup>11</sup>C]cyanide at 85&#x000b0;C for 3&#x02009;min, followed by base hydrolysis, HPLC purification, and SPE reformulation to give [<sup>11</sup>C]LY2795050 in 28% radiochemical yield with moderate molar activity (96.2&#x02009;GBq/&#x003bc;mol) and &#x0003e;&#x02009;99% radiochemical purity over a 40&#x02009;min radiosynthesis [<xref rid="jlcr4166-bib-0018" ref-type="bibr">18</xref>].</p></sec><sec id="jlcr4166-sec-0019"><label>4.9</label><title>[<sup>11</sup>C]Flumazenil</title><p>
+<boxed-text position="anchor" content-type="graphic" id="jlcr4166-blkfxd-0010"><graphic xlink:href="JLCR-68-0-g014.jpg" position="anchor" id="jats-graphic-31"/></boxed-text>
+</p><p>[<sup>11</sup>C]Flumazenil binds to the benzodiazepine site of the GABA_A receptor and is widely used to image inhibitory neurotransmission. It is particularly valuable in epilepsy, anxiety, and hepatic encephalopathy studies. Changes in [<sup>11</sup>C]Flumazenil binding can reflect neuronal loss or altered receptor density [<xref rid="jlcr4166-bib-0035" ref-type="bibr">35</xref>]. On the iMiDEV system, the synthesis begins with cyclotron&#x02010;produced [<sup>11</sup>C]CO<sub>2</sub>, converted into [<sup>11</sup>C]MeI in an adjacent module [<xref rid="jlcr4166-bib-0036" ref-type="bibr">36</xref>]. The [<sup>11</sup>C]CH<sub>3</sub>I is transferred to a reactor preloaded with the desmethyl flumazenil (DMFZ) precursor. Methylation proceeds at 50&#x000b0;C&#x02013;100&#x000b0;C, to produce [<sup>11</sup>C]flumazenil. The crude product undergoes SPE purification, with final formulation in saline and ethanol. The synthesis achieves a radiochemical yield of &#x0003e;&#x02009;25%, with high radiochemical purity (&#x0003e;&#x02009;98%), good molar activity (1912&#x02009;&#x000b1;&#x02009;552&#x02009;GBq/&#x003bc;mol), and a synthesis time of approximately 25&#x02009;min.</p></sec><sec id="jlcr4166-sec-0020"><label>4.10</label><title>[<sup>11</sup>C]L&#x02010;Deprenyl</title><p>
+<boxed-text position="anchor" content-type="graphic" id="jlcr4166-blkfxd-0011"><graphic xlink:href="JLCR-68-0-g001.jpg" position="anchor" id="jats-graphic-33"/></boxed-text>
+</p><p>[<sup>11</sup>C]L&#x02010;Deprenyl targets monoamine oxidase B (MAO&#x02010;B), which is upregulated in reactive astrocytes. It serves as a marker of neuroinflammation and has applications in Parkinson's disease, Alzheimer's disease, and brain injury research. The synthesis on the iMiDEV system starts with [<sup>11</sup>C]CO<sub>2</sub>, converted to [<sup>11</sup>C]CH<sub>3</sub>I using the TracerMaker module [<xref rid="jlcr4166-bib-0036" ref-type="bibr">36</xref>]. The [<sup>11</sup>C]CH<sub>3</sub>I is transferred to a reactor containing the L&#x02010;Deprenyl precursor. Methylation occurs at room temperature, followed by SPE purification to isolate [<sup>11</sup>C]L&#x02010;Deprenyl. The final product is eluted into a sterile vial and filtered. The process achieves a radiochemical yield &#x0003e;&#x02009;60% and a radiochemical purity &#x0003e;&#x02009;95%, with a total synthesis time of approximately 20&#x02013;25&#x02009;min.</p></sec><sec id="jlcr4166-sec-0021"><label>4.11</label><title>[<sup>11</sup>C]Butanol</title><p>
+<boxed-text position="anchor" content-type="graphic" id="jlcr4166-blkfxd-0012"><graphic xlink:href="JLCR-68-0-g005.jpg" position="anchor" id="jats-graphic-35"/></boxed-text>
+</p><p>[<sup>11</sup>C]Butanol is an important radiotracer for studying blood perfusion, cerebral blood flow, blood&#x02010;brain perfusion, and blood&#x02010;brain barrier status [<xref rid="jlcr4166-bib-0037" ref-type="bibr">37</xref>]. Although this tracer was first prepared 50&#x02009;years ago, its radiosynthesis has recently been reported on the GE FASTlab 2 module [<xref rid="jlcr4166-bib-0038" ref-type="bibr">38</xref>]. The [<sup>11</sup>C]CO<sub>2</sub> was introduced via bubbling into a solution of <italic toggle="yes">n</italic>&#x02010;propylmagnesium chloride. Immediately after a lithium aluminum hydride solution was transferred to the reaction mixture to reduce the acid to butanol. The crude reaction was then dried down, quenched with HCl, diluted with water, and purified on a C18 sep&#x02010;pak. The [<sup>11</sup>C]butanol was produced in 4%&#x02013;8% activity yield with a radiochemistry purity of &#x0003e;&#x02009;95% in 21&#x02009;min.</p></sec><sec id="jlcr4166-sec-0022"><label>4.12</label><title>Radiosyntheses Summary</title><p>The radiosyntheses described above are successful manufacturing processes on cassette&#x02010;based modules (Table&#x000a0;<xref rid="jlcr4166-tbl-0001" ref-type="table">1</xref>). These radiosyntheses utilize a number of different automated modules and all give activity yields acceptable for the production of clinically relevant doses. Molar activity is also a critical variable, and all of the reported values are acceptable for clinical research, although there is a large range; the fatty acids, methionine, and choline do not report values since these are transported radiopharmaceuticals and not targeting receptors where high molar activities are critical.</p><table-wrap position="float" id="jlcr4166-tbl-0001" content-type="TABLE"><label>TABLE 1</label><caption><p>Summary of radiosyntheses.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Tracer</th><th align="center" valign="bottom" rowspan="1" colspan="1">Module</th><th align="center" valign="bottom" rowspan="1" colspan="1">AY</th><th align="center" valign="bottom" rowspan="1" colspan="1">RCP</th><th align="center" valign="bottom" rowspan="1" colspan="1">Am (GBq/&#x003bc;mol)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Acetate</td><td align="center" valign="top" rowspan="1" colspan="1">Trasis AIO</td><td align="center" valign="top" rowspan="1" colspan="1">51%</td><td align="center" valign="top" rowspan="1" colspan="1">98%</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Acetate</td><td align="center" valign="top" rowspan="1" colspan="1">3D&#x02010;Printed</td><td align="center" valign="top" rowspan="1" colspan="1">63%</td><td align="center" valign="top" rowspan="1" colspan="1">98%</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Propionate</td><td align="center" valign="top" rowspan="1" colspan="1">3D&#x02010;Printed</td><td align="center" valign="top" rowspan="1" colspan="1">24%</td><td align="center" valign="top" rowspan="1" colspan="1">&#x0003e;&#x02009;99%</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Palmitate</td><td align="center" valign="top" rowspan="1" colspan="1">3D&#x02010;Printed</td><td align="center" valign="top" rowspan="1" colspan="1">57%</td><td align="center" valign="top" rowspan="1" colspan="1">97%</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Acetoacetate</td><td align="center" valign="top" rowspan="1" colspan="1">Trasis AIO</td><td align="center" valign="top" rowspan="1" colspan="1">35%</td><td align="center" valign="top" rowspan="1" colspan="1">95%</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Methionine</td><td align="center" valign="top" rowspan="1" colspan="1">iMiDEV</td><td align="center" valign="top" rowspan="1" colspan="1">84%<xref rid="jlcr4166-note-0002" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">96%</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Choline</td><td align="center" valign="top" rowspan="1" colspan="1">iMiDEV</td><td align="center" valign="top" rowspan="1" colspan="1">66%<xref rid="jlcr4166-note-0002" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">&#x0003e;&#x02009;99%</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">PIB</td><td align="center" valign="top" rowspan="1" colspan="1">Trasis AIO</td><td align="center" valign="top" rowspan="1" colspan="1">10%</td><td align="center" valign="top" rowspan="1" colspan="1">98%</td><td align="center" valign="top" rowspan="1" colspan="1">57</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">PIB</td><td align="center" valign="top" rowspan="1" colspan="1">Scintomics</td><td align="center" valign="top" rowspan="1" colspan="1">24%</td><td align="center" valign="top" rowspan="1" colspan="1">98%</td><td align="center" valign="top" rowspan="1" colspan="1">190</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">PIB</td><td align="center" valign="top" rowspan="1" colspan="1">FASTlab</td><td align="center" valign="top" rowspan="1" colspan="1">10%</td><td align="center" valign="top" rowspan="1" colspan="1">98%</td><td align="center" valign="top" rowspan="1" colspan="1">825</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">LY2795050</td><td align="center" valign="top" rowspan="1" colspan="1">Trasis AIO</td><td align="center" valign="top" rowspan="1" colspan="1">28%<xref rid="jlcr4166-note-0002" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">99%</td><td align="center" valign="top" rowspan="1" colspan="1">96</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Flumazenil</td><td align="center" valign="top" rowspan="1" colspan="1">iMiDEV</td><td align="center" valign="top" rowspan="1" colspan="1">13%</td><td align="center" valign="top" rowspan="1" colspan="1">98%</td><td align="center" valign="top" rowspan="1" colspan="1">1912</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Deprenyl</td><td align="center" valign="top" rowspan="1" colspan="1">iMiDEV</td><td align="center" valign="top" rowspan="1" colspan="1">4%</td><td align="center" valign="top" rowspan="1" colspan="1">98%</td><td align="center" valign="top" rowspan="1" colspan="1">1463</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Butanol</td><td align="center" valign="top" rowspan="1" colspan="1">FASTlab</td><td align="center" valign="top" rowspan="1" colspan="1">4&#x02010;8%</td><td align="center" valign="top" rowspan="1" colspan="1">&#x0003e;&#x02009;95%</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr></tbody></table><table-wrap-foot id="jlcr4166-ntgp-0002"><fn id="jlcr4166-note-0002"><label>
+<sup>a</sup>
+</label><p>Radiochemical yield.</p></fn></table-wrap-foot></table-wrap></sec></sec><sec id="jlcr4166-sec-0023"><label>5</label><title>Future of Carbon&#x02010;11 Automated Radiosynthesis</title><p>For most of its history, carbon&#x02010;11 radiopharmaceuticals have been prepared by manual, semiautomated, or fixed&#x02010;flow automated modules. With the new developments in carbon&#x02010;11 on cassette modules, it is important to consider what the optimal manufacturing strategy is. We feel that for chemistry development, fixed&#x02010;flow modules offer a superior choice given their simpler programming and fewer potential developmental hurdles. However, over the course of a radiopharmaceutical life cycle, it becomes advantageous to move to a cassette&#x02010;based module, even if the carbon&#x02010;11 synthon needs to come from an external module. A single carbon&#x02010;11 synthon module (such as the TRACERlab FX2 MeI) can supply up to four destination modules that perform the labeling incorporation and purification steps. With the new methodology described in this review, cassette modules now have the capability to perform both carbon&#x02010;11 radiosyntheses as well as other radionuclides. For manufacturing centers, like academic centers, where there is a wide variety of radiopharmaceuticals produced with limited resources, such as hotcell space, this means a greater economy of scale for diverse radiopharmaceutical production capabilities. From a cGMP perspective, using a single&#x02010;use preassembled cassette provides a highly reproducible process that requires minimal setup time. The use of a disposable, typically commercially available, cassette with the cartridges, tubing, and reagents already assembled/prepared is a straightforward way to increase regulatory compliance. Fixed&#x02010;flow systems require a validated cleaning process to be performed in between radiosyntheses, increasing the regulatory compliance burden along with operator set&#x02010;up time. Another factor that needs to be considered is the cost&#x02010;benefit analysis of a fixed&#x02010;flow system versus a cassette system. At first glance, the costs for a fixed&#x02010;flow system appear to be cheaper, not requiring the purchase of the cassette skeleton or disposable tubing needed for a cassette module; however, these costs become more equitable when the cleaning materials and time are factored in, along with the much simpler setup with a cassette system. Lastly, the engineering possibilities on a cassette are simply greater than those of a fixed&#x02010;flow system. For example, on the [<sup>11</sup>C]PIB process [<xref rid="jlcr4166-bib-0032" ref-type="bibr">32</xref>, <xref rid="jlcr4166-bib-0033" ref-type="bibr">33</xref>], the purification takes place on a separation cartridge using multiple elutions with specific mixtures, volumes, and flow rates; this is not possible with the current generations of fixed&#x02010;flow systems. With the highly beneficial use of a SPE approach over HPLC purification, this additional cassette capability can be very useful.</p><p>Going forward, it is likely that cassette&#x02010;based modules will be increasingly utilized for carbon&#x02010;11 radiosyntheses. Given that the most valuable resource in most manufacturing facilities is hotcell space and the number of modules that can be accommodated, being able to have modules that can switch between carbon&#x02010;11 and other radionuclides quickly is highly desirable. Furthermore, the simpler production day workflow reduces the burden on the operators and minimizes potential problems. Although fixed&#x02010;flow modules for carbon&#x02010;11 are critical for the development of new chemistries and new radiopharmaceuticals, as a radiopharmaceutical advances through its life cycle, a cassette&#x02010;based radiosynthesis offers many benefits.</p></sec><sec sec-type="conclusions" id="jlcr4166-sec-0024"><label>6</label><title>Conclusion</title><p>The production of carbon&#x02010;11 radiopharmaceutical synthesis on cassette&#x02010;based modules represents a significant advancement in radiochemistry, streamlining the production process while enhancing reproducibility and operational efficiency. The transition from fixed&#x02010;flow synthesis to preassembled, single&#x02010;use mitigates many of the challenges associated with traditional methods, including variability in module setup, contamination risks, and labor&#x02010;intensive cleaning procedures. A broad range of carbon&#x02010;11 radiotracers has been made on cassette&#x02010;based modules, including some of the most commonly produced carbon&#x02010;11 tracers, such as [<sup>11</sup>C]PIB, [<sup>11</sup>C]methionine, [<sup>11</sup>C]choline, and [<sup>11</sup>C]acetate.</p><p>Despite these advancements, several limitations remain. The reliance on proprietary cassettes can increase costs and limit flexibility, particularly for novel tracer development. Additionally, although cassette&#x02010;based automation improves standardization, certain complex multistep syntheses may still necessitate customized setups or alternative strategies. Although many of the methods described above rely on external production of the carbon&#x02010;11 synthons, a cassette&#x02010;based method for this has been developed on the Trasis AIO. Further research into optimizing cassette designs, enhancing radiochemical yields, and expanding the chemical versatility of automated platforms will be critical for future developments.</p></sec><sec sec-type="COI-statement" id="jlcr4166-sec-1025"><title>Conflict of Interest</title><p>GE Healthcare provides funding and resources for ongoing research collaborations with Dr. Rosenberg including project funding, salary support, and sponsored travel.</p></sec></body><back><sec sec-type="data-availability" id="jlcr4166-sec-0026"><title>Data Availability Statement</title><p>Data sharing is not applicable in this article as no datasets were generated or analyzed during the current study.</p></sec><ref-list content-type="cited-references" id="jlcr4166-bibl-0001"><title>References</title><ref id="jlcr4166-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0001">(a) <string-name>
+<given-names>S. W.</given-names>
+<surname>Schwarz</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Dick</surname>
+</string-name>, <string-name>
+<given-names>H. F.</given-names>
+<surname>VanBrocklin</surname>
+</string-name>, and <string-name>
+<given-names>J. M.</given-names>
+<surname>Hoffman</surname>
+</string-name>, &#x0201c;<article-title>Regulatory Requirements for PET Drug Production</article-title>,&#x0201d; <source>Journal of Nuclear Medicine</source>
+<volume>55</volume>, no. <issue>7</issue> (<year>2014</year>): <fpage>1132</fpage>&#x02013;<lpage>1137</lpage>, <pub-id pub-id-type="doi">10.2967/jnumed.113.132472</pub-id>.<pub-id pub-id-type="pmid">24914057</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="jlcr4166-cit-0002">(b) <string-name>
+<given-names>J.</given-names>
+<surname>Collins</surname>
+</string-name>, <string-name>
+<given-names>C. M.</given-names>
+<surname>Waldmann</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Drake</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Production of Diverse PET Probes With Limited Resources: 24 <sup>18</sup>F&#x02010;Labeled Compounds Prepared With a Single Radiosynthesizer</article-title>,&#x0201d; <source>Proceedings of the National Academy of Sciences</source>
+<volume>114</volume>, no. <issue>43</issue> (<year>2017</year>): <fpage>11309</fpage>&#x02013;<lpage>11314</lpage>, <pub-id pub-id-type="doi">10.1073/pnas.1710466114</pub-id>.</mixed-citation><mixed-citation publication-type="journal" id="jlcr4166-cit-0003">(c) <string-name>
+<given-names>M. S.</given-names>
+<surname>Sanford</surname>
+</string-name> and <string-name>
+<given-names>P. J. H.</given-names>
+<surname>Scott</surname>
+</string-name>, &#x0201c;<article-title>Moving Metal&#x02010;Mediated <sup>18</sup>F&#x02010;Fluorination From Concept to Clinic</article-title>,&#x0201d; <source>ACS Central Science</source>
+<volume>2</volume>, no. <issue>3</issue> (<year>2016</year>): <fpage>128</fpage>&#x02013;<lpage>130</lpage>, <pub-id pub-id-type="doi">10.1021/acscentsci.6b00061</pub-id>.<pub-id pub-id-type="pmid">27163039</pub-id>
+</mixed-citation></ref><ref id="jlcr4166-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0004">
+<string-name>
+<given-names>C.</given-names>
+<surname>Barnes</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Nair</surname>
+</string-name>, <string-name>
+<given-names>E. O.</given-names>
+<surname>Aboagye</surname>
+</string-name>, <string-name>
+<given-names>S. J.</given-names>
+<surname>Archibald</surname>
+</string-name>, and <string-name>
+<given-names>L.</given-names>
+<surname>Allott</surname>
+</string-name>, &#x0201c;<article-title>A Practical Guide to Automating Fluorine&#x02010;18 PET Radiochemistry Using Commercially Available Cassette&#x02010;Based Platforms</article-title>,&#x0201d; <source>Reaction Chemistry &#x00026; Engineering</source>
+<volume>7</volume>, no. <issue>11</issue> (<year>2022</year>): <fpage>2265</fpage>&#x02013;<lpage>2279</lpage>, <pub-id pub-id-type="doi">10.1039/D2RE00219A</pub-id>.</mixed-citation></ref><ref id="jlcr4166-bib-0003"><label>3</label><mixed-citation publication-type="book" id="jlcr4166-cit-0005">
+<string-name>
+<given-names>L.</given-names>
+<surname>Bruton</surname>
+</string-name> and <string-name>
+<given-names>P. J. H.</given-names>
+<surname>Scott</surname>
+</string-name>, &#x0201c;<part-title>Automated Synthesis Modules for PET Radiochemistry</part-title>,&#x0201d; in <source>Handbook of Radiopharmaceuticals</source> (<year>2020</year>), <fpage>437</fpage>&#x02013;<lpage>456</lpage>, <pub-id pub-id-type="doi">10.1002/9781119500575.ch13</pub-id>.</mixed-citation></ref><ref id="jlcr4166-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0006">(a) <string-name>
+<given-names>F.</given-names>
+<surname>Luzi</surname>
+</string-name>, <string-name>
+<given-names>A. D.</given-names>
+<surname>Gee</surname>
+</string-name>, and <string-name>
+<given-names>S.</given-names>
+<surname>Bongarzone</surname>
+</string-name>, &#x0201c;<article-title>Silicon Compounds in Carbon&#x02010;11 Radiochemistry: Present Use and Future Perspectives</article-title>,&#x0201d; <source>Organic &#x00026; Biomolecular Chemistry</source>
+<volume>19</volume>, no. <issue>32</issue> (<year>2021</year>): <fpage>6916</fpage>&#x02013;<lpage>6925</lpage>, <pub-id pub-id-type="doi">10.1039/D1OB01202A</pub-id>.<pub-id pub-id-type="pmid">34319335</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="jlcr4166-cit-0007">(b) <string-name>
+<given-names>P.</given-names>
+<surname>Buccino</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Savio</surname>
+</string-name>, and <string-name>
+<given-names>W.</given-names>
+<surname>Porcal</surname>
+</string-name>, &#x0201c;<article-title>Fully&#x02010;Automated Radiosynthesis of the Amyloid Tracer [11C] PiB via Direct [11C]CO<sub>2</sub> Fixation&#x02010;Reduction</article-title>,&#x0201d; <source>EJNMMI Radiopharmacy and Chemistry</source>
+<volume>4</volume>, no. <issue>1</issue> (<year>2019</year>): <fpage>14</fpage>, <pub-id pub-id-type="doi">10.1186/s41181-019-0065-4</pub-id>.<pub-id pub-id-type="pmid">31659494</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="jlcr4166-cit-0008">(c) <string-name>
+<given-names>A.</given-names>
+<surname>Shegani</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Kealey</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Luzi</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Radiosynthesis, Preclinical, and Clinical Positron Emission Tomography Studies of Carbon&#x02010;11 Labeled Endogenous and Natural Exogenous Compounds</article-title>,&#x0201d; <source>Chemical Reviews</source>
+<volume>123</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>105</fpage>&#x02013;<lpage>229</lpage>, <pub-id pub-id-type="doi">10.1021/acs.chemrev.2c00398</pub-id>.<pub-id pub-id-type="pmid">36399832</pub-id>
+</mixed-citation></ref><ref id="jlcr4166-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0009">(a) <string-name>
+<given-names>A.</given-names>
+<surname>Cohen</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Payne</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Smith</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>PET Imaging of Glutamine Metabolism in a Clinical Trial of Metastatic Colorectal Cancer</article-title>,&#x0201d; <source>Journal of Nuclear Medicine</source>
+<volume>61</volume>, no. <issue>supplement 1</issue> (<year>2020</year>): <elocation-id>630</elocation-id>.<pub-id pub-id-type="pmid">32238427</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="jlcr4166-cit-0010">(b) <string-name>
+<given-names>A. S.</given-names>
+<surname>Cohen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Grudzinski</surname>
+</string-name>, <string-name>
+<given-names>G. T.</given-names>
+<surname>Smith</surname>
+</string-name>, <string-name>
+<given-names>T. E.</given-names>
+<surname>Peterson</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>First&#x02010;in&#x02010;Human PET Imaging and Estimated Radiation Dosimetry of L&#x02010;[5&#x02010;<sup>11</sup>C]&#x02010;Glutamine in Patients With Metastatic Colorectal Cancer</article-title>,&#x0201d; <source>Journal of Nuclear Medicine</source>
+<volume>63</volume>, no. <issue>1</issue> (<year>2022</year>): <fpage>36</fpage>&#x02013;<lpage>43</lpage>, <pub-id pub-id-type="doi">10.2967/jnumed.120.261594</pub-id>.<pub-id pub-id-type="pmid">33931465</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="jlcr4166-cit-0011">(c) <string-name>
+<given-names>G.</given-names>
+<surname>Kavanaugh</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Williams</surname>
+</string-name>, <string-name>
+<given-names>A. S.</given-names>
+<surname>Morris</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Utility of [<sup>18</sup>F]FSPG PET to Image Hepatocellular Carcinoma: First Clinical Evaluation in a US Population</article-title>,&#x0201d; <source>Molecular Imaging and Biology</source>
+<volume>18</volume>, no. <issue>6</issue> (<year>2016</year>): <fpage>924</fpage>&#x02013;<lpage>934</lpage>, <pub-id pub-id-type="doi">10.1007/s11307-016-1007-0</pub-id>.<pub-id pub-id-type="pmid">27677886</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="jlcr4166-cit-0012">(d) <string-name>
+<given-names>C.</given-names>
+<surname>Nanni</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Schiavina</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Boschi</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Comparison of <sup>18</sup>F&#x02010;FACBC and <sup>11</sup>C&#x02010;choline PET/CT in Patients With Radically Treated Prostate Cancer and Biochemical Relapse: Preliminary Results</article-title>,&#x0201d; <source>European Journal of Nuclear Medicine and Molecular Imaging</source>
+<volume>40</volume>, no. <issue>1</issue> (<year>2013</year>): <fpage>11</fpage>&#x02013;<lpage>17</lpage>, <pub-id pub-id-type="doi">10.1007/s00259-013-2373-3</pub-id>.</mixed-citation><mixed-citation publication-type="journal" id="jlcr4166-cit-0013">(e) <string-name>
+<given-names>C.</given-names>
+<surname>Nanni</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Schiavina</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Brunocilla</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>18F&#x02010;Fluciclovine PET/CT for the Detection of Prostate Cancer Relapse: A Comparison to 11C&#x02010;Choline PET/CT</article-title>,&#x0201d; <source>Clinical Nuclear Medicine</source>
+<volume>40</volume>, no. <issue>8</issue> (<year>2015</year>): <fpage>e386</fpage>&#x02013;<lpage>e391</lpage>, <pub-id pub-id-type="doi">10.1097/rlu.0000000000000849</pub-id>.<pub-id pub-id-type="pmid">26053708</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="jlcr4166-cit-0014">(f) <string-name>
+<given-names>P. J.</given-names>
+<surname>Renick</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Mulgaonkar</surname>
+</string-name>, <string-name>
+<given-names>C. M.</given-names>
+<surname>Co</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Imaging of Actively Proliferating Bacterial Infections by Targeting the Bacterial Metabolic Footprint With <italic toggle="yes">D</italic>&#x02010;[5&#x02010;<sup>11</sup>C]&#x02010;Glutamine</article-title>,&#x0201d; <source>ACS Infectious Diseases</source>
+<volume>7</volume>, no. <issue>2</issue> (<year>2021</year>): <fpage>347</fpage>&#x02013;<lpage>361</lpage>, <pub-id pub-id-type="doi">10.1021/acsinfecdis.0c00617</pub-id>.<pub-id pub-id-type="pmid">33476123</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="jlcr4166-cit-0015">(g) <string-name>
+<given-names>M.</given-names>
+<surname>Schulte</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Buck</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Walker</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Clinical Evaluation of 18F&#x02010;FSPG PET in Hepatocellular Carcinoma (HCC) Compared With 11C&#x02010;Acetate</article-title>,&#x0201d; <source>Journal of Nuclear Medicine</source>
+<volume>57</volume>, no. <issue>supplement 2</issue> (<year>2016</year>): <elocation-id>301</elocation-id>.</mixed-citation><mixed-citation publication-type="journal" id="jlcr4166-cit-0016">(h) <string-name>
+<given-names>J. G.</given-names>
+<surname>Whisenant</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Smith</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Cohen</surname>
+</string-name>, <string-name>
+<given-names>K. K.</given-names>
+<surname>Ciombor</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Abstract 4260: Molecular Imaging of Glutamine (Gln) Metabolism in RAS Wildtype (WT) Metastatic Colorectal Cancer (mCRC)</article-title>,&#x0201d; <source>Cancer Research</source>
+<volume>80</volume>, no. <issue>16_Supplement</issue> (<year>2020</year>): <elocation-id>4260</elocation-id>, <pub-id pub-id-type="doi">10.1158/1538-7445.Am2020-4260</pub-id>.</mixed-citation></ref><ref id="jlcr4166-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0017">(a) <string-name>
+<given-names>K.</given-names>
+<surname>Dahl</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Halldin</surname>
+</string-name>, and <string-name>
+<given-names>M.</given-names>
+<surname>Schou</surname>
+</string-name>, &#x0201c;<article-title>New Methodologies for the Preparation of Carbon&#x02010;11 Labeled Radiopharmaceuticals</article-title>,&#x0201d; <source>Clinical and Translational Imaging</source>
+<volume>5</volume>, no. <issue>3</issue> (<year>2017</year>): <fpage>275</fpage>&#x02013;<lpage>289</lpage>, <pub-id pub-id-type="doi">10.1007/s40336-017-0223-1</pub-id>.<pub-id pub-id-type="pmid">28596949</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="jlcr4166-cit-0018">(b) <string-name>
+<given-names>B. H.</given-names>
+<surname>Rotstein</surname>
+</string-name>, <string-name>
+<given-names>S. H.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>M. S.</given-names>
+<surname>Placzek</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>11C=O Bonds Made Easily for Positron Emission Tomography Radiopharmaceuticals</article-title>,&#x0201d; <source>Chemical Society Reviews</source>
+<volume>45</volume>, no. <issue>17</issue> (<year>2016</year>): <fpage>4708</fpage>&#x02013;<lpage>4726</lpage>, <pub-id pub-id-type="doi">10.1039/C6CS00310A</pub-id>.<pub-id pub-id-type="pmid">27276357</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="jlcr4166-cit-0019">(c) <string-name>
+<given-names>A.</given-names>
+<surname>Pees</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Chass&#x000e9;</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Lindberg</surname>
+</string-name>, and <string-name>
+<given-names>N.</given-names>
+<surname>Vasdev</surname>
+</string-name>, &#x0201c;<article-title>Recent Developments in Carbon&#x02010;11 Chemistry and Applications for First&#x02010;In&#x02010;Human PET Studies</article-title>,&#x0201d; <source>Molecules</source>
+<volume>28</volume>, no. <issue>3</issue> (<year>2023</year>): <fpage>931</fpage>.<pub-id pub-id-type="pmid">36770596</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="jlcr4166-cit-0020">(d) <string-name>
+<given-names>P. W.</given-names>
+<surname>Miller</surname>
+</string-name>, <string-name>
+<given-names>N. J.</given-names>
+<surname>Long</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Vilar</surname>
+</string-name>, and <string-name>
+<given-names>A. D.</given-names>
+<surname>Gee</surname>
+</string-name>, &#x0201c;<article-title>Synthesis of 11C, 18F, 15O, and 13N Radiolabels for Positron Emission Tomography</article-title>,&#x0201d; <source>Angewandte Chemie International Edition</source>
+<volume>47</volume>, no. <issue>47</issue> (<year>2008</year>): <fpage>8998</fpage>&#x02013;<lpage>9033</lpage>, <pub-id pub-id-type="doi">10.1002/anie.200800222</pub-id>.<pub-id pub-id-type="pmid">18988199</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="jlcr4166-cit-0021">(e) <string-name>
+<given-names>X.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Rong</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Chemistry for Positron Emission Tomography: Recent Advances in 11C&#x02010;, 18F&#x02010;, 13N&#x02010;, and 15O&#x02010;Labeling Reactions</article-title>,&#x0201d; <source>Angewandte Chemie International Edition</source>
+<volume>58</volume>, no. <issue>9</issue> (<year>2019</year>): <fpage>2580</fpage>&#x02013;<lpage>2605</lpage>, <pub-id pub-id-type="doi">10.1002/anie.201805501</pub-id>.<pub-id pub-id-type="pmid">30054961</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="jlcr4166-cit-0022">(f) <string-name>
+<given-names>P. J. H.</given-names>
+<surname>Scott</surname>
+</string-name>, &#x0201c;<article-title>Methods for the Incorporation of Carbon&#x02010;11 to Generate Radiopharmaceuticals for PET Imaging</article-title>,&#x0201d; <source>Angewandte Chemie International Edition</source>
+<volume>48</volume>, no. <issue>33</issue> (<year>2009</year>): <fpage>6001</fpage>&#x02013;<lpage>6004</lpage>, <pub-id pub-id-type="doi">10.1002/anie.200901481</pub-id>.<pub-id pub-id-type="pmid">19554578</pub-id>
+</mixed-citation></ref><ref id="jlcr4166-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0023">
+<string-name>
+<given-names>X.</given-names>
+<surname>Shao</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Hoareau</surname>
+</string-name>, <string-name>
+<given-names>A. C.</given-names>
+<surname>Runkle</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Highlighting the Versatility of the Tracerlab Synthesis Modules. Part 2: Fully Automated Production of [<sup>11</sup>C]&#x02010;Labeled Radiopharmaceuticals Using a Tracerlab FXC&#x02010;Pro</article-title>,&#x0201d; <source>Journal of Labelled Compounds and Radiopharmaceuticals</source>
+<volume>54</volume>, no. <issue>14</issue> (<year>2011</year>): <fpage>819</fpage>&#x02013;<lpage>838</lpage>, <pub-id pub-id-type="doi">10.1002/jlcr.1937</pub-id>.</mixed-citation></ref><ref id="jlcr4166-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0024">(a) <string-name>
+<given-names>J.</given-names>
+<surname>Davis</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yano</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Cahoon</surname>
+</string-name>, and <string-name>
+<given-names>T. F.</given-names>
+<surname>Budinger</surname>
+</string-name>, &#x0201c;<article-title>Preparation of 11C&#x02010;Methyl Iodide and L&#x02010;[S&#x02010;Methyl&#x02010;11C]Methionine by an Automated Continuous Flow Process</article-title>,&#x0201d; <source>International Journal of Applied Radiation and Isotopes</source>
+<volume>33</volume>, no. <issue>5</issue> (<year>1982</year>): <fpage>363</fpage>&#x02013;<lpage>369</lpage>, <pub-id pub-id-type="doi">10.1016/0020-708X(82)90150-8</pub-id>.<pub-id pub-id-type="pmid">7095877</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="jlcr4166-cit-0025">(b) <string-name>
+<given-names>B.</given-names>
+<surname>L&#x000e5;ngstr&#x000f6;m</surname>
+</string-name> and <string-name>
+<given-names>H.</given-names>
+<surname>Lundqvist</surname>
+</string-name>, &#x0201c;<article-title>The Preparation of 11C&#x02010;Methyl Iodide and Its Use in the Synthesis of 11C&#x02010;Methyl&#x02010;L&#x02010;methionine</article-title>,&#x0201d; <source>International Journal of Applied Radiation and Isotopes</source>
+<volume>27</volume>, no. <issue>7</issue> (<year>1976</year>): <fpage>357</fpage>&#x02013;<lpage>363</lpage>, <pub-id pub-id-type="doi">10.1016/0020-708X(76)90088-0</pub-id>.<pub-id pub-id-type="pmid">955739</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="jlcr4166-cit-0026">(c) <string-name>
+<given-names>P.</given-names>
+<surname>Larsen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ulin</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Dahlstr&#x000f8;m</surname>
+</string-name>, and <string-name>
+<given-names>M.</given-names>
+<surname>Jensen</surname>
+</string-name>, &#x0201c;<article-title>Synthesis of [11C]iodomethane by Iodination of [11C]methane</article-title>,&#x0201d; <source>Applied Radiation and Isotopes</source>
+<volume>48</volume>, no. <issue>2</issue> (<year>1997</year>): <fpage>153</fpage>&#x02013;<lpage>157</lpage>, <pub-id pub-id-type="doi">10.1016/S0969-8043(96)00177-7</pub-id>.</mixed-citation><mixed-citation publication-type="journal" id="jlcr4166-cit-0027">(d) <string-name>
+<given-names>J. M.</given-names>
+<surname>Link</surname>
+</string-name>, <string-name>
+<given-names>K. A.</given-names>
+<surname>Krohn</surname>
+</string-name>, and <string-name>
+<given-names>J. C.</given-names>
+<surname>Clark</surname>
+</string-name>, &#x0201c;<article-title>Production of [11C]CH3I by Single Pass Reaction of [11C]CH4 With I2</article-title>,&#x0201d; <source>Nuclear Medicine and Biology</source>
+<volume>24</volume>, no. <issue>1</issue> (<year>1997</year>): <fpage>93</fpage>&#x02013;<lpage>97</lpage>, <pub-id pub-id-type="doi">10.1016/S0969-8051(96)00181-3</pub-id>.<pub-id pub-id-type="pmid">9080480</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="jlcr4166-cit-0028">(e) <string-name>
+<given-names>C.</given-names>
+<surname>Marazano</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Maziere</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Berger</surname>
+</string-name>, and <string-name>
+<given-names>D.</given-names>
+<surname>Comar</surname>
+</string-name>, &#x0201c;<article-title>Synthesis of Methyl Iodide&#x02010;11C and Formaldehyde&#x02010;11C</article-title>,&#x0201d; <source>International Journal of Applied Radiation and Isotopes</source>
+<volume>28</volume>, no. <issue>1</issue> (<year>1977</year>): <fpage>49</fpage>&#x02013;<lpage>52</lpage>, <pub-id pub-id-type="doi">10.1016/0020-708X(77)90159-4</pub-id>.<pub-id pub-id-type="pmid">558171</pub-id>
+</mixed-citation></ref><ref id="jlcr4166-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0029">
+<string-name>
+<given-names>D.</given-names>
+<surname>Jolly</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Hopewell</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Kovacevic</surname>
+</string-name>, <string-name>
+<given-names>Q. Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;P.</given-names>
+<surname>Soucy</surname>
+</string-name>, and <string-name>
+<given-names>A.</given-names>
+<surname>Kostikov</surname>
+</string-name>, &#x0201c;<article-title>Development of &#x0201c;[<sup>11</sup>C]kits&#x0201d; for a Fast, Efficient and Reliable Production of Carbon&#x02010;11 Labeled Radiopharmaceuticals for Positron Emission Tomography</article-title>,&#x0201d; <source>Applied Radiation and Isotopes</source>
+<volume>121</volume> (<year>2017</year>): <fpage>76</fpage>&#x02013;<lpage>81</lpage>, <pub-id pub-id-type="doi">10.1016/j.apradiso.2016.11.020</pub-id>.<pub-id pub-id-type="pmid">28038410</pub-id>
+</mixed-citation></ref><ref id="jlcr4166-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0030">
+<string-name>
+<given-names>B. H.</given-names>
+<surname>Mock</surname>
+</string-name>, <string-name>
+<given-names>M. T.</given-names>
+<surname>Vavrek</surname>
+</string-name>, and <string-name>
+<given-names>G. K.</given-names>
+<surname>Mulholland</surname>
+</string-name>, &#x0201c;<article-title>Solid&#x02010;Phase Reversible Trap for [<sup>11</sup>C]Carbon Dioxide Using Carbon Molecular Sieves</article-title>,&#x0201d; <source>Nuclear Medicine and Biology</source>
+<volume>22</volume>, no. <issue>5</issue> (<year>1995</year>): <fpage>667</fpage>&#x02013;<lpage>670</lpage>, <pub-id pub-id-type="doi">10.1016/0969-8051(94)00150-I</pub-id>.<pub-id pub-id-type="pmid">7581178</pub-id>
+</mixed-citation></ref><ref id="jlcr4166-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0031">(a) <string-name>
+<given-names>V.</given-names>
+<surname>Pichler</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Zenz</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Philippe</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Molar Activity&#x02014;The Keystone in 11C&#x02010;Radiochemistry: An Explorative Study Using the Gas Phase Method</article-title>,&#x0201d; <source>Nuclear Medicine and Biology</source>
+<volume>67</volume> (<year>2018</year>): <fpage>21</fpage>&#x02013;<lpage>26</lpage>, <pub-id pub-id-type="doi">10.1016/j.nucmedbio.2018.09.003</pub-id>.<pub-id pub-id-type="pmid">30380463</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="jlcr4166-cit-0032">(b) <string-name>
+<given-names>V.</given-names>
+<surname>G&#x000f3;mez&#x02010;Vallejo</surname>
+</string-name> and <string-name>
+<given-names>J.</given-names>
+<surname>Llop</surname>
+</string-name>, &#x0201c;<article-title>Specific Activity of [11C]CH3I Synthesized by the &#x0201c;Wet&#x0201d; Method: Main Sources of Non&#x02010;Radioactive Carbon</article-title>,&#x0201d; <source>Applied Radiation and Isotopes</source>
+<volume>67</volume>, no. <issue>1</issue> (<year>2009</year>): <fpage>111</fpage>&#x02013;<lpage>114</lpage>, <pub-id pub-id-type="doi">10.1016/j.apradiso.2008.09.012</pub-id>.<pub-id pub-id-type="pmid">19004631</pub-id>
+</mixed-citation></ref><ref id="jlcr4166-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0033">
+<string-name>
+<given-names>P. J.</given-names>
+<surname>Myburgh</surname>
+</string-name>, <string-name>
+<given-names>M. D.</given-names>
+<surname>Moore</surname>
+</string-name>, <string-name>
+<given-names>B. L.</given-names>
+<surname>Pathirannahel</surname>
+</string-name>, <string-name>
+<given-names>L. R.</given-names>
+<surname>Grace</surname>
+</string-name>, and <string-name>
+<given-names>K. K.</given-names>
+<surname>Solingapuram Sai</surname>
+</string-name>, &#x0201c;<article-title>Fully Automated Production of [11C]PiB for Clinical Use on Trasis&#x02010;Allinone Synthesizer Module</article-title>,&#x0201d; <source>Applied Radiation and Isotopes</source>
+<volume>202</volume> (<year>2023</year>): <elocation-id>111040</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.apradiso.2023.111040</pub-id>.<pub-id pub-id-type="pmid">37788544</pub-id>
+</mixed-citation></ref><ref id="jlcr4166-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0034">
+<string-name>
+<given-names>T.</given-names>
+<surname>Vergote</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Otabashi</surname>
+</string-name>, and <string-name>
+<given-names>C.</given-names>
+<surname>Desfours</surname>
+</string-name>, &#x0201c;<article-title>A Single&#x02010;Use Cassette for the Automated High&#x02010;Output Production of 11C&#x02010;Methionine</article-title>,&#x0201d; <source>Journal of Nuclear Medicine</source>
+<volume>58</volume>, no. <issue>supplement 1</issue> (<year>2017</year>): <elocation-id>880</elocation-id>.</mixed-citation></ref><ref id="jlcr4166-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0035">
+<string-name>
+<given-names>C.</given-names>
+<surname>Lentz</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Warnier</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;L.</given-names>
+<surname>Morelle</surname>
+</string-name>, and <string-name>
+<given-names>G.</given-names>
+<surname>Philippart</surname>
+</string-name>, &#x0201c;<article-title>A Single&#x02010;Use Cassette for the Automated High&#x02010;Output Production of [<sup>11</sup>C]Choline</article-title>,&#x0201d; <source>Journal of Nuclear Medicine</source>
+<volume>59</volume>, no. <issue>supplement 1</issue> (<year>2018</year>): <elocation-id>1041</elocation-id>.</mixed-citation></ref><ref id="jlcr4166-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0036">(a) <string-name>
+<given-names>C.</given-names>
+<surname>Da Pieve</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Costa Braga</surname>
+</string-name>, <string-name>
+<given-names>D. R.</given-names>
+<surname>Turton</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>New Fully Automated Preparation of High Apparent Molar Activity 68Ga&#x02010;FAPI&#x02010;46 on a Trasis AiO Platform</article-title>,&#x0201d; <source>Molecules</source>
+<volume>27</volume>, no. <issue>3</issue> (<year>2022</year>): <fpage>675</fpage>.<pub-id pub-id-type="pmid">35163938</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="jlcr4166-cit-0037">(b) <string-name>
+<given-names>B. J. B.</given-names>
+<surname>Nelson</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wilson</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Richter</surname>
+</string-name>, <string-name>
+<given-names>M. J. M.</given-names>
+<surname>Duke</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Wuest</surname>
+</string-name>, and <string-name>
+<given-names>F.</given-names>
+<surname>Wuest</surname>
+</string-name>, &#x0201c;<article-title>Taking Cyclotron (68)Ga Production to the Next Level: Expeditious Solid Target Production of (68)Ga for Preparation of Radiotracers</article-title>,&#x0201d; <source>Nuclear Medicine and Biology</source>
+<volume>80&#x02010;81</volume> (<year>2020</year>): <fpage>24</fpage>&#x02013;<lpage>31</lpage>, <pub-id pub-id-type="doi">10.1016/j.nucmedbio.2020.01.005</pub-id>.</mixed-citation></ref><ref id="jlcr4166-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0038">
+<string-name>
+<given-names>K. K.</given-names>
+<surname>Solingapuram Sai</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Cartwright</surname>
+</string-name>, and <string-name>
+<given-names>A.</given-names>
+<surname>Mintz</surname>
+</string-name>, &#x0201c;<article-title>Automated Synthesis of 1&#x02010;[<sup>11</sup>C]Acetate on a Commercially Available TRASIS AIO Synthesizer</article-title>,&#x0201d; <source>Journal of Nuclear Medicine</source>
+<volume>58</volume>, no. <issue>supplement 1</issue> (<year>2017</year>): <elocation-id>873</elocation-id>.</mixed-citation></ref><ref id="jlcr4166-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0039">
+<string-name>
+<given-names>K. K.</given-names>
+<surname>Solingapuram Sai</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Donald Gage</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Almaguel</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Automated Synthesis of 1&#x02010;[<sup>11</sup>C]Acetoacetate on a TRASIS AIO Module</article-title>,&#x0201d; <source>Applied Radiation and Isotopes</source>
+<volume>129</volume> (<year>2017</year>): <fpage>57</fpage>&#x02013;<lpage>61</lpage>, <pub-id pub-id-type="doi">10.1016/j.apradiso.2017.07.066</pub-id>.<pub-id pub-id-type="pmid">28806598</pub-id>
+</mixed-citation></ref><ref id="jlcr4166-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0040">
+<string-name>
+<given-names>K. K.</given-names>
+<surname>Solingapuram Sai</surname>
+</string-name>, <string-name>
+<given-names>M. C.</given-names>
+<surname>Ko</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Gage</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Cartwright</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Nader</surname>
+</string-name>, and <string-name>
+<given-names>A.</given-names>
+<surname>Mintz</surname>
+</string-name>, &#x0201c;<article-title>Automated Radiosynthesis of (<italic toggle="yes">S</italic>)&#x02010;[<sup>11</sup>C]LY2795050 for Imaging &#x003ba;&#x02010;Opioid Receptors in Nonhuman Primate Brain</article-title>,&#x0201d; <source>Journal of Nuclear Medicine</source>
+<volume>57</volume>, no. <issue>supplement 2</issue> (<year>2016</year>): <elocation-id>1057</elocation-id>.</mixed-citation></ref><ref id="jlcr4166-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0041">
+<string-name>
+<given-names>A.</given-names>
+<surname>Amor&#x02010;Coarasa</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Kelly</surname>
+</string-name>, and <string-name>
+<given-names>J. W.</given-names>
+<surname>Babich</surname>
+</string-name>, &#x0201c;<article-title>3D&#x02010;Printed Automation for Optimized PET Radiochemistry</article-title>,&#x0201d; <source>Science Advances</source>
+<volume>5</volume>, no. <issue>9</issue> (<year>2019</year>): <elocation-id>eaax4762</elocation-id>, <pub-id pub-id-type="doi">10.1126/sciadv.aax4762</pub-id>.<pub-id pub-id-type="pmid">31548988</pub-id>
+</mixed-citation></ref><ref id="jlcr4166-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0042">
+<string-name>
+<given-names>S.</given-names>
+<surname>Boschi</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Lodi</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Malizia</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Cicoria</surname>
+</string-name>, and <string-name>
+<given-names>M.</given-names>
+<surname>Marengo</surname>
+</string-name>, &#x0201c;<article-title>Automation Synthesis Modules Review</article-title>,&#x0201d; <source>Applied Radiation and Isotopes</source>
+<volume>76</volume> (<year>2013</year>): <fpage>38</fpage>&#x02013;<lpage>45</lpage>, <pub-id pub-id-type="doi">10.1016/j.apradiso.2012.09.010</pub-id>.<pub-id pub-id-type="pmid">23084477</pub-id>
+</mixed-citation></ref><ref id="jlcr4166-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0043">
+<string-name>
+<given-names>O.</given-names>
+<surname>Ovdiichuk</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Mallapura</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Pineda</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Implementation of ImiDEV, a New Fully Automated Microfluidic Platform for Radiopharmaceutical Production</article-title>,&#x0201d; <source>Lab on a Chip</source>
+<volume>21</volume>, no. <issue>11</issue> (<year>2021</year>): <fpage>2272</fpage>&#x02013;<lpage>2282</lpage>, <pub-id pub-id-type="doi">10.1039/D1LC00148E</pub-id>.<pub-id pub-id-type="pmid">33912890</pub-id>
+</mixed-citation></ref><ref id="jlcr4166-bib-0022"><label>22</label><mixed-citation publication-type="miscellaneous" id="jlcr4166-cit-0044">
+<string-name>
+<given-names>E.</given-names>
+<surname>Ziegler</surname>
+</string-name>, &#x0201c;<article-title>Modular&#x02010;Lab PharmTracer</article-title>,&#x0201d; retrieved August 5, 2025.</mixed-citation></ref><ref id="jlcr4166-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0045">
+<string-name>
+<given-names>I.</given-names>
+<surname>Grassi</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Nanni</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Allegri</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>The Clinical Use of PET With (<sup>11</sup>)C&#x02010;Acetate</article-title>,&#x0201d; <source>American Journal of Nuclear Medicine and Molecular Imaging</source>
+<volume>2</volume>, no. <issue>1</issue> (<year>2012</year>): <fpage>33</fpage>&#x02013;<lpage>47</lpage>.<pub-id pub-id-type="pmid">23133801</pub-id>
+</mixed-citation></ref><ref id="jlcr4166-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0046">
+<string-name>
+<given-names>E.</given-names>
+<surname>Croteau</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Cunnane</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Richard</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>A Comparison of Heart and Kidney Metabolism of 11C&#x02010;Acetoacetate and 11C&#x02010;Acetate in Healthy Humans</article-title>,&#x0201d; <source>Journal of Nuclear Medicine</source>
+<volume>64</volume>, no. <issue>supplement 1</issue> (<year>2023</year>): <elocation-id>959</elocation-id>.</mixed-citation></ref><ref id="jlcr4166-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0047">
+<string-name>
+<given-names>F.</given-names>
+<surname>Lodi</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Malizia</surname>
+</string-name>, and <string-name>
+<given-names>S.</given-names>
+<surname>Boschi</surname>
+</string-name>, &#x0201c;<part-title>Synthesis of [<sup>11</sup>C]Acetate</part-title>,&#x0201d; in <source>Radiochemical Syntheses</source>, vol. <volume>1</volume> (<year>2012</year>), <fpage>297</fpage>&#x02013;<lpage>303</lpage>, <pub-id pub-id-type="doi">10.1002/9781118140345.ch29</pub-id>.</mixed-citation></ref><ref id="jlcr4166-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0048">
+<string-name>
+<given-names>D.</given-names>
+<surname>Soloviev</surname>
+</string-name> and <string-name>
+<given-names>C.</given-names>
+<surname>Tamburella</surname>
+</string-name>, &#x0201c;<article-title>Captive Solvent [<sup>11</sup>C]Acetate Synthesis in GMP Conditions</article-title>,&#x0201d; <source>Applied Radiation and Isotopes</source>
+<volume>64</volume>, no. <issue>9</issue> (<year>2006</year>): <fpage>995</fpage>&#x02013;<lpage>1000</lpage>, <pub-id pub-id-type="doi">10.1016/j.apradiso.2006.04.011</pub-id>.<pub-id pub-id-type="pmid">16806949</pub-id>
+</mixed-citation></ref><ref id="jlcr4166-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0049">(a) <string-name>
+<given-names>B. H.</given-names>
+<surname>Mock</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Brown&#x02010;Proctor</surname>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>Green</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Steele</surname>
+</string-name>, <string-name>
+<given-names>B. E.</given-names>
+<surname>Glick&#x02010;Wilson</surname>
+</string-name>, and <string-name>
+<given-names>Q.&#x02010;H.</given-names>
+<surname>Zheng</surname>
+</string-name>, &#x0201c;<article-title>An Automated SPE&#x02010;Based High&#x02010;Yield Synthesis of [<sup>11</sup>C]acetate and [<sup>11</sup>C]palmitate: No Liquid&#x02013;Liquid Extraction, Solvent Evaporation or Distillation Required</article-title>,&#x0201d; <source>Nuclear Medicine and Biology</source>
+<volume>38</volume>, no. <issue>8</issue> (<year>2011</year>): <fpage>1135</fpage>&#x02013;<lpage>1142</lpage>, <pub-id pub-id-type="doi">10.1016/j.nucmedbio.2011.05.007</pub-id>.<pub-id pub-id-type="pmid">21831651</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="jlcr4166-cit-0050">(b) <string-name>
+<given-names>A. C.</given-names>
+<surname>Runkle</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Shao</surname>
+</string-name>, <string-name>
+<given-names>L. J. M.</given-names>
+<surname>Tluczek</surname>
+</string-name>, <string-name>
+<given-names>B. D.</given-names>
+<surname>Henderson</surname>
+</string-name>, <string-name>
+<given-names>B. G.</given-names>
+<surname>Hockley</surname>
+</string-name>, and <string-name>
+<given-names>P. J. H.</given-names>
+<surname>Scott</surname>
+</string-name>, &#x0201c;<article-title>Automated Production of [<sup>11</sup>C]acetate and [<sup>11</sup>C]palmitate Using a Modified GE Tracerlab FXC&#x02010;Pro</article-title>,&#x0201d; <source>Applied Radiation and Isotopes</source>
+<volume>69</volume>, no. <issue>4</issue> (<year>2011</year>): <fpage>691</fpage>&#x02013;<lpage>698</lpage>, <pub-id pub-id-type="doi">10.1016/j.apradiso.2011.01.002</pub-id>.<pub-id pub-id-type="pmid">21256039</pub-id>
+</mixed-citation></ref><ref id="jlcr4166-bib-0028"><label>28</label><mixed-citation publication-type="miscellaneous" id="jlcr4166-cit-0051">&#x0201c;<article-title>[11C]Acetoacetate</article-title>,&#x0201d; National Center for Biotechnology Information (US), retrieved August 2, 2025, November 12, (2008), <ext-link xlink:href="https://www.ncbi.nlm.nih.gov/books/NBK23622/" ext-link-type="uri">https://www.ncbi.nlm.nih.gov/books/NBK23622/</ext-link>.</mixed-citation></ref><ref id="jlcr4166-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0052">(a) <string-name>
+<given-names>V.</given-names>
+<surname>St&#x02010;Pierre</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Richard</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Croteau</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Cardiorenal Ketone Metabolism in Healthy Humans Assessed by <sup>11</sup>C&#x02010;Acetoacetate PET: Effect of D&#x02010;&#x003b2;&#x02010;Hydroxybutyrate, a Meal, and Age</article-title>,&#x0201d; <source>Frontiers in Physiology</source>
+<volume>15</volume> (<year>2024</year>): <elocation-id>1443781</elocation-id>, Original Research, <pub-id pub-id-type="doi">10.3389/fphys.2024.1443781</pub-id>.<pub-id pub-id-type="pmid">39497705</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="jlcr4166-cit-0053">(b) <string-name>
+<given-names>S.</given-names>
+<surname>Authier</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Tremblay</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Dumulon</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>[11C] Acetoacetate Utilization by Breast and Prostate Tumors: a PET and Biodistribution Study in Mice</article-title>,&#x0201d; <source>Molecular Imaging and Biology</source>
+<volume>10</volume>, no. <issue>4</issue> (<year>2008</year>): <fpage>217</fpage>&#x02013;<lpage>223</lpage>, <pub-id pub-id-type="doi">10.1007/s11307-008-0143-6</pub-id>.<pub-id pub-id-type="pmid">18454299</pub-id>
+</mixed-citation></ref><ref id="jlcr4166-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0054">
+<string-name>
+<given-names>H.</given-names>
+<surname>Mallapura</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Tanguy</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Mahfuz</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Advancements in Microfluidic Cassette&#x02010;Based iMiDEV Technology for Production of l&#x02010;[<sup>11</sup>C]Methionine and [<sup>11</sup>C]Choline</article-title>,&#x0201d; <source>Pharmaceuticals</source>
+<volume>17</volume>, no. <issue>2</issue> (<year>2024</year>): <elocation-id>250</elocation-id>.<pub-id pub-id-type="pmid">38399466</pub-id>
+</mixed-citation></ref><ref id="jlcr4166-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0055">
+<string-name>
+<given-names>C. A.</given-names>
+<surname>Mathis</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>D. P.</given-names>
+<surname>Holt</surname>
+</string-name>, <string-name>
+<given-names>G.&#x02010;F.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>M. L.</given-names>
+<surname>Debnath</surname>
+</string-name>, and <string-name>
+<given-names>W. E.</given-names>
+<surname>Klunk</surname>
+</string-name>, &#x0201c;<article-title>Synthesis and Evaluation of <sup>11</sup>C&#x02010;Labeled 6&#x02010;Substituted 2&#x02010;Arylbenzothiazoles as Amyloid Imaging Agents</article-title>,&#x0201d; <source>Journal of Medicinal Chemistry</source>
+<volume>46</volume>, no. <issue>13</issue> (<year>2003</year>): <fpage>2740</fpage>&#x02013;<lpage>2754</lpage>, <pub-id pub-id-type="doi">10.1021/jm030026b</pub-id>.<pub-id pub-id-type="pmid">12801237</pub-id>
+</mixed-citation></ref><ref id="jlcr4166-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0056">
+<string-name>
+<given-names>M.</given-names>
+<surname>Boudjemeline</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Hopewell</surname>
+</string-name>, <string-name>
+<given-names>P. L.</given-names>
+<surname>Rochon</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Highly Efficient Solid Phase Supported Radiosynthesis of [<sup>11</sup>C]PiB Using tC18 Cartridge as a "3&#x02010;in&#x02010;1" Production Entity</article-title>,&#x0201d; <source>Journal of Labelled Compounds and Radiopharmaceuticals</source>
+<volume>60</volume>, no. <issue>14</issue> (<year>2017</year>): <fpage>632</fpage>&#x02013;<lpage>638</lpage>, <pub-id pub-id-type="doi">10.1002/jlcr.3569</pub-id>.<pub-id pub-id-type="pmid">28981146</pub-id>
+</mixed-citation></ref><ref id="jlcr4166-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0057">
+<string-name>
+<given-names>M.</given-names>
+<surname>Nair</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;Y.</given-names>
+<surname>Cheung</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>M. E.</given-names>
+<surname>Koran</surname>
+</string-name>, and <string-name>
+<given-names>A. J.</given-names>
+<surname>Rosenberg</surname>
+</string-name>, &#x0201c;<article-title>Fully Automated Dual&#x02010;Run Manufacturing of [<sup>11</sup>C]PIB on FASTlab</article-title>,&#x0201d; <source>Nuclear Medicine and Biology</source>
+<volume>128</volume> (<year>2024</year>): <elocation-id>108873</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.nucmedbio.2023.108873</pub-id>.<pub-id pub-id-type="pmid">38154168</pub-id>
+</mixed-citation></ref><ref id="jlcr4166-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0058">(a) <string-name>
+<given-names>T.</given-names>
+<surname>Kaur</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Shao</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Horikawa</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Strategies for the Production of [<sup>11</sup>C]LY2795050 for Clinical Use</article-title>,&#x0201d; <source>Organic Process Research &#x00026; Development</source>
+<volume>27</volume>, no. <issue>2</issue> (<year>2023</year>): <fpage>373</fpage>&#x02013;<lpage>381</lpage>, <pub-id pub-id-type="doi">10.1021/acs.oprd.2c00388</pub-id>.<pub-id pub-id-type="pmid">36874204</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="jlcr4166-cit-0059">(b) <string-name>
+<given-names>M.</given-names>
+<surname>Naganawa</surname>
+</string-name>, <string-name>
+<given-names>M.&#x02010;Q.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Nabulsi</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Kinetic Modeling of 11C&#x02010;LY2795050, a Novel Antagonist Radiotracer for PET Imaging of the Kappa Opioid Receptor in Humans</article-title>,&#x0201d; <source>Journal of Cerebral Blood Flow &#x00026; Metabolism</source>
+<volume>34</volume>, no. <issue>11</issue> (<year>2014</year>): <fpage>1818</fpage>&#x02013;<lpage>1825</lpage>, <pub-id pub-id-type="doi">10.1038/jcbfm.2014.150</pub-id>.<pub-id pub-id-type="pmid">25182664</pub-id>
+</mixed-citation></ref><ref id="jlcr4166-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0060">(a) <string-name>
+<given-names>S.</given-names>
+<surname>Auvity</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Vodovar</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Goutal</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Brain PET Imaging Using 11C&#x02010;Flumazenil and 11C&#x02010;Buprenorphine Does Not Support the Hypothesis of a Mutual Interaction Between Buprenorphine and Benzodiazepines at the Neuroreceptor Level</article-title>,&#x0201d; <source>Journal of Cerebral Blood Flow &#x00026; Metabolism</source>
+<volume>44</volume>, no. <issue>3</issue> (<year>2024</year>): <fpage>449</fpage>&#x02013;<lpage>458</lpage>, <pub-id pub-id-type="doi">10.1177/0271678x231221040</pub-id>.<pub-id pub-id-type="pmid">38097513</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="jlcr4166-cit-0061">(b) <string-name>
+<given-names>W. G.</given-names>
+<surname>Frankle</surname>
+</string-name>, <string-name>
+<given-names>R. Y.</given-names>
+<surname>Cho</surname>
+</string-name>, <string-name>
+<given-names>N. S.</given-names>
+<surname>Mason</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>[<sup>11</sup>C]Flumazenil Binding Is Increased in a Dose&#x02010;Dependent Manner With Tiagabine&#x02010;Induced Elevations in GABA Levels</article-title>,&#x0201d; <source>PLoS ONE</source>
+<volume>7</volume>, no. <issue>2</issue> (<year>2012</year>): <elocation-id>e32443</elocation-id>, <pub-id pub-id-type="doi">10.1371/journal.pone.0032443</pub-id>.<pub-id pub-id-type="pmid">22384252</pub-id>
+</mixed-citation></ref><ref id="jlcr4166-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0062">
+<string-name>
+<given-names>H.</given-names>
+<surname>Mallapura</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Tanguy</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>L&#x000e5;ngstr&#x000f6;m</surname>
+</string-name>, <string-name>
+<given-names>L. L.</given-names>
+<surname>Meunier</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Halldin</surname>
+</string-name>, and <string-name>
+<given-names>S.</given-names>
+<surname>Nag</surname>
+</string-name>, &#x0201c;<article-title>Production of [<sup>11</sup>C]Carbon Labelled Flumazenil and L&#x02010;Deprenyl Using the iMiDEV Automated Microfluidic Radiosynthesizer</article-title>,&#x0201d; <source>Molecules</source>
+<volume>27</volume>, no. <issue>24</issue> (<year>2022</year>): <elocation-id>8843</elocation-id>.<pub-id pub-id-type="pmid">36557975</pub-id>
+</mixed-citation></ref><ref id="jlcr4166-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0063">
+<string-name>
+<given-names>E. J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J. E.</given-names>
+<surname>L&#x000f3;pez</surname>
+</string-name>, <string-name>
+<given-names>B. A.</given-names>
+<surname>Spencer</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Total&#x02010;Body Perfusion Imaging With [<sup>11</sup>C]&#x02010;Butanol</article-title>,&#x0201d; <source>Journal of Nuclear Medicine</source>
+<volume>64</volume>, no. <issue>11</issue> (<year>2023</year>): <fpage>1831</fpage>&#x02013;<lpage>1838</lpage>, <pub-id pub-id-type="doi">10.2967/jnumed.123.265659</pub-id>.<pub-id pub-id-type="pmid">37652544</pub-id>
+</mixed-citation></ref><ref id="jlcr4166-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jlcr4166-cit-0064">
+<string-name>
+<given-names>I. E.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Witek</surname>
+</string-name>, <string-name>
+<given-names>R. J.</given-names>
+<surname>Pakula</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Fully Automated Radiosynthesis of No&#x02010;Carrier&#x02010;Added [<sup>11</sup>C]Butanol Using the GE FASTLab 2 Module</article-title>,&#x0201d; <source>Journal of Labelled Compounds and Radiopharmaceuticals</source>
+<volume>68</volume>, no. <issue>9&#x02010;10</issue> (<year>2025</year>): <elocation-id>e4158</elocation-id>, <pub-id pub-id-type="doi">10.1002/jlcr.4158</pub-id>.<pub-id pub-id-type="pmid">40745626</pub-id>
+</mixed-citation></ref></ref-list></back></article>

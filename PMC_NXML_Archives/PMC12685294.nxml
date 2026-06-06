@@ -1,0 +1,746 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Radiol Bras</journal-id><journal-id journal-id-type="iso-abbrev">Radiol Bras</journal-id><journal-id journal-id-type="publisher-id">rb</journal-id><journal-title-group><journal-title>Radiologia Brasileira</journal-title></journal-title-group><issn pub-type="ppub">0100-3984</issn><issn pub-type="epub">1678-7099</issn><publisher><publisher-name>Publica&#x000e7;&#x000e3;o do Col&#x000e9;gio Brasileiro de Radiologia e Diagn&#x000f3;stico por Imagem</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">41367640</article-id><article-id pub-id-type="pmc">12685294</article-id><article-id pub-id-type="doi">10.1590/0100-3984.2025.0060</article-id><article-id pub-id-type="other">00311</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review Article</subject></subj-group></article-categories><title-group><article-title>State of the art of PET/MRI for rectal cancer: the added value to
+conventional imaging</article-title><trans-title-group xml:lang="pt"><trans-title>O estado da arte da PET/RM para o c&#x000e2;ncer retal: o valor
+agregado &#x000e0; imagem convencional</trans-title></trans-title-group></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5364-6337</contrib-id><name><surname>Zampieri</surname><given-names>Poliana Fonseca</given-names></name><xref rid="c1" ref-type="corresp"/><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0009-0000-1417-1124</contrib-id><name><surname>Hernandes</surname><given-names>Daniel Barros Garcia</given-names></name><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5879-5382</contrib-id><name><surname>Albenda</surname><given-names>David Alberto Guti&#x000e9;rrez</given-names></name><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-8849-5789</contrib-id><name><surname>Horvat</surname><given-names>Natally</given-names></name><xref rid="aff2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-7733-4138</contrib-id><name><surname>Catalano</surname><given-names>Onofrio Antonio</given-names></name><xref rid="aff3" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-0956-2790</contrib-id><name><surname>Buchpiguel</surname><given-names>Carlos Alberto</given-names></name><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-0052-0682</contrib-id><name><surname>Queiroz</surname><given-names>Marcelo Ara&#x000fa;jo</given-names></name><xref rid="aff1" ref-type="aff">1</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label> Department of Radiology and Oncology, Hospital das Cl&#x000ed;nicas
+da Faculdade de Medicina da Universidade de S&#x000e3;o Paulo (HC-FMUSP), S&#x000e3;o
+Paulo, SP, Brazil </aff><aff id="aff2">
+<label>2</label> Department of Radiology, Memorial Sloan Kettering Cancer Center,
+New York, NY, USA </aff><aff id="aff3">
+<label>3</label> Department of Radiology, Massachusetts General Hospital, Harvard
+Medical School, Boston, MA, USA </aff><author-notes><corresp id="c1">Correspondence: Dra. Poliana Fonseca Zampieri. Departamento de
+Radiologia e Oncologia - HC-FMUSP. Rua Doutor Ovidio Pires de Campos, 872,
+Cerqueira C&#x000e9;sar. S&#x000e3;o Paulo, SP, Brazil, 05403-911. Email:
+<email>poliana.zampieri@hc.fm.usp.br</email>
+</corresp></author-notes><pub-date date-type="pub" publication-format="electronic"><day>08</day><month>12</month><year>2025</year></pub-date><pub-date date-type="collection" publication-format="electronic"><season>Jan-Dec</season><year>2025</year></pub-date><volume>58</volume><elocation-id>e20250060</elocation-id><history><date date-type="received"><day>16</day><month>6</month><year>2025</year></date><date date-type="rev-recd"><day>21</day><month>7</month><year>2025</year></date><date date-type="accepted"><day>08</day><month>9</month><year>2025</year></date></history><permissions><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an Open Access article distributed under the terms of the
+Creative Commons Attribution License, which permits unrestricted use,
+distribution, and reproduction in any medium, provided the original work is
+properly cited.</license-p></license></permissions><abstract><p>Imaging plays a critical role in the assessment of patients with rectal cancer,
+and positron emission tomography/magnetic resonance imaging (PET/MRI) has shown
+superiority in specific clinical scenarios. This review describes the potential
+contribution of <sup>18</sup>F-fluorodeoxyglucose (<sup>18</sup>F-FDG) PET/MRI
+relative to standard of care imaging-computed tomography (CT), MRI, or PET/CT-in
+the evaluation of patients with rectal cancer in settings such as primary
+staging, treatment response assessment, and recurrence detection. We discuss
+<sup>18</sup>F-FDG PET/MRI protocols and clinical workflow, as well as
+highlighting the potential clinical superiority of PET/MRI over other imaging
+modalities.</p></abstract><trans-abstract xml:lang="pt"><p>Os exames de imagem desempenham um papel fundamental na avalia&#x000e7;&#x000e3;o
+de pacientes com c&#x000e2;ncer retal, e a tomografia por emiss&#x000e3;o de
+p&#x000f3;sitrons/resson&#x000e2;ncia magn&#x000e9;tica (PET/RM) tem demonstrado
+superioridade em cen&#x000e1;rios cl&#x000ed;nicos espec&#x000ed;ficos. Esta
+revis&#x000e3;o descreve a potencial contribui&#x000e7;&#x000e3;o da PET/RM com
+<sup>18</sup>F-fluorodesoxiglicose (<sup>18</sup>F-FDG) em
+rela&#x000e7;&#x000e3;o &#x000e0; imagem padr&#x000e3;o - tomografia computadorizada
+(TC), RM ou PET/TC - na avalia&#x000e7;&#x000e3;o de pacientes com c&#x000e2;ncer
+retal em cen&#x000e1;rios como estadiamento prim&#x000e1;rio,
+avalia&#x000e7;&#x000e3;o da resposta terap&#x000ea;utica e detec&#x000e7;&#x000e3;o
+de recidiva. Discutimos os protocolos e o fluxo de trabalho cl&#x000ed;nico da
+PET/RM com <sup>18</sup>F-FDG, al&#x000e9;m de destacar a potencial superioridade
+cl&#x000ed;nica da PET/RM sobre outras modalidades de imagem.</p></trans-abstract><kwd-group><kwd>Positron-emission tomography</kwd><kwd>Magnetic resonance imaging</kwd><kwd>Rectal neoplasms</kwd></kwd-group><kwd-group xml:lang="pt"><kwd>Tomografia por emiss&#x000e3;o de p&#x000f3;sitrons</kwd><kwd>Resson&#x000e2;ncia magn&#x000e9;tica</kwd><kwd>Neoplasias retais.</kwd></kwd-group></article-meta></front><body><sec sec-type="intro"><title>INTRODUCTION</title><p>Colorectal cancer, in many statistical reports, includes malignancies of the colon,
+rectum, and anus<sup><bold>(<sup><xref rid="r1" ref-type="bibr">1</xref></sup>)</bold></sup>. It is currently the third most commonly
+diagnosed cancer and the second leading cause of cancer-related deaths among adults
+in the United States. The lifetime risk of developing colorectal cancer is
+approximately 4%, with 53,000 persons expected to have died from the disease in
+2024<sup><bold>(<sup><xref rid="r2" ref-type="bibr">2</xref></sup>,<sup><xref rid="r3" ref-type="bibr">3</xref></sup>)</bold></sup>. This type of cancer accounts for 9.6% of all
+newly diagnosed cases and 9.3% of all cancer-related deaths, with higher incidence
+and mortality rates in countries with a high human development
+index<sup><bold>(<sup><xref rid="r1" ref-type="bibr">1</xref></sup>)</bold></sup>.</p><p>Hybrid positron emission tomography/magnetic resonance imaging (PET/MRI) systems
+acquire anatomical and metabolic data in a single examination, much like positron
+emission tomography/computed tomography (PET/CT) systems<sup><bold>(<sup><xref rid="r4" ref-type="bibr">4</xref></sup>,<sup><xref rid="r5" ref-type="bibr">5</xref></sup>)</bold></sup>. However, PET/MRI provides
+several advantages over PET/CT. Those advantages include simultaneous data
+acquisition for better image alignment, 20-60% less radiation exposure, enhanced
+soft-tissue contrast, and the ability to correlate multiparametric MRI and PET data.
+That allows the <italic>in vivo</italic> investigation of the biological features of
+cancers and tumor heterogeneity, among other advantages<sup><bold>(<sup><xref rid="r6" ref-type="bibr">6</xref></sup>-<sup><xref rid="r11" ref-type="bibr">11</xref></sup>)</bold></sup>. Despite its advantages,
+PET/MRI has certain limitations in comparison with PET/CT, including inferior
+performance in detecting lung nodules smaller than 7 mm, longer acquisition times,
+higher equipment costs, and a lack of standardized acquisition protocols for
+interinstitutional reproducibility<sup><bold>(<sup><xref rid="r5" ref-type="bibr">5</xref></sup>,<sup><xref rid="r9" ref-type="bibr">9</xref></sup>)</bold></sup>.</p><p>The role of PET/MRI in rectal cancer is still not fully defined. The literature
+suggests the utility and superiority of this technology in certain clinical
+scenarios when compared with conventional or hybrid imaging modalities (CT, MRI, or
+PET/CT). These include restaging after chemoradiotherapy (CRT), identifying local
+recurrence, managing treated patients with oligometastatic disease, and selecting
+patients who could benefit from rectum-sparing approaches<sup><bold>(<sup><xref rid="r10" ref-type="bibr">10</xref></sup>,<sup><xref rid="r12" ref-type="bibr">12</xref></sup>,<sup><xref rid="r13" ref-type="bibr">13</xref></sup>)</bold></sup>.</p><p>The radioactive glucose analogue <sup>18</sup>F-fluorodeoxyglucose
+(<sup>18</sup>F-FDG) is injected intravenously and accumulates in areas of high
+glucose metabolism<sup><bold>(<sup><xref rid="r14" ref-type="bibr">14</xref></sup>)</bold></sup>. This work discusses the <sup>18</sup>F-FDG
+PET/MRI protocol requirements for rectal cancer, aiming to establish a clear
+clinical workflow. The objective is to highlight the role of PET/MRI in various
+clinical scenarios of rectal cancer in comparison with conventional imaging and to
+demonstrate its potential clinical superiority over other imaging modalities.</p></sec><sec><title>TECHNICAL ASPECTS</title><sec><title>Hybrid PET/MRI protocol</title><sec><title>Technical requirements</title><p>Most of the technological challenges that hampered the development of PET/MRI
+systems (e.g., magnetic field inhomogeneities induced by ferromagnetic PET
+components, loss of PET data counts caused by MRI radiofrequencies, and
+deflection of electron paths in classical photomultiplier tubes due to the
+static MRI magnetic field) have been overcome, leading to the development of
+current hybrid integrated PET/MRI systems<sup><bold>(<sup><xref rid="r15" ref-type="bibr">15</xref></sup>,<sup><xref rid="r16" ref-type="bibr">16</xref></sup>)</bold></sup>.
+Similarly, combined approaches that consider atlas-based models, Dixon-based
+tissue decomposition, and artificial intelligence solutions have overcome
+the vast majority of the problems previously faced by PET/MRI in estimating
+attenuation correction (AC); that is, better estimation of AC in bones or in
+the case of metallic implants and continuous AC coefficients. In addition,
+using MRI instead of CT data results in a loss of AC accuracy in PET
+data<sup><bold>(<sup><xref rid="r17" ref-type="bibr">17</xref></sup>)</bold></sup>. Furthermore, MRI-based AC
+(MRAC) is based on a tissue classification using the T1-weighted Dixon MRI
+sequence rather than relying on the tissue density used for PET/CT AC
+(CTAC). Post-processed Dixon imaging generates four distinct sequences:
+water-only, fat-only, in-phase, and out-of-phase. By integrating this tissue
+information, an algorithm classifies the tissues as air, lung, fat, or soft
+tissue<sup><bold>(<sup><xref rid="r18" ref-type="bibr">18</xref></sup>)</bold></sup>.</p><p>It has been shown that MRAC ignores bones, assumes uniform attenuation
+coefficients in the lungs, and experiences signal truncation in the arms due
+to the fact that the transaxial field of view (FOV) of MRI is relatively
+small compared with that of PET<sup><bold>(<sup><xref rid="r15" ref-type="bibr">15</xref></sup>)</bold></sup>. In addition,
+metallic implants may significantly compromise the diagnostic accuracy and
+AC of PET/MRI scans if not properly managed<sup><bold>(<sup><xref rid="r16" ref-type="bibr">16</xref></sup>)</bold></sup>.</p><p>Building optimized imaging protocols to reach the highest diagnostic accuracy
+in a limited time is another challenge<sup><bold>(<sup><xref rid="r15" ref-type="bibr">15</xref></sup>,<sup><xref rid="r16" ref-type="bibr">16</xref></sup>)</bold></sup>. The mean scan time
+with dedicated protocols should vary in the range of 20-60
+min<sup><bold>(<sup><xref rid="r15" ref-type="bibr">15</xref></sup>)</bold></sup>. This could improve patient
+comfort and productivity<sup><bold>(<sup><xref rid="r12" ref-type="bibr">12</xref></sup>)</bold></sup>, making the technology more
+cost-effective.</p></sec></sec><sec><title>PET/MRI protocols</title><sec><title>Clinical workflow</title><p>As demonstrated in previous studies<sup><bold>(<sup><xref rid="r19" ref-type="bibr">19</xref></sup>,<sup><xref rid="r20" ref-type="bibr">20</xref></sup>)</bold></sup>, patient preparation
+for PET/MRI is important to minimize tracer uptake in normal tissues
+(kidneys, bladder, skeletal muscle, myocardium, and brown fat) while
+ensuring the maintenance and optimization of tracer uptake in the target
+structures (tumor tissues). For the PET portion, the preparation is the same
+as that for PET/CT<sup><bold>(<sup><xref rid="r19" ref-type="bibr">19</xref></sup>)</bold></sup>. For PET/MRI, contraindications
+(e.g., metallic inclusions, pregnancy, claustrophobia, passive implants, and
+active implants) should be identified<sup><bold>(<sup><xref rid="r11" ref-type="bibr">11</xref></sup>)</bold></sup>.</p><p>Typically, <sup>18</sup>F-FDG is administered at a dose of 4.5
+MBq/kg<sup><bold>(<sup><xref rid="r19" ref-type="bibr">19</xref></sup>)</bold></sup>. After <sup>18</sup>F-FDG
+injection, the patient rests for 20-40 min and is then transferred to the
+PET/MRI scanner for positioning. To minimize bowel motion, scopolamine
+butylbromide or glucagon can be injected immediately before the
+investigation starts, a practice that is used as a clinical standard in many
+institutions<sup><bold>(<sup><xref rid="r11" ref-type="bibr">11</xref></sup>)</bold></sup>.</p><p>The region of the body to be scanned is divided into smaller sections called
+&#x0201c;beds&#x0201d;, which correspond to the size of the PET detector ring. The axial
+length of each bed is 25 cm, with bed positions overlapping by 23%.
+Depending on the height of the patient, 3-5 beds are usually needed for a
+whole-body (head-to-thigh) study<sup><bold>(<sup><xref rid="r16" ref-type="bibr">16</xref></sup>)</bold></sup>.</p><p>As summarized in <xref rid="f1" ref-type="fig">Figure 1</xref>, the
+<sup>18</sup>F-FDG PET/MRI scanning comprises three
+parts<sup><bold>(<sup><xref rid="r21" ref-type="bibr">21</xref></sup>)</bold></sup>: dedicated pelvic MRI (with
+15-minute PET to increase sensitivity), which is carried out for
+locoregional staging of primary rectal cancer and follows the guidelines of
+the European Society of Gastroenterology and Abdominal Radiology; whole-body
+PET/MRI, which uses a 3-5 min/bed position acquisition time under
+three-dimensional (3D) image acquisition and standard reconstruction
+protocols; and dedicated abbreviated (3-10 min) liver MRI, with or without
+PET acquisition.</p><p>
+<fig position="float" id="f1"><label>Figure 1</label><caption><p>Clinical workflow in <sup>18</sup>F-FDG PET/MRI for rectal cancer
+staging.</p></caption><graphic xlink:href="rb-58-e20250060-g01" position="float"/></fig>
+</p></sec><sec><title>Dedicated pelvic MRI</title><p>The rectal protocol should include at least two-dimensional T2-weighted fast
+spin-echo sequences in the sagittal, coronal oblique, and axial oblique
+planes, with a slice thickness &#x02264; 3 mm, as well as a
+diffusion-weighted imaging (DWI) sequence (including at least one
+acquisition with a b-value &#x02265; 800). Adequate angulation to the axis of
+the rectal tumor should be used in the transverse (perpendicular) and
+coronal (parallel) sequences to avoid volume averaging. When assessing
+distal tumors, it is important to include a coronal sequence that is angled
+parallel to the anal canal to evaluate the relationship between the tumor
+and the anal sphincter. Fat-suppressed T1-weighted sequences, whether
+unenhanced or contrast-enhanced, are not typically recommended; nor are
+dynamic contrast-enhanced sequences<sup><bold>(<sup><xref rid="r22" ref-type="bibr">22</xref></sup>)</bold></sup>.</p><p>To improve the accuracy of <sup>18</sup>F-FDG PET/MRI in detecting
+hypermetabolic lymph nodes (LNs), Bailey et al.<sup><bold>(<sup><xref rid="r23" ref-type="bibr">23</xref></sup>)</bold></sup>
+performed a 15-min extended PET acquisition in the pelvis (simultaneously
+with the acquisition of the dedicated pelvic MRI). This resulted in
+detection of 40% more <sup>18</sup>F-FDG-avid LNs (compared with the number
+detected with the standard 3-min PET acquisition), as well as LN upstaging
+in more than half of the patients. The authors explained that the increased
+detection of LNs with longer PET acquisition time was likely due to improved
+emission counts for each voxel. This may have improved the signal-to-noise
+ratio and made it easier for the radiologist to identify abnormal LNs.
+However, this approach may compromise the specificity of the study.</p><p>Recently, PET/MRI has been shown to enhance the evaluation of peritoneal
+metastases and outperform all standard of care imaging (SCI) modalities.
+Although the sensitivity of PET/MRI (97%) was higher than that of SCI (54%),
+the two were comparable in terms of their specificity (95% and 98%,
+respectively). In addition, PET/MRI findings, which were consistent with
+peritoneal carcinomatosis, were not detected on SCI and led to changes in
+treatment<sup><bold>(<sup><xref rid="r24" ref-type="bibr">24</xref></sup>)</bold></sup>.</p></sec><sec><title>Whole-body PET/MRI</title><p>Current whole-body PET/MRI protocols generally consist of a whole-body and a
+dedicated rectal acquisition<sup><bold>(<sup><xref rid="r20" ref-type="bibr">20</xref></sup>)</bold></sup>. The study starts with the
+acquisition of MRI localizer images (the equivalent of a CT scout scan in a
+PET/CT examination) to define the axial range primarily for the
+AC<sup><bold>(<sup><xref rid="r15" ref-type="bibr">15</xref></sup>,<sup><xref rid="r20" ref-type="bibr">20</xref></sup>)</bold></sup>. The T1-weighted Dixon sequences,
+despite the short acquisition time, can be used not only for AC but also for
+anatomic allocation of PET-positive lesions, with efficacy comparable to
+that of low-dose CT<sup><bold>(<sup><xref rid="r25" ref-type="bibr">25</xref></sup>)</bold></sup>. In addition, DWI can be
+incorporated into the standardized whole-body protocol during abdominal
+cavity scans, to enhance the detection of peritoneal
+carcinomatosis<sup><bold>(<sup><xref rid="r11" ref-type="bibr">11</xref></sup>)</bold></sup>.</p><p>After the images have been acquired for the MRAC, various pulse sequences can
+be used for specific bed positions or the whole-body overview, whereas PET
+data are acquired simultaneously. Depending on the specific clinical
+indication, the basic choice of the examination is adapted to each body
+compartment<sup><bold>(<sup><xref rid="r15" ref-type="bibr">15</xref></sup>,<sup><xref rid="r16" ref-type="bibr">16</xref></sup>)</bold></sup>. Altogether, the whole-body
+PET/MRI part of the examination usually takes 20-30 min. Although
+organ-dedicated PET/MRI acquisition can be obtained with an independent MRI
+approach, they are often acquired simultaneously with
+PET<sup><bold>(<sup><xref rid="r20" ref-type="bibr">20</xref></sup>)</bold></sup>.</p></sec><sec><title>Dedicated liver PET/MRI</title><p>In patients with rectal cancer, the liver is the most common site for distant
+metastasis. More than 50% of all patients experience liver metastasis during
+the course of the disease<sup><bold>(<sup><xref rid="r20" ref-type="bibr">20</xref></sup>,<sup><xref rid="r23" ref-type="bibr">23</xref></sup>)</bold></sup>.</p><p>The synergy among the picomolar sensitivity of PET, superior anatomic layout
+of MRI, higher contrast-to-noise ratio of dynamic contrast-enhanced MRI, and
+detection capability of DWI translates into improved performance of PET/MRI
+over stand-alone MRI for sensitivity (95% vs. 88%), specificity (97% vs.
+98%), positive predictive value (97% vs. 98%), and negative predictive value
+(95% vs. 90%). In one dedicated study<sup><bold>(<sup><xref rid="r26" ref-type="bibr">26</xref></sup>)</bold></sup>, the area under the
+curve was found to differ between PET/MRI and MRI (95% vs. 92%). In
+addition, PET/MRI has been shown to characterize the vast majority of
+lesions considered indeterminate on MRI alone<sup><bold>(<sup><xref rid="r10" ref-type="bibr">10</xref></sup>,<sup><xref rid="r16" ref-type="bibr">16</xref></sup>,<sup><xref rid="r26" ref-type="bibr">26</xref></sup>)</bold></sup>. The
+performance of gadoxetic acid-enhanced liver MRI has been shown to be
+superior to that of CT and PET/CT for detecting and characterizing liver
+lesions, although the differences in comparison with PET/MRI were not
+significant<sup><bold>(<sup><xref rid="r26" ref-type="bibr">26</xref></sup>)</bold></sup>. Furthermore, PET can help
+detect concomitant extrahepatic metastases<sup><bold>(<sup><xref rid="r20" ref-type="bibr">20</xref></sup>)</bold></sup>.
+Contrast-enhanced MRI of the liver should be acquired. That examination
+should include T2-weighted and DWI sequences with 3D factors using
+navigators for respiratory gating, as well as T1-weighted 3D fat saturated
+(breath-hold) sequences, acquired before and after standard intravenous
+contrast or hepatobiliary specific contrast-during the arterial and portal
+phase, as well as at 4 min and 10 min after the injection of
+contrast<sup><bold>(<sup><xref rid="r11" ref-type="bibr">11</xref></sup>)</bold></sup>.</p></sec></sec></sec><sec><title>CLINICAL INDICATIONS</title><p>The diagnosis of rectal cancer is based on the patient history, physical examination,
+and the serum level of carcinoembryonic antigen (CEA), together with digital rectal
+examination and endoscopy with biopsy for histopathological
+confirmation<sup><bold>(<sup><xref rid="r27" ref-type="bibr">27</xref></sup>)</bold></sup>. Patients with rectal neoplasms
+suitable for resection need a complete staging evaluation, which includes rigid
+proctoscopy and total colonoscopy to check for synchronous lesions and other
+pathological conditions in the colon and rectum<sup><bold>(<sup><xref rid="r27" ref-type="bibr">27</xref></sup>)</bold></sup>.</p><p>Pelvic MRI is recommended to define locoregional clinical staging (T and N stages)
+and predict the risks of local recurrence as well as synchronous or metachronous
+distant metastases by identifying extramural vascular invasion and distance to the
+mesorectal fascia. To define the presence of metastases (M stage), contrast-enhanced
+CT of the thorax and abdomen is recommended <sup><bold>(<sup><xref rid="r27" ref-type="bibr">27</xref></sup>)</bold></sup>. If liver-directed therapy
+or surgery is being considered, a liver MRI with intravenous extracellular or
+hepatobiliary gadolinium-based contrast is preferred over CT to accurately assess
+the number and distribution of metastatic lesions<sup><bold>(<sup><xref rid="r27" ref-type="bibr">27</xref></sup>)</bold></sup>. Studies
+have shown that PET/CT can provide additional information to characterize
+indeterminate lesions on contrast-enhanced CT, evaluate potentially curable
+metastatic disease, and stage patients at high risk of metastases, particularly
+those with extensive extramural vascular invasion or elevated CEA
+levels<sup><bold>(<sup><xref rid="r21" ref-type="bibr">21</xref></sup>,<sup><xref rid="r27" ref-type="bibr">27</xref></sup>)</bold></sup>.</p><sec><title>Primary staging</title><p>The prognosis for patients with rectal cancer relies heavily on the stage of the
+disease at diagnosis. The earlier the cancer is identified, the higher is the
+likelihood of survival for at least five years after diagnosis. The overall
+five-year survival rate differs significantly, from 90% for localized tumors to
+just 18% for cases with metastatic disease<sup><bold>(<sup><xref rid="r28" ref-type="bibr">28</xref></sup>)</bold></sup>. In this context, the
+use of PET/MRI for staging primary rectal cancer integrates the standard imaging
+techniques with PET for assessing the T and N stages, as well as employing PET
+plus liver MRI for the M stage<sup><bold>(<sup><xref rid="r21" ref-type="bibr">21</xref></sup>)</bold></sup>. In addition, PET/MRI could
+replace all of these modalities for rectal cancer staging, offering valuable
+information in a single location and reducing the number of unnecessary
+treatments.</p><p>Because of its high resolution for soft tissues and reliable assessments of both
+tumor stage and the distance to the mesorectal fascia, which are necessary for
+appropriate surgical planning, MRI is the gold standard for T
+staging<sup><bold>(<sup><xref rid="r29" ref-type="bibr">29</xref></sup>)</bold></sup>. However, distinguishing between
+cancerous tissue and inflammatory or ischemic changes surrounding a tumor can be
+challenging<sup><bold>(<sup><xref rid="r30" ref-type="bibr">30</xref></sup>)</bold></sup>.</p><p>The combination of <sup>18</sup>F-FDG PET and MRI facilitates image
+co-registration and localization of metabolic events corresponding to
+morphologic abnormalities<sup><bold>(<sup><xref rid="r30" ref-type="bibr">30</xref></sup>)</bold></sup>. In addition, PET/MRI can improve
+the confidence of image readers and assist in characterizing tumor extension
+beyond the muscularis propria layer<sup><bold>(<sup><xref rid="r29" ref-type="bibr">29</xref></sup>)</bold></sup>. The hypermetabolism of
+rectal cancer is highlighted relative to the non-hypermetabolic areas of
+ischemia, low-grade inflammation, and diverticulosis-induced thickening of the
+sigmoid wall, aiding in its differentiation<sup><bold>(<sup><xref rid="r30" ref-type="bibr">30</xref></sup>)</bold></sup>, as
+illustrated in <xref rid="f2" ref-type="fig">Figure 2</xref>.</p><p>
+<fig position="float" id="f2"><label>Figure 2</label><caption><p>A 56-year-old male at primary staging of rectal cancer. The primary
+tumor and its extensions are better seen in the MRI component (A).
+DWI (B) aids in the detection of viable tumors but is not strictly
+necessary in primary staging. The PET component (C) shows a very
+high <sup>18</sup>F-FDG uptake, and PET parameters can be
+quantified, helping identify high-risk patients .</p></caption><graphic xlink:href="rb-58-e20250060-g02" position="float"/></fig>
+</p><p>One significant advantage of <sup>18</sup>F-FDG PET is its ability to
+quantitatively describe tumor metabolism using several biomarkers. In addition
+to the maximum standardized uptake value, the predictive roles of metabolic
+tumor volume and total lesion glycolysis in primary lesions may help select
+high-risk patients. One study correlated <sup>18</sup>F-FDG PET/CT measurements
+and pathology of a tumor specimen in patients with rectal cancer, and higher
+metabolic tumor volume values was found to have a stronger correlation with
+pT3-pT4 staging. This information could be valuable for identifying patients who
+may benefit from preoperative CRT or more aggressive treatment
+options<sup><bold>(<sup><xref rid="r31" ref-type="bibr">31</xref></sup>)</bold></sup>. Regarding N staging, MRI alone
+can easily characterize nodules &#x0003e; 1 cm, but that specificity drops somewhat
+for nodules &#x0003c; 1 cm and even more for those &#x0003c; 5 mm. Hypermetabolism on PET
+appears to have a higher specificity for characterizing small nodules than do
+findings on MRI alone<sup><bold>(<sup><xref rid="r28" ref-type="bibr">28</xref></sup>)</bold></sup>. For N staging, Catalano et
+al.<sup><bold>(<sup><xref rid="r30" ref-type="bibr">30</xref></sup>)</bold></sup> showed that PET/MRI was significantly
+superior to MRI alone, with specificities of 79% and 58%, respectively.</p><p>To enhance the accuracy of <sup>18</sup>F-FDG PET/MRI in detecting hypermetabolic
+LNs, imaging protocols must be optimized<sup><bold>(<sup><xref rid="r23" ref-type="bibr">23</xref></sup>)</bold></sup>. Although longer PET
+acquisitions (corresponding to the time spent simultaneously acquiring MRI data)
+result in higher sensitivity for detecting small perirectal nodules, that also
+reduces the specificity<sup><bold>(<sup><xref rid="r29" ref-type="bibr">29</xref></sup>)</bold></sup> and increases the possibility of
+falsely upstaging and overtreating patients<sup><bold>(<sup><xref rid="r23" ref-type="bibr">23</xref></sup>)</bold></sup>.
+However, correlating LN metabolic data with morphologic features (such as
+irregular or indistinct contours, internal heterogeneity, loss of the fatty
+hilum, and round shape) might improve overall PET/MRI
+accuracy<sup><bold>(<sup><xref rid="r30" ref-type="bibr">30</xref></sup>)</bold></sup>.</p><p>A study conducted during the initial staging of rectal cancer in 101 patients
+demonstrated that PET/MRI had a sensitivity of 90.8% and a specificity of 86.1%.
+In comparison, conventional staging methods, including pelvic MRI and thoracic
+and abdominal contrast-enhanced CT, achieved an accuracy of 82.6% for detecting
+distant metastases. Those findings indicate that, in comparison with
+conventional imaging methods, PET/MRI offers greater accuracy for identifying
+synchronous distant metastases in patients with extramural vascular invasion, as
+well as a higher detection rate for non-regional lymphadenopathy, liver lesions,
+and lung lesions. In addition, PET/MRI has been shown to facilitate the
+characterization of indeterminate lesions that were not clearly defined in
+conventional staging<sup><bold>(<sup><xref rid="r21" ref-type="bibr">21</xref></sup>)</bold></sup>.</p></sec><sec><title>Characterization of the mucinous component</title><p>Mucinous rectal carcinoma, characterized by having over 50% extracellular mucin
+in its tumor composition, exhibits several genetic abnormalities and
+demonstrates greater aggressiveness and resistance to therapy compared with
+nonmucinous rectal adenocarcinomas. On MRI, mucinous rectal cancers show
+significantly higher T2-weighted signal intensity, less enhancement, and
+diffusion restriction than do nonmucinous tumors<sup><bold>(<sup><xref rid="r32" ref-type="bibr">32</xref></sup>)</bold></sup>. In
+fact, the mucinous components do not exhibit restricted
+diffusion<sup><bold>(<sup><xref rid="r33" ref-type="bibr">33</xref></sup>)</bold></sup>.</p><p>Depending on the degree of mucin and solid content, PET/CT and PET/MRI show
+variable <sup>18</sup>F-FDG uptake<sup><bold>(<sup><xref rid="r34" ref-type="bibr">34</xref></sup>)</bold></sup>. Low or even a lack of
+<sup>18</sup>F-FDG uptake by mucinous tumors (<xref rid="f3" ref-type="fig">Figure 3</xref>) has been attributed to the relative hypocellularity of
+these malignancies, which may result in false-negative
+cases<sup><bold>(<sup><xref rid="r34" ref-type="bibr">34</xref></sup>,<sup><xref rid="r35" ref-type="bibr">35</xref></sup>)</bold></sup>. However, one study showed that the
+lower <sup>18</sup>F-FDG uptake in mucinous colorectal cancers could derive from
+studies in which PET (and not PET/CT or PET/MRI) imaging was used, and the
+precise anatomical delineation of these tumors allowed an adequate estimation of
+<sup>18</sup>F-FDG uptake. The authors suggested that the solid components
+of the tumors appeared to be extremely avid for <sup>18</sup>F-FDG, possibly
+compensating for the low uptake of the mucinous component<sup><bold>(<sup><xref rid="r35" ref-type="bibr">35</xref></sup>)</bold></sup>. Because
+PET/MRI provides a more comprehensive evaluation of the primary rectal tumor, it
+allows better differentiation of tissue components within the same
+tumor<sup><bold>(<sup><xref rid="r36" ref-type="bibr">36</xref></sup>)</bold></sup>.</p><p>
+<fig position="float" id="f3"><label>Figure 3</label><caption><p>A 56-year-old male at primary staging of rectal cancer. A: MRI
+detects a lesion with an extensive mucinous component (red arrow)
+and some nonmucinous components (yellow arrow). B: PET/MRI clearly
+shows the difference between the mucinous and nonmucinous components
+by highlighting <sup>18</sup>F-FDG avidity.</p></caption><graphic xlink:href="rb-58-e20250060-g03" position="float"/></fig>
+</p></sec><sec><title>Treatment response assessment</title><p>Although surgery plays a crucial role in the treatment of rectal cancer, surgical
+resection is typically reserved for patients with localized disease. For those
+with more advanced disease, neoadjuvant therapy is an essential part of the
+treatment plan. The aim of neoadjuvant therapy is to shrink the tumor,
+facilitate complete surgical resection, and lower the risk of local recurrence
+(<xref rid="f4" ref-type="fig">Figure 4</xref>). After neoadjuvant CRT, a
+&#x0201c;watch-and-wait&#x0201d; approach has emerged as a potential option for a select group
+of patients. In this strategy, individuals who show a complete clinical response
+to neoadjuvant therapy are closely monitored instead of proceeding directly to
+surgery. This approach helps avoid the complications associated with
+surgery<sup><bold>(<sup><xref rid="r37" ref-type="bibr">37</xref></sup>)</bold></sup>.</p><p>
+<fig position="float" id="f4"><label>Figure 4</label><caption><p>A 48-year-old female at primary staging (A) and treatment response
+assessment following neoadjuvant CRT (B). PET/MRI after neoadjuvant
+CRT showed a partial metabolic response with residual
+<sup>18</sup>F-FDG uptake suggestive of a viable tumor. The patient
+underwent surgery that confirmed the staging as ypT3ypN0.</p></caption><graphic xlink:href="rb-58-e20250060-g04" position="float"/></fig>
+</p><p>A meta-analysis investigating the use of PET/CT in the reassessment of locally
+advanced rectal cancer after CRT revealed that radiological PET/CT features
+correlated with histopathological evaluations of tumor
+regression<sup><bold>(<sup><xref rid="r38" ref-type="bibr">38</xref></sup>)</bold></sup>. Although MRI is commonly used
+for surgical planning after CRT, it has several limitations as a predictor of
+treatment response. Changes in tumor or nodule size do not correlate well with
+treatment response, and DWI is often limited by artifacts. Combining DWI with
+<sup>18</sup>F-FDG PET may improve the characterization of the treatment
+response. In many cases, discrepancies can arise between changes in size or
+diffusion and changes in metabolism, suggesting a response different from that
+based on MRI alone<sup><bold>(<sup><xref rid="r29" ref-type="bibr">29</xref></sup>)</bold></sup>, as depicted in <xref rid="f5" ref-type="fig">Figure 5</xref>.</p><p>
+<fig position="float" id="f5"><label>Figure 5</label><caption><p>A 57-year-old male at primary staging (A) and treatment response
+assessment following neoadjuvant CRT (B). At primary staging,
+PET/MRI detected a hypermetabolic primary rectal tumor staged as
+T3N0 (A). PET/MRI after neoadjuvant CRT showed a complete metabolic
+response, although a partial morphology response (tumor regression
+grade 3) was depicted by MRI (B).</p></caption><graphic xlink:href="rb-58-e20250060-g05" position="float"/></fig>
+</p></sec><sec><title>Detection of recurrence</title><p>Up to 40% of patients with rectal cancer experience local or distant recurrence,
+with the risk of local recurrence ranging from 4% to 10%<sup><bold>(<sup><xref rid="r39" ref-type="bibr">39</xref></sup>)</bold></sup>. In
+those with rising CEA levels and inconclusive CT results, PET is the most
+sensitive and specific method for detecting recurrence<sup><bold>(<sup><xref rid="r40" ref-type="bibr">40</xref></sup>)</bold></sup>. One
+study found that PET/CT is useful for detecting recurrence in patients with
+normal CEA values who also exhibit suspicious clinical or radiologic
+findings<sup><bold>(<sup><xref rid="r40" ref-type="bibr">40</xref></sup>)</bold></sup>.</p><p>The use of <sup>18</sup>F-FDG PET combined with MRI may assist in distinguishing
+between post-therapy scar or desmoplastic reaction and residual tumor or local
+recurrence<sup><bold>(<sup><xref rid="r29" ref-type="bibr">29</xref></sup>)</bold></sup>, as shown in <xref rid="f6" ref-type="fig">Figure 6</xref>. Accurate knowledge of the invasion of adjacent
+structures, such as the piriform muscles, sacral bone, and lumbosacral nerves,
+is essential when planning surgical resection<sup><bold>(<sup><xref rid="r41" ref-type="bibr">41</xref></sup>)</bold></sup>. In
+cases of nonoperative treatment, characterization of the complete pathologic
+response is fundamental<sup><bold>(<sup><xref rid="r29" ref-type="bibr">29</xref></sup>)</bold></sup>. The hybrid imaging technique
+PET/MRI offers functional imaging with high sensitivity and specificity for
+detecting recurrence. It also provides excellent soft tissue contrast,
+facilitating the assessment of the extent of local and distant
+recurrence<sup><bold>(<sup><xref rid="r13" ref-type="bibr">13</xref></sup>,<sup><xref rid="r24" ref-type="bibr">24</xref></sup>,<sup><xref rid="r42" ref-type="bibr">42</xref></sup>)</bold></sup>.</p><p>
+<fig position="float" id="f6"><label>Figure 6</label><caption><p>Restaging in a 57-year-old male with rectal cancer and rising CEA
+levels. PET/CT (B) depicts <sup>18</sup>F-FDG uptake without a clear
+morphological change on CT (A). However, local recurrence was
+detected on MRI (C) and PET/MRI (D).</p></caption><graphic xlink:href="rb-58-e20250060-g06" position="float"/></fig>
+</p></sec></sec><sec><title>CLINICAL IMPACT OF PET/MRI FINDINGS</title><p>Imaging is key for clinical decision-making in rectal cancer, defining the most
+appropriate therapeutic approach based on MRI characteristics and potentially
+additional findings from PET or CT<sup><bold>(<sup><xref rid="r27" ref-type="bibr">27</xref></sup>)</bold></sup>. In various clinical settings,
+PET/MRI can help characterize the tumor, nodal, and metastatic status of patients
+with rectal cancer (<xref rid="f7" ref-type="fig">Figure 7</xref>).</p><p>
+<fig position="float" id="f7"><label>Figure 7</label><caption><p>Clinical impact of PET/MRI on primary staging of rectal cancer (A),
+treatment response assessment (B), and detection of recurrence (C).
+nCRT, neoadjuvant CRT; RT, radiotherapy; mrTRG, magnetic resonance tumor
+regression grade.</p></caption><graphic xlink:href="rb-58-e20250060-g07" position="float"/></fig>
+</p><p>In a primary staging setting, PET/MRI may be incremental to the tumor staging,
+providing better delineation of the primary tumor, especially regarding sphincter
+complex infiltration. This can not only facilitate the planning of the radiotherapy
+fields but also add semiquantitative parameters (such as the maximum standardized
+uptake value, metabolic tumor volume, and total lesion glycolysis) that can be used
+as prognostic biomarkers<sup><bold>(<sup><xref rid="r39" ref-type="bibr">39</xref></sup>)</bold></sup>. For nodal staging, PET/MRI provides a
+higher detection rate of suspicious LNs, which may be crucial in deciding between
+neoadjuvant CRT and upfront surgery<sup><bold>(<sup><xref rid="r23" ref-type="bibr">23</xref></sup>,<sup><xref rid="r43" ref-type="bibr">43</xref></sup>)</bold></sup>. For metastasis staging, the diagnostic
+accuracy of PET/MRI is higher than that of conventional staging for detecting
+synchronous metastases. This helps to plan metastasis-directed therapy, influencing
+the curative and palliative intentions of treatment<sup><bold>(<sup><xref rid="r21" ref-type="bibr">21</xref></sup>,<sup><xref rid="r44" ref-type="bibr">44</xref></sup>)</bold></sup>.</p><p>In the assessment of treatment response following neoadjuvant CRT, the metabolic
+behavior of the primary tumor, characterized by PET/MRI, facilitates the decision
+regarding organ preservation<sup><bold>(<sup><xref rid="r45" ref-type="bibr">45</xref></sup>)</bold></sup>. When the PET and MRI findings both
+indicate significant tumor regression, the &#x0201c;watch-and-wait&#x0201d; strategy becomes more
+reliable. However, discordant imaging findings may prompt a more aggressive
+approach.</p><p>When detecting tumor relapse, PET/MRI accurately identifies the sites of recurrence,
+enabling the best clinical decision regarding the next therapeutic option. If the
+recurrence is limited to the pelvic region, PET/MRI helps surgeons plan the extent
+of pelvic exenteration. In metastatic recurrence, the high detection rate of PET/MRI
+(higher than that of CT) helps physicians decide between a curative and palliative
+approach<sup><bold>(<sup><xref rid="r42" ref-type="bibr">42</xref></sup>)</bold></sup>. The potential advantages of PET/MRI
+suggest that it can produce better oncological results while being more
+cost-effective than conventional imaging.</p></sec><sec><title>PERSPECTIVES</title><sec><title>Gallium-68-labeled fibroblast activation protein inhibitor</title><p>Gallium-68-labeled fibroblast activation protein inhibitor (<sup>68</sup>Ga-FAPI)
+is a promising radiotracer in the evaluation of gastrointestinal cancer. It has
+emerged as a tracer for PET tumor imaging, showing advantageous pharmacokinetics
+and biodistribution <italic>in vivo</italic>, as well as providing a clear
+delineation of primary tumors and their metastases<sup><bold>(<sup><xref rid="r46" ref-type="bibr">46</xref></sup>)</bold></sup>.</p><p>Fibroblast activation protein is overexpressed in cancer-associated fibroblasts,
+whereas its expression is minimal in normal tissues and organs. That makes it an
+excellent molecular target for the diagnosis and treatment of
+neoplasms<sup><bold>(<sup><xref rid="r47" ref-type="bibr">47</xref></sup>)</bold></sup>.</p><p>Studies comparing <sup>68</sup>Ga-FAPI with <sup>18</sup>F-FDG in patients with
+gastrointestinal cancer have shown superiority of <sup>68</sup>Ga-FAPI regarding
+the localization of primary and metastatic foci. In addition, because of its
+lower background activity (especially in the abdomen and pelvis),
+<sup>68</sup>Ga-FAPI is considered superior for detecting peritoneal and liver
+metastases<sup><bold>(<sup><xref rid="r46" ref-type="bibr">46</xref></sup>,<sup><xref rid="r47" ref-type="bibr">47</xref></sup>)</bold></sup>.</p></sec></sec><sec sec-type="conclusions"><title>CONCLUSION</title><p>Combining metabolic and morphological data, <sup>18</sup>F-FDG PET/MRI may contribute
+to the evaluation of patients with rectal cancer in multiple scenarios-tumor and
+node staging; characterization of mucinous components; detection of distant
+metastasis; treatment response assessment; and detection of recurrence-more
+accurately than conventional imaging modalities alone or PET/CT. However, the
+identification of lung metastases is a main aspect of patient management and
+<sup>18</sup>F-FDG PET/MRI has lower sensitivity than does PET/CT for the
+detection of some small pulmonary metastases. In addition, <sup>18</sup>F-FDG
+PET/MRI presents longer acquisition times and higher equipment costs, thus
+increasing administrative complexity and creating greater logistical challenges, as
+well as requiring financial adjustments and differentiated technical training. One
+specific limitation is a lack of standardized acquisition protocols for
+interinstitutional reproducibility. Therefore, it is crucial to find optimized
+imaging protocols to achieve the highest diagnostic accuracy without submitting the
+patient to a lengthy examination. Other limitations of PET/MRI include several
+technical considerations required in the design and operation of the imaging
+systems. Specifically, modifications to conventional imaging systems that
+accommodate integration of the two modalities without image-degrading cross-talk
+require a deeper understanding before the technology can be widely adopted.</p><p>Although a standardized template for hybrid imaging reporting does not currently
+exist, an array of structured reporting systems is available for CT, MRI, and
+ultrasound. Numerous reporting and data systems have been developed for specific
+conditions (e.g., the Vesical Imaging Reporting and Data System). Although evidence
+suggests that such systems do not directly affect reporting quality or diagnostic
+accuracy, they have been shown to promote uniformity in imaging and reporting
+outputs. A primary benefit of these systems is the consistency in terminology they
+afford, which enhance the reliability of reports and facilitate a clearer
+understanding on the part of referring physicians. Given the diverse array of
+reporting systems for PET and MRI-often organized by specific diseases or
+therapies-offering a concise recommendation on a preferred system is challenging.
+Nevertheless, institutions should implement standardized reporting for both
+components in PET/MRI.</p><p>Evidence of the real benefit of using PET/MRI in rectal cancer is limited. Because of
+the lack of randomized clinical trials to determine the overall impact on patient
+outcome in terms of survival benefit, evaluating the long-term advantages and costs
+of PET/MRI, this modality is not currently used in therapeutic decision-making.
+Currently, there is a clear need to obtain a better level of scientific evidence in
+those aspects, with the aim of developing protocols for the standardized use of
+PET/MRI in rectal cancer.</p></sec></body><back><sec sec-type="data-availability"><title>Data availability:</title><p>Not applicable.</p></sec><ref-list><title>REFERENCES</title><ref id="r1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bray</surname><given-names>F</given-names></name>
+<name><surname>Laversanne</surname><given-names>M</given-names></name>
+<name><surname>Sung</surname><given-names>H</given-names></name>
+<etal/>
+</person-group><article-title>Global cancer statistics 2022: GLOBOCAN estimates of incidence
+and mortality worldwide for 36 cancers in 185 countries</article-title><source>CA Cancer J Clin</source><year>2024</year><volume>74</volume><fpage>229</fpage><lpage>263</lpage><pub-id pub-id-type="pmid">38572751</pub-id>
+</element-citation></ref><ref id="r2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Siegel</surname><given-names>RL</given-names></name>
+<name><surname>Giaquinto</surname><given-names>AN</given-names></name>
+<name><surname>Jemal</surname><given-names>A.</given-names></name>
+</person-group><article-title>Cancer statistics, 2024</article-title><source>CA Cancer J Clin</source><year>2024</year><volume>74</volume><fpage>12</fpage><lpage>49</lpage><pub-id pub-id-type="pmid">38230766</pub-id>
+</element-citation></ref><ref id="r3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Siegel</surname><given-names>RL</given-names></name>
+<name><surname>Wagle</surname><given-names>NS</given-names></name>
+<name><surname>Cercek</surname><given-names>A</given-names></name>
+<etal/>
+</person-group><article-title>Colorectal cancer statistics, 2023</article-title><source>CA Cancer J Clin</source><year>2023</year><volume>73</volume><fpage>233</fpage><lpage>254</lpage><pub-id pub-id-type="pmid">36856579</pub-id>
+</element-citation></ref><ref id="r4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Czernin</surname><given-names>J</given-names></name>
+<name><surname>Ta</surname><given-names>L</given-names></name>
+<name><surname>Herrmann</surname><given-names>K.</given-names></name>
+</person-group><article-title>Does PET/MR imaging improve cancer assessments? Literature
+evidence from more than 900 patients</article-title><source>J Nucl Med</source><year>2014</year><volume>55</volume><issue>Suppl 2</issue><fpage>59S</fpage><lpage>62S</lpage><pub-id pub-id-type="pmid">24812246</pub-id>
+</element-citation></ref><ref id="r5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ramalho</surname><given-names>M</given-names></name>
+<name><surname>AlObaidy</surname><given-names>M</given-names></name>
+<name><surname>Catalano</surname><given-names>OA</given-names></name>
+<etal/>
+</person-group><article-title>MR-PET of the body: early experience and insights</article-title><source>Eur J Radiol Open</source><year>2014</year><volume>1</volume><fpage>28</fpage><lpage>39</lpage><pub-id pub-id-type="pmid">26937425</pub-id>
+</element-citation></ref><ref id="r6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Brendle</surname><given-names>CB</given-names></name>
+<name><surname>Schmidt</surname><given-names>H</given-names></name>
+<name><surname>Fleischer</surname><given-names>S</given-names></name>
+<etal/>
+</person-group><article-title>Simultaneously acquired MR/PET images compared with sequential
+MR/PET and PET/CT: alignment quality</article-title><source>Radiology</source><year>2013</year><volume>268</volume><fpage>190</fpage><lpage>199</lpage><pub-id pub-id-type="pmid">23657890</pub-id>
+</element-citation></ref><ref id="r7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Karlberg</surname><given-names>AM</given-names></name>
+<name><surname>S&#x000e6;ther</surname><given-names>O</given-names></name>
+<name><surname>Eikenes</surname><given-names>L</given-names></name>
+<etal/>
+</person-group><article-title>Quantitative comparison of PET performance-Siemens Biograph mCT
+and mMR</article-title><source>EJNMMI Phys</source><year>2016</year><volume>3</volume><fpage>5</fpage><pub-id pub-id-type="pmid">26911722</pub-id>
+</element-citation></ref><ref id="r8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sekine</surname><given-names>T</given-names></name>
+<name><surname>Delso</surname><given-names>G</given-names></name>
+<name><surname>Zeimpekis</surname><given-names>KG.</given-names></name>
+</person-group><article-title>Reduction of F-FDG dose in clinical PET/MR imaging by using
+silicon photomultiplier detectors</article-title><source>Radiology</source><year>2018</year><volume>286</volume><fpage>249</fpage><lpage>259</lpage><pub-id pub-id-type="pmid">28914600</pub-id>
+</element-citation></ref><ref id="r9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Catalano</surname><given-names>OA</given-names></name>
+<name><surname>Masch</surname><given-names>WR</given-names></name>
+<name><surname>Catana</surname><given-names>C</given-names></name>
+<etal/>
+</person-group><article-title>An overview of PET/MR, focused on clinical
+applications</article-title><source>Abdom Radiol (NY)</source><year>2017</year><volume>42</volume><fpage>631</fpage><lpage>644</lpage><pub-id pub-id-type="pmid">27624499</pub-id>
+</element-citation></ref><ref id="r10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kang</surname><given-names>B</given-names></name>
+<name><surname>Lee</surname><given-names>JM</given-names></name>
+<name><surname>Song</surname><given-names>YS</given-names></name>
+<etal/>
+</person-group><article-title>Added value of integrated whole-body PET/MRI for evaluation of
+colorectal cancer: comparison with contrast-enhanced MDCT</article-title><source>AJR Am J Roentgenol</source><year>2016</year><volume>206</volume><fpage>W10</fpage><lpage>20</lpage><pub-id pub-id-type="pmid">26700358</pub-id>
+</element-citation></ref><ref id="r11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Veit-Haibach</surname><given-names>P</given-names></name>
+<name><surname>Ahlstr&#x000f6;m</surname><given-names>H</given-names></name>
+<name><surname>Boellaard</surname><given-names>R.</given-names></name>
+</person-group><article-title>International EANM-SNMMI ISMRM consensus recommendation for
+PET/MRI in oncology</article-title><source>Eur J Nucl Med Mol Imaging</source><year>2023</year><volume>50</volume><fpage>3513</fpage><lpage>3537</lpage><pub-id pub-id-type="pmid">37624384</pub-id>
+</element-citation></ref><ref id="r12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Brendle</surname><given-names>C</given-names></name>
+<name><surname>Schwenzer</surname><given-names>NF</given-names></name>
+<name><surname>Rempp</surname><given-names>H</given-names></name>
+<etal/>
+</person-group><article-title>Assessment of metastatic colorectal cancer with hybrid imaging:
+comparison of reading performance using different combinations of anatomical
+and functional imaging techniques in PET/MRI and PET/CT in a short case
+series</article-title><source>Eur J Nucl Med Mol Imaging</source><year>2016</year><volume>43</volume><fpage>123</fpage><lpage>132</lpage><pub-id pub-id-type="pmid">26224536</pub-id>
+</element-citation></ref><ref id="r13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Furtado</surname><given-names>FS</given-names></name>
+<name><surname>Suarez-Weiss</surname><given-names>KE</given-names></name>
+<name><surname>Vangel</surname><given-names>M</given-names></name>
+<etal/>
+</person-group><article-title>Clinical impact of PET/MRI in oligometastatic colorectal
+cancer</article-title><source>Br J Cancer</source><year>2021</year><volume>125</volume><fpage>975</fpage><lpage>982</lpage><pub-id pub-id-type="pmid">34282295</pub-id>
+</element-citation></ref><ref id="r14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Coenen</surname><given-names>HH</given-names></name>
+<name><surname>Gee</surname><given-names>AD</given-names></name>
+<name><surname>Adam</surname><given-names>M</given-names></name>
+<etal/>
+</person-group><article-title>Open letter to journal editors on: International Consensus
+Radiochemistry Nomenclature Guidelines</article-title><source>EJNMMI Radiopharm Chem</source><year>2019</year><volume>4</volume><fpage>7</fpage><pub-id pub-id-type="pmid">31659484</pub-id>
+</element-citation></ref><ref id="r15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Galiza</surname><given-names>FB</given-names></name>
+<name><surname>Schulthess</surname><given-names>G</given-names></name>
+<name><surname>Veit-Haibach</surname><given-names>P.</given-names></name>
+</person-group><article-title>Workflow in simultaneous PET/MRI</article-title><source>Semin Nucl Med</source><year>2015</year><volume>45</volume><fpage>332</fpage><lpage>344</lpage><pub-id pub-id-type="pmid">26050660</pub-id>
+</element-citation></ref><ref id="r16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Boss</surname><given-names>A</given-names></name>
+<name><surname>Weiger</surname><given-names>M</given-names></name>
+<name><surname>Wiesinger</surname><given-names>F.</given-names></name>
+</person-group><article-title>Future image acquisition trends for PET/MRI</article-title><source>Semin Nucl Med</source><year>2015</year><volume>45</volume><fpage>201</fpage><lpage>211</lpage><pub-id pub-id-type="pmid">25841275</pub-id>
+</element-citation></ref><ref id="r17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Boellaard</surname><given-names>R</given-names></name>
+<name><surname>Quick</surname><given-names>HH.</given-names></name>
+</person-group><article-title>Current image acquisition options in PET/MR</article-title><source>Semin Nucl Med</source><year>2015</year><volume>45</volume><fpage>192</fpage><lpage>200</lpage><pub-id pub-id-type="pmid">25841274</pub-id>
+</element-citation></ref><ref id="r18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Queiroz</surname><given-names>MA</given-names></name>
+<name><surname>Barbosa</surname><given-names>FG</given-names></name>
+<name><surname>Buchpiguel</surname><given-names>CA</given-names></name>
+<etal/>
+</person-group><article-title>Positron emission tomography/magnetic resonance imaging
+(PET/MRI): an update and initial experience at HC-FMUSP</article-title><source>Rev Assoc Med Bras</source><year>2018</year><volume>64</volume><fpage>71</fpage><lpage>84</lpage><pub-id pub-id-type="pmid">29561945</pub-id>
+</element-citation></ref><ref id="r19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Boellaard</surname><given-names>R</given-names></name>
+<name><surname>Delgado-Bolton</surname><given-names>R</given-names></name>
+<name><surname>Oyen</surname><given-names>WJG</given-names></name>
+<etal/>
+</person-group><article-title>FDG PET/CT: EANM procedure guidelines for tumour imaging: version
+2.0</article-title><source>Eur J Nucl Med Mol Imaging</source><year>2015</year><volume>42</volume><fpage>328</fpage><lpage>354</lpage><pub-id pub-id-type="pmid">25452219</pub-id>
+</element-citation></ref><ref id="r20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lee</surname><given-names>DH</given-names></name>
+<name><surname>Lee</surname><given-names>JM.</given-names></name>
+</person-group><article-title>Whole-body PET/MRI for colorectal cancer staging: is it the way
+forward?</article-title><source>J Magn Reson Imaging</source><year>2017</year><volume>45</volume><fpage>21</fpage><lpage>35</lpage><pub-id pub-id-type="pmid">27346172</pub-id>
+</element-citation></ref><ref id="r21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Queiroz</surname><given-names>MA</given-names></name>
+<name><surname>Ortega</surname><given-names>CD</given-names></name>
+<name><surname>Ferreira</surname><given-names>FR</given-names></name>
+<etal/>
+</person-group><article-title>Diagnostic accuracy of FDG-PET/MRI versus pelvic MRI and thoracic
+and abdominal CT for detecting synchronous distant metastases in rectal
+cancer patients</article-title><source>Eur J Nucl Med Mol Imaging</source><year>2021</year><volume>48</volume><fpage>186</fpage><lpage>195</lpage><pub-id pub-id-type="pmid">32561971</pub-id>
+</element-citation></ref><ref id="r22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Beets-Tan</surname><given-names>RGH</given-names></name>
+<name><surname>Lambregts</surname><given-names>DMJ</given-names></name>
+<name><surname>Maas</surname><given-names>M</given-names></name>
+<etal/>
+</person-group><article-title>Magnetic resonance imaging for clinical management of rectal
+cancer: updated recommendations from the 2016 European Society of
+Gastrointestinal and Abdominal Radiology (ESGAR) consensus
+meeting</article-title><source>Eur Radiol</source><year>2018</year><volume>28</volume><fpage>1465</fpage><lpage>1475</lpage><pub-id pub-id-type="pmid">29043428</pub-id>
+</element-citation></ref><ref id="r23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bailey</surname><given-names>JJ</given-names></name>
+<name><surname>Jordan</surname><given-names>EJ</given-names></name>
+<name><surname>Burke</surname><given-names>C</given-names></name>
+<etal/>
+</person-group><article-title>Does extended PET acquisition in PET/MRI rectal cancer staging
+improve results?</article-title><source>AJR Am J Roentgenol</source><year>2018</year><volume>211</volume><fpage>896</fpage><lpage>900</lpage><pub-id pub-id-type="pmid">30106609</pub-id>
+</element-citation></ref><ref id="r24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Furtado</surname><given-names>FS</given-names></name>
+<name><surname>Wu</surname><given-names>MZ</given-names></name>
+<name><surname>Esfahani</surname><given-names>SA</given-names></name>
+<etal/>
+</person-group><article-title>Positron emission tomography/magnetic resonance imaging (PET/MRI)
+versus the standard of care imaging in the diagnosis of peritoneal
+carcinomatosis</article-title><source>Ann Surg</source><year>2023</year><volume>277</volume><fpage>e893</fpage><lpage>9</lpage><pub-id pub-id-type="pmid">35185121</pub-id>
+</element-citation></ref><ref id="r25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jeong</surname><given-names>JH</given-names></name>
+<name><surname>Cho</surname><given-names>IH</given-names></name>
+<name><surname>Kong</surname><given-names>EJ</given-names></name>
+<etal/>
+</person-group><article-title>Evaluation of Dixon sequence on hybrid PET/MR compared with
+contrast-enhanced PET/CT for PET-positive lesions</article-title><source>Nucl Med Mol Imaging</source><year>2014</year><volume>48</volume><fpage>26</fpage><lpage>32</lpage><pub-id pub-id-type="pmid">24900135</pub-id>
+</element-citation></ref><ref id="r26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>C</given-names></name>
+<name><surname>O&#x02019;Shea</surname><given-names>A</given-names></name>
+<name><surname>Parente</surname><given-names>CA</given-names></name>
+<etal/>
+</person-group><article-title>Evaluation of the diagnostic performance of positron emission
+tomography/magnetic resonance for the diagnosis of liver
+metastases</article-title><source>Invest Radiol</source><year>2021</year><volume>56</volume><fpage>621</fpage><lpage>628</lpage><pub-id pub-id-type="pmid">33813576</pub-id>
+</element-citation></ref><ref id="r27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Glynne-Jones</surname><given-names>R</given-names></name>
+<name><surname>Wyrwicz</surname><given-names>L</given-names></name>
+<name><surname>Tiret</surname><given-names>E</given-names></name>
+<etal/>
+</person-group><article-title>Rectal cancer: ESMO clinical practice guidelines for diagnosis,
+treatment and follow-up</article-title><source>Ann Oncol</source><year>2018</year><volume>29</volume><issue>Suppl 4</issue><fpage>iv263</fpage><pub-id pub-id-type="pmid">29741565</pub-id>
+</element-citation></ref><ref id="r28"><label>28</label><element-citation publication-type="webpage"><person-group person-group-type="author">
+<collab>American Cancer Society</collab>
+</person-group><source>Cancer Facts &#x00026; Figures</source><year>2024</year><comment>[Internet]</comment><date-in-citation>cited: 2024 Oct 25</date-in-citation><comment>Available from: <ext-link xlink:href="https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2024/2024-cancer-facts-and-figures-acs.pdf" ext-link-type="uri">https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/2024/2024-cancer-facts-and-figures-acs.pdf</ext-link>
+</comment></element-citation></ref><ref id="r29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hope</surname><given-names>TA</given-names></name>
+<name><surname>Kassam</surname><given-names>Z</given-names></name>
+<name><surname>Loening</surname><given-names>A</given-names></name>
+<etal/>
+</person-group><article-title>The use of PET/MRI for imaging rectal cancer</article-title><source>Abdom Radiol (NY)</source><year>2019</year><volume>44</volume><fpage>3559</fpage><lpage>3568</lpage><pub-id pub-id-type="pmid">31201431</pub-id>
+</element-citation></ref><ref id="r30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Catalano</surname><given-names>OA</given-names></name>
+<name><surname>Lee</surname><given-names>SI</given-names></name>
+<name><surname>Parente</surname><given-names>C</given-names></name>
+<etal/>
+</person-group><article-title>Improving staging of rectal cancer in the pelvis: the role of
+PET/MRI</article-title><source>Eur J Nucl Med Mol Imaging</source><year>2021</year><volume>48</volume><fpage>1235</fpage><lpage>1245</lpage><pub-id pub-id-type="pmid">33034673</pub-id>
+</element-citation></ref><ref id="r31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liao</surname><given-names>CY</given-names></name>
+<name><surname>Chen</surname><given-names>SW</given-names></name>
+<name><surname>Wu</surname><given-names>YC</given-names></name>
+<etal/>
+</person-group><article-title>Correlations between 18F-FDG PET/CT parameters and pathological
+findings in patients with rectal cancer</article-title><source>Clin Nucl Med</source><year>2014</year><volume>39</volume><fpage>e40</fpage><lpage>5</lpage><pub-id pub-id-type="pmid">24335567</pub-id>
+</element-citation></ref><ref id="r32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wnorowski</surname><given-names>AM</given-names></name>
+<name><surname>Menias</surname><given-names>CO</given-names></name>
+<name><surname>Pickhardt</surname><given-names>PJ</given-names></name>
+<etal/>
+</person-group><article-title>Mucin containing rectal carcinomas: overview of unique clinical
+and imaging features</article-title><source>AJR Am J Roentgenol</source><year>2019</year><volume>213</volume><fpage>26</fpage><lpage>34</lpage><pub-id pub-id-type="pmid">30995095</pub-id>
+</element-citation></ref><ref id="r33"><label>33</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ryoo</surname><given-names>JA</given-names></name>
+<name><surname>Kim</surname><given-names>SS.</given-names></name>
+</person-group><article-title>Typical CT and MRI features of mucinous rectal
+adenocarcinoma</article-title><source>J Belg Soc Radiol</source><year>2019</year><volume>103</volume><fpage>55</fpage><pub-id pub-id-type="pmid">31646266</pub-id>
+</element-citation></ref><ref id="r34"><label>34</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Horvat</surname><given-names>N</given-names></name>
+<name><surname>Hope</surname><given-names>TA</given-names></name>
+<name><surname>Pickhardt</surname><given-names>PJ</given-names></name>
+<etal/>
+</person-group><article-title>Mucinous rectal cancer: concepts and imaging
+challenges</article-title><source>Abdom Radiol (NY)</source><year>2019</year><volume>44</volume><fpage>3569</fpage><lpage>3580</lpage><pub-id pub-id-type="pmid">30993392</pub-id>
+</element-citation></ref><ref id="r35"><label>35</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dos Anjos</surname><given-names>DA</given-names></name>
+<name><surname>Habr-Gama</surname><given-names>A</given-names></name>
+<name><surname>Vailati</surname><given-names>BB.</given-names></name>
+</person-group><article-title>18F-FDG uptake by rectal cancer is similar in mucinous and
+nonmucinous histological subtypes</article-title><source>Ann Nucl Med</source><year>2016</year><volume>30</volume><fpage>513</fpage><lpage>517</lpage><pub-id pub-id-type="pmid">27251677</pub-id>
+</element-citation></ref><ref id="r36"><label>36</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Queiroz</surname><given-names>MA</given-names></name>
+<name><surname>Naves</surname><given-names>A</given-names></name>
+<name><surname>Dreyer</surname><given-names>PR</given-names></name>
+<etal/>
+</person-group><article-title>PET/MRI characterization of mucinous versus nonmucinous
+components of rectal adenocarcinoma: a comparison of tumor metabolism and
+cellularity</article-title><source>AJR Am J Roentgenol</source><year>2021</year><volume>216</volume><fpage>376</fpage><lpage>383</lpage><pub-id pub-id-type="pmid">33295813</pub-id>
+</element-citation></ref><ref id="r37"><label>37</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kalisz</surname><given-names>KR</given-names></name>
+<name><surname>Enzerra</surname><given-names>MD</given-names></name>
+<name><surname>Paspulati</surname><given-names>RM.</given-names></name>
+</person-group><article-title>MRI evaluation of the response of rectal cancer to neoadjuvant
+chemoradiation therapy</article-title><source>Radiographics</source><year>2019</year><volume>39</volume><fpage>538</fpage><lpage>556</lpage><pub-id pub-id-type="pmid">30844347</pub-id>
+</element-citation></ref><ref id="r38"><label>38</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rymer</surname><given-names>B</given-names></name>
+<name><surname>Curtis</surname><given-names>NJ</given-names></name>
+<name><surname>Siddiqui</surname><given-names>MRS</given-names></name>
+<etal/>
+</person-group><article-title>FDG PET/CT can assess the response of locally advanced rectal
+cancer to neoadjuvant chemoradiotherapy: evidence from meta-analysis and
+systematic review</article-title><source>Clin Nucl Med</source><year>2016</year><volume>41</volume><fpage>371</fpage><lpage>375</lpage><pub-id pub-id-type="pmid">26914561</pub-id>
+</element-citation></ref><ref id="r39"><label>39</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Queiroz</surname><given-names>MA</given-names></name>
+<name><surname>Ortega</surname><given-names>CD</given-names></name>
+<name><surname>Ferreira</surname><given-names>FR</given-names></name>
+<etal/>
+</person-group><article-title>Value of primary rectal tumor PET/MRI in the prediction of
+synchronic metastatic disease</article-title><source>Mol Imaging Biol</source><year>2022</year><volume>24</volume><fpage>453</fpage><lpage>463</lpage><pub-id pub-id-type="pmid">34755248</pub-id>
+</element-citation></ref><ref id="r40"><label>40</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ragheb</surname><given-names>SR</given-names></name>
+<name><surname>Sharara</surname><given-names>SM.</given-names></name>
+</person-group><article-title>Can PET/CT detect recurrence in post-operative colorectal
+carcinoma patients with elevated CEA level?</article-title><source>Egypt J Radiol Nucl Med</source><year>2020</year><fpage>5149</fpage></element-citation></ref><ref id="r41"><label>41</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Plodeck</surname><given-names>V</given-names></name>
+<name><surname>Rahbari</surname><given-names>NN</given-names></name>
+<name><surname>Weitz</surname><given-names>J</given-names></name>
+<etal/>
+</person-group><article-title>Correction to: FDG-PET/MRI in patients with pelvic recurrence of
+rectal cancer: first clinical experiences</article-title><source>Eur Radiol</source><year>2019</year><volume>29</volume><fpage>1064</fpage><pub-id pub-id-type="pmid">30083813</pub-id>
+</element-citation></ref><ref id="r42"><label>42</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Plodeck</surname><given-names>V</given-names></name>
+<name><surname>Rahbari</surname><given-names>NN</given-names></name>
+<name><surname>Weitz</surname><given-names>J</given-names></name>
+<etal/>
+</person-group><article-title>FDG-PET/MRI in patients with pelvic recurrence of rectal cancer:
+first clinical experiences</article-title><source>Eur Radiol</source><year>2019</year><volume>29</volume><fpage>422</fpage><lpage>428</lpage><pub-id pub-id-type="pmid">29980927</pub-id>
+</element-citation></ref><ref id="r43"><label>43</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Seto</surname><given-names>S</given-names></name>
+<name><surname>Tsujikawa</surname><given-names>T</given-names></name>
+<name><surname>Sawai</surname><given-names>K.</given-names></name>
+</person-group><article-title>Feasibility of [18F]FDG PET/MRI with early delayed and extended
+PET as one-stop imaging for staging and predicting metastasis in rectal
+cancer</article-title><source>Oncology</source><year>2022</year><volume>100</volume><fpage>212</fpage><lpage>220</lpage><pub-id pub-id-type="pmid">35086111</pub-id>
+</element-citation></ref><ref id="r44"><label>44</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yoon</surname><given-names>JH</given-names></name>
+<name><surname>Lee</surname><given-names>JM</given-names></name>
+<name><surname>Chang</surname><given-names>W</given-names></name>
+<etal/>
+</person-group><article-title>Initial M staging of rectal cancer: FDG PET/MRI with a
+hepatocyte-specific contrast agent versus contrast-enhanced
+CT</article-title><source>Radiology</source><year>2020</year><volume>294</volume><fpage>310</fpage><lpage>319</lpage><pub-id pub-id-type="pmid">31793850</pub-id>
+</element-citation></ref><ref id="r45"><label>45</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Crim&#x000ec;</surname><given-names>F</given-names></name>
+<name><surname>Spolverato</surname><given-names>G</given-names></name>
+<name><surname>Lacognata</surname><given-names>C</given-names></name>
+<etal/>
+</person-group><article-title>18F-FDG PET/MRI for rectal cancer TNM restaging after
+preoperative chemoradiotherapy: Initial experience</article-title><source>Dis Colon Rectum</source><year>2020</year><volume>63</volume><fpage>310</fpage><lpage>318</lpage><pub-id pub-id-type="pmid">31842163</pub-id>
+</element-citation></ref><ref id="r46"><label>46</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pang</surname><given-names>Y</given-names></name>
+<name><surname>Zhao</surname><given-names>L</given-names></name>
+<name><surname>Luo</surname><given-names>Z.</given-names></name>
+</person-group><article-title>Comparison of Ga-FAPI and F-FDG uptake in gastric, duodenal, and
+colorectal cancers</article-title><source>Radiology</source><year>2021</year><volume>298</volume><fpage>393</fpage><lpage>402</lpage><pub-id pub-id-type="pmid">33258746</pub-id>
+</element-citation></ref><ref id="r47"><label>47</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>&#x0015e;ahin</surname><given-names>E</given-names></name>
+<name><surname>Elbo&#x0011f;a</surname><given-names>U</given-names></name>
+<name><surname>&#x000c7;elen</surname><given-names>YZ</given-names></name>
+<etal/>
+</person-group><article-title>Comparison of Ga DOTA-FAPI and FDG PET/CT imaging modalities in
+the detection of liver metastases in patients with gastrointestinal system
+cancer</article-title><source>Eur J Radiol</source><year>2021</year><fpage>142</fpage></element-citation></ref></ref-list></back></article>

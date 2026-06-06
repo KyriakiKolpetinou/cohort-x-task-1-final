@@ -1,0 +1,456 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="bco270094" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">BJUI Compass</journal-id><journal-id journal-id-type="iso-abbrev">BJUI Compass</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2688-4526</journal-id><journal-id journal-id-type="publisher-id">BCO2</journal-id><journal-title-group><journal-title>BJUI Compass</journal-title></journal-title-group><issn pub-type="epub">2688-4526</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">41069363</article-id><article-id pub-id-type="pmc">12504850</article-id><article-id pub-id-type="doi">10.1002/bco2.70094</article-id><article-id pub-id-type="publisher-id">BCO270094</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Scottish National Complex Renal Cyst Surveillance Protocol</article-title><alt-title alt-title-type="left-running-head">Parkin et al.</alt-title></title-group><contrib-group><contrib id="bco270094-cr-0001" contrib-type="author" corresp="yes"><name><surname>Parkin</surname><given-names>Benjamin</given-names></name><xref rid="bco270094-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>benjamin.parkin3@nhs.scot</email><email>benparkin@live.co.uk</email></address></contrib><contrib id="bco270094-cr-0002" contrib-type="author"><name><surname>Lamb</surname><given-names>Gavin</given-names></name><xref rid="bco270094-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="bco270094-cr-0003" contrib-type="author"><name><surname>Arestis</surname><given-names>Nikolas</given-names></name><xref rid="bco270094-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="bco270094-cr-0004" contrib-type="author"><name><surname>Brown</surname><given-names>Anna</given-names></name><xref rid="bco270094-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="bco270094-cr-0005" contrib-type="author"><name><surname>Slevin</surname><given-names>Zack</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1152-5649</contrib-id><xref rid="bco270094-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="bco270094-cr-0006" contrib-type="author"><name><surname>Hendry</surname><given-names>Jane</given-names></name><xref rid="bco270094-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="bco270094-cr-0007" contrib-type="author"><name><surname>Leung</surname><given-names>Steve</given-names></name><xref rid="bco270094-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="bco270094-cr-0008" contrib-type="author"><name><surname>Keanie</surname><given-names>Julian Y.</given-names></name><xref rid="bco270094-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="bco270094-cr-0009" contrib-type="author"><name><surname>Blackmur</surname><given-names>James</given-names></name><xref rid="bco270094-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="bco270094-cr-0010" contrib-type="author"><name><surname>Ramsey</surname><given-names>Sara</given-names></name><xref rid="bco270094-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="bco270094-cr-0011" contrib-type="author"><name><surname>Clark</surname><given-names>Ross N.</given-names></name><xref rid="bco270094-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="bco270094-cr-0012" contrib-type="author"><name><surname>Hamed</surname><given-names>Abdel</given-names></name><xref rid="bco270094-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib></contrib-group><aff id="bco270094-aff-0001" content-type="private-address">
+<label>
+<sup>1</sup>
+</label>
+<institution>NHS Forth Valley</institution>
+<city>Stirling</city>
+<country country="GB">UK</country>
+</aff><aff id="bco270094-aff-0002" content-type="private-address">
+<label>
+<sup>2</sup>
+</label>
+<institution>NHS Greater Glasgow and Clyde</institution>
+<city>Glasgow</city>
+<country country="GB">UK</country>
+</aff><aff id="bco270094-aff-0003" content-type="private-address">
+<label>
+<sup>3</sup>
+</label>
+<institution>NHS Lothian</institution>
+<city>Edinburgh</city>
+<country country="GB">UK</country>
+</aff><aff id="bco270094-aff-0004" content-type="private-address">
+<label>
+<sup>4</sup>
+</label>
+<institution>NHS Highland</institution>
+<city>Inverness</city>
+<country country="GB">UK</country>
+</aff><aff id="bco270094-aff-0005" content-type="private-address">
+<label>
+<sup>5</sup>
+</label>
+<institution>NHS Ayrshire and Arran</institution>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Benjamin Parkin, NHS Forth Valley, Stirling, UK.<break/>
+Email: <email>benjamin.parkin3@nhs.scot</email>; <email>benparkin@live.co.uk</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>08</day><month>10</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>10</month><year>2025</year></pub-date><volume>6</volume><issue seq="110">10</issue><issue-id pub-id-type="doi">10.1002/bco2.v6.10</issue-id><elocation-id>e70094</elocation-id><history>
+<date date-type="received"><day>20</day><month>8</month><year>2025</year></date>
+<date date-type="accepted"><day>07</day><month>9</month><year>2025</year></date>
+</history><permissions><!--&#x000a9; 2025 BJUI Compass--><copyright-statement content-type="article-copyright">&#x000a9; 2025 The Author(s). <italic toggle="yes">BJUI Compass</italic> published by John Wiley &#x00026; Sons Ltd on behalf of BJU International Company.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:BCO2-6-e70094.pdf"/><abstract><title>Abstract</title><sec id="bco270094-sec-0001"><title>Introduction</title><p>Aim to design and test a suitable risk&#x02010;targeted imaging protocol for follow&#x02010;up of complex renal cysts categorised IIF.</p></sec><sec id="bco270094-sec-0002"><title>Patients and Methods</title><p>The Scottish Protocol was designed at a joint meeting with the Scottish Urological and Scottish Radiological societies according to published data on imaging modality, classification criteria and interval progression of Bosniak IIF renal cysts. Patients were listed prospectively to follow this protocol across five NHS health boards within Scotland. Patient data accessed between Aug 21 and Feb 22. All patients with a confirmed Bosniak IIF cyst on computerised tomography or magnetic resonance imaging after multi&#x02010;disciplinary team review were included. Patients were reviewed according to progression, interval, treatment and histology.</p></sec><sec id="bco270094-sec-0003"><title>Results</title><p>A total of 160 patients were identified with Bosniak IIF cysts. 98 (61%) were male (age range 29&#x02013;97, median 67, IQR 57&#x02013;75). Thirty&#x02010;four patients completed the proposed 4&#x02010;year follow&#x02010;up. Seventeen patients advanced to treatment, with 15 patients having confirmed malignancy (9.4% of the total database). The mean time from diagnosis to intervention was 1&#x000a0;year and 2&#x000a0;months (range 34 to 1172&#x02009;days). No patients developed metastatic disease during follow&#x02010;up.</p></sec><sec id="bco270094-sec-0004"><title>Conclusions</title><p>The Scottish Complex Renal Cyst Protocol provides a risk&#x02010;targeted imaging framework that reliably identifies patients with progressive lesions prior to the development of advanced disease. Incidence of progression is consistent with published data of 9.4% most commonly within 2&#x000a0;years, and not beyond 4&#x000a0;years of surveillance.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="bco270094-kwd-0001">Bosniak classification</kwd><kwd id="bco270094-kwd-0002">Bosniak cyst</kwd><kwd id="bco270094-kwd-0003">Bosniak IIF</kwd><kwd id="bco270094-kwd-0004">Bosniak IIF follow&#x02010;up</kwd><kwd id="bco270094-kwd-0005">complex renal cyst</kwd></kwd-group><counts><fig-count count="2"/><table-count count="2"/><page-count count="6"/><word-count count="3600"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.4 mode:remove_FC converted:08.10.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="bco270094-cit-9001">
+<string-name>
+<surname>Parkin</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Lamb</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Arestis</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Slevin</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Hendry</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Scottish National Complex Renal Cyst Surveillance Protocol</article-title>. <source>BJUI Compass</source>. <year>2025</year>;<volume>6</volume>(<issue>10</issue>):<elocation-id>e70094</elocation-id>. <pub-id pub-id-type="doi">10.1002/bco2.70094</pub-id>
+</mixed-citation>
+</p></notes></front><body id="bco270094-body-0001"><p>
+<boxed-text position="anchor" content-type="box" id="bco270094-blkfxd-0001"><caption><title>Aims</title></caption><p>
+<list list-type="bullet" id="bco270094-list-0001"><list-item id="bco270094-li-0001"><p>To determine whether the Scottish protocol for follow&#x02010;up of complex renal cysts is effective in identifying advancing disease requiring treatment</p></list-item><list-item id="bco270094-li-0002"><p>Ensure patients do not progress beyond treatment during follow&#x02010;up</p></list-item><list-item id="bco270094-li-0003"><p>To determine an appropriate length of follow&#x02010;up for complex renal cysts in Scotland</p></list-item><list-item id="bco270094-li-0004"><p>Findings are in keeping with Bosniak's research, suggesting that 5&#x02013;8% of patients with Bosniak IIF cysts develop into malignant disease</p></list-item></list>
+</p></boxed-text>
+</p><sec id="bco270094-sec-0007"><label>1</label><title>INTRODUCTION</title><p>The Bosniak classification of renal cysts was first proposed in 1986, with distinguished categories I to IV.<xref rid="bco270094-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="bco270094-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> The aim of the classification system was to evaluate complex renal cysts and aid the clinical management of such.<xref rid="bco270094-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>
+</p><p>The classification system was updated in 1993 to include a bridging category between Bosniak II and III, deemed Bosniak IIF (F for follow&#x02010;up). These are thought to likely be benign, but due to their complexity, require follow&#x02010;up studies to ensure no progression.<xref rid="bco270094-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="bco270094-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="bco270094-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="bco270094-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="bco270094-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> The true prevalence of malignancy within Bosniak IIF cysts is not known, but a strong indicator of malignancy is its progression over time.<xref rid="bco270094-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> Schoots et al studied 954 stable Bosniak IIF cysts, and of the 54 resected, 9 (17%) were found to be malignant. 73 (11%) of Bosniak IIF cysts progressed to Bosniak III or IV, and of those, 85% were found to be malignant.<xref rid="bco270094-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> Further studies have found similar results.<xref rid="bco270094-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>
+</p><p>Bosniak proposed that if the follow&#x02010;up approach is taken, the first follow&#x02010;up should occur 6&#x000a0;months following initial diagnosis &#x02013; if the cyst remains unchanged, additional follow&#x02010;up should occur yearly for at least 5&#x000a0;years. At this time, it was not clear what the optimal follow&#x02010;up period would be, recognising that younger patients or more complex cysts may require longer follow&#x02010;up periods due to limited long&#x02010;term research regarding these patient groups.<xref rid="bco270094-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>
+</p><p>It has previously been noted that the initial imaging modality may affect the initial classification of a Bosniak cyst, with MRI likely leading to upward classification when compared to CT.<xref rid="bco270094-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="bco270094-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="bco270094-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> There has also been evidence to show there is class assignment variation between radiologists.<xref rid="bco270094-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="bco270094-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> It has been noted that more experience does help with this issue,<xref rid="bco270094-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> however, classification of Bosniak II, IIF and III cystic lesions varied significantly.<xref rid="bco270094-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+</p><p>Further evidence supports that most lesions that demonstrate signs of progression do so within the first two years of surveillance and rarely beyond 4&#x000a0;years of being identified.<xref rid="bco270094-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> Previous follow&#x02010;up guidance has not reflected this, and within Scotland, it was noted that there was significant variation in the follow&#x02010;up interval and duration of Bosniak IIF cysts. To try and address these variations, a joint meeting of the Scottish Radiological Society and the Scottish Urological Society was held in November 2015 in the wake of the emerging data. This produced a consensus agreement that a consistent follow&#x02010;up protocol for complex (Bosniak IIF) renal cysts was required. This was aimed at strategising the administration of ionising radiation appropriately and focusing follow&#x02010;up at the point of greatest risk of progression and managing resources appropriately. Seminar presentation, literature review and round table discussion agreed upon the Scottish Complex Renal Cyst Follow&#x02010;up Protocol (Appendix&#x000a0;<xref rid="bco270094-supitem-0001" ref-type="supplementary-material">S1</xref>). The protocol was designed to establish consistency of reporting with radiology review at uro&#x02010;radiology MDT, reduce radiation exposure utilising a single portovenous phase follow&#x02010;up, target scanning to the first 2&#x000a0;years and allow 4&#x02010;year follow&#x02010;up with the option of extension in younger or higher risk patients.</p><p>There was a clear consensus in Scotland that Bosniak IIF status should be done by an initial triple&#x02010;phase computerised tomography (CT) or contrast&#x02010;enhanced MRI. Standard follow&#x02010;up imaging was agreed as CT surveillance at 6&#x000a0;months, 18&#x02009;months, 30&#x02009;months and 48&#x02009;months using single post&#x02010;contrast (nephrographic) phase CT. MRI could be used in patients &#x0003c;50&#x02009;years depending on resource availability. Patients may be discharged if no change at 4&#x000a0;years, with the option of extended follow&#x02010;up in younger or high&#x02010;risk patients. We aimed to show that this protocol was effective in real&#x02010;world clinical settings.</p></sec><sec sec-type="methods" id="bco270094-sec-0008"><label>2</label><title>METHODS</title><p>Patients were collected from five NHS health boards throughout Scotland; these included NHS Ayrshire and Arran, NHS Forth Valley, NHS Greater Glasgow and Clyde, NHS Highlands and NHS Lothian between September 2015 and September 2021.</p><p>All patients with a radiologically confirmed Bosniak IIF cyst were included in the study. If the investigation confirming diagnosis was not performed by the urology department, these patients were referred to urology directly from radiology as per the agreed protocol to ensure that appropriate follow&#x02010;up was arranged. Scans were reviewed by specialist uro&#x02010;radiologists, allowing the opportunity for reclassification as required at diagnosis. An appointed clinician collected patient data information within each health board, and this data was re&#x02010;analysed to ensure accuracy.</p><p>Each community health index (CHI) number was provided, which allowed for their clinical information to be accessed through the clinical portal &#x02013; the digital documentation hub. Each patient was analysed with regard to their initial presentation, time from diagnostic scan to triple phase CT (if not their diagnostic scan), CT/MRI scan, clinic appointment letters and further presentations to the hospital post follow&#x02010;up. Any patient who died had their final admission reviewed, if available, as well as their death certificate.</p><p>Initial scans were analysed for the presence of enhancement and calcification, the number of septations, the maximum thickness of septations and the maximum cyst size. These factors were then re&#x02010;analysed with follow&#x02010;up scans to determine if there had been any changes. If changes were present, then scans would be re&#x02010;discussed at MDT meetings to decide whether to continue follow&#x02010;up or reclassify the cyst and alter the management plan.</p><p>Patients advancing to treatment were further analysed regarding their trigger to treatment, their surgical modality, time from diagnosis to treatment and whether they had malignant pathology. All patients advancing to treatment had their scan requests reviewed to ensure they were in line with the Scottish protocol.</p><p>A total of 331 patients were initially added to the study. A number of patients were downgraded or upgraded at primary review, and they were excluded from this study prior to the initial count. A total of 63 patients were lost to follow&#x02010;up due to moving out with the health board or not attending for their radiology appointments. Throughout the follow&#x02010;up period, 50 patients were downgraded from Bosniak IIF to Bosniak II and did not require any further follow&#x02010;up. A total of 66 patients were removed due to non&#x02010;compliance with the protocol, or their initial scans were conducted prior to 15/11/2015. Two patients were inappropriately discharged from the protocol early. Therefore, 160 patients were followed up according to the Scottish Protocol and analysed within the study (See Figure&#x000a0;<xref rid="bco270094-fig-0001" ref-type="fig">1</xref>). A 10&#x02010;month &#x02018;grace period&#x02019; was granted for each scan interval due to the Covid&#x02010;19 pandemic.</p><fig position="float" fig-type="FIGURE" id="bco270094-fig-0001"><label>FIGURE 1</label><caption><p>Flow diagram detailing exclusion criteria and patient selection for analysis.</p></caption><graphic xlink:href="BCO2-6-e70094-g001" position="anchor" id="jats-graphic-1"/></fig></sec><sec sec-type="results" id="bco270094-sec-0009"><label>3</label><title>RESULTS</title><p>The age range of patients was 29&#x02013;92 (median&#x02009;=&#x02009;67, IQR 57&#x02013;75). A total of 98 were male (61%) and 62 were female (39%). Initial referral included 115 (72%) with incidental findings, 27 (17%) with haematuria and the remaining 18 were investigated for a variety of reasons, including flank pain and dysuria. Patients were first identified using CT scan (<italic toggle="yes">n</italic>&#x02009;=&#x02009;92, 57.5%), ultrasound (<italic toggle="yes">n</italic>&#x02009;=&#x02009;64, 40%) and MRI (<italic toggle="yes">n</italic>&#x02009;=&#x02009;4, 2.5%). Patients with primary imaging ultrasound or single&#x02010;phase CT were further imaged with triple&#x02010;phase CT prior to MDT validation review.</p><p>A total of 34 patients (21.3%) had fully completed the Scottish follow&#x02010;up protocol, with 21 patients (61.8%) being discharged at 4&#x000a0;years; a remaining 12 patients (35.3%) were maintained for 1 further scan due to their young age, and 1 died of unrelated causes. The remaining patients are awaiting further investigations, with some delayed in the protocol due to the Covid&#x02010;19 pandemic &#x02013; all patients were retained within the study despite these delays. The compliance rate, within this group, for following the Scottish protocol was 97.1% (33 patients).</p><p>A total of 17 patients (10.6%) advanced to receiving treatment. The trigger for treatment varied, including upgrade to Bosniak III (<italic toggle="yes">n</italic>&#x02009;=&#x02009;10, 58.8%), upgrade to Bosniak IV (<italic toggle="yes">n</italic>&#x02009;=&#x02009;4, 23.5%), confirmed malignant pathology from biopsy (<italic toggle="yes">n</italic>&#x02009;=&#x02009;1, 5.9%) and high suspicion of malignancy (<italic toggle="yes">n</italic>&#x02009;=&#x02009;2, 11.8%). One patient is currently awaiting treatment after being referred for cryoblation. The average time from initial diagnosis to intervention was 442&#x02009;days (median: 390&#x02009;days, range: 34&#x02013;1172&#x02009;days). The surgical modality varied between patients, dependent on their cyst complexity, co&#x02010;morbidities and suitability for minimally invasive approaches (Table&#x000a0;<xref rid="bco270094-tbl-0001" ref-type="table">1</xref>).</p><table-wrap position="float" id="bco270094-tbl-0001" content-type="TABLE"><label>TABLE 1</label><caption><p>Surgical approaches for all patients undergoing treatment within the Scottish protocol.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Surgical approach</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="no">n</italic>=</th><th align="left" valign="bottom" rowspan="1" colspan="1">Percentage (%)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Laparoscopic nephrectomy</td><td align="left" valign="top" rowspan="1" colspan="1">7</td><td align="left" valign="top" rowspan="1" colspan="1">41.2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Robotic laparoscopic partial nephrectomy</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">11.8</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Open nephrectomy</td><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="left" valign="top" rowspan="1" colspan="1">17.6</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Open partial nephrectomy</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">11.8</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Cryoblation</td><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="left" valign="top" rowspan="1" colspan="1">17.6</td></tr></tbody></table></table-wrap><p>Fifteen patients were found to have malignant pathology (88.2%) &#x02013; 9.4% of the studied database (Table&#x000a0;<xref rid="bco270094-tbl-0002" ref-type="table">2</xref>). The other two patients did not have pathology results; they underwent cryoblation. Follow&#x02010;up has demonstrated no metastatic disease. Of the patients advancing to treatment, two of them have since died, and both deaths were unrelated to their Bosniak IIF cyst or surgery.</p><table-wrap position="float" id="bco270094-tbl-0002" content-type="TABLE"><label>TABLE 2</label><caption><p>Pathology results for all patients undergoing treatment within the Scottish protocol.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Pathology</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="no">n</italic>=</th><th align="left" valign="bottom" rowspan="1" colspan="1">Percentage (%)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Papillary renal cell carcinoma</td><td align="left" valign="top" rowspan="1" colspan="1">10</td><td align="left" valign="top" rowspan="1" colspan="1">58.8</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Multilocular cystic renal neoplasm of low malignant potential</td><td align="left" valign="top" rowspan="1" colspan="1">5</td><td align="left" valign="top" rowspan="1" colspan="1">29.4</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Unknown</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">11.8</td></tr></tbody></table></table-wrap><p>Of the initial 331 patients studied, there have not been any reported cases of incurable disease related to their Bosniak IIF cyst. All patients undergoing treatment were cured of their disease, and the remaining 20 living patients have either been discharged or are undergoing annual follow&#x02010;up as per the Scottish guidelines.</p></sec><sec sec-type="discussion" id="bco270094-sec-0010"><label>4</label><title>DISCUSSION</title><p>In this multicentre, real&#x02010;world review of a follow&#x02010;up protocol for patients with Bosniak IIF cysts, we have shown 10.6% (<italic toggle="yes">n</italic>&#x02009;=&#x02009;17) of patients advancing to treatment, and 15 (88.2%) of these patients being confirmed to have malignant pathology (while the other 2 underwent cryotherapy with no preceding biopsy). A total of 9.4% of the total database was found to have developed malignant disease.</p><p>There are few studies that demonstrate longitudinal follow&#x02010;up of Bosniak IIF cysts, particularly within the United Kingdom, as protocols vary significantly throughout the world and within the United Kingdom itself. Previous studies have demonstrated that progression to malignancy ranges from 7% to 15%,<xref rid="bco270094-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="bco270094-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="bco270094-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="bco270094-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> and that this is a significant portion of those with a diagnosed Bosniak IIF cyst. Findings within our results support this, with Bosniak IIF cysts are often found incidentally during abdominal CT or ultrasound scans, with initial presentation being varied. Accurate diagnosis of Bosniak IIF cysts remains a difficulty within diagnostic radiology.<xref rid="bco270094-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="bco270094-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="bco270094-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> Bosniak IIF cysts are likely to be benign but have the potential to differentiate into malignancy and therefore require follow&#x02010;up studies in order to demonstrate stability. Those that show slow progression and show development in septations, calcification or enhancement are likely to be Bosniak III or IV and therefore require surgical intervention.</p><p>Bosniak suggested that a 4&#x02010;year follow&#x02010;up period would likely be sufficient, and following discussion in the joint meeting of the Scottish Radiological Society and the Scottish Urological Society held in November 2015, it was felt that a 4&#x02010;year follow&#x02010;up approach would be most appropriate. Our study has shown that the time between initial diagnosis and treatment averaged 442&#x02009;days (~1&#x000a0;year and 2&#x000a0;months), ranging from 34 to 1172&#x02009;days (~3&#x000a0;years and 2&#x000a0;months). Any patient with changes to their cyst at the final scan or who was of a young age (&#x0003c;50&#x02009;years) was not discharged and would undergo a final scan at 5&#x000a0;years to determine whether they were fit for discharge. To our knowledge, no patient that completed follow&#x02010;up has since developed metastatic disease.</p><p>The imaging features that determine whether a Bosniak IIF cyst has progressed are based on whether there has been an increase in the thickness of septa, whether enhanced solid areas have appeared, an increase in the number of irregularly enhanced septa, or the thickness of the enhanced wall.<xref rid="bco270094-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> Unfortunately, this study was unable to identify whether any of these factors played a more significant role than the others due to the small sample size of patients advancing to treatment. The study will continue to track all remaining patients until they have completed their follow&#x02010;up period, and the results will be re&#x02010;analysed.</p><p>It must be recognised that 50 patients (28.1%) were downgraded from a Bosniak IIF to either a Bosniak I or II cystic lesion &#x02013; with the majority of these occurring following the 6 monthly scan. All patients had undergone MDT review of their triple&#x02010;phase imaging and were felt to be indeterminate; therefore, further supporting the use of the Scottish Protocol.</p><p>Limitations are acknowledged in this study. Whilst patients were identified prospectively to follow the Scottish protocol, this is a retrospective audit from multiple health boards throughout Scotland, with some patients still undergoing their follow&#x02010;up. Each health board dataset was collected by different individuals, which may lead to inclusion bias or misinterpretation of scan results. To resolve this issue, all data were then re&#x02010;checked by one individual to ensure accuracy, but again, it remains open to misinterpretation of scan results and clinic letters.</p><p>Initial radiological diagnosis is open to interobserver bias and ranges in experience and training between clinicians. All patients with a suspected Bosniak IIF cyst were discussed at MDT, and some were downgraded at this stage to Bosniak I or II and therefore did not require follow&#x02010;up. Going through the MDT ensures that individual bias or experience is removed and a uniform decision is made.</p><p>Whilst 9.4% of Bosniak IIF cysts within our study progressed to malignancy within 4&#x000a0;years, there is no certainty that those discharged would not develop malignant disease in the years following discharge, as cystic lesions typically progress slowly.<xref rid="bco270094-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> We know that malignancy can occur within benign appearing cystic lesions, but the timeframe in which this progression happens is not always clear.<xref rid="bco270094-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="bco270094-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="bco270094-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> Our study has shown that a follow&#x02010;up period of 4&#x000a0;years should be sufficient in identifying progressive lesions, with the exception that younger patients may have an extended follow&#x02010;up of 5&#x02013;6&#x000a0;years. Our findings are in keeping with similar studies.<xref rid="bco270094-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="bco270094-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="bco270094-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+</p><p>In conclusion, based on the results collected from five NHS health boards within Scotland, 9.4% of Bosniak IIF cysts progressed to malignancy. The Scottish Protocol reliably identified patients using a rationalised and targeted schedule, allowing timely treatment and managing both radiation exposure and clinical resources effectively. Therefore, the recommendation is to follow&#x02010;up patients for at least 4&#x000a0;years with the interval scans as outlined, with longer follow&#x02010;up periods being appropriate in young patients and those with slight changes in their cysts over a prolonged period.</p></sec><sec id="bco270094-sec-0011"><label>5</label><title>RECOMMENDATIONS</title><p>The Scottish protocol for follow&#x02010;up of complex renal cysts has been shown to be effective in the diagnosis of malignancy in Bosniak IIF cysts. The suggested follow&#x02010;up of 4&#x000a0;years has been shown to be necessary, with one patient undergoing surgery at 3&#x000a0;years and 2&#x000a0;months following their initial diagnosis.</p><p>It is recommended that all trusts within Scotland follow this uniform protocol (Appendix 1).<boxed-text position="anchor" content-type="graphic" id="bco270094-blkfxd-0002"><graphic xlink:href="BCO2-6-e70094-g002.jpg" position="anchor" id="jats-graphic-3"/></boxed-text>
+</p></sec><sec id="bco270094-sec-0012"><title>AUTHOR CONTRIBUTIONS</title><p>
+<list list-type="bullet" id="bco270094-list-0002"><list-item id="bco270094-li-0005"><p>Parkin, B &#x02013; Lead author Forth Valley</p></list-item><list-item id="bco270094-li-0006"><p>Lamb, G &#x02013; Secondary author Forth Valley</p></list-item><list-item id="bco270094-li-0007"><p>Arestis, N &#x02013; Secondary author Forth Valley</p></list-item><list-item id="bco270094-li-0008"><p>Brown, A &#x02013; Data colleciton Greater Glasgow and Clyde</p></list-item><list-item id="bco270094-li-0009"><p>Slevin, Z &#x02013; Data collection Forth Valley</p></list-item><list-item id="bco270094-li-0010"><p>Hendry, J &#x02013; Data collection Greater Glasgow and Clyde</p></list-item><list-item id="bco270094-li-0011"><p>Dardis, A &#x02013; Data collection Greater Glasgow and Clyde</p></list-item><list-item id="bco270094-li-0012"><p>Looi Wan Wen, C &#x02013; Data collection Greater Glasgow and Clyde</p></list-item><list-item id="bco270094-li-0013"><p>Leung, S &#x02013; Data collection Lothian</p></list-item><list-item id="bco270094-li-0014"><p>Keanie, J &#x02013; Data collection Lothian</p></list-item><list-item id="bco270094-li-0015"><p>Blackmur, J &#x02013; Data collection Lothian</p></list-item><list-item id="bco270094-li-0016"><p>Ramsey, S &#x02013; Data collection Highland</p></list-item><list-item id="bco270094-li-0017"><p>Clark, R &#x02013; Data collection Ayrshire and Arran</p></list-item><list-item id="bco270094-li-0018"><p>Hamed, A &#x02013; Data collection Ayrshire and Arran</p></list-item></list>
+</p></sec><sec sec-type="COI-statement" id="bco270094-sec-0013"><title>CONFLICT OF INTEREST STATEMENT</title><p>No conflicts exist.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="bco270094-supitem-0001" position="float" content-type="local-data"><caption><p>
+<bold>Appendix S1.</bold> Supporting Information.</p></caption><media xlink:href="BCO2-6-e70094-s001.docx"/></supplementary-material></sec></body><back><ack id="bco270094-sec-1013"><title>ACKNOWLEDGEMENTS</title><p>I would like to thank the Scottish Urological Society for their help in providing information for this research and to the team for their time in searching all patients and their data.</p></ack><ref-list id="bco270094-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="bco270094-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="bco270094-cit-0002">
+<string-name>
+<surname>Bosniak</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>The current radiological approach to renal cysts</article-title>. <source>Radiology</source>. <year>1986</year>;<volume>158</volume>(<issue>1</issue>):<fpage>1</fpage>&#x02013;<lpage>10</lpage>. <pub-id pub-id-type="doi">10.1148/radiology.158.1.3510019</pub-id>
+<pub-id pub-id-type="pmid">3510019</pub-id>
+</mixed-citation></ref><ref id="bco270094-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="bco270094-cit-0003">
+<string-name>
+<surname>Silverman</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Isreal</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Herts</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name>
+<surname>Richie</surname>
+<given-names>JP</given-names>
+</string-name>. <article-title>Management of the incidental renal mass</article-title>. <source>Radiology</source>. <year>2008</year>;<volume>249</volume>(<issue>1</issue>):<fpage>16</fpage>&#x02013;<lpage>31</lpage>.<pub-id pub-id-type="pmid">18796665</pub-id>
+</mixed-citation></ref><ref id="bco270094-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="bco270094-cit-0004">
+<string-name>
+<surname>Schoots</surname>
+<given-names>IG</given-names>
+</string-name>, <string-name>
+<surname>Zaccai</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Hunink</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Verhagenm</surname>
+<given-names>PCMS</given-names>
+</string-name>. <article-title>Bosniak classification for complex renal cysts re&#x02010;evaulated: a systematic review</article-title>. <source>J Urol</source>. <year>2017</year> July;<volume>198</volume>(<issue>1</issue>):<fpage>12</fpage>&#x02013;<lpage>21</lpage>.<pub-id pub-id-type="pmid">28286071</pub-id>
+</mixed-citation></ref><ref id="bco270094-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="bco270094-cit-0005">
+<string-name>
+<surname>Isreal</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Bosniak</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>Follow&#x02010;up CT of moderately complex cystic lesions of the kidney (Bosniak category IIF)</article-title>. <source>AJR am J Roentgenol</source>. <year>2003</year>;<volume>181</volume>(<issue>3</issue>):<fpage>627</fpage>&#x02013;<lpage>633</lpage>. PMID: AJR.<pub-id pub-id-type="pmid">12933451</pub-id>
+</mixed-citation></ref><ref id="bco270094-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="bco270094-cit-0006">
+<string-name>
+<surname>Bosniak</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>Difficulties in classifying cystic lesion of the kidney</article-title>. <source>Urol Radiol</source>. <year>1991</year>;<volume>13</volume>:<fpage>91</fpage>&#x02013;<lpage>93</lpage>.<pub-id pub-id-type="pmid">1897074</pub-id>
+</mixed-citation></ref><ref id="bco270094-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="bco270094-cit-0007">
+<string-name>
+<surname>Bosniak</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>Diagnosis and management of patients with complicated cystic lesions of the kidney</article-title>. <source>AJR</source>. <year>1997</year>;<volume>169</volume>(<issue>3</issue>):<fpage>819</fpage>&#x02013;<lpage>821</lpage>. <pub-id pub-id-type="doi">10.2214/ajr.169.3.9275903</pub-id>
+<pub-id pub-id-type="pmid">9275903</pub-id>
+</mixed-citation></ref><ref id="bco270094-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="bco270094-cit-0008">
+<string-name>
+<surname>Bosniak</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>The use of the Bosniak classification system for renal cysts and cystic tumors</article-title>. <source>J Urol</source>. <year>1997</year>;<volume>157</volume>(<issue>5</issue>):<fpage>1852</fpage>&#x02013;<lpage>1853</lpage>. <pub-id pub-id-type="doi">10.1016/S0022-5347(01)64883-3</pub-id>
+<pub-id pub-id-type="pmid">9112545</pub-id>
+</mixed-citation></ref><ref id="bco270094-bib-0008"><label>8</label><mixed-citation publication-type="book" id="bco270094-cit-0009">
+<string-name>
+<surname>Bosniak</surname>
+<given-names>MA</given-names>
+</string-name>. <part-title>Problems in the radiologic diagnosis of renal parenchymal tumors</part-title>. In: <person-group person-group-type="editor">
+<string-name>
+<surname>Olsson</surname>
+<given-names>CA</given-names>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name>
+<surname>Sawczuk</surname>
+<given-names>IS</given-names>
+</string-name>
+</person-group>, editors<source>The urologic clinics of North America</source>
+<publisher-loc>Philadelphia</publisher-loc>: <publisher-name>Saunders</publisher-name>; <year>1993</year>. p. <fpage>217</fpage>&#x02013;<lpage>230</lpage>.</mixed-citation></ref><ref id="bco270094-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="bco270094-cit-0010">
+<string-name>
+<surname>Schoots</surname>
+</string-name>, et al. <article-title>Follow&#x02010;up for Bosniak category 2F cystic renal lesions</article-title>. <source>Radiology</source>. <year>2014</year>;<volume>272</volume>(<issue>3</issue>):<fpage>757</fpage>&#x02013;<lpage>766</lpage>.<pub-id pub-id-type="pmid">24766033</pub-id>
+</mixed-citation></ref><ref id="bco270094-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="bco270094-cit-0011">
+<string-name>
+<surname>Smith</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Carson</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Sirous</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Active surveillance versus nephron&#x02010;sparing surgery for Bosniak IIF or III renal cyst: a cost&#x02010;effective analysis</article-title>. <source>AJR am J Roentgenol</source>. <year>2019</year>;<volume>212</volume>(<issue>4</issue>):<fpage>830</fpage>&#x02013;<lpage>838</lpage>.<pub-id pub-id-type="pmid">30779659</pub-id>
+</mixed-citation></ref><ref id="bco270094-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="bco270094-cit-0012">
+<string-name>
+<surname>Israel</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Bosniak</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>Pitfalls in renal mass evaluation and how to avoid them</article-title>. <source>Radiographics</source>. <year>2008</year>;<volume>28</volume>(<issue>5</issue>):<fpage>1325</fpage>&#x02013;<lpage>1338</lpage>. <pub-id pub-id-type="doi">10.1148/rg.285075744</pub-id>
+<pub-id pub-id-type="pmid">18794310</pub-id>
+</mixed-citation></ref><ref id="bco270094-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="bco270094-cit-0013">
+<string-name>
+<surname>Krishna</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Schieda</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Pedrosa</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Hindman</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Baroni</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Silverman</surname>
+<given-names>SG</given-names>
+</string-name>, et al. <article-title>Update on MRI of cystic renal masses including Bosniak version 2019</article-title>. <source>J Magn Reson Imaging</source>. <year>2020</year>;<volume>54</volume>(<issue>2</issue>):<fpage>341</fpage>&#x02013;<lpage>356</lpage>. <pub-id pub-id-type="doi">10.1002/jmri.27364</pub-id>
+<pub-id pub-id-type="pmid">33009722</pub-id>
+</mixed-citation></ref><ref id="bco270094-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="bco270094-cit-0014">
+<string-name>
+<surname>Israel</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Bosniak</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>How I do it: evaluating renal masses</article-title>. <source>Radiology</source>. <year>2005</year>;<volume>236</volume>(<issue>2</issue>):<fpage>441</fpage>&#x02013;<lpage>450</lpage>. <pub-id pub-id-type="doi">10.1148/radiol.2362040218</pub-id>
+<pub-id pub-id-type="pmid">16040900</pub-id>
+</mixed-citation></ref><ref id="bco270094-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="bco270094-cit-0015">
+<string-name>
+<surname>Siegel</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>McFarland</surname>
+<given-names>EG</given-names>
+</string-name>, <string-name>
+<surname>Brink</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Fisher</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Humphrey</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Heiken</surname>
+<given-names>JP</given-names>
+</string-name>. <article-title>CT of cystic renal masses: analysis of diagnostic performance and interobserver variation</article-title>. <source>AJR am J Roentgenol</source>. <year>1997</year>;<volume>169</volume>(<issue>3</issue>):<fpage>813</fpage>&#x02013;<lpage>818</lpage>. <pub-id pub-id-type="doi">10.2214/ajr.169.3.9275902</pub-id>
+<pub-id pub-id-type="pmid">9275902</pub-id>
+</mixed-citation></ref><ref id="bco270094-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="bco270094-cit-0016">
+<string-name>
+<surname>Graumann</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Osther</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Karstoft</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>H&#x000f8;rlyck</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Osther</surname>
+<given-names>PJ</given-names>
+</string-name>. <article-title>Bosniak classifica&#x02010;tion system: inter&#x02010;observer and intra&#x02010;observer agreement among experienced uroradiologists</article-title>. <source>Acta Radiol</source>. <year>2015</year>;<volume>56</volume>(<issue>3</issue>):<fpage>374</fpage>&#x02013;<lpage>383</lpage>. <pub-id pub-id-type="doi">10.1177/0284185114529562</pub-id>
+<pub-id pub-id-type="pmid">24682404</pub-id>
+</mixed-citation></ref><ref id="bco270094-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="bco270094-cit-0017">
+<string-name>
+<surname>Smith</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Remer</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Cox</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name>
+<surname>Lieber</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>
+<given-names>BC</given-names>
+</string-name>, <string-name>
+<surname>Shah</surname>
+<given-names>SN</given-names>
+</string-name>, et al. <article-title>Bosniak category IIF and III cystic renal lesions: outcomes and associations</article-title>. <source>Radiology</source>. <year>2012</year>;<volume>262</volume>(<issue>1</issue>):<fpage>152</fpage>&#x02013;<lpage>160</lpage>. <pub-id pub-id-type="doi">10.1148/radiol.11110888</pub-id>
+<pub-id pub-id-type="pmid">22106359</pub-id>
+</mixed-citation></ref><ref id="bco270094-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="bco270094-cit-0018">
+<string-name>
+<surname>O'Malley</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Godoy</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Hecht</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Stifelman</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Taneja</surname>
+<given-names>SS</given-names>
+</string-name>. <article-title>Bosniak category IIF designation and surgery for complex renal cysts</article-title>. <source>J Urol</source>. <year>2009</year>;<volume>182</volume>(<issue>3</issue>):<fpage>1091</fpage>&#x02013;<lpage>1095</lpage>. <pub-id pub-id-type="doi">10.1016/j.juro.2009.05.046</pub-id>
+<pub-id pub-id-type="pmid">19616809</pub-id>
+</mixed-citation></ref><ref id="bco270094-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="bco270094-cit-0019">
+<string-name>
+<surname>Hwang</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>CK</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name>
+<surname>Cho</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>
+<given-names>YD</given-names>
+</string-name>, <string-name>
+<surname>Ham</surname>
+<given-names>WS</given-names>
+</string-name>. <article-title>Clinical outcomes of Bosniak category IIF complex renal cysts in Korean patients</article-title>. <source>Korean J Urol</source>. <year>2012</year>;<volume>53</volume>(<issue>6</issue>):<fpage>386</fpage>&#x02013;<lpage>390</lpage>. <pub-id pub-id-type="doi">10.4111/kju.2012.53.6.386</pub-id>
+<pub-id pub-id-type="pmid">22741045</pub-id>
+</mixed-citation></ref><ref id="bco270094-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="bco270094-cit-0020">
+<string-name>
+<surname>Hindman</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name>
+<surname>Hecht</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Bosniak</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>Follow&#x02010;up for Bosniak category 2F cystic renal lesions</article-title>. <source>Radiology</source>. <year>2014</year>;<volume>272</volume>(<issue>3</issue>):<fpage>757</fpage>&#x02013;<lpage>766</lpage>. <pub-id pub-id-type="doi">10.1148/radiol.14122908</pub-id>
+<pub-id pub-id-type="pmid">24766033</pub-id>
+</mixed-citation></ref><ref id="bco270094-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="bco270094-cit-0021">
+<string-name>
+<surname>Warren</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>McFarlane</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>The Bosniak classification of renal cystic masses</article-title>. <source>BJU Int</source>. <year>2005</year>;<volume>95</volume>(<issue>7</issue>):<fpage>939</fpage>&#x02013;<lpage>942</lpage>. <pub-id pub-id-type="doi">10.1111/j.1464-410X.2005.05442.x</pub-id>
+<pub-id pub-id-type="pmid">15839908</pub-id>
+</mixed-citation></ref><ref id="bco270094-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="bco270094-cit-0022">
+<string-name>
+<surname>Bielsa</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Lloreta</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Gelabert&#x02010;Mas</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Cystic renal cell carcinoma: pathological features, survival and implications for treatment</article-title>. <source>Br J Urol</source>. <year>1998</year>;<volume>82</volume>(<issue>1</issue>):<fpage>16</fpage>&#x02013;<lpage>20</lpage>. <pub-id pub-id-type="doi">10.1046/j.1464-410x.1998.00689.x</pub-id>
+<pub-id pub-id-type="pmid">9698657</pub-id>
+</mixed-citation></ref><ref id="bco270094-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="bco270094-cit-0023">
+<string-name>
+<surname>Smith</surname>
+<given-names>AY</given-names>
+</string-name>, <string-name>
+<surname>Feddersen</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Gardner</surname>
+<given-names>KD</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Davis</surname>
+<given-names>CJ</given-names>
+<suffix>Jr</suffix>
+</string-name>. <article-title>Cystic renal cell carcinoma and acquired renal cystic disease associated with consumption of chaparral tea: a case report</article-title>. <source>J Urol</source>. <year>1994</year>;<volume>152</volume>(<issue>6 Pt 1</issue>):<fpage>2089</fpage>&#x02013;<lpage>2091</lpage>. <pub-id pub-id-type="doi">10.1016/s0022-5347(17)32317-0</pub-id>
+<pub-id pub-id-type="pmid">7966683</pub-id>
+</mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,968 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="review-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Int J Mol Sci</journal-id><journal-id journal-id-type="iso-abbrev">Int J Mol Sci</journal-id><journal-id journal-id-type="publisher-id">ijms</journal-id><journal-title-group><journal-title>International Journal of Molecular Sciences</journal-title></journal-title-group><issn pub-type="epub">1422-0067</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">40724797</article-id><article-id pub-id-type="pmc">12294262</article-id><article-id pub-id-type="doi">10.3390/ijms26146546</article-id><article-id pub-id-type="publisher-id">ijms-26-06546</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Lipodystrophy in HIV: Evolving Challenges and Unresolved Questions</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-7968-4190</contrib-id><name><surname>Giralt</surname><given-names>Marta</given-names></name><xref rid="af1-ijms-26-06546" ref-type="aff">1</xref><xref rid="af2-ijms-26-06546" ref-type="aff">2</xref><xref rid="c1-ijms-26-06546" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-1138-5770</contrib-id><name><surname>Domingo</surname><given-names>Pere</given-names></name><xref rid="af3-ijms-26-06546" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name><surname>Quesada-L&#x000f3;pez</surname><given-names>Tania</given-names></name><xref rid="af1-ijms-26-06546" ref-type="aff">1</xref><xref rid="af2-ijms-26-06546" ref-type="aff">2</xref><xref rid="af3-ijms-26-06546" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-1108-230X</contrib-id><name><surname>Cereijo</surname><given-names>Rub&#x000e9;n</given-names></name><xref rid="af1-ijms-26-06546" ref-type="aff">1</xref><xref rid="af2-ijms-26-06546" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-1266-9142</contrib-id><name><surname>Villarroya</surname><given-names>Francesc</given-names></name><xref rid="af1-ijms-26-06546" ref-type="aff">1</xref><xref rid="af2-ijms-26-06546" ref-type="aff">2</xref><xref rid="c1-ijms-26-06546" ref-type="corresp">*</xref></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>S&#x000e1;nchez-Iglesias</surname><given-names>Sof&#x000ed;a</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-ijms-26-06546"><label>1</label>Department of Biochemistry and Molecular Biomedicine, Institute of Biomedicine of the University of Barcelona (IBUB), 08028 Barcelona, Spain; <email>tquesada@ub.edu</email> (T.Q.-L.); <email>rcereijo@ub.edu</email> (R.C.)</aff><aff id="af2-ijms-26-06546"><label>2</label>CIBER &#x0201c;Fisiopatolog&#x000ed;a de la Obesidad y Nutrici&#x000f3;n&#x0201d; (CIBEROBN), Instituto de Salud Carlos III, 28029 Madrid, Spain</aff><aff id="af3-ijms-26-06546"><label>3</label>Infectious Diseases Unit, Hospital de la Santa Creu i Sant Pau, 08028 Barcelona, Spain; <email>pdomingo@santpau.cat</email></aff><author-notes><corresp id="c1-ijms-26-06546"><label>*</label>Correspondence: <email>mgiralt@ub.edu</email> (M.G.); <email>fvillarroya@ub.edu</email> (F.V.)</corresp></author-notes><pub-date pub-type="epub"><day>08</day><month>7</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>7</month><year>2025</year></pub-date><volume>26</volume><issue>14</issue><elocation-id>6546</elocation-id><history><date date-type="received"><day>06</day><month>6</month><year>2025</year></date><date date-type="rev-recd"><day>29</day><month>6</month><year>2025</year></date><date date-type="accepted"><day>05</day><month>7</month><year>2025</year></date></history><permissions><copyright-statement>&#x000a9; 2025 by the authors.</copyright-statement><copyright-year>2025</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>The advent of effective antiretroviral therapy in the mid-1990s, which successfully prevented the progression to AIDS in people living with HIV (PLWH), was associated with the appearance of the so-called HIV-associated lipodystrophy. This condition involved subcutaneous fat atrophy; abdominal fat hypertrophy; and, in some cases, lipomatosis. It was also associated with systemic metabolic disturbances, primarily insulin resistance and dyslipidemia. Following the replacement of certain antiretroviral drugs, particularly the thymidine-analog reverse transcriptase inhibitors stavudine and zidovudine, with less toxic alternatives, the incidences of lipoatrophy and lipomatosis significantly declined. However, lipodystrophy resulting from first-generation antiretroviral therapy does not always resolve after switching to newer agents. Although the widespread use of modern antiretroviral drugs&#x02014;especially integrase strand transfer inhibitors and non-lipoatrophic reverse transcriptase inhibitors such as tenofovir alafenamide&#x02014;has reduced the incidences of severe forms of lipodystrophy, these regimens are not entirely free of adipose tissue-related effects. Notably, they are associated with weight gain that resembles common obesity and can have adverse cardiometabolic consequences. Recent evidence also suggests the hypertrophy of specific fat depots, such as epicardial and perivascular adipose tissue, in PLWH on last-generation treatments, potentially contributing to increased cardiovascular risk. This evolving landscape underscores the persistent vulnerability of PLWH to adipose tissue alterations. While these morphological changes may not be as pronounced as those seen in classic HIV-associated lipodystrophy, they can still pose significant health risks. The continued optimization of treatment regimens and the vigilant monitoring of adipose tissue alterations and metabolic status remain essential strategies to improve the health of PLWH.</p></abstract><kwd-group><kwd>lipodystrophy</kwd><kwd>HIV</kwd><kwd>antiretroviral treatment</kwd><kwd>lipoatrophy</kwd><kwd>obesity</kwd><kwd>lipomatosis</kwd></kwd-group><funding-group><award-group><funding-source>State Agency of Research (AEI) of the Spanish Ministry of Science (MCIN)</funding-source><award-id>PID2023-1467810-I00</award-id></award-group><award-group><funding-source>Instituto de Salud Carlos III (ISCIII), Spain</funding-source><award-id>PI20/00106</award-id><award-id>PI20/00137</award-id></award-group><award-group><funding-source>European Regional Development Fund (ERDF)</funding-source></award-group><award-group><funding-source>Juan de la Cierva-Incorporaci&#x000f3;n&#x0201d; researcher contract</funding-source><award-id>IJC2020-043380-I</award-id></award-group><award-group><funding-source>European Union Next Generation (EU/PRTR)</funding-source></award-group><funding-statement>This research was supported by the State Agency of Research (AEI) of the Spanish Ministry of Science (MCIN) (grant PID2023-1467810-I00 funded by MICIN/AEI/10.13039/50110 0011033 and FEDER, UE) and the Instituto de Salud Carlos III (ISCIII), Spain (grants PI20/00106 and PI20/00137), and it was co-financed by the European Regional Development Fund (ERDF). T.Q-L. was awarded a &#x0201c;Juan de la Cierva-Incorporaci&#x000f3;n&#x0201d; researcher contract (grant IJC2020-043380-I funded by MCIN/AEI/10.13039/501100011033 and the European Union Next Generation (EU/PRTR)).</funding-statement></funding-group></article-meta></front><body><sec sec-type="intro" id="sec1-ijms-26-06546"><title>1. Introduction</title><p>The development of effective treatments for human immunodeficiency virus (HIV) infection has been one of the most significant therapeutic successes of recent decades. The expansion of the HIV epidemic in the 1980s led to high mortality rates associated with the immunodeficiency caused by the virus, known as acquired immunodeficiency syndrome (AIDS). This could only be mitigated after the mid-1990s through the development of combined antiretroviral drugs that effectively prevented the progression to AIDS and transformed the disease into a chronic condition. However, it was soon observed that, despite the success in preventing AIDS in treated patients, a complex syndrome involving alterations in the amount and distribution of adipose tissue developed, which came to be called HIV-associated lipodystrophy.</p><p>The lipodystrophy observed in people living with HIV (PLWH) is a partial type that has complex manifestations. Firstly, there is subcutaneous fat loss (lipoatrophy) in the face, arms, and legs. Secondly, there is also fat hypertrophy in the abdominal area, the reminiscent of visceral obesity. Lastly, less frequently than the previous phenomena, lipomatous accumulations appear in the dorso-cervical area (commonly called &#x0201c;buffalo humps&#x0201d;) and sometimes appear in other regions. All these changes can occur simultaneously in the same individual, or, at times, patients may predominantly manifest only one type of alteration [<xref rid="B1-ijms-26-06546" ref-type="bibr">1</xref>,<xref rid="B2-ijms-26-06546" ref-type="bibr">2</xref>,<xref rid="B3-ijms-26-06546" ref-type="bibr">3</xref>] (<xref rid="ijms-26-06546-f001" ref-type="fig">Figure 1</xref>).</p><p>Morphological changes in the amount and distribution of fat in PLWH are associated with systemic metabolic alterations partly resembling those observed in the genetic forms of partial lipodystrophy. These include insulin resistance, type 2 diabetes, dyslipidemia, hepatic steatosis, and elevated cardiovascular risk [<xref rid="B3-ijms-26-06546" ref-type="bibr">3</xref>,<xref rid="B4-ijms-26-06546" ref-type="bibr">4</xref>]. In fact, these metabolic disturbances are among the most significant health issues linked to HIV-associated lipodystrophy. However, other factors&#x02014;such as the stigmatizing effects of facial lipoatrophy&#x02014;also greatly affect the quality of life of PLWH [<xref rid="B5-ijms-26-06546" ref-type="bibr">5</xref>].</p><p>HIV-associated lipodystrophy showed a remarkable prevalence until the early 2020s, although the available data on the global prevalence of lipodystrophy (including lipoatrophy and/or lipohypertrophy) vary widely. In studies based on the clinical diagnoses of lipodystrophy, the reported prevalence of HIV-associated lipodystrophy in PLWH receiving combined antiretroviral therapy (cART) that included first-generation drugs ranged from 23% to 70%. This wide variation in prevalence was attributed to differences in study design and the length of follow-up across studies [<xref rid="B6-ijms-26-06546" ref-type="bibr">6</xref>]. Subsequently, in the 2020s, thanks to the development of highly effective antiretroviral drugs with minimal toxicity and treatments starting in the early stages post-infection, the occurrence of novel cases of overt lipodystrophy in PLWH has decreased dramatically. However, the persistence of relevant adipose tissue alterations that are not as obvious as overt lipoatrophy or lipomatosis in PLWH and the continued presence of lipodystrophy in PLWH who have been on treatment for many years (see later) remain significant challenges for maintaining a healthy status in PLWH.</p></sec><sec id="sec2-ijms-26-06546"><title>2. Causal Agents of Lipodystrophy in PLWH</title><p>The causal agents of lipodystrophy in PLWH are multiple and complex, involving both the effects of antiretroviral treatments and the consequences of the underlying HIV infection. Additionally, it appears that the different manifestations of lipodystrophy (lipoatrophy, lipohypertrophy, and lipomatosis) may have distinct causal factors during their development.</p><sec id="sec2dot1-ijms-26-06546"><title>2.1. Lipoatrophy</title><p>Regarding lipoatrophy, it historically manifested from the use of the initial antiretroviral therapy, which was based on a combination of three drugs, a protease inhibitor (PI) and two nucleoside reverse transcriptase inhibitors (NRTIs), which were, in most cases, thymidine analogs such as stavudine or zidovudine. It was soon observed that the successful maintenance of CD4 T cell levels in people with HIV was accompanied by marked subcutaneous fat loss, which in many cases could involve losing up to 30% of the fat in the extremities and a noticeable facial fat reduction [<xref rid="B7-ijms-26-06546" ref-type="bibr">7</xref>]. It was noted that the presence of thymidine-analog NRTIs (stavudine and zidovudine) during treatment was preferentially associated with the appearance of lipoatrophy [<xref rid="B8-ijms-26-06546" ref-type="bibr">8</xref>]. This was later corroborated after the dramatic reduction in lipoatrophy seen when thymidine-analog NRTIs were replaced with other antiretroviral drugs that were developed more recently and have lower toxicity [<xref rid="B9-ijms-26-06546" ref-type="bibr">9</xref>]. By the late 2000s, it was recommended to avoid using zidovudine as an NRTI during treatment to prevent lipoatrophy, and the use of tenofovir difumarate (TDF), a newer nucleotide analog inhibiting HIV reverse transcriptase, became widespread. This drug has less lipoatrophic action (but not none) [<xref rid="B10-ijms-26-06546" ref-type="bibr">10</xref>,<xref rid="B11-ijms-26-06546" ref-type="bibr">11</xref>]. More recently, TDF has been replaced by tenofovir alafenamide (TAF), an analog of TDF devoid of lipoatrophic effects [<xref rid="B12-ijms-26-06546" ref-type="bibr">12</xref>]. Additionally, some other antiretroviral drugs previously used to treat PLWH, such as efavirenz, a non-nucleoside inhibitor of reverse transcriptase (NNRTI), have also been shown to exert lipoatrophic actions [<xref rid="B12-ijms-26-06546" ref-type="bibr">12</xref>]. There are currently significantly fewer cases of lipoatrophy in PLWH under the current patterns of antiretroviral treatments, although individuals that had been treated with thymidine-analog NRTIs and were later switched to newer treatments have not always achieved the complete reversal of this phenomenon (see more below). Apart from the key role of thymidine-analog NRTIs, various factors influence the propensity to develop lipoatrophy; it occurs more frequently in men than in women, and the infection-related status (low CD4 levels and/or high HIV-1 RNA levels) is also associated with a higher likelihood of developing lipoatrophy [<xref rid="B6-ijms-26-06546" ref-type="bibr">6</xref>].</p></sec><sec id="sec2dot2-ijms-26-06546"><title>2.2. Lipohypertrophy</title><p>Lipohypertrophy in the abdominal area is another common manifestation in PLWH, and it concerns intra-abdominal visceral adipose tissue accumulation. In principle, it is unclear to what extent such alterations have any differential features distinct from abdominal obesity occurring in the general population. Trunk lipohypertrophy was primarily attributed to the presence of PIs as part of the combinatorial antiretroviral treatment patterns. Thus, in the absence of thymidine-based NRTI drugs, the presence of PIs in antiretroviral treatment patterns was shown to increase trunk adiposity and associated metabolic alterations in PLWH, similar to what happens in common visceral obesity [<xref rid="B13-ijms-26-06546" ref-type="bibr">13</xref>,<xref rid="B14-ijms-26-06546" ref-type="bibr">14</xref>].</p></sec><sec id="sec2dot3-ijms-26-06546"><title>2.3. Lipomatosis</title><p>A third phenomenon characteristic of HIV-associated lipodystrophy is lipomatosis in anatomical areas such as the dorso-cervical region, the pubic area, or other locations [<xref rid="B15-ijms-26-06546" ref-type="bibr">15</xref>,<xref rid="B16-ijms-26-06546" ref-type="bibr">16</xref>]. The fat accumulation in these regions is entirely different from visceral lipohypertrophy, as it occurs in subcutaneous tissue rather than in visceral areas. Additionally, this accumulation results from a lipomatous process caused by cellular alterations in adipocytes that acquire proliferative properties, shown by the enhanced levels of the &#x0201c;proliferating cell nuclear antigen&#x0201d; (PCNA) and decreased telomere length [<xref rid="B17-ijms-26-06546" ref-type="bibr">17</xref>]. In addition to cellular and molecular studies demonstrating these proliferative characteristics, the lipomatous features of these fat depots became particularly evident when the use of enlarged dorso-cervical fat to refill facial lipoatrophy had to be discontinued due to persistent adipose expansion in the cheeks [<xref rid="B18-ijms-26-06546" ref-type="bibr">18</xref>]. Moreover, dorso-cervical lipomatosis is associated with a distortion of the white/brown phenotype of adipocytes characterized by the expression of typical brown adipose tissue marker genes such as uncoupling protein-1 (UCP1); however, adipose tissue in lipomatous areas does not acquire functional thermogenic properties [<xref rid="B19-ijms-26-06546" ref-type="bibr">19</xref>,<xref rid="B20-ijms-26-06546" ref-type="bibr">20</xref>].</p></sec><sec id="sec2dot4-ijms-26-06546"><title>2.4. Systemic Alterations in HIV-Associated Lipodystrophy</title><p>Lipodystrophy in PLWH is associated with important systemic alterations, often including insulin resistance, type 2 diabetes, dyslipidemia, hepatic steatosis, and elevated cardiovascular risk. Various processes associated with HIV-related lipodystrophy contribute to this scenario. Both subcutaneous adipose tissue atrophy and visceral hypertrophy generate local and systemic pro-inflammatory responses [<xref rid="B21-ijms-26-06546" ref-type="bibr">21</xref>]. Studies on common obesity have widely indicated that a sustained local pro-inflammatory state in adipose tissue leads to systemic metabolic alterations, such as insulin resistance [<xref rid="B22-ijms-26-06546" ref-type="bibr">22</xref>], which is also observed in PLWH affected by lipodystrophy. Alterations in adipose tissue also lead to the disrupted secretion of regulatory adipokines, and abnormally low levels of circulating adiponectin, an anti-inflammatory and insulin-sensitizing factor [<xref rid="B23-ijms-26-06546" ref-type="bibr">23</xref>], have long been observed in PLWH [<xref rid="B24-ijms-26-06546" ref-type="bibr">24</xref>]. Several in vitro studies have confirmed that first-generation transcriptase inhibitors and PI drugs induce secretion of inflammatory cytokines and suppress the secretion of adiponectin by adipocytes [<xref rid="B25-ijms-26-06546" ref-type="bibr">25</xref>,<xref rid="B26-ijms-26-06546" ref-type="bibr">26</xref>,<xref rid="B27-ijms-26-06546" ref-type="bibr">27</xref>,<xref rid="B28-ijms-26-06546" ref-type="bibr">28</xref>]. Various alterations in the leptin levels have been reported in PLWH with lipodystrophy, ranging from abnormally low levels to significantly high levels [<xref rid="B29-ijms-26-06546" ref-type="bibr">29</xref>]. This is most likely due to the variable impact on the overall adipose tissue level resulting from the combination of lipoatrophy in subcutaneous areas and lipohypertrophy at the visceral level in each individual.</p><p>On the other hand, PLWH with lipodystrophy often exhibit, within the same individual, the harmful consequences of lipotoxicity arising from both the hypotrophy of subcutaneous adipose tissue and the hypertrophy of visceral adipose tissue [<xref rid="B30-ijms-26-06546" ref-type="bibr">30</xref>,<xref rid="B31-ijms-26-06546" ref-type="bibr">31</xref>]. As is known from the genetic forms of lipoatrophy, an inability to adequately store lipids in adipose tissue promotes ectopic lipid deposition in multiple tissues, impairing their function. A parallel phenomenon occurs as a result of visceral fat hypertrophy; once its expandability limits are reached, lipid spillover into other tissues is also promoted. Thus, an increase in the lipid content in the skeletal muscle of PLWH has been reported, a phenomenon known to contribute to insulin resistance [<xref rid="B32-ijms-26-06546" ref-type="bibr">32</xref>]. Hepatic steatosis also frequently appears in PLWH affected by lipodystrophy [<xref rid="B33-ijms-26-06546" ref-type="bibr">33</xref>] and may evolve to metabolic dysfunction-associated steatotic liver disease (MASLD). Myocardial lipid accumulation has also been reported in PLWH, even in the absence of abdominal lipohypertrophy [<xref rid="B34-ijms-26-06546" ref-type="bibr">34</xref>].</p><p>Microbiota dysbiosis, defined as an imbalance in the composition of the gut microbiota, is a well-established contributor to systemic chronic inflammation in obesity, and emerging evidence suggests that similar mechanisms may be present in PLWH. Several studies have reported intestinal dysbiosis and reductions in bacterial alpha diversity in PLWH [<xref rid="B35-ijms-26-06546" ref-type="bibr">35</xref>,<xref rid="B36-ijms-26-06546" ref-type="bibr">36</xref>]. Notably, bacterial alpha diversity has been shown to correlate with the visceral adipose tissue volume in this population [<xref rid="B37-ijms-26-06546" ref-type="bibr">37</xref>]. Furthermore, PLWH exhibit a lower abundance of butyrate-producing bacteria [<xref rid="B38-ijms-26-06546" ref-type="bibr">38</xref>], which may impact adipose tissue function, as butyrate is a key short-chain fatty acid known to influence this tissue. Although existing studies are still limited, the specific role of microbiota alterations in driving adipose tissue dysfunction in PLWH and to what extent they affect lipoatrophic and lipohypertrophic alterations in distinct adipose depots remain active areas of investigation.</p></sec></sec><sec id="sec3-ijms-26-06546"><title>3. Mechanisms Underlying HIV-Associated Lipodystrophy</title><sec id="sec3dot1-ijms-26-06546"><title>3.1. Antiretroviral Treatment-Driven Effects</title><p>The cellular and molecular mechanisms underlying lipoatrophy in PLWH have been extensively studied. In affected patients, reductions in the size and accumulation of fat in subcutaneous adipocytes in lipodystrophic areas are observed, along with apoptosis and cell death [<xref rid="B39-ijms-26-06546" ref-type="bibr">39</xref>]. This is accompanied by the infiltration of macrophages and other inflammatory cells [<xref rid="B40-ijms-26-06546" ref-type="bibr">40</xref>,<xref rid="B41-ijms-26-06546" ref-type="bibr">41</xref>].</p><p>First-generation NRTI drugs, especially thymidine analogs (e.g., zidovudine and stavudine), play a key role in lipoatrophy in PLWH. This is not the first case in medicine where a lipoatrophic reaction to a pharmacological treatment has been observed. However, the reported cases of subcutaneous lipoatrophy associated with treatments using insulin, growth hormone analogs, or corticosteroids are typically localized at the injection sites and tend to resolve spontaneously [<xref rid="B42-ijms-26-06546" ref-type="bibr">42</xref>]. In contrast, the lipoatrophic effect of thymidine-analog NRTIs is systemic and, as previously mentioned, affects multiple subcutaneous adipose tissue depots across different anatomical sites.</p><p>The primary action of zidovudine and stavudine as lipoatrophic agents is attributed to the so-called mitochondrial toxicity. These drugs, along with their ability to inhibit HIV reverse transcriptase, have the collateral effect of inhibiting DNA polymerase-gamma, the enzyme responsible for mitochondrial DNA (mtDNA) replication. Treatment with these NRTIs results in the depletion of mtDNA levels in multiple tissues and organs at a range that is lower than that seen in genetic mtDNA depletion diseases but still biologically relevant [<xref rid="B43-ijms-26-06546" ref-type="bibr">43</xref>]. The basis for the tissue-specific susceptibility of adipose tissue to this depletion is not well understood. Mitochondrial dysfunction caused by mtDNA depletion leads to energy deficits, the increased production of reactive oxygen species, and the abnormal proliferation of nonfunctional mitochondria, potentially causing adipocyte death. In vitro studies also demonstrate that these NRTIs inhibit the differentiation of preadipocytes into mature adipocytes by blocking the expression of key adipogenesis genes such as peroxisome proliferator-activated-&#x003b3; (PPAR&#x003b3;) and others [<xref rid="B26-ijms-26-06546" ref-type="bibr">26</xref>,<xref rid="B44-ijms-26-06546" ref-type="bibr">44</xref>,<xref rid="B45-ijms-26-06546" ref-type="bibr">45</xref>]. As a result, subcutaneous adipose tissue experiences dysfunction in replacing dead adipocytes with new ones, creating the context for lipoatrophy. The importance of mtDNA alterations in lipodystrophy has also been evidenced by the observation of different susceptibilities to lipodystrophy among individuals with different mitochondrial DNA haplogroups [<xref rid="B46-ijms-26-06546" ref-type="bibr">46</xref>]. The basis for the particular susceptibility of subcutaneous adipose tissue to develop lipodystrophy remains poorly understood. Although studies on this matter are scarce, it has been reported that mtDNA depletion is similar in subcutaneous and visceral adipose tissues from PLWH, despite the latter not showing atrophy [<xref rid="B47-ijms-26-06546" ref-type="bibr">47</xref>].</p><p>The precise mechanisms of the other main feature of HIV lipodystrophy, abdominal lipohypertrophy, also have not been fully delineated. The well-known distinct properties of visceral and subcutaneous adipose tissue may involve differential responsiveness to HIV infection and antiretroviral treatment insults. It has been reported that visceral and subcutaneous adipocytes from humans show differential sensitivity to the metabolic alterations elicited by PIs [<xref rid="B48-ijms-26-06546" ref-type="bibr">48</xref>]. On the other hand, it cannot be ruled out that a relevant component of fat accumulation in visceral adipose tissue may be secondary to lipoatrophy in peripheral subcutaneous adipose tissue [<xref rid="B49-ijms-26-06546" ref-type="bibr">49</xref>]. The impairment in the fat storage capacity in subcutaneous adipose tissue could lead to a redistribution of fat to the visceral compartment, which, for unknown reasons, does not exhibit atrophy in response to mitochondrial toxicity caused by drugs.</p><p>As mentioned above, mtDNA depletion cannot explain the differential behavior of visceral and subcutaneous fat in HIV-associated lipodystrophy, but unaffected adipogenesis and a milder induction of pro-inflammatory signaling in visceral relative to subcutaneous fat have been reported [<xref rid="B48-ijms-26-06546" ref-type="bibr">48</xref>], which may explain the prevention of fat wasting in visceral adipose tissue.</p><p>The exact causes of lipomatosis are also not fully understood. However, the reduction in lipoatrophy associated with avoiding the use of thymidine-analog NRTIs has also led to a decreased occurrence of this phenomenon in PLWH [<xref rid="B50-ijms-26-06546" ref-type="bibr">50</xref>]. Importantly, the lipomatous accumulations in the dorso-cervical area and other sites show similar signs of mtDNA depletion as lipoatrophic subcutaneous adipose tissue sites [<xref rid="B17-ijms-26-06546" ref-type="bibr">17</xref>,<xref rid="B19-ijms-26-06546" ref-type="bibr">19</xref>]. However, other alterations occurring in adipose depots affected by HIV-associated lipodystrophy, such as impaired adipogenesis and enhanced inflammation, do not occur in the enlarged adipose tissues in the dorso-cervical region and other areas [<xref rid="B20-ijms-26-06546" ref-type="bibr">20</xref>]. In contrast, lipomatous adipose tissue in PLWH shows the accumulation of the toxic, non-processed form of lamin A, a phenomenon previously reported to take place in genetically determined lipomatosis [<xref rid="B51-ijms-26-06546" ref-type="bibr">51</xref>] and in lipoatrophic areas in PLWH [<xref rid="B20-ijms-26-06546" ref-type="bibr">20</xref>], so it does not appear to account for the differential behavior of HIV-associated lipodystrophy and lipoatrophic and lipomatous areas.</p><p>Subcutaneous adipose tissue in PLWH with lipodystrophy also shows the reduced expression of the micro-RNA-processing enzyme DICER, particularly in the lipomatous dorso-cervical area. This phenomenon is associated with the decreased expression of brown/beige adipose marker genes [<xref rid="B52-ijms-26-06546" ref-type="bibr">52</xref>]. DICER dysregulation is associated with the duration of antiretroviral use and, interestingly, correlates with alterations in circulating miRNAs from small extracellular vesicles (enhanced miR-20a-3p and depleted miR-186 and miR-324-5p), which could also contribute to acquired lipodystrophy and associated metabolic and inflammatory perturbations in PLWH [<xref rid="B53-ijms-26-06546" ref-type="bibr">53</xref>].</p></sec><sec id="sec3dot2-ijms-26-06546"><title>3.2. HIV Infection-Related Effects</title><p>In addition to antiretroviral treatments, various molecular and cellular events associated with HIV infection also contribute to the development of HIV-associated lipodystrophy. Although HIV-1 does not significantly infect adipocytes [<xref rid="B54-ijms-26-06546" ref-type="bibr">54</xref>], it does target immune cells infiltrating adipose tissue, primarily macrophages and lymphocytes [<xref rid="B55-ijms-26-06546" ref-type="bibr">55</xref>,<xref rid="B56-ijms-26-06546" ref-type="bibr">56</xref>]. Adipose tissue is, in fact, considered a reservoir for HIV-1 in the body, largely due to the infection of these immune cells. One consequence of HIV-1 infection in adipose tissue is the release of inflammatory cytokines. This contributes to local alterations in adipose tissue and can lead to systemic metabolic abnormalities, such as insulin resistance and dyslipidemia [<xref rid="B57-ijms-26-06546" ref-type="bibr">57</xref>], features similar to those observed in obesity, a condition characterized by increased local inflammation in adipose tissue. Furthermore, HIV-infected cells secrete extracellular viral-encoded proteins such as Vpr, Tat, and Nef, which can interfere with adipocyte differentiation; promote the expression of pro-inflammatory cytokines; and induce cellular senescence by inhibiting the expression of target genes of PPAR &#x003b3;, the master regulator of adipogenesis, among other actions [<xref rid="B58-ijms-26-06546" ref-type="bibr">58</xref>,<xref rid="B59-ijms-26-06546" ref-type="bibr">59</xref>,<xref rid="B60-ijms-26-06546" ref-type="bibr">60</xref>,<xref rid="B61-ijms-26-06546" ref-type="bibr">61</xref>]. In this way, several alterations in adipogenic and mitochondrial gene expression are already present in the adipose tissue of untreated (na&#x000ef;ve) HIV patients [<xref rid="B62-ijms-26-06546" ref-type="bibr">62</xref>]. Thus, HIV infection of adipose tissue appears to prime the tissue for increased susceptibility to the structural and functional alterations characteristic of HIV-associated lipodystrophy that occur in response to antiretroviral therapy.</p><p><xref rid="ijms-26-06546-f002" ref-type="fig">Figure 2</xref> summarizes the main molecular actors eliciting lipoatrophy and lipohypertrophy in PLWH, as well as systemic alterations.</p></sec></sec><sec id="sec4-ijms-26-06546"><title>4. Adipose Tissue Changes Under Modern Antiretroviral Regimens in PLWH</title><p>The implementation of last-generation antiretroviral treatment patterns incorporating fewer toxic inhibitors of reverse transcriptase and drugs acting on new targets of HIV biology, e.g., integrase strand transfer inhibitors (INSTIs), has minimized HIV-associated lipoatrophy and lipomatosis. However, soon after the implementation of these treatments in PLWH, increased body weight was observed. Although part of this effect was attributed to the so-called &#x0201c;return to health&#x0201d; state elicited by the initiation of these treatments in PLWH, growing evidence shows specific treatment effects. Increased weight gain has been observed more frequently in PLWH treated with INSTIs and TAF [<xref rid="B63-ijms-26-06546" ref-type="bibr">63</xref>,<xref rid="B64-ijms-26-06546" ref-type="bibr">64</xref>]. Increased adiposity in response to INSTIs appears to involve the two commonly used INSTI drugs dolutegravir and bictegravir, and it is additive to the weight gain effects elicited by TAF. Increased adiposity occurs when INSTI-based treatments replace older patters of treatment, especially when INSTIs are present in initial treatment regimens after infection [<xref rid="B65-ijms-26-06546" ref-type="bibr">65</xref>]. Moreover, some risk factors associated with increased weight gain in PLWH in response to INSTI-containing drug patterns have been identified: sex (women are more prone to weight gain than men), black ethnicity, and aging. Weight gain in PLWH under INSTI/TAF-based treatments results from generalized increases in adipose tissue mass in both the subcutaneous and trunk areas [<xref rid="B66-ijms-26-06546" ref-type="bibr">66</xref>]. Therefore, the alterations elicited by last-generation drug treatments in PLWH are more reminiscent of obesity than lipodystrophy [<xref rid="B67-ijms-26-06546" ref-type="bibr">67</xref>], at least based on what is known so far.</p><p>Some initial hypotheses suggested that INSTIs could affect the hypothalamic melanocortin system and thereby interfere with satiety mechanisms, leading to increased caloric intake and subsequent weight gain. This was based on some data indicating that INSTIs may interfere with the melanocortin-4 receptor (MC4R) [<xref rid="B68-ijms-26-06546" ref-type="bibr">68</xref>]. However, other reports do not support this proposition, as the doses of INSTIs that interfere with the MC4R are higher than those found in treated patients [<xref rid="B69-ijms-26-06546" ref-type="bibr">69</xref>]. In fact, there are still no objective studies that evaluate the effects of INSTIs on food intake [<xref rid="B69-ijms-26-06546" ref-type="bibr">69</xref>].</p><p>Several experimental studies on human adipocytes [<xref rid="B70-ijms-26-06546" ref-type="bibr">70</xref>,<xref rid="B71-ijms-26-06546" ref-type="bibr">71</xref>], though not all [<xref rid="B72-ijms-26-06546" ref-type="bibr">72</xref>], suggest that the integrase inhibitor dolutegravir has direct pro-adipogenic effects. A possible explanation for this discrepancy lies in the different sources of adipocytes used in vitro: some studies [<xref rid="B70-ijms-26-06546" ref-type="bibr">70</xref>,<xref rid="B71-ijms-26-06546" ref-type="bibr">71</xref>] utilized adipocytes differentiated from primary cultures of adipose tissue stem cells obtained from healthy women, while another study [<xref rid="B72-ijms-26-06546" ref-type="bibr">72</xref>] used cells from an infant with Simpson&#x02013;Golabi&#x02013;Behmel syndrome. Despite these differences, multiple studies consistently report that dolutegravir suppresses the expression of brown/beige adipose tissue markers and reduces adiponectin levels in adipocytes [<xref rid="B70-ijms-26-06546" ref-type="bibr">70</xref>,<xref rid="B71-ijms-26-06546" ref-type="bibr">71</xref>,<xref rid="B72-ijms-26-06546" ref-type="bibr">72</xref>,<xref rid="B73-ijms-26-06546" ref-type="bibr">73</xref>]. Furthermore, dolutegravir has been associated with increased fibrosis, mitochondrial dysfunction, and insulin resistance in adipocytes [<xref rid="B70-ijms-26-06546" ref-type="bibr">70</xref>,<xref rid="B71-ijms-26-06546" ref-type="bibr">71</xref>]. Comparable alterations&#x02014;including increased fibrosis, enlarged adipocytes, and the upregulated expression of adipogenic genes&#x02014;have also been observed in subcutaneous and visceral adipose tissues from macaques treated with INSTIs, both in the absence [<xref rid="B71-ijms-26-06546" ref-type="bibr">71</xref>] and presence [<xref rid="B70-ijms-26-06546" ref-type="bibr">70</xref>] of concomitant simian immunodeficiency virus infection, with the latter condition showing a particularly marked impairment in beige adipose tissue. Fibrosis induction has also been observed in both adipose depots in PLWH treated with INSTIs [<xref rid="B71-ijms-26-06546" ref-type="bibr">71</xref>]. Taken together, these findings consistently point to adverse structural and functional changes in adipose tissue linked to INSTI treatments, despite the inherent limitations of studies using in vitro and animal models.</p><p>The in vitro and in vivo evidence also reveals complex and sometimes contrasting effects of TDF and TAF on adipose tissue. In vitro studies using mouse 3T3-L1 adipocytes showed that TAF and TDF inhibited adipogenesis alone and in combination with INSTIs [<xref rid="B74-ijms-26-06546" ref-type="bibr">74</xref>], whereas other studies using human adipocytes showed that both drugs moderate the anti-adipogenic effect of the INSTI dolutegravir [<xref rid="B73-ijms-26-06546" ref-type="bibr">73</xref>]. However, the in vivo effects appear more divergent, with TAF being associated with greater weight gain and fat accumulation than TDF in both clinical and animal models [<xref rid="B75-ijms-26-06546" ref-type="bibr">75</xref>,<xref rid="B76-ijms-26-06546" ref-type="bibr">76</xref>]. Several factors may explain these differences. First, the direct effects of these drugs on adipocytes may differ from their systemic effects when administered in vivo. Second, their interactions with other antiretroviral drugs in combination regimens likely play an essential role. Third, the metabolic context, including the HIV infection status, immune activation, and baseline metabolic health, may significantly modify the effects of these drugs on adipose tissue.</p><p>Another aspect is how the last-generation antiretroviral treatments for PLWH affect systemic metabolism. There have been some indications that INSTIs may be associated with positive effects on metabolism, such as improved dyslipidemia and insulin sensitivity [<xref rid="B77-ijms-26-06546" ref-type="bibr">77</xref>], at least compared to non-INSTI-based treatment regimens. However, other studies have shown deleterious effects on metabolism, which may be due to the actions of the drugs or may be indirectly caused by visceral obesity that appears in patients. This is the case for hypoadiponectinemia in PLWH treated with antiretroviral patterns that include dolutegravir [<xref rid="B78-ijms-26-06546" ref-type="bibr">78</xref>]. Studies examining the impacts of antiretroviral treatments, including INSTIs such as dolutegravir, on cardiometabolic parameters have found unfavorable changes, such as increased HbA1c and blood pressure; a higher incidence of cardiovascular disease; and elevated risks for several cardiometabolic outcomes, including congestive heart failure, myocardial infarction, and lipid disorders. These effects are especially evident in cases of long-term treatment with INSTIs combined with TAF [<xref rid="B79-ijms-26-06546" ref-type="bibr">79</xref>,<xref rid="B80-ijms-26-06546" ref-type="bibr">80</xref>,<xref rid="B81-ijms-26-06546" ref-type="bibr">81</xref>]. However, it remains unclear whether specific alterations in adipose tissue caused by antiretroviral drugs, beyond the unhealthy consequences of increased fat mass, contribute to cardiovascular risk.</p></sec><sec sec-type="conclusions" id="sec5-ijms-26-06546"><title>5. Conclusions: Current Challenges for Management of Healthy Adipose Tissue in PLWH</title><p>The current clinical concerns related to HIV-associated lipodystrophy manifest in several ways. The avoidance of thymidine-based NRTIs worldwide has decreased the prevalence of lipoatrophy in PLWH. However, a significant number of PLWH who were treated with first-generation NRTIs and developed lipoatrophy did not recover after switching to a treatment based on last-generation antiretroviral drugs. Among the patients in the APROCO cohort previously treated with thymidine-analog NRTIs, 22% continue to experience mixed lipoatrophy/lipohypertrophy and elevated insulin resistance rates, even after transitioning to modern antiretroviral regimens [<xref rid="B82-ijms-26-06546" ref-type="bibr">82</xref>]. Visceral lipohypertrophy often persists in PLWH who have had long-term exposure to thymidine-analog NRTIs. Each year of cumulative exposure to first-generation NRTIs is associated with an increase in visceral fat of 3.7 cm<sup>2</sup> after the discontinuation of these drugs [<xref rid="B83-ijms-26-06546" ref-type="bibr">83</xref>]. The persistent signs of lipodystrophy and associated metabolic alterations that occur even after the discontinuation of more lipodystrophy-prone drugs are especially common in PLWH who started treatment during childhood. Increased waist circumference is nearly twice as prevalent in adults with HIV who were exposed to thymidine NRTIs during childhood [<xref rid="B84-ijms-26-06546" ref-type="bibr">84</xref>].</p><p>Second, although visceral obesity remains the primary adipose alteration in PLWH undergoing contemporary antiretroviral therapy, a recent report revealed that the subcutaneous fat transcriptome in patients with more visceral adipose tissue shows the increased expression of genes associated with the extracellular matrix and inflammation, along with the reduced expression of genes related to lipolysis and fatty acid metabolism [<xref rid="B85-ijms-26-06546" ref-type="bibr">85</xref>]. This highlights the current persistence of complex alterations in different adipose depots in PLWH.</p><p>Recently, novel aspects relating adipose tissue dysfunction and conditions compromising health in PLWH are emerging. It has long been known that PLWH show an increased risk of diastolic dysfunction. Recent data indicate that epicardial adipose tissue, a fat depot closely associated with the myocardium and known to be involved in cardiac function [<xref rid="B86-ijms-26-06546" ref-type="bibr">86</xref>], is enlarged in PLWH. This is associated with diastolic dysfunction, regardless of the HIV serostatus and viral suppression [<xref rid="B87-ijms-26-06546" ref-type="bibr">87</xref>,<xref rid="B88-ijms-26-06546" ref-type="bibr">88</xref>]. Increased pericoronary adipose density has been found to be independently associated with the prevalence and severity of coronary plaque in PLWH [<xref rid="B89-ijms-26-06546" ref-type="bibr">89</xref>]. There are also data indicating that PLWH show signs of inflammation in perivascular fat, the type of adipose tissue coating vessels. This inflammation could be involved in the microvascular disease that often occurs in PLWH [<xref rid="B90-ijms-26-06546" ref-type="bibr">90</xref>]. As such, the potential roles of altered epicardiac, pericoronary, and perivascular adipose tissue in cardiovascular function among PLWH remain speculative and are based on observed correlations and the more established impacts of these fat depots on cardiac and vascular pathophysiology in the general population. In any case, such findings provide further evidence of the influence of distorted adipose tissue on health conditions in PLWH.</p><p>Treatment strategies based on lifestyle changes are increasingly considered to be relevant for mitigating adipose tissue alterations and systemic cardiometabolic disturbances in PLWH. When overt lipodystrophy was highly prevalent, some data indicated that adhesion to a Mediterranean diet and supplementation with omega-3 polyunsaturated fatty acids ameliorated systemic parameters, including inflammation [<xref rid="B91-ijms-26-06546" ref-type="bibr">91</xref>,<xref rid="B92-ijms-26-06546" ref-type="bibr">92</xref>]. Notably, an intervention based on the Mediterranean diet led to a marked increase in the relative abundance of Bifidobacterium spp., which is linked to a microbiota profile indicative of beneficial immunometabolic outcomes [<xref rid="B93-ijms-26-06546" ref-type="bibr">93</xref>]. In the current context of increased obesity in PLWH under treatments including INSTIs, even in the absence of accurate specific studies, clinical practices recommend lifestyle modifications (a decrease in caloric intake and an increase in exercise habits) as in the first-line treatment approach for common obesity.</p><p>On the other hand, several recent studies have shown that, in PLWH, GLP-1 receptor agonists commonly used to treat obesity and type 2 diabetes (e.g., semaglutide) produce a degree of weight loss similar to that observed in the general population [<xref rid="B94-ijms-26-06546" ref-type="bibr">94</xref>], along with reductions in both visceral and subcutaneous adipose tissue [<xref rid="B95-ijms-26-06546" ref-type="bibr">95</xref>]. A clinical trial investigating the effects of semaglutide in overweight PLWH found a significant reduction in abdominal visceral adipose tissue, which was the most pronounced effect [<xref rid="B96-ijms-26-06546" ref-type="bibr">96</xref>]. These findings suggest that incretin analogs, currently used to treat common obesity and type 2 diabetes, may also hold promise as therapeutic agents for managing visceral lipohypertrophy and the associated metabolic dysregulation in PLWH [<xref rid="B97-ijms-26-06546" ref-type="bibr">97</xref>].</p><p>In summary, recent data underscore the ongoing vulnerability of PLWH to changes in adipose tissue. Although the current alterations in adipose tissue among PLWH may not be as severe as traditional HIV-related lipodystrophy, they can still have significant health implications. To improve the well-being of PLWH, it is essential to continue refining antiretroviral treatment strategies and to monitor potential adipose tissue changes as part of comprehensive metabolic health management.</p></sec></body><back><ack><title>Acknowledgments</title><p>During the preparation of this manuscript, the authors used ChatGPT 4o from OpenAI for the purpose of generating pictorial representations of lipodystrophy features in PLWH. The authors have reviewed the output and take full responsibility for the content.</p></ack><fn-group><fn><p><bold>Disclaimer/Publisher&#x02019;s Note:</bold> The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.</p></fn></fn-group><notes><title>Author Contributions</title><p>Conceptualization, M.G., P.D. and F.V.; writing&#x02014;original draft preparation, M.G. and F.V.; writing&#x02014;review and editing, M.G., P.D., T.Q.-L., R.C. and F.V. All authors have read and agreed to the published version of the manuscript.</p></notes><notes notes-type="COI-statement"><title>Conflicts of Interest</title><p>M.G., T.Q.-L., R.C. and F.V. declare no conflicts of interest. P.D. reports honoraria for advice or public speaking from Gilead, MSD, Janssen, and ViiV Healthcare.</p></notes><glossary><title>Abbreviations</title><p>The following abbreviations are used in this manuscript:
+<array><tbody><tr><td align="left" valign="middle" rowspan="1" colspan="1">AIDS</td><td align="left" valign="middle" rowspan="1" colspan="1">acquired immunodeficiency syndrome</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">cART</td><td align="left" valign="middle" rowspan="1" colspan="1">combined antiretroviral therapy</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">GLP-1</td><td align="left" valign="middle" rowspan="1" colspan="1">glucagon-like peptide-1</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">HIV</td><td align="left" valign="middle" rowspan="1" colspan="1">human immunodeficiency virus</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">INSTI</td><td align="left" valign="middle" rowspan="1" colspan="1">integrase strand transfer inhibitor</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">MASLD</td><td align="left" valign="middle" rowspan="1" colspan="1">metabolic dysfunction-associated steatotic liver disease</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">MASH</td><td align="left" valign="middle" rowspan="1" colspan="1">metabolic dysfunction-associated steatohepatitis </td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">MC4R</td><td align="left" valign="middle" rowspan="1" colspan="1">melanocortin-4 receptor</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">mtDNA</td><td align="left" valign="middle" rowspan="1" colspan="1">mitochondrial DNA</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">NRTI</td><td align="left" valign="middle" rowspan="1" colspan="1">nucleotide analog reverse transcriptase inhibitor</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">NNRTI</td><td align="left" valign="middle" rowspan="1" colspan="1">non-nucleoside analog reverse transcriptase inhibitor</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">PCNA</td><td align="left" valign="middle" rowspan="1" colspan="1">proliferating cell nuclear antigen</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">PI</td><td align="left" valign="middle" rowspan="1" colspan="1">protease inhibitor</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">PLWH</td><td align="left" valign="middle" rowspan="1" colspan="1">people living with HIV</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">PPAR&#x003b3;</td><td align="left" valign="middle" rowspan="1" colspan="1">peroxisome proliferator-activated-&#x003b3;</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">TAF</td><td align="left" valign="middle" rowspan="1" colspan="1">tenofovir alafenamide</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">TDF</td><td align="left" valign="middle" rowspan="1" colspan="1">tenofovir difumarate</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">UCP1</td><td align="left" valign="middle" rowspan="1" colspan="1">uncoupling protein-1</td></tr></tbody></array></p></glossary><ref-list><title>References</title><ref id="B1-ijms-26-06546"><label>1.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Giralt</surname><given-names>M.</given-names></name>
+<name><surname>Domingo</surname><given-names>P.</given-names></name>
+<name><surname>Villarroya</surname><given-names>F.</given-names></name>
+</person-group><article-title>Adipose tissue biology and HIV-infection</article-title><source>Best Pract. Res. Clin. Endocrinol. Metab.</source><year>2011</year><volume>25</volume><fpage>487</fpage><lpage>499</lpage><pub-id pub-id-type="doi">10.1016/j.beem.2010.12.001</pub-id><pub-id pub-id-type="pmid">21663842</pub-id>
+</element-citation></ref><ref id="B2-ijms-26-06546"><label>2.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Koethe</surname><given-names>J.R.</given-names></name>
+<name><surname>Lagathu</surname><given-names>C.</given-names></name>
+<name><surname>Lake</surname><given-names>J.E.</given-names></name>
+<name><surname>Domingo</surname><given-names>P.</given-names></name>
+<name><surname>Calmy</surname><given-names>A.</given-names></name>
+<name><surname>Falutz</surname><given-names>J.</given-names></name>
+<name><surname>Brown</surname><given-names>T.T.</given-names></name>
+<name><surname>Capeau</surname><given-names>J.</given-names></name>
+</person-group><article-title>HIV and antiretroviral therapy-related fat alterations</article-title><source>Nat. Rev. Dis. Primers</source><year>2020</year><volume>6</volume><fpage>48</fpage><pub-id pub-id-type="doi">10.1038/s41572-020-0181-1</pub-id><pub-id pub-id-type="pmid">32555389</pub-id>
+</element-citation></ref><ref id="B3-ijms-26-06546"><label>3.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ramirez Bustamante</surname><given-names>C.E.</given-names></name>
+<name><surname>Agarwal</surname><given-names>N.</given-names></name>
+<name><surname>Cox</surname><given-names>A.R.</given-names></name>
+<name><surname>Hartig</surname><given-names>S.M.</given-names></name>
+<name><surname>Lake</surname><given-names>J.E.</given-names></name>
+<name><surname>Balasubramanyam</surname><given-names>A.</given-names></name>
+</person-group><article-title>Adipose Tissue Dysfunction and Energy Balance Paradigms in People Living with HIV</article-title><source>Endocr. Rev.</source><year>2024</year><volume>45</volume><fpage>190</fpage><lpage>209</lpage><pub-id pub-id-type="doi">10.1210/endrev/bnad028</pub-id><pub-id pub-id-type="pmid">37556371</pub-id>
+</element-citation></ref><ref id="B4-ijms-26-06546"><label>4.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Capeau</surname><given-names>J.</given-names></name>
+<name><surname>Lagathu</surname><given-names>C.</given-names></name>
+<name><surname>B&#x000e9;r&#x000e9;ziat</surname><given-names>V.</given-names></name>
+<name><surname>F&#x000e8;ve</surname><given-names>B.</given-names></name>
+</person-group><article-title>Recent data on adipose tissue, insulin resistance, diabetes and dyslipidaemia in antiretroviral therapy controlled HIV-infected persons</article-title><source>Curr. Opin. HIV AIDS</source><year>2021</year><volume>16</volume><fpage>141</fpage><lpage>147</lpage><pub-id pub-id-type="doi">10.1097/COH.0000000000000674</pub-id><pub-id pub-id-type="pmid">33783403</pub-id>
+</element-citation></ref><ref id="B5-ijms-26-06546"><label>5.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tilhet</surname><given-names>L.</given-names></name>
+<name><surname>Rouanet</surname><given-names>M.</given-names></name>
+<name><surname>Henry</surname><given-names>A.S.</given-names></name>
+<name><surname>Pop</surname><given-names>A.</given-names></name>
+<name><surname>Claudic</surname><given-names>Y.</given-names></name>
+<name><surname>Saraoui</surname><given-names>W.</given-names></name>
+<name><surname>Nachaoui</surname><given-names>H.</given-names></name>
+<name><surname>Hu</surname><given-names>W.</given-names></name>
+</person-group><article-title>Current status and perspectives in the treatment of facial lipoatrophy in HIV-positive patients in 2024</article-title><source>Ann. Chir. Plast. Esthet.</source><year>2025</year><volume>70</volume><fpage>192</fpage><lpage>205</lpage><pub-id pub-id-type="doi">10.1016/j.anplas.2024.10.006</pub-id><pub-id pub-id-type="pmid">39645410</pub-id>
+</element-citation></ref><ref id="B6-ijms-26-06546"><label>6.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Domingo</surname><given-names>P.</given-names></name>
+<name><surname>Estrada</surname><given-names>V.</given-names></name>
+<name><surname>L&#x000f3;pez-Aldeguer</surname><given-names>J.</given-names></name>
+<name><surname>Villaroya</surname><given-names>F.</given-names></name>
+<name><surname>Mart&#x000ed;nez</surname><given-names>E.</given-names></name>
+</person-group><article-title>Fat redistribution syndromes associated with HIV-1 infection and combination antiretroviral therapy</article-title><source>AIDS Rev.</source><year>2012</year><volume>14</volume><fpage>112</fpage><lpage>123</lpage><pub-id pub-id-type="pmid">22627607</pub-id>
+</element-citation></ref><ref id="B7-ijms-26-06546"><label>7.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Carr</surname><given-names>A.</given-names></name>
+<name><surname>Law</surname><given-names>M.</given-names></name>
+</person-group><article-title>HIV Lipodystrophy Case Definition Study Group. An objective lipodystrophy severity grading scale derived from the lipodystrophy case definition score</article-title><source>J. Acquir. Immune Defic. Syndr.</source><year>2003</year><volume>33</volume><fpage>571</fpage><lpage>576</lpage><pub-id pub-id-type="doi">10.1097/00126334-200308150-00004</pub-id><pub-id pub-id-type="pmid">12902800</pub-id>
+</element-citation></ref><ref id="B8-ijms-26-06546"><label>8.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mallon</surname><given-names>P.W.</given-names></name>
+<name><surname>Miller</surname><given-names>J.</given-names></name>
+<name><surname>Cooper</surname><given-names>D.A.</given-names></name>
+<name><surname>Carr</surname><given-names>A.</given-names></name>
+</person-group><article-title>Prospective evaluation of the effects of antiretroviral therapy on body composition in HIV-1-infected men starting therapy</article-title><source>AIDS</source><year>2003</year><volume>17</volume><fpage>971</fpage><lpage>979</lpage><pub-id pub-id-type="doi">10.1097/00002030-200305020-00005</pub-id><pub-id pub-id-type="pmid">12700446</pub-id>
+</element-citation></ref><ref id="B9-ijms-26-06546"><label>9.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Martin</surname><given-names>A.</given-names></name>
+<name><surname>Mallon</surname><given-names>P.W.</given-names></name>
+</person-group><article-title>Therapeutic approaches to combating lipoatrophy: Do they work?</article-title><source>J. Antimicrob. Chemother.</source><year>2005</year><volume>55</volume><fpage>612</fpage><lpage>615</lpage><pub-id pub-id-type="doi">10.1093/jac/dki062</pub-id><pub-id pub-id-type="pmid">15761072</pub-id>
+</element-citation></ref><ref id="B10-ijms-26-06546"><label>10.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Glidden</surname><given-names>D.V.</given-names></name>
+<name><surname>Mulligan</surname><given-names>K.</given-names></name>
+<name><surname>McMahan</surname><given-names>V.</given-names></name>
+<name><surname>Anderson</surname><given-names>P.L.</given-names></name>
+<name><surname>Guanira</surname><given-names>J.</given-names></name>
+<name><surname>Chariyalertsak</surname><given-names>S.</given-names></name>
+<name><surname>Buchbinder</surname><given-names>S.P.</given-names></name>
+<name><surname>Bekker</surname><given-names>L.G.</given-names></name>
+<name><surname>Schechter</surname><given-names>M.</given-names></name>
+<name><surname>Grinsztejn</surname><given-names>B.</given-names></name>
+<etal/>
+</person-group><article-title>Metabolic Effects of Preexposure Prophylaxis with Coformulated Tenofovir Disoproxil Fumarate and Emtricitabine</article-title><source>Clin. Infect. Dis.</source><year>2018</year><volume>67</volume><fpage>411</fpage><lpage>419</lpage><pub-id pub-id-type="doi">10.1093/cid/ciy083</pub-id><pub-id pub-id-type="pmid">29415175</pub-id>
+</element-citation></ref><ref id="B11-ijms-26-06546"><label>11.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mart&#x000ed;nez</surname><given-names>E.</given-names></name>
+<name><surname>Ribera</surname><given-names>E.</given-names></name>
+<name><surname>Clotet</surname><given-names>B.</given-names></name>
+<name><surname>Estrada</surname><given-names>V.</given-names></name>
+<name><surname>Sanz</surname><given-names>J.</given-names></name>
+<name><surname>Berenguer</surname><given-names>J.</given-names></name>
+<name><surname>Rubio</surname><given-names>R.</given-names></name>
+<name><surname>Pulido</surname><given-names>F.</given-names></name>
+<name><surname>Larrousse</surname><given-names>M.</given-names></name>
+<name><surname>Curran</surname><given-names>A.</given-names></name>
+<etal/>
+</person-group><article-title>Switching from zidovudine/lamivudine to tenofovir/emtricitabine improves fat distribution as measured by fat mass ratio</article-title><source>HIV Med.</source><year>2015</year><volume>16</volume><fpage>370</fpage><lpage>374</lpage><pub-id pub-id-type="doi">10.1111/hiv.12210</pub-id><pub-id pub-id-type="pmid">25496141</pub-id>
+</element-citation></ref><ref id="B12-ijms-26-06546"><label>12.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Capeau</surname><given-names>J.</given-names></name>
+<name><surname>Lagathu</surname><given-names>C.</given-names></name>
+<name><surname>B&#x000e9;r&#x000e9;ziat</surname><given-names>V.</given-names></name>
+</person-group><article-title>Recent data on the role of antiretroviral therapy in weight gain and obesity in persons living with HIV</article-title><source>Curr. Opin. HIV AIDS</source><year>2024</year><volume>19</volume><fpage>14</fpage><lpage>20</lpage><pub-id pub-id-type="doi">10.1097/COH.0000000000000833</pub-id><pub-id pub-id-type="pmid">38078606</pub-id>
+</element-citation></ref><ref id="B13-ijms-26-06546"><label>13.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ferrer</surname><given-names>E.</given-names></name>
+<name><surname>Navarro</surname><given-names>A.</given-names></name>
+<name><surname>Curto</surname><given-names>J.</given-names></name>
+<name><surname>Medina</surname><given-names>P.</given-names></name>
+<name><surname>Rozas</surname><given-names>N.</given-names></name>
+<name><surname>Barrera</surname><given-names>G.</given-names></name>
+<name><surname>Saumoy</surname><given-names>M.</given-names></name>
+<name><surname>Tiraboschi</surname><given-names>J.M.</given-names></name>
+<name><surname>Gomez</surname><given-names>C.</given-names></name>
+<name><surname>Podzamczer</surname><given-names>D.</given-names></name>
+</person-group><article-title>Long-term fat redistribution in ARV-na&#x000ef;ve HIV+ patients initiating a non-thymidine containing regimen in clinical practice</article-title><source>J. Int. AIDS Soc.</source><year>2014</year><volume>17</volume><issue>(Suppl. 3)</issue><fpage>19553</fpage><pub-id pub-id-type="doi">10.7448/IAS.17.4.19553</pub-id><pub-id pub-id-type="pmid">25394060</pub-id>
+</element-citation></ref><ref id="B14-ijms-26-06546"><label>14.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Grant</surname><given-names>P.M.</given-names></name>
+<name><surname>Kitch</surname><given-names>D.</given-names></name>
+<name><surname>McComsey</surname><given-names>G.A.</given-names></name>
+<name><surname>Collier</surname><given-names>A.C.</given-names></name>
+<name><surname>Bartali</surname><given-names>B.</given-names></name>
+<name><surname>Koletar</surname><given-names>S.L.</given-names></name>
+<name><surname>Erlandson</surname><given-names>K.M.</given-names></name>
+<name><surname>Lake</surname><given-names>J.E.</given-names></name>
+<name><surname>Yin</surname><given-names>M.T.</given-names></name>
+<name><surname>Melbourne</surname><given-names>K.</given-names></name>
+<etal/>
+</person-group><article-title>Long-term body composition changes in antiretroviral-treated HIV-infected individuals</article-title><source>AIDS</source><year>2016</year><volume>30</volume><fpage>2805</fpage><lpage>2813</lpage><pub-id pub-id-type="doi">10.1097/QAD.0000000000001248</pub-id><pub-id pub-id-type="pmid">27662545</pub-id>
+</element-citation></ref><ref id="B15-ijms-26-06546"><label>15.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lo</surname><given-names>J.C.</given-names></name>
+<name><surname>Mulligan</surname><given-names>K.</given-names></name>
+<name><surname>Tai</surname><given-names>V.W.</given-names></name>
+<name><surname>Algren</surname><given-names>H.</given-names></name>
+<name><surname>Schambelan</surname><given-names>M.</given-names></name>
+</person-group><article-title>&#x0201c;Buffalo hump&#x0201d; in men with HIV-1 infection</article-title><source>Lancet</source><year>1998</year><volume>351</volume><fpage>867</fpage><lpage>870</lpage><pub-id pub-id-type="doi">10.1016/S0140-6736(97)11443-X</pub-id><pub-id pub-id-type="pmid">9525364</pub-id>
+</element-citation></ref><ref id="B16-ijms-26-06546"><label>16.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Guaraldi</surname><given-names>G.</given-names></name>
+<name><surname>Orlando</surname><given-names>G.</given-names></name>
+<name><surname>Squillace</surname><given-names>N.</given-names></name>
+<name><surname>Roverato</surname><given-names>A.</given-names></name>
+<name><surname>De Fazio</surname><given-names>D.</given-names></name>
+<name><surname>Vandelli</surname><given-names>M.</given-names></name>
+<name><surname>Nardini</surname><given-names>G.</given-names></name>
+<name><surname>Beghetto</surname><given-names>B.</given-names></name>
+<name><surname>De Paola</surname><given-names>M.</given-names></name>
+<name><surname>Esposito</surname><given-names>R.</given-names></name>
+<etal/>
+</person-group><article-title>Prevalence of and risk factors for pubic lipoma development in HIV-infected persons</article-title><source>J. Acquir. Immune Defic. Syndr.</source><year>2007</year><volume>45</volume><fpage>72</fpage><lpage>76</lpage><pub-id pub-id-type="doi">10.1097/QAI.0b013e31804a85b0</pub-id><pub-id pub-id-type="pmid">17460472</pub-id>
+</element-citation></ref><ref id="B17-ijms-26-06546"><label>17.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cereijo</surname><given-names>R.</given-names></name>
+<name><surname>Gallego-Escuredo</surname><given-names>J.M.</given-names></name>
+<name><surname>Moure</surname><given-names>R.</given-names></name>
+<name><surname>Villarroya</surname><given-names>J.</given-names></name>
+<name><surname>Domingo</surname><given-names>J.C.</given-names></name>
+<name><surname>Fontdevila</surname><given-names>J.</given-names></name>
+<name><surname>Mart&#x000ed;nez</surname><given-names>E.</given-names></name>
+<name><surname>Guti&#x000e9;rrez</surname><given-names>M.M.</given-names></name>
+<name><surname>Mateo</surname><given-names>M.G.</given-names></name>
+<name><surname>Giralt</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group><article-title>The Molecular Signature of HIV-1-Associated Lipomatosis Reveals Differential Involvement of Brown and Beige/Brite Adipocyte Cell Lineages</article-title><source>PLoS ONE</source><year>2015</year><volume>10</volume><elocation-id>e0136571</elocation-id><pub-id pub-id-type="doi">10.1371/journal.pone.0136571</pub-id><pub-id pub-id-type="pmid">26305325</pub-id>
+</element-citation></ref><ref id="B18-ijms-26-06546"><label>18.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Guaraldi</surname><given-names>G.</given-names></name>
+<name><surname>De Fazio</surname><given-names>D.</given-names></name>
+<name><surname>Orlando</surname><given-names>G.</given-names></name>
+<name><surname>Murri</surname><given-names>R.</given-names></name>
+<name><surname>Wu</surname><given-names>A.</given-names></name>
+<name><surname>Guaraldi</surname><given-names>P.</given-names></name>
+<name><surname>Esposito</surname><given-names>R.</given-names></name>
+</person-group><article-title>Facial lipohypertrophy in HIV-infected subjects who underwent autologous fat tissue transplantation</article-title><source>Clin. Infect. Dis.</source><year>2005</year><volume>40</volume><fpage>e13</fpage><lpage>e15</lpage><pub-id pub-id-type="doi">10.1086/426686</pub-id><pub-id pub-id-type="pmid">15655734</pub-id>
+</element-citation></ref><ref id="B19-ijms-26-06546"><label>19.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Guallar</surname><given-names>J.P.</given-names></name>
+<name><surname>Gallego-Escuredo</surname><given-names>J.M.</given-names></name>
+<name><surname>Domingo</surname><given-names>J.C.</given-names></name>
+<name><surname>Alegre</surname><given-names>M.</given-names></name>
+<name><surname>Fontdevila</surname><given-names>J.</given-names></name>
+<name><surname>Mart&#x000ed;nez</surname><given-names>E.</given-names></name>
+<name><surname>Hammond</surname><given-names>E.L.</given-names></name>
+<name><surname>Domingo</surname><given-names>P.</given-names></name>
+<name><surname>Giralt</surname><given-names>M.</given-names></name>
+<name><surname>Villarroya</surname><given-names>F.</given-names></name>
+</person-group><article-title>Differential gene expression indicates that &#x02018;buffalo hump&#x02019; is a distinct adipose tissue disturbance in HIV-1-associated lipodystrophy</article-title><source>AIDS</source><year>2008</year><volume>22</volume><fpage>575</fpage><lpage>584</lpage><pub-id pub-id-type="doi">10.1097/QAD.0b013e3282f56b40</pub-id><pub-id pub-id-type="pmid">18316998</pub-id>
+</element-citation></ref><ref id="B20-ijms-26-06546"><label>20.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>B&#x000e9;r&#x000e9;ziat</surname><given-names>V.</given-names></name>
+<name><surname>Cervera</surname><given-names>P.</given-names></name>
+<name><surname>Le Dour</surname><given-names>C.</given-names></name>
+<name><surname>Verpont</surname><given-names>M.C.</given-names></name>
+<name><surname>Dumont</surname><given-names>S.</given-names></name>
+<name><surname>Vantyghem</surname><given-names>M.C.</given-names></name>
+<name><surname>Capeau</surname><given-names>J.</given-names></name>
+<name><surname>Vigouroux</surname><given-names>C.</given-names></name>
+<collab>Lipodystrophy Study Group</collab>
+</person-group><article-title>LMNA mutations induce a non-inflammatory fibrosis and a brown fat-like dystrophy of enlarged cervical adipose tissue</article-title><source>Am. J. Pathol.</source><year>2011</year><volume>179</volume><fpage>2443</fpage><lpage>2453</lpage><pub-id pub-id-type="doi">10.1016/j.ajpath.2011.07.049</pub-id><pub-id pub-id-type="pmid">21945321</pub-id>
+</element-citation></ref><ref id="B21-ijms-26-06546"><label>21.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bourgeois</surname><given-names>C.</given-names></name>
+<name><surname>Gorwood</surname><given-names>J.</given-names></name>
+<name><surname>Olivo</surname><given-names>A.</given-names></name>
+<name><surname>Le Pelletier</surname><given-names>L.</given-names></name>
+<name><surname>Capeau</surname><given-names>J.</given-names></name>
+<name><surname>Lambotte</surname><given-names>O.</given-names></name>
+<name><surname>B&#x000e9;r&#x000e9;ziat</surname><given-names>V.</given-names></name>
+<name><surname>Lagathu</surname><given-names>C.</given-names></name>
+</person-group><article-title>Contribution of Adipose Tissue to the Chronic Immune Activation and Inflammation Associated with HIV Infection and Its Treatment</article-title><source>Front. Immunol.</source><year>2021</year><volume>12</volume><elocation-id>670566</elocation-id><pub-id pub-id-type="doi">10.3389/fimmu.2021.670566</pub-id><pub-id pub-id-type="pmid">34220817</pub-id>
+</element-citation></ref><ref id="B22-ijms-26-06546"><label>22.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ghaben</surname><given-names>A.L.</given-names></name>
+<name><surname>Scherer</surname><given-names>P.E.</given-names></name>
+</person-group><article-title>Adipogenesis and metabolic health</article-title><source>Nat. Rev. Mol. Cell. Biol.</source><year>2019</year><volume>20</volume><fpage>242</fpage><lpage>258</lpage><pub-id pub-id-type="doi">10.1038/s41580-018-0093-z</pub-id><pub-id pub-id-type="pmid">30610207</pub-id>
+</element-citation></ref><ref id="B23-ijms-26-06546"><label>23.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kadowaki</surname><given-names>T.</given-names></name>
+<name><surname>Yamauchi</surname><given-names>T.</given-names></name>
+<name><surname>Kubota</surname><given-names>N.</given-names></name>
+<name><surname>Hara</surname><given-names>K.</given-names></name>
+<name><surname>Ueki</surname><given-names>K.</given-names></name>
+<name><surname>Tobe</surname><given-names>K.</given-names></name>
+</person-group><article-title>Adiponectin and adiponectin receptors in insulin resistance, diabetes, and the metabolic syndrome</article-title><source>J. Clin. Investig.</source><year>2006</year><volume>116</volume><fpage>1784</fpage><lpage>1792</lpage><pub-id pub-id-type="doi">10.1172/JCI29126</pub-id><pub-id pub-id-type="pmid">16823476</pub-id>
+</element-citation></ref><ref id="B24-ijms-26-06546"><label>24.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tong</surname><given-names>Q.</given-names></name>
+<name><surname>Sankal</surname><given-names>J.L.</given-names></name>
+<name><surname>Hadigan</surname><given-names>C.M.</given-names></name>
+<name><surname>Tan</surname><given-names>G.</given-names></name>
+<name><surname>Rosenberg</surname><given-names>E.S.</given-names></name>
+<name><surname>Kanki</surname><given-names>P.J.</given-names></name>
+<name><surname>Grinspoon</surname><given-names>S.K.</given-names></name>
+<name><surname>Hotamisligil</surname><given-names>G.S.</given-names></name>
+</person-group><article-title>Regulation of adiponectin in human immunodeficiency virus-infected patients: Relationship to body composition and metabolic in-dices</article-title><source>J. Clin. Endocrinol. Metab.</source><year>2003</year><volume>88</volume><fpage>1559</fpage><lpage>1564</lpage><pub-id pub-id-type="doi">10.1210/jc.2002-021600</pub-id><pub-id pub-id-type="pmid">12679439</pub-id>
+</element-citation></ref><ref id="B25-ijms-26-06546"><label>25.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lagathu</surname><given-names>C.</given-names></name>
+<name><surname>Bastard</surname><given-names>J.P.</given-names></name>
+<name><surname>Auclair</surname><given-names>M.</given-names></name>
+<name><surname>Maachi</surname><given-names>M.</given-names></name>
+<name><surname>Kornprobst</surname><given-names>M.</given-names></name>
+<name><surname>Capeau</surname><given-names>J.</given-names></name>
+<name><surname>Caron</surname><given-names>M.</given-names></name>
+</person-group><article-title>Antiretroviral drugs with adverse effects on adipocyte lipid metabolism and survival alter the expression and secretion of proinflammatory cytokines and adiponectin in vitro</article-title><source>Antivir. Ther.</source><year>2004</year><volume>9</volume><fpage>911</fpage><lpage>920</lpage><pub-id pub-id-type="doi">10.1177/135965350400900607</pub-id><pub-id pub-id-type="pmid">15651750</pub-id>
+</element-citation></ref><ref id="B26-ijms-26-06546"><label>26.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lagathu</surname><given-names>C.</given-names></name>
+<name><surname>Eustace</surname><given-names>B.</given-names></name>
+<name><surname>Prot</surname><given-names>M.</given-names></name>
+<name><surname>Frantz</surname><given-names>D.</given-names></name>
+<name><surname>Gu</surname><given-names>Y.</given-names></name>
+<name><surname>Bastard</surname><given-names>J.P.</given-names></name>
+<name><surname>Maachi</surname><given-names>M.</given-names></name>
+<name><surname>Azoulay</surname><given-names>S.</given-names></name>
+<name><surname>Briggs</surname><given-names>M.</given-names></name>
+<name><surname>Caron</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group><article-title>Some HIV antiretrovirals increase oxidative stress and alter chemokine, cytokine or adiponectin production in human adipocytes and macrophages</article-title><source>Antivir. Ther.</source><year>2007</year><volume>12</volume><fpage>489</fpage><lpage>500</lpage><pub-id pub-id-type="doi">10.1177/135965350701200407</pub-id><pub-id pub-id-type="pmid">17668557</pub-id>
+</element-citation></ref><ref id="B27-ijms-26-06546"><label>27.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jones</surname><given-names>S.P.</given-names></name>
+<name><surname>Janneh</surname><given-names>O.</given-names></name>
+<name><surname>Back</surname><given-names>D.J.</given-names></name>
+<name><surname>Pirmohamed</surname><given-names>M.</given-names></name>
+</person-group><article-title>Altered adipokine response in murine 3T3-F442A adipocytes treated with protease inhibitors and nucleoside reverse transcriptase inhibitors</article-title><source>Antivir. Ther.</source><year>2005</year><volume>10</volume><fpage>207</fpage><lpage>213</lpage><pub-id pub-id-type="doi">10.1177/135965350501000202</pub-id><pub-id pub-id-type="pmid">15865214</pub-id>
+</element-citation></ref><ref id="B28-ijms-26-06546"><label>28.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gallego-Escuredo</surname><given-names>J.M.</given-names></name>
+<name><surname>Del Mar Gutierrez</surname><given-names>M.</given-names></name>
+<name><surname>Diaz-Delfin</surname><given-names>J.</given-names></name>
+<name><surname>Domingo</surname><given-names>J.C.</given-names></name>
+<name><surname>Mateo</surname><given-names>M.G.</given-names></name>
+<name><surname>Domingo</surname><given-names>P.</given-names></name>
+<name><surname>Giralt</surname><given-names>M.</given-names></name>
+<name><surname>Villarroya</surname><given-names>F.</given-names></name>
+</person-group><article-title>Differential effects of efavirenz and lopinavir/ritonavir on human adipocyte differentiation, gene expression and release of adipokines and pro-inflammatory cytokines</article-title><source>Curr. HIV Res.</source><year>2010</year><volume>8</volume><fpage>545</fpage><lpage>553</lpage><pub-id pub-id-type="doi">10.2174/157016210793499222</pub-id><pub-id pub-id-type="pmid">21073442</pub-id>
+</element-citation></ref><ref id="B29-ijms-26-06546"><label>29.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tiliscan</surname><given-names>C.</given-names></name>
+<name><surname>Aram&#x00103;</surname><given-names>V.</given-names></name>
+<name><surname>Mih&#x00103;ilescu</surname><given-names>R.</given-names></name>
+<name><surname>Munteanu</surname><given-names>D.I.</given-names></name>
+<name><surname>Streinu-Cercel</surname><given-names>A.</given-names></name>
+<name><surname>Ion</surname><given-names>D.A.</given-names></name>
+<name><surname>R&#x00103;dulescu</surname><given-names>M.A.</given-names></name>
+<name><surname>Popescu</surname><given-names>C.</given-names></name>
+<name><surname>Lobodan</surname><given-names>A.E.</given-names></name>
+<name><surname>Negru</surname><given-names>A.R.</given-names></name>
+<etal/>
+</person-group><article-title>Leptin expression in HIV-infected patients during antiretroviral therapy</article-title><source>Germs</source><year>2015</year><volume>5</volume><fpage>92</fpage><lpage>98</lpage><pub-id pub-id-type="doi">10.11599/germs.2015.1076</pub-id><pub-id pub-id-type="pmid">26405677</pub-id>
+</element-citation></ref><ref id="B30-ijms-26-06546"><label>30.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Giralt</surname><given-names>M.</given-names></name>
+<name><surname>D&#x000ed;az-Delf&#x000ed;n</surname><given-names>J.</given-names></name>
+<name><surname>Gallego-Escuredo</surname><given-names>J.M.</given-names></name>
+<name><surname>Villarroya</surname><given-names>J.</given-names></name>
+<name><surname>Domingo</surname><given-names>P.</given-names></name>
+<name><surname>Villarroya</surname><given-names>F.</given-names></name>
+</person-group><article-title>Lipotoxicity on the basis of metabolic syndrome and lipodystrophy in HIV-1-infected patients under antiretroviral treatment</article-title><source>Curr. Pharm. Des.</source><year>2010</year><volume>16</volume><fpage>3371</fpage><lpage>3378</lpage><pub-id pub-id-type="doi">10.2174/138161210793563527</pub-id><pub-id pub-id-type="pmid">20687888</pub-id>
+</element-citation></ref><ref id="B31-ijms-26-06546"><label>31.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Villarroya</surname><given-names>F.</given-names></name>
+<name><surname>Domingo</surname><given-names>P.</given-names></name>
+<name><surname>Giralt</surname><given-names>M.</given-names></name>
+</person-group><article-title>Drug-induced lipotoxicity: Lipodystrophy associated with HIV-1 infection and antiretroviral treatment</article-title><source>Biochim. Biophys. Acta</source><year>2010</year><volume>1801</volume><fpage>392</fpage><lpage>399</lpage><pub-id pub-id-type="doi">10.1016/j.bbalip.2009.09.018</pub-id><pub-id pub-id-type="pmid">19800025</pub-id>
+</element-citation></ref><ref id="B32-ijms-26-06546"><label>32.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Torriani</surname><given-names>M.</given-names></name>
+<name><surname>Thomas</surname><given-names>B.J.</given-names></name>
+<name><surname>Barlow</surname><given-names>R.B.</given-names></name>
+<name><surname>Librizzi</surname><given-names>J.</given-names></name>
+<name><surname>Dolan</surname><given-names>S.</given-names></name>
+<name><surname>Grinspoon</surname><given-names>S.</given-names></name>
+</person-group><article-title>Increased intramyocellular lipid accumulation in HIV-infected women with fat redistribution</article-title><source>J. Appl. Physiol.</source><year>2006</year><volume>100</volume><fpage>609</fpage><lpage>614</lpage><pub-id pub-id-type="doi">10.1152/japplphysiol.00797.2005</pub-id><pub-id pub-id-type="pmid">16223978</pub-id>
+</element-citation></ref><ref id="B33-ijms-26-06546"><label>33.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sutinen</surname><given-names>J.</given-names></name>
+<name><surname>H&#x000e4;kkinen</surname><given-names>A.M.</given-names></name>
+<name><surname>Westerbacka</surname><given-names>J.</given-names></name>
+<name><surname>Sepp&#x000e4;l&#x000e4;-Lindroos</surname><given-names>A.</given-names></name>
+<name><surname>Vehkavaara</surname><given-names>S.</given-names></name>
+<name><surname>Halavaara</surname><given-names>J.</given-names></name>
+<name><surname>J&#x000e4;rvinen</surname><given-names>A.</given-names></name>
+<name><surname>Ristola</surname><given-names>M.</given-names></name>
+<name><surname>Yki-J&#x000e4;rvinen</surname><given-names>H.</given-names></name>
+</person-group><article-title>Increased fat accumulation in the liver in HIV-infected patients with antiretroviral therapy-associated lipodystrophy</article-title><source>AIDS</source><year>2002</year><volume>16</volume><fpage>2183</fpage><lpage>2193</lpage><pub-id pub-id-type="doi">10.1097/00002030-200211080-00011</pub-id><pub-id pub-id-type="pmid">12409740</pub-id>
+</element-citation></ref><ref id="B34-ijms-26-06546"><label>34.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Neilan</surname><given-names>T.G.</given-names></name>
+<name><surname>Nguyen</surname><given-names>K.L.</given-names></name>
+<name><surname>Zaha</surname><given-names>V.G.</given-names></name>
+<name><surname>Chew</surname><given-names>K.W.</given-names></name>
+<name><surname>Morrison</surname><given-names>L.</given-names></name>
+<name><surname>Ntusi</surname><given-names>N.A.B.</given-names></name>
+<name><surname>Toribio</surname><given-names>M.</given-names></name>
+<name><surname>Awadalla</surname><given-names>M.</given-names></name>
+<name><surname>Drobni</surname><given-names>Z.D.</given-names></name>
+<name><surname>Nelson</surname><given-names>M.D.</given-names></name>
+<etal/>
+</person-group><article-title>Myocardial Steatosis Among Antiretroviral Therapy-Treated People with Human Immunodeficiency Virus Participating in the REPRIEVE Trial</article-title><source>J. Infect. Dis.</source><year>2020</year><volume>222</volume><issue>(Suppl. 1)</issue><fpage>S63</fpage><lpage>S69</lpage><pub-id pub-id-type="doi">10.1093/infdis/jiaa245</pub-id><pub-id pub-id-type="pmid">32645158</pub-id>
+</element-citation></ref><ref id="B35-ijms-26-06546"><label>35.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tuddenham</surname><given-names>S.A.</given-names></name>
+<name><surname>Koay</surname><given-names>W.L.A.</given-names></name>
+<name><surname>Zhao</surname><given-names>N.</given-names></name>
+<name><surname>White</surname><given-names>J.R.</given-names></name>
+<name><surname>Ghanem</surname><given-names>K.G.</given-names></name>
+<name><surname>Sears</surname><given-names>C.L.</given-names></name>
+<collab>HIV Microbiome Re-analysis Consortium</collab>
+</person-group><article-title>The Impact of Human Immunodeficiency Virus Infection on Gut Microbiota &#x003b1;-Diversity: An Individual-level Meta-analysis</article-title><source>Clin. Infect. Dis.</source><year>2020</year><volume>70</volume><fpage>615</fpage><lpage>627</lpage><pub-id pub-id-type="doi">10.1093/cid/ciz258</pub-id><pub-id pub-id-type="pmid">30921452</pub-id>
+</element-citation></ref><ref id="B36-ijms-26-06546"><label>36.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Brenchley</surname><given-names>J.M.</given-names></name>
+<name><surname>Price</surname><given-names>D.A.</given-names></name>
+<name><surname>Schacker</surname><given-names>T.W.</given-names></name>
+<name><surname>Asher</surname><given-names>T.E.</given-names></name>
+<name><surname>Silvestri</surname><given-names>G.</given-names></name>
+<name><surname>Rao</surname><given-names>S.</given-names></name>
+<name><surname>Kazzaz</surname><given-names>Z.</given-names></name>
+<name><surname>Bornstein</surname><given-names>E.</given-names></name>
+<name><surname>Lambotte</surname><given-names>O.</given-names></name>
+<name><surname>Altmann</surname><given-names>D.</given-names></name>
+<etal/>
+</person-group><article-title>Microbial translocation is a cause of systemic immune activation in chronic HIV infection</article-title><source>Nat. Med.</source><year>2006</year><volume>12</volume><fpage>1365</fpage><lpage>1371</lpage><pub-id pub-id-type="doi">10.1038/nm1511</pub-id><pub-id pub-id-type="pmid">17115046</pub-id>
+</element-citation></ref><ref id="B37-ijms-26-06546"><label>37.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gogokhia</surname><given-names>L.</given-names></name>
+<name><surname>Taur</surname><given-names>Y.</given-names></name>
+<name><surname>Juluru</surname><given-names>K.</given-names></name>
+<name><surname>Yagan</surname><given-names>N.</given-names></name>
+<name><surname>Zhu</surname><given-names>Y.S.</given-names></name>
+<name><surname>Pamer</surname><given-names>E.</given-names></name>
+<name><surname>Glesby</surname><given-names>M.J.</given-names></name>
+</person-group><article-title>Intestinal Dysbiosis and Markers of Systemic Inflammation in Viscerally and Generally Obese Persons Living with HIV</article-title><source>J. Acquir. Immune Defic. Syndr.</source><year>2020</year><volume>83</volume><fpage>81</fpage><lpage>89</lpage><pub-id pub-id-type="doi">10.1097/QAI.0000000000002229</pub-id><pub-id pub-id-type="pmid">31809363</pub-id>
+</element-citation></ref><ref id="B38-ijms-26-06546"><label>38.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dillon</surname><given-names>S.M.</given-names></name>
+<name><surname>Kibbie</surname><given-names>J.</given-names></name>
+<name><surname>Lee</surname><given-names>E.J.</given-names></name>
+<name><surname>Guo</surname><given-names>K.</given-names></name>
+<name><surname>Santiago</surname><given-names>M.L.</given-names></name>
+<name><surname>Austin</surname><given-names>G.L.</given-names></name>
+<name><surname>Gianella</surname><given-names>S.</given-names></name>
+<name><surname>Landay</surname><given-names>A.L.</given-names></name>
+<name><surname>Donovan</surname><given-names>A.M.</given-names></name>
+<name><surname>Frank</surname><given-names>D.N.</given-names></name>
+<etal/>
+</person-group><article-title>Low abundance of colonic butyrate-producing bacteria in HIV infection is associated with microbial translocation and immune activation</article-title><source>AIDS</source><year>2017</year><volume>31</volume><fpage>511</fpage><lpage>521</lpage><pub-id pub-id-type="doi">10.1097/QAD.0000000000001366</pub-id><pub-id pub-id-type="pmid">28002063</pub-id>
+</element-citation></ref><ref id="B39-ijms-26-06546"><label>39.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lloreta</surname><given-names>J.</given-names></name>
+<name><surname>Domingo</surname><given-names>P.</given-names></name>
+<name><surname>Pujol</surname><given-names>R.M.</given-names></name>
+<name><surname>Arroyo</surname><given-names>J.A.</given-names></name>
+<name><surname>Baixeras</surname><given-names>N.</given-names></name>
+<name><surname>Matias-Guiu</surname><given-names>X.</given-names></name>
+<name><surname>Gilaberte</surname><given-names>M.</given-names></name>
+<name><surname>Sambeat</surname><given-names>M.A.</given-names></name>
+<name><surname>Serrano</surname><given-names>S.</given-names></name>
+</person-group><article-title>Ultra-structural features of highly active antiretroviral therapy-associated partial lipodystrophy</article-title><source>Virchows Arch.</source><year>2002</year><volume>441</volume><fpage>599</fpage><lpage>604</lpage><pub-id pub-id-type="doi">10.1007/s00428-002-0667-0</pub-id><pub-id pub-id-type="pmid">12461618</pub-id>
+</element-citation></ref><ref id="B40-ijms-26-06546"><label>40.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jan</surname><given-names>V.</given-names></name>
+<name><surname>Cervera</surname><given-names>P.</given-names></name>
+<name><surname>Maachi</surname><given-names>M.</given-names></name>
+<name><surname>Baudrimont</surname><given-names>M.</given-names></name>
+<name><surname>Kim</surname><given-names>M.</given-names></name>
+<name><surname>Vidal</surname><given-names>H.</given-names></name>
+<name><surname>Girard</surname><given-names>P.M.</given-names></name>
+<name><surname>Levan</surname><given-names>P.</given-names></name>
+<name><surname>Rozenbaum</surname><given-names>W.</given-names></name>
+<name><surname>Lomb&#x000e8;s</surname><given-names>A.</given-names></name>
+<etal/>
+</person-group><article-title>Altered fat differentiation and adipocytokine expression are interrelated and linked to morphological changes and insulin resistance in HIV-1-infected lipodystrophic patients</article-title><source>Antivir. Ther.</source><year>2004</year><volume>9</volume><fpage>555</fpage><lpage>564</lpage><pub-id pub-id-type="doi">10.1177/135965350400900412</pub-id><pub-id pub-id-type="pmid">15456087</pub-id>
+</element-citation></ref><ref id="B41-ijms-26-06546"><label>41.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Guaraldi</surname><given-names>G.</given-names></name>
+<name><surname>Luzi</surname><given-names>K.</given-names></name>
+<name><surname>Bellistr&#x000ec;</surname><given-names>G.M.</given-names></name>
+<name><surname>Zona</surname><given-names>S.</given-names></name>
+<name><surname>Domingues da Silva</surname><given-names>A.R.</given-names></name>
+<name><surname>Bai</surname><given-names>F.</given-names></name>
+<name><surname>Garlassi</surname><given-names>E.</given-names></name>
+<name><surname>Marchetti</surname><given-names>G.</given-names></name>
+<name><surname>Capeau</surname><given-names>J.</given-names></name>
+<name><surname>Monforte</surname><given-names>A.D.</given-names></name>
+</person-group><article-title>CD8 T-cell activation is associated with lipodystrophy and visceral fat accumulation in antiretroviral therapy-treated virologically suppressed HIV-infected patients</article-title><source>J. Acquir. Immune Defic. Syndr.</source><year>2013</year><volume>64</volume><fpage>360</fpage><lpage>366</lpage><pub-id pub-id-type="doi">10.1097/QAI.0000000000000001</pub-id><pub-id pub-id-type="pmid">24129368</pub-id>
+</element-citation></ref><ref id="B42-ijms-26-06546"><label>42.</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Giralt</surname><given-names>M.</given-names></name>
+<name><surname>Villarroya</surname><given-names>F.</given-names></name>
+<name><surname>Araujo-Vilar</surname><given-names>D.</given-names></name>
+</person-group><article-title>Lipodystrophies</article-title><source>Encyclopedia of Endocrine Diseases</source><edition>2nd ed.</edition><person-group person-group-type="editor">
+<name><surname>Huhyaniemi</surname><given-names>I.</given-names></name>
+<name><surname>Martini</surname><given-names>L.</given-names></name>
+</person-group><publisher-name>Elsevier</publisher-name><publisher-loc>Amsterdam, The Netherlands</publisher-loc><year>2019</year><fpage>482</fpage><lpage>495</lpage></element-citation></ref><ref id="B43-ijms-26-06546"><label>43.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Villarroya</surname><given-names>F.</given-names></name>
+<name><surname>Domingo</surname><given-names>P.</given-names></name>
+<name><surname>Giralt</surname><given-names>M.</given-names></name>
+</person-group><article-title>Lipodystrophy associated with highly active anti-retroviral therapy for HIV infection: The adipocyte as a target of anti-retroviral-induced mitochondrial toxicity</article-title><source>Trends Pharmacol. Sci.</source><year>2005</year><volume>26</volume><fpage>88</fpage><lpage>93</lpage><pub-id pub-id-type="doi">10.1016/j.tips.2004.12.005</pub-id><pub-id pub-id-type="pmid">15681026</pub-id>
+</element-citation></ref><ref id="B44-ijms-26-06546"><label>44.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Caron</surname><given-names>M.</given-names></name>
+<name><surname>Auclair</surname><given-names>M.</given-names></name>
+<name><surname>Lagathu</surname><given-names>C.</given-names></name>
+<name><surname>Lomb&#x000e8;s</surname><given-names>A.</given-names></name>
+<name><surname>Walker</surname><given-names>U.A.</given-names></name>
+<name><surname>Kornprobst</surname><given-names>M.</given-names></name>
+<name><surname>Capeau</surname><given-names>J.</given-names></name>
+</person-group><article-title>The HIV-1 nucleoside reverse transcriptase inhibitors stavudine and zidovudine alter adipocyte functions in vitro</article-title><source>AIDS</source><year>2004</year><volume>18</volume><fpage>2127</fpage><lpage>2136</lpage><pub-id pub-id-type="doi">10.1097/00002030-200411050-00004</pub-id><pub-id pub-id-type="pmid">15577645</pub-id>
+</element-citation></ref><ref id="B45-ijms-26-06546"><label>45.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Stankov</surname><given-names>M.V.</given-names></name>
+<name><surname>L&#x000fc;cke</surname><given-names>T.</given-names></name>
+<name><surname>Das</surname><given-names>A.M.</given-names></name>
+<name><surname>Schmidt</surname><given-names>R.E.</given-names></name>
+<name><surname>Behrens</surname><given-names>G.M.</given-names></name>
+</person-group><article-title>Mitochondrial DNA depletion and respiratory chain activity in primary human subcutaneous adipocytes treated with nucleoside analogue reverse transcriptase inhibitors</article-title><source>Antimicrob. Agents Chemother.</source><year>2010</year><volume>54</volume><fpage>280</fpage><lpage>287</lpage><pub-id pub-id-type="doi">10.1128/AAC.00914-09</pub-id><pub-id pub-id-type="pmid">19805555</pub-id>
+</element-citation></ref><ref id="B46-ijms-26-06546"><label>46.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>De Luca</surname><given-names>A.</given-names></name>
+<name><surname>Nasi</surname><given-names>M.</given-names></name>
+<name><surname>Di Giambenedetto</surname><given-names>S.</given-names></name>
+<name><surname>Cozzi-Lepri</surname><given-names>A.</given-names></name>
+<name><surname>Pinti</surname><given-names>M.</given-names></name>
+<name><surname>Marzocchetti</surname><given-names>A.</given-names></name>
+<name><surname>Mussini</surname><given-names>C.</given-names></name>
+<name><surname>Fabbiani</surname><given-names>M.</given-names></name>
+<name><surname>Bracciale</surname><given-names>L.</given-names></name>
+<name><surname>Cauda</surname><given-names>R.</given-names></name>
+<etal/>
+</person-group><article-title>Mitochondrial DNA haplogroups and incidence of lipodystrophy in HIV-infected patients on long-term antiretroviral therapy</article-title><source>J. Acquir. Immune Defic. Syndr.</source><year>2012</year><volume>59</volume><fpage>113</fpage><lpage>120</lpage><pub-id pub-id-type="doi">10.1097/QAI.0b013e31823daff3</pub-id><pub-id pub-id-type="pmid">22245716</pub-id>
+</element-citation></ref><ref id="B47-ijms-26-06546"><label>47.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gallego-Escuredo</surname><given-names>J.M.</given-names></name>
+<name><surname>Villarroya</surname><given-names>J.</given-names></name>
+<name><surname>Domingo</surname><given-names>P.</given-names></name>
+<name><surname>Targarona</surname><given-names>E.M.</given-names></name>
+<name><surname>Alegre</surname><given-names>M.</given-names></name>
+<name><surname>Domingo</surname><given-names>J.C.</given-names></name>
+<name><surname>Villarroya</surname><given-names>F.</given-names></name>
+<name><surname>Giralt</surname><given-names>M.</given-names></name>
+</person-group><article-title>Differentially altered molecular signature of visceral adipose tissue in HIV-1-associated lipodystrophy</article-title><source>J. Acquir. Immune Defic. Syndr.</source><year>2013</year><volume>64</volume><fpage>142</fpage><lpage>148</lpage><pub-id pub-id-type="doi">10.1097/QAI.0b013e31829bdb67</pub-id><pub-id pub-id-type="pmid">23714743</pub-id>
+</element-citation></ref><ref id="B48-ijms-26-06546"><label>48.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kovsan</surname><given-names>J.</given-names></name>
+<name><surname>Osnis</surname><given-names>A.</given-names></name>
+<name><surname>Maissel</surname><given-names>A.</given-names></name>
+<name><surname>Mazor</surname><given-names>L.</given-names></name>
+<name><surname>Tarnovscki</surname><given-names>T.</given-names></name>
+<name><surname>Hollander</surname><given-names>L.</given-names></name>
+<name><surname>Ovadia</surname><given-names>S.</given-names></name>
+<name><surname>Meier</surname><given-names>B.</given-names></name>
+<name><surname>Klein</surname><given-names>J.</given-names></name>
+<name><surname>Bashan</surname><given-names>N.</given-names></name>
+<etal/>
+</person-group><article-title>Depot-specific adipocyte cell lines reveal differential drug-induced responses of white adipocytes--relevance for partial lipodystrophy</article-title><source>Am. J. Physiol. Endocrinol. Metab.</source><year>2009</year><volume>296</volume><fpage>E315</fpage><lpage>E322</lpage><pub-id pub-id-type="doi">10.1152/ajpendo.90486.2008</pub-id><pub-id pub-id-type="pmid">19033543</pub-id>
+</element-citation></ref><ref id="B49-ijms-26-06546"><label>49.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Villarroya</surname><given-names>F.</given-names></name>
+<name><surname>Domingo</surname><given-names>P.</given-names></name>
+<name><surname>Giralt</surname><given-names>M.</given-names></name>
+</person-group><article-title>Lipodystrophy in HIV 1-infected patients: Lessons for obesity research</article-title><source>Int. J. Obes.</source><year>2007</year><volume>31</volume><fpage>1763</fpage><lpage>1776</lpage><pub-id pub-id-type="doi">10.1038/sj.ijo.0803698</pub-id></element-citation></ref><ref id="B50-ijms-26-06546"><label>50.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Srinivasa</surname><given-names>S.</given-names></name>
+<name><surname>Grinspoon</surname><given-names>S.K.</given-names></name>
+</person-group><article-title>Metabolic and body composition effects of newer antiretrovirals in HIV-infected patients</article-title><source>Eur. J. Endocrinol.</source><year>2014</year><volume>170</volume><fpage>R185</fpage><lpage>R202</lpage><pub-id pub-id-type="doi">10.1530/EJE-13-0967</pub-id><pub-id pub-id-type="pmid">24523497</pub-id>
+</element-citation></ref><ref id="B51-ijms-26-06546"><label>51.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shackleton</surname><given-names>S.</given-names></name>
+<name><surname>Lloyd</surname><given-names>D.J.</given-names></name>
+<name><surname>Jackson</surname><given-names>S.N.</given-names></name>
+<name><surname>Evans</surname><given-names>R.</given-names></name>
+<name><surname>Niermeijer</surname><given-names>M.F.</given-names></name>
+<name><surname>Singh</surname><given-names>B.M.</given-names></name>
+<name><surname>Schmidt</surname><given-names>H.</given-names></name>
+<name><surname>Brabant</surname><given-names>G.</given-names></name>
+<name><surname>Kumar</surname><given-names>S.</given-names></name>
+<name><surname>Durrington</surname><given-names>P.N.</given-names></name>
+<etal/>
+</person-group><article-title>LMNA, encoding lamin A/C, is mutated in partial lipodystrophy</article-title><source>Nat. Genet.</source><year>2000</year><volume>24</volume><fpage>153</fpage><lpage>156</lpage><pub-id pub-id-type="doi">10.1038/72807</pub-id><pub-id pub-id-type="pmid">10655060</pub-id>
+</element-citation></ref><ref id="B52-ijms-26-06546"><label>52.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Torriani</surname><given-names>M.</given-names></name>
+<name><surname>Srinivasa</surname><given-names>S.</given-names></name>
+<name><surname>Fitch</surname><given-names>K.V.</given-names></name>
+<name><surname>Thomou</surname><given-names>T.</given-names></name>
+<name><surname>Wong</surname><given-names>K.</given-names></name>
+<name><surname>Petrow</surname><given-names>E.</given-names></name>
+<name><surname>Kahn</surname><given-names>C.R.</given-names></name>
+<name><surname>Cypess</surname><given-names>A.M.</given-names></name>
+<name><surname>Grinspoon</surname><given-names>S.K.</given-names></name>
+</person-group><article-title>Dysfunctional Subcutaneous Fat with Reduced Dicer and Brown Adipose Tissue Gene Expression in HIV-Infected Patients</article-title><source>J. Clin. Endocrinol. Metab.</source><year>2016</year><volume>10</volume><fpage>1225</fpage><lpage>1234</lpage><pub-id pub-id-type="doi">10.1210/jc.2015-3993</pub-id></element-citation></ref><ref id="B53-ijms-26-06546"><label>53.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Srinivasa</surname><given-names>S.</given-names></name>
+<name><surname>Garcia-Martin</surname><given-names>R.</given-names></name>
+<name><surname>Torriani</surname><given-names>M.</given-names></name>
+<name><surname>Fitch</surname><given-names>K.V.</given-names></name>
+<name><surname>Carlson</surname><given-names>A.R.</given-names></name>
+<name><surname>Kahn</surname><given-names>C.R.</given-names></name>
+<name><surname>Grinspoon</surname><given-names>S.K.</given-names></name>
+</person-group><article-title>Altered pattern of circulating miRNAs in HIV lipodystrophy perturbs key adipose differentiation and inflammation pathways</article-title><source>JCI Insight</source><year>2021</year><volume>6</volume><fpage>e150399</fpage><pub-id pub-id-type="doi">10.1172/jci.insight.150399</pub-id><pub-id pub-id-type="pmid">34383714</pub-id>
+</element-citation></ref><ref id="B54-ijms-26-06546"><label>54.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Munier</surname><given-names>S.</given-names></name>
+<name><surname>Borjabad</surname><given-names>A.</given-names></name>
+<name><surname>Lemaire</surname><given-names>M.</given-names></name>
+<name><surname>Mariot</surname><given-names>V.</given-names></name>
+<name><surname>Hazan</surname><given-names>U.</given-names></name>
+</person-group><article-title>In vitro infection of human primary adipose cells with HIV-1: A reassessment</article-title><source>AIDS</source><year>2003</year><volume>17</volume><fpage>2537</fpage><lpage>2539</lpage><pub-id pub-id-type="doi">10.1097/00002030-200311210-00019</pub-id><pub-id pub-id-type="pmid">14600528</pub-id>
+</element-citation></ref><ref id="B55-ijms-26-06546"><label>55.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Couturier</surname><given-names>J.</given-names></name>
+<name><surname>Suliburk</surname><given-names>J.W.</given-names></name>
+<name><surname>Brown</surname><given-names>J.M.</given-names></name>
+<name><surname>Luke</surname><given-names>D.J.</given-names></name>
+<name><surname>Agarwal</surname><given-names>N.</given-names></name>
+<name><surname>Yu</surname><given-names>X.</given-names></name>
+<name><surname>Nguyen</surname><given-names>C.</given-names></name>
+<name><surname>Iyer</surname><given-names>D.</given-names></name>
+<name><surname>Kozinetz</surname><given-names>C.A.</given-names></name>
+<name><surname>Overbeek</surname><given-names>P.A.</given-names></name>
+<etal/>
+</person-group><article-title>Human adipose tissue as a reservoir for memory CD4+ T cells and HIV</article-title><source>AIDS</source><year>2015</year><volume>29</volume><fpage>667</fpage><lpage>674</lpage><pub-id pub-id-type="doi">10.1097/QAD.0000000000000599</pub-id><pub-id pub-id-type="pmid">25849830</pub-id>
+</element-citation></ref><ref id="B56-ijms-26-06546"><label>56.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Damouche</surname><given-names>A.</given-names></name>
+<name><surname>Lazure</surname><given-names>T.</given-names></name>
+<name><surname>Avettand-F&#x000e8;no&#x000eb;l</surname><given-names>V.</given-names></name>
+<name><surname>Huot</surname><given-names>N.</given-names></name>
+<name><surname>Dejucq-Rainsford</surname><given-names>N.</given-names></name>
+<name><surname>Satie</surname><given-names>A.P.</given-names></name>
+<name><surname>M&#x000e9;lard</surname><given-names>A.</given-names></name>
+<name><surname>David</surname><given-names>L.</given-names></name>
+<name><surname>Gommet</surname><given-names>C.</given-names></name>
+<name><surname>Ghosn</surname><given-names>J.</given-names></name>
+<etal/>
+</person-group><article-title>Adipose Tissue Is a Neglected Viral Reservoir and an Inflammatory Site during Chronic HIV and SIV Infection</article-title><source>PLoS Pathog.</source><year>2015</year><volume>11</volume><elocation-id>e1005153</elocation-id><pub-id pub-id-type="doi">10.1371/journal.ppat.1005153</pub-id><pub-id pub-id-type="pmid">26402858</pub-id>
+</element-citation></ref><ref id="B57-ijms-26-06546"><label>57.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Couturier</surname><given-names>J.</given-names></name>
+<name><surname>Lewis</surname><given-names>D.E.</given-names></name>
+</person-group><article-title>HIV Persistence in Adipose Tissue Reservoirs</article-title><source>Curr. HIV/AIDS Rep.</source><year>2018</year><volume>15</volume><fpage>60</fpage><lpage>71</lpage><pub-id pub-id-type="doi">10.1007/s11904-018-0378-z</pub-id><pub-id pub-id-type="pmid">29423731</pub-id>
+</element-citation></ref><ref id="B58-ijms-26-06546"><label>58.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gorwood</surname><given-names>J.</given-names></name>
+<name><surname>Bourgeois</surname><given-names>C.</given-names></name>
+<name><surname>Mantecon</surname><given-names>M.</given-names></name>
+<name><surname>Atlan</surname><given-names>M.</given-names></name>
+<name><surname>Pourcher</surname><given-names>V.</given-names></name>
+<name><surname>Pourcher</surname><given-names>G.</given-names></name>
+<name><surname>Le Grand</surname><given-names>R.</given-names></name>
+<name><surname>Desjardins</surname><given-names>D.</given-names></name>
+<name><surname>F&#x000e8;ve</surname><given-names>B.</given-names></name>
+<name><surname>Lambotte</surname><given-names>O.</given-names></name>
+<etal/>
+</person-group><article-title>Impact of HIV/simian immunodeficiency virus infection and viral proteins on adipose tissue fibrosis and adipogenesis</article-title><source>AIDS</source><year>2019</year><volume>33</volume><fpage>953</fpage><lpage>964</lpage><pub-id pub-id-type="doi">10.1097/QAD.0000000000002168</pub-id><pub-id pub-id-type="pmid">30946149</pub-id>
+</element-citation></ref><ref id="B59-ijms-26-06546"><label>59.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gorwood</surname><given-names>J.</given-names></name>
+<name><surname>Ejlalmanesh</surname><given-names>T.</given-names></name>
+<name><surname>Bourgeois</surname><given-names>C.</given-names></name>
+<name><surname>Mantecon</surname><given-names>M.</given-names></name>
+<name><surname>Rose</surname><given-names>C.</given-names></name>
+<name><surname>Atlan</surname><given-names>M.</given-names></name>
+<name><surname>Desjardins</surname><given-names>D.</given-names></name>
+<name><surname>Le Grand</surname><given-names>R.</given-names></name>
+<name><surname>F&#x000e8;ve</surname><given-names>B.</given-names></name>
+<name><surname>Lambotte</surname><given-names>O.</given-names></name>
+<etal/>
+</person-group><article-title>SIV Infection and the HIV Proteins Tat and Nef Induce Senescence in Adipose Tissue and Human Adipose Stem Cells, Resulting in Adipocyte Dysfunction</article-title><source>Cells</source><year>2020</year><volume>9</volume><elocation-id>854</elocation-id><pub-id pub-id-type="doi">10.3390/cells9040854</pub-id><pub-id pub-id-type="pmid">32244726</pub-id>
+</element-citation></ref><ref id="B60-ijms-26-06546"><label>60.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Agarwal</surname><given-names>N.</given-names></name>
+<name><surname>Balasubramanyam</surname><given-names>A.</given-names></name>
+</person-group><article-title>Viral mechanisms of adipose dysfunction: Lessons from HIV-1 Vpr</article-title><source>Adipocyte</source><year>2014</year><volume>4</volume><fpage>55</fpage><lpage>59</lpage><pub-id pub-id-type="doi">10.4161/adip.29852</pub-id><pub-id pub-id-type="pmid">26167403</pub-id>
+</element-citation></ref><ref id="B61-ijms-26-06546"><label>61.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>D&#x000ed;az-Delf&#x000ed;n</surname><given-names>J.</given-names></name>
+<name><surname>Domingo</surname><given-names>P.</given-names></name>
+<name><surname>Wabitsch</surname><given-names>M.</given-names></name>
+<name><surname>Giralt</surname><given-names>M.</given-names></name>
+<name><surname>Villarroya</surname><given-names>F.</given-names></name>
+</person-group><article-title>HIV-1 Tat protein impairs adipogenesis and induces the expression and secretion of proinflammatory cytokines in human SGBS adipocytes</article-title><source>Antivir. Ther.</source><year>2012</year><volume>17</volume><fpage>529</fpage><lpage>540</lpage><pub-id pub-id-type="doi">10.3851/IMP2021</pub-id><pub-id pub-id-type="pmid">22301094</pub-id>
+</element-citation></ref><ref id="B62-ijms-26-06546"><label>62.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Giralt</surname><given-names>M.</given-names></name>
+<name><surname>Domingo</surname><given-names>P.</given-names></name>
+<name><surname>Guallar</surname><given-names>J.P.</given-names></name>
+<name><surname>Rodriguez de la Concepci&#x000f3;n</surname><given-names>M.L.</given-names></name>
+<name><surname>Alegre</surname><given-names>M.</given-names></name>
+<name><surname>Domingo</surname><given-names>J.C.</given-names></name>
+<name><surname>Villarroya</surname><given-names>F.</given-names></name>
+</person-group><article-title>HIV-1 infection alters gene expression in adipose tissue, which contributes to HIV- 1/HAART-associated lipodystrophy</article-title><source>Antivir. Ther.</source><year>2006</year><volume>11</volume><fpage>729</fpage><lpage>740</lpage><pub-id pub-id-type="doi">10.1177/135965350601100610</pub-id><pub-id pub-id-type="pmid">17310817</pub-id>
+</element-citation></ref><ref id="B63-ijms-26-06546"><label>63.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sax</surname><given-names>P.E.</given-names></name>
+<name><surname>Erlandson</surname><given-names>K.M.</given-names></name>
+<name><surname>Lake</surname><given-names>J.E.</given-names></name>
+<name><surname>Mccomsey</surname><given-names>G.A.</given-names></name>
+<name><surname>Orkin</surname><given-names>C.</given-names></name>
+<name><surname>Esser</surname><given-names>S.</given-names></name>
+<name><surname>Brown</surname><given-names>T.T.</given-names></name>
+<name><surname>Rockstroh</surname><given-names>J.K.</given-names></name>
+<name><surname>Wei</surname><given-names>X.</given-names></name>
+<name><surname>Carter</surname><given-names>C.C.</given-names></name>
+<etal/>
+</person-group><article-title>Weight Gain Following Initiation of Antiretroviral Therapy: Risk Factors in Randomized Comparative Clinical Trials</article-title><source>Clin. Infect. Dis.</source><year>2020</year><volume>71</volume><fpage>1379</fpage><lpage>1389</lpage><pub-id pub-id-type="doi">10.1093/cid/ciz999</pub-id><pub-id pub-id-type="pmid">31606734</pub-id>
+</element-citation></ref><ref id="B64-ijms-26-06546"><label>64.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Venter</surname><given-names>W.D.F.</given-names></name>
+<name><surname>Moorhouse</surname><given-names>M.</given-names></name>
+<name><surname>Sokhela</surname><given-names>S.</given-names></name>
+<name><surname>Fairlie</surname><given-names>L.</given-names></name>
+<name><surname>Mashabane</surname><given-names>N.</given-names></name>
+<name><surname>Masenya</surname><given-names>M.</given-names></name>
+<name><surname>Serenata</surname><given-names>C.</given-names></name>
+<name><surname>Akpomiemie</surname><given-names>G.</given-names></name>
+<name><surname>Qavi</surname><given-names>A.</given-names></name>
+<name><surname>Chandiwana</surname><given-names>N.</given-names></name>
+<etal/>
+</person-group><article-title>Dolutegravir plus Two Different Prodrugs of Tenofovir to Treat HIV</article-title><source>N. Engl. J. Med.</source><year>2019</year><volume>381</volume><fpage>803</fpage><lpage>815</lpage><pub-id pub-id-type="doi">10.1056/NEJMoa1902824</pub-id><pub-id pub-id-type="pmid">31339677</pub-id>
+</element-citation></ref><ref id="B65-ijms-26-06546"><label>65.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Grabar</surname><given-names>S.</given-names></name>
+<name><surname>Potard</surname><given-names>V.</given-names></name>
+<name><surname>Piroth</surname><given-names>L.</given-names></name>
+<name><surname>Abgrall</surname><given-names>S.</given-names></name>
+<name><surname>Bernard</surname><given-names>L.</given-names></name>
+<name><surname>Allavena</surname><given-names>C.</given-names></name>
+<name><surname>Caby</surname><given-names>F.</given-names></name>
+<name><surname>de Truchis</surname><given-names>P.</given-names></name>
+<name><surname>Duvivier</surname><given-names>C.</given-names></name>
+<name><surname>Enel</surname><given-names>P.</given-names></name>
+<etal/>
+</person-group><article-title>Striking differences in weight gain after cART initiation depending on early or advanced presentation: Results from the ANRS CO4 FHDH cohort</article-title><source>J. Antimicrob. Chemother.</source><year>2023</year><volume>78</volume><fpage>757</fpage><lpage>768</lpage><pub-id pub-id-type="doi">10.1093/jac/dkad007</pub-id><pub-id pub-id-type="pmid">36683307</pub-id>
+</element-citation></ref><ref id="B66-ijms-26-06546"><label>66.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lake</surname><given-names>J.E.</given-names></name>
+<name><surname>Wu</surname><given-names>K.</given-names></name>
+<name><surname>Bares</surname><given-names>S.H.</given-names></name>
+<name><surname>Debroy</surname><given-names>P.</given-names></name>
+<name><surname>Godfrey</surname><given-names>C.</given-names></name>
+<name><surname>Koethe</surname><given-names>J.R.</given-names></name>
+<name><surname>McComsey</surname><given-names>G.A.</given-names></name>
+<name><surname>Palella</surname><given-names>F.J.</given-names></name>
+<name><surname>Tassiopoulos</surname><given-names>K.</given-names></name>
+<name><surname>Erlandson</surname><given-names>K.M.</given-names></name>
+</person-group><article-title>Risk Factors for Weight Gain Following Switch to Integrase Inhibitor-Based Antiretroviral Therapy</article-title><source>Clin. Infect. Dis.</source><year>2020</year><volume>71</volume><fpage>e471</fpage><lpage>e477</lpage><pub-id pub-id-type="doi">10.1093/cid/ciaa177</pub-id><pub-id pub-id-type="pmid">32099991</pub-id>
+</element-citation></ref><ref id="B67-ijms-26-06546"><label>67.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bailin</surname><given-names>S.S.</given-names></name>
+<name><surname>Koethe</surname><given-names>J.R.</given-names></name>
+<name><surname>Rebeiro</surname><given-names>P.F.</given-names></name>
+</person-group><article-title>The pathogenesis of obesity in people living with HIV</article-title><source>Curr. Opin. HIV AIDS</source><year>2024</year><volume>19</volume><fpage>6</fpage><lpage>13</lpage><pub-id pub-id-type="doi">10.1097/COH.0000000000000834</pub-id><pub-id pub-id-type="pmid">37934696</pub-id>
+</element-citation></ref><ref id="B68-ijms-26-06546"><label>68.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Domingo</surname><given-names>P.</given-names></name>
+<name><surname>Villarroya</surname><given-names>F.</given-names></name>
+<name><surname>Giralt</surname><given-names>M.</given-names></name>
+<name><surname>Domingo</surname><given-names>J.C.</given-names></name>
+</person-group><article-title>Potential role of the melanocortin signaling system interference in the excess weight gain associated to some antiretroviral drugs in people living with HIV</article-title><source>Int. J. Obes.</source><year>2020</year><volume>44</volume><fpage>1970</fpage><lpage>1973</lpage><pub-id pub-id-type="doi">10.1038/s41366-020-0551-5</pub-id><pub-id pub-id-type="pmid">32080347</pub-id>
+</element-citation></ref><ref id="B69-ijms-26-06546"><label>69.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chandiwana</surname><given-names>N.C.</given-names></name>
+<name><surname>Siedner</surname><given-names>M.J.</given-names></name>
+<name><surname>Marconi</surname><given-names>V.C.</given-names></name>
+<name><surname>Hill</surname><given-names>A.</given-names></name>
+<name><surname>Ali</surname><given-names>M.K.</given-names></name>
+<name><surname>Batterham</surname><given-names>R.L.</given-names></name>
+<name><surname>Venter</surname><given-names>W.D.F.</given-names></name>
+</person-group><article-title>Weight Gain After HIV Therapy Initiation: Pathophysiology and Implications</article-title><source>J. Clin. Endocrinol. Metab.</source><year>2024</year><volume>109</volume><fpage>e478</fpage><lpage>e487</lpage><pub-id pub-id-type="doi">10.1210/clinem/dgad411</pub-id><pub-id pub-id-type="pmid">37437159</pub-id>
+</element-citation></ref><ref id="B70-ijms-26-06546"><label>70.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ngono Ayissi</surname><given-names>K.</given-names></name>
+<name><surname>Gorwood</surname><given-names>J.</given-names></name>
+<name><surname>Le Pelletier</surname><given-names>L.</given-names></name>
+<name><surname>Bourgeois</surname><given-names>C.</given-names></name>
+<name><surname>Beaup&#x000e8;re</surname><given-names>C.</given-names></name>
+<name><surname>Auclair</surname><given-names>M.</given-names></name>
+<name><surname>Foresti</surname><given-names>R.</given-names></name>
+<name><surname>Motterlini</surname><given-names>R.</given-names></name>
+<name><surname>Atlan</surname><given-names>M.</given-names></name>
+<name><surname>Bar-rail-Tran</surname><given-names>A.</given-names></name>
+<etal/>
+</person-group><article-title>Inhibition of Adipose Tissue Beiging by HIV Integrase Inhibitors, Dolutegravir and Bictegravir, Is Associated with Adipocyte Hypertrophy, Hypoxia, Elevated Fibrosis, and Insulin Resistance in Simian Adipose Tissue and Human Adipocytes</article-title><source>Cells</source><year>2022</year><volume>11</volume><elocation-id>1841</elocation-id><pub-id pub-id-type="doi">10.3390/cells11111841</pub-id><pub-id pub-id-type="pmid">35681536</pub-id>
+</element-citation></ref><ref id="B71-ijms-26-06546"><label>71.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gorwood</surname><given-names>J.</given-names></name>
+<name><surname>Bourgeois</surname><given-names>C.</given-names></name>
+<name><surname>Pourcher</surname><given-names>V.</given-names></name>
+<name><surname>Pourcher</surname><given-names>G.</given-names></name>
+<name><surname>Charlotte</surname><given-names>F.</given-names></name>
+<name><surname>Mantecon</surname><given-names>M.</given-names></name>
+<name><surname>Rose</surname><given-names>C.</given-names></name>
+<name><surname>Morichon</surname><given-names>R.</given-names></name>
+<name><surname>Atlan</surname><given-names>M.</given-names></name>
+<name><surname>Le Grand</surname><given-names>R.</given-names></name>
+<etal/>
+</person-group><article-title>The Integrase Inhibitors Dolutegravir and Raltegravir Exert Proadipogenic and Profibrotic Effects and Induce Insulin Resistance in Human/Simian Adipose Tissue and Human Adipocytes</article-title><source>Clin. Infect. Dis.</source><year>2020</year><volume>71</volume><fpage>e549</fpage><lpage>e560</lpage><pub-id pub-id-type="doi">10.1093/cid/ciaa259</pub-id><pub-id pub-id-type="pmid">32166319</pub-id>
+</element-citation></ref><ref id="B72-ijms-26-06546"><label>72.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Domingo</surname><given-names>P.</given-names></name>
+<name><surname>Quesada-L&#x000f3;pez</surname><given-names>T.</given-names></name>
+<name><surname>Villarroya</surname><given-names>J.</given-names></name>
+<name><surname>Cair&#x000f3;</surname><given-names>M.</given-names></name>
+<name><surname>Gutierrez</surname><given-names>M.D.M.</given-names></name>
+<name><surname>Mateo</surname><given-names>M.G.</given-names></name>
+<name><surname>Mur</surname><given-names>I.</given-names></name>
+<name><surname>Corbacho</surname><given-names>N.</given-names></name>
+<name><surname>Domingo</surname><given-names>J.C.</given-names></name>
+<name><surname>Villarroya</surname><given-names>F.</given-names></name>
+<etal/>
+</person-group><article-title>Differential effects of dolutegravir, bictegravir and raltegravir in adipokines and inflammation markers on human adipocytes</article-title><source>Life Sci.</source><year>2022</year><volume>308</volume><fpage>120948</fpage><pub-id pub-id-type="doi">10.1016/j.lfs.2022.120948</pub-id><pub-id pub-id-type="pmid">36096241</pub-id>
+</element-citation></ref><ref id="B73-ijms-26-06546"><label>73.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Quesada-L&#x000f3;pez</surname><given-names>T.</given-names></name>
+<name><surname>Cereijo</surname><given-names>R.</given-names></name>
+<name><surname>Blasco-Roset</surname><given-names>A.</given-names></name>
+<name><surname>Mestres-Arenas</surname><given-names>A.</given-names></name>
+<name><surname>Prieto</surname><given-names>P.</given-names></name>
+<name><surname>Domingo</surname><given-names>J.C.</given-names></name>
+<name><surname>Villarroya</surname><given-names>F.</given-names></name>
+<name><surname>Domingo</surname><given-names>P.</given-names></name>
+<name><surname>Giralt</surname><given-names>M.</given-names></name>
+</person-group><article-title>Divergent effects of the antiretroviral drugs, dolutegravir, tenofovir alafenamide, and tenofovir disoproxil fumarate, on human adipocyte function</article-title><source>Biochem. Pharmacol.</source><year>2024</year><volume>220</volume><elocation-id>116010</elocation-id><pub-id pub-id-type="doi">10.1016/j.bcp.2023.116010</pub-id><pub-id pub-id-type="pmid">38154544</pub-id>
+</element-citation></ref><ref id="B74-ijms-26-06546"><label>74.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Perna</surname><given-names>A.</given-names></name>
+<name><surname>Carleo</surname><given-names>M.A.</given-names></name>
+<name><surname>Mascolo</surname><given-names>S.</given-names></name>
+<name><surname>Guida</surname><given-names>A.</given-names></name>
+<name><surname>Contieri</surname><given-names>M.</given-names></name>
+<name><surname>Sellitto</surname><given-names>C.</given-names></name>
+<name><surname>Hay</surname><given-names>E.</given-names></name>
+<name><surname>De Blasiis</surname><given-names>P.</given-names></name>
+<name><surname>Lucariello</surname><given-names>A.</given-names></name>
+<name><surname>Guerra</surname><given-names>G.</given-names></name>
+<etal/>
+</person-group><article-title>Adipocyte differentiation of 3T3-L1 cells under tenofovir alafenamide, tenofovir disoproxil fumarate, and integrase strand transfer inhibitors selective challenge: An in-vitro model</article-title><source>AIDS</source><year>2023</year><volume>37</volume><fpage>561</fpage><lpage>570</lpage><pub-id pub-id-type="doi">10.1097/QAD.0000000000003455</pub-id><pub-id pub-id-type="pmid">36504092</pub-id>
+</element-citation></ref><ref id="B75-ijms-26-06546"><label>75.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hocqueloux</surname><given-names>L.</given-names></name>
+<name><surname>Menard</surname><given-names>A.</given-names></name>
+<name><surname>Arvieux</surname><given-names>C.</given-names></name>
+<name><surname>Joly</surname><given-names>V.</given-names></name>
+<name><surname>Becker</surname><given-names>A.</given-names></name>
+<name><surname>Ch&#x000e9;ret</surname><given-names>A.</given-names></name>
+<name><surname>Duvivier</surname><given-names>C.</given-names></name>
+<name><surname>Cabi&#x000e9;</surname><given-names>A.</given-names></name>
+<name><surname>Delpierre</surname><given-names>C.</given-names></name>
+<name><surname>Allavena</surname><given-names>C.</given-names></name>
+<etal/>
+</person-group><article-title>Weight gain following the single substitution of tenofovir disoproxil fumarate by tenofovir alafenamide in HIV-infected people from the French Dat&#x02019;AIDS cohort: A propensity score-matched analysis</article-title><source>HIV Med.</source><year>2023</year><volume>24</volume><fpage>925</fpage><lpage>932</lpage><pub-id pub-id-type="doi">10.1111/hiv.13488</pub-id><pub-id pub-id-type="pmid">37015896</pub-id>
+</element-citation></ref><ref id="B76-ijms-26-06546"><label>76.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dulion</surname><given-names>B.</given-names></name>
+<name><surname>Olali</surname><given-names>A.Z.</given-names></name>
+<name><surname>Patel</surname><given-names>N.</given-names></name>
+<name><surname>Virdi</surname><given-names>A.K.</given-names></name>
+<name><surname>Naqib</surname><given-names>A.</given-names></name>
+<name><surname>Wallace</surname><given-names>J.</given-names></name>
+<name><surname>Ross</surname><given-names>R.D.</given-names></name>
+</person-group><article-title>Tenofovir alafenamide promotes weight gain and impairs fatty acid metabolism-related signaling pathways in visceral fat tissue compared to tenofovir disoproxil fumarate</article-title><source>Antivir. Res.</source><year>2025</year><volume>237</volume><fpage>106151</fpage><pub-id pub-id-type="doi">10.1016/j.antiviral.2025.106151</pub-id><pub-id pub-id-type="pmid">40154925</pub-id>
+</element-citation></ref><ref id="B77-ijms-26-06546"><label>77.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Milic</surname><given-names>J.</given-names></name>
+<name><surname>Renzetti</surname><given-names>S.</given-names></name>
+<name><surname>Ferrari</surname><given-names>D.</given-names></name>
+<name><surname>Barbieri</surname><given-names>S.</given-names></name>
+<name><surname>Menozzi</surname><given-names>M.</given-names></name>
+<name><surname>Carli</surname><given-names>F.</given-names></name>
+<name><surname>Dolci</surname><given-names>G.</given-names></name>
+<name><surname>Ciusa</surname><given-names>G.</given-names></name>
+<name><surname>Mussini</surname><given-names>C.</given-names></name>
+<name><surname>Calza</surname><given-names>S.</given-names></name>
+<etal/>
+</person-group><article-title>Relationship between weight gain and insulin resistance in people living with HIV switching to integrase strand transfer inhibitors-based regimens</article-title><source>AIDS</source><year>2022</year><volume>36</volume><fpage>1643</fpage><lpage>1653</lpage><pub-id pub-id-type="doi">10.1097/QAD.0000000000003289</pub-id><pub-id pub-id-type="pmid">35727163</pub-id>
+</element-citation></ref><ref id="B78-ijms-26-06546"><label>78.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gonz&#x000e1;lez-Cord&#x000f3;n</surname><given-names>A.</given-names></name>
+<name><surname>Assoumou</surname><given-names>L.</given-names></name>
+<name><surname>Moyle</surname><given-names>G.</given-names></name>
+<name><surname>Waters</surname><given-names>L.</given-names></name>
+<name><surname>Johnson</surname><given-names>M.</given-names></name>
+<name><surname>Domingo</surname><given-names>P.</given-names></name>
+<name><surname>Fox</surname><given-names>J.</given-names></name>
+<name><surname>Stellbrink</surname><given-names>H.J.</given-names></name>
+<name><surname>Guaraldi</surname><given-names>G.</given-names></name>
+<name><surname>Masi&#x000e1;</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group><article-title>Switching from boosted PIs to dolutegravir decreases soluble CD14 and adiponectin in high cardiovascular risk people living with HIV</article-title><source>J. Antimicrob. Chemother.</source><year>2021</year><volume>76</volume><fpage>2380</fpage><lpage>2393</lpage><pub-id pub-id-type="doi">10.1093/jac/dkab158</pub-id><pub-id pub-id-type="pmid">34120186</pub-id>
+</element-citation></ref><ref id="B79-ijms-26-06546"><label>79.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Summers</surname><given-names>N.A.</given-names></name>
+<name><surname>Lahiri</surname><given-names>C.D.</given-names></name>
+<name><surname>Angert</surname><given-names>C.D.</given-names></name>
+<name><surname>Aldredge</surname><given-names>A.</given-names></name>
+<name><surname>Mehta</surname><given-names>C.C.</given-names></name>
+<name><surname>Ofotokun</surname><given-names>I.</given-names></name>
+<name><surname>Kerchberger</surname><given-names>A.M.</given-names></name>
+<name><surname>Gustafson</surname><given-names>D.</given-names></name>
+<name><surname>Weiser</surname><given-names>S.D.</given-names></name>
+<name><surname>Kassaye</surname><given-names>S.</given-names></name>
+<etal/>
+</person-group><article-title>Metabolic Changes Associated with the Use of Integrase Strand Transfer Inhibitors Among Virally Controlled Women</article-title><source>J. Acquir. Immune Defic. Syndr.</source><year>2020</year><volume>85</volume><fpage>355</fpage><lpage>362</lpage><pub-id pub-id-type="doi">10.1097/QAI.0000000000002447</pub-id><pub-id pub-id-type="pmid">33060420</pub-id>
+</element-citation></ref><ref id="B80-ijms-26-06546"><label>80.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Neesgaard</surname><given-names>B.</given-names></name>
+<name><surname>Greenberg</surname><given-names>L.</given-names></name>
+<name><surname>Mir&#x000f3;</surname><given-names>J.M.</given-names></name>
+<name><surname>Grabmeier-Pfistershammer</surname><given-names>K.</given-names></name>
+<name><surname>Wandeler</surname><given-names>G.</given-names></name>
+<name><surname>Smith</surname><given-names>C.</given-names></name>
+<name><surname>De Wit</surname><given-names>S.</given-names></name>
+<name><surname>Wit</surname><given-names>F.</given-names></name>
+<name><surname>Pelchen-Matthews</surname><given-names>A.</given-names></name>
+<name><surname>Mussini</surname><given-names>C.</given-names></name>
+<etal/>
+</person-group><article-title>Associations between integrase strand-transfer inhibitors and cardiovascular disease in people living with HIV: A multicentre prospective study from the RESPOND cohort consortium</article-title><source>Lancet HIV</source><year>2022</year><volume>9</volume><fpage>e474</fpage><lpage>e485</lpage><pub-id pub-id-type="doi">10.1016/S2352-3018(22)00094-7</pub-id><pub-id pub-id-type="pmid">35688166</pub-id>
+</element-citation></ref><ref id="B81-ijms-26-06546"><label>81.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rebeiro</surname><given-names>P.F.</given-names></name>
+<name><surname>Emond</surname><given-names>B.</given-names></name>
+<name><surname>Rossi</surname><given-names>C.</given-names></name>
+<name><surname>Bookhart</surname><given-names>B.K.</given-names></name>
+<name><surname>Shah</surname><given-names>A.</given-names></name>
+<name><surname>Caron-Lapointe</surname><given-names>G.</given-names></name>
+<name><surname>Lafeuille</surname><given-names>M.H.</given-names></name>
+<name><surname>Donga</surname><given-names>P.</given-names></name>
+</person-group><article-title>Incidence of cardiometabolic outcomes among people living with HIV-1 initiated on integrase strand transfer inhibitor versus non-integrase strand transfer inhibitor antiretroviral therapies: A retrospective analysis of insurance claims in the United States</article-title><source>J. Int. AIDS Soc.</source><year>2023</year><volume>26</volume><fpage>e26123</fpage><pub-id pub-id-type="doi">10.1002/jia2.26123</pub-id><pub-id pub-id-type="pmid">37306118</pub-id>
+</element-citation></ref><ref id="B82-ijms-26-06546"><label>82.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bastard</surname><given-names>J.P.</given-names></name>
+<name><surname>Couffignal</surname><given-names>C.</given-names></name>
+<name><surname>Fellahi</surname><given-names>S.</given-names></name>
+<name><surname>Bard</surname><given-names>J.M.</given-names></name>
+<name><surname>Mentre</surname><given-names>F.</given-names></name>
+<name><surname>Salmon</surname><given-names>D.</given-names></name>
+<name><surname>Katlama</surname><given-names>C.</given-names></name>
+<name><surname>Raffi</surname><given-names>F.</given-names></name>
+<name><surname>Leport</surname><given-names>C.</given-names></name>
+<name><surname>Capeau</surname><given-names>J.</given-names></name>
+<etal/>
+</person-group><article-title>Diabetes and dyslipidaemia are associated with oxidative stress independently of inflammation in long-term antiretroviral-treated HIV-infected patients</article-title><source>Diabetes Metab.</source><year>2019</year><volume>45</volume><fpage>573</fpage><lpage>581</lpage><pub-id pub-id-type="doi">10.1016/j.diabet.2019.02.008</pub-id><pub-id pub-id-type="pmid">30862472</pub-id>
+</element-citation></ref><ref id="B83-ijms-26-06546"><label>83.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gelpi</surname><given-names>M.</given-names></name>
+<name><surname>Afzal</surname><given-names>S.</given-names></name>
+<name><surname>Lundgren</surname><given-names>J.</given-names></name>
+<name><surname>Ronit</surname><given-names>A.</given-names></name>
+<name><surname>Roen</surname><given-names>A.</given-names></name>
+<name><surname>Mocroft</surname><given-names>A.</given-names></name>
+<name><surname>Gerstoft</surname><given-names>J.</given-names></name>
+<name><surname>Lebech</surname><given-names>A.M.</given-names></name>
+<name><surname>Lindegaard</surname><given-names>B.</given-names></name>
+<name><surname>Kofoed</surname><given-names>K.F.</given-names></name>
+<etal/>
+</person-group><article-title>Higher Risk of Abdominal Obesity, Elevated Low-Density Lipoprotein Cholesterol, and Hypertriglyceridemia, but not of Hypertension, in People Living with Human Immunodeficiency Virus (HIV): Results From the Copenhagen Comorbidity in HIV Infection Study</article-title><source>Clin. Infect. Dis.</source><year>2018</year><volume>67</volume><fpage>579</fpage><lpage>586</lpage><pub-id pub-id-type="doi">10.1093/cid/ciy146</pub-id><pub-id pub-id-type="pmid">29471519</pub-id>
+</element-citation></ref><ref id="B84-ijms-26-06546"><label>84.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Arrive</surname><given-names>E.</given-names></name>
+<name><surname>Viard</surname><given-names>J.P.</given-names></name>
+<name><surname>Salanave</surname><given-names>B.</given-names></name>
+<name><surname>Dollfus</surname><given-names>C.</given-names></name>
+<name><surname>Matheron</surname><given-names>S.</given-names></name>
+<name><surname>Reliquet</surname><given-names>V.</given-names></name>
+<name><surname>Arezes</surname><given-names>E.</given-names></name>
+<name><surname>Nailler</surname><given-names>L.</given-names></name>
+<name><surname>Vigouroux</surname><given-names>C.</given-names></name>
+<name><surname>Warszawski</surname><given-names>J.</given-names></name>
+<etal/>
+</person-group><article-title>Metabolic risk factors in young adults infected with HIV since childhood compared with the general population</article-title><source>PLoS ONE</source><year>2018</year><volume>13</volume><elocation-id>e0206745</elocation-id><pub-id pub-id-type="doi">10.1371/journal.pone.0206745</pub-id><pub-id pub-id-type="pmid">30408056</pub-id>
+</element-citation></ref><ref id="B85-ijms-26-06546"><label>85.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bailin</surname><given-names>S.S.</given-names></name>
+<name><surname>Gabriel</surname><given-names>C.L.</given-names></name>
+<name><surname>Gangula</surname><given-names>R.D.</given-names></name>
+<name><surname>Hannah</surname><given-names>L.</given-names></name>
+<name><surname>Nair</surname><given-names>S.</given-names></name>
+<name><surname>Carr</surname><given-names>J.J.</given-names></name>
+<name><surname>Terry</surname><given-names>J.G.</given-names></name>
+<name><surname>Silver</surname><given-names>H.J.</given-names></name>
+<name><surname>Simmons</surname><given-names>J.D.</given-names></name>
+<name><surname>Mashayekhi</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group><article-title>Single-Cell Analysis of Subcutaneous Fat Reveals Profibrotic Cells That Correlate with Visceral Adiposity in HIV</article-title><source>J. Clin. Endocrinol. Metab.</source><year>2024</year><volume>110</volume><fpage>238</fpage><lpage>253</lpage><pub-id pub-id-type="doi">10.1210/clinem/dgae369</pub-id><pub-id pub-id-type="pmid">38820087</pub-id>
+</element-citation></ref><ref id="B86-ijms-26-06546"><label>86.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Janssen-Telders</surname><given-names>C.</given-names></name>
+<name><surname>Eringa</surname><given-names>E.C.</given-names></name>
+<name><surname>de Groot</surname><given-names>J.R.</given-names></name>
+<name><surname>de Man</surname><given-names>F.S.</given-names></name>
+<name><surname>Handoko</surname><given-names>M.L.</given-names></name>
+</person-group><article-title>The role of epicardial adipose tissue remodelling in heart failure with preserved ejection fraction</article-title><source>Cardiovasc. Res.</source><year>2025</year><volume>16</volume><fpage>cvaf056</fpage><pub-id pub-id-type="doi">10.1093/cvr/cvaf056</pub-id><pub-id pub-id-type="pmid">40238568</pub-id>
+</element-citation></ref><ref id="B87-ijms-26-06546"><label>87.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Han</surname><given-names>W.M.</given-names></name>
+<name><surname>Apornpong</surname><given-names>T.</given-names></name>
+<name><surname>Tumkosit</surname><given-names>M.</given-names></name>
+<name><surname>Avihingsanon</surname><given-names>A.</given-names></name>
+<name><surname>Chattranukulchai</surname><given-names>P.</given-names></name>
+</person-group><article-title>Epicardial fat tissue and diastolic dysfunction in both men and women with HIV</article-title><source>AIDS</source><year>2024</year><volume>38</volume><fpage>1893</fpage><lpage>1894</lpage><pub-id pub-id-type="doi">10.1097/QAD.0000000000003997</pub-id><pub-id pub-id-type="pmid">39325007</pub-id>
+</element-citation></ref><ref id="B88-ijms-26-06546"><label>88.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Goldberg</surname><given-names>R.L.</given-names></name>
+<name><surname>Peterson</surname><given-names>T.E.</given-names></name>
+<name><surname>Haberlen</surname><given-names>S.A.</given-names></name>
+<name><surname>Witt</surname><given-names>M.D.</given-names></name>
+<name><surname>Palella</surname><given-names>F.J.</given-names></name>
+<name><surname>Magnani</surname><given-names>J.W.</given-names></name>
+<name><surname>Brown</surname><given-names>T.T.</given-names></name>
+<name><surname>Lake</surname><given-names>J.E.</given-names></name>
+<name><surname>Lima</surname><given-names>J.A.C.</given-names></name>
+<name><surname>Budoff</surname><given-names>M.J.</given-names></name>
+<etal/>
+</person-group><article-title>Response to &#x0201c;Epicardial fat tissue and diastolic dysfunction in both men and women with HIV&#x0201d;</article-title><source>AIDS</source><year>2024</year><volume>38</volume><fpage>1895</fpage><pub-id pub-id-type="doi">10.1097/QAD.0000000000004003</pub-id><pub-id pub-id-type="pmid">39325008</pub-id>
+</element-citation></ref><ref id="B89-ijms-26-06546"><label>89.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Foldyna</surname><given-names>B.</given-names></name>
+<name><surname>Mayrhofer</surname><given-names>T.</given-names></name>
+<name><surname>Zanni</surname><given-names>M.V.</given-names></name>
+<name><surname>Lyass</surname><given-names>A.</given-names></name>
+<name><surname>Barve</surname><given-names>R.</given-names></name>
+<name><surname>Karady</surname><given-names>J.</given-names></name>
+<name><surname>McCallum</surname><given-names>S.</given-names></name>
+<name><surname>Burdo</surname><given-names>T.H.</given-names></name>
+<name><surname>Fitch</surname><given-names>K.V.</given-names></name>
+<name><surname>Paradis</surname><given-names>K.</given-names></name>
+<etal/>
+</person-group><article-title>Pericoronary Adipose Tissue Density, Inflammation, and Subclinical Coronary Artery Disease Among People with HIV in the REPRIEVE Cohort</article-title><source>Clin. Infect. Dis.</source><year>2023</year><volume>77</volume><fpage>1676</fpage><lpage>1686</lpage><pub-id pub-id-type="doi">10.1093/cid/ciad419</pub-id><pub-id pub-id-type="pmid">37439633</pub-id>
+</element-citation></ref><ref id="B90-ijms-26-06546"><label>90.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wilcox</surname><given-names>C.S.</given-names></name>
+<name><surname>Herbert</surname><given-names>C.</given-names></name>
+<name><surname>Wang</surname><given-names>C.</given-names></name>
+<name><surname>Ma</surname><given-names>Y.</given-names></name>
+<name><surname>Sun</surname><given-names>P.</given-names></name>
+<name><surname>Li</surname><given-names>T.</given-names></name>
+<name><surname>Verbesey</surname><given-names>J.</given-names></name>
+<name><surname>Kumar</surname><given-names>P.</given-names></name>
+<name><surname>Kassaye</surname><given-names>S.</given-names></name>
+<name><surname>Welch</surname><given-names>W.J.</given-names></name>
+<etal/>
+</person-group><article-title>Signals From Inflamed Perivascular Adipose Tissue Contribute to Small-Vessel Dysfunction in Women with Human Immunodeficiency Virus</article-title><source>J. Infect. Dis.</source><year>2024</year><volume>230</volume><fpage>67</fpage><lpage>77</lpage><pub-id pub-id-type="doi">10.1093/infdis/jiae094</pub-id><pub-id pub-id-type="pmid">39052698</pub-id>
+</element-citation></ref><ref id="B91-ijms-26-06546"><label>91.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Basta</surname><given-names>D.</given-names></name>
+<name><surname>Latinovic</surname><given-names>O.S.</given-names></name>
+<name><surname>Tagaya</surname><given-names>Y.</given-names></name>
+<name><surname>Silvestri</surname><given-names>G.</given-names></name>
+</person-group><article-title>Potential Advantages of a Well-balanced Nutrition Regimen for People Living with Human Immunodeficiency Virus Type-1</article-title><source>J. AIDS HIV Treat.</source><year>2024</year><volume>6</volume><fpage>11</fpage><lpage>27</lpage><pub-id pub-id-type="doi">10.33696/AIDS.6.048</pub-id><pub-id pub-id-type="pmid">38845818</pub-id>
+</element-citation></ref><ref id="B92-ijms-26-06546"><label>92.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Domingo</surname><given-names>P.</given-names></name>
+<name><surname>Fern&#x000e1;ndez</surname><given-names>I.</given-names></name>
+<name><surname>Gallego-Escuredo</surname><given-names>J.M.</given-names></name>
+<name><surname>Torres</surname><given-names>F.</given-names></name>
+<name><surname>Gutierrez</surname><given-names>M.D.M.</given-names></name>
+<name><surname>Mateo</surname><given-names>M.G.</given-names></name>
+<name><surname>Villarroya</surname><given-names>J.</given-names></name>
+<name><surname>Giralt</surname><given-names>M.</given-names></name>
+<name><surname>Vidal</surname><given-names>F.</given-names></name>
+<name><surname>Villarroya</surname><given-names>F.</given-names></name>
+<etal/>
+</person-group><article-title>Effects of docosahexanoic acid on metabolic and fat parameters in HIV-infected patients on cART: A randomized, double-blind, placebo-controlled study</article-title><source>Clin. Nutr.</source><year>2018</year><volume>37</volume><fpage>1340</fpage><lpage>1347</lpage><pub-id pub-id-type="doi">10.1016/j.clnu.2017.05.032</pub-id><pub-id pub-id-type="pmid">28648475</pub-id>
+</element-citation></ref><ref id="B93-ijms-26-06546"><label>93.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pastor-Ib&#x000e1;&#x000f1;ez</surname><given-names>R.</given-names></name>
+<name><surname>Blanco-Heredia</surname><given-names>J.</given-names></name>
+<name><surname>Etcheverry</surname><given-names>F.</given-names></name>
+<name><surname>S&#x000e1;nchez-Palomino</surname><given-names>S.</given-names></name>
+<name><surname>D&#x000ed;ez-Fuertes</surname><given-names>F.</given-names></name>
+<name><surname>Casas</surname><given-names>R.</given-names></name>
+<name><surname>Navarrete-Mu&#x000f1;oz</surname><given-names>M.&#x000c1;.</given-names></name>
+<name><surname>Castro-Barquero</surname><given-names>S.</given-names></name>
+<name><surname>Lucero</surname><given-names>C.</given-names></name>
+<name><surname>Fern&#x000e1;ndez</surname><given-names>I.</given-names></name>
+<etal/>
+</person-group><article-title>Adherence to a Supplemented Mediterranean Diet Drives Changes in the Gut Microbiota of HIV-1-Infected Individuals</article-title><source>Nutrients</source><year>2021</year><volume>13</volume><elocation-id>1141</elocation-id><pub-id pub-id-type="doi">10.3390/nu13041141</pub-id><pub-id pub-id-type="pmid">33808476</pub-id>
+</element-citation></ref><ref id="B94-ijms-26-06546"><label>94.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Haidar</surname><given-names>L.</given-names></name>
+<name><surname>Crane</surname><given-names>H.M.</given-names></name>
+<name><surname>Nance</surname><given-names>R.M.</given-names></name>
+<name><surname>Webel</surname><given-names>A.</given-names></name>
+<name><surname>Ruderman</surname><given-names>S.A.</given-names></name>
+<name><surname>Whitney</surname><given-names>B.M.</given-names></name>
+<name><surname>Willig</surname><given-names>A.L.</given-names></name>
+<name><surname>Napravnik</surname><given-names>S.</given-names></name>
+<name><surname>Mixson</surname><given-names>L.S.</given-names></name>
+<name><surname>Leong</surname><given-names>C.</given-names></name>
+<etal/>
+</person-group><article-title>Weight loss associated with semaglutide treatment among people with HIV</article-title><source>AIDS</source><year>2024</year><volume>38</volume><fpage>531</fpage><lpage>535</lpage><pub-id pub-id-type="doi">10.1097/QAD.0000000000003791</pub-id><pub-id pub-id-type="pmid">37976053</pub-id>
+</element-citation></ref><ref id="B95-ijms-26-06546"><label>95.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lee</surname><given-names>D.</given-names></name>
+<name><surname>Capeau</surname><given-names>J.</given-names></name>
+</person-group><article-title>Is the GLP-1 receptor agonist, semaglutide, a good option for weight loss in persons with HIV?</article-title><source>AIDS</source><year>2024</year><volume>38</volume><fpage>603</fpage><lpage>605</lpage><pub-id pub-id-type="doi">10.1097/QAD.0000000000003816</pub-id><pub-id pub-id-type="pmid">38416553</pub-id>
+</element-citation></ref><ref id="B96-ijms-26-06546"><label>96.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Eckard</surname><given-names>A.R.</given-names></name>
+<name><surname>Wu</surname><given-names>Q.</given-names></name>
+<name><surname>Sattar</surname><given-names>A.</given-names></name>
+<name><surname>Ansari-Gilani</surname><given-names>K.</given-names></name>
+<name><surname>Labbato</surname><given-names>D.</given-names></name>
+<name><surname>Foster</surname><given-names>T.</given-names></name>
+<name><surname>Fletcher</surname><given-names>A.A.</given-names></name>
+<name><surname>Adekunle</surname><given-names>R.O.</given-names></name>
+<name><surname>McComsey</surname><given-names>G.A.</given-names></name>
+</person-group><article-title>Once-weekly semaglutide in people with HIV-associated lipohypertrophy: A randomised, double-blind, placebo-controlled phase 2b single-centre clinical trial</article-title><source>Lancet Diabetes Endocrinol.</source><year>2024</year><volume>12</volume><fpage>523</fpage><lpage>534</lpage><pub-id pub-id-type="doi">10.1016/S2213-8587(24)00150-5</pub-id><pub-id pub-id-type="pmid">38964353</pub-id>
+</element-citation></ref><ref id="B97-ijms-26-06546"><label>97.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Thomas</surname><given-names>T.S.</given-names></name>
+<name><surname>Srinivasa</surname><given-names>S.</given-names></name>
+</person-group><article-title>Weighing in: Glucagon-like Peptide-1 Receptor Agonism for Persons with HIV</article-title><source>Top. Antivir. Med.</source><year>2024</year><volume>32</volume><fpage>579</fpage><lpage>588</lpage><pub-id pub-id-type="pmid">39765237</pub-id>
+</element-citation></ref></ref-list></back><floats-group><fig position="float" id="ijms-26-06546-f001"><label>Figure 1</label><caption><p>The pictorial representations of the main features of HIV-associated lipodystrophy. (<bold>A</bold>) Facial lipoatrophy. (<bold>B</bold>) Abdominal lipohypertrophy. (<bold>C</bold>) A lipomatous &#x0201c;buffalo hump&#x0201d; adipose tissue accumulation in the dorso-cervical region.</p></caption><graphic xlink:href="ijms-26-06546-g001" position="float"/></fig><fig position="float" id="ijms-26-06546-f002"><label>Figure 2</label><caption><p>A summary of the main pathophysiological alterations in subcutaneous and visceral white adipose tissue associated with lipodystrophy in PLWH. HIV is present within adipose-resident T cells and macrophages, and interactions between HIV proteins and adipocytes also occur. Additionally, certain drugs used in cART, such as NRTIs, NNRTIs, and PIs, directly affect the molecular functions of adipocytes. Together, these factors contribute to the pathological alterations observed in both the subcutaneous and visceral adipose tissue compartments, which in turn promote lipotoxicity in other organs. This ultimately leads to several systemic comorbidities, such as cardiovascular disease, MASLD, metabolic dysfunction-associated steatohepatitis (MASH), dyslipidemia, and insulin resistance.</p></caption><graphic xlink:href="ijms-26-06546-g002" position="float"/></fig></floats-group></article>

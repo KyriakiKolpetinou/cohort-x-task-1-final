@@ -1,0 +1,713 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="review-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancers (Basel)</journal-id><journal-id journal-id-type="iso-abbrev">Cancers (Basel)</journal-id><journal-id journal-id-type="publisher-id">cancers</journal-id><journal-title-group><journal-title>Cancers</journal-title></journal-title-group><issn pub-type="epub">2072-6694</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">40282513</article-id><article-id pub-id-type="pmc">12025428</article-id><article-id pub-id-type="doi">10.3390/cancers17081337</article-id><article-id pub-id-type="publisher-id">cancers-17-01337</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Surveillance After Focal Therapy for Prostate Cancer: A Comprehensive Review</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-4533-3813</contrib-id><name><surname>Koehler</surname><given-names>Jason</given-names></name><xref rid="af1-cancers-17-01337" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-5743-2010</contrib-id><name><surname>Han</surname><given-names>Simon</given-names></name><xref rid="af2-cancers-17-01337" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-0982-655X</contrib-id><name><surname>Tremblay</surname><given-names>Samuel</given-names></name><xref rid="af3-cancers-17-01337" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-7822-0826</contrib-id><name><surname>Hsu</surname><given-names>Wei-Wen</given-names></name><xref rid="af4-cancers-17-01337" ref-type="aff">4</xref></contrib><contrib contrib-type="author"><name><surname>Kalaycioglu</surname><given-names>Bora</given-names></name><xref rid="af5-cancers-17-01337" ref-type="aff">5</xref></contrib><contrib contrib-type="author"><name><surname>Oto</surname><given-names>Aytekin</given-names></name><xref rid="af5-cancers-17-01337" ref-type="aff">5</xref></contrib><contrib contrib-type="author"><name><surname>Sidana</surname><given-names>Abhinav</given-names></name><xref rid="af3-cancers-17-01337" ref-type="aff">3</xref><xref rid="c1-cancers-17-01337" ref-type="corresp">*</xref></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Tsuzuki</surname><given-names>Toyonori</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-cancers-17-01337"><label>1</label>College of Medicine, University of Cincinnati, Cincinnati, OH 45267, USA</aff><aff id="af2-cancers-17-01337"><label>2</label>Pritzker School of Medicine, University of Chicago, Chicago, IL 60637, USA</aff><aff id="af3-cancers-17-01337"><label>3</label>Section of Urology, Department of Surgery, University of Chicago, Chicago, IL 60637, USA; <email>samuel.tremblay@uchicagomedicine.org</email></aff><aff id="af4-cancers-17-01337"><label>4</label>Division of Biostatistics and Bioinformatics, College of Medicine, University of Cincinnati, Cincinnati, OH 45267, USA</aff><aff id="af5-cancers-17-01337"><label>5</label>Department of Radiology, University of Chicago, Chicago, IL 60637, USA</aff><author-notes><corresp id="c1-cancers-17-01337"><label>*</label>Correspondence: <email>abhinav.sidana@bsd.uchicago.edu</email></corresp></author-notes><pub-date pub-type="epub"><day>16</day><month>4</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>4</month><year>2025</year></pub-date><volume>17</volume><issue>8</issue><elocation-id>1337</elocation-id><history><date date-type="received"><day>27</day><month>2</month><year>2025</year></date><date date-type="rev-recd"><day>11</day><month>4</month><year>2025</year></date><date date-type="accepted"><day>14</day><month>4</month><year>2025</year></date></history><permissions><copyright-statement>&#x000a9; 2025 by the authors.</copyright-statement><copyright-year>2025</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract abstract-type="plain-language-summary"><title>Simple Summary</title><p>Focal therapy for prostate cancer is a newer way to treat prostate cancer that does not involve surgery to remove the prostate or radiation. However, because it is a more recent form of treatment, little is known regarding monitoring patients after focal therapy to make sure that any cancer recurrence is discovered quickly. This article seeks to review the current research concerning follow-up for patients after focal therapy. Our review highlights the importance of regular surveillance consisting of prostate-specific antigen testing, screening magnetic resonance imaging, and scheduled biopsies to ensure early detection of cancer recurrence after the patient has been treated with focal therapy.</p></abstract><abstract><title>Abstract</title><p>Focal Therapy (FT) is an emerging treatment modality for prostate cancer (PCa). Due to its novelty, the research exploring how patients should be followed-up after treatment is limited. There is currently no established role for non-prostate-specific-antigen (PSA) biomarkers and PSMA PET. However, a combination of PSA testing, multiparametric magnetic resonance imaging (mpMRI), and systematic and targeted biopsies should routinely be used for surveillance after FT. PSA values that rise 1.0 ng/mL over the nadir after twelve months or rise 1.5 ng/mL over nadir after twenty-four to thirty-six months should raise suspicion for recurrence. The standard imaging technique is mpMRI, but it can often be difficult to interpret after FT, so using a scoring system such as prostate imaging after focal ablation (PI-FAB) or the transatlantic recommendations for prostate gland evaluation with magnetic resonance imaging after focal therapy (TARGET) allows for greater consistency between readers. This review seeks to summarize the current literature regarding surveillance after FT as it relates to biomarkers, imaging, biopsies, and consensus statements.</p></abstract><kwd-group><kwd>prostate cancer</kwd><kwd>focal therapy</kwd><kwd>surveillance</kwd><kwd>failure</kwd></kwd-group><funding-group><funding-statement>This research received no external funding.</funding-statement></funding-group></article-meta></front><body><sec sec-type="intro" id="sec1-cancers-17-01337"><title>1. Introduction</title><p>Prostate cancer (PCa) is the most common cancer among men in the USA. Historically, the primary treatments for localized PCa were radical prostatectomy (RP) and radiation therapy (RT). However, RP and RT carry significant morbidity for patients. A significant number of patients experience long-term urinary, sexual, and bowel dysfunction following definitive treatment [<xref rid="B1-cancers-17-01337" ref-type="bibr">1</xref>].</p><p>Focal Therapy (FT) is an emerging alternative treatment option for PCa that is confined to a section of the prostate. Advances in imaging, particularly mpMRI, have made it possible to localize tumors within the prostate [<xref rid="B2-cancers-17-01337" ref-type="bibr">2</xref>]. FT uses a wide variety of modalities (high intensity focused ultrasound (HIFU), cryoablation, irreversible electroporation (IRE), etc.) to ablate the cancerous prostatic tissue and spare the rest of the prostate. FT has been shown to carry a favorable side effect profile, preserving urinary and sexual function [<xref rid="B3-cancers-17-01337" ref-type="bibr">3</xref>]. It has also been shown to have favorable short-term oncological efficacy [<xref rid="B4-cancers-17-01337" ref-type="bibr">4</xref>,<xref rid="B5-cancers-17-01337" ref-type="bibr">5</xref>,<xref rid="B6-cancers-17-01337" ref-type="bibr">6</xref>]. More trials are currently investigating longer-term oncological outcomes [<xref rid="B7-cancers-17-01337" ref-type="bibr">7</xref>].</p><p>Surveillance after treatment is a critical aspect of cancer management to monitor for signs of recurrence, metastases, and side effects. However, the surveillance strategy after FT is not well defined and typically involves a combination of periodic PSAs, imaging, and prostate biopsy. Considering a recent survey indicated that almost half of American urologists use FT, this issue has significant clinical implications [<xref rid="B8-cancers-17-01337" ref-type="bibr">8</xref>]. This article seeks to review the current literature regarding surveillance tests, highlighting their utility (or lack thereof) after FT.</p></sec><sec id="sec2-cancers-17-01337"><title>2. Biochemical Markers</title><sec id="sec2dot1-cancers-17-01337"><title>2.1. Prostate-Specific Antigen</title><p>Prostate-specific antigen (PSA) is the mostly widely used biomarker in FT surveillance. However, establishing appropriate threshold values for PSA poses a challenge in surveillance after FT. While the raw PSA value tends to be used in initial PSA screening, more commonly used PSA metrics in post-FT surveillance include the PSA reduction percentage, nadir, density, and velocity.</p><p>After treatments such as RP, PSA reduction is more straightforward, as the value should be approaching 0 ng/mL. However, there is significant variation in the size of the ablation zone in FT resulting in variable declines in PSA values after treatment. Therefore, there is currently no consensus on what value defines a biochemical recurrence in FT [<xref rid="B9-cancers-17-01337" ref-type="bibr">9</xref>]. Nonetheless, the typical decline can be expected to be over 50% [<xref rid="B4-cancers-17-01337" ref-type="bibr">4</xref>,<xref rid="B6-cancers-17-01337" ref-type="bibr">6</xref>,<xref rid="B10-cancers-17-01337" ref-type="bibr">10</xref>,<xref rid="B11-cancers-17-01337" ref-type="bibr">11</xref>]. Some have set the benchmark for a proper ablation at a decrease in PSA of 70% [<xref rid="B12-cancers-17-01337" ref-type="bibr">12</xref>]. Two studies have found that a smaller PSA reduction is a predictor of the need for additional treatments after FT, but one of these studies found it is not an indicator of treatment failure [<xref rid="B13-cancers-17-01337" ref-type="bibr">13</xref>,<xref rid="B14-cancers-17-01337" ref-type="bibr">14</xref>]. Therefore, it appears that a small PSA reduction may cause preemptive salvage treatment before the patient has treatment failure.</p><p>The lowest PSA value after treatment is referred to as the PSA nadir. Typically, the PSA nadir is reached around 6 months after FT [<xref rid="B15-cancers-17-01337" ref-type="bibr">15</xref>]. While the PSA nadir varies by patient, the median value is approximately 1&#x02013;3 ng/mL [<xref rid="B15-cancers-17-01337" ref-type="bibr">15</xref>,<xref rid="B16-cancers-17-01337" ref-type="bibr">16</xref>,<xref rid="B17-cancers-17-01337" ref-type="bibr">17</xref>,<xref rid="B18-cancers-17-01337" ref-type="bibr">18</xref>,<xref rid="B19-cancers-17-01337" ref-type="bibr">19</xref>]. Some studies have shown a significant correlation between the nadir PSA value and recurrence while others have indicated no significant correlation with treatment failure [<xref rid="B14-cancers-17-01337" ref-type="bibr">14</xref>,<xref rid="B17-cancers-17-01337" ref-type="bibr">17</xref>,<xref rid="B18-cancers-17-01337" ref-type="bibr">18</xref>] Rather than using the nadir value itself, a more reliable predictor of PCa recurrence after FT is the use of a specific increase over the nadir value. Huber et al. analyzed almost 600 FT patients to identify the most accurate PSA nadir values for predicting recurrence [<xref rid="B20-cancers-17-01337" ref-type="bibr">20</xref>]. They found that an increase of 1.0 ng/mL over PSA nadir at 12 months or 1.5 ng/mL over nadir at 24 months were the most accurate predictors of recurrence. These criteria showed a sensitivity of 73.5% and 100%, specificity of 70.7% and 71.6%, and a negative predictive value (NPV) of 96.1% and 100%, respectively [<xref rid="B20-cancers-17-01337" ref-type="bibr">20</xref>]. In a validation study, meeting one of these criteria was more accurate at predicting recurrence than the PSA nadir value, time to reach PSA nadir, and the percentage of PSA reduction [<xref rid="B14-cancers-17-01337" ref-type="bibr">14</xref>].</p><p>Another PSA derivative which is studied in FT surveillance is PSA density. The PSA density is calculated by dividing the PSA value by the volume of the prostate. Some correlation does seem to exist between PSA density after FT and the likelihood of recurrence, though it is a weak predictor based on a receiver operating characteristic (ROC) score of 0.62 [<xref rid="B17-cancers-17-01337" ref-type="bibr">17</xref>]. Two studies have shown conflicting results for whether there is a significant difference in recurrence rates after FT based on pretreatment PSA density [<xref rid="B10-cancers-17-01337" ref-type="bibr">10</xref>,<xref rid="B18-cancers-17-01337" ref-type="bibr">18</xref>].</p><p>Similar to PSA density, the role for PSA velocity after FT is not well established. PSA velocity describes the rate at which the PSA value is rising, typically described as the change per year. Nguyen et al. indicated that adding the criteria of a PSA velocity of 0.75 ng/mL/year with the criteria of 2 ng/mL over PSA nadir significantly increased the diagnostic yield for recurrence in focal brachytherapy [<xref rid="B21-cancers-17-01337" ref-type="bibr">21</xref>]. King et al. discovered that a PSA velocity of 3.0 ng/mL/year or greater after focal brachytherapy is associated with a significant increase in rates of metastasis and PCa-specific mortality. However, velocities of 0.75 ng/mL/year and 1.5 ng/mL/year are not associated with these increases [<xref rid="B22-cancers-17-01337" ref-type="bibr">22</xref>]. Kongnyuy et al. demonstrated that PSA velocity is significantly associated with biochemical recurrence (defined as nadir + 2 ng/mL), while doubling time is not [<xref rid="B10-cancers-17-01337" ref-type="bibr">10</xref>]. Overall, PSA certainly plays a role in surveillance after FT, but the specific parameters for suspecting recurrence are an active research area. The current research suggests that an increase of 1.0 ng/mL over PSA nadir at 12 months or 1.5 ng/mL over nadir at 24 months may be the most accurate PSA-based predictors for PCa recurrence after FT. Detailed performance characteristics for different PSA derivatives are detailed in <xref rid="cancers-17-01337-t001" ref-type="table">Table 1</xref>.</p></sec><sec id="sec2dot2-cancers-17-01337"><title>2.2. Non-PSA Biomarkers</title><p>The use of non-PSA liquid biomarkers to monitor oncological control after FT is an emerging area of research, in an effort to reduce the reliance on invasive biopsies. While several biomarkers are available for PCa detection, none have been validated specifically for surveillance after FT. A 2022 Delphi Consensus from the Focal Therapy Society explored potential biomarkers for this setting and found little to no evidence supporting the use of non-PSA biomarkers in the post-FT setting [<xref rid="B23-cancers-17-01337" ref-type="bibr">23</xref>]. Notably, the Consensus specifically recommended against the use of prostate cancer antigen 3 (PCA3) in the context of surveillance after FT due to its relatively poor diagnostic accuracy. A recent systematic review and meta-analysis by Kawada et al. examined 49 studies on several liquid biomarkers and their associated tests, including PCA3, SelectMDx, Prostate Health Index (PHI), 4Kscore, MyProstateScore, and ExoDx Prostate. They confirmed that PCA3 offers the lowest diagnostic accuracy among the biomarkers assessed [<xref rid="B24-cancers-17-01337" ref-type="bibr">24</xref>]. In the same study, the authors found that among the biomarkers analyzed, other than PCA3, all offered comparable pooled accuracies with 4Kscore offering the highest sensitivity and specificity at 0.87 and 0.58, respectively [<xref rid="B24-cancers-17-01337" ref-type="bibr">24</xref>]. Nonetheless, the Delphi Consensus found insufficient evidence to recommend the use of any alternative liquid biomarker tests, reflecting the paucity of data to support the use of non-PSA biomarkers in surveillance after FT in clinical context.</p><p>It is critical to note that these biomarkers were developed for diagnostic purposes in treatment-naive patients. While some biomarkers, like PHI, have demonstrated utility in monitoring patients after traditional treatments like radical prostatectomy, the distinct therapeutic approach of FT limits the application of this data for patients who have undergone FT [<xref rid="B25-cancers-17-01337" ref-type="bibr">25</xref>]. Thus, further long-term research is needed to elucidate the role of non-PSA biomarkers in prostate cancer surveillance after FT.</p></sec></sec><sec id="sec3-cancers-17-01337"><title>3. Imaging</title><sec id="sec3dot1-cancers-17-01337"><title>3.1. Multiparametric MRI</title><p>One of the most helpful tools for evaluation of PCa is multiparametric magnetic resonance imaging (mpMRI). Due to its efficacy, it has quickly become the gold standard imaging technique for PCa detection. It has been shown to have a high sensitivity and moderate specificity for identifying PCa in treatment-na&#x000ef;ve patients [<xref rid="B26-cancers-17-01337" ref-type="bibr">26</xref>]. Its efficacy in detecting recurrence after FT is also established. A systematic review and meta-analysis by Ahn et al. indicated a sensitivity of 0.69 and a specificity of 0.88 for mpMRI after partial gland HIFU [<xref rid="B27-cancers-17-01337" ref-type="bibr">27</xref>]. Another systematic review and meta-analysis by S&#x000e9;guier et al. indicated a pooled sensitivity of 0.52, specificity of 0.81, NPV of 0.82, and PPV of 0.50 for mpMRI after focal HIFU [<xref rid="B28-cancers-17-01337" ref-type="bibr">28</xref>]. A recent study of 142 patients after FT found mpMRIs read by three readers to have a wide range of sensitivity from 0.33 to 0.73, specificity from 0.57 to 0.97, NPV from 0.93 to 0.96, and PPV from 0.17 to 0.56 [<xref rid="B29-cancers-17-01337" ref-type="bibr">29</xref>]. A possible reason for such large variability when reading mpMRIs after FT is the lack of a standard grading system.</p><p>The Prostate Imaging&#x02013;Reporting and Data System (PI-RADS) grading system was designed for treatment-na&#x000ef;ve tissue, so it is difficult to apply to ablation zones due to treatment-related changes [<xref rid="B30-cancers-17-01337" ref-type="bibr">30</xref>,<xref rid="B31-cancers-17-01337" ref-type="bibr">31</xref>]. Therefore, systems for reporting MRI results specifically after FT are in the process of development. The prostate imaging after focal ablation (PI-FAB) three-point scoring system was proposed by Giganti et al. in 2023 and has since been shown to have mixed results in two studies [<xref rid="B32-cancers-17-01337" ref-type="bibr">32</xref>]. One study demonstrated a moderate specificity of 54&#x02013;62%, a high sensitivity of 93%, and an accuracy of 71% [<xref rid="B33-cancers-17-01337" ref-type="bibr">33</xref>]. However, the other study found a high specificity of 87&#x02013;98% and a lower sensitivity of 14&#x02013;43% [<xref rid="B34-cancers-17-01337" ref-type="bibr">34</xref>]. Nonetheless, both studies concluded that the inter reader agreement is moderate to high [<xref rid="B33-cancers-17-01337" ref-type="bibr">33</xref>,<xref rid="B34-cancers-17-01337" ref-type="bibr">34</xref>]. Another proposal emerged in 2024 with the transatlantic recommendations for prostate gland evaluation with magnetic resonance imaging after focal therapy (TARGET) [<xref rid="B35-cancers-17-01337" ref-type="bibr">35</xref>]. These recommendations include timing of the mpMRI, technical aspects, as well as interpretation. Timing of the mpMRI is important, as the prostate undergoes changes in appearance over time after FT, which may affect the diagnostic ability of mpMRI [<xref rid="B36-cancers-17-01337" ref-type="bibr">36</xref>]. They propose a five-point scoring system for grading the suspicion of PCa. Due to the recent development of this system, there is only one study that has compared PI-FAB with TARGET [<xref rid="B37-cancers-17-01337" ref-type="bibr">37</xref>]. The study indicated that the systems have comparable agreement levels and PI-FAB has a slight advantage in sensitivity (93% in PI-FAB vs. 79&#x02013;93% in TARGET) and TARGET has the advantage in specificity (54&#x02013;62% in PI-FAB vs. 62&#x02013;79% in TARGET) [<xref rid="B37-cancers-17-01337" ref-type="bibr">37</xref>]. Using either PI-FAB or TARGET scoring systems creates a standardized score for reading mpMRI images after FT, allowing for high consistency between readers. These scoring systems are promising, and further research involving larger cohorts is needed to validate their utility.</p></sec><sec id="sec3dot2-cancers-17-01337"><title>3.2. PSMA PET</title><p>Prostate-specific membrane antigen positron emission tomography (PSMA PET) has recently emerged as a useful imaging tool for detecting PCa. It is particularly useful when combined with a CT or MRI. PSMA PET/CT has been shown to have better accuracy in detecting nodal and distant metastatic PCa compared to a conventional CT scan and bone scan [<xref rid="B38-cancers-17-01337" ref-type="bibr">38</xref>,<xref rid="B39-cancers-17-01337" ref-type="bibr">39</xref>,<xref rid="B40-cancers-17-01337" ref-type="bibr">40</xref>]. Additionally, a systematic review by Manfredi et al. indicated that PSMA PET/MRI exhibits better accuracy in detecting primary PCa compared to mpMRI [<xref rid="B41-cancers-17-01337" ref-type="bibr">41</xref>]. Other studies have indicated that lesion intensity on PSMA PET/CT prior to treatment may have prognostic significance [<xref rid="B42-cancers-17-01337" ref-type="bibr">42</xref>,<xref rid="B43-cancers-17-01337" ref-type="bibr">43</xref>]. PSMA PET/MRI and PSMA PET/CT have shown a promising ability to detect recurrence after PCa treatment [<xref rid="B44-cancers-17-01337" ref-type="bibr">44</xref>,<xref rid="B45-cancers-17-01337" ref-type="bibr">45</xref>].</p><p>Due to the novelty of both PSMA PET and FT, there is limited research exploring the use of PSMA PET for surveillance specifically after FT. One small pilot study with a short follow-up showed that PSMA PET/MRI and mpMRI both identified the one patient with clinically significant residual PCa after focal HIFU [<xref rid="B46-cancers-17-01337" ref-type="bibr">46</xref>]. Another study demonstrated that in a small cohort of patients post-focal HIFU with a negative mpMRI but positive surveillance biopsy, PET/MRI demonstrated a sensitivity, specificity, positive predictive value (PPV), and NPV of 55%, 100%, 100%, and 85%, respectively [<xref rid="B47-cancers-17-01337" ref-type="bibr">47</xref>]. Of the ten patients, PSMA PET/MRI discovered all six patients with Gleason score (GS) 4 + 3 lesions [<xref rid="B47-cancers-17-01337" ref-type="bibr">47</xref>]. Additionally, they found that PSMA PET/MRI was negative for all four patients with GS 3 + 4 lesions [<xref rid="B47-cancers-17-01337" ref-type="bibr">47</xref>]. Another study of one hundred patients post FT indicated that PET/CT has a sensitivity, specificity, PPV, and NPV of 94%, 25%, 91%, and 33%, respectively [<xref rid="B48-cancers-17-01337" ref-type="bibr">48</xref>]. While the current limited data is promising, larger, longer-term studies are needed to further evaluate the accuracy and utility of PSMA PET for surveillance after FT. Full performance characteristics for different imaging modalities are detailed in <xref rid="cancers-17-01337-t002" ref-type="table">Table 2</xref>.</p></sec></sec><sec id="sec4-cancers-17-01337"><title>4. Biopsies</title><p>Due to limitations in the accuracy of biochemical markers as well as imaging techniques in assessing for oncological control after FT, histopathology remains the gold standard for detecting residual or recurrent cancer after FT [<xref rid="B49-cancers-17-01337" ref-type="bibr">49</xref>,<xref rid="B50-cancers-17-01337" ref-type="bibr">50</xref>,<xref rid="B51-cancers-17-01337" ref-type="bibr">51</xref>]. However, the optimal approach to biopsy continues to be a subject of debate. Specifically, questions arise when considering when to conduct biopsies (for-cause vs. protocol) and the biopsy template (targeted vs. systematic).</p><p>A &#x0201c;for-cause&#x0201d; biopsy approach typically involves performing biopsies only in cases of a biochemical recurrence or if suspicious lesions are identified on imaging. In contrast, a &#x0201c;for-protocol&#x0201d; approach mandates biopsies regardless of changes in PSA levels or imaging findings. Short term data within 1 year suggests similar tumor-free survival (TFS) rates between these two methods. Stabile et al. demonstrated a 94% TFS rate using a for-cause biopsy protocol, whereas Ladjervardi et al. reported a 86.6% TFS rate [<xref rid="B15-cancers-17-01337" ref-type="bibr">15</xref>,<xref rid="B52-cancers-17-01337" ref-type="bibr">52</xref>]. This difference is likely attributable to lower sensitivities of both biochemical and imaging parameters, as protocol biopsies are more likely to identify residual or recurrent disease that is not apparent through other methods of monitoring. In the medium term (1&#x02013;3 years post-FT), studies using a for-cause biopsy approach show TFS rates of 84&#x02013;87% while for-protocol biopsies exhibit broader ranges of TFS, from 76.2 to 91% [<xref rid="B11-cancers-17-01337" ref-type="bibr">11</xref>,<xref rid="B52-cancers-17-01337" ref-type="bibr">52</xref>,<xref rid="B53-cancers-17-01337" ref-type="bibr">53</xref>,<xref rid="B54-cancers-17-01337" ref-type="bibr">54</xref>,<xref rid="B55-cancers-17-01337" ref-type="bibr">55</xref>,<xref rid="B56-cancers-17-01337" ref-type="bibr">56</xref>,<xref rid="B57-cancers-17-01337" ref-type="bibr">57</xref>]. The relatively modest differences indicate that both approaches offer comparable rates of identifying PCa after treatment. However, some have noted that &#x0201c;for-cause&#x0201d; biopsies might be best performed only in centers with extensive experience with FT [<xref rid="B58-cancers-17-01337" ref-type="bibr">58</xref>]. Since there were significant heterogeneities in these studies (disease status, the approach of FT, surgeon experience, etc.) no consistent conclusion can be drawn, further underscoring the need for larger and longer studies to better understand these trends.</p><p>An important consideration in biopsy techniques is whether to conduct targeted biopsies, systematic biopsies, or a combination of both. Targeted biopsies focus solely on the ablation zone or a suspicious lesion, while systematic biopsies sample the entire prostate, including areas outside the ablation zone, which are often still under active surveillance. Several studies highlight the critical nature of systematic biopsies, as out-of-field recurrence (OFR) rates are comparable to, and in some cases may exceed, in-field recurrence (IFR) rates. Sidana et al. found that in 101 men who underwent biopsy after FT, 8.9% had IFR while 7.9% had OFR at a median follow-up of 33 months [<xref rid="B6-cancers-17-01337" ref-type="bibr">6</xref>]. Similarly, a study by Tourinho-Barbosa et al. examined outcomes after FT in 309 men (treated with either HIFU or IRE) with a median follow-up of 45 months and found that 33% experienced IFR and 19% had OFR [<xref rid="B18-cancers-17-01337" ref-type="bibr">18</xref>]. Other studies have shown that the rates of OFR may even exceed IFR, with overall OFR rates of 13% to 16%, compared to IFR rates of 3% to 7% [<xref rid="B55-cancers-17-01337" ref-type="bibr">55</xref>,<xref rid="B59-cancers-17-01337" ref-type="bibr">59</xref>]. These findings emphasize the importance of performing systematic biopsies to ensure comprehensive monitoring of all cases of clinically significant PCa after FT.</p></sec><sec id="sec5-cancers-17-01337"><title>5. Guidelines and Consensus Statements</title><p>While individual studies are helpful for advancing understanding of a field, guidelines and consensus statements are often the most influential items in affecting how clinicians practice. The guidelines from the American Urological Association regarding follow-up after FT are unclear. The expert opinion states that patients after FT, &#x0201c;should be followed post-ablation with PSA, digital rectal exam (DRE), MRI, and biopsy tailored to their specific health and cancer characteristics&#x0201d; [<xref rid="B60-cancers-17-01337" ref-type="bibr">60</xref>]. The European Association of Urology recommends FT only in the context of a clinical trial or registry and offers no instruction for surveillance after FT [<xref rid="B61-cancers-17-01337" ref-type="bibr">61</xref>]. These guidelines leave clinicians with little guidance in how and when to use the various tools, such as a PSA, DRE, MRI, and biopsy for their patients that have undergone FT.</p><p>Compared to the above guidelines, more tangible instructions are offered in expert consensus statements. In a consensus statement by Borkowetz et al., ninety-five percent of the experts agreed that a targeted and systematic biopsy should be obtained 6&#x02013;12 months after FT [<xref rid="B62-cancers-17-01337" ref-type="bibr">62</xref>]. Another consensus statement agrees that a protocol repeat biopsy should be performed, as well as a screening mpMRI [<xref rid="B63-cancers-17-01337" ref-type="bibr">63</xref>]. The most detailed consensus statements were conducted by Lebastchi et al. and Muller et al. among experts on surveillance after FT [<xref rid="B49-cancers-17-01337" ref-type="bibr">49</xref>,<xref rid="B51-cancers-17-01337" ref-type="bibr">51</xref>]. Consensus was achieved with the agreement of at least 80% of the experts. The use of a PSA, MRI, systematic and targeted biopsies, and functional outcome measurements after FT attained consensus. The consensus statement by Lebatschi et al. recommends that PSAs should be collected every three months for the first year then every six months. It recommends an MRI at the 6-month and 18-month mark. Also, it calls for a &#x0201c;for-protocol&#x0201d; systematic and targeted biopsy at 6&#x02013;12 months. Additionally, functional outcome monitoring should be included at 3&#x02013;6 months and beyond until stability is attained. The consensus statement by Muller et al. is very similar. However, the two consensus statements disagree primarily on imaging. Muller et al. recommend six surveillance mpMRIs for follow-up while Lebastchi et al. only recommend two mpMRIs [<xref rid="B49-cancers-17-01337" ref-type="bibr">49</xref>,<xref rid="B51-cancers-17-01337" ref-type="bibr">51</xref>]. However, regardless of which consensus statement is followed, these statements give practitioners tangible guidance for routine surveillance for their FT patients.</p><p>The authors adhere to the following protocol in their institution. A PSA is obtained at three and six months and then every six months. The Sexual Health Inventory for Men score and the International Prostate Symptom Score are obtained at three, six, and twelve months after FT. At six to twelve months after FT, the patient undergoes a mpMRI followed by a protocol systematic and targeted biopsy of the ablation zone along with any new suspicious lesions. If the biopsy is positive for recurrence, the patient is managed according to the risk stratification and patient preferences. If the biopsy is negative, the patient repeats mpMRIs at two- and four-years post ablation with further &#x0201c;for cause&#x0201d; biopsies if needed. Overall, guidelines, consensus statements, and the authors&#x02019; own experience confirm the necessity of using a PSA, mpMRI, and biopsies for surveillance in patients after FT.</p></sec><sec sec-type="discussion" id="sec6-cancers-17-01337"><title>6. Discussion</title><p>As FT for the treatment of localized PCa has increased in popularity, the necessity for standardized follow-up protocols has emerged. Based on the current literature, a PSA, mpMRI, and systematic and targeted biopsies are essential aspects of surveillance after FT. The use of other biomarkers and PSMA PET has little research yet to support their use. The level of PSA rise to warrant ordering an mpMRI is reliant on the clinical decision making of the provider, but the current proposed criteria by Huber et al. of an increase of 1.0 ng/mL over PSA nadir at 12 months or 1.5 ng/mL over nadir at 24 months give an indication for when to suspect recurrence. Several routine mpMRIs should also be performed and read by a radiologist experienced in interpreting prostates after FT. Based on the recent developments in scoring systems for mpMRI, the research has yet to establish whether PI-FAB or TARGET is superior. As a biopsy is the only definitive way to diagnose PCa, one routine systematic and targeted biopsy should be performed on every patient after FT, and it should also be performed when there is suspicion of recurrence.</p><p>Many gaps remain in the research regarding follow-up after FT. Specifically, there is a lack of long-term outcome trials exploring the most effective follow-up regimen after FT. Additionally, more research is needed to definitively identify specific values for PSA that can be used as cutoffs for suspecting recurrence. PSMA PET has very promising initial studies, but it still requires further study to fully elucidate its role in surveillance after FT. Another promising area needing further exploration is the combination of various factors to influence the need for a biopsy, as a recent study indicated the integration of PSA and mpMRI findings may reduce the need for a surveillance biopsy [<xref rid="B64-cancers-17-01337" ref-type="bibr">64</xref>]. Because most of the current literature evaluates HIFU, any need for different follow-up protocols for different modalities of FT needs further investigation. As these areas are explored, an evidence-based approach for surveillance for patients after FT will emerge.</p></sec><sec sec-type="conclusions" id="sec7-cancers-17-01337"><title>7. Conclusions</title><p>Close monitoring is required after patients undergo FT to ensure that any PCa recurrence is quickly identified. Currently, clinicians using FT have limited guidance on how to appropriately follow their patients after the procedure. Regular PSA levels, several mpMRIs, and systematic and targeted biopsies should be included in the surveillance for patients after FT for the treatment of PCa. The use of alternative biomarkers and PSMA PET is currently not supported based on the current literature. Overall, surveillance after FT uses well established tools for detecting recurrent PCa, but the evidence regarding when and how the tools should be used needs further elucidation.</p></sec></body><back><fn-group><fn><p><bold>Disclaimer/Publisher&#x02019;s Note:</bold> The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.</p></fn></fn-group><notes><title>Author Contributions</title><p>Conceptualization, A.S., B.K., W.-W.H. and A.O.; writing&#x02014;original draft preparation, J.K. and S.H.; writing&#x02014;review and editing, A.S. and S.T. All authors have read and agreed to the published version of the manuscript.</p></notes><notes notes-type="COI-statement"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></notes><glossary><title>Abbreviations</title><p>The following abbreviations are used in this manuscript:
+<array><tbody><tr><td align="left" valign="middle" rowspan="1" colspan="1">DRE</td><td align="left" valign="middle" rowspan="1" colspan="1">Digital rectal exam</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">FT</td><td align="left" valign="middle" rowspan="1" colspan="1">Focal therapy</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">HIFU</td><td align="left" valign="middle" rowspan="1" colspan="1">High intensity focused ultrasound</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">HR</td><td align="left" valign="middle" rowspan="1" colspan="1">Hazard ratio</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">IFR</td><td align="left" valign="middle" rowspan="1" colspan="1">In-field recurrence</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">IRE</td><td align="left" valign="middle" rowspan="1" colspan="1">Irreversible electroporation</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">mpMRI</td><td align="left" valign="middle" rowspan="1" colspan="1">multiparametric MRI</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">NPV</td><td align="left" valign="middle" rowspan="1" colspan="1">Negative predictive value</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">OFR</td><td align="left" valign="middle" rowspan="1" colspan="1">Out of field recurrence</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">PCa</td><td align="left" valign="middle" rowspan="1" colspan="1">Prostate cancer</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">PCA3</td><td align="left" valign="middle" rowspan="1" colspan="1">Prostate cancer antigen 3</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">PHI</td><td align="left" valign="middle" rowspan="1" colspan="1">Prostate health index</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">PI-FAB</td><td align="left" valign="middle" rowspan="1" colspan="1">Prostate imaging after focal ablation</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">PI-RADS</td><td align="left" valign="middle" rowspan="1" colspan="1">Prostate Imaging&#x02013;Reporting and Data System</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">PPV</td><td align="left" valign="middle" rowspan="1" colspan="1">Positive predictive value</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">PSA</td><td align="left" valign="middle" rowspan="1" colspan="1">Prostate specific antigen</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">PSMA PET</td><td align="left" valign="middle" rowspan="1" colspan="1">Prostate specific membrane antigen positron emission tomography</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">ROC</td><td align="left" valign="middle" rowspan="1" colspan="1">Receiver operating characteristic</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">RP</td><td align="left" valign="middle" rowspan="1" colspan="1">Radical prostatectomy</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">RT</td><td align="left" valign="middle" rowspan="1" colspan="1">Radiation therapy</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">TARGET</td><td align="left" valign="middle" rowspan="1" colspan="1">Transatlantic recommendations for prostate gland evaluation with magnetic resonance imaging after focal therapy</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">TFS</td><td align="left" valign="middle" rowspan="1" colspan="1">Tumor free survival</td></tr></tbody></array></p></glossary><ref-list><title>References</title><ref id="B1-cancers-17-01337"><label>1.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Neal</surname><given-names>D.E.</given-names></name>
+<name><surname>Metcalfe</surname><given-names>C.</given-names></name>
+<name><surname>Donovan</surname><given-names>J.L.</given-names></name>
+<name><surname>Lane</surname><given-names>J.A.</given-names></name>
+<name><surname>Davis</surname><given-names>M.</given-names></name>
+<name><surname>Young</surname><given-names>G.J.</given-names></name>
+<name><surname>Dutton</surname><given-names>S.J.</given-names></name>
+<name><surname>Walsh</surname><given-names>E.I.</given-names></name>
+<name><surname>Martin</surname><given-names>R.M.</given-names></name>
+<name><surname>Peters</surname><given-names>T.J.</given-names></name>
+<etal/>
+</person-group><article-title>Ten-year Mortality, Disease Progression, and Treatment-related Side Effects in Men with Localised Prostate Cancer from the ProtecT Randomised Controlled Trial According to Treatment Received</article-title><source>Eur. Urol.</source><year>2020</year><volume>77</volume><fpage>320</fpage><lpage>330</lpage><pub-id pub-id-type="doi">10.1016/j.eururo.2019.10.030</pub-id><pub-id pub-id-type="pmid">31771797</pub-id>
+</element-citation></ref><ref id="B2-cancers-17-01337"><label>2.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Calio</surname><given-names>B.</given-names></name>
+<name><surname>Kasson</surname><given-names>M.</given-names></name>
+<name><surname>Sugano</surname><given-names>D.</given-names></name>
+<name><surname>Ortman</surname><given-names>M.</given-names></name>
+<name><surname>Gaitonde</surname><given-names>K.</given-names></name>
+<name><surname>Verma</surname><given-names>S.</given-names></name>
+<name><surname>Sidana</surname><given-names>A.</given-names></name>
+</person-group><article-title>Multiparametric MRI: An Opportunity for Focal Therapy of Prostate Cancer</article-title><source>Semin. Roentgenol.</source><year>2018</year><volume>53</volume><fpage>227</fpage><lpage>233</lpage><pub-id pub-id-type="doi">10.1053/j.ro.2018.04.007</pub-id><pub-id pub-id-type="pmid">30031416</pub-id>
+</element-citation></ref><ref id="B3-cancers-17-01337"><label>3.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Natarajan</surname><given-names>S.</given-names></name>
+<name><surname>Raman</surname><given-names>S.</given-names></name>
+<name><surname>Priester</surname><given-names>A.M.</given-names></name>
+<name><surname>Garritano</surname><given-names>J.</given-names></name>
+<name><surname>Margolis</surname><given-names>D.J.A.</given-names></name>
+<name><surname>Lieu</surname><given-names>P.</given-names></name>
+<name><surname>Macairan</surname><given-names>M.L.</given-names></name>
+<name><surname>Huang</surname><given-names>J.</given-names></name>
+<name><surname>Grundfest</surname><given-names>W.</given-names></name>
+<name><surname>Marks</surname><given-names>L.S.</given-names></name>
+</person-group><article-title>Focal Laser Ablation of Prostate Cancer: Phase I Clinical Trial</article-title><source>J. Urol.</source><year>2016</year><volume>196</volume><fpage>68</fpage><lpage>75</lpage><pub-id pub-id-type="doi">10.1016/j.juro.2015.12.083</pub-id><pub-id pub-id-type="pmid">26748164</pub-id>
+</element-citation></ref><ref id="B4-cancers-17-01337"><label>4.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bakavicius</surname><given-names>A.</given-names></name>
+<name><surname>Marra</surname><given-names>G.</given-names></name>
+<name><surname>Macek</surname><given-names>P.</given-names></name>
+<name><surname>Robertson</surname><given-names>C.</given-names></name>
+<name><surname>Abreu</surname><given-names>A.L.</given-names></name>
+<name><surname>George</surname><given-names>A.K.</given-names></name>
+<name><surname>Malavaud</surname><given-names>B.</given-names></name>
+<name><surname>Coloby</surname><given-names>P.</given-names></name>
+<name><surname>Rischmann</surname><given-names>P.</given-names></name>
+<name><surname>Moschini</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group><article-title>Available evidence on HIFU for focal treatment of prostate cancer: A systematic review</article-title><source>Int. Braz. J. Urol.</source><year>2021</year><volume>48</volume><fpage>263</fpage><lpage>274</lpage><pub-id pub-id-type="doi">10.1590/s1677-5538.ibju.2021.0091</pub-id><pub-id pub-id-type="pmid">34003610</pub-id>
+</element-citation></ref><ref id="B5-cancers-17-01337"><label>5.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gill</surname><given-names>I.S.</given-names></name>
+<name><surname>Azzouzi</surname><given-names>A.-R.</given-names></name>
+<name><surname>Emberton</surname><given-names>M.</given-names></name>
+<name><surname>Coleman</surname><given-names>J.A.</given-names></name>
+<name><surname>Coeytaux</surname><given-names>E.</given-names></name>
+<name><surname>Scherz</surname><given-names>A.</given-names></name>
+<name><surname>Scardino</surname><given-names>P.T.</given-names></name>
+</person-group><article-title>PCM301 Study Group. Randomized Trial of Partial Gland Ablation with Vascular Targeted Phototherapy versus Active Surveillance for Low Risk Prostate Cancer: Extended Followup and Analyses of Effectiveness</article-title><source>J. Urol.</source><year>2018</year><volume>200</volume><fpage>786</fpage><lpage>793</lpage><pub-id pub-id-type="doi">10.1016/j.juro.2018.05.121</pub-id><pub-id pub-id-type="pmid">29864437</pub-id>
+</element-citation></ref><ref id="B6-cancers-17-01337"><label>6.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sidana</surname><given-names>A.</given-names></name>
+<name><surname>Lazarovich</surname><given-names>A.</given-names></name>
+<name><surname>Tayebi</surname><given-names>S.</given-names></name>
+<name><surname>Huron</surname><given-names>A.</given-names></name>
+<name><surname>Blank</surname><given-names>F.</given-names></name>
+<name><surname>Tobler</surname><given-names>J.</given-names></name>
+<name><surname>Verma</surname><given-names>S.</given-names></name>
+<name><surname>Hsu</surname><given-names>W.-W.</given-names></name>
+</person-group><article-title>Prostate ablation for the management of localized prostate cancer</article-title><source>Urol. Oncol. Semin. Orig. Investig.</source><year>2024</year><volume>43</volume><fpage>194.e9</fpage><lpage>194.e17</lpage><pub-id pub-id-type="doi">10.1016/j.urolonc.2024.11.009</pub-id><pub-id pub-id-type="pmid">39592359</pub-id>
+</element-citation></ref><ref id="B7-cancers-17-01337"><label>7.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lazarovich</surname><given-names>A.</given-names></name>
+<name><surname>Viswanath</surname><given-names>V.</given-names></name>
+<name><surname>Dahmen</surname><given-names>A.S.</given-names></name>
+<name><surname>Sidana</surname><given-names>A.</given-names></name>
+</person-group><article-title>A narrative clinical trials review in the realm of focal therapy for localized prostate cancer</article-title><source>Transl. Cancer Res.</source><year>2024</year><volume>13</volume><fpage>6529</fpage><lpage>6539</lpage><pub-id pub-id-type="doi">10.21037/tcr-23-2406</pub-id><pub-id pub-id-type="pmid">39697719</pub-id>
+</element-citation></ref><ref id="B8-cancers-17-01337"><label>8.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Koehler</surname><given-names>J.</given-names></name>
+<name><surname>Lazarovich</surname><given-names>A.</given-names></name>
+<name><surname>Tayebi</surname><given-names>S.</given-names></name>
+<name><surname>Viswanath</surname><given-names>V.</given-names></name>
+<name><surname>George</surname><given-names>A.</given-names></name>
+<name><surname>Hsu</surname><given-names>W.-W.</given-names></name>
+<name><surname>Sidana</surname><given-names>A.</given-names></name>
+</person-group><article-title>Shifting tides: A survey analysis of urologists&#x02019; evolving attitudes toward focal therapy for prostate cancer</article-title><source>Indian J. Urol.</source><year>2025</year><volume>41</volume><fpage>59</fpage><pub-id pub-id-type="doi">10.4103/iju.iju_239_24</pub-id><pub-id pub-id-type="pmid">39886635</pub-id>
+</element-citation></ref><ref id="B9-cancers-17-01337"><label>9.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Postema</surname><given-names>A.W.</given-names></name>
+<name><surname>De Reijke</surname><given-names>T.M.</given-names></name>
+<name><surname>Ukimura</surname><given-names>O.</given-names></name>
+<name><surname>Van den Bos</surname><given-names>W.</given-names></name>
+<name><surname>Azzouzi</surname><given-names>A.R.</given-names></name>
+<name><surname>Barret</surname><given-names>E.</given-names></name>
+<name><surname>Baumunk</surname><given-names>D.</given-names></name>
+<name><surname>Blana</surname><given-names>A.</given-names></name>
+<name><surname>Bossi</surname><given-names>A.</given-names></name>
+<name><surname>Brausi</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group><article-title>Standardization of definitions in focal therapy of prostate cancer: Report from a Delphi consensus project</article-title><source>World J. Urol.</source><year>2016</year><volume>34</volume><fpage>1373</fpage><lpage>1382</lpage><pub-id pub-id-type="doi">10.1007/s00345-016-1782-x</pub-id><pub-id pub-id-type="pmid">26892160</pub-id>
+</element-citation></ref><ref id="B10-cancers-17-01337"><label>10.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kongnyuy</surname><given-names>M.</given-names></name>
+<name><surname>Islam</surname><given-names>S.</given-names></name>
+<name><surname>Mbah</surname><given-names>A.K.</given-names></name>
+<name><surname>Halpern</surname><given-names>D.M.</given-names></name>
+<name><surname>Werneburg</surname><given-names>G.T.</given-names></name>
+<name><surname>Kosinski</surname><given-names>K.E.</given-names></name>
+<name><surname>Chen</surname><given-names>C.</given-names></name>
+<name><surname>Habibian</surname><given-names>D.J.</given-names></name>
+<name><surname>Schiff</surname><given-names>J.T.</given-names></name>
+<name><surname>Corcoran</surname><given-names>A.T.</given-names></name>
+<etal/>
+</person-group><article-title>PSA kinetics following primary focal cryotherapy (hemiablation) in organ-confined prostate cancer patients</article-title><source>World J. Urol.</source><year>2018</year><volume>36</volume><fpage>209</fpage><lpage>213</lpage><pub-id pub-id-type="doi">10.1007/s00345-017-2130-5</pub-id><pub-id pub-id-type="pmid">29149380</pub-id>
+</element-citation></ref><ref id="B11-cancers-17-01337"><label>11.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sidana</surname><given-names>A.</given-names></name>
+<name><surname>Tayebi</surname><given-names>S.</given-names></name>
+<name><surname>Blank</surname><given-names>F.</given-names></name>
+<name><surname>Lama</surname><given-names>D.J.</given-names></name>
+<name><surname>Meyer</surname><given-names>M.</given-names></name>
+<name><surname>Saeed</surname><given-names>Y.</given-names></name>
+<name><surname>Tobler</surname><given-names>J.</given-names></name>
+<name><surname>Hsu</surname><given-names>W.-W.</given-names></name>
+<name><surname>Verma</surname><given-names>S.</given-names></name>
+</person-group><article-title>Magnetic resonance imaging-ultrasound fusion guided focal cryoablation for men with intermediate-risk prostate cancer</article-title><source>Urol. Oncol. Semin. Orig. Investig.</source><year>2024</year><volume>42</volume><fpage>158.e1</fpage><lpage>158.e10</lpage><pub-id pub-id-type="doi">10.1016/j.urolonc.2024.01.003</pub-id></element-citation></ref><ref id="B12-cancers-17-01337"><label>12.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bahn</surname><given-names>D.</given-names></name>
+<name><surname>de Castro Abreu</surname><given-names>A.L.</given-names></name>
+<name><surname>Gill</surname><given-names>I.S.</given-names></name>
+<name><surname>Hung</surname><given-names>A.J.</given-names></name>
+<name><surname>Silverman</surname><given-names>P.</given-names></name>
+<name><surname>Gross</surname><given-names>M.E.</given-names></name>
+<name><surname>Lieskovsky</surname><given-names>G.</given-names></name>
+<name><surname>Ukimura</surname><given-names>O.</given-names></name>
+</person-group><article-title>Focal Cryotherapy for Clinically Unilateral, Low-Intermediate Risk Prostate Cancer in 73 Men with a Median Follow-Up of 3.7 Years</article-title><source>Eur. Urol.</source><year>2012</year><volume>62</volume><fpage>55</fpage><lpage>63</lpage><pub-id pub-id-type="doi">10.1016/j.eururo.2012.03.006</pub-id><pub-id pub-id-type="pmid">22445223</pub-id>
+</element-citation></ref><ref id="B13-cancers-17-01337"><label>13.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Stabile</surname><given-names>A.</given-names></name>
+<name><surname>Orczyk</surname><given-names>C.</given-names></name>
+<name><surname>Giganti</surname><given-names>F.</given-names></name>
+<name><surname>Moschini</surname><given-names>M.</given-names></name>
+<name><surname>Allen</surname><given-names>C.</given-names></name>
+<name><surname>Punwani</surname><given-names>S.</given-names></name>
+<name><surname>Cathala</surname><given-names>N.</given-names></name>
+<name><surname>Ahmed</surname><given-names>H.U.</given-names></name>
+<name><surname>Cathelineau</surname><given-names>X.</given-names></name>
+<name><surname>Montorsi</surname><given-names>F.</given-names></name>
+<etal/>
+</person-group><article-title>The Role of Percentage of Prostate-specific Antigen Reduction After Focal Therapy Using High-intensity Focused Ultrasound for Primary Localised Prostate Cancer. Results from a Large Multi-institutional Series</article-title><source>Eur. Urol.</source><year>2020</year><volume>78</volume><fpage>155</fpage><lpage>160</lpage><pub-id pub-id-type="doi">10.1016/j.eururo.2020.04.068</pub-id><pub-id pub-id-type="pmid">32444261</pub-id>
+</element-citation></ref><ref id="B14-cancers-17-01337"><label>14.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mattlet</surname><given-names>A.</given-names></name>
+<name><surname>Limani</surname><given-names>K.</given-names></name>
+<name><surname>Alexandre</surname><given-names>P.</given-names></name>
+<name><surname>Hawaux</surname><given-names>E.</given-names></name>
+<name><surname>Abou Zahr</surname><given-names>R.</given-names></name>
+<name><surname>Aoun</surname><given-names>F.</given-names></name>
+<name><surname>Diamand</surname><given-names>R.</given-names></name>
+</person-group><article-title>External validation of biochemical recurrence definition to predict oncologic outcomes following focal therapy for localized prostate cancer using high intensity focused ultrasound</article-title><source>Prostate</source><year>2023</year><volume>83</volume><fpage>1564</fpage><lpage>1571</lpage><pub-id pub-id-type="doi">10.1002/pros.24614</pub-id><pub-id pub-id-type="pmid">37574824</pub-id>
+</element-citation></ref><ref id="B15-cancers-17-01337"><label>15.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ladjevardi</surname><given-names>S.</given-names></name>
+<name><surname>Ebner</surname><given-names>A.</given-names></name>
+<name><surname>Femic</surname><given-names>A.</given-names></name>
+<name><surname>Huebner</surname><given-names>N.A.</given-names></name>
+<name><surname>Shariat</surname><given-names>S.F.</given-names></name>
+<name><surname>Kraler</surname><given-names>S.</given-names></name>
+<name><surname>Kubik-Huch</surname><given-names>R.A.</given-names></name>
+<name><surname>Ahlman</surname><given-names>R.C.</given-names></name>
+<name><surname>H&#x000e4;ggman</surname><given-names>M.</given-names></name>
+<name><surname>Hefermehl</surname><given-names>L.J.</given-names></name>
+</person-group><article-title>Focal high-intensity focused ultrasound therapy for localized prostate cancer: An interim analysis of the multinational FASST study</article-title><source>Eur. J. Clin. Investig.</source><year>2024</year><volume>54</volume><fpage>e14192</fpage><pub-id pub-id-type="doi">10.1111/eci.14192</pub-id><pub-id pub-id-type="pmid">38445798</pub-id>
+</element-citation></ref><ref id="B16-cancers-17-01337"><label>16.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ghoreifi</surname><given-names>A.</given-names></name>
+<name><surname>Kaneko</surname><given-names>M.</given-names></name>
+<name><surname>Peretsman</surname><given-names>S.</given-names></name>
+<name><surname>Iwata</surname><given-names>A.</given-names></name>
+<name><surname>Brooks</surname><given-names>J.</given-names></name>
+<name><surname>Shakir</surname><given-names>A.</given-names></name>
+<name><surname>Sugano</surname><given-names>D.</given-names></name>
+<name><surname>Cai</surname><given-names>J.</given-names></name>
+<name><surname>Cacciamani</surname><given-names>G.</given-names></name>
+<name><surname>Park</surname><given-names>D.</given-names></name>
+<etal/>
+</person-group><article-title>Patient-reported Satisfaction and Regret Following Focal Therapy for Prostate Cancer: A Prospective Multicenter Evaluation</article-title><source>Eur. Urol. Open Sci.</source><year>2023</year><volume>50</volume><fpage>10</fpage><lpage>16</lpage><pub-id pub-id-type="doi">10.1016/j.euros.2023.02.003</pub-id><pub-id pub-id-type="pmid">37101771</pub-id>
+</element-citation></ref><ref id="B17-cancers-17-01337"><label>17.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dickinson</surname><given-names>L.</given-names></name>
+<name><surname>Ahmed</surname><given-names>H.U.</given-names></name>
+<name><surname>Hindley</surname><given-names>R.G.</given-names></name>
+<name><surname>McCartan</surname><given-names>N.</given-names></name>
+<name><surname>Freeman</surname><given-names>A.</given-names></name>
+<name><surname>Allen</surname><given-names>C.</given-names></name>
+<name><surname>Emberton</surname><given-names>M.</given-names></name>
+<name><surname>Kirkham</surname><given-names>A.P.</given-names></name>
+</person-group><article-title>Prostate-specific antigen vs. magnetic resonance imaging parameters for assessing oncological outcomes after high intensity-focused ultrasound focal therapy for localized prostate cancer</article-title><source>Urol. Oncol.</source><year>2017</year><volume>35</volume><fpage>30.e9</fpage><lpage>30.e15</lpage><pub-id pub-id-type="doi">10.1016/j.urolonc.2016.07.015</pub-id></element-citation></ref><ref id="B18-cancers-17-01337"><label>18.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tourinho-Barbosa</surname><given-names>R.R.</given-names></name>
+<name><surname>Sanchez-Salas</surname><given-names>R.</given-names></name>
+<name><surname>Claros</surname><given-names>O.R.</given-names></name>
+<name><surname>Collura-Merlier</surname><given-names>S.</given-names></name>
+<name><surname>Bakavicius</surname><given-names>A.</given-names></name>
+<name><surname>Carneiro</surname><given-names>A.</given-names></name>
+<name><surname>Stabile</surname><given-names>A.</given-names></name>
+<name><surname>Moschini</surname><given-names>M.</given-names></name>
+<name><surname>Cathala</surname><given-names>N.</given-names></name>
+<name><surname>Tobias-Machado</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group><article-title>Focal Therapy for Localized Prostate Cancer with Either High Intensity Focused Ultrasound or Cryoablation: A Single Institution Experience</article-title><source>J. Urol.</source><year>2020</year><volume>203</volume><fpage>320</fpage><lpage>330</lpage><pub-id pub-id-type="doi">10.1097/JU.0000000000000506</pub-id><pub-id pub-id-type="pmid">31437121</pub-id>
+</element-citation></ref><ref id="B19-cancers-17-01337"><label>19.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Peretsman</surname><given-names>S.J.</given-names></name>
+<name><surname>Emberton</surname><given-names>M.</given-names></name>
+<name><surname>Fleshner</surname><given-names>N.</given-names></name>
+<name><surname>Shoji</surname><given-names>S.</given-names></name>
+<name><surname>Bahler</surname><given-names>C.D.</given-names></name>
+<name><surname>Miller</surname><given-names>L.E.</given-names></name>
+</person-group><article-title>High-intensity focused ultrasound with visually directed power adjustment for focal treatment of localized prostate cancer: Systematic review and meta-analysis</article-title><source>World J. Urol.</source><year>2024</year><volume>42</volume><fpage>175</fpage><pub-id pub-id-type="doi">10.1007/s00345-024-04840-6</pub-id><pub-id pub-id-type="pmid">38507093</pub-id>
+</element-citation></ref><ref id="B20-cancers-17-01337"><label>20.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Huber</surname><given-names>P.M.</given-names></name>
+<name><surname>Afzal</surname><given-names>N.</given-names></name>
+<name><surname>Arya</surname><given-names>M.</given-names></name>
+<name><surname>Boxler</surname><given-names>S.</given-names></name>
+<name><surname>Dudderidge</surname><given-names>T.</given-names></name>
+<name><surname>Emberton</surname><given-names>M.</given-names></name>
+<name><surname>Guillaumier</surname><given-names>S.</given-names></name>
+<name><surname>Hindley</surname><given-names>R.G.</given-names></name>
+<name><surname>Hosking-Jervis</surname><given-names>F.</given-names></name>
+<name><surname>Leemann</surname><given-names>L.</given-names></name>
+<etal/>
+</person-group><article-title>Prostate Specific Antigen Criteria to Diagnose Failure of Cancer Control following Focal Therapy of Nonmetastatic Prostate Cancer Using High Intensity Focused Ultrasound</article-title><source>J. Urol.</source><year>2020</year><volume>203</volume><fpage>734</fpage><lpage>742</lpage><pub-id pub-id-type="doi">10.1097/JU.0000000000000747</pub-id><pub-id pub-id-type="pmid">31928408</pub-id>
+</element-citation></ref><ref id="B21-cancers-17-01337"><label>21.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Nguyen</surname><given-names>P.L.</given-names></name>
+<name><surname>Chen</surname><given-names>M.-H.</given-names></name>
+<name><surname>Zhang</surname><given-names>Y.</given-names></name>
+<name><surname>Tempany</surname><given-names>C.M.</given-names></name>
+<name><surname>Cormack</surname><given-names>R.A.</given-names></name>
+<name><surname>Beard</surname><given-names>C.J.</given-names></name>
+<name><surname>Hurwitz</surname><given-names>M.D.</given-names></name>
+<name><surname>Suh</surname><given-names>W.W.</given-names></name>
+<name><surname>D&#x02019;Amico</surname><given-names>A.V.</given-names></name>
+</person-group><article-title>Updated Results of Magnetic Resonance Imaging Guided Partial Prostate Brachytherapy for Favorable Risk Prostate Cancer: Implications for Focal Therapy</article-title><source>J. Urol.</source><year>2012</year><volume>188</volume><fpage>1151</fpage><lpage>1156</lpage><pub-id pub-id-type="doi">10.1016/j.juro.2012.06.010</pub-id><pub-id pub-id-type="pmid">22901567</pub-id>
+</element-citation></ref><ref id="B22-cancers-17-01337"><label>22.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>King</surname><given-names>M.T.</given-names></name>
+<name><surname>Nguyen</surname><given-names>P.L.</given-names></name>
+<name><surname>Boldbaatar</surname><given-names>N.</given-names></name>
+<name><surname>Yang</surname><given-names>D.D.</given-names></name>
+<name><surname>Muralidhar</surname><given-names>V.</given-names></name>
+<name><surname>Tempany</surname><given-names>C.M.</given-names></name>
+<name><surname>Cormack</surname><given-names>R.A.</given-names></name>
+<name><surname>Hurwitz</surname><given-names>M.D.</given-names></name>
+<name><surname>Suh</surname><given-names>W.W.</given-names></name>
+<name><surname>Pomerantz</surname><given-names>M.M.</given-names></name>
+<etal/>
+</person-group><article-title>Evaluating the influence of prostate-specific antigen kinetics on metastasis in men with PSA recurrence after partial gland therapy</article-title><source>Brachytherapy</source><year>2019</year><volume>18</volume><fpage>198</fpage><lpage>203</lpage><pub-id pub-id-type="doi">10.1016/j.brachy.2018.12.001</pub-id><pub-id pub-id-type="pmid">30638910</pub-id>
+</element-citation></ref><ref id="B23-cancers-17-01337"><label>23.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Marra</surname><given-names>G.</given-names></name>
+<name><surname>Laguna</surname><given-names>M.P.</given-names></name>
+<name><surname>Walz</surname><given-names>J.</given-names></name>
+<name><surname>Pavlovich</surname><given-names>C.P.</given-names></name>
+<name><surname>Bianco</surname><given-names>F.</given-names></name>
+<name><surname>Gregg</surname><given-names>J.</given-names></name>
+<name><surname>Lebastchi</surname><given-names>A.H.</given-names></name>
+<name><surname>Lepor</surname><given-names>H.</given-names></name>
+<name><surname>Macek</surname><given-names>P.</given-names></name>
+<name><surname>Rais-Bahrami</surname><given-names>S.</given-names></name>
+<etal/>
+</person-group><article-title>Molecular biomarkers in the context of focal therapy for prostate cancer: Recommendations of a Delphi Consensus from the Focal Therapy Society</article-title><source>Minerva Urol. Nephrol.</source><year>2022</year><volume>74</volume><fpage>581</fpage><lpage>589</lpage><pub-id pub-id-type="doi">10.23736/S2724-6051.20.04160-0</pub-id><pub-id pub-id-type="pmid">33439577</pub-id>
+</element-citation></ref><ref id="B24-cancers-17-01337"><label>24.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kawada</surname><given-names>T.</given-names></name>
+<name><surname>Shim</surname><given-names>S.R.</given-names></name>
+<name><surname>Quhal</surname><given-names>F.</given-names></name>
+<name><surname>Rajwa</surname><given-names>P.</given-names></name>
+<name><surname>Pradere</surname><given-names>B.</given-names></name>
+<name><surname>Yanagisawa</surname><given-names>T.</given-names></name>
+<name><surname>Bekku</surname><given-names>K.</given-names></name>
+<name><surname>Laukhtina</surname><given-names>E.</given-names></name>
+<name><surname>von Deimling</surname><given-names>M.</given-names></name>
+<name><surname>Teoh</surname><given-names>J.Y.-C.</given-names></name>
+<etal/>
+</person-group><article-title>Diagnostic Accuracy of Liquid Biomarkers for Clinically Significant Prostate Cancer Detection: A Systematic Review and Diagnostic Meta-analysis of Multiple Thresholds</article-title><source>Eur. Urol. Oncol.</source><year>2024</year><volume>7</volume><fpage>649</fpage><lpage>662</lpage><pub-id pub-id-type="doi">10.1016/j.euo.2023.10.029</pub-id><pub-id pub-id-type="pmid">37981495</pub-id>
+</element-citation></ref><ref id="B25-cancers-17-01337"><label>25.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lepor</surname><given-names>A.</given-names></name>
+<name><surname>Catalona</surname><given-names>W.J.</given-names></name>
+<name><surname>Loeb</surname><given-names>S.</given-names></name>
+</person-group><article-title>The Prostate Health Index: Its Utility In Prostate Cancer Detection</article-title><source>Urol. Clin. N. Am.</source><year>2016</year><volume>43</volume><fpage>1</fpage><pub-id pub-id-type="doi">10.1016/j.ucl.2015.08.001</pub-id></element-citation></ref><ref id="B26-cancers-17-01337"><label>26.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ahmed</surname><given-names>H.U.</given-names></name>
+<name><surname>Bosaily</surname><given-names>A.E.-S.</given-names></name>
+<name><surname>Brown</surname><given-names>L.C.</given-names></name>
+<name><surname>Gabe</surname><given-names>R.</given-names></name>
+<name><surname>Kaplan</surname><given-names>R.</given-names></name>
+<name><surname>Parmar</surname><given-names>M.K.</given-names></name>
+<name><surname>Collaco-Moraes</surname><given-names>Y.</given-names></name>
+<name><surname>Ward</surname><given-names>K.</given-names></name>
+<name><surname>Hindley</surname><given-names>R.G.</given-names></name>
+<name><surname>Freeman</surname><given-names>A.</given-names></name>
+<etal/>
+</person-group><article-title>Diagnostic accuracy of multi-parametric MRI and TRUS biopsy in prostate cancer (PROMIS): A paired validating confirmatory study</article-title><source>Lancet</source><year>2017</year><volume>389</volume><fpage>815</fpage><lpage>822</lpage><pub-id pub-id-type="doi">10.1016/S0140-6736(16)32401-1</pub-id><pub-id pub-id-type="pmid">28110982</pub-id>
+</element-citation></ref><ref id="B27-cancers-17-01337"><label>27.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ahn</surname><given-names>H.</given-names></name>
+<name><surname>Hwang</surname><given-names>S.I.</given-names></name>
+<name><surname>Lee</surname><given-names>H.J.</given-names></name>
+<name><surname>Kim</surname><given-names>S.Y.</given-names></name>
+<name><surname>Cho</surname><given-names>J.Y.</given-names></name>
+<name><surname>Lee</surname><given-names>H.</given-names></name>
+<name><surname>Hong</surname><given-names>S.K.</given-names></name>
+<name><surname>Byun</surname><given-names>S.-S.</given-names></name>
+<name><surname>Kim</surname><given-names>T.M.</given-names></name>
+</person-group><article-title>Diagnostic performance of MRI for prediction of recurrent prostate cancer after high-intensity focused ultrasound: A systematic review and meta-analysis</article-title><source>Prostate Int.</source><year>2022</year><volume>11</volume><fpage>59</fpage><pub-id pub-id-type="doi">10.1016/j.prnil.2022.12.004</pub-id><pub-id pub-id-type="pmid">37409098</pub-id>
+</element-citation></ref><ref id="B28-cancers-17-01337"><label>28.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>S&#x000e9;guier</surname><given-names>D.</given-names></name>
+<name><surname>Puech</surname><given-names>P.</given-names></name>
+<name><surname>Barret</surname><given-names>E.</given-names></name>
+<name><surname>Leroy</surname><given-names>X.</given-names></name>
+<name><surname>Labreuche</surname><given-names>J.</given-names></name>
+<name><surname>Penna</surname><given-names>R.R.</given-names></name>
+<name><surname>Ploussard</surname><given-names>G.</given-names></name>
+<name><surname>Villers</surname><given-names>A.</given-names></name>
+<name><surname>Olivier</surname><given-names>J.</given-names></name>
+</person-group><article-title>MRI accuracy for recurrence after partial gland ablation with HIFU for localized prostate cancer. A systematic review and meta-analysis</article-title><source>Prostate Cancer Prostatic Dis.</source><year>2024</year><pub-id pub-id-type="doi">10.1038/s41391-024-00885-1</pub-id></element-citation></ref><ref id="B29-cancers-17-01337"><label>29.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Petrocelli</surname><given-names>R.D.</given-names></name>
+<name><surname>Bagga</surname><given-names>B.</given-names></name>
+<name><surname>Kim</surname><given-names>S.</given-names></name>
+<name><surname>Prabhu</surname><given-names>V.</given-names></name>
+<name><surname>Qian</surname><given-names>K.</given-names></name>
+<name><surname>Becher</surname><given-names>E.</given-names></name>
+<name><surname>Taneja</surname><given-names>S.S.</given-names></name>
+<name><surname>Tong</surname><given-names>A.</given-names></name>
+</person-group><article-title>Diagnostic Performance of Multiparametric MRI for Detection of Prostate Cancer After Focal Therapy</article-title><source>J. Comput. Assist. Tomogr.</source><year>2024</year><pub-id pub-id-type="doi">10.1097/RCT.0000000000001703</pub-id></element-citation></ref><ref id="B30-cancers-17-01337"><label>30.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Padhani</surname><given-names>A.R.</given-names></name>
+<name><surname>Weinreb</surname><given-names>J.</given-names></name>
+<name><surname>Rosenkrantz</surname><given-names>A.B.</given-names></name>
+<name><surname>Villeirs</surname><given-names>G.</given-names></name>
+<name><surname>Turkbey</surname><given-names>B.</given-names></name>
+<name><surname>Barentsz</surname><given-names>J.</given-names></name>
+</person-group><article-title>Prostate Imaging-Reporting and Data System Steering Committee: PI-RADS v2 Status Update and Future Directions</article-title><source>Eur. Urol.</source><year>2018</year><volume>75</volume><fpage>385</fpage><pub-id pub-id-type="doi">10.1016/j.eururo.2018.05.035</pub-id><pub-id pub-id-type="pmid">29908876</pub-id>
+</element-citation></ref><ref id="B31-cancers-17-01337"><label>31.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tayebi</surname><given-names>S.</given-names></name>
+<name><surname>Verma</surname><given-names>S.</given-names></name>
+<name><surname>Sidana</surname><given-names>A.</given-names></name>
+</person-group><article-title>Real-Time and Delayed Imaging of Tissue and Effects of Prostate Tissue Ablation</article-title><source>Curr. Urol. Rep.</source><year>2023</year><volume>24</volume><fpage>477</fpage><lpage>489</lpage><pub-id pub-id-type="doi">10.1007/s11934-023-01175-4</pub-id><pub-id pub-id-type="pmid">37421582</pub-id>
+</element-citation></ref><ref id="B32-cancers-17-01337"><label>32.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Giganti</surname><given-names>F.</given-names></name>
+<name><surname>Dickinson</surname><given-names>L.</given-names></name>
+<name><surname>Orczyk</surname><given-names>C.</given-names></name>
+<name><surname>Haider</surname><given-names>A.</given-names></name>
+<name><surname>Freeman</surname><given-names>A.</given-names></name>
+<name><surname>Emberton</surname><given-names>M.</given-names></name>
+<name><surname>Allen</surname><given-names>C.</given-names></name>
+<name><surname>Moore</surname><given-names>C.M.</given-names></name>
+</person-group><article-title>Prostate Imaging after Focal Ablation (PI-FAB): A Proposal for a Scoring System for Multiparametric MRI of the Prostate After Focal Therapy</article-title><source>Eur. Urol. Oncol.</source><year>2023</year><volume>6</volume><fpage>629</fpage><lpage>634</lpage><pub-id pub-id-type="doi">10.1016/j.euo.2023.04.007</pub-id><pub-id pub-id-type="pmid">37210343</pub-id>
+</element-citation></ref><ref id="B33-cancers-17-01337"><label>33.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gelikman</surname><given-names>D.G.</given-names></name>
+<name><surname>Kenigsberg</surname><given-names>A.P.</given-names></name>
+<name><surname>Law</surname><given-names>Y.M.</given-names></name>
+<name><surname>Yilmaz</surname><given-names>E.C.</given-names></name>
+<name><surname>Harmon</surname><given-names>S.A.</given-names></name>
+<name><surname>Parikh</surname><given-names>S.H.</given-names></name>
+<name><surname>Hyman</surname><given-names>J.A.</given-names></name>
+<name><surname>Huth</surname><given-names>H.</given-names></name>
+<name><surname>Koller</surname><given-names>C.R.</given-names></name>
+<name><surname>Nethala</surname><given-names>D.</given-names></name>
+<etal/>
+</person-group><article-title>Evaluating Diagnostic Accuracy and Inter-reader Agreement of the Prostate Imaging After Focal Ablation Scoring System</article-title><source>Eur. Urol. Open Sci.</source><year>2024</year><volume>62</volume><fpage>74</fpage><pub-id pub-id-type="doi">10.1016/j.euros.2024.02.012</pub-id><pub-id pub-id-type="pmid">38468864</pub-id>
+</element-citation></ref><ref id="B34-cancers-17-01337"><label>34.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pausch</surname><given-names>A.M.</given-names></name>
+<name><surname>Elsner</surname><given-names>C.</given-names></name>
+<name><surname>Rupp</surname><given-names>N.J.</given-names></name>
+<name><surname>Eberli</surname><given-names>D.</given-names></name>
+<name><surname>H&#x000f6;tker</surname><given-names>A.M.</given-names></name>
+</person-group><article-title>MRI-based monitoring of prostate cancer after HIFU: Inter-reader agreement and diagnostic performance of the PI-FAB score</article-title><source>Eur. J. Radiol.</source><year>2024</year><volume>175</volume><fpage>111463</fpage><pub-id pub-id-type="doi">10.1016/j.ejrad.2024.111463</pub-id><pub-id pub-id-type="pmid">38615502</pub-id>
+</element-citation></ref><ref id="B35-cancers-17-01337"><label>35.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Light</surname><given-names>A.</given-names></name>
+<name><surname>Mayor</surname><given-names>N.</given-names></name>
+<name><surname>Cullen</surname><given-names>E.</given-names></name>
+<name><surname>Kirkham</surname><given-names>A.</given-names></name>
+<name><surname>Padhani</surname><given-names>A.R.</given-names></name>
+<name><surname>Arya</surname><given-names>M.</given-names></name>
+<name><surname>Bomers</surname><given-names>J.G.R.</given-names></name>
+<name><surname>Dudderidge</surname><given-names>T.</given-names></name>
+<name><surname>Ehdaie</surname><given-names>B.</given-names></name>
+<name><surname>Freeman</surname><given-names>A.</given-names></name>
+<etal/>
+</person-group><article-title>The Transatlantic Recommendations for Prostate Gland Evaluation with Magnetic Resonance Imaging After Focal Therapy (TARGET): A Systematic Review and International Consensus Recommendations</article-title><source>Eur. Urol.</source><year>2024</year><volume>85</volume><fpage>466</fpage><lpage>482</lpage><pub-id pub-id-type="doi">10.1016/j.eururo.2024.02.001</pub-id><pub-id pub-id-type="pmid">38519280</pub-id>
+</element-citation></ref><ref id="B36-cancers-17-01337"><label>36.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bui</surname><given-names>T.-L.</given-names></name>
+<name><surname>Glavis-Bloom</surname><given-names>J.</given-names></name>
+<name><surname>Chahine</surname><given-names>C.</given-names></name>
+<name><surname>Mehta</surname><given-names>R.</given-names></name>
+<name><surname>Wolfe</surname><given-names>T.</given-names></name>
+<name><surname>Bhatter</surname><given-names>P.</given-names></name>
+<name><surname>Rupasinghe</surname><given-names>M.</given-names></name>
+<name><surname>Carbone</surname><given-names>J.</given-names></name>
+<name><surname>Haider</surname><given-names>M.A.</given-names></name>
+<name><surname>Giganti</surname><given-names>F.</given-names></name>
+<etal/>
+</person-group><article-title>Prostate minimally invasive procedures: Complications and normal vs. abnormal findings on multiparametric magnetic resonance imaging (mpMRI)</article-title><source>Abdom Radiol.</source><year>2021</year><volume>46</volume><fpage>4388</fpage><lpage>4400</lpage><pub-id pub-id-type="doi">10.1007/s00261-021-03097-6</pub-id></element-citation></ref><ref id="B37-cancers-17-01337"><label>37.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Esengur</surname><given-names>O.T.</given-names></name>
+<name><surname>Gelikman</surname><given-names>D.G.</given-names></name>
+<name><surname>Law</surname><given-names>Y.M.</given-names></name>
+<name><surname>Yilmaz</surname><given-names>E.C.</given-names></name>
+<name><surname>Harmon</surname><given-names>S.A.</given-names></name>
+<name><surname>Merino</surname><given-names>M.J.</given-names></name>
+<name><surname>Gurram</surname><given-names>S.</given-names></name>
+<name><surname>Choyke</surname><given-names>P.L.</given-names></name>
+<name><surname>Wood</surname><given-names>B.J.</given-names></name>
+<name><surname>Pinto</surname><given-names>P.A.</given-names></name>
+<etal/>
+</person-group><article-title>Comparison of Transatlantic Recommendations for Prostate Gland Evaluation with MRI after Focal Therapy (TARGET) and Prostate Imaging after Focal Ablation (PI-FAB) for Detecting Recurrent Prostate Cancer at Prostate MRI</article-title><source>Acad. Radiol.</source><year>2024</year><volume>32</volume><fpage>855</fpage><lpage>863</lpage><pub-id pub-id-type="doi">10.1016/j.acra.2024.09.051</pub-id><pub-id pub-id-type="pmid">39426916</pub-id>
+</element-citation></ref><ref id="B38-cancers-17-01337"><label>38.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hofman</surname><given-names>M.S.</given-names></name>
+<name><surname>Lawrentschuk</surname><given-names>N.</given-names></name>
+<name><surname>Francis</surname><given-names>R.J.</given-names></name>
+<name><surname>Tang</surname><given-names>C.</given-names></name>
+<name><surname>Vela</surname><given-names>I.</given-names></name>
+<name><surname>Thomas</surname><given-names>P.</given-names></name>
+<name><surname>Rutherford</surname><given-names>N.</given-names></name>
+<name><surname>Martin</surname><given-names>J.M.</given-names></name>
+<name><surname>Frydenberg</surname><given-names>M.</given-names></name>
+<name><surname>Shakher</surname><given-names>R.</given-names></name>
+<etal/>
+</person-group><article-title>Prostate-specific membrane antigen PET-CT in patients with high-risk prostate cancer before curative-intent surgery or radiotherapy (proPSMA): A prospective, randomised, multicentre study</article-title><source>Lancet</source><year>2020</year><volume>395</volume><fpage>1208</fpage><lpage>1216</lpage><pub-id pub-id-type="doi">10.1016/S0140-6736(20)30314-7</pub-id><pub-id pub-id-type="pmid">32209449</pub-id>
+</element-citation></ref><ref id="B39-cancers-17-01337"><label>39.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dyrberg</surname><given-names>E.</given-names></name>
+<name><surname>Hendel</surname><given-names>H.W.</given-names></name>
+<name><surname>Huynh</surname><given-names>T.H.V.</given-names></name>
+<name><surname>Klausen</surname><given-names>T.W.</given-names></name>
+<name><surname>L&#x000f8;gager</surname><given-names>V.B.</given-names></name>
+<name><surname>Madsen</surname><given-names>C.</given-names></name>
+<name><surname>Pedersen</surname><given-names>E.M.</given-names></name>
+<name><surname>Pedersen</surname><given-names>M.</given-names></name>
+<name><surname>Thomsen</surname><given-names>H.S.</given-names></name>
+</person-group><article-title>68Ga-PSMA-PET/CT in comparison with 18F-fluoride-PET/CT and whole-body MRI for the detection of bone metastases in patients with prostate cancer: A prospective diagnostic accuracy study</article-title><source>Eur. Radiol.</source><year>2019</year><volume>29</volume><fpage>1221</fpage><lpage>1230</lpage><pub-id pub-id-type="doi">10.1007/s00330-018-5682-x</pub-id><pub-id pub-id-type="pmid">30132104</pub-id>
+</element-citation></ref><ref id="B40-cancers-17-01337"><label>40.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Stabile</surname><given-names>A.</given-names></name>
+<name><surname>Pellegrino</surname><given-names>A.</given-names></name>
+<name><surname>Mazzone</surname><given-names>E.</given-names></name>
+<name><surname>Cannoletta</surname><given-names>D.</given-names></name>
+<name><surname>de Angelis</surname><given-names>M.</given-names></name>
+<name><surname>Barletta</surname><given-names>F.</given-names></name>
+<name><surname>Scuderi</surname><given-names>S.</given-names></name>
+<name><surname>Cucchiara</surname><given-names>V.</given-names></name>
+<name><surname>Gandaglia</surname><given-names>G.</given-names></name>
+<name><surname>Raggi</surname><given-names>D.</given-names></name>
+<etal/>
+</person-group><article-title>Can Negative Prostate-specific Membrane Antigen Positron Emission Tomography/Computed Tomography Avoid the Need for Pelvic Lymph Node Dissection in Newly Diagnosed Prostate Cancer Patients? A Systematic Review and Meta-analysis with Backup Histology as Reference Standard</article-title><source>Eur. Urol. Oncol.</source><year>2022</year><volume>5</volume><fpage>1</fpage><lpage>17</lpage><pub-id pub-id-type="pmid">34538770</pub-id>
+</element-citation></ref><ref id="B41-cancers-17-01337"><label>41.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Manfredi</surname><given-names>C.</given-names></name>
+<name><surname>Fern&#x000e1;ndez-Pascual</surname><given-names>E.</given-names></name>
+<name><surname>Arcaniolo</surname><given-names>D.</given-names></name>
+<name><surname>Emberton</surname><given-names>M.</given-names></name>
+<name><surname>Sanchez-Salas</surname><given-names>R.</given-names></name>
+<name><surname>Artigas Guix</surname><given-names>C.</given-names></name>
+<name><surname>Bianco</surname><given-names>F.</given-names></name>
+<name><surname>Cathcart</surname><given-names>P.</given-names></name>
+<name><surname>Murphy</surname><given-names>D.G.</given-names></name>
+<name><surname>Cou&#x000f1;ago</surname><given-names>F.</given-names></name>
+<etal/>
+</person-group><article-title>The Role of Prostate-specific Membrane Antigen Positron Emission Tomography/Magnetic Resonance Imaging in Primary and Recurrent Prostate Cancer: A Systematic Review of the Literature</article-title><source>Eur. Urol. Focus</source><year>2022</year><volume>8</volume><fpage>942</fpage><lpage>957</lpage><pub-id pub-id-type="doi">10.1016/j.euf.2021.08.013</pub-id><pub-id pub-id-type="pmid">34538633</pub-id>
+</element-citation></ref><ref id="B42-cancers-17-01337"><label>42.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Roberts</surname><given-names>M.J.</given-names></name>
+<name><surname>Morton</surname><given-names>A.</given-names></name>
+<name><surname>Donato</surname><given-names>P.</given-names></name>
+<name><surname>Kyle</surname><given-names>S.</given-names></name>
+<name><surname>Pattison</surname><given-names>D.A.</given-names></name>
+<name><surname>Thomas</surname><given-names>P.</given-names></name>
+<name><surname>Coughlin</surname><given-names>G.</given-names></name>
+<name><surname>Esler</surname><given-names>R.</given-names></name>
+<name><surname>Dunglison</surname><given-names>N.</given-names></name>
+<name><surname>Gardiner</surname><given-names>R.A.</given-names></name>
+<etal/>
+</person-group><article-title>68Ga-PSMA PET/CT tumour intensity pre-operatively predicts adverse pathological outcomes and progression-free survival in localised prostate cancer</article-title><source>Eur. J. Nucl. Med. Mol. Imaging</source><year>2021</year><volume>48</volume><fpage>477</fpage><lpage>482</lpage><pub-id pub-id-type="doi">10.1007/s00259-020-04944-2</pub-id><pub-id pub-id-type="pmid">32696091</pub-id>
+</element-citation></ref><ref id="B43-cancers-17-01337"><label>43.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Roberts</surname><given-names>M.J.</given-names></name>
+<name><surname>Morton</surname><given-names>A.</given-names></name>
+<name><surname>Papa</surname><given-names>N.</given-names></name>
+<name><surname>Franklin</surname><given-names>A.</given-names></name>
+<name><surname>Raveenthiran</surname><given-names>S.</given-names></name>
+<name><surname>Yaxley</surname><given-names>W.J.</given-names></name>
+<name><surname>Coughlin</surname><given-names>G.</given-names></name>
+<name><surname>Gianduzzo</surname><given-names>T.</given-names></name>
+<name><surname>Kua</surname><given-names>B.</given-names></name>
+<name><surname>McEwan</surname><given-names>L.</given-names></name>
+<etal/>
+</person-group><article-title>Primary tumour PSMA intensity is an independent prognostic biomarker for biochemical recurrence-free survival following radical prostatectomy</article-title><source>Eur. J. Nucl. Med. Mol. Imaging.</source><year>2022</year><volume>49</volume><fpage>3289</fpage><lpage>3294</lpage><pub-id pub-id-type="doi">10.1007/s00259-022-05756-2</pub-id><pub-id pub-id-type="pmid">35298693</pub-id>
+</element-citation></ref><ref id="B44-cancers-17-01337"><label>44.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>D.</given-names></name>
+<name><surname>Wang</surname><given-names>Z.-H.</given-names></name>
+<name><surname>Wang</surname><given-names>C.-B.</given-names></name>
+<name><surname>Wu</surname><given-names>Z.-C.</given-names></name>
+</person-group><article-title>The Diagnostic Performance of 68Ga-PSMA-11 PET/MRI for the Biochemically Recurrent Prostate Cancer: A Systematic Review and Meta-analysis</article-title><source>Iran. J. Public. Health</source><year>2024</year><volume>53</volume><fpage>1224</fpage><lpage>1235</lpage><pub-id pub-id-type="doi">10.18502/ijph.v53i6.15896</pub-id><pub-id pub-id-type="pmid">39430138</pub-id>
+</element-citation></ref><ref id="B45-cancers-17-01337"><label>45.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Huo</surname><given-names>H.</given-names></name>
+<name><surname>Shen</surname><given-names>S.</given-names></name>
+<name><surname>He</surname><given-names>D.</given-names></name>
+<name><surname>Liu</surname><given-names>B.</given-names></name>
+<name><surname>Yang</surname><given-names>F.</given-names></name>
+</person-group><article-title>Head-to-head comparison of 68Ga-PSMA-11 PET/CT and 68Ga-PSMA-11 PET/MRI in the detection of biochemical recurrence of prostate cancer: Summary of head-to-head comparison studies</article-title><source>Prostate Cancer Prostatic Dis.</source><year>2023</year><volume>26</volume><fpage>16</fpage><lpage>24</lpage><pub-id pub-id-type="doi">10.1038/s41391-022-00581-y</pub-id><pub-id pub-id-type="pmid">35931759</pub-id>
+</element-citation></ref><ref id="B46-cancers-17-01337"><label>46.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Duan</surname><given-names>H.</given-names></name>
+<name><surname>Ghanouni</surname><given-names>P.</given-names></name>
+<name><surname>Daniel</surname><given-names>B.</given-names></name>
+<name><surname>Rosenberg</surname><given-names>J.</given-names></name>
+<name><surname>Davidzon</surname><given-names>G.A.</given-names></name>
+<name><surname>Aparici</surname><given-names>C.M.</given-names></name>
+<name><surname>Kunder</surname><given-names>C.</given-names></name>
+<name><surname>Sonn</surname><given-names>G.A.</given-names></name>
+<name><surname>Iagaru</surname><given-names>A.</given-names></name>
+</person-group><article-title>A Pilot Study of 68Ga-PSMA11 and 68Ga-RM2 PET/MRI for Evaluation of Prostate Cancer Response to High-Intensity Focused Ultrasound Therapy</article-title><source>J. Nucl. Med.</source><year>2023</year><volume>64</volume><fpage>592</fpage><lpage>597</lpage><pub-id pub-id-type="doi">10.2967/jnumed.122.264783</pub-id><pub-id pub-id-type="pmid">36328488</pub-id>
+</element-citation></ref><ref id="B47-cancers-17-01337"><label>47.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Burger</surname><given-names>I.A.</given-names></name>
+<name><surname>M&#x000fc;ller</surname><given-names>J.</given-names></name>
+<name><surname>Donati</surname><given-names>O.F.</given-names></name>
+<name><surname>Ferraro</surname><given-names>D.A.</given-names></name>
+<name><surname>Messerli</surname><given-names>M.</given-names></name>
+<name><surname>Kranzb&#x000fc;hler</surname><given-names>B.</given-names></name>
+<name><surname>ter Voert</surname><given-names>E.E.G.W.</given-names></name>
+<name><surname>Muehlematter</surname><given-names>U.J.</given-names></name>
+<name><surname>Rupp</surname><given-names>N.J.</given-names></name>
+<name><surname>Mortezavi</surname><given-names>A.</given-names></name>
+<etal/>
+</person-group><article-title>68Ga-PSMA-11 PET/MR Detects Local Recurrence Occult on mpMRI in Prostate Cancer Patients After HIFU</article-title><source>J. Nucl. Med.</source><year>2019</year><volume>60</volume><fpage>1118</fpage><lpage>1123</lpage><pub-id pub-id-type="doi">10.2967/jnumed.118.221564</pub-id><pub-id pub-id-type="pmid">30683764</pub-id>
+</element-citation></ref><ref id="B48-cancers-17-01337"><label>48.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jafarvand</surname><given-names>M.</given-names></name>
+<name><surname>Farolfi</surname><given-names>A.</given-names></name>
+<name><surname>Benz</surname><given-names>M.</given-names></name>
+<name><surname>Djaileb</surname><given-names>L.</given-names></name>
+<name><surname>Mei</surname><given-names>R.</given-names></name>
+<name><surname>Czernin</surname><given-names>J.</given-names></name>
+<name><surname>Marks</surname><given-names>L.</given-names></name>
+<name><surname>Calais</surname><given-names>J.</given-names></name>
+</person-group><article-title>PSMA PET/CT for prostate cancer patients after focal therapy: A single center retrospective analysis</article-title><source>J. Nucl. Med.</source><year>2023</year><volume>64</volume><fpage>P124</fpage></element-citation></ref><ref id="B49-cancers-17-01337"><label>49.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Muller</surname><given-names>B.G.</given-names></name>
+<name><surname>van den Bos</surname><given-names>W.</given-names></name>
+<name><surname>Brausi</surname><given-names>M.</given-names></name>
+<name><surname>F&#x000fc;tterer</surname><given-names>J.J.</given-names></name>
+<name><surname>Ghai</surname><given-names>S.</given-names></name>
+<name><surname>Pinto</surname><given-names>P.A.</given-names></name>
+<name><surname>Popeneciu</surname><given-names>I.V.</given-names></name>
+<name><surname>Reijke</surname><given-names>T.M.</given-names></name>
+<name><surname>Robertson</surname><given-names>C.</given-names></name>
+<name><surname>De La Rosette</surname><given-names>J.J.M.C.H.</given-names></name>
+<etal/>
+</person-group><article-title>Follow-up modalities in focal therapy for prostate cancer: Results from a Delphi consensus project</article-title><source>World J. Urol.</source><year>2015</year><volume>33</volume><fpage>1503</fpage><pub-id pub-id-type="doi">10.1007/s00345-014-1475-2</pub-id><pub-id pub-id-type="pmid">25559111</pub-id>
+</element-citation></ref><ref id="B50-cancers-17-01337"><label>50.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tay</surname><given-names>K.J.</given-names></name>
+<name><surname>Amin</surname><given-names>M.B.</given-names></name>
+<name><surname>Ghai</surname><given-names>S.</given-names></name>
+<name><surname>Jimenez</surname><given-names>R.E.</given-names></name>
+<name><surname>Kench</surname><given-names>J.G.</given-names></name>
+<name><surname>Klotz</surname><given-names>L.</given-names></name>
+<name><surname>Montironi</surname><given-names>R.</given-names></name>
+<name><surname>Muto</surname><given-names>S.</given-names></name>
+<name><surname>Rastinehad</surname><given-names>A.R.</given-names></name>
+<name><surname>Turkbey</surname><given-names>B.</given-names></name>
+<etal/>
+</person-group><article-title>Surveillance after prostate focal therapy</article-title><source>World J. Urol.</source><year>2019</year><volume>37</volume><fpage>397</fpage><lpage>407</lpage><pub-id pub-id-type="doi">10.1007/s00345-018-2363-y</pub-id><pub-id pub-id-type="pmid">29948045</pub-id>
+</element-citation></ref><ref id="B51-cancers-17-01337"><label>51.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lebastchi</surname><given-names>A.H.</given-names></name>
+<name><surname>George</surname><given-names>A.K.</given-names></name>
+<name><surname>Polascik</surname><given-names>T.J.</given-names></name>
+<name><surname>Coleman</surname><given-names>J.</given-names></name>
+<name><surname>de la Rosette</surname><given-names>J.</given-names></name>
+<name><surname>Turkbey</surname><given-names>B.</given-names></name>
+<name><surname>Wood</surname><given-names>B.J.</given-names></name>
+<name><surname>Gorin</surname><given-names>M.A.</given-names></name>
+<name><surname>Sidana</surname><given-names>A.</given-names></name>
+<name><surname>Ghai</surname><given-names>S.</given-names></name>
+<etal/>
+</person-group><article-title>Standardized Nomenclature and Surveillance Methodologies After Focal Therapy and Partial Gland Ablation for Localized Prostate Cancer: An International Multidisciplinary Consensus</article-title><source>Eur. Urol.</source><year>2020</year><volume>78</volume><fpage>371</fpage><pub-id pub-id-type="doi">10.1016/j.eururo.2020.05.018</pub-id><pub-id pub-id-type="pmid">32532513</pub-id>
+</element-citation></ref><ref id="B52-cancers-17-01337"><label>52.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Stabile</surname><given-names>A.</given-names></name>
+<name><surname>Orczyk</surname><given-names>C.</given-names></name>
+<name><surname>Hosking-Jervis</surname><given-names>F.</given-names></name>
+<name><surname>Giganti</surname><given-names>F.</given-names></name>
+<name><surname>Arya</surname><given-names>M.</given-names></name>
+<name><surname>Hindley</surname><given-names>R.G.</given-names></name>
+<name><surname>Dickinson</surname><given-names>L.</given-names></name>
+<name><surname>Allen</surname><given-names>C.</given-names></name>
+<name><surname>Punwani</surname><given-names>S.</given-names></name>
+<name><surname>Jameson</surname><given-names>C.</given-names></name>
+<etal/>
+</person-group><article-title>Medium-term oncological outcomes in a large cohort of men treated with either focal or hemi-ablation using high-intensity focused ultrasonography for primary localized prostate cancer</article-title><source>BJU Int.</source><year>2019</year><volume>124</volume><fpage>431</fpage><lpage>440</lpage><pub-id pub-id-type="doi">10.1111/bju.14710</pub-id><pub-id pub-id-type="pmid">30753756</pub-id>
+</element-citation></ref><ref id="B53-cancers-17-01337"><label>53.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Giganti</surname><given-names>F.</given-names></name>
+<name><surname>Stabile</surname><given-names>A.</given-names></name>
+<name><surname>Giona</surname><given-names>S.</given-names></name>
+<name><surname>Marenco</surname><given-names>J.</given-names></name>
+<name><surname>Orczyk</surname><given-names>C.</given-names></name>
+<name><surname>Moore</surname><given-names>C.M.</given-names></name>
+<name><surname>Allen</surname><given-names>C.</given-names></name>
+<name><surname>Kirkham</surname><given-names>A.</given-names></name>
+<name><surname>Emberton</surname><given-names>M.</given-names></name>
+<name><surname>Punwani</surname><given-names>S.</given-names></name>
+</person-group><article-title>Prostate cancer treated with irreversible electroporation: MRI-based volumetric analysis and oncological outcome</article-title><source>Magn. Reson. Imaging</source><year>2019</year><volume>58</volume><fpage>143</fpage><lpage>147</lpage><pub-id pub-id-type="doi">10.1016/j.mri.2019.02.003</pub-id><pub-id pub-id-type="pmid">30768957</pub-id>
+</element-citation></ref><ref id="B54-cancers-17-01337"><label>54.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>K.</given-names></name>
+<name><surname>Teoh</surname><given-names>J.</given-names></name>
+<name><surname>Laguna</surname><given-names>P.</given-names></name>
+<name><surname>Dominguez-Escrig</surname><given-names>J.</given-names></name>
+<name><surname>Barret</surname><given-names>E.</given-names></name>
+<name><surname>Ramon-Borja</surname><given-names>J.C.</given-names></name>
+<name><surname>Muir</surname><given-names>G.</given-names></name>
+<name><surname>Bohr</surname><given-names>J.</given-names></name>
+<name><surname>de Reijke</surname><given-names>T.M.</given-names></name>
+<name><surname>Pelechano G&#x000f3;mez</surname><given-names>P.</given-names></name>
+<etal/>
+</person-group><article-title>Effect of Focal vs Extended Irreversible Electroporation for the Ablation of Localized Low- or Intermediate-Risk Prostate Cancer on Early Oncological Control: A Randomized Clinical Trial</article-title><source>JAMA Surg.</source><year>2023</year><volume>158</volume><fpage>343</fpage><lpage>349</lpage><pub-id pub-id-type="doi">10.1001/jamasurg.2022.7516</pub-id><pub-id pub-id-type="pmid">36723911</pub-id>
+</element-citation></ref><ref id="B55-cancers-17-01337"><label>55.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Scheltema</surname><given-names>M.J.</given-names></name>
+<name><surname>Geboers</surname><given-names>B.</given-names></name>
+<name><surname>Blazevski</surname><given-names>A.</given-names></name>
+<name><surname>Doan</surname><given-names>P.</given-names></name>
+<name><surname>Katelaris</surname><given-names>A.</given-names></name>
+<name><surname>Agrawal</surname><given-names>S.</given-names></name>
+<name><surname>Barreto</surname><given-names>D.</given-names></name>
+<name><surname>Shnier</surname><given-names>R.</given-names></name>
+<name><surname>Delprado</surname><given-names>W.</given-names></name>
+<name><surname>Thompson</surname><given-names>J.E.</given-names></name>
+<etal/>
+</person-group><article-title>Median 5-year outcomes of primary focal irreversible electroporation for localised prostate cancer</article-title><source>BJU Int.</source><year>2023</year><volume>131</volume><fpage>6</fpage><lpage>13</lpage><pub-id pub-id-type="doi">10.1111/bju.15946</pub-id><pub-id pub-id-type="pmid">36495481</pub-id>
+</element-citation></ref><ref id="B56-cancers-17-01337"><label>56.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dellabella</surname><given-names>M.</given-names></name>
+<name><surname>Branchi</surname><given-names>A.</given-names></name>
+<name><surname>Di Rosa</surname><given-names>M.</given-names></name>
+<name><surname>Pucci</surname><given-names>M.</given-names></name>
+<name><surname>Gasparri</surname><given-names>L.</given-names></name>
+<name><surname>Claudini</surname><given-names>R.</given-names></name>
+<name><surname>Carnevali</surname><given-names>F.</given-names></name>
+<name><surname>Cecchini</surname><given-names>S.</given-names></name>
+<name><surname>Castellani</surname><given-names>D.</given-names></name>
+</person-group><article-title>Oncological and functional outcome after partial prostate HIFU ablation with Focal-One<sup>&#x000ae;</sup>: A prospective single-center study</article-title><source>Prostate Cancer Prostatic Dis.</source><year>2021</year><volume>24</volume><fpage>1189</fpage><lpage>1197</lpage><pub-id pub-id-type="doi">10.1038/s41391-021-00390-9</pub-id><pub-id pub-id-type="pmid">34007021</pub-id>
+</element-citation></ref><ref id="B57-cancers-17-01337"><label>57.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Selvaggio</surname><given-names>O.</given-names></name>
+<name><surname>Finati</surname><given-names>M.</given-names></name>
+<name><surname>Falagario</surname><given-names>U.G.</given-names></name>
+<name><surname>Silecchia</surname><given-names>G.</given-names></name>
+<name><surname>Recchia</surname><given-names>M.</given-names></name>
+<name><surname>Checchia</surname><given-names>A.A.</given-names></name>
+<name><surname>Milillo</surname><given-names>P.</given-names></name>
+<name><surname>Sanguedolce</surname><given-names>F.</given-names></name>
+<name><surname>Cindolo</surname><given-names>L.</given-names></name>
+<name><surname>Busetto</surname><given-names>G.M.</given-names></name>
+<etal/>
+</person-group><article-title>Treatment of localized prostate cancer in elderly patients: The role of partial cryoablation</article-title><source>Int. Urol. Nephrol.</source><year>2023</year><volume>55</volume><fpage>1125</fpage><lpage>1132</lpage><pub-id pub-id-type="doi">10.1007/s11255-023-03519-y</pub-id><pub-id pub-id-type="pmid">36809642</pub-id>
+</element-citation></ref><ref id="B58-cancers-17-01337"><label>58.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rodr&#x000ed;guez-S&#x000e1;nchez</surname><given-names>L.</given-names></name>
+<name><surname>Reiter</surname><given-names>R.</given-names></name>
+<name><surname>Rodr&#x000ed;guez</surname><given-names>A.</given-names></name>
+<name><surname>Emberton</surname><given-names>M.</given-names></name>
+<name><surname>de Reijke</surname><given-names>T.</given-names></name>
+<name><surname>Comp&#x000e9;rat</surname><given-names>E.M.</given-names></name>
+<name><surname>Bossi</surname><given-names>A.</given-names></name>
+<name><surname>Sanchez-Salas</surname><given-names>R.</given-names></name>
+</person-group><article-title>The FocAL therapy CONsensus (FALCON): Enhancing partial gland ablation for localised prostate cancer</article-title><source>BJU Int.</source><year>2024</year><volume>134</volume><fpage>50</fpage><lpage>53</lpage><pub-id pub-id-type="doi">10.1111/bju.16360</pub-id><pub-id pub-id-type="pmid">38613454</pub-id>
+</element-citation></ref><ref id="B59-cancers-17-01337"><label>59.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wysock</surname><given-names>J.S.</given-names></name>
+<name><surname>Rapoport</surname><given-names>E.</given-names></name>
+<name><surname>Hernandez</surname><given-names>H.</given-names></name>
+<name><surname>Gogaj</surname><given-names>R.</given-names></name>
+<name><surname>Lepor</surname><given-names>H.</given-names></name>
+</person-group><article-title>Biopsy Assessment of Oncologic Control 3 Years Following Primary Partial Gland Cryoablation: A Prospective Cohort Study of Men With Intermediate-risk Prostate Cancer</article-title><source>J. Urol.</source><year>2023</year><volume>210</volume><fpage>454</fpage><lpage>464</lpage><pub-id pub-id-type="doi">10.1097/JU.0000000000003569</pub-id><pub-id pub-id-type="pmid">37285232</pub-id>
+</element-citation></ref><ref id="B60-cancers-17-01337"><label>60.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Eastham</surname><given-names>J.A.</given-names></name>
+<name><surname>Auffenberg</surname><given-names>G.B.</given-names></name>
+<name><surname>Barocas</surname><given-names>D.A.</given-names></name>
+<name><surname>Chou</surname><given-names>R.</given-names></name>
+<name><surname>Crispino</surname><given-names>T.</given-names></name>
+<name><surname>Davis</surname><given-names>J.W.</given-names></name>
+<name><surname>Eggener</surname><given-names>S.</given-names></name>
+<name><surname>Horwitz</surname><given-names>E.M.</given-names></name>
+<name><surname>Kane</surname><given-names>C.J.</given-names></name>
+<name><surname>Kirkby</surname><given-names>E.</given-names></name>
+<etal/>
+</person-group><article-title>Clinically Localized Prostate Cancer: AUA/ASTRO Guideline, Part I: Introduction, Risk Assessment, Staging, and Risk-Based Management</article-title><source>J. Urol.</source><year>2022</year><volume>208</volume><fpage>10</fpage><lpage>18</lpage><pub-id pub-id-type="doi">10.1097/JU.0000000000002757</pub-id><pub-id pub-id-type="pmid">35536144</pub-id>
+</element-citation></ref><ref id="B61-cancers-17-01337"><label>61.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cornford</surname><given-names>P.</given-names></name>
+<name><surname>van den Bergh</surname><given-names>R.C.N.</given-names></name>
+<name><surname>Briers</surname><given-names>E.</given-names></name>
+<name><surname>Van den Broeck</surname><given-names>T.</given-names></name>
+<name><surname>Brunckhorst</surname><given-names>O.</given-names></name>
+<name><surname>Darraugh</surname><given-names>J.</given-names></name>
+<name><surname>Eberli</surname><given-names>D.</given-names></name>
+<name><surname>De Meerleer</surname><given-names>G.</given-names></name>
+<name><surname>De Santis</surname><given-names>M.</given-names></name>
+<name><surname>Farolfi</surname><given-names>A.</given-names></name>
+<etal/>
+</person-group><article-title>EAU-EANM-ESTRO-ESUR-ISUP-SIOG Guidelines on Prostate Cancer-2024 Update. Part I: Screening, Diagnosis, and Local Treatment with Curative Intent</article-title><source>Eur. Urol.</source><year>2024</year><volume>86</volume><fpage>148</fpage><lpage>163</lpage><pub-id pub-id-type="doi">10.1016/j.eururo.2024.03.027</pub-id><pub-id pub-id-type="pmid">38614820</pub-id>
+</element-citation></ref><ref id="B62-cancers-17-01337"><label>62.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Borkowetz</surname><given-names>A.</given-names></name>
+<name><surname>Blana</surname><given-names>A.</given-names></name>
+<name><surname>B&#x000f6;hmer</surname><given-names>D.</given-names></name>
+<name><surname>Cash</surname><given-names>H.</given-names></name>
+<name><surname>Ehrmann</surname><given-names>U.</given-names></name>
+<name><surname>Franiel</surname><given-names>T.</given-names></name>
+<name><surname>Henkel</surname><given-names>T.-O.</given-names></name>
+<name><surname>H&#x000f6;cht</surname><given-names>S.</given-names></name>
+<name><surname>Kristiansen</surname><given-names>G.</given-names></name>
+<name><surname>Machtens</surname><given-names>S.</given-names></name>
+<etal/>
+</person-group><article-title>German S3 Evidence-Based Guidelines on Focal Therapy in Localized Prostate Cancer: The First Evidence-Based Guidelines on Focal Therapy</article-title><source>Urol. Int.</source><year>2022</year><volume>106</volume><fpage>431</fpage><lpage>439</lpage><pub-id pub-id-type="doi">10.1159/000521882</pub-id><pub-id pub-id-type="pmid">35144260</pub-id>
+</element-citation></ref><ref id="B63-cancers-17-01337"><label>63.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Scheltema</surname><given-names>M.J.</given-names></name>
+<name><surname>Tay</surname><given-names>K.J.</given-names></name>
+<name><surname>Postema</surname><given-names>A.W.</given-names></name>
+<name><surname>de Bruin</surname><given-names>D.M.</given-names></name>
+<name><surname>Feller</surname><given-names>J.</given-names></name>
+<name><surname>Futterer</surname><given-names>J.J.</given-names></name>
+<name><surname>George</surname><given-names>A.K.</given-names></name>
+<name><surname>Gupta</surname><given-names>R.T.</given-names></name>
+<name><surname>Kahmann</surname><given-names>F.</given-names></name>
+<name><surname>Kastner</surname><given-names>C.</given-names></name>
+<etal/>
+</person-group><article-title>Utilization of multiparametric prostate magnetic resonance imaging in clinical practice and focal therapy: Report from a Delphi consensus project</article-title><source>World J. Urol.</source><year>2016</year><volume>35</volume><fpage>695</fpage><pub-id pub-id-type="doi">10.1007/s00345-016-1932-1</pub-id><pub-id pub-id-type="pmid">27637908</pub-id>
+</element-citation></ref><ref id="B64-cancers-17-01337"><label>64.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hsieh</surname><given-names>P.-F.</given-names></name>
+<name><surname>Naruse</surname><given-names>J.</given-names></name>
+<name><surname>Yuzuriha</surname><given-names>S.</given-names></name>
+<name><surname>Umemoto</surname><given-names>T.</given-names></name>
+<name><surname>Huang</surname><given-names>C.-P.</given-names></name>
+<name><surname>Shoji</surname><given-names>S.</given-names></name>
+</person-group><article-title>Combining Percentage Prostate-Specific Antigen Reduction and Multiparametric Magnetic Resonance Imaging to Reduce Unnecessary Biopsy After Focal Therapy With High-Intensity Focused Ultrasound for Prostate Cancer</article-title><source>Int. J. Urol.</source><year>2025</year><pub-id pub-id-type="doi">10.1111/iju.70013</pub-id><pub-id pub-id-type="pmid">39968685</pub-id>
+</element-citation></ref></ref-list></back><floats-group><table-wrap position="float" id="cancers-17-01337-t001"><object-id pub-id-type="pii">cancers-17-01337-t001_Table 1</object-id><label>Table 1</label><caption><p>Performance characteristics of various PSA derivatives for identifying recurrent PCa after FT.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Derivative</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Sensitivity</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Specificity</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">PPV</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">NPV</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">HR</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">ROC</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Source(s)</th></tr></thead><tbody><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">% PSA reduction</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.97 (0.96&#x02013;0.98) *</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Mattlet et al. <sup>b</sup> [<xref rid="B14-cancers-17-01337" ref-type="bibr">14</xref>]</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PSA nadir</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.23 (1.08&#x02013;1.41) *</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.58</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Dickinson et al. <sup>c</sup>, Mattlet et al. <sup>b</sup> [<xref rid="B14-cancers-17-01337" ref-type="bibr">14</xref>,<xref rid="B17-cancers-17-01337" ref-type="bibr">17</xref>]</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PSA of 1.0 ng/mL over nadir at 12 months</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">73%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">71%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">96%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10 (4.52&#x02013;22.1) <sup>a</sup></td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Huber et al. <sup>d</sup>, Mattlet et al. <sup>b</sup> [<xref rid="B14-cancers-17-01337" ref-type="bibr">14</xref>,<xref rid="B20-cancers-17-01337" ref-type="bibr">20</xref>]</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PSA of 1.5 ng.ml over nadir at 24 months </td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">100%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">72%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">100%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10 (4.52&#x02013;22.1) <sup>a</sup></td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Huber et al. <sup>d</sup>, Mattlet et al. <sup>b</sup> [<xref rid="B14-cancers-17-01337" ref-type="bibr">14</xref>,<xref rid="B20-cancers-17-01337" ref-type="bibr">20</xref>]</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PSA density after FT</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.62</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Dickinson et al. <sup>c</sup> [<xref rid="B17-cancers-17-01337" ref-type="bibr">17</xref>]</td></tr></tbody></table><table-wrap-foot><fn><p>* Statistically significant result (<italic toggle="yes">p</italic> &#x0003c; 0.05). <sup>a</sup> HR for one or the other criteria. <sup>b</sup> 2023 retrospective review of 178 HIFU patients. Recurrence defined as clinically significant PCa on postoperative biopsy, the need for salvage radical or systematic treatment, metastasis, or PCa-related death. <sup>c</sup> 2017 prospective study of 118 HIFU patients. Recurrence defined by positive biopsy. <sup>d</sup> 2020 prospective study of 598 HIFU patients. Recurrence defined as any secondary treatment, tumor recurrence with Gleason 3 + 4 or greater disease on prostate biopsy, metastasis, or PCa-related mortality. HR: Hazard ratio.</p></fn></table-wrap-foot></table-wrap><table-wrap position="float" id="cancers-17-01337-t002"><object-id pub-id-type="pii">cancers-17-01337-t002_Table 2</object-id><label>Table 2</label><caption><p>Performance characteristics of various imaging modalities for identifying recurrent PCa after FT.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Modality</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Sensitivity</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Specificity</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">PPV</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">NPV</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">ROC</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Source(s)</th></tr></thead><tbody><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">MRI</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">81%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">91%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.81</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ahn et al. <sup>a</sup> [<xref rid="B27-cancers-17-01337" ref-type="bibr">27</xref>]</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">MRI</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">52%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">81%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">50%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">82%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">S&#x000e9;guier et al. <sup>b</sup> [<xref rid="B28-cancers-17-01337" ref-type="bibr">28</xref>]</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">MRI within 3 weeks of FT</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">68%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">59%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">47%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">77%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.69</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Dickinson et al. <sup>c</sup> [<xref rid="B17-cancers-17-01337" ref-type="bibr">17</xref>]</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">MRI at median of 6 months</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">78%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">62%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">77%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.76</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Dickinson et al. <sup>c</sup> [<xref rid="B17-cancers-17-01337" ref-type="bibr">17</xref>]</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">MRI PIFAB</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">93%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">58%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">57%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">93%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.75</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Esengur et al. <sup>d</sup> [<xref rid="B36-cancers-17-01337" ref-type="bibr">36</xref>]</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">MRI TARGET</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">86%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">71%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">64%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">90%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.79</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Esengur et al. <sup>d</sup> [<xref rid="B36-cancers-17-01337" ref-type="bibr">36</xref>]</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PSMA PET/CT</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">94%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">91%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">33%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Jafarvand et al. <sup>e</sup> [<xref rid="B47-cancers-17-01337" ref-type="bibr">47</xref>]</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PSMA PET/MRI after positive biopsy with negative MRI</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">55%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">100%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">100%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">85%</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">N/A</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Burger et al. <sup>f</sup> [<xref rid="B46-cancers-17-01337" ref-type="bibr">46</xref>]</td></tr></tbody></table><table-wrap-foot><fn><p><sup>a</sup> 2022 meta-analysis of 19 studies: 703 HIFU patients. No standard definition of recurrence. <sup>b</sup> 2024 meta-analysis of 12 studies: 1046 HIFU patients. Recurrence defined by positive biopsy. <sup>c</sup> 2017 prospective study of 118 HIFU patients. Recurrence defined by positive biopsy. <sup>d</sup> 2025 retrospective review of 28 focal laser ablation, six HIFU, and four cryoablation patients. Recurrence defined by positive biopsy. <sup>e</sup> 2023 retrospective study of 100 FT patients, mostly HIFU and cryoablation. Recurrence defined by positive biopsy within 3 months of PET scan. <sup>f</sup> 2019 prospective review of 10 HIFU patients. Recurrence defined by positive biopsy.</p></fn></table-wrap-foot></table-wrap></floats-group></article>

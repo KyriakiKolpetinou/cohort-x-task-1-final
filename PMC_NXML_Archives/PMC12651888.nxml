@@ -1,0 +1,1142 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="review-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancers (Basel)</journal-id><journal-id journal-id-type="iso-abbrev">Cancers (Basel)</journal-id><journal-id journal-id-type="publisher-id">cancers</journal-id><journal-title-group><journal-title>Cancers</journal-title></journal-title-group><issn pub-type="epub">2072-6694</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">41301079</article-id><article-id pub-id-type="pmc">12651888</article-id><article-id pub-id-type="doi">10.3390/cancers17223717</article-id><article-id pub-id-type="publisher-id">cancers-17-03717</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>PSMA Theranostics in Prostate Cancer and Beyond: Current and Future Perspectives</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0009-0005-9659-2411</contrib-id><name><surname>Sandhu</surname><given-names>Kieran</given-names></name><xref rid="af1-cancers-17-03717" ref-type="aff">1</xref><xref rid="af2-cancers-17-03717" ref-type="aff">2</xref><xref rid="c1-cancers-17-03717" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Chen</surname><given-names>David</given-names></name><xref rid="af1-cancers-17-03717" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name><surname>Hennes</surname><given-names>David</given-names></name><xref rid="af1-cancers-17-03717" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name><surname>Murphy</surname><given-names>Declan G.</given-names></name><xref rid="af1-cancers-17-03717" ref-type="aff">1</xref><xref rid="af3-cancers-17-03717" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-8553-5618</contrib-id><name><surname>Lawrentschuk</surname><given-names>Nathan</given-names></name><xref rid="af1-cancers-17-03717" ref-type="aff">1</xref><xref rid="af3-cancers-17-03717" ref-type="aff">3</xref><xref rid="af4-cancers-17-03717" ref-type="aff">4</xref><xref rid="af5-cancers-17-03717" ref-type="aff">5</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-1138-6389</contrib-id><name><surname>Perera</surname><given-names>Marlon</given-names></name><xref rid="af1-cancers-17-03717" ref-type="aff">1</xref><xref rid="af3-cancers-17-03717" ref-type="aff">3</xref><xref rid="af6-cancers-17-03717" ref-type="aff">6</xref></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Treglia</surname><given-names>Giorgio</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-cancers-17-03717"><label>1</label>Division of Cancer Surgery, Peter MacCallum Cancer Centre, Melbourne, VIC 3000, Australia</aff><aff id="af2-cancers-17-03717"><label>2</label>University of Cambridge, Cambridge CB2 1TN, UK</aff><aff id="af3-cancers-17-03717"><label>3</label>Department of Surgery, University of Melbourne, Melbourne, VIC 3010, Australia</aff><aff id="af4-cancers-17-03717"><label>4</label>Department of Urology, Royal Melbourne Hospital, Melbourne, VIC 3050, Australia</aff><aff id="af5-cancers-17-03717"><label>5</label>EJ Whitten Prostate Cancer Research Centre, Epworth Healthcare, Melbourne, VIC 3002, Australia</aff><aff id="af6-cancers-17-03717"><label>6</label>Department of Urology, Austin Hospital, Heidelberg, VIC 3084, Australia</aff><author-notes><corresp id="c1-cancers-17-03717"><label>*</label>Correspondence: <email>kieran.sandhu2@gmail.com</email></corresp></author-notes><pub-date pub-type="epub"><day>20</day><month>11</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>11</month><year>2025</year></pub-date><volume>17</volume><issue>22</issue><elocation-id>3717</elocation-id><history><date date-type="received"><day>20</day><month>10</month><year>2025</year></date><date date-type="rev-recd"><day>12</day><month>11</month><year>2025</year></date><date date-type="accepted"><day>19</day><month>11</month><year>2025</year></date></history><permissions><copyright-statement>&#x000a9; 2025 by the authors.</copyright-statement><copyright-year>2025</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract abstract-type="plain-language-summary"><title>Simple Summary</title><p>Prostate-specific membrane antigen (PSMA) has changed the diagnosis and treatment of prostate cancer through the development of highly targeted imaging and radioligand therapy. This review summarises the normal function of PSMA and its role in cancer. We highlight the limitations of PSMA as a sole biomarker and discuss emerging genomic, circulating, and imaging biomarkers that can complement PSMA-based theranostics. The scope of PSMA use is being expanded by quantitative imaging, artificial intelligence, and liquid biopsies which enable prompt assessment of disease biology and treatment response. Furthermore, PSMA expression on blood vessels extends its potential beyond prostate cancer into other malignancies. Collectively, these highlight the role of PSMA in an evolving, biomarker-driven approach to personalised and precision oncology.</p></abstract><abstract><title>Abstract</title><p>Prostate-specific membrane antigen (PSMA) is a type II transmembrane glycoprotein that has become central to prostate cancer (PCa) diagnostics and treatment. Beyond its enzymatic role in folate and glutamate metabolism, PSMA is upregulated in advanced PCa, where it contributes to angiogenesis, tumour progression, and therapeutic resistance. This review integrates current understanding of PSMA biology with an emphasis on the role of PSMA expression and the hallmarks of cancer-proliferative signalling, metabolic adaptation, and evasion of cell death. While PSMA has revolutionised theranostic strategies in PCa, its utility as a sole biomarker is limited in select cases such as neuroendocrine differentiation and discordant disease biology. To address these challenges, we highlight emerging biomarkers and novel imaging markers that complement PSMA, including genomic alterations, circulating tumour markers, and exosomal microRNAs. Advances in radiomics and dual-tracer positron emission tomography (PET) further refine patient selection by capturing aggressive low-PSMA phenotypes. Furthermore, PSMA-PET is showing promise in other malignancies, including renal cell carcinoma (RCC) and glioblastoma multiforme (GBM), where neovasculature expression may extend its theranostic applications beyond PCa. By situating PSMA within this broader biomarker landscape, we outline opportunities for theranostic integration, including predictive models, combination therapies and expansion into non-prostate malignancies. Understanding the biology of PSMA in conjunction with novel biomarkers provides a framework for optimising theranostic applications and advancing personalised cancer care.</p></abstract><kwd-group><kwd>prostate cancer</kwd><kwd>PSMA</kwd><kwd>PSMA-PET/CT</kwd><kwd>[<sup>177</sup>Lu]Lu-PSMA-617</kwd><kwd>theranostics</kwd><kwd>precision oncology</kwd></kwd-group><funding-group><funding-statement>This research received no external funding. </funding-statement></funding-group></article-meta></front><body><sec sec-type="intro" id="sec1-cancers-17-03717"><title>1. Introduction</title><p>The emergence of molecular imaging and targeted therapy&#x02014;theranostics&#x02014;has transformed, and expanded, the field of precision oncology. Prostate-specific membrane antigen (PSMA) is central to this, enabling sensitive disease localisation with PSMA-positron emission tomography/computed tomography (PSMA-PET/CT) and lesion-directed radioligand therapy (RLT) using &#x003b1;-&#x003b2;-emitting agents for patients with prostate cancer (PCa) [<xref rid="B1-cancers-17-03717" ref-type="bibr">1</xref>,<xref rid="B2-cancers-17-03717" ref-type="bibr">2</xref>]. Randomised trials including TheraP and VISION have validated these approaches [<xref rid="B2-cancers-17-03717" ref-type="bibr">2</xref>,<xref rid="B3-cancers-17-03717" ref-type="bibr">3</xref>]. Nonetheless, PSMA biology, imaging interpretation, and therapeutic applications remain dynamic with not all lesions and patients responding equally. The future of precision oncology will depend on the integration of complementary biomarkers to refine patient selection, predict therapy response, and overcome resistant disease. This narrative review synthesises the current understanding of PSMA biology and its theranostic translation, incorporating recent developments in quantitative imaging, biomarkers, emerging molecular correlates, and exploring the role of PSMA beyond PCa.</p></sec><sec id="sec2-cancers-17-03717"><title>2. PSMA Biology</title><sec id="sec2dot1-cancers-17-03717"><title>2.1. Genetics and Structural Profile</title><p>PSMA is encoded by folate hydrolase 1 (<italic toggle="yes">FOLH1</italic>) on chromosome 11p11.2, producing a 750 amino acid type II transmembrane glycoprotein functioning as a zinc metalloenzyme [<xref rid="B4-cancers-17-03717" ref-type="bibr">4</xref>,<xref rid="B5-cancers-17-03717" ref-type="bibr">5</xref>,<xref rid="B6-cancers-17-03717" ref-type="bibr">6</xref>]. PSMA exists as a homodimer, with each monomer containing a central binding cavity with two zinc ions and entrance accommodating glutamate moieties [<xref rid="B7-cancers-17-03717" ref-type="bibr">7</xref>]. PSMA catalyses the hydrolysis of polyglutamated folates which regulates folate and glutamate metabolism [<xref rid="B8-cancers-17-03717" ref-type="bibr">8</xref>]. These catalytic properties are important components of metabolic pathways often upregulated in malignancy [<xref rid="B9-cancers-17-03717" ref-type="bibr">9</xref>]. In the context of RLT, ligand binding triggers clathrin-mediated endocytosis facilitating delivery of radio-labelled payloads and concentration within cancer cells [<xref rid="B10-cancers-17-03717" ref-type="bibr">10</xref>]. Cryoelectron microscopy and crystallographic analyses have refined understanding of PSMA&#x02019;s binding pocket, with the identification of key residues that interact with the glutamate-containing motifs present in most RLT [<xref rid="B11-cancers-17-03717" ref-type="bibr">11</xref>]. These structural insights guide the rational design of next-generation ligands with improved tumour retention and reduced off-target salivary gland and marrow uptake.</p></sec><sec id="sec2dot2-cancers-17-03717"><title>2.2. Regulation, Expression, and Functional Roles</title><p>PSMA expression is tightly regulated by androgen-receptor (AR) signalling, chromatin accessibility, and methylation status of chromosome 11p [<xref rid="B12-cancers-17-03717" ref-type="bibr">12</xref>]. Along the PCa disease continuum, there is dynamic modulation with upregulation occurring during the transition from hormone-sensitive to castration-resistant states, and increased expression following AR-pathway inhibitor (ARPI) administration [<xref rid="B13-cancers-17-03717" ref-type="bibr">13</xref>]. Androgen deprivation induces PSMA transcriptional upregulation whilst neuroendocrine differentiation can suppress PSMA expression, as neuroendocrine cells are largely devoid of PSMA [<xref rid="B12-cancers-17-03717" ref-type="bibr">12</xref>]. Both inter- and intra-lesional, spatial, and temporal heterogeneity can complicate interpretation and therapy planning.</p><p>PSMA expression is modulated at a chromatin level. Looping between enhancing and promoter regions, differential methylation, and histone-modification patterns can either activate or silence <italic toggle="yes">FOLH1</italic> transcription, explaining why some high-grade tumours are PSMA-negative despite aggressive histology [<xref rid="B14-cancers-17-03717" ref-type="bibr">14</xref>]. DNA-methylation loss at regulatory <italic toggle="yes">CpG</italic> (5&#x02032;-C-phosphate-G-3&#x02032;) foci and histone-acetylation-gain polymorphisms have been linked to PSMA-high phenotypes, whereas neuroendocrine differentiation is associated with promoter hypermethylation, chromatin compaction, and reduced PSMA expression [<xref rid="B14-cancers-17-03717" ref-type="bibr">14</xref>,<xref rid="B15-cancers-17-03717" ref-type="bibr">15</xref>]. PSMA expression may also be influenced by microenvironmental factors including hypoxia, oxidative stress, and cytokine signalling, which may upregulate angiogenic factors and PSMA, including Hypoxia-inducible factor-1 (HIF-1&#x003b1;) [<xref rid="B14-cancers-17-03717" ref-type="bibr">14</xref>,<xref rid="B16-cancers-17-03717" ref-type="bibr">16</xref>,<xref rid="B17-cancers-17-03717" ref-type="bibr">17</xref>].</p></sec><sec id="sec2dot3-cancers-17-03717"><title>2.3. Functional Roles</title><p>PSMA contributes to tumour progression through metabolic remodelling and angiogenesis, enhancing tumour cell invasion and migration via activation of focal-adhesion kinase and integrin-signalling pathways [<xref rid="B4-cancers-17-03717" ref-type="bibr">4</xref>]. Recent reports have demonstrated that PSMA is expressed not only in PCa epithelium but also in the endothelial cells of tumour neovasculature across multiple malignancies supporting its exploitation as a vascular theranostic target [<xref rid="B18-cancers-17-03717" ref-type="bibr">18</xref>,<xref rid="B19-cancers-17-03717" ref-type="bibr">19</xref>,<xref rid="B20-cancers-17-03717" ref-type="bibr">20</xref>]. The dual localisation of PSMA in both the epithelial tumour cell and surrounding neovasculature suggests a dual biologic function&#x02014;sustaining the cancer metabolism and remodelling the vascular niche to sustain increased metabolic activity.</p></sec></sec><sec id="sec3-cancers-17-03717"><title>3. Clinical Role of PSMA</title><sec id="sec3dot1-cancers-17-03717"><title>3.1. Imaging Biomarkers</title><p>PSMA-PET/CT has outperformed conventional imaging for both initial staging and biochemical-recurrence (BCR) localisation, with multiple trials supporting its superiority [<xref rid="B1-cancers-17-03717" ref-type="bibr">1</xref>,<xref rid="B2-cancers-17-03717" ref-type="bibr">2</xref>]. The proPSMA trial established that PSMA-PET/CT has a 27% higher diagnostic accuracy than combined CT and bone scan for primary staging, identifying additional nodal and distant metastases in approximately 33% of patients [<xref rid="B1-cancers-17-03717" ref-type="bibr">1</xref>]. Meta-analyses have confirmed that standardised uptake volume (SUV)<sub>max</sub> and total PSMA-positive tumour volume correlate with Gleason grade, prostate-specific antigen (PSA) levels, and risk of BCR [<xref rid="B21-cancers-17-03717" ref-type="bibr">21</xref>,<xref rid="B22-cancers-17-03717" ref-type="bibr">22</xref>]. The utility of SUV<sub>max</sub> was explored with the recent post hoc analysis and development of a PRIMARY score, aiding diagnosis of PCa [<xref rid="B23-cancers-17-03717" ref-type="bibr">23</xref>].</p><p>PSMA<sup>&#x02212;</sup> states occur in approximately 3&#x02013;5% of intermediate-to-high-risk cases despite aggressive histology, highlighting biological divergence and heterogeneity [<xref rid="B24-cancers-17-03717" ref-type="bibr">24</xref>]. Nonetheless, quantitative PSMA metrics now serve as imaging biomarkers guiding management&#x02014;baseline uptake predicts outcomes of ARPI administration , chemotherapy, and RLT [<xref rid="B25-cancers-17-03717" ref-type="bibr">25</xref>,<xref rid="B26-cancers-17-03717" ref-type="bibr">26</xref>,<xref rid="B27-cancers-17-03717" ref-type="bibr">27</xref>].</p><p>PSMA-PET/CT demonstrates dynamic regulation. Uptake tends to increase with disease progression&#x02014;from localised hormone-sensitive states (HSPC) to metastatic castration-resistance PCa (mCRPC) [<xref rid="B1-cancers-17-03717" ref-type="bibr">1</xref>,<xref rid="B12-cancers-17-03717" ref-type="bibr">12</xref>,<xref rid="B15-cancers-17-03717" ref-type="bibr">15</xref>,<xref rid="B28-cancers-17-03717" ref-type="bibr">28</xref>]. This reflects both cellular upregulation of PSMA and clonal selection under androgen deprivation across the PCa continuum [<xref rid="B12-cancers-17-03717" ref-type="bibr">12</xref>]. ARPIs, such as Enzalutamide, transiently augment PSMA expression and enhance imaging contrast, while neuroendocrine differentiation suppresses uptake and poses challenges for therapeutic targeting [<xref rid="B29-cancers-17-03717" ref-type="bibr">29</xref>,<xref rid="B30-cancers-17-03717" ref-type="bibr">30</xref>,<xref rid="B31-cancers-17-03717" ref-type="bibr">31</xref>,<xref rid="B32-cancers-17-03717" ref-type="bibr">32</xref>].</p><p>Increasingly, PSMA-PET/CT is integrated into radiotherapy planning and response monitoring. Radiotherapy guided by biology utilises PET signal intensity to tailor dose planning, while changes in uptake post-therapy provide response surrogates which can provide increasingly personalised care [<xref rid="B33-cancers-17-03717" ref-type="bibr">33</xref>,<xref rid="B34-cancers-17-03717" ref-type="bibr">34</xref>].</p></sec><sec id="sec3dot2-cancers-17-03717"><title>3.2. Radioligand Therapy</title><p>Following TheraP and subsequently the VISION trials, [<sup>177</sup>Lu]Lu-PSMA-617 is an option for patients with highly PSMA-avid mCRPC [<xref rid="B3-cancers-17-03717" ref-type="bibr">3</xref>]. The phase II TheraP trial confirmed that [<sup>177</sup>Lu]Lu-PSMA-617 had a higher PSA &#x02265; 50% response rates (66% vs. 37%) and fewer grade-3 adverse events compared to Cabazitaxel, but no overall-survival difference [<xref rid="B3-cancers-17-03717" ref-type="bibr">3</xref>]. The phase III VISION trial demonstrated that [<sup>177</sup>Lu]Lu-PSMA-617 significantly improved overall survival (median 15.3 vs. 11.3 months) and radiological progression-free survival (8.7 vs. 3.4 months) versus standard of care [<xref rid="B2-cancers-17-03717" ref-type="bibr">2</xref>]. Although the incidence of adverse events was higher in the treatment arm (52.7% vs. 38.0%), quality of life was not impacted [<xref rid="B2-cancers-17-03717" ref-type="bibr">2</xref>]. &#x003b1;-emitters strategies including <sup>225</sup>Ac-PSMA-617 and <sup>212</sup>Pb-PSMA are being explored to overcome resistance in those patients with bulky disease states, but validation in larger studies is necessary [<xref rid="B35-cancers-17-03717" ref-type="bibr">35</xref>,<xref rid="B36-cancers-17-03717" ref-type="bibr">36</xref>,<xref rid="B37-cancers-17-03717" ref-type="bibr">37</xref>,<xref rid="B38-cancers-17-03717" ref-type="bibr">38</xref>].</p><p>Combination regimes are emerging&#x02014;PSMA-RLT with poly ADP ribose polymerase (PARP) inhibition (LuPARP trial), Docetaxel (UpFrontPSMA) are being explored [<xref rid="B39-cancers-17-03717" ref-type="bibr">39</xref>,<xref rid="B40-cancers-17-03717" ref-type="bibr">40</xref>]. The interim results from the first dual-tracer RLT trial (AlphaBet) were recently published demonstrating a reduction in PSA of at least 50% in approximately 50% of patients, with grade-3 events only reported in five patients [<xref rid="B41-cancers-17-03717" ref-type="bibr">41</xref>]. To explore the synergistic benefit of [<sup>177</sup>Lu]Lu-PSMA-617 and surgery, men with high-risk localised PCa were given upfront [<sup>177</sup>Lu]Lu-PSMA-617 prior to radical prostatectomy in the LuTectomy study, demonstrating low rates of BCR and low rates of adverse events on follow-up [<xref rid="B21-cancers-17-03717" ref-type="bibr">21</xref>,<xref rid="B42-cancers-17-03717" ref-type="bibr">42</xref>].</p><p>Quantitative imaging metrics inform therapy eligibility and response prediction. Baseline SUV<sub>max</sub> correlates with both PSA response and survival following RLT, with patients with extensive PSMA<sup>&#x02212;</sup> disease demonstrating attenuated benefit to RLT, underscoring the importance of multimodal biomarker assessment [<xref rid="B43-cancers-17-03717" ref-type="bibr">43</xref>,<xref rid="B44-cancers-17-03717" ref-type="bibr">44</xref>].</p><p>Monitoring of therapy and dynamic adaptation based on patient response is an emerging space. Serial PSMA-PET/CT assessment facilitates dynamic evaluation of treatment efficacy, with new PSMA<sup>&#x02212;</sup> lesions suggesting clonal escape. To manage these complexities, adaptive dosage algorithms, adjusting cumulative [<sup>177</sup>Lu]Lu-PSMA-617 activity based on residual uptake, are being examined to individualise treatment cycles [<xref rid="B43-cancers-17-03717" ref-type="bibr">43</xref>,<xref rid="B45-cancers-17-03717" ref-type="bibr">45</xref>,<xref rid="B46-cancers-17-03717" ref-type="bibr">46</xref>]. Recently, standardised response frameworks such as Response Evaluation Criteria in PSMA Imaging (RECIP) have been proposed to integrate software-based quantitative assessment of PSMA<sup>+</sup> total tumour volume [<xref rid="B47-cancers-17-03717" ref-type="bibr">47</xref>]. Gaftia et al. found excellent agreement between visual and quantitative RECIP, further demonstrating that RECIP progressive disease was associated with significantly shorter overall survival compared with non-progressive disease [<xref rid="B48-cancers-17-03717" ref-type="bibr">48</xref>]. However, these adaptive strategies warrant validation in larger, prospective trials. Overall, RLT toxicity profiles remain favourable&#x02014;xerostomia and fatigue are the most common, while haematological toxicity remains uncommon and typically reversible. Protective strategies such as salivary-gland cooling are under active investigation [<xref rid="B49-cancers-17-03717" ref-type="bibr">49</xref>]. Overall, RLT toxicity profiles remain favourable&#x02014;xerostomia and fatigue are the most common, while haematological toxicity remains uncommon, and typically reversible. Protective strategies such as salivary-gland cooling are under active investigation and require validation in larger studies [<xref rid="B49-cancers-17-03717" ref-type="bibr">49</xref>].</p></sec><sec id="sec3dot3-cancers-17-03717"><title>3.3. Determinants of Response</title><p>PSMA uptake depends on receptor density, perfusion, cellular internalisation kinetics, and the tumour microenvironment (TME) (<xref rid="cancers-17-03717-f001" ref-type="fig">Figure 1</xref>) [<xref rid="B12-cancers-17-03717" ref-type="bibr">12</xref>]. Recent meta-analyses suggest that SUV<sub>max</sub> independently predicts progression-free and overall survival post-RLT in the mCRPC setting [<xref rid="B26-cancers-17-03717" ref-type="bibr">26</xref>,<xref rid="B43-cancers-17-03717" ref-type="bibr">43</xref>,<xref rid="B50-cancers-17-03717" ref-type="bibr">50</xref>]. However, discordant FDG<sup>+</sup>/PSMA<sup>&#x02212;</sup> lesions signify dedifferentiation and poor response, warranting dual-tracer imaging [<xref rid="B51-cancers-17-03717" ref-type="bibr">51</xref>,<xref rid="B52-cancers-17-03717" ref-type="bibr">52</xref>,<xref rid="B53-cancers-17-03717" ref-type="bibr">53</xref>].</p></sec></sec><sec id="sec4-cancers-17-03717"><title>4. Emerging Biomarkers to Complement PSMA</title><sec id="sec4dot1-cancers-17-03717"><title>4.1. Limitations of PSMA as a Sole Biomarker</title><p>Despite its clinical success, PSMA is an imperfect universal marker. Heterogeneity of expression, neuroendocrine differentiation/transformation, and transcriptional suppression through epigenetic reprogramming can lead to false-negative imaging [<xref rid="B12-cancers-17-03717" ref-type="bibr">12</xref>,<xref rid="B13-cancers-17-03717" ref-type="bibr">13</xref>]. Off-target uptake in salivary glands and kidneys limits contrast uptake and may result in adverse effects. Small-volume disease may evade detection due to partial-volume effects and may be mitigated by artificial intelligence (AI) and machine learning (ML)&#x02014;particularly deep learning-based reconstruction and partial-volume correction networks which work to enhance spatial resolution and quantitative accuracy [<xref rid="B54-cancers-17-03717" ref-type="bibr">54</xref>].</p></sec><sec id="sec4dot2-cancers-17-03717"><title>4.2. Genomic and Molecular Markers</title><p>Defects in DNA damage response (DDR) genes including breast cancer type 1/2 susceptibility gene (<italic toggle="yes">BRCA1/2</italic>)<italic toggle="yes">,</italic> ataxia-telangiectasia mutated (<italic toggle="yes">ATM</italic>), checkpoint kinase 2 (<italic toggle="yes">CHEK2</italic>)<italic toggle="yes">,</italic> and partner and localiser of BRCA2 (<italic toggle="yes">PLAB2</italic>) are common in advanced disease, occurring in approximately 12% of metastatic PCa cases, and may upregulate PSMA expression via replication stress and metabolic demand [<xref rid="B55-cancers-17-03717" ref-type="bibr">55</xref>,<xref rid="B56-cancers-17-03717" ref-type="bibr">56</xref>]. These alterations underpin combination strategies pairing RLT with PARP inhibition and are currently being investigated in large trials such as LuPARP [<xref rid="B39-cancers-17-03717" ref-type="bibr">39</xref>]. Phosphatase and tension homolog (<italic toggle="yes">PTEN</italic>) loss activates downstream growth signalling. Dual inhibition of PSMA and growth signalling stimulated by <italic toggle="yes">PTEN</italic> loss represent a promising therapeutic opportunity, exploiting PSMA-induced nutrient uptake while blocking downstream growth pathways [<xref rid="B53-cancers-17-03717" ref-type="bibr">53</xref>,<xref rid="B57-cancers-17-03717" ref-type="bibr">57</xref>,<xref rid="B58-cancers-17-03717" ref-type="bibr">58</xref>]. The <italic toggle="yes">AR-V7</italic> splice variant confers resistance to ARPIs and identification of <italic toggle="yes">AR-V7</italic>-positive patients can prioritise PSMA-RLT or combination approaches.</p><p>Further subtype-specific PSMA biology has been elucidated with transcriptional profiling. Erythroblastosis virus E26 (<italic toggle="yes">ETS</italic>)-fusion-positive tumours, such as transmembrane-protease and serine-2-ETS-related gene (<italic toggle="yes">TMPRSS2-ERG</italic>), demonstrate stronger <italic toggle="yes">FOLH1</italic> promote activity [<xref rid="B12-cancers-17-03717" ref-type="bibr">12</xref>,<xref rid="B56-cancers-17-03717" ref-type="bibr">56</xref>]. Integration of these molecular subtype findings with PSMA imaging signatures could help refine patient stratification for RLT [<xref rid="B59-cancers-17-03717" ref-type="bibr">59</xref>]. Epigenetic modifications are now emerging as biomarkers. Histone-deacetylase inhibitors and demethylating agents can re-induce <italic toggle="yes">FOLH1</italic> expression in low-expression PSMA tumours, potentially making them susceptible to PSMA-targeted radioligands, but this remains validated only in vitro and requires further exploration [<xref rid="B14-cancers-17-03717" ref-type="bibr">14</xref>].</p></sec><sec id="sec4dot3-cancers-17-03717"><title>4.3. Circulating Biomarkers</title><p>Liquid biopsies provide longitudinal insight. Circulating tumour DNA (ctDNA) mirrors mutational burden and clonal evolution, while circulating tumour cell (CTC) enumeration and phenotyping can track tumoral heterogeneity [<xref rid="B60-cancers-17-03717" ref-type="bibr">60</xref>,<xref rid="B61-cancers-17-03717" ref-type="bibr">61</xref>]. ctDNA profiling can help detect DDR and <italic toggle="yes">PTEN</italic> alterations that predict PSMA-RLT responsiveness, and serial ctDNA sampling may provide insight into emergent mutations that may signal developing RLT resistance. Quantification of total ctDNA may serve as a biomarker of advanced PCa [<xref rid="B62-cancers-17-03717" ref-type="bibr">62</xref>,<xref rid="B63-cancers-17-03717" ref-type="bibr">63</xref>]. Phenotyping and CTC enumeration provide some prognostic value&#x02014;high baseline CTC counts correlate with shorter progression-free survival, and detection of PSMA<sup>+</sup> CTCs can complement imaging in the assessment of intra-lesional heterogeneity [<xref rid="B64-cancers-17-03717" ref-type="bibr">64</xref>]. Therapeutic response can be predicted by measuring exosomal miRNA such as miR-141 as well as mRNA cargo reflecting <italic toggle="yes">FOLH1,</italic> DDR, or <italic toggle="yes">AR-V7</italic> status [<xref rid="B65-cancers-17-03717" ref-type="bibr">65</xref>]. The integration of exosomal and PSMA-PET/CT data could enable real-time adaptive therapeutic approaches&#x02014;escalating RLT with miRNA spikes or de-escalating when ctDNA clears.</p></sec><sec id="sec4dot4-cancers-17-03717"><title>4.4. Imaging Biomarkers</title><p>Radiomics derived from PSMA-PET/CT, including texture, entropy, and total lesion volume, correlate strongly with outcomes beyond SUV<sub>max</sub> [<xref rid="B13-cancers-17-03717" ref-type="bibr">13</xref>,<xref rid="B66-cancers-17-03717" ref-type="bibr">66</xref>]. There exist multiple other targets that may complement the use of PSMA-tracer imaging in challenging circumstances of low-uptake disease states (<xref rid="cancers-17-03717-t001" ref-type="table">Table 1</xref>). These alternative molecular targets illustrate a shift toward multi-target theranostics, replacing single-antigen approaches to address tumour heterogeneity which is common in advanced disease states. While these radiomics show promise, implementation into routine clinical decision-making faces challenges due to a lack of cross-centre standardisation, small cohorts, and variations in reconstruction protocols across centres. Thus, there is need for multi-institutional radiomic repositories and data harmonisation frameworks to resolve these limitations [<xref rid="B67-cancers-17-03717" ref-type="bibr">67</xref>]. Furthermore, data privacy and interoperability are essential for any deployment of large-scale AI models.</p></sec><sec id="sec4dot5-cancers-17-03717"><title>4.5. Tumour Microenvironment Markers</title><p>PSMA expression interacts with the TME and can influence theranostic response. Hypoxia reduces &#x003b2;-particle effectiveness and may induce PSMA downregulation through metabolic reprogramming and vascular endothelial growth factor (<italic toggle="yes">VEGF</italic>)-driven angiogenesis [<xref rid="B53-cancers-17-03717" ref-type="bibr">53</xref>,<xref rid="B78-cancers-17-03717" ref-type="bibr">78</xref>,<xref rid="B79-cancers-17-03717" ref-type="bibr">79</xref>]. To address these limitations, hypoxia-PET tracers, such as <sup>18</sup>F-FAZA and <sup>64</sup>Cu-ATSM, are used to guide patient selection and RLT [<xref rid="B80-cancers-17-03717" ref-type="bibr">80</xref>,<xref rid="B81-cancers-17-03717" ref-type="bibr">81</xref>]. Stromal and angiogeneic factors&#x02014;<italic toggle="yes">VEGF</italic> and HIF-1&#x003b1;&#x02014;correlate with PSMA uptake on endothelial cells [<xref rid="B16-cancers-17-03717" ref-type="bibr">16</xref>,<xref rid="B82-cancers-17-03717" ref-type="bibr">82</xref>]. Given that PSMA is expressed on the endothelial cells of tumour neovasculature, these angiogeneic pathways may be exploited to amplify and concentrate ligand delivery, explaining the strong uptake in highly vascular tumours such as renal cell carcinoma (RCC) and glioblastoma multiforme (GBM). RLT has a complex interplay with the tumour microenvironment, with a recent review by Eapen et al. suggesting that beyond PSMA<sup>+</sup>-cell death, [<sup>177</sup>Lu]Lu-PSMA-617 treatment may stimulate a systemic immune response which may be harnessed to produce long-lasting cancer immunity [<xref rid="B17-cancers-17-03717" ref-type="bibr">17</xref>].</p></sec><sec id="sec4dot6-cancers-17-03717"><title>4.6. Immune Markers</title><p>Immune checkpoint biomarkers represent another relevant pathway of exploration. High PSMA expression co-exists with increased programmed death ligand 1 (<italic toggle="yes">PD-L1</italic>) expression in subsets of men with PCa, supporting the need for combined RLT and immunotherapy strategies [<xref rid="B83-cancers-17-03717" ref-type="bibr">83</xref>,<xref rid="B84-cancers-17-03717" ref-type="bibr">84</xref>]. There are now early-phase trials, such as PRINCE, that have shown tolerability and potential additive efficacy of RLT and Pembrolizumab [<xref rid="B85-cancers-17-03717" ref-type="bibr">85</xref>].</p><p>The future of PSMA-based theranostics, and more broadly RLT depends on a multimodal approach. Combining genomic factors (DDR, <italic toggle="yes">PTEN</italic>, <italic toggle="yes">AR-V7</italic> variants, PSMA mRNA), radiomic factors (SUV<sub>max</sub>-based metrics), and liquid biopsy data (ctDNA/CTCs/exosome counts) can generate composite risk models to guide individualised treatment algorithms. AI may augment these approaches and provide robust means to predict RLT response and toxicity with high accuracy. These frameworks will move PSMA theranostics into a new era of dynamic, personalised precision medicine.</p></sec></sec><sec id="sec5-cancers-17-03717"><title>5. PSMA Theranostics Beyond PCa</title><p>PSMA is expressed on the endothelium of tumour neovasculature in non-PCa malignancies, reflecting the role of the enzyme in angiogenic states and highlighting its utility beyond the prostate. This provides promise for enabling vascular-targeted imaging in a multitude of tumours.</p><sec id="sec5dot1-cancers-17-03717"><title>5.1. Renal Cell Carcinoma (RCC)</title><p>PSMA is highly expressed in the endothelial cells of clear-cell RCC neovasculature [<xref rid="B86-cancers-17-03717" ref-type="bibr">86</xref>]. In a recent systematic review by Sadaghiani et al., PSMA-PET/CT demonstrated promise in the restaging setting, but the review was limited by small patient numbers and heterogeneity necessitating further research [<xref rid="B87-cancers-17-03717" ref-type="bibr">87</xref>]. In several prospective series, <sup>68</sup>Ga-PSMA-11 and <sup>18</sup>F-DCFPyL PET identified nodal and pulmonary metastases missed by conventional imaging, with uptake intensity correlating with histologic grade [<xref rid="B88-cancers-17-03717" ref-type="bibr">88</xref>,<xref rid="B89-cancers-17-03717" ref-type="bibr">89</xref>]. Prospective trials are now under way to examine [<sup>177</sup>Lu]Lu-PSMA RLT in metastatic RCC [<xref rid="B90-cancers-17-03717" ref-type="bibr">90</xref>,<xref rid="B91-cancers-17-03717" ref-type="bibr">91</xref>].</p><p>The role of PSMA-PET/CT may extend beyond detection of occult disease in RCC. In their study, Khaleel et al. assessed the correlation between <italic toggle="yes">FOLH1</italic> expression and gene expression signature scores that corresponded to the TME [<xref rid="B91-cancers-17-03717" ref-type="bibr">91</xref>]. Increased <italic toggle="yes">FOLH1</italic> expression was significantly associated with higher TME angiogenesis, and expression predicted progression-free survival in patients with metastatic clear-cell RCC treated with the tyrosine kinase inhibitor Sunitinib [<xref rid="B91-cancers-17-03717" ref-type="bibr">91</xref>]. This suggests that PSMA-PET/CT imaging could be utilised as a non-invasive marker to guide systemic therapy options and predict the treatment response to VEGF-inhibiting agents in patients with metastatic clear-cell RCC.</p></sec><sec id="sec5dot2-cancers-17-03717"><title>5.2. Salivary-Gland Tumours</title><p>Adenoid cystic carcinoma (ACC) of the salivary glands often exhibits strong PSMA uptake in tumour cells and neovasculature [<xref rid="B92-cancers-17-03717" ref-type="bibr">92</xref>]. <sup>68</sup>Ga-PSMA PET identifies primary and metastatic ACC lesions with high contrast [<xref rid="B92-cancers-17-03717" ref-type="bibr">92</xref>]. Although a small pilot study, Wang et al. found that amongst patients diagnosed with ACC, <sup>68</sup>Ga-PSMA PET revealed more PET<sup>+</sup> extrapulmonary tumours than <sup>18</sup>F-FDG PET, but fewer PET<sup>+</sup> pulmonary lesions, suggesting that a combination of both imaging modalities may be optimal in patients with ACC [<xref rid="B93-cancers-17-03717" ref-type="bibr">93</xref>]. Nonetheless, prospective multi-centre studies are necessary to validate these findings. Prospective case series have reported mixed efficacy profiles in patients treated with [<sup>177</sup>Lu]Lu-PSMA therapy for ACC, but treatment has been well tolerated with rapid relief of tumour-associated discomfort [<xref rid="B94-cancers-17-03717" ref-type="bibr">94</xref>,<xref rid="B95-cancers-17-03717" ref-type="bibr">95</xref>].</p></sec><sec id="sec5dot3-cancers-17-03717"><title>5.3. Glioblastoma Multiforme (GBM)</title><p>GBMs express PSMA in tumour microvessels and in reactive astrocytes [<xref rid="B82-cancers-17-03717" ref-type="bibr">82</xref>]. Immunohistochemistry studies have demonstrated PSMA staining in GBMs, but this has not correlated with tracer uptake [<xref rid="B96-cancers-17-03717" ref-type="bibr">96</xref>]. <sup>68</sup>Ga-PSMA PET detects regions of active glioma with higher specificity than conventional imaging [<xref rid="B97-cancers-17-03717" ref-type="bibr">97</xref>]. Given that PSMA expression in endothelial-targeted PSMA-RLT acts as vascular-targeted radiotherapeutic agent. Earlier clinical experience with [<sup>177</sup>Lu]Lu-PSMA in recurrent GBM has demonstrated feasibility and safety, with stabilisation of disease in pre-treated patients, but requires validation in larger series [<xref rid="B98-cancers-17-03717" ref-type="bibr">98</xref>,<xref rid="B99-cancers-17-03717" ref-type="bibr">99</xref>].</p></sec><sec id="sec5dot4-cancers-17-03717"><title>5.4. Translational Insights</title><p>Across non-PCa malignancies, PSMA expression tends to be localised to proliferating endothelial cells within the architecture of neovasculature, rather than the malignant epithelial pool. This expands the functioning definition of PSMA from a prostate-specific antigen to a pan-angiogenic marker of tumour microvasculature. These findings provide promising insights for the future of oncological therapy. PSMA ligands may act as vascular-targeted radiotherapeutics, providing selective ablation of tumour blood supply.</p></sec><sec id="sec5dot5-cancers-17-03717"><title>5.5. Clinical Challenges</title><p>Despite promising early results, several challenges remain: (1) Heterogenous PSMA expression across tumour types even within a single lesion necessitates companion imaging to accurately select patients. (2) Physiological uptake in off-target organs complicates imaging interpretation and dosimetry. (3) Randomised trials are lacking with most data derived from small single-centre cohorts with an undefined state for appropriate dosimetry in non-prostate malignancies. (4) Ligand optimisation is needed to increase vascular endothelial penetration and limit off-target binding. Nevertheless, a new theme of PSMA marking pathological angiogenesis has emerged, positioning it as a promising target for vascular theranostics. Further studies may build on these findings by utilising a multi-tracer approach to capture both the tumour and surrounding neovasculature, providing a holistic map of the tumour, perfusion, and metabolism.</p></sec></sec><sec id="sec6-cancers-17-03717"><title>6. Future Directions</title><p>A future direction in PSMA theranostics is the integration of geonomic, imaging, and circulating biomarkers into multimodal predictive frameworks. These models should include a combination of PSMA-PET metrics with ctDNA, DDR gene status, and transcriptomic signatures to guide appropiate patient selection for therapy [<xref rid="B63-cancers-17-03717" ref-type="bibr">63</xref>,<xref rid="B100-cancers-17-03717" ref-type="bibr">100</xref>].</p><sec id="sec6dot1-cancers-17-03717"><title>6.1. Quantitative and AI-Driven Imaging</title><p>The evolution of PSMA theranostics is being driven by ongoing exploration of quantitative imaging metrics including SUV<sub>max</sub>, PSMA-derived tumour volume, and total lesion PSMA uptake [<xref rid="B13-cancers-17-03717" ref-type="bibr">13</xref>]. These serve as imaging biomarkers to predict and evaluate therapy response and may be combined with genomic features to form a hybrid framework linking PSMA-PET/CT phenotypes with genomic features. AI and ML models are transforming PSMA-PET interpretation from solely qualitative to predictive analytical tools [<xref rid="B101-cancers-17-03717" ref-type="bibr">101</xref>].</p></sec><sec id="sec6dot2-cancers-17-03717"><title>6.2. Adaptive and Combination Therapy</title><p>Traditionally, PSMA-RLT protocols have used fixed cycles, but adaptive dosing guided by imaging and biomarkers is a promising approach on the horizon. Serial PSMA-PET and liquid biopsy may enable real-time therapy adaptation, with rising ctDNA or the appearance of PSMA- lesions triggering escalation to &#x003b1;-emitter therapy, or a switch to combination regimes. On the other hand, biochemical and imaging responses could justify treatment de-escalation, minimise toxicity, and reduce costs. The future of PSMA-based therapy is combinatorial, integrating molecularly matched agents to overcome resistant clones. Sequential &#x003b1;/&#x003b2;-emitter regimes are gaining traction [<xref rid="B41-cancers-17-03717" ref-type="bibr">41</xref>]. Recently, Kluge et al. examined the relationship between cell-free DNA levels and PSMA-positive tumour volume, finding a weak correlation [<xref rid="B62-cancers-17-03717" ref-type="bibr">62</xref>]. This is contrary to Amseian et al., who found no correlation in their prospective study, emphasising the need for larger, prospective studies [<xref rid="B102-cancers-17-03717" ref-type="bibr">102</xref>].</p></sec><sec id="sec6dot3-cancers-17-03717"><title>6.3. Next-Generation Ligands and Isotopes</title><p>Ligand engineering aims to optimise tumour retention and clearance kinetics, minimising off-target internalisation. Modifications to linker length, charge, and hydrophilicity have yielded <sup>64</sup>Cu-PSMA-CM ligands with improved albumin binding and extended circulation time and more are in development to improve binding to PSMA and minimise off-target toxicity [<xref rid="B103-cancers-17-03717" ref-type="bibr">103</xref>]. Bispecific ligands combining <italic toggle="yes">GRPR</italic> or <italic toggle="yes">FAP</italic> motifs are being validated, aiming to overcome inter-lesional heterogeneity by binding multiple antigens simultaneously, ensuring radioligand delivery even when a single antigenic target is downregulated [<xref rid="B68-cancers-17-03717" ref-type="bibr">68</xref>,<xref rid="B104-cancers-17-03717" ref-type="bibr">104</xref>]</p></sec><sec id="sec6dot4-cancers-17-03717"><title>6.4. Future Outlooks</title><p>The next horizon is the integration of imaging, molecular, and clinical data in predictive models. In their models, Gafita et al. developed a normogram that combined PSMA-PET/CT-derived tumour volume, SUV<sub>mean</sub> and baseline clinical features to predict overall survival following [<sup>177</sup>Lu]Lu-PSMA-617 therapy [<xref rid="B43-cancers-17-03717" ref-type="bibr">43</xref>]. Similarly, Pan et al. used a dual-tracer approach to identify PSMA<sup>&#x02212;</sup>/FDG<sup>+</sup> discordant disease in a multi-centre study to develop nomograms and predict poor RLT response [<xref rid="B105-cancers-17-03717" ref-type="bibr">105</xref>].</p><p>Despite these initial results, validation is necessary to ensure cross-centre reproducibility. Standardisation of reconstructive protocols, such as European Association of Nuclear Medicine (EANM)/EANM Research Ltd. (EARL)-compliant imaging, is essential to ensure consistentcy across institutions [<xref rid="B106-cancers-17-03717" ref-type="bibr">106</xref>]. Given significant concern surrounding privacy, federated-learning approaches enable collaborative model training without direct data sharing [<xref rid="B107-cancers-17-03717" ref-type="bibr">107</xref>]. Adherence to reporting standards such as the Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis + AI (TRIPOD+AI) will improve transparency of studies developing prediction models [<xref rid="B108-cancers-17-03717" ref-type="bibr">108</xref>]. Collectively, these strategies support the development of reproducible predictive models that can guide adaptive PSMA theranostics.</p><p>The convergence of imaging, therapy, and AI marks the beginning of a new era in theranostics, with PSMA remaining at the cornerstone of this transformation, defining the next generation of precision oncology. In the next decade, PSMA-directed RLT may evolve from a salvage option for mCRPC to an earlier-line, combination-based, cross-tumour modality. Nonetheless, it is important that these resources are distributed equally across healthcare services as they emerge to avoid inequalities [<xref rid="B109-cancers-17-03717" ref-type="bibr">109</xref>,<xref rid="B110-cancers-17-03717" ref-type="bibr">110</xref>].</p></sec></sec><sec sec-type="conclusions" id="sec7-cancers-17-03717"><title>7. Conclusions</title><p>PSMA has ushered in a new era of successful, targeted, molecular theranostics, but PSMA expression is dynamic and context-dependent. Quantitative imaging metrics, genomic signatures, and microenvironmental cues can refine patient selection and guide combination approaches. The future or precision oncology will integrate PSMA with a constellation of biomarkers to personalise theranostic strategies. Moreover, PSMA&#x02019;s endothelial expression across multiple malignancies positions it as the gateway to a new era of biomarker-driven pan-cancer theranostic strategy. Nonetheless, future research is needed to standardise imaging and molecular criteria to define PSMA- disease, as well as integration of multi-omic signature into decision algorithms and prospective trials to confirm their utility in appropriate patient selection and adaptive dosing regimens.</p></sec></body><back><fn-group><fn><p><bold>Disclaimer/Publisher&#x02019;s Note:</bold> The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.</p></fn></fn-group><notes><title>Author Contributions</title><p>K.S.: Conceptualisation, writing&#x02014;original draft preparation, writing&#x02014;review and editing. D.C.: Writing&#x02014;review and editing. D.H.: Writing&#x02014;review and editing. D.G.M.: Supervision, writing&#x02014;review and editing. N.L.: Supervision. M.P. and D.G.M.: Supervision, writing&#x02014;review and editing. All authors have read and agreed to the published version of the manuscript.</p></notes><notes notes-type="COI-statement"><title>Conflicts of Interest</title><p>The authors declare no conflict of interest.</p></notes><ref-list><title>References</title><ref id="B1-cancers-17-03717"><label>1.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hofman</surname><given-names>M.S.</given-names></name>
+<name><surname>Lawrentschuk</surname><given-names>N.</given-names></name>
+<name><surname>Francis</surname><given-names>R.J.</given-names></name>
+<name><surname>Tang</surname><given-names>C.</given-names></name>
+<name><surname>Vela</surname><given-names>I.</given-names></name>
+<name><surname>Thomas</surname><given-names>P.</given-names></name>
+<name><surname>Rutherford</surname><given-names>N.</given-names></name>
+<name><surname>Martin</surname><given-names>J.M.</given-names></name>
+<name><surname>Frydenberg</surname><given-names>M.</given-names></name>
+<name><surname>Shakher</surname><given-names>R.</given-names></name>
+<etal/>
+</person-group><article-title>Prostate-specific membrane antigen PET-CT in patients with high-risk prostate cancer before curative-intent surgery or radiotherapy (proPSMA): A prospective, randomised, multicentre study</article-title><source>Lancet</source><year>2020</year><volume>395</volume><fpage>1208</fpage><lpage>1216</lpage><pub-id pub-id-type="doi">10.1016/S0140-6736(20)30314-7</pub-id><pub-id pub-id-type="pmid">32209449</pub-id>
+</element-citation></ref><ref id="B2-cancers-17-03717"><label>2.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sartor</surname><given-names>O.</given-names></name>
+<name><surname>de Bono</surname><given-names>J.</given-names></name>
+<name><surname>Chi</surname><given-names>K.N.</given-names></name>
+<name><surname>Fizazi</surname><given-names>K.</given-names></name>
+<name><surname>Herrmann</surname><given-names>K.</given-names></name>
+<name><surname>Rahbar</surname><given-names>K.</given-names></name>
+<name><surname>Tagawa</surname><given-names>S.T.</given-names></name>
+<name><surname>Nordquist</surname><given-names>L.T.</given-names></name>
+<name><surname>Vaishampayan</surname><given-names>N.</given-names></name>
+<name><surname>El-Haddad</surname><given-names>G.</given-names></name>
+<etal/>
+</person-group><article-title>Lutetium-177-PSMA-617 for Metastatic Castration-Resistant Prostate Cancer</article-title><source>N. Engl. J. Med.</source><year>2021</year><volume>385</volume><fpage>1091</fpage><lpage>1103</lpage><pub-id pub-id-type="doi">10.1056/NEJMoa2107322</pub-id><pub-id pub-id-type="pmid">34161051</pub-id>
+</element-citation></ref><ref id="B3-cancers-17-03717"><label>3.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hofman</surname><given-names>M.S.</given-names></name>
+<name><surname>Emmett</surname><given-names>L.</given-names></name>
+<name><surname>Sandhu</surname><given-names>S.</given-names></name>
+<name><surname>Iravani</surname><given-names>A.</given-names></name>
+<name><surname>Joshua</surname><given-names>A.M.</given-names></name>
+<name><surname>Goh</surname><given-names>J.C.</given-names></name>
+<name><surname>Pattison</surname><given-names>D.A.</given-names></name>
+<name><surname>Tan</surname><given-names>T.H.</given-names></name>
+<name><surname>Kirkwood</surname><given-names>I.D.</given-names></name>
+<name><surname>Ng</surname><given-names>S.</given-names></name>
+<etal/>
+</person-group><article-title>[(177)Lu]Lu-PSMA-617 versus cabazitaxel in patients with metastatic castration-resistant prostate cancer (TheraP): A randomised, open-label, phase 2 trial</article-title><source>Lancet</source><year>2021</year><volume>397</volume><fpage>797</fpage><lpage>804</lpage><pub-id pub-id-type="doi">10.1016/S0140-6736(21)00237-3</pub-id><pub-id pub-id-type="pmid">33581798</pub-id>
+</element-citation></ref><ref id="B4-cancers-17-03717"><label>4.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>O&#x02019;Keefe</surname><given-names>D.S.</given-names></name>
+<name><surname>Bacich</surname><given-names>D.J.</given-names></name>
+<name><surname>Huang</surname><given-names>S.S.</given-names></name>
+<name><surname>Heston</surname><given-names>W.D.W.</given-names></name>
+</person-group><article-title>A Perspective on the Evolving Story of PSMA Biology, PSMA-Based Imaging, and Endoradiotherapeutic Strategies</article-title><source>J. Nucl. Med.</source><year>2018</year><volume>59</volume><fpage>1007</fpage><lpage>1013</lpage><pub-id pub-id-type="doi">10.2967/jnumed.117.203877</pub-id><pub-id pub-id-type="pmid">29674422</pub-id>
+</element-citation></ref><ref id="B5-cancers-17-03717"><label>5.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>O&#x02019;Keefe</surname><given-names>D.S.</given-names></name>
+<name><surname>Bacich</surname><given-names>D.J.</given-names></name>
+<name><surname>Heston</surname><given-names>W.D.</given-names></name>
+</person-group><article-title>Comparative analysis of prostate-specific membrane antigen (PSMA) versus a prostate-specific membrane antigen-like gene</article-title><source>Prostate</source><year>2004</year><volume>58</volume><fpage>200</fpage><lpage>210</lpage><pub-id pub-id-type="doi">10.1002/pros.10319</pub-id><pub-id pub-id-type="pmid">14716746</pub-id>
+</element-citation></ref><ref id="B6-cancers-17-03717"><label>6.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rawlings</surname><given-names>N.D.</given-names></name>
+<name><surname>Barrett</surname><given-names>A.J.</given-names></name>
+</person-group><article-title>Structure of membrane glutamate carboxypeptidase</article-title><source>Biochim. Biophys. Acta</source><year>1997</year><volume>1339</volume><fpage>247</fpage><lpage>252</lpage><pub-id pub-id-type="doi">10.1016/S0167-4838(97)00008-3</pub-id><pub-id pub-id-type="pmid">9187245</pub-id>
+</element-citation></ref><ref id="B7-cancers-17-03717"><label>7.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Machulkin</surname><given-names>A.E.</given-names></name>
+<name><surname>Petrov</surname><given-names>S.A.</given-names></name>
+<name><surname>Bodenko</surname><given-names>V.</given-names></name>
+<name><surname>Larkina</surname><given-names>M.S.</given-names></name>
+<name><surname>Plotnikov</surname><given-names>E.</given-names></name>
+<name><surname>Yuldasheva</surname><given-names>F.</given-names></name>
+<name><surname>Tretyakova</surname><given-names>M.</given-names></name>
+<name><surname>Bezverkhniaia</surname><given-names>E.</given-names></name>
+<name><surname>Zyk</surname><given-names>N.Y.</given-names></name>
+<name><surname>Stasyuk</surname><given-names>E.</given-names></name>
+<etal/>
+</person-group><article-title>Synthesis and Preclinical Evaluation of Urea-Based Prostate-Specific Membrane Antigen-Targeted Conjugates Labeled with (177)Lu</article-title><source>ACS Pharmacol. Transl. Sci.</source><year>2024</year><volume>7</volume><fpage>1457</fpage><lpage>1473</lpage><pub-id pub-id-type="doi">10.1021/acsptsci.4c00070</pub-id><pub-id pub-id-type="pmid">38751647</pub-id>
+</element-citation></ref><ref id="B8-cancers-17-03717"><label>8.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ghosh</surname><given-names>A.</given-names></name>
+<name><surname>Heston</surname><given-names>W.D.</given-names></name>
+</person-group><article-title>Effect of carbohydrate moieties on the folate hydrolysis activity of the prostate specific membrane antigen</article-title><source>Prostate</source><year>2003</year><volume>57</volume><fpage>140</fpage><lpage>151</lpage><pub-id pub-id-type="doi">10.1002/pros.10289</pub-id><pub-id pub-id-type="pmid">12949938</pub-id>
+</element-citation></ref><ref id="B9-cancers-17-03717"><label>9.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yao</surname><given-names>V.</given-names></name>
+<name><surname>Parwani</surname><given-names>A.</given-names></name>
+<name><surname>Maier</surname><given-names>C.</given-names></name>
+<name><surname>Heston</surname><given-names>W.D.</given-names></name>
+<name><surname>Bacich</surname><given-names>D.J.</given-names></name>
+</person-group><article-title>Moderate expression of prostate-specific membrane antigen, a tissue differentiation antigen and folate hydrolase, facilitates prostate carcinogenesis</article-title><source>Cancer Res.</source><year>2008</year><volume>68</volume><fpage>9070</fpage><lpage>9077</lpage><pub-id pub-id-type="doi">10.1158/0008-5472.CAN-08-2328</pub-id><pub-id pub-id-type="pmid">18974153</pub-id>
+</element-citation></ref><ref id="B10-cancers-17-03717"><label>10.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ghosh</surname><given-names>A.</given-names></name>
+<name><surname>Heston</surname><given-names>W.D.</given-names></name>
+</person-group><article-title>Tumor target prostate specific membrane antigen (PSMA) and its regulation in prostate cancer</article-title><source>J. Cell Biochem.</source><year>2004</year><volume>91</volume><fpage>528</fpage><lpage>539</lpage><pub-id pub-id-type="doi">10.1002/jcb.10661</pub-id><pub-id pub-id-type="pmid">14755683</pub-id>
+</element-citation></ref><ref id="B11-cancers-17-03717"><label>11.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sch&#x000e4;fer</surname><given-names>M.</given-names></name>
+<name><surname>Bauder-W&#x000fc;st</surname><given-names>U.</given-names></name>
+<name><surname>Roscher</surname><given-names>M.</given-names></name>
+<name><surname>Motlov&#x000e1;</surname><given-names>L.</given-names></name>
+<name><surname>Kutilov&#x000e1;</surname><given-names>Z.</given-names></name>
+<name><surname>Remde</surname><given-names>Y.</given-names></name>
+<name><surname>Klika</surname><given-names>K.D.</given-names></name>
+<name><surname>Graf</surname><given-names>J.</given-names></name>
+<name><surname>Ba&#x00159;inka</surname><given-names>C.</given-names></name>
+<name><surname>Bene&#x00161;ov&#x000e1;-Sch&#x000e4;fer</surname><given-names>M.</given-names></name>
+</person-group><article-title>Structure-Activity Relationships and Biological Insights into PSMA-617 and Its Derivatives with Modified Lipophilic Linker Regions</article-title><source>ACS Omega</source><year>2025</year><volume>10</volume><fpage>7077</fpage><lpage>7090</lpage><pub-id pub-id-type="doi">10.1021/acsomega.4c10142</pub-id><pub-id pub-id-type="pmid">40028088</pub-id>
+</element-citation></ref><ref id="B12-cancers-17-03717"><label>12.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bakht</surname><given-names>M.K.</given-names></name>
+<name><surname>Beltran</surname><given-names>H.</given-names></name>
+</person-group><article-title>Biological determinants of PSMA expression, regulation and heterogeneity in prostate cancer</article-title><source>Nat. Rev. Urol.</source><year>2025</year><volume>22</volume><fpage>26</fpage><lpage>45</lpage><pub-id pub-id-type="doi">10.1038/s41585-024-00900-z</pub-id><pub-id pub-id-type="pmid">38977769</pub-id>
+</element-citation></ref><ref id="B13-cancers-17-03717"><label>13.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Al Saffar</surname><given-names>H.</given-names></name>
+<name><surname>Chen</surname><given-names>D.C.</given-names></name>
+<name><surname>Delgado</surname><given-names>C.</given-names></name>
+<name><surname>Ingvar</surname><given-names>J.</given-names></name>
+<name><surname>Hofman</surname><given-names>M.S.</given-names></name>
+<name><surname>Lawrentschuk</surname><given-names>N.</given-names></name>
+<name><surname>Perera</surname><given-names>M.</given-names></name>
+<name><surname>Murphy</surname><given-names>D.G.</given-names></name>
+<name><surname>Eapen</surname><given-names>R.</given-names></name>
+</person-group><article-title>The Current Landscape of Prostate-Specific Membrane Antigen (PSMA) Imaging Biomarkers for Aggressive Prostate Cancer</article-title><source>Cancers</source><year>2024</year><volume>16</volume><elocation-id>939</elocation-id><pub-id pub-id-type="doi">10.3390/cancers16050939</pub-id><pub-id pub-id-type="pmid">38473301</pub-id>
+</element-citation></ref><ref id="B14-cancers-17-03717"><label>14.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sayar</surname><given-names>E.</given-names></name>
+<name><surname>Patel</surname><given-names>R.A.</given-names></name>
+<name><surname>Coleman</surname><given-names>I.M.</given-names></name>
+<name><surname>Roudier</surname><given-names>M.P.</given-names></name>
+<name><surname>Zhang</surname><given-names>A.</given-names></name>
+<name><surname>Mustafi</surname><given-names>P.</given-names></name>
+<name><surname>Low</surname><given-names>J.Y.</given-names></name>
+<name><surname>Hanratty</surname><given-names>B.</given-names></name>
+<name><surname>Ang</surname><given-names>L.S.</given-names></name>
+<name><surname>Bhatia</surname><given-names>V.</given-names></name>
+<etal/>
+</person-group><article-title>Reversible epigenetic alterations mediate PSMA expression heterogeneity in advanced metastatic prostate cancer</article-title><source>JCI Insight</source><year>2023</year><volume>8</volume><fpage>e162907</fpage><pub-id pub-id-type="doi">10.1172/jci.insight.162907</pub-id><pub-id pub-id-type="pmid">36821396</pub-id>
+</element-citation></ref><ref id="B15-cancers-17-03717"><label>15.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sheehan</surname><given-names>B.</given-names></name>
+<name><surname>Guo</surname><given-names>C.</given-names></name>
+<name><surname>Neeb</surname><given-names>A.</given-names></name>
+<name><surname>Paschalis</surname><given-names>A.</given-names></name>
+<name><surname>Sandhu</surname><given-names>S.</given-names></name>
+<name><surname>de Bono</surname><given-names>J.S.</given-names></name>
+</person-group><article-title>Prostate-specific Membrane Antigen Biology in Lethal Prostate Cancer and its Therapeutic Implications</article-title><source>Eur. Urol. Focus.</source><year>2022</year><volume>8</volume><fpage>1157</fpage><lpage>1168</lpage><pub-id pub-id-type="doi">10.1016/j.euf.2021.06.006</pub-id><pub-id pub-id-type="pmid">34167925</pub-id>
+</element-citation></ref><ref id="B16-cancers-17-03717"><label>16.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Vlachostergios</surname><given-names>P.J.</given-names></name>
+<name><surname>Karathanasis</surname><given-names>A.</given-names></name>
+<name><surname>Dimitropoulos</surname><given-names>K.</given-names></name>
+<name><surname>Zachos</surname><given-names>I.</given-names></name>
+<name><surname>Tzortzis</surname><given-names>V.</given-names></name>
+</person-group><article-title>High PSMA expression is associated with immunosuppressive tumor microenvironment in clear cell renal cell carcinoma</article-title><source>Precis. Clin. Med.</source><year>2024</year><volume>7</volume><fpage>pbae010</fpage><pub-id pub-id-type="doi">10.1093/pcmedi/pbae010</pub-id><pub-id pub-id-type="pmid">38726361</pub-id>
+</element-citation></ref><ref id="B17-cancers-17-03717"><label>17.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Eapen</surname><given-names>R.S.</given-names></name>
+<name><surname>Williams</surname><given-names>S.G.</given-names></name>
+<name><surname>Macdonald</surname><given-names>S.</given-names></name>
+<name><surname>Keam</surname><given-names>S.P.</given-names></name>
+<name><surname>Lawrentschuk</surname><given-names>N.</given-names></name>
+<name><surname>Au</surname><given-names>L.</given-names></name>
+<name><surname>Hofman</surname><given-names>M.S.</given-names></name>
+<name><surname>Murphy</surname><given-names>D.G.</given-names></name>
+<name><surname>Neeson</surname><given-names>P.J.</given-names></name>
+</person-group><article-title>Neoadjuvant lutetium PSMA, the TIME and immune response in high-risk localized prostate cancer</article-title><source>Nat. Rev. Urol.</source><year>2024</year><volume>21</volume><fpage>676</fpage><lpage>686</lpage><pub-id pub-id-type="doi">10.1038/s41585-024-00913-8</pub-id><pub-id pub-id-type="pmid">39112733</pub-id>
+</element-citation></ref><ref id="B18-cancers-17-03717"><label>18.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>G.</given-names></name>
+<name><surname>Li</surname><given-names>L.</given-names></name>
+<name><surname>Wang</surname><given-names>J.</given-names></name>
+<name><surname>Zang</surname><given-names>J.</given-names></name>
+<name><surname>Chen</surname><given-names>J.</given-names></name>
+<name><surname>Xiao</surname><given-names>Y.</given-names></name>
+<name><surname>Fan</surname><given-names>X.</given-names></name>
+<name><surname>Zhu</surname><given-names>L.</given-names></name>
+<name><surname>Kung</surname><given-names>H.F.</given-names></name>
+<name><surname>Zhu</surname><given-names>Z.</given-names></name>
+</person-group><article-title>Head-to-head comparison of [(68)Ga]Ga-P16-093 and 2-[(18)F]FDG PET/CT in patients with clear cell renal cell carcinoma: A pilot study</article-title><source>Eur. J. Nucl. Med. Mol. Imaging</source><year>2023</year><volume>50</volume><fpage>1499</fpage><lpage>1509</lpage><pub-id pub-id-type="doi">10.1007/s00259-022-06101-3</pub-id><pub-id pub-id-type="pmid">36600099</pub-id>
+</element-citation></ref><ref id="B19-cancers-17-03717"><label>19.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pellegrino</surname><given-names>S.</given-names></name>
+<name><surname>Fonti</surname><given-names>R.</given-names></name>
+</person-group><article-title>A look into the future: The role of PSMA beyond prostate cancer</article-title><source>Eur. J. Nucl. Med. Mol. Imaging</source><year>2023</year><volume>51</volume><fpage>278</fpage><lpage>280</lpage><pub-id pub-id-type="doi">10.1007/s00259-023-06388-w</pub-id><pub-id pub-id-type="pmid">37563353</pub-id>
+</element-citation></ref><ref id="B20-cancers-17-03717"><label>20.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Van de Wiele</surname><given-names>C.</given-names></name>
+<name><surname>Sathekge</surname><given-names>M.</given-names></name>
+<name><surname>de Spiegeleer</surname><given-names>B.</given-names></name>
+<name><surname>De Jonghe</surname><given-names>P.J.</given-names></name>
+<name><surname>Debruyne</surname><given-names>P.R.</given-names></name>
+<name><surname>Borms</surname><given-names>M.</given-names></name>
+<name><surname>Beels</surname><given-names>L.</given-names></name>
+<name><surname>Maes</surname><given-names>A.</given-names></name>
+</person-group><article-title>PSMA expression on neovasculature of solid tumors</article-title><source>Histol. Histopathol.</source><year>2020</year><volume>35</volume><fpage>919</fpage><lpage>927</lpage><pub-id pub-id-type="doi">10.14670/hh-18-215</pub-id><pub-id pub-id-type="pmid">32282924</pub-id>
+</element-citation></ref><ref id="B21-cancers-17-03717"><label>21.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mazzone</surname><given-names>E.</given-names></name>
+<name><surname>Thomson</surname><given-names>A.</given-names></name>
+<name><surname>Chen</surname><given-names>D.C.</given-names></name>
+<name><surname>Cannoletta</surname><given-names>D.</given-names></name>
+<name><surname>Quarta</surname><given-names>L.</given-names></name>
+<name><surname>Pellegrino</surname><given-names>A.</given-names></name>
+<name><surname>Gandaglia</surname><given-names>G.</given-names></name>
+<name><surname>Moon</surname><given-names>D.</given-names></name>
+<name><surname>Eapen</surname><given-names>R.</given-names></name>
+<name><surname>Lawrentschuk</surname><given-names>N.</given-names></name>
+<etal/>
+</person-group><article-title>The Role of Prostate-specific Membrane Antigen Positron Emission Tomography for Assessment of Local Recurrence and Distant Metastases in Patients with Biochemical Recurrence of Prostate Cancer After Definitive Treatment: A Systematic Review and Meta-analysis</article-title><source>Eur. Urol.</source><year>2025</year><volume>88</volume><fpage>129</fpage><lpage>141</lpage><pub-id pub-id-type="doi">10.1016/j.eururo.2025.05.006</pub-id><pub-id pub-id-type="pmid">40393864</pub-id>
+</element-citation></ref><ref id="B22-cancers-17-03717"><label>22.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mazzone</surname><given-names>E.</given-names></name>
+<name><surname>Cannoletta</surname><given-names>D.</given-names></name>
+<name><surname>Quarta</surname><given-names>L.</given-names></name>
+<name><surname>Chen</surname><given-names>D.C.</given-names></name>
+<name><surname>Thomson</surname><given-names>A.</given-names></name>
+<name><surname>Barletta</surname><given-names>F.</given-names></name>
+<name><surname>Stabile</surname><given-names>A.</given-names></name>
+<name><surname>Moon</surname><given-names>D.</given-names></name>
+<name><surname>Eapen</surname><given-names>R.</given-names></name>
+<name><surname>Lawrentschuk</surname><given-names>N.</given-names></name>
+<etal/>
+</person-group><article-title>A Comprehensive Systematic Review and Meta-analysis of the Role of Prostate-specific Membrane Antigen Positron Emission Tomography for Prostate Cancer Diagnosis and Primary Staging before Definitive Treatment</article-title><source>Eur. Urol.</source><year>2025</year><volume>87</volume><fpage>654</fpage><lpage>671</lpage><pub-id pub-id-type="doi">10.1016/j.eururo.2025.03.003</pub-id><pub-id pub-id-type="pmid">40155242</pub-id>
+</element-citation></ref><ref id="B23-cancers-17-03717"><label>23.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Emmett</surname><given-names>L.</given-names></name>
+<name><surname>Papa</surname><given-names>N.</given-names></name>
+<name><surname>Buteau</surname><given-names>J.</given-names></name>
+<name><surname>Ho</surname><given-names>B.</given-names></name>
+<name><surname>Liu</surname><given-names>V.</given-names></name>
+<name><surname>Roberts</surname><given-names>M.</given-names></name>
+<name><surname>Thompson</surname><given-names>J.</given-names></name>
+<name><surname>Moon</surname><given-names>D.</given-names></name>
+<name><surname>Sheehan-Dare</surname><given-names>G.</given-names></name>
+<name><surname>Alghazo</surname><given-names>O.</given-names></name>
+<etal/>
+</person-group><article-title>The PRIMARY Score: Using Intraprostatic (68)Ga-PSMA PET/CT Patterns to Optimize Prostate Cancer Diagnosis</article-title><source>J. Nucl. Med.</source><year>2022</year><volume>63</volume><fpage>1644</fpage><lpage>1650</lpage><pub-id pub-id-type="doi">10.2967/jnumed.121.263448</pub-id><pub-id pub-id-type="pmid">35301240</pub-id>
+</element-citation></ref><ref id="B24-cancers-17-03717"><label>24.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Veerman</surname><given-names>H.</given-names></name>
+<name><surname>Donswijk</surname><given-names>M.</given-names></name>
+<name><surname>Bekers</surname><given-names>E.</given-names></name>
+<name><surname>Olde Heuvel</surname><given-names>J.</given-names></name>
+<name><surname>Bodar</surname><given-names>Y.J.L.</given-names></name>
+<name><surname>Boellaard</surname><given-names>T.N.</given-names></name>
+<name><surname>van Montfoort</surname><given-names>M.L.</given-names></name>
+<name><surname>van Moorselaar</surname><given-names>R.J.A.</given-names></name>
+<name><surname>Oprea-Lager</surname><given-names>D.E.</given-names></name>
+<name><surname>van Leeuwen</surname><given-names>P.J.</given-names></name>
+<etal/>
+</person-group><article-title>The clinical characteristics of patients with primary non-prostate-specific membrane antigen-expressing prostate cancer on preoperative positron emission tomography/computed tomography</article-title><source>BJU Int.</source><year>2022</year><volume>129</volume><fpage>314</fpage><lpage>317</lpage><pub-id pub-id-type="doi">10.1111/bju.15664</pub-id><pub-id pub-id-type="pmid">34854204</pub-id>
+</element-citation></ref><ref id="B25-cancers-17-03717"><label>25.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shagera</surname><given-names>Q.A.</given-names></name>
+<name><surname>Karfis</surname><given-names>I.</given-names></name>
+<name><surname>Kristanto</surname><given-names>P.</given-names></name>
+<name><surname>Spyridon</surname><given-names>S.</given-names></name>
+<name><surname>Diamand</surname><given-names>R.</given-names></name>
+<name><surname>Santapau</surname><given-names>A.</given-names></name>
+<name><surname>Peltier</surname><given-names>A.</given-names></name>
+<name><surname>Roumegu&#x000e8;re</surname><given-names>T.</given-names></name>
+<name><surname>Flamen</surname><given-names>P.</given-names></name>
+<name><surname>Artigas</surname><given-names>C.</given-names></name>
+</person-group><article-title>PSMA PET/CT for Response Assessment and Overall Survival Prediction in Patients with Metastatic Castration-Resistant Prostate Cancer Treated with Androgen Receptor Pathway Inhibitors</article-title><source>J. Nucl. Med.</source><year>2023</year><volume>64</volume><fpage>1869</fpage><lpage>1875</lpage><pub-id pub-id-type="doi">10.2967/jnumed.123.265874</pub-id><pub-id pub-id-type="pmid">37770114</pub-id>
+</element-citation></ref><ref id="B26-cancers-17-03717"><label>26.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yanagisawa</surname><given-names>T.</given-names></name>
+<name><surname>Matsukawa</surname><given-names>A.</given-names></name>
+<name><surname>Rajwa</surname><given-names>P.</given-names></name>
+<name><surname>Miszczyk</surname><given-names>M.</given-names></name>
+<name><surname>Fazekas</surname><given-names>T.</given-names></name>
+<name><surname>Pradere</surname><given-names>B.</given-names></name>
+<name><surname>Miyajima</surname><given-names>K.</given-names></name>
+<name><surname>Enei</surname><given-names>Y.</given-names></name>
+<name><surname>Cormio</surname><given-names>A.</given-names></name>
+<name><surname>Dematteis</surname><given-names>A.</given-names></name>
+<etal/>
+</person-group><article-title>Prognostic factors of PSMA-targeted radioligand therapy in metastatic castration-resistant prostate cancer: A systematic review and meta-analysis</article-title><source>Prostate Cancer Prostatic Dis.</source><year>2025</year><pub-id pub-id-type="doi">10.1038/s41391-025-01034-y</pub-id></element-citation></ref><ref id="B27-cancers-17-03717"><label>27.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Di Franco</surname><given-names>M.</given-names></name>
+<name><surname>Mei</surname><given-names>R.</given-names></name>
+<name><surname>Garcia</surname><given-names>C.</given-names></name>
+<name><surname>Fanti</surname><given-names>S.</given-names></name>
+</person-group><article-title>Treatment response assessment in mCRPC: Is PSMA-PET/CT going to take the lead?</article-title><source>Ther. Adv. Med. Oncol.</source><year>2024</year><volume>16</volume><fpage>17588359241258367</fpage><pub-id pub-id-type="doi">10.1177/17588359241258367</pub-id><pub-id pub-id-type="pmid">39386313</pub-id>
+</element-citation></ref><ref id="B28-cancers-17-03717"><label>28.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Emmett</surname><given-names>L.</given-names></name>
+<name><surname>Yin</surname><given-names>C.</given-names></name>
+<name><surname>Crumbaker</surname><given-names>M.</given-names></name>
+<name><surname>Hruby</surname><given-names>G.</given-names></name>
+<name><surname>Kneebone</surname><given-names>A.</given-names></name>
+<name><surname>Epstein</surname><given-names>R.</given-names></name>
+<name><surname>Nguyen</surname><given-names>Q.</given-names></name>
+<name><surname>Hickey</surname><given-names>A.</given-names></name>
+<name><surname>Ihsheish</surname><given-names>N.</given-names></name>
+<name><surname>O&#x02019;Neill</surname><given-names>G.</given-names></name>
+<etal/>
+</person-group><article-title>Rapid Modulation of PSMA Expression by Androgen Deprivation: Serial (68)Ga-PSMA-11 PET in Men with Hormone-Sensitive and Castrate-Resistant Prostate Cancer Commencing Androgen Blockade</article-title><source>J. Nucl. Med.</source><year>2019</year><volume>60</volume><fpage>950</fpage><lpage>954</lpage><pub-id pub-id-type="doi">10.2967/jnumed.118.223099</pub-id><pub-id pub-id-type="pmid">30552200</pub-id>
+</element-citation></ref><ref id="B29-cancers-17-03717"><label>29.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Emmett</surname><given-names>L.</given-names></name>
+<name><surname>Subramaniam</surname><given-names>S.</given-names></name>
+<name><surname>Crumbaker</surname><given-names>M.</given-names></name>
+<name><surname>Nguyen</surname><given-names>A.</given-names></name>
+<name><surname>Joshua</surname><given-names>A.M.</given-names></name>
+<name><surname>Weickhardt</surname><given-names>A.</given-names></name>
+<name><surname>Lee</surname><given-names>S.T.</given-names></name>
+<name><surname>Ng</surname><given-names>S.</given-names></name>
+<name><surname>Francis</surname><given-names>R.J.</given-names></name>
+<name><surname>Goh</surname><given-names>J.C.</given-names></name>
+<etal/>
+</person-group><article-title>[(177)Lu]Lu-PSMA-617 plus enzalutamide in patients with metastatic castration-resistant prostate cancer (ENZA-p): An open-label, multicentre, randomised, phase 2 trial</article-title><source>Lancet Oncol.</source><year>2024</year><volume>25</volume><fpage>563</fpage><lpage>571</lpage><pub-id pub-id-type="doi">10.1016/S1470-2045(24)00135-9</pub-id><pub-id pub-id-type="pmid">38621400</pub-id>
+</element-citation></ref><ref id="B30-cancers-17-03717"><label>30.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rosar</surname><given-names>F.</given-names></name>
+<name><surname>Neher</surname><given-names>R.</given-names></name>
+<name><surname>Burgard</surname><given-names>C.</given-names></name>
+<name><surname>Linxweiler</surname><given-names>J.</given-names></name>
+<name><surname>Schreckenberger</surname><given-names>M.</given-names></name>
+<name><surname>Hoffmann</surname><given-names>M.A.</given-names></name>
+<name><surname>Bartholoma</surname><given-names>M.</given-names></name>
+<name><surname>Khreish</surname><given-names>F.</given-names></name>
+<name><surname>Ezziddin</surname><given-names>S.</given-names></name>
+</person-group><article-title>Upregulation of PSMA Expression by Enzalutamide in Patients with Advanced mCRPC</article-title><source>Cancers</source><year>2022</year><volume>14</volume><elocation-id>1696</elocation-id><pub-id pub-id-type="doi">10.3390/cancers14071696</pub-id><pub-id pub-id-type="pmid">35406467</pub-id>
+</element-citation></ref><ref id="B31-cancers-17-03717"><label>31.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>van der Gaag</surname><given-names>S.</given-names></name>
+<name><surname>Vis</surname><given-names>A.N.</given-names></name>
+<name><surname>Bartelink</surname><given-names>I.H.</given-names></name>
+<name><surname>Koppes</surname><given-names>J.C.C.</given-names></name>
+<name><surname>Hodolic</surname><given-names>M.</given-names></name>
+<name><surname>Hendrikse</surname><given-names>H.</given-names></name>
+<name><surname>Oprea-Lager</surname><given-names>D.E.</given-names></name>
+</person-group><article-title>Exploring the Flare Phenomenon in Patients with Castration-Resistant Prostate Cancer: Enzalutamide-Induced PSMA Upregulation Observed on PSMA PET</article-title><source>J. Nucl. Med.</source><year>2025</year><volume>66</volume><fpage>373</fpage><lpage>376</lpage><pub-id pub-id-type="doi">10.2967/jnumed.124.268340</pub-id><pub-id pub-id-type="pmid">39915123</pub-id>
+</element-citation></ref><ref id="B32-cancers-17-03717"><label>32.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Iravani</surname><given-names>A.</given-names></name>
+<name><surname>Mitchell</surname><given-names>C.</given-names></name>
+<name><surname>Akhurst</surname><given-names>T.</given-names></name>
+<name><surname>Sandhu</surname><given-names>S.</given-names></name>
+<name><surname>Hofman</surname><given-names>M.S.</given-names></name>
+<name><surname>Hicks</surname><given-names>R.J.</given-names></name>
+</person-group><article-title>Molecular Imaging of Neuroendocrine Differentiation of Prostate Cancer: A Case Series</article-title><source>Clin. Genitourin. Cancer</source><year>2021</year><volume>19</volume><fpage>e200</fpage><lpage>e205</lpage><pub-id pub-id-type="doi">10.1016/j.clgc.2021.01.008</pub-id><pub-id pub-id-type="pmid">33678552</pub-id>
+</element-citation></ref><ref id="B33-cancers-17-03717"><label>33.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Vlachostergios</surname><given-names>P.J.</given-names></name>
+<name><surname>Zachos</surname><given-names>I.</given-names></name>
+<name><surname>Tzortzis</surname><given-names>V.</given-names></name>
+</person-group><article-title>Biomarkers in Prostate-Specific Membrane Antigen Theranostics</article-title><source>Diagnostics</source><year>2021</year><volume>11</volume><elocation-id>1108</elocation-id><pub-id pub-id-type="doi">10.3390/diagnostics11061108</pub-id><pub-id pub-id-type="pmid">34207069</pub-id>
+</element-citation></ref><ref id="B34-cancers-17-03717"><label>34.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gaudreault</surname><given-names>M.</given-names></name>
+<name><surname>Chang</surname><given-names>D.</given-names></name>
+<name><surname>Hardcastle</surname><given-names>N.</given-names></name>
+<name><surname>Jackson</surname><given-names>P.</given-names></name>
+<name><surname>Kron</surname><given-names>T.</given-names></name>
+<name><surname>Hanna</surname><given-names>G.G.</given-names></name>
+<name><surname>Hofman</surname><given-names>M.S.</given-names></name>
+<name><surname>Siva</surname><given-names>S.</given-names></name>
+</person-group><article-title>Utility of Biology-Guided Radiotherapy to De Novo Metastases Diagnosed During Staging of High-Risk Biopsy-Proven Prostate Cancer</article-title><source>Front. Oncol.</source><year>2022</year><volume>12</volume><elocation-id>854589</elocation-id><pub-id pub-id-type="doi">10.3389/fonc.2022.854589</pub-id><pub-id pub-id-type="pmid">35494012</pub-id>
+</element-citation></ref><ref id="B35-cancers-17-03717"><label>35.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kratochwil</surname><given-names>C.</given-names></name>
+<name><surname>Bruchertseifer</surname><given-names>F.</given-names></name>
+<name><surname>Giesel</surname><given-names>F.L.</given-names></name>
+<name><surname>Weis</surname><given-names>M.</given-names></name>
+<name><surname>Verburg</surname><given-names>F.A.</given-names></name>
+<name><surname>Mottaghy</surname><given-names>F.</given-names></name>
+<name><surname>Kopka</surname><given-names>K.</given-names></name>
+<name><surname>Apostolidis</surname><given-names>C.</given-names></name>
+<name><surname>Haberkorn</surname><given-names>U.</given-names></name>
+<name><surname>Morgenstern</surname><given-names>A.</given-names></name>
+</person-group><article-title>225Ac-PSMA-617 for PSMA-Targeted &#x003b1;-Radiation Therapy of Metastatic Castration-Resistant Prostate Cancer</article-title><source>J. Nucl. Med.</source><year>2016</year><volume>57</volume><fpage>1941</fpage><lpage>1944</lpage><pub-id pub-id-type="doi">10.2967/jnumed.116.178673</pub-id><pub-id pub-id-type="pmid">27390158</pub-id>
+</element-citation></ref><ref id="B36-cancers-17-03717"><label>36.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sathekge</surname><given-names>M.</given-names></name>
+<name><surname>Bruchertseifer</surname><given-names>F.</given-names></name>
+<name><surname>Knoesen</surname><given-names>O.</given-names></name>
+<name><surname>Reyneke</surname><given-names>F.</given-names></name>
+<name><surname>Lawal</surname><given-names>I.</given-names></name>
+<name><surname>Lengana</surname><given-names>T.</given-names></name>
+<name><surname>Davis</surname><given-names>C.</given-names></name>
+<name><surname>Mahapane</surname><given-names>J.</given-names></name>
+<name><surname>Corbett</surname><given-names>C.</given-names></name>
+<name><surname>Vorster</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group><article-title>(225)Ac-PSMA-617 in chemotherapy-naive patients with advanced prostate cancer: A pilot study</article-title><source>Eur. J. Nucl. Med. Mol. Imaging</source><year>2019</year><volume>46</volume><fpage>129</fpage><lpage>138</lpage><pub-id pub-id-type="doi">10.1007/s00259-018-4167-0</pub-id><pub-id pub-id-type="pmid">30232539</pub-id>
+</element-citation></ref><ref id="B37-cancers-17-03717"><label>37.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rosar</surname><given-names>F.</given-names></name>
+<name><surname>Krause</surname><given-names>J.</given-names></name>
+<name><surname>Bartholoma</surname><given-names>M.</given-names></name>
+<name><surname>Maus</surname><given-names>S.</given-names></name>
+<name><surname>Stemler</surname><given-names>T.</given-names></name>
+<name><surname>Hierlmeier</surname><given-names>I.</given-names></name>
+<name><surname>Linxweiler</surname><given-names>J.</given-names></name>
+<name><surname>Ezziddin</surname><given-names>S.</given-names></name>
+<name><surname>Khreish</surname><given-names>F.</given-names></name>
+</person-group><article-title>Efficacy and Safety of [(225)Ac]Ac-PSMA-617 Augmented [(177)Lu]Lu-PSMA-617 Radioligand Therapy in Patients with Highly Advanced mCRPC with Poor Prognosis</article-title><source>Pharmaceutics</source><year>2021</year><volume>13</volume><elocation-id>722</elocation-id><pub-id pub-id-type="doi">10.3390/pharmaceutics13050722</pub-id><pub-id pub-id-type="pmid">34069003</pub-id>
+</element-citation></ref><ref id="B38-cancers-17-03717"><label>38.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Puttick</surname><given-names>S.</given-names></name>
+<name><surname>Griffiths</surname><given-names>M.</given-names></name>
+<name><surname>Pattison</surname><given-names>D.</given-names></name>
+<name><surname>Hanson</surname><given-names>A.</given-names></name>
+<name><surname>Latter</surname><given-names>M.</given-names></name>
+<name><surname>Kuan</surname><given-names>K.</given-names></name>
+<name><surname>Taylor</surname><given-names>S.</given-names></name>
+<name><surname>Tieu</surname><given-names>W.</given-names></name>
+<name><surname>Kryza</surname><given-names>T.</given-names></name>
+<name><surname>Meyrick</surname><given-names>D.</given-names></name>
+<etal/>
+</person-group><article-title>Development of a Novel 212Pb-based Targeted Alpha Therapy for metastatic Castration-Resistant Prostate Cancer</article-title><source>J. Nucl. Med.</source><year>2024</year><volume>65</volume><issue>(Suppl. 2)</issue><fpage>242474</fpage></element-citation></ref><ref id="B39-cancers-17-03717"><label>39.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sandhu</surname><given-names>S.</given-names></name>
+<name><surname>Joshua</surname><given-names>A.M.</given-names></name>
+<name><surname>Emmett</surname><given-names>L.</given-names></name>
+<name><surname>Crumbaker</surname><given-names>M.</given-names></name>
+<name><surname>Bressel</surname><given-names>M.</given-names></name>
+<name><surname>Huynh</surname><given-names>R.</given-names></name>
+<name><surname>Banks</surname><given-names>P.D.</given-names></name>
+<name><surname>Wallace</surname><given-names>R.</given-names></name>
+<name><surname>Hamid</surname><given-names>A.</given-names></name>
+<name><surname>Inderjeeth</surname><given-names>A.J.</given-names></name>
+<etal/>
+</person-group><article-title>LuPARP: Phase 1 trial of 177Lu-PSMA-617 and olaparib in patients with metastatic castration resistant prostate cancer (mCRPC)</article-title><source>J. Clin. Oncol.</source><year>2023</year><volume>41</volume><fpage>5005</fpage><pub-id pub-id-type="doi">10.1200/JCO.2023.41.16_suppl.5005</pub-id><pub-id pub-id-type="pmid">37639648</pub-id>
+</element-citation></ref><ref id="B40-cancers-17-03717"><label>40.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hallqvist</surname><given-names>A.</given-names></name>
+<name><surname>Brynjarsd&#x000f3;ttir</surname><given-names>E.</given-names></name>
+<name><surname>Krantz</surname><given-names>T.</given-names></name>
+<name><surname>Sj&#x000f6;gren</surname><given-names>M.</given-names></name>
+<name><surname>Svensson</surname><given-names>J.</given-names></name>
+<name><surname>Bernhardt</surname><given-names>P.</given-names></name>
+</person-group><article-title>(177)Lu-DOTATATE in Combination with PARP Inhibitor Olaparib Is Feasible in Patients with Somatostatin-Positive Tumors: Results from the LuPARP Phase I Trial</article-title><source>J. Nucl. Med.</source><year>2025</year><volume>66</volume><fpage>707</fpage><lpage>712</lpage><pub-id pub-id-type="doi">10.2967/jnumed.124.268902</pub-id><pub-id pub-id-type="pmid">40015919</pub-id>
+</element-citation></ref><ref id="B41-cancers-17-03717"><label>41.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kostos</surname><given-names>L.</given-names></name>
+<name><surname>Buteau</surname><given-names>J.P.</given-names></name>
+<name><surname>Xie</surname><given-names>J.</given-names></name>
+<name><surname>Cardin</surname><given-names>A.</given-names></name>
+<name><surname>Akhurst</surname><given-names>T.</given-names></name>
+<name><surname>Alipour</surname><given-names>R.</given-names></name>
+<name><surname>Au</surname><given-names>L.</given-names></name>
+<name><surname>Chan</surname><given-names>J.</given-names></name>
+<name><surname>Chin</surname><given-names>K.Y.</given-names></name>
+<name><surname>Emmerson</surname><given-names>B.</given-names></name>
+<etal/>
+</person-group><article-title>Lutetium-177 [177Lu]Lu-PSMA-I&#x00026;T plus radium-223 in patients with metastatic castration-resistant prostate cancer (AlphaBet): An interim analysis of the investigator-initiated, single-centre, single-arm, phase 1/2 trial</article-title><source>Lancet Oncol.</source><year>2025</year><volume>26</volume><fpage>1479</fpage><lpage>1488</lpage><pub-id pub-id-type="doi">10.1016/S1470-2045(25)00559-5</pub-id><pub-id pub-id-type="pmid">41119954</pub-id>
+</element-citation></ref><ref id="B42-cancers-17-03717"><label>42.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Eapen</surname><given-names>R.S.</given-names></name>
+<name><surname>Buteau</surname><given-names>J.P.</given-names></name>
+<name><surname>Jackson</surname><given-names>P.</given-names></name>
+<name><surname>Mitchell</surname><given-names>C.</given-names></name>
+<name><surname>Oon</surname><given-names>S.F.</given-names></name>
+<name><surname>Alghazo</surname><given-names>O.</given-names></name>
+<name><surname>McIntosh</surname><given-names>L.</given-names></name>
+<name><surname>Dhiantravan</surname><given-names>N.</given-names></name>
+<name><surname>Scalzo</surname><given-names>M.J.</given-names></name>
+<name><surname>O&#x02019;Brien</surname><given-names>J.</given-names></name>
+<etal/>
+</person-group><article-title>Administering [(177)Lu]Lu-PSMA-617 Prior to Radical Prostatectomy in Men with High-risk Localised Prostate Cancer (LuTectomy): A Single-centre, Single-arm, Phase 1/2 Study</article-title><source>Eur. Urol.</source><year>2024</year><volume>85</volume><fpage>217</fpage><lpage>226</lpage><pub-id pub-id-type="doi">10.1016/j.eururo.2023.08.026</pub-id><pub-id pub-id-type="pmid">37891072</pub-id>
+</element-citation></ref><ref id="B43-cancers-17-03717"><label>43.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gafita</surname><given-names>A.</given-names></name>
+<name><surname>Calais</surname><given-names>J.</given-names></name>
+<name><surname>Grogan</surname><given-names>T.R.</given-names></name>
+<name><surname>Hadaschik</surname><given-names>B.</given-names></name>
+<name><surname>Wang</surname><given-names>H.</given-names></name>
+<name><surname>Weber</surname><given-names>M.</given-names></name>
+<name><surname>Sandhu</surname><given-names>S.</given-names></name>
+<name><surname>Kratochwil</surname><given-names>C.</given-names></name>
+<name><surname>Esfandiari</surname><given-names>R.</given-names></name>
+<name><surname>Tauber</surname><given-names>R.</given-names></name>
+<etal/>
+</person-group><article-title>Nomograms to predict outcomes after (177)Lu-PSMA therapy in men with metastatic castration-resistant prostate cancer: An international, multicentre, retrospective study</article-title><source>Lancet Oncol.</source><year>2021</year><volume>22</volume><fpage>1115</fpage><lpage>1125</lpage><pub-id pub-id-type="doi">10.1016/S1470-2045(21)00274-6</pub-id><pub-id pub-id-type="pmid">34246328</pub-id>
+</element-citation></ref><ref id="B44-cancers-17-03717"><label>44.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Emmett</surname><given-names>L.</given-names></name>
+<name><surname>Papa</surname><given-names>N.</given-names></name>
+<name><surname>Subramaniam</surname><given-names>S.</given-names></name>
+<name><surname>Crumbaker</surname><given-names>M.</given-names></name>
+<name><surname>Nguyen</surname><given-names>A.</given-names></name>
+<name><surname>Joshua</surname><given-names>A.M.</given-names></name>
+<name><surname>Sandhu</surname><given-names>S.</given-names></name>
+<name><surname>Weickhardt</surname><given-names>A.</given-names></name>
+<name><surname>Lee</surname><given-names>S.T.</given-names></name>
+<name><surname>Ng</surname><given-names>S.</given-names></name>
+<etal/>
+</person-group><article-title>Prognostic and predictive value of baseline PSMA-PET total tumour volume and SUVmean in metastatic castration-resistant prostate cancer in ENZA-p (ANZUP1901): A substudy from a multicentre, open-label, randomised, phase 2 trial</article-title><source>Lancet Oncol.</source><year>2025</year><volume>26</volume><fpage>1168</fpage><lpage>1177</lpage><pub-id pub-id-type="doi">10.1016/S1470-2045(25)00339-0</pub-id><pub-id pub-id-type="pmid">40752515</pub-id>
+</element-citation></ref><ref id="B45-cancers-17-03717"><label>45.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Murthy</surname><given-names>V.</given-names></name>
+<name><surname>Gafita</surname><given-names>A.</given-names></name>
+<name><surname>Thin</surname><given-names>P.</given-names></name>
+<name><surname>Nguyen</surname><given-names>K.</given-names></name>
+<name><surname>Grogan</surname><given-names>T.</given-names></name>
+<name><surname>Shen</surname><given-names>J.</given-names></name>
+<name><surname>Drakaki</surname><given-names>A.</given-names></name>
+<name><surname>Rettig</surname><given-names>M.</given-names></name>
+<name><surname>Czernin</surname><given-names>J.</given-names></name>
+<name><surname>Calais</surname><given-names>J.</given-names></name>
+</person-group><article-title>Prognostic Value of End-of-Treatment PSMA PET/CT in Patients Treated with (177)Lu-PSMA Radioligand Therapy: A Retrospective, Single-Center Analysis</article-title><source>J. Nucl. Med.</source><year>2023</year><volume>64</volume><fpage>1737</fpage><lpage>1743</lpage><pub-id pub-id-type="doi">10.2967/jnumed.122.265155</pub-id><pub-id pub-id-type="pmid">37678927</pub-id>
+</element-citation></ref><ref id="B46-cancers-17-03717"><label>46.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Violet</surname><given-names>J.</given-names></name>
+<name><surname>Jackson</surname><given-names>P.</given-names></name>
+<name><surname>Ferdinandus</surname><given-names>J.</given-names></name>
+<name><surname>Sandhu</surname><given-names>S.</given-names></name>
+<name><surname>Akhurst</surname><given-names>T.</given-names></name>
+<name><surname>Iravani</surname><given-names>A.</given-names></name>
+<name><surname>Kong</surname><given-names>G.</given-names></name>
+<name><surname>Kumar</surname><given-names>A.R.</given-names></name>
+<name><surname>Thang</surname><given-names>S.P.</given-names></name>
+<name><surname>Eu</surname><given-names>P.</given-names></name>
+<etal/>
+</person-group><article-title>Dosimetry of (177)Lu-PSMA-617 in Metastatic Castration-Resistant Prostate Cancer: Correlations Between Pretherapeutic Imaging and Whole-Body Tumor Dosimetry with Treatment Outcomes</article-title><source>J. Nucl. Med.</source><year>2019</year><volume>60</volume><fpage>517</fpage><lpage>523</lpage><pub-id pub-id-type="doi">10.2967/jnumed.118.219352</pub-id><pub-id pub-id-type="pmid">30291192</pub-id>
+</element-citation></ref><ref id="B47-cancers-17-03717"><label>47.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gafita</surname><given-names>A.</given-names></name>
+<name><surname>Rauscher</surname><given-names>I.</given-names></name>
+<name><surname>Weber</surname><given-names>M.</given-names></name>
+<name><surname>Hadaschik</surname><given-names>B.</given-names></name>
+<name><surname>Wang</surname><given-names>H.</given-names></name>
+<name><surname>Armstrong</surname><given-names>W.R.</given-names></name>
+<name><surname>Tauber</surname><given-names>R.</given-names></name>
+<name><surname>Grogan</surname><given-names>T.R.</given-names></name>
+<name><surname>Czernin</surname><given-names>J.</given-names></name>
+<name><surname>Rettig</surname><given-names>M.B.</given-names></name>
+<etal/>
+</person-group><article-title>Novel Framework for Treatment Response Evaluation Using PSMA PET/CT in Patients with Metastatic Castration-Resistant Prostate Cancer (RECIP 1.0): An International Multicenter Study</article-title><source>J. Nucl. Med.</source><year>2022</year><volume>63</volume><fpage>1651</fpage><pub-id pub-id-type="doi">10.2967/jnumed.121.263072</pub-id><pub-id pub-id-type="pmid">35422442</pub-id>
+</element-citation></ref><ref id="B48-cancers-17-03717"><label>48.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gafita</surname><given-names>A.</given-names></name>
+<name><surname>Djaileb</surname><given-names>L.</given-names></name>
+<name><surname>Rauscher</surname><given-names>I.</given-names></name>
+<name><surname>Fendler</surname><given-names>W.P.</given-names></name>
+<name><surname>Hadaschik</surname><given-names>B.</given-names></name>
+<name><surname>Rowe</surname><given-names>S.P.</given-names></name>
+<name><surname>Herrmann</surname><given-names>K.</given-names></name>
+<name><surname>Calais</surname><given-names>J.</given-names></name>
+<name><surname>Rettig</surname><given-names>M.</given-names></name>
+<name><surname>Eiber</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group><article-title>Response Evaluation Criteria in PSMA PET/CT (RECIP 1.0) in Metastatic Castration-resistant Prostate Cancer</article-title><source>Radiology</source><year>2023</year><volume>308</volume><fpage>e222148</fpage><pub-id pub-id-type="doi">10.1148/radiol.222148</pub-id><pub-id pub-id-type="pmid">37432081</pub-id>
+</element-citation></ref><ref id="B49-cancers-17-03717"><label>49.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>van Kalmthout</surname><given-names>L.W.M.</given-names></name>
+<name><surname>Lam</surname><given-names>M.</given-names></name>
+<name><surname>de Keizer</surname><given-names>B.</given-names></name>
+<name><surname>Krijger</surname><given-names>G.C.</given-names></name>
+<name><surname>Ververs</surname><given-names>T.F.T.</given-names></name>
+<name><surname>de Roos</surname><given-names>R.</given-names></name>
+<name><surname>Braat</surname><given-names>A.</given-names></name>
+</person-group><article-title>Impact of external cooling with icepacks on (68)Ga-PSMA uptake in salivary glands</article-title><source>EJNMMI Res.</source><year>2018</year><volume>8</volume><fpage>56</fpage><pub-id pub-id-type="doi">10.1186/s13550-018-0408-2</pub-id><pub-id pub-id-type="pmid">29971556</pub-id>
+</element-citation></ref><ref id="B50-cancers-17-03717"><label>50.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>D.C.</given-names></name>
+<name><surname>Buteau</surname><given-names>J.P.</given-names></name>
+<name><surname>Papa</surname><given-names>N.</given-names></name>
+<name><surname>Akhurst</surname><given-names>T.</given-names></name>
+<name><surname>Alipour</surname><given-names>R.</given-names></name>
+<name><surname>Bollampally</surname><given-names>N.</given-names></name>
+<name><surname>Cardin</surname><given-names>A.</given-names></name>
+<name><surname>Eifer</surname><given-names>M.</given-names></name>
+<name><surname>Casanueva Eliceiry</surname><given-names>S.</given-names></name>
+<name><surname>Jackson</surname><given-names>P.</given-names></name>
+<etal/>
+</person-group><article-title>Prognostic Value of Initial Imaging and PSA Change with [177Lu]Lu-PSMA-617 Radiopharmaceutical Therapy in Patients with Metastatic Castration-Resistant Prostate Cancer: A ProsTIC Registry Analysis</article-title><source>J. Nucl. Med.</source><year>2025</year><pub-id pub-id-type="doi">10.2967/jnumed.125.270804</pub-id></element-citation></ref><ref id="B51-cancers-17-03717"><label>51.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Michalski</surname><given-names>K.</given-names></name>
+<name><surname>Ruf</surname><given-names>J.</given-names></name>
+<name><surname>Goetz</surname><given-names>C.</given-names></name>
+<name><surname>Seitz</surname><given-names>A.K.</given-names></name>
+<name><surname>Buck</surname><given-names>A.K.</given-names></name>
+<name><surname>Lapa</surname><given-names>C.</given-names></name>
+<name><surname>Hartrampf</surname><given-names>P.E.</given-names></name>
+</person-group><article-title>Prognostic implications of dual tracer PET/CT: PSMA ligand and [(18)F]FDG PET/CT in patients undergoing [(177)Lu]PSMA radioligand therapy</article-title><source>Eur. J. Nucl. Med. Mol. Imaging</source><year>2021</year><volume>48</volume><fpage>2024</fpage><lpage>2030</lpage><pub-id pub-id-type="doi">10.1007/s00259-020-05160-8</pub-id><pub-id pub-id-type="pmid">33336265</pub-id>
+</element-citation></ref><ref id="B52-cancers-17-03717"><label>52.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>H.</given-names></name>
+<name><surname>Koumna</surname><given-names>S.</given-names></name>
+<name><surname>Pouliot</surname><given-names>F.</given-names></name>
+<name><surname>Beauregard</surname><given-names>J.M.</given-names></name>
+<name><surname>Kolinsky</surname><given-names>M.</given-names></name>
+</person-group><article-title>PSMA Theranostics: Current Landscape and Future Outlook</article-title><source>Cancers</source><year>2021</year><volume>13</volume><elocation-id>4023</elocation-id><pub-id pub-id-type="doi">10.3390/cancers13164023</pub-id><pub-id pub-id-type="pmid">34439177</pub-id>
+</element-citation></ref><ref id="B53-cancers-17-03717"><label>53.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Heidegger</surname><given-names>I.</given-names></name>
+<name><surname>Kesch</surname><given-names>C.</given-names></name>
+<name><surname>Kretschmer</surname><given-names>A.</given-names></name>
+<name><surname>Tsaur</surname><given-names>I.</given-names></name>
+<name><surname>Ceci</surname><given-names>F.</given-names></name>
+<name><surname>Valerio</surname><given-names>M.</given-names></name>
+<name><surname>Tilki</surname><given-names>D.</given-names></name>
+<name><surname>Marra</surname><given-names>G.</given-names></name>
+<name><surname>Preisser</surname><given-names>F.</given-names></name>
+<name><surname>Fankhauser</surname><given-names>C.D.</given-names></name>
+<etal/>
+</person-group><article-title>Biomarkers to personalize treatment with 177Lu-PSMA-617 in men with metastatic castration-resistant prostate cancer&#x02014;A state of the art review</article-title><source>Ther. Adv. Med. Oncol.</source><year>2022</year><volume>14</volume><fpage>17588359221081922</fpage><pub-id pub-id-type="doi">10.1177/17588359221081922</pub-id><pub-id pub-id-type="pmid">35273651</pub-id>
+</element-citation></ref><ref id="B54-cancers-17-03717"><label>54.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Azimi</surname><given-names>M.S.</given-names></name>
+<name><surname>Kamali-Asl</surname><given-names>A.</given-names></name>
+<name><surname>Ay</surname><given-names>M.R.</given-names></name>
+<name><surname>Zeraatkar</surname><given-names>N.</given-names></name>
+<name><surname>Hosseini</surname><given-names>M.S.</given-names></name>
+<name><surname>Sanaat</surname><given-names>A.</given-names></name>
+<name><surname>Dadgar</surname><given-names>H.</given-names></name>
+<name><surname>Arabi</surname><given-names>H.</given-names></name>
+</person-group><article-title>Deep learning-based partial volume correction in standard and low-dose positron emission tomography-computed tomography imaging</article-title><source>Quant. Imaging Med. Surg.</source><year>2024</year><volume>14</volume><fpage>2146</fpage><lpage>2164</lpage><pub-id pub-id-type="doi">10.21037/qims-23-871</pub-id><pub-id pub-id-type="pmid">38545051</pub-id>
+</element-citation></ref><ref id="B55-cancers-17-03717"><label>55.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pritchard</surname><given-names>C.C.</given-names></name>
+<name><surname>Mateo</surname><given-names>J.</given-names></name>
+<name><surname>Walsh</surname><given-names>M.F.</given-names></name>
+<name><surname>De Sarkar</surname><given-names>N.</given-names></name>
+<name><surname>Abida</surname><given-names>W.</given-names></name>
+<name><surname>Beltran</surname><given-names>H.</given-names></name>
+<name><surname>Garofalo</surname><given-names>A.</given-names></name>
+<name><surname>Gulati</surname><given-names>R.</given-names></name>
+<name><surname>Carreira</surname><given-names>S.</given-names></name>
+<name><surname>Eeles</surname><given-names>R.</given-names></name>
+<etal/>
+</person-group><article-title>Inherited DNA-Repair Gene Mutations in Men with Metastatic Prostate Cancer</article-title><source>N. Engl. J. Med.</source><year>2016</year><volume>375</volume><fpage>443</fpage><lpage>453</lpage><pub-id pub-id-type="doi">10.1056/NEJMoa1603144</pub-id><pub-id pub-id-type="pmid">27433846</pub-id>
+</element-citation></ref><ref id="B56-cancers-17-03717"><label>56.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Paschalis</surname><given-names>A.</given-names></name>
+<name><surname>Sheehan</surname><given-names>B.</given-names></name>
+<name><surname>Riisnaes</surname><given-names>R.</given-names></name>
+<name><surname>Rodrigues</surname><given-names>D.N.</given-names></name>
+<name><surname>Gurel</surname><given-names>B.</given-names></name>
+<name><surname>Bertan</surname><given-names>C.</given-names></name>
+<name><surname>Ferreira</surname><given-names>A.</given-names></name>
+<name><surname>Lambros</surname><given-names>M.B.K.</given-names></name>
+<name><surname>Seed</surname><given-names>G.</given-names></name>
+<name><surname>Yuan</surname><given-names>W.</given-names></name>
+<etal/>
+</person-group><article-title>Prostate-specific Membrane Antigen Heterogeneity and DNA Repair Defects in Prostate Cancer</article-title><source>Eur. Urol.</source><year>2019</year><volume>76</volume><fpage>469</fpage><lpage>478</lpage><pub-id pub-id-type="doi">10.1016/j.eururo.2019.06.030</pub-id><pub-id pub-id-type="pmid">31345636</pub-id>
+</element-citation></ref><ref id="B57-cancers-17-03717"><label>57.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sugawara</surname><given-names>T.</given-names></name>
+<name><surname>Nevedomskaya</surname><given-names>E.</given-names></name>
+<name><surname>Heller</surname><given-names>S.</given-names></name>
+<name><surname>Bohme</surname><given-names>A.</given-names></name>
+<name><surname>Lesche</surname><given-names>R.</given-names></name>
+<name><surname>von Ahsen</surname><given-names>O.</given-names></name>
+<name><surname>Grunewald</surname><given-names>S.</given-names></name>
+<name><surname>Nguyen</surname><given-names>H.M.</given-names></name>
+<name><surname>Corey</surname><given-names>E.</given-names></name>
+<name><surname>Baumgart</surname><given-names>S.J.</given-names></name>
+<etal/>
+</person-group><article-title>Dual targeting of the androgen receptor and PI3K/AKT/mTOR pathways in prostate cancer models improves antitumor efficacy and promotes cell apoptosis</article-title><source>Mol. Oncol.</source><year>2024</year><volume>18</volume><fpage>726</fpage><lpage>742</lpage><pub-id pub-id-type="doi">10.1002/1878-0261.13577</pub-id><pub-id pub-id-type="pmid">38225213</pub-id>
+</element-citation></ref><ref id="B58-cancers-17-03717"><label>58.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Maes</surname><given-names>J.</given-names></name>
+<name><surname>Gesqui&#x000e8;re</surname><given-names>S.</given-names></name>
+<name><surname>De Spiegeleer</surname><given-names>A.</given-names></name>
+<name><surname>Maes</surname><given-names>A.</given-names></name>
+<name><surname>Van de Wiele</surname><given-names>C.</given-names></name>
+</person-group><article-title>Prostate-Specific Membrane Antigen Biology and Pathophysiology in Prostate Carcinoma, an Update: Potential Implications for Targeted Imaging and Therapy</article-title><source>Int. J. Mol. Sci.</source><year>2024</year><volume>25</volume><elocation-id>9755</elocation-id><pub-id pub-id-type="doi">10.3390/ijms25179755</pub-id><pub-id pub-id-type="pmid">39273701</pub-id>
+</element-citation></ref><ref id="B59-cancers-17-03717"><label>59.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rupp</surname><given-names>N.J.</given-names></name>
+<name><surname>Freiberger</surname><given-names>S.N.</given-names></name>
+<name><surname>Ferraro</surname><given-names>D.A.</given-names></name>
+<name><surname>Laudicella</surname><given-names>R.</given-names></name>
+<name><surname>Heimer</surname><given-names>J.</given-names></name>
+<name><surname>Muehlematter</surname><given-names>U.J.</given-names></name>
+<name><surname>Poyet</surname><given-names>C.</given-names></name>
+<name><surname>Moch</surname><given-names>H.</given-names></name>
+<name><surname>Eberli</surname><given-names>D.</given-names></name>
+<name><surname>R&#x000fc;schoff</surname><given-names>J.H.</given-names></name>
+<etal/>
+</person-group><article-title>Immunohistochemical ERG positivity is associated with decreased PSMA expression and lower visibility in corresponding [(68)Ga]Ga-PSMA-11 PET scans of primary prostate cancer</article-title><source>Eur. J. Nucl. Med. Mol. Imaging</source><year>2024</year><volume>52</volume><fpage>305</fpage><lpage>313</lpage><pub-id pub-id-type="doi">10.1007/s00259-024-06856-x</pub-id><pub-id pub-id-type="pmid">39083067</pub-id>
+</element-citation></ref><ref id="B60-cancers-17-03717"><label>60.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wyatt</surname><given-names>A.W.</given-names></name>
+<name><surname>Azad</surname><given-names>A.A.</given-names></name>
+<name><surname>Volik</surname><given-names>S.V.</given-names></name>
+<name><surname>Annala</surname><given-names>M.</given-names></name>
+<name><surname>Beja</surname><given-names>K.</given-names></name>
+<name><surname>McConeghy</surname><given-names>B.</given-names></name>
+<name><surname>Haegert</surname><given-names>A.</given-names></name>
+<name><surname>Warner</surname><given-names>E.W.</given-names></name>
+<name><surname>Mo</surname><given-names>F.</given-names></name>
+<name><surname>Brahmbhatt</surname><given-names>S.</given-names></name>
+<etal/>
+</person-group><article-title>Genomic Alterations in Cell-Free DNA and Enzalutamide Resistance in Castration-Resistant Prostate Cancer</article-title><source>JAMA Oncol.</source><year>2016</year><volume>2</volume><fpage>1598</fpage><lpage>1606</lpage><pub-id pub-id-type="doi">10.1001/jamaoncol.2016.0494</pub-id><pub-id pub-id-type="pmid">27148695</pub-id>
+</element-citation></ref><ref id="B61-cancers-17-03717"><label>61.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zainfeld</surname><given-names>D.</given-names></name>
+<name><surname>Goldkorn</surname><given-names>A.</given-names></name>
+</person-group><article-title>Liquid Biopsy in Prostate Cancer: Circulating Tumor Cells and Beyond</article-title><source>Cancer Treat. Res.</source><year>2018</year><volume>175</volume><fpage>87</fpage><lpage>104</lpage><pub-id pub-id-type="doi">10.1007/978-3-319-93339-9_4</pub-id><pub-id pub-id-type="pmid">30168118</pub-id>
+</element-citation></ref><ref id="B62-cancers-17-03717"><label>62.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kluge</surname><given-names>K.</given-names></name>
+<name><surname>Einspieler</surname><given-names>H.</given-names></name>
+<name><surname>Haberl</surname><given-names>D.</given-names></name>
+<name><surname>Spielvogel</surname><given-names>C.</given-names></name>
+<name><surname>Stoiber</surname><given-names>S.</given-names></name>
+<name><surname>Vraka</surname><given-names>C.</given-names></name>
+<name><surname>Papp</surname><given-names>L.</given-names></name>
+<name><surname>Wunsch</surname><given-names>S.</given-names></name>
+<name><surname>Egger</surname><given-names>G.</given-names></name>
+<name><surname>Kramer</surname><given-names>G.</given-names></name>
+<etal/>
+</person-group><article-title>Examining the Relationship and Prognostic Significance of Cell-Free DNA Levels and the PSMA-Positive Tumor Volume in Men with Prostate Cancer: A Retrospective-Prospective [(68)Ga]Ga-PSMA-11 PET/CT Study</article-title><source>J. Nucl. Med.</source><year>2024</year><volume>65</volume><fpage>63</fpage><lpage>70</lpage><pub-id pub-id-type="doi">10.2967/jnumed.123.266158</pub-id><pub-id pub-id-type="pmid">38050125</pub-id>
+</element-citation></ref><ref id="B63-cancers-17-03717"><label>63.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kwan</surname><given-names>E.M.</given-names></name>
+<name><surname>Hofman</surname><given-names>M.S.</given-names></name>
+<name><surname>Ng</surname><given-names>S.W.S.</given-names></name>
+<name><surname>Emmett</surname><given-names>L.</given-names></name>
+<name><surname>Sandhu</surname><given-names>S.</given-names></name>
+<name><surname>Buteau</surname><given-names>J.P.</given-names></name>
+<name><surname>Iravani</surname><given-names>A.</given-names></name>
+<name><surname>Joshua</surname><given-names>A.M.</given-names></name>
+<name><surname>Francis</surname><given-names>R.J.</given-names></name>
+<name><surname>Subhash</surname><given-names>V.</given-names></name>
+<etal/>
+</person-group><article-title>Circulating tumour DNA fraction as a predictor of treatment efficacy in a randomized phase 2 trial of [177Lu]Lu-PSMA-617 (LuPSMA) versus cabazitaxel in metastatic castration-resistant prostate cancer (mCRPC) progressing after docetaxel (TheraP ANZUP 1603)</article-title><source>J. Clin. Oncol.</source><year>2024</year><volume>42</volume><fpage>5055</fpage><pub-id pub-id-type="doi">10.1200/JCO.2024.42.16_suppl.5055</pub-id></element-citation></ref><ref id="B64-cancers-17-03717"><label>64.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Vlachostergios</surname><given-names>P.J.</given-names></name>
+</person-group><article-title>Circulating tumor cell-based PSMA and PSA expression as a predictive and prognostic tool in prostate cancer</article-title><source>Transl. Cancer Res.</source><year>2025</year><volume>14</volume><fpage>1511</fpage><lpage>1515</lpage><pub-id pub-id-type="doi">10.21037/tcr-2024-2512</pub-id><pub-id pub-id-type="pmid">40224993</pub-id>
+</element-citation></ref><ref id="B65-cancers-17-03717"><label>65.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Z.</given-names></name>
+<name><surname>Ma</surname><given-names>Y.Y.</given-names></name>
+<name><surname>Wang</surname><given-names>J.</given-names></name>
+<name><surname>Zeng</surname><given-names>X.F.</given-names></name>
+<name><surname>Li</surname><given-names>R.</given-names></name>
+<name><surname>Kang</surname><given-names>W.</given-names></name>
+<name><surname>Hao</surname><given-names>X.K.</given-names></name>
+</person-group><article-title>Exosomal microRNA-141 is upregulated in the serum of prostate cancer patients</article-title><source>Onco Targets Ther.</source><year>2016</year><volume>9</volume><fpage>139</fpage><lpage>148</lpage><pub-id pub-id-type="doi">10.2147/ott.S95565</pub-id><pub-id pub-id-type="pmid">26770063</pub-id>
+</element-citation></ref><ref id="B66-cancers-17-03717"><label>66.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zamboglou</surname><given-names>C.</given-names></name>
+<name><surname>Carles</surname><given-names>M.</given-names></name>
+<name><surname>Fechter</surname><given-names>T.</given-names></name>
+<name><surname>Kiefer</surname><given-names>S.</given-names></name>
+<name><surname>Reichel</surname><given-names>K.</given-names></name>
+<name><surname>Fassbender</surname><given-names>T.F.</given-names></name>
+<name><surname>Bronsert</surname><given-names>P.</given-names></name>
+<name><surname>Koeber</surname><given-names>G.</given-names></name>
+<name><surname>Schilling</surname><given-names>O.</given-names></name>
+<name><surname>Ruf</surname><given-names>J.</given-names></name>
+<etal/>
+</person-group><article-title>Radiomic features from PSMA PET for non-invasive intraprostatic tumor discrimination and characterization in patients with intermediate- and high-risk prostate cancer&#x02014;A comparison study with histology reference</article-title><source>Theranostics</source><year>2019</year><volume>9</volume><fpage>2595</fpage><lpage>2605</lpage><pub-id pub-id-type="doi">10.7150/thno.32376</pub-id><pub-id pub-id-type="pmid">31131055</pub-id>
+</element-citation></ref><ref id="B67-cancers-17-03717"><label>67.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Filippi</surname><given-names>L.</given-names></name>
+<name><surname>Urso</surname><given-names>L.</given-names></name>
+<name><surname>Bianconi</surname><given-names>F.</given-names></name>
+<name><surname>Palumbo</surname><given-names>B.</given-names></name>
+<name><surname>Marzola</surname><given-names>M.C.</given-names></name>
+<name><surname>Evangelista</surname><given-names>L.</given-names></name>
+<name><surname>Schillaci</surname><given-names>O.</given-names></name>
+</person-group><article-title>Radiomics and theranostics with molecular and metabolic probes in prostate cancer: Toward a personalized approach</article-title><source>Expert. Rev. Mol. Diagn.</source><year>2023</year><volume>23</volume><fpage>243</fpage><lpage>255</lpage><pub-id pub-id-type="doi">10.1080/14737159.2023.2192351</pub-id><pub-id pub-id-type="pmid">36927210</pub-id>
+</element-citation></ref><ref id="B68-cancers-17-03717"><label>68.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liolios</surname><given-names>C.</given-names></name>
+<name><surname>Sch&#x000e4;fer</surname><given-names>M.</given-names></name>
+<name><surname>Haberkorn</surname><given-names>U.</given-names></name>
+<name><surname>Eder</surname><given-names>M.</given-names></name>
+<name><surname>Kopka</surname><given-names>K.</given-names></name>
+</person-group><article-title>Novel Bispecific PSMA/GRPr Targeting Radioligands with Optimized Pharmacokinetics for Improved PET Imaging of Prostate Cancer</article-title><source>Bioconjugate Chem.</source><year>2016</year><volume>27</volume><fpage>737</fpage><lpage>751</lpage><pub-id pub-id-type="doi">10.1021/acs.bioconjchem.5b00687</pub-id></element-citation></ref><ref id="B69-cancers-17-03717"><label>69.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hoberuck</surname><given-names>S.</given-names></name>
+<name><surname>Michler</surname><given-names>E.</given-names></name>
+<name><surname>Wunderlich</surname><given-names>G.</given-names></name>
+<name><surname>Lock</surname><given-names>S.</given-names></name>
+<name><surname>Holscher</surname><given-names>T.</given-names></name>
+<name><surname>Froehner</surname><given-names>M.</given-names></name>
+<name><surname>Braune</surname><given-names>A.</given-names></name>
+<name><surname>Ivan</surname><given-names>P.</given-names></name>
+<name><surname>Seppelt</surname><given-names>D.</given-names></name>
+<name><surname>Zophel</surname><given-names>K.</given-names></name>
+<etal/>
+</person-group><article-title>68Ga-RM2 PET in PSMA- positive and -negative prostate cancer patients</article-title><source>Nuklearmedizin</source><year>2019</year><volume>58</volume><fpage>352</fpage><lpage>362</lpage><pub-id pub-id-type="doi">10.1055/a-0990-8898</pub-id><pub-id pub-id-type="pmid">31443113</pub-id>
+</element-citation></ref><ref id="B70-cancers-17-03717"><label>70.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ruigrok</surname><given-names>E.A.M.</given-names></name>
+<name><surname>Verhoeven</surname><given-names>M.</given-names></name>
+<name><surname>Konijnenberg</surname><given-names>M.W.</given-names></name>
+<name><surname>de Blois</surname><given-names>E.</given-names></name>
+<name><surname>de Ridder</surname><given-names>C.M.A.</given-names></name>
+<name><surname>Stuurman</surname><given-names>D.C.</given-names></name>
+<name><surname>Bertarione</surname><given-names>L.</given-names></name>
+<name><surname>Rolfo</surname><given-names>K.</given-names></name>
+<name><surname>de Jong</surname><given-names>M.</given-names></name>
+<name><surname>Dalm</surname><given-names>S.U.</given-names></name>
+</person-group><article-title>Safety of [(177)Lu]Lu-NeoB treatment: A preclinical study characterizing absorbed dose and acute, early, and late organ toxicity</article-title><source>Eur. J. Nucl. Med. Mol. Imaging</source><year>2022</year><volume>49</volume><fpage>4440</fpage><lpage>4451</lpage><pub-id pub-id-type="doi">10.1007/s00259-022-05926-2</pub-id><pub-id pub-id-type="pmid">35951084</pub-id>
+</element-citation></ref><ref id="B71-cancers-17-03717"><label>71.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>W.</given-names></name>
+<name><surname>Jiang</surname><given-names>Z.</given-names></name>
+<name><surname>Cui</surname><given-names>N.</given-names></name>
+<name><surname>Li</surname><given-names>J.</given-names></name>
+<name><surname>Cheng</surname><given-names>L.</given-names></name>
+<name><surname>Liu</surname><given-names>W.</given-names></name>
+<name><surname>Li</surname><given-names>J.</given-names></name>
+<name><surname>Wang</surname><given-names>K.</given-names></name>
+</person-group><article-title>Superiority of FAPI-PET/CT for examining multiple malignant tumors: A retrospective study</article-title><source>Am. J. Cancer Res.</source><year>2023</year><volume>13</volume><fpage>4547</fpage><lpage>4559</lpage><pub-id pub-id-type="pmid">37970338</pub-id>
+</element-citation></ref><ref id="B72-cancers-17-03717"><label>72.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sollini</surname><given-names>M.</given-names></name>
+<name><surname>Kirienko</surname><given-names>M.</given-names></name>
+<name><surname>Gelardi</surname><given-names>F.</given-names></name>
+<name><surname>Fiz</surname><given-names>F.</given-names></name>
+<name><surname>Gozzi</surname><given-names>N.</given-names></name>
+<name><surname>Chiti</surname><given-names>A.</given-names></name>
+</person-group><article-title>State-of-the-art of FAPI-PET imaging: A systematic review and meta-analysis</article-title><source>Eur. J. Nucl. Med. Mol. Imaging</source><year>2021</year><volume>48</volume><fpage>4396</fpage><lpage>4414</lpage><pub-id pub-id-type="doi">10.1007/s00259-021-05475-0</pub-id><pub-id pub-id-type="pmid">34173007</pub-id>
+</element-citation></ref><ref id="B73-cancers-17-03717"><label>73.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xiang</surname><given-names>J.</given-names></name>
+<name><surname>Wang</surname><given-names>R.</given-names></name>
+<name><surname>Wang</surname><given-names>J.</given-names></name>
+<name><surname>Peng</surname><given-names>X.</given-names></name>
+<name><surname>Wang</surname><given-names>Y.</given-names></name>
+<name><surname>Zhu</surname><given-names>Z.</given-names></name>
+<name><surname>Chen</surname><given-names>X.</given-names></name>
+<name><surname>Zhang</surname><given-names>J.</given-names></name>
+</person-group><article-title>Preliminary Safety, Biodistribution, and Dosimetry of Fibroblast activation protein and Integrin &#x003b1;v&#x003b2;3 dual targeting radioligand 177Lu-DOTA-FAPI-RGD: First-in-Human Results</article-title><source>J. Nucl. Med.</source><year>2025</year><volume>66</volume><issue>(Suppl. 1)</issue><fpage>251663</fpage></element-citation></ref><ref id="B74-cancers-17-03717"><label>74.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kelly</surname><given-names>W.K.</given-names></name>
+<name><surname>Danila</surname><given-names>D.C.</given-names></name>
+<name><surname>Lin</surname><given-names>C.C.</given-names></name>
+<name><surname>Lee</surname><given-names>J.L.</given-names></name>
+<name><surname>Matsubara</surname><given-names>N.</given-names></name>
+<name><surname>Ward</surname><given-names>P.J.</given-names></name>
+<name><surname>Armstrong</surname><given-names>A.J.</given-names></name>
+<name><surname>Pook</surname><given-names>D.</given-names></name>
+<name><surname>Kim</surname><given-names>M.</given-names></name>
+<name><surname>Dorff</surname><given-names>T.B.</given-names></name>
+<etal/>
+</person-group><article-title>Xaluritamig, a STEAP1 &#x000d7; CD3 XmAb 2+1 Immune Therapy for Metastatic Castration-Resistant Prostate Cancer: Results from Dose Exploration in a First-in-Human Study</article-title><source>Cancer Discov.</source><year>2024</year><volume>14</volume><fpage>76</fpage><lpage>89</lpage><pub-id pub-id-type="doi">10.1158/2159-8290.CD-23-0964</pub-id><pub-id pub-id-type="pmid">37861461</pub-id>
+</element-citation></ref><ref id="B75-cancers-17-03717"><label>75.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kelly</surname><given-names>W.</given-names></name>
+<name><surname>Danila</surname><given-names>D.</given-names></name>
+<name><surname>Lin</surname><given-names>C.C.</given-names></name>
+<name><surname>Lee</surname><given-names>J.L.</given-names></name>
+<name><surname>Matsubara</surname><given-names>N.</given-names></name>
+<name><surname>Ward</surname><given-names>P.</given-names></name>
+<name><surname>Armstrong</surname><given-names>A.J.</given-names></name>
+<name><surname>Pook</surname><given-names>D.</given-names></name>
+<name><surname>Kim</surname><given-names>M.</given-names></name>
+<name><surname>Dorff</surname><given-names>T.</given-names></name>
+<etal/>
+</person-group><article-title>Interim results from a phase I study of AMG 509 (xaluritamig), a STEAP1 x CD3 XmAb 2+1 immune therapy, in patients with metastatic castration-resistant prostate cancer (mCRPC)</article-title><source>Ann. Oncol.</source><year>2023</year><volume>34</volume><fpage>S953</fpage><lpage>S954</lpage><pub-id pub-id-type="doi">10.1016/j.annonc.2023.09.2715</pub-id></element-citation></ref><ref id="B76-cancers-17-03717"><label>76.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhai</surname><given-names>B.-T.</given-names></name>
+<name><surname>Tian</surname><given-names>H.</given-names></name>
+<name><surname>Sun</surname><given-names>J.</given-names></name>
+<name><surname>Zou</surname><given-names>J.-B.</given-names></name>
+<name><surname>Zhang</surname><given-names>X.-F.</given-names></name>
+<name><surname>Cheng</surname><given-names>J.-X.</given-names></name>
+<name><surname>Shi</surname><given-names>Y.-J.</given-names></name>
+<name><surname>Fan</surname><given-names>Y.</given-names></name>
+<name><surname>Guo</surname><given-names>D.-Y.</given-names></name>
+</person-group><article-title>Urokinase-type plasminogen activator receptor (uPAR) as a therapeutic target in cancer</article-title><source>J. Transl. Med.</source><year>2022</year><volume>20</volume><fpage>135</fpage><pub-id pub-id-type="doi">10.1186/s12967-022-03329-3</pub-id><pub-id pub-id-type="pmid">35303878</pub-id>
+</element-citation></ref><ref id="B77-cancers-17-03717"><label>77.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Azam</surname><given-names>A.</given-names></name>
+<name><surname>Kurbegovic</surname><given-names>S.</given-names></name>
+<name><surname>Carlsen</surname><given-names>E.A.</given-names></name>
+<name><surname>Andersen</surname><given-names>T.L.</given-names></name>
+<name><surname>Larsen</surname><given-names>V.A.</given-names></name>
+<name><surname>Law</surname><given-names>I.</given-names></name>
+<name><surname>Skj&#x000f8;th-Rasmussen</surname><given-names>J.</given-names></name>
+<name><surname>Kjaer</surname><given-names>A.</given-names></name>
+</person-group><article-title>Prospective phase II trial of [(68)Ga]Ga-NOTA-AE105 uPAR-PET/MRI in patients with primary gliomas: Prognostic value and Implications for uPAR-targeted Radionuclide Therapy</article-title><source>EJNMMI Res.</source><year>2024</year><volume>14</volume><fpage>100</fpage><pub-id pub-id-type="doi">10.1186/s13550-024-01164-9</pub-id><pub-id pub-id-type="pmid">39472354</pub-id>
+</element-citation></ref><ref id="B78-cancers-17-03717"><label>78.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shi</surname><given-names>Z.</given-names></name>
+<name><surname>Hu</surname><given-names>C.</given-names></name>
+<name><surname>Zheng</surname><given-names>X.</given-names></name>
+<name><surname>Sun</surname><given-names>C.</given-names></name>
+<name><surname>Li</surname><given-names>Q.</given-names></name>
+</person-group><article-title>Feedback loop between hypoxia and energy metabolic reprogramming aggravates the radioresistance of cancer cells</article-title><source>Exp. Hematol. Oncol.</source><year>2024</year><volume>13</volume><fpage>55</fpage><pub-id pub-id-type="doi">10.1186/s40164-024-00519-1</pub-id><pub-id pub-id-type="pmid">38778409</pub-id>
+</element-citation></ref><ref id="B79-cancers-17-03717"><label>79.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Weiner</surname><given-names>A.B.</given-names></name>
+<name><surname>Agrawal</surname><given-names>R.</given-names></name>
+<name><surname>Wang</surname><given-names>N.K.</given-names></name>
+<name><surname>Sonni</surname><given-names>I.</given-names></name>
+<name><surname>Li</surname><given-names>E.V.</given-names></name>
+<name><surname>Arbet</surname><given-names>J.</given-names></name>
+<name><surname>Zhang</surname><given-names>J.J.H.</given-names></name>
+<name><surname>Proudfoot</surname><given-names>J.A.</given-names></name>
+<name><surname>Hong</surname><given-names>B.H.</given-names></name>
+<name><surname>Davicioni</surname><given-names>E.</given-names></name>
+<etal/>
+</person-group><article-title>Molecular Hallmarks of Prostate-specific Membrane Antigen in Treatment-naive Prostate Cancer</article-title><source>Eur. Urol.</source><year>2024</year><volume>86</volume><fpage>579</fpage><lpage>587</lpage><pub-id pub-id-type="doi">10.1016/j.eururo.2024.09.005</pub-id><pub-id pub-id-type="pmid">39294048</pub-id>
+</element-citation></ref><ref id="B80-cancers-17-03717"><label>80.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Minagawa</surname><given-names>Y.</given-names></name>
+<name><surname>Shizukuishi</surname><given-names>K.</given-names></name>
+<name><surname>Koike</surname><given-names>I.</given-names></name>
+<name><surname>Horiuchi</surname><given-names>C.</given-names></name>
+<name><surname>Watanuki</surname><given-names>K.</given-names></name>
+<name><surname>Hata</surname><given-names>M.</given-names></name>
+<name><surname>Omura</surname><given-names>M.</given-names></name>
+<name><surname>Odagiri</surname><given-names>K.</given-names></name>
+<name><surname>Tohnai</surname><given-names>I.</given-names></name>
+<name><surname>Inoue</surname><given-names>T.</given-names></name>
+<etal/>
+</person-group><article-title>Assessment of tumor hypoxia by 62Cu-ATSM PET/CT as a predictor of response in head and neck cancer: A pilot study</article-title><source>Ann. Nucl. Med.</source><year>2011</year><volume>25</volume><fpage>339</fpage><lpage>345</lpage><pub-id pub-id-type="doi">10.1007/s12149-011-0471-5</pub-id><pub-id pub-id-type="pmid">21327756</pub-id>
+</element-citation></ref><ref id="B81-cancers-17-03717"><label>81.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mapelli</surname><given-names>P.</given-names></name>
+<name><surname>Picchio</surname><given-names>M.</given-names></name>
+</person-group><article-title>18F-FAZA PET imaging in tumor hypoxia: A focus on high-grade glioma</article-title><source>Int. J. Biol. Markers</source><year>2020</year><volume>35</volume><fpage>42</fpage><lpage>46</lpage><pub-id pub-id-type="doi">10.1177/1724600820905715</pub-id><pub-id pub-id-type="pmid">32079461</pub-id>
+</element-citation></ref><ref id="B82-cancers-17-03717"><label>82.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yuile</surname><given-names>A.</given-names></name>
+<name><surname>Lee</surname><given-names>A.</given-names></name>
+<name><surname>Moon</surname><given-names>E.A.</given-names></name>
+<name><surname>Hudson</surname><given-names>A.</given-names></name>
+<name><surname>Kastelan</surname><given-names>M.</given-names></name>
+<name><surname>Miller</surname><given-names>S.</given-names></name>
+<name><surname>Chan</surname><given-names>D.</given-names></name>
+<name><surname>Wei</surname><given-names>J.</given-names></name>
+<name><surname>Back</surname><given-names>M.F.</given-names></name>
+<name><surname>Wheeler</surname><given-names>H.R.</given-names></name>
+</person-group><article-title>PSMA Expression Correlates with Improved Overall Survival and VEGF Expression in Glioblastoma</article-title><source>Biomedicines</source><year>2023</year><volume>11</volume><elocation-id>1148</elocation-id><pub-id pub-id-type="doi">10.3390/biomedicines11041148</pub-id><pub-id pub-id-type="pmid">37189766</pub-id>
+</element-citation></ref><ref id="B83-cancers-17-03717"><label>83.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Altunay</surname><given-names>B.</given-names></name>
+<name><surname>Sch&#x000e4;fer</surname><given-names>L.</given-names></name>
+<name><surname>Morgenroth</surname><given-names>A.</given-names></name>
+<name><surname>Pe&#x000f1;a</surname><given-names>Q.</given-names></name>
+<name><surname>Lammers</surname><given-names>T.</given-names></name>
+<name><surname>Saar</surname><given-names>M.</given-names></name>
+<name><surname>Mottaghy</surname><given-names>F.M.</given-names></name>
+<name><surname>L&#x000fc;tje</surname><given-names>S.</given-names></name>
+</person-group><article-title>Combining PSMA-Targeted Radiopharmaceutical Therapy with Immunotherapy</article-title><source>J. Nucl. Med.</source><year>2025</year><volume>66</volume><fpage>1522</fpage><lpage>1527</lpage><pub-id pub-id-type="doi">10.2967/jnumed.125.270317</pub-id><pub-id pub-id-type="pmid">40876956</pub-id>
+</element-citation></ref><ref id="B84-cancers-17-03717"><label>84.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>F.</given-names></name>
+<name><surname>Wu</surname><given-names>L.</given-names></name>
+<name><surname>Yin</surname><given-names>L.</given-names></name>
+<name><surname>Shi</surname><given-names>H.</given-names></name>
+<name><surname>Gu</surname><given-names>Y.</given-names></name>
+<name><surname>Xing</surname><given-names>N.</given-names></name>
+</person-group><article-title>Combined treatment with anti-PSMA CAR NK-92 cell and anti-PD-L1 monoclonal antibody enhances the antitumour efficacy against castration-resistant prostate cancer</article-title><source>Clin. Transl. Med.</source><year>2022</year><volume>12</volume><fpage>e901</fpage><pub-id pub-id-type="doi">10.1002/ctm2.901</pub-id><pub-id pub-id-type="pmid">35696531</pub-id>
+</element-citation></ref><ref id="B85-cancers-17-03717"><label>85.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sandhu</surname><given-names>S.</given-names></name>
+<name><surname>Joshua</surname><given-names>A.M.</given-names></name>
+<name><surname>Emmett</surname><given-names>L.</given-names></name>
+<name><surname>Spain</surname><given-names>L.A.</given-names></name>
+<name><surname>Horvath</surname><given-names>L.</given-names></name>
+<name><surname>Crumbaker</surname><given-names>M.</given-names></name>
+<name><surname>Anton</surname><given-names>A.</given-names></name>
+<name><surname>Wallace</surname><given-names>R.</given-names></name>
+<name><surname>Pasam</surname><given-names>A.</given-names></name>
+<name><surname>Bressel</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group><article-title>PRINCE: Phase I trial of 177Lu-PSMA-617 in combination with pembrolizumab in patients with metastatic castration-resistant prostate cancer (mCRPC)</article-title><source>J. Clin. Oncol.</source><year>2022</year><volume>40</volume><fpage>5017</fpage><pub-id pub-id-type="doi">10.1200/JCO.2022.40.16_suppl.5017</pub-id></element-citation></ref><ref id="B86-cancers-17-03717"><label>86.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Binzaqr</surname><given-names>S.</given-names></name>
+<name><surname>Kryza</surname><given-names>D.</given-names></name>
+<name><surname>Giraudet</surname><given-names>A.L.</given-names></name>
+<name><surname>Bernhard</surname><given-names>J.C.</given-names></name>
+<name><surname>Gross-Goupil</surname><given-names>M.</given-names></name>
+<name><surname>Yacoub</surname><given-names>M.</given-names></name>
+<name><surname>Margue</surname><given-names>G.</given-names></name>
+<name><surname>Hindi&#x000e9;</surname><given-names>E.</given-names></name>
+<name><surname>Morgat</surname><given-names>C.</given-names></name>
+</person-group><article-title>Prostate-specific membrane antigen (PSMA) expression in primary and metastatic renal cell cancer (UroCCR-65 study)</article-title><source>EJNMMI Res.</source><year>2025</year><volume>15</volume><fpage>38</fpage><pub-id pub-id-type="doi">10.1186/s13550-025-01232-8</pub-id><pub-id pub-id-type="pmid">40205264</pub-id>
+</element-citation></ref><ref id="B87-cancers-17-03717"><label>87.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sadaghiani</surname><given-names>M.S.</given-names></name>
+<name><surname>Baskaran</surname><given-names>S.</given-names></name>
+<name><surname>Gorin</surname><given-names>M.A.</given-names></name>
+<name><surname>Rowe</surname><given-names>S.P.</given-names></name>
+<name><surname>Provost</surname><given-names>J.C.</given-names></name>
+<name><surname>Teslenko</surname><given-names>I.</given-names></name>
+<name><surname>Bilyk</surname><given-names>R.</given-names></name>
+<name><surname>An</surname><given-names>H.</given-names></name>
+<name><surname>Sheikhbahaei</surname><given-names>S.</given-names></name>
+</person-group><article-title>Utility of PSMA PET/CT in Staging and Restaging of Renal Cell Carcinoma: A Systematic Review and Metaanalysis</article-title><source>J. Nucl. Med.</source><year>2024</year><volume>65</volume><fpage>1007</fpage><lpage>1012</lpage><pub-id pub-id-type="doi">10.2967/jnumed.124.267417</pub-id><pub-id pub-id-type="pmid">38782453</pub-id>
+</element-citation></ref><ref id="B88-cancers-17-03717"><label>88.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Y.</given-names></name>
+<name><surname>Zheng</surname><given-names>R.</given-names></name>
+<name><surname>Zhang</surname><given-names>Y.</given-names></name>
+<name><surname>Huang</surname><given-names>C.</given-names></name>
+<name><surname>Tian</surname><given-names>L.</given-names></name>
+<name><surname>Liu</surname><given-names>R.</given-names></name>
+<name><surname>Liu</surname><given-names>Y.</given-names></name>
+<name><surname>Zhang</surname><given-names>Z.</given-names></name>
+<name><surname>Han</surname><given-names>H.</given-names></name>
+<name><surname>Zhou</surname><given-names>F.</given-names></name>
+<etal/>
+</person-group><article-title>Special issue &#x0201c;The advance of solid tumor research in China&#x0201d;: 68Ga-PSMA-11 PET/CT for evaluating primary and metastatic lesions in different histological subtypes of renal cell carcinoma</article-title><source>Int. J. Cancer</source><year>2023</year><volume>152</volume><fpage>42</fpage><lpage>50</lpage><pub-id pub-id-type="doi">10.1002/ijc.34189</pub-id><pub-id pub-id-type="pmid">35751420</pub-id>
+</element-citation></ref><ref id="B89-cancers-17-03717"><label>89.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gorin</surname><given-names>M.A.</given-names></name>
+<name><surname>Rowe</surname><given-names>S.P.</given-names></name>
+<name><surname>Hooper</surname><given-names>J.E.</given-names></name>
+<name><surname>Kates</surname><given-names>M.</given-names></name>
+<name><surname>Hammers</surname><given-names>H.J.</given-names></name>
+<name><surname>Szabo</surname><given-names>Z.</given-names></name>
+<name><surname>Pomper</surname><given-names>M.G.</given-names></name>
+<name><surname>Allaf</surname><given-names>M.E.</given-names></name>
+</person-group><article-title>PSMA-Targeted (18)F-DCFPyL PET/CT Imaging of Clear Cell Renal Cell Carcinoma: Results from a Rapid Autopsy</article-title><source>Eur. Urol.</source><year>2017</year><volume>71</volume><fpage>145</fpage><lpage>146</lpage><pub-id pub-id-type="doi">10.1016/j.eururo.2016.06.019</pub-id><pub-id pub-id-type="pmid">27363386</pub-id>
+</element-citation></ref><ref id="B90-cancers-17-03717"><label>90.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kryza</surname><given-names>D.</given-names></name>
+<name><surname>Vinceneux</surname><given-names>A.</given-names></name>
+<name><surname>Bidaux</surname><given-names>A.S.</given-names></name>
+<name><surname>Garin</surname><given-names>G.</given-names></name>
+<name><surname>Tatu</surname><given-names>D.</given-names></name>
+<name><surname>Cropet</surname><given-names>C.</given-names></name>
+<name><surname>Badel</surname><given-names>J.N.</given-names></name>
+<name><surname>Perol</surname><given-names>D.</given-names></name>
+<name><surname>Giraudet</surname><given-names>A.L.</given-names></name>
+</person-group><article-title>A multicentric, single arm, open-label, phase I/II study evaluating PSMA targeted radionuclide therapy in adult patients with metastatic clear cell renal cancer (PRadR)</article-title><source>BMC Cancer</source><year>2024</year><volume>24</volume><elocation-id>163</elocation-id><pub-id pub-id-type="doi">10.1186/s12885-023-11702-8</pub-id><pub-id pub-id-type="pmid">38302933</pub-id>
+</element-citation></ref><ref id="B91-cancers-17-03717"><label>91.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Khaleel</surname><given-names>S.</given-names></name>
+<name><surname>Perera</surname><given-names>M.</given-names></name>
+<name><surname>Papa</surname><given-names>N.</given-names></name>
+<name><surname>Kuo</surname><given-names>F.</given-names></name>
+<name><surname>Golkaram</surname><given-names>M.</given-names></name>
+<name><surname>Rappold</surname><given-names>P.</given-names></name>
+<name><surname>Kotecha</surname><given-names>R.R.</given-names></name>
+<name><surname>Coleman</surname><given-names>J.</given-names></name>
+<name><surname>Russo</surname><given-names>P.</given-names></name>
+<name><surname>Motzer</surname><given-names>R.</given-names></name>
+<etal/>
+</person-group><article-title>Gene expression of prostate-specific membrane antigen (FOLH1) in clear cell renal cell carcinoma predicts angiogenesis and response to tyrosine kinase inhibitors</article-title><source>Urol. Oncol.</source><year>2025</year><volume>43</volume><fpage>192.e21</fpage><lpage>192.e28</lpage><pub-id pub-id-type="doi">10.1016/j.urolonc.2024.10.013</pub-id></element-citation></ref><ref id="B92-cancers-17-03717"><label>92.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tan</surname><given-names>B.F.</given-names></name>
+<name><surname>Tan</surname><given-names>W.C.C.</given-names></name>
+<name><surname>Wang</surname><given-names>F.Q.</given-names></name>
+<name><surname>Lechner</surname><given-names>M.</given-names></name>
+<name><surname>Schartinger</surname><given-names>V.H.</given-names></name>
+<name><surname>Tan</surname><given-names>D.S.W.</given-names></name>
+<name><surname>Loke</surname><given-names>K.S.H.</given-names></name>
+<name><surname>Nei</surname><given-names>W.L.</given-names></name>
+</person-group><article-title>PSMA PET Imaging and Therapy in Adenoid Cystic Carcinoma and Other Salivary Gland Cancers: A Systematic Review</article-title><source>Cancers</source><year>2022</year><volume>14</volume><elocation-id>3585</elocation-id><pub-id pub-id-type="doi">10.3390/cancers14153585</pub-id><pub-id pub-id-type="pmid">35892843</pub-id>
+</element-citation></ref><ref id="B93-cancers-17-03717"><label>93.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>G.</given-names></name>
+<name><surname>Zhou</surname><given-names>M.</given-names></name>
+<name><surname>Zang</surname><given-names>J.</given-names></name>
+<name><surname>Jiang</surname><given-names>Y.</given-names></name>
+<name><surname>Chen</surname><given-names>X.</given-names></name>
+<name><surname>Zhu</surname><given-names>Z.</given-names></name>
+<name><surname>Chen</surname><given-names>X.</given-names></name>
+</person-group><article-title>A pilot study of 68 Ga-PSMA-617 PET/CT imaging and 177Lu-EB-PSMA-617 radioligand therapy in patients with adenoid cystic carcinoma</article-title><source>EJNMMI Res.</source><year>2022</year><volume>12</volume><fpage>52</fpage><pub-id pub-id-type="doi">10.1186/s13550-022-00922-x</pub-id><pub-id pub-id-type="pmid">35984529</pub-id>
+</element-citation></ref><ref id="B94-cancers-17-03717"><label>94.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>van Ruitenbeek</surname><given-names>N.J.</given-names></name>
+<name><surname>Uijen</surname><given-names>M.J.M.</given-names></name>
+<name><surname>Driessen</surname><given-names>C.M.L.</given-names></name>
+<name><surname>Peters</surname><given-names>S.M.B.</given-names></name>
+<name><surname>Priv&#x000e9;</surname><given-names>B.M.</given-names></name>
+<name><surname>van Engen-van Grunsven</surname><given-names>A.C.H.</given-names></name>
+<name><surname>Konijnenberg</surname><given-names>M.W.</given-names></name>
+<name><surname>Gotthardt</surname><given-names>M.</given-names></name>
+<name><surname>Nagarajah</surname><given-names>J.</given-names></name>
+<name><surname>van Herpen</surname><given-names>C.M.L.</given-names></name>
+</person-group><article-title>Lutetium-177-PSMA therapy for recurrent/metastatic salivary gland cancer: A prospective pilot study</article-title><source>Theranostics</source><year>2024</year><volume>14</volume><fpage>5388</fpage><lpage>5399</lpage><pub-id pub-id-type="doi">10.7150/thno.99035</pub-id><pub-id pub-id-type="pmid">39310108</pub-id>
+</element-citation></ref><ref id="B95-cancers-17-03717"><label>95.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Klein Nulent</surname><given-names>T.J.W.</given-names></name>
+<name><surname>van Es</surname><given-names>R.J.J.</given-names></name>
+<name><surname>Willems</surname><given-names>S.M.</given-names></name>
+<name><surname>Braat</surname><given-names>A.</given-names></name>
+<name><surname>Devriese</surname><given-names>L.A.</given-names></name>
+<name><surname>de Bree</surname><given-names>R.</given-names></name>
+<name><surname>de Keizer</surname><given-names>B.</given-names></name>
+</person-group><article-title>First experiences with (177)Lu-PSMA-617 therapy for recurrent or metastatic salivary gland cancer</article-title><source>EJNMMI Res.</source><year>2021</year><volume>11</volume><fpage>126</fpage><pub-id pub-id-type="doi">10.1186/s13550-021-00866-8</pub-id><pub-id pub-id-type="pmid">34905121</pub-id>
+</element-citation></ref><ref id="B96-cancers-17-03717"><label>96.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>van Lith</surname><given-names>S.A.M.</given-names></name>
+<name><surname>Pruis</surname><given-names>I.J.</given-names></name>
+<name><surname>Tolboom</surname><given-names>N.</given-names></name>
+<name><surname>Snijders</surname><given-names>T.J.</given-names></name>
+<name><surname>Henssen</surname><given-names>D.</given-names></name>
+<name><surname>ter Laan</surname><given-names>M.</given-names></name>
+<name><surname>te Dorsthorst</surname><given-names>M.</given-names></name>
+<name><surname>Leenders</surname><given-names>W.P.J.</given-names></name>
+<name><surname>Gotthardt</surname><given-names>M.</given-names></name>
+<name><surname>Nagarajah</surname><given-names>J.</given-names></name>
+<etal/>
+</person-group><article-title>PET Imaging and Protein Expression of Prostate-Specific Membrane Antigen in Glioblastoma: A Multicenter Inventory Study</article-title><source>J. Nucl. Med.</source><year>2023</year><volume>64</volume><fpage>1526</fpage><pub-id pub-id-type="doi">10.2967/jnumed.123.265738</pub-id><pub-id pub-id-type="pmid">37652540</pub-id>
+</element-citation></ref><ref id="B97-cancers-17-03717"><label>97.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>&#x0015e;ahin</surname><given-names>M.</given-names></name>
+<name><surname>Akgun</surname><given-names>E.</given-names></name>
+<name><surname>Sirolu</surname><given-names>S.</given-names></name>
+<name><surname>Can</surname><given-names>G.</given-names></name>
+<name><surname>Sayman</surname><given-names>H.B.</given-names></name>
+<name><surname>Oner Dincbas</surname><given-names>F.</given-names></name>
+</person-group><article-title>Is there any additional benefit of (68)Ga-PSMA PET on radiotherapy target volume definition in patients with glioblastoma?</article-title><source>Br. J. Radiol.</source><year>2022</year><volume>95</volume><fpage>20220049</fpage><pub-id pub-id-type="doi">10.1259/bjr.20220049</pub-id><pub-id pub-id-type="pmid">35993417</pub-id>
+</element-citation></ref><ref id="B98-cancers-17-03717"><label>98.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kumar</surname><given-names>A.</given-names></name>
+<name><surname>Ballal</surname><given-names>S.</given-names></name>
+<name><surname>Yadav</surname><given-names>M.P.</given-names></name>
+<name><surname>ArunRaj</surname><given-names>S.T.</given-names></name>
+<name><surname>Haresh</surname><given-names>K.P.</given-names></name>
+<name><surname>Gupta</surname><given-names>S.</given-names></name>
+<name><surname>Damle</surname><given-names>N.A.</given-names></name>
+<name><surname>Garg</surname><given-names>A.</given-names></name>
+<name><surname>Tripathi</surname><given-names>M.</given-names></name>
+<name><surname>Bal</surname><given-names>C.</given-names></name>
+</person-group><article-title>177Lu-/68Ga-PSMA Theranostics in Recurrent Glioblastoma Multiforme: Proof of Concept</article-title><source>Clin. Nucl. Med.</source><year>2020</year><volume>45</volume><fpage>e512</fpage><lpage>e513</lpage><pub-id pub-id-type="doi">10.1097/RLU.0000000000003142</pub-id><pub-id pub-id-type="pmid">32558721</pub-id>
+</element-citation></ref><ref id="B99-cancers-17-03717"><label>99.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ghaedian</surname><given-names>T.</given-names></name>
+<name><surname>Alipour</surname><given-names>A.</given-names></name>
+<name><surname>Rakhsha</surname><given-names>A.</given-names></name>
+<name><surname>Nasrollahi</surname><given-names>H.</given-names></name>
+<name><surname>Ghaedian</surname><given-names>M.</given-names></name>
+<name><surname>Andalibi</surname><given-names>S.</given-names></name>
+<name><surname>Saffarian</surname><given-names>A.</given-names></name>
+</person-group><article-title>Excellent Response of Glioblastoma Multiforme to [177Lu] Lu-PSMA Therapy</article-title><source>Clin. Nucl. Med.</source><year>2022</year><pub-id pub-id-type="doi">10.1097/RLU.0000000000005904</pub-id></element-citation></ref><ref id="B100-cancers-17-03717"><label>100.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Torquato</surname><given-names>S.</given-names></name>
+<name><surname>Pallavajjala</surname><given-names>A.</given-names></name>
+<name><surname>Goldstein</surname><given-names>A.</given-names></name>
+<name><surname>Toro</surname><given-names>P.V.</given-names></name>
+<name><surname>Silberstein</surname><given-names>J.L.</given-names></name>
+<name><surname>Lee</surname><given-names>J.</given-names></name>
+<name><surname>Nakazawa</surname><given-names>M.</given-names></name>
+<name><surname>Waters</surname><given-names>I.</given-names></name>
+<name><surname>Chu</surname><given-names>D.</given-names></name>
+<name><surname>Shinn</surname><given-names>D.</given-names></name>
+<etal/>
+</person-group><article-title>Genetic Alterations Detected in Cell-Free DNA Are Associated With Enzalutamide and Abiraterone Resistance in Castration-Resistant Prostate Cancer</article-title><source>JCO Precis. Oncol.</source><year>2019</year><volume>3</volume><fpage>1</fpage><lpage>14</lpage><pub-id pub-id-type="doi">10.1200/PO.18.00227</pub-id></element-citation></ref><ref id="B101-cancers-17-03717"><label>101.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>J.</given-names></name>
+<name><surname>Sandhu</surname><given-names>K.</given-names></name>
+<name><surname>Woon</surname><given-names>D.T.S.</given-names></name>
+<name><surname>Perera</surname><given-names>M.</given-names></name>
+<name><surname>Lawrentschuk</surname><given-names>N.</given-names></name>
+</person-group><article-title>The Value of Artificial Intelligence in Prostate-Specific Membrane Antigen Positron Emission Tomography: An Update</article-title><source>Semin. Nucl. Med.</source><year>2025</year><volume>55</volume><fpage>371</fpage><lpage>376</lpage><pub-id pub-id-type="doi">10.1053/j.semnuclmed.2024.12.001</pub-id><pub-id pub-id-type="pmid">39893058</pub-id>
+</element-citation></ref><ref id="B102-cancers-17-03717"><label>102.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Amseian</surname><given-names>G.</given-names></name>
+<name><surname>Figueras</surname><given-names>M.</given-names></name>
+<name><surname>Mases</surname><given-names>J.</given-names></name>
+<name><surname>Mengual</surname><given-names>L.</given-names></name>
+<name><surname>Ribal</surname><given-names>M.J.</given-names></name>
+<name><surname>Quintero</surname><given-names>K.</given-names></name>
+<name><surname>Pages</surname><given-names>R.</given-names></name>
+<name><surname>Ingelmo-Torres</surname><given-names>M.</given-names></name>
+<name><surname>Roldan</surname><given-names>F.L.</given-names></name>
+<name><surname>Caratini</surname><given-names>R.</given-names></name>
+<etal/>
+</person-group><article-title>cfDNA fragmentation patterns correlate with tumor burden measured via PSMA PET/CT volumetric parameters in patients with biochemical recurrence of prostate cancer</article-title><source>EJNMMI Res.</source><year>2024</year><volume>14</volume><fpage>124</fpage><pub-id pub-id-type="doi">10.1186/s13550-024-01170-x</pub-id><pub-id pub-id-type="pmid">39694939</pub-id>
+</element-citation></ref><ref id="B103-cancers-17-03717"><label>103.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ren</surname><given-names>Y.</given-names></name>
+<name><surname>Liu</surname><given-names>T.</given-names></name>
+<name><surname>Liu</surname><given-names>C.</given-names></name>
+<name><surname>Guo</surname><given-names>X.</given-names></name>
+<name><surname>Wang</surname><given-names>F.</given-names></name>
+<name><surname>Zhu</surname><given-names>H.</given-names></name>
+<name><surname>Yang</surname><given-names>Z.</given-names></name>
+</person-group><article-title>An Albumin-Binding PSMA Ligand with Higher Tumor Accumulation for PET Imaging of Prostate Cancer</article-title><source>Pharmaceuticals</source><year>2022</year><volume>15</volume><elocation-id>513</elocation-id><pub-id pub-id-type="doi">10.3390/ph15050513</pub-id><pub-id pub-id-type="pmid">35631340</pub-id>
+</element-citation></ref><ref id="B104-cancers-17-03717"><label>104.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sallam</surname><given-names>M.</given-names></name>
+<name><surname>Nguyen</surname><given-names>N.T.</given-names></name>
+<name><surname>Sainsbury</surname><given-names>F.</given-names></name>
+<name><surname>Kimizuka</surname><given-names>N.</given-names></name>
+<name><surname>Muyldermans</surname><given-names>S.</given-names></name>
+<name><surname>Bene&#x00161;ov&#x000e1;-Sch&#x000e4;fer</surname><given-names>M.</given-names></name>
+</person-group><article-title>PSMA-targeted radiotheranostics in modern nuclear medicine: Then, now, and what of the future?</article-title><source>Theranostics</source><year>2024</year><volume>14</volume><fpage>3043</fpage><lpage>3079</lpage><pub-id pub-id-type="doi">10.7150/thno.92612</pub-id><pub-id pub-id-type="pmid">38855174</pub-id>
+</element-citation></ref><ref id="B105-cancers-17-03717"><label>105.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pan</surname><given-names>J.</given-names></name>
+<name><surname>Zhang</surname><given-names>T.</given-names></name>
+<name><surname>Chen</surname><given-names>S.</given-names></name>
+<name><surname>Bu</surname><given-names>T.</given-names></name>
+<name><surname>Zhao</surname><given-names>J.</given-names></name>
+<name><surname>Ni</surname><given-names>X.</given-names></name>
+<name><surname>Shi</surname><given-names>B.</given-names></name>
+<name><surname>Gan</surname><given-names>H.</given-names></name>
+<name><surname>Wei</surname><given-names>Y.</given-names></name>
+<name><surname>Wang</surname><given-names>Q.</given-names></name>
+<etal/>
+</person-group><article-title>Nomogram to predict the presence of PSMA-negative but FDG-positive lesion in castration-resistant prostate cancer: A multicenter cohort study</article-title><source>Ther. Adv. Med. Oncol.</source><year>2024</year><volume>16</volume><fpage>17588359231220506</fpage><pub-id pub-id-type="doi">10.1177/17588359231220506</pub-id><pub-id pub-id-type="pmid">38188464</pub-id>
+</element-citation></ref><ref id="B106-cancers-17-03717"><label>106.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Aide</surname><given-names>N.</given-names></name>
+<name><surname>Lasnon</surname><given-names>C.</given-names></name>
+<name><surname>Veit-Haibach</surname><given-names>P.</given-names></name>
+<name><surname>Sera</surname><given-names>T.</given-names></name>
+<name><surname>Sattler</surname><given-names>B.</given-names></name>
+<name><surname>Boellaard</surname><given-names>R.</given-names></name>
+</person-group><article-title>EANM/EARL harmonization strategies in PET quantification: From daily practice to multicentre oncological studies</article-title><source>Eur. J. Nucl. Med. Mol. Imaging</source><year>2017</year><volume>44</volume><issue>(Suppl. 1)</issue><fpage>17</fpage><lpage>31</lpage><pub-id pub-id-type="doi">10.1007/s00259-017-3740-2</pub-id></element-citation></ref><ref id="B107-cancers-17-03717"><label>107.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sheller</surname><given-names>M.J.</given-names></name>
+<name><surname>Edwards</surname><given-names>B.</given-names></name>
+<name><surname>Reina</surname><given-names>G.A.</given-names></name>
+<name><surname>Martin</surname><given-names>J.</given-names></name>
+<name><surname>Pati</surname><given-names>S.</given-names></name>
+<name><surname>Kotrotsou</surname><given-names>A.</given-names></name>
+<name><surname>Milchenko</surname><given-names>M.</given-names></name>
+<name><surname>Xu</surname><given-names>W.</given-names></name>
+<name><surname>Marcus</surname><given-names>D.</given-names></name>
+<name><surname>Colen</surname><given-names>R.R.</given-names></name>
+<etal/>
+</person-group><article-title>Federated learning in medicine: Facilitating multi-institutional collaborations without sharing patient data</article-title><source>Sci. Rep.</source><year>2020</year><volume>10</volume><elocation-id>12598</elocation-id><pub-id pub-id-type="doi">10.1038/s41598-020-69250-1</pub-id><pub-id pub-id-type="pmid">32724046</pub-id>
+</element-citation></ref><ref id="B108-cancers-17-03717"><label>108.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Collins</surname><given-names>G.S.</given-names></name>
+<name><surname>Moons</surname><given-names>K.G.M.</given-names></name>
+<name><surname>Dhiman</surname><given-names>P.</given-names></name>
+<name><surname>Riley</surname><given-names>R.D.</given-names></name>
+<name><surname>Beam</surname><given-names>A.L.</given-names></name>
+<name><surname>Van Calster</surname><given-names>B.</given-names></name>
+<name><surname>Ghassemi</surname><given-names>M.</given-names></name>
+<name><surname>Liu</surname><given-names>X.</given-names></name>
+<name><surname>Reitsma</surname><given-names>J.B.</given-names></name>
+<name><surname>van Smeden</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group><article-title>TRIPOD+AI statement: Updated guidance for reporting clinical prediction models that use regression or machine learning methods</article-title><source>BMJ</source><year>2024</year><volume>385</volume><fpage>e078378</fpage><pub-id pub-id-type="doi">10.1136/bmj-2023-078378</pub-id><pub-id pub-id-type="pmid">38626948</pub-id>
+</element-citation></ref><ref id="B109-cancers-17-03717"><label>109.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sandhu</surname><given-names>K.</given-names></name>
+<name><surname>Lim</surname><given-names>S.</given-names></name>
+<name><surname>Lawrentschuk</surname><given-names>N.</given-names></name>
+<name><surname>Murphy</surname><given-names>D.</given-names></name>
+<name><surname>Perera</surname><given-names>M.</given-names></name>
+</person-group><article-title>Utilisation of PSMA-PET in Australia following government subsidisation: Trends in primary staging and biochemical recurrence</article-title><source>Prostate Int.</source><fpage>2025</fpage><comment>in press</comment><pub-id pub-id-type="doi">10.1016/j.prnil.2025.09.006</pub-id></element-citation></ref><ref id="B110-cancers-17-03717"><label>110.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sandhu</surname><given-names>K.</given-names></name>
+<name><surname>Perera</surname><given-names>M.</given-names></name>
+<name><surname>Lawrentschuk</surname><given-names>N.</given-names></name>
+</person-group><article-title>Lutetium-177 PSMA&#x02014;The new snake oil? An Australian experience</article-title><source>BJU Int.</source><year>2025</year><volume>136</volume><fpage>212</fpage><lpage>213</lpage><pub-id pub-id-type="doi">10.1111/bju.16731</pub-id><pub-id pub-id-type="pmid">40170535</pub-id>
+</element-citation></ref></ref-list></back><floats-group><fig position="float" id="cancers-17-03717-f001"><label>Figure 1</label><caption><p>Determinants of PSMA uptake and response. DDR: DNA damage response.</p></caption><graphic xlink:href="cancers-17-03717-g001" position="float"/></fig><table-wrap position="float" id="cancers-17-03717-t001"><object-id pub-id-type="pii">cancers-17-03717-t001_Table 1</object-id><label>Table 1</label><caption><p>Biomarkers under investigation for targeting.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Biomarker</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Function/Utility</th></tr></thead><tbody><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Gastric-releasing peptide receptor (<italic toggle="yes">GRPR</italic>) [<xref rid="B68-cancers-17-03717" ref-type="bibr">68</xref>,<xref rid="B69-cancers-17-03717" ref-type="bibr">69</xref>,<xref rid="B70-cancers-17-03717" ref-type="bibr">70</xref>]</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="simple"><list-item><label>&#x02022;</label><p>Complementarily expressed to PSMA, particularly in earlier-stage or low-grade PCa;</p></list-item><list-item><label>&#x02022;</label><p><sup>68</sup>Ga-RM2 and <sup>64</sup>Cu-CBRM have demonstrated high tumour-to-background ratios in PSMA-negative lesions;</p></list-item><list-item><label>&#x02022;</label><p>Early-phase clinical evaluation of GRPR-targeted radioligands and antagonists (e.g., [<sup>177</sup>Lu]Lu-NeoBOMB1, [<sup>177</sup>Lu]Lu-RM2).</p></list-item></list>
+</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Fibroblast activation protein (<italic toggle="yes">FAP</italic>) [<xref rid="B71-cancers-17-03717" ref-type="bibr">71</xref>,<xref rid="B72-cancers-17-03717" ref-type="bibr">72</xref>,<xref rid="B73-cancers-17-03717" ref-type="bibr">73</xref>]</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="simple"><list-item><label>&#x02022;</label><p>Highly expressed on cancer-associated fibroblasts within tumour stroma;</p></list-item><list-item><label>&#x02022;</label><p>Represents pan-tumour target;</p></list-item><list-item><label>&#x02022;</label><p>FAPI-PET provides rapid kinetics, and exceptional lesion contrast;</p></list-item><list-item><label>&#x02022;</label><p>Strong uptake in PSMA-negative or dedifferentiated lesions;</p></list-item><list-item><label>&#x02022;</label><p>[<sup>177</sup>Lu]Lu-FAPI radioligand therapies have entered first-in-human pilot studies.</p></list-item></list>
+</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Six-transmembrane epithelial antigen of prostate (<italic toggle="yes">STEAP1</italic>) [<xref rid="B74-cancers-17-03717" ref-type="bibr">74</xref>,<xref rid="B75-cancers-17-03717" ref-type="bibr">75</xref>]</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="simple"><list-item><label>&#x02022;</label><p>Cell-surface metalloreductase overexpressed in up to 90% of prostate tumours, independent of PSMA status;</p></list-item><list-item><label>&#x02022;</label><p>Expression of <italic toggle="yes">STEAP1</italic> persists in PSMA-low and neuroendocrine-like variants;</p></list-item><list-item><label>&#x02022;</label><p>Early-phase clinical trials with bispecific antibody Xaluritamig.</p></list-item></list>
+</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Urokinase-type plasminogen-activator receptor (<italic toggle="yes">uPAR</italic>) [<xref rid="B76-cancers-17-03717" ref-type="bibr">76</xref>,<xref rid="B77-cancers-17-03717" ref-type="bibr">77</xref>]</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="simple"><list-item><label>&#x02022;</label><p>Glycoprotein regulating extracellular matrix degradation and tumour invasion;</p></list-item><list-item><label>&#x02022;</label><p>Correlated with metastatic potential and poor prognosis;</p></list-item><list-item><label>&#x02022;</label><p>Shows high lesion detectability with <sup>68</sup>Ga-uPAR PET in both PCa and gliomas.</p></list-item></list>
+</td></tr></tbody></table></table-wrap></floats-group></article>

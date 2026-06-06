@@ -1,0 +1,367 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Heart</journal-id><journal-id journal-id-type="iso-abbrev">Heart</journal-id><journal-id journal-id-type="hwp">heartjnl</journal-id><journal-id journal-id-type="publisher-id">heart</journal-id><journal-title-group><journal-title>Heart</journal-title></journal-title-group><issn pub-type="ppub">1355-6037</issn><issn pub-type="epub">1468-201X</issn><publisher><publisher-name>BMJ Publishing Group</publisher-name><publisher-loc>BMA House, Tavistock Square, London, WC1H 9JR</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">37164479</article-id><article-id pub-id-type="pmc">10646867</article-id><article-id pub-id-type="publisher-id">heartjnl-2023-322514</article-id><article-id pub-id-type="doi">10.1136/heartjnl-2023-322514</article-id><article-categories><subj-group subj-group-type="heading"><subject>Aortic and Vascular Disease</subject></subj-group><subj-group subj-group-type="hwp-journal-coll"><subject>1506</subject></subj-group><series-title>Original research</series-title></article-categories><title-group><article-title>Aortic sodium [<sup>18</sup>F]fluoride uptake following endovascular aneurysm repair</article-title></title-group><contrib-group><contrib id="author-82284707" contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-7834-8766</contrib-id><name><surname>Debono</surname><given-names>Samuel</given-names></name><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib id="author-105208235" contrib-type="author"><name><surname>Nash</surname><given-names>Jennifer</given-names></name><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib id="author-105208237" contrib-type="author"><name><surname>Fletcher</surname><given-names>Alexander J</given-names></name><xref rid="aff1" ref-type="aff">1</xref><xref rid="aff2" ref-type="aff">2</xref></contrib><contrib id="author-89649409" contrib-type="author"><name><surname>Syed</surname><given-names>Maaz</given-names></name><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib id="author-41226522" contrib-type="author"><name><surname>van Beek</surname><given-names>Edwin J R</given-names></name><xref rid="aff1" ref-type="aff">1</xref><xref rid="aff3" ref-type="aff">3</xref></contrib><contrib id="author-22348959" contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-3556-2428</contrib-id><name><surname>Williams</surname><given-names>Michelle Claire</given-names></name><xref rid="aff1" ref-type="aff">1</xref><xref rid="aff3" ref-type="aff">3</xref></contrib><contrib id="author-105208243" contrib-type="author"><name><surname>Falah</surname><given-names>Orwa</given-names></name><xref rid="aff4" ref-type="aff">4</xref></contrib><contrib id="author-84314843" contrib-type="author"><name><surname>Tambyraja</surname><given-names>Andrew</given-names></name><xref rid="aff4" ref-type="aff">4</xref></contrib><contrib id="author-95255729" contrib-type="author"><name><surname>Dweck</surname><given-names>Marc R</given-names></name><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib id="author-21843556" contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-7971-4628</contrib-id><name><surname>Newby</surname><given-names>David E</given-names></name><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib id="author-45473415" contrib-type="author"><name><surname>Forsythe</surname><given-names>Rachael O</given-names></name><xref rid="aff1" ref-type="aff">1</xref><xref rid="aff4" ref-type="aff">4</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<institution content-type="department">British Heart Foundation Centre for Cardiovascular Science</institution>, <institution specific-use="Ringgold_171028">University of Edinburgh</institution>, <addr-line content-type="city">Edinburgh</addr-line>, <country>UK</country>
+</aff><aff id="aff2">
+<label>2</label>
+<institution content-type="department">Department of Child Health</institution>, <institution specific-use="Ringgold_3526">University of Glasgow</institution>, <addr-line content-type="city">Glasgow</addr-line>, <country>UK</country>
+</aff><aff id="aff3">
+<label>3</label>
+<institution content-type="department">Edinburgh Imaging Facility, Queens Medical Research Institute</institution>, <institution specific-use="Ringgold_3124">The University of Edinburgh</institution>, <addr-line content-type="city">Edinburgh</addr-line>, <country>UK</country>
+</aff><aff id="aff4">
+<label>4</label>
+<institution content-type="department">The Edinburgh Vascular Service, Royal Infirmary of Edinburgh</institution>, <institution specific-use="Ringgold_3129">NHS Lothian</institution>, <addr-line content-type="city">Edinburgh</addr-line>, <country>UK</country>
+</aff><author-notes><corresp>
+<label>Correspondence to</label> Mr Samuel Debono, The University of Edinburgh Centre for Cardiovascular Science, Edinburgh EH16 4TJ, UK; <email>samuel.debono@ed.ac.uk</email>
+</corresp></author-notes><pub-date pub-type="ppub"><month>11</month><year>2023</year></pub-date><pub-date pub-type="epub"><day>10</day><month>5</month><year>2023</year></pub-date><volume>109</volume><issue>22</issue><fpage>1677</fpage><lpage>1682</lpage><history><date date-type="received"><day>08</day><month>2</month><year>2023</year></date><date date-type="accepted"><day>25</day><month>4</month><year>2023</year></date></history><permissions><copyright-statement>&#x000a9; Author(s) (or their employer(s)) 2023. Re-use permitted under CC BY. Published by BMJ.</copyright-statement><copyright-year>2023</copyright-year><ali:free_to_read xmlns:ali="http://www.niso.org/schemas/ali/1.0/"/><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense" start_date="2023-05-10">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article distributed in accordance with the Creative Commons Attribution 4.0 Unported (CC BY 4.0) license, which permits others to copy, redistribute, remix, transform and build upon this work for any purpose, provided the original work is properly cited, a link to the licence is given, and indication of whether changes were made. See:&#x000a0;<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>.</license-p></license></permissions><self-uri xlink:title="pdf" xlink:href="heartjnl-2023-322514.pdf"/><related-article related-article-type="companion" ext-link-type="doi" id="RA1" xlink:href="10.1136/heartjnl-2023-322814"/><abstract><sec><title>Objective</title><p>In patients with abdominal aortic aneurysms, sodium [<sup>18</sup>F]fluoride positron emission tomography identifies aortic microcalcification and disease activity. Increased uptake is associated with aneurysm expansion and adverse clinical events. The effect of endovascular aneurysm repair (EVAR) on aortic disease activity and sodium [<sup>18</sup>F]fluoride uptake is unknown. This study aimed to compare aortic sodium [<sup>18</sup>F]fluoride uptake before and after treatment with EVAR.</p></sec><sec><title>Methods</title><p>In a preliminary proof-of-concept cohort study, preoperative and post-operative sodium [<sup>18</sup>F]fluoride positron emission tomography-computed tomography angiography was performed in patients with an infrarenal abdominal aortic aneurysm undergoing EVAR according to current guideline-directed size treatment thresholds. Regional aortic sodium [<sup>18</sup>F]fluoride uptake was assessed using aortic microcalcification activity (AMA): a summary measure of mean aortic sodium [<sup>18</sup>F]fluoride uptake.</p></sec><sec><title>Results</title><p>Ten participants were recruited (76&#x000b1;6 years) with a mean aortic diameter of 57&#x000b1;2&#x02009;mm at time of EVAR. Mean time from EVAR to repeat scan was 62&#x000b1;21 months. Prior to EVAR, there was higher abdominal aortic AMA when compared with the thoracic aorta (AMA 1.88 vs 1.2; p&#x0003c;0.001). Following EVAR, sodium [<sup>18</sup>F]fluoride uptake was markedly reduced in the suprarenal (&#x00394;AMA 0.62, p=0.03), neck (&#x00394;AMA 0.72, p=0.02) and body of the aneurysm (&#x00394;AMA 0.69, p=0.02) while it remained unchanged in the thoracic aorta (&#x00394;AMA 0.11, p=0.41).</p></sec><sec><title>Conclusions</title><p>EVAR is associated with a reduction in AMA within the stented aortic segment. This suggests that EVAR can modify aortic disease activity and aortic sodium [<sup>18</sup>F]fluoride uptake is a promising non-invasive surrogate measure of aneurysm disease activity.</p></sec></abstract><kwd-group><kwd>Aortic Aneurysm</kwd><kwd>Positron-Emission Tomography</kwd><kwd>Endovascular Procedures</kwd></kwd-group><funding-group specific-use="FundRef"><award-group id="funding-1"><funding-source>
+<institution-wrap><institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/501100000274</institution-id><institution>British Heart Foundation</institution></institution-wrap>
+</funding-source><award-id>PG/21/10461</award-id></award-group><award-group id="funding-2"><funding-source>
+<institution-wrap><institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/501100000589</institution-id><institution>Chief Scientist Office</institution></institution-wrap>
+</funding-source><award-id>ETM/365</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>special-feature</meta-name><meta-value>unlocked</meta-value></custom-meta></custom-meta-group></article-meta></front><body><boxed-text id="BX1" position="float"><sec><title>WHAT IS ALREADY KNOWN ON THIS TOPIC</title><list list-type="bullet"><list-item><p>In abdominal aortic aneurysms, sodium [<sup>18</sup>F]fluoride identifies aortic microcalcification and is associated with faster aneurysm growth. Endovascular aneurysm repair durability is limited by the development of endoleaks and this necessitates the use of life-long postoperative surveillance programmes.</p></list-item></list></sec><sec><title>WHAT THIS STUDY ADDS</title><list list-type="bullet"><list-item><p>This study demonstrates that endovascular aneurysm repair leads to a reduction in microcalcification activity in the abdominal aorta which can be detected as a reduction in aortic sodium [<sup>18</sup>F]fluoride uptake on positron emission tomography.</p></list-item></list></sec><sec><title>HOW THIS STUDY MIGHT AFFECT RESEARCH, PRACTICE OR POLICY</title><list list-type="bullet"><list-item><p>This proof-of-concept study shows that this imaging technique can detect changes in microcalcification activity in abdominal aortic aneurysms. This technique holds promise as a non-invasive marker of disease activity and treatment efficacy in endovascular aneurysm repair.</p></list-item></list></sec></boxed-text><sec sec-type="intro" id="s1"><title>Introduction</title><p>Endovascular aneurysm repair (EVAR) has changed the elective treatment of abdominal aortic aneurysms. Compared with open surgical repair, it is a much less invasive procedure and is associated with lower perioperative morbidity and mortality and improved short-term outcomes.<xref rid="R1" ref-type="bibr">1 2</xref> The stent graft provides a physical barrier that excludes the aneurysm from the circulation and reduces mortality from aneurysm rupture. EVAR use is limited by its durability, including the formation of endoleaks and stent migration necessitating life-long postoperative surveillance programmes.<xref rid="R3" ref-type="bibr">3</xref> Following EVAR, shrinkage of the aneurysm sac can be observed, and this is taken as a positive morphological sign of procedural success.</p><p>Aortic aneurysm formation is characterised by medial wall atrophy and degeneration which may be triggered by an initial inflammatory response.<xref rid="R4" ref-type="bibr">4</xref> This results in thinning, weakening and stiffening of the aortic wall which leaves it vulnerable to dilatation. These progressive inflammatory and degenerative disease processes trigger a vascular calcific response<xref rid="R5" ref-type="bibr">5</xref> which is characterised by deposition of calcium-containing and phosphate-containing hydroxyapatite crystals and is termed microcalcification.<xref rid="R6" ref-type="bibr">6</xref> This is distinct from the end-stage macrocalcification which can be readily identified by CT. Detection of the early microcalcific stages has the potential to identify &#x02018;active&#x02019; vascular degeneration. Sodium [<sup>18</sup>F]fluoride is a positron emission tomography (PET) radiotracer which binds to the deposited hydroxyapatite crystals and can detect aortic microcalcification. In the Sodium [<sup>18</sup>F]Fluoride Imaging of Abdominal Aortic Aneurysms (SoFIA<sup>3</sup> study (NCT02229006), aortic sodium [<sup>18</sup>F]fluoride uptake specifically localised to abdominal aortic aneurysms and was associated with more rapid aneurysm expansion. This was independent of age, sex, baseline diameter, body mass index, blood pressure, smoking, renal function or peripheral arterial disease. During follow-up, aneurysms with the highest sodium [<sup>18</sup>F]fluoride uptake expanded more rapidly and patients were most likely to require elective abdominal aortic aneurysm repair (because they reached the threshold of 55&#x02009;mm) or to have experienced aneurysm rupture.<xref rid="R7" ref-type="bibr">7</xref>
+</p><p>Given that sodium [<sup>18</sup>F]fluoride PET-CT is a non-invasive marker of aortic aneurysm disease activity which predicts disease progression and clinical outcomes, we hypothesised that aortic sodium [<sup>18</sup>F]fluoride uptake would be reduced after successful EVAR implantation. In an exploratory proof-of-concept study, we undertook repeated sodium [<sup>18</sup>F]fluoride PET-CT in participants of the SoFIA<sup>3</sup> study who had undergone EVAR.</p></sec><sec sec-type="methods" id="s2"><title>Methods</title><sec id="s2-1"><title>Study population</title><p>The study population consisted of patients recruited into the Sodium [<sup>18</sup>F]Fluoride Imaging in Abdominal Aortic Aneurysms study (NCT02229006). Participants had an asymptomatic abdominal aortic aneurysm and were under ultrasound-based surveillance. Patients who had undergone successful elective EVAR were invited for recruitment into the PET-EVAR Study (Predicting Endoleaks Following Endovascular Aortic Aneurysm Repair Using Sodium [<sup>18</sup>F]Fluoride).</p></sec><sec id="s2-2"><title>Study design</title><p>This was a longitudinal observational study (NCT04577716) that was conducted with the written informed consent of all subjects, with approval by the South-East Scotland Research Ethics Committee (20/SS/0119), and in accordance with the Declaration of Helsinki. Study participants were studied at baseline and at a minimum of 1&#x02009;year following EVAR.</p></sec><sec id="s2-3"><title>Study assessments</title><p>At each of the two study visits, participants underwent a clinical assessment prior to imaging. Patients were then administered a target dose of 125 MBq of sodium [<sup>18</sup>F]fluoride intravenously, and 60&#x02009;min later they were imaged on a hybrid 128&#x02013;slice PET-CT scanner (Biograph mCT, Siemens Healthineers, Erlangen, Germany). A low-dose attenuation correction CT scan was performed (120 kV, 50 mAs, 5/3&#x02009;mm), followed by acquisition of PET data at 10&#x02009;min intervals in three or four bed positions to cover the thoracic and abdominal aorta. A contrast-enhanced aortic CT angiogram (120 kV, 145 mAs, 3/3&#x02009;mm, field of view 400 and 1/1&#x02009;mm, field of view 300; triggered at 181 Hounsfield units) was performed on the same scanner immediately after PET acquisition. This was preceded by a non-contrast CT aortic calcium score at the second visit. Static PET-CT images were reconstructed with correction applied for attenuation, dead-time, scatter and random coincidences, using an optimised iterative reconstruction algorithm (ultra-High Definition; TrueX+Time-of-Flight, 2 iterations and 21 subsets, matrix 200, zoom 1; Gaussian filter 5&#x02009;mm).</p></sec><sec id="s2-4"><title>Image analysis</title><sec id="s2-4-1"><title>Aortic morphology and calcium score</title><p>Aneurysm morphology, including preoperative and postoperative aortic sac size, neck length and length of common iliac arteries, was measured using Picture Archiving and Communications System (PACS, Carestream Health). Calcium score was measured using dedicated software (Vitrea Advanced, Toshiba Systems) and quantified as calcium score (Agatston units (AU)), calcium volume (mm<sup>3</sup>) and calcium mass (mg). The threshold for calcification was set at a computed tomographic density of 130 Hounsfield units having an area &#x02265;1&#x02009;mm<sup>2</sup>.<xref rid="R8" ref-type="bibr">8</xref>
+</p></sec><sec id="s2-4-2"><title>Aortic microcalcification activity</title><p>Sodium [<sup>18</sup>F]fluoride uptake was measured in four anatomically distinct regions of interest: the descending thoracic aorta, the suprarenal region, aneurysm neck and body of the aneurysm as described previously.<xref rid="R9" ref-type="bibr">9</xref> The four regions were defined as: (i) the <italic toggle="yes">descending thoracic aorta</italic>&#x02014;from the first trans-axial slice of the descending aorta to the aortic hiatus at the diaphragm; (ii) the <italic toggle="yes">suprarenal</italic> region&#x02014;from the level of the origin of the coeliac artery to the upper-most renal artery (iii) the <italic toggle="yes">neck</italic>&#x02014;from the lower-most renal artery to the aortic aneurysm and (iv) the <italic toggle="yes">aneurysm body</italic>&#x02014;from the aneurysm neck to the aortic bifurcation (<xref rid="F1" ref-type="fig">figure 1</xref>).</p><fig position="float" id="F1"><label>Figure 1</label><caption><p>Regional analysis of aortic microcalcification activity. (A) Preoperative PET and CT with colour scale bar in SUVs. (B) Schematic representation demonstrating the analysed aortic regions (vertical arrows: descending thoracic, suprarenal, neck and aneurysm body). PET, positron emission tomography; SUVs, standard uptake values.</p></caption><graphic xlink:href="heartjnl-2023-322514f01" position="float"/></fig><p>The aortic microcalcification activity (AMA), a summary measure of mean aortic sodium [<sup>18</sup>F]fluoride uptake in a 3D volume, was calculated for each region.<xref rid="R9" ref-type="bibr">9</xref> In brief, AMA is calculated by measuring the mean radiotracer uptake value of each region using a custom validated tool (Fusion Quant v1.21.0421, Cedars-Sinai Medical Centre, Los Angeles), and then each region is normalised for its volume (cm<sup>3</sup>) and for the background blood pool activity of the right and left atria. The AMA analysis method also includes a threshold technique to correct for the spillover effect created by physiological radiotracer uptake in the vertebrae.<xref rid="R9" ref-type="bibr">9</xref>
+</p></sec></sec><sec id="s2-5"><title>Statistical analysis</title><p>Continuous variables with normal distribution were presented as mean&#x000b1;SD and skewed continuous variables were presented as median (IQR). Categorical variables were presented as number (percentage). A simple main effect one-way model was used to assess regional difference in the AMA. A Kruskal-Wallis rank sum test was used to assess regional differences in the AMA between the timepoints. Wilcoxon signed-rank test was used to test preoperative and postoperative calcium scores. Statistical significance was taken as a two-sided p&#x0003c;0.05. All statistical analysis was performed in RStudio (V2022.02.3+492, RStudio, PBC).</p></sec></sec><sec sec-type="results" id="s3"><title>Results</title><p>Twelve of 72 participants of the original study population underwent elective EVAR. One participant was ineligible due to renal failure and one participant declined further participation. Ten patients were successfully recruited. They were predominantly male and had a mean age of 76&#x000b1;6 years (<xref rid="T1" ref-type="table">table 1</xref>). The mean interval between the preoperative and postoperative scans was 78&#x000b1;5 months and the time from EVAR to postoperative scan was 62&#x000b1;21 months.</p><table-wrap position="float" id="T1"><label>Table 1</label><caption><p>Patient characteristics at postoperative scan</p></caption><table frame="hsides" rules="groups"><thead><tr><td align="left" valign="bottom" rowspan="1" colspan="1">Characteristic</td><td align="left" valign="bottom" rowspan="1" colspan="1">N=10</td></tr></thead><tbody><tr><td align="left" valign="top" rowspan="1" colspan="1">Age (years)</td><td align="left" valign="top" rowspan="1" colspan="1">76&#x000b1;6</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Male</td><td align="left" valign="top" rowspan="1" colspan="1">9 (90%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="left" valign="top" rowspan="1" colspan="1">1 (10%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Systolic blood pressure (mm Hg)</td><td align="left" valign="top" rowspan="1" colspan="1">156&#x000b1;15</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Diastolic blood pressure (mm Hg)</td><td align="left" valign="top" rowspan="1" colspan="1">83&#x000b1;8</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Heart rate (beats/min)</td><td align="left" valign="top" rowspan="1" colspan="1">68&#x000b1;15</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Body mass index (kg/m<sup>2</sup>)</td><td align="left" valign="top" rowspan="1" colspan="1">27.1&#x000b1;3.2</td></tr><tr><td align="left" valign="top" colspan="2" rowspan="1">
+<italic toggle="yes">Medical history</italic>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Current or ex-smoker</td><td align="left" valign="top" rowspan="1" colspan="1">10 (100%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hypertension</td><td align="left" valign="top" rowspan="1" colspan="1">8 (80%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hypercholesterolemia</td><td align="left" valign="top" rowspan="1" colspan="1">9 (90%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Diabetes</td><td align="left" valign="top" rowspan="1" colspan="1">2 (20%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ischaemic heart disease</td><td align="left" valign="top" rowspan="1" colspan="1">4 (40%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Peripheral arterial disease</td><td align="left" valign="top" rowspan="1" colspan="1">2 (20%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Cerebrovascular accident</td><td align="left" valign="top" rowspan="1" colspan="1">3 (30%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Chronic obstructive pulmonary disease</td><td align="left" valign="top" rowspan="1" colspan="1">3 (30%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">No family history of aneurysm disease</td><td align="left" valign="top" rowspan="1" colspan="1">10 (100%)</td></tr><tr><td align="left" valign="top" colspan="2" rowspan="1">
+<italic toggle="yes">Medications</italic>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Antiplatelet agents</td><td align="left" valign="top" rowspan="1" colspan="1">7 (70%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Anticoagulant agents</td><td align="left" valign="top" rowspan="1" colspan="1">2 (20%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Statins</td><td align="left" valign="top" rowspan="1" colspan="1">9 (90%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Beta-blockers</td><td align="left" valign="top" rowspan="1" colspan="1">5 (50%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Angiotensin-converting enzyme or angiotensin receptor blockers</td><td align="left" valign="top" rowspan="1" colspan="1">4 (40%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Calcium channel antagonist</td><td align="left" valign="top" rowspan="1" colspan="1">3 (30%)</td></tr></tbody></table><table-wrap-foot><fn id="T1_FN1"><p>Mean&#x000b1;SD; number (%).</p></fn></table-wrap-foot></table-wrap><sec id="s3-1"><title>Aortic morphology and calcium score</title><p>All treated aneurysms were infrarenal and had a mean aortic diameter of 57&#x000b1;2&#x02009;mm at time of EVAR. Six patients had a concurrent iliac aneurysm. All stent grafts were inserted according to manufacturers&#x02019; instructions for use (<xref rid="T2" ref-type="table">table 2</xref>).</p><table-wrap position="float" id="T2"><label>Table 2</label><caption><p>Aortic morphology and stent graft details</p></caption><table frame="hsides" rules="groups"><thead><tr><td align="left" valign="bottom" rowspan="1" colspan="1"/><td align="left" valign="bottom" rowspan="1" colspan="1">N=10<xref rid="R1" ref-type="bibr">1</xref>
+</td></tr></thead><tbody><tr><td align="left" valign="top" rowspan="1" colspan="1">Preoperative aortic size (mm)</td><td align="left" valign="top" rowspan="1" colspan="1">57&#x000b1;2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Postoperative aortic size (mm)</td><td align="left" valign="top" rowspan="1" colspan="1">51&#x000b1;12</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Concurrent iliac aneurysm</td><td align="left" valign="top" rowspan="1" colspan="1">6 (60%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Preoperative iliac size (mm)</td><td align="left" valign="top" rowspan="1" colspan="1">21&#x000b1;3</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">Morphology</italic>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Length of neck (mm)</td><td align="left" valign="top" rowspan="1" colspan="1">16 (15 to 26)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Neck angulation (&#x000b0;)</td><td align="left" valign="top" rowspan="1" colspan="1">31 (29 to 44)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Left iliac length (mm)</td><td align="left" valign="top" rowspan="1" colspan="1">54&#x000b1;24</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Right iliac length (mm)</td><td align="left" valign="top" rowspan="1" colspan="1">55&#x000b1;23</td></tr><tr><td align="left" valign="top" colspan="2" rowspan="1">
+<italic toggle="yes">Stent graft repair type</italic>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Cook</td><td align="left" valign="top" rowspan="1" colspan="1">3 (30%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Gore C3 Excluder</td><td align="left" valign="top" rowspan="1" colspan="1">3 (30%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Medtronic Endurant</td><td align="left" valign="top" rowspan="1" colspan="1">4 (40%)</td></tr></tbody></table><table-wrap-foot><fn id="T2_FN1"><p>Mean&#x000b1;SD deviation; Median (IQR); number (%).</p></fn></table-wrap-foot></table-wrap><p>In eight patients (80%), there was no change, or there was a reduction in the aneurysm sac size following EVAR (mean change &#x02212;6&#x000b1;12&#x02009;mm). In the remaining two patients, there was an increase in sac size at follow-up. In one patient, there was a 14&#x02009;mm increase due to an active type 2 endoleak. This was being actively managed and there had been multiple endovascular attempts to treat it (by embolisation and by CT-guided Onyx infiltration to the sac). In the second patient, there was a 6&#x02009;mm increase. This patient had the shortest follow-up period of the cohort (13 months) and had previously demonstrated a type 2 endoleak at 8 months after EVAR.</p><p>The median postoperative thoracic calcium score was increased in all three measures when compared with the preoperative score (1924 vs 686 AU, p=0.02), but there were no differences in the suprarenal aorta (525 vs 232 AU, p=0.32) (<xref rid="T3" ref-type="table">table 3</xref>).</p><table-wrap position="float" id="T3"><label>Table 3</label><caption><p>Preoperative and postoperative aortic calcium scores</p></caption><table frame="hsides" rules="groups"><thead><tr><td align="left" valign="bottom" rowspan="1" colspan="1"/><td align="left" valign="bottom" rowspan="1" colspan="1">Preoperative</td><td align="left" valign="bottom" rowspan="1" colspan="1">Postoperative</td><td align="left" valign="bottom" rowspan="1" colspan="1">P value</td></tr></thead><tbody><tr><td align="left" valign="top" rowspan="1" colspan="1">Thoracic calcium score, AU</td><td align="left" valign="top" rowspan="1" colspan="1">686 (35 to 1528)</td><td align="left" valign="top" rowspan="1" colspan="1">1924 (557 to 4698)</td><td align="left" valign="top" rowspan="1" colspan="1">0.002</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Thoracic calcium volume, mm<sup>3</sup>
+</td><td align="left" valign="top" rowspan="1" colspan="1">718 (28 to 1323)</td><td align="left" valign="top" rowspan="1" colspan="1">1638 (550 to 3838)</td><td align="left" valign="top" rowspan="1" colspan="1">0.002</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Thoracic calcium mass, mg</td><td align="left" valign="top" rowspan="1" colspan="1">165 (8 to 383)</td><td align="left" valign="top" rowspan="1" colspan="1">489 (132 to 1260)</td><td align="left" valign="top" rowspan="1" colspan="1">0.002</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Suprarenal calcium score, AU</td><td align="left" valign="top" rowspan="1" colspan="1">232 (58 to 797)</td><td align="left" valign="top" rowspan="1" colspan="1">524 (170 to 1138)</td><td align="left" valign="top" rowspan="1" colspan="1">0.32</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Suprarenal calcium volume, mm<sup>3</sup>
+</td><td align="left" valign="top" rowspan="1" colspan="1">220 (58 to 764)</td><td align="left" valign="top" rowspan="1" colspan="1">510 (211 to 926)</td><td align="left" valign="top" rowspan="1" colspan="1">0.43</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Suprarenal calcium mass, mg</td><td align="left" valign="top" rowspan="1" colspan="1">58 (14 to 197)</td><td align="left" valign="top" rowspan="1" colspan="1">129 (42 to 275)</td><td align="left" valign="top" rowspan="1" colspan="1">0.19</td></tr></tbody></table><table-wrap-foot><fn id="T3_FN1"><p>Median (IQR).</p></fn><fn id="T3_FN2"><p>AU, Agatston units.</p></fn></table-wrap-foot></table-wrap></sec><sec id="s3-2"><title>Aortic microcalcification activity</title><p>The AMA at baseline was twice as high in all three abdominal aortic regions when compared with the thoracic aorta. Following EVAR, AMA was reduced in all abdominal aortic regions but not in the thoracic aorta (<xref rid="F2" ref-type="fig">figure 2</xref>). The change in AMA was present in the suprarenal (0.62, p=0.03), neck (0.72, p=0.02) and aneurysm body (0.69, p=0.02) but not in the thoracic aorta (0.11, p=0.41; <xref rid="F3" ref-type="fig">figure 3</xref>, <xref rid="T4" ref-type="table">table 4</xref>).</p><fig position="float" id="F2"><label>Figure 2</label><caption><p>Images from a representative patient with a preoperative and a postoperative sodium [<sup>18</sup>F]fluoride positron emission tomography and CT angiogram. The CT angiogram is performed immediately after acquisition of PET data. A visual reduction in sodium [<sup>18</sup>F]fluoride uptake can be observed when comparing the preoperative PET-CT (Panel A) and the postoperative PET-CT (Panel B) in the same patient. SUVs represented in the colour scale bar. PET, positron emission tomography; SUVs, standard uptake values.</p></caption><graphic xlink:href="heartjnl-2023-322514f02" position="float"/></fig><fig position="float" id="F3"><label>Figure 3</label><caption><p>Regional aortic sodium [<sup>18</sup>F]fluoride uptake and aortic microcalcification activity in positron emission tomography and CT. Radiotracer uptake in the four aortic regions (descending thoracic, suprarenal, neck and aneurysm body) before (pre) after (post) endovascular aneurysm repair. AMA, aortic microcalcification activity. *p&#x0003c;0.05; ns, not significant.</p></caption><graphic xlink:href="heartjnl-2023-322514f03" position="float"/></fig><table-wrap position="float" id="T4"><label>Table 4</label><caption><p>Preoperative and postoperative aortic microcalcification activity</p></caption><table frame="hsides" rules="groups"><thead><tr><td align="left" valign="bottom" rowspan="1" colspan="1">Aortic region</td><td align="left" valign="bottom" rowspan="1" colspan="1">Preoperative mean<break/>(min&#x02013;max)</td><td align="left" valign="bottom" rowspan="1" colspan="1">Postoperative mean<break/>(min&#x02013;max)</td><td align="left" valign="bottom" rowspan="1" colspan="1">Change in AMA</td><td align="left" valign="bottom" rowspan="1" colspan="1">P value</td></tr></thead><tbody><tr><td align="left" valign="top" rowspan="1" colspan="1">Thoracic</td><td align="left" valign="top" rowspan="1" colspan="1">1.20<break/>(0.99&#x02013;1.69)</td><td align="left" valign="top" rowspan="1" colspan="1">1.09<break/>(0.85&#x02013;1.47)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x02212;0.11</td><td align="left" valign="top" rowspan="1" colspan="1">0.41</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Suprarenal</td><td align="left" valign="top" rowspan="1" colspan="1">1.98<break/>(1.12&#x02013;3.6)</td><td align="left" valign="top" rowspan="1" colspan="1">1.36<break/>(1.08&#x02013;1.85)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x02212;0.62</td><td align="left" valign="top" rowspan="1" colspan="1">0.03</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Neck</td><td align="left" valign="top" rowspan="1" colspan="1">1.93<break/>(0.96&#x02013;3.54)</td><td align="left" valign="top" rowspan="1" colspan="1">1.21<break/>(0.82&#x02013;1.63)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x02212;0.72</td><td align="left" valign="top" rowspan="1" colspan="1">0.02</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Aneurysm body</td><td align="left" valign="top" rowspan="1" colspan="1">1.74<break/>(0.6&#x02013;3.24)</td><td align="left" valign="top" rowspan="1" colspan="1">1.05<break/>(0.61&#x02013;1.43)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x02212;0.69</td><td align="left" valign="top" rowspan="1" colspan="1">0.02</td></tr></tbody></table><table-wrap-foot><fn id="T4_FN1"><p>Mean AMA values across each aortic region, and change in AMA following EVAR.</p></fn><fn id="T4_FN2"><p>AMA, aortic microcalcification activity; EVAR, endovascular aneurysm repair.</p></fn></table-wrap-foot></table-wrap><p>A positive correlation was observed between the change in thoracic calcium score and the preoperative AMA (R=0.33, p=0.04). However, no relationships were observed between the preoperative, postoperative and change in AMA, and the aortic sac size or the change in aortic sac size.</p><p>The patient with an active endoleak during the postoperative visit had the highest AMA in the suprarenal and neck regions and the second highest AMA in the thoracic and aneurysm region on the preoperative PET-CT. Despite also demonstrating a reduction, this patient&#x02019;s postoperative AMA was the highest of the cohort in all four aortic regions.</p></sec></sec><sec sec-type="discussion" id="s4"><title>Discussion</title><p>EVAR is associated with shrinkage of the abdominal aortic aneurysm sac: a key morphological indicator of procedural success.<xref rid="R10" ref-type="bibr">10</xref> For the first time, we have shown that EVAR is also associated with a reduction in sodium [<sup>18</sup>F]fluoride uptake within the abdominal aorta. This reduction was prominent in the regions of the abdominal aorta covered by the stent graft and was not apparent in the thoracic aorta. This suggests that EVAR protects the aortic aneurysm from rupture by providing a physical barrier and by reducing aortic aneurysm disease activity within the aortic wall itself.</p><p>Calcification is a marker of disease burden and disease progression in coronary artery disease. Coronary sodium [<sup>18</sup>F]fluoride uptake correlates with progression of coronary calcification<xref rid="R11" ref-type="bibr">11 12</xref> and is a marker of coronary atherosclerotic disease activity.<xref rid="R13" ref-type="bibr">13&#x02013;15</xref> It is also associated with ischaemic stroke<xref rid="R16" ref-type="bibr">16 17</xref> and the future risk of myocardial infarction.<xref rid="R18" ref-type="bibr">18</xref> The significance of aortic macrocalcification and the associated aortic Agatston calcium score is not well documented for aortic aneurysm disease. In a retrospective study of patients undergoing CT angiography as part of elective treatment work-up of abdominal aortic aneurysm disease, Chowdhury and colleagues observed that higher aortic calcium scores are associated with poorer outcomes.<xref rid="R19" ref-type="bibr">19</xref> Conversely, in subthreshold abdominal aortic aneurysms, Klopf and colleagues observed an inverse relationship between increased abdominal aortic calcification and aneurysm disease progression over a 6-month period.<xref rid="R20" ref-type="bibr">20</xref> Here, we observed an association between the change in thoracic calcium score and the preoperative AMA suggesting that a generally higher aortic disease activity correlates with increasing macrocalcification within the aorta. This underlines the relationship between vascular sodium [<sup>18</sup>F]fluoride uptake and aneurysm disease activity.</p><p>An increase in aneurysm diameter and a change in radiotracer uptake over time has previously been observed using 2-[<sup>18</sup>F]fluoro-2-deoxyglucose, where patients whose aneurysm diameter increased, had demonstrated lower radiotracer uptake on baseline PET-CT 9 months previously.<xref rid="R21" ref-type="bibr">21</xref> This observation was attributed to cyclical periods of inflammation within the aneurysm wall and periods of aneurysm expansion. Rather than inflammation, sodium [<sup>18</sup>F]fluoride, detects microcalcification, which is increasingly becoming a specific and reliable marker of disease activity within the aorta. Sodium [<sup>18</sup>F]fluoride uptake quantifies microcalcification within the aortic media of patients with thoracic aortopathy<xref rid="R22" ref-type="bibr">22</xref> and is associated with greater aortic growth after acute aortic syndrome.<xref rid="R23" ref-type="bibr">23</xref> In the present study, AMA was highest in the baseline PET-CT of the abdominal aorta where there is active abdominal aortic aneurysm disease. It is also noteworthy that one of the highest sodium [<sup>18</sup>F]fluoride uptakes in the cohort occurred in a patient with a type 2 endoleak and sac enlargement. Although the small cohort size is insufficient to draw definitive conclusions, it does provide promising preliminary data to suggest that high aortic sodium [<sup>18</sup>F]fluoride uptake may reflect disease activity. As an indicator of reduced aneurysm metabolic activity, suppression of uptake could confirm or predict treatment efficacy of EVAR and may have a role in a select group of patients who demonstrate sac expansion on routine screening.</p><p>The reduction in AMA we observed following EVAR suggests insertion of the stent graft can decrease aneurysm disease activity. The mechanism of such reduced disease activity has not been addressed by our study, but this could plausibly include reducing biomechanical stress within the aortic wall, preventing the build-up of further luminal thrombus or inflammatory mediators or providing a physical barrier to luminal blood pressure which could otherwise exacerbate aneurysmal dilatation. In turn, these processes could lead to a reduction or cessation in further degeneration in the aortic media which leads to reduced deposition of hydroxyapatite crystals and a reduction in surface area for sodium [<sup>18</sup>F]fluoride binding. Irrespective of the mechanism, our findings highlight the potential of PET to provide an imaging biomarker of treatment efficacy in abdominal aortic aneurysm disease, especially for EVAR but potentially also for other future treatment interventions. Conversely, failure to suppress aortic sodium [<sup>18</sup>F]fluoride uptake may herald the development of complications and endoleaks not yet visible on CT. Speculatively, it could guide baseline patient selection for EVAR if intense uptake at baseline heralds likely future treatment failure, and is the subject of an ongoing prospective study (NCT04577716).</p><p>This is a small single centre proof-of-concept study, with the small sample size a result of recruitment of only those patients from the original SoFIA<sup>3</sup> study who underwent EVAR. As such, our findings are preliminary and require further external validation. We should also acknowledge several other limitations of this pilot study. First, scan analysis was performed without blinding to the timing of the scans and clearly the aortic stent graft is readily visible on the attenuation correction CT. Second, although the AMA method used to quantify sodium [<sup>18</sup>F]fluoride uptake has shown excellent levels of agreement with conventional PET quantification methods,<xref rid="R9" ref-type="bibr">9</xref> it has not been externally validated. Third, survival bias may play a role, although the majority (83%) of patients who underwent an EVAR operation from the original cohort were recruited into the study. Fourth, since the patients recruited in the study underwent their baseline scan at different timepoints in the natural history of their disease, their baseline radiotracer uptake, time to EVAR and follow-up time differed across the cohort. However, this does not preclude a comparison of uptake before and after EVAR. Fifth, the PET reconstruction algorithm uses the attenuation correction CT which is not specifically designed to account for the presence of a stent graft. However, in coronary studies, the presence of a stent usually results in overestimation of the PET signal rather than a reduction in signal.<xref rid="R24" ref-type="bibr">24</xref> Finally, it was not possible to calculate the calcium score for all abdominal aortic regions due to the presence of the stent graft.</p><p>In conclusion, aortic sodium [<sup>18</sup>F]fluoride uptake localises to the diseased regions of abdominal aortic aneurysm disease and predicts development of aortic macrocalcification. Successful EVAR is associated with a marked reduction in aortic sodium [<sup>18</sup>F]fluoride uptake and microcalcification activity which is most prominent in the stented regions of the aorta. Although it requires future prospective validation and evaluation, this technique holds promise as a marker of aneurysm disease activity and treatment efficacy and may have clinical implications in personalised EVAR surveillance.</p></sec></body><back><ack><p>The authors would like to thank the teams at the Edinburgh Imaging Facility and the Clinical Research Facility for their support during the conduct of this study. The authors also thank the British Heart Foundation (PG/21/10461) and the Chief Scientist Office (ETM/365) for their financial support.</p></ack><fn-group><fn fn-type="other"><p><bold>Twitter:</bold> @SamuelDebono, @imagingmedsci</p></fn><fn fn-type="other"><p><bold>Presented at:</bold> This study was presented at The Vascular Societies' Annual Scientific Meeting 2022, Brighton, UK, 23&#x02013;25 November 2022.</p></fn><fn fn-type="other"><p><bold>Contributors:</bold> SD, JN, AJF, MS, DEN and ROF had a substantial role in conception, design, data analysis and data interpretation. EJRvB and MCW had a critical role in acquisition and reconstruction of the imaging data. OF, AT and ROF had essential roles in facilitating study participant involvement. MRD, DEN and ROF provided essential data interpretation and enhanced the intellectual content of the manuscript. DEN is guarantor. All authors have contributed to revisions of the manuscript and approved its final content.</p></fn><fn fn-type="other"><p><bold>Funding:</bold> SD, AJF, MS, MCW, ROF and DEN are supported by the British Heart Foundation (PG/21/10461, FS/19/15/34155, FS/18/31/33676, FS/ICRF/20/26002, RE/18/5/34216, FS/SCRF/21/32010). MRD is the recipient of the Sir Jules Thorn Award for Biomedical Research 2015 (15/JTA). DEN is the recipient of a Wellcome Trust Senior Investigator Award (WT103782AIA). EJRvB is supported by SINAPSE (www.sinapse.ac.uk).</p></fn><fn fn-type="COI-statement"><p><bold>Competing interests:</bold> MCW, MRD and DEN are Editorial Board Members for BMJ Heart.</p></fn><fn fn-type="other"><p><bold>Patient and public involvement:</bold> Patients and/or the public were involved in the design, or conduct, or reporting, or dissemination plans of this research. Refer to the Methods section for further details.</p></fn><fn fn-type="other"><p><bold>Provenance and peer review:</bold> Not commissioned; externally peer reviewed.</p></fn></fn-group><sec sec-type="data-availability"><title>Data availability statement</title><p>Data are available on reasonable request.</p></sec><sec sec-type="ethics-statement"><title>Ethics statements</title><sec><title>Patient consent for publication</title><p content-type="ethics-consent-to-publish">Not applicable.</p></sec><sec><title>Ethics approval</title><p content-type="ethics-approval">This study involves human participants and was approved by South-East Scotland Research Ethics Committee (20/SS/0119). Participants gave informed consent to participate in the study before taking part.</p></sec></sec><ref-list><title>References</title><ref id="R1"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<collab>United Kingdom EVAR Trial Investigators</collab>, <string-name>
+<surname>Greenhalgh</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>LC</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Endovascular versus open repair of abdominal aortic aneurysm</article-title>. <source>N Engl J Med</source>
+<year>2010</year>;<volume>362</volume>:<fpage>1863</fpage>&#x02013;<lpage>71</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa0909305</pub-id>
+<pub-id pub-id-type="pmid">20382983</pub-id></mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Debono</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Nash</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Tambyraja</surname>
+<given-names>AL</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Endovascular repair for abdominal aortic aneurysms</article-title>. <source>Heart</source>
+<year>2021</year>;<volume>107</volume>:<fpage>1783</fpage>&#x02013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1136/heartjnl-2020-318288</pub-id>
+<pub-id pub-id-type="pmid">33674354</pub-id></mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Chaikof</surname>
+<given-names>EL</given-names>
+</string-name>, <string-name>
+<surname>Dalman</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Eskandari</surname>
+<given-names>MK</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>The Society for vascular surgery practice guidelines on the care of patients with an abdominal aortic aneurysm</article-title>. <source>Journal of Vascular Surgery</source>
+<year>2018</year>;<volume>67</volume>:<fpage>2</fpage>&#x02013;<lpage>77</lpage>. <pub-id pub-id-type="doi">10.1016/j.jvs.2017.10.044</pub-id>
+<pub-id pub-id-type="pmid">29268916</pub-id></mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Ladich</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Yahagi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Romero</surname>
+<given-names>ME</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Vascular diseases: aortitis, aortic aneurysms, and vascular calcification</article-title>. <source>Cardiovasc Pathol</source>
+<year>2016</year>;<volume>25</volume>:<fpage>432</fpage>&#x02013;<lpage>41</lpage>. <pub-id pub-id-type="doi">10.1016/j.carpath.2016.07.002</pub-id>
+<pub-id pub-id-type="pmid">27526100</pub-id></mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Syed</surname>
+<given-names>MBJ</given-names>
+</string-name>, <string-name>
+<surname>Fletcher</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Dweck</surname>
+<given-names>MR</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Imaging aortic wall inflammation</article-title>. <source>Trends Cardiovasc Med</source>
+<year>2019</year>;<volume>29</volume>:<fpage>440</fpage>&#x02013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1016/j.tcm.2018.12.003</pub-id>
+<pub-id pub-id-type="pmid">30611605</pub-id></mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Aikawa</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Nahrendorf</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sosnovik</surname>
+<given-names>D</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Multimodality molecular imaging identifies proteolytic and osteogenic activities in early aortic valve disease</article-title>. <source>Circulation</source>
+<year>2007</year>;<volume>115</volume>:<fpage>377</fpage>&#x02013;<lpage>86</lpage>. <pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.106.654913</pub-id>
+<pub-id pub-id-type="pmid">17224478</pub-id></mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Forsythe</surname>
+<given-names>RO</given-names>
+</string-name>, <string-name>
+<surname>Dweck</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>McBride</surname>
+<given-names>OMB</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>(18) F-sodium fluoride uptake in abdominal aortic aneurysms: the Sofia (3) study</article-title>. <source>J Am Coll Cardiol</source>
+<year>2018</year>;<volume>71</volume>:<fpage>513</fpage>&#x02013;<lpage>23</lpage>.<pub-id pub-id-type="pmid">29406857</pub-id></mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Agatston</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>Janowitz</surname>
+<given-names>WR</given-names>
+</string-name>, <string-name>
+<surname>Hildner</surname>
+<given-names>FJ</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Quantification of coronary artery calcium using ultrafast computed tomography</article-title>. <source>J Am Coll Cardiol</source>
+<year>1990</year>;<volume>15</volume>:<fpage>827</fpage>&#x02013;<lpage>32</lpage>. <pub-id pub-id-type="doi">10.1016/0735-1097(90)90282-t</pub-id>
+<pub-id pub-id-type="pmid">2407762</pub-id></mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Debono</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Nash</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Fletcher</surname>
+<given-names>AJ</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Quantifying sodium [ 18F ] fluoride uptake in abdominal aortic aneurysms</article-title>. <source>EJNMMI Res</source>
+<year>2022</year>;<volume>12</volume>:<elocation-id>33</elocation-id>. <pub-id pub-id-type="doi">10.1186/s13550-022-00904-z</pub-id>
+<pub-id pub-id-type="pmid">35666397</pub-id></mixed-citation></ref><ref id="R10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Wanhainen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Verzini</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Van Herzeele</surname>
+<given-names>I</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Editor&#x02019;s choice-European Society for vascular surgery (ESVS) 2019 clinical practice guidelines on the management of abdominal aorto-iliac artery aneurysms</article-title>. <source>Eur J Vasc Endovasc Surg</source>
+<year>2019</year>;<volume>57</volume>:<fpage>8</fpage>&#x02013;<lpage>93</lpage>. <pub-id pub-id-type="doi">10.1016/j.ejvs.2018.09.020</pub-id>
+<pub-id pub-id-type="pmid">30528142</pub-id></mixed-citation></ref><ref id="R11"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Doris</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name>
+<surname>Meah</surname>
+<given-names>MN</given-names>
+</string-name>, <string-name>
+<surname>Moss</surname>
+<given-names>AJ</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Coronary 18f-fluoride uptake and progression of coronary artery calcification</article-title>. <source>Circ Cardiovasc Imaging</source>
+<year>2020</year>;<volume>13</volume>:<elocation-id>e011438</elocation-id>. <pub-id pub-id-type="doi">10.1161/CIRCIMAGING.120.011438</pub-id>
+<pub-id pub-id-type="pmid">33297761</pub-id></mixed-citation></ref><ref id="R12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Youn</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Al&#x02019;Aref</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Narula</surname>
+<given-names>N</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>18F-sodium fluoride positron emission tomography/computed tomography in ex vivo human coronary arteries with histological correlation</article-title>. <source>Arterioscler Thromb Vasc Biol</source>
+<year>2020</year>;<volume>40</volume>:<fpage>404</fpage>&#x02013;<lpage>11</lpage>. <pub-id pub-id-type="doi">10.1161/ATVBAHA.119.312737</pub-id>
+<pub-id pub-id-type="pmid">31875701</pub-id></mixed-citation></ref><ref id="R13"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Wen</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Yun</surname>
+<given-names>M</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>In vivo coronary 18f-sodium fluoride activity</article-title>. <source>JACC: Cardiovascular Imaging</source>
+<year>2023</year>;<volume>16</volume>:<fpage>508</fpage>&#x02013;<lpage>20</lpage>. <pub-id pub-id-type="doi">10.1016/j.jcmg.2022.03.018</pub-id>
+<pub-id pub-id-type="pmid">36648038</pub-id></mixed-citation></ref><ref id="R14"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Creager</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Hohl</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Hutcheson</surname>
+<given-names>JD</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>18F-fluoride signal amplification identifies microcalcifications associated with atherosclerotic plaque instability in positron emission tomography/computed tomography images</article-title>. <source>Circ Cardiovasc Imaging</source>
+<year>2019</year>;<volume>12</volume>:<elocation-id>e007835</elocation-id>. <pub-id pub-id-type="doi">10.1161/CIRCIMAGING.118.007835</pub-id>
+<pub-id pub-id-type="pmid">30642216</pub-id></mixed-citation></ref><ref id="R15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Moss</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Sim</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Adamson</surname>
+<given-names>PD</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Ex vivo 18F-fluoride uptake and hydroxyapatite deposition in human coronary atherosclerosis</article-title>. <source>Sci Rep</source>
+<year>2020</year>;<volume>10</volume>:<elocation-id>20172</elocation-id>. <pub-id pub-id-type="doi">10.1038/s41598-020-77391-6</pub-id>
+<pub-id pub-id-type="pmid">33214599</pub-id></mixed-citation></ref><ref id="R16"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Fletcher</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Tew</surname>
+<given-names>YY</given-names>
+</string-name>, <string-name>
+<surname>Tzolos</surname>
+<given-names>E</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Thoracic aortic 18f-sodium fluoride activity and ischemic stroke in patients with established cardiovascular disease</article-title>. <source>JACC Cardiovasc Imaging</source>
+<year>2022</year>;<volume>15</volume>:<fpage>1274</fpage>&#x02013;<lpage>88</lpage>. <pub-id pub-id-type="doi">10.1016/j.jcmg.2021.12.013</pub-id>
+<pub-id pub-id-type="pmid">35183477</pub-id></mixed-citation></ref><ref id="R17"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Irkle</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Vesey</surname>
+<given-names>AT</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>
+<given-names>DY</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Identifying active vascular microcalcification by (18) f-sodium fluoride positron emission tomography</article-title>. <source>Nat Commun</source>
+<year>2015</year>;<volume>6</volume>:<fpage>7495</fpage>. <pub-id pub-id-type="doi">10.1038/ncomms8495</pub-id>
+<pub-id pub-id-type="pmid">26151378</pub-id></mixed-citation></ref><ref id="R18"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Kwiecinski</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Tzolos</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Adamson</surname>
+<given-names>PD</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Coronary 18f-sodium fluoride uptake predicts outcomes in patients with coronary artery disease</article-title>. <source>J Am Coll Cardiol</source>
+<year>2020</year>;<volume>75</volume>:<fpage>3061</fpage>&#x02013;<lpage>74</lpage>. <pub-id pub-id-type="doi">10.1016/j.jacc.2020.04.046</pub-id>
+<pub-id pub-id-type="pmid">32553260</pub-id></mixed-citation></ref><ref id="R19"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Chowdhury</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Zieli&#x00144;ski</surname>
+<given-names>LP</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>JJ</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Editor&#x02019;s choice-calcification of thoracic and abdominal aneurysms is associated with mortality and morbidity</article-title>. <source>Eur J Vasc Endovasc Surg</source>
+<year>2018</year>;<volume>55</volume>:<fpage>101</fpage>&#x02013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1016/j.ejvs.2017.11.007</pub-id>
+<pub-id pub-id-type="pmid">29225032</pub-id></mixed-citation></ref><ref id="R20"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Klopf</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Fuchs</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Schernthaner</surname>
+<given-names>R</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>The prognostic impact of vascular calcification on abdominal aortic aneurysm progression</article-title>. <source>J Vasc Surg</source>
+<year>2022</year>;<volume>75</volume>:<fpage>1926</fpage>&#x02013;<lpage>34</lpage>. <pub-id pub-id-type="doi">10.1016/j.jvs.2021.11.062</pub-id>
+<pub-id pub-id-type="pmid">34921970</pub-id></mixed-citation></ref><ref id="R21"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Morel</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Mandry</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Micard</surname>
+<given-names>E</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>F-Fdg PET sequential observational study</article-title>. <source>J Nucl Med</source>
+<year>2015</year>;<volume>56</volume>:<fpage>1030</fpage>&#x02013;<lpage>5</lpage>. <pub-id pub-id-type="doi">10.2967/jnumed.114.146415</pub-id>
+<pub-id pub-id-type="pmid">25791991</pub-id></mixed-citation></ref><ref id="R22"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Fletcher</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Nash</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Syed</surname>
+<given-names>MBJ</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Microcalcification and thoracic aortopathy: a window into disease severity</article-title>. <source>Arterioscler Thromb Vasc Biol</source>
+<year>2022</year>;<volume>42</volume>:<fpage>1048</fpage>&#x02013;<lpage>59</lpage>. <pub-id pub-id-type="doi">10.1161/ATVBAHA.122.317111</pub-id>
+<pub-id pub-id-type="pmid">35770666</pub-id></mixed-citation></ref><ref id="R23"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Syed</surname>
+<given-names>MBJ</given-names>
+</string-name>, <string-name>
+<surname>Fletcher</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Debono</surname>
+<given-names>S</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>18F-sodium fluoride positron emission tomography and computed tomography in acute aortic syndrome</article-title>. <source>JACC: Cardiovascular Imaging</source>
+<year>2022</year>;<volume>15</volume>:<fpage>1291</fpage>&#x02013;<lpage>304</lpage>. <pub-id pub-id-type="doi">10.1016/j.jcmg.2022.01.003</pub-id>
+<pub-id pub-id-type="pmid">35798405</pub-id></mixed-citation></ref><ref id="R24"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Cheng</surname>
+<given-names>VY</given-names>
+</string-name>, <string-name>
+<surname>Slomka</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Le Meunier</surname>
+<given-names>L</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Coronary arterial 18F-FDG uptake by fusion of PET and coronary CT angiography at sites of percutaneous stenting for acute myocardial infarction and stable coronary artery disease</article-title>. <source>J Nucl Med</source>
+<year>2012</year>;<volume>53</volume>:<fpage>575</fpage>&#x02013;<lpage>83</lpage>. <pub-id pub-id-type="doi">10.2967/jnumed.111.097550</pub-id>
+<pub-id pub-id-type="pmid">22419753</pub-id></mixed-citation></ref></ref-list></back></article>

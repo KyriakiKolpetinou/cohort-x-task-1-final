@@ -1,0 +1,1076 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="jah311401" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Am Heart Assoc</journal-id><journal-id journal-id-type="iso-abbrev">J Am Heart Assoc</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2047-9980</journal-id><journal-id journal-id-type="publisher-id">JAH3</journal-id><journal-id journal-id-type="hwp">ahaoa</journal-id><journal-title-group><journal-title>Journal of the American Heart Association: Cardiovascular and Cerebrovascular Disease</journal-title></journal-title-group><issn pub-type="epub">2047-9980</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">41025439</article-id><article-id pub-id-type="pmc">12684480</article-id>
+<article-id pub-id-type="doi">10.1161/JAHA.125.041169</article-id><article-id pub-id-type="publisher-id">JAH311401</article-id><article-id pub-id-type="other">JAHA/2025/041169</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject><subj-group subj-group-type="heading"><subject>Imaging</subject></subj-group></subj-group></article-categories><title-group><article-title>
+<styled-content style="fixed-case" toggle="no">
+<sup>18</sup>F</styled-content>&#x02010;<styled-content style="fixed-case" toggle="no">FAPI</styled-content>&#x02010;74 Positron Emission Tomography/Computed Tomography Noninvasively Monitoring the Fibrosis of Cardiac Allograft Vasculopathy</article-title><alt-title alt-title-type="right-running-head">
+<styled-content style="fixed-case" toggle="no">FAPI PET</styled-content> Monitors Cardiac Allograft Vasculopathy</alt-title><alt-title alt-title-type="left-running-head">Li et&#x000a0;al</alt-title></title-group><contrib-group><contrib id="jah311401-cr-0001" contrib-type="author"><name><surname>Li</surname><given-names>Huiling</given-names></name><degrees>MD, PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0008-8146-0207</contrib-id><xref rid="jah311401-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jah311401-cr-0002" contrib-type="author"><name><surname>Wei</surname><given-names>Yufei</given-names></name><degrees>MS</degrees><xref rid="jah311401-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jah311401-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="jah311401-note-0001" ref-type="author-notes">
+<sup>*</sup>
+</xref></contrib><contrib id="jah311401-cr-0003" contrib-type="author"><name><surname>Qin</surname><given-names>Zhuoqi</given-names></name><degrees>MS</degrees><xref rid="jah311401-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jah311401-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jah311401-cr-0004" contrib-type="author"><name><surname>Cheng</surname><given-names>Qiyao</given-names></name><degrees>MS</degrees><xref rid="jah311401-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jah311401-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jah311401-cr-0005" contrib-type="author"><name><surname>Hong</surname><given-names>Yu</given-names></name><degrees>MS</degrees><xref rid="jah311401-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jah311401-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jah311401-cr-0006" contrib-type="author"><name><surname>Ru</surname><given-names>Huibin</given-names></name><degrees>BS</degrees><xref rid="jah311401-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jah311401-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jah311401-cr-0007" contrib-type="author"><name><surname>Song</surname><given-names>Tingrui</given-names></name><degrees>BS</degrees><xref rid="jah311401-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jah311401-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jah311401-cr-0008" contrib-type="author"><name><surname>Li</surname><given-names>Li</given-names></name><degrees>MD, PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9289-3974</contrib-id><xref rid="jah311401-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jah311401-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jah311401-cr-0009" contrib-type="author"><name><surname>Hao</surname><given-names>Xinzhong</given-names></name><degrees>MS</degrees><xref rid="jah311401-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jah311401-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jah311401-cr-0010" contrib-type="author" corresp="yes"><name><surname>Jin</surname><given-names>Jianhua</given-names></name><degrees>MD, PhD</degrees><xref rid="jah311401-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jah311401-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>jjh1225@126.com</email></address></contrib><contrib id="jah311401-cr-0011" contrib-type="author" corresp="yes"><name><surname>Cheng</surname><given-names>Yan</given-names></name><degrees>MD, PhD</degrees><xref rid="jah311401-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jah311401-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>chengyan_1976@163.com</email></address></contrib><contrib id="jah311401-cr-0012" contrib-type="author" corresp="yes"><name><surname>Wu</surname><given-names>Zhifang</given-names></name><degrees>MD, PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0376-982X</contrib-id><xref rid="jah311401-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jah311401-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>zhifangwu@sxmu.edu.cn</email></address></contrib><contrib id="jah311401-cr-0013" contrib-type="author" corresp="yes"><name><surname>Li</surname><given-names>Sijin</given-names></name><degrees>MD, PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2010-3459</contrib-id><xref rid="jah311401-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jah311401-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>lisjnm123@163.com</email></address></contrib></contrib-group><aff id="jah311401-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Nuclear Medicine</named-content>
+<institution>First Hospital of Shanxi Medical University</institution>
+<city>Taiyuan</city>
+<country country="CN">China</country>
+</aff><aff id="jah311401-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Collaborative Innovation Center for Molecular Imaging of Precision Medicine</named-content>
+<institution>Shanxi Medical University</institution>
+<city>Taiyuan</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+Correspondence to: Sijin Li, MD, PhD, Zhifang Wu, MD, PhD, Yan Cheng, MD, PhD and Jianhua Jin, MD, PhD, First Hospital of Shanxi Medical University, No. 85, Jiefang South Rd, Taiyuan 030001, Shanxi Province, China. Email: <email>lisjnm123@163.com</email>; <email>zhifangwu@sxmu.edu.cn</email>; <email>chengyan_1976@163.com</email>; <email>jjh1225@126.com</email>
+<break/>
+</corresp><fn fn-type="equal" id="jah311401-note-0001"><label>*</label><p>H. Li and Y. Wei contributed equally.</p></fn></author-notes><pub-date pub-type="epub"><day>30</day><month>9</month><year>2025</year></pub-date><pub-date pub-type="collection"><day>07</day><month>10</month><year>2025</year></pub-date><volume>14</volume><issue seq="350">19</issue><issue-id pub-id-type="doi">10.1002/jah3.v14.19</issue-id><elocation-id>e041169</elocation-id><history>
+<date date-type="received"><day>16</day><month>1</month><year>2025</year></date>
+<date date-type="accepted"><day>24</day><month>7</month><year>2025</year></date>
+</history><permissions><!--Copyright &#x000a9; 2025 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley Blackwell--><copyright-statement content-type="article-copyright">&#x000a9; 2025 The Author(s). Published on behalf of the American Heart Association, Inc., by Wiley.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:JAH3-14-e041169.pdf"/><abstract><sec id="jah311401-sec-0001"><title>Background</title><p>Cardiac allograft vasculopathy (CAV) is the primary cause of limited long&#x02010;term survival among heart transplant recipients. This study aimed to evaluate the feasibility of <sup>18</sup>F&#x02010;FAPI&#x02010;74 positron emission tomography/computed tomography (PET/CT) imaging for monitoring the fibrosis of CAV.</p></sec><sec id="jah311401-sec-0002"><title>Methods</title><p>Rat models of CAV were established and 1 hour dynamic PET/CT imaging was performed in the 15th week postoperation. Serial static <sup>18</sup>F&#x02010;FAPI&#x02010;74 PET/CT imaging in the allograft and isograft groups were performed from week 3 to 17. Blocking experiments were performed on allograft rats to confirm the tracer&#x02019;s targeting specificity. In&#x000a0;vivo PET/CT imaging findings were further corroborated by ex&#x000a0;vivo PET/CT imaging and biodistribution studies. Histological examination was conducted to validate the model&#x02019;s effectiveness, and the correlation between FAP expression levels and imaging results was ascertained.</p></sec><sec id="jah311401-sec-0003"><title>Results</title><p>Dynamic PET/CT imaging revealed peak graft heart (Ht) uptake in the allograft group at 60&#x02009;minutes post <sup>18</sup>F&#x02010;FAPI&#x02010;74 injection. PET/CT imaging and biodistribution studies at all time points confirmed significantly higher radioactivity uptake in Ht of the allograft group, as compared with both their native hearts and Ht of the isograft group, and peaking at week 15. There was almost no radioactive accumulation of Ht in the allograft rats blocked by FAPI. Histological analysis confirmed significantly elevated FAP expression in Ht of the allograft group compared with the isograft group, consistent with the severity of CAV.</p></sec><sec id="jah311401-sec-0004"><title>Conclusions</title><p>We successfully achieved molecular imaging of activated fibroblasts in CAV rat models, indicating that <sup>18</sup>F&#x02010;FAPI&#x02010;74 PET/CT may be a valuable means of evaluating fibrosis progression of CAV.</p></sec></abstract><abstract abstract-type="graphical"><p>
+<boxed-text position="anchor" content-type="graphic" id="jah311401-blkfxd-0001"><graphic xlink:href="JAH3-14-e041169-g005.jpg" position="anchor" id="jats-graphic-1"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jah311401-kwd-0001">
+<sup>18</sup>F&#x02010;FAPI&#x02010;74</kwd><kwd id="jah311401-kwd-0002">cardiac allograft vasculopathy (CAV)</kwd><kwd id="jah311401-kwd-0003">fibroblast activation protein (FAP)</kwd><kwd id="jah311401-kwd-0004">PET/CT</kwd></kwd-group><kwd-group kwd-group-type="subject-categories"><title>Subject Categories</title><kwd>Transplantation</kwd><kwd>Animal Models of Human Disease</kwd><kwd>Fibrosis</kwd><kwd>Nuclear Cardiology and PET</kwd><kwd>Basic Science Research</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>Shanxi Province Higher Education &#x0201c;Billion Project&#x0201d; Science and Technology Guidance Project</institution></institution-wrap>
+</funding-source></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>National Natural Science Foundation of China</institution><institution-id institution-id-type="doi">10.13039/501100001809</institution-id></institution-wrap>
+</funding-source><award-id>82402339</award-id></award-group><award-group id="funding-0003"><funding-source>
+<institution-wrap><institution>China Postdoctoral Science Foundation</institution><institution-id institution-id-type="doi">10.13039/501100002858</institution-id></institution-wrap>
+</funding-source><award-id>2023M732153</award-id></award-group><award-group id="funding-0004"><funding-source>
+<institution-wrap><institution>Shanxi Provincial Basic Research Program</institution></institution-wrap>
+</funding-source><award-id>202203021212033</award-id></award-group></funding-group><counts><fig-count count="10"/><table-count count="1"/><page-count count="14"/><word-count count="7100"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>07 October 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.6 mode:remove_FC converted:21.11.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="jah311401-ntgp-0001"><fn id="jah311401-note-0002"><p>This manuscript was sent to Timothy C. Wong, MD, MS, Associate Editor, for review by expert referees, editorial decision, and final disposition.</p></fn><fn id="jah311401-note-0003"><p>For Sources of Funding and Disclosures, see page 13.</p></fn></fn-group></notes></front><body id="jah311401-body-0001"><def-list list-content="abbreviations" id="jah311401-dl-0001"><title>Nonstandard Abbreviations and Acronyms</title><def-item><term id="jah311401-li-0001">CAV</term><def id="jah311401-li-0002"><p>cardiac allograft vasculopathy</p></def></def-item><def-item><term id="jah311401-li-0003">FAPI</term><def id="jah311401-li-0004"><p>fibroblast activation protein inhibitor</p></def></def-item><def-item><term id="jah311401-li-0005">HT</term><def id="jah311401-li-0006"><p>heart transplantation</p></def></def-item></def-list><p>
+<boxed-text position="anchor" content-type="box" id="jah311401-blkfxd-0002"><caption><title>Research Perspective</title></caption><sec id="jah311401-sec-0007"><title>What Is New?</title><p>
+<list list-type="bullet" id="jah311401-list-0001"><list-item id="jah311401-li-0007"><p>To the best of our knowledge, this study marks the first time that <sup>18</sup>F&#x02010;FAPI&#x02010;74 has been used to monitor fibrosis in cardiac allograft vasculopathy and confirms the elevated expression of FAP in cardiac allograft vasculopathy.</p></list-item></list>
+</p></sec><sec id="jah311401-sec-0008"><title>What Question Should Be Addressed Next?</title><p>
+<list list-type="bullet" id="jah311401-list-0002"><list-item id="jah311401-li-0008"><p>We believe that our current study highlights the potential role of <sup>18</sup>F&#x02010;FAPI&#x02010;74 in cardiac allograft vasculopathy detection.</p></list-item><list-item id="jah311401-li-0009"><p>Future clinical trials are needed to assist in diagnosing cardiac allograft vasculopathy in heart transplant patients and evaluating the effectiveness of antifibrotic therapies, thereby improving the long&#x02010;term prognosis of patients.</p></list-item></list>
+</p></sec></boxed-text>
+</p><p>Heart transplantation (HT) is a recognized method for treating patients with end&#x02010;stage heart failure.<xref rid="jah311401-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> Although advancements in immunosuppressive therapies and patient management have improved survival rates after HT, rejection and cardiac allograft vasculopathy (CAV) remain obstacles to long&#x02010;term survival.<xref rid="jah311401-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> The incidence of CAV is 29% and 47% at 5 and 10&#x02009;years post&#x02010;transplantation, respectively, and it can occur as early as 1&#x02009;year post&#x02010;transplantation.<xref rid="jah311401-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> Once CAV has progressed, the only effective treatment is re&#x02010;transplantation.<xref rid="jah311401-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> Therefore, HT patients should be regularly monitored for signs of graft dysfunction. Invasive coronary angiography (ICA) is the standard method for detecting CAV, often combined with intravascular ultrasound.<xref rid="jah311401-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> However, both of these detection methods are invasive and less sensitive, which cannot meet the demands of frequent surveillance. Hence, there is a need to study noninvasive techniques with high specificity and sensitivity for visualization of CAV.</p><p>In recent years, molecular imaging has garnered significant interest due to its capacity to elucidate the cellular and molecular characteristics of diseases.<xref rid="jah311401-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> Radionuclide molecular imaging, in particular, has become a prevalent technique within this field, recognized for its exceptional sensitivity and specificity. Recent studies have focused on identifying biomarkers that could effectively predict and stratify the risk of CAV in HT patients.<xref rid="jah311401-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> CAV is characterized by fibroblast&#x02010;myofibroblast transformation and extracellular matrix deposition, accompanied by perivascular fibrosis, inflammatory cell infiltration, and subsequent narrowing of the vessel lumen, culminating in ischemic graft failure.<xref rid="jah311401-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> This excessive extracellular matrix accumulation results in myocardial fibrosis, which disrupts myocardial structure and leads to cardiac insufficiency.<xref rid="jah311401-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> The expression of fibroblast activation protein (FAP) by activated myocardial fibroblasts is a serine protease that can be regarded as a biomarker of activated cardiac fibroblasts.<xref rid="jah311401-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>
+</p><p>In this study, based on the pathological changes of fibroblast activation in CAV, we targeted the FAP using a fibroblast activation protein inhibitor (FAPI), and performed <sup>18</sup>F&#x02010;FAPI&#x02010;74 positron emission tomography/computed tomography (PET/CT) imaging in rat HT models. The objectives were to explore the correlation between FAP expression levels and the severity of CAV, to assess the feasibility of <sup>18</sup>F&#x02010;FAPI&#x02010;74 PET for monitoring the fibrosis of CAV, and to provide an experimental basis for its application in the field of CAV.</p><sec sec-type="methods" id="jah311401-sec-0009"><title>METHODS</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p><p>The article is written in accordance with the Animal Research: Reporting of in Vivo Experiments guidelines.<xref rid="jah311401-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>
+</p><sec id="jah311401-sec-0010"><title>Radiolabeling of <styled-content style="fixed-case" toggle="no">
+<sup>18</sup>F</styled-content>&#x02010;<styled-content style="fixed-case" toggle="no">FAPI</styled-content>&#x02010;74</title><p>The <sup>18</sup>F&#x02010;fluoride was mixed with 10&#x02009;mmol/L AlCl<sub>3</sub> solution, sodium acetate buffer (pH=4), DMSO, and NOTA&#x02010;FAPI&#x02010;74 precursor. The solution was heated at 90 &#x000b0;C for 15&#x02009;minutes and diluted with 10&#x02009;mL water. The resulting mixture was then purified with a C18 column (Waters, Ireland) and eluted with 60% ethanol. The obtained product was reconstituted with saline, and its radiochemical purity was determined by radio&#x02010;high performance liquid chromatography.</p></sec><sec id="jah311401-sec-0011"><title>Animal Models</title><p>All animal experimental procedures were performed in accordance with the Guidelines for the Care and Use of Laboratory Animals and approved by the Animal Care and Use Committee of Shanxi Medical University (No. DWYJ&#x02010;2024&#x02010;028). Eight&#x02010;week&#x02010;old Lewis and F344 male rats (170&#x02013;200&#x02009;g, Beijing Vital River Laboratory Animal Technology Co.,Ltd., China) were maintained under sterile conditions. We established the abdominal heterotopic HT rat model by referring to the Ono method used in previous studies.<xref rid="jah311401-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> All operations were performed with the rats under 2.5% isoflurane anesthesia. The donor rat&#x02019;s heart was meticulously harvested, and its ascending aorta and pulmonary artery were separately anastomosed to the recipient rat&#x02019;s abdominal aorta and inferior vena cava. In the allograft group, hearts were transplanted from F344 rats to Lewis rats, followed by subcutaneous injection of FK506 (1&#x02009;mg/kg per day) (MCE, New Jersey, USA) for 14 consecutive days postoperatively. In contrast, the isograft group included Lewis rats as both donors and recipients, without any treatment after transplantation. Figure&#x000a0;<xref rid="jah311401-fig-0001" ref-type="fig">1</xref> shows the experimental schedule.</p><fig position="float" fig-type="Figure" id="jah311401-fig-0001"><label>Figure 1</label><caption><title>Animal grouping and experimental design.</title><p>Allograft (ALL) was the experimental group, isograft (ISO) was the control group, and allograft blocking (ALLB) performed the blocking experiment at the 13th week. PET/CT indicates positron emission tomography/computed tomography.</p></caption><graphic xlink:href="JAH3-14-e041169-g004" position="anchor" id="jats-graphic-3"/></fig></sec><sec id="jah311401-sec-0012"><title>In Vivo <styled-content style="fixed-case" toggle="no">PET</styled-content>/<styled-content style="fixed-case" toggle="no">CT</styled-content> Imaging and Blocking Studies</title><p>PET/CT imaging in this study was performed using an IRIS Micro&#x02010;PET/CT scanner (Inviscan, France). In the 15th week postoperation, the allograft rats (n=5) were intravenously injected with <sup>18</sup>F&#x02010;FAPI&#x02010;74 (7.5&#x02013;8.5&#x02009;MBq) for 1&#x02010;hour dynamic micro&#x02010;PET/CT imaging. Additionally, both allograft and isograft groups were administered <sup>18</sup>F&#x02010;FAPI&#x02010;74 (7.5&#x02013;8.5&#x02009;MBq) intravenously at specific intervals (weeks 3, 6, 9, 12, 15, and 17 postsurgery) for 10&#x02009;minutes in&#x000a0;vivo static PET/CT imaging (1&#x02009;hour postinjection) (n=5).</p><p>We also established another 15 rat models, which were randomly divided into 3 groups for histological analysis at weeks 9, 13, and 17 (with 1&#x02010;month intervals). At week 13, an extra group of rats was included for block imaging to evaluate the in&#x000a0;vivo targeting specificity of <sup>18</sup>F&#x02010;FAPI&#x02010;74. We injected FAPI (2&#x02009;mg/per rat, P240531, TanzhenBio, Jiangxi, China) into allograft rats (this group was defined as the allograft blocking group) via the tail vein, followed by an injection of <sup>18</sup>F&#x02010;FAPI&#x02010;74 30&#x02009;minutes later. PET/CT imaging was performed 1 hour postinjection. At the same time, allograft and isograft groups underwent PET/CT imaging and were compared with the allograft blocking&#x000a0;group (n=5). The rats were anesthetized with 2.5% isoflurane during injection and imaging, and remained awake for the rest of the time. Carimas 2.10 software (Turku PET Centre, Turku, Finland) was used to draw 3&#x02010;dimensional regions of interest in PET/CT images for imaging analysis.</p></sec><sec id="jah311401-sec-0013"><title>Ex Vivo <styled-content style="fixed-case" toggle="no">PET</styled-content>/<styled-content style="fixed-case" toggle="no">CT</styled-content> Imaging and Biodistribution Studies</title><p>The rats were euthanized immediately after in&#x000a0;vivo PET/CT scanning at the 13th week. The graft hearts and native hearts from allograft, isograft, and allograft blocking groups were subjected to ex&#x000a0;vivo PET/CT imaging (n=5). The tissues of interest were collected, washed, weighed, and their radioactivity levels were quantified using a 2480 WIZARD<xref rid="jah311401-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> &#x003b3;&#x02010;counter (PerkinElmer, USA). The radioactivity in each organ and tissue were calculated as a percentage of the injected dose per gram of tissue (% ID/g), with radioactive decay correction performed.</p></sec><sec id="jah311401-sec-0014"><title>Histological Examination</title><p>The graft hearts and native hearts from allograft (9th, 13th, 17th weeks), isograft (13th week) and allograft blocking (13th week) rats (n=5) were partially fixed in 4% paraformaldehyde and subsequently embedded in paraffin, while other segments were stored directly at &#x02212;80 &#x000b0;C. Sections of paraffin&#x02010;embedded tissues were stained with hematoxylin and eosin to assess the degree of inflammatory cell infiltration, and with Elastic van Gieson and Masson stains to evaluate intimal hyperplasia and fiber deposition. Vascular lesions were assessed by calculating the percentage of luminal obstruction, and the degree of fibrosis was quantified as the percentage of fibrotic area within a given microscopic field of view. Tissue expression of FAP was determined using immunohistochemistry with anti&#x02010;FAP antibody (ab218164, Abcam, Cambridge, UK) and Western blotting with FAP&#x02010;&#x003b1; rabbit mAb (A23789, ABclonal Biotechnology, Wuhan, China). All images were analyzed by ImageJ software (Wayne Rasband, National Institutes of Health, USA) to quantify the percentage of area that stained positive.</p></sec><sec id="jah311401-sec-0015"><title>Statistical Analysis</title><p>Results are expressed as mean&#x000b1;SD. Statistical analysis was performed using GraphPad Prism software (version 9.0, CA, USA). For comparisons among multiple groups, 1&#x02010;way ANOVA was performed followed by Bonferroni correction. Repeated measures ANOVA with Bonferroni correction was used for comparisons involving multiple groups at different time points. The correlation between radiographic semiquantitative values and histological semiquantitative values was analyzed using simple linear regression analysis. A <italic toggle="yes">P</italic> value &#x0003c;0.05 was considered statistically significant.</p></sec></sec><sec sec-type="results" id="jah311401-sec-0016"><title>RESULTS</title><sec id="jah311401-sec-0017"><title>Micro&#x02010;<styled-content style="fixed-case" toggle="no">PET</styled-content>/<styled-content style="fixed-case" toggle="no">CT</styled-content> Scans</title><p>There was no statistically significant difference in body weight among allograft, isograft, and allograft blocking groups at the 13th week after surgery, indicating that the CAV disease process did not cause any change in body weight of rat models (Figure&#x000a0;<xref rid="jah311401-fig-0002" ref-type="fig">2</xref>). Dynamic PET/CT images revealed that <sup>18</sup>F&#x02010;FAPI&#x02010;74 was rapidly distributed in the allograft group after injection, reaching peak uptake at 10&#x02009;minutes, followed by a gradual decline to a stable level. The standardized uptake value ratios of the graft heart to the native heart and the graft heart to the liver in the allograft group peaked at 60&#x02009;minutes after the injection of <sup>18</sup>F&#x02010;FAPI&#x02010;74 (Figure&#x000a0;<xref rid="jah311401-fig-0003" ref-type="fig">3</xref>). Therefore, in the subsequent static PET/CT imaging, we performed in&#x000a0;vivo Micro&#x02010;PET/CT scans at 60&#x02009;minutes after the probe injection.</p><fig position="float" fig-type="Figure" id="jah311401-fig-0002"><label>Figure 2</label><caption><title>The weight change curve of model rats.</title><p>
+<bold>A</bold>, Time&#x02212;body weight (g) of the allograft (ALL), isograft (ISO), and allograft blocking (ALLB) rats (n=5). <bold>B</bold>, Body weight (g) of rats in 3 groups at the 13th week.</p></caption><graphic xlink:href="JAH3-14-e041169-g001" position="anchor" id="jats-graphic-5"/></fig><fig position="float" fig-type="Figure" id="jah311401-fig-0003"><label>Figure 3</label><caption><title>A 1&#x02010;hour dynamic <sup>18</sup>F&#x02010;FAPI&#x02010;74 PET/CT scan of the ALL group (n=5) in the 15th week postoperation.</title><p>
+<bold>A</bold>, The axial PET/CT images at the respective time points. The red arrows indicate the graft heart. <bold>B</bold>, Time&#x02212;activity curves of SUVmean of graft heart, native heart, and liver in allograft (ALL) rats (left). Time&#x02212;SUVmean ratio of graft heart to native heart and graft heart to liver in ALL rats (right). ALL indicates allograft; PET/CT, positron emission tomography/computed tomography; p.i., post injection; and SUV, standardized uptake value.</p></caption><graphic xlink:href="JAH3-14-e041169-g002" position="anchor" id="jats-graphic-7"/></fig><p>The static PET/CT imaging results at week 3 after transplantation showed that the uptake of <sup>18</sup>F&#x02010;FAPI&#x02010;74 by the graft heart of the allograft group was significantly higher than that in the isograft group (<italic toggle="yes">P</italic>=2.1&#x000d7;10<sup>&#x02212;6</sup>) (Figure&#x000a0;<xref rid="jah311401-fig-0004" ref-type="fig">4</xref>). Afterwards, the probe uptake by graft hearts in the allograft group gradually increased over time, peaking at week 15 (Figure&#x000a0;<xref rid="jah311401-fig-0004" ref-type="fig">4B</xref>) or 13 (Figure&#x000a0;<xref rid="jah311401-fig-0005" ref-type="fig">5B</xref>) with a significantly higher mean standardized uptake value than that in the isograft group (0.58&#x000b1;0.02 versus 0.34&#x000b1;0.02, <italic toggle="yes">P</italic>=8.4&#x000d7;10<sup>&#x02212;8</sup>, week 15). The mean standardized uptake value of the graft heart in the allograft group decreased at week 17. Additionally, the standardized uptake value ratios of the graft heart to the native heart and the graft heart to the liver in the allograft group also exhibited an upward trend, reaching a peak at week 15, which were significantly higher than those in the isograft group (Figure&#x000a0;<xref rid="jah311401-fig-0004" ref-type="fig">4</xref>). No significant uptake was observed in the graft hearts of allograft blocking rats compared with the allograft group, at week 13 of the blocking experiment (<italic toggle="yes">P</italic>=5.5&#x000d7;10<sup>&#x02212;11</sup>, Figure&#x000a0;<xref rid="jah311401-fig-0006" ref-type="fig">6A</xref> and <xref rid="jah311401-fig-0006" ref-type="fig">6B</xref>).</p><fig position="float" fig-type="Figure" id="jah311401-fig-0004"><label>Figure 4</label><caption><title>Serial static <sup>18</sup>F&#x02010;FAPI&#x02010;74 PET/CT images in the allograft (ALL) group and the isograft (ISO) group (n=5).</title><p>
+<bold>A</bold>, Representative serial graft heart PET/CT images on weeks 3, 6, 9, 12, 15, and 17. The red arrows indicate the graft hearts. <bold>B</bold>, SUVmean, SUVmax, SUVmean ratio of the graft heart (Ht) to the native heart (H) and SUVmean ratio of the Ht to the liver (L) at different times. PET/CT indicates positron emission tomography/computed tomography; and SUV, standardized uptake value.</p></caption><graphic xlink:href="JAH3-14-e041169-g008" position="anchor" id="jats-graphic-9"/></fig><fig position="float" fig-type="Figure" id="jah311401-fig-0005"><label>Figure 5</label><caption><title>Static PET/CT imaging results of the allograft (ALL) group at 9th, 13th, and 17th weeks after surgery.</title><p>
+<bold>A</bold>, Representative PET/CT images of the ALL group on week 9, 13, and 17 at 1&#x02009;hour after <sup>18</sup>F&#x02010;FAPI&#x02010;74 injection. The red arrows indicate the graft heart. <bold>B</bold>, SUVmean of the graft heart (Ht) and the native heart (H) quantified on PET/CT images (n=5). PET/CT indicates positron emission tomography/computed tomography; and SUV, standardized uptake value.</p></caption><graphic xlink:href="JAH3-14-e041169-g007" position="anchor" id="jats-graphic-11"/></fig><fig position="float" fig-type="Figure" id="jah311401-fig-0006"><label>Figure 6</label><caption><title>Results of the blocking experiment.</title><p>
+<bold>A</bold>, PET/CT images of the allograft (ALL), isograft (ISO), and allograft blocking (ALLB) groups at 1 h after <sup>18</sup>F&#x02010;FAPI&#x02010;74 injection in the 13th week postoperation. The red arrows indicate the graft heart. <bold>B</bold>, SUVmean of the graft heart (Ht) and the native heart (H) quantified on <sup>18</sup>F&#x02010;FAPI&#x02010;74 PET/CT images at different time points. (n=5). <bold>C</bold>, Ex&#x000a0;vivo PET/CT imaging of the Ht, H, liver (L), spleen (S), left kidney (Kl) and right kidney (Kr) in the ALL group at 13th week. <bold>D</bold>, Ex&#x000a0;vivo PET/CT imaging of the Ht and H in 3 groups. <bold>E</bold>, Biodistribution of <sup>18</sup>F&#x02010;FAPI&#x02010;74 in the ALL, ISO, and ALLB rats at 1 h postinjection in the 13th week postoperation (n=5). Radioactive uptake of the H and the Ht in each group is shown at the top of the figure. PET/CT indicates positron emission tomography/computed tomography; and SUV, standardized uptake value.</p></caption><graphic xlink:href="JAH3-14-e041169-g009" position="anchor" id="jats-graphic-13"/></fig></sec><sec id="jah311401-sec-0018"><title>Ex Vivo <styled-content style="fixed-case" toggle="no">PET</styled-content>/<styled-content style="fixed-case" toggle="no">CT</styled-content> Scans and Biodistribution</title><p>Ex vivo PET/CT imaging showed that there was high uptake of radioactivity in the kidneys and very low radioactivity accumulation of probes in the liver and spleen in the allograft group (Figure&#x000a0;<xref rid="jah311401-fig-0006" ref-type="fig">6C</xref>). Because the graft hearts in the isograft group did not experience rejection, they also had no circulatory function, so they atrophied over time (Figure&#x000a0;<xref rid="jah311401-fig-0006" ref-type="fig">6D</xref>). The graft hearts of the allograft group had the highest radioactive uptake, which was significantly higher than that of their native hearts and the graft hearts of isograft rats. The graft hearts of the allograft blocking group uptake were very low, close to the graft hearts of the isograft group, indicating that the blocking experiment was successful (Figure&#x000a0;<xref rid="jah311401-fig-0006" ref-type="fig">6D</xref>). Biodistribution studies revealed that <sup>18</sup>F&#x02010;FAPI&#x02010;74 uptake was higher in the kidneys and large intestines at 1&#x02009;hour postinjection, suggesting that excretion primarily occurs through the renal and intestinal pathways. The radioactivity uptake in the graft hearts of the allograft group was significantly higher than in their native hearts and the graft hearts of isograft rats (1.82&#x000b1;0.22% ID/g versus 0.52&#x000b1;0.17% ID/g versus 0.84&#x000b1;0.15% ID/g, <italic toggle="yes">P</italic>=2.9&#x000d7;10<sup>&#x02212;11</sup>, <italic toggle="yes">P</italic>=9.6&#x000d7;10<sup>&#x02212;9</sup>, Figure&#x000a0;<xref rid="jah311401-fig-0006" ref-type="fig">6E</xref> and <xref rid="jah311401-tbl-0001" ref-type="table">Table1</xref>). Similarly, radioactivity uptake in the graft hearts of the allograft group was higher than the allograft blocking group (1.82&#x000b1;0.22% ID/g versus 0.54&#x000b1;0.19% ID/g, <italic toggle="yes">P</italic>=3.8&#x000d7;10<sup>&#x02212;11</sup>), but there was no difference in the native hearts uptake among the 3 groups.</p><table-wrap position="float" id="jah311401-tbl-0001" content-type="Table"><label>Table 1</label><caption><p>Biodistribution of <sup>18</sup>F&#x02010;FAPI&#x02010;74 in the ALL, ISO, and ALLB Rats at 1&#x02009;Hour Postinjection (% ID/g, Mean&#x000b1;SD, n=5)</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">ALL</th><th align="left" rowspan="1" colspan="1">ISO</th><th align="left" rowspan="1" colspan="1">ALLB</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Left kidney</td><td align="left" rowspan="1" colspan="1">6.79&#x000b1;0.57</td><td align="left" rowspan="1" colspan="1">5.22&#x000b1;1.10</td><td align="left" rowspan="1" colspan="1">3.38&#x000b1;0.95</td></tr><tr><td align="left" rowspan="1" colspan="1">Right kidney</td><td align="left" rowspan="1" colspan="1">5.72&#x000b1;0.65</td><td align="left" rowspan="1" colspan="1">4.99&#x000b1;1.24</td><td align="left" rowspan="1" colspan="1">3.90&#x000b1;0.69</td></tr><tr><td align="left" rowspan="1" colspan="1">Small intestine</td><td align="left" rowspan="1" colspan="1">1.94&#x000b1;0.93</td><td align="left" rowspan="1" colspan="1">2.17&#x000b1;0.88</td><td align="left" rowspan="1" colspan="1">0.31&#x000b1;0.07</td></tr><tr><td align="left" rowspan="1" colspan="1">Large intestine</td><td align="left" rowspan="1" colspan="1">1.62&#x000b1;1.09</td><td align="left" rowspan="1" colspan="1">1.71&#x000b1;0.99</td><td align="left" rowspan="1" colspan="1">0.35&#x000b1;0.18</td></tr><tr><td align="left" rowspan="1" colspan="1">Stomach</td><td align="left" rowspan="1" colspan="1">1.18&#x000b1;0.37</td><td align="left" rowspan="1" colspan="1">1.13&#x000b1;0.64</td><td align="left" rowspan="1" colspan="1">0.24&#x000b1;0.06</td></tr><tr><td align="left" rowspan="1" colspan="1">Bone</td><td align="left" rowspan="1" colspan="1">0.80&#x000b1;0.24</td><td align="left" rowspan="1" colspan="1">0.94&#x000b1;0.39</td><td align="left" rowspan="1" colspan="1">0.33&#x000b1;0.03</td></tr><tr><td align="left" rowspan="1" colspan="1">Blood</td><td align="left" rowspan="1" colspan="1">0.94&#x000b1;0.24</td><td align="left" rowspan="1" colspan="1">1.05&#x000b1;0.48</td><td align="left" rowspan="1" colspan="1">0.39&#x000b1;0.07</td></tr><tr><td align="left" rowspan="1" colspan="1">Lung</td><td align="left" rowspan="1" colspan="1">0.80&#x000b1;0.20</td><td align="left" rowspan="1" colspan="1">0.84&#x000b1;0.44</td><td align="left" rowspan="1" colspan="1">0.33&#x000b1;0.04</td></tr><tr><td align="left" rowspan="1" colspan="1">Liver (L)</td><td align="left" rowspan="1" colspan="1">0.76&#x000b1;0.13</td><td align="left" rowspan="1" colspan="1">0.69&#x000b1;0.37</td><td align="left" rowspan="1" colspan="1">0.41&#x000b1;0.02</td></tr><tr><td align="left" rowspan="1" colspan="1">Spleen</td><td align="left" rowspan="1" colspan="1">0.68&#x000b1;0.40</td><td align="left" rowspan="1" colspan="1">0.39&#x000b1;0.15</td><td align="left" rowspan="1" colspan="1">0.24&#x000b1;0.05</td></tr><tr><td align="left" rowspan="1" colspan="1">Muscle</td><td align="left" rowspan="1" colspan="1">0.48&#x000b1;0.36</td><td align="left" rowspan="1" colspan="1">0.36&#x000b1;0.14</td><td align="left" rowspan="1" colspan="1">0.11&#x000b1;0.04</td></tr><tr><td align="left" rowspan="1" colspan="1">Brain</td><td align="left" rowspan="1" colspan="1">0.05&#x000b1;0.03</td><td align="left" rowspan="1" colspan="1">0.12&#x000b1;0.09</td><td align="left" rowspan="1" colspan="1">0.04&#x000b1;0.01</td></tr><tr><td align="left" rowspan="1" colspan="1">Native heart (H)</td><td align="left" rowspan="1" colspan="1">0.52&#x000b1;0.17</td><td align="left" rowspan="1" colspan="1">0.45&#x000b1;0.15</td><td align="left" rowspan="1" colspan="1">0.23&#x000b1;0.06</td></tr><tr><td align="left" rowspan="1" colspan="1">Graft heart (Ht)</td><td align="left" rowspan="1" colspan="1">1.82&#x000b1;0.22</td><td align="left" rowspan="1" colspan="1">0.84&#x000b1;0.15</td><td align="left" rowspan="1" colspan="1">0.54&#x000b1;0.19</td></tr><tr><td align="left" rowspan="1" colspan="1">Ht/H</td><td align="left" rowspan="1" colspan="1">3.75&#x000b1;0.99</td><td align="left" rowspan="1" colspan="1">2.00&#x000b1;0.56</td><td align="left" rowspan="1" colspan="1">2.38&#x000b1;0.69</td></tr><tr><td align="left" rowspan="1" colspan="1">Ht/L</td><td align="left" rowspan="1" colspan="1">2.45&#x000b1;0.41</td><td align="left" rowspan="1" colspan="1">1.35&#x000b1;0.31</td><td align="left" rowspan="1" colspan="1">1.31&#x000b1;0.43</td></tr></tbody></table><table-wrap-foot id="jah311401-ntgp-1000"><fn id="jah311401-note-1000"><p>ALL indicates allograft; ALLB, allograft blocking; and ISO, isograft.</p></fn></table-wrap-foot></table-wrap></sec><sec id="jah311401-sec-0019"><title>Histological Analysis</title><p>We assessed CAV severity by histological examination based on intimal hyperplasia, perivascular infiltration, and myocardial fibrosis. In the graft hearts of the allograft rats, hematoxylin and eosin staining demonstrated inflammatory cell infiltration and myocardial tissue destruction; Elastic van Gieson staining showed significant intimal hyperplasia and lumen narrowing; Masson staining indicated increased deposition of elastic fibers, and the degree of fibrosis increased with time. Compared with week 9, the fibrosis degree in graft hearts of the allograft group in week 13 was significantly aggravated (<italic toggle="yes">P</italic>=0.00084), similar to that at the 17th week (<italic toggle="yes">P</italic> &#x0003e;0.99, Figure&#x000a0;<xref rid="jah311401-fig-0007" ref-type="fig">7</xref>). The pathological status of the graft hearts in the allograft blocking group mirrored that of the allograft group, whereas no comparable pathological alterations were detected in the isograft group. Throughout the study duration, no pathological changes were observed in the native heart of any model rats. Meanwhile, immunohistochemical results revealed strong FAP staining in the graft hearts of the allograft group and the allograft blocking group, which was significantly higher than that of the isograft group (<italic toggle="yes">P</italic>=3.8&#x000d7;10<sup>&#x02212;13</sup>, Figure&#x000a0;<xref rid="jah311401-fig-0008" ref-type="fig">8</xref>). Additionally, the expression levels of FAP in graft hearts or native hearts of allograft and isograft groups were also detected by Western blot, using glyceraldehyde&#x02010;3&#x02010;phosphate dehydrogenase (GAPDH) as the internal control. The results also indicated that FAP expression in graft hearts of the allograft group was higher than its native hearts and the graft hearts of the isograft group, suggesting that FAP is highly expressed in CAV (Figure&#x000a0;<xref rid="jah311401-fig-0009" ref-type="fig">9A</xref>). It is worth noting that the uptake of <sup>18</sup>F&#x02010;FAPI&#x02010;74 by the graft hearts of allograft (9th, 13th weeks) and isograft (13th week) groups in PET/CT imaging was correlated with their expression level of FAP in immunohistochemistry (Figure&#x000a0;<xref rid="jah311401-fig-0009" ref-type="fig">9B</xref>). These results show that the <sup>18</sup>F&#x02010;FAPI&#x02010;74 PET/CT imaging results truly reflect the pathological changes.</p><fig position="float" fig-type="Figure" id="jah311401-fig-0007"><label>Figure 7</label><caption><title>Histological examination and quantitative analysis at weeks 9, 13, and 17 postsurgery in the allograft (ALL) group (n=5).</title><p>
+<bold>A</bold>, HE staining, EVG staining, Masson staining, and IHC staining (FAP) of the graft heart (Ht) and the native heart (H). <bold>B</bold>, The quantitative values of luminal occlusion in EVG staining. <bold>C</bold>, Percentage of fibrotic area (%) in Masson staining. <bold>D</bold>, The FAP(+) area(%) in IHC staining. EVG indicates Elastic van Gieson; FAP, fibroblast activation protein; and IHC, immunohistochemistry.</p></caption><graphic xlink:href="JAH3-14-e041169-g010" position="anchor" id="jats-graphic-15"/></fig><fig position="float" fig-type="Figure" id="jah311401-fig-0008"><label>Figure 8</label><caption><title>Histological examination and quantitative analysis at week 13 postsurgery in the allograft (ALL), isograft (ISO), and allograft blocking (ALLB) groups (n=5).</title><p>
+<bold>A</bold>, HE staining, EVG staining, Masson staining, and IHC staining (FAP) of the graft heart (Ht) and the native heart (H). <bold>B</bold>, The quantitative values of luminal occlusion in EVG staining. <bold>C</bold>, Percentage of fibrotic area (%) in Masson staining. <bold>D</bold>, The FAP(+) area(%) in IHC staining. EVG indicates Elastic van Gieson; FAP, fibroblast activation protein; and IHC, immunohistochemistry.</p></caption><graphic xlink:href="JAH3-14-e041169-g006" position="anchor" id="jats-graphic-17"/></fig><fig position="float" fig-type="Figure" id="jah311401-fig-0009"><label>Figure 9</label><caption><title>Western blot results and correlation between IHC staining and imaging data.</title><p>
+<bold>A</bold>, Western blot of the native heart (H) of the allograft (ALL) rats and the graft heart (Ht) of the ALL, allograft blocking (ALLB), and isograft (ISO) rats (top) and quantification analysis (bottom). n=5. <bold>B</bold>, Correlation between <sup>18</sup>F&#x02010;FAPI&#x02010;74 uptake (SUVmean) and the positive area (% Area) in FAP IHC staining of the Ht of ALL (9th, 13th weeks) and ISO (13th week) rats. FAP indicates fibroblast activation protein; IHC, immunohistochemistry; and SUV, standardized uptake value.</p></caption><graphic xlink:href="JAH3-14-e041169-g003" position="anchor" id="jats-graphic-19"/></fig></sec></sec><sec sec-type="discussion" id="jah311401-sec-0020"><title>DISCUSSION</title><p>CAV remains a critical factor impacting the long&#x02010;term outcomes of patients after HT and is a leading cause of post&#x02010;transplant morbidity and mortality.<xref rid="jah311401-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> This accelerated fibroproliferative coronary artery disease is characterized by early diffuse, concentric intimal thickening, which gradually progresses to epicardial branch lumen stenosis, small&#x02010;vessel occlusion, and myocardial infarction.<xref rid="jah311401-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> Early identification and monitoring of the fibrosis process are crucial for implementing timely interventions, potentially preventing disease progression to the point where revascularization becomes necessary.</p><p>At present, in addition to invasive tests such as ICA and intravascular ultrasound, several specialists have explored noninvasive diagnostic methods for CAV, including echocardiography, cardiac computed tomography angiography, and cardiac magnetic resonance.<xref rid="jah311401-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> A study involving 52 HT patients demonstrated that the sensitivity of cardiac computed tomography angiography in detecting CAV is comparable to that of ICA, supporting cardiac computed tomography angiography as a viable noninvasive alternative diagnostic technique.<xref rid="jah311401-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> Ahn et&#x000a0;al<xref rid="jah311401-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> combined dynamic computed tomography&#x02013;myocardial perfusion imaging with cardiac computed tomography angiography to assess both coronary artery and microvascular components of CAV, providing a noninvasive and cost&#x02010;effective alternative for early detection of CAV. Additionally, a study of 77 HT patients and 18 healthy controls highlighted the potential of cardiac magnetic resonance for noninvasive detection of progressive myocardial tissue changes and functional alterations associated with CAV severity.<xref rid="jah311401-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> Additionally, single&#x02010;photon emission computed tomography is a widely used imaging method in nuclear medicine to detect cardiac function. In comparison, PET/CT offers higher temporal and spatial resolution.<xref rid="jah311401-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> PET myocardial perfusion imaging has emerged as a functional imaging modality for CAV diagnosis, demonstrating clinical utility in evaluating myocardial microvascular dysfunction.<xref rid="jah311401-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> Current studies have confirmed that PET myocardial perfusion imaging has an excellent safety profile for HT receptors.<xref rid="jah311401-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> From a radiation dosimetry perspective, PET myocardial perfusion imaging exhibits significantly lower radiation exposure compared with ICA and single&#x02010;photon emission computed tomography imaging, making it particularly suitable for long&#x02010;term surveillance in patients with CAV.<xref rid="jah311401-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> Growing clinical evidence supports the evolving role of PET/CT in CAV risk stratification for HT recipients, particularly through quantitative assessment of myocardial blood flow and myocardial flow reserve.<xref rid="jah311401-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> These techniques potentially reduce the frequency of biopsies in low&#x02010;risk patients and improve patient compliance.</p><p>However, CAV usually manifests itself long after HT, and patients may be asymptomatic in the early stages. All of the above noninvasive imaging methods are used to assess ventricular volumes and cardiac function through anatomical changes in the heart and coronary arteries of patients with CAV. There is less sensitivity to early pathological processes such as inflammation and fibrosis, which may affect early diagnosis and intervention in CAV. In recent years, FAPI PET imaging based on FAP protein has been successfully used to detect the disease fibrosis process at an early stage before anatomical or hemodynamic changes occur.<xref rid="jah311401-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> Rao et&#x000a0;al<xref rid="jah311401-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> assessed the diagnostic performance of <sup>18</sup>F&#x02010;NOTA&#x02010;FAPI&#x02010;04 PET/CT for early&#x02010;stage liver fibrosis in liver transplantation patients. The results show that it has potential advantages in monitoring and predicting early liver fibrosis after liver transplantation. Building upon these advancements, our study represents the first successful implementation of <sup>18</sup>F&#x02010;FAPI&#x02010;74 for CAV monitoring, confirming both its technical feasibility and pathological specificity. The observed heightened FAP expression in CAV lesions, coupled with the agent&#x02019;s demonstrated sensitivity to fibrotic markers, suggests substantial diagnostic potential for early CAV detection.</p><p>This study confirmed the feasibility of <sup>18</sup>F&#x02010;FAPI&#x02010;74 PET/CT imaging to monitor CAV by visualizing activated fibroblasts. We successfully constructed a rat model of CAV, and dynamic PET/CT imaging results of allograft rats injected with the probe for 1 hour at 15&#x02009;weeks after surgery showed that the positive rate of graft heart uptake in the allograft group remained at a high level until the end of 60&#x02009;minutes, indicating a strong affinity of the tracer for FAP. A series of static PET/CT imaging results from 3&#x02009;weeks to 17&#x02009;weeks after modeling demonstrated that the uptake of the graft heart, the ratio of graft heart to native heart, and the ratio of graft heart to liver were highest at 15&#x02009;weeks after surgery. In this study, FAPI uptake was decreased at week 17 of CAV. The possible reason for this is that in the early stage of CAV, inflammatory and fibrotic activities are stronger and FAP expression is higher, resulting in higher <sup>18</sup>F&#x02010;FAPI&#x02010;74 uptake. Whereas in advanced stages of CAV, fibrosis may stabilize or scar tissue may form, and the activity of fibroblasts decreases, leading to decreased FAP expression and therefore lower <sup>18</sup>F&#x02010;FAPI&#x02010;74 uptake, the decrease in FAPI uptake may suggest to us that next, the clinical validation program needs to focus more on assessing the disease staging and exploring the diagnostic value of <sup>18</sup>F&#x02010;FAPI&#x02010;74 at different stages. Furthermore, the uptake of <sup>18</sup>F&#x02010;FAPI&#x02010;74 in graft heart of the allograft group was significantly higher than that of the isograft group at week 3, suggesting the potential of <sup>18</sup>F&#x02010;FAPI&#x02010;74 for early diagnosis of CAV, but the sensitivity for early diagnosis requires further study.</p><p>Notably, the inflammatory cell infiltration and fibroblast activation during CAV progression constitute a dynamic and continuous pathological process, which explains the diffuse inflammatory cell infiltration observed in our CAV model.<xref rid="jah311401-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> The <sup>18</sup>F&#x02010;FAPI&#x02010;74 PET imaging specifically targets FAP, a transmembrane glycoprotein predominantly expressed by activated fibroblasts with minimal expression in quiescent fibroblasts.<xref rid="jah311401-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> This biological characteristic explains why <sup>18</sup>F&#x02010;FAPI&#x02010;74 uptake in our CAV model primarily reflects fibrotic activity rather than acute inflammatory processes. It should be emphasized that previous histopathological studies have identified only a small part of FAP expression in nonfibroblastic cell populations, including inflammatory infiltrates, endothelial cells, or vascular smooth muscle components.<xref rid="jah311401-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> This molecular imaging approach addresses a critical clinical need given the limitations of current surveillance strategies, though future investigations should further explore its differential diagnostic capacity between acute inflammatory phases and chronic fibrotic remodeling in cardiac allografts.</p><p>At the same time, histological examination revealed that the severity of CAV (endocardial hyperplasia, luminal stenosis, and fibrosis degree) increased over time in the allograft group. We selected 3 time points (9th, 13th, and 17th weeks) for in&#x000a0;vitro histological analysis, and observed that the FAP protein expression, luminal occlusion, and fibrosis levels were highest at 13&#x02009;weeks, which was basically consistent with the results of in&#x000a0;vivo imaging (15th week). <sup>18</sup>F&#x02010;FAPI&#x02010;74 PET/CT imaging, as a molecular imaging modality, enables monitoring of the dynamic process of cardiac rejection. This dynamic monitoring offers deeper biological information compared with conventional perfusion imaging. It would be helpful to use this imaging modality to identify patients who may benefit from targeted antifibrotic therapy or to monitor their response to treatment. This could help frame the imaging technique not only as a diagnostic tool but also as part of a broader therapeutic strategy. This provides a new dimension in the treatment and management of HT patients.</p><p>We established both an isograft group and allograft blocking group as controls to evaluate the specificity of <sup>18</sup>F&#x02010;FAPI&#x02010;74 for diagnosing CAV and to improve the reliability of the results. At 13&#x02009;weeks postoperation, the radioactive uptake of graft heart in the allograft group was significantly higher than that in isograft group, and could be successfully blocked, indicating that the probe has high specificity for activated fibroblasts in CAV diagnosis. Immunohistochemistryand Western blot results confirmed the high expression of FAP protein in graft hearts of the allograft group, which was consistent with PET/CT images. In addition to high uptake in excretory organs such as the intestine and urinary system, the injected dose per gram of tissue in the native heart and other organs were low, facilitating image analysis. Therefore, <sup>18</sup>F&#x02010;FAPI&#x02010;74 PET/CT imaging has the potential for long&#x02010;term monitoring of activated fibroblasts in CAV. However, current FAPI PET cannot differentiate pro&#x02010;fibrotic from pro&#x02010;reparative fibroblast subpopulations, necessitating future validation through multimarker immunohistochemical analysis.</p><p>In the future, combining <sup>18</sup>F&#x02010;FAPI&#x02010;74 PET/CT imaging with other imaging techniques can compensate for the shortcomings of perfusion imaging in fibrosis and immune response, and form a multimodal imaging diagnostic method. By comprehensively utilizing the fibrotic labeling effect of <sup>18</sup>F&#x02010;FAPI&#x02010;74 and other imaging techniques to evaluate cardiac function or blood flow, more comprehensive and accurate information on cardiac rejection can be obtained. This new diagnostic method can provide more comprehensive and personalized treatment decision support for clinical practice. Currently, our study focuses only on the applicability of <sup>18</sup>F&#x02010;FAPI&#x02010;74 for CAV diagnosis, and future studies will focus on the imaging effects of FAPI and other existing tracers. An example is <sup>18</sup>F&#x02010;FDG, one of the most commonly used tracers in nuclear medicine. <sup>18</sup>F&#x02010;FDG is highly sensitive to inflammation and metabolic activity and is commonly used to assess myocardial inflammation and infection,<xref rid="jah311401-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> but compared with FAPI, FDG is less specific,<xref rid="jah311401-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> because FDG is taken up by any hypermetabolic tissue (eg, tumor, inflammation, and normal myocardium). <sup>18</sup>F&#x02010;Galacto&#x02010;arginine&#x02010;glycine&#x02010;aspartate (RGD) is highly sensitive to integrin &#x003b1;v&#x003b2;3 and is commonly used to assess angiogenesis and inflammation, and thus could be used in cardiovascular disease.<xref rid="jah311401-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> In the future, it might be possible to conduct a comparative study between <sup>18</sup>F&#x02010;Galacto&#x02010;RGD and <sup>18</sup>F&#x02010;FAPI&#x02010;74 to explore a suitable visualizer for CAV. <sup>13</sup>N&#x02010;ammonia is commonly used to assess myocardial perfusion function.<xref rid="jah311401-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> However, since the graft heart in our CAV rat model lacks pumping function (solely mimicking CAV pathology to study immune rejection), comparative experiments between <sup>18</sup>F&#x02010;FAPI&#x02010;74 and <sup>13</sup>N&#x02010;ammonia could not be conducted in this animal model. Given the limitations of animal models, the next logical step would be pilot studies in humans.</p><p>Currently <sup>18</sup>F&#x02010;FAPI&#x02010;74 PET/CT imaging is used for other disease imaging such as tumors, and its safety in the patient has been demonstrated. For example, a prospective study of malignant tumors by Watabe et&#x000a0;al<xref rid="jah311401-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> demonstrated that <sup>18</sup>F&#x02010;FAPI&#x02010;74 significantly increased the intensity of radioactivity uptake in primary and metastatic foci in solid tumors such as gastric and pancreatic cancers compared with <sup>18</sup>F&#x02010;FDG PET. Xu et&#x000a0;al<xref rid="jah311401-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> found that <sup>18</sup>F&#x02010;FAPI&#x02010;74 PET led to an upregulation of the TNM staging of 28% of patients with gastric cancers and 18% of patients with pancreatic cancers, significantly optimizing therapeutic decisions. In the field of fibrosis, Mori et&#x000a0;al<xref rid="jah311401-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> found that patients with idiopathic pulmonary fibrosis with significantly impaired lung function exhibited higher volumes of fibrotic activity, and that the areas of positive FAPI uptake were highly compatible with the distribution of lung lesions. It is suggested that <sup>18</sup>F&#x02010;FAPI&#x02010;74 PET can quantitatively assess the course of pulmonary fibrosis and predict disease progression. The above studies demonstrate that the tracer can be used in clinical trials, but its effectiveness in CAV requires additional clinical trials and data to support it, and it must undergo a rigorous regulatory approval process, which is time&#x02010; and resource&#x02010;intensive and may limit its widespread use. In addition, the higher cost of <sup>18</sup>F&#x02010;FAPI&#x02010;74 PET imaging compared with ICA and intravascular ultrasound, the tracer&#x02019;s dependence on a cyclotron and radiopharmaceutical synthesis module for its production, and patients&#x02019; possible concerns about radiation exposure may affect its widespread use in the clinic.</p><p>As previously mentioned, we acknowledge that this study has several limitations that need to be addressed. Firstly, there are limitations associated with the rat abdominal ectopic HT model we constructed using the classical Ono procedure. Due to the location of the graft heart is close proximity to the kidneys and intestines, the imaging quality of PET/CT was easily affected. Future studies may mitigate this issue by using alternative modeling methods such as an ectopic heart transplant in the neck. In addition, the graft heart in the animal model was not a working heart, which limits the clinical utility of this research approach in transplant patients. Secondly, we did not assess long&#x02010;term outcomes beyond 17&#x02009;weeks, as our primary aim was to characterize the early stages of activated fibroblasts in CAV. We will next conduct a longer&#x02010;term study to illustrate how FAP expression evolves over time and its correlation with CAV progression. Thirdly, the study would be stronger with a larger number of animals and a broader range of control groups. In addition, the lack of clinical patient studies and comparisons with other established imaging modalities limits the validity of this study.</p></sec><sec sec-type="conclusions" id="jah311401-sec-0021"><title>CONCLUSIONS</title><p>In summary, we demonstrated that increased FAP expression in CAV and radioactivity accumulation in graft heart reflect expression levels of FAP. <sup>18</sup>F&#x02010;FAPI&#x02010;74 PET/CT can monitor disease progression of CAV, which will hopefully improve the survival and quality of life of HT patients.</p></sec><sec id="jah311401-sec-0022"><title>Sources of Funding</title><p>This work was supported by Shanxi Province Higher Education &#x0201c;Billion Project&#x0201d; Science and Technology Guidance Project; the National Natural Science Foundation of China (82402339); China Postdoctoral Science Foundation (2023M732153); and Shanxi Provincial Basic Research Program (202203021212033).</p></sec><sec sec-type="COI-statement" id="jah311401-sec-0023"><title>Disclosures</title><p>None.</p></sec></body><back><ref-list content-type="cited-references" id="jah311401-bibl-0001"><title>References</title><ref id="jah311401-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jah311401-cit-0001">
+<string-name>
+<surname>Miller</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Birks</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Guglin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lamba</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Frazier</surname>
+<given-names>OH</given-names>
+</string-name>. <article-title>Use of ventricular assist devices and heart transplantation for advanced heart failure</article-title>. <source>Circ Res</source>. <year>2019</year>;<volume>124</volume>:<fpage>1658</fpage>&#x02013;<lpage>1678</lpage>. doi: <pub-id pub-id-type="doi">10.1161/CIRCRESAHA.119.313574</pub-id>
+<pub-id pub-id-type="pmid">31120817</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jah311401-cit-0002">
+<string-name>
+<surname>Stehlik</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kobashigawa</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hunt</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Reichenspurner</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Kirklin</surname>
+<given-names>JK</given-names>
+</string-name>. <article-title>Honoring 50&#x02009;years of clinical heart transplantation in circulation: in&#x02010;depth state&#x02010;of&#x02010;the&#x02010;art review</article-title>. <source>Circulation</source>. <year>2018</year>;<volume>137</volume>:<fpage>71</fpage>&#x02013;<lpage>87</lpage>. doi: <pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.117.029753</pub-id>
+<pub-id pub-id-type="pmid">29279339</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jah311401-cit-0003">
+<string-name>
+<surname>Lund</surname>
+<given-names>LH</given-names>
+</string-name>, <string-name>
+<surname>Khush</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name>
+<surname>Cherikh</surname>
+<given-names>WS</given-names>
+</string-name>, <string-name>
+<surname>Goldfarb</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kucheryavaya</surname>
+<given-names>AY</given-names>
+</string-name>, <string-name>
+<surname>Levvey</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Meiser</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Rossano</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Chambers</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name>
+<surname>Yusen</surname>
+<given-names>RD</given-names>
+</string-name>, et&#x000a0;al. <article-title>The registry of the international society for heart and lung transplantation: thirty&#x02010;fourth adult heart transplantation report&#x02010;2017; focus theme: allograft ischemic time</article-title>. <source>J Heart Lung Transplant</source>. <year>2017</year>;<volume>36</volume>:<fpage>1037</fpage>&#x02013;<lpage>1046</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.healun.2017.07.019</pub-id>
+<pub-id pub-id-type="pmid">28779893</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jah311401-cit-0004">
+<string-name>
+<surname>Olymbios</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kwiecinski</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Berman</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name>
+<surname>Kobashigawa</surname>
+<given-names>JA</given-names>
+</string-name>. <article-title>Imaging in heart transplant patients</article-title>. <source>JACC Cardiovasc Imaging</source>. <year>2018</year>;<volume>11</volume>:<fpage>1514</fpage>&#x02013;<lpage>1530</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.jcmg.2018.06.019</pub-id>
+<pub-id pub-id-type="pmid">30286911</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jah311401-cit-0005">
+<string-name>
+<surname>Spartalis</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Spartalis</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Tzatzaki</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Tsilimigras</surname>
+<given-names>DI</given-names>
+</string-name>, <string-name>
+<surname>Moris</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Kontogiannis</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Iliopoulos</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name>
+<surname>Voudris</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Siasos</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Cardiac allograft vasculopathy after heart transplantation: current prevention and treatment strategies</article-title>. <source>Eur Rev Med Pharmacol Sci</source>. <year>2019</year>;<volume>23</volume>:<fpage>303</fpage>&#x02013;<lpage>311</lpage>. doi: <pub-id pub-id-type="doi">10.26355/eurrev_201901_16777</pub-id>
+<pub-id pub-id-type="pmid">30657571</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jah311401-cit-0006">
+<string-name>
+<surname>Kim</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Kalimuthu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ahn</surname>
+<given-names>BC</given-names>
+</string-name>. <article-title>In vivo cell tracking with bioluminescence imaging</article-title>. <source>Nucl Med Mol Imaging</source>. <year>2015</year>;<volume>49</volume>:<fpage>3</fpage>&#x02013;<lpage>10</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s13139-014-0309-x</pub-id>
+<pub-id pub-id-type="pmid">25774232</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jah311401-cit-0007">
+<string-name>
+<surname>Habibi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ghaffarpasand</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Shojaei</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Alihashemi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kahe</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Zahedi</surname>
+<given-names>TF</given-names>
+</string-name>, <string-name>
+<surname>Chi</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Prognostic value of biomarkers in cardiac allograft vasculopathy following heart transplantation: a literature review</article-title>. <source>Cardiology</source>. <year>2020</year>;<volume>145</volume>:<fpage>693</fpage>&#x02013;<lpage>702</lpage>. doi: <pub-id pub-id-type="doi">10.1159/000509630</pub-id>
+<pub-id pub-id-type="pmid">32892195</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jah311401-cit-0008">
+<string-name>
+<surname>Zou</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Ming</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Xiao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Lai</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Gong</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Extracellular HMGB1 contributes to the chronic cardiac allograft vasculopathy/fibrosis by modulating TGF&#x02010;beta1 signaling</article-title>. <source>Front Immunol</source>. <year>2021</year>;<volume>12</volume>:<elocation-id>641973</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fimmu.2021.641973</pub-id>
+<pub-id pub-id-type="pmid">33777037</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jah311401-cit-0009">
+<string-name>
+<surname>Li</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Kong</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Extracellular matrix remodeling and cardiac fibrosis</article-title>. <source>Matrix Biol</source>. <year>2018</year>;<volume>68&#x02010;69</volume>:<fpage>490</fpage>&#x02013;<lpage>506</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.matbio.2018.01.013</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jah311401-cit-0010">
+<string-name>
+<surname>Sun</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>Visualization of activated fibroblasts in heart failure with preserved ejection fraction with [(18)F]AlF&#x02010;NOTA&#x02010;FAPI&#x02010;04 PET/CT imaging</article-title>. <source>Mol Pharm</source>. <year>2023</year>;<volume>20</volume>:<fpage>2634</fpage>&#x02013;<lpage>2641</lpage>. doi: <pub-id pub-id-type="doi">10.1021/acs.molpharmaceut.3c00075</pub-id>
+<pub-id pub-id-type="pmid">37043243</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jah311401-cit-0011">
+<string-name>
+<surname>Percie</surname>
+<given-names>DSN</given-names>
+</string-name>, <string-name>
+<surname>Hurst</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Ahluwalia</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Alam</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Avey</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Baker</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Browne</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Clark</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Cuthill</surname>
+<given-names>IC</given-names>
+</string-name>, <string-name>
+<surname>Dirnagl</surname>
+<given-names>U</given-names>
+</string-name>, et&#x000a0;al. <article-title>The ARRIVE guidelines 2.0: updated guidelines for reporting animal research</article-title>. <source>PLoS Biol</source>. <year>2020</year>;<volume>18</volume>:<elocation-id>e3000410</elocation-id>. doi: <pub-id pub-id-type="doi">10.1371/journal.pbio.3000410</pub-id>
+<pub-id pub-id-type="pmid">32663219</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jah311401-cit-0012">
+<string-name>
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gai</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>Y</given-names>
+</string-name>, et&#x000a0;al. <article-title>Noninvasive radionuclide molecular imaging of the CD4&#x02010;positive t lymphocytes in acute cardiac rejection</article-title>. <source>Mol Pharm</source>. <year>2021</year>;<volume>18</volume>:<fpage>1317</fpage>&#x02013;<lpage>1326</lpage>. doi: <pub-id pub-id-type="doi">10.1021/acs.molpharmaceut.0c01155</pub-id>
+<pub-id pub-id-type="pmid">33506680</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jah311401-cit-0013">
+<string-name>
+<surname>Khush</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name>
+<surname>Cherikh</surname>
+<given-names>WS</given-names>
+</string-name>, <string-name>
+<surname>Chambers</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name>
+<surname>Harhay</surname>
+<given-names>MO</given-names>
+</string-name>, <string-name>
+<surname>Hayes</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Hsich</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Meiser</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Potena</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Robinson</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Rossano</surname>
+<given-names>JW</given-names>
+</string-name>, et&#x000a0;al. <article-title>The international thoracic organ transplant registry of the International Society for Heart and Lung Transplantation: thirty&#x02010;sixth adult heart transplantation report &#x02010; 2019; focus theme: donor and recipient size match</article-title>. <source>J Heart Lung Transplant</source>. <year>2019</year>;<volume>38</volume>:<fpage>1056</fpage>&#x02013;<lpage>1066</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.healun.2019.08.004</pub-id>
+<pub-id pub-id-type="pmid">31548031</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jah311401-cit-0014">
+<string-name>
+<surname>Song</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>The experimental study of cardiac allograft vasculopathy and myocardial fibrosis in rats</article-title>. <source>Transplant Proc</source>. <year>2008</year>;<volume>40</volume>:<fpage>2712</fpage>&#x02013;<lpage>2715</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.transproceed.2008.07.109</pub-id>
+<pub-id pub-id-type="pmid">18929843</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jah311401-cit-0015">
+<string-name>
+<surname>Sciaccaluga</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ghionzoli</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Mandoli</surname>
+<given-names>GE</given-names>
+</string-name>, <string-name>
+<surname>Sisti</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>D&#x02019;Ascenzi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Focardi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bernazzali</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Vergaro</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Emdin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Valente</surname>
+<given-names>S</given-names>
+</string-name>, et&#x000a0;al. <article-title>The role of non&#x02010;invasive imaging modalities in cardiac allograft vasculopathy: an updated focus on current evidences</article-title>. <source>Heart Fail Rev</source>. <year>2022</year>;<volume>27</volume>:<fpage>1235</fpage>&#x02013;<lpage>1246</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s10741-021-10155-0</pub-id>
+<pub-id pub-id-type="pmid">34383194</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jah311401-cit-0016">
+<string-name>
+<surname>Gunther</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Aaberge</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Abildgaard</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ragnarsson</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Edvardsen</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Jakobsen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Andersen</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Coronary computed tomography in heart transplant patients: detection of significant stenosis and cardiac allograft vasculopathy, image quality, and radiation dose</article-title>. <source>Acta Radiol</source>. <year>2018</year>;<volume>59</volume>:<fpage>1066</fpage>&#x02013;<lpage>1073</lpage>. doi: <pub-id pub-id-type="doi">10.1177/0284185117748354</pub-id>
+<pub-id pub-id-type="pmid">29260577</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jah311401-cit-0017">
+<string-name>
+<surname>Ahn</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Koo</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Hyun</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Jung</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name>
+<surname>Ahn</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>
+<given-names>DY</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Hwang</surname>
+<given-names>HS</given-names>
+</string-name>, et&#x000a0;al. <article-title>CT coronary angiography and dynamic CT myocardial perfusion for detection of cardiac allograft vasculopathy</article-title>. <source>JACC Cardiovasc Imaging</source>. <year>2023</year>;<volume>16</volume>:<fpage>934</fpage>&#x02013;<lpage>947</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.jcmg.2022.12.031</pub-id>
+<pub-id pub-id-type="pmid">37407125</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jah311401-cit-0018">
+<string-name>
+<surname>Abbasi</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Blake</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Sarnari</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>Ghafourian</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Khan</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Vorovich</surname>
+<given-names>EE</given-names>
+</string-name>, <string-name>
+<surname>Rich</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Wilcox</surname>
+<given-names>JE</given-names>
+</string-name>, et&#x000a0;al. <article-title>Multiparametric cardiac magnetic resonance imaging detects altered myocardial tissue and function in heart transplantation recipients monitored for cardiac allograft vasculopathy</article-title>. <source>J Cardiovasc Imaging</source>. <year>2022</year>;<volume>30</volume>:<fpage>263</fpage>&#x02013;<lpage>275</lpage>. doi: <pub-id pub-id-type="doi">10.4250/jcvi.2022.0003</pub-id>
+<pub-id pub-id-type="pmid">36280267</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jah311401-cit-0019">
+<string-name>
+<surname>Kamel</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Scalia</surname>
+<given-names>IG</given-names>
+</string-name>, <string-name>
+<surname>Badr</surname>
+<given-names>AT</given-names>
+</string-name>, <string-name>
+<surname>Baba</surname>
+<given-names>AN</given-names>
+</string-name>, <string-name>
+<surname>Farina</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Pereyra</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Abbas</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Mahmoud</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name>
+<surname>Scott</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Steidley</surname>
+<given-names>DE</given-names>
+</string-name>, et&#x000a0;al. <article-title>Cardiac allograft vasculopathy: challenges and advances in invasive and non&#x02010;invasive diagnostic modalities</article-title>. <source>J Cardiovasc Dev Dis</source>. <year>2024</year>;<volume>11</volume>:<fpage>95</fpage>. doi: <pub-id pub-id-type="doi">10.3390/jcdd11030095</pub-id>
+<pub-id pub-id-type="pmid">38535118</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jah311401-cit-0020">
+<string-name>
+<surname>Madamanchi</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Konerman</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Murthy</surname>
+<given-names>VL</given-names>
+</string-name>. <article-title>Imaging coronary allograft vasculopathy with cardiac PET and cardiac MRI</article-title>. <source>Curr Cardiol Rep</source>. <year>2021</year>;<volume>23</volume>:<elocation-id>175</elocation-id>. doi: <pub-id pub-id-type="doi">10.1007/s11886-021-01606-z</pub-id>
+<pub-id pub-id-type="pmid">34657220</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jah311401-cit-0021">
+<string-name>
+<surname>Lazarus</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Saleh</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ghannam</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Aaronson</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Colvin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Pagani</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Koelling</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Corbett</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Weinberg</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Murthy</surname>
+<given-names>VL</given-names>
+</string-name>, et&#x000a0;al. <article-title>Safety of regadenoson positron emission tomography stress testing in orthotopic heart transplant patients</article-title>. <source>J Nucl Cardiol</source>. <year>2020</year>;<volume>27</volume>:<fpage>943</fpage>&#x02013;<lpage>948</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s12350-018-01466-1</pub-id>
+<pub-id pub-id-type="pmid">30483958</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jah311401-cit-0022">
+<string-name>
+<surname>Ohira</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Dowsley</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Dwivedi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Dekemp</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Chow</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Ruddy</surname>
+<given-names>TD</given-names>
+</string-name>, <string-name>
+<surname>Davies</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Dasilva</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Beanlands</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name>
+<surname>Hessian</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Quantification of myocardial blood flow using PET to improve the management of patients with stable ischemic coronary artery disease</article-title>. <source>Futur Cardiol</source>. <year>2014</year>;<volume>10</volume>:<fpage>611</fpage>&#x02013;<lpage>631</lpage>. doi: <pub-id pub-id-type="doi">10.2217/fca.14.44</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jah311401-cit-0023">
+<string-name>
+<surname>Chih</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tavoosi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Nair</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Chong</surname>
+<given-names>AY</given-names>
+</string-name>, <string-name>
+<surname>Dzavik</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Aleksova</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>So</surname>
+<given-names>DY</given-names>
+</string-name>, <string-name>
+<surname>Dekemp</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Amara</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Wells</surname>
+<given-names>GA</given-names>
+</string-name>, et&#x000a0;al. <article-title>Cardiac PET myocardial blood flow quantification assessment of early cardiac allograft vasculopathy</article-title>. <source>JACC Cardiovasc Imaging</source>. <year>2024</year>;<volume>17</volume>:<fpage>642</fpage>&#x02013;<lpage>655</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.jcmg.2023.10.003</pub-id>
+<pub-id pub-id-type="pmid">37999656</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jah311401-cit-0024">
+<string-name>
+<surname>Mori</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Dendl</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Cardinale</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kratochwil</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Giesel</surname>
+<given-names>FL</given-names>
+</string-name>, <string-name>
+<surname>Haberkorn</surname>
+<given-names>U</given-names>
+</string-name>. <article-title>FAPI PET: fibroblast activation protein inhibitor use in oncologic and nononcologic disease</article-title>. <source>Radiology</source>. <year>2023</year>;<volume>306</volume>:<elocation-id>e220749</elocation-id>. doi: <pub-id pub-id-type="doi">10.1148/radiol.220749</pub-id>
+<pub-id pub-id-type="pmid">36594838</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jah311401-cit-0025">
+<string-name>
+<surname>Rao</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Fang</surname>
+<given-names>XH</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Kong</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Cai</surname>
+<given-names>JZ</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Clinical value of [(18)F]AlF&#x02010;NOTA&#x02010;FAPI&#x02010;04 PET/CT for assessing early&#x02010;stage liver fibrosis in adult liver transplantation recipients compared with chronic HBV patients</article-title>. <source>Jpn J Radiol</source>. <year>2024</year>;<volume>42</volume>:<fpage>536</fpage>&#x02013;<lpage>545</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s11604-024-01528-0</pub-id>
+<pub-id pub-id-type="pmid">38316724</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jah311401-cit-0026">
+<string-name>
+<surname>Heckmann</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Reinhardt</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Finke</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Katus</surname>
+<given-names>HA</given-names>
+</string-name>, <string-name>
+<surname>Haberkorn</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Leuschner</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Lehmann</surname>
+<given-names>LH</given-names>
+</string-name>. <article-title>Relationship between cardiac fibroblast activation protein activity by positron emission tomography and cardiovascular disease</article-title>. <source>Circ Cardiovasc Imaging</source>. <year>2020</year>;<volume>13</volume>:<elocation-id>e10628</elocation-id>. doi: <pub-id pub-id-type="doi">10.1161/CIRCIMAGING.120.010628</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jah311401-cit-0027">
+<string-name>
+<surname>Tillmanns</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hoffmann</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Habbaba</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Schmitto</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Sedding</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Fraccarollo</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Galuppo</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Bauersachs</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Fibroblast activation protein alpha expression identifies activated fibroblasts after myocardial infarction</article-title>. <source>J Mol Cell Cardiol</source>. <year>2015</year>;<volume>87</volume>:<fpage>194</fpage>&#x02013;<lpage>203</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.yjmcc.2015.08.016</pub-id>
+<pub-id pub-id-type="pmid">26319660</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jah311401-cit-0028">
+<string-name>
+<surname>Daly</surname>
+<given-names>KP</given-names>
+</string-name>, <string-name>
+<surname>Dearling</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Seto</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Dunning</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Fahey</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Packard</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Briscoe</surname>
+<given-names>DM</given-names>
+</string-name>. <article-title>Use of [18F]FDG positron emission tomography to monitor the development of cardiac allograft rejection</article-title>. <source>Transplantation</source>. <year>2015</year>;<volume>99</volume>:<fpage>e132</fpage>&#x02013;<lpage>e139</lpage>. doi: <pub-id pub-id-type="doi">10.1097/TP.0000000000000618</pub-id>
+<pub-id pub-id-type="pmid">25675207</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jah311401-cit-0029">
+<string-name>
+<surname>Gege</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Xueju</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Bin</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Head&#x02010;to&#x02010;head comparison of (68)Ga&#x02010;FAPI PET/CT and FDG PET/CT for the detection of peritoneal metastases: systematic review and meta&#x02010;analysis</article-title>. <source>AJR Am J Roentgenol</source>. <year>2023</year>;<volume>220</volume>:<fpage>490</fpage>&#x02013;<lpage>498</lpage>. doi: <pub-id pub-id-type="doi">10.2214/AJR.22.28402</pub-id>
+<pub-id pub-id-type="pmid">36321984</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jah311401-cit-0030">
+<string-name>
+<surname>Dietz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kamani</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Dunet</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Fournier</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Rubimbura</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Testart</surname>
+<given-names>DN</given-names>
+</string-name>, <string-name>
+<surname>Schaefer</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Jreige</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Boughdad</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Nicod</surname>
+<given-names>LM</given-names>
+</string-name>, et&#x000a0;al. <article-title>Overview of the RGD&#x02010;based PET agents use in patients with cardiovascular diseases: a systematic review</article-title>. <source>Front Med</source>. <year>2022</year>;<volume>9</volume>:<elocation-id>887508</elocation-id>. doi: <pub-id pub-id-type="doi">10.3389/fmed.2022.887508</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jah311401-cit-0031">
+<string-name>
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Q</given-names>
+</string-name>. <article-title>Development and evaluation of a radiomics model of resting (13)N&#x02010;ammonia positron emission tomography myocardial perfusion imaging to predict coronary artery stenosis in patients with suspected coronary heart disease</article-title>. <source>Ann Transl Med</source>. <year>2022</year>;<volume>10</volume>:<fpage>1167</fpage>. doi: <pub-id pub-id-type="doi">10.21037/atm-22-4692</pub-id>
+<pub-id pub-id-type="pmid">36467349</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jah311401-cit-0032">
+<string-name>
+<surname>Watabe</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Naka</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tatsumi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kamiya</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Kimura</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Shintani</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Abe</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Miyake</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Shimazu</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kobayashi</surname>
+<given-names>S</given-names>
+</string-name>, et&#x000a0;al. <article-title>Initial evaluation of [(18)F]FAPI&#x02010;74 PET for various histopathologically confirmed cancers and benign lesions</article-title>. <source>J Nucl Med</source>. <year>2023</year>;<volume>64</volume>:<fpage>1225</fpage>&#x02013;<lpage>1231</lpage>. doi: <pub-id pub-id-type="doi">10.2967/jnumed.123.265486</pub-id>
+<pub-id pub-id-type="pmid">37268427</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jah311401-cit-0033">
+<string-name>
+<surname>Xu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Cai</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Peng</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Meng</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Pang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Fibroblast activation protein&#x02010;targeted PET/CT with (18)F&#x02010;fibroblast activation protein inhibitor&#x02010;74 for evaluation of gastrointestinal cancer: comparison with (18)F&#x02010;FDG PET/CT</article-title>. <source>J Nucl Med</source>. <year>2024</year>;<volume>65</volume>:<fpage>40</fpage>&#x02013;<lpage>51</lpage>. doi: <pub-id pub-id-type="doi">10.2967/jnumed.123.266329</pub-id>
+<pub-id pub-id-type="pmid">37884330</pub-id>
+</mixed-citation></ref><ref id="jah311401-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jah311401-cit-0034">
+<string-name>
+<surname>Mori</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Kramer</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Novruzov</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Mamlins</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Rohrich</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Fernandez</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Amaral</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Soza&#x02010;Ried</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Monje</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Sabbagh</surname>
+<given-names>E</given-names>
+</string-name>, et&#x000a0;al. <article-title>Initial results with [(18)F]FAPI&#x02010;74 PET/CT in idiopathic pulmonary fibrosis</article-title>. <source>Eur J Nucl Med Mol Imaging</source>. <year>2024</year>;<volume>51</volume>:<fpage>1605</fpage>&#x02013;<lpage>1611</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s00259-023-06564-y</pub-id>
+<pub-id pub-id-type="pmid">38117298</pub-id>
+</mixed-citation></ref></ref-list></back></article>

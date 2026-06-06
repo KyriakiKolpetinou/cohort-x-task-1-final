@@ -1,0 +1,771 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="ame212458" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Animal Model Exp Med</journal-id><journal-id journal-id-type="iso-abbrev">Animal Model Exp Med</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2576-2095</journal-id><journal-id journal-id-type="publisher-id">AME2</journal-id><journal-title-group><journal-title>Animal Models and Experimental Medicine</journal-title></journal-title-group><issn pub-type="ppub">2096-5451</issn><issn pub-type="epub">2576-2095</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38992885</article-id><article-id pub-id-type="pmc">12531101</article-id>
+<article-id pub-id-type="doi">10.1002/ame2.12458</article-id><article-id pub-id-type="publisher-id">AME212458</article-id><article-id pub-id-type="other">AMEM-2024-0095.R1</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Regular Article</subject><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></subj-group></article-categories><title-group><article-title>The cumulative analgesic effect of repeated electroacupuncture is modulated by Adora3 in the <styled-content style="fixed-case" toggle="no">SCDH</styled-content> of mice with neuropathic pain</article-title><alt-title alt-title-type="left-running-head">Kiani et&#x000a0;al.</alt-title></title-group><contrib-group><contrib id="ame212458-cr-0001" contrib-type="author"><name><surname>Kiani</surname><given-names>Faisal Ayub</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3960-1164</contrib-id><xref rid="ame212458-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="ame212458-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="ame212458-cr-0002" contrib-type="author"><name><surname>Li</surname><given-names>Hao</given-names></name><xref rid="ame212458-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="ame212458-cr-0003" contrib-type="author"><name><surname>Guo</surname><given-names>Panpan</given-names></name><xref rid="ame212458-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="ame212458-cr-0004" contrib-type="author"><name><surname>Zhang</surname><given-names>Qiulin</given-names></name><xref rid="ame212458-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="ame212458-cr-0005" contrib-type="author"><name><surname>Abouelfetouh</surname><given-names>Mahmoud M.</given-names></name><xref rid="ame212458-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="ame212458-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="ame212458-cr-0006" contrib-type="author"><name><surname>Ding</surname><given-names>Mingxing</given-names></name><xref rid="ame212458-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="ame212458-cr-0007" contrib-type="author" corresp="yes"><name><surname>Ding</surname><given-names>Yi</given-names></name><xref rid="ame212458-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>dingyi@hzau.edu.cn</email></address></contrib></contrib-group><aff id="ame212458-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Clinical Veterinary Medicine, College of Veterinary Medicine</named-content>
+<institution>Huazhong Agricultural University</institution>
+<city>Wuhan</city>
+<country country="CN">China</country>
+</aff><aff id="ame212458-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Clinical Sciences, Faculty of Veterinary Sciences</named-content>
+<institution>Bahauddin Zakariyah University</institution>
+<city>Multan</city>
+<country country="PK">Pakistan</country>
+</aff><aff id="ame212458-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Surgery, Anesthesiology, and Radiology, Faculty of Veterinary Medicine</named-content>
+<institution>Benha University</institution>
+<city>Moshtohor</city>
+<country country="EG">Egypt</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Yi Ding, Clinical Veterinary Medicine, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan 430070, China.<break/>
+Email: <email>dingyi@hzau.edu.cn</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>11</day><month>7</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2025</year></pub-date><volume>8</volume><issue seq="100">9</issue><issue-id pub-id-type="doi">10.1002/ame2.v8.9</issue-id><issue-title content-type="special-issue-title">Themed Issue: Multidimensional Mechanisms and Therapeutic Strategies in Diabetes</issue-title><fpage>1635</fpage><lpage>1644</lpage><history>
+<date date-type="received"><day>06</day><month>4</month><year>2024</year></date>
+<date date-type="accepted"><day>03</day><month>6</month><year>2024</year></date>
+</history><permissions><!--&#x000a9; 2025 The Chinese Association for Laboratory Animal Sciences.--><copyright-statement content-type="article-copyright">&#x000a9; 2024 The Author(s). <italic toggle="yes">Animal Models and Experimental Medicine</italic> published by John Wiley &#x00026; Sons Australia, Ltd on behalf of The Chinese Association for Laboratory Animal Sciences.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:AME2-8-1635.pdf"/><abstract><title>Abstract</title><sec id="ame212458-sec-0001"><title>Background</title><p>Existing remedial approaches for relieving neuropathic pain (NPP) are challenging and open the way for alternative therapeutic measures such as electroacupuncture (EA). The mechanism underlying the antinociceptive effects of repeated EA sessions, particularly concerning the regulation of the Adora3 receptor and its associated enzymes, has remained elusive.</p></sec><sec id="ame212458-sec-0002"><title>Methods</title><p>This study used a mouse model of spared nerve injury (SNI) to explore the cumulative analgesic effects of repeated EA at ST36 (Zusanli) and its impact on Adora3 regulation in the spinal cord dorsal horn (SCDH). Forty&#x02010;eight male mice underwent SNI surgery for induction of neuropathic pain and were randomly assigned to the SNI, SNI&#x02009;+&#x02009;2EA, SNI&#x02009;+&#x02009;4EA, and SNI&#x02009;+&#x02009;7EA groups. Spinal cord (L4&#x02013;L6) was sampled for immunofluorescence, adenosine (ADO) detection and for molecular investigations following repeated EA treatment.</p></sec><sec id="ame212458-sec-0003"><title>Results</title><p>Following spared nerve injury (SNI), there was a significant decrease in mechanical withdrawal thresholds (PWTs) and thermal nociceptive withdrawal latency (TWL) in the ipsilateral hind paw on the third day post&#x02010;surgery, while the contralateral hind paw PWTs showed no significant changes. On subsequent EA treatments, the SNI&#x02009;+&#x02009;EA groups led to a significant increase in pain thresholds (<italic toggle="no">p</italic>&#x02009;&#x0003c;&#x02009;0.05). Repeated EA sessions in SNI mice upregulated Adenosine A3 (Adora3) and cluster of differentiation&#x02010;73 (CD73) expression while downregulating adenosine deaminase (ADA) and enhancing neuronal instigation in the SCDH. Colocalization analysis of Neun&#x02010;treated cells revealed increased Adora3 expression, particularly in the SNI&#x02009;+&#x02009;7EA group.</p></sec><sec id="ame212458-sec-0004"><title>Conclusions</title><p>In conclusion, cumulative electroacupuncture treatment reduced neuropathic pain by regulating Adora3 and CD73 expression, inhibiting ADA and most likely increasing neuronal activation in the SCDH. This study offers a promising therapeutic option for managing neuropathic pain, paving the way for further research.</p></sec></abstract><abstract abstract-type="graphical"><p>Neuropathic pain management via repeated electroacupuncture.<boxed-text position="anchor" content-type="graphic" id="ame212458-blkfxd-0001"><graphic xlink:href="AME2-8-1635-g001.jpg" position="anchor" id="jats-graphic-1"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ame212458-kwd-0001">Adora3</kwd><kwd id="ame212458-kwd-0002">antinociception</kwd><kwd id="ame212458-kwd-0003">electroacupuncture</kwd><kwd id="ame212458-kwd-0004">lumbar spinal cord</kwd><kwd id="ame212458-kwd-0005">neuropathic pain</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>National Natural Science Foundation of China</institution><institution-id institution-id-type="doi">10.13039/501100001809</institution-id></institution-wrap>
+</funding-source><award-id>32172930</award-id></award-group></funding-group><counts><fig-count count="4"/><table-count count="1"/><page-count count="10"/><word-count count="6600"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.4 mode:remove_FC converted:17.10.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="AME212458-cit-2001">
+<string-name>
+<surname>Kiani</surname>
+<given-names>FA</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>The cumulative analgesic effect of repeated electroacupuncture is modulated by Adora3 in the <styled-content style="fixed-case" toggle="no">SCDH</styled-content> of mice with neuropathic pain</article-title>. <source>Anim Models Exp Med</source>. <year>2025</year>;<volume>8</volume>:<fpage>1635</fpage>&#x02010;<lpage>1644</lpage>. doi:<pub-id pub-id-type="doi">10.1002/ame2.12458</pub-id>
+</mixed-citation>
+</p></notes></front><body id="ame212458-body-0001"><sec id="ame212458-sec-0005"><label>1</label><title>INTRODUCTION</title><p>Neuropathic pain (NPP) is an extremely painful condition caused by either injury of the nervous system or its malfunction. It presents a huge obstacle to effective treatment choices.<xref rid="ame212458-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> The onset of neuropathic pain occurs with abnormal signaling within the nervous system and manifests as searing, shooting, tingling, or electric shock&#x02010;like sensations. This condition significantly impacts the quality of life of sufferers. Patients describe this painful condition as persistent, severe, or challenging to manage.<xref rid="ame212458-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> The global prevalence of NPP conditions like postherpetic neuralgia, chemotherapy&#x02010;induced neuropathy, nerve injury, and diabetic neuropathy underscores its substantial societal ramifications.<xref rid="ame212458-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>
+</p><p>Acupuncture is a traditional Chinese medicine treatment option for chronic pain management. This ancient method entails the careful insertion of small needles into certain spots on the body, believed to reinstate the flow of Qi, an energy force thought to travel through specific channels or meridians.<xref rid="ame212458-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="ame212458-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Repeated acupuncture sessions have been efficacious in addressing chronic pain issues.<xref rid="ame212458-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> Acupuncture therapy can benefit patients with osteoarthritis or chronic neck, back, or shoulder pain by reducing pain interference, depression, and severity. Research has indicated that for acupuncture to significantly reduce pain intensity and prevent the progression of chronic pain, it must be administered continuously for a minimum period of 2&#x02009;weeks.<xref rid="ame212458-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> This discovery could have a significant impact on the ability of those with low means to access effective acupuncture therapy.<xref rid="ame212458-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> Electroacupuncture (EA), a modern variant that incorporates electrical stimulation, has gained favor in both traditional Chinese and Western medicine for its potential to ease pain, reduce inflammation, and improve general well&#x02010;being.<xref rid="ame212458-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>
+</p><p>Conventional pharmacological treatments often provide poor relief due to the complicated pathophysiology of neuropathic pain, which is characterized by maladaptive alterations in the nerve system that perpetuate the pain perception. This constraint has prompted the investigation of alternate therapies, with EA appearing as a viable option. Although its effect is established in a variety of pain situations, the exact role of repeated EA in NPP management has remained an ongoing topic of investigation. To fill this study gap, this research elucidates the cumulative analgesic effects of repeated EA in a murine model of NPP. This study specifically investigated the involvement of the Adora3 within the SCDH of experimental animals. Adenosine, a purine nucleoside, is known to play a crucial role in various physiological processes, including the regulation of neurotransmission.<xref rid="ame212458-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="ame212458-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> Adora3, which is expressed in CNS, has been linked to modifying nociceptive signaling, making it a prospective target for pain management.<xref rid="ame212458-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="ame212458-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> In view of this potential, the complex relationships between recurrent EA, and adenosine signaling through Adora3 in the setting of neuropathic pain require additional investigation.</p><p>Our study takes a multidisciplinary approach that includes behavioral, neurochemical, and molecular investigations, and aims to provide valuable insights into the processes underlying the cumulative analgesic effects of repeated EA. Understanding the intricate interplay between recurrent EA and Adora3 is an important area of research for developing targeted therapies for managing neuropathic pain. Our study aimed to shed light on this complex pathway, which could improve our understanding of pain control mechanisms and lead to the development of new treatment strategies that combine EA and Adora3 regulation.</p></sec><sec sec-type="methods" id="ame212458-sec-0006"><label>2</label><title>METHODS</title><sec id="ame212458-sec-0007"><label>2.1</label><title>Experimental animals</title><p>In total, 48 male C57BL/6 mice aged 2&#x02009;months, weighing between 20 and 30&#x02009;g, were employed in this investigation. The mice were accommodated in groups, with no more than five mice per cage, in a climate&#x02010;controlled temperature and humidity with a 12&#x02010;h light/dark cycle. Before the experimental procedure began, the mice were given a week to acclimatize and they were fed an extruded rodent diet (Tek lad Global) with ad&#x000a0;libitum fresh water supplied throughout the day. Ethical approval was granted (HZAU&#x02010;20240105001) for the use and care of experimental animals from the Institutional Animal Care and Use Committee of Huazhong Agricultural University by observing the regulations for the administration of affairs concerning experimental animals of China.</p><p>To investigate the impact of repeated electroacupuncture on the adenosine A3 receptor and its metabolizing enzymes involved in the mitigation of NPP produced by SNI, the mice were randomly assigned to four groups: SNI, SNI&#x02009;+&#x02009;2EA, SNI&#x02009;+&#x02009;4EA, and SNI+ 7EA (n&#x02009;=&#x02009;12). In this study, Adora3 and ADO&#x02010;metabolizing enzymes (CD73 and ADA) were assessed through RT&#x02010;qPCR and western blotting after establishing the SNI model (Day 8) and subsequently after the 2nd EA, 4th EA and 7th EA treatments post&#x02010;surgery (Figure&#x000a0;<xref rid="ame212458-fig-0001" ref-type="fig">1A</xref>). Adenosine metabolism is regulated by both 5&#x02032;&#x02010;nucleotidase (CD73) and adenosine deaminase (ADA) enzymes.<xref rid="ame212458-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="ame212458-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> Mechanical and thermal sensitivities were recorded three times before and on days 2EA, 4EA, and 7EA of SNI surgery following the first EA session. After measuring nociceptive thresholds on respective repeated EA sessions, the spinal cord samples were collected for immunofluorescence staining and molecular investigations.</p></sec><sec id="ame212458-sec-0008"><label>2.2</label><title>Surgical intervention for spared nerve injury</title><p>The mice were fasted for 24&#x02009;h before the surgical intervention for SNI modeling. Surgical intervention for spared nerve injury (SNI) was performed using established protocols to induce NPP.<xref rid="ame212458-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> For the surgical procedure, the mice were anesthetized with 1% sodium pentobarbital for the surgery.<xref rid="ame212458-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> The skin at the surgical location on the left hind limb was exposed by shaving and alcohol swabs and iodine were used to sterilize the skin. Using a surgical scalpel, an incision 0.5&#x02013;1&#x02009;cm long was made above the midpoint of the line connecting the head of the tibia to the greater trochanter of the femur. The sciatic nerve trunk and branches were later made visible by abrupt dissection, which also exposed the underlying muscles and tissues. Non&#x02010;absorbent (6/0) sutures were used to ligate the peroneal and sural branches firmly, and the ligatures were transected below. After that, the tibial nerve was left intact and a 2&#x02010;mm portion of the nerve stump distal to the ligature was carefully excised. Layer by layer, the incision was sutured and the surgical site was cleaned. The entire process was carried out in a sterile environment. The mouse groups underwent multiple EA sessions at the designated time after the NPP was established 7&#x02009;days following SNI surgery (Figure&#x000a0;<xref rid="ame212458-fig-0001" ref-type="fig">1A</xref>).</p></sec><sec id="ame212458-sec-0009"><label>2.3</label><title>
+<styled-content style="fixed-case" toggle="no">EA</styled-content> stimulation</title><p>EA treatment was administered seven times at 8, 10, 12, 14, 16, 18, and 20&#x02009;days post&#x02010;SNI surgery (Figure&#x000a0;<xref rid="ame212458-fig-0001" ref-type="fig">1A</xref>). EA stimulation was initiated on Day 8 after SNI surgery, and the mice were adequately confined in a specially built contraption that exposed their legs. In each of the mice's hind limbs, an acupoint ST36 was positioned 3&#x02013;4&#x02009;mm below and 1&#x02013;2&#x02009;mm across the knee midline, with a sterile acupuncture needle (0.30&#x02009;&#x000d7;&#x02009;5&#x02009;mm; Zhongyan Taihe Medi. Instrument Co. Ltd, Beijing, China) inserted perpendicularly to a depth of 4&#x02009;mm.<xref rid="ame212458-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> Afterwards, an electrical nerve stimulation was produced using HANS&#x02010;200E (Jisheng Medi. Instruments, Nanjing, China). The mice received EA (2/100&#x02009;Hz, 0.5&#x02013;1.5&#x02009;mA) at ST36 for 30&#x02009;min on treatment days.<xref rid="ame212458-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> The EA regimens used in this study ranged between low&#x02010;frequency (2&#x02009;Hz) and high&#x02010;frequency (100&#x02009;Hz) stimulation (known as 2/100 EA) to produce analgesic effects. The intensity/strength was based on a slight contraction of the muscle following EA stimulation, which was 0.5&#x02013;1.5&#x02009;mA in the present study. All the mice were alert and conscious during the whole EA stimulation procedure.</p></sec><sec id="ame212458-sec-0010"><label>2.4</label><title>Mechanical withdrawal test (<styled-content style="fixed-case" toggle="no">PWT</styled-content>)</title><p>In this project, an electronic von Frey anesthesiometer (16&#x02009;001, IITC Life Science, Woodland Hills, CA, USA) was utilized to observe mechanical allodynia (paw withdrawal thresholds) 3&#x02009;days before SNI and after the 2nd, 4th and 7th EA sessions, as depicted in Figure&#x000a0;<xref rid="ame212458-fig-0001" ref-type="fig">1A</xref>. The nociceptive pain threshold in each mouse was determined by the mechanical stimulation at the plantar surface that corresponded to the withdraw of the hind paw.<xref rid="ame212458-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> Briefly, SNI mice were placed one at a time across a wire mesh ledge in a bottomless cage (measuring: 20&#x02009;&#x000d7;&#x02009;15&#x02009;&#x000d7;&#x02009;15&#x02009;cm) including many compartments. A punctuate stimulus was applied below the wire mesh floor to the mouse's hind paw through the even tip of the von Frey filament, and then pressure was applied (the range of von Frey filament forces spanned from 0.07 to 1.4&#x02009;g). If the animal withdrew the paw, a response was automatically read by the von Frey instrument. Each hind paw was tested five times at 5&#x02010;min intervals, with the average value recorded.</p></sec><sec id="ame212458-sec-0011"><label>2.5</label><title>Thermal withdrawal latency (<styled-content style="fixed-case" toggle="no">TWL</styled-content>)</title><p>Utilizing a hot plantar test device (BIO&#x02010;CHP, Bioseb, France) thermal hyperalgesia was assessed. Each SNI mouse was placed at a consistent temperature of 52.5&#x02009;&#x000b1;&#x02009;1&#x000b0;C on a hot plate. An electronic timer was used to record the amount of time needed for reactions, like jumping or licking the hind paw, after the animals had been acclimated for 15&#x02009;min.<xref rid="ame212458-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> To avoid blistering or scorching of the paws, the maximum heating duration was set to 20&#x02009;s. Each mouse was treated to a maximum of three TWL tests at intervals of at least 5&#x02009;min. Normal paw&#x02010;lifting motions were not considered to reduce bias.</p></sec><sec id="ame212458-sec-0012"><label>2.6</label><title>Sample collection</title><p>The mice were euthanized to collect the spinal cord (L4&#x02013;L6) for investigating the impact of repeated electroacupuncture (EA) on neuropathic pain management and the expression levels of the Adora&#x02010;3 Receptor. Following the respective EA treatment sessions, three samples per group were preserved in formalin for immunofluorescence analysis, while another three per group were immediately processed to determine spinal ADO concentration using an ELISA ADO Kit following the manufacturer's instructions. The spinal cords from remaining six mice in each group were promptly frozen in liquid nitrogen and stored at &#x02212;80&#x000b0;C for subsequent western blotting and RT&#x02010;PCR analysis.</p></sec><sec id="ame212458-sec-0013"><label>2.7</label><title>Enzyme&#x02010;linked immunosorbent assays (<styled-content style="fixed-case" toggle="no">ELISAs</styled-content>)</title><p>After the respective EA sessions, the spinal cord samples were immediately placed into dry ice and then processed for determination of adenosine concentration. To measure ADO levels in spinal cord samples, an ELISA ADO kit (JM&#x02010;11538M1, Jiangsu Jingmei Biological Technology Co., Ltd, Yancheng, China) was used. The whole protocol described by the manufacturer was strictly followed to measure the adenosine levels.</p></sec><sec id="ame212458-sec-0014"><label>2.8</label><title>
+<styled-content style="fixed-case" toggle="no">RNA</styled-content> separation and real&#x02010;time quantitative <styled-content style="fixed-case" toggle="no">PCR</styled-content>
+</title><p>The spinal cord samples were kept in liquid nitrogen and crushed into powder. Total RNA was extracted from the samples using TRIzol (CW0581, CWbio Co. Ltd, Beijing, China). After normalizing the extracted pure total RNA concentrations, the Superscript II First&#x02010;Strand Synthesis System (AB&#x02010;Clonal Biotechnology, Wuhan, China) was used to reverse transcribe the RNA into cDNA. To prepare cDNA, the RNA was heated at 65&#x000b0;C for 5&#x02009;min along with random hexamer primers and dNTP mixture. Then, cDNA synthesis buffer and dithiothreitol were added, followed by reverse transcriptase to create first&#x02010;strand cDNA. A dilution of the cDNA was kept at &#x02212;80&#x000b0;C until the RT&#x02010;qPCR analysis. The primer sequences utilized were sourced from GenBank at the National Centre for Biotechnology Information (NCBI) (Table&#x000a0;<xref rid="ame212458-tbl-0001" ref-type="table">1</xref>). Using a MyiQ Single&#x02010;Color Real&#x02010;Time PCR Detection System (Bio&#x02010;Rad) and 96&#x02010;well PCR plates, cDNA amplification was carried out using the Quanti Tect SYBR Green PCR Kit (QIAGEN). The reaction mixture for amplification included 2 &#x003bc;L of cDNA, 10 &#x003bc;L of REAL SYBR mixture (2&#x000d7;), 0.8&#x000a0;&#x003bc;L (10&#x000a0;&#x003bc;mol/&#x003bc;L) of forward and reverse primers, and 7.2&#x000a0;&#x003bc;L of PCR&#x02010;grade water, for a total volume of 20 &#x003bc;L. PCR was carried out under the following conditions: 10&#x02009;min at 95&#x000b0;C (pre&#x02010;denaturation), 40&#x02009;cycles of 15&#x02009;s at 95&#x000b0;C (denaturation), 60&#x02009;s at 60&#x000b0;C (annealing), and 25&#x02009;s at 72&#x000b0;C (extension), with fluorescence acquisition following each cycle. Finally, a dissociation curve was obtained by increasing the temperature from 65 to 95&#x000b0;C to verify primer specificity. To prevent differences between runs, all samples for every reference gene were performed on the same plate. The relative mRNA levels are expressed as 2<sup>&#x02212;&#x00394;&#x00394;CT</sup> values, and the relative gene expression was measured using the &#x00394;&#x00394;CT method.</p><table-wrap position="float" id="ame212458-tbl-0001" content-type="TABLE"><label>TABLE 1</label><caption><p>The sequences of primers used for experimental procedures were as follows.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Gene</th><th align="left" valign="bottom" rowspan="1" colspan="1">Sequence</th><th align="left" valign="bottom" rowspan="1" colspan="1">Gene bank accession No.</th></tr></thead><tbody valign="top"><tr><td align="left" rowspan="2" valign="top" colspan="1">Adenosine A3</td><td align="left" valign="top" rowspan="1" colspan="1">F&#x02010;5 (GGAAGCCGACAACACCACG)3</td><td align="left" valign="top" rowspan="1" colspan="1">NM009631.4</td></tr><tr><td align="left" colspan="2" valign="top" rowspan="1">R&#x02010;5 (CTTGACCACCCAGATGACCAG)3</td></tr><tr><td align="left" rowspan="2" valign="top" colspan="1">CD73</td><td align="left" valign="top" rowspan="1" colspan="1">F&#x02010;5 (AGCGATGACTCCACCAAGIG)3</td><td align="left" valign="top" rowspan="1" colspan="1">NM011851.4</td></tr><tr><td align="left" colspan="2" valign="top" rowspan="1">R&#x02010;5 (CAGATGGTGCCCTGGTACIG)3</td></tr><tr><td align="left" rowspan="2" valign="top" colspan="1">Adenosine Deaminase</td><td align="left" valign="top" rowspan="1" colspan="1">F&#x02010;5 (CGACTGAACATCAACGCAGC)3</td><td align="left" valign="top" rowspan="1" colspan="1">NM001272052.1</td></tr><tr><td align="left" colspan="2" valign="top" rowspan="1">R&#x02010;5 (TCAGTCTGTGGTGGCTATTGG)3</td></tr><tr><td align="left" rowspan="2" valign="top" colspan="1">GAPDH</td><td align="left" valign="top" rowspan="1" colspan="1">F&#x02010;5 (TGAGCCTCCTCCAATTCAACC)3</td><td align="left" valign="top" rowspan="1" colspan="1">NM0011289726.2</td></tr><tr><td align="left" colspan="2" valign="top" rowspan="1">R&#x02010;5 (AATCCGTTCACACCGACCTT)3</td></tr></tbody></table></table-wrap></sec><sec id="ame212458-sec-0015"><label>2.9</label><title>Western blot analysis</title><p>Total protein was extracted from spinal cord samples by homogenizing the protein lysate with protease and phosphatase inhibitors (Roche, Shanghai, China). The protein content was measured using the bicinchoninic acid (BCA) protein assay. Protein samples were separated using 10% SDS&#x02010;PAGE and transferred to a PVDF membrane at 120&#x02009;mA for 2&#x02009;h. Nonfat milk (5%) dissolved in TBST was used to block the membranes for 1&#x02009;h at room temperature. The membranes were then incubated for 16&#x02009;h at 4&#x000b0;C with the following primary antibodies: A3 (Affinity Biosciences: DF4851, diluted 1:500); a polyclonal antibody CD73 (Protein tech 12&#x02009;231&#x02010;1&#x02010;AP, diluted 1:1000); a polyclonal antibody ADA (Protein tech 13&#x02009;328&#x02010;1&#x02010;AP, diluted 1:500); and a GAPDH antibody (AB&#x02010;Clonal, AC001; Wuhan, China; 1:3000) diluted in 5% BSA. Following washing, secondary antibodies conjugated with horseradish peroxidase were applied to the membranes for 2&#x02009;h at 30&#x000b0;C (donkey anti&#x02010;rabbit IgG; AB&#x02010;Clonal, AS038; Wuhan, China; 1:10000 in TBST). Upon incubation, protein bands on the membranes were identified using an enhanced chemiluminescence (ECL) detection technique. Images were captured using the automatic molecular imaging system FUSION SOLO S (VILBER BIO IMAGING, Vilber, France), and the optical density of the bands was determined using ImageJ software (Wayne Rasband, National Institutes of Health, USA). The protein density of GAPDH served as an internal control.</p></sec><sec id="ame212458-sec-0016"><label>2.10</label><title>Immunofluorescence labeling</title><p>Following extraction of the spinal cord (L4&#x02013;L6), the samples were fixed in 4% paraformaldehyde solution for 2&#x02009;h. The samples were embedded in paraffin, and each block was consecutively sectioned at a thickness of 5&#x02009;&#x003bc;m. The paraffin slides holding spinal cord tissue were incubated for 2&#x02009;h at 37&#x000b0;C and then dewaxed to water (Xylene I 15&#x02009;min, Xylene II 15&#x02009;min, Xylene II 10&#x02009;min, 100% Ethanol I 3&#x02009;min, 100% Ethanol II 3&#x02009;min, 95% Ethanol 3&#x02009;min, 80% Ethanol 3&#x02009;min, and 75% Ethanol 3&#x02009;min) and washed three times with PBS. Slides were then immersed in the citrate repair solution, and a steamer was used to heat the repair solution to 92&#x02013;98&#x000b0;C. The slides were maintained at this temperature for 20&#x02009;min, then naturally cooled to room temperature, and finally washed with PBS 3 times for 5&#x02009;min. A 5% BSA blocking solution was added dropwise to the tissues, which were then incubated at 37&#x000b0;C for an hour and washed with PBS. The sections were then treated with an Adora3 polyclonal antibody (Thermo Fisher Invitrogen, diluted 1:200), an anti&#x02010;NeuN antibody (Protein tech 66&#x02009;836&#x02010;1&#x02010;Ig, diluted 1:200), and an anti&#x02010;GFAP antibody (CST Protein tech 66&#x02009;836&#x02010;1&#x02010;Ig, diluted 1:200) at 4&#x000b0;C overnight. After washing with PBS, the sections were treated with dyes Cy3 or FITC&#x02010;labeled anti&#x02010;rabbit IgG at the appropriate dilution applied dropwise to the slides, and then incubated for 30&#x02009;min at 37&#x000b0;C before being washed with PBS. Preferential incubation for Adora3 was performed with stable red Cy3 (1:1000). The slides were then counterstained with DAPI (4,6&#x02010;diamidino&#x02010;2&#x02010;phenylindole) for 10&#x02009;min at room temperature, washed, then probed with antifade mounting medium to protect them from light, and images were recorded and analyzed using ImageJ software to determine fluorescence intensity.</p></sec><sec id="ame212458-sec-0017"><label>2.11</label><title>Statistical analysis</title><p>Version 8.0.1 of GraphPad Prism was used for statistical analysis. The means and standard deviations (SDs) of the quantitative data are displayed. Following data normalization, the nociceptive behaviors were analyzed by one&#x02010;way ANOVA, with different treatments used as primary variables. To compare the RT&#x02010;PCR and western blot data, one&#x02010;way ANOVA was employed. To ascertain the statistical significance of the differences between the variables (<italic toggle="yes">p</italic> value&#x02009;&#x0003c;&#x02009;0.05), the Bonferroni correction was applied.</p></sec></sec><sec sec-type="results" id="ame212458-sec-0018"><label>3</label><title>RESULTS</title><sec id="ame212458-sec-0019"><label>3.1</label><title>Effect of repeated <styled-content style="fixed-case" toggle="no">EA</styled-content> on adenosine levels, mechanical allodynia and thermal hyperalgesia in <styled-content style="fixed-case" toggle="no">SNI</styled-content> mice</title><p>In the present study, baseline nociceptive thresholds were measured in a murine model as a reference point, after which nociception and adenosine concentrations were recorded after SNI was established and after the 2nd, 4th and 7th EA sessions. Ipsilateral PWT and TWL values indicated that nociception before SNI (Day 1) was significantly higher and decreased measurably after SNI (Day 0&#x02013;7), indicating the successful establishment of the NPP model. PWT and TWL values were restored to normal after multiple EA sessions (Figure&#x000a0;<xref rid="ame212458-fig-0001" ref-type="fig">1B,C</xref>). No significant difference was observed in the pain thresholds of the contralateral hind paw during the observational period (Figure&#x000a0;<xref rid="ame212458-fig-0001" ref-type="fig">1D</xref>). Throughout multiple EA treatments, adenosine levels exhibited an increasing trend with advancing time, suggesting that electroacupuncture had a cumulative effect on adenosine release (Figure&#x000a0;<xref rid="ame212458-fig-0001" ref-type="fig">1E</xref>). In the SNI groups, a notable increase in adenosine levels was observed following the EA sessions, and this effect was significantly higher in SNI&#x02009;+&#x02009;7EA group mice (<italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.05). Furthermore, Pearson's correlation analysis between the nociceptive responses and adenosine concentration indicated that the adenosine concentration was significantly and positively correlated with the PWT and TWL (Figure&#x000a0;<xref rid="ame212458-fig-0001" ref-type="fig">1F</xref>).</p><fig position="float" fig-type="FIGURE" id="ame212458-fig-0001"><label>FIGURE 1</label><caption><p>Effect of repeated EA on mechanical allodynia and thermal hyperalgesia and ADO concentration. (A) Experimental schematic diagram. (B, C) Paw withdrawal thresholds (PWTs, B) and thermal withdrawal latencies (C). (D) No change was observed in the contralateral PWT from Day 1 to Day 7 of EA. (E) Adenosine levels in the spinal cord (adenosine pg/mL). (F) Pearson's correlation analysis between ADO concentration and the nociceptive responses. The data are presented as the means&#x02009;&#x000b1;&#x02009;SD. Statistical significance was considered at <italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.05 (significant, **), and <italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.0001 (highly significant, ****) versus SNI group. Statistical significance for pain thresholds has been shown with letters (a, b, and c) on same day (<italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.05); One&#x02010;way ANOVA followed by Bonferroni correction. ADO, Adenosine; EA, electroacupuncture.</p></caption><graphic xlink:href="AME2-8-1635-g002" position="anchor" id="jats-graphic-3"/></fig></sec><sec id="ame212458-sec-0020"><label>3.2</label><title>The impact of repeated <styled-content style="fixed-case" toggle="no">EA</styled-content> sessions on the elevation of the spinal Adora3 receptor <styled-content style="fixed-case" toggle="no">mRNA</styled-content> and protein levels in <styled-content style="fixed-case" toggle="no">SCDH</styled-content>
+</title><p>The impact of multiple EA treatments on the relative mRNA and protein expressions of the spinal Adora3 receptor, adenosine metabolizing enzymes CD73 and ADA are presented in Figure&#x000a0;<xref rid="ame212458-fig-0002" ref-type="fig">2A&#x02013;G</xref>. After the 2nd, 4th and 7th EA sessions post&#x02010;SNI, a substantial increase (<italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.0001) in Adora3 and CD73 mRNA expression was observed in the SCDH of the SNI&#x02009;+&#x02009;7EA group compared to that in the SNI group (Figure&#x000a0;<xref rid="ame212458-fig-0002" ref-type="fig">2A,B</xref>). In contrast, ADA mRNA expression was decreased in the SNI&#x02009;+&#x02009;7EA group (Figure&#x000a0;<xref rid="ame212458-fig-0002" ref-type="fig">2C</xref>). Furthermore, the protein expression of Adora3 and CD73 was significantly (<italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.001) upregulated in the SCDH of SNI&#x02009;+&#x02009;7EA mice compared to that in the other groups (Figure&#x000a0;<xref rid="ame212458-fig-0002" ref-type="fig">2E,F</xref>). Conversely, SNI&#x02009;+&#x02009;7EA mice exhibited a marked reduction in spinal ADA protein expression compared to the other groups (Figure&#x000a0;<xref rid="ame212458-fig-0002" ref-type="fig">2G</xref>). Additionally, Pearson's correlation analysis between Adora3, CD73 and the nociceptive responses indicated a significantly positive correlation whereas, PWT and TWL indicated a negative correlation with ADA (Figure&#x000a0;<xref rid="ame212458-fig-0002" ref-type="fig">2H</xref>).</p><fig position="float" fig-type="FIGURE" id="ame212458-fig-0002"><label>FIGURE 2</label><caption><p>Multiple electroacupuncture sessions influence the Spinal Adora3 and related enzymes. (A&#x02013;C) Relative mRNA expression levels of Adora3, CD73, and ADA. (D) Western blot showing protein expression. (E&#x02013;G) Relative protein expression levels of Adora3, CD73, ADA, and GAPDH. (H) Pearson's correlation analysis of Adora3 and metabolizing enzymes with the nociceptive responses. On days 2EA, 4EA, and 7EA following surgery, samples were obtained from the lumber L4&#x02013;L6 segments. The data are presented as the means&#x02009;&#x000b1;&#x02009;SD. Statistical significance was considered at <italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.05 (significant, *), <italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.01 (**), <italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.001 (***), and <italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.0001 (highly significant, ****) compared to the SNI group; <italic toggle="yes">n</italic>&#x02009;=&#x02009;6. One&#x02010;way ANOVA followed by Bonferroni correction.</p></caption><graphic xlink:href="AME2-8-1635-g004" position="anchor" id="jats-graphic-5"/></fig></sec><sec id="ame212458-sec-0021"><label>3.3</label><title>The impact of repeated <styled-content style="fixed-case" toggle="no">EA</styled-content> on the florescence intensity of the Adora3 receptor in <styled-content style="fixed-case" toggle="no">SCDH</styled-content> of <styled-content style="fixed-case" toggle="no">SNI</styled-content> mice</title><p>The impact of multiple EA sessions on the colocalization and expression of Adora3 adenosine receptors with neuronal cells in the SCDH is shown in (Figure&#x000a0;<xref rid="ame212458-fig-0003" ref-type="fig">3A,B</xref>). Immunofluorescence staining was performed using the neuronal marker NeuN to assess the co&#x02010;expression of Adora3. Immunofluorescence staining showed a significant increase in the Adora3 levels after cumulative EA stimulation. The results showed a significant increase in fluorescence intensity when comparing the Adora3 levels in different treatment groups (2EA, 4EA, and 7EA, respectively) to those in the SNI group. The statistical analysis indicated high significance levels (<italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.01, <italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.001, and <italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.0001, respectively), highlighting that the multiple EA sessions are modulated by expressions of Adora3 receptor (Figure&#x000a0;<xref rid="ame212458-fig-0003" ref-type="fig">3B</xref>). These findings suggest a potential mechanism through which multiple sessions of EA exert antinociceptive effects, possibly by modulating adenosine signaling and attenuating neuropathic pain.</p><fig position="float" fig-type="FIGURE" id="ame212458-fig-0003"><label>FIGURE 3</label><caption><p>Immunofluorescence staining was used to determine the effect of repeated EA on the co&#x02010;expression of spinal Adora3 in SNI mice. (A) Adora3 receptors were double stained in the SCDH from the SNI and SNI+ EA groups (scale bar: 200&#x02009;&#x003bc;m). (B) The mean fluorescence intensity of the Adora3 in SCDHs after cumulative electroacupuncture. The data are presented as means&#x02009;&#x000b1;&#x02009;SDs. Statistical significance was considered at <italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.05 (significant, *), <italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.01 (**), and <italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.001 (highly significant, ***) compared to the SNI group; <italic toggle="yes">n</italic>&#x02009;=&#x02009;3. One&#x02010;way ANOVA followed by the Bonferroni correction test.</p></caption><graphic xlink:href="AME2-8-1635-g003" position="anchor" id="jats-graphic-7"/></fig></sec></sec><sec sec-type="discussion" id="ame212458-sec-0022"><label>4</label><title>DISCUSSION</title><p>Chronic pain lasts for a long period with different conditions and intensities. Chronic pain is frequently accompanied by other health issues such as exhaustion, sleep disturbance, decreased appetite and mood fluctuations, which have a negative impact on the patient's health.<xref rid="ame212458-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> Neuropathic pain is a type of pain that results from damage to or malfunctions of the nervous system and can also accompanied by chronic pain. It is noteworthy that neuropathic pain, like other forms of chronic pain, significantly affects patients' social, economic and psychological well&#x02010;being in addition to their quality of life.<xref rid="ame212458-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> Anxiety and depression are two psychological illnesses that are frequently linked to chronic neuropathic pain.<xref rid="ame212458-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="ame212458-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> In general, chronic pain travels via nerve fibers to the spinal cord, the brain, the limbic and hypothalamic regions. In these domains, the spinal cord is crucial to the ascending pain pathway from the body to the brain because it triggers the release of neurotrophins and cytokines from activated neuronal cells, which are then part of the pain signaling cascade.<xref rid="ame212458-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="ame212458-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> Pharmacological treatment is often accompanied by severe side effects and unsatisfactory outcomes<xref rid="ame212458-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> due to the high cost of drugs, and treating chronic pain has been a major challenge for physicians and research groups.</p><p>In China, acupuncture has been used for more than 3000&#x02009;years as a safe and effective means of treating acute and chronic pain in both humans and animals.<xref rid="ame212458-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="ame212458-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> EA therapies are now widely utilized around the world, with acupuncture needles used to administer various amounts of electric stimulation to acupoints. For acute diseases, one acupuncture treatment session can typically result in a significant and fast therapeutic benefit. Repeated EA sessions may result in more reliable and comprehensive treatment regimens for chronic illnesses. Our current findings show that, compared to single or double episodes, the nociceptive thresholds of SNI mice increased during multiple EA sessions. Similarly, another study found that EA therapy at the Weizhong (BL40) and Huantiao (GB30) acupoints for 1&#x02009;week alleviated NPP in CCI rats.<xref rid="ame212458-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> It has been noted that several neurotransmitters and neuromodulators in the peripheral and central nervous systems, including norepinephrine, glutamate, g&#x02010;amino&#x02010;butyric acid (GABA), opioid peptides, serotonin and adenosine are involved in pain management by electroacupuncture.<xref rid="ame212458-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> Sowa et&#x000a0;al., 2010 reported that CD73 inhibits nociceptive circuits by hydrolyzing ATP to ADO, in turn sufficiently attenuating nociception.<xref rid="ame212458-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> PAP and CD73 are the main ectonucleotidases that generate adenosine in nociceptive circuits.<xref rid="ame212458-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> These enzymes produce an inhibitory adenosinergic signal from pulsatile or continuous nucleotide release. They revealed that the ectonucleotidase CD73 modulates nociception by hydrolyzing AMP to adenosine in nociceptive circuits, making adenosine a promising molecular target for chronic pain therapy. Furthermore, our findings also show that CD73 is a significant contributor to the genesis of adenosine at the level of SCDH. Adenosine acts through four receptors (Adora1, A2A, A2B and Adora3)<xref rid="ame212458-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> that have been identified and cloned in various tissues.<xref rid="ame212458-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> Among these, A1AR and A2A AR have antinociceptive properties<xref rid="ame212458-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>; however, A1 AR&#x02010; and A2A&#x02010;mediated analgesia has been accompanied by severe cardiovascular side effects; hence, the use of A1AR and A2AAR agonists for therapeutic approaches has stalled.<xref rid="ame212458-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>, <xref rid="ame212458-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref> A3AR is expressed in inflammatory, endothelial, neuronal, and glial cells in nervous tissue.<xref rid="ame212458-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> The antinociceptive effects of A3AR agonists have been tested in several experimental NPP models to mitigate pain.<xref rid="ame212458-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="ame212458-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>, <xref rid="ame212458-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>
+</p><p>In this study, we used an SNI model to induce NPP and explored the impacts of repeated EA on nociceptive pain behaviors and Adora3 expression in SCDH mice. SNI instigated substantial mechanical allodynia and thermal hypersensitivity and the nociceptive thresholds of the afflicted paw were significantly reduced and were lowest on Day 8 following SNI surgery, consistent with previous observations.<xref rid="ame212458-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>, <xref rid="ame212458-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref> PWT (ipsilateral) and TWL showed that mice receiving repeated EA treatments experienced a significant cumulative reduction in pain due to increased adenosine levels, compared to non&#x02010;EA treated mice. These results highlight the importance of repeated EA treatment in achieving sustained adenosine&#x02010;related analgesia and the potential involvement of adenosine in mediating antinociception. Similar findings were presented in a study showing that the pain threshold was greater after successive sessions of EA over a long duration (weeks) than immediately after the session.<xref rid="ame212458-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> Thus the cumulative analgesic effect following repeated EA observed in our study is consistent<xref rid="ame212458-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>, <xref rid="ame212458-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>, <xref rid="ame212458-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>, <xref rid="ame212458-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref> and comparable with previous findings.</p><p>Correspondingly, after repeated EA sessions, the expression levels of Adora3 and CD73 mRNA and proteins were upregulated after every EA session and were significantly upregulated in the SNI&#x02009;+&#x02009;EA groups, with moderate downregulation of ADA mRNA and protein expression. Repeated EA treatment activated adenosine signaling after SNI in a neuropathic pain model. Previously, a possible mechanism for eliminating neuropathic pain through repeated EA sessions by suppressing ERK intracellular and p38 MAPK signaling in the hippocampus was postulated.<xref rid="ame212458-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref> Likewise, in another study it was found that repeated EA intervention had a cumulative analgesic effect on injury&#x02010;induced NPP reactions, resulting in synaptic remodeling of hippocampal neurons and increased calcium/calmodulin&#x02010;dependent protein kinase II expression in the hippocampal CA3 region.<xref rid="ame212458-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref> It has also been reported that the application of electroacupuncture stimulus at the acupoint ST36 diminishes neuropathic pain through the mediation of the spinal opioid receptor and the alpha2&#x02010; and beta&#x02010;adrenoceptors.<xref rid="ame212458-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref> Double immunofluorescence labelling also verified the strong colocalization of spinal Adora 3 with Neun in the SCDH after repeated EA sessions. Fluorescent intensity was significantly lower in SNI mice and this was reversed by repeated electroacupuncture treatments. Similarly, adenosine A3 receptor agonists had antinociceptive effects in experimental NPP models<xref rid="ame212458-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref> All these findings strongly support the cumulative analgesic effects of repeated EA treatment. Peripheral nerve damage may play a role in the onset and persistence of NPP.<xref rid="ame212458-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref> Systemic administration or spinal application of adenosine and its exogenous analogues has antinociceptive effects on various pain models.<xref rid="ame212458-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>
+</p><p>The results of this investigation offer a new understanding of the molecular processes by which repeated EA sessions mediate antinociception and alleviate neuropathic pain via the Adora3 signaling pathway. Our findings demonstrated the significance of ADO in the longer&#x02010;lasting reduction of neuropathic pain induced by repeated EA sessions. In addition, the finding that the antinociceptive effect of EA is mediated via activation of the A3 AR located in the spinal cord is also quite intriguing. As a result, drugs that therapeutically interfere with A3 AR or adenosine metabolism may increase the clinical benefits of EA and provide a new route for the development of pain medications in the future. Although the study shows encouraging results, extending these findings to human patients requires additional validation through clinical studies. Furthermore, to fully confirm repeated EA efficacy, the study should be expanded to include validation in descending pain inhibitory systems. Moreover, this study exclusively used male mice, prompting the need for a similar investigation in female animals to evaluate the effectiveness of repeated EA in both genders.</p></sec><sec sec-type="conclusions" id="ame212458-sec-0023"><label>5</label><title>CONCLUSIONS</title><p>In conclusion, repeated EA sessions ameliorate pain&#x02010;related behaviors (PWT and TWL) in SNI mice and subsequently upregulate spinal Adora 3 and CD73 mRNA and protein expression, and the application of repeated EA sessions in the SNI model upregulates the fluorescence intensity of Adora 3 to mitigate NPP.</p></sec><sec id="ame212458-sec-0024"><title>AUTHOR CONTRIBUTIONS</title><p>FAK, DM and DY participated in the design of the study. FAK, LH, and ZQ performed the experiments. GP and FAK acquired the data. FAK, LH, and MMA analyzed the data. FAK and DY drafted the manuscript. DM revised the manuscript. All authors read and approved the final manuscript.</p></sec><sec id="ame212458-sec-8023"><title>FUNDING INFORMATION</title><p>This research was funded by the National Nature Science Foundation of China, grant number 32172930.</p></sec><sec sec-type="COI-statement" id="ame212458-sec-0026"><title>CONFLICT OF INTEREST STATEMENT</title><p>The authors declare no competing financial interests.</p></sec><sec id="ame212458-sec-0027"><title>ETHICS STATEMENT</title><p>Ethical approval was granted (HZAU&#x02010;20240105001) for the use and care of experimental animals from the institutional animal care and use committee of Huazhong Agricultural University by observing the regulations for the administration of affairs concerning experimental animals of China.</p></sec></body><back><ref-list content-type="cited-references" id="ame212458-bibl-0001"><title>REFERENCES</title><ref id="ame212458-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="ame212458-cit-0001">
+<string-name>
+<surname>Finnerup</surname>
+<given-names>NB</given-names>
+</string-name>, <string-name>
+<surname>Kuner</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Jensen</surname>
+<given-names>TS</given-names>
+</string-name>. <article-title>Neuropathic pain: from mechanisms to treatment</article-title>. <source>Physiol Rev</source>. <year>2021</year>;<volume>101</volume>(<issue>1</issue>):<fpage>259</fpage>&#x02010;<lpage>301</lpage>.<pub-id pub-id-type="pmid">32584191</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="ame212458-cit-0002">
+<string-name>
+<surname>Bannister</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Sachau</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Baron</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Dickenson</surname>
+<given-names>AH</given-names>
+</string-name>. <article-title>Neuropathic pain: mechanism&#x02010;based therapeutics</article-title>. <source>Annu Rev Pharmacol Toxicol</source>. <year>2020</year>;<volume>60</volume>:<fpage>257</fpage>&#x02010;<lpage>274</lpage>.<pub-id pub-id-type="pmid">31914896</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="ame212458-cit-0003">
+<string-name>
+<surname>van Velzen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Dahan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Niesters</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Neuropathic pain: challenges and opportunities</article-title>. <source>Front Pain Res (Lausanne)</source>. <year>2020</year>;<volume>1</volume>:<fpage>1</fpage>.<pub-id pub-id-type="pmid">35295693</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="ame212458-cit-0004">
+<string-name>
+<surname>Johnson</surname>
+<given-names>MI</given-names>
+</string-name>. <article-title>The clinical effectiveness of acupuncture for pain relief&#x02013;you can be certain of uncertainty</article-title>. <source>Acupunct Med</source>. <year>2006</year>;<volume>24</volume>(<issue>2</issue>):<fpage>71</fpage>&#x02010;<lpage>79</lpage>.<pub-id pub-id-type="pmid">16783282</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="ame212458-cit-0005">
+<string-name>
+<surname>Vickers</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Vertosick</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Lewith</surname>
+<given-names>G</given-names>
+</string-name>, et&#x000a0;al. <article-title>Acupuncture for chronic pain: update of an individual patient data meta&#x02010;analysis</article-title>. <source>J Pain</source>. <year>2018</year>;<volume>19</volume>(<issue>5</issue>):<fpage>455</fpage>&#x02010;<lpage>474</lpage>.<pub-id pub-id-type="pmid">29198932</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="ame212458-cit-0006">
+<string-name>
+<surname>Kligler</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Nielsen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kohrherr</surname>
+<given-names>C</given-names>
+</string-name>, et&#x000a0;al. <article-title>Acupuncture therapy in a group setting for chronic pain</article-title>. <source>Pain Med</source>. <year>2018</year>;<volume>19</volume>(<issue>2</issue>):<fpage>393</fpage>&#x02010;<lpage>403</lpage>.<pub-id pub-id-type="pmid">28595273</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="ame212458-cit-0007">
+<string-name>
+<surname>Lv</surname>
+<given-names>ZT</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>B</given-names>
+</string-name>, et&#x000a0;al. <article-title>Effects of intensity of electroacupuncture on chronic pain in patients with knee osteoarthritis: a randomized controlled trial</article-title>. <source>Arthritis Res Ther</source>. <year>2019</year>;<volume>21</volume>:<fpage>1</fpage>&#x02010;<lpage>10</lpage>.<pub-id pub-id-type="pmid">30606217</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="ame212458-cit-0008">
+<string-name>
+<surname>Zhang</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Lao</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Ren</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Berman</surname>
+<given-names>BM</given-names>
+</string-name>. <article-title>Mechanisms of acupuncture&#x02010;electroacupuncture on persistent pain</article-title>. <source>Anesthesiology</source>. <year>2014</year>;<volume>120</volume>(<issue>2</issue>):<fpage>482</fpage>&#x02010;<lpage>503</lpage>.<pub-id pub-id-type="pmid">24322588</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="ame212458-cit-0009">
+<string-name>
+<surname>Cohen</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name>
+<surname>Mao</surname>
+<given-names>JJB</given-names>
+</string-name>. <article-title>Neuropathic pain: mechanisms and their clinical implications</article-title>. <source>BMJ</source>. <year>2014</year>;<volume>348</volume>:<elocation-id>f7656</elocation-id>.<pub-id pub-id-type="pmid">24500412</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="ame212458-cit-0010">
+<string-name>
+<surname>Dunwiddie</surname>
+<given-names>TV</given-names>
+</string-name>, <string-name>
+<surname>Masino</surname>
+<given-names>SAJA</given-names>
+</string-name>. <article-title>The role and regulation of adenosine in the central nervous system</article-title>. <source>Annu Rev Neurosci</source>. <year>2001</year>;<volume>24</volume>(<issue>1</issue>):<fpage>31</fpage>&#x02010;<lpage>55</lpage>.<pub-id pub-id-type="pmid">11283304</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="ame212458-cit-0011">
+<string-name>
+<surname>Little</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Ford</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Symons&#x02010;Liguori</surname>
+<given-names>AM</given-names>
+</string-name>, et&#x000a0;al. <article-title>Endogenous adenosine A3 receptor activation selectively alleviates persistent pain states</article-title>. <source>Brain</source>. <year>2015</year>;<volume>138</volume>(<issue>1</issue>):<fpage>28</fpage>&#x02010;<lpage>35</lpage>.<pub-id pub-id-type="pmid">25414036</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="ame212458-cit-0012">
+<string-name>
+<surname>Sawynok</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Adenosine receptor activation and nociception</article-title>. <source>Eur J Pharmacol</source>. <year>1998</year>;<volume>347</volume>(<issue>1</issue>):<fpage>1</fpage>&#x02010;<lpage>11</lpage>.<pub-id pub-id-type="pmid">9650842</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="ame212458-cit-0013">
+<string-name>
+<surname>Colgan</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name>
+<surname>Eltzschig</surname>
+<given-names>HK</given-names>
+</string-name>, <string-name>
+<surname>Eckle</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>
+<given-names>LF</given-names>
+</string-name>. <article-title>Physiological roles for ecto&#x02010;5&#x02032;&#x02010;nucleotidase (CD73)</article-title>. <source>Purinergic Signal</source>. <year>2006</year>;<volume>2</volume>(<issue>2</issue>):<fpage>351</fpage>&#x02010;<lpage>360</lpage>.<pub-id pub-id-type="pmid">18404475</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="ame212458-cit-0014">
+<string-name>
+<surname>Pettengill</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Robson</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tresenriter</surname>
+<given-names>M</given-names>
+</string-name>, et&#x000a0;al. <article-title>Soluble ecto&#x02010;5&#x02032;&#x02010;nucleotidase (5'&#x02010;NT), alkaline phosphatase, and adenosine deaminase (ADA1) activities in neonatal blood favor elevated extracellular adenosine</article-title>. <source>J Biol Chem</source>. <year>2013</year>;<volume>288</volume>(<issue>38</issue>):<fpage>27315</fpage>&#x02010;<lpage>27326</lpage>.<pub-id pub-id-type="pmid">23897810</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="ame212458-cit-0015">
+<string-name>
+<surname>Decosterd</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Woolf</surname>
+<given-names>CJ</given-names>
+</string-name>. <article-title>Spared nerve injury: an animal model of persistent peripheral neuropathic pain</article-title>. <source>Pain</source>. <year>2000</year>;<volume>87</volume>(<issue>2</issue>):<fpage>149</fpage>&#x02010;<lpage>158</lpage>.<pub-id pub-id-type="pmid">10924808</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="ame212458-cit-0016">
+<string-name>
+<surname>Laferriere</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Pang</surname>
+<given-names>DS</given-names>
+</string-name>. <article-title>Review of intraperitoneal injection of sodium pentobarbital as a method of euthanasia in laboratory rodents</article-title>. <source>J Am Assoc Lab Anim Sci</source>. <year>2020</year>;<volume>59</volume>(<issue>3</issue>):<fpage>254</fpage>&#x02010;<lpage>263</lpage>.</mixed-citation></ref><ref id="ame212458-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="ame212458-cit-0017">
+<string-name>
+<surname>Kwilasz</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Ellis</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Wieseler</surname>
+<given-names>J</given-names>
+</string-name>, et&#x000a0;al. <article-title>Sustained reversal of central neuropathic pain induced by a single intrathecal injection of adenosine A<sub>2A</sub> receptor agonists</article-title>. <source>Brain Behav Immun</source>. <year>2018</year>;<volume>69</volume>:<fpage>470</fpage>&#x02010;<lpage>479</lpage>.<pub-id pub-id-type="pmid">29366930</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="ame212458-cit-0018">
+<string-name>
+<surname>Wang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Qin</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>H</given-names>
+</string-name>, et&#x000a0;al. <article-title>Effect of electro&#x02010;acupuncture at ST36 and SP6 on the cAMP&#x02010;CREB pathway and mRNA expression profile in the brainstem of morphine tolerant mice</article-title>. <source>Front Neurosci</source>. <year>2021</year>;<volume>15</volume>:<elocation-id>698967</elocation-id>.<pub-id pub-id-type="pmid">34512242</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="ame212458-cit-0019">
+<string-name>
+<surname>Chaplan</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Bach</surname>
+<given-names>FW</given-names>
+</string-name>, <string-name>
+<surname>Pogrel</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Chung</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Yaksh</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Quantitative assessment of tactile allodynia in the rat paw</article-title>. <source>J Neurosci Methods</source>. <year>1994</year>;<volume>53</volume>(<issue>1</issue>):<fpage>55</fpage>&#x02010;<lpage>63</lpage>.<pub-id pub-id-type="pmid">7990513</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="ame212458-cit-0020">
+<string-name>
+<surname>Wan</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Nan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>J</given-names>
+</string-name>, et&#x000a0;al. <article-title>Synaptotagmin 1 is involved in neuropathic pain and electroacupuncture&#x02010;mediated analgesic effect</article-title>. <source>Int J Mol Sci</source>. <year>2020</year>;<volume>21</volume>(<issue>3</issue>):<fpage>968</fpage>.<pub-id pub-id-type="pmid">32024024</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="ame212458-cit-0021">
+<string-name>
+<surname>Navratilova</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Morimura</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name>
+<surname>Atcherley</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name>
+<surname>Ossipov</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Porreca</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Positive emotions and brain reward circuits in chronic pain</article-title>. <source>J Comp Neurol</source>. <year>2016</year>;<volume>524</volume>(<issue>8</issue>):<fpage>1646</fpage>&#x02010;<lpage>1652</lpage>.<pub-id pub-id-type="pmid">26788716</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="ame212458-cit-0022">
+<string-name>
+<surname>Bates</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Schultheis</surname>
+<given-names>BC</given-names>
+</string-name>, <string-name>
+<surname>Hanes</surname>
+<given-names>MC</given-names>
+</string-name>, et&#x000a0;al. <article-title>A comprehensive algorithm for management of neuropathic pain</article-title>. <source>Pain Med</source>. <year>2019</year>;<volume>20</volume>(<issue>Suppl 1</issue>):<fpage>S2</fpage>&#x02010;<lpage>s12</lpage>.</mixed-citation></ref><ref id="ame212458-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="ame212458-cit-0023">
+<string-name>
+<surname>Daniel</surname>
+<given-names>HC</given-names>
+</string-name>, <string-name>
+<surname>Narewska</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Serpell</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hoggart</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Rice</surname>
+<given-names>AS</given-names>
+</string-name>. <article-title>Comparison of psychological and physical function in neuropathic pain and nociceptive pain: implications for cognitive behavioral pain management programs</article-title>. <source>Eur J Pain</source>. <year>2008</year>;<volume>12</volume>(<issue>6</issue>):<fpage>731</fpage>&#x02010;<lpage>741</lpage>.<pub-id pub-id-type="pmid">18164225</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="ame212458-cit-0024">
+<string-name>
+<surname>Miller</surname>
+<given-names>LR</given-names>
+</string-name>, <string-name>
+<surname>Cano</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Comorbid chronic pain and depression: who is at risk?</article-title>
+<source>J Pain</source>. <year>2009</year>;<volume>10</volume>(<issue>6</issue>):<fpage>619</fpage>&#x02010;<lpage>627</lpage>.<pub-id pub-id-type="pmid">19398383</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="ame212458-cit-0025">
+<string-name>
+<surname>Austin</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Moalem&#x02010;Taylor</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>The neuro&#x02010;immune balance in neuropathic pain: involvement of inflammatory immune cells, immune&#x02010;like glial cells and cytokines</article-title>. <source>J Neuroimmunol</source>. <year>2010</year>;<volume>229</volume>(<issue>1&#x02013;2</issue>):<fpage>26</fpage>&#x02010;<lpage>50</lpage>.<pub-id pub-id-type="pmid">20870295</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="ame212458-cit-0026">
+<string-name>
+<surname>Ji</surname>
+<given-names>R&#x02010;R</given-names>
+</string-name>, <string-name>
+<surname>Berta</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Nedergaard</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Glia and pain: is chronic pain a gliopathy?</article-title>
+<source>Pain</source>. <year>2013</year>;<volume>154</volume>:<fpage>S10</fpage>&#x02010;<lpage>S28</lpage>.<pub-id pub-id-type="pmid">23792284</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="ame212458-cit-0027">
+<string-name>
+<surname>Attal</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Bouhassira</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Advances in the treatment of neuropathic pain</article-title>. <source>Curr Opin Neurol</source>. <year>2021</year>;<volume>34</volume>(<issue>5</issue>):<fpage>631</fpage>&#x02010;<lpage>637</lpage>.<pub-id pub-id-type="pmid">34310363</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="ame212458-cit-0028">
+<string-name>
+<surname>Qin</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Yao</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Zhai</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>Z</given-names>
+</string-name>. <article-title>Acupuncture for treating sciatica: a systematic review protocol</article-title>. <source>BMJ Open</source>. <year>2015</year>;<volume>5</volume>(<issue>4</issue>):<elocation-id>e007498</elocation-id>.</mixed-citation></ref><ref id="ame212458-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="ame212458-cit-0029">
+<string-name>
+<surname>Sun</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>LQ</given-names>
+</string-name>, <string-name>
+<surname>Shao</surname>
+<given-names>JK</given-names>
+</string-name>, et&#x000a0;al. <article-title>An expert consensus to standardize acupuncture treatment for knee osteoarthritis</article-title>. <source>Acupunct Med</source>. <year>2020</year>;<volume>38</volume>(<issue>5</issue>):<fpage>327</fpage>&#x02010;<lpage>334</lpage>.<pub-id pub-id-type="pmid">32309995</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="ame212458-cit-0030">
+<string-name>
+<surname>Yan</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Yin</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Effect of electroacupuncture on the levels of amino acid neurotransmitters in the spinal cord in rats with chronic constrictive injury</article-title>. <source>Zhen Ci Yan Jiu</source>. <year>2011</year>;<volume>36</volume>(<issue>5</issue>):<fpage>353</fpage>&#x02010;<lpage>379</lpage>.<pub-id pub-id-type="pmid">22073887</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="ame212458-cit-0031">
+<string-name>
+<surname>Chen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Rong</surname>
+<given-names>P</given-names>
+</string-name>, et&#x000a0;al. <article-title>Acupuncture for visceral pain: neural substrates and potential mechanisms</article-title>. <source>Evid Based Complement Alternat Med</source>. <year>2014</year>;<volume>2014</volume>:<fpage>1</fpage>&#x02010;<lpage>12</lpage>.</mixed-citation></ref><ref id="ame212458-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="ame212458-cit-0032">
+<string-name>
+<surname>Sowa</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name>
+<surname>Taylor&#x02010;Blake</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Zylka</surname>
+<given-names>MJ</given-names>
+</string-name>. <article-title>Ecto&#x02010;5&#x02032;&#x02010;nucleotidase (CD73) inhibits nociception by hydrolyzing AMP to adenosine in nociceptive circuits</article-title>. <source>J Neurosci</source>. <year>2010</year>;<volume>30</volume>(<issue>6</issue>):<fpage>2235</fpage>&#x02010;<lpage>2244</lpage>.<pub-id pub-id-type="pmid">20147550</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="ame212458-cit-0033">
+<string-name>
+<surname>Street</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Walsh</surname>
+<given-names>PL</given-names>
+</string-name>, <string-name>
+<surname>Sowa</surname>
+<given-names>NA</given-names>
+</string-name>, et&#x000a0;al. <article-title>PAP and NT5E inhibit nociceptive neurotransmission by rapidly hydrolyzing nucleotides to adenosine</article-title>. <source>Mol Pain</source>. <year>2011</year>;<volume>7</volume>:<fpage>80</fpage>.<pub-id pub-id-type="pmid">22011440</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="ame212458-cit-0034">
+<string-name>
+<surname>Chen</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Eltzschig</surname>
+<given-names>HK</given-names>
+</string-name>, <string-name>
+<surname>Fredholm</surname>
+<given-names>BB</given-names>
+</string-name>. <article-title>Adenosine receptors as drug targets&#x02014;what are the challenges?</article-title>
+<source>Nat Rev Drug Discov</source>. <year>2013</year>;<volume>12</volume>(<issue>4</issue>):<fpage>265</fpage>&#x02010;<lpage>286</lpage>.<pub-id pub-id-type="pmid">23535933</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="ame212458-cit-0035">
+<string-name>
+<surname>Sheth</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Brito</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Mukherjea</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Rybak</surname>
+<given-names>LP</given-names>
+</string-name>, <string-name>
+<surname>Ramkumar</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Adenosine receptors: expression, function and regulation</article-title>. <source>Int J Mol Sci</source>. <year>2014</year>;<volume>15</volume>(<issue>2</issue>):<fpage>2024</fpage>&#x02010;<lpage>2052</lpage>.<pub-id pub-id-type="pmid">24477263</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="ame212458-cit-0036">
+<string-name>
+<surname>Zylka</surname>
+<given-names>MJ</given-names>
+</string-name>. <article-title>Pain&#x02010;relieving prospects for adenosine receptors and ectonucleotidases</article-title>. <source>Trends Mol Med</source>. <year>2011</year>;<volume>17</volume>(<issue>4</issue>):<fpage>188</fpage>&#x02010;<lpage>196</lpage>.<pub-id pub-id-type="pmid">21236731</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="ame212458-cit-0037">
+<string-name>
+<surname>Eisenstein</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Chitalia</surname>
+<given-names>SV</given-names>
+</string-name>, <string-name>
+<surname>Ravid</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Bone marrow and adipose tissue adenosine receptors effect on osteogenesis and adipogenesis</article-title>. <source>Int J Mol Sci</source>. <year>2020</year>;<volume>21</volume>(<issue>20</issue>):<elocation-id>7470</elocation-id>.<pub-id pub-id-type="pmid">33050467</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="ame212458-cit-0038">
+<string-name>
+<surname>Jacobson</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Tosh</surname>
+<given-names>DK</given-names>
+</string-name>, <string-name>
+<surname>Jain</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>Z&#x02010;G</given-names>
+</string-name>. <article-title>Historical and current adenosine receptor agonists in preclinical and clinical development</article-title>. <source>Front Cell Neurosci</source>. <year>2019</year>;<volume>13</volume>:<fpage>124</fpage>.<pub-id pub-id-type="pmid">30983976</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="ame212458-cit-0039">
+<string-name>
+<surname>Fishman</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Drugs targeting the A3 adenosine receptor: human clinical study data</article-title>. <source>Molecules</source>. <year>2022</year>;<volume>27</volume>(<issue>12</issue>):<fpage>3680</fpage>.<pub-id pub-id-type="pmid">35744805</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="ame212458-cit-0040">
+<string-name>
+<surname>Janes</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Esposito</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Doyle</surname>
+<given-names>T</given-names>
+</string-name>, et&#x000a0;al. <article-title>A3 adenosine receptor agonist prevents the development of paclitaxel&#x02010;induced neuropathic pain by modulating spinal glial&#x02010;restricted redox&#x02010;dependent signaling pathways</article-title>. <source>Pain</source>. <year>2014</year>;<volume>155</volume>(<issue>12</issue>):<fpage>2560</fpage>&#x02010;<lpage>2567</lpage>.<pub-id pub-id-type="pmid">25242567</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="ame212458-cit-0041">
+<string-name>
+<surname>Ford</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Castonguay</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Cottet</surname>
+<given-names>M</given-names>
+</string-name>, et&#x000a0;al. <article-title>Engagement of the GABA to KCC2 signaling pathway contributes to the analgesic effects of A3AR agonists in neuropathic pain</article-title>. <source>J Neurosci</source>. <year>2015</year>;<volume>35</volume>(<issue>15</issue>):<fpage>6057</fpage>&#x02010;<lpage>6067</lpage>.<pub-id pub-id-type="pmid">25878279</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="ame212458-cit-0042">
+<string-name>
+<surname>Richner</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bjerrum</surname>
+<given-names>OJ</given-names>
+</string-name>, <string-name>
+<surname>Nykjaer</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Vaegter</surname>
+<given-names>CB</given-names>
+</string-name>. <article-title>The spared nerve injury (SNI) model of induced mechanical allodynia in mice</article-title>. <source>J Vis Exp</source>. <year>2011</year>;<volume>54</volume>:<fpage>3092</fpage>.</mixed-citation></ref><ref id="ame212458-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="ame212458-cit-0043">
+<string-name>
+<surname>Bennett</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>
+<given-names>YK</given-names>
+</string-name>. <article-title>A peripheral mononeuropathy in rat that produces disorders of pain sensation like those seen in man</article-title>. <source>Pain</source>. <year>1988</year>;<volume>33</volume>(<issue>1</issue>):<fpage>87</fpage>&#x02010;<lpage>107</lpage>.<pub-id pub-id-type="pmid">2837713</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="ame212458-cit-0044">
+<string-name>
+<surname>Wang</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name>
+<surname>Meng</surname>
+<given-names>FY</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>YH</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>JL</given-names>
+</string-name>. <article-title>Analysis on interrelation between electroacupuncture&#x02010;induced cumulative analgesic effect and hypothalamic cholinergic activities in chronic neuropathic pain rats</article-title>. <source>Chin J Integr Med</source>. <year>2012</year>;<volume>18</volume>:<fpage>699</fpage>&#x02010;<lpage>707</lpage>.<pub-id pub-id-type="pmid">22936324</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="ame212458-cit-0045">
+<string-name>
+<surname>Kan</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>YH</given-names>
+</string-name>, et&#x000a0;al. <article-title>Involvement of hippocampal NO/PKG signaling pathway in the accumulative analgesic effect of electroacupuncture stimulation of &#x0201c;Zusanli&#x0201d; (ST 36)&#x02010; &#x0201c;Yanglingquan&#x0201d; (GB 34) in chronic neuropathic pain rats</article-title>. <source>Zhen Ci Yan Jiu</source>. <year>2013</year>;<volume>38</volume>(<issue>2</issue>):<fpage>93</fpage>&#x02010;<lpage>99</lpage>.<pub-id pub-id-type="pmid">23819209</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="ame212458-cit-0046">
+<string-name>
+<surname>Yang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>Effects of electroacupuncture on hyperalgesia score of neuropathic pain rats</article-title>. <source>Acupunct Res</source>. <year>2002</year>;<volume>27</volume>(<issue>1</issue>):<fpage>60</fpage>&#x02010;<lpage>63</lpage>.</mixed-citation></ref><ref id="ame212458-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="ame212458-cit-0047">
+<string-name>
+<surname>Xu</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>S</given-names>
+</string-name>, et&#x000a0;al. <article-title>The cumulative analgesic effect of repeated electroacupuncture involves synaptic remodeling in the hippocampal CA3 region</article-title>. <source>Neural Regen Res</source>. <year>2012</year>;<volume>7</volume>(<issue>18</issue>):<fpage>1378</fpage>&#x02010;<lpage>1385</lpage>.<pub-id pub-id-type="pmid">25657670</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="ame212458-cit-0048">
+<string-name>
+<surname>Wang</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>YH</given-names>
+</string-name>, <string-name>
+<surname>Qiao</surname>
+<given-names>LN</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>JL</given-names>
+</string-name>. <article-title>Effect of repeated electroacupuncture intervention on hippocampal ERK and p38MAPK signaling in neuropathic pain rats</article-title>. <source>Evid Based Complement Alternat Med</source>. <year>2015</year>;<volume>2015</volume>:<fpage>1</fpage>&#x02010;<lpage>10</lpage>.</mixed-citation></ref><ref id="ame212458-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="ame212458-cit-0049">
+<string-name>
+<surname>Choi</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>
+<given-names>SY</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>
+<given-names>JG</given-names>
+</string-name>, et&#x000a0;al. <article-title>Analgesic effect of electroacupuncture on paclitaxel&#x02010;induced neuropathic pain via spinal opioidergic and adrenergic mechanisms in mice</article-title>. <source>Am J Chin Med</source>. <year>2015</year>;<volume>43</volume>(<issue>1</issue>):<fpage>57</fpage>&#x02010;<lpage>70</lpage>.<pub-id pub-id-type="pmid">25640847</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="ame212458-cit-0050">
+<string-name>
+<surname>Chen</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Janes</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>C</given-names>
+</string-name>, et&#x000a0;al. <article-title>Controlling murine and rat chronic pain through A3 adenosine receptor activation</article-title>. <source>FASEB J</source>. <year>2012</year>;<volume>26</volume>(<issue>5</issue>):<fpage>1855</fpage>&#x02010;<lpage>1865</lpage>.<pub-id pub-id-type="pmid">22345405</pub-id>
+</mixed-citation></ref><ref id="ame212458-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="ame212458-cit-0051">
+<string-name>
+<surname>Terayama</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Yamamoto</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Kishimoto</surname>
+<given-names>N</given-names>
+</string-name>, et&#x000a0;al. <article-title>Peripheral nerve injury activates convergent nociceptive input to dorsal horn neurons from neighboring intact nerve</article-title>. <source>Exp Brain Res</source>. <year>2015</year>;<volume>233</volume>(<issue>4</issue>):<fpage>1201</fpage>&#x02010;<lpage>1212</lpage>.<pub-id pub-id-type="pmid">25600819</pub-id>
+</mixed-citation></ref></ref-list></back></article>

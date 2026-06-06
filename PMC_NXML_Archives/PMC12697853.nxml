@@ -1,0 +1,2732 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="advs71903" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="iso-abbrev">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2198-3844</journal-id><journal-id journal-id-type="publisher-id">ADVS</journal-id><journal-title-group><journal-title>Advanced Science</journal-title></journal-title-group><issn pub-type="epub">2198-3844</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">40985476</article-id><article-id pub-id-type="pmc">12697853</article-id>
+<article-id pub-id-type="doi">10.1002/advs.202508245</article-id><article-id pub-id-type="publisher-id">ADVS71903</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Repurposing Cardiac Glycosides to Potentiate CD47 Blockade through Calreticulin&#x02010;mediated Phagocytic Effects for Lung Cancer Treatment</article-title></title-group><contrib-group><contrib id="advs71903-cr-0001" contrib-type="author"><name><surname>Ye</surname><given-names>Zi&#x02010;Han</given-names></name><xref rid="advs71903-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs71903-cr-0002" contrib-type="author"><name><surname>Yu</surname><given-names>Wei&#x02010;Bang</given-names></name><xref rid="advs71903-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs71903-cr-0003" contrib-type="author"><name><surname>Huang</surname><given-names>Mu&#x02010;Yang</given-names></name><xref rid="advs71903-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs71903-cr-0004" contrib-type="author"><name><surname>Chen</surname><given-names>Yan&#x02010;Yan</given-names></name><xref rid="advs71903-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs71903-cr-0005" contrib-type="author"><name><surname>Zhang</surname><given-names>Le&#x02010;Le</given-names></name><xref rid="advs71903-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="advs71903-cr-0006" contrib-type="author"><name><surname>Leung</surname><given-names>Chung&#x02010;Hang</given-names></name><xref rid="advs71903-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="advs71903-cr-0007" contrib-type="author"><name><surname>Zhang</surname><given-names>Xiao&#x02010;Lei</given-names></name><xref rid="advs71903-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="advs71903-cr-0008" contrib-type="author"><name><surname>Tang</surname><given-names>Zhenghai</given-names></name><xref rid="advs71903-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="advs71903-cr-0009" contrib-type="author"><name><surname>Li</surname><given-names>Ting</given-names></name><xref rid="advs71903-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs71903-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="advs71903-cr-0010" contrib-type="author" corresp="yes"><name><surname>Lu</surname><given-names>Jin&#x02010;Jian</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6703-3120</contrib-id><xref rid="advs71903-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="advs71903-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="advs71903-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><address><email>jinjianlu@um.edu.mo</email></address></contrib></contrib-group><aff id="advs71903-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">State Key Laboratory of Quality Research in Chinese Medicine</named-content>
+<named-content content-type="organisation-division">Institute of Chinese Medical Sciences</named-content>
+<institution>University of Macau</institution>
+<city>Macao</city>
+<postal-code>999078</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs71903-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">School of Basic Medical Sciences</named-content>
+<institution>Chengdu University</institution>
+<city>Chengdu</city>
+<postal-code>610106</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs71903-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">National&#x02010;Local Joint Engineering Laboratory of Druggability and New Drug Evaluation</named-content>
+<named-content content-type="organisation-division">Guangdong Key Laboratory of Chiral Molecule and Drug Discovery</named-content>
+<named-content content-type="organisation-division">School of Pharmaceutical Sciences</named-content>
+<institution>Sun Yat&#x02010;sen University</institution>
+<city>Guangzhou</city>
+<postal-code>510006</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs71903-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Biomedical Sciences</named-content>
+<named-content content-type="organisation-division">Faculty of Health Sciences</named-content>
+<institution>University of Macau</institution>
+<city>Macao</city>
+<postal-code>999078</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs71903-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pharmaceutical Sciences</named-content>
+<named-content content-type="organisation-division">Faculty of Health Sciences</named-content>
+<institution>University of Macau</institution>
+<city>Macao</city>
+<postal-code>999078</postal-code>
+<country country="CN">China</country>
+</aff><aff id="advs71903-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">MoE Frontiers Science Center for Precision Oncology</named-content>
+<institution>University of Macau</institution>
+<city>Macao</city>
+<postal-code>999078</postal-code>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>E&#x02010;mail: <email>jinjianlu@um.edu.mo</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>23</day><month>9</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2025</year></pub-date><volume>12</volume><issue seq="340">46</issue><issue-id pub-id-type="doi">10.1002/advs.v12.46</issue-id><elocation-id>e08245</elocation-id><history>
+<date date-type="rev-recd"><day>08</day><month>9</month><year>2025</year></date>
+<date date-type="received"><day>07</day><month>5</month><year>2025</year></date>
+</history><permissions><!--&#x000a9; 2025 Wiley&#x02010;VCH GmbH--><copyright-statement content-type="article-copyright">&#x000a9; 2025 The Author(s). Advanced Science published by Wiley&#x02010;VCH GmbH</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ADVS-12-e08245.pdf"/><abstract><title>Abstract</title><p>The abundance of macrophages within the tumor microenvironment (TME) of lung cancer represents a noteworthy therapeutic target. Exploiting the phagocytic function of macrophages by blocking the &#x0201c;don't eat me&#x0201d; signal, CD47, has shown significant therapeutic potential. However, novel CD47&#x02010;targeted combination strategies warrant further investigation. Through an analysis of data obtained from a screening model focused on the macrophage&#x02010;mediated killing effect, two cardiac glycosides (CGs), ouabain and digoxin, are shown to increase the capacity of macrophages to kill cancer cells after combination with CD47 antibody. Compared with the control, the combination strategy reduced the tumor volume in different lung cancer models and increased the macrophage phagocytosis rate &#x02248;5&#x02010;fold. Mechanistically, in addition to Fc&#x02010;Fc&#x003b3;R interaction, CGs enhanced the expression of a pro&#x02010;phagocytotic signal, calreticulin (CRT). Moreover, PERK inhibitor, ER&#x02010;Golgi protein trafficking inhibitor, and siRNA&#x02010;mediated knockdown of exocytosis protein exo70, abrogated both CGs&#x02010;induced CRT upregulation and the ensuing enhancement of phagocytosis. These findings indicate that CGs drive CRT translocation originates from ER to Golgi apparatus, where it subsequently anchors to the cell surface via exo70&#x02010;mediated exocytosis. Overall, this study offers compelling evidence that supports the clinical translation of an innovative combination regimen for the treatment of patients with lung cancer.</p></abstract><abstract id="advs71903-abs-0001" abstract-type="graphical"><p>Repurposing cardiac glycosides (CGs) significantly strengthens the efficacy of anti&#x02010;CD47 antibody for lung cancer treatment by boosting macrophage phagocytosis.&#x000a0;This novel combination blocks the &#x0201c;don't eat me&#x0201d; signal and increases dual &#x0201c;eat&#x02010;me&#x0201d; signals, Fc&#x02010;Fc&#x003b3;R and cell surface expression of calreticulin (ecto&#x02010;CRT). Mechanistically, CGs drive ecto&#x02010;CRT via PERK activation, ER&#x02010;Golgi trafficking, and Exo70&#x02010;mediated exocytosis, offering new insights for potent anti&#x02010;tumor immunotherapy.
+<boxed-text position="anchor" content-type="graphic"><graphic xlink:href="ADVS-12-e08245-g007.jpg" position="anchor" id="jats-graphic-1"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="advs71903-kwd-0001">calreticulin</kwd><kwd id="advs71903-kwd-0002">cardiac glycosides</kwd><kwd id="advs71903-kwd-0003">CD47 blockade</kwd><kwd id="advs71903-kwd-0004">lung cancer</kwd><kwd id="advs71903-kwd-0005">phagocytosis</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>Science and Technology Development Fund, Macau SAR</institution></institution-wrap>
+</funding-source><award-id>0015&#x02010;2022&#x02010;A1</award-id><award-id>005/2023/SKL</award-id></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>University of Macau</institution><institution-id institution-id-type="doi">10.13039/501100004733</institution-id></institution-wrap>
+</funding-source><award-id>MYRG&#x02010;GRG2024&#x02010;00113&#x02010;ICMS&#x02010;UMDF</award-id><award-id>MYRG&#x02010;GRG2023&#x02010;00160&#x02010;ICMS&#x02010;UMDF</award-id></award-group></funding-group><counts><fig-count count="10"/><table-count count="0"/><page-count count="16"/><word-count count="9973"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 11, 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.6 mode:remove_FC converted:11.12.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="advs71903-cit-0001">
+<string-name>
+<given-names>Z.&#x02010;H.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name>
+<given-names>W.&#x02010;B.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>M.&#x02010;Y.</given-names>
+<surname>Huang</surname>
+</string-name>, et al. &#x0201c;<article-title>Repurposing Cardiac Glycosides to Potentiate CD47 Blockade through Calreticulin&#x02010;mediated Phagocytic Effects for Lung Cancer Treatment</article-title>.&#x0201d; <source>Adv. Sci.</source>
+<volume>12</volume>, no. <issue>46</issue> (<year>2025</year>): <elocation-id>e08245</elocation-id>. <pub-id pub-id-type="doi">10.1002/advs.202508245</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="advs71903-sec-0010"><label>1</label><title>Introduction</title><p>Lung cancer, recognized as one of the largest contributors to cancer diagnosis and cancer&#x02010;related deaths worldwide, is categorized into non&#x02010;small cell lung cancer (NSCLC, accounting for 80% of all lung cancer cases) and small&#x02010;cell lung cancer (SCLC).<sup>[</sup>
+<xref rid="advs71903-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>
+<sup>]</sup> Recent statistics estimated &#x02248;2.27 million new lung cancer cases and 1.25 million deaths in 2025.<xref rid="advs71903-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> In clinical treatment, targeted therapies and immunotherapies have significantly improved outcomes in patients with lung cancer.<sup>[</sup>
+<xref rid="advs71903-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="advs71903-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>
+<sup>]</sup> For example, targeted therapies, such as tyrosine kinase inhibitors (TKIs), are designed to selectively inhibit specific oncogenic genetic alterations, such as mutations in epidermal growth factor receptor (EGFR) and anaplastic lymphoma kinase (ALK), which are pivotal drivers of tumorigenesis. Osimertinib, a third&#x02010;generation EGFR TKI, has exhibited superior therapeutic outcomes in the management of EGFR&#x02010;mutant NSCLC, extending the overall survival of patients from less than 12 months to 3 years or more.<sup>[</sup>
+<xref rid="advs71903-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="advs71903-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>
+<sup>]</sup> In parallel, immune checkpoint inhibitors (ICIs), including pembrolizumab and nivolumab, have also yielded significant clinical benefits in the treatment of advanced NSCLC, leading to durable tumor responses and increased survival rates.<sup>[</sup>
+<xref rid="advs71903-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="advs71903-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>
+<sup>]</sup> Despite the advancements in these therapeutic modalities, there is considerable room for improvement. Resistance to targeted therapies is an inevitable challenge and limits their long&#x02010;term efficacy.<sup>[</sup>
+<xref rid="advs71903-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>
+<sup>]</sup> Additionally, ICIs that primarily target the PD&#x02010;L1/PD&#x02010;1 axis exhibit relatively low response rates, &#x02248;20%, which represents a significant barrier to optimizing therapeutic outcomes.<sup>[</sup>
+<xref rid="advs71903-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>
+<sup>]</sup> Therefore, the development of novel treatment strategies remains essential for future advancements in anti&#x02010;lung cancer therapy.</p><p>In the tumor microenvironment (TME), in addition to T cells, there are also various innate immune cells.<sup>[</sup>
+<xref rid="advs71903-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>
+<sup>]</sup> For example, macrophages are one of the largest populations among all types of immune cells in the solid tumor microenvironment.<sup>[</sup>
+<xref rid="advs71903-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+<sup>]</sup> These cells play a crucial role in tumor progression and immune regulation, and their complex interaction mechanisms have increasingly emerged as a focal point of research.<sup>[</sup>
+<xref rid="advs71903-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>
+<sup>]</sup> Most of these macrophages play an immunosuppressive role, assisting cancer cells in evading attacks from the immune system.<sup>[</sup>
+<xref rid="advs71903-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>
+<sup>]</sup> The current challenge is how to repurpose these cells to target and kill cancer cells. Macrophage&#x02010;mediated phagocytosis could be a pivotal breakthrough, but there are anti&#x02010;phagocytic signaling axes in the TME that prevent macrophage phagocytosis.<sup>[</sup>
+<xref rid="advs71903-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+<sup>]</sup>
+</p><p>CD47, a five&#x02010;span transmembrane protein ubiquitously expressed in various cell types, is highly expressed in many types of cancer.<sup>[</sup>
+<xref rid="advs71903-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="advs71903-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+<sup>]</sup> As the most widely studied &#x0201c;anti&#x02010;phagocytosis&#x0201d; signal,<sup>[</sup>
+<xref rid="advs71903-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>
+<sup>]</sup> CD47 binds to signal&#x02010;regulatory protein alpha (SIRP&#x003b1;) on the surface of myeloid cells, such as macrophages, thereby activating the immunoreceptor tyrosine&#x02010;based inhibitory motif intracellularly, which enables cancer cells to evade immune surveillance.<sup>[</sup>
+<xref rid="advs71903-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+<sup>]</sup> Previous studies summarized research on agents that target CD47 and revealed that most clinical trials involving CD47&#x02010;targeting agents have adopted combination regimens.<sup>[</sup>
+<xref rid="advs71903-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+<sup>]</sup> Blocking the CD47&#x02010;SIRP&#x003b1; axis alone is currently believed to be insufficient for fully unleashing the phagocytic potential of macrophages, and additional pro&#x02010;phagocytic signals are required.<sup>[</sup>
+<xref rid="advs71903-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="advs71903-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>
+<sup>]</sup> Furthermore, the high level of macrophage infiltration in lung cancer has prompted the investigation of combination strategies involving CD47&#x02010;targeting agents in the treatment of lung cancer,<sup>[</sup>
+<xref rid="advs71903-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>
+<sup>]</sup> including combinations with radiotherapy, autophagy inhibitors, and anti&#x02010;angiogenic therapies.<sup>[</sup>
+<xref rid="advs71903-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="advs71903-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="advs71903-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>
+<sup>]</sup> Our previous research, along with that of others, has demonstrated that the combination of CD47 antibody and EGFR&#x02010;TKIs significantly enhances anti&#x02010;lung cancer efficacy.<sup>[</sup>
+<xref rid="advs71903-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="advs71903-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="advs71903-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>
+<sup>]</sup>
+</p><p>An evaluation of macrophage phagocytosis over a short period and residual cancer cells after a prolonged period revealed that CGs such as ouabain and digoxin significantly enhanced the macrophage killing effect mediated by CD47 antibody. Studies have recently focused on exploring the anti&#x02010;cancer properties and underlying mechanisms of CGs, diverging from their traditional application in the treatment of heart failure.<sup>[</sup>
+<xref rid="advs71903-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="advs71903-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="advs71903-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>
+<sup>]</sup> CGs have been reported to exert anti&#x02010;cancer effects by inducing cell death, arresting the cell cycle, inhibiting cell proliferation&#x02010;related pathways, and preventing cell migration and invasion.<sup>[</sup>
+<xref rid="advs71903-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="advs71903-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>
+<sup>]</sup> Notably, ouabain and digoxin were found to be the strongest disruptors of circulating cancer cells and inhibit breast cancer metastasis.<sup>[</sup>
+<xref rid="advs71903-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="advs71903-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>
+<sup>]</sup> Furthermore, they specifically target senescent cells caused by chemotherapeutic drugs to resensitize them to chemotherapy as senolytic compounds.<sup>[</sup>
+<xref rid="advs71903-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>, <xref rid="advs71903-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>
+<sup>]</sup>
+</p><p>This study unraveled that ouabain and digoxin significantly increased the phagocytic activity of macrophages and the efficacy of the CD47 antibody in lung cancer elimination in both in vitro and in vivo models. The observed mechanism involved the Fc&#x02010;Fc&#x003b3;R interaction mediated by the CD47 antibody, alongside the upregulation of cell surface expression of the &#x0201c;eat me&#x0201d; signal CRT induced by ouabain or digoxin. Furthermore, the detailed translocation path of CRT induced by these two CGs was elucidated.</p></sec><sec id="advs71903-sec-0020"><label>2</label><title>Results</title><sec id="advs71903-sec-0030"><label>2.1</label><title>CGs Strengthened the Macrophage Killing Effect of CD47 Antibody</title><p>To make our screening results more reliable, the evaluation of the macrophage&#x02010;killing effect in the model included not only the calculation of the macrophage phagocytosis index after 3 h but also a co&#x02010;analysis of the remaining cancer cells after 48 h (<bold>Figure</bold>
+<xref rid="advs71903-fig-0001" ref-type="fig">
+<bold>1</bold>A</xref>). Both cancer cells undergoing phagocytosis and the remaining cancer cells were evaluated using the HCI algorithm. Six compound plates from the FDA&#x02010;approved small compound library were screened by the established model. Two compounds classified as CGs, ouabain and digoxin, exhibited combinational potential after adding simultaneously with CD47 antibody (Figure&#x000a0;<xref rid="advs71903-fig-0001" ref-type="fig">1B</xref>). Specifically, ouabain combined with CD47 antibody had the best phagocytosis index (1.46&#x02010;fold change compared with CD47 antibody alone), whereas digoxin had the best clearance effect (0.39&#x02010;fold change compared with CD47 antibody alone) on the remaining cancer cells (Figure&#x000a0;<xref rid="advs71903-fig-0001" ref-type="fig">1B</xref>). To further confirm the screening results, different concentrations of ouabain or digoxin were combined with CD47 antibody. Both CGs decreased the number of remaining cells at the nanomolar level, and the percentage of remaining cancer cells decreased dramatically when 50 nM ouabain or 200 nM digoxin was combined with CD47 antibody (Figure 1C; Figure <xref rid="advs71903-supinfo-0001" ref-type="">S1A</xref>, Supporting Information). Notably, the cytotoxic effects of the CGs at these concentrations were modest to lung cancer cells (Figure <xref rid="advs71903-supinfo-0001" ref-type="">S1B</xref>, Supporting Information). To identify the target cells of two CGs, cancer cells were pretreated with ouabain (50 nM) or digoxin (200 nM) for 24 h, after which the pretreated cells were added to the plates containing macrophages. Consistent with the screening results, ouabain and digoxin further increased the phagocytosis index of CD47 antibody &#x02248;2&#x02010;fold, regardless of the FACS results or HCI results (Figure <xref rid="advs71903-supinfo-0001" ref-type="">1D,E</xref>; Figure <xref rid="advs71903-supinfo-0001" ref-type="">S1A</xref>, Supporting Information). In contrast, the phagocytosis index did not change when pretreated CG with macrophages for 24 h and added cancer cells to the co&#x02010;culture system (Figure&#x000a0;<xref rid="advs71903-fig-0001" ref-type="fig">1F</xref>). These results indicate that CGs, including digoxin and ouabain, are the potential enhancers of the killing effect of CD47 blockade, and that the target cells of the CGs in this system might be cancer cells rather than macrophages.</p><fig position="float" fig-type="Figure" id="advs71903-fig-0001"><label>Figure 1</label><caption><p>Ouabain and digoxin were identified as compounds potentiating the macrophage killing effect of CD47 antibody. A) A schematic presenting the macrophage phagocytosis&#x02010;based high&#x02010;content screening process. B) Ouabain and digoxin were identified as the potential compounds to enhance the phagocytosis index and decrease the remaining cells of CD47 antibody, each green spot represented phagocytosis index (fold of CD47 antibody), and each orange spot represented remaining cells (fold of CD47 antibody) of individual compounds. C) Different concentrations of ouabain or digoxin and CD47 antibody were added into the co&#x02010;culture model for 48 h, the FACS results indicated that 50 nM ouabain or 200 nM digoxin further decreased the remaining cells after combination with CD47 antibody. (n = 3). D) Macrophages were pretreated with 50 nM ouabain or 200 nM digoxin for 24 h, cancer cells A549 or H1975 with CD47 Ab were added to the macrophage for 3 h, the phagocytosis index was detected by flow cytometry. (n = 3). E) Pretreatment A549 cells with 50nM ouabain for 24h and then add it with or without CD47 Ab to macrophage for 3h, the results were presented by HCI, the white arrow refers the cancer cells underwent phagocytosed by macrophages. (n = 3). F) Pretreatment macrophages for 24 h with 50 nM ouabain and then add cancer cells with or without CD47 antibody to the macrophage for 3 h, the phagocytosis index was detected by flow cytometry. (n = 3). ns, no significance. CD47 Ab: CD47 antibody.</p></caption><graphic xlink:href="ADVS-12-e08245-g006" position="anchor" id="jats-graphic-3"/></fig></sec><sec id="advs71903-sec-0040"><label>2.2</label><title>CGs Promoted the Anti&#x02010;Cancer Effect of CD47 Antibody via Increased Phagocytosis by TAMs</title><p>The in vivo therapeutic effect of this newly discovered combination regimen was detected next. A549 and H1975&#x02010;bearing BALB/c nude mouse models were used to test the anti&#x02010;cancer effect of ouabain co&#x02010;administration with antibody targeting CD47 (<bold>Figure</bold>
+<xref rid="advs71903-fig-0002" ref-type="fig">
+<bold>2</bold>A,B</xref>). Treatment with ouabain or CD47 Ab alone affected tumor progression, whereas the combination treatment (combo) significantly shrank the tumor volume in both the A549&#x02010;bearing mouse model (Ctrl: 557.2 &#x000b1; 108.1 mm<sup>3</sup> vs. combo: 106.7 &#x000b1; 42.24 mm<sup>3</sup>) and the H1975&#x02010;bearing mouse model (Ctrl: 1299 &#x000b1; 123.1 mm<sup>3</sup> vs. combo: 371 &#x000b1; 95.58 mm<sup>3</sup>) (Figure&#x000a0;<xref rid="advs71903-fig-0002" ref-type="fig">2C,D</xref>). Compared with monotherapy (either ouabain or CD47 Ab), the combo treatment further minimized the tumor volume. In the A549&#x02010;bearing mouse model, 5/15 mice even exhibited complete tumor regression, suggesting that these two agents combined had potent anticancer efficacy (Figure&#x000a0;<xref rid="advs71903-fig-0002" ref-type="fig">2C</xref>). Moreover, neither the single treatment group nor the combo group had no impact on body weight, and there was no histological difference between ctrl and combo groups in either of the two models on the basis of the microanatomy of the liver and heart, and the serum ALT / AST, CK and LDH levels, which were not significantly different among the four groups in the two models (Figure&#x000a0;<xref rid="advs71903-fig-0002" ref-type="fig">2E&#x02013;G</xref>), suggesting that this strategy might not cause liver or heart damage.</p><fig position="float" fig-type="Figure" id="advs71903-fig-0002"><label>Figure 2</label><caption><p>CG enhanced the anti&#x02010;tumor effect of CD47 antibody by promoting the phagocytosis of TAMs. A,B) A schematic presenting the administration design of the animal experiments. C,D) Tumor growth curves and a tumor representative image of both A549&#x02010; and H1975&#x02010;bearing nude mice models. Data are mean&#x02009;&#x000b1;&#x02009;s.e.m. of n&#x02009; = &#x02009;15 mice per arm for tumor growth in C) and n = 8 mice per arm for tumor growth in (D). E) Body weight change of A549&#x02010; and H1975&#x02010;bearing nude mice in the treatment period. F) The H&#x00026;E staining of the liver and heart of ctrl and combo groups. G) The serum ALT, AST, LDH and CK of two mice models in different treatment groups. H) A schematic presenting the administration design of the in vivo phagocytosis assay and the gating strategy for the in vivo phagocytosis assay. I) The FACS results of in vivo phagocytosis assay, one mouse in each group was selected to represent the in vivo phagocytosis rate, n = 12. Mac only group here was used as negative control for the gating strategy. ns, no significance.</p></caption><graphic xlink:href="ADVS-12-e08245-g002" position="anchor" id="jats-graphic-5"/></fig><p>Importantly, on the basis of the anti&#x02010;cancer effect of the combo treatment in mouse models, investigating whether this effect is associated with phagocytosis by TAMs was of interest. An in vivo phagocytosis assay was designed, and after one&#x02010;time drug administration,<sup>[</sup>
+<xref rid="advs71903-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>
+<sup>]</sup> the tumors were harvested for further FACS analysis (Figure <xref rid="advs71903-fig-0002" ref-type="fig">2H</xref>; Figure <xref rid="advs71903-supinfo-0001" ref-type="">S2A,B</xref>, Supporting Information). The results confirmed that combo treatment augmented the in vivo phagocytosis by TAMs (Figure&#x000a0;<xref rid="advs71903-fig-0002" ref-type="fig">2I</xref>). Moreover, to obtain a more comprehensive understanding of the role of macrophages in the combo strategy, we also investigated the immunomodulatory effects on macrophages by CGs. The in vitro macrophage polarization assay indicated that CG did not reprogrammed IL&#x02010;4&#x02010;stimualted M2&#x02010;like macrophage to M1 (Figure <xref rid="advs71903-supinfo-0001" ref-type="">S2C</xref>, Supporting Information). Animal studies also revealed that CG had no impact in macrophage infiltration and polarization<sup>[</sup>
+<xref rid="advs71903-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>
+<sup>]</sup> (Figure <xref rid="advs71903-supinfo-0001" ref-type="">S2D,E</xref>, Supporting Information). All the aforementioned results indicated that CG promoted the anti&#x02010;cancer effect in different lung cancer&#x02010;bearing mouse models by enhancing the phagocytotic functions of TAMs.</p></sec><sec id="advs71903-sec-0050"><label>2.3</label><title>Antibody&#x02010;Dependent Cellular Phagocytosis (ADCP) Induced by the Combo Strategy Partially Contributed to the Enhanced Phagocytosis of Macrophages</title><p>It is speculated that the detailed mechanism by which this combo strategy enhanced phagocytosis relied on the blockade of &#x0201c;don't eat me&#x0201d; signal transduction and the co&#x02010;stimulation of &#x0201c;eat me&#x0201d; signals. The ADCP effect, which is mediated by Fc&#x02010;Fc gamma receptor (Fc&#x003b3;R) binding to an antibody, is a significant contributor to the increased phagocytosis observed following CD47 antibody treatment.<sup>[</sup>
+<xref rid="advs71903-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>
+<sup>]</sup> Our findings indicated that CGs upregulated CD47 expression, which might result in an increased Fc&#x02010;Fc&#x003b3;R interaction (Figure <xref rid="advs71903-supinfo-0001" ref-type="">S3A,B</xref>, Supporting Information). Furthermore, blocking Fc&#x003b3;R on macrophages with an anti&#x02010;CD16/32 antibody significantly reversed the enhanced phagocytosis mediated by the combo strategies with either ouabain or digoxin (<bold>Figure</bold>
+<xref rid="advs71903-fig-0003" ref-type="fig">
+<bold>3</bold>A,B</xref>). Additionally, CG was also found to enhance the effect of cetuximab (EGFR antibody)&#x02010;mediated ADCP (Figure. <xref rid="advs71903-supinfo-0001" ref-type="">S3</xref>C&#x02014;E, Supporting Information). However, the magnitude of this phagocytic effect was significantly lower than that observed with the CG combined with CD47 antibody (Figure <xref rid="advs71903-supinfo-0001" ref-type="">S3E</xref>, Supporting Information). These findings further corroborated the role of Fc&#x02010;Fc&#x003b3;R mediated ADCP in the combo strategy and, more importantly, underscored the critical contribution of antibody targeting CD47 (but not other signals) within the combination approach.</p><fig position="float" fig-type="Figure" id="advs71903-fig-0003"><label>Figure 3</label><caption><p>Fc&#x02010;Fc&#x003b3;R interaction by the combination strategy partially enhanced the phagocytosis. A,B) Macrophages were pre&#x02010;incubated with anti&#x02010;CD16/32 antibody to block Fc&#x02010;Fc&#x003b3;R interaction for 0.5 h, and cancer cells with or without ouabain C) or digoxin D) treatment were then added into the co&#x02010;culture systems. The phagocytosis was then tested by FACS after 3 h. Representative FACS results of the phagocytosis assay are presented in the left panel. (n = 3). (C) The protein expression level of CD47 was detected after CD47 was depleted in A549 cells. (D) The cell surface expression level of CD47 was detected in CD47 safety KO cell line and cd47 KO cell line. E) CD47 KO A549 cells was pretreated with 50 nM ouabain (left) or 200 nM digoxin (right) for 24 h, and these cells were then added into the co&#x02010;culture system. The phagocytosis rate was detected by FACS. (n = 3).</p></caption><graphic xlink:href="ADVS-12-e08245-g001" position="anchor" id="jats-graphic-7"/></fig><p>Further analysis revealed that the anti&#x02010;CD16/32 antibody could not completely abrogate the increase in phagocytosis. To fully exclude the ADCP effects mediated by CD47 antibody, CD47 was knocked out (Figure&#x000a0;<xref rid="advs71903-fig-0003" ref-type="fig">3C,D</xref>), and further examination of changes in phagocytosis was performed after ouabain or digoxin treatment. The results of the phagocytosis assay showed that treatment with ouabain and digoxin increased the phagocytosis rate in CD47 KO cells (Figure&#x000a0;<xref rid="advs71903-fig-0003" ref-type="fig">3E</xref>). Therefore, other additional phagocytosis&#x02010;related signals might mediate the regulation of macrophage phagocytosis by this combination strategy.</p></sec><sec id="advs71903-sec-0060"><label>2.4</label><title>Combination Treatment with CGs Elevated Ecto&#x02010;CRT to Promote Phagocytosis</title><p>CGs have also been previously identified as inducers of immunogenic cell death (ICD),<sup>[</sup>
+<xref rid="advs71903-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>, <xref rid="advs71903-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>
+<sup>]</sup> in which the translocation of calreticulin (CRT) to the cell surface is one of the &#x0201c;hallmarks&#x0201d; of ICD.<sup>[</sup>
+<xref rid="advs71903-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>
+<sup>]</sup> Moreover, surface&#x02010;expressed CRT (ecto&#x02010;CRT) is considered an &#x0201c;eat&#x02010;me&#x0201d; signal for macrophages during phagocytosis.<sup>[</sup>
+<xref rid="advs71903-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>
+<sup>]</sup> Therefore, it was hypothesized that ouabain and digoxin might further enhance phagocytosis by upregulating ecto&#x02010;CRT expression. This hypothesis was validated in the in vivo experiments, where CRT&#x02010;positive cancer cells population in the TME were significantly increased in both the ouabain monotherapy group and the combo group (<bold>Figure</bold>
+<xref rid="advs71903-fig-0004" ref-type="fig">
+<bold>4</bold>A</xref>). Moreover, treating lung cancer cells with different concentrations of ouabain and digoxin for 24 h resulted in increased ecto&#x02010;CRT expression with 50 nM ouabain and 200 nM digoxin (Figure&#x000a0;<xref rid="advs71903-fig-0004" ref-type="fig">4B,C</xref>). The immunofluorescence results also indicated that ouabain and digoxin significantly enhanced ecto&#x02010;CRT expression (Figure&#x000a0;<xref rid="advs71903-fig-0004" ref-type="fig">4D</xref>). Further surface detection of ecto&#x02010;CRT by FACS in CD47 KO cells also revealed that CG induced ecto&#x02010;CRT expression (Figure&#x000a0;<xref rid="advs71903-fig-0004" ref-type="fig">4E</xref>). However, CGs treatment did not change the total CRT protein level (Figure&#x000a0;<xref rid="advs71903-fig-0004" ref-type="fig">4F,G</xref>).</p><fig position="float" fig-type="Figure" id="advs71903-fig-0004"><label>Figure 4</label><caption><p>CGs increased ecto&#x02010;CRT level both in vitro and in vivo. A) The in vivo exploration of CRT in TME used the same tumor tissue samples in the in vivo phagocytosis assay. CFSE&#x02010;stained cancer cells were further conjugated with AF594&#x02010;labeled CRT staining. The CFSE<sup>+</sup>CRT<sup>+</sup> cell population was detected by flow cytometry. (n = 7). B) The ecto&#x02010;CRT expression was detected after 12.5, 25, 50 nM ouabain treatment in A549 and H1975 cells for 24 h. (n = 3). C) The ecto&#x02010;CRT expression was detected after 100, 200 nM digoxin treatment in A549 and H1975 cells for 24 h. (n = 3). D) Cancer cells were incubated with 50 nM ouabain or 200 nM digoxin after 24 h, cells were fixed and CRT expression was then tested by IF. (scale bar: 5&#x000a0;&#x000b5;m) E) 50 nM Ouabain or 200 nM digoxin was used to treat CD47 KO A549 cells, and the ecto&#x02010;CRT was measured by FACS. (n = 3). F) Total protein level of CRT of A549 and H1975 cells treated with different concentration of ouabain or digoxin was analyzed by western blot. G) Total protein level of CRT of A549 cells with different time points of ouabain or digoxin treatment was detected. ns, no significance.</p></caption><graphic xlink:href="ADVS-12-e08245-g005" position="anchor" id="jats-graphic-9"/></fig><p>To further confirm the important role of ecto&#x02010;CRT in enhanced phagocytosis, cancer cells pretreated with CGs for 24 h were co&#x02010;cultured with a CRT blocking antibody (CRT Ab) before being added to macrophages. The increase in phagocytosis caused by the combo strategy was significantly reversed (<bold>Figure</bold>
+<xref rid="advs71903-fig-0005" ref-type="fig">
+<bold>5</bold>A,B</xref>). Similar reversal of phagocytosis was also observed in CD47 KO cells treated with ouabain and digoxin (Figure&#x000a0;<xref rid="advs71903-fig-0005" ref-type="fig">5C</xref>). These results suggest that, in addition to the ADCP effect induced by the combo strategy, the increase in ecto&#x02010;CRT expression was a major contributor to the enhanced phagocytotic activity of macrophages.</p><fig position="float" fig-type="Figure" id="advs71903-fig-0005"><label>Figure 5</label><caption><p>CRT antibody reversed the phagocytosis of combo treatment. A,B) A549 or H1975 cells pretreated with ouabain (A) or digoxin (B) were incubated with CRT Ab for 0.5 h. After the blockade, cancer cells were added to macrophages for 3 h, and the phagocytosis index was detected by FACS. Representative FACS results of the phagocytosis assay are presented in the left panel. (n = 3). C) CD47 KO A549 cells pretreated with ouabain (left) or digoxin (right) were incubated with CRT Ab for 0.5 h, after the blockade, cancer cells were added into macrophages for 3 h, and the phagocytosis index was tested by FACS. Representative FACS results of the phagocytosis assay are presented in the left panel. (n = 3).</p></caption><graphic xlink:href="ADVS-12-e08245-g008" position="anchor" id="jats-graphic-11"/></fig></sec><sec id="advs71903-sec-0070"><label>2.5</label><title>CGs Induced Ecto&#x02010;CRT Expression via ER&#x02010;Ca<sup>2</sup>&#x0207a; Disruption and PERK Activation</title><p>Notably, cancer cells treated with ouabain or digoxin were analyzed by qPCR, and the results showed that neither CG significantly altered CRT mRNA levels (<bold>Figure</bold>
+<xref rid="advs71903-fig-0006" ref-type="fig">
+<bold>6</bold>A,B</xref>). Thus, the mechanism by which CGs facilitate the translocation of CRT to the membrane without modulating CRT expression was investigated. In our experiments, both ouabain and digoxin were effective at nanomolar concentrations. Studies have shown that nanomolar levels of CG bind to ATP1A1 (the &#x003b1;1 subunit of Na<sup>+</sup>K<sup>+</sup>ATPase), leading to the secretion of IP3, which binds to IP3R on the endoplasmic reticulum (ER) membrane, opening ER&#x02010;Ca<sup>2+</sup> release channels and leading to Ca<sup>2+</sup> oscillation.<sup>[</sup>
+<xref rid="advs71903-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>, <xref rid="advs71903-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>
+<sup>]</sup> This action results in a significant influx of ER Ca<sup>2+</sup> into the cytoplasm, causing Ca<sup>2+</sup> homeostasis imbalance. To investigate whether similar phenomena also occur in CG&#x02010;treated cancer cells, ER&#x02010;tracker red dye and a Ca<sup>2+</sup> indicator were used to track ER&#x02010;Ca<sup>2+</sup> changes in live cancer cells with or without CG treatment. The obtained images suggested that CG treatment led to ER&#x02010;Ca<sup>2+</sup> release into the cytoplasm, although not all cells in the field of view presented similar phenomena (Figure&#x000a0;<xref rid="advs71903-fig-0006" ref-type="fig">6C,D</xref>).</p><fig position="float" fig-type="Figure" id="advs71903-fig-0006"><label>Figure 6</label><caption><p>CGs disrupted ER&#x02010;Ca<sup>2+</sup> hemostasis, activated PERK, and led CRT translocated to the cell surface. A,B) mRNA level of CRT was analyzed by qPCR in A549 and H1975 cells with different concentrations of ouabain or digoxin treatment. (n = 3). C,D) Representative confocal images of ER&#x02010;Ca<sup>2+</sup> after short CGs stimulation was shown. Cancer cells were stained with ER&#x02010;tracker red (red) and Fluo&#x02010;4 AM (green) to track Ca<sup>2+</sup> in the ER (ER&#x02010;Ca<sup>2+</sup>). Hoechst 33342 (shown in blue) was used to stain cell nuclear. After the staining, cancer cells were treated with ouabain or digoxin for 1 h, the ER&#x02010;Ca<sup>2+</sup> was imaged by confocal. And the ER&#x02010;Ca<sup>2+</sup> cells were counted in different views by 3&#x02010;time independent experiments. (scale bar: 5&#x000a0;&#x000b5;m). E) Cancer cells were treated with different concentrations of ouabain or digoxin. WB was used to detect pPERK, tPERK and GAPDH expression after CGs treatment. F) Western blot was used to detect the inhibiting effect of GSK2656157 (GSK157). p&#x02010;EIF2&#x003b1; was the downstream protein of PERK pathway. G,H) PERK inhibitor, GSK157, was used to inhibit PERK activation before the cancer cells were treated with ouabain (left) or digoxin (right). The ecto&#x02010;CRT was then tested by FACS. (n = 3). (I, J) A549 or H1975 cells was pretreated with GSK157 for 1 h, then ouabain I) or digoxin J) were added into the system for 24 h. After compounds treatment, cancer cells were incubated with macrophages for 3 h, and the phagocytosis index was tested by FACS and analyzed by FlowJo. Representative FACS results of the phagocytosis assay are presented in the left panel. (n = 3). ns, no significance.</p></caption><graphic xlink:href="ADVS-12-e08245-g004" position="anchor" id="jats-graphic-13"/></fig><p>In general, the disruption of Ca<sup>2+</sup> homeostasis in the ER is associated with ER stress.<sup>[</sup>
+<xref rid="advs71903-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>
+<sup>]</sup> Ouabain and digoxin activated PERK significantly (Figure&#x000a0;<xref rid="advs71903-fig-0006" ref-type="fig">6E</xref>). The PERK inhibitor, GSK2656157 (GSK157), was used to pretreat the cells, which were then subjected to two CG treatments. GSK157 pretreatment combined with CG treatment did not lead to the phosphorylation of eIF2&#x003b1;, which is a downstream protein of the PERK pathway (Figure&#x000a0;<xref rid="advs71903-fig-0006" ref-type="fig">6F</xref>). In A549 and H1975 cells, PERK inhibition reversed the upregulation of ecto&#x02010;CRT induced by CGs (Figure&#x000a0;<xref rid="advs71903-fig-0006" ref-type="fig">6G,H</xref>; Figure <xref rid="advs71903-supinfo-0001" ref-type="">S4A</xref>, Supporting Information). This finding prompted us to further investigate whether this inhibition could reverse macrophage phagocytosis. Pretreating A549 and H1975 cells with GSK157 followed by ouabain or digoxin treatment, significantly reversed the phagocytosis effect in the coculture system (Figure&#x000a0;<xref rid="advs71903-fig-0006" ref-type="fig">6I,J</xref>). These results suggest that the primary step by which CGs lead to CRT translocation to the membrane may involve disrupting ER&#x02010;Ca<sup>2+</sup> homeostasis, potentially inducing the activation of the PERK pathway. Inhibition of PERK could abrogate activation of the downstream pathway and mitigate CRT movement from the ER to the cell membrane.</p></sec><sec id="advs71903-sec-0080"><label>2.6</label><title>Inhibition of ER&#x02010;Golgi Translocation Reversed the Increase in Phagocytosis Induced by the Combo Strategy</title><p>Next, we explored whether the increase in ecto&#x02010;CRT induced by CGs also needed ER&#x02010;to&#x02010;Golgi apparatus translocation.<sup>[</sup>
+<xref rid="advs71903-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref>
+<sup>]</sup> Brefeldin A (BFA) is a fungal macrocyclic lactone and a potent, reversible inhibitor of intracellular vesicle formation and protein trafficking between the ER and the Golgi apparatus.<sup>[</sup>
+<xref rid="advs71903-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref>
+<sup>]</sup> After cancer cells were pretreated with BFA for 3 h, the cells were then treated with ouabain or digoxin for 24 h, followed by flow cytometry analysis and IF detection. The results revealed that ecto&#x02010;CRT no longer increased (<bold>Figure</bold>
+<xref rid="advs71903-fig-0007" ref-type="fig">
+<bold>7</bold>A,B</xref>; Figure <xref rid="advs71903-supinfo-0001" ref-type="">S4B</xref>, Supporting Information). To determine whether the reversal of ecto&#x02010;CRT also implies a reversal of phagocytosis by macrophages, corresponding phagocytosis assays were conducted. After pretreatment with BFA, subsequent treatment with CGs combined with CD47 antibody did not further enhance phagocytosis in both A549 and H1975&#x02010;based coculture system (Figure&#x000a0;<xref rid="advs71903-fig-0007" ref-type="fig">7C,D</xref>). These results suggested that the ecto&#x02010;CRT induced by CGs reached the membrane via ER&#x02010;Golgi apparatus translocation. Inhibiting this pathway reversed the phagocytosis of the combo strategy.</p><fig position="float" fig-type="Figure" id="advs71903-fig-0007"><label>Figure 7</label><caption><p>CGs&#x02010;induced CRT transported from the ER through the Golgi apparatus. A) ER&#x02010;Golgi protein trafficking inhibitor, BFA, was added to cancer cells for 1 h, followed by treatment with ouabain (left) or digoxin (right). The ecto&#x02010;CRT was then tested by FACS assay and showed as a fold change of ctrl group. (n = 3). C,D) A549 or H1975 cells were pretreated with BFA for 1 h, followed by ouabain (C) or digoxin (D) treatment for 24 h. Cancer cells after compounds treatment were incubated with macrophages for 3 h, the phagocytosis index was tested by FACS and analyzed by FlowJo. Representative FACS results of the phagocytosis assay are presented in the left panel. (n = 3).</p></caption><graphic xlink:href="ADVS-12-e08245-g009" position="anchor" id="jats-graphic-15"/></fig></sec><sec id="advs71903-sec-0090"><label>2.7</label><title>Exo70 Mediated the Exocytosis of CRT from Golgi to Cell Surface</title><p>Secretory vesicles form from the trans&#x02010;Golgi network, and we thus explored the next step for CRT to reach the cell surface is through exocytosis.<sup>[</sup>
+<xref rid="advs71903-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>
+<sup>]</sup> To this end, A549 and H1975 cells were pretreated with endosidin&#x02010;2 (ES2), an exocytosis inhibitor. The FACS results indicated that ES2 significantly reversed the CG&#x02010;induced upregulation of ecto&#x02010;CRT (<bold>Figure</bold>
+<xref rid="advs71903-fig-0008" ref-type="fig">
+<bold>8</bold>A, B</xref>). Previous studies have reported that ES2 targets <italic toggle="yes">exo70</italic>.<xref rid="advs71903-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref> Therefore, siRNA was used to target <italic toggle="yes">exo70</italic>, and the knockdown efficiency of the SiRNA is shown in Figure <xref rid="advs71903-supinfo-0001" ref-type="">S4C</xref> (Supporting Information). After knockdown of <italic toggle="yes">exo70</italic>, the effect was similar to that of ES2, with ecto&#x02010;CRT being reversed (Figure&#x000a0;<xref rid="advs71903-fig-0008" ref-type="fig">8C,D</xref>). Additionally, the phagocytosis assay revealed that <italic toggle="yes">exo70</italic> knockdown partially reversed the increased phagocytosis induced by the strategy (Figure&#x000a0;<xref rid="advs71903-fig-0008" ref-type="fig">8E</xref>). This phenomenon demonstrated that Exo70 is an essential protein required for exocytosis&#x02010;mediated CRT translocation from the Golgi apparatus to the cell surface.</p><fig position="float" fig-type="Figure" id="advs71903-fig-0008"><label>Figure 8</label><caption><p>Exo70&#x02010;mediated exocytosis participated in CRT translocation to cell surface. A,B) A549 or H1975 cells were pretreated with the exocytosis inhibitor, ES2, followed by 24 h ouabain (A) and digoxin (B) treatment. The ecto&#x02010;CRT was then tested by FACS assay and showed as fold change of ctrl group. (n = 3). C,D) Cancer cells were transfected with si&#x02010;exo70 for 48 h, and ouabain was added into cells for another 24 h. The ecto&#x02010;CRT was then tested by FACS assay and showed as fold change of si&#x02010;NC group. (n = 3). E) Cancer cells were transfected with si&#x02010;exo70 for 48 h, followed by ouabain treatment for another 24 h. Then, cells were added to macrophages for 3 h, the phagocytosis index was tested by FACS and analyzed by FlowJo. Representative FACS results of the phagocytosis assay are presented in the left panel. (n = 3).</p></caption><graphic xlink:href="ADVS-12-e08245-g010" position="anchor" id="jats-graphic-17"/></fig></sec></sec><sec id="advs71903-sec-0100"><label>3</label><title>Discussion</title><p>Our study provides the first evidence that the co&#x02010;administration of CD47 antibody and CGs has a significant anti&#x02010;cancer effect on lung cancer models. To identify novel combination strategies targeting CD47, a macrophage killing&#x02010;based evaluation system was developed, encompassing short&#x02010;term phagocytosis assays, long&#x02010;term assessments of residual tumor cells, and in vivo phagocytosis analyses (Figure&#x000a0;<xref rid="advs71903-fig-0001" ref-type="fig">1</xref>). Although some screened compounds exhibited high phagocytosis rates at 3 h, they resulted in substantial residual tumor cell populations. This observation indicated that relying on the phagocytosis index as a single parameter for anti&#x02010;cancer screening in our system may not yield optimal outcomes. While positive results were obtained through the screening, the number of screening compounds could be further expanded to identify additional combinations that effectively enhance macrophage&#x02010;mediated anti&#x02010;tumor activity. Furthermore, it is believed that the emerging phagocytosis checkpoints will make our screening system applicable to the exploration of all strategies targeting macrophage phagocytosis, extending beyond CD47&#x02010;targeted therapies.<sup>[</sup>
+<xref rid="advs71903-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+<sup>]</sup>
+</p><p>Many preclinical studies have recently focused on discovering the multifaceted anti&#x02010;cancer effects of CGs as monotherapies.<sup>[</sup>
+<xref rid="advs71903-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref>
+<sup>]</sup> Additionally, at least 7 ongoing clinical trials have evaluated the individual effects of CGs on cancer patients.<sup>[</sup>
+<xref rid="advs71903-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>
+<sup>]</sup> Repurposing CGs from heart failure treatment to cancer therapy is a highly promising direction.<sup>[</sup>
+<xref rid="advs71903-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>
+<sup>]</sup> Trying different strategies will further prompt its development. Notably, combo strategies involving CG and immunotherapy have rarely been explored in clinical trials or preclinical studies. Our strategy demonstrates the feasibility of CGs and immunotherapy. It has been shown to induce complete tumor regression in a lung cancer model, indicating its great translational potential. Furthermore, both ouabain and digoxin enhanced the anti&#x02010;cancer effect of CD47 antibody in this study. Other CGs, such as digitoxin, oleandrin, bufalin, and cinobufagin, are also likely to boost the efficacy of CD47 antibody since their mechanisms of action are similar to those of ouabain and digoxin.<sup>[</sup>
+<xref rid="advs71903-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>, <xref rid="advs71903-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>
+<sup>]</sup>
+</p><p>The narrow therapeutic window of CGs has long been a concern, although our in vivo data confirm their safety to a certain extent.<sup>[</sup>
+<xref rid="advs71903-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref>
+<sup>]</sup> From the perspective of optimizing clinical translation, it is crucial to identify the effective concentrations of CGs in patient with cancer and distinguish them from their toxic concentrations. Several clinical trials have commenced to assess the safety and tolerance of different doses of CGs in cancer patients (NCT02212639, NCT00017446, NCT02530398, NCT04621669, and NCT05828303), including the pharmacokinetic data of CGs in these patients concurrently receiving other treatments.<sup>[</sup>
+<xref rid="advs71903-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>
+<sup>]</sup> More importantly, in our strategy, both the apoptosis evaluation assay and phagocytosis assay indicated that the involvement of CD47 antibody enables CGs to regulate the phagocytosis of cancer cells rather than directly killing them at the nanomolar level. Therefore, the concentrations of CGs could be further optimized in the future to achieve the clinical translation of this strategy. Additionally, considering the safety profile of CGs, finding regimens to assist CGs in precisely targeting tumor sites is another approach.<sup>[</sup>
+<xref rid="advs71903-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref>, <xref rid="advs71903-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref>, <xref rid="advs71903-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref>
+<sup>]</sup> Chen et&#x000a0;al. prepared folate and transferrin (due to the high expression of their receptors in cancer cells) to co&#x02010;modify liposome delivery systems containing CGs. The results showed that the uptake of targeted liposomes by cancer cells increased 6&#x02010;fold, indicating stronger anti&#x02010;cancer effects.<sup>[</sup>
+<xref rid="advs71903-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref>
+<sup>]</sup> In addition, studies have developed a biomimetic nanosystem of cancer cell membranes coated with digoxin or a combination of ursodeoxycholic acid and p&#x02010;biguanylbenzoic acid (both of which have specific targeting effects on hepatocellular carcinoma) that combines albumin submicrospheres with bufalin to achieve cancer cell&#x02010;targeted delivery.<sup>[</sup>
+<xref rid="advs71903-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref>
+<sup>]</sup> On the basis of our findings, future strategies may involve the combination of CD47 antibody and other immune checkpoint antibodies), or antibody&#x02010;drug conjugates (ADCs) while leveraging the high expression of CD47 and/or tumor&#x02010;specific proteins to increase the precision of tumor targeting.<sup>[</sup>
+<xref rid="advs71903-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref>
+<sup>]</sup> This approach could facilitate the development of more efficient delivery systems aimed at cancer cells, simultaneously enabling CGs to achieve their potent efficacy against cancer.<sup>[</sup>
+<xref rid="advs71903-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref>, <xref rid="advs71903-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref>
+<sup>]</sup>
+</p><p>Mechanistically, treatment with EGFR antibody alone (which primarily activated the &#x0201c;eat me&#x0201d; signal, Fc&#x02010;Fc&#x003b3;R interactions) resulted in only a modest increase in phagocytosis (Figure <xref rid="advs71903-supinfo-0001" ref-type="">S3B</xref>, Supporting Information).<sup>[</sup>
+<xref rid="advs71903-bib-0061" ref-type="bibr">
+<sup>61</sup>
+</xref>
+<sup>]</sup> Similarly, a slight enhancement of phagocytic activity was observed in CD47 KO cells (which solely block the &#x0201c;don't eat me&#x0201d; signal). More pronounced effects were achieved with combination strategies, such as an anti&#x02010;EGFR antibody combined with a CG, which simultaneously engages Fc&#x02010;Fc&#x003b3;R interactions and induce ecto&#x02010;CRT exposure (another &#x0201c;eat me&#x0201d; signal), or with CD47 KO cells treated with CGs, which target both CD47 blockade and ecto&#x02010;CRT. In contrast, the more effective phagocytosis enhancement occurred using CD47 antibody combined with CGs (Figure <xref rid="advs71903-supinfo-0001" ref-type="">S3C</xref>, Supporting Information). These findings validate CD47 is still one of the most crucial brakes on phagocytosis in lung cancer, and that a therapeutic strategy combining blockade of the &#x0201c;don't eat me&#x0201d; signal (CD47) with boosting both &#x0201c;eat me&#x0201d; signals (Fc&#x02010;Fc&#x003b3;R and ecto&#x02010;CRT) is a feasible way to maximize the macrophage clearance in cancer cells.<sup>[</sup>
+<xref rid="advs71903-bib-0062" ref-type="bibr">
+<sup>62</sup>
+</xref>
+<sup>]</sup>
+</p><p>Importantly, our results have confirmed the importance of CRT as an &#x0201c;eat&#x02010;me&#x0201d; signal. CGs can upregulate CRT expression both in vitro and in vivo, and when the CRT antibody is applied, the phagocytic activity stimulated by CGs is nearly completely inhibited. While CRT has been extensively characterized as a pro&#x02010;phagocytic signal,<sup>[</sup>
+<xref rid="advs71903-bib-0063" ref-type="bibr">
+<sup>63</sup>
+</xref>, <xref rid="advs71903-bib-0064" ref-type="bibr">
+<sup>64</sup>
+</xref>
+<sup>]</sup> the identity of its receptor on macrophages remains unclear in this study. Some studies suggest that LRP&#x02010;1 may serve as a receptor for CRT on macrophages.<sup>[</sup>
+<xref rid="advs71903-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>, <xref rid="advs71903-bib-0065" ref-type="bibr">
+<sup>65</sup>
+</xref>
+<sup>]</sup> However, its role in promoting phagocytosis remains to be further validated.<sup>[</sup>
+<xref rid="advs71903-bib-0066" ref-type="bibr">
+<sup>66</sup>
+</xref>, <xref rid="advs71903-bib-0067" ref-type="bibr">
+<sup>67</sup>
+</xref>
+<sup>]</sup> Moreover, CRT has been identified to interact with additional ligands, such as C1q and phosphatidylserine (PS).<sup>[</sup>
+<xref rid="advs71903-bib-0068" ref-type="bibr">
+<sup>68</sup>
+</xref>, <xref rid="advs71903-bib-0069" ref-type="bibr">
+<sup>69</sup>
+</xref>, <xref rid="advs71903-bib-0070" ref-type="bibr">
+<sup>70</sup>
+</xref>
+<sup>]</sup> Therefore, confirming the specific CRT ligands involved in our combo strategy represents an important avenue for future investigations.<sup>[</sup>
+<xref rid="advs71903-bib-0071" ref-type="bibr">
+<sup>71</sup>
+</xref>
+<sup>]</sup>
+</p><p>Although ouabain has been reported to modulate CD40 / CD80 in human monocytes,<sup>[</sup>
+<xref rid="advs71903-bib-0072" ref-type="bibr">
+<sup>72</sup>
+</xref>
+<sup>]</sup> our in vitro and in vivo studies did not reveal ouabain&#x02010;induced repolarization of mouse&#x02010;derived macrophages (Figure <xref rid="advs71903-supinfo-0001" ref-type="">S2</xref>, Supporting Information). This discrepancy may stem from differences in macrophage origin. Consequently, in our experimental system, the effect of CGs combined with CD47 antibody depended primarily on macrophage&#x02010;mediated phagocytosis, not macrophage repolarization.<sup>[</sup>
+<xref rid="advs71903-bib-0073" ref-type="bibr">
+<sup>73</sup>
+</xref>
+<sup>]</sup> Moreover, given the complexity of the TME, additional immune cells may also contribute. Considering the increased expression of ecto&#x02010;CRT on cancer cells that we identified, NK cells may also participate through the NKp46&#x02010;ecto&#x02010;CRT axis.<sup>[</sup>
+<xref rid="advs71903-bib-0074" ref-type="bibr">
+<sup>74</sup>
+</xref>, <xref rid="advs71903-bib-0075" ref-type="bibr">
+<sup>75</sup>
+</xref>
+<sup>]</sup> Although our T&#x02010;cell proliferation assays showed that enhanced phagocytosis by combo treatment did not expand T cells population (data not show), macrophages can serve as antigen&#x02010;presenting cells (APCs) post&#x02010;phagocytosis,<sup>[</sup>
+<xref rid="advs71903-bib-0076" ref-type="bibr">
+<sup>76</sup>
+</xref>
+<sup>]</sup> potentially promoting other antigen&#x02010;specific T&#x02010;cell responses.<sup>[</sup>
+<xref rid="advs71903-bib-0077" ref-type="bibr">
+<sup>77</sup>
+</xref>
+<sup>]</sup> Therefore, our study still lays the foundation for the subsequent involvement of adaptive immune response in immune&#x02010;competent mouse model.</p><p>CGs were found to have no effect on the mRNA level or total protein level of CRT (Figure&#x000a0;<xref rid="advs71903-fig-0004" ref-type="fig">4</xref>, <xref rid="advs71903-fig-0006" ref-type="fig">6</xref>). These findings suggest that the mechanism through which CGs induced ecto&#x02010;CRT may partially resemble that of classical ICD inducers, such as oxaliplatin.<sup>[</sup>
+<xref rid="advs71903-bib-0078" ref-type="bibr">
+<sup>78</sup>
+</xref>
+<sup>]</sup> Both PERK activation and ER&#x02010;Golgi translocation, which mediate CG&#x02010;induced upregulation of ecto&#x02010;CRT, were observed in the present study. In contrast, the functional assay performed in this study further demonstrated that a PERK inhibitor (GSK157) and an ER&#x02012;Golgi transport inhibitor (BFA) further reversed phagocytosis caused by combo treatments, underscoring the pivotal role of ecto&#x02010;CRT in this process.<sup>[</sup>
+<xref rid="advs71903-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref>
+<sup>]</sup> Additionally, a previously unrecognized function of Exo70 in CRT translocation was unveiled. Exo70 is the target of the exocytosis inhibitor ES2 and also a key component of the exocyst complex involved in exocytosis.<sup>[</sup>
+<xref rid="advs71903-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref>
+<sup>]</sup> This protein might facilitate the process of CRT translocation from the Golgi apparatus to the membrane induced by CGs (<bold>Figure</bold>
+<xref rid="advs71903-fig-0009" ref-type="fig">
+<bold>9</bold>
+</xref>). However, whether other ecto&#x02010;CRT inducers exhibit similar phenomena remains unknown.</p><fig position="float" fig-type="Figure" id="advs71903-fig-0009"><label>Figure 9</label><caption><p>Schematic drawing showing the detailed mechanism. CGs combined with CD47 antibody enhanced phagocytosis by blocking the &#x0201c;don't eat me&#x0201d; signal (CD47) and increasing the &#x0201c;eat me&#x0201d; signals (CRT and Fc&#x02010;Fc&#x003b3;R interaction). The CGs&#x02010;induced CRT exposure on the cell surface was through disruption of ER&#x02010;Ca<sup>2+</sup> hemostasis. The PERK inhibitor GSK2656157 effectively reversed CGs&#x02010;induced CRT upregulation and phagocytosis enhancement. Furthermore, the ER&#x02010;Golgi protein trafficking inhibitor BFA and siRNA targeting the exocytosis protein Exo70 also mitigated CGs&#x02010;induced CRT expression and phagocytosis. Therefore, it was speculated that after CGs treatment, CRT release from ER to Golgi, along with PERK activation. Subsequently, CRT was then translocated to the cell surface via Exo70&#x02010;mediated exocytosis.</p></caption><graphic xlink:href="ADVS-12-e08245-g003" position="anchor" id="jats-graphic-19"/></fig><p>In summary, our study revealed that CGs significantly enhanced the anti&#x02010;lung cancer effect of CD47 antibody. The combo strategy significantly increased the phagocytic effect of macrophages both in vivo and in vitro. More specifically, the increase in phagocytic effect was due to the enhancement of &#x0201c;eat me&#x0201d; signals, Fc&#x02010;Fc&#x003b3;R and CRT, induced by CGs combined with CD47 antibody. The entire process by which CGs induce CRT translocation from ER to cell surface has been revealed. This study offers novel insights into the potential repurposing of CGs for anti&#x02010;cancer applications within the framework of macrophage&#x02010;related immune response, and establishes a conceptual basis for the future clinical translation of CD47 antibody therapies.</p></sec><sec id="advs71903-sec-0110"><label>4</label><title>Experimental Section</title><sec id="advs71903-sec-0140"><title>Reagents</title><p>Ouabain octahydrate (# HY&#x02010;B0542), digoxin (# HY&#x02010;B1049), GSK2656157 (# HY&#x02010;13820), brefeldin A (# HY&#x02010;16592), and endosdin&#x02010;2 (# HY&#x02010;120821) were purchased from MedChemExpress (Shanghai, China). RPMI 1640 medium, DMEM, foetal bovine serum (FBS), penicillin&#x02010;streptomycin (100&#x000d7;), phosphate&#x02010;buffered saline (PBS), trypsin, collagenase IV, and DNase I (used for single cell suspension preparation) were purchased from Gibco (Carlsbad, CA, USA). The LIVE/DEAD Fixable Yellow Dead Cell Stain Kit, LIVE/DEAD&#x02122; Fixable Near&#x02010;IR Dead Cell Stain Kit, FoxP3/Transcription Factor Staining Buffer Set, and Intracellular (IC) Fixation Buffer were acquired from Invitrogen (Carlsbad, CA, USA).</p></sec><sec id="advs71903-sec-0150"><title>Cell Culture</title><p>The human NSCLC cells lines, A549 and NCI&#x02010;H1975 (American Type Culture Collection, ATCC, Rockville, MD, USA) were cultured in RPMI&#x02010;1640 medium (Gibco, Carlsbad, CA, USA) with 10% (v/v) FBS and 1% (v/v) penicillin (100 units/ml)&#x02013;streptomycin (100 &#x000b5;g ml<sup>&#x02212;1</sup>). CD47 knockout cells (A549/CD47KO) were established through CRISPR Cas9&#x02010;mediated genome editing, and the process of generating a knockout cell line was described previously.<sup>[</sup>
+<xref rid="advs71903-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>
+<sup>]</sup> Briefly, A549 cells were transfected with the CD47 KO Lenti&#x02010;CRISPR v2 plasmid (obtained from Addgene, Watertown, MA, USA). The transfection was carried out using TurboFect&#x02122; Transfection Reagent from Invitrogen following the manufacturer's instructions. Single&#x02010;cell clones were selected by means of the dilution method and then expanded to obtain CD47 knockout cell populations. All the cell lines were cultured with 5% CO<sub>2</sub> at 37&#x000a0;&#x000b0;C.</p></sec><sec id="advs71903-sec-0160"><title>Mice</title><p>Three&#x02010;week&#x02010;old BALB/c mice and five&#x02010;week&#x02010;old BALB/c nude mice were obtained and maintained at the specific&#x02010;pathogen&#x02010;free animal facility at the University of Macau. All animal experiments were conducted in accordance with the ethical guidelines set by the Animal Ethics Committee of the University of Macau and complied with the principles regarding the Care and Use of Laboratory Animals (approved ethics ID: UMARE&#x02010;008&#x02010;2023 and UMARE&#x02010;041&#x02010;2024).</p></sec><sec id="advs71903-sec-0170"><title>Mouse Xenograft Model</title><p>First, A549 (1 &#x000d7; 10<sup>7</sup> cells) and NCI&#x02010;H1975 cells (2 &#x000d7; 10<sup>6</sup> cells) were injected subcutaneously into the right back of each BALB/c nude mouse. After the average tumor volume reached 80 mm<sup>3</sup>, the mice with similar body weights were randomly divided into the following treatment groups: (1) Solvent contorl group, (2) Oua treatment group (1 mg kg<sup>&#x02212;1</sup>, <italic toggle="yes">i.t</italic>. injection, three times a week), (3) CD47 antibody treatment group (200 &#x000b5;g per mouse, <italic toggle="yes">i.p</italic>. injection, 24 h after oua treatment), and (4) Combo group of Oua and CD47 Ab. Oua and CD47 antibody B6H12 (BioXcell, West Lebanon, NH, USA, # BE0019&#x02010;1) were diluted with phosphate&#x02010;buffered saline to achieve the final concentration, and 0.1 mL was injected into each mouse. Tumor sizes were detected every 2 days and calculated with the formula (width &#x000d7; length)/2. Tumor tissues and mouse serum were harvested after the indicated treatment period. Tissues for the H&#x00026;E staining were obtained from Scientist Biotechnology (Chengdu, China). Serum alanine aminotransferase (ALT) / aspartate aminotransferase (AST), creatine kinase (CK), and lactate dehydrogenase (LDH) levels were measured by Bestest Biotechnology Co., Ltd (Zhuhai, China). Tissues for TME analysis were digested with collagenase IV (1 mg mL<sup>&#x02212;1</sup>) and deoxyribonuclease I (0.1 mg mL<sup>&#x02212;1</sup>). Following centrifugation, the fragments were filtered to generate a single&#x02010;cell suspension, which was then subjected to LIVE/DEAD fixable dye staining overnight. After the Fc receptors were blocked, the suspended cells were incubated with specifically diluted antibodies for an additional 30 min and analyzed by flow cytometry (BD LSRFortessa, Franklin Lakes, NJ, USA).</p></sec><sec id="advs71903-sec-0180"><title>Phagocytosis Assay</title><p>An in vitro phagocytosis assay was performed with a co&#x02010;culture system of bone marrow&#x02010;derived macrophages (BMDMs) from mice and human cancer cells. BMDMs from the femora and tibiae of BALB/c mice were generated by culturing them in 10% FBS DMEM supplemented with 25% L929 supernatant for 7 days.<sup>[</sup>
+<xref rid="advs71903-bib-0079" ref-type="bibr">
+<sup>79</sup>
+</xref>
+<sup>]</sup> BMDMs were plated in 24&#x02010;well plates at a density of 1.5 &#x000d7; 10<sup>5</sup> cells per well and incubated overnight. To block Fc&#x02010;Fc&#x003b3;R, BMDMs were pretreated with purified anti&#x02010;mouse CD16/32 antibody from BioLegend (San Diego, CA, USA, # 101301) for 0.5 h at 37&#x000a0;&#x000b0;C. For the blockade of ecto&#x02010;CRT, cancer cells treated with CGs were incubated with anti&#x02010;calreticulin antibody from Abcam (Cambridge, UK, # ab2907) for 1 h before their staining and addition to the co&#x02010;culture model. Cancer cells were stained with 2.5 &#x000b5;mol L<sup>&#x02212;1</sup> CFSE from Invitrogen (#C34554) at 37&#x000a0;&#x000b0;C for 10 min following the manufacturer's protocols. The working concentration of CD47 antibody, B6H12 in our co&#x02010;culture model was 10 &#x000b5;g ml<sup>&#x02212;1</sup>. For anti&#x02010;EGFR antibody, cetuximab, the working concentration was 2 &#x000b5;g ml<sup>&#x02212;1</sup>. The cells were added to the macrophages (with a ratio of cancer cells: macrophages = 2:1) for another 3 h at 37&#x000a0;&#x000b0;C. The macrophages were stained with APC&#x02010;labelled anti&#x02010;F4/80 (BioLegend, #123116) and detected by flow cytometry (BD LSRFortessa). CFSE<sup>+</sup> and F4/80<sup>+</sup> double&#x02010;positive cells were identified as positive phagocytic cells, and the phagocytosis rate was calculated as (CFSE<sup>+</sup>F4/80<sup>+</sup> cells / F4/80<sup>+</sup> cells) &#x000d7; 100% and reported as the fold change of control group.</p><p>An in vivo phagocytosis assay was performed in A549&#x02010;bearing balb/c nude mice model.<sup>[</sup>
+<xref rid="advs71903-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>
+<sup>]</sup> CFSE&#x02010;labelled A549 cells were inoculated subcutaneously into the right flank of the prepared mice. Once the average tumor volume was 80 mm<sup>3</sup>, the mice were randomly divided into four groups as the xenograft model. After the treatment, the cell suspension was filtered, washed three times with DMEM, and subsequently resuspended. The cell density was adjusted to 1 &#x000d7; 10&#x02076;/100 &#x000b5;L using FACS buffer. The following fluorescent antibodies were used to label and identify tumour&#x02010;associated macrophages: anti&#x02010;mouse CD45 from Biolegend (APC/Cyanine7, #103116; Brilliant Violet 605, #103115) and anti&#x02010;mouse F4/80 (#123116) were obtained from BioLegend. Next, 0.5 &#x000b5;L of APC&#x02010;labelled anti&#x02010;mouse F4/80 antibody was added per 100 &#x000b5;L of the cell suspension, and the mixture was incubated at 4&#x000a0;&#x000b0;C for 30 min in the dark. The cell suspension was centrifuged at 300 &#x000d7; g for 5 min and resuspended in cold FACS buffer. Finally, flow cytometric data were obtained, and the data were analyzed with FlowJo v10 software (FlowJo LLC, Ashland, OR, USA). The gating strategy is shown in Figure <xref rid="advs71903-supinfo-0001" ref-type="">S1A</xref> (Supporting Information). Notably, we also integrated and analyzed the flow cytometry results and revealed that the CFSE signal remained detectable across all treatment groups, supporting the feasibility of this assay (Figure <xref rid="advs71903-supinfo-0001" ref-type="">S2B</xref>, Supporting Information).</p></sec><sec id="advs71903-sec-0190"><title>Screening of Compounds</title><p>The screening compounds were from the FDA&#x02010;approved drug library (MedChemExpress, Shanghai, China, #HY&#x02010;L022M). The screening system was based on the phagocytosis and killing effects of BMDMs. Briefly, mature BMDMs were digested with trypsin, stained with 2.5 &#x000b5;mol L<sup>&#x02212;1</sup> CFSE, and plated in 96&#x02010;well plates (at a density of 1.5 &#x000d7; 10<sup>4</sup> cells per well) overnight. A549 cells that had been treated with different combinations of compounds and CD47 antibody were stained with Cell&#x02010;Tracker Orange CMTMR from Invitrogen (#C2927) at 37&#x000a0;&#x000b0;C for 10 min following the manufacturer's protocols. The co&#x02010;culture system was analysed by high&#x02010;content imaging after 3 h for detection of the phagocytosis rate and 48 h for detection of the remaining cancer cells by only showing the orange CMTMR&#x02010;stained A549 cells according to the HCI operation method.</p></sec><sec id="advs71903-sec-0200"><title>Western Blot</title><p>The process of Western blotting was described previously.<sup>[</sup>
+<xref rid="advs71903-bib-0079" ref-type="bibr">
+<sup>79</sup>
+</xref>
+<sup>]</sup> Briefly, cellular proteins were obtained using RIPA lysis buffer (Beyotime, Shanghai, China), separated by SDS&#x02010;PAGE, and transferred onto PVDF membranes (Bio&#x02010;Rad, Hercules, CA, USA). After being incubated with blocking buffer, PVDF membranes were stained with specific primary antibodies (all of antibodies were from Cell Signaling&#x000a0;Technology, CST, Beverly, MA, USA) for CD47 (#63000), calreticulin (#12238),&#x000a0;PERK (#3192), p&#x02010;PERK&#x000a0;(Thr980) (16F8) (#3179),&#x000a0;p&#x02010;EIF2&#x003b1; (Ser51)&#x000a0;(#3398), &#x003b1;&#x02010;Tubulin (#3873) and GAPDH (#2118). The membranes were washed with TBST and incubated with anti&#x02010;rabbit IgG and anti&#x02010;mouse HRP&#x02010;conjugated secondary antibodies. The membranes were exposed to an ECL Western blotting detection kit (GE Healthcare, Buckinghamshire, UK) and visualized with a ChemiDoc imaging system (Bio&#x02010;Rad, Hercules, CA, USA).</p></sec><sec id="advs71903-sec-0210"><title>Quantitative Real&#x02010;Time PCR</title><p>RNA from cancer cells was extracted using either TRIzol reagent from Life Technologies (Shanghai, China) or an RNAeasy&#x02122; Animal RNA Isolation Kit from Beyotime. cDNA synthesis was subsequently carried out using the RevertAid First Strand cDNA Synthesis Kit (Thermo Fisher Scientific, Waltham, MA, USA). Quantitative real&#x02010;time PCR (qPCR) was conducted on a QuantStudio&#x02122; 7 Flex Real&#x02010;Time PCR System (Thermo Fisher Scientific, Waltham, MA, USA). The sequences of the primers used for PCR were as follows: 5&#x02032;&#x02010;CGCTTTTATGCTCTGTCGGC&#x02010;3&#x02032; (forward) and 5&#x02032;&#x02010;CCACAGATGTCGGGACCAA&#x02010;3&#x02032; (reverse); exo70: 5&#x02032;&#x02010;TGGCCGCAACCAAGATTTCATG&#x02010;3&#x02032; (forward) and 5&#x02032;&#x02010; GAGAAGTCGTGTCGCACAATGGC&#x02010;3&#x02032; (reverse); and &#x003b2;&#x02010;actin: 5&#x02032;&#x02010; GCGACACCCACTCCTCCACCTTT&#x02010;3&#x02032; (forward) and 5&#x02032;&#x02010; TGCTGTAGCCAAATTCGTTGTCATA&#x02010;3&#x02032; (reverse). The relative expression of calreticulin and exo70 was normalized to that of &#x003b2;&#x02010;actin, and 2<sup>&#x02212;&#x00394;&#x00394;CT</sup> was used to calculate the relative gene expression.</p></sec><sec id="advs71903-sec-0220"><title>Small Interfering RNA (siRNA) Transfection</title><p>The negative control or&#x000a0;siRNA targeting Exo70 was transfected into cells by using&#x000a0;Lipofectamine&#x000a0;3000 Transfection Reagent from Invitrogen, according to the manufacturer's protocol. The sequences used were (5&#x02019;&#x02010;UUCUCCGAACGUGUCACGUTT&#x02010;3&#x02019;) for siNC, and (5&#x02019;&#x02010; GGTTAAAGGTGACTGATTA&#x02010;3&#x02019;) for siExo70.</p></sec><sec id="advs71903-sec-0230"><title>Flow Cytometry Assay</title><p>For the detection of CRT in vitro and in vivo, cancer cells were incubated with the primary antibody, an anti&#x02010;calreticulin antibody (#ab2907), at room temperature in the dark for 45 min and then conjugated with an Alexa Fluor 594&#x02010;labelled goat anti&#x02010;rabbit IgG (H + L) secondary antibody from Biolegend (#A&#x02010;11008). The cells were subsequently washed with PBS three times and analysed by flow cytometry (BD LSRFortessa).</p><p>For the detection of CD47 and EGFR in vitro, cancer cells were incubated with a FITC&#x02010;conjugated anti&#x02010;human CD47 antibody (#CC2C6, Biolegend) or PE anti&#x02010;human EGFR antibody (#AY13, Biolegend) at room temperature in the dark for 1 h. For the detection of apoptosis, cancer cells with or without treatment were incubated with an Annexin V&#x02010;FITC Kit (C1062M, Beyotime) and propidium iodide (PI, 5 &#x000b5;g ml<sup>&#x02212;1</sup>) for 15 min at room temperature in the dark and analysed by flow cytometry (BD LSRFortessa).</p></sec><sec id="advs71903-sec-0240"><title>Immunofluorescence</title><p>The immunofluorescence experiment was carried out in accordance with the manufacturer's instructions. Briefly, for the detection of ER&#x02010;calcium (ER&#x02010;Ca<sup>2+</sup>), the cells were treated with ouabain or digoxin for 1 h, and ER&#x02010;tracker red (Beyotime, #C1041S) was used to stain cells for 0.5 h followed by staining with fluo&#x02010;4 AM (Beyotime, # S1060) for another 0.5 h. The cells were then stained with Hoechst 33342 for 10 min and photographed using a Leica TCS SP8 microscope (manufactured in Solms, Germany).</p><p>For the detection of ecto&#x02010;CRT in cells, after being treated with CGs, cells were fixed using 4% paraformaldehyde for 30 min. Subsequently, the cells were blocked with 0.5% bovine serum albumin (BSA) for 1 h and then incubated with the antibody against calreticulin overnight at 4&#x000a0;&#x000b0;C. After that, the cells were stained with the anti&#x02010;rabbit IgG (Alexa Fluor 594 Conjugate, CST, #8889) for an additional 1 h. Following three washes with phosphate&#x02010;buffered saline (PBS), the cells were further stained with Hoechst 33342 for 10 min and photographed using a Leica TCS SP8 microscope.</p></sec><sec id="advs71903-sec-0250"><title>Statistical Analysis</title><p>Statistical analyses were performed using GraphPad Prism 7 (GraphPad Software Inc., San Diego, CA, USA). The statistical data are presented as the means &#x000b1;&#x000a0;standard error of the means (SEMs). Two&#x02010;tailed Student's t&#x02010;tests were used for comparisons between two groups. Comparisons involving more than two groups were analyzed using one&#x02010;way ANOVA. Two&#x02010;way ANOVA with a multiple&#x02010;comparisons test was used to analyze tumor growth curves, followed by Fisher's LSD test. <italic toggle="yes">P</italic> values&#x02009;&#x0003c;&#x02009;0.05 were considered as statistically significant, and all <italic toggle="yes">P</italic> values are specified in the figure.</p></sec></sec><sec sec-type="COI-statement" id="advs71903-sec-0270"><title>Conflict of Interest</title><p>The authors declare no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="advs71903-supinfo-0001" position="float" content-type="local-data"/><supplementary-material id="advs71903-supitem-0001" position="float" content-type="local-data"><caption><p>Supporting Information</p></caption><media xlink:href="ADVS-12-e08245-s001.docx"/></supplementary-material></sec></body><back><ack id="advs71903-sec-0260"><title>Acknowledgements</title><p>This study was supported by the University of Macau (File No. MYRG&#x02010;GRG2024&#x02010;00113&#x02010;ICMS&#x02010;UMDF and MYRG&#x02010;GRG2023&#x02010;00160&#x02010;ICMS&#x02010;UMDF) and the Science and Technology Development Fund, Macau SAR (File No. 0015&#x02010;2022&#x02010;A1 and 005/2023/SKL). We sincerely thank Ms. Yi&#x02010;Xuan Wang, Prof. Jia&#x02010;Hong Lu and his student Mr. Zheng&#x02010;Yu Ren, and all the members of the SPF animal facility University of Macau for experimental and technical supports.</p></ack><sec sec-type="data-availability" id="advs71903-sec-0290"><title>Data Availability Statement</title><p>The data that support the findings of this study are available in the supplementary material of this article.</p></sec><ref-list id="advs71903-bibl-0001"><ref id="advs71903-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="advs71903-cite-0001">
+<string-name>
+<given-names>B. C.</given-names>
+<surname>Bade</surname>
+</string-name>, <string-name>
+<given-names>C. S.</given-names>
+<surname>Cruz Dela</surname>
+</string-name>, <source>Clin Chest Med</source>
+<year>2020</year>, <volume>41</volume>, <fpage>1</fpage>.<pub-id pub-id-type="pmid">32008623</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="advs71903-cite-0078">
+<string-name>
+<given-names>R. L.</given-names>
+<surname>Siegel</surname>
+</string-name>, <string-name>
+<given-names>T. B.</given-names>
+<surname>Kratzer</surname>
+</string-name>, <string-name>
+<given-names>A. N.</given-names>
+<surname>Giaquinto</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Sung</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Jemal</surname>
+</string-name>, <source>CA Cancer J Clin</source>
+<year>2025</year>, <volume>75</volume>, <fpage>10</fpage>.<pub-id pub-id-type="pmid">39817679</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="advs71903-cite-0002">
+<string-name>
+<given-names>M.</given-names>
+<surname>Araghi</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Mannani</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Heidarnejad maleki</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Hamidi</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Rostami</surname>
+</string-name>, <string-name>
+<given-names>S. H.</given-names>
+<surname>Safa</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Faramarzi</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Khorasani</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Alimohammadi</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Tahmasebi</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Akhavan&#x02010;Sigari</surname>
+</string-name>, <source>Cancer Cell Int.</source>
+<volume>23</volume>, <fpage>162</fpage>.<pub-id pub-id-type="pmid">37568193</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="advs71903-cite-0003">
+<string-name>
+<given-names>A.</given-names>
+<surname>Lahiri</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Maji</surname>
+</string-name>, <string-name>
+<given-names>P. D.</given-names>
+<surname>Potdar</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Singh</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Parikh</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Bisht</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Mukherjee</surname>
+</string-name>, <string-name>
+<given-names>M. K.</given-names>
+<surname>Paul</surname>
+</string-name>, <source>Mol Cancer</source>
+<year>2023</year>, <volume>22</volume>, <fpage>40</fpage>.<pub-id pub-id-type="pmid">36810079</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="advs71903-cite-0004">
+<string-name>
+<given-names>F.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source>J Thorac Oncol</source>
+<year>2022</year>, <volume>17</volume>, <fpage>481</fpage>.<pub-id pub-id-type="pmid">35307103</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="advs71903-cite-0005">
+<string-name>
+<given-names>J.</given-names>
+<surname>Remon</surname>
+</string-name>, <string-name>
+<given-names>C. E.</given-names>
+<surname>Steuer</surname>
+</string-name>, <string-name>
+<given-names>S. S.</given-names>
+<surname>Ramalingam</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Felip</surname>
+</string-name>, <source>Ann. Oncol.</source>
+<year>2018</year>, <volume>29</volume>, <fpage>i20</fpage>.<pub-id pub-id-type="pmid">29462255</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="advs71903-cite-0006">
+<string-name>
+<given-names>P.</given-names>
+<surname>Sharma</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Goswami</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Raychaudhuri</surname>
+</string-name>, <string-name>
+<given-names>B. A.</given-names>
+<surname>Siddiqui</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Singh</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Nagarajan</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S. K.</given-names>
+<surname>Subudhi</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Poon</surname>
+</string-name>, <string-name>
+<given-names>K. L.</given-names>
+<surname>Gant</surname>
+</string-name>, <string-name>
+<given-names>S. M.</given-names>
+<surname>Herbrich</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Anandhan</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Islam</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Amit</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Anandappa</surname>
+</string-name>, <string-name>
+<given-names>J. P.</given-names>
+<surname>Allison</surname>
+</string-name>, <source>Cell</source>
+<year>2023</year>, <volume>186</volume>, <fpage>1652</fpage>.<pub-id pub-id-type="pmid">37059068</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="advs71903-cite-0007">
+<string-name>
+<given-names>S. L.</given-names>
+<surname>Topalian</surname>
+</string-name>, <string-name>
+<given-names>F. S</given-names>
+<surname>Hodi</surname>
+</string-name>, <string-name>
+<given-names>J. R.</given-names>
+<surname>Brahmer</surname>
+</string-name>, <string-name>
+<given-names>S. N.</given-names>
+<surname>Gettinger</surname>
+</string-name>, <string-name>
+<given-names>D. C.</given-names>
+<surname>Smith</surname>
+</string-name>, <string-name>
+<given-names>D. F.</given-names>
+<surname>McDermott</surname>
+</string-name>, <string-name>
+<given-names>J. D.</given-names>
+<surname>Powderly</surname>
+</string-name>, <string-name>
+<given-names>R. D.</given-names>
+<surname>Carvajal</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Sosman</surname>
+</string-name>, <string-name>
+<given-names>M. B.</given-names>
+<surname>Atkins</surname>
+</string-name>, <string-name>
+<given-names>P. D.</given-names>
+<surname>Leming</surname>
+</string-name>, <string-name>
+<given-names>D. R.</given-names>
+<surname>Spigel</surname>
+</string-name>, <string-name>
+<given-names>S. J.</given-names>
+<surname>Antonia</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Horn</surname>
+</string-name>, <string-name>
+<given-names>C. G.</given-names>
+<surname>Drake</surname>
+</string-name>, <string-name>
+<given-names>D. M.</given-names>
+<surname>Pardoll</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>W. H.</given-names>
+<surname>Sharfman</surname>
+</string-name>, <string-name>
+<given-names>R. A.</given-names>
+<surname>Anders</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Taube</surname>
+</string-name>, <string-name>
+<given-names>T. L.</given-names>
+<surname>McMiller</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>A. J.</given-names>
+<surname>Korman</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Jure&#x02010;Kunkel</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Agrawal</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>McDonald</surname>
+</string-name>, <string-name>
+<given-names>G. D.</given-names>
+<surname>Kollia</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Gupta</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Wigginton</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Sznol</surname>
+</string-name>, <source>N. Engl. J. Med.</source>
+<year>2012</year>, <volume>366</volume>, <fpage>2443</fpage>.<pub-id pub-id-type="pmid">22658127</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="advs71903-cite-0008">
+<string-name>
+<given-names>M.</given-names>
+<surname>Aldea</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Andre</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Marabelle</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Dogan</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Barlesi</surname>
+</string-name>, <string-name>
+<given-names>J. C.</given-names>
+<surname>Soria</surname>
+</string-name>, <source>Cancer Discov</source>
+<year>2021</year>, <volume>11</volume>, <fpage>874</fpage>.<pub-id pub-id-type="pmid">33811122</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="advs71903-cite-0009">
+<string-name>
+<given-names>G.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Qin</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <source>Nat Rev Drug Discov</source>
+<year>2022</year>, <volume>21</volume>, <fpage>484</fpage>.<pub-id pub-id-type="pmid">34992259</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="advs71903-cite-0010">
+<string-name>
+<given-names>T. F.</given-names>
+<surname>Gajewski</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Schreiber</surname>
+</string-name>, <string-name>
+<given-names>Y. X.</given-names>
+<surname>Fu</surname>
+</string-name>, <source>Nat. Immunol.</source>
+<year>2013</year>, <volume>14</volume>, <fpage>1014</fpage>.<pub-id pub-id-type="pmid">24048123</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="advs71903-cite-0011">
+<string-name>
+<given-names>M.</given-names>
+<surname>Bied</surname>
+</string-name>, <string-name>
+<given-names>W. W.</given-names>
+<surname>Ho</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Ginhoux</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Bleriot</surname>
+</string-name>, <source>Cell Mol. Immunol.</source>
+<year>2023</year>, <volume>20</volume>, <fpage>983</fpage>.<pub-id pub-id-type="pmid">37429944</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="advs71903-cite-0012">
+<string-name>
+<given-names>A.</given-names>
+<surname>Mantovani</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Allavena</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Marchesi</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Garlanda</surname>
+</string-name>, <source>Nat. Rev. Drug Discovery</source>
+<year>2022</year>, <volume>21</volume>, <fpage>799</fpage>.<pub-id pub-id-type="pmid">35974096</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="advs71903-cite-0013">
+<string-name>
+<given-names>L.</given-names>
+<surname>Cassetta</surname>
+</string-name>, <string-name>
+<given-names>J. W.</given-names>
+<surname>Pollard</surname>
+</string-name>, <source>Nat Rev Drug Discov</source>
+<year>2018</year>, <volume>17</volume>, <fpage>887</fpage>.<pub-id pub-id-type="pmid">30361552</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="advs71903-cite-0014">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Weng</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Signal Transduct Target Ther</source>
+<year>2023</year>, <volume>8</volume>, <fpage>104</fpage>.<pub-id pub-id-type="pmid">36882399</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="advs71903-cite-0015">
+<string-name>
+<given-names>W. B.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>Z. H.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>J. J.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>J. J.</given-names>
+<surname>Lu</surname>
+</string-name>, <source>Drug Discov Today</source>
+<year>2021</year>, <volume>26</volume>, <fpage>561</fpage>.<pub-id pub-id-type="pmid">33197622</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="advs71903-cite-0016">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Tian</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Song</surname>
+</string-name>, <source>J. Hematol. Oncol.</source>
+<year>2021</year>, <volume>14</volume>, <fpage>180</fpage>.<pub-id pub-id-type="pmid">34717705</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="advs71903-cite-0017">
+<string-name>
+<given-names>K.</given-names>
+<surname>Weiskopf</surname>
+</string-name>, <source>Eur J Cancer</source>
+<year>2017</year>, <volume>76</volume>, <fpage>100</fpage>.<pub-id pub-id-type="pmid">28286286</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="advs71903-cite-0018">
+<string-name>
+<given-names>Z. H.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name>
+<given-names>W. B.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>M. Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>J. J.</given-names>
+<surname>Lu</surname>
+</string-name>, <source>Acta Pharm. Sin. B</source>
+<year>2023</year>, <volume>13</volume>, <fpage>1467</fpage>.<pub-id pub-id-type="pmid">37139405</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="advs71903-cite-0019">
+<string-name>
+<given-names>W. B.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>Z.&#x02010;H</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name>
+<given-names>J. J.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>W. Q.</given-names>
+<surname>Deng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>J. J.</given-names>
+<surname>Lu</surname>
+</string-name>, <source>Biochem. Pharmacol.</source>
+<year>2025</year>, <volume>236</volume>, <elocation-id>116898</elocation-id>.<pub-id pub-id-type="pmid">40147800</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="advs71903-cite-0020">
+<string-name>
+<given-names>I.</given-names>
+<surname>Vitale</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Manic</surname>
+</string-name>, <string-name>
+<given-names>L. M.</given-names>
+<surname>Coussens</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Kroemer</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Galluzzi</surname>
+</string-name>, <source>Cell Metab.</source>
+<year>2019</year>, <volume>30</volume>, <fpage>36</fpage>.<pub-id pub-id-type="pmid">31269428</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="advs71903-cite-0021">
+<string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Luan</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Tian</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Ju</surname>
+</string-name>, <source>Cancer Immunol. Res.</source>
+<year>2017</year>, <volume>5</volume>, <fpage>363</fpage>.<pub-id pub-id-type="pmid">28351890</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="advs71903-cite-0022">
+<string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Luan</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Mei</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Tian</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yin</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Ju</surname>
+</string-name>, <source>J Immunother Cancer</source>
+<year>2019</year>, <volume>7</volume>, <fpage>346</fpage>.<pub-id pub-id-type="pmid">31829270</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="advs71903-cite-0023">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Nishiga</surname>
+</string-name>, <string-name>
+<given-names>A. P.</given-names>
+<surname>Drainas</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Baron</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Bhattacharya</surname>
+</string-name>, <string-name>
+<given-names>A A.</given-names>
+<surname>Barkal</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ahrari</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Mancusi</surname>
+</string-name>, <string-name>
+<given-names>J. B.</given-names>
+<surname>Ross</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Takahashi</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Thomas</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Diehn</surname>
+</string-name>, <string-name>
+<given-names>I. L.</given-names>
+<surname>Weissman</surname>
+</string-name>, <string-name>
+<given-names>E. E.</given-names>
+<surname>Graves</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Sage</surname>
+</string-name>, <source>Nat Cancer</source>
+<year>2022</year>, <volume>3</volume>, <fpage>1351</fpage>.<pub-id pub-id-type="pmid">36411318</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="advs71903-cite-0024">
+<string-name>
+<given-names>L.&#x02010;Y.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>W. T.</given-names>
+<surname>Zhuang</surname>
+</string-name>, <string-name>
+<given-names>M. J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liao</surname>
+</string-name>, <string-name>
+<given-names>D. F.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>L. L.</given-names>
+<surname>Pang</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;H.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>T. Q.</given-names>
+<surname>Mao</surname>
+</string-name>, <string-name>
+<given-names>M. J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>P. J.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>J. X.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>L. J.</given-names>
+<surname>Zeng</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>W. F.</given-names>
+<surname>Fang</surname>
+</string-name>, <source>J Thorac Oncol</source>
+<year>2024</year>, <volume>19</volume>, <fpage>1186</fpage>.<pub-id pub-id-type="pmid">38553005</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="advs71903-cite-0025">
+<string-name>
+<given-names>W. B.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;C.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Z.&#x02010;H.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>J. J.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>J. J.</given-names>
+<surname>Lu</surname>
+</string-name>, <source>Front Med</source>
+<year>2023</year>, <volume>17</volume>, <fpage>105</fpage>.<pub-id pub-id-type="pmid">36414917</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="advs71903-cite-0026">
+<string-name>
+<given-names>J.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Lou</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Ouyang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wen</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Yue</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Cancer Lett</source>
+<year>2023</year>, <volume>564</volume>, <elocation-id>216205</elocation-id>.<pub-id pub-id-type="pmid">37146936</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="advs71903-cite-0027">
+<string-name>
+<given-names>J. M.</given-names>
+<surname>Calder&#x000f3;n&#x02010;Monta&#x000f1;o</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Burgos&#x02010;Mor&#x000f3;n</surname>
+</string-name>, <string-name>
+<given-names>M. L.</given-names>
+<surname>Orta</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Maldonado&#x02010;Navas</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Garc&#x000ed;a&#x02010;Dom&#x000ed;nguez</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>L&#x000f3;pez&#x02010;L&#x000e1;zaro</surname>
+</string-name>, <source>Biomed Res. Int.</source>
+<year>2014</year>, <volume>2014</volume>, <fpage>1</fpage>.</mixed-citation></ref><ref id="advs71903-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="advs71903-cite-0028">
+<string-name>
+<given-names>W. N.</given-names>
+<surname>Nik Nabil</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Dai</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Xi</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Xu</surname>
+</string-name>, <source>Drug Discov Today</source>
+<year>2024</year>, <volume>29</volume>, <elocation-id>104129</elocation-id>.<pub-id pub-id-type="pmid">39098384</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="advs71903-cite-0029">
+<string-name>
+<given-names>J.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wang</surname>
+</string-name>, <source>Front. Pharmacol.</source>
+<year>2022</year>, <volume>13</volume>, <elocation-id>902459</elocation-id>.<pub-id pub-id-type="pmid">35721110</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="advs71903-cite-0030">
+<string-name>
+<given-names>L.</given-names>
+<surname>Soumoy</surname>
+</string-name>, <string-name>
+<given-names>G. E.</given-names>
+<surname>Ghanem</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Saussez</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Journe</surname>
+</string-name>, <source>Pharmacol Res</source>
+<year>2022</year>, <volume>184</volume>, <elocation-id>106442</elocation-id>.<pub-id pub-id-type="pmid">36096424</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="advs71903-cite-0031">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Hou</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Hou</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Kong</surname>
+</string-name>, <source>Biosci. Rep.</source>
+<year>2021</year>, <volume>41</volume>, <elocation-id>BSR20211056</elocation-id>.<pub-id pub-id-type="pmid">34549269</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="advs71903-cite-0032">
+<string-name>
+<given-names>C.</given-names>
+<surname>Kurzeder</surname>
+</string-name>, <string-name>
+<given-names>B. D.</given-names>
+<surname>Nguyen&#x02010;Str&#x000e4;uli</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Krol</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Ring</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Castro&#x02010;Giner</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>N&#x000fc;esch</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Asawa</surname>
+</string-name>, <string-name>
+<given-names>Y. W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Budinjas</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Gvozdenovic</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Vogel</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Kohler</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Grasic Kuhar</surname>
+</string-name>, <string-name>
+<given-names>F. D.</given-names>
+<surname>Schwab</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Heinzelmann&#x02010;Schwarz</surname>
+</string-name>, <string-name>
+<given-names>W. P.</given-names>
+<surname>Weber</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Rochlitz</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Vorburger</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Frauchiger&#x02010;Heuer</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Witzel</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Wicki</surname>
+</string-name>, <string-name>
+<given-names>G. M.</given-names>
+<surname>Kuster</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Vetter</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Aceto</surname>
+</string-name>, <source>Nat. Med.</source>
+<year>2025</year>, <volume>31</volume>, <fpage>1120</fpage>.<pub-id pub-id-type="pmid">39856336</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="advs71903-cite-0033">
+<string-name>
+<given-names>S.</given-names>
+<surname>Gkountela</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Castro&#x02010;Giner</surname>
+</string-name>, <string-name>
+<given-names>B. M.</given-names>
+<surname>Szczerba</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Vetter</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Landin</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Scherrer</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Krol</surname>
+</string-name>, <string-name>
+<given-names>M. C.</given-names>
+<surname>Scheidmann</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Beisel</surname>
+</string-name>, <string-name>
+<given-names>C. U.</given-names>
+<surname>Stirnimann</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Kurzeder</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Heinzelmann&#x02010;Schwarz</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Rochlitz</surname>
+</string-name>, <string-name>
+<given-names>W. P.</given-names>
+<surname>Weber</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Aceto</surname>
+</string-name>, <source>Cell</source>
+<year>2019</year>, <volume>176</volume>, <fpage>98</fpage>.<pub-id pub-id-type="pmid">30633912</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="advs71903-cite-0034">
+<string-name>
+<given-names>A.</given-names>
+<surname>Guerrero</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Herranz</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Wagner</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Gallage</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Guiho</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Wolter</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Pombo</surname>
+</string-name>, <string-name>
+<given-names>E. E.</given-names>
+<surname>Irvine</surname>
+</string-name>, <string-name>
+<given-names>A. J.</given-names>
+<surname>Innes</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Birch</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Glegola</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Manshaei</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Heide</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Dharmalingam</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Harbig</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Olona</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Behmoaras</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Dauch</surname>
+</string-name>, <string-name>
+<given-names>A. G.</given-names>
+<surname>Uren</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zender</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Vernia</surname>
+</string-name>, <string-name>
+<given-names>J. P.</given-names>
+<surname>Mart&#x000ed;nez&#x02010;Barbera</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Heikenwalder</surname>
+</string-name>, <string-name>
+<given-names>D. J.</given-names>
+<surname>Withers</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Gil</surname>
+</string-name>, <source>Nat Metab</source>
+<year>2019</year>, <volume>1</volume>, <fpage>1074</fpage>.<pub-id pub-id-type="pmid">31799499</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="advs71903-cite-0035">
+<string-name>
+<given-names>F.</given-names>
+<surname>Triana&#x02010;Mart&#x000ed;nez</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Picallos&#x02010;Rabina</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Da Silva&#x02010;&#x000c1;lvarez</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Pietrocola</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Llanos</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Rodilla</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Soprano</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Pedrosa</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Ferreir&#x000f3;s</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Barradas</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Hern&#x000e1;ndez&#x02010;Gonz&#x000e1;lez</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Lalinde</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Prats</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Bernad&#x000f3;</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Gonz&#x000e1;lez</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>G&#x000f3;mez</surname>
+</string-name>, <string-name>
+<given-names>M. P.</given-names>
+<surname>Ikonomopoulou</surname>
+</string-name>, <string-name>
+<given-names>P. J.</given-names>
+<surname>Fern&#x000e1;ndez&#x02010;Marcos</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Garc&#x000ed;a&#x02010;Caballero</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>del Pino</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Arribas</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Vidal</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Gonz&#x000e1;lez&#x02010;Barcia</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Serrano</surname>
+</string-name>, <string-name>
+<given-names>M. I.</given-names>
+<surname>Loza</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Dom&#x000ed;nguez</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Collado</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2019</year>, <volume>10</volume>, <fpage>4731</fpage>.<pub-id pub-id-type="pmid">31636264</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="advs71903-cite-0036">
+<string-name>
+<given-names>C.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>R. K.</given-names>
+<surname>Manne</surname>
+</string-name>, <string-name>
+<given-names>H. K.</given-names>
+<surname>Lin</surname>
+</string-name>, <source>STAR Protoc</source>
+<year>2023</year>, <volume>4</volume>, <elocation-id>101940</elocation-id>.<pub-id pub-id-type="pmid">36520628</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="advs71903-cite-0037">
+<string-name>
+<given-names>K.</given-names>
+<surname>Jia</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Qu</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <source>Chin. J. Nat. Med.</source>
+<year>2024</year>, <volume>22</volume>, <fpage>582</fpage>.<pub-id pub-id-type="pmid">39059828</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="advs71903-cite-0038">
+<string-name>
+<given-names>J. C.</given-names>
+<surname>Osorio</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Smith</surname>
+</string-name>, <string-name>
+<given-names>D. A.</given-names>
+<surname>Knorr</surname>
+</string-name>, <string-name>
+<given-names>J. V.</given-names>
+<surname>Ravetch</surname>
+</string-name>, <source>Cancer Cell</source>
+<year>2023</year>, <volume>41</volume>, <fpage>2051</fpage>.<pub-id pub-id-type="pmid">37977147</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="advs71903-cite-0039">
+<string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>F. D.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ning</surname>
+</string-name>, <string-name>
+<given-names>S. L.</given-names>
+<surname>Sun</surname>
+</string-name>, <source>Cell Death Dis.</source>
+<year>2021</year>, <volume>12</volume>, <fpage>314</fpage>.<pub-id pub-id-type="pmid">33762577</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="advs71903-cite-0040">
+<string-name>
+<given-names>L.</given-names>
+<surname>Menger</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Vacchelli</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Adjemian</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Martins</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Yamazaki</surname>
+</string-name>, <string-name>
+<given-names>A. Q.</given-names>
+<surname>Sukkurwala</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Michaud</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Mignot</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Schlemmer</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Sulpice</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Locher</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Gidrol</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Ghiringhelli</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Modjtahedi</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Galluzzi</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Andr&#x000e9;</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zitvogel</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Kepp</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Kroemer</surname>
+</string-name>, <source>Sci. Transl. Med.</source>
+<year>2012</year>, <volume>4</volume>, <elocation-id>143ra199</elocation-id>.</mixed-citation></ref><ref id="advs71903-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="advs71903-cite-0041">
+<string-name>
+<given-names>J.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Hua</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Cai</surname>
+</string-name>, <source>J. Cell. Mol. Med.</source>
+<year>2019</year>, <volume>23</volume>, <fpage>4854</fpage>.<pub-id pub-id-type="pmid">31210425</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="advs71903-cite-0042">
+<string-name>
+<given-names>S. J.</given-names>
+<surname>Gardai</surname>
+</string-name>, <string-name>
+<given-names>K. A.</given-names>
+<surname>McPhillips</surname>
+</string-name>, <string-name>
+<given-names>S. C.</given-names>
+<surname>Frasch</surname>
+</string-name>, <string-name>
+<given-names>W. J.</given-names>
+<surname>Janssen</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Starefeldt</surname>
+</string-name>, <string-name>
+<given-names>J. E.</given-names>
+<surname>Murphy&#x02010;Ullrich</surname>
+</string-name>, <string-name>
+<given-names>D. L.</given-names>
+<surname>Bratton</surname>
+</string-name>, <string-name>
+<given-names>P. A.</given-names>
+<surname>Oldenborg</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Michalak</surname>
+</string-name>, <string-name>
+<given-names>P. M.</given-names>
+<surname>Henson</surname>
+</string-name>, <source>Cell</source>
+<year>2005</year>, <volume>123</volume>, <fpage>321</fpage>.<pub-id pub-id-type="pmid">16239148</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="advs71903-cite-0043">
+<string-name>
+<given-names>O.</given-names>
+<surname>Aizman</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Uhlen</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Lal</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Brismar</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Aperia</surname>
+</string-name>, <source>Proc Natl Acad Sci U S A</source>
+<year>2001</year>, <volume>98</volume>, <elocation-id>13420</elocation-id>.<pub-id pub-id-type="pmid">11687608</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="advs71903-cite-0044">
+<string-name>
+<given-names>F.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Cai</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Qiu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <source>Chin. Med.</source>
+<year>2024</year>, <volume>19</volume>, <fpage>72</fpage>.<pub-id pub-id-type="pmid">38773596</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="advs71903-cite-0045">
+<string-name>
+<given-names>J.</given-names>
+<surname>Krebs</surname>
+</string-name>, <string-name>
+<given-names>L. B.</given-names>
+<surname>Agellon</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Michalak</surname>
+</string-name>, <source>Biochem. Biophys. Res. Commun.</source>
+<year>2015</year>, <volume>460</volume>, <fpage>114</fpage>.<pub-id pub-id-type="pmid">25998740</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="advs71903-cite-0046">
+<string-name>
+<given-names>J. F.</given-names>
+<surname>Presley</surname>
+</string-name>, <string-name>
+<given-names>N. B.</given-names>
+<surname>Cole</surname>
+</string-name>, <string-name>
+<given-names>T. A.</given-names>
+<surname>Schroer</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Hirschberg</surname>
+</string-name>, <string-name>
+<given-names>K. J. M.</given-names>
+<surname>Zaal</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lippincott&#x02010;Schwartz</surname>
+</string-name>, <source>Nature</source>
+<year>1997</year>, <volume>389</volume>, <fpage>81</fpage>.<pub-id pub-id-type="pmid">9288971</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="advs71903-cite-0047">
+<string-name>
+<given-names>J. B.</given-names>
+<surname>Helms</surname>
+</string-name>, <string-name>
+<given-names>J. E.</given-names>
+<surname>Rothman</surname>
+</string-name>, <source>Nature</source>
+<year>1992</year>, <volume>360</volume>, <fpage>352</fpage>.<pub-id pub-id-type="pmid">1448152</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="advs71903-cite-0048">
+<string-name>
+<given-names>J. K.</given-names>
+<surname>Jaiswal</surname>
+</string-name>, <string-name>
+<given-names>V. M.</given-names>
+<surname>Rivera</surname>
+</string-name>, <string-name>
+<given-names>S. M.</given-names>
+<surname>Simon</surname>
+</string-name>, <source>Cell</source>
+<year>2009</year>, <volume>137</volume>, <fpage>1308</fpage>.<pub-id pub-id-type="pmid">19563761</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="advs71903-cite-0077">
+<string-name>
+<given-names>C.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>M. Q.</given-names>
+<surname>Brown</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>van de Ven</surname>
+</string-name>, <string-name>
+<given-names>Z. M.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>M. C.</given-names>
+<surname>Young</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Synek</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Borchardt</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Harrison</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Pan</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name>
+<given-names>Y. M.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Y. J.</given-names>
+<surname>Ghang</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Ung</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Isley</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Morikis</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>R. J.</given-names>
+<surname>Hooley</surname>
+</string-name>, <string-name>
+<given-names>C. E</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Zarsky</surname>
+</string-name>, <string-name>
+<given-names>G. K.</given-names>
+<surname>Muday</surname>
+</string-name>, <string-name>
+<given-names>G. R.</given-names>
+<surname>Hicks</surname>
+</string-name>, <string-name>
+<given-names>N. V.</given-names>
+<surname>Raikhel</surname>
+</string-name>, <source>Proc Natl Acad Sci</source>
+<year>2016</year>, <volume>113</volume>, <elocation-id>E4150</elocation-id>.</mixed-citation></ref><ref id="advs71903-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="advs71903-cite-0049">
+<string-name>
+<given-names>O.</given-names>
+<surname>Kepp</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Menger</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Vacchelli</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Adjemian</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Martins</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>A. Q.</given-names>
+<surname>Sukkurwala</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Michaud</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Galluzzi</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zitvogel</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Kroemer</surname>
+</string-name>, <source>Oncoimmunology</source>
+<year>2012</year>, <volume>1</volume>, <fpage>1640</fpage>.<pub-id pub-id-type="pmid">23264921</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="advs71903-cite-0050">
+<string-name>
+<given-names>J.</given-names>
+<surname>Fender</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kl&#x000f6;cker</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Boivin&#x02010;Jahns</surname>
+</string-name>, <string-name>
+<given-names>U.</given-names>
+<surname>Ravens</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Jahns</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Lorenz</surname>
+</string-name>, <source>Naunyn Schmiedebergs Arch Pharmacol</source>
+<year>2024</year>, <volume>397</volume>, <fpage>9521</fpage>.<pub-id pub-id-type="pmid">39007928</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="advs71903-cite-0051">
+<string-name>
+<given-names>J.</given-names>
+<surname>Bejcek</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Jurasek</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Spiwok</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Rimpelova</surname>
+</string-name>, <source>Toxins</source>
+<year>2021</year>, <volume>13</volume>, <fpage>344</fpage>.<pub-id pub-id-type="pmid">34064873</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="advs71903-cite-0052">
+<string-name>
+<given-names>J.</given-names>
+<surname>Jing</surname>
+</string-name>, <string-name>
+<given-names>K. R.</given-names>
+<surname>Tupally</surname>
+</string-name>, <string-name>
+<given-names>G. R.</given-names>
+<surname>Kokil</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Qu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>H. S.</given-names>
+<surname>Parekh</surname>
+</string-name>, <source>RSC Adv.</source>
+<year>2019</year>, <volume>9</volume>, <fpage>2458</fpage>.<pub-id pub-id-type="pmid">35520530</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="advs71903-cite-0053">
+<string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>G. R.</given-names>
+<surname>Williams</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Niu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>L.&#x02010;M.</given-names>
+<surname>Zhu</surname>
+</string-name>, <source>Int. J. Pharm.</source>
+<year>2019</year>, <volume>559</volume>, <fpage>289</fpage>.<pub-id pub-id-type="pmid">30707933</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="advs71903-cite-0054">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>Int J Nanomedicine</source>
+<year>2018</year>, <volume>13</volume>, <fpage>6009</fpage>.<pub-id pub-id-type="pmid">30323588</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="advs71903-cite-0055">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Shi</surname>
+</string-name>, <source>J Control Release</source>
+<year>2021</year>, <volume>338</volume>, <fpage>705</fpage>.<pub-id pub-id-type="pmid">34481023</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="advs71903-cite-0056">
+<string-name>
+<given-names>Z.&#x02010;C.</given-names>
+<surname>Chiang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name>
+<given-names>Y. K.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Cui</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Weng</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Chen</surname>
+</string-name>, <source>Front. Oncol.</source>
+<year>2022</year>, <volume>12</volume>, <elocation-id>857927</elocation-id>.<pub-id pub-id-type="pmid">35646646</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="advs71903-cite-0057">
+<string-name>
+<given-names>B. R.</given-names>
+<surname>Schrank</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Tran</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Edwards</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Huntoon</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Ha</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>A. J.</given-names>
+<surname>Grippin</surname>
+</string-name>, <string-name>
+<given-names>S. D.</given-names>
+<surname>Jeong</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Antony</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Kang</surname>
+</string-name>, <string-name>
+<given-names>T. D.</given-names>
+<surname>Gallup</surname>
+</string-name>, <string-name>
+<given-names>A. C.</given-names>
+<surname>Koong</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yun</surname>
+</string-name>, <string-name>
+<given-names>B. Y. S.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Jiang</surname>
+</string-name>, <source>Nat Cancer</source>
+<year>2025</year>, <volume>6</volume>, <fpage>511</fpage>.<pub-id pub-id-type="pmid">40000910</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="advs71903-cite-0058">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Alharbi</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Kapur</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Prudent</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Marshall</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>felder</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Pattnaik</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Patankar</surname>
+</string-name>, <source>Clin. Cancer Res.</source>
+<year>2018</year>, <volume>24</volume>, <fpage>B11</fpage>.</mixed-citation></ref><ref id="advs71903-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="advs71903-cite-0059">
+<string-name>
+<given-names>X.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Dang</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhong</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Raoof</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>M. G</given-names>
+<surname>Fakih</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Feng</surname>
+</string-name>, <source>Sci. Adv.</source>
+<year>2022</year>, <volume>8</volume>, <elocation-id>abl9171</elocation-id>.</mixed-citation></ref><ref id="advs71903-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="advs71903-cite-0060">
+<string-name>
+<given-names>L.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Xin</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wu</surname>
+</string-name>, <source>Cancer Commun</source>
+<year>2024</year>, <volume>44</volume>, <fpage>791</fpage>.</mixed-citation></ref><ref id="advs71903-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="advs71903-cite-0061">
+<string-name>
+<given-names>M. P.</given-names>
+<surname>Chao</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Jaiswal</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Weissman&#x02010;Tsukamoto</surname>
+</string-name>, <string-name>
+<given-names>A. A.</given-names>
+<surname>Alizadeh</surname>
+</string-name>, <string-name>
+<given-names>A. J.</given-names>
+<surname>Gentles</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Volkmer</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Weiskopf</surname>
+</string-name>, <string-name>
+<given-names>S. B.</given-names>
+<surname>Willingham</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Raveh</surname>
+</string-name>, <string-name>
+<given-names>C. Y.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Majeti</surname>
+</string-name>, <string-name>
+<given-names>I. L.</given-names>
+<surname>Weissman</surname>
+</string-name>, <source>Sci. Transl. Med.</source>
+<year>2010</year>, <volume>2</volume>, <elocation-id>63ra94</elocation-id>.</mixed-citation></ref><ref id="advs71903-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="advs71903-cite-0062">
+<string-name>
+<given-names>J.</given-names>
+<surname>Fucikova</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Spisek</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Kroemer</surname>
+</string-name>, <string-name>
+<given-names>L. C</given-names>
+<surname>Galluzzi</surname>
+</string-name>, <source>Cell Res.</source>
+<year>2021</year>, <volume>31</volume>, <fpage>5</fpage>.<pub-id pub-id-type="pmid">32733014</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="advs71903-cite-0063">
+<string-name>
+<given-names>M.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>J. Y.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Weissman&#x02010;Tsukamoto</surname>
+</string-name>, <string-name>
+<given-names>J. P.</given-names>
+<surname>Volkmer</surname>
+</string-name>, <string-name>
+<given-names>P. Y.</given-names>
+<surname>Ho</surname>
+</string-name>, <string-name>
+<given-names>K. M.</given-names>
+<surname>McKenna</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Cheshier</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Gip</surname>
+</string-name>, <string-name>
+<given-names>S. S.</given-names>
+<surname>Mitra</surname>
+</string-name>, <string-name>
+<given-names>I. L.</given-names>
+<surname>Weissman</surname>
+</string-name>, <source>Proc Natl Acad Sci</source>
+<year>2015</year>, <volume>112</volume>, <fpage>2145</fpage>.<pub-id pub-id-type="pmid">25646432</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="advs71903-cite-0064">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Davidson</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>M. C.</given-names>
+<surname>Zhong</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Qian</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Veillette</surname>
+</string-name>, <source>Cell Rep.</source>
+<year>2021</year>, <volume>37</volume>, <elocation-id>110111</elocation-id>.<pub-id pub-id-type="pmid">34910922</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="advs71903-cite-0065">
+<string-name>
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>M. C.</given-names>
+<surname>Zhong</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Davidson</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Mishel</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Rhee</surname>
+</string-name>, <string-name>
+<given-names>L. A.</given-names>
+<surname>P&#x000e9;rez&#x02010;Quintero</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>M. E.</given-names>
+<surname>Cruz&#x02010;Munoz</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>D. C.</given-names>
+<surname>Vinh</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Sinha</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Calderon</surname>
+</string-name>, <string-name>
+<given-names>C. A.</given-names>
+<surname>Lowell</surname>
+</string-name>, <string-name>
+<given-names>J. S.</given-names>
+<surname>Danska</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Veillette</surname>
+</string-name>, <source>Nature</source>
+<year>2017</year>, <volume>544</volume>, <fpage>493</fpage>.<pub-id pub-id-type="pmid">28424516</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="advs71903-cite-0066">
+<string-name>
+<given-names>G. C.</given-names>
+<surname>Okura</surname>
+</string-name>, <string-name>
+<given-names>A. G.</given-names>
+<surname>Bharadwaj</surname>
+</string-name>, <string-name>
+<given-names>D. M.</given-names>
+<surname>Waisman</surname>
+</string-name>, <source>Cancers</source>
+<year>2025</year>, <volume>17</volume>, <fpage>288</fpage>.<pub-id pub-id-type="pmid">39858072</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="advs71903-cite-0067">
+<string-name>
+<given-names>C. A.</given-names>
+<surname>Ogden</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>deCathelineau</surname>
+</string-name>, <string-name>
+<given-names>P. R.</given-names>
+<surname>Hoffmann</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Bratton</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Ghebrehiwet</surname>
+</string-name>, <string-name>
+<given-names>V. A.</given-names>
+<surname>Fadok</surname>
+</string-name>, <string-name>
+<given-names>P. M.</given-names>
+<surname>Henson</surname>
+</string-name>, <source>J. Exp. Med.</source>
+<year>2001</year>, <volume>194</volume>, <fpage>781</fpage>.<pub-id pub-id-type="pmid">11560994</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="advs71903-cite-0068">
+<string-name>
+<given-names>H.</given-names>
+<surname>Pa&#x000ef;dassi</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Tacnet&#x02010;Delorme</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Verneret</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Gaboriaud</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Houen</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Duus</surname>
+</string-name>, <string-name>
+<given-names>W. L.</given-names>
+<surname>Ling</surname>
+</string-name>, <string-name>
+<given-names>G. J.</given-names>
+<surname>Arlaud</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Frachet</surname>
+</string-name>, <source>J. Mol. Biol.</source>
+<year>2011</year>, <volume>408</volume>, <fpage>277</fpage>.<pub-id pub-id-type="pmid">21352829</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="advs71903-cite-0069">
+<string-name>
+<given-names>D. V.</given-names>
+<surname>Krysko</surname>
+</string-name>, <string-name>
+<given-names>K. S.</given-names>
+<surname>Ravichandran</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Vandenabeele</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2018</year>, <volume>9</volume>, <fpage>4644</fpage>.<pub-id pub-id-type="pmid">30405101</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="advs71903-cite-0070">
+<string-name>
+<given-names>M. P.</given-names>
+<surname>Teixeira</surname>
+</string-name>, <string-name>
+<given-names>V. M.</given-names>
+<surname>Rumjanek</surname>
+</string-name>, <source>Mediators Inflamm</source>
+<year>2014</year>, <volume>2014</volume>, <elocation-id>760368</elocation-id>.<pub-id pub-id-type="pmid">24904197</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="advs71903-cite-0071">
+<string-name>
+<given-names>A. J.</given-names>
+<surname>Boutilier</surname>
+</string-name>, <string-name>
+<given-names>S. F.</given-names>
+<surname>Elsawa</surname>
+</string-name>, <source>Int. J. Mol. Sci.</source>
+<year>2021</year>,<volume>22</volume>, <fpage>6995</fpage>.<pub-id pub-id-type="pmid">34209703</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0074"><label>74</label><mixed-citation publication-type="journal" id="advs71903-cite-0072">
+<string-name>
+<given-names>S.</given-names>
+<surname>Sen Santara</surname>
+</string-name>, <string-name>
+<given-names>D. J.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>&#x000c2;.</given-names>
+<surname>Crespo</surname>
+</string-name>, <string-name>
+<given-names>J. J.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Walker</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Chowdhury</surname>
+</string-name>, <string-name>
+<given-names>K. F.</given-names>
+<surname>Meza&#x02010;Sosa</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Lewandrowski</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Rowe</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>McClelland</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Junqueira</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lieberman</surname>
+</string-name>, <source>Nature</source>
+<year>2023</year>, <volume>616</volume>, <fpage>348</fpage>.<pub-id pub-id-type="pmid">37020026</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="advs71903-cite-0073">
+<string-name>
+<given-names>J. P.</given-names>
+<surname>Castellanos</surname>
+</string-name>, <string-name>
+<given-names>J. C.</given-names>
+<surname>Genereux</surname>
+</string-name>, <source>Signal Transduct Target Ther</source>
+<year>2023</year>, <volume>8</volume>, <fpage>289</fpage>.<pub-id pub-id-type="pmid">37544934</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="advs71903-cite-0074">
+<string-name>
+<given-names>L.</given-names>
+<surname>Galluzzi</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Buque</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Kepp</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zitvogel</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Kroemer</surname>
+</string-name>, <source>Nat. Rev. Immunol.</source>
+<year>2017</year>, <volume>17</volume>, <fpage>97</fpage>.<pub-id pub-id-type="pmid">27748397</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="advs71903-cite-0075">
+<string-name>
+<given-names>A. D.</given-names>
+<surname>Waldman</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Fritz</surname>
+</string-name>, <string-name>
+<given-names>M. J.</given-names>
+<surname>Lenardo</surname>
+</string-name>, <source>Nat. Rev. Immunol.</source>
+<year>2020</year>, <volume>20</volume>, <fpage>651</fpage>.<pub-id pub-id-type="pmid">32433532</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0078"><label>78</label><mixed-citation publication-type="journal" id="advs71903-cite-0076">
+<string-name>
+<given-names>T.</given-names>
+<surname>Panaretakis</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Kepp</surname>
+</string-name>, <string-name>
+<given-names>U.</given-names>
+<surname>Brockmeier</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Tesniere</surname>
+</string-name>, <string-name>
+<given-names>A. C.</given-names>
+<surname>Bjorklund</surname>
+</string-name>, <string-name>
+<given-names>D. C.</given-names>
+<surname>Chapman</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Durchschlag</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Joza</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Pierron</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>van Endert</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zitvogel</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Madeo</surname>
+</string-name>, <string-name>
+<given-names>D. B.</given-names>
+<surname>Williams</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Kroemer</surname>
+</string-name>, <year>2009</year>, <source>EMBO J.</source>
+<volume>28</volume>, <fpage>578</fpage>.<pub-id pub-id-type="pmid">19165151</pub-id>
+</mixed-citation></ref><ref id="advs71903-bib-0079"><label>79</label><mixed-citation publication-type="journal" id="advs71903-cite-0079">
+<string-name>
+<given-names>Z.&#x02010;H.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name>
+<given-names>X. M.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>M.&#x02010;Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;L.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;C.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>L. W.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>W. B.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>J. J.</given-names>
+<surname>Lu</surname>
+</string-name>, <source>Transl Oncol</source>
+<year>2021</year>, <volume>14</volume>, <elocation-id>101162</elocation-id>.<pub-id pub-id-type="pmid">34171557</pub-id>
+</mixed-citation></ref></ref-list></back></article>

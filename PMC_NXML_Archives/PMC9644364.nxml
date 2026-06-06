@@ -1,0 +1,780 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Open Heart</journal-id><journal-id journal-id-type="iso-abbrev">Open Heart</journal-id><journal-id journal-id-type="hwp">openhrt</journal-id><journal-id journal-id-type="publisher-id">openheart</journal-id><journal-title-group><journal-title>Open Heart</journal-title></journal-title-group><issn pub-type="epub">2053-3624</issn><publisher><publisher-name>BMJ Publishing Group</publisher-name><publisher-loc>BMA House, Tavistock Square, London, WC1H 9JR</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">36344108</article-id><article-id pub-id-type="pmc">9644364</article-id><article-id pub-id-type="publisher-id">openhrt-2022-002105</article-id><article-id pub-id-type="doi">10.1136/openhrt-2022-002105</article-id><article-categories><subj-group subj-group-type="heading"><subject>Heart Failure and Cardiomyopathies</subject></subj-group><subj-group subj-group-type="hwp-journal-coll"><subject>1506</subject></subj-group><series-title>Protocol</series-title></article-categories><title-group><article-title>Design and rationale of the inferior vena CAVA and Lung UltraSound-guided therapy in Acute Heart Failure (CAVAL US-AHF Study): a randomised controlled trial</article-title></title-group><contrib-group><contrib id="author-100320462" contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-3999-1265</contrib-id><name><surname>Burgos</surname><given-names>Lucrecia Maria</given-names></name><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib id="author-100323835" contrib-type="author"><name><surname>Baro Vila</surname><given-names>Rocio</given-names></name><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib id="author-100325280" contrib-type="author"><name><surname>Goyeneche</surname><given-names>Ailin</given-names></name><xref rid="aff2" ref-type="aff">2</xref></contrib><contrib id="author-100325315" contrib-type="author"><name><surname>Mu&#x000f1;oz</surname><given-names>Florencia</given-names></name><xref rid="aff2" ref-type="aff">2</xref></contrib><contrib id="author-100325344" contrib-type="author"><name><surname>Spaccavento</surname><given-names>Ana</given-names></name><xref rid="aff2" ref-type="aff">2</xref></contrib><contrib id="author-100325415" contrib-type="author"><name><surname>Fasan</surname><given-names>Martin Andres</given-names></name><xref rid="aff2" ref-type="aff">2</xref></contrib><contrib id="author-100325435" contrib-type="author"><name><surname>Ballari</surname><given-names>Franco</given-names></name><xref rid="aff2" ref-type="aff">2</xref></contrib><contrib id="author-100325472" contrib-type="author"><name><surname>Vivas</surname><given-names>Martin</given-names></name><xref rid="aff3" ref-type="aff">3</xref></contrib><contrib id="author-100325528" contrib-type="author"><name><surname>Riznyk</surname><given-names>Laura</given-names></name><xref rid="aff3" ref-type="aff">3</xref></contrib><contrib id="author-100325560" contrib-type="author"><name><surname>Ghibaudo</surname><given-names>Sebastian</given-names></name><xref rid="aff3" ref-type="aff">3</xref></contrib><contrib id="author-100325642" contrib-type="author"><name><surname>Trivi</surname><given-names>Marcelo</given-names></name><xref rid="aff2" ref-type="aff">2</xref></contrib><contrib id="author-100325662" contrib-type="author"><name><surname>Ronderos</surname><given-names>Ricardo</given-names></name><xref rid="aff3" ref-type="aff">3</xref></contrib><contrib id="author-90363495" contrib-type="author"><name><surname>Costabel</surname><given-names>Juan Pablo</given-names></name><xref rid="aff2" ref-type="aff">2</xref></contrib><contrib id="author-100325721" contrib-type="author"><name><surname>Botto</surname><given-names>Fernando</given-names></name><xref rid="aff4" ref-type="aff">4</xref></contrib><contrib id="author-100325733" contrib-type="author"><name><surname>Diez</surname><given-names>Mirta</given-names></name><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><collab>CAVAL US-AHF group</collab></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<institution content-type="department">Heart Failure, Pulmonary Hypertension and Heart Transplant</institution>, <institution>Instituto Cardiovascular de Buenos Aires</institution>, <addr-line content-type="city">Buenos Aires</addr-line>, <country>Argentina</country>
+</aff><aff id="aff2">
+<label>2</label>
+<institution content-type="department">Clinical Cardiology</institution>, <institution>Instituto Cardiovascular de Buenos Aires</institution>, <addr-line content-type="city">Buenos Aires</addr-line>, <country>Argentina</country>
+</aff><aff id="aff3">
+<label>3</label>
+<institution content-type="department">Cardiac Imaging Department</institution>, <institution>Instituto Cardiovascular de Buenos Aires</institution>, <addr-line content-type="city">Buenos Aires</addr-line>, <country>Argentina</country>
+</aff><aff id="aff4">
+<label>4</label>
+<institution content-type="department">Clinical Research</institution>, <institution>Instituto Cardiovascular de Buenos Aires</institution>, <addr-line content-type="city">Buenos Aires</addr-line>, <country>Argentina</country>
+</aff><author-notes><corresp>
+<label>Correspondence to</label> Lucrecia Maria Burgos; <email>lburgos@icba.com.ar</email>
+</corresp></author-notes><pub-date pub-type="collection"><year>2022</year></pub-date><pub-date pub-type="epub"><day>7</day><month>11</month><year>2022</year></pub-date><volume>9</volume><issue>2</issue><elocation-id>e002105</elocation-id><history><date date-type="received"><day>29</day><month>7</month><year>2022</year></date><date date-type="accepted"><day>05</day><month>10</month><year>2022</year></date></history><permissions><copyright-statement>&#x000a9; Author(s) (or their employer(s)) 2022. Re-use permitted under CC BY. Published by BMJ.</copyright-statement><copyright-year>2022</copyright-year><ali:free_to_read xmlns:ali="http://www.niso.org/schemas/ali/1.0/"/><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense" start_date="2022-11-07">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article distributed in accordance with the Creative Commons Attribution 4.0 Unported (CC BY 4.0) license, which permits others to copy, redistribute, remix, transform and build upon this work for any purpose, provided the original work is properly cited, a link to the licence is given, and indication of whether changes were made. See:&#x000a0;<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>.</license-p></license></permissions><self-uri xlink:title="pdf" xlink:href="openhrt-2022-002105.pdf"/><abstract><sec><title>Background</title><p>Between 25% and 30% of patients hospitalised for acute heart failure (AHF) are readmitted within 90 days after discharge, mostly due to persistent congestion on discharge. However, as the optimal evaluation of decongestion is not clearly defined, it is necessary to implement new tools to identify subclinical congestion to guide treatment.</p></sec><sec><title>Objective</title><p>To evaluate if inferior vena cava (IVC) and lung ultrasound (CAVAL US)-guided therapy for AHF patients reduces subclinical congestion at discharge.</p></sec><sec><title>Methods</title><p>CAVAL US-AHF is a single-centre, single-blind randomised controlled trial designed to evaluate if an IVC and lung ultrasound-guided healthcare strategy is superior to standard care to reduce subclinical congestion at discharge. Fifty-eight patients with AHF will be randomised using a block randomisation programme that will assign to either lung and IVC ultrasound-guided decongestion therapy (&#x02018;intervention group&#x02019;) or clinical-guided decongestion therapy (&#x02018;control group&#x02019;), using a quantitative protocol and will be classified in three groups according to the level of congestion observed: none or mild, moderate or severe. The treating physicians will know the result of the test and the subsequent adjustment of treatment in response to those findings guided by a customised therapeutic algorithm. The primary endpoint is the presence of more than five B-lines and/or an increase in the diameter of the IVC, with and without collapsibility. The secondary endpoints are the composite of readmission for HF, unplanned visit for worsening HF or death at 90 days, variation of pro-B-type natriuretic peptide at discharge, length of hospital stay and diuretic dose at 90 days. Analyses will be conducted as between-group by intention to treat.</p></sec><sec><title>Ethics and dissemination</title><p>Ethical approval was obtained from the Institutional Review Board and registered in the PRIISA.BA platform of the Ministry of Health of the City of Buenos Aires.</p></sec><sec><title>Trial registration number</title><p>
+<ext-link xlink:href="NCT04549701" ext-link-type="uri">NCT04549701</ext-link>.</p></sec></abstract><kwd-group><kwd>Diagnostic Imaging</kwd><kwd>Heart Failure</kwd><kwd>Heart Failure, Systolic</kwd><kwd>Heart Failure, Diastolic</kwd></kwd-group><funding-group specific-use="FundRef"><award-group id="funding-1"><funding-source>
+<institution-wrap><institution>Asociaci&#x000f3;n Medica Argentina</institution></institution-wrap>
+</funding-source></award-group><award-group id="funding-2"><funding-source>
+<institution-wrap><institution>Fundaci&#x000f3;n Fiorini</institution></institution-wrap>
+</funding-source></award-group><award-group id="funding-3"><funding-source>
+<institution-wrap><institution>Women As One</institution></institution-wrap>
+</funding-source><award-id>Research Award</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>special-feature</meta-name><meta-value>unlocked</meta-value></custom-meta></custom-meta-group></article-meta></front><body><boxed-text id="BWL4" position="float"><sec><title>WHAT IS ALREADY KNOWN ON THIS TOPIC</title><list list-type="bullet"><list-item><p>Remaining clinical congestion at discharge is a strong predictor of mortality and readmissions in patients hospitalised for acute heart failure (AHF). However, the optimal assessment of decongestion and how to guide treatment are not clearly defined.</p></list-item></list></sec><sec><title>WHAT THIS STUDY ADDS</title><list list-type="bullet"><list-item><p>The inferior vena CAVA and Lung UltraSound-guided therapy in Acute Heart Failure (CAVAL US-AHF) is a single-centre, single-blind randomised controlled trial. It will provide evidence on the usefulness of this innovative ultrasound protocol that evaluates both right-sided congestion through the evaluation of the inferior vena cava and left-sided congestion through lung ultrasound to guide pulmonary decongestion in patients hospitalised for AHF.</p></list-item></list></sec><sec><title>HOW THIS STUDY MIGHT AFFECT RESEARCH, PRACTICE OR POLICY</title><list list-type="bullet"><list-item><p>CAVAL US-AHF could provide evidence on the use of a simple, non-invasive technique to guide treatment during hospitalisation for AHF with the goal of achieving clinical and subclinical decongestion to potentially decrease the risk of events after discharge.</p></list-item></list></sec></boxed-text><sec sec-type="intro" id="s1"><title>Introduction</title><p>Despite the important therapeutic advances, the prevalence of heart failure (HF) is increasing<xref rid="R1" ref-type="bibr">1</xref> and is still a major healthcare issue due to its high morbidity and mortality.<xref rid="R2" ref-type="bibr">2</xref> Approximately 25%&#x02013;30% of patients hospitalised for acute HF (AHF) are readmitted within 90 days after discharge, and 50% within 6 months.<xref rid="R3" ref-type="bibr">3&#x02013;5</xref> The post-discharge period, known as the &#x02018;vulnerable phase&#x02019;,<xref rid="R6" ref-type="bibr">6</xref> is associated with high risk of unfavourable outcomes.<xref rid="R7" ref-type="bibr">7 8</xref> Readmission of these patients does not only increase costs but is also a signal that current approaches to HF management are not optimal. In fact, the greatest threat to patients with AHF is the risk of readmission due to persistent congestion.<xref rid="R9" ref-type="bibr">9&#x02013;11</xref>
+</p><p>Remaining clinical congestion at discharge is a strong predictor of mortality risk<xref rid="R12" ref-type="bibr">12 13</xref>; therefore, its assessment prior to hospital discharge remains a crucial opportunity to treat patients who have not yet reached the optimal euvolemia. However, the optimal evaluation of decongestion in AHF is not clearly defined in the guidelines,<xref rid="R14" ref-type="bibr">14 15</xref> which may be partly explained by the lack of effective measurement methods.<xref rid="R10" ref-type="bibr">10 16</xref> Monitoring patient fluid status is a dynamic and challenging process with a broad spectrum of clinical presentations and parameters to consider. Physicians are faced with the daily task of making critical decisions with a handful of tools and a significant gap in evidence as above mentioned.<xref rid="R17" ref-type="bibr">17</xref>
+</p><p>Evaluation and monitoring of fluid excess status in patients admitted for acute decompensated HF are currently based on clinical history, physical examination, chest X-ray and natriuretic peptides.<xref rid="R10" ref-type="bibr">10</xref> However, all these elements have an inherent substantial interobserver variability and may be non-specific,<xref rid="R18" ref-type="bibr">18 19</xref> and plasma levels of biomarkers have a limited capacity to assess quantitatively the extent of fluid retention.<xref rid="R20" ref-type="bibr">20</xref>
+</p><p>Lung ultrasound (LUS) has been introduced in the evaluation of pulmonary congestion.<xref rid="R21" ref-type="bibr">21</xref> The number of B-lines is a reliable marker of the presence of extravascular lung water and has allowed the identification of patients with HF with worse prognosis. Several publications have demonstrated the usefulness of B-lines in the outpatient follow-up of patients with chronic HF to reduce the number of hospitalisation rates due to AHF.<xref rid="R22" ref-type="bibr">22&#x02013;24</xref> In patients hospitalised for AHF, residual pulmonary congestion assessed by LUS was a strong predictor of short-term mortality and rehospitalisation.<xref rid="R25" ref-type="bibr">25&#x02013;28</xref> Recently, a study analysed the prognostic capacity of the presence of B-lines in patients in whom their treating physicians considered them properly lung decongested. Up to 40% of patients, considered decongested according to pulmonary auscultation, present subclinical congestion at hospital discharge which implies a worse prognosis at 6-month follow-up.<xref rid="R28" ref-type="bibr">28</xref> This congestion can be detected by LUS.</p><p>Measurement of the inferior vena cava (IVC) diameter by ultrasound is a simple method to estimate right atrial pressure and is associated with changes in pulmonary capillary pressure.<xref rid="R29" ref-type="bibr">29</xref> Increased diameter and collapsibility of the IVC in the outpatient setting predict a higher risk of hospitalisation and mortality due to AHF.<xref rid="R30" ref-type="bibr">30 31</xref> In patients hospitalised for AHF, therapy guided by IVC diameter is associated with a reduction in 30-day readmission<xref rid="R32" ref-type="bibr">32</xref> and mortality rates.<xref rid="R33" ref-type="bibr">33</xref>
+</p><p>In a small recent pilot study, a protocol combining focused echocardiographic evaluation of cardiac filling pressures, and IVC index with LUS resulted safe and reliable for guiding treatment in hospitalised patients with AHF.<xref rid="R34" ref-type="bibr">34</xref>
+</p><p>To date, no randomised trials have investigated the usefulness of the evaluation of right-sided congestion through the IVC and left-sided congestion through LUS to guide therapy in hospitalised patients with AHF, with the aim of improving the decongestion at discharge.</p><p>Inferior vena CAVA and Lung UltraSound-guided therapy for the reduction of clinical events in Acute Heart Failure (CAVAL US-AHF) pilot trial has been designed to evaluate if IVC and LUS-guided therapy is superior to standard care to reduce subclinical congestion at discharge, and secondarily, to explore whether it reduces clinical events at 90 days. This report describes the rationale and study design of this trial.</p></sec><sec sec-type="methods" id="s2"><title>Methods</title><p>We designed a single-centre, single-blinded, randomised controlled clinical trial (NCT04549701). The flow diagram of the trial is shown in <xref rid="F1" ref-type="fig">figure 1</xref>.</p><fig position="float" id="F1"><label>Figure 1</label><caption><p>Trial diagram. AHF, acute HF; CAVAL US, inferior vena cava and lung ultrasound; HF, heart failure.</p></caption><graphic xlink:href="openhrt-2022-002105f01" position="float"/></fig><sec id="s2-1"><title>Participants and eligibility</title><p>Patients admitted with AHF in a private cardiovascular centre in Buenos Aires, Argentina. Eligibility criteria for participants are described in <xref rid="B1" ref-type="boxed-text">box 1</xref>.</p><boxed-text id="B1" position="float"><label>Box 1</label><caption><title>Eligibility criteria</title></caption><sec><title>Inclusion criteria (all of them)</title><list list-type="bullet"><list-item><p>Hospitalisation of 24 hours or more for decompensated heart failure (HF) defined as new onset of symptoms or worsening of previous symptoms (including orthopnoea, progression to functional class New York Heart Association III&#x02013;IV, bendopnoea or fatigue) or signs of volume overload.</p></list-item></list><list list-type="bullet"><list-item><p>Jugular venous distension, hepatojugular reflux, lower extremity oedema or signs of pulmonary congestion.</p></list-item><list-item><p>Chest X-ray with signs suggestive of pulmonary congestion.</p></list-item></list><list list-type="bullet"><list-item><p>Elevated pro-B-type natriuretic peptide levels of 450 pg/mL, 900 pg/mL and 1800 pg/mL&#x02009;for ages &#x0003c;50 years, 50&#x02013;75 years and &#x0003e;75 years, respectively, within 24 hours of admission.<xref rid="R53" ref-type="bibr">53</xref>
+<xref rid="R54" ref-type="bibr">54</xref>
+</p></list-item></list><list list-type="bullet"><list-item><p>Sufficient ultrasound visualisation to assess inferior vena cava and lungs.</p></list-item></list></sec><sec><title>Exclusion criteria (any of them)</title><list list-type="bullet"><list-item><p>Not willing to participate.</p></list-item><list-item><p>Life expectancy of less than 6 months.</p></list-item><list-item><p>Uninterpretable lung or inferior vena cava ultrasound.</p></list-item><list-item><p>Transfer to another hospital before hospital discharge.</p></list-item><list-item><p>Systolic blood pressure &#x0003c;90&#x02009;mm Hg.</p></list-item><list-item><p>Chronic kidney disease (creatinine clearance &#x0003c;30&#x02009;mL/min calculated with the Modification of Diet in Renal Disease (MDRD) study equation or haemodialysis).</p></list-item><list-item><p>Requirement for invasive or non-invasive ventilator support.</p></list-item><list-item><p>Pregnancy.</p></list-item><list-item><p>Low cardiac output syndrome/cardiogenic shock.</p></list-item><list-item><p>Death during index hospitalisation.</p></list-item><list-item><p>Acute coronary syndrome, myocardial revascularisation or heart valve replacement within the previous 3 months.</p></list-item><list-item><p>Being on heart transplant waiting list.</p></list-item><list-item><p>Cardiac resynchronisation therapy device implanted within the previous 3 months.</p></list-item><list-item><p>Severe tricuspid valve regurgitation.</p></list-item><list-item><p>HF secondary to causes amenable to invasive correction: cardiac surgery, percutaneous interventions or pacemaker implantation.</p></list-item><list-item><p>HF secondary to significant arrhythmias (advanced atrioventricular block or sinus arrest, sustained ventricular tachycardia or any sustained arrhythmia other than atrial fibrillation causing haemodynamic instability according to the discretion of the treating physician).</p></list-item><list-item><p>HF secondary to severe systemic infection.</p></list-item><list-item><p>Severe psychiatric illness.</p></list-item><list-item><p>Palliative care.</p></list-item><list-item><p>SARS-CoV-2 infection.</p></list-item></list></sec></boxed-text></sec><sec id="s2-2"><title>Randomisation</title><p>Patients will be randomised using a block randomisation programme that will assign to either lung and IVC ultrasound-guided decongestion therapy (&#x02018;intervention group&#x02019;) or clinical-guided decongestion therapy (&#x02018;control group&#x02019;). Randomisation will be stratified by age (&#x0003c;70&#x02009;or &#x0003e;70 years) and by left ventricular function (&#x0003c;50%&#x02009;or &#x0003e;50%). Randomisation will be performed within 24&#x02009;hours after hospital admission using the REDCap randomisation module with a 1:1 allocation scheme.</p></sec><sec id="s2-3"><title>Study intervention</title><p>Our hospital practice is based on clinical guidelines,<xref rid="R15" ref-type="bibr">15</xref> and all the patients admitted for HF will be evaluated and treated by the same medical team, composed of physicians specialised in cardiovascular diseases.</p><p>The diuretic treatment algorithms proposed by the Heart Failure Association of the European Society of Cardiology<xref rid="R35" ref-type="bibr">35</xref> and the American College of Cardiology<xref rid="R36" ref-type="bibr">36</xref> were adapted, and the CAVAL US protocol was added as part of the daily assessment of congestion (<xref rid="F2" ref-type="fig">figure 2</xref>).</p><fig position="float" id="F2"><label>Figure 2</label><caption><p>Therapeutic algorithm. Adapted from: Mullens <italic toggle="yes">et al</italic>
+<xref rid="R35" ref-type="bibr">35</xref> and Hollenberg <italic toggle="yes">et al</italic>.<xref rid="R36" ref-type="bibr">36</xref> BP, blood pressure; CAVAL US, inferior vena cava and lung ultrasound; IV, intravenous; LCOS, low cardiac output syndrome; UO, urinary output.</p></caption><graphic xlink:href="openhrt-2022-002105f02" position="float"/></fig><p>All the patients will undergo lung and IVC ultrasound, independently of the group assigned during randomisation. Furthermore, an echocardiogram will be performed within 48 hours from admission according to the recommendations,<xref rid="R15" ref-type="bibr">15</xref> as part of our standard of care.</p><p>A checklist will be made prior to hospital discharge to assess compliance with guideline-based treatment, vaccination, counselling and medical appointment after discharge. All patients will receive education by an HF nurse, who will provide educational material and drug treatment indications in a written grid.</p><p>Patients will be randomised into two arms and will be blinded to the assigned arm:</p><list list-type="order"><list-item><p>Control group: the treating medical team will be blinded to the lung and IVC ultrasound results. Patients will receive the standard of care of our centre and titration of diuretics will be based on standard practices (physical examination, symptoms and results of laboratory tests). The therapeutic goal (see <xref rid="F2" ref-type="fig">figure 2</xref>) will be to discharge patients with relief of signs and symptoms of congestive HF, without ECG changes or abnormal laboratory findings that contraindicate hospital discharge. Circulating biomarkers of congestion are not part of the standard of care.</p></list-item><list-item><p>Intervention group: the treating medical team will be unblinded to the lung and IVC ultrasound results. Patients will receive treatment for decongestion according to the results of the intervention plus the standard care (<xref rid="F2" ref-type="fig">figure 2</xref>). The therapeutic objectives will be similar to the control group, with relief of the signs and symptoms of HF and additionally without congestion or mild residual congestion in the ultrasound test. At the discretion of the treating physician, the patient may be discharged when he or she shows mild to moderate signs of congestion in improvement with oral diuretics for more than 24 hours with adequate diuretic response.</p></list-item></list><p>Both groups will be scheduled to follow-up visits in our ambulatory clinic 7&#x02013;10 days after discharge, and at least once per month.</p></sec><sec id="s2-4"><title>Lung and IVC ultrasound protocol</title><p>All the patients will undergo lung and IVC ultrasound using a Philips Lumify hand-held ultrasound device. The ultrasound will be performed by physicians specialised in lung and cardiovascular ultrasound and will be quantified off-line in an echocardiography laboratory made up of three independent physicians who will be blinded to the study group, patient information and interpretation of the other expert reviewer.</p><p>The results of the ultrasound will be reported in three categories (<xref rid="F3" ref-type="fig">figure 3</xref>):</p><p>Group A&#x02014;no congestion or mild residual congestion.</p><p>Group B&#x02014;signs of right-sided or left-sided congestion or both.</p><p>Group C&#x02014;severe signs of right-sided or left-sided congestion and worse prognosis.<xref rid="R2" ref-type="bibr">2 25 32 33 37</xref> The cut-off value of &#x02265;5 B-lines was chosen as sign of persistent congestion, since it was found to be a risk factor for the occurrence of the primary endpoint of rehospitalisation, unexpected visit for worsening HF or death at 6-month follow-up.<xref rid="R28" ref-type="bibr">28</xref> The presence of &#x0003e;30 B-lines is considered severe congestion as it proved to be a strong predictor of hospitalisation for HF or mortality at 90 days (HR 5.66, 95%&#x02009;CI 1.74 to 18.39).<xref rid="R25" ref-type="bibr">25</xref>
+</p><fig position="float" id="F3"><label>Figure 3</label><caption><p>CAVAL US groups. IVC, inferior vena cava; LUS, lung ultrasound.</p></caption><graphic xlink:href="openhrt-2022-002105f03" position="float"/></fig></sec><sec id="s2-5"><title>Technique and quantification</title><p>IVC assessment: the IVC is assessed as recommended in the current echocardiography guidelines. Cardiac transducer of 3&#x02013;7 MHz, in the cardiac preset, depth of 10&#x02009;cm. The patient is kept in a supine position with the least elevation of the upper body possible (&#x0003c;20&#x000b0;) The IVC is scanned in its long axis from the subcostal view. The measurement of the IVC diameter is performed just proximal (1.5&#x02009;cm) to the entrance of the hepatic veins at end expiration (IVCmax) and at inspiration (IVCmin). The IVC collapsibility index is derived from these parameters as percentage collapse of the maximal IVC diameter as follows: (IVCmax&#x02212;IVCmin)/IVCmax&#x000d7;100. An IVC diameter &#x0003c;21&#x02009;cm with collapsibility &#x0003e;50% is normal, while IVC is dilated when its diameter is &#x0003e;21&#x02009;mm and collapsibility &#x0003c;50%.<xref rid="R38" ref-type="bibr">38</xref>
+</p><p>LUS: the procedure will be performed using a portable ultrasound device. The eight-zone method will be used to evaluate eight chest zones (four zones in each hemithorax) according to international recommendations.<xref rid="R39" ref-type="bibr">39</xref> Dividing lines include the sternum medially, the anterior axillary line dividing medial and lateral zones, and the posterior axillary line laterally. The third intercostal space divides the superior and inferior zones.</p><p>The probe will be positioned perpendicular to the ribs, with a scanning depth of 16&#x02009;cm and the patient in semirecumbent position. Gain will be adjusted to each patient so that the shadows of the ribs are black and the pleural line with lung sliding is seen clearly. A 6-second video clip of each zone will be recorded. B-lines are defined as comet-tail, vertical artefacts arising from the pleural line, moving in synchrony with lung sliding (when present), well defined and laser like, extending to the bottom of the screen without fading. The highest number of B-lines (vertical lines arising from the pleural line) visualised in a single intercostal space will be recorded for each zone. The white lung pattern is counted as 10 B-lines, and fused B-lines are counted as the percentage of the rib space filled with confluent B-lines divided by 10 and added to any other B-lines noted in the space at that instant.<xref rid="R39" ref-type="bibr">39</xref> A positive region is defined by the presence of three or more B-lines in a longitudinal plane between two ribs.<xref rid="R21" ref-type="bibr">21</xref> The presence of pleural effusion will also be evaluated, and its size will be categorised offline on 6-second clips using a semiquantitative score called pleural effusion (PEF) score, ranging from 0 to 4 points for each hemithorax (<xref rid="B2" ref-type="boxed-text">box 2</xref>) with a total score ranging from 0 to 8. Significant pleural effusion will be defined as a PEF score of 5&#x02013;8 and non-significant pleural effusion when PEF score is less than 5.<xref rid="R40" ref-type="bibr">40</xref>
+</p><boxed-text id="B2" position="float"><label>Box 2</label><caption><title>Definition of the pleural effusion (PEF) score for each hemithorax.<xref rid="R40" ref-type="bibr">40</xref>
+</title></caption><list list-type="bullet"><list-item><p>4&#x02014;pleural effusion occupies more than 50% of the basal pleural cavity visible in the standardised imaging plane.</p></list-item><list-item><p>3&#x02014;clear separation between diaphragm and lung base at any point during the respiratory cycle.</p></list-item><list-item><p>2&#x02014;pleural effusion extends over the costophrenic angle without a clear separation of the lung base from the diaphragm.</p></list-item><list-item><p>1&#x02014;pleural effusion is only visible in the costophrenic angle.</p></list-item><list-item><p>0&#x02014;pleural effusion is not visible.</p></list-item></list><fn-group><fn id="B2_FN1"><p>The box has been reproduced with permission from Lindner <italic toggle="yes">et al</italic>.<xref rid="R40" ref-type="bibr">40</xref>
+</p></fn></fn-group></boxed-text><p>Before the trial began, cardiologists and ultrasound specialists attended a workshop for specific technical training to standardise the way the examination is conducted, interpreted and reported. The workshop lasted 24 hours (18 hours of theory and 6&#x02009;hours of practice).</p></sec><sec id="s2-6"><title>Study endpoints and follow-up</title><p>The primary endpoint is the presence of subclinical congestion at discharge, defined as the presence of more than five B-lines and/or an increase in the diameter of the IVC, with and without collapsibility.</p><p>The secondary endpoint is the composite of readmission for HF, unplanned visit for worsening HF or death at 90 days. Additionally, we will assess other secondary endpoints such as the variation of pro-B-type natriuretic peptide at discharge, length of hospital stay, total number of HF hospital admissions and diuretic dose at 90 days (<xref rid="B3" ref-type="boxed-text">box 3</xref>). AHF hospitalisation was defined as unscheduled urgent hospital visit and hospital stay &#x0003e;24&#x02009;hours, requiring intravenous HF therapies (diuretics, vasodilators, inotropes). Urgent AHF visits were defined as unscheduled visit to the emergency department resulting in increased dose of oral/intravenous therapy, stay &#x0003c;24&#x02009;hours.</p><boxed-text id="B3" position="float"><label>Box 3</label><caption><title>Secondary endpoints</title></caption><list list-type="bullet"><list-item><p>Composite outcome: readmission for heart failure (HF), unplanned visit for worsening HF or death at 90 days.</p></list-item><list-item><p>All-cause mortality at 90 days.</p></list-item><list-item><p>Duration of index hospital stay.</p></list-item><list-item><p>Reduced total readmissions (first and recurrent) for HF at 90 days.</p></list-item><list-item><p>Increased requirement for diuretics: patients who required a higher dose of furosemide compared with the dose indicated on hospital discharge.</p></list-item><list-item><p>Pro-B-type natriuretic peptide (NT-proBNP) at discharge.</p></list-item><list-item><p>% change of NT-proBNP (admission&#x02013;discharge).</p></list-item></list></boxed-text><p>The safety endpoints during the index hospitalisation include:</p><list list-type="bullet"><list-item><p>Hypotension (systolic blood pressure &#x0003c;90&#x02009;mm Hg).</p></list-item><list-item><p>Requirement of vasoactive drugs (inotropic/pressor agents).</p></list-item><list-item><p>Worsening renal function leading to a creatinine increase of &#x02265;50%&#x02009;or &#x0003e;0.3&#x02009;mg/dL on any of the blood tests performed during the index hospitalisation.</p></list-item><list-item><p>Hypokalaemia &#x0003c;3.5&#x02009;mmol/L or hyperkalaemia &#x0003e;5&#x02009;mmol/L.</p></list-item></list><p>At 90 days after randomisation, two independent physicians, blinded to the assigned group, will adjudicate events by telephone contact. In case of disagreement, a third independent physician will evaluate the case.</p></sec><sec id="s2-7"><title>Subgroup analysis</title><p>The primary endpoint of subclinical congestion at discharge will be evaluated by baseline left ventricular ejection fraction (&#x0003c;50%&#x02009;and &#x0003e;50%&#x02009;or greater), sex, comorbidities, cardiomyopathy aetiology, and age &#x0003e;70 years or &#x0003c;70 years.</p></sec><sec id="s2-8"><title>Allocation concealment and masking procedures</title><p>Lung and IVC ultrasound will be performed to all the patients, and patients will be blinded to the group assigned. The treating medical team will be blind to the results of the ultrasound of the control group. The independent clinicians adjudicating 90-day events will not participate in patient follow-up and will be blind to the assigned group.</p></sec><sec id="s2-9"><title>Statistical analysis plan</title><p>According to our preliminary pilot data derived from a sample of 20 patients during the new ultrasound tool proof trial, 70% had &#x0003e;5 B-lines and/or dilated IVC at discharge with the usual care strategy at our hospital. Therefore, to reach a relative risk reduction of 50% (ie, 70% in usual care and 35% in the CAVAL US-guided strategy), setting a power of 80% and a two-sided type I error rate of 5%, we will need 29 patients in each arm to accomplish our hypothesis.</p><p>Analysis will be performed by intention to treat. Continuous variables will be expressed as mean and SD, or median and IQR, according to their distribution. Normality of distribution of variables will be assessed using the Kolmogorov-Smirnov test or the Shapiro-Wilk test, according to the sample size. Continuous variables will be compared using the Student&#x02019;s t-test or the Mann-Whitney U test, as applicable. Categorical variables will be presented as numbers and percentages. The &#x003a7;<sup>2</sup> test or Fisher&#x02019;s exact test will be used to compare proportions. No imputation will be made for missing data.</p><p>The Kaplan-Meier method will be used to analyse time-to-first event data. The differences in time-to-event distributions will be evaluated using the log-rank test. Univariate HRs with associated 95% CIs will be estimated for the composite primary endpoint and secondary endpoints and derived from the Cox proportional-hazards model; however, multivariate Cox regression analysis will only be used if there are important prognostic factors or patients&#x02019; baseline characteristics exhibiting significant imbalance between the two groups established by randomisation. In all cases, the alpha error will be set at 5% to establish statistical significance. All the statistical calculations will be performed using SPSS V.24 software package.</p></sec><sec id="s2-10"><title>Confidentiality</title><p>The investigators and the Institutional Review Board of Instituto Cardiovascular de Buenos Aires will implement measures to protect the confidentiality of all the information according to the Argentine personal data protection law 25.326. These records will be kept confidential. The participants will only be identified by using numbers or letters as identification code. The identity of the participants will not be revealed if the results of the study are published.</p></sec></sec><sec sec-type="discussion" id="s3"><title>Discussion</title><p>Residual congestion at hospital discharge is one of the major factors contributing to readmission for HF,<xref rid="R13" ref-type="bibr">13 41</xref> even in patients without clinical signs of congestion,<xref rid="R42" ref-type="bibr">42</xref> possibly due to the persistence of subclinical overload.</p><p>Since the advent of LUS, we have gained a broader notion of the sequence of events leading to pulmonary oedema starting with increase in left ventricle end-diastolic pressure that translates into an increased pulmonary capillary wedge pressure. This phenomenon is called haemodynamic congestion and is the initial cause to break the Starling&#x02019;s equilibrium in the alveolar&#x02013;capillary barrier, resulting in lung fluid overload.<xref rid="R43" ref-type="bibr">43</xref> The intermediate event between haemodynamic and clinical pulmonary congestion is subclinical pulmonary congestion, detectable by LUS as multiple B-lines.<xref rid="R44" ref-type="bibr">44</xref> Clinical congestion becomes evident hours, days or weeks later.</p><p>Detection, dynamic monitoring, and management of clinical and subclinical congestion could help improve prognosis, especially during the vulnerable period following hospitalisation for AHF. The assessment of pulmonary congestion by LUS and of systemic congestion in the IVC with a standardised quantitative approach could represent a valuable and novel tool to guide the management of these patients.</p><p>Among the limitations of our proposed study, the fact that it will be performed in a high-complexity single centre dedicated to cardiovascular diseases could hamper the generalisation of the results. Nevertheless, the broad inclusion criteria established and the simplicity of the CAVAL US protocol indicate that this ultrasound-guided treatment strategy could be applied in centres of less complexity. Second, the treating physicians responsible for treatment decisions are experienced cardiologists working in a multidisciplinary programme composed by a specialised nurse. This could reduce the number of events in both groups, reducing not only the power of the trial, but also the potential benefits of ultrasound-guided therapy by improving the evaluation in the control group due to the high expertise of the professionals. Nevertheless, we have proposed an algorithm for standardised care that will allow reproducibility of treatment in other centres.</p><p>The therapeutic algorithm was adapted from the two most recent consensus statements published by the Heart Failure Association of the European Society of Cardiology<xref rid="R35" ref-type="bibr">35</xref> and the American College of Cardiology,<xref rid="R36" ref-type="bibr">36</xref> which have not been yet validated but were based on experts&#x02019; opinion. Further, in the suggested daily evaluation of congestion, in the CAVAL US-guided therapy arm, the clinical assessment is complemented by ultrasound findings to detect subclinical abnormalities.</p><p>The treating medical team will be blinded to the results of the ultrasound of the control group and the patients will be blinded to the arm assigned as a consequence of the nature of the study. Furthermore, while there is no way to blind the patient&#x02019;s clinical status to the team performing the ultrasound examinations, all the ultrasounds will be interpreted and reported by a Core Lab, made up of two expert sonographers, blinded to the clinical characteristics of the patient.</p><p>The evaluation of congestion is extremely difficult, especially when a binary definition, such as present or absent, is required. Clinical scores combining several clinical indicators have proven to better assess the level of congestion than any independent indicator.<xref rid="R44" ref-type="bibr">44</xref> Recognising that there are many indicators of pulmonary congestion, we focused on a comprehensive assessment of clinical congestion by means of the EVEREST risk score.<xref rid="R45" ref-type="bibr">45</xref>
+</p><p>Lung and IVC ultrasound are simple techniques; one morning hands-on experience or even a standardised internet-based module of 2 hours is sufficient to achieve excellent reproducibility in identification and quantification of B-lines, even among LUS-naive sonographers.<xref rid="R46" ref-type="bibr">46</xref> The operators will attend a theory course and two workshops to practise the technique, standardise the way the examination is conducted and improve correlation between those who interpret the images.</p><p>To date, neither the international evidence-based recommendations nor the expert consensus document for quantification of pulmonary congestion by LUS in HF has recommended how to quantify B-lines in each intercostal space.<xref rid="R39" ref-type="bibr">39 46</xref> Therefore, the method of counting B-lines noted in the intercostal space at any instant was chosen, since it is technically simpler to perform and more reliable than the other methods previously reported.<xref rid="R47" ref-type="bibr">47</xref> In addition, and opposed to previous publications,<xref rid="R22" ref-type="bibr">22 24</xref> longer LUS clips will be recorded in each lung zone since the number of B-lines that can be detected with longer clips in patients with HF is greater.<xref rid="R48" ref-type="bibr">48 49</xref>
+</p><p>It is worth mentioning that several approaches have been proposed to estimate the volume and severity of pleural effusion.<xref rid="R50" ref-type="bibr">50&#x02013;52</xref> However, their value in patients with AHF may be limited. This is because some of these techniques require several measurements that are time-consuming, while others can only be applied for moderate to large effusions, as they were primarily developed to predict safety of thoracentesis. A semiquantitative score for pleural effusion in patients with AHF has been recently suggested.<xref rid="R40" ref-type="bibr">40</xref>
+</p><p>Finally, lung and IVC ultrasound is a simple, non-invasive technique that does not require the use of Doppler or complex methods of quantification, is inexpensive and can be performed with a hand-held device that can be easily sanitised. This is an extremely important aspect considering that the trial will be conducted during the COVID-19 pandemic.</p></sec><sec sec-type="conclusions" id="s4"><title>Conclusion</title><p>The CAVAL US-AHF clinical trial will provide evidence on the usefulness of this innovative ultrasound protocol that evaluates both right-sided congestion through the evaluation of the IVC and left-sided congestion through LUS to guide pulmonary decongestion in patients hospitalised for AHF.</p></sec></body><back><fn-group><fn fn-type="other"><p><bold>Twitter:</bold> @lucreciamburgos</p></fn><fn fn-type="other"><p><bold>Contributors:</bold> LMB conceived the study idea, led the funding application and protocol development and takes overall responsibility for all aspects of the study as the chief investigator. LMB, RBV and MD contributed substantially to the conception and design of this project. MT, RR and JPC provided expert cardiovascular advice. AG, AS and MAF contributed to refining the data collection tools. RR, MV, LR and SG developed imaging protocols. FB, JPC and LMB contributed to designing the statistical framework. LMB, RBV, FB and MD refined the manuscript. All authors contributed to final refining and approval of the manuscript.</p></fn><fn fn-type="other"><p><bold>Funding:</bold> This work is supported by Women As One Research Award, Fundaci&#x000f3;n Fiorini and Asociaci&#x000f3;n Medica Argentina grant.</p></fn><fn fn-type="COI-statement"><p><bold>Competing interests:</bold> None declared.</p></fn><fn fn-type="other"><p><bold>Provenance and peer review:</bold> Not commissioned; externally peer reviewed.</p></fn></fn-group><sec sec-type="data-availability"><title>Data availability statement</title><p>Data are available upon reasonable request.</p></sec><sec sec-type="ethics-statement"><title>Ethics statements</title><sec><title>Patient consent for publication</title><p content-type="ethics-consent-to-publish">Not required.</p></sec><sec><title>Ethics approval</title><p content-type="ethics-approval">This study was evaluated by the Institutional Review Board and registered in the PRIISA.BA platform of the Ministry of Health of the City of Buenos Aires and is conducted following national and international ethical standards for research on human subjects as the Declaration of Helsinki revised in 2013, National Ministry of Health resolution 1480/20011, law 3301 of the city of Buenos Aires, if applicable, and ANMAT regulation 6677/10 and amendments 4008 and 4009. The patients will sign an informed consent form after receiving explanation about the study.</p></sec></sec><ref-list><title>References</title><ref id="R1"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>van Riet</surname>
+<given-names>EES</given-names>
+</string-name>, <string-name>
+<surname>Hoes</surname>
+<given-names>AW</given-names>
+</string-name>, <string-name>
+<surname>Wagenaar</surname>
+<given-names>KP</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Epidemiology of heart failure: the prevalence of heart failure and ventricular dysfunction in older adults over time. A systematic review</article-title>. <source>Eur J Heart Fail</source>
+<year>2016</year>;<volume>18</volume>:<fpage>242</fpage>&#x02013;<lpage>52</lpage>. <pub-id pub-id-type="doi">10.1002/ejhf.483</pub-id>
+<pub-id pub-id-type="pmid">26727047</pub-id></mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Savarese</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Lund</surname>
+<given-names>LH</given-names>
+</string-name>
+</person-group>. <article-title>Global public health burden of heart failure</article-title>. <source>Card Fail Rev</source>
+<year>2017</year>;<volume>3</volume>:<fpage>7</fpage>&#x02013;<lpage>11</lpage>. <pub-id pub-id-type="doi">10.15420/cfr.2016:25:2</pub-id>
+<pub-id pub-id-type="pmid">28785469</pub-id></mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>McMurray</surname>
+<given-names>JJV</given-names>
+</string-name>, <string-name>
+<surname>Adamopoulos</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Anker</surname>
+<given-names>SD</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Esc guidelines for the diagnosis and treatment of acute and chronic heart failure 2012: the task force for the diagnosis and treatment of acute and chronic heart failure 2012 of the European Society of cardiology. developed in collaboration with the heart failure association (HFA) of the ESC</article-title>. <source>Eur Heart J</source>
+<year>2012</year>;<volume>33</volume>:<fpage>1787</fpage>&#x02013;<lpage>847</lpage>. <pub-id pub-id-type="doi">10.1093/eurheartj/ehs104</pub-id>
+<pub-id pub-id-type="pmid">22611136</pub-id></mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Gheorghiade</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Vaduganathan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Fonarow</surname>
+<given-names>GC</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Rehospitalization for heart failure: problems and perspectives</article-title>. <source>J Am Coll Cardiol</source>
+<year>2013</year>;<volume>61</volume>:<fpage>391</fpage>&#x02013;<lpage>403</lpage>. <pub-id pub-id-type="doi">10.1016/j.jacc.2012.09.038</pub-id>
+<pub-id pub-id-type="pmid">23219302</pub-id></mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Berkowitz</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Blank</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Powell</surname>
+<given-names>SK</given-names>
+</string-name>
+</person-group>. <article-title>Strategies to reduce hospitalization in the management of heart failure</article-title>. <source>Lippincotts Case Manag</source>
+<year>2005</year>;<volume>10</volume>:<fpage>S1???S15</fpage>&#x02013;<lpage>17</lpage>. <pub-id pub-id-type="doi">10.1097/00129234-200511001-00001</pub-id>
+<pub-id pub-id-type="pmid">16314728</pub-id></mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Gracia</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Collins</surname>
+<given-names>S</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>The vulnerable phase of heart failure</article-title>. <source>Am J Ther</source>
+<year>2018</year>;<volume>25</volume>:<fpage>e456</fpage>&#x02013;<lpage>64</lpage>. <pub-id pub-id-type="doi">10.1097/MJT.0000000000000794</pub-id>
+<pub-id pub-id-type="pmid">29985824</pub-id></mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Metra</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gheorghiade</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bonow</surname>
+<given-names>RO</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Postdischarge assessment after a heart failure hospitalization: the next step forward</article-title>. <source>Circulation</source>
+<year>2010</year>;<volume>122</volume>:<fpage>1782</fpage>&#x02013;<lpage>5</lpage>. <pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.110.982207</pub-id>
+<pub-id pub-id-type="pmid">20956215</pub-id></mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Chun</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tu</surname>
+<given-names>JV</given-names>
+</string-name>, <string-name>
+<surname>Wijeysundera</surname>
+<given-names>HC</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Lifetime analysis of hospitalizations and survival of patients newly admitted with heart failure</article-title>. <source>Circ Heart Fail</source>
+<year>2012</year>;<volume>5</volume>:<fpage>414</fpage>&#x02013;<lpage>21</lpage>. <pub-id pub-id-type="doi">10.1161/CIRCHEARTFAILURE.111.964791</pub-id>
+<pub-id pub-id-type="pmid">22556322</pub-id></mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>O'Connor</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Stough</surname>
+<given-names>WG</given-names>
+</string-name>, <string-name>
+<surname>Gallup</surname>
+<given-names>DS</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Demographics, clinical characteristics, and outcomes of patients hospitalized for decompensated heart failure: observations from the IMPACT-HF registry</article-title>. <source>J Card Fail</source>
+<year>2005</year>;<volume>11</volume>:<fpage>200</fpage>&#x02013;<lpage>5</lpage>. <pub-id pub-id-type="doi">10.1016/j.cardfail.2004.08.160</pub-id>
+<pub-id pub-id-type="pmid">15812748</pub-id></mixed-citation></ref><ref id="R10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Gheorghiade</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Follath</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Ponikowski</surname>
+<given-names>P</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Assessing and grading congestion in acute heart failure: a scientific statement from the acute heart failure Committee of the heart failure association of the European Society of cardiology and endorsed by the European Society of intensive care medicine</article-title>. <source>Eur J Heart Fail</source>
+<year>2010</year>;<volume>12</volume>:<fpage>423</fpage>&#x02013;<lpage>33</lpage>. <pub-id pub-id-type="doi">10.1093/eurjhf/hfq045</pub-id>
+<pub-id pub-id-type="pmid">20354029</pub-id></mixed-citation></ref><ref id="R11"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Adams</surname>
+<given-names>KF</given-names>
+</string-name>, <string-name>
+<surname>Fonarow</surname>
+<given-names>GC</given-names>
+</string-name>, <string-name>
+<surname>Emerman</surname>
+<given-names>CL</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Characteristics and outcomes of patients hospitalized for heart failure in the United States: rationale, design, and preliminary observations from the first 100,000 cases in the acute decompensated heart failure national registry (adhere)</article-title>. <source>Am Heart J</source>
+<year>2005</year>;<volume>149</volume>:<fpage>209</fpage>&#x02013;<lpage>16</lpage>. <pub-id pub-id-type="doi">10.1016/j.ahj.2004.08.005</pub-id>
+<pub-id pub-id-type="pmid">15846257</pub-id></mixed-citation></ref><ref id="R12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Chioncel</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Mebazaa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Maggioni</surname>
+<given-names>AP</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Acute heart failure congestion and perfusion status&#x000a0;-&#x000a0;impact of the clinical classification on in-hospital and long-term outcomes; insights from the ESC-EORP-HFA Heart Failure Long-Term Registry</article-title>. <source>Eur J Heart Fail</source>
+<year>2019</year>;<volume>21</volume>:<fpage>1338</fpage>&#x02013;<lpage>52</lpage>. <pub-id pub-id-type="doi">10.1002/ejhf.1492</pub-id>
+<pub-id pub-id-type="pmid">31127678</pub-id></mixed-citation></ref><ref id="R13"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Rubio-Gracia</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Demissei</surname>
+<given-names>BG</given-names>
+</string-name>, <string-name>
+<surname>Ter Maaten</surname>
+<given-names>JM</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Prevalence, predictors and clinical outcome of residual congestion in acute decompensated heart failure</article-title>. <source>Int J Cardiol</source>
+<year>2018</year>;<volume>258</volume>:<fpage>185</fpage>&#x02013;<lpage>91</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijcard.2018.01.067</pub-id>
+<pub-id pub-id-type="pmid">29544928</pub-id></mixed-citation></ref><ref id="R14"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Yancy</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name>
+<surname>Jessup</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bozkurt</surname>
+<given-names>B</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>2013 ACCF/AHA guideline for the management of heart failure</article-title>. <source>Circulation</source>
+<year>2013</year>;<volume>128</volume>:<fpage>240</fpage>&#x02013;<lpage>327</lpage>.</mixed-citation></ref><ref id="R15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Ponikowski</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Voors</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Anker</surname>
+<given-names>SD</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>2016 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: The Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC)Developed with the special contribution of the Heart Failure Association (HFA) of the ESC</article-title>. <source>Eur Heart J</source>
+<year>2016</year>;<volume>37</volume>:<fpage>2129</fpage>&#x02013;<lpage>200</lpage>. <pub-id pub-id-type="doi">10.1093/eurheartj/ehw128</pub-id>
+<pub-id pub-id-type="pmid">27206819</pub-id></mixed-citation></ref><ref id="R16"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Martens</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Nijst</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Mullens</surname>
+<given-names>W</given-names>
+</string-name>
+</person-group>. <article-title>Current approach to decongestive therapy in acute heart failure</article-title>. <source>Curr Heart Fail Rep</source>
+<year>2015</year>;<volume>12</volume>:<fpage>367</fpage>&#x02013;<lpage>78</lpage>. <pub-id pub-id-type="doi">10.1007/s11897-015-0273-5</pub-id>
+<pub-id pub-id-type="pmid">26486631</pub-id></mixed-citation></ref><ref id="R17"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Harjola</surname>
+<given-names>V-P</given-names>
+</string-name>, <string-name>
+<surname>Parissis</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Brunner-La Rocca</surname>
+<given-names>H-P</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Comprehensive in-hospital monitoring in acute heart failure: applications for clinical practice and future directions for research. A statement from the acute heart failure Committee of the heart failure association (HFA) of the European Society of cardiology (ESC)</article-title>. <source>Eur J Heart Fail</source>
+<year>2018</year>;<volume>20</volume>:<fpage>1081</fpage>&#x02013;<lpage>99</lpage>. <pub-id pub-id-type="doi">10.1002/ejhf.1204</pub-id>
+<pub-id pub-id-type="pmid">29710416</pub-id></mixed-citation></ref><ref id="R18"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Thibodeau</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name>
+<surname>Drazner</surname>
+<given-names>MH</given-names>
+</string-name>
+</person-group>. <article-title>The Role of the Clinical Examination in&#x000a0;Patients With Heart Failure</article-title>. <source>JACC: Heart Failure</source>
+<year>2018</year>;<volume>6</volume>:<fpage>543</fpage>&#x02013;<lpage>51</lpage>. <pub-id pub-id-type="doi">10.1016/j.jchf.2018.04.005</pub-id>
+<pub-id pub-id-type="pmid">29885957</pub-id></mixed-citation></ref><ref id="R19"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Narang</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Chung</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Nguyen</surname>
+<given-names>A</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Discordance between clinical assessment and invasive hemodynamics in patients with advanced heart failure</article-title>. <source>J Card Fail</source>
+<year>2020</year>;<volume>26</volume>:<fpage>128</fpage>&#x02013;<lpage>35</lpage>. <pub-id pub-id-type="doi">10.1016/j.cardfail.2019.08.004</pub-id>
+<pub-id pub-id-type="pmid">31442494</pub-id></mixed-citation></ref><ref id="R20"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Stienen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Salah</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Moons</surname>
+<given-names>AH</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>NT-proBNP (N-Terminal pro-B-Type Natriuretic Peptide)-Guided Therapy in Acute Decompensated Heart Failure</article-title>. <source>Circulation</source>
+<year>2018</year>;<volume>137</volume>:<fpage>1671</fpage>&#x02013;<lpage>83</lpage>. <pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.117.029882</pub-id>
+<pub-id pub-id-type="pmid">29242350</pub-id></mixed-citation></ref><ref id="R21"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Picano</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Pellikka</surname>
+<given-names>PA</given-names>
+</string-name>
+</person-group>. <article-title>Ultrasound of extravascular lung water: a new standard for pulmonary congestion</article-title>. <source>Eur Heart J</source>
+<year>2016</year>;<volume>37</volume>:<fpage>2097</fpage>&#x02013;<lpage>104</lpage>. <pub-id pub-id-type="doi">10.1093/eurheartj/ehw164</pub-id>
+<pub-id pub-id-type="pmid">27174289</pub-id></mixed-citation></ref><ref id="R22"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Rivas-Lasarte</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>&#x000c1;lvarez-Garc&#x000ed;a</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Fern&#x000e1;ndez-Mart&#x000ed;nez</surname>
+<given-names>J</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Lung ultrasound-guided treatment in ambulatory patients with heart failure: a&#x000a0;randomized controlled clinical trial (LUS-HF study)</article-title>. <source>Eur J Heart Fail</source>
+<year>2019</year>;<volume>21</volume>:<fpage>1605</fpage>&#x02013;<lpage>13</lpage>. <pub-id pub-id-type="doi">10.1002/ejhf.1604</pub-id>
+<pub-id pub-id-type="pmid">31667987</pub-id></mixed-citation></ref><ref id="R23"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Marini</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Fragasso</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Italia</surname>
+<given-names>L</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Lung ultrasound-guided therapy reduces acute decompensation events in chronic heart failure</article-title>. <source>Heart</source>
+<year>2020</year>;<volume>106</volume>:<fpage>1934</fpage>&#x02013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1136/heartjnl-2019-316429</pub-id>
+<pub-id pub-id-type="pmid">32571960</pub-id></mixed-citation></ref><ref id="R24"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Araiza-Garaygordobil</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Gopar-Nieto</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Martinez-Amezcua</surname>
+<given-names>P</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>A randomized controlled trial of lung ultrasound-guided therapy in heart failure (CLUSTER-HF study)</article-title>. <source>Am Heart J</source>
+<year>2020</year>;<volume>227</volume>:<fpage>31</fpage>&#x02013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1016/j.ahj.2020.06.003</pub-id>
+<pub-id pub-id-type="pmid">32668323</pub-id></mixed-citation></ref><ref id="R25"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Coiro</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Rossignol</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Ambrosio</surname>
+<given-names>G</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Prognostic value of residual pulmonary congestion at discharge assessed by lung ultrasound imaging in heart failure</article-title>. <source>Eur J Heart Fail</source>
+<year>2015</year>;<volume>17</volume>:<fpage>1172</fpage>&#x02013;<lpage>81</lpage>. <pub-id pub-id-type="doi">10.1002/ejhf.344</pub-id>
+<pub-id pub-id-type="pmid">26417699</pub-id></mixed-citation></ref><ref id="R26"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Cogliati</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Casazza</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Ceriani</surname>
+<given-names>E</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Lung ultrasound and short-term prognosis in heart failure patients</article-title>. <source>Int J Cardiol</source>
+<year>2016</year>;<volume>218</volume>:<fpage>104</fpage>&#x02013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijcard.2016.05.010</pub-id>
+<pub-id pub-id-type="pmid">27232920</pub-id></mixed-citation></ref><ref id="R27"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Gargani</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Pang</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name>
+<surname>Frassi</surname>
+<given-names>F</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Persistent pulmonary congestion before discharge predicts rehospitalization in heart failure: a lung ultrasound study</article-title>. <source>Cardiovasc Ultrasound</source>
+<year>2015</year>;<volume>13</volume>:<elocation-id>40</elocation-id>. <pub-id pub-id-type="doi">10.1186/s12947-015-0033-4</pub-id>
+<pub-id pub-id-type="pmid">26337295</pub-id></mixed-citation></ref><ref id="R28"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Rivas-Lasarte</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Maestro</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Fern&#x000e1;ndez-Mart&#x000ed;nez</surname>
+<given-names>J</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Prevalence and prognostic impact of subclinical pulmonary congestion at discharge in patients with acute heart failure</article-title>. <source>ESC Heart Fail</source>
+<year>2020</year>;<volume>7</volume>:<fpage>2621</fpage>&#x02013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1002/ehf2.12842</pub-id>
+<pub-id pub-id-type="pmid">32633473</pub-id></mixed-citation></ref><ref id="R29"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Beigel</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Cercek</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>
+<given-names>H</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Noninvasive evaluation of right atrial pressure</article-title>. <source>J Am Soc Echocardiogr</source>
+<year>2013</year>;<volume>26</volume>:<fpage>1033</fpage>&#x02013;<lpage>42</lpage>. <pub-id pub-id-type="doi">10.1016/j.echo.2013.06.004</pub-id>
+<pub-id pub-id-type="pmid">23860098</pub-id></mixed-citation></ref><ref id="R30"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Khandwalla</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Birkeland</surname>
+<given-names>KT</given-names>
+</string-name>, <string-name>
+<surname>Zimmer</surname>
+<given-names>R</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Usefulness of Serial Measurements of Inferior Vena Cava Diameter by Vscan<sup>TM</sup> to Identify Patients With Heart Failure at High Risk of Hospitalization</article-title>. <source>Am J Cardiol</source>
+<year>2017</year>;<volume>119</volume>:<fpage>1631</fpage>&#x02013;<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1016/j.amjcard.2017.02.007</pub-id>
+<pub-id pub-id-type="pmid">28442126</pub-id></mixed-citation></ref><ref id="R31"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Pellicori</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Shah</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Cuthbert</surname>
+<given-names>J</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Prevalence, pattern and clinical relevance of ultrasound indices of congestion in outpatients with heart failure</article-title>. <source>Eur J Heart Fail</source>
+<year>2019</year>;<volume>21</volume>:<fpage>904</fpage>&#x02013;<lpage>16</lpage>. <pub-id pub-id-type="doi">10.1002/ejhf.1383</pub-id>
+<pub-id pub-id-type="pmid">30666769</pub-id></mixed-citation></ref><ref id="R32"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Laffin</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Saha</surname>
+<given-names>N</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Inferior vena cava measurement by focused cardiac ultrasound in acute decompensated heart failure prevents Hospital readmissions</article-title>. <source>J Am Coll Cardiol</source>
+<year>2014</year>;<volume>63</volume>:<elocation-id>A542</elocation-id>. <pub-id pub-id-type="doi">10.1016/S0735-1097(14)60542-8</pub-id>
+</mixed-citation></ref><ref id="R33"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Jobs</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Br&#x000fc;njes</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Katalinic</surname>
+<given-names>A</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Inferior vena cava diameter in acute decompensated heart failure as predictor of all-cause mortality</article-title>. <source>Heart Vessels</source>
+<year>2017</year>;<volume>32</volume>:<fpage>856</fpage>&#x02013;<lpage>64</lpage>. <pub-id pub-id-type="doi">10.1007/s00380-017-0944-0</pub-id>
+<pub-id pub-id-type="pmid">28116486</pub-id></mixed-citation></ref><ref id="R34"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>&#x000d6;hman</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Harjola</surname>
+<given-names>V-P</given-names>
+</string-name>, <string-name>
+<surname>Karjalainen</surname>
+<given-names>P</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Focused echocardiography and lung ultrasound protocol for guiding treatment in acute heart failure</article-title>. <source>ESC Heart Fail</source>
+<year>2018</year>;<volume>5</volume>:<fpage>120</fpage>&#x02013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1002/ehf2.12208</pub-id>
+<pub-id pub-id-type="pmid">28960894</pub-id></mixed-citation></ref><ref id="R35"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Mullens</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Damman</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Harjola</surname>
+<given-names>V-P</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>The use of diuretics in heart failure with congestion - a position statement from the Heart Failure Association of the European Society of Cardiology</article-title>. <source>Eur J Heart Fail</source>
+<year>2019</year>;<volume>21</volume>:<fpage>137</fpage>&#x02013;<lpage>55</lpage>. <pub-id pub-id-type="doi">10.1002/ejhf.1369</pub-id>
+<pub-id pub-id-type="pmid">30600580</pub-id></mixed-citation></ref><ref id="R36"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Hollenberg</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Warner Stevenson</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Ahmad</surname>
+<given-names>T</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>2019 ACC Expert Consensus Decision Pathway on Risk Assessment, Management, and Clinical Trajectory of Patients Hospitalized With Heart Failure: A Report of the American College of Cardiology Solution Set Oversight Committee</article-title>. <source>J Am Coll Cardiol</source>
+<year>2019</year>;<volume>74</volume>:<fpage>1966</fpage>&#x02013;<lpage>2011</lpage>. <pub-id pub-id-type="doi">10.1016/j.jacc.2019.08.001</pub-id>
+<pub-id pub-id-type="pmid">31526538</pub-id></mixed-citation></ref><ref id="R37"><label>37</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Frassi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Gargani</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Tesorio</surname>
+<given-names>P</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Prognostic value of extravascular lung water assessed with ultrasound lung comets by chest sonography in patients with dyspnea and/or chest pain</article-title>. <source>J Card Fail</source>
+<year>2007</year>;<volume>13</volume>:<fpage>830</fpage>&#x02013;<lpage>5</lpage>. <pub-id pub-id-type="doi">10.1016/j.cardfail.2007.07.003</pub-id>
+<pub-id pub-id-type="pmid">18068616</pub-id></mixed-citation></ref><ref id="R38"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Rudski</surname>
+<given-names>LG</given-names>
+</string-name>, <string-name>
+<surname>Lai</surname>
+<given-names>WW</given-names>
+</string-name>, <string-name>
+<surname>Afilalo</surname>
+<given-names>J</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Guidelines for the echocardiographic assessment of the right heart in adults: a report from the American Society of echocardiography endorsed by the European association of echocardiography, a registered branch of the European Society of cardiology, and the Canadian Society of echocardiography</article-title>. <source>J Am Soc Echocardiogr</source>
+<year>2010</year>;<volume>23</volume>:<fpage>685</fpage>&#x02013;<lpage>713</lpage>. <pub-id pub-id-type="doi">10.1016/j.echo.2010.05.010</pub-id>
+<pub-id pub-id-type="pmid">20620859</pub-id></mixed-citation></ref><ref id="R39"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Volpicelli</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Elbarbary</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Blaivas</surname>
+<given-names>M</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>International evidence-based recommendations for point-of-care lung ultrasound</article-title>. <source>Intensive Care Med</source>
+<year>2012</year>;<volume>38</volume>:<fpage>577</fpage>&#x02013;<lpage>91</lpage>. <pub-id pub-id-type="doi">10.1007/s00134-012-2513-4</pub-id>
+<pub-id pub-id-type="pmid">22392031</pub-id></mixed-citation></ref><ref id="R40"><label>40</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Lindner</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Claggett</surname>
+<given-names>B</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Quantification of pleural effusions on thoracic ultrasound in acute heart failure</article-title>. <source>Eur Heart J Acute Cardiovasc Care</source>
+<year>2020</year>;<volume>9</volume>:<fpage>513</fpage>&#x02013;<lpage>21</lpage>. <pub-id pub-id-type="doi">10.1177/2048872620901835</pub-id>
+<pub-id pub-id-type="pmid">31976745</pub-id></mixed-citation></ref><ref id="R41"><label>41</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Picano</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Scali</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Ciampi</surname>
+<given-names>Q</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Lung ultrasound for the cardiologist</article-title>. <source>JACC Cardiovasc Imaging</source>
+<year>2018</year>;<volume>11</volume>:<fpage>1692</fpage>&#x02013;<lpage>705</lpage>. <pub-id pub-id-type="doi">10.1016/j.jcmg.2018.06.023</pub-id>
+<pub-id pub-id-type="pmid">30409330</pub-id></mixed-citation></ref><ref id="R42"><label>42</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Lala</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>McNulty</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Mentz</surname>
+<given-names>RJ</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Relief and recurrence of congestion during and after hospitalization for acute heart failure: insights from diuretic optimization strategy evaluation in acute decompensated heart failure (DOSE-AHF) and cardiorenal rescue study in acute decompensated heart failure (CARESS-HF)</article-title>. <source>Circ Heart Fail</source>
+<year>2015</year>;<volume>8</volume>:<fpage>741</fpage>&#x02013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1161/CIRCHEARTFAILURE.114.001957</pub-id>
+<pub-id pub-id-type="pmid">26041600</pub-id></mixed-citation></ref><ref id="R43"><label>43</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Picano</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Scali</surname>
+<given-names>MC</given-names>
+</string-name>
+</person-group>. <article-title>The lung water cascade in heart failure</article-title>. <source>Echocardiography</source>
+<year>2017</year>;<volume>34</volume>:<fpage>1503</fpage>&#x02013;<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1111/echo.13657</pub-id>
+<pub-id pub-id-type="pmid">28849591</pub-id></mixed-citation></ref><ref id="R44"><label>44</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Stevenson</surname>
+<given-names>LW</given-names>
+</string-name>, <string-name>
+<surname>Perloff</surname>
+<given-names>JK</given-names>
+</string-name>
+</person-group>. <article-title>The limited reliability of physical signs for estimating hemodynamics in chronic heart failure</article-title>. <source>JAMA</source>
+<year>1989</year>;<volume>261</volume>:<fpage>884</fpage>&#x02013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1001/jama.1989.03420060100040</pub-id>
+<pub-id pub-id-type="pmid">2913385</pub-id></mixed-citation></ref><ref id="R45"><label>45</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Ambrosy</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name>
+<surname>Pang</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name>
+<surname>Khan</surname>
+<given-names>S</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Clinical course and predictive value of congestion during hospitalization in patients admitted for worsening signs and symptoms of heart failure with reduced ejection fraction: findings from the Everest trial</article-title>. <source>Eur Heart J</source>
+<year>2013</year>;<volume>34</volume>:<fpage>835</fpage>&#x02013;<lpage>43</lpage>. <pub-id pub-id-type="doi">10.1093/eurheartj/ehs444</pub-id>
+<pub-id pub-id-type="pmid">23293303</pub-id></mixed-citation></ref><ref id="R46"><label>46</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Platz</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Jhund</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name>
+<surname>Girerd</surname>
+<given-names>N</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Expert consensus document: reporting checklist for quantification of pulmonary congestion by lung ultrasound in heart failure</article-title>. <source>Eur J Heart Fail</source>
+<year>2019</year>;<volume>21</volume>:<fpage>844</fpage>&#x02013;<lpage>51</lpage>. <pub-id pub-id-type="doi">10.1002/ejhf.1499</pub-id>
+<pub-id pub-id-type="pmid">31218825</pub-id></mixed-citation></ref><ref id="R47"><label>47</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Anderson</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name>
+<surname>Fields</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Panebianco</surname>
+<given-names>NL</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Inter-Rater reliability of quantifying pleural B-lines using multiple counting methods</article-title>. <source>J Ultrasound Med</source>
+<year>2013</year>;<volume>32</volume>:<fpage>115</fpage>&#x02013;<lpage>20</lpage>. <pub-id pub-id-type="doi">10.7863/jum.2013.32.1.115</pub-id>
+<pub-id pub-id-type="pmid">23269716</pub-id></mixed-citation></ref><ref id="R48"><label>48</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Platz</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Pivetta</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Merz</surname>
+<given-names>AA</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Impact of device selection and clip duration on lung ultrasound assessment in patients with heart failure</article-title>. <source>Am J Emerg Med</source>
+<year>2015</year>;<volume>33</volume>:<fpage>1552</fpage>&#x02013;<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1016/j.ajem.2015.06.002</pub-id>
+<pub-id pub-id-type="pmid">26123928</pub-id></mixed-citation></ref><ref id="R49"><label>49</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Pivetta</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Baldassa</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Masellis</surname>
+<given-names>S</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Sources of variability in the detection of B-Lines, using lung ultrasound</article-title>. <source>Ultrasound Med Biol</source>
+<year>2018</year>;<volume>44</volume>:<fpage>1212</fpage>&#x02013;<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1016/j.ultrasmedbio.2018.02.018</pub-id>
+<pub-id pub-id-type="pmid">29598962</pub-id></mixed-citation></ref><ref id="R50"><label>50</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Balik</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Plasil</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Waldauf</surname>
+<given-names>P</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Ultrasound estimation of volume of pleural fluid in mechanically ventilated patients</article-title>. <source>Intensive Care Med</source>
+<year>2006</year>;<volume>32</volume>:<elocation-id>318</elocation-id>. <pub-id pub-id-type="doi">10.1007/s00134-005-0024-2</pub-id>
+<pub-id pub-id-type="pmid">16432674</pub-id></mixed-citation></ref><ref id="R51"><label>51</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Eibenberger</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name>
+<surname>Dock</surname>
+<given-names>WI</given-names>
+</string-name>, <string-name>
+<surname>Ammann</surname>
+<given-names>ME</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Quantification of pleural effusions: sonography versus radiography</article-title>. <source>Radiology</source>
+<year>1994</year>;<volume>191</volume>:<fpage>681</fpage>&#x02013;<lpage>4</lpage>. <pub-id pub-id-type="doi">10.1148/radiology.191.3.8184046</pub-id>
+<pub-id pub-id-type="pmid">8184046</pub-id></mixed-citation></ref><ref id="R52"><label>52</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Rem&#x000e9;rand</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Dellamonica</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Mao</surname>
+<given-names>Z</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Multiplane ultrasound approach to quantify pleural effusion at the bedside</article-title>. <source>Intensive Care Med</source>
+<year>2010</year>;<volume>36</volume>:<fpage>656</fpage>&#x02013;<lpage>64</lpage>. <pub-id pub-id-type="doi">10.1007/s00134-010-1769-9</pub-id>
+<pub-id pub-id-type="pmid">20140421</pub-id></mixed-citation></ref><ref id="R53"><label>53</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Januzzi</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>van Kimmenade</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Lainchbury</surname>
+<given-names>J</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Nt-Probnp testing for diagnosis and short-term prognosis in acute destabilized heart failure: an international pooled analysis of 1256 patients: the International collaborative of NT-proBNP study</article-title>. <source>Eur Heart J</source>
+<year>2006</year>;<volume>27</volume>:<fpage>330</fpage>&#x02013;<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1093/eurheartj/ehi631</pub-id>
+<pub-id pub-id-type="pmid">16293638</pub-id></mixed-citation></ref><ref id="R54"><label>54</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Mueller</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>McDonald</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>de Boer</surname>
+<given-names>RA</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Heart failure association of the European Society of cardiology practical guidance on the use of natriuretic peptide concentrations</article-title>. <source>Eur J Heart Fail</source>
+<year>2019</year>;<volume>21</volume>:<fpage>715</fpage>&#x02013;<lpage>31</lpage>. <pub-id pub-id-type="doi">10.1002/ejhf.1494</pub-id>
+<pub-id pub-id-type="pmid">31222929</pub-id></mixed-citation></ref></ref-list></back></article>

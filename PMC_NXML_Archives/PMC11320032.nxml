@@ -1,0 +1,1194 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">NIHR Open Res</journal-id><journal-id journal-id-type="iso-abbrev">NIHR Open Res</journal-id><journal-title-group><journal-title>NIHR Open Research</journal-title></journal-title-group><issn pub-type="epub">2633-4402</issn><publisher><publisher-name>F1000 Research Limited</publisher-name><publisher-loc>London, UK</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">39139270</article-id><article-id pub-id-type="pmc">11320032</article-id><article-id pub-id-type="doi">10.3310/nihropenres.13510.2</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group><subject>Articles</subject></subj-group></article-categories><title-group><article-title>A randomised crossover trial of tezacaftor-ivacaftor for gut dysfunction in cystic fibrosis with magnetic resonance imaging (MRI) outcomes: a pilot study.</article-title><fn-group content-type="pub-status"><fn><p>[version 2; peer review: 2 approved, 2 approved with reservations]</p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author"><name><surname>Ng</surname><given-names>Christabella</given-names></name><role content-type="http://credit.niso.org/">Data Curation</role><role content-type="http://credit.niso.org/">Formal Analysis</role><role content-type="http://credit.niso.org/">Investigation</role><role content-type="http://credit.niso.org/">Methodology</role><role content-type="http://credit.niso.org/">Project Administration</role><role content-type="http://credit.niso.org/">Writing &#x02013; Original Draft Preparation</role><role content-type="http://credit.niso.org/">Writing &#x02013; Review &#x00026; Editing</role><xref rid="a1" ref-type="aff">1</xref><xref rid="a2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>Dellschaft</surname><given-names>Neele S</given-names></name><role content-type="http://credit.niso.org/">Data Curation</role><role content-type="http://credit.niso.org/">Formal Analysis</role><role content-type="http://credit.niso.org/">Investigation</role><role content-type="http://credit.niso.org/">Methodology</role><role content-type="http://credit.niso.org/">Project Administration</role><role content-type="http://credit.niso.org/">Visualization</role><role content-type="http://credit.niso.org/">Writing &#x02013; Original Draft Preparation</role><role content-type="http://credit.niso.org/">Writing &#x02013; Review &#x00026; Editing</role><xref rid="a1" ref-type="aff">1</xref><xref rid="a3" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name><surname>Hoad</surname><given-names>Caroline</given-names></name><role content-type="http://credit.niso.org/">Data Curation</role><role content-type="http://credit.niso.org/">Formal Analysis</role><role content-type="http://credit.niso.org/">Investigation</role><role content-type="http://credit.niso.org/">Methodology</role><role content-type="http://credit.niso.org/">Project Administration</role><role content-type="http://credit.niso.org/">Supervision</role><role content-type="http://credit.niso.org/">Visualization</role><role content-type="http://credit.niso.org/">Writing &#x02013; Original Draft Preparation</role><role content-type="http://credit.niso.org/">Writing &#x02013; Review &#x00026; Editing</role><xref rid="a1" ref-type="aff">1</xref><xref rid="a3" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name><surname>Marciani</surname><given-names>Luca</given-names></name><role content-type="http://credit.niso.org/">Conceptualization</role><role content-type="http://credit.niso.org/">Formal Analysis</role><role content-type="http://credit.niso.org/">Investigation</role><role content-type="http://credit.niso.org/">Methodology</role><role content-type="http://credit.niso.org/">Resources</role><role content-type="http://credit.niso.org/">Supervision</role><role content-type="http://credit.niso.org/">Writing &#x02013; Original Draft Preparation</role><role content-type="http://credit.niso.org/">Writing &#x02013; Review &#x00026; Editing</role><xref rid="a1" ref-type="aff">1</xref><xref rid="a4" ref-type="aff">4</xref></contrib><contrib contrib-type="author"><name><surname>Spiller</surname><given-names>Robin</given-names></name><role content-type="http://credit.niso.org/">Conceptualization</role><role content-type="http://credit.niso.org/">Formal Analysis</role><role content-type="http://credit.niso.org/">Investigation</role><role content-type="http://credit.niso.org/">Methodology</role><role content-type="http://credit.niso.org/">Resources</role><role content-type="http://credit.niso.org/">Supervision</role><role content-type="http://credit.niso.org/">Writing &#x02013; Original Draft Preparation</role><role content-type="http://credit.niso.org/">Writing &#x02013; Review &#x00026; Editing</role><xref rid="a1" ref-type="aff">1</xref><xref rid="a4" ref-type="aff">4</xref></contrib><contrib contrib-type="author"><name><surname>Crooks</surname><given-names>Colin</given-names></name><role content-type="http://credit.niso.org/">Formal Analysis</role><role content-type="http://credit.niso.org/">Methodology</role><role content-type="http://credit.niso.org/">Writing &#x02013; Original Draft Preparation</role><role content-type="http://credit.niso.org/">Writing &#x02013; Review &#x00026; Editing</role><xref rid="a1" ref-type="aff">1</xref><xref rid="a4" ref-type="aff">4</xref></contrib><contrib contrib-type="author"><name><surname>Hill</surname><given-names>Trevor</given-names></name><role content-type="http://credit.niso.org/">Formal Analysis</role><role content-type="http://credit.niso.org/">Methodology</role><role content-type="http://credit.niso.org/">Writing &#x02013; Original Draft Preparation</role><role content-type="http://credit.niso.org/">Writing &#x02013; Review &#x00026; Editing</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-0277-4988</contrib-id><xref rid="a1" ref-type="aff">1</xref><xref rid="a4" ref-type="aff">4</xref></contrib><contrib contrib-type="author"><name><surname>Menys</surname><given-names>Alex</given-names></name><role content-type="http://credit.niso.org/">Formal Analysis</role><role content-type="http://credit.niso.org/">Investigation</role><role content-type="http://credit.niso.org/">Software</role><role content-type="http://credit.niso.org/">Writing &#x02013; Review &#x00026; Editing</role><xref rid="a5" ref-type="aff">5</xref></contrib><contrib contrib-type="author"><name><surname>Mainz</surname><given-names>Jochen G</given-names></name><role content-type="http://credit.niso.org/">Formal Analysis</role><role content-type="http://credit.niso.org/">Methodology</role><role content-type="http://credit.niso.org/">Writing &#x02013; Review &#x00026; Editing</role><xref rid="a6" ref-type="aff">6</xref></contrib><contrib contrib-type="author"><name><surname>Barr</surname><given-names>Helen</given-names></name><role content-type="http://credit.niso.org/">Resources</role><role content-type="http://credit.niso.org/">Supervision</role><role content-type="http://credit.niso.org/">Writing &#x02013; Original Draft Preparation</role><role content-type="http://credit.niso.org/">Writing &#x02013; Review &#x00026; Editing</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-4388-2563</contrib-id><xref rid="a7" ref-type="aff">7</xref></contrib><contrib contrib-type="author"><name><surname>Gowland</surname><given-names>Penny A.</given-names></name><role content-type="http://credit.niso.org/">Conceptualization</role><role content-type="http://credit.niso.org/">Formal Analysis</role><role content-type="http://credit.niso.org/">Funding Acquisition</role><role content-type="http://credit.niso.org/">Investigation</role><role content-type="http://credit.niso.org/">Methodology</role><role content-type="http://credit.niso.org/">Resources</role><role content-type="http://credit.niso.org/">Software</role><role content-type="http://credit.niso.org/">Supervision</role><role content-type="http://credit.niso.org/">Writing &#x02013; Original Draft Preparation</role><role content-type="http://credit.niso.org/">Writing &#x02013; Review &#x00026; Editing</role><xref rid="a1" ref-type="aff">1</xref><xref rid="a3" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name><surname>Major</surname><given-names>Giles</given-names></name><role content-type="http://credit.niso.org/">Conceptualization</role><role content-type="http://credit.niso.org/">Methodology</role><role content-type="http://credit.niso.org/">Writing &#x02013; Review &#x00026; Editing</role><xref rid="a4" ref-type="aff">4</xref><xref rid="a8" ref-type="aff">8</xref></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Smyth</surname><given-names>Alan R</given-names></name><role content-type="http://credit.niso.org/">Conceptualization</role><role content-type="http://credit.niso.org/">Formal Analysis</role><role content-type="http://credit.niso.org/">Funding Acquisition</role><role content-type="http://credit.niso.org/">Methodology</role><role content-type="http://credit.niso.org/">Project Administration</role><role content-type="http://credit.niso.org/">Supervision</role><role content-type="http://credit.niso.org/">Writing &#x02013; Original Draft Preparation</role><role content-type="http://credit.niso.org/">Writing &#x02013; Review &#x00026; Editing</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-5494-5438</contrib-id><xref rid="c1" ref-type="corresp">a</xref><xref rid="a1" ref-type="aff">1</xref><xref rid="a2" ref-type="aff">2</xref><xref rid="a9" ref-type="aff">9</xref></contrib><aff id="a1">
+<label>1</label>NIHR Nottingham Biomedical Research Centre, University of Nottingham and Nottingham University Hospitals NHS Trust, Nottingham, UK</aff><aff id="a2">
+<label>2</label>Lifespan and Population Health, School of Medicine, University of Nottingham, Nottingham, England, UK</aff><aff id="a3">
+<label>3</label>Sir Peter Mansfield Imaging Centre, School of Physics and Astronomy, University of Nottingham, Nottingham, England, UK</aff><aff id="a4">
+<label>4</label>Nottingham Digestive Diseases Centre, School of Medicine, University of Nottingham, Nottingham, England, UK</aff><aff id="a5">
+<label>5</label>Centre for Medical Imaging, Division of Medicine,, University College London, London, England, UK</aff><aff id="a6">
+<label>6</label>Cystic Fibrosis Centre, Brandenburg Medical School, Brandenburg an der Havel, Germany</aff><aff id="a7">
+<label>7</label>Wolfson Adult Cystic Fibrosis Unit, Nottingham University Hospitals NHS Trust, Nottingham, UK</aff><aff id="a8">
+<label>8</label>Nestl&#x000e9; Institute of Health Sciences, Soci&#x000e9;t&#x000e9; des Produits Nestl&#x000e9;, Lausanne, Switzerland</aff><aff id="a9">
+<label>9</label>School of medicine Dentistry &#x00026; Biomedical Sciences, Queens University, Belfast, UK</aff></contrib-group><author-notes><corresp id="c1">
+<label>a</label>
+<email xlink:href="mailto:alan.smyth@nottingham.ac.uk">alan.smyth@nottingham.ac.uk</email>
+</corresp><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>NSD, CLD, LM, CC, TH, HLB, AJ, PG have nothing to disclose. CN, JGM and GM report grants and speaker honorarium from Vertex, outside the submitted work. GM is now an employee of Soci&#x000e9;t&#x000e9; Produits Nestl&#x000e9; S.A. who sell nutrition products and enzyme supplements for cystic fibrosis. AM is the CEO of Motilent Limited, a medical imaging analysis company. RS reports grants from Zespri International Ltd and Sanofi-Aventis, as well as lecturing fees from Menarini and Alfawasserman, outside the submitted work. ARS reports grants from Vertex, as well as speaker honoraria and expenses from Teva and Novartis and personal fees from Vertex, outside the submitted work. In addition, ARS and HLB have a patent issued &#x0201c;Alkyl quinolones as biomarkers of Pseudomonas aeruginosa infection and uses thereof&#x0201d;.</p></fn></author-notes><pub-date pub-type="epub"><day>19</day><month>3</month><year>2024</year></pub-date><pub-date pub-type="collection"><year>2023</year></pub-date><volume>3</volume><elocation-id>65</elocation-id><history><date date-type="accepted"><day>13</day><month>8</month><year>2024</year></date></history><permissions><copyright-statement>Copyright: &#x000a9; 2024 Ng C et al.</copyright-statement><copyright-year>2024</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="nihropenres-3-14726.pdf"/><abstract><sec><title>Background</title><p>People with cystic fibrosis (CF) can experience recurrent chest infections, pancreatic exocrine insufficiency and gastrointestinal symptoms. New cystic fibrosis transmembrane conductance regulator (CFTR) modulator drugs improve lung function but gastrointestinal effects are unclear. We aimed to see if a CFTR modulator (tezacaftor-ivacaftor,TEZ/IVA) improves gastrointestinal outcomes in CF.</p></sec><sec><title>Methods</title><p>We conducted a randomised, double-blind, placebo-controlled, two-period crossover trial (2019-2020) at Nottingham University Hospitals. The effects of TEZ/IVA on gut physiology were measured using MRI. Participants were randomly assigned to treatment sequences AB or BA (A:TEZ/IVA, B:placebo, each 28 days), with a 28-day washout period. Participants had serial MRI scans at baseline and after 19-23 days of each treatment. Due to the COVID-19 pandemic, a protocol amendment allowed for observer-blind comparisons prior to and during TEZ/IVA. In such cases, participants were not blind to the treatment but researchers remained blind. The primary outcome was oro-caecal transit time (OCTT). Secondary outcomes included MRI metrics, symptoms and stool biomarkers.</p></sec><sec><title>Results</title><p>We randomised 13 participants. Before the COVID-19 pandemic 8 participants completed the full protocol and 1 dropped out. The remaining 4 participants followed the amended protocol. There were no significant differences between placebo and TEZ/IVA for OCTT (TEZ/IVA &#x0003e;360minutes [225,&#x0003e;360] vs. placebo 330minutes [285,&#x0003e;360], p=0.8) or secondary outcomes. There were no adverse events.</p></sec><sec><title>Conclusions</title><p>Our data contribute to a research gap in the extra-pulmonary effects of CFTR modulators. We found no effect after TEZ/IVA on MRI metrics of gut function, GI symptoms or stool calprotectin. Effects might be detectable with larger studies, longer treatment or more effective CFTR modulators.</p></sec><sec><title>ClinicalTrials.gov registration</title><p>NCT04006873 (02/07/2019)</p></sec></abstract><kwd-group kwd-group-type="author"><kwd>cystic fibrosis</kwd><kwd>gastrointestinal symptoms</kwd><kwd>CFTR modulators</kwd><kwd>magnetic resonance imaging.</kwd></kwd-group><funding-group><award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/501100020624"><funding-source>NIHR Nottingham Biomedical Research Centre</funding-source><award-id>PumpPrimingAward</award-id></award-group><award-group id="fund-2"><funding-source>Vertex Pharmaceuticals</funding-source><award-id>IIS-2018-106697</award-id></award-group><award-group id="fund-3"><funding-source>Nottingham Hospitals Charity</funding-source><award-id>ResearchPumpPrimingCompetition</award-id></award-group><award-group id="fund-4" xlink:href="http://dx.doi.org/10.13039/100000897"><funding-source>Cystic Fibrosis Foundation</funding-source><award-id>SMYTH18A0-I-Smyth</award-id></award-group><award-group id="fund-5" xlink:href="http://dx.doi.org/10.13039/501100000292"><funding-source>Cystic Fibrosis Trust</funding-source><award-id>VIA061</award-id></award-group><funding-statement>The study was funded by the US Cystic Fibrosis Foundation (574248), UK Cystic Fibrosis Trust (VIA061), Vertex Pharmaceuticals Incorporated (IIS-2018-106697) and Nottingham University Hospitals Charity (CRF-MAJOR-NOV 2018).</funding-statement><funding-statement>
+<italic toggle="yes">The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</italic>
+</funding-statement></funding-group></article-meta><notes notes-type="version-changes"><sec sec-type="version-changes"><label>Revised</label><title>Amendments from Version 1</title><p>The following changes have been made following peer review:
+<list list-type="bullet"><list-item><p>Title now includes wording &#x0201c;a pilot study&#x0201d;</p></list-item><list-item><p>Introduction
+<list list-type="bullet"><list-item><p>changed &#x0201c;epithelial chloride channel&#x0201d; to &#x0201c;epithelial ion channel&#x0201d;</p></list-item><list-item><p>4
+<sup>th</sup> paragraph introduces the study protocol in more detail</p></list-item></list>
+</p></list-item><list-item><p>Methods
+<list list-type="bullet"><list-item><p>Clarified that participants were excluded if taking any CFTR modulators.</p></list-item></list>
+</p></list-item><list-item><p>Results
+<list list-type="bullet"><list-item><p>Added median interval between baseline scan and randomisation to treatment.</p></list-item><list-item><p>Added baseline faecal elastase and calprotectin to Table 3</p></list-item><list-item><p>Added &#x0201c;per protocol&#x0201d; to Figure 5 caption</p></list-item><list-item><p>Added &#x0201c;post-hoc intention-to-treat&#x0201d; to Figure 6 caption</p></list-item></list>
+</p></list-item><list-item><p>Discussion
+<list list-type="bullet"><list-item><p>Deleted 6
+<sup>th</sup> paragraph relating to pancreatic exocrine function in younger cohorts</p></list-item><list-item><p>Added views on relationship of MRI metrics to symptom score</p></list-item><list-item><p>Strengths and weaknesses
+<list list-type="bullet"><list-item><p>Added OCTT and large variability in colonic volumes and SBW as a limitation</p></list-item></list>
+</p></list-item></list>
+</p></list-item></list>
+</p></sec></notes></front><body><sec sec-type="intro"><title>Introduction</title><p>Cystic fibrosis (CF) is the most common, life- limiting, autosomal recessive disorder in populations of North European ancestry
+<sup>
+<xref rid="ref-1" ref-type="bibr">1</xref>
+</sup>. CF is caused by mutations in the gene coding for the cystic fibrosis transmembrane conductance regulator (CFTR): an epithelial ion channel. Defective CFTR leads to thick, sticky secretions affecting multiple organs and clinical manifestations include lung infections, pancreatic exocrine insufficiency and gastrointestinal (GI) symptoms. Relieving gut symptoms in CF is a priority
+<sup>
+<xref rid="ref-2" ref-type="bibr">2</xref>
+</sup>, since the majority of people with CF experience gut symptoms
+<sup>
+<xref rid="ref-3" ref-type="bibr">3</xref>
+</sup> and two thirds miss school or work as a result of gut symptoms
+<sup>
+<xref rid="ref-4" ref-type="bibr">4</xref>
+</sup>.</p><p>CFTR modulator therapies, for specific CF mutations, aim to correct the defective CFTR protein. The dual CFTR modulator therapy tezacaftor-ivacaftor (TEZ/IVA) is indicated for patients homozygous for the commonest gene mutation causing CF (p.Phe508del) and for those with one copy of p.Phe508del combined with a residual function CFTR mutation.</p><p>Over the last decade, the pivotal phase 3 clinical trials for CFTR modulator therapies have focussed on respiratory outcomes, with GI effects reported as adverse effects
+<sup>
+<xref rid="ref-5" ref-type="bibr">5</xref>,
+<xref rid="ref-6" ref-type="bibr">6</xref>
+</sup>. More recent CFTR modulator studies have focussed on nutrition
+<sup>
+<xref rid="ref-7" ref-type="bibr">7</xref>
+</sup> and pancreatic exocrine function
+<sup>
+<xref rid="ref-8" ref-type="bibr">8</xref>,
+<xref rid="ref-9" ref-type="bibr">9</xref>
+</sup>, and emerging data on gut symptoms
+<sup>
+<xref rid="ref-10" ref-type="bibr">10</xref>
+</sup>. Attempts to measure GI function have been limited although some studies have reported the effect of modulators on markers of gut pH
+<sup>
+<xref rid="ref-11" ref-type="bibr">11</xref>
+</sup>, inflammation and microbiome
+<sup>
+<xref rid="ref-12" ref-type="bibr">12</xref>
+</sup>.</p><p>The introduction of CFTR modulator therapies for a large proportion of people with CF will mean it will be increasingly difficult to compare new therapies with placebo. In this study, we used a 6 hour series of magnetic resonance imaging (MRI) scans
+<sup>
+<xref rid="ref-13" ref-type="bibr">13</xref>
+</sup> to evaluate the effects of a dual combination CFTR modulator on orocaecal transit time, colon volumes, small bowel wataer content and their drop in response to a high-calorie meal, and gastric emptying in CF. We also studied the relationship of MRI findings to GI symptoms.</p><sec><title>Aims and objectives</title><p>We aimed to evaluate the GI effects of a dual CFTR combination therapy (tezacaftor/ivacaftor; TEZ/IVA) compared to placebo in people with CF, using MRI and symptom questionnaires. We also assessed its effect on stool biomarkers of pancreatic function and intestinal inflammation.</p></sec></sec><sec sec-type="methods"><title>Methods</title><sec sec-type="subjects"><title>Patient and Public Involvement</title><p>The study is based on feedback from previous Patient and Public Involvement, most notably the recent James Lind Priority Setting Partnership for Cystic Fibrosis and the GIFT-CF1 study. The methodology applied has previously been developed with the Patient Advisory Group of the Nottingham Digestive Diseases Biomedical Research Centre. The results of this study will be discussed with patient groups in order to plan future work.</p></sec><sec><title>Study design</title><p>We conducted a double-blind, placebo-controlled, randomised crossover trial. Ethical approval was granted by West Midlands &#x02013; South Birmingham Research Ethics Committee on 28
+<sup>th</sup> May 2019 (19/WM/0130) and the protocol was prospectively registered (ClinicalTrials.gov; NCT04006873) on 2
+<sup>nd</sup> July 2019). This article is reported in line with CONSORT
+<sup>
+<xref rid="ref-14" ref-type="bibr">14</xref>
+</sup>. Dual combination TEZ/IVA was the CFTR modulator chosen for this study because, at the time of study commencement, triple combination therapy was not available in the UK.</p></sec><sec><title>Study population</title><p>People with CF aged from 12 to 40 years, homozygous for p.Phe508del and eligible for TEZ/IVA, were invited to participate. Participants were recruited from the local tertiary CF centre, Nottingham University Hospitals NHS Trust, UK, based upon pre-specified inclusion and exclusion criteria (
+<xref rid="T1" ref-type="table">Table 1</xref>). Written informed consent was obtained.</p><table-wrap position="anchor" id="T1"><label>Table 1. </label><caption><title>Summary of inclusion and exclusion criteria.</title></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th align="left" colspan="1" rowspan="1" valign="top">Inclusion criteria</th><th align="left" colspan="1" rowspan="1" valign="top">Exclusion criteria</th></tr></thead><tbody><tr><td align="left" colspan="1" rowspan="1" valign="top">&#x000a0;&#x000a0;&#x000a0;&#x02022;&#x000a0;&#x000a0;&#x000a0;Capacity to consent, or understand the
+<break/>requirements of the study where parental
+<break/>consent is needed
+<break/>&#x000a0;&#x000a0;&#x000a0;&#x02022;&#x000a0;&#x000a0;&#x000a0;Confirmed diagnosis of CF (homozygous
+<break/>p.Phe508del)</td><td align="left" colspan="1" rowspan="1" valign="top">&#x000a0;&#x000a0;&#x000a0;&#x02022;&#x000a0;&#x000a0;&#x000a0;Currently taking a CFTR modulator drug
+<break/>&#x000a0;&#x000a0;&#x000a0;&#x02022;&#x000a0;&#x000a0;&#x000a0;Contra-indication to use of TEZ/IVA
+<break/>&#x000a0;&#x000a0;&#x000a0;&#x02022;&#x000a0;&#x000a0;&#x000a0;FEV
+<sub>1</sub> &#x0003c;40% predicted using the Global Lung Initiative criteria
+<sup>
+<xref rid="ref-15" ref-type="bibr">15</xref>
+</sup>
+<break/>&#x000a0;&#x000a0;&#x000a0;&#x02022;&#x000a0;&#x000a0;&#x000a0;Contra-indication to MRI scanning, such as embedded metal or pacemaker
+<break/>&#x000a0;&#x000a0;&#x000a0;&#x02022;&#x000a0;&#x000a0;&#x000a0;Pregnancy
+<break/>&#x000a0;&#x000a0;&#x000a0;&#x02022;&#x000a0;&#x000a0;&#x000a0;Unable to stop medications directly prescribed to alter bowel habit such as laxatives
+<break/> or anti-diarrhoeals on the study day
+<break/>&#x000a0;&#x000a0;&#x000a0;&#x02022;&#x000a0;&#x000a0;&#x000a0;Previous resection of any part of the GI tract apart from appendicectomy or
+<break/>cholecystectomy. Surgical relief of meconium ileus or DIOS will be permitted unless
+<break/> clinical records show excision of intestine &#x0003e;20 cm in length
+<break/>&#x000a0;&#x000a0;&#x000a0;&#x02022;&#x000a0;&#x000a0;&#x000a0;Intestinal stoma
+<break/>&#x000a0;&#x000a0;&#x000a0;&#x02022;&#x000a0;&#x000a0;&#x000a0;Diagnosis of inflammatory bowel disease or coeliac disease confirmed by biopsy
+<break/>&#x000a0;&#x000a0;&#x000a0;&#x02022;&#x000a0;&#x000a0;&#x000a0;GI malignancy
+<break/>&#x000a0;&#x000a0;&#x000a0;&#x02022;&#x000a0;&#x000a0;&#x000a0;Unable to comply with dietary restrictions required for the study</td></tr></tbody></table></table-wrap></sec><sec><title>Study procedures</title><p>Before randomisation, participants underwent a series of MRI scans on a single day
+<sup>
+<xref rid="ref-13" ref-type="bibr">13</xref>
+</sup>. MRI scans from our previous study
+<sup>
+<xref rid="ref-13" ref-type="bibr">13</xref>
+</sup> were used for the baseline data if participants had enrolled to both studies. At the time this trial commenced, TEZ/IVA was licensed in the UK but not reimbursed, so was not prescribed in routine clinical care. Participants were excluded from the study if they were taking any CFTR modulators. Nottingham University Hospital trials pharmacy performed secure web based simple randomisation, using an online computer program (
+<ext-link xlink:href="http://www.randomization.com/" ext-link-type="uri">www.randomization.com</ext-link>) which created a computer-generated list and ensured allocation concealment. Participants were randomly assigned to treatment sequences AB or BA (A: TEZ/IVA, B: placebo), with a 28-day washout period in between. The investigators and participants were blind to treatment allocation. TEZ/IVA and placebo were visually identical.</p><p>Outcomes were measured between day 19 and 23 of treatment, according to participant and scanner availability. The study visit consisted of a series of 11 MRI scans and GI symptom assessment as previously described
+<sup>
+<xref rid="ref-13" ref-type="bibr">13</xref>,
+<xref rid="ref-16" ref-type="bibr">16</xref>
+</sup> in fasted and postprandial states (
+<xref rid="f1" ref-type="fig">Figure 1</xref>). All participants fasted for at least 12 hours before attending, other than water for essential medicines.</p><fig position="float" fig-type="figure" id="f1"><label>Figure 1. </label><caption><title>Diagram to show study procedure timings.</title><p>MRI scans performed at fasting, at half hourly intervals until 180 minutes after the first meal (T180), then hourly intervals until T360. Standardised test meals were given after the fasting scan and T240 scan. CFAbd-Score and PAC-SYM questionnaires were completed prior to fasting scan. A 3-point Likert scale was completed after each scan. Safety monitoring was undertaken after the T180 scan.</p></caption><graphic xlink:href="nihropenres-3-14726-g0000" position="float"/></fig><p>Each participant was given the same rice pudding meal (519 kcal, fat 19g, carbohydrate 77g)
+<sup>
+<xref rid="ref-13" ref-type="bibr">13</xref>
+</sup>, immediately after the fasting scan. A second meal (855 kcal, fat 41g, carbohydrate 91g) was eaten at approximately 265 minutes after the first meal and consisted of 375g macaroni cheese (Sainsbury&#x02019;s, UK); 100g strawberry cheesecake (Rhokett, UK); and 240mL water. No other food and drink were permitted during the visit. Participants took their prescribed amount of pancreatic enzyme supplements with meals. No laxatives or anti-diarrhoeals were permitted during the visit.</p><p>Participants provided a stool sample at each study visit for faecal elastase and calprotectin analysis. Stool samples timings were restricted to 12 hours preceding and 24 hours post study visit. Blood pressure measurement, serum liver and renal function tests were performed for safety monitoring
+<sup>
+<xref rid="ref-17" ref-type="bibr">17</xref>
+</sup> at each visit. Tablet blister packs were retrieved to assess participant adherence to the study medication. Drug levels were not measured.</p></sec><sec><title>Scanning protocol</title><p>A 3-Tesla Philips Ingenia MRI scanner (Philips Healthcare, Best, The Netherlands) was used. Participants were positioned supine with a DS anterior coil over the abdomen to capture MR images
+<sup>
+<xref rid="ref-13" ref-type="bibr">13</xref>
+</sup>. We evaluated gut function and transit using previously published MRI techniques
+<sup>
+<xref rid="ref-13" ref-type="bibr">13</xref>,
+<xref rid="ref-16" ref-type="bibr">16</xref>,
+<xref rid="ref-18" ref-type="bibr">18</xref>
+</sup>. Scan times were defined relative to ingestion of the first meal (i.e. T0 was the MRI scan taken at 0 minutes after the first meal was consumed).</p></sec><sec><title>Mitigations for COVID-19 pandemic disruptions</title><p>Study enrolment commenced in September 2019. In March 2020, in line with UK government rules to restrict the transmission of SARS-CoV2 virus, our centre suspended all research involving direct contact with participants (apart from COVID-19 studies). Our trial was paused between mid-March and August 2020. During this period, reimbursement of TEZ/IVA was introduced in the UK and 4 participants commenced TEZ/IVA as part of their routine CF treatment. It was unethical to request their return to the study protocol involving placebo treatment. These 4 participants therefore completed observer-blind study visits when research resumed. Observer-blind visits were single-blind, where the observers conducting the analysis were blind to treatment status.</p></sec><sec><title>Data analysis</title><p>MRI analysis was performed using Medical Image Processing, Analysis and Visualisation
+<sup>
+<xref rid="ref-19" ref-type="bibr">19</xref>
+</sup> (MIPAV, NIH, Bethesda, MD, USA) and GIQuant
+<sup>&#x000ae;</sup> (Motilent, London, UK). We also used some, in-house software written in MATLAB
+<sup>&#x000ae;</sup> (The MathWorks Inc., Natick, MA, USA). Example images are shown in
+<xref rid="f2" ref-type="fig">Figure 2</xref>.</p><fig position="float" fig-type="figure" id="f2"><label>Figure 2. </label><caption><p>Representative MRI images of (
+<bold>A</bold>) dual echo for orocaecal transit time (OCTT) and colonic volumes (small arrow: head of the meal in the caecum, large arrow: stomach; (
+<bold>B</bold>) 3D render of colonic volumes (1: ascending colon, 2: transverse colon, 3: descending colon, 4: recto-sigmoid colon); (
+<bold>C</bold>) small bowel water content (SBWC) analysis pre and post prandial for placebo and TEZ/IVA. The greyscale demonstrates the signal intensity of small bowel water and its threshold is compared to cerebrospinal fluid of individual participants.</p></caption><graphic xlink:href="nihropenres-3-14726-g0001" position="float"/></fig></sec><sec><title>Outcome measures</title><p>The primary outcome was oro-caecal transit time (OCTT), defined as the scan time when the meal is first detected in the caecum.</p><p>The secondary outcomes included:</p><list list-type="bullet"><list-item><p>corrected colonic volumes, defined as the sum of the ascending, transverse, descending and recto-sigmoid colon divided by body surface area
+<sup>
+<xref rid="ref-13" ref-type="bibr">13</xref>
+</sup>. Mosteller&#x02019;s formula
+<sup>
+<xref rid="ref-20" ref-type="bibr">20</xref>
+</sup> was used to calculate participant&#x02019;s body surface area.</p></list-item><list-item><p>corrected small bowel water content (SBWC), defined as SBWC divided by body surface area
+<sup>
+<xref rid="ref-13" ref-type="bibr">13</xref>
+</sup>. Small bowel water is the volume of free water within the small bowel;</p></list-item><list-item><p>postprandial change in corrected SBWC after the second meal (delta SBW), defined as the difference in corrected SBWC between T240 and T300
+<sup>
+<xref rid="ref-13" ref-type="bibr">13</xref>
+</sup>;</p></list-item><list-item><p>gastric half-emptying times, defined as the time taken for half the initial gastric contents to empty into the duodenum
+<sup>
+<xref rid="ref-21" ref-type="bibr">21</xref>
+</sup>; and</p></list-item><list-item><p>GI symptoms, using the PAC-SYM
+<sup>
+<xref rid="ref-22" ref-type="bibr">22</xref>
+</sup> (patient assessment of constipation symptoms) questionnaire, CFAbd-Score
+<sup>
+<xref rid="ref-3" ref-type="bibr">3</xref>
+</sup>, and a 3-point Likert scale to record abdominal pain, bloating and flatulence concurrently with each MRI scan (for an example see
+<xref rid="T2" ref-type="table">Table 2</xref>).</p></list-item></list><p>Our exploratory outcomes were T
+<sub>1</sub> relaxation time of chyme in the ascending colon as a measure of water content; terminal ileum motility; faecal elastase; and faecal calprotectin. We have published the results of faecal microbiome analysis in a second publication
+<sup>
+<xref rid="ref-23" ref-type="bibr">23</xref>
+</sup>.</p><table-wrap position="anchor" id="T2"><label>Table 2. </label><caption><title>Example of the Likert scale used at each MRI timepoint for flatulence, bloating and abdominal pain.</title></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th align="left" colspan="1" rowspan="1" valign="top">Time point:</th><th align="left" colspan="1" rowspan="1" valign="top">FASTING</th><th align="left" colspan="1" rowspan="1" valign="top">Time is now:</th><th align="left" colspan="1" rowspan="1" valign="top">H</th><th align="left" colspan="1" rowspan="1" valign="top">H</th><th align="left" colspan="1" rowspan="1" valign="top">:</th><th align="left" colspan="1" rowspan="1" valign="top">M</th><th align="left" colspan="1" rowspan="1" valign="top">M</th></tr></thead><tbody><tr><td align="left" colspan="8" rowspan="1" valign="top">check
+<bold>ONE</bold> box that
+<bold>best</bold> describes how bad each symptom is
+<bold>right now:</bold>
+<break/>
+<break/>
+<bold>0 = not at all</bold>
+<break/>
+<break/>
+<bold>1 = mild</bold> (distinct but negligible)
+<break/>
+<break/>
+<bold>2 = moderate</bold> (annoying)
+<break/>
+<break/>
+<bold>3 = severe</bold> (disabling)</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">
+<bold>Flatulence (Wind):</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="top">
+<bold>0</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="top">
+<bold>0.5</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="top">
+<bold>1</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="top">
+<bold>1.5</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="top">
+<bold>2</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="top">
+<bold>2.5</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="top">
+<bold>3</bold>
+</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">
+<bold>Bloating:</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="top">
+<bold>0</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="top">
+<bold>0.5</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="top">
+<bold>1</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="top">
+<bold>1.5</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="top">
+<bold>2</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="top">
+<bold>2.5</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="top">
+<bold>3</bold>
+</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">
+<bold>Abdominal Pain:</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="top">
+<bold>0</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="top">
+<bold>0.5</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="top">
+<bold>1</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="top">
+<bold>1.5</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="top">
+<bold>2</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="top">
+<bold>2.5</bold>
+</td><td align="left" colspan="1" rowspan="1" valign="top">
+<bold>3</bold>
+</td></tr></tbody></table></table-wrap></sec><sec><title>Statistical analysis</title><p>This is the first study to evaluate within-individual differences in MRI metrics for people with CF. Little is known about the minimum clinically important difference for OCTT caused by CFTR modulators. There are insufficient data to provide an informative power calculation and therefore, a sample size of 12 was chosen
+<sup>
+<xref rid="ref-24" ref-type="bibr">24</xref>
+</sup>. In total, 15 individuals were recruited to allow for attrition.</p><p>We used within-participant comparisons for the crossover analyses to compare TEZ/IVA with placebo. Period and carry-over effects were minimised with the 28-day washout period. Kaplan-Maier and log-rank tests were used to calculate statistical significance for OCTT. Non-parametric tests were planned for secondary and exploratory outcomes, with data presented as median (inter-quartile range; IQR). All statistical tests were conducted using
+<ext-link xlink:href="https://posit.co/download/rstudio-desktop/" ext-link-type="uri">RStudio</ext-link> Version 4.1.2 (RStudio, PBC, Boston, MA, USA). A p-value of &#x0003c;0.05 was considered statistically significant.</p><p>In view of COVID-19 disruptions, we completed a primary per protocol analysis for all participants who were blind to treatment. A secondary post-hoc intention-to-treat analysis compared all enrolled participants who attended study visits on and off TEZ/IVA.</p></sec></sec><sec sec-type="results"><title>Results</title><sec><title>Study progress</title><p>All procedures took place between September 2019 and October 2020. In total, 15 people with CF were enrolled (
+<xref rid="f3" ref-type="fig">Figure 3</xref>), of whom 7 had participated in the previous GIFT-CF 1 study. Two participants dropped out at the time of the baseline scan as they were unable to complete the first meal or experienced claustrophobia in the scanner. One participant did not attend the post-randomisation study visits. Of the remaining 12 participants, 8 completed both treatment periods and all study visits per protocol and 4 underwent observer-blind study visits on and off TEZ/IVA.</p><fig position="float" fig-type="figure" id="f3"><label>Figure 3. </label><caption><title>Consort diagram to show participant flow.</title></caption><graphic xlink:href="nihropenres-3-14726-g0002" position="float"/></fig><p>Participants&#x02019; baseline characteristics are summarised in
+<xref rid="T3" ref-type="table">Table 3</xref>. Baseline scan data were obtained during the GIFT-CF1 study
+<sup>
+<xref rid="ref-13" ref-type="bibr">13</xref>
+</sup> for 7 participants. The median interval between baseline scan and randomisation to treatment was 45 weeks. The median baseline values were as follows: age 20 years; OCTT 330 minutes; corrected SBWC AUC 42 L&#x02219;min/m
+<sup>2</sup>; Delta SBW 19 mL/m
+<sup>2</sup>; corrected fasting colon volume 291 mL/m
+<sup>2</sup>; CFAbd-Score 16.2; and PAC-SYM 0.38. One participant had a history of surgically-managed neonatal meconium ileus. There was no documentation of the length of small bowel removed in this case and therefore the participant was included. Another participant had a history of medically-managed DIOS.</p><table-wrap position="anchor" id="T3"><label>Table 3. </label><caption><title>Participant demographics at baseline.</title><p id="TFN1">
+<sup>&#x02020;</sup>Baseline scan data for 7 participants were from the previous GIFT-CF1 study (ClinicalTrials.gov NCT03566550).</p></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th align="left" colspan="1" rowspan="1" valign="top">
+<italic toggle="yes">Characteristic, median (Q25, Q75)</italic>
+</th><th align="center" colspan="1" rowspan="1" valign="top">N = 12</th></tr></thead><tbody><tr><td align="left" colspan="1" rowspan="1" valign="top">Gender, M:F</td><td align="center" colspan="1" rowspan="1" valign="top">8 : 4</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">Age, years</td><td align="center" colspan="1" rowspan="1" valign="top">20 (17, 26)</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">Forced Expiratory Volume in 1 second
+<break/> (FEV
+<sub>1</sub>), %</td><td align="center" colspan="1" rowspan="1" valign="top">80 (59, 100)</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">Height, cm</td><td align="center" colspan="1" rowspan="1" valign="top">167 (161, 176)</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">Weight, kg</td><td align="center" colspan="1" rowspan="1" valign="top">59 (55,65)</td></tr><tr><th align="left" colspan="1" rowspan="1" valign="top">
+<italic toggle="yes">Baseline
+<sup>
+<xref rid="TFN1" ref-type="other">&#x02020;</xref>
+</sup> visit, median (Q25, Q75)</italic>
+</th><th align="center" colspan="1" rowspan="1" valign="top">N = 12</th></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">OCTT, mins</td><td align="center" colspan="1" rowspan="1" valign="top">330 (300, &#x0003e;360)</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">Corrected SBWC AUC, L&#x02219;min/m
+<sup>2</sup>
+</td><td align="center" colspan="1" rowspan="1" valign="top">64 (53, 75)</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">Delta SBW, mL/m
+<sup>2</sup>
+</td><td align="center" colspan="1" rowspan="1" valign="top">19 (11, 60)</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">Corrected Fasting colon volume, mL/m
+<sup>2</sup>
+</td><td align="center" colspan="1" rowspan="1" valign="top">291 (190, 437)</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">CFAbd-Score</td><td align="center" colspan="1" rowspan="1" valign="top">16.2 (13.8, 21.7)</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">PAC-SYM</td><td align="center" colspan="1" rowspan="1" valign="top">0.38 (0.25, 0.5)</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">Faecal elastase, &#x003bc;g/g</td><td align="center" colspan="1" rowspan="1" valign="top">&#x0003c;15 (&#x0003c;15, &#x0003c;15)</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">Faecal calprotectin, &#x003bc;g/g</td><td align="center" colspan="1" rowspan="1" valign="top">13 (&#x0003c;10, 20)</td></tr></tbody></table></table-wrap><p>There was more than 85% adherence for both treatment periods in 7 out of the 8 (87.5%) participants who completed the study double-blind. One participant had 57% adherence in the TEZ/IVA arm only.</p><p>Five participants received antimicrobial therapy whilst enrolled in the study: 1 received oral antibiotics pre-randomisation, 2 received oral antibiotics during the first period, 1 received oral antibiotics during the washout period and 1 commenced itraconazole during study pause period.</p><p>Of 4 participants who underwent observer-blind study visits, 2 were randomised pre-pandemic (one had placebo and one had TEZ/IVA in the first treatment period). Neither participant started the second treatment period due to COVID-19 disruptions. Both underwent observer-blind study visits whilst taking TEZ/IVA. Therefore, the within-participant comparison was between placebo and TEZ/IVA, and baseline and TEZ/IVA respectively. There were 2 participants who underwent observer-blind visits at baseline and on TEZ/IVA (prescribed as part of routine clinical care). All outcomes reported are primary per protocol analysis (n=8) unless otherwise specified (
+<xref rid="T4" ref-type="table">Table 4</xref>). There were no adverse events highlighted from the safety monitoring.</p><table-wrap position="anchor" id="T4"><label>Table 4. </label><caption><title>Summary of primary, secondary and exploratory outcomes.</title><p id="TFN2">Statistical tests used: Log-rank used for OCTT, Wilcoxon signed-ranks test for all other metrics. For terminal ileum motility:
+<sup>&#x02020;</sup>n = 10,
+<sup>&#x02021;</sup>n = 8,
+<sup>&#x000a7;</sup>n = 7,
+<sup>&#x000b6;</sup>n = 6.</p></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th align="left" colspan="1" rowspan="1" valign="top"/><th align="center" colspan="3" rowspan="1" valign="top">Primary per protocol analysis
+<break/>(n = 8)</th><th align="center" colspan="3" rowspan="1" valign="top">Secondary post-hoc analysis
+<break/>(n = 12)</th></tr><tr><th align="left" colspan="1" rowspan="1" valign="top">Outcome
+<break/>&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Median (Q25, Q75)</th><th align="center" colspan="1" rowspan="1" valign="top">TEZ/IVA</th><th align="center" colspan="1" rowspan="1" valign="top">Placebo</th><th align="center" colspan="1" rowspan="1" valign="top">p-value</th><th align="center" colspan="1" rowspan="1" valign="top">TEZ/IVA</th><th align="center" colspan="1" rowspan="1" valign="top">No TEZ/IVA</th><th align="center" colspan="1" rowspan="1" valign="top">p-value</th></tr></thead><tbody><tr><td align="left" colspan="1" rowspan="1" valign="top">OCTT
+<italic toggle="yes">(mins)</italic>
+</td><td align="center" colspan="1" rowspan="1" valign="top">&#x0003e;360
+<break/>(225, &#x0003e;360)</td><td align="center" colspan="1" rowspan="1" valign="top">330
+<break/>(285, &#x0003e;360)</td><td align="center" colspan="1" rowspan="1" valign="top">0.80</td><td align="center" colspan="1" rowspan="1" valign="top">&#x0003e; 360
+<break/>(225, &#x0003e;360)</td><td align="center" colspan="1" rowspan="1" valign="top">360
+<break/>(300, &#x0003e;360)</td><td align="center" colspan="1" rowspan="1" valign="top">&#x0003e; 0.99</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">Gastric half-emptying time
+<break/>
+<italic toggle="yes">(mins)</italic>
+</td><td align="center" colspan="1" rowspan="1" valign="top">96
+<break/>(70, 105)</td><td align="center" colspan="1" rowspan="1" valign="top">95
+<break/>(70, 110)</td><td align="center" colspan="1" rowspan="1" valign="top">0.57</td><td align="center" colspan="1" rowspan="1" valign="top">92
+<break/>(70, 105)</td><td align="center" colspan="1" rowspan="1" valign="top">86
+<break/>(67, 101)</td><td align="center" colspan="1" rowspan="1" valign="top">0.48</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">Delta SBW
+<italic toggle="yes">(mL/m
+<sup>2</sup>)</italic>
+</td><td align="center" colspan="1" rowspan="1" valign="top">35
+<break/>(-67, 64)</td><td align="center" colspan="1" rowspan="1" valign="top">3
+<break/>(-8, 33)</td><td align="center" colspan="1" rowspan="1" valign="top">&#x0003e;0.99</td><td align="center" colspan="1" rowspan="1" valign="top">28
+<break/>(-64, 64)</td><td align="center" colspan="1" rowspan="1" valign="top">19
+<break/>(2, 50)</td><td align="center" colspan="1" rowspan="1" valign="top">0.27</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">Corrected SBWC AUC
+<italic toggle="yes">(L&#x02219;min /m
+<sup>2</sup>)</italic>
+</td><td align="center" colspan="1" rowspan="1" valign="top">49
+<break/>(39, 69)</td><td align="center" colspan="1" rowspan="1" valign="top">35
+<break/>(29, 42)</td><td align="center" colspan="1" rowspan="1" valign="top">0.08</td><td align="center" colspan="1" rowspan="1" valign="top">45
+<break/>(36, 62)</td><td align="center" colspan="1" rowspan="1" valign="top">34
+<break/>(29, 49)</td><td align="center" colspan="1" rowspan="1" valign="top">0.12</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">Corrected colonic volumes AUC
+<break/>
+<italic toggle="yes">(L&#x02219;min /m
+<sup>2</sup>)</italic>
+</td><td align="center" colspan="1" rowspan="1" valign="top">179
+<break/>(156, 232)</td><td align="center" colspan="1" rowspan="1" valign="top">167
+<break/>(144, 211)</td><td align="center" colspan="1" rowspan="1" valign="top">0.46</td><td align="center" colspan="1" rowspan="1" valign="top">179
+<break/>(151, 211)</td><td align="center" colspan="1" rowspan="1" valign="top">172
+<break/>(150, 186)</td><td align="center" colspan="1" rowspan="1" valign="top">0.73</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">CFAbd-Score</td><td align="center" colspan="1" rowspan="1" valign="top">17.2
+<break/>(12.1, 27.4)</td><td align="center" colspan="1" rowspan="1" valign="top">21.2
+<break/>(16.9, 27.8)</td><td align="center" colspan="1" rowspan="1" valign="top">0.45</td><td align="center" colspan="1" rowspan="1" valign="top">12.2
+<break/>(7.2, 21.8)</td><td align="center" colspan="1" rowspan="1" valign="top">18.9
+<break/>(13.2, 22.9)</td><td align="center" colspan="1" rowspan="1" valign="top">0.20</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">PAC-SYM</td><td align="center" colspan="1" rowspan="1" valign="top">0.63
+<break/>(0.08, 0.88)</td><td align="center" colspan="1" rowspan="1" valign="top">0.71
+<break/>(0.50, 0.90)</td><td align="center" colspan="1" rowspan="1" valign="top">0.68</td><td align="center" colspan="1" rowspan="1" valign="top">0.25
+<break/>(0.08, 0.71)</td><td align="center" colspan="1" rowspan="1" valign="top">0.67
+<break/>(0.13, 0.83)</td><td align="center" colspan="1" rowspan="1" valign="top">0.41</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">Total Likert scores</td><td align="center" colspan="1" rowspan="1" valign="top">3.5
+<break/>(0, 9.63)</td><td align="center" colspan="1" rowspan="1" valign="top">2.75
+<break/>(0.88, 9.50)</td><td align="center" colspan="1" rowspan="1" valign="top">0.50</td><td align="center" colspan="1" rowspan="1" valign="top">3.5
+<break/>(0, 5.25)</td><td align="center" colspan="1" rowspan="1" valign="top">2.75
+<break/>(0.38, 8.75)</td><td align="center" colspan="1" rowspan="1" valign="top">0.64</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">Terminal ileum motility
+<italic toggle="yes">(arbitrary</italic>
+<break/>
+<italic toggle="yes"> units, au) Fasting</italic>
+</td><td align="center" colspan="1" rowspan="1" valign="top">0.15
+<sup>
+<xref rid="TFN2" ref-type="other">&#x000a7;</xref>
+</sup>
+<break/>(0.13, 0.23)</td><td align="center" colspan="1" rowspan="1" valign="top">0.17
+<sup>
+<xref rid="TFN2" ref-type="other">&#x000a7;</xref>
+</sup>
+<break/>(0.11, 0.21)</td><td align="center" colspan="1" rowspan="1" valign="top">0.94</td><td align="center" colspan="1" rowspan="1" valign="top">0.15
+<sup>
+<xref rid="TFN2" ref-type="other">&#x02020;</xref>
+</sup>
+<break/>(0.11, 0.22)</td><td align="center" colspan="1" rowspan="1" valign="top">0.15
+<sup>
+<xref rid="TFN2" ref-type="other">&#x02020;</xref>
+</sup>
+<break/>(0.10, 0.19)</td><td align="center" colspan="1" rowspan="1" valign="top">0.92</td></tr><tr><td align="right" colspan="1" rowspan="1" valign="top">
+<italic toggle="yes">Postprandial T0</italic>
+</td><td align="center" colspan="1" rowspan="1" valign="top">0.20
+<sup>
+<xref rid="TFN2" ref-type="other">&#x000b6;</xref>
+</sup>
+<break/>(0.16, 0.21)</td><td align="center" colspan="1" rowspan="1" valign="top">0.23
+<sup>
+<xref rid="TFN2" ref-type="other">&#x000b6;</xref>
+</sup>
+<break/>(0.14, 0.26)</td><td align="center" colspan="1" rowspan="1" valign="top">&#x0003e;0.99</td><td align="center" colspan="1" rowspan="1" valign="top">0.20
+<sup>
+<xref rid="TFN2" ref-type="other">&#x02021;</xref>
+</sup>
+<break/>(0.15, 0.24)</td><td align="center" colspan="1" rowspan="1" valign="top">0.23
+<sup>
+<xref rid="TFN2" ref-type="other">&#x02021;</xref>
+</sup>
+<break/>(0.19, 0.27)</td><td align="center" colspan="1" rowspan="1" valign="top">0.74</td></tr><tr><td align="right" colspan="1" rowspan="1" valign="top">
+<italic toggle="yes">Postprandial T300</italic>
+</td><td align="center" colspan="1" rowspan="1" valign="top">0.16
+<sup>
+<xref rid="TFN2" ref-type="other">&#x02021;</xref>
+</sup>
+<break/>(0.13, 0.19)</td><td align="center" colspan="1" rowspan="1" valign="top">0.19
+<sup>
+<xref rid="TFN2" ref-type="other">&#x02021;</xref>
+</sup>
+<break/>(0.18, 0.22)</td><td align="center" colspan="1" rowspan="1" valign="top">0.38</td><td align="center" colspan="1" rowspan="1" valign="top">0.16
+<sup>
+<xref rid="TFN2" ref-type="other">&#x02020;</xref>
+</sup>
+<break/>(0.14, 0.21)</td><td align="center" colspan="1" rowspan="1" valign="top">0.19
+<sup>
+<xref rid="TFN2" ref-type="other">&#x02020;</xref>
+</sup>
+<break/>(0.15, 0.21)</td><td align="center" colspan="1" rowspan="1" valign="top">0.21</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">Fasting T
+<sub>1</sub>AC
+<italic toggle="yes">(secs)</italic>
+</td><td align="center" colspan="1" rowspan="1" valign="top">0.66
+<break/>(0.61, 0.82)</td><td align="center" colspan="1" rowspan="1" valign="top">0.49
+<break/>(0.41, 0.97)</td><td align="center" colspan="1" rowspan="1" valign="top">0.74</td><td align="center" colspan="1" rowspan="1" valign="top">0.65
+<break/>(0.51, 0.80)</td><td align="center" colspan="1" rowspan="1" valign="top">0.55
+<break/>(0.43, 0.95)</td><td align="center" colspan="1" rowspan="1" valign="top">0.97</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">Faecal elastase
+<italic toggle="yes">(&#x003bc;g/g)</italic>
+</td><td align="center" colspan="1" rowspan="1" valign="top">4.9
+<break/>(2.0, 6.5)</td><td align="center" colspan="1" rowspan="1" valign="top">2.5
+<break/>(1.2, 7.7)</td><td align="center" colspan="1" rowspan="1" valign="top">0.84</td><td align="center" colspan="1" rowspan="1" valign="top">1.9
+<break/>(&#x0003c;1.0, 5.6)</td><td align="center" colspan="1" rowspan="1" valign="top">&#x0003c;1.0
+<break/>(&#x0003c;1.0, 7.0)</td><td align="center" colspan="1" rowspan="1" valign="top">0.42</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">Faecal calprotectin
+<italic toggle="yes">(&#x003bc;g/g)</italic>
+</td><td align="center" colspan="1" rowspan="1" valign="top">13.7
+<break/>(5.2, 24.9)</td><td align="center" colspan="1" rowspan="1" valign="top">16.4
+<break/>(8.0, 23.6)</td><td align="center" colspan="1" rowspan="1" valign="top">0.64</td><td align="center" colspan="1" rowspan="1" valign="top">13.7
+<break/>(5.2, 25.8)</td><td align="center" colspan="1" rowspan="1" valign="top">12.6
+<break/>(8.0, 21.5)</td><td align="center" colspan="1" rowspan="1" valign="top">0.73</td></tr></tbody></table></table-wrap></sec><sec><title>Primary outcome</title><p>There was no significant difference between the treatment groups for OCTT (TEZ/IVA &#x0003e;360 minutes [225, &#x0003e;360] vs. placebo 330 minutes [285, &#x0003e;360], p = 0.8,
+<xref rid="f4" ref-type="fig">Figure 4</xref>). An OCTT over 360 minutes was not quantified as the last MRI scan was at 360 minutes. For 2 participants, the meal had not reached the caecum by 360 minutes in either treatment period. This was also true for a further participant on placebo only and 2 participants on TEZ/IVA only.</p><fig position="float" fig-type="figure" id="f4"><label>Figure 4. </label><caption><title>Graph to show the time taken for a meal to reach the caecum in the primary analysis (n = 8).</title><p>Number censored TEZ/IVA = 4, placebo = 3.</p></caption><graphic xlink:href="nihropenres-3-14726-g0003" position="float"/></fig></sec><sec><title>Secondary outcomes</title><p>There were no significant differences between the two groups for the secondary and exploratory outcomes.</p><p>
+<bold>
+<italic toggle="yes">Corrected SBWC and delta SBW</italic>
+</bold>
+</p><p>The corrected SBWC area under the curve (AUC) was not different between the treatment groups (TEZ/IVA (49 L&#x02219;min/m
+<sup>2</sup> [39, 69] vs. placebo 35 L&#x02219;min /m
+<sup>2</sup> [29, 42], p = 0.08,
+<xref rid="f5" ref-type="fig">Figure 5A</xref>). There was no difference in delta SBW (
+<xref rid="f5" ref-type="fig">Figure 5B</xref>) between the two treatment groups TEZ/IVA 35mL/m
+<sup>2</sup> [-67, 64] vs. placebo 3mL/m
+<sup>2</sup> [-8, 33], p &#x0003e; 0.99).</p><fig position="float" fig-type="figure" id="f5"><label>Figure 5. </label><caption><title>Graphs for primary per protocol analysis (n = 8) of corrected SBWC and delta SBW.</title><p>(
+<bold>A</bold>) Median (&#x025b4;) and IQR (whiskers) changes in corrected SBWC during a study day. &#x02195; shows the delta SBW determined from the difference in corrected SBWC at 240 and 300 minutes for the averaged dataset. (
+<bold>B</bold>) Delta SBW for each participant (&#x025b4;), error bars to show median and IQR.</p></caption><graphic xlink:href="nihropenres-3-14726-g0004" position="float"/></fig><p>Of note, there was an outlier participant in the secondary post-hoc analysis whose delta SBWC was more than four times that of the upper quartile in the intention-to-treat analysis (TEZ/IVA 286mL/m
+<sup>2</sup>, off treatment 368mL/m
+<sup>2</sup>,
+<xref rid="f6" ref-type="fig">Figure 6</xref>). Larger delta SBW indicates a larger volume of small bowel water has passed through the ileo-caecal valve over 1 hour, following the stimulus of a standardised meal.</p><fig position="float" fig-type="figure" id="f6"><label>Figure 6. </label><caption><title>Graph for secondary post-hoc intention-to-treat analysis (n = 12) of corrected delta SBW.</title><p>Change in corrected delta SBW between off treatment and during TEZ/IVA for each participant.</p></caption><graphic xlink:href="nihropenres-3-14726-g0005" position="float"/></fig><p>
+<bold>
+<italic toggle="yes">Corrected colonic volumes</italic>
+</bold>
+</p><p>Corrected colonic volumes AUC were not different between the groups (TEZ/IVA 179 L&#x02219;min/m
+<sup>2</sup> [156, 232] vs placebo 167 L&#x02219;min/m
+<sup>2</sup> [144, 211], p = 0.46,
+<xref rid="f7" ref-type="fig">Figure 7A</xref>).</p><p>The corrected fasting colonic volumes were not different between the groups (TEZ/IVA 565mL/m
+<sup>2</sup> [490, 732] vs. placebo 566mL/m
+<sup>2</sup> [416, 614], p = 0.64,
+<xref rid="f7" ref-type="fig">Figure 7B</xref>).</p><fig position="float" fig-type="figure" id="f7"><label>Figure 7. </label><caption><title>Graphs for primary per protocol analysis (n = 8) of corrected colon volumes.</title><p>(
+<bold>A</bold>) Corrected colon volume area under the curve (AUC) after 21 days treatment. (
+<bold>B</bold>) Fasting corrected colon volume after 21 days treatment.</p></caption><graphic xlink:href="nihropenres-3-14726-g0006" position="float"/></fig><p>
+<bold>
+<italic toggle="yes">Gastric half-emptying times</italic>
+</bold>
+</p><p>Gastric half-emptying times were not different (TEZ/IVA 96 minutes [70, 105] vs. placebo 96 minutes [70, 110], p = 0.57)</p><p>
+<bold>
+<italic toggle="yes">GI symptoms</italic>
+</bold>
+</p><p>There was no difference between treatment periods in the GI symptoms assessed by PAC-SYM (TEZ/IVA 0.63 [0.08, 0.88] vs. placebo 0.71 [0.13, 0.83], p = 0.68) or CFAbd-Score questionnaires (TEZ/IVA 17.2 [12.1, 27.4] vs. placebo 21.2 [16.9, 27.8], p = 0.45,
+<xref rid="f8" ref-type="fig">Figure 8</xref>). The highest scoring domain within the CFAbd-Score was disorders of bowel movement and the lowest scoring domain was eating and appetite (
+<xref rid="f8" ref-type="fig">Figure 8</xref>). During the visit, the total Likert scores did not differ between the groups (TEZ/IVA 3.5 [0, 9.63] vs placebo 2.75 [0.88, 9.5], p = 0.50). Individual domains within the Likert score (flatulence; bloating; abdominal pain) remained low, with minimal increases postprandially during TEZ/IVA.</p><fig position="float" fig-type="figure" id="f8"><label>Figure 8. </label><caption><title>Diagram to show median scores for the total CFAbd-Score as well as for each of the five domains of the CFAbd-Score in the primary analysis (n = 8).</title><p>GOR: gastro-oesophageal reflux, QOL: quality of life. A higher domain or total score reflects a higher symptom severity.</p></caption><graphic xlink:href="nihropenres-3-14726-g0007" position="float"/></fig></sec><sec><title>Exploratory outcomes</title><p>
+<bold>
+<italic toggle="yes">MRI analysis</italic>
+</bold>
+</p><p>The terminal ileum motility scores (
+<xref rid="T4" ref-type="table">Table 4</xref>) were low throughout the study day on placebo and after TEZ/IVA. In inflammatory bowel disease, a low motility score has been shown to be associated with active ileal inflammation
+<sup>
+<xref rid="ref-18" ref-type="bibr">18</xref>
+</sup>. The fasting and postprandial terminal ileum motility scores were not different when on placebo or TEZ/IVA. The terminal ileum was not visualised in 1 participant at fasting for both TEZ/IVA and placebo or in 2 participants at T0, and therefore they were excluded from analysis. The T
+<sub>1</sub> analysis of the ascending colon at fasting was low in both treatment groups but not different between placebo and TEZ/IVA (
+<xref rid="T4" ref-type="table">Table 4</xref>).</p><p>
+<bold>
+<italic toggle="yes">Stool markers</italic>
+</bold>
+</p><p>The median faecal elastase and calprotectin were low in both treatment groups.</p></sec></sec><sec sec-type="discussion"><title>Discussion</title><p>Our study is the first randomised placebo-controlled trial to evaluate the GI effects of a CFTR modulator using MRI. These data provide valuable insights in both objective and subjective measurements. Our study showed no significant difference after TEZ/IVA in GI function, transit, symptoms or in stool markers of inflammation or pancreatic function. A longer treatment period, larger sample size or more potent modulator may be needed to show a difference, if a true difference is present. Newer triple combination CFTR modulator therapies have proven to be more potent in improving lung function and nutritional status
+<sup>
+<xref rid="ref-25" ref-type="bibr">25</xref>
+</sup> than single or dual combination CFTR modulators.</p><p>We observed a prolonged OCTT, in study participants, similar to other studies
+<sup>
+<xref rid="ref-13" ref-type="bibr">13</xref>,
+<xref rid="ref-26" ref-type="bibr">26</xref>,
+<xref rid="ref-27" ref-type="bibr">27</xref>
+</sup>, despite a period of TEZ/IVA. Wireless capsule studies showed no change in small bowel transit before and after ivacaftor
+<sup>
+<xref rid="ref-11" ref-type="bibr">11</xref>
+</sup>, although there was an increase in small intestinal pH. A CFTR modulator may increase intestinal pH and influence the overall balance of GI secretions. However, any changes in pancreatic bicarbonate secretion with ivacaftor may not be enough to affect the overall viscosity of small bowel content and thus transit times in CF.</p><p>Compared to previous MRI studies using healthy volunteers, our new CF data show a higher SBWC
+<sup>
+<xref rid="ref-28" ref-type="bibr">28</xref>
+</sup> and a lower water content of the ascending colon chyme
+<sup>
+<xref rid="ref-29" ref-type="bibr">29</xref>
+</sup>. Whilst we do not see any changes in corrected SBWC after TEZ/IVA, we did observe the fluctuations in pre and postprandial small bowel water (
+<xref rid="f5" ref-type="fig">Figure 5A</xref>) which may reflect the secretion and absorption actions within the healthy small bowel
+<sup>
+<xref rid="ref-30" ref-type="bibr">30</xref>
+</sup>. The relative contribution of pancreatic secretion cannot be determined from these data and would require dedicated pancreatic imaging
+<sup>
+<xref rid="ref-31" ref-type="bibr">31</xref>
+</sup>.</p><p>A low delta SBW indicates less small bowel water passing through the ileo-caecal valve in response to a meal and could reflect a partial obstruction of the terminal ileum in CF
+<sup>
+<xref rid="ref-13" ref-type="bibr">13</xref>
+</sup>. A negative delta SBW suggests small bowel water build up. The post-hoc analysis delta SBW outlier was the participant with a history of neonatal meconium ileus and may reflect the effects of surgery. Such a high delta SBW value (indicating an increased volume passing through the ileo-caecal valve) suggests that a shorter small bowel may lead to faster transit and there may be little or no obstruction at the ileo-caecal valve.</p><p>We intentionally focused on the terminal ileum because this is where we believe the underlying pathology exists for CF GI problems. Reduced small intestinal motility using capsule endoscopy
+<sup>
+<xref rid="ref-27" ref-type="bibr">27</xref>
+</sup> and MRI
+<sup>
+<xref rid="ref-16" ref-type="bibr">16</xref>
+</sup> has been reported in CF compared to controls. Low motility scores correlate with active inflammation seen in inflammatory bowel disease by endoscopy and histopathology
+<sup>
+<xref rid="ref-18" ref-type="bibr">18</xref>
+</sup>. However direct comparison with our study is difficult since different motility patterns may be induced with different stimuli (bowel preparation vs. high calorie meal). We did not find raised faecal calprotectin levels, which suggests that other factors other than inflammation may explain the cause of low terminal ileum motility and low delta SBW.</p><p>We saw no significant difference in GI symptoms after TEZ/IVA. However, the GI abnormalities observed using MRI may contribute to the high scores in disorders of bowel movement. It is likely that a much larger sample size would be required to see an effect on these subjective symptom score outcomes
+<sup>
+<xref rid="ref-10" ref-type="bibr">10</xref>
+</sup>.</p><p>Whilst we have not seen any difference in a range of GI measures during TEZ/IVA compared to placebo, other published data suggest there may be value in evaluating GI function over longer periods and with triple combination CFTR modulators.
+<italic toggle="yes">In vitro</italic> studies, using intestinal organoids from individuals with CF, are supportive of the return of intestinal CFTR function with both TEZ/IVA and triple combination CFTR therapy
+<sup>
+<xref rid="ref-32" ref-type="bibr">32</xref>
+</sup>.</p><sec><title>Strengths and weaknesses</title><p>Our study contributes to the growing evidence for GI pathophysiology in CF using non-invasive techniques. We present data in keeping with our previous findings
+<sup>
+<xref rid="ref-13" ref-type="bibr">13</xref>
+</sup> and with wireless capsule data
+<sup>
+<xref rid="ref-11" ref-type="bibr">11</xref>
+</sup>.</p><p>Other studies have made attempts to evaluate GI function, but there are few that are placebo-controlled. Approximately 80% of people with CF are eligible for a CFTR modulator at present
+<sup>
+<xref rid="ref-33" ref-type="bibr">33</xref>
+</sup>. Trials which aim to compare new modulators with placebo will be difficult as it may be considered unethical for patients to stop their modulator therapy to participate in a placebo-controlled trial.</p><p>We acknowledge our study&#x02019;s limitations, including the 6 hour MRI protocol which could be burdensome and impractical for routine clinical use. We plan to develop shorter, simplified MRI protocols and the metric, delta SBW, shows promise in this regard.</p><p>Another limitation is our gut transit time measurement. We were limited to orocaecal transit due to the time and practicalities for participants. However, it has been previously reported that there is no difference in colonic and whole gut transit times in CF compared to controls
+<sup>
+<xref rid="ref-25" ref-type="bibr">25</xref>
+</sup> or in participants with CF at baseline compared to measurements during ivacaftor treatment
+<sup>
+<xref rid="ref-11" ref-type="bibr">11</xref>
+</sup>. It may be beneficial to assess these colonic and whole gut transit times, however, it would add to the participant burden and study costs.</p><p>We also recognise there is a large variation between participants for colonic volumes and SBW, which is a limitation to our study outcomes. However, this could be explained by the variations in CF disease. Our placebo data are consistent with our previous work but further research with larger sample sizes are required to advance our understanding of these MRI metrics.</p><p>Other limitations include the relatively short treatment periods, the use of TEZ/IVA; a less potent CFTR modulator than elexacaftor/tezacaftor/ivacaftor, and the true TEZ/IVA levels were not measured. Wireless capsule data
+<sup>
+<xref rid="ref-11" ref-type="bibr">11</xref>
+</sup> suggest small intestinal pH changes after 1 month on ivacaftor and therefore we hypothesised that changes in MRI parameters may also be seen. Although we have not shown a change in GI function with TEZ/IVA, this is the first randomised controlled trial with objective GI outcomes.</p></sec></sec><sec sec-type="conclusions"><title>Conclusions</title><p>We have successfully conducted a placebo controlled, cross-over trial to compare TEZ/IVA with placebo and report no change in GI function and symptoms after receiving approximately 21 days of TEZ/IVA. Our data contribute to the existing data on GI MRI outcomes in CF and will inform future sample size calculations. Future studies including longitudinal assessment of triple combination CFTR modulators are indicated to evaluate their GI effects in the long term and aid our understanding of GI function in CF. Future studies should guide treatments of GI symptoms and complications in the presence of triple combination modulators.</p></sec></body><back><ack><title>Acknowledgements</title><p>The authors would also like to acknowledge Melanie Lingaya for her input in faecal calprotectin and faecal elastase analysis.</p></ack><sec sec-type="data-availability"><title>Data availability</title><sec><title>Underlying data</title><p>Due to the small sample size, the dataset cannot be effectively deidentified. As required by the research ethics committee, data, with personal identifiers removed can only be made available upon receipt of a reasonable request to the corresponding author (
+<email xlink:href="mailto:alan.smyth@nottingham.ac.uk">alan.smyth@nottingham.ac.uk</email>). MRI scans carry the risk of identifying the participant and will not be provided.</p></sec><sec><title>Analysis code</title><p>As the in-house code written for the analysis is specific to this study, interested readers can apply for access from the corresponding author to allow discussion of how it should be used (
+<email xlink:href="mailto:alan.smyth@nottingham.ac.uk">alan.smyth@nottingham.ac.uk</email>).</p></sec><sec><title>Reporting guidelines</title><p>Zenodo: Complete CONSORT checklist for &#x02018;A randomised crossover trial of tezacaftor-ivacaftor for gut dysfunction in cystic fibrosis with magnetic resonance imaging (MRI) outcomes.&#x02019;
+<ext-link xlink:href="https://doi.org/10.5281/zenodo.10118631" ext-link-type="uri">https://doi.org/10.5281/zenodo.10118631</ext-link>
+<sup>
+<xref rid="ref-14" ref-type="bibr">14</xref>
+</sup>.</p><p>Data are available under the terms of the
+<ext-link xlink:href="http://creativecommons.org/publicdomain/zero/1.0/" ext-link-type="uri">Creative Commons Zero "No rights reserved" data waiver</ext-link> (CC0 1.0 Public domain dedication).</p></sec></sec><ref-list><ref id="ref-1"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Elborn</surname><given-names>JS</given-names></name>
+</person-group>:
+<article-title>Cystic fibrosis.</article-title>
+<source>
+<italic toggle="yes">Lancet.</italic>
+</source>
+<year>2016</year>;<volume>388</volume>(<issue>10059</issue>):<fpage>2519</fpage>&#x02013;<lpage>31</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0140-6736(16)00576-6</pub-id>
+<pub-id pub-id-type="pmid">27140670</pub-id>
+</mixed-citation></ref><ref id="ref-2"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Rowbotham</surname><given-names>NJ</given-names></name>
+<name><surname>Smith</surname><given-names>S</given-names></name>
+<name><surname>Leighton</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>:
+<article-title>The top 10 research priorities in cystic fibrosis developed by a partnership between people with CF and healthcare providers.</article-title>
+<source>
+<italic toggle="yes">Thorax.</italic>
+</source>
+<year>2018</year>;<volume>73</volume>(<issue>4</issue>):<fpage>388</fpage>&#x02013;<lpage>90</lpage>.
+<pub-id pub-id-type="doi">10.1136/thoraxjnl-2017-210473</pub-id>
+<!--<pub-id pub-id-type="pmcid">5870449</pub-id>-->
+<pub-id pub-id-type="pmid">28778919</pub-id>
+</mixed-citation></ref><ref id="ref-3"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Jaudszus</surname><given-names>A</given-names></name>
+<name><surname>Zeman</surname><given-names>E</given-names></name>
+<name><surname>Jans</surname><given-names>T</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Validity and Reliability of a Novel Multimodal Questionnaire for the Assessment of Abdominal Symptoms in People with Cystic Fibrosis (CFAbd-Score).</article-title>
+<source>
+<italic toggle="yes">Patient.</italic>
+</source>
+<year>2019</year>;<volume>12</volume>(<issue>4</issue>):<fpage>419</fpage>&#x02013;<lpage>28</lpage>.
+<pub-id pub-id-type="doi">10.1007/s40271-019-00361-2</pub-id>
+<pub-id pub-id-type="pmid">30887269</pub-id>
+</mixed-citation></ref><ref id="ref-4"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Smith</surname><given-names>S</given-names></name>
+<name><surname>Rowbotham</surname><given-names>N</given-names></name>
+<name><surname>Davies</surname><given-names>G</given-names></name>
+<etal/>
+</person-group>:
+<article-title>How can we relieve gastrointestinal symptoms in people with cystic fibrosis? An international qualitative survey.</article-title>
+<source>
+<italic toggle="yes">BMJ Open Respir Res.</italic>
+</source>
+<year>2020</year>;<volume>7</volume>(<issue>1</issue>):
+<elocation-id>e000614</elocation-id>.
+<pub-id pub-id-type="doi">10.1136/bmjresp-2020-000614</pub-id>
+<!--<pub-id pub-id-type="pmcid">7478045</pub-id>-->
+<pub-id pub-id-type="pmid">32900780</pub-id>
+</mixed-citation></ref><ref id="ref-5"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Ramsey</surname><given-names>BW</given-names></name>
+<name><surname>Davies</surname><given-names>J</given-names></name>
+<name><surname>McElvaney</surname><given-names>NG</given-names></name>
+<etal/>
+</person-group>:
+<article-title>A CFTR Potentiator in Patients with Cystic Fibrosis and the
+<italic toggle="yes">G551D</italic> Mutation.</article-title>
+<source>
+<italic toggle="yes">N Engl J Med.</italic>
+</source>
+<year>2011</year>;<volume>365</volume>(<issue>18</issue>):<fpage>1663</fpage>&#x02013;<lpage>72</lpage>.
+<pub-id pub-id-type="doi">10.1056/NEJMoa1105185</pub-id>
+<!--<pub-id pub-id-type="pmcid">3230303</pub-id>-->
+<pub-id pub-id-type="pmid">22047557</pub-id>
+</mixed-citation></ref><ref id="ref-6"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Taylor-Cousar</surname><given-names>JL</given-names></name>
+<name><surname>Munck</surname><given-names>A</given-names></name>
+<name><surname>McKone</surname><given-names>EF</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Tezacaftor-Ivacaftor in Patients with Cystic Fibrosis Homozygous for Phe508del.</article-title>
+<source>
+<italic toggle="yes">N Engl J Med.</italic>
+</source>
+<year>2017</year>;<volume>377</volume>(<issue>21</issue>):<fpage>2013</fpage>&#x02013;<lpage>23</lpage>.
+<pub-id pub-id-type="doi">10.1056/NEJMoa1709846</pub-id>
+<pub-id pub-id-type="pmid">29099344</pub-id>
+</mixed-citation></ref><ref id="ref-7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Borowitz</surname><given-names>D</given-names></name>
+<name><surname>Lubarsky</surname><given-names>B</given-names></name>
+<name><surname>Wilschanski</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Nutritional Status Improved in Cystic Fibrosis Patients with the
+<italic toggle="yes">G551D</italic> Mutation After Treatment with Ivacaftor.</article-title>
+<source>
+<italic toggle="yes">Dig Dis Sci.</italic>
+</source>
+<year>2016</year>;<volume>61</volume>(<issue>1</issue>):<fpage>198</fpage>&#x02013;<lpage>207</lpage>.
+<pub-id pub-id-type="doi">10.1007/s10620-015-3834-2</pub-id>
+<pub-id pub-id-type="pmid">26250833</pub-id>
+</mixed-citation></ref><ref id="ref-8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Rosenfeld</surname><given-names>M</given-names></name>
+<name><surname>Wainwright</surname><given-names>CE</given-names></name>
+<name><surname>Higgins</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Ivacaftor treatment of cystic fibrosis in children aged 12 to &#x0003c;24 months and with a
+<italic toggle="yes">CFTR</italic> gating mutation (ARRIVAL): a phase 3 single-arm study.</article-title>
+<source>
+<italic toggle="yes">Lancet Respir Med.</italic>
+</source>
+<year>2018</year>;<volume>6</volume>(<issue>7</issue>):<fpage>545</fpage>&#x02013;<lpage>53</lpage>.
+<pub-id pub-id-type="doi">10.1016/S2213-2600(18)30202-9</pub-id>
+<!--<pub-id pub-id-type="pmcid">6626762</pub-id>-->
+<pub-id pub-id-type="pmid">29886024</pub-id>
+</mixed-citation></ref><ref id="ref-9"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Davies</surname><given-names>JC</given-names></name>
+<name><surname>Cunningham</surname><given-names>S</given-names></name>
+<name><surname>Harris</surname><given-names>WT</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Safety, pharmacokinetics, and pharmacodynamics of ivacaftor in patients aged 2&#x02013;5 years with cystic fibrosis and a
+<italic toggle="yes">CFTR</italic> gating mutation (KIWI): an open-label, single-arm study.</article-title>
+<source>
+<italic toggle="yes">Lancet Respir Med.</italic>
+</source>
+<year>2016</year>;<volume>4</volume>(<issue>2</issue>):<fpage>107</fpage>&#x02013;<lpage>15</lpage>.
+<pub-id pub-id-type="doi">10.1016/S2213-2600(15)00545-7</pub-id>
+<!--<pub-id pub-id-type="pmcid">6734927</pub-id>-->
+<pub-id pub-id-type="pmid">26803277</pub-id>
+</mixed-citation></ref><ref id="ref-10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Mainz</surname><given-names>JG</given-names></name>
+<name><surname>Zagoya</surname><given-names>C</given-names></name>
+<name><surname>Polte</surname><given-names>L</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Elexacaftor-Tezacaftor-Ivacaftor Treatment Reduces Abdominal Symptoms in Cystic Fibrosis-Early results Obtained With the CF-Specific CFAbd-Score.</article-title>
+<source>
+<italic toggle="yes">Front Pharmacol.</italic>
+</source>
+<year>2022</year>;<volume>13</volume>:
+<elocation-id>877118</elocation-id>.
+<pub-id pub-id-type="doi">10.3389/fphar.2022.877118</pub-id>
+<!--<pub-id pub-id-type="pmcid">9203829</pub-id>-->
+<pub-id pub-id-type="pmid">35721187</pub-id>
+</mixed-citation></ref><ref id="ref-11"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Gelfond</surname><given-names>D</given-names></name>
+<name><surname>Heltshe</surname><given-names>S</given-names></name>
+<name><surname>Ma</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Impact of CFTR Modulation on Intestinal pH, Motility, and Clinical Outcomes in Patients With Cystic Fibrosis and the G551D Mutation.</article-title>
+<source>
+<italic toggle="yes">Clin Transl Gastroenterol.</italic>
+</source>
+<year>2017</year>;<volume>8</volume>(<issue>3</issue>):<fpage>e81</fpage>.
+<pub-id pub-id-type="doi">10.1038/ctg.2017.10</pub-id>
+<!--<pub-id pub-id-type="pmcid">5387753</pub-id>-->
+<pub-id pub-id-type="pmid">28300821</pub-id>
+</mixed-citation></ref><ref id="ref-12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Ooi</surname><given-names>CY</given-names></name>
+<name><surname>Syed</surname><given-names>SA</given-names></name>
+<name><surname>Rossi</surname><given-names>L</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Impact of CFTR modulation with Ivacaftor on Gut Microbiota and Intestinal Inflammation.</article-title>
+<source>
+<italic toggle="yes">Sci Rep.</italic>
+</source>
+<year>2018</year>;<volume>8</volume>(<issue>1</issue>):
+<elocation-id>17834</elocation-id>.
+<pub-id pub-id-type="doi">10.1038/s41598-018-36364-6</pub-id>
+<!--<pub-id pub-id-type="pmcid">6292911</pub-id>-->
+<pub-id pub-id-type="pmid">30546102</pub-id>
+</mixed-citation></ref><ref id="ref-13"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Ng</surname><given-names>C</given-names></name>
+<name><surname>Dellschaft</surname><given-names>NS</given-names></name>
+<name><surname>Hoad</surname><given-names>CL</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Postprandial changes in gastrointestinal function and transit in cystic fibrosis assessed by Magnetic Resonance Imaging.</article-title>
+<source>
+<italic toggle="yes">J Cyst Fibros.</italic>
+</source>
+<year>2020</year>;<volume>20</volume>(<issue>4</issue>):<fpage>591</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jcf.2020.06.004</pub-id>
+<pub-id pub-id-type="pmid">32561324</pub-id>
+</mixed-citation></ref><ref id="ref-14"><label>14</label><mixed-citation publication-type="journal">
+<collab>AlanRSmyth</collab>:
+<article-title>AlanRSmyth/GIFT-CF-2: v1.0 GIFT-CF 2 CONSORT. </article-title>
+<italic toggle="yes">Zenodo</italic>.<year>2023</year>.
+<pub-id pub-id-type="doi">10.5281/zenodo.10118631</pub-id>
+</mixed-citation></ref><ref id="ref-15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Quanjer</surname><given-names>PH</given-names></name>
+<name><surname>Stanojevic</surname><given-names>S</given-names></name>
+<name><surname>Cole</surname><given-names>TJ</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Multi-ethnic reference values for spirometry for the 3-95-yr age range: the global lung function 2012 equations.</article-title>
+<source>
+<italic toggle="yes">Eur Respir J.</italic>
+</source>
+<year>2012</year>;<volume>40</volume>(<issue>6</issue>):<fpage>1324</fpage>&#x02013;<lpage>43</lpage>.
+<pub-id pub-id-type="doi">10.1183/09031936.00080312</pub-id>
+<!--<pub-id pub-id-type="pmcid">3786581</pub-id>-->
+<pub-id pub-id-type="pmid">22743675</pub-id>
+</mixed-citation></ref><ref id="ref-16"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Dellschaft</surname><given-names>NS</given-names></name>
+<name><surname>Ng</surname><given-names>C</given-names></name>
+<name><surname>Hoad</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Magnetic resonance imaging of the gastrointestinal tract shows reduced small bowel motility and altered chyme in cystic fibrosis compared to controls.</article-title>
+<source>
+<italic toggle="yes">J Cyst Fibros.</italic>
+</source>
+<year>2022</year>;<volume>21</volume>(<issue>3</issue>):<fpage>502</fpage>&#x02013;<lpage>505</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jcf.2021.12.007</pub-id>
+<pub-id pub-id-type="pmid">34922853</pub-id>
+</mixed-citation></ref><ref id="ref-17"><label>17</label><mixed-citation publication-type="webpage">
+<collab>Vertex Pharmaceuticals (Europe) Limited, London, UK</collab>:
+<article-title>Summary of Medicinal Product Characteristics: Symkevi 100 mg/150 mg film coated tablets. </article-title>
+<year>2021</year>.
+<ext-link xlink:href="https://www.medicines.org.uk/emc/product/9634/" ext-link-type="uri">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-18"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Menys</surname><given-names>A</given-names></name>
+<name><surname>Puylaert</surname><given-names>C</given-names></name>
+<name><surname>Tutein Nolthenius</surname><given-names>CE</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Quantified Terminal Ileal Motility during MR Enterography as a Biomarker of Crohn Disease Activity: Prospective Multi-Institution Study.</article-title>
+<source>
+<italic toggle="yes">Radiology.</italic>
+</source>
+<year>2018</year>;<volume>289</volume>(<issue>2</issue>):<fpage>428</fpage>&#x02013;<lpage>35</lpage>.
+<pub-id pub-id-type="doi">10.1148/radiol.2018180100</pub-id>
+<pub-id pub-id-type="pmid">30129901</pub-id>
+</mixed-citation></ref><ref id="ref-19"><label>19</label><mixed-citation publication-type="confproc">
+<person-group person-group-type="author">
+<name><surname>McAuliffe</surname><given-names>MJ</given-names></name>
+<name><surname>Lalonde</surname><given-names>FM</given-names></name>
+<name><surname>McGarry</surname><given-names>D</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Medical Image Processing, Analysis &#x00026; Visualization in clinical research. </article-title>
+<italic toggle="yes">Proceedings 14th IEEE Symposium on Computer-Based Medical Systems CBMS 2001. </italic>IEEE,<year>2001</year>;<fpage>381</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="doi">10.1109/CBMS.2001.941749</pub-id>
+</mixed-citation></ref><ref id="ref-20"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Sharkey</surname><given-names>I</given-names></name>
+<name><surname>Boddy</surname><given-names>AV</given-names></name>
+<name><surname>Wallace</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Body surface area estimation in children using weight alone: application in paediatric oncology.</article-title>
+<source>
+<italic toggle="yes">Br J Cancer.</italic>
+</source>
+<year>2001</year>;<volume>85</volume>(<issue>1</issue>):<fpage>23</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1054/bjoc.2001.1859</pub-id>
+<!--<pub-id pub-id-type="pmcid">2363913</pub-id>-->
+<pub-id pub-id-type="pmid">11437397</pub-id>
+</mixed-citation></ref><ref id="ref-21"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Parker</surname><given-names>HL</given-names></name>
+<name><surname>Tucker</surname><given-names>E</given-names></name>
+<name><surname>Hoad</surname><given-names>CL</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Development and validation of a large, modular test meal with liquid and solid components for assessment of gastric motor and sensory function by non-invasive imaging.</article-title>
+<source>
+<italic toggle="yes">Neurogastroenterol Motil.</italic>
+</source>
+<year>2016</year>;<volume>28</volume>(<issue>4</issue>):<fpage>554</fpage>&#x02013;<lpage>68</lpage>.
+<pub-id pub-id-type="doi">10.1111/nmo.12752</pub-id>
+<pub-id pub-id-type="pmid">26863609</pub-id>
+</mixed-citation></ref><ref id="ref-22"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Frank</surname><given-names>L</given-names></name>
+<name><surname>Kleinman</surname><given-names>L</given-names></name>
+<name><surname>Farup</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Psychometric validation of a constipation symptom assessment questionnaire.</article-title>
+<source>
+<italic toggle="yes">Scand J Gastroenterol.</italic>
+</source>
+<year>1999</year>;<volume>34</volume>(<issue>9</issue>):<fpage>870</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1080/003655299750025327</pub-id>
+<pub-id pub-id-type="pmid">10522604</pub-id>
+</mixed-citation></ref><ref id="ref-23"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Marsh</surname><given-names>R</given-names></name>
+<name><surname>Dos Santos</surname><given-names>C</given-names></name>
+<name><surname>Hanson</surname><given-names>L</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Tezacaftor/Ivacaftor therapy has negligible effects on the cystic fibrosis gut microbiome.</article-title>
+<source>
+<italic toggle="yes">Microbiol Spectr.</italic>
+</source>
+<year>2023</year>;<volume>11</volume>(<issue>5</issue>):
+<elocation-id>e0117523</elocation-id>.
+<pub-id pub-id-type="doi">10.1128/spectrum.01175-23</pub-id>
+<!--<pub-id pub-id-type="pmcid">10581179</pub-id>-->
+<pub-id pub-id-type="pmid">37607068</pub-id>
+</mixed-citation></ref><ref id="ref-24"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Julious</surname><given-names>SA</given-names></name>
+</person-group>:
+<article-title>Sample size of 12 per group rule of thumb for a pilot study.</article-title>
+<source>
+<italic toggle="yes">Pharm Stat.</italic>
+</source>
+<year>2005</year>;<volume>4</volume>(<issue>4</issue>):<fpage>287</fpage>&#x02013;<lpage>91</lpage>.
+<pub-id pub-id-type="doi">10.1002/pst.185</pub-id>
+</mixed-citation></ref><ref id="ref-25"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Middleton</surname><given-names>PG</given-names></name>
+<name><surname>Mall</surname><given-names>MA</given-names></name>
+<name><surname>D&#x00159;ev&#x000ed;nek</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Elexacaftor-Tezacaftor-Ivacaftor for Cystic Fibrosis with a Single Phe508del Allele.</article-title>
+<source>
+<italic toggle="yes">N Engl J Med.</italic>
+</source>
+<year>2019</year>;<volume>381</volume>(<issue>19</issue>):<fpage>1809</fpage>&#x02013;<lpage>19</lpage>.
+<pub-id pub-id-type="doi">10.1056/NEJMoa1908639</pub-id>
+<!--<pub-id pub-id-type="pmcid">7282384</pub-id>-->
+<pub-id pub-id-type="pmid">31697873</pub-id>
+</mixed-citation></ref><ref id="ref-26"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Gelfond</surname><given-names>D</given-names></name>
+<name><surname>Ma</surname><given-names>C</given-names></name>
+<name><surname>Semler</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Intestinal pH and gastrointestinal transit profiles in cystic fibrosis patients measured by wireless motility capsule.</article-title>
+<source>
+<italic toggle="yes">Dig Dis Sci.</italic>
+</source>
+<year>2013</year>;<volume>58</volume>(<issue>8</issue>):<fpage>2275</fpage>&#x02013;<lpage>81</lpage>.
+<pub-id pub-id-type="doi">10.1007/s10620-012-2209-1</pub-id>
+<pub-id pub-id-type="pmid">22592630</pub-id>
+</mixed-citation></ref><ref id="ref-27"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Malagelada</surname><given-names>C</given-names></name>
+<name><surname>Bendez&#x000fa;</surname><given-names>RA</given-names></name>
+<name><surname>Segu&#x000ed;</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Motor dysfunction of the gut in cystic fibrosis.</article-title>
+<source>
+<italic toggle="yes">Neurogastroenterol Motil.</italic>
+</source>
+<year>2020</year>;<volume>32</volume>(<issue>9</issue>):
+<elocation-id>e13883</elocation-id>.
+<pub-id pub-id-type="doi">10.1111/nmo.13883</pub-id>
+<pub-id pub-id-type="pmid">32475007</pub-id>
+</mixed-citation></ref><ref id="ref-28"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Marciani</surname><given-names>L</given-names></name>
+<name><surname>Cox</surname><given-names>EF</given-names></name>
+<name><surname>Hoad</surname><given-names>CL</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Postprandial changes in small bowel water content in healthy subjects and patients with irritable bowel syndrome.</article-title>
+<source>
+<italic toggle="yes">Gastroenterology.</italic>
+</source>
+<year>2010</year>;<volume>138</volume>(<issue>2</issue>):<fpage>469</fpage>&#x02013;<lpage>77</lpage>.
+<elocation-id>e1</elocation-id>.
+<pub-id pub-id-type="doi">10.1053/j.gastro.2009.10.055</pub-id>
+<pub-id pub-id-type="pmid">19909743</pub-id>
+</mixed-citation></ref><ref id="ref-29"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Major</surname><given-names>G</given-names></name>
+<name><surname>Murray</surname><given-names>K</given-names></name>
+<name><surname>Singh</surname><given-names>G</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Demonstration of differences in colonic volumes, transit, chyme consistency, and response to psyllium between healthy and constipated subjects using magnetic resonance imaging.</article-title>
+<source>
+<italic toggle="yes">Neurogastroenterol Motil.</italic>
+</source>
+<year>2018</year>;<volume>30</volume>(<issue>9</issue>):
+<elocation-id>e13400</elocation-id>.
+<pub-id pub-id-type="doi">10.1111/nmo.13400</pub-id>
+<pub-id pub-id-type="pmid">30062794</pub-id>
+</mixed-citation></ref><ref id="ref-30"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Marciani</surname><given-names>L</given-names></name>
+<name><surname>Pritchard</surname><given-names>SE</given-names></name>
+<name><surname>Hellier-Woods</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Delayed gastric emptying and reduced postprandial small bowel water content of equicaloric whole meal bread versus rice meals in healthy subjects: novel MRI insights.</article-title>
+<source>
+<italic toggle="yes">Eur J Clin Nutr.</italic>
+</source>
+<year>2013</year>;<volume>67</volume>(<issue>7</issue>):<fpage>754</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1038/ejcn.2013.78</pub-id>
+<!--<pub-id pub-id-type="pmcid">3701291</pub-id>-->
+<pub-id pub-id-type="pmid">23594839</pub-id>
+</mixed-citation></ref><ref id="ref-31"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Madzak</surname><given-names>A</given-names></name>
+<name><surname>Engjom</surname><given-names>T</given-names></name>
+<name><surname>Wathle</surname><given-names>GK</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Secretin-stimulated MRI assessment of exocrine pancreatic function in patients with cystic fibrosis and healthy controls.</article-title>
+<source>
+<italic toggle="yes">Abdom Radiol (NY).</italic>
+</source>
+<year>2017</year>;<volume>42</volume>(<issue>3</issue>):<fpage>890</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00261-016-0972-8</pub-id>
+<pub-id pub-id-type="pmid">27832324</pub-id>
+</mixed-citation></ref><ref id="ref-32"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Furstova</surname><given-names>E</given-names></name>
+<name><surname>Dousova</surname><given-names>T</given-names></name>
+<name><surname>Beranek</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Response to elexacaftor/tezacaftor/ivacaftor in intestinal organoids derived from people with cystic fibrosis.</article-title>
+<source>
+<italic toggle="yes">J Cyst Fibros.</italic>
+</source>
+<year>2022</year>;<volume>21</volume>(<issue>2</issue>):<fpage>243</fpage>&#x02013;<lpage>245</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jcf.2021.07.006</pub-id>
+<pub-id pub-id-type="pmid">34348870</pub-id>
+</mixed-citation></ref><ref id="ref-33"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Desai</surname><given-names>S</given-names></name>
+<name><surname>Lam</surname><given-names>GY</given-names></name>
+<name><surname>Sykes</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Eligibility of CFTR modulators for the adult-diagnosed cystic fibrosis population.</article-title>
+<source>
+<italic toggle="yes">J Cyst Fibros.</italic>
+</source>
+<year>2020</year>;<volume>19</volume>(<issue>5</issue>):<fpage>840</fpage>&#x02013;<lpage>1</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jcf.2020.04.018</pub-id>
+<pub-id pub-id-type="pmid">32505524</pub-id>
+</mixed-citation></ref></ref-list></back><sub-article article-type="reviewer-report" id="report31412"><front-stub><article-id pub-id-type="doi">10.3310/nihropenres.14726.r31412</article-id><title-group><article-title>Reviewer response for version 2</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Vasant</surname><given-names>Dipesh</given-names></name><xref rid="r31412a1" ref-type="aff">1</xref><role>Referee</role></contrib><aff id="r31412a1">
+<label>1</label>Manchester University NHS FoundationTrust, Manchester, UK</aff></contrib-group><author-notes><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>29</day><month>4</month><year>2024</year></pub-date><permissions><copyright-statement>Copyright: &#x000a9; 2024 Vasant D</copyright-statement><copyright-year>2024</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><related-article related-article-type="peer-reviewed-article" ext-link-type="doi" id="relatedArticleReport31412" xlink:href="10.3310/nihropenres.13510.2">Version 2</related-article><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve-with-reservations</meta-value></custom-meta></custom-meta-group></front-stub><body><p>This is a novel study measuring the effects of initiating a CFTR gene modulator therapy of gut symptoms and gut transit and motility using MRI methodology.&#x000a0;</p><p> The study has a number of limitations which have appropriately been addressed by the authors.</p><p> The main limitations are the lower than planned recruitment which means that this is not a definitively negative study, the lack of longer term follow up, and the applicability of the MRI technology to clinical practice. Nonetheless, the study design is excellent, robust, and is important mechanistic work.&#x000a0;</p><p> I have no major concerns with the paper.</p><p> Minor comments:</p><p> 1. In the exploratory outcomes section of the main text the authors have stated stool tests - with low faecal calprotectin and low elastase results, please could the authors cite the appropriate table where this data is included in the main text.</p><p> 2. It is not clear whether patients were allowed to take/remain on potential confounding medications such as laxatives, prokinetics, anti-motility drugs which could have affected results.</p><p> 3. At day 19-23 where follow-up was performed, is there any literature to suggest that even the non-GI symptoms and pulmonary function, weight can improve within such a short time frame? Were any non-GI effects of the gene modulators within the study duration documented.</p><p>Is the work clearly and accurately presented and does it cite the current literature?</p><p>Yes</p><p>If applicable, is the statistical analysis and its interpretation appropriate?</p><p>Yes</p><p>Are all the source data underlying the results available to ensure full reproducibility?</p><p>Yes</p><p>Is the study design appropriate and is the work technically sound?</p><p>Yes</p><p>Are the conclusions drawn adequately supported by the results?</p><p>Yes</p><p>Are sufficient details of methods and analysis provided to allow replication by others?</p><p>Yes</p><p>Reviewer Expertise:</p><p>GI motility and gastrointestinal disease in CF.</p><p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p></body></sub-article><sub-article article-type="reviewer-report" id="report31411"><front-stub><article-id pub-id-type="doi">10.3310/nihropenres.14726.r31411</article-id><title-group><article-title>Reviewer response for version 2</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Olsen</surname><given-names>Mette Frahm</given-names></name><xref rid="r31411a1" ref-type="aff">1</xref><role>Referee</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-5742-6403</contrib-id></contrib><aff id="r31411a1">
+<label>1</label>University of Copenhagen, Copenhagen, Denmark</aff></contrib-group><author-notes><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>12</day><month>4</month><year>2024</year></pub-date><permissions><copyright-statement>Copyright: &#x000a9; 2024 Olsen MF</copyright-statement><copyright-year>2024</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><related-article related-article-type="peer-reviewed-article" ext-link-type="doi" id="relatedArticleReport31411" xlink:href="10.3310/nihropenres.13510.2">Version 2</related-article><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve-with-reservations</meta-value></custom-meta></custom-meta-group></front-stub><body><p>Abstract:</p><p> It is unclear why the protocol was amended with observer-blind assessments due to COVID-19. Could you clarify how this was a consequence of the pandemic?</p><p> Methods:</p><p> The study design is described as double-blind here, but some participants were not blinded. You could describe it as outcome assessor/observer blind or explain further.</p><p> What was the reason for the age range of invited patients (12-40 y)?</p><p> The age range is not mentioned as an inclusion criteria in Table 1. Please add.</p><p> Was the randomization blocked?</p><p> Please clarify the timing of study visits. You write that all measurements were done on one day between day 19 and 23 of treatment. This is then repeated for the two periods of the cross-over study, right?</p><p> You write that it was unethical for participants to be blinded to their treatment status after the COVID interruption. I am not sure I understand why is blinding was considered unethical to participants after COVID &#x02013; but not before?</p><p> Results:</p><p> Please add the two study arms to the CONSORT flow chart (fig 3), i.e. treatment/placebo and placebo/treatment</p><p> Add a brief explanation of the GIFT-CF 1 study (overall aim, methods and perhaps findings)</p><p> Please clarify if higher scores of the various patient-reported outcomes indicate worse or better outcomes. &#x000a0;</p><p> Discussion:</p><p> Please comment on potential impact of the double-blinding vs observer-blinding. Do you consider your outcomes to be prone to bias when the participant is not blinded? I would assume that your primary outcome is objective enough to not be affected by detection bias, so why have you chosen the smaller blinded group for your primary analysis?</p><p>Is the work clearly and accurately presented and does it cite the current literature?</p><p>Yes</p><p>If applicable, is the statistical analysis and its interpretation appropriate?</p><p>Yes</p><p>Are all the source data underlying the results available to ensure full reproducibility?</p><p>No</p><p>Is the study design appropriate and is the work technically sound?</p><p>Yes</p><p>Are the conclusions drawn adequately supported by the results?</p><p>Yes</p><p>Are sufficient details of methods and analysis provided to allow replication by others?</p><p>Partly</p><p>Reviewer Expertise:</p><p>CF epidemiology, trial methodology</p><p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p></body><sub-article article-type="response" id="comment3318-31411"><front-stub><contrib-group><contrib contrib-type="author"><name><surname>Smyth</surname><given-names>Alan</given-names></name><aff>Lifespan and population health, University of Nottingham, Nottingham, England, UK</aff></contrib></contrib-group><author-notes><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>Study investigator and author.</p></fn></author-notes><pub-date pub-type="epub"><day>12</day><month>4</month><year>2024</year></pub-date></front-stub><body><p>Dear Dr Olsen. Thank you for your interest in our research and for taking the time to review our paper.</p><p>
+<bold>Reviewer's question : </bold>
+</p><p> Abstract: It is unclear why the protocol was amended with observer-blind assessments due to COVID-19. Could you clarify how this was a consequence of the pandemic?</p><p>
+<bold>Response:</bold> Study enrolment commenced in September 2019. In March 2020, in line with UK government rules to restrict the transmission of SARS-CoV2 virus, our centre suspended all research involving direct contact with participants (apart from COVID-19 studies). Our trial was paused between mid-March and August 2020. During this period, reimbursement of TEZ/IVA was introduced in the UK and 4 participants commenced TEZ/IVA as part of their routine CF treatment. It was unethical to request their return to the study protocol involving
+<underline>placebo</underline> treatment. These 4 participants therefore completed observer-blind study visits when research resumed. Observer-blind visits were single-blind, where the observers conducting the analysis were blind to treatment status. These 4 participants had MRI studies pre-treatment and whilst taking&#x000a0;TEZ/IVA prescribed by their CF Centre.&#x000a0;This is explained in the METHODS section under "Mitigations for COVID-19 pandemic disruptions".</p><p>
+<bold>Reviewer's question :</bold>
+</p><p> Methods: The study design is described as double-blind here, but some participants were not blinded. You could describe it as outcome assessor/observer blind or explain further.</p><p>
+<bold>Response:&#x000a0;</bold>See above. The 4 study participants who had an MRI study on routinely prescribed&#x000a0;TEZ/IVA knew what treatment they were taking but the research staff, who scanned the participant and interpreted the scans, were blind to whether or not the participant was taking&#x000a0;TEZ/IVA (observer blind). This is explained in the METHODS section under "Mitigations for COVID-19 pandemic disruptions".</p><p>
+<bold>Reviewer's question :&#x000a0;</bold>What was the reason for the age range of invited patients (12-40 y)?</p><p>
+<bold>Response:&#x000a0;</bold>This is the age group for whom&#x000a0;TEZ/IVA was licensed in the UK.</p><p>
+<bold>Reviewer's question :&#x000a0;</bold>The age range is not mentioned as an inclusion criteria in Table 1. Please add.</p><p>
+<bold>Response:</bold>&#x000a0;People with CF aged from 12 to 40 years, homozygous for p.Phe508del and eligible for TEZ/IVA, were invited to participate.&#x000a0;This is explained in the METHODS section under "Study population".</p><p>
+<bold>Reviewer's question :&#x000a0;</bold>Was the randomization blocked?</p><p>
+<bold>Response: </bold>No we used simple randomization.</p><p>
+<bold>Reviewer's question :&#x000a0;</bold>Please clarify the timing of study visits. You write that all measurements were done on one day between day 19 and 23 of treatment. This is then repeated for the two periods of the cross-over study, right?</p><p>
+<bold>Response: </bold>Correct. We aimed to do the scan on day 21 of treatment but had to have a window of&#x000a0;day 19 to 23 of treatment to allow for participants having other commitments on day 21 or the scanner having a previous booking for that day.</p><p>
+<bold>Reviewer's question :&#x000a0;</bold>You write that it was unethical for participants to be blinded to their treatment status after the COVID interruption. I am not sure I understand why is blinding was considered unethical to participants after COVID &#x02013; but not before?</p><p>
+<bold>Response: </bold>We planned a placebo controlled study because TEZ/IVA was licensed in the UK at the time but was not reimbursed and so not routinely prescribed in UK CF Centres. The study was paused, due to the COVID pandemic, from March-August 2020. Reimbursement for TEZ/IVA was&#x000a0;introduced by the UK Department of Health and Social Care in mid-2020 and so 4 patients received the drug from their CF Centre during the study pause. We felt it would be unethical to ask these patients to continue on a protocol which required 28 days TEZ/IVA - 28 days washout - 28 days placebo (or the reverse order) as both the washout and placebo periods would deny them modulator treatment. We therefore undertook an observer blind MRI assessment whilst the participant was on TEZ/IVA treatment and compared that to the same participant's baseline MRI (no modulator&#x000a0;treatment).&#x000a0;</p><p>
+<bold>Reviewer's question :&#x000a0;</bold>
+</p><p> Results: Please add the two study arms to the CONSORT flow chart (fig 3), i.e. treatment/placebo and placebo/treatment</p><p>
+<bold>Response:</bold> We think this will add to the complexity of the CONSORT diagram and will make the diagram difficult for the reader to interpret easily.</p><p>
+<bold>Reviewer's question :&#x000a0;</bold>Add a brief explanation of the GIFT-CF 1 study (overall aim, methods and perhaps findings)</p><p>
+<bold>Response:&#x000a0;</bold>This is a separate study and is cited as reference 13.&#x000a0;</p><p> Ng C, Dellschaft NS, Hoad CL, et al.: Postprandial changes in gastrointestinal function and transit in cystic fibrosis assessed by Magnetic Resonance Imaging. J Cyst Fibros. 2020; 20(4): 591&#x02013;7.&#x000a0;</p><p>
+<ext-link xlink:href="https://doi.org/10.1016/j.jcf.2020.06.004" ext-link-type="uri">https://doi.org/10.1016/j.jcf.2020.06.004</ext-link>
+</p><p>
+<bold>Reviewer's question :&#x000a0;</bold>Please clarify if higher scores of the various patient-reported outcomes indicate worse or better outcomes. &#x000a0;</p><p>
+<bold>Response:&#x000a0;</bold>For the PAC-SYM, CFAbdScore and the Likert score, a high score = more severe symptoms.</p><p>
+<bold>Reviewer's question :&#x000a0;</bold>
+</p><p> Discussion: Please comment on potential impact of the double-blinding vs observer-blinding. Do you consider your outcomes to be prone to bias when the participant is not blinded? I would assume that your primary outcome is objective enough to not be affected by detection bias, so why have you chosen the smaller blinded group for your primary analysis?</p><p>
+<bold>Response:&#x000a0;</bold>Thank you for raising this important point. We agree that the MRI studies are an objective measure and are unlikely to be subject to detection bias - particularly as the staff conducting and interpreting the scans were blinded.</p><p> The primary analysis was specified in our clinical trials.gov protocol which we published before commencing this trial and amended in the light of the COVID pandemic. The COVID amendment says: "Our primary analysis will be on the patients who completed the trial per protocol but we will present a secondary analysis on all 12 patients, comparing outcome measures on Symkevi
+<sup>TM</sup> with their outcome measures previously recorded at baseline (off treatment)..."</p><p> See: https://clinicaltrials.gov/study/NCT04006873?tab=table&#x000a0;</p><p> This aligns with the METHODS section, under "Statistical analysis", we state: "In view of COVID-19 disruptions, we completed a primary per protocol analysis for all participants who were blind to treatment. A secondary post-hoc intention-to-treat analysis compared all enrolled participants who attended study visits on and off TEZ/IVA.".</p></body></sub-article></sub-article><sub-article article-type="reviewer-report" id="report31310"><front-stub><article-id pub-id-type="doi">10.3310/nihropenres.14726.r31310</article-id><title-group><article-title>Reviewer response for version 2</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Cil</surname><given-names>Onur</given-names></name><xref rid="r31310a1" ref-type="aff">1</xref><role>Referee</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-5178-0199</contrib-id></contrib><aff id="r31310a1">
+<label>1</label>University of California San Diego, San Diego, California, USA</aff></contrib-group><author-notes><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>29</day><month>3</month><year>2024</year></pub-date><permissions><copyright-statement>Copyright: &#x000a9; 2024 Cil O</copyright-statement><copyright-year>2024</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><related-article related-article-type="peer-reviewed-article" ext-link-type="doi" id="relatedArticleReport31310" xlink:href="10.3310/nihropenres.13510.2">Version 2</related-article><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve</meta-value></custom-meta></custom-meta-group></front-stub><body><p>My concerns are addressed.</p><p>Is the work clearly and accurately presented and does it cite the current literature?</p><p>Yes</p><p>If applicable, is the statistical analysis and its interpretation appropriate?</p><p>Yes</p><p>Are all the source data underlying the results available to ensure full reproducibility?</p><p>No</p><p>Is the study design appropriate and is the work technically sound?</p><p>Yes</p><p>Are the conclusions drawn adequately supported by the results?</p><p>Yes</p><p>Are sufficient details of methods and analysis provided to allow replication by others?</p><p>Yes</p><p>Reviewer Expertise:</p><p>Gastrointestinal complications of CF,&#x000a0; intestinal physiology</p><p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p></body></sub-article><sub-article article-type="reviewer-report" id="report31309"><front-stub><article-id pub-id-type="doi">10.3310/nihropenres.14726.r31309</article-id><title-group><article-title>Reviewer response for version 2</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Borowitz</surname><given-names>Drucy</given-names></name><xref rid="r31309a1" ref-type="aff">1</xref><role>Referee</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-3685-4078</contrib-id></contrib><aff id="r31309a1">
+<label>1</label>University at Buffalo, Buffalo, USA</aff></contrib-group><author-notes><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>29</day><month>3</month><year>2024</year></pub-date><permissions><copyright-statement>Copyright: &#x000a9; 2024 Borowitz D</copyright-statement><copyright-year>2024</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><related-article related-article-type="peer-reviewed-article" ext-link-type="doi" id="relatedArticleReport31309" xlink:href="10.3310/nihropenres.13510.2">Version 2</related-article><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve</meta-value></custom-meta></custom-meta-group></front-stub><body><p>The authors have made improvements to this manuscript.</p><p>Is the work clearly and accurately presented and does it cite the current literature?</p><p>Yes</p><p>If applicable, is the statistical analysis and its interpretation appropriate?</p><p>I cannot comment. A qualified statistician is required.</p><p>Are all the source data underlying the results available to ensure full reproducibility?</p><p>No</p><p>Is the study design appropriate and is the work technically sound?</p><p>Yes</p><p>Are the conclusions drawn adequately supported by the results?</p><p>Yes</p><p>Are sufficient details of methods and analysis provided to allow replication by others?</p><p>Yes</p><p>Reviewer Expertise:</p><p>I have conducted CF GI-focused research, including some on GI tract motility.&#x000a0; I do not have any experience with MRI as a method to assess GI function.</p><p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p></body></sub-article><sub-article article-type="reviewer-report" id="report30972"><front-stub><article-id pub-id-type="doi">10.3310/nihropenres.14661.r30972</article-id><title-group><article-title>Reviewer response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Borowitz</surname><given-names>Drucy</given-names></name><xref rid="r30972a1" ref-type="aff">1</xref><role>Referee</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-3685-4078</contrib-id></contrib><aff id="r30972a1">
+<label>1</label>University at Buffalo, Buffalo, USA</aff></contrib-group><author-notes><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>4</day><month>1</month><year>2024</year></pub-date><permissions><copyright-statement>Copyright: &#x000a9; 2024 Borowitz D</copyright-statement><copyright-year>2024</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><related-article related-article-type="peer-reviewed-article" ext-link-type="doi" id="relatedArticleReport30972" xlink:href="10.3310/nihropenres.13510.1">Version 1</related-article><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve</meta-value></custom-meta></custom-meta-group></front-stub><body><p>The authors deserve kudos for 1) continuing to explore a novel, objective measure of GI function and 2) persisting with their study despite the COVID-19 epidemic.&#x000a0; Although they are presenting negative data, it adds to our understanding of GI function in people with CF and, as they&#x000a0; note, the opportunity to explore outcomes prior to use of CFTR modulators is likely to be very limited in the future.&#x000a0; The mention in the Discussion of differences in some of the values presented compared to previous MRI studies using healthy volunteers are thought-provoking.</p><p> Title:&#x000a0;&#x000a0; Because the authors state, &#x0201c;There are insufficient data to provide an informative power calculation&#x02026;&#x0201d; using the word &#x0201c;pilot&#x0201d; in the tile might be appropriate.</p><p> Introduction:
+<list list-type="order"><list-item><p>A minor point, but in a manuscript focused on GI aspects of CF, saying that it is an epithelial chloride channel rather than an ion channel (or a chloride and bicarbonate channel) seems to ignore the pathophysiology, especially since the role of bicarbonate is mentioned in the Discussion.</p></list-item><list-item><p>The introductory statement &#x0201c;In this study, we used magnetic resonance imaging (MRI)
+<sup>
+<ext-link xlink:href="https://openresearch.nihr.ac.uk/my/referee/report/30972#ref-13" ext-link-type="uri">13</ext-link>
+</sup> to evaluate the GI effects&#x02026;&#x0201d; cites their previous work, but for readers who are unfamiliar with the outcomes of interest, a sentence describing them would be useful.</p></list-item></list> Methods:
+<list list-type="order"><list-item><p>Study Procedures:&#x000a0; A clear statement that no participants were taking TEZ-IVA would be better than the explanation that &#x0201c;TEZ/IVA was licensed in the UK but not reimbursed, so was not prescribed in routine clinical care&#x0201d;.</p></list-item></list>
+</p><p> Results:
+<list list-type="order"><list-item><p>Fecal elastase was measured in all subjects.&#x000a0; It would be good to include the baseline information in Table 3 (Demographics) to indicate whether all subjects were pancreatic insufficient.</p></list-item><list-item><p>Figure 7 should not be labeled &#x0201c;Primary analysis&#x0201d;.&#x000a0; I think you mean to say &#x0201c;intent-to-treat analysis&#x0201d;.</p></list-item><list-item><p>Values for fecal elastase and calprotectin values should be published in supplemental materials.</p></list-item></list>
+</p><p> Discussion
+<list list-type="order"><list-item><p>Their primary outcome, OCTT, was notably the same whether subjects were on placebo or TEX/IVA.&#x000a0; They note that other techniques and have found this to be true as well. Do the authors think that, now that they have verified their own prior findings of prolonged OCTT by MRI, this may be a key factor in their findings of high scores for &#x0201c;disorders of bowel movement&#x0201d; on the CF-abd scores? They mention their focus on the IC valve below, but it took a few readings for me to connect these two thoughts.</p></list-item><list-item><p>One of the biggest challenges of this study is that it is unclear what the natural variation is in MRI-GI measures in pwCF.&#x000a0; OCTT seems fairly consistent over time, whether subjects were on TEZ/IVA or not.&#x000a0; However, some of the secondary outcomes where individual data is presented indicate that values may vary based on biology as well as on intervention. For example, in Figure 6, SBW increased in 6 subjects and was either stable or decreased in 6 subjects.&#x000a0; Can you attribute that to natural variation?</p></list-item><list-item><p>This paragraph seems extraneous: &#x0201c;Recent studies
+<sup>
+<ext-link xlink:href="https://openresearch.nihr.ac.uk/my/referee/report/30972#ref-8" ext-link-type="uri">8</ext-link>,
+<ext-link xlink:href="https://openresearch.nihr.ac.uk/my/referee/report/30972#ref-9" ext-link-type="uri">9</ext-link>
+</sup> have suggested pancreatic exocrine function recovery with ivacaftor after 24 weeks in younger cohorts&#x02026; This suggests that, if pancreatic recovery were possible, it may occur only in the younger population or require a longer treatment period with CFTR modulators or more efficacious CFTR modulators.&#x0201d; The authors don&#x02019;t report on feal elastase data other than to say it was unchanged.&#x000a0; The literature suggests that older patients, such as the subjects in this study, may not have changes in pancreatic function.&#x000a0; I think this paragraph should be deleted.</p></list-item><list-item><p>The paragraph stating that the authors saw no significant difference in GI symptoms after TEZ/IVA should be combined with the paragraph that follows it, which offers additional explanations for this observation.</p></list-item><list-item><p>The large variation between individuals (e.g. large error bars in Figure 5) indicates that GI motility is highly variable.&#x000a0; This should be included as one of the limitations of this study.</p></list-item></list>
+</p><p>Is the work clearly and accurately presented and does it cite the current literature?</p><p>Yes</p><p>If applicable, is the statistical analysis and its interpretation appropriate?</p><p>I cannot comment. A qualified statistician is required.</p><p>Are all the source data underlying the results available to ensure full reproducibility?</p><p>No</p><p>Is the study design appropriate and is the work technically sound?</p><p>Yes</p><p>Are the conclusions drawn adequately supported by the results?</p><p>Yes</p><p>Are sufficient details of methods and analysis provided to allow replication by others?</p><p>Yes</p><p>Reviewer Expertise:</p><p>I have conducted CF GI-focused research, including some on GI tract motility.&#x000a0; I do not have any experience with MRI as a method to assess GI function.</p><p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p></body><sub-article article-type="response" id="comment3312-30972"><front-stub><contrib-group><contrib contrib-type="author"><name><surname>Smyth</surname><given-names>Alan</given-names></name><aff>Lifespan and population health, University of Nottingham, Nottingham, England, UK</aff></contrib></contrib-group><author-notes><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>18</day><month>2</month><year>2024</year></pub-date></front-stub><body><p>
+<underline>
+<bold>Response to reviewer comments</bold>
+</underline>
+</p><p> Thank you to our reviewers for taking the time to peer review our manuscript. A detailed response to your comments is outlined below.</p><p>
+<underline>
+<bold>Peer reviewer feedback 1: Drucy Borowitz</bold>
+</underline>
+</p><p>
+<underline>
+<bold>Title</bold>
+</underline>
+</p><p> Because the authors state, &#x0201c;There are insufficient data to provide an informative power calculation&#x02026;&#x0201d; using the word &#x0201c;pilot&#x0201d; in the tile might be appropriate.</p><p>
+<bold>Response:&#x000a0;</bold>Added
+<italic toggle="yes">&#x0201c;a pilot study&#x0201d;</italic> to the title</p><p>
+<underline>
+<bold>Introduction</bold>
+</underline>
+</p><p>
+<bold>Reviewer comment: </bold>A minor point, but in a manuscript focused on GI aspects of CF, saying that it is an epithelial chloride channel rather than an ion channel (or a chloride and bicarbonate channel) seems to ignore the pathophysiology, especially since the role of bicarbonate is mentioned in the Discussion.</p><p>
+<bold>Response:&#x000a0;</bold>Amended to:
+<italic toggle="yes">&#x0201c;an epithelial ion channel&#x0201d;</italic>
+</p><p>
+<bold>Reviewer comment: </bold>The introductory statement &#x0201c;In this study, we used magnetic resonance imaging (MRI)
+<sup>13</sup> to evaluate the GI effects&#x02026;&#x0201d; cites their previous work, but for readers who are unfamiliar with the outcomes of interest, a sentence describing them would be useful.</p><p>
+<bold>Response:&#x000a0;</bold>Amended sentence to read:</p><p>
+<italic toggle="yes">&#x0201c;In this study, we used a 6 hour series of magnetic resonance imaging (MRI)
+<sup>13</sup> scans to evaluate the effects of a dual combination CFTR modulator on orocaecal transit time, colon volumes, small bowel water content and their drop in response to a high-calorie meal, and gastric emptying in CF. We also studied the relationship of MRI findings to GI symptoms.&#x0201d;</italic>
+</p><p>
+<underline>
+<bold>Methods</bold>
+</underline>
+</p><p>
+<bold>Reviewer comment: </bold>Study Procedures:&#x000a0; A clear statement that no participants were taking TEZ-IVA would be better than the explanation that &#x0201c;TEZ/IVA was licensed in the UK but not reimbursed, so was not prescribed in routine clinical care&#x0201d;.</p><p>
+<bold>Response:&#x000a0;</bold>Added sentence:</p><p>
+<italic toggle="yes">&#x0201c;Participants were excluded from the study if they were taking any CFTR modulators.&#x0201d;</italic>
+</p><p>
+<underline>
+<bold>Results</bold>
+</underline>
+</p><p>
+<bold>Reviewer comment: </bold>Fecal elastase was measured in all subjects.&#x000a0; It would be good to include the baseline information in Table 3 (Demographics) to indicate whether all subjects were pancreatic insufficient.</p><p>
+<bold>Response:&#x000a0;</bold>Faecal elastase and faecal calprotectin now included in Table 3.</p><p>
+<bold>Reviewer comment: </bold>Figure 7 should not be labeled &#x0201c;Primary analysis&#x0201d;.&#x000a0; I think you mean to say &#x0201c;intent-to-treat analysis&#x0201d;.</p><p>
+<bold>Response:&#x000a0;</bold>This was the per protocol analysis and therefore have amended the label</p><p>
+<bold>Reviewer comment: </bold>Values for fecal elastase and calprotectin values should be published in supplemental materials.</p><p>
+<bold>Response:&#x000a0;</bold>There is no supplementary file, therefore the faecal elastase and calprotectin values have remained in Table 4.</p><p>
+<underline>
+<bold>Discussion</bold>
+</underline>
+</p><p>
+<bold>Reviewer comment: </bold>Their primary outcome, OCTT, was notably the same whether subjects were on placebo or TEX/IVA.&#x000a0; They note that other techniques have found this to be true as well. Do the authors think that, now that they have verified their own prior findings of prolonged OCTT by MRI, this may be a key factor in their findings of high scores for &#x0201c;disorders of bowel movement&#x0201d; on the CF-abd scores? They mention their focus on the IC valve below, but it took a few readings for me to connect these two thoughts.</p><p>
+<bold>Response:&#x000a0;</bold>Thank you for your comment. It is possible that a high CFAbd-score for the &#x0201c;disorders of bowel movement&#x0201d; domain could be due to prolonged OCTT, however it is likely that other factors also contribute.&#x000a0;In the 6
+<sup>th</sup> paragraph of the discussion we now say:</p><p>
+<italic toggle="yes">&#x0201c;However, the GI abnormalities observed using MRI, may contribute to the high scores in disorders of bowel movement.&#x0201d;</italic>
+</p><p>
+<bold>Reviewer comment: </bold>One of the biggest challenges of this study is that it is unclear what the natural variation is in MRI-GI measures in pwCF.&#x000a0; OCTT seems fairly consistent over time, whether subjects were on TEZ/IVA or not.&#x000a0; However, some of the secondary outcomes where individual data is presented indicate that values may vary based on biology as well as on intervention. For example, in Figure 6, SBW increased in 6 subjects and was either stable or decreased in 6 subjects.&#x000a0; Can you attribute that to natural variation?</p><p>
+<bold>Response:&#x000a0;</bold>Figure 6 represents the change in SBW (delta SBW) after the second meal. This is a new metric that we have measured and therefore it is possible that the delta SBW may be more variable in CF than in healthy controls.</p><p> Since there are limited data on this metric, it is difficult to conclude whether this is a normal variation or due to sample size.</p><p>
+<bold>Reviewer comment: </bold>This paragraph seems extraneous: &#x0201c;Recent studies8,9 have suggested pancreatic exocrine function recovery with ivacaftor after 24 weeks in younger cohorts&#x02026; This suggests that, if pancreatic recovery were possible, it may occur only in the younger population or require a longer treatment period with CFTR modulators or more efficacious CFTR modulators.&#x0201d; The authors don&#x02019;t report on fecal elastase data other than to say it was unchanged.&#x000a0; The literature suggests that older patients, such as the subjects in this study, may not have changes in pancreatic function.&#x000a0; I think this paragraph should be deleted.</p><p>
+<bold>Response:&#x000a0;</bold>Thank you for your comment, this paragraph has been deleted</p><p>
+<bold>Reviewer comment: </bold>The paragraph stating that the authors saw no significant difference in GI symptoms after TEZ/IVA should be combined with the paragraph that follows it, which offers additional explanations for this observation.</p><p>
+<bold>Response:&#x000a0;</bold>We have now linked the 2 paragraphs.</p><p>
+<bold>Reviewer comment: </bold>The large variation between individuals (e.g. large error bars in Figure 5) indicates that GI motility is highly variable.&#x000a0; This should be included as one of the limitations of this study.</p><p>
+<bold>Response:&#x000a0;</bold>Thank you for your comment. We have acknowledged the variability in the discussion strengths and weaknesses.</p><p>
+<underline>
+<bold>Peer reviewer feedback 2: Onur Cil</bold>
+</underline>
+</p><p>
+<bold>Reviewer comment: </bold>OCTT primarily accounts for gastric emptying and small intestinal transit. However, majority of gut transit time is actually spent in colon, which is a more relevant intestinal segment for commonly seen constipation in CF. The limitations of OCTT for assessing gut transit and its relevance to CF need to be discussed in the paper</p><p>
+<bold>Response:&#x000a0;</bold>Thank you for your comment. We agree that there are limitations in only assessing OCTT and there is limited evidence on colonic or whole gut transit. Previous studies have demonstrated differences in small bowel transit only and not a significant difference in colonic or whole gut transit.&#x000a0;Therefore we have added the following sentences:</p><p>
+<italic toggle="yes">&#x0201c;However, it has been previously reported that there is no difference in colonic and whole gut transit times in CF compared to controls
+<sup>25</sup> or in CF patients at baseline compared to measurements during ivacaftor treatment
+<sup>11</sup>. It may be beneficial to assess these colonic and whole gut transit times, however, it would add to the participant burden and study costs.&#x0201d; </italic>
+</p><p>
+<underline>
+<bold>Results</bold>
+</underline>
+</p><p>
+<bold>Reviewer comment: </bold>What was the average (or median) interval between the current study and baseline scan in the GIFT-CF1 study for 7 patients?</p><p>
+<bold>Response:&#x000a0;</bold>Thank you for your question. The median was 45 weeks. We have now included this in the results - study progress section.</p><p>
+<bold>Reviewer comment: </bold>Do authors expect any differences in MRI characteristics over several months/years in the same subject assuming these two studies were done at different times?</p><p>
+<bold>Response:&#x000a0;</bold>The MRI values for our outcome measures in the present study are similar to data from our previous studies and therefore we can assume that any differences will be within the normal variation.&#x000a0;The comparisons made were within-participant avoiding any between individual variation.</p><p> There are no data to our knowledge which compare MRI characteristics over several months/years in healthy controls or CF. However, another reason for using previous scan data was to reduce the study burden for participants.</p><p>
+<bold>Reviewer comment: </bold>Is there any literature evidence for consistency of MRI findings between measurements done at different time points in people with or without CF?</p><p>
+<bold>Response:&#x000a0;</bold>There have been several studies by our group using the same MRI metrics with similar baseline measures in healthy controls. To our knowledge, there are no such data for people with CF.</p><p> One meta-analysis by Dellschaft et al
+<sup>1</sup>demonstrated that the small bowel water post-prandial profile is predictable in healthy controls across 29 studies. This included an analysis of the coefficient of variation in n=285 participants taking part in two or more scans, across 20 studies. The coefficient of variation was relatively high at 45%, with a very stable mean SBWC when repeatedly measuring in the same group of participants (mean of 81ml vs. 83ml ie. 2% variability of the mean between two visits).</p><p> In a similar analysis of fasting ascending colon chyme water (T1) in n=40 on 3 separate occasions, the coefficient of variation was 32%, with 8% variability of the mean between 3 visits (0.72s vs. 0.62s vs. 0.68s; currently under review for publication).</p><p>
+<bold>
+<underline>REFERENCES</underline>
+</bold>
+</p><p> 1.&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0; Dellschaft N, Hoad C, Marciani L, Gowland P, Spiller R. Small bowel water content assessed by MRI in health and disease: a collation of single-centre studies.
+<italic toggle="yes">Aliment Pharmacol Ther</italic> 2022;
+<bold>55</bold>(3): 327-38.</p></body></sub-article></sub-article><sub-article article-type="reviewer-report" id="report30806"><front-stub><article-id pub-id-type="doi">10.3310/nihropenres.14661.r30806</article-id><title-group><article-title>Reviewer response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Cil</surname><given-names>Onur</given-names></name><xref rid="r30806a1" ref-type="aff">1</xref><role>Referee</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-5178-0199</contrib-id></contrib><aff id="r30806a1">
+<label>1</label>University of California San Diego, San Diego, California, USA</aff></contrib-group><author-notes><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>14</day><month>12</month><year>2023</year></pub-date><permissions><copyright-statement>Copyright: &#x000a9; 2023 Cil O</copyright-statement><copyright-year>2023</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><related-article related-article-type="peer-reviewed-article" ext-link-type="doi" id="relatedArticleReport30806" xlink:href="10.3310/nihropenres.13510.1">Version 1</related-article><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve-with-reservations</meta-value></custom-meta></custom-meta-group></front-stub><body><p>This randomized, crossover clinical trial investigates effects of CFTR modulator treatment (TEZ/IVA) on gastrointestinal symptoms and abdomen MRI findings (surrogate for gut transit and function) in people with CF. The study is well-designed and results are interpreted reasonably. Although the sample size is small, this is understandable considering that CF is a rare disease. There are a few minor points that need to be addressed prior to publication:</p><p> -OCTT primarily accounts for gastric emptying and small intestinal transit. However, majority of gut transit time is actually spent in colon, which is a more relevant intestinal segment for commonly seen constipation in CF. The limitations of OCTT for assessing gut transit and its relevance to CF need to be discussed in the paper.</p><p> -Results, second paragraph:
+<list list-type="order"><list-item><p>What was the average (or median) interval between the current study and baseline scan in the GIFT-CF1 study for 7 patients?</p></list-item><list-item><p>Do authors expect any differences in MRI characteristics over several months/years in the same subject assuming these two studies were done at different times?</p></list-item><list-item><p>Is there any literature evidence for consistency of MRI findings between measurements done at different time points in people with or without CF?</p></list-item></list> These issues should also be addressed as a potential limitation.</p><p>Is the work clearly and accurately presented and does it cite the current literature?</p><p>Yes</p><p>If applicable, is the statistical analysis and its interpretation appropriate?</p><p>Yes</p><p>Are all the source data underlying the results available to ensure full reproducibility?</p><p>No</p><p>Is the study design appropriate and is the work technically sound?</p><p>Yes</p><p>Are the conclusions drawn adequately supported by the results?</p><p>Yes</p><p>Are sufficient details of methods and analysis provided to allow replication by others?</p><p>Yes</p><p>Reviewer Expertise:</p><p>Gastrointestinal complications of CF,&#x000a0; intestinal physiology</p><p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p></body><sub-article article-type="response" id="comment3312-30806"><front-stub><contrib-group><contrib contrib-type="author"><name><surname>Smyth</surname><given-names>Alan</given-names></name><aff>Lifespan and population health, University of Nottingham, Nottingham, England, UK</aff></contrib></contrib-group><author-notes><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>18</day><month>2</month><year>2024</year></pub-date></front-stub><body><p>
+<underline>
+<bold>Response to reviewer comments</bold>
+</underline>
+</p><p> Thank you to our reviewers for taking the time to peer review our manuscript. A detailed response to your comments is outlined below.</p><p>
+<underline>
+<bold>Peer reviewer feedback 1: Drucy Borowitz</bold>
+</underline>
+</p><p>
+<underline>
+<bold>Title</bold>
+</underline>
+</p><p> Because the authors state, &#x0201c;There are insufficient data to provide an informative power calculation&#x02026;&#x0201d; using the word &#x0201c;pilot&#x0201d; in the tile might be appropriate.</p><p>
+<bold>Response:&#x000a0;</bold>Added
+<italic toggle="yes">&#x0201c;a pilot study&#x0201d;</italic> to the title</p><p>
+<underline>
+<bold>Introduction</bold>
+</underline>
+</p><p>
+<bold>Reviewer comment: </bold>A minor point, but in a manuscript focused on GI aspects of CF, saying that it is an epithelial chloride channel rather than an ion channel (or a chloride and bicarbonate channel) seems to ignore the pathophysiology, especially since the role of bicarbonate is mentioned in the Discussion.</p><p>
+<bold>Response:&#x000a0;</bold>Amended to:
+<italic toggle="yes">&#x0201c;an epithelial ion channel&#x0201d;</italic>
+</p><p>
+<bold>Reviewer comment: </bold>The introductory statement &#x0201c;In this study, we used magnetic resonance imaging (MRI)
+<sup>13</sup> to evaluate the GI effects&#x02026;&#x0201d; cites their previous work, but for readers who are unfamiliar with the outcomes of interest, a sentence describing them would be useful.</p><p>
+<bold>Response:&#x000a0;</bold>Amended sentence to read:</p><p>
+<italic toggle="yes">&#x0201c;In this study, we used a 6 hour series of magnetic resonance imaging (MRI)
+<sup>13</sup> scans to evaluate the effects of a dual combination CFTR modulator on orocaecal transit time, colon volumes, small bowel water content and their drop in response to a high-calorie meal, and gastric emptying in CF. We also studied the relationship of MRI findings to GI symptoms.&#x0201d;</italic>
+</p><p>
+<underline>
+<bold>Methods</bold>
+</underline>
+</p><p>
+<bold>Reviewer comment: </bold>Study Procedures:&#x000a0; A clear statement that no participants were taking TEZ-IVA would be better than the explanation that &#x0201c;TEZ/IVA was licensed in the UK but not reimbursed, so was not prescribed in routine clinical care&#x0201d;.</p><p>
+<bold>Response:&#x000a0;</bold>Added sentence:</p><p>
+<italic toggle="yes">&#x0201c;Participants were excluded from the study if they were taking any CFTR modulators.&#x0201d;</italic>
+</p><p>
+<underline>
+<bold>Results</bold>
+</underline>
+</p><p>
+<bold>Reviewer comment: </bold>Fecal elastase was measured in all subjects.&#x000a0; It would be good to include the baseline information in Table 3 (Demographics) to indicate whether all subjects were pancreatic insufficient.</p><p>
+<bold>Response:&#x000a0;</bold>Faecal elastase and faecal calprotectin now included in Table 3.</p><p>
+<bold>Reviewer comment: </bold>Figure 7 should not be labeled &#x0201c;Primary analysis&#x0201d;.&#x000a0; I think you mean to say &#x0201c;intent-to-treat analysis&#x0201d;.</p><p>
+<bold>Response:&#x000a0;</bold>This was the per protocol analysis and therefore have amended the label</p><p>
+<bold>Reviewer comment: </bold>Values for fecal elastase and calprotectin values should be published in supplemental materials.</p><p>
+<bold>Response:&#x000a0;</bold>There is no supplementary file, therefore the faecal elastase and calprotectin values have remained in Table 4.</p><p>
+<underline>
+<bold>Discussion</bold>
+</underline>
+</p><p>
+<bold>Reviewer comment: </bold>Their primary outcome, OCTT, was notably the same whether subjects were on placebo or TEX/IVA.&#x000a0; They note that other techniques have found this to be true as well. Do the authors think that, now that they have verified their own prior findings of prolonged OCTT by MRI, this may be a key factor in their findings of high scores for &#x0201c;disorders of bowel movement&#x0201d; on the CF-abd scores? They mention their focus on the IC valve below, but it took a few readings for me to connect these two thoughts.</p><p>
+<bold>Response:&#x000a0;</bold>Thank you for your comment. It is possible that a high CFAbd-score for the &#x0201c;disorders of bowel movement&#x0201d; domain could be due to prolonged OCTT, however it is likely that other factors also contribute.&#x000a0;In the 6
+<sup>th</sup> paragraph of the discussion we now say:</p><p>
+<italic toggle="yes">&#x0201c;However, the GI abnormalities observed using MRI, may contribute to the high scores in disorders of bowel movement.&#x0201d;</italic>
+</p><p>
+<bold>Reviewer comment: </bold>One of the biggest challenges of this study is that it is unclear what the natural variation is in MRI-GI measures in pwCF.&#x000a0; OCTT seems fairly consistent over time, whether subjects were on TEZ/IVA or not.&#x000a0; However, some of the secondary outcomes where individual data is presented indicate that values may vary based on biology as well as on intervention. For example, in Figure 6, SBW increased in 6 subjects and was either stable or decreased in 6 subjects.&#x000a0; Can you attribute that to natural variation?</p><p>
+<bold>Response:&#x000a0;</bold>Figure 6 represents the change in SBW (delta SBW) after the second meal. This is a new metric that we have measured and therefore it is possible that the delta SBW may be more variable in CF than in healthy controls.</p><p> Since there are limited data on this metric, it is difficult to conclude whether this is a normal variation or due to sample size.</p><p>
+<bold>Reviewer comment: </bold>This paragraph seems extraneous: &#x0201c;Recent studies8,9 have suggested pancreatic exocrine function recovery with ivacaftor after 24 weeks in younger cohorts&#x02026; This suggests that, if pancreatic recovery were possible, it may occur only in the younger population or require a longer treatment period with CFTR modulators or more efficacious CFTR modulators.&#x0201d; The authors don&#x02019;t report on fecal elastase data other than to say it was unchanged.&#x000a0; The literature suggests that older patients, such as the subjects in this study, may not have changes in pancreatic function.&#x000a0; I think this paragraph should be deleted.</p><p>
+<bold>Response:&#x000a0;</bold>Thank you for your comment, this paragraph has been deleted</p><p>
+<bold>Reviewer comment: </bold>The paragraph stating that the authors saw no significant difference in GI symptoms after TEZ/IVA should be combined with the paragraph that follows it, which offers additional explanations for this observation.</p><p>
+<bold>Response:&#x000a0;</bold>We have now linked the 2 paragraphs.</p><p>
+<bold>Reviewer comment: </bold>The large variation between individuals (e.g. large error bars in Figure 5) indicates that GI motility is highly variable.&#x000a0; This should be included as one of the limitations of this study.</p><p>
+<bold>Response:&#x000a0;</bold>Thank you for your comment. We have acknowledged the variability in the discussion strengths and weaknesses.</p><p>
+<underline>
+<bold>Peer reviewer feedback 2: Onur Cil</bold>
+</underline>
+</p><p>
+<bold>Reviewer comment: </bold>OCTT primarily accounts for gastric emptying and small intestinal transit. However, majority of gut transit time is actually spent in colon, which is a more relevant intestinal segment for commonly seen constipation in CF. The limitations of OCTT for assessing gut transit and its relevance to CF need to be discussed in the paper</p><p>
+<bold>Response:&#x000a0;</bold>Thank you for your comment. We agree that there are limitations in only assessing OCTT and there is limited evidence on colonic or whole gut transit. Previous studies have demonstrated differences in small bowel transit only and not a significant difference in colonic or whole gut transit.&#x000a0;Therefore we have added the following sentences:</p><p>
+<italic toggle="yes">&#x0201c;However, it has been previously reported that there is no difference in colonic and whole gut transit times in CF compared to controls
+<sup>25</sup> or in CF patients at baseline compared to measurements during ivacaftor treatment
+<sup>11</sup>. It may be beneficial to assess these colonic and whole gut transit times, however, it would add to the participant burden and study costs.&#x0201d; </italic>
+</p><p>
+<underline>
+<bold>Results</bold>
+</underline>
+</p><p>
+<bold>Reviewer comment: </bold>What was the average (or median) interval between the current study and baseline scan in the GIFT-CF1 study for 7 patients?</p><p>
+<bold>Response:&#x000a0;</bold>Thank you for your question. The median was 45 weeks. We have now included this in the results - study progress section.</p><p>
+<bold>Reviewer comment: </bold>Do authors expect any differences in MRI characteristics over several months/years in the same subject assuming these two studies were done at different times?</p><p>
+<bold>Response:&#x000a0;</bold>The MRI values for our outcome measures in the present study are similar to data from our previous studies and therefore we can assume that any differences will be within the normal variation.&#x000a0;The comparisons made were within-participant avoiding any between individual variation.</p><p> There are no data to our knowledge which compare MRI characteristics over several months/years in healthy controls or CF. However, another reason for using previous scan data was to reduce the study burden for participants.</p><p>
+<bold>Reviewer comment: </bold>Is there any literature evidence for consistency of MRI findings between measurements done at different time points in people with or without CF?</p><p>
+<bold>Response:&#x000a0;</bold>There have been several studies by our group using the same MRI metrics with similar baseline measures in healthy controls. To our knowledge, there are no such data for people with CF.</p><p> One meta-analysis by Dellschaft et al
+<sup>1</sup>demonstrated that the small bowel water post-prandial profile is predictable in healthy controls across 29 studies. This included an analysis of the coefficient of variation in n=285 participants taking part in two or more scans, across 20 studies. The coefficient of variation was relatively high at 45%, with a very stable mean SBWC when repeatedly measuring in the same group of participants (mean of 81ml vs. 83ml ie. 2% variability of the mean between two visits).</p><p> In a similar analysis of fasting ascending colon chyme water (T1) in n=40 on 3 separate occasions, the coefficient of variation was 32%, with 8% variability of the mean between 3 visits (0.72s vs. 0.62s vs. 0.68s; currently under review for publication).</p><p>
+<bold>
+<underline>REFERENCES</underline>
+</bold>
+</p><p> 1.&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0; Dellschaft N, Hoad C, Marciani L, Gowland P, Spiller R. Small bowel water content assessed by MRI in health and disease: a collation of single-centre studies.
+<italic toggle="yes">Aliment Pharmacol Ther</italic> 2022;
+<bold>55</bold>(3): 327-38.</p></body></sub-article></sub-article></article>

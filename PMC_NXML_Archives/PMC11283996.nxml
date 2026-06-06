@@ -1,0 +1,1694 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="review-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Rev Cardiovasc Med</journal-id><journal-id journal-id-type="publisher-id">RCM</journal-id><journal-title-group><journal-title>Reviews in Cardiovascular Medicine</journal-title></journal-title-group><issn pub-type="ppub">2153-8174</issn><issn pub-type="epub">1530-6550</issn><publisher><publisher-name>IMR Press</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">39077192</article-id><article-id pub-id-type="pmc">11283996</article-id><article-id pub-id-type="doi">10.31083/j.rcm2306202</article-id><article-id pub-id-type="publisher-id">S1530-6550(22)00554-3</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Microbubble Enhanced Echocardiography in Current Cardiology Practice</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Strachinaru</surname><given-names>Mihai</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="cor1" ref-type="corresp">
+<sup>*</sup>
+</xref><email>m.strachinaru@erasmusmc.nl</email></contrib><contrib contrib-type="author"><name><surname>ten Cate</surname><given-names>Folkert J</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Naqvi</surname><given-names>Tasneem Z.</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="aff1">
+<sup>1</sup>Department of Cardiology, Erasmus MC, 3000 CA Rotterdam, The Netherlands
+</aff><aff id="aff2">
+<sup>2</sup>Department of Biomedical Engineering, Erasmus MC, 3000 CA Rotterdam, The Netherlands
+</aff><author-notes><corresp id="cor1"><sup>*</sup>Correspondence: <email>m.strachinaru@erasmusmc.nl</email> (Mihai Strachinaru)</corresp></author-notes><pub-date pub-type="epub"><day>31</day><month>5</month><year>2022</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2022</year></pub-date><volume>23</volume><issue>6</issue><elocation-id>202</elocation-id><history><date date-type="received"><day>9</day><month>2</month><year>2022</year></date><date date-type="rev-recd"><day>27</day><month>4</month><year>2022</year></date><date date-type="accepted"><day>29</day><month>4</month><year>2022</year></date></history><permissions><copyright-statement>Copyright: &#x000a9; 2022 The Author(s). Published by IMR Press.</copyright-statement><copyright-year>2022</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0 license</ext-link>.
+</license-p></license></permissions><abstract><p>Contrast-enhanced ultrasound imaging is a radiation-free clinical diagnostic 
+tool that uses biocompatible contrast agents to enhance ultrasound signal, in 
+order to improve image clarity and diagnostic performance. Ultrasound enhancing 
+agents (UEA), which are usually gas microbubbles, are administered intravenously 
+either by bolus injection or continuous infusion. UEA increase the accuracy and 
+reliability of echocardiography, leading to changes in treatment, improving 
+patient outcomes and lowering overall health care costs. In this review we 
+describe: (1) the current clinical applications of ultrasound enhancing agents in 
+echocardiography, with a brief review of the evidence underlying each of these 
+applications; (2) emerging diagnostic and therapeutic applications of microbubble 
+enhanced echocardiography (MEE), which rely either on the specific properties and 
+composition of ultrasound enhancing agents or on the technical advances of 
+clinical ultrasound systems; and (3) safety of MEE.</p></abstract><kwd-group kwd-group-type="author"><kwd>microbubble enhanced echocardiography</kwd><kwd>ultrasound enhancing agents</kwd><kwd>contrast-enhanced ultrasound</kwd><kwd>contrast echocardiography</kwd><kwd>safety</kwd><kwd>review</kwd></kwd-group></article-meta></front><body><sec id="S1"><!-- The element tags   
+is currently not supported for the main body. 
+	--><title>1. Introduction</title><p id="S1.p1">Echocardiography is the most commonly used imaging modality for assessing 
+cardiac structure and function. However, an estimated 20% of echocardiographic 
+studies may be suboptimal [<xref rid="b1" ref-type="bibr">1</xref>, <xref rid="b2" ref-type="bibr">2</xref>]. Hand-agitated saline resulting in rapidly 
+dissolving air bubbles have been used for decades to enhance the ultrasound 
+reflection from the right heart. The bubbles resulting from agitated solutions 
+are too short-lived and too large to pass through the pulmonary bed, a property 
+which has been used for the selective detection of right-to-left shunting (Fig. <xref rid="S1.F1" ref-type="fig">1</xref>, Video <xref rid="S1.p1.media1" ref-type="fig">1</xref>) [<xref rid="b3" ref-type="bibr">3</xref>]. Suboptimal delineation of the left heart structures stimulated 
+the development of commercial ultrasound enhancing agents (UEA) [<xref rid="b4" ref-type="bibr">4</xref>, <xref rid="b5" ref-type="bibr">5</xref>, <xref rid="b6" ref-type="bibr">6</xref>], 
+specifically engineered so that the bubbles would be small enough (<inline-formula id="S1.p1.m1"><mml:math id="w1" alttext="&#x0003c;" display="inline" overflow="scroll"><mml:mo>&#x0003c;</mml:mo></mml:math></inline-formula>8 
+<inline-formula id="S1.p1.m2"><mml:math id="w2" alttext="\mathrm{\mu}" display="inline" overflow="scroll"><mml:mi>&#x003bc;</mml:mi></mml:math></inline-formula>m) to pass through the capillaries in the lungs. Microbubble 
+enhanced echocardiography (MEE) is now a well-established method, with a clinical 
+history of more than 30 years. The technical details covering contrast infusion, 
+and the specific transmit-receive and radiofrequency processing algorithms 
+specifically designed to detect UEA microbubbles have been described and 
+summarized by numerous other works [<xref rid="b7" ref-type="bibr">7</xref>]. In this review we will focus on the use 
+of stable UEA designed to transit through the pulmonary circulation in clinical 
+echocardiography. We will address both current and future promising diagnostic 
+and therapeutic applications.</p><fig position="float" id="S1.F1"><label>Fig. 1.</label><caption><p><bold>Agitated saline injection for the detection of right-to-left 
+shunts</bold>. (A,B) Example of intracardiac right-to-left shunting through a patent 
+Foramen Ovale; transoesophageal echocardiography in mid-oesophageal position at 
+45&#x000b0;. The right atrium (RA), left atrium (LA) and interatrial septum at the 
+level of the fossa ovalis are seen (arrow). After the infusion of agitated saline 
+in a peripheral vein, a thick cloud of bubbles is seen passing through the patent 
+<italic toggle="yes">foramen ovale</italic> (PFO) (arrow). (C,D) Right-to-left shunting through an 
+intrapulmonary shunt, detected with transthoracic echocardiography, apical 
+4-chambers view. All four cavities are visualised. After the infusion of agitated 
+saline in a peripheral vein, the right cavities are completely opacified. Seven 
+heart cycles after the appearance of contrast in the right heart, a thick cloud 
+of bubbles is seen in the LA (arrow), coming from the left lower pulmonary vein 
+(LLPV). Source: personal collection.</p></caption><!-- The element tags   
+is currently not supported for the main body. 
+	--><graphic xlink:href="2153-8174-23-6-202-g1" id="S1.F1.g1" position="float"/></fig><fig position="float" id="S1.p1.media1"><label>Video 1.</label><caption><p><bold>Agitated saline injection for the detection of patent 
+<italic toggle="yes">foramen ovale</italic></bold>. (A,B) Transoesophageal echocardiography in 
+mid-oesophageal position at 45&#x000b0;. The interatrial septum at the level of the 
+fossa ovalis is seen. After the intravenous infusion of agitated saline, a thick 
+cloud of bubbles is seen passing through the PFO. The movie corresponds to Fig. <xref rid="S1.F1" ref-type="fig">1</xref>. The embedded movie may also be viewed at <uri xlink:href="https://doi.org/10.31083/j.rcm2306202">https://doi.org/10.31083/j.rcm2306202</uri>.</p></caption><media id="M1" xlink:href="2153-8174-23-6-202-v1.mp4" specific-use="free" position="anchor" mimetype="video" mime-subtype="mp4"/></fig></sec><sec id="S2"><!-- The element tags   
+is currently not supported for the main body. 
+	--><title>2. Methods</title><p id="S2.p1">This narrative review considered landmark studies in the field of MEE, which 
+were published between 1984 and 2021. Inclusion criteria were: studies with 
+largely confirmed scientific impact, regardless of their size and design, which: 
+(i) defined key technical and/or clinical aspects of the method; (ii) were very 
+informative on specific clinical and/or technical applications; (iii) had been 
+previously included in the European Association of Cardiovascular Imaging (EACVI) 
+and American Society of Echocardiography (ASE) guidelines or (iv) were defined as 
+landmark papers in the EACVI Key Reference Library 
+(Contrast 
+Echocardiography (<uri xlink:href="https://www.escardio.org/">https://www.escardio.org/</uri>), accessed on 15/03/2022). Only studies indexed 
+in the PubMed database, and published in the English language were considered.</p><sec id="S2.SS1"><!-- The element tags   
+is currently not supported for the main body. 
+	--><title>Ethics Approval and Consent to Participate</title><p id="S2.SS1.p1">All patients included in this review as clinical illustrations gave their 
+informed consent for the anonymous use of their clinical data and 
+echocardiographic images.</p></sec></sec><sec id="S3"><!-- The element tags   
+is currently not supported for the main body. 
+	--><title>3. Ultrasound Enhancing Agents</title><p id="S3.p1">The current generation of UEA consist of microbubbles of comparable size to red 
+blood cells (less than 8 <inline-formula id="S3.p1.m1"><mml:math id="w3" alttext="\mathrm{\mu}" display="inline" overflow="scroll"><mml:mi>&#x003bc;</mml:mi></mml:math></inline-formula>m in diameter), consisting of a gas 
+encapsulated in a shell. The properties of these bubbles in the ultrasound field, 
+and hence the image generated, are conditioned by their size, type of shell and 
+gas. The interactions of the bubbles with ultrasound are complex. Generally, 
+these bubbles undergo compression and expansion when exposed to the ultrasound 
+waves (Video <xref rid="S3.p1.media2" ref-type="fig">2</xref>). These interactions can be generally divided in stable cavitation 
+(oscillation of the bubbles without destruction) or inertial cavitation (abrupt 
+oscillation disrupting the shell). These oscillations produce scattering (i.e., 
+linear signal), which is proportional with the bubble size. However, one of the 
+most important properties of microbubble oscillation is that they produce 
+non-linear signal [<xref rid="b8" ref-type="bibr">8</xref>], which can be detected by the ultrasound system at harmonic 
+frequencies.</p><fig position="float" id="S3.p1.media2"><label>Video 2.</label><caption><p><bold>Ultrasound enhancing agent microbubble oscillation induced by 
+an ultrasound pulse</bold>. Images were obtained with a Brandaris-128 ultra-fast 
+framing camera at a frame rate of 15.3 Mfps. (movie courtesy of Dr HJ Vos). The embedded movie may also be viewed at <uri xlink:href="https://doi.org/10.31083/j.rcm2306202">https://doi.org/10.31083/j.rcm2306202</uri>.</p></caption><media id="M2" xlink:href="2153-8174-23-6-202-v2.mp4" specific-use="free" position="anchor" mimetype="video" mime-subtype="mp4"/></fig><p id="S3.p2">The microbubbles must be strong enough to resist significant destruction with 
+the clinical ultrasound incident power output. This has been achieved by using 
+lipid or albumin shells, encapsulating inert high-molecular weight gas cores 
+[<xref rid="b7" ref-type="bibr">7</xref>, <xref rid="b9" ref-type="bibr">9</xref>] (Table <xref rid="S3.T1" ref-type="table">1</xref>).</p><table-wrap position="float" id="S3.T1"><label>Table 1.</label><caption><p><bold>Current commercial ultrasound enhancing agents</bold>.</p></caption><!-- The element tags   
+is currently not supported for the main body. 
+	--><table frame="hsides" rules="groups"><tbody><tr><td style="border-top:1px solid #000;border-bottom:1px solid #000;" rowspan="1" colspan="1">Agent</td><td style="border-top:1px solid #000;border-bottom:1px solid #000;" rowspan="1" colspan="1">Manufacturer</td><td style="border-top:1px solid #000;border-bottom:1px solid #000;" rowspan="1" colspan="1">Shell</td><td style="border-top:1px solid #000;border-bottom:1px solid #000;" rowspan="1" colspan="1">Gas</td><td style="border-top:1px solid #000;border-bottom:1px solid #000;" rowspan="1" colspan="1">Average size (&#x000b5;m)</td></tr><tr><td rowspan="1" colspan="1">Optison</td><td rowspan="1" colspan="1">GE Healthcare</td><td rowspan="1" colspan="1">Albumin</td><td rowspan="1" colspan="1">Perfluoropropane</td><td rowspan="1" colspan="1">2&#x02013;4.5</td></tr><tr><td rowspan="1" colspan="1">Definity/Lumify</td><td rowspan="1" colspan="1">Lantheus Medical Imaging</td><td rowspan="1" colspan="1">Lipid</td><td rowspan="1" colspan="1">Perfluoropropane</td><td rowspan="1" colspan="1">1.1&#x02013;3.3</td></tr><tr><td style="border-bottom:1px solid #000;" rowspan="1" colspan="1">Sonovue/Lumason</td><td style="border-bottom:1px solid #000;" rowspan="1" colspan="1">Bracco Diagnostics</td><td style="border-bottom:1px solid #000;" rowspan="1" colspan="1">Amphiphilic phospholipid</td><td style="border-bottom:1px solid #000;" rowspan="1" colspan="1">Sulphur hexafluoride</td><td style="border-bottom:1px solid #000;" rowspan="1" colspan="1">2&#x02013;3</td></tr></tbody></table></table-wrap></sec><sec id="S4"><!-- The element tags   
+is currently not supported for the main body. 
+	--><title>4. Clinical Applications</title><sec id="S4.SS1"><!-- The element tags   
+is currently not supported for the main body. 
+	--><title>4.1 Left Ventricular Opacification (LVO) </title><p id="S4.SS1.p1">The largest body of evidence for MEE concerns the indication for LVO for 
+enhancing the endocardial borders [<xref rid="b10" ref-type="bibr">10</xref>, <xref rid="b11" ref-type="bibr">11</xref>, <xref rid="b12" ref-type="bibr">12</xref>, <xref rid="b13" ref-type="bibr">13</xref>, <xref rid="b14" ref-type="bibr">14</xref>, <xref rid="b15" ref-type="bibr">15</xref>]. This is achieved by using repetitive 
+intravenous boluses of UEA, and sometimes continuous low-dose infusion. 
+Guidelines indicate the use of LVO to enhance the endocardial borders in cases 
+when the LV dimensions, function or regional wall motion cannot be accurately 
+assessed using non-enhanced ultrasound [<xref rid="b7" ref-type="bibr">7</xref>, <xref rid="b14" ref-type="bibr">14</xref>]. The general &#x0201c;rule of thumb&#x0201d; is 
+to use microbubble UEA in cases where two or more contiguous myocardial segments 
+are not properly visualized with non-enhanced ultrasound [<xref rid="b13" ref-type="bibr">13</xref>]. Of course, recent 
+years have seen tremendous improvement in image quality for clinical ultrasound 
+systems. But despite the introduction of harmonic imaging as a standard, some 
+images remain non-diagnostic (Fig. <xref rid="S4.F2" ref-type="fig">2</xref>). Moreover, harmonic imaging represented a 
+significant leap in MEE [<xref rid="b16" ref-type="bibr">16</xref>, <xref rid="b17" ref-type="bibr">17</xref>], leading to the present-day contrast-specific 
+imaging modalities.</p><fig position="float" id="S4.F2"><label>Fig. 2.</label><caption><p><bold>Left ventricular opacification (LVO) for endocardial border 
+delineation</bold>. Example of baseline non-enhanced echocardiography images in apical 
+4-chambers (A) and apical 2-chambers (B) views, where the visualization of the 
+endocardium is suboptimal over several segments. After intravenous injection of a 
+bolus of UEA, there is full opacification of the LV cavity, with clear 
+delineation of the endocardium in all segments (C, D). Source: personal 
+collection.</p></caption><!-- The element tags   
+is currently not supported for the main body. 
+	--><graphic xlink:href="2153-8174-23-6-202-g2" id="S4.F2.g1" position="float"/></fig><sec id="S4.SS1.SSS1"><!-- The element tags   
+is currently not supported for the main body. 
+	--><title>4.1.1 LV Size and Ejection Fraction (EF)</title><p id="S4.SS1.SSS1.p1">By using UEA, enhanced echocardiographic measurements of LV volumes and ejection 
+fraction are very close to the reference cardiac magnetic resonance (CMR) values 
+[<xref rid="b11" ref-type="bibr">11</xref>, <xref rid="b12" ref-type="bibr">12</xref>], and significantly less variable as compared to unenhanced imaging, even 
+if baseline images are of good quality [<xref rid="b18" ref-type="bibr">18</xref>]. This significant difference in 
+quality, information and accuracy leads to a clinical impact on diagnosis and 
+management [<xref rid="b6" ref-type="bibr">6</xref>, <xref rid="b19" ref-type="bibr">19</xref>, <xref rid="b20" ref-type="bibr">20</xref>]. Echocardiographic estimates of LV volume tend to be larger 
+when using LVO, mainly because it aids the exclusion of trabeculae (Fig. <xref rid="S4.F3" ref-type="fig">3</xref>), 
+making the measurements closer to their CMR counterparts [<xref rid="b13" ref-type="bibr">13</xref>].</p><fig position="float" id="S4.F3"><label>Fig. 3.</label><caption><p><bold>Ejection fraction (EF) estimation</bold>. (A,B) Non-enhanced 
+ultrasound images. The endocardium is not clearly visible in several segments 
+(question marks), making the volumes difficult to assess. (C,D) Contrast-enhanced 
+images. The endocardial border is clearly defined, allowing for a biplane volume 
+estimation. Moreover, the LV end-diastolic volumes in contrast-enhanced images is 
+notably larger than the one on the non-enhanced images, probably because of a 
+combination of insufficient image quality on native images, and exclusion of 
+trabeculae and papillary muscles on contrast images. Source: personal collection.</p></caption><!-- The element tags   
+is currently not supported for the main body. 
+	--><graphic xlink:href="2153-8174-23-6-202-g3" id="S4.F3.g1" position="float"/></fig><p id="S4.SS1.SSS1.p2">3D MEE is not yet a standard. Although one multicenter study demonstrated that 
+it may improve inter-observer variability and accuracy [<xref rid="b11" ref-type="bibr">11</xref>, <xref rid="b12" ref-type="bibr">12</xref>], there are still 
+limitations because of UEA destruction in the near field generated with 3D echo, 
+which in other studies resulted in increased inter-observer variability [<xref rid="b21" ref-type="bibr">21</xref>].</p><p id="S4.SS1.SSS1.p3">As such, LV microbubble-enhanced echocardiographic volumes are not presented in 
+the current guidelines for chamber quantification [<xref rid="b22" ref-type="bibr">22</xref>], and they should not be 
+compared with the non-enhanced values mentioned in these guidelines. New 
+reference ranges for LV enhanced echocardiographic volumes should be established 
+by large studies.</p><p id="S4.SS1.SSS1.p4">The evidence regarding the use of MEE for linear size measurements of the LV is 
+less strong. Recent monocentric studies suggest a benefit of measuring the 
+interventricular septal size in hypertrophic cardiomyopathy with MEE, and the 
+results may be closer to the reference CMR and smaller than non-enhanced values 
+[<xref rid="b23" ref-type="bibr">23</xref>, <xref rid="b24" ref-type="bibr">24</xref>]. However, precise reference ranges for MEE LV size and wall thickness in 
+parasternal views are yet lacking, and CMR should be preferred whenever possible 
+in the workup of HCM patients. Also, for the posterior wall thickness in the 
+parasternal views MEE may surprisingly not be better than non-enhanced images 
+[<xref rid="b24" ref-type="bibr">24</xref>], and this because the significant signal attenuation through interposition 
+of the microbubbles in the right and left ventricular cavities. This is even more 
+obvious at higher concentrations of UEA.</p></sec><sec id="S4.SS1.SSS2"><!-- The element tags   
+is currently not supported for the main body. 
+	--><title>4.1.2 Assessment of Regional Wall Motion at Rest</title><p id="S4.SS1.SSS2.p1">The significant improvement in endocardial delineation demonstrated a similarly 
+significant benefit in the analysis of regional wall motion abnormalities [<xref rid="b25" ref-type="bibr">25</xref>]. 
+When analyzed by a panel of experts, the accuracy in diagnosing wall motion 
+abnormalities was highest for CMR (84%), followed by 2D MEE (78%) and 3D 
+contrast (76%) [<xref rid="b25" ref-type="bibr">25</xref>]. In addition to this multicenter study, other works 
+demonstrated the benefit of contrast imaging in the interpretation of LV wall 
+motion in intensive care patients [<xref rid="b26" ref-type="bibr">26</xref>], or post myocardial infarction [<xref rid="b19" ref-type="bibr">19</xref>, <xref rid="b27" ref-type="bibr">27</xref>]. 
+The benefit becomes more obvious when used as point-of-care echocardiography, to 
+rapidly identify wall motion abnormalities in patients with suspected coronary 
+artery disease (Video <xref rid="S4.SS1.SSS2.p1.media3" ref-type="fig">3</xref>).</p><fig position="float" id="S4.SS1.SSS2.p1.media3"><label>Video 3.</label><caption><p><bold>Patients with non-specific thoracic pain and non-diagnostic 
+electrocardiogram</bold>. Non-enhanced images (left) in the parasternal short axis of 
+the left ventricle at the level of the papillary muscles lack definition in the 
+interventricular septum, no clear motion abnormality is seen. With contrast 
+(right) the endocardium is clearly seen and hypokinesia is noted in the 
+interventricular septum. The embedded movie may also be viewed at <uri xlink:href="https://doi.org/10.31083/j.rcm2306202">https://doi.org/10.31083/j.rcm2306202</uri>.</p></caption><media id="M3" xlink:href="2153-8174-23-6-202-v3.mp4" specific-use="free" position="anchor" mimetype="video" mime-subtype="mp4"/></fig></sec><sec id="S4.SS1.SSS3"><!-- The element tags   
+is currently not supported for the main body. 
+	--><title>4.1.3 Assessment of LV Wall Structure</title><p id="S4.SS1.SSS3.p1">Another application of LVO is morphological diagnosis, particularly in disease 
+states which manifest in the artefact-prone LV apex. Beside possible 
+foreshortening, the LV apex is prone to clutter and reverberation artefacts, 
+while also having a weaker potential to generate harmonics because of its 
+position in the near-field in apical views [<xref rid="b28" ref-type="bibr">28</xref>]. As such, apical forms of 
+hypertrophic cardiomyopathy [<xref rid="b29" ref-type="bibr">29</xref>, <xref rid="b30" ref-type="bibr">30</xref>], eosinophilic cardiomyopathy [<xref rid="b31" ref-type="bibr">31</xref>] and 
+non-compaction cardiomyopathy [<xref rid="b32" ref-type="bibr">32</xref>] may escape detection with unenhanced 
+ultrasound.</p><p id="S4.SS1.SSS3.p2">Numerous case reports and case series document the use of UEA in these instances 
+[<xref rid="b29" ref-type="bibr">29</xref>, <xref rid="b30" ref-type="bibr">30</xref>, <xref rid="b31" ref-type="bibr">31</xref>, <xref rid="b32" ref-type="bibr">32</xref>, <xref rid="b33" ref-type="bibr">33</xref>]. Studies have also been performed demonstrating the added value of 
+contrast-enhanced ultrasound in hypertrophic cardiomyopathy [<xref rid="b34" ref-type="bibr">34</xref>] (Fig. <xref rid="S4.F4" ref-type="fig">4</xref>, Video <xref rid="S4.SS1.SSS3.p2.media4" ref-type="fig">4</xref>).</p><fig position="float" id="S4.F4"><label>Fig. 4.</label><caption><p><bold>Hypertrophic cardiomyopathy patient with very poor image in 
+apical 4-chambers view</bold>. (A,B) Native images, end-diastole (A) and end-systole 
+(B). The endocardium of the lateral wall is not visible, and the apex cannot be 
+seen. (C,D) Contrast-enhanced images, in the same moments in the cardiac cycle. 
+The LV contour is clearly delineated, during systole there is complete cavity 
+obliteration, with an apical aneurysm (arrow). Source: personal collection.</p></caption><!-- The element tags   
+is currently not supported for the main body. 
+	--><graphic xlink:href="2153-8174-23-6-202-g4" id="S4.F4.g1" position="float"/></fig><fig position="float" id="S4.SS1.SSS3.p2.media4"><label>Video 4.</label><caption><p><bold>Apical hypertrophic cardiomyopathy, microbubble-enhanced 
+echocardiography</bold>. The images correspond to the patient in Fig. <xref rid="S4.F4" ref-type="fig">4</xref>. There is 
+mid-cavity obliteration, with a dyskinetic apical pouch (apical aneurysm), which 
+were not seen on native images. The embedded movie may also be viewed at <uri xlink:href="https://doi.org/10.31083/j.rcm2306202">https://doi.org/10.31083/j.rcm2306202</uri>.</p></caption><media id="M4" xlink:href="2153-8174-23-6-202-v4.mp4" specific-use="free" position="anchor" mimetype="video" mime-subtype="mp4"/></fig></sec><sec id="S4.SS1.SSS4"><!-- The element tags   
+is currently not supported for the main body. 
+	--><title>4.1.4 Left Atrial Appendage Visualization during Transoesophageal 
+Echocardiography</title><p id="S4.SS1.SSS4.p1">Transoesophageal echocardiography is an established method for assessing the 
+left atrial appendage (LAA) for the presence of thrombi [<xref rid="b35" ref-type="bibr">35</xref>, <xref rid="b36" ref-type="bibr">36</xref>] or to guide LAA 
+interventions (Fig. <xref rid="S4.F5" ref-type="fig">5</xref>, Ref. [<xref rid="b36" ref-type="bibr">36</xref>]). In case of LAA stasis, the dense spontaneous contrast may 
+mask the presence of a small thrombus. Several studies demonstrated that the 
+adjunction of UEA increases the diagnostic yield of the procedure [<xref rid="b37" ref-type="bibr">37</xref>, <xref rid="b38" ref-type="bibr">38</xref>] and 
+reduces subsequent strokes [<xref rid="b39" ref-type="bibr">39</xref>].</p><fig position="float" id="S4.F5"><label>Fig. 5.</label><caption><p><bold>Ultrasound-enhanced TEE used to facilitate the safety of an 
+atrial fibrillation cardioversion procedure</bold>. (A) Mid-esophageal view at 
+<inline-formula id="S4.F5.m2"><mml:math id="w4" alttext="{}^{\circ}{}" display="inline" overflow="scroll"><mml:msup><mml:mi>60</mml:mi><mml:mo>&#x02218;</mml:mo></mml:msup></mml:math></inline-formula>, demonstrating a hyperechoic signal (arrow) inside the left atrial 
+appendage (LAA), which could be an artefact, but a thrombus cannot be excluded 
+because of &#x0201c;smoke&#x0201d; in the LAA. (B) By adding intravenous ultrasound enhancing 
+agent, the LAA appears free of any abnormal echo. In the absence of thrombus, the 
+cardioversion was successfully performed. Modified with permission from Doukky R 
+<italic toggle="yes">et al</italic>. [<xref rid="b36" ref-type="bibr">36</xref>].</p></caption><!-- The element tags   
+is currently not supported for the main body. 
+	--><graphic xlink:href="2153-8174-23-6-202-g5" id="S4.F5.g1" position="float"/></fig><p id="S4.SS1.SSS4.p2">However, contrast-specific transoesophageal applications are not available on 
+all ultrasound clinical systems, therefore in such cases non-contrast mode 
+harmonic 2D imaging may be used, with a mechanical index (MI) under 0.3 (Fig. <xref rid="S4.F6" ref-type="fig">6</xref>, 
+Video <xref rid="S4.SS1.SSS4.p2.media5" ref-type="fig">5</xref>).</p><fig position="float" id="S4.F6"><label>Fig. 6.</label><caption><p><bold>Transoesophageal echocardiography in a patient with a Watchman 
+left atrial appendage (LAA) closure device</bold>. Microbubble-enhanced ultrasound was 
+used in order to detect a suspected residual leak around the occluder. On 
+non-enhanced multiplane and live 3D images (A) a gap is visible (red arrows) 
+between the rim of the device and the LAA. Because of shadowing, the sealing of 
+the LAA cannot be verified. By adding intravenous contrast (B) and using harmonic 
+imaging with a mechanical index of 0.2, contrast is seen in the LAA, surrounding 
+the device (yellow arrows), demonstrating incomplete sealing of the LAA. Source: 
+personal collection.</p></caption><!-- The element tags   
+is currently not supported for the main body. 
+	--><graphic xlink:href="2153-8174-23-6-202-g6" id="S4.F6.g1" position="float"/></fig><fig position="float" id="S4.SS1.SSS4.p2.media5"><label>Video 5.</label><caption><p><bold>Microbubble-enhanced transoesophageal echocardiography biplane 
+images focused on the left atrial appendage (LAA)</bold>. In the LAA a closure device 
+(Watchman) is present, but the sealing is incomplete, contrast can be seen all 
+around the device, enhancing its borders. The patient corresponds to Fig. <xref rid="S4.F6" ref-type="fig">6</xref>. The embedded movie may also be viewed at <uri xlink:href="https://doi.org/10.31083/j.rcm2306202">https://doi.org/10.31083/j.rcm2306202</uri>.</p></caption><media id="M5" xlink:href="2153-8174-23-6-202-v5.mp4" specific-use="free" position="anchor" mimetype="video" mime-subtype="mp4"/></fig><p id="S4.SS1.SSS4.p3">The significant improvement LVO provides in accuracy, reproducibility and 
+confidence in the assessment of LV size, shape and function encourages the 
+incorporation of this relatively low-cost method in the standard exploration of 
+clinical patients. This has been recognized by the current guidelines [<xref rid="b7" ref-type="bibr">7</xref>, <xref rid="b13" ref-type="bibr">13</xref>, <xref rid="b22" ref-type="bibr">22</xref>]. 
+It seems reasonable to systematically use UEA for LVO in patients in whom two or 
+more segments are not adequately visualized with non-enhanced ultrasound.</p></sec></sec><sec id="S4.SS2"><!-- The element tags   
+is currently not supported for the main body. 
+	--><title>4.2 Stress MEE (LVO)</title><p id="S4.SS2.p1">The addition of UEA during stress echocardiography protocols is usually achieved 
+through an LVO application with low-MI harmonic imaging (Fig. <xref rid="S4.F7" ref-type="fig">7</xref>, Video <xref rid="S4.SS2.p1.media6" ref-type="fig">6</xref>). The 
+result is an increase in the likelihood of a diagnostic test, a better 
+visualization of all myocardial segments, study quality and reader confidence, as 
+compared to invasive or non-invasive reference [<xref rid="b40" ref-type="bibr">40</xref>, <xref rid="b41" ref-type="bibr">41</xref>, <xref rid="b42" ref-type="bibr">42</xref>, <xref rid="b43" ref-type="bibr">43</xref>]. The addition of UEA to 
+non-enhanced studies resulted in a better agreement with coronary angiography, 
+even in patients with intermediate coronary lesions [<xref rid="b44" ref-type="bibr">44</xref>]. Of course, the use of 
+LVO in stress echo has the largest impact in patients with suboptimal image [<xref rid="b45" ref-type="bibr">45</xref>]. 
+Nevertheless, contrast-enhanced ultrasound also improves the wall motion score 
+and detection of regional wall motion abnormalities in patients with adequate 
+image quality [<xref rid="b46" ref-type="bibr">46</xref>]. Contrast-enhanced dobutamine stress echocardiography provided 
+adequate risk stratification in patients with increased cardiovascular risk due 
+to obesity or suspected coronary artery disease [<xref rid="b47" ref-type="bibr">47</xref>, <xref rid="b48" ref-type="bibr">48</xref>, <xref rid="b49" ref-type="bibr">49</xref>].</p><fig position="float" id="S4.F7"><label>Fig. 7.</label><caption><p><bold>Microbubble enhanced stress echocardiography</bold>. Baseline 
+non-enhanced images are recorded in apical 4 and 2 chambers (A,B), demonstrating 
+insufficient delineation of the endocardial borders; With contrast (C,D) the LV 
+contours become clearly visible. Source: personal collection.</p></caption><!-- The element tags   
+is currently not supported for the main body. 
+	--><graphic xlink:href="2153-8174-23-6-202-g7" id="S4.F7.g1" position="float"/></fig><fig position="float" id="S4.SS2.p1.media6"><label>Video 6.</label><caption><p><bold> Dobutamine stress echocardiography, baseline images</bold>. The upper 
+panels are non-enhanced, LV walls and endocardial borders are difficult to see. 
+The lower panels show the contrast-enhanced images, the LV contours and wall 
+motion are clearly visible. The movie corresponds to Fig. <xref rid="S4.F7" ref-type="fig">7</xref>. The embedded movie may also be viewed at <uri xlink:href="https://doi.org/10.31083/j.rcm2306202">https://doi.org/10.31083/j.rcm2306202</uri>.</p></caption><media id="M6" xlink:href="2153-8174-23-6-202-v6.mp4" specific-use="free" position="anchor" mimetype="video" mime-subtype="mp4"/></fig><p id="S4.SS2.p2">In patients with incomplete visualization of at least 2 contiguous segments 
+contrast should be used for stress echocardiography. In patients with adequate 
+image quality, contrast could be used to assess the myocardial perfusion, in 
+addition to wall motion [<xref rid="b7" ref-type="bibr">7</xref>, <xref rid="b13" ref-type="bibr">13</xref>].</p></sec><sec id="S4.SS3"><!-- The element tags   
+is currently not supported for the main body. 
+	--><title>4.3 Myocardial Perfusion Imaging</title><sec id="S4.SS3.SSS1"><!-- The element tags   
+is currently not supported for the main body. 
+	--><title>4.3.1 Detection of Coronary Artery Disease</title><p id="S4.SS3.SSS1.p1">UEA have an intravascular behavior which mimics closely that of red blood cells 
+[<xref rid="b50" ref-type="bibr">50</xref>], and an in vivo distribution to the intravascular compartment, making them 
+ideal for assessing microvascular distribution in the tissue. The total blood 
+volume in the coronary circulation at rest is around 12 mL/100 g of myocardial 
+tissue [<xref rid="b51" ref-type="bibr">51</xref>] and 90% of this volume is found in the capillaries. If the 
+myocardium is fully saturated during a continuous UEA infusion, the UEA in the 
+myocardium will reflect the distribution of the capillary circulation [<xref rid="b52" ref-type="bibr">52</xref>]. This 
+means that simply measuring the intensity of signal enhancement with UEA provides 
+a quantitative measure of intact microcirculation in the myocardium. Using this 
+approach, the extent and distribution of viable (perfused) myocardium can be 
+assessed (Fig. <xref rid="S4.F8" ref-type="fig">8</xref>, Video <xref rid="S4.SS3.SSS1.p1.media7" ref-type="fig">7</xref>) with a sensitivity and specificity similar to single 
+photon emission computed tomography (SPECT) techniques [<xref rid="b41" ref-type="bibr">41</xref>] or magnetic resonance 
+imaging (MRI) [<xref rid="b53" ref-type="bibr">53</xref>].</p><fig position="float" id="S4.F8"><label>Fig. 8.</label><caption><p><bold>Detection of coronary artery disease by using myocardial 
+perfusion imaging</bold>. Patient with dyspnoea but no typical chest pain. (A) LVO 
+images demonstrate a discrete anomaly in the septal kinetics. (B) Myocardial 
+perfusion imaging shows a subendocardial perfusion defect in the anterior and 
+anteroseptal segments. Patient underwent coronary angiography and stent placing 
+in the left anterior descendent coronary. (C) Follow-up study before discharge: 
+LVO normal kinetics. (D) Follow-up perfusion study on discharge: homogeneous 
+perfusion. Source: personal collection.</p></caption><!-- The element tags   
+is currently not supported for the main body. 
+	--><graphic xlink:href="2153-8174-23-6-202-g8" id="S4.F8.g1" position="float"/></fig><fig position="float" id="S4.SS3.SSS1.p1.media7"><label>Video 7.</label><caption><p><bold>Detection of coronary artery disease by using myocardial 
+perfusion imaging</bold>. Upper panels: acute phase; Lower panels: discharge. In the 
+acute phase myocardial perfusion imaging (upper right panel) shows a 
+subendocardial perfusion defect in the anterior and anteroseptal segments, with 
+mild hypokinesia. Patient underwent coronary angiography and stent placing in the 
+left anterior descendent coronary. Perfusion was homogeneous at discharge. The 
+movie corresponds to Fig. <xref rid="S4.F8" ref-type="fig">8</xref>. The embedded movie may also be viewed at <uri xlink:href="https://doi.org/10.31083/j.rcm2306202">https://doi.org/10.31083/j.rcm2306202</uri>.</p></caption><media id="M7" xlink:href="2153-8174-23-6-202-v7.mp4" specific-use="free" position="anchor" mimetype="video" mime-subtype="mp4"/></fig><p id="S4.SS3.SSS1.p2">Experimental data demonstrated that the myocardial capillary flow has a velocity 
+of 1 mm/s within a beam elevation of 5 mm. This means that the total filling of 
+the capillaries takes around 5 seconds (5 cardiac cycles at a heart rate of 
+60/min) at rest [<xref rid="b54" ref-type="bibr">54</xref>]. If for some reason the blood flow is slowed down (stenosis) 
+or accelerated (vasodilation), this time will be modified accordingly [<xref rid="b54" ref-type="bibr">54</xref>]. 
+During stress the myocardial blood flow increases 4&#x02013;5-fold, which means that 
+replenishment will be achieved in 1 to 2 seconds (2&#x02013;3 cardiac cycles at a heart 
+rate above 120/min).</p><p id="S4.SS3.SSS1.p3">Assessing myocardial perfusion has incremental benefit over wall motion analysis 
+in detecting coronary artery disease (CAD) [<xref rid="b55" ref-type="bibr">55</xref>]. The myocardial contrast signal 
+obtained in a steady state (continuous infusion) can be normalized to the LV 
+cavity signal and this represents the myocardial capillary volume [<xref rid="b54" ref-type="bibr">54</xref>]. By 
+delivering a series of high-power (high mechanical index) ultrasound frames to 
+the region of interest, cavitation and destruction of the UEA bubbles is 
+initiated; the analysis of the progressive recovery of the contrast signal in the 
+myocardium provides information on the myocardial capillary flow [<xref rid="b54" ref-type="bibr">54</xref>, <xref rid="b55" ref-type="bibr">55</xref>, <xref rid="b56" ref-type="bibr">56</xref>] (Fig. <xref rid="S4.F9" ref-type="fig">9</xref>, 
+Video <xref rid="S4.SS3.SSS1.p3.media8" ref-type="fig">8</xref>).</p><fig position="float" id="S4.F9"><label>Fig. 9.</label><caption><p><bold>Vasodilator stress echocardiography with Adenosine, using a 
+low-MI setting and flash-replenishment technique</bold>. (A&#x02013;D) Baseline end-systolic 
+frames before flash (A), flash (B), immediately post flash (C, myocardium is dark 
+because of the destruction of contrast), and post-replenishment frame (D) when 
+perfusion is again homogeneous. (E&#x02013;H) After adenosine infusion, the same order 
+of frames. (H) Post replenishment end-systolic frame demonstrating a 
+subendocardial perfusion defect in the inferosetptal segements (arrow). Of note, 
+during stress myocardial replenishment occurs faster than at rest because of the 
+pharmacological vasodilation. The patient underwent coronary angiography and 
+stent placing in the right coronary artery. Source: personal collection.</p></caption><!-- The element tags   
+is currently not supported for the main body. 
+	--><graphic xlink:href="2153-8174-23-6-202-g9" id="S4.F9.g1" position="float"/></fig><fig position="float" id="S4.SS3.SSS1.p3.media8"><label>Video 8.</label><caption><p><bold>Adenosine contrast-enhanced stress echocardiography, with a 
+flash-replenishment cycle</bold>. After the flash there is a persistent perfusion 
+defect in the inferoseptal segments. The movie corresponds to Fig. <xref rid="S4.F9" ref-type="fig">9</xref>. The embedded movie may also be viewed at <uri xlink:href="https://doi.org/10.31083/j.rcm2306202">https://doi.org/10.31083/j.rcm2306202</uri>.</p></caption><media id="M8" xlink:href="2153-8174-23-6-202-v8.mp4" specific-use="free" position="anchor" mimetype="video" mime-subtype="mp4"/></fig><p id="S4.SS3.SSS1.p4">The sensitivity and specificity of myocardial contrast stress echocardiography 
+in detecting CAD are 83% and 79% respectively for a vasodilator stress 
+(dipyridamole or adenosine) and 88% and 77% respectively for dobutamine or 
+exercise stress studies [<xref rid="b7" ref-type="bibr">7</xref>, <xref rid="b57" ref-type="bibr">57</xref>]. Two large multicenter studies demonstrated 
+superior sensitivity of myocardial perfusion stress echocardiography as compared 
+to SPECT, but lower specificity [<xref rid="b58" ref-type="bibr">58</xref>, <xref rid="b59" ref-type="bibr">59</xref>]. The higher sensitivity may be due to the 
+fact that SPECT only detects the myocardial blood volume, and not the kinetics of 
+myocardial blood flow, as opposed to contrast-enhanced stress echocardiography, 
+which can assess both [<xref rid="b54" ref-type="bibr">54</xref>]. The lower specificity may be related to artefacts 
+during stress echocardiography, mainly in the apex (near-field destruction) and 
+basal segments (far field attenuation in apical view).</p><p id="S4.SS3.SSS1.p5">There is now a large body of evidence supporting the added value of myocardial 
+perfusion imaging over wall motion assessment alone in stress echocardiography 
+[<xref rid="b55" ref-type="bibr">55</xref>, <xref rid="b60" ref-type="bibr">60</xref>, <xref rid="b61" ref-type="bibr">61</xref>, <xref rid="b62" ref-type="bibr">62</xref>, <xref rid="b63" ref-type="bibr">63</xref>, <xref rid="b64" ref-type="bibr">64</xref>, <xref rid="b65" ref-type="bibr">65</xref>, <xref rid="b66" ref-type="bibr">66</xref>]. When using vasodilator stress, the use of high-power 
+flash-replenishment technique is likely more important than during dobutamine or 
+exercise stress, where wall motion abnormalities and perfusion defects may be 
+more evident because of the higher oxygen demand during this type of stress [<xref rid="b67" ref-type="bibr">67</xref>].</p></sec><sec id="S4.SS3.SSS2"><!-- The element tags   
+is currently not supported for the main body. 
+	--><title>4.3.2 Myocardial Viability</title><p id="S4.SS3.SSS2.p1">As mentioned earlier, the intramyocardial UEA signal intensity correlates with 
+the microvascular density in the area, and would naturally be lower in regions 
+with high collagen content [<xref rid="b68" ref-type="bibr">68</xref>, <xref rid="b69" ref-type="bibr">69</xref>]. Dobutamine stress echocardiography is 
+routinely used for the assessment of myocardial viability. A contractile response 
+during stress relates to the presence of the microvasculature and the presence of 
+a blood flow reserve, both of which are particularly well predicted by MEE. An 
+increasing body of evidence suggests that MEE is a useful and highly feasible 
+technique for the evaluation of myocardial viability [<xref rid="b53" ref-type="bibr">53</xref>, <xref rid="b70" ref-type="bibr">70</xref>, <xref rid="b71" ref-type="bibr">71</xref>, <xref rid="b72" ref-type="bibr">72</xref>].</p></sec><sec id="S4.SS3.SSS3"><!-- The element tags   
+is currently not supported for the main body. 
+	--><title>4.3.3 Coronary Flow Reserve</title><p id="S4.SS3.SSS3.p1">Quantitative approaches to evaluate myocardial perfusion or myocardial flow rate 
+(the <inline-formula id="S4.SS3.SSS3.p1.m1"><mml:math id="w5" alttext="\beta{}" display="inline" overflow="scroll"><mml:mi>&#x003b2;</mml:mi></mml:math></inline-formula>-value = the rate at which the myocardial blood volume transits the 
+tissue [<xref rid="b54" ref-type="bibr">54</xref>]) have been shown to correlate well with coronary flow, fractional 
+flow reserve and positron emission tomography [<xref rid="b41" ref-type="bibr">41</xref>, <xref rid="b54" ref-type="bibr">54</xref>, <xref rid="b73" ref-type="bibr">73</xref>, <xref rid="b74" ref-type="bibr">74</xref>, <xref rid="b75" ref-type="bibr">75</xref>]. This can be achieved 
+both with high as well as with low MI applications. For the high-MI the 
+myocardium is first cleared of contrast (flash) and then replenishment is 
+assessed with triggered high-MI imaging or continuous low-MI. The blood flow is 
+estimated as the product of peak acoustical intensity (db) and flow velocity 
+(db/s), and compared with the values obtained during stress, leading to a good 
+correlation with invasive coronary flow reserve [<xref rid="b73" ref-type="bibr">73</xref>].</p><p id="S4.SS3.SSS3.p2">It is essential that in quantitative methods, relative indices are used, such as 
+the ratio of stress and rest blood flow. The interaction between ultrasound power 
+and microbubble concentration is variable in each patient and with each 
+ultrasound system, which affects the absolute values of myocardial blood volume 
+and blood flow velocity.</p></sec></sec><sec id="S4.SS4"><!-- The element tags   
+is currently not supported for the main body. 
+	--><title>4.4 Intracardiac Masses</title><p id="S4.SS4.p1">UEA have largely been used in the detection of LV thrombi [<xref rid="b76" ref-type="bibr">76</xref>, <xref rid="b77" ref-type="bibr">77</xref>, <xref rid="b78" ref-type="bibr">78</xref>]. This is in 
+fact an application of the LVO method, enhancing the delineation between the 
+wall, cavity and the thrombus mass (Fig. <xref rid="S4.F10" ref-type="fig">10</xref>, Ref. [<xref rid="b79" ref-type="bibr">79</xref>]). However, prognostic 
+implications for small mural thrombi are not clear. Myocardial perfusion 
+detection, as described above, may help to diagnose small intracardiac or even 
+intramural masses, by the presence and the dynamics of the vascularization inside 
+the mass [<xref rid="b80" ref-type="bibr">80</xref>]. By adding a quantitative approach, it may even be possible to 
+differentiate not only thrombi from tumors, but also benign from malignant tumors 
+[<xref rid="b79" ref-type="bibr">79</xref>] (Fig. <xref rid="S4.F11" ref-type="fig">11</xref>, Ref. [<xref rid="b79" ref-type="bibr">79</xref>]).</p><fig position="float" id="S4.F10"><label>Fig. 10.</label><caption><p><bold>Detection of an apical thrombus in a patient with severely 
+depressed EF</bold>. Native images in apical 4 (A) and 2 chambers (B) do not 
+demonstrate the presence of an apical mass. (C) 3D contrast-enhanced 
+echocardiography demonstrating an apical filling defect (thrombus-arrows). (D) 
+Apical 2-chambers 2D contrast-enhanced image, the thrombus is present in the 
+apical LV. Images modified with permission from Strachinaru <italic toggle="yes">et al</italic>. [<xref rid="b79" ref-type="bibr">79</xref>].</p></caption><!-- The element tags   
+is currently not supported for the main body. 
+	--><graphic xlink:href="2153-8174-23-6-202-g10" id="S4.F10.g1" position="float"/></fig><fig position="float" id="S4.F11"><label>Fig. 11.</label><caption><p><bold>Hyperechoic and hypermobile mass in a normal LV</bold>. The image 
+quality is good, and the mass is hyperechoic. (A) 4-chambers view. (B) 2-chambers 
+view. (C) Signal intensity quantification after a flash-replenishment cycle. The 
+replenishment of the mass is similar to the interventricular septum, but with 
+higher intensity, signalling the presence of a capillary vascularisation, with a 
+higher density than the myocardium. (D,E) Parametric map of signal intensity, 
+demonstrating the same features of the mass. In this patient the mass was finally 
+diagnosed as a hypervascular metastasis from a lung carcinoma. Images modified 
+with permission from Strachinaru <italic toggle="yes">et al</italic>. [<xref rid="b79" ref-type="bibr">79</xref>].</p></caption><!-- The element tags   
+is currently not supported for the main body. 
+	--><graphic xlink:href="2153-8174-23-6-202-g11" id="S4.F11.g1" position="float"/></fig></sec><sec id="S4.SS5"><!-- The element tags   
+is currently not supported for the main body. 
+	--><title>4.5 Cardiac Contrast-Enhanced Ultrasound in Children and 
+Adolescents</title><p id="S4.SS5.p1">In children, image quality in transthoracic echocardiography is usually 
+considered to be significantly better than in adults, due to body size, depth of 
+the region of interest and degree of soft tissue hydration. This allows for the 
+use of high-resolution high-frequency transducers, and also implies that the use 
+of ultrasound enhancing agents is less frequent. However, echocardiographic 
+images are not always diagnostic in this patient population, and other imaging 
+modalities also tend to be used less than in adults (cardiac computed tomography 
+being a radiation imaging technology, and cardiac magnetic resonance often 
+requiring sedation for smaller children). All the clinical applications described 
+above (LVO, myocardial contrast, intracardiac mass detection) have potential 
+indications in pediatric patients [<xref rid="b81" ref-type="bibr">81</xref>, <xref rid="b82" ref-type="bibr">82</xref>]. MEE has been described in the 
+detection of coronary involvement in Kawasaki disease or in congenital heart 
+disease [<xref rid="b81" ref-type="bibr">81</xref>, <xref rid="b83" ref-type="bibr">83</xref>, <xref rid="b84" ref-type="bibr">84</xref>]. In complex congenital heart disease, the acoustic window may 
+be limited by post-surgical anatomy and the interposition of strong reflectors 
+(implanted material). In these patients however, there is a clear benefit from 
+the precise delineation and measurement of the right and left ventricle, which 
+may have unusual shapes [<xref rid="b82" ref-type="bibr">82</xref>].</p><p id="S4.SS5.p2">The safety of UEA in children has been a subject for debate [<xref rid="b13" ref-type="bibr">13</xref>, <xref rid="b85" ref-type="bibr">85</xref>, <xref rid="b86" ref-type="bibr">86</xref>, <xref rid="b87" ref-type="bibr">87</xref>]. In 2016 
+the FDA removed the intracardiac shunt contraindication from all UEA labels. 
+There are remaining concerns, in particular in congenital patients with large 
+right-to-left shunting, that the UEA microbubbles may directly enter the arterial 
+circulation, potentially inducing microvascular obstruction [<xref rid="b13" ref-type="bibr">13</xref>]. There are no 
+current studies on the safety of UEA in patients under the age of 5.</p><p id="S4.SS5.p3">For these reasons, the use of contrast agents is currently considered safe only 
+in pediatric and congenital heart disease patients older than 5, without large 
+right-to-left shunts. Further studies are needed in this direction, and a 
+thorough benefit/risk assessment should be performed in each case. Optimal dosing 
+of UEA in children corresponds to body weight.</p></sec><sec id="S4.SS6"><!-- The element tags   
+is currently not supported for the main body. 
+	--><title>4.6 Emerging Applications</title><sec id="S4.SS6.SSS1"><!-- The element tags   
+is currently not supported for the main body. 
+	--><title>4.6.1 Intracardiac Flow Tracking and Quantification</title><p id="S4.SS6.SSS1.p1">Blood flow in the heart is classically imaged using colour Doppler, which has 
+some inherent disadvantages: angle-dependency, relatively low frame rate, low 
+velocity range and semi-quantitative nature. New ultrasound techniques, generally 
+referred to as vector flow imaging, can estimate the location, direction and 
+magnitude of the velocity vectors that describe flow in a region of interest. One 
+such technique, Echo-Particle Image Velocimetry (echoPIV), tracks the speckle of 
+ultrasound contrast agent (UEA) microbubbles [<xref rid="b88" ref-type="bibr">88</xref>, <xref rid="b89" ref-type="bibr">89</xref>]. These intricate echoPIV 
+flow fields may offer additional meaningful insights, such as derived quantities 
+(vorticity, circulation, kinetic energy, kinetic energy dissipation) [<xref rid="b90" ref-type="bibr">90</xref>]. The 
+precise clinical meaning of these derived parameters still needs to be 
+investigated. One of the limitations of conventional echoPIV is the relatively 
+low frame rates permitted by conventional line-scanning based ultrasound imaging 
+(maximum ~100 Hz). In contrast, high frame rate (HFR) echoPIV, 
+using diverging-wave transmit sequences, allows for frame rates in the kHz range 
+and makes tracking of fast flow in the left ventricle (LV) possible [<xref rid="b90" ref-type="bibr">90</xref>, <xref rid="b91" ref-type="bibr">91</xref>, <xref rid="b92" ref-type="bibr">92</xref>, <xref rid="b93" ref-type="bibr">93</xref>] (Fig. <xref rid="S4.F12" ref-type="fig">12</xref>, Video <xref rid="S4.SS6.SSS1.p1.media9" ref-type="fig">9</xref>). However, these methods are still in development as clinical high 
+frame rate imaging is still far from implementation [<xref rid="b94" ref-type="bibr">94</xref>].</p><fig position="float" id="S4.F12"><label>Fig. 12.</label><caption><p><bold>High frame rate echo particle velocimetry (HFR echoPIV) in a 
+heart failure patient</bold>. (A) early diastolic inflow, corresponding to the Doppler 
+E wave; (B) intraventricular flow in mid-diastole, during diastasis; (C) Flow 
+during mid-systole. Inflow, outflow direction and magnitude can be visualized and 
+quantified. Rotational flow (vortices) can also be seen and measured. Source: 
+personal collection.</p></caption><!-- The element tags   
+is currently not supported for the main body. 
+	--><graphic xlink:href="2153-8174-23-6-202-g12" id="S4.F12.g1" position="float"/></fig><fig position="float" id="S4.SS6.SSS1.p1.media9"><label>Video 9.</label><caption><p><bold>High frame rate echoPIV in a heart failure patient</bold>. Individual 
+bubbles are tracked in their motion, and their direction and velocity represented 
+with arrows. This is both a qualitative and quantitative method, allowing to 
+estimate velocity anywhere in the region of interest (here the LV end-diastolic 
+contour, traced with a red dotted line). The movie corresponds to Fig. <xref rid="S4.F12" ref-type="fig">12</xref>. The embedded movie may also be viewed at <uri xlink:href="https://doi.org/10.31083/j.rcm2306202">https://doi.org/10.31083/j.rcm2306202</uri>.</p></caption><media id="M9" xlink:href="2153-8174-23-6-202-v9.mp4" specific-use="free" position="anchor" mimetype="video" mime-subtype="mp4"/></fig></sec><sec id="S4.SS6.SSS2"><!-- The element tags   
+is currently not supported for the main body. 
+	--><title>4.6.2 Ultrasound Targeted Microbubble Destruction (UTMD) and 
+Derived Applications</title><p id="S4.SS6.SSS2.p1">Recent studies demonstrated that targeted drug and gene delivery can be done 
+non-invasively. Genes or other substances may be incorporated on the surface of 
+custom-generated microbubbles, or even inside the shell, and then destroyedas 
+they reach the target area by using high-energy ultrasound pulses [<xref rid="b95" ref-type="bibr">95</xref>, <xref rid="b96" ref-type="bibr">96</xref>] (Fig. <xref rid="S4.F13" ref-type="fig">13</xref>). Because the UEA microbubbles are purely intravascular, delivery occurs to 
+the vascular endothelium, but the ultrasound field and the energy generated by 
+cavitation of the microbubbles can facilitate transfection into the extravascular 
+tissue also [<xref rid="b97" ref-type="bibr">97</xref>, <xref rid="b98" ref-type="bibr">98</xref>, <xref rid="b99" ref-type="bibr">99</xref>]. Ongoing work is directed towards improving transfection of 
+the drugs/genes into the target cells.</p><fig position="float" id="S4.F13"><label>Fig. 13.</label><caption><p><bold> Theoretical principle of ultrasound targeted microbubble 
+destruction (UTMD) applications</bold>. The bubbles can be &#x0201c;fitted&#x0201d; with a 
+drug/gene/other marker, which can be released at the target site by destroying 
+the bubbles with high-MI pulses. Source: personal collection.</p></caption><!-- The element tags   
+is currently not supported for the main body. 
+	--><graphic xlink:href="2153-8174-23-6-202-g13" id="S4.F13.g1" position="float"/></fig><p id="S4.SS6.SSS2.p2">High-MI ultrasound pulses induce cavitation, which can increase local blood flow 
+through the generation of nitric oxide [<xref rid="b100" ref-type="bibr">100</xref>]. This particular effect of UTMD has 
+been recently used to improve perfusion in sickle-cell anemia [<xref rid="b101" ref-type="bibr">101</xref>], and in the 
+myocardium in animal models [<xref rid="b102" ref-type="bibr">102</xref>].</p></sec><sec id="S4.SS6.SSS3"><!-- The element tags   
+is currently not supported for the main body. 
+	--><title>4.6.3 Sonothrombolysis</title><p id="S4.SS6.SSS3.p1">High-MI ultrasound pulses have the potential to disrupt and dissolve 
+intravascular thrombi [<xref rid="b103" ref-type="bibr">103</xref>, <xref rid="b104" ref-type="bibr">104</xref>, <xref rid="b105" ref-type="bibr">105</xref>, <xref rid="b106" ref-type="bibr">106</xref>]. Preliminary studies have demonstrated the 
+recanalization of thrombosed vessels, without the adjunction of any drug 
+treatment [<xref rid="b103" ref-type="bibr">103</xref>]. Preliminary clinical studies in ST-elevation myocardial 
+infarction (STEMI) patients showed that guided high-MI pulses improve early 
+recanalization rates and restore microvascular flow, reducing the infarct size 
+[<xref rid="b106" ref-type="bibr">106</xref>]. Future and ongoing studies focus on the use of sonothrombolysis in acute 
+coronary syndromes and stroke.</p></sec><sec id="S4.SS6.SSS4"><!-- The element tags   
+is currently not supported for the main body. 
+	--><title>4.6.4 Molecular Imaging</title><p id="S4.SS6.SSS4.p1">UEA are distributed strictly intravascular. By attaching certain ligands on 
+their surface, they can target the surface of dysfunctional endothelium in 
+certain diseased areas. This is achieved through modified UEA microbubbles, which 
+are relatively easy to engineer and in large quantities. By using 
+contrast-specific imaging modalities, and imaging after the normal time of 
+clearance of the free contrast microbubbles, the diseased area can be selectively 
+highlighted [<xref rid="b107" ref-type="bibr">107</xref>]. This method has been used in myocardial ischemia, allograft 
+rejection, myocarditis and angiogenesis [<xref rid="b108" ref-type="bibr">108</xref>, <xref rid="b109" ref-type="bibr">109</xref>, <xref rid="b110" ref-type="bibr">110</xref>, <xref rid="b111" ref-type="bibr">111</xref>].</p><p id="S4.SS6.SSS4.p2">All these cutting-edge applications of MEE in the diagnosis and treatment of 
+heart disease are mostly at the stage of early clinical translation, but they 
+have shown clinical promise and are gaining momentum through the innovative work 
+of several research groups.</p></sec></sec><sec id="S4.SS7"><!-- The element tags   
+is currently not supported for the main body. 
+	--><title>4.7 Safety</title><p id="S4.SS7.p1">Following their initial clinical use in the 90&#x02019;s, ultrasound enhancing agents 
+underwent a period of limited use, induced by fears of adverse events [<xref rid="b112" ref-type="bibr">112</xref>]. 
+However, subsequent large studies demonstrated that in various settings 
+(inpatients, outpatients, critically ill, rest or stress testing), no excess in 
+mortality or myocardial infarction was observed when compared to control 
+populations [<xref rid="b113" ref-type="bibr">113</xref>, <xref rid="b114" ref-type="bibr">114</xref>]. In critically ill patients on mechanical circulatory 
+support devices data has only been reported in a few small single-center reports 
+[<xref rid="b20" ref-type="bibr">20</xref>, <xref rid="b115" ref-type="bibr">115</xref>, <xref rid="b116" ref-type="bibr">116</xref>]; however, none of these studies noted supplementary adverse events 
+in this patient population. Furthermore, contrast-enhanced stress 
+echocardiography was not associated with an increase in adverse events [<xref rid="b117" ref-type="bibr">117</xref>, <xref rid="b118" ref-type="bibr">118</xref>, <xref rid="b119" ref-type="bibr">119</xref>].</p><p id="S4.SS7.p2">Rare (between 1/1000 and 1/10000 patients) side effects have been noted with 
+contrast agents, usually mild and transient (headache, nausea, dizziness, 
+paraesthesia, taste disturbances or reactions at the injection site). Serious 
+allergic reactions have a very low incidence [<xref rid="b120" ref-type="bibr">120</xref>] (considered low-risk, with an 
+incidence of 0.005&#x02013;0.015%).</p><p id="S4.SS7.p3">Therefore, the clinical use of MEE is considered very safe in all its 
+applications. Meanwhile the FDA has lifted the contraindications initially issued 
+in the 2007 &#x0201c;black box warning&#x0201d; [<xref rid="b112" ref-type="bibr">112</xref>]. The only absolute contraindications 
+persisting today are in patients with known or suspected large intracardiac 
+shunting and those with hypersensitivity to the UEA.</p><p id="S4.SS7.p4">Intracoronary administration is also considered contraindicated, despite its 
+systematic and uneventful use in hypertrophic cardiomyopathy patients undergoing 
+septal ablation.</p><p id="S4.SS7.p5">It is recommended that all personnel in contact with a patient during any MEE 
+study should be familiar with early identification of an allergic reaction and 
+the appropriate treatment. Allergy kits including auto-injectable epinephrine 
+should be available and easily accessible [<xref rid="b7" ref-type="bibr">7</xref>, <xref rid="b13" ref-type="bibr">13</xref>].</p></sec></sec><sec id="S5"><!-- The element tags   
+is currently not supported for the main body. 
+	--><title>5. Conclusions</title><p id="S5.p1">Contrast-enhanced echocardiography is a mature technique, with an established 
+safety profile allowing for its routine clinical use. Yet, in spite of extensive 
+clinical experience and research, contrast-enhanced echocardiography remains 
+underused, largely due to insufficient experience of the clinicians and 
+unjustified fear of adverse effects. Through this review we covered the current 
+and future perspectives of MEE, which we hope will facilitate the understanding 
+and incorporation of this method in everyday clinical practice.</p></sec></body><back><ack><!-- The element tags   
+is currently not supported for the main body. 
+	--><title>Acknowledgment</title><p id="S8.p1">Not applicable.</p></ack><sec id="S6"><!-- The element tags   
+is currently not supported for the main body. 
+	--><title>Author Contributions</title><p id="S6.p1">MS gathered the data and drafted the manuscript, FJtC provided part of the 
+illustrations and baseline data, contributed to the writing of the manuscript and 
+reviewed it for key content.</p></sec><sec id="S7"><!-- The element tags   
+is currently not supported for the main body. 
+	--><title>Ethics Approval and Consent to Participate</title><p id="S7.p1">All patients included in this review as clinical illustrations gave their 
+informed consent for the anonymous use of their clinical data and 
+echocardiographic images.</p></sec><sec id="S9"><!-- The element tags   
+is currently not supported for the main body. 
+	--><title>Funding</title><p id="S9.p1">This research received no external funding.</p></sec><sec sec-type="COI-statement" id="S10"><!-- The element tags   
+is currently not supported for the main body. 
+	--><title>Conflict of Interest</title><p id="S10.p1">The authors declare no conflict of interest.</p></sec><ref-list><title>References</title><ref id="b1"><label>[1]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<collab>Medical Advisory Secretariat</collab>
+</person-group><article-title>Use of contrast agents with echocardiography in patients with suboptimal echocardiography: an evidence-based analysis</article-title><source>
+<italic toggle="yes">Journal: Ontario Health Technology Assessment Series</italic>
+</source><year>2010</year><volume>10</volume><fpage>1</fpage><lpage>17</lpage></element-citation></ref><ref id="b2"><label>[2]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Oh</surname><given-names>JK</given-names></name>
+<name><surname>Pellikka</surname><given-names>PA</given-names></name>
+<name><surname>Panza</surname><given-names>JA</given-names></name>
+<name><surname>Biernat</surname><given-names>J</given-names></name>
+<name><surname>Attisano</surname><given-names>T</given-names></name>
+<name><surname>Manahan</surname><given-names>BG</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Core Lab Analysis of Baseline Echocardiographic Studies in the STICH Trial and Recommendation for Use of Echocardiography in Future Clinical Trials</article-title><source>
+<italic toggle="yes">Journal of the American Society of Echocardiography</italic>
+</source><year>2012</year><volume>25</volume><fpage>327</fpage><lpage>336</lpage><pub-id pub-id-type="pmid">22227341</pub-id>
+</element-citation></ref><ref id="b3"><label>[3]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Strachinaru</surname><given-names>M</given-names></name>
+<name><surname>Papadopoulou</surname><given-names>B</given-names></name>
+<name><surname>Damry</surname><given-names>N</given-names></name>
+<name><surname>Laureys</surname><given-names>M</given-names></name>
+<name><surname>Samyn</surname><given-names>S</given-names></name>
+</person-group><article-title>Contrast echocardiography detecting a rare abnormal venous connection</article-title><source>
+<italic toggle="yes">European Heart Journal: Cardiovascular Imaging</italic>
+</source><year>2015</year><volume>16</volume><fpage>813</fpage><lpage>813</lpage><pub-id pub-id-type="pmid">25825382</pub-id>
+</element-citation></ref><ref id="b4"><label>[4]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Feinstein</surname><given-names>SB</given-names></name>
+<name><surname>Ten Cate</surname><given-names>FJ</given-names></name>
+<name><surname>Zwehl</surname><given-names>W</given-names></name>
+<name><surname>Ong</surname><given-names>K</given-names></name>
+<name><surname>Maurer</surname><given-names>G</given-names></name>
+<name><surname>Tei</surname><given-names>C</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Two-dimensional contrast echocardiography. i. in vitro development and quantitative analysis of echo contrast agents</article-title><source>
+<italic toggle="yes">Journal of the American College of Cardiology</italic>
+</source><year>1984</year><volume>3</volume><fpage>14</fpage><lpage>20</lpage><pub-id pub-id-type="pmid">6690542</pub-id>
+</element-citation></ref><ref id="b5"><label>[5]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Feinstein</surname><given-names>SB</given-names></name>
+<name><surname>Cheirif</surname><given-names>J</given-names></name>
+<name><surname>Ten Cate</surname><given-names>FJ</given-names></name>
+<name><surname>Silverman</surname><given-names>PR</given-names></name>
+<name><surname>Heidenreich</surname><given-names>PA</given-names></name>
+<name><surname>Dick</surname><given-names>C</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Safety and efficacy of a new transpulmonary ultrasound contrast agent: Initial multicenter clinical results</article-title><source>
+<italic toggle="yes">Journal of the American College of Cardiology</italic>
+</source><year>1990</year><volume>16</volume><fpage>316</fpage><lpage>324</lpage><pub-id pub-id-type="pmid">2197312</pub-id>
+</element-citation></ref><ref id="b6"><label>[6]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kurt</surname><given-names>M</given-names></name>
+<name><surname>Shaikh</surname><given-names>KA</given-names></name>
+<name><surname>Peterson</surname><given-names>L</given-names></name>
+<name><surname>Kurrelmeyer</surname><given-names>KM</given-names></name>
+<name><surname>Shah</surname><given-names>G</given-names></name>
+<name><surname>Nagueh</surname><given-names>SF</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Impact of Contrast Echocardiography on Evaluation of Ventricular Function and Clinical Management in a Large Prospective Cohort</article-title><source>
+<italic toggle="yes">Journal of the American College of Cardiology</italic>
+</source><year>2009</year><volume>53</volume><fpage>802</fpage><lpage>810</lpage><pub-id pub-id-type="pmid">19245974</pub-id>
+</element-citation></ref><ref id="b7"><label>[7]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Senior</surname><given-names>R</given-names></name>
+<name><surname>Becher</surname><given-names>H</given-names></name>
+<name><surname>Monaghan</surname><given-names>M</given-names></name>
+<name><surname>Agati</surname><given-names>L</given-names></name>
+<name><surname>Zamorano</surname><given-names>J</given-names></name>
+<name><surname>Vanoverschelde</surname><given-names>JL</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Clinical practice of contrast echocardiography: recommendation by the European Association of Cardiovascular Imaging (EACVI) 2017</article-title><source>
+<italic toggle="yes">European Heart Journal: Cardiovascular Imaging</italic>
+</source><year>2017</year><volume>18</volume><fpage>1205</fpage><lpage>1205af</lpage><pub-id pub-id-type="pmid">28950366</pub-id>
+</element-citation></ref><ref id="b8"><label>[8]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Vos</surname><given-names>HJ</given-names></name>
+<name><surname>Dollet</surname><given-names>B</given-names></name>
+<name><surname>Versluis</surname><given-names>M</given-names></name>
+<name><surname>de Jong</surname><given-names>N</given-names></name>
+</person-group><article-title>Nonspherical Shape Oscillations of Coated Microbubbles in Contact with a Wall</article-title><source>
+<italic toggle="yes">Ultrasound in Medicine &#x00026; Biology</italic>
+</source><year>2011</year><volume>37</volume><fpage>935</fpage><lpage>948</lpage><pub-id pub-id-type="pmid">21601137</pub-id>
+</element-citation></ref><ref id="b9"><label>[9]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kaufmann</surname><given-names>BA</given-names></name>
+<name><surname>Wei</surname><given-names>K</given-names></name>
+<name><surname>Lindner</surname><given-names>JR</given-names></name>
+</person-group><article-title>Contrast Echocardiography</article-title><source>
+<italic toggle="yes">Current Problems in Cardiology</italic>
+</source><year>2007</year><volume>32</volume><fpage>51</fpage><lpage>96</lpage><pub-id pub-id-type="pmid">17208647</pub-id>
+</element-citation></ref><ref id="b10"><label>[10]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Malm</surname><given-names>S</given-names></name>
+<name><surname>Frigstad</surname><given-names>S</given-names></name>
+<name><surname>Sagberg</surname><given-names>E</given-names></name>
+<name><surname>Larsson</surname><given-names>H</given-names></name>
+<name><surname>Skjaerpe</surname><given-names>T</given-names></name>
+</person-group><article-title>Accurate and reproducible measurement of left ventricular volume and ejection fraction by contrast echocardiography: a comparison with magnetic resonance imaging</article-title><source>
+<italic toggle="yes">Journal of the American College of Cardiology</italic>
+</source><year>2004</year><volume>44</volume><fpage>1030</fpage><lpage>1035</lpage><pub-id pub-id-type="pmid">15337215</pub-id>
+</element-citation></ref><ref id="b11"><label>[11]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hoffmann</surname><given-names>R</given-names></name>
+<name><surname>von Bardeleben</surname><given-names>S</given-names></name>
+<name><surname>ten Cate</surname><given-names>F</given-names></name>
+</person-group><article-title>Assessment of Systolic Left Ventricular Function: a Multi-centre Comparison of Cineventriculography, Cardiac Magnetic Resonance Imaging, Unenhanced and Contrast-enhanced Echocardiography</article-title><source>
+<italic toggle="yes">ACC Current Journal Review</italic>
+</source><year>2005</year><volume>14</volume><fpage>33</fpage><lpage>34</lpage></element-citation></ref><ref id="b12"><label>[12]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hoffmann</surname><given-names>R</given-names></name>
+<name><surname>von Bardeleben</surname><given-names>S</given-names></name>
+<name><surname>Kasprzak</surname><given-names>JD</given-names></name>
+<name><surname>Borges</surname><given-names>AC</given-names></name>
+<name><surname>ten Cate</surname><given-names>F</given-names></name>
+<name><surname>Firschke</surname><given-names>C</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Analysis of regional left ventricular function by cineventriculography, cardiac magnetic resonance imaging, and unenhanced and contrast-enhanced echocardiography: a multicenter comparison of methods</article-title><source>
+<italic toggle="yes">Journal of the American College of Cardiology</italic>
+</source><year>2006</year><volume>47</volume><fpage>121</fpage><lpage>128</lpage><pub-id pub-id-type="pmid">16386674</pub-id>
+</element-citation></ref><ref id="b13"><label>[13]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Porter</surname><given-names>TR</given-names></name>
+<name><surname>Mulvagh</surname><given-names>SL</given-names></name>
+<name><surname>Abdelmoneim</surname><given-names>SS</given-names></name>
+<name><surname>Becher</surname><given-names>H</given-names></name>
+<name><surname>Belcik</surname><given-names>JT</given-names></name>
+<name><surname>Bierig</surname><given-names>M</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Clinical Applications of Ultrasonic Enhancing Agents in Echocardiography: 2018 American Society of Echocardiography Guidelines Update</article-title><source>
+<italic toggle="yes">Journal of the American Society of Echocardiography</italic>
+</source><year>2018</year><volume>31</volume><fpage>241</fpage><lpage>274</lpage><pub-id pub-id-type="pmid">29502588</pub-id>
+</element-citation></ref><ref id="b14"><label>[14]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rakhit</surname><given-names>DJ</given-names></name>
+<name><surname>Becher</surname><given-names>H</given-names></name>
+<name><surname>Monaghan</surname><given-names>M</given-names></name>
+<name><surname>Nihoyannopoulos</surname><given-names>P</given-names></name>
+<name><surname>Senior</surname><given-names>R</given-names></name>
+</person-group><article-title>The clinical applications of myocardial contrast echocardiography</article-title><source>
+<italic toggle="yes">European Journal of Echocardiography</italic>
+</source><year>2007</year><volume>8</volume><fpage>S24</fpage><lpage>S29</lpage><pub-id pub-id-type="pmid">17459779</pub-id>
+</element-citation></ref><ref id="b15"><label>[15]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chahal</surname><given-names>NS</given-names></name>
+<name><surname>Senior</surname><given-names>R</given-names></name>
+</person-group><article-title>Clinical Applications of Left Ventricular Opacification</article-title><source>
+<italic toggle="yes">JACC: Cardiovascular Imaging</italic>
+</source><year>2010</year><volume>3</volume><fpage>188</fpage><lpage>196</lpage><pub-id pub-id-type="pmid">20159646</pub-id>
+</element-citation></ref><ref id="b16"><label>[16]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Becher</surname><given-names>H</given-names></name>
+<name><surname>Tiemann</surname><given-names>K</given-names></name>
+<name><surname>Schlosser</surname><given-names>T</given-names></name>
+<name><surname>Pohl</surname><given-names>C</given-names></name>
+<name><surname>Nanda</surname><given-names>Nc</given-names></name>
+<name><surname>Averkiou</surname><given-names>MA</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Improvement in Endocardial Border Delineation Using Tissue Harmonic Imaging</article-title><source>
+<italic toggle="yes">Echocardiography</italic>
+</source><year>1998</year><volume>15</volume><fpage>511</fpage><lpage>517</lpage><pub-id pub-id-type="pmid">11175074</pub-id>
+</element-citation></ref><ref id="b17"><label>[17]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Senior</surname><given-names>R</given-names></name>
+<name><surname>Soman</surname><given-names>P</given-names></name>
+<name><surname>Khattar</surname><given-names>RS</given-names></name>
+<name><surname>Lahiri</surname><given-names>A</given-names></name>
+</person-group><article-title>Improved endocardial visualization with second harmonic imaging compared with fundamental two-dimensional echocardiographic imaging</article-title><source>
+<italic toggle="yes">American Heart Journal</italic>
+</source><year>1999</year><volume>138</volume><fpage>163</fpage><lpage>168</lpage><pub-id pub-id-type="pmid">10385781</pub-id>
+</element-citation></ref><ref id="b18"><label>[18]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Nayyar</surname><given-names>S</given-names></name>
+<name><surname>Magalski</surname><given-names>A</given-names></name>
+<name><surname>Khumri</surname><given-names>TM</given-names></name>
+<name><surname>Idupulapati</surname><given-names>M</given-names></name>
+<name><surname>Stoner</surname><given-names>CN</given-names></name>
+<name><surname>Kusnetzky</surname><given-names>LL</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Contrast Administration Reduces Interobserver Variability in Determination of Left Ventricular Ejection Fraction in Patients with Left Ventricular Dysfunction and Good Baseline Endocardial Border Delineation</article-title><source>
+<italic toggle="yes">The American Journal of Cardiology</italic>
+</source><year>2006</year><volume>98</volume><fpage>1110</fpage><lpage>1114</lpage><pub-id pub-id-type="pmid">17027582</pub-id>
+</element-citation></ref><ref id="b19"><label>[19]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Nucifora</surname><given-names>G</given-names></name>
+<name><surname>Marsan</surname><given-names>NA</given-names></name>
+<name><surname>Holman</surname><given-names>ER</given-names></name>
+<name><surname>Siebelink</surname><given-names>HJ</given-names></name>
+<name><surname>van Werkhoven</surname><given-names>JM</given-names></name>
+<name><surname>Scholte</surname><given-names>AJ</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Real-time 3-dimensional echocardiography early after acute myocardial infarction: Incremental value of echo-contrast for assessment of left ventricular function</article-title><source>
+<italic toggle="yes">American Heart Journal</italic>
+</source><year>2009</year><volume>157</volume><fpage>882</fpage><comment>e1&#x02013;882.e8</comment></element-citation></ref><ref id="b20"><label>[20]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Schinkel</surname><given-names>AFL</given-names></name>
+<name><surname>Akin</surname><given-names>S</given-names></name>
+<name><surname>Strachinaru</surname><given-names>M</given-names></name>
+<name><surname>Muslem</surname><given-names>R</given-names></name>
+<name><surname>Soliman</surname><given-names>OII</given-names></name>
+<name><surname>Brugts</surname><given-names>JJ</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Safety and feasibility of contrast echocardiography for the evaluation of patients with HeartMate 3 left ventricular assist devices</article-title><source>
+<italic toggle="yes">European Heart Journal: Cardiovascular Imaging</italic>
+</source><year>2018</year><volume>19</volume><fpage>690</fpage><lpage>693</lpage><pub-id pub-id-type="pmid">28950368</pub-id>
+</element-citation></ref><ref id="b21"><label>[21]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Caiani</surname><given-names>E</given-names></name>
+</person-group><article-title>Improved Semiautomated Quantification of Left Ventricular Volumes and Ejection Fraction Using 3-Dimensional Echocardiography with a Full Matrix-array Transducer: Comparison with Magnetic Resonance Imaging</article-title><source>
+<italic toggle="yes">Journal of the American Society of Echocardiography</italic>
+</source><year>2005</year><volume>18</volume><fpage>779</fpage><lpage>788</lpage><pub-id pub-id-type="pmid">16084328</pub-id>
+</element-citation></ref><ref id="b22"><label>[22]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lang</surname><given-names>RM</given-names></name>
+<name><surname>Badano</surname><given-names>LP</given-names></name>
+<name><surname>Mor-Avi</surname><given-names>V</given-names></name>
+<name><surname>Afilalo</surname><given-names>J</given-names></name>
+<name><surname>Armstrong</surname><given-names>A</given-names></name>
+<name><surname>Ernande</surname><given-names>L</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European Association of Cardiovascular Imaging</article-title><source>
+<italic toggle="yes">European Heart Journal: Cardiovascular Imaging</italic>
+</source><year>2015</year><volume>16</volume><fpage>233</fpage><lpage>270</lpage><pub-id pub-id-type="pmid">25712077</pub-id>
+</element-citation></ref><ref id="b23"><label>[23]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Corona-Villalobos</surname><given-names>CP</given-names></name>
+<name><surname>Sorensen</surname><given-names>LL</given-names></name>
+<name><surname>Pozios</surname><given-names>I</given-names></name>
+<name><surname>Chu</surname><given-names>L</given-names></name>
+<name><surname>Eng</surname><given-names>J</given-names></name>
+<name><surname>Abraham</surname><given-names>MR</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Left ventricular wall thickness in patients with hypertrophic cardiomyopathy: a comparison between cardiac magnetic resonance imaging and echocardiography</article-title><source>
+<italic toggle="yes">The International Journal of Cardiovascular Imaging</italic>
+</source><year>2016</year><volume>32</volume><fpage>945</fpage><lpage>954</lpage><pub-id pub-id-type="pmid">26896038</pub-id>
+</element-citation></ref><ref id="b24"><label>[24]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Urbano-Moral</surname><given-names>JA</given-names></name>
+<name><surname>Gonzalez-Gonzalez</surname><given-names>AM</given-names></name>
+<name><surname>Maldonado</surname><given-names>G</given-names></name>
+<name><surname>Gutierrez-Garcia-Moreno</surname><given-names>L</given-names></name>
+<name><surname>Vivancos-Delgado</surname><given-names>R</given-names></name>
+<name><surname>De Mora-Martin</surname><given-names>M</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Contrast-Enhanced Echocardiographic Measurement of Left Ventricular Wall Thickness in Hypertrophic Cardiomyopathy: Comparison with Standard Echocardiography and Cardiac Magnetic Resonance</article-title><source>
+<italic toggle="yes">Journal of the American Society of Echocardiography</italic>
+</source><year>2020</year><volume>33</volume><fpage>1106</fpage><lpage>1115</lpage><pub-id pub-id-type="pmid">32564979</pub-id>
+</element-citation></ref><ref id="b25"><label>[25]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hoffmann</surname><given-names>R</given-names></name>
+<name><surname>von Bardeleben</surname><given-names>S</given-names></name>
+<name><surname>Barletta</surname><given-names>G</given-names></name>
+<name><surname>Pasques</surname><given-names>A</given-names></name>
+<name><surname>Kasprzak</surname><given-names>J</given-names></name>
+<name><surname>Greis</surname><given-names>C</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Comparison of Two- and Three-Dimensional Unenhanced and Contrast-Enhanced Echocardiographies Versus Cineventriculography Versus Cardiac Magnetic Resonance for Determination of Left Ventricular Function</article-title><source>
+<italic toggle="yes">The American Journal of Cardiology</italic>
+</source><year>2014</year><volume>113</volume><fpage>395</fpage><lpage>401</lpage><pub-id pub-id-type="pmid">24188892</pub-id>
+</element-citation></ref><ref id="b26"><label>[26]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Reilly</surname><given-names>JP</given-names></name>
+<name><surname>Tunick</surname><given-names>PA</given-names></name>
+<name><surname>Timmermans</surname><given-names>RJ</given-names></name>
+<name><surname>Stein</surname><given-names>B</given-names></name>
+<name><surname>Rosenzweig</surname><given-names>BP</given-names></name>
+<name><surname>Kronzon</surname><given-names>I</given-names></name>
+</person-group><article-title>Contrast echocardiography clarifies uninterpretable wall motion in intensive care unit patients</article-title><source>
+<italic toggle="yes">Journal of the American College of Cardiology</italic>
+</source><year>2000</year><volume>35</volume><fpage>485</fpage><lpage>490</lpage><pub-id pub-id-type="pmid">10676698</pub-id>
+</element-citation></ref><ref id="b27"><label>[27]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dwivedi</surname><given-names>G</given-names></name>
+<name><surname>Janardhanan</surname><given-names>R</given-names></name>
+<name><surname>Hayat</surname><given-names>SA</given-names></name>
+<name><surname>Lim</surname><given-names>TK</given-names></name>
+<name><surname>Senior</surname><given-names>R</given-names></name>
+</person-group><article-title>Improved prediction of outcome by contrast echocardiography determined left ventricular remodelling parameters compared to unenhanced echocardiography in patients following acute myocardial infarction</article-title><source>
+<italic toggle="yes">European Journal of Echocardiography</italic>
+</source><year>2009</year><volume>10</volume><fpage>933</fpage><lpage>940</lpage><pub-id pub-id-type="pmid">19654136</pub-id>
+</element-citation></ref><ref id="b28"><label>[28]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Thomas</surname><given-names>JD</given-names></name>
+<name><surname>Rubin</surname><given-names>DN</given-names></name>
+</person-group><article-title>Tissue harmonic imaging: why does it work</article-title><source>
+<italic toggle="yes">Journal of the American Society of Echocardiography</italic>
+</source><year>1998</year><volume>11</volume><fpage>803</fpage><lpage>808</lpage><pub-id pub-id-type="pmid">9719092</pub-id>
+</element-citation></ref><ref id="b29"><label>[29]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Soman</surname><given-names>P</given-names></name>
+<name><surname>Swinburn</surname><given-names>J</given-names></name>
+<name><surname>Callister</surname><given-names>M</given-names></name>
+<name><surname>Stephens</surname><given-names>NG</given-names></name>
+<name><surname>Senior</surname><given-names>R</given-names></name>
+</person-group><article-title>Apical hypertrophic cardiomyopathy: Bedside diagnosis by intravenous contrast echocardiography</article-title><source>
+<italic toggle="yes">Journal of the American Society of Echocardiography</italic>
+</source><year>2001</year><volume>14</volume><fpage>311</fpage><lpage>313</lpage><pub-id pub-id-type="pmid">11287897</pub-id>
+</element-citation></ref><ref id="b30"><label>[30]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Strachinaru</surname><given-names>M</given-names></name>
+<name><surname>Huurman</surname><given-names>R</given-names></name>
+<name><surname>Schinkel</surname><given-names>AFL</given-names></name>
+</person-group><article-title>Functional imaging in echocardiography can sometimes replace direct structure visualization</article-title><source>
+<italic toggle="yes">European Heart Journal: Cardiovascular Imaging</italic>
+</source><year>2019</year><volume>20</volume><fpage>241</fpage><lpage>241</lpage><pub-id pub-id-type="pmid">30481271</pub-id>
+</element-citation></ref><ref id="b31"><label>[31]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ogbogu</surname><given-names>PU</given-names></name>
+<name><surname>Rosing</surname><given-names>DR</given-names></name>
+<name><surname>Horne</surname><given-names>MK</given-names></name>
+</person-group><article-title>Cardiovascular Manifestations of Hypereosinophilic Syndromes</article-title><source>
+<italic toggle="yes">Immunology and Allergy Clinics of North America</italic>
+</source><year>2007</year><volume>27</volume><fpage>457</fpage><lpage>475</lpage><pub-id pub-id-type="pmid">17868859</pub-id>
+</element-citation></ref><ref id="b32"><label>[32]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chow</surname><given-names>C</given-names></name>
+<name><surname>Lim</surname><given-names>K</given-names></name>
+<name><surname>Wu</surname><given-names>L</given-names></name>
+<name><surname>Leong-Poi</surname><given-names>H</given-names></name>
+</person-group><article-title>Isolated Left Ventricular Noncompaction Enhanced by Echocontrast Agent</article-title><source>
+<italic toggle="yes">Circulation</italic>
+</source><year>2007</year><volume>116</volume><fpage>e90</fpage><lpage>e91</lpage><pub-id pub-id-type="pmid">17646590</pub-id>
+</element-citation></ref><ref id="b33"><label>[33]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yalonetsky</surname><given-names>S</given-names></name>
+<name><surname>Agmon</surname><given-names>Y</given-names></name>
+<name><surname>Lessick</surname><given-names>J</given-names></name>
+</person-group><article-title>Contrast Echocardiographic Imaging of Left Ventricular Diverticulum in Adult Patients</article-title><source>
+<italic toggle="yes">Journal of the American Society of Echocardiography</italic>
+</source><year>2007</year><volume>20</volume><fpage>198</fpage><comment>e1&#x02013;198.e3</comment></element-citation></ref><ref id="b34"><label>[34]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lee</surname><given-names>DZJ</given-names></name>
+<name><surname>Chan</surname><given-names>RH</given-names></name>
+<name><surname>Montazeri</surname><given-names>M</given-names></name>
+<name><surname>Hoss</surname><given-names>S</given-names></name>
+<name><surname>Adler</surname><given-names>A</given-names></name>
+<name><surname>Nguyen</surname><given-names>ET</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Left Ventricular Apical Aneurysms in Hypertrophic Cardiomyopathy: Equivalent Detection by Magnetic Resonance Imaging and Contrast Echocardiography</article-title><source>
+<italic toggle="yes">Journal of the American Society of Echocardiography</italic>
+</source><year>2021</year><volume>34</volume><fpage>1262</fpage><lpage>1272</lpage><pub-id pub-id-type="pmid">34375676</pub-id>
+</element-citation></ref><ref id="b35"><label>[35]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hindricks</surname><given-names>G</given-names></name>
+<name><surname>Potpara</surname><given-names>T</given-names></name>
+<name><surname>Dagres</surname><given-names>N</given-names></name>
+<name><surname>Arbelo</surname><given-names>E</given-names></name>
+<name><surname>Bax</surname><given-names>JJ</given-names></name>
+<name><surname>Blomstr&#x000f6;m-Lundqvist</surname><given-names>C</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS): The Task Force for the diagnosis and management of atrial fibrillation of the European Society of Cardiology (ESC) Developed with the special contribution of the European Heart Rhythm Association (EHRA) of the ESC</article-title><source>
+<italic toggle="yes">European Heart Journal</italic>
+</source><year>2021</year><volume>42</volume><fpage>373</fpage><lpage>498</lpage><pub-id pub-id-type="pmid">32860505</pub-id>
+</element-citation></ref><ref id="b36"><label>[36]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Doukky</surname><given-names>R</given-names></name>
+<name><surname>Donenberg</surname><given-names>MJ</given-names></name>
+<name><surname>Parker</surname><given-names>J</given-names></name>
+<name><surname>Kaplan</surname><given-names>J</given-names></name>
+<name><surname>Travers</surname><given-names>C</given-names></name>
+<name><surname>Soble</surname><given-names>JS</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Use of ultrasound enhancing agents in transesophageal echocardiography to improve interpretive confidence of left atrial appendage thrombus</article-title><source>
+<italic toggle="yes">Echocardiography</italic>
+</source><year>2019</year><volume>36</volume><fpage>362</fpage><lpage>369</lpage><pub-id pub-id-type="pmid">30565730</pub-id>
+</element-citation></ref><ref id="b37"><label>[37]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>von der Recke</surname><given-names>G</given-names></name>
+<name><surname>Schmidt</surname><given-names>H</given-names></name>
+<name><surname>Illien</surname><given-names>S</given-names></name>
+<name><surname>L&#x000fc;deritz</surname><given-names>B</given-names></name>
+<name><surname>Omran</surname><given-names>H</given-names></name>
+</person-group><article-title>Use of transesophageal contrast echocardiography for excluding left atrial appendage thrombi in patients with atrial fibrillation before cardioversion</article-title><source>
+<italic toggle="yes">Journal of the American Society of Echocardiography</italic>
+</source><year>2002</year><volume>15</volume><fpage>1256</fpage><lpage>1261</lpage><pub-id pub-id-type="pmid">12411914</pub-id>
+</element-citation></ref><ref id="b38"><label>[38]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bernier</surname><given-names>M</given-names></name>
+<name><surname>Abdelmoneim</surname><given-names>SS</given-names></name>
+<name><surname>Stuart Moir</surname><given-names>W</given-names></name>
+<name><surname>Eifert Rain</surname><given-names>SSJ</given-names></name>
+<name><surname>Chandrasekaran</surname><given-names>K</given-names></name>
+<name><surname>Ammash</surname><given-names>NM</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>CUTE-CV: a Prospective Study of Enhanced Left Atrial Appendage Visualization with Microbubble Contrast Agent Use during Transesophageal Echocardiography Guided Cardioversion</article-title><source>
+<italic toggle="yes">Echocardiography</italic>
+</source><year>2013</year><volume>344</volume><fpage>1091</fpage><lpage>1097</lpage></element-citation></ref><ref id="b39"><label>[39]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jung</surname><given-names>PH</given-names></name>
+<name><surname>Mueller</surname><given-names>M</given-names></name>
+<name><surname>Schuhmann</surname><given-names>C</given-names></name>
+<name><surname>Eickhoff</surname><given-names>M</given-names></name>
+<name><surname>Schneider</surname><given-names>P</given-names></name>
+<name><surname>Seemueller</surname><given-names>G</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Contrast enhanced transesophageal echocardiography in patients with atrial fibrillation referred to electrical cardioversion improves atrial thrombus detection and may reduce associated thromboembolic events</article-title><source>
+<italic toggle="yes">Cardiovascular Ultrasound</italic>
+</source><year>2013</year><volume>11</volume><fpage>1</fpage><pub-id pub-id-type="pmid">23295101</pub-id>
+</element-citation></ref><ref id="b40"><label>[40]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kaul</surname><given-names>S</given-names></name>
+<name><surname>Senior</surname><given-names>R</given-names></name>
+<name><surname>Dittrich</surname><given-names>H</given-names></name>
+<name><surname>Raval</surname><given-names>U</given-names></name>
+<name><surname>Khattar</surname><given-names>R</given-names></name>
+<name><surname>Lahiri</surname><given-names>A</given-names></name>
+</person-group><article-title>Detection of Coronary Artery Disease with Myocardial Contrast Echocardiography: comparison with 99mTc-sestamibi single-photon emission computed tomography</article-title><source>
+<italic toggle="yes">Circulation</italic>
+</source><year>1997</year><volume>96</volume><fpage>785</fpage><lpage>792</lpage><pub-id pub-id-type="pmid">9264483</pub-id>
+</element-citation></ref><ref id="b41"><label>[41]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Senior</surname><given-names>R</given-names></name>
+<name><surname>Janardhanan</surname><given-names>R</given-names></name>
+<name><surname>Jeetley</surname><given-names>P</given-names></name>
+<name><surname>Burden</surname><given-names>L</given-names></name>
+</person-group><article-title>Myocardial Contrast Echocardiography for Distinguishing Ischemic from Nonischemic first-Onset Acute Heart Failure: insights into the mechanism of acute heart failure</article-title><source>
+<italic toggle="yes">Circulation</italic>
+</source><year>2005</year><volume>112</volume><fpage>1587</fpage><lpage>1593</lpage><pub-id pub-id-type="pmid">16144997</pub-id>
+</element-citation></ref><ref id="b42"><label>[42]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Plana</surname><given-names>JC</given-names></name>
+<name><surname>Mikati</surname><given-names>IA</given-names></name>
+<name><surname>Dokainish</surname><given-names>H</given-names></name>
+<name><surname>Lakkis</surname><given-names>N</given-names></name>
+<name><surname>Abukhalil</surname><given-names>J</given-names></name>
+<name><surname>Davis</surname><given-names>R</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>A Randomized Cross-over Study for Evaluation of the Effect of Image Optimization with Contrast on the Diagnostic Accuracy of Dobutamine Echocardiography in Coronary Artery Disease. The OPTIMIZE Trial</article-title><source>
+<italic toggle="yes">JACC: Cardiovascular Imaging</italic>
+</source><year>2008</year><volume>1</volume><fpage>145</fpage><lpage>152</lpage><pub-id pub-id-type="pmid">19356420</pub-id>
+</element-citation></ref><ref id="b43"><label>[43]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rainbird</surname><given-names>AJ</given-names></name>
+<name><surname>Mulvagh</surname><given-names>SL</given-names></name>
+<name><surname>Oh</surname><given-names>JK</given-names></name>
+<name><surname>McCully</surname><given-names>RB</given-names></name>
+<name><surname>Klarich</surname><given-names>KW</given-names></name>
+<name><surname>Shub</surname><given-names>C</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Contrast dobutamine stress echocardiography: Clinical practice assessment in 300 consecutive patients</article-title><source>
+<italic toggle="yes">Journal of the American Society of Echocardiography</italic>
+</source><year>2001</year><volume>14</volume><fpage>378</fpage><lpage>385</lpage><pub-id pub-id-type="pmid">11337683</pub-id>
+</element-citation></ref><ref id="b44"><label>[44]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jung</surname><given-names>PH</given-names></name>
+<name><surname>Rieber</surname><given-names>J</given-names></name>
+<name><surname>St&#x000f6;rk</surname><given-names>S</given-names></name>
+<name><surname>Hoyer</surname><given-names>C</given-names></name>
+<name><surname>Erhardt</surname><given-names>I</given-names></name>
+<name><surname>Nowotny</surname><given-names>A</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Effect of contrast application on interpretability and diagnostic value of dobutamine stress echocardiography in patients with intermediate coronary lesions: comparison with myocardial fractional flow reserve</article-title><source>
+<italic toggle="yes">European Heart Journal</italic>
+</source><year>2008</year><volume>29</volume><fpage>2536</fpage><lpage>2343</lpage><pub-id pub-id-type="pmid">18499651</pub-id>
+</element-citation></ref><ref id="b45"><label>[45]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dolan</surname><given-names>MS</given-names></name>
+<name><surname>Gala</surname><given-names>SS</given-names></name>
+<name><surname>Dodla</surname><given-names>S</given-names></name>
+<name><surname>Abdelmoneim</surname><given-names>SS</given-names></name>
+<name><surname>Xie</surname><given-names>F</given-names></name>
+<name><surname>Cloutier</surname><given-names>D</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Safety and Efficacy of Commercially Available Ultrasound Contrast Agents for Rest and Stress Echocardiography: a multicenter experience</article-title><source>
+<italic toggle="yes">Journal of the American College of Cardiology</italic>
+</source><year>2009</year><volume>53</volume><fpage>32</fpage><lpage>38</lpage><pub-id pub-id-type="pmid">19118722</pub-id>
+</element-citation></ref><ref id="b46"><label>[46]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Larsson</surname><given-names>MK</given-names></name>
+<name><surname>Da Silva</surname><given-names>C</given-names></name>
+<name><surname>Gunyeli</surname><given-names>E</given-names></name>
+<name><surname>Ilami</surname><given-names>AAB</given-names></name>
+<name><surname>Szummer</surname><given-names>K</given-names></name>
+<name><surname>Winter</surname><given-names>R</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>The potential clinical value of contrast-enhanced echocardiography beyond current recommendations</article-title><source>
+<italic toggle="yes">Cardiovascular Ultrasound</italic>
+</source><year>2016</year><volume>14</volume><fpage>2</fpage><pub-id pub-id-type="pmid">26729298</pub-id>
+</element-citation></ref><ref id="b47"><label>[47]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lerakis</surname><given-names>S</given-names></name>
+<name><surname>Kalogeropoulos</surname><given-names>AP</given-names></name>
+<name><surname>El-Chami</surname><given-names>MF</given-names></name>
+<name><surname>Georgiopoulou</surname><given-names>VV</given-names></name>
+<name><surname>Abraham</surname><given-names>A</given-names></name>
+<name><surname>Lynch</surname><given-names>SA</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Transthoracic Dobutamine Stress Echocardiography in Patients Undergoing Bariatric Surgery</article-title><source>
+<italic toggle="yes">Obesity Surgery</italic>
+</source><year>2007</year><volume>17</volume><fpage>1475</fpage><lpage>1481</lpage><pub-id pub-id-type="pmid">18219774</pub-id>
+</element-citation></ref><ref id="b48"><label>[48]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wake</surname><given-names>R</given-names></name>
+<name><surname>Takeuchi</surname><given-names>M</given-names></name>
+<name><surname>Yoshitani</surname><given-names>H</given-names></name>
+<name><surname>Miyazaki</surname><given-names>C</given-names></name>
+<name><surname>Otani</surname><given-names>S</given-names></name>
+<name><surname>Yoshiyama</surname><given-names>M</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Role of Contrast-Enhanced Dobutamine Stress Echocardiography in Predicting Outcome in Patients with Known or Suspected Coronary Artery Disease</article-title><source>
+<italic toggle="yes">Echocardiography</italic>
+</source><year>2006</year><volume>23</volume><fpage>642</fpage><lpage>649</lpage><pub-id pub-id-type="pmid">16970715</pub-id>
+</element-citation></ref><ref id="b49"><label>[49]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shah</surname><given-names>BN</given-names></name>
+<name><surname>Balaji</surname><given-names>G</given-names></name>
+<name><surname>Alhajiri</surname><given-names>A</given-names></name>
+<name><surname>Ramzy</surname><given-names>IS</given-names></name>
+<name><surname>Ahmadvazir</surname><given-names>S</given-names></name>
+<name><surname>Senior</surname><given-names>R</given-names></name>
+</person-group><article-title>Incremental Diagnostic and Prognostic Value of Contemporary Stress Echocardiography in a Chest Pain Unit: mortality and morbidity outcomes from a real-world setting</article-title><source>
+<italic toggle="yes">Circulation: Cardiovascular Imaging</italic>
+</source><year>2013</year><volume>6</volume><fpage>202</fpage><lpage>209</lpage><pub-id pub-id-type="pmid">23258477</pub-id>
+</element-citation></ref><ref id="b50"><label>[50]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lindner</surname><given-names>JR</given-names></name>
+<name><surname>Song</surname><given-names>J</given-names></name>
+<name><surname>Jayaweera</surname><given-names>AR</given-names></name>
+<name><surname>Sklenar</surname><given-names>J</given-names></name>
+<name><surname>Kaul</surname><given-names>S</given-names></name>
+</person-group><article-title>Microvascular rheology of Definity microbubbles after intra-arterial and intravenous administration</article-title><source>
+<italic toggle="yes">Journal of the American Society of Echocardiography</italic>
+</source><year>2002</year><volume>15</volume><fpage>396</fpage><lpage>403</lpage><pub-id pub-id-type="pmid">12019422</pub-id>
+</element-citation></ref><ref id="b51"><label>[51]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kaul</surname><given-names>S</given-names></name>
+<name><surname>Jayaweera</surname><given-names>AR</given-names></name>
+</person-group><article-title>Coronary and myocardial blood volumes: noninvasive tools to assess the coronary microcirculation</article-title><source>
+<italic toggle="yes">Circulation</italic>
+</source><year>1997</year><volume>96</volume><fpage>719</fpage><lpage>724</lpage><pub-id pub-id-type="pmid">9264473</pub-id>
+</element-citation></ref><ref id="b52"><label>[52]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wei</surname><given-names>K</given-names></name>
+<name><surname>Jayaweera</surname><given-names>AR</given-names></name>
+<name><surname>Firoozan</surname><given-names>S</given-names></name>
+<name><surname>Linka</surname><given-names>A</given-names></name>
+<name><surname>Skyba</surname><given-names>DM</given-names></name>
+<name><surname>Kaul</surname><given-names>S</given-names></name>
+</person-group><article-title>Basis for detection of stenosis using venous administration of microbubbles during myocardial contrast echocardiography: bolus or continuous infusion</article-title><source>
+<italic toggle="yes">Journal of the American College of Cardiology</italic>
+</source><year>1998</year><volume>32</volume><fpage>252</fpage><lpage>260</lpage><pub-id pub-id-type="pmid">9669278</pub-id>
+</element-citation></ref><ref id="b53"><label>[53]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Janardhanan</surname><given-names>R</given-names></name>
+<name><surname>Moon</surname><given-names>JCC</given-names></name>
+<name><surname>Pennell</surname><given-names>DJ</given-names></name>
+<name><surname>Senior</surname><given-names>R</given-names></name>
+</person-group><article-title>Myocardial contrast echocardiography accurately reflects transmurality of myocardial necrosis and predicts contractile reserve after acute myocardial infarction</article-title><source>
+<italic toggle="yes">American Heart Journal</italic>
+</source><year>2005</year><volume>149</volume><fpage>355</fpage><lpage>362</lpage><pub-id pub-id-type="pmid">15846277</pub-id>
+</element-citation></ref><ref id="b54"><label>[54]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wei</surname><given-names>K</given-names></name>
+<name><surname>Jayaweera</surname><given-names>AR</given-names></name>
+<name><surname>Firoozan</surname><given-names>S</given-names></name>
+<name><surname>Linka</surname><given-names>A</given-names></name>
+<name><surname>Skyba</surname><given-names>DM</given-names></name>
+<name><surname>Kaul</surname><given-names>S</given-names></name>
+</person-group><article-title>Quantification of Myocardial Blood Flow with Ultrasound-Induced Destruction of Microbubbles Administered as a Constant Venous Infusion</article-title><source>
+<italic toggle="yes">Circulation</italic>
+</source><year>1998</year><volume>97</volume><fpage>473</fpage><lpage>483</lpage><pub-id pub-id-type="pmid">9490243</pub-id>
+</element-citation></ref><ref id="b55"><label>[55]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Elhendy</surname><given-names>A</given-names></name>
+<name><surname>O&#x02019;Leary</surname><given-names>EL</given-names></name>
+<name><surname>Xie</surname><given-names>F</given-names></name>
+<name><surname>McGrain</surname><given-names>AC</given-names></name>
+<name><surname>Anderson</surname><given-names>JR</given-names></name>
+<name><surname>Porter</surname><given-names>TR</given-names></name>
+</person-group><article-title>Comparative accuracy of real-time myocardial contrast perfusion imaging and wall motion analysis during dobutamine stress echocardiography for the diagnosis of coronary artery disease</article-title><source>
+<italic toggle="yes">Journal of the American College of Cardiology</italic>
+</source><year>2004</year><volume>44</volume><fpage>2185</fpage><lpage>2191</lpage><pub-id pub-id-type="pmid">15582317</pub-id>
+</element-citation></ref><ref id="b56"><label>[56]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jayaweera</surname><given-names>AR</given-names></name>
+<name><surname>Wei</surname><given-names>K</given-names></name>
+<name><surname>Coggins</surname><given-names>M</given-names></name>
+<name><surname>Bin</surname><given-names>JP</given-names></name>
+<name><surname>Goodman</surname><given-names>C</given-names></name>
+<name><surname>Kaul</surname><given-names>S</given-names></name>
+</person-group><article-title>Role of capillaries in determining CBF reserve: new insights using myocardial contrast echocardiography</article-title><source>
+<italic toggle="yes">American Journal of Physiology-Heart and Circulatory Physiology</italic>
+</source><year>1999</year><volume>277</volume><fpage>H2363</fpage><lpage>H2372</lpage></element-citation></ref><ref id="b57"><label>[57]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dijkmans</surname><given-names>PA</given-names></name>
+<name><surname>Senior</surname><given-names>R</given-names></name>
+<name><surname>Becher</surname><given-names>H</given-names></name>
+<name><surname>Porter</surname><given-names>TR</given-names></name>
+<name><surname>Wei</surname><given-names>K</given-names></name>
+<name><surname>Visser</surname><given-names>CA</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Myocardial Contrast Echocardiography Evolving as a Clinically Feasible Technique for Accurate, Rapid, and Safe Assessment of Myocardial Perfusion</article-title><source>
+<italic toggle="yes">Journal of the American College of Cardiology</italic>
+</source><year>2006</year><volume>48</volume><fpage>2168</fpage><lpage>2177</lpage><pub-id pub-id-type="pmid">17161241</pub-id>
+</element-citation></ref><ref id="b58"><label>[58]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Senior</surname><given-names>R</given-names></name>
+<name><surname>Monaghan</surname><given-names>M</given-names></name>
+<name><surname>Main</surname><given-names>ML</given-names></name>
+<name><surname>Zamorano</surname><given-names>JL</given-names></name>
+<name><surname>Tiemann</surname><given-names>K</given-names></name>
+<name><surname>Agati</surname><given-names>L</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Detection of coronary artery disease with perfusion stress echocardiography using a novel ultrasound imaging agent: two Phase 3 international trials in comparison with radionuclide perfusion imaging</article-title><source>
+<italic toggle="yes">European Journal of Echocardiography</italic>
+</source><year>2009</year><volume>10</volume><fpage>26</fpage><lpage>35</lpage><pub-id pub-id-type="pmid">19131498</pub-id>
+</element-citation></ref><ref id="b59"><label>[59]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Senior</surname><given-names>R</given-names></name>
+<name><surname>Moreo</surname><given-names>A</given-names></name>
+<name><surname>Gaibazzi</surname><given-names>N</given-names></name>
+<name><surname>Agati</surname><given-names>L</given-names></name>
+<name><surname>Tiemann</surname><given-names>K</given-names></name>
+<name><surname>Shivalkar</surname><given-names>B</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Comparison of Sulfur Hexafluoride Microbubble (SonoVue)-Enhanced Myocardial Contrast Echocardiography with Gated Single-Photon Emission Computed Tomography for Detection of Significant Coronary Artery Disease: a Large European Multicenter Study</article-title><source>
+<italic toggle="yes">Journal of the American College of Cardiology</italic>
+</source><year>2013</year><volume>62</volume><fpage>1353</fpage><lpage>1361</lpage><pub-id pub-id-type="pmid">23770168</pub-id>
+</element-citation></ref><ref id="b60"><label>[60]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shimoni</surname><given-names>S</given-names></name>
+<name><surname>Zoghbi</surname><given-names>WA</given-names></name>
+<name><surname>Xie</surname><given-names>F</given-names></name>
+<name><surname>Kricsfeld</surname><given-names>D</given-names></name>
+<name><surname>Iskander</surname><given-names>S</given-names></name>
+<name><surname>Gobar</surname><given-names>L</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Real-time assessment of myocardial perfusion and wall motion during bicycle and treadmill exercise echocardiography: comparison with single photon emission computed tomography</article-title><source>
+<italic toggle="yes">Journal of the American College of Cardiology</italic>
+</source><year>2001</year><volume>37</volume><fpage>741</fpage><lpage>747</lpage><pub-id pub-id-type="pmid">11693746</pub-id>
+</element-citation></ref><ref id="b61"><label>[61]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chiou</surname><given-names>KR</given-names></name>
+<name><surname>Huang</surname><given-names>WC</given-names></name>
+<name><surname>Lin</surname><given-names>SL</given-names></name>
+<name><surname>Hsieh</surname><given-names>PL</given-names></name>
+<name><surname>Liu</surname><given-names>CP</given-names></name>
+<name><surname>Tsay</surname><given-names>DG</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Real-time dobutamine stress myocardial contrast echocardiography for detecting coronary artery disease: correlating abnormal wall motion and disturbed perfusion</article-title><source>
+<italic toggle="yes">The Canadian Journal of Cardiology</italic>
+</source><year>2004</year><volume>20</volume><fpage>1237</fpage><lpage>1243</lpage><pub-id pub-id-type="pmid">15494776</pub-id>
+</element-citation></ref><ref id="b62"><label>[62]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gaibazzi</surname><given-names>N</given-names></name>
+<name><surname>Reverberi</surname><given-names>C</given-names></name>
+<name><surname>Squeri</surname><given-names>A</given-names></name>
+<name><surname>De Iaco</surname><given-names>G</given-names></name>
+<name><surname>Ardissino</surname><given-names>D</given-names></name>
+<name><surname>Gherli</surname><given-names>T</given-names></name>
+</person-group><article-title>Contrast Stress Echocardiography for the Diagnosis of Coronary Artery Disease in Patients with Chest Pain but without Acute Coronary Syndrome: Incremental Value of Myocardial Perfusion</article-title><source>
+<italic toggle="yes">Journal of the American Society of Echocardiography</italic>
+</source><year>2009</year><volume>22</volume><fpage>404</fpage><lpage>410</lpage><pub-id pub-id-type="pmid">19345309</pub-id>
+</element-citation></ref><ref id="b63"><label>[63]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gaibazzi</surname><given-names>N</given-names></name>
+<name><surname>Rigo</surname><given-names>F</given-names></name>
+<name><surname>Reverberi</surname><given-names>C</given-names></name>
+</person-group><article-title>Detection of Coronary Artery Disease by Combined Assessment of Wall Motion, Myocardial Perfusion and Coronary Flow Reserve: a Multiparametric Contrast Stress-Echocardiography Study</article-title><source>
+<italic toggle="yes">Journal of the American Society of Echocardiography</italic>
+</source><year>2010</year><volume>23</volume><fpage>1242</fpage><lpage>1250</lpage><pub-id pub-id-type="pmid">20951000</pub-id>
+</element-citation></ref><ref id="b64"><label>[64]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shah</surname><given-names>BN</given-names></name>
+<name><surname>Chahal</surname><given-names>NS</given-names></name>
+<name><surname>Bhattacharyya</surname><given-names>S</given-names></name>
+<name><surname>Li</surname><given-names>W</given-names></name>
+<name><surname>Roussin</surname><given-names>I</given-names></name>
+<name><surname>Khattar</surname><given-names>RS</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>The Feasibility and Clinical Utility of Myocardial Contrast Echocardiography in Clinical Practice: Results from the Incorporation of Myocardial Perfusion Assessment into Clinical Testing with Stress Echocardiography Study</article-title><source>
+<italic toggle="yes">Journal of the American Society of Echocardiography</italic>
+</source><year>2014</year><volume>27</volume><fpage>520</fpage><lpage>530</lpage><pub-id pub-id-type="pmid">24637056</pub-id>
+</element-citation></ref><ref id="b65"><label>[65]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Porter</surname><given-names>TR</given-names></name>
+<name><surname>Smith</surname><given-names>LM</given-names></name>
+<name><surname>Wu</surname><given-names>J</given-names></name>
+<name><surname>Thomas</surname><given-names>D</given-names></name>
+<name><surname>Haas</surname><given-names>JT</given-names></name>
+<name><surname>Mathers</surname><given-names>DH</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Patient Outcome Following 2 Different Stress Imaging Approaches: a prospective randomized comparison</article-title><source>
+<italic toggle="yes">Journal of the American College of Cardiology</italic>
+</source><year>2013</year><volume>61</volume><fpage>2446</fpage><lpage>2455</lpage><pub-id pub-id-type="pmid">23643501</pub-id>
+</element-citation></ref><ref id="b66"><label>[66]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xiu</surname><given-names>J</given-names></name>
+<name><surname>Cui</surname><given-names>K</given-names></name>
+<name><surname>Wang</surname><given-names>Y</given-names></name>
+<name><surname>Zheng</surname><given-names>H</given-names></name>
+<name><surname>Chen</surname><given-names>G</given-names></name>
+<name><surname>Feng</surname><given-names>Q</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Prognostic Value of Myocardial Perfusion Analysis in Patients with Coronary Artery Disease: a Meta-Analysis</article-title><source>
+<italic toggle="yes">Journal of the American Society of Echocardiography</italic>
+</source><year>2017</year><volume>30</volume><fpage>270</fpage><lpage>281</lpage><pub-id pub-id-type="pmid">28049598</pub-id>
+</element-citation></ref><ref id="b67"><label>[67]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gaibazzi</surname><given-names>N</given-names></name>
+<name><surname>Porter</surname><given-names>T</given-names></name>
+<name><surname>Lorenzoni</surname><given-names>V</given-names></name>
+<name><surname>Pontone</surname><given-names>G</given-names></name>
+<name><surname>De Santis</surname><given-names>D</given-names></name>
+<name><surname>De Rosa</surname><given-names>A</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Effect of Coronary Revascularization on the Prognostic Value of Stress Myocardial Contrast Wall Motion and Perfusion Imaging</article-title><source>
+<italic toggle="yes">Journal of the American Heart Association</italic>
+</source><year>2017</year><volume>6</volume><fpage>e006202</fpage><pub-id pub-id-type="pmid">28566297</pub-id>
+</element-citation></ref><ref id="b68"><label>[68]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shimoni</surname><given-names>S</given-names></name>
+<name><surname>Frangogiannis</surname><given-names>NG</given-names></name>
+<name><surname>Aggeli</surname><given-names>CJ</given-names></name>
+<name><surname>Shan</surname><given-names>K</given-names></name>
+<name><surname>Quinones</surname><given-names>MA</given-names></name>
+<name><surname>Espada</surname><given-names>R</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Microvascular Structural Correlates of Myocardial Contrast Echocardiography in Patients with Coronary Artery Disease and Left Ventricular Dysfunction: implications for the assessment of myocardial hibernation</article-title><source>
+<italic toggle="yes">Circulation</italic>
+</source><year>2002</year><volume>106</volume><fpage>950</fpage><lpage>956</lpage><pub-id pub-id-type="pmid">12186799</pub-id>
+</element-citation></ref><ref id="b69"><label>[69]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shimoni</surname><given-names>S</given-names></name>
+<name><surname>Frangogiannis</surname><given-names>NG</given-names></name>
+<name><surname>Aggeli</surname><given-names>CJ</given-names></name>
+<name><surname>Shan</surname><given-names>K</given-names></name>
+<name><surname>Verani</surname><given-names>MS</given-names></name>
+<name><surname>Quinones</surname><given-names>MA</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Identification of Hibernating Myocardium with Quantitative Intravenous Myocardial Contrast Echocardiography: comparison with dobutamine echocardiography and thallium-201 scintigraphy</article-title><source>
+<italic toggle="yes">Circulation</italic>
+</source><year>2003</year><volume>107</volume><fpage>538</fpage><lpage>544</lpage><pub-id pub-id-type="pmid">12566363</pub-id>
+</element-citation></ref><ref id="b70"><label>[70]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dwivedi</surname><given-names>G</given-names></name>
+<name><surname>Janardhanan</surname><given-names>R</given-names></name>
+<name><surname>Hayat</surname><given-names>SA</given-names></name>
+<name><surname>Swinburn</surname><given-names>JM</given-names></name>
+<name><surname>Senior</surname><given-names>R</given-names></name>
+</person-group><article-title>Prognostic Value of Myocardial Viability Detected by Myocardial Contrast Echocardiography Early after Acute Myocardial Infarction</article-title><source>
+<italic toggle="yes">Journal of the American College of Cardiology</italic>
+</source><year>2007</year><volume>50</volume><fpage>327</fpage><lpage>334</lpage><pub-id pub-id-type="pmid">17659200</pub-id>
+</element-citation></ref><ref id="b71"><label>[71]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Funaro</surname><given-names>S</given-names></name>
+<name><surname>La Torre</surname><given-names>G</given-names></name>
+<name><surname>Madonna</surname><given-names>M</given-names></name>
+<name><surname>Galiuto</surname><given-names>L</given-names></name>
+<name><surname>Scar&#x000e0;</surname><given-names>A</given-names></name>
+<name><surname>Labbadia</surname><given-names>A</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Incidence, determinants, and prognostic value of reverse left ventricular remodelling after primary percutaneous coronary intervention: results of the Acute Myocardial Infarction Contrast Imaging (AMICI) multicenter study</article-title><source>
+<italic toggle="yes">European Heart Journal</italic>
+</source><year>2009</year><volume>30</volume><fpage>566</fpage><lpage>575</lpage><pub-id pub-id-type="pmid">19098019</pub-id>
+</element-citation></ref><ref id="b72"><label>[72]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shah</surname><given-names>BN</given-names></name>
+<name><surname>Khattar</surname><given-names>RS</given-names></name>
+<name><surname>Senior</surname><given-names>R</given-names></name>
+</person-group><article-title>The hibernating myocardium: current concepts, diagnostic dilemmas, and clinical challenges in the post-STICH era</article-title><source>
+<italic toggle="yes">European Heart Journal</italic>
+</source><year>2013</year><volume>34</volume><fpage>1323</fpage><lpage>1336</lpage><pub-id pub-id-type="pmid">23420867</pub-id>
+</element-citation></ref><ref id="b73"><label>[73]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wei</surname><given-names>K</given-names></name>
+<name><surname>Ragosta</surname><given-names>M</given-names></name>
+<name><surname>Thorpe</surname><given-names>J</given-names></name>
+<name><surname>Coggins</surname><given-names>M</given-names></name>
+<name><surname>Moos</surname><given-names>S</given-names></name>
+<name><surname>Kaul</surname><given-names>S</given-names></name>
+</person-group><article-title>Noninvasive Quantification of Coronary Blood Flow Reserve in Humans Using Myocardial Contrast Echocardiography</article-title><source>
+<italic toggle="yes">Circulation</italic>
+</source><year>2001</year><volume>103</volume><fpage>2560</fpage><lpage>2565</lpage><pub-id pub-id-type="pmid">11382724</pub-id>
+</element-citation></ref><ref id="b74"><label>[74]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Vogel</surname><given-names>R</given-names></name>
+<name><surname>Inderm&#x000fc;hle</surname><given-names>A</given-names></name>
+<name><surname>Reinhardt</surname><given-names>J</given-names></name>
+<name><surname>Meier</surname><given-names>P</given-names></name>
+<name><surname>Siegrist</surname><given-names>PT</given-names></name>
+<name><surname>Namdar</surname><given-names>M</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>The quantification of absolute myocardial perfusion in humans by contrast echocardiography: algorithm and validation</article-title><source>
+<italic toggle="yes">Journal of the American College of Cardiology</italic>
+</source><year>2005</year><volume>45</volume><fpage>754</fpage><lpage>762</lpage><pub-id pub-id-type="pmid">15734622</pub-id>
+</element-citation></ref><ref id="b75"><label>[75]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Peltier</surname><given-names>M</given-names></name>
+<name><surname>Vancraeynest</surname><given-names>D</given-names></name>
+<name><surname>Pasquet</surname><given-names>A</given-names></name>
+<name><surname>Ay</surname><given-names>T</given-names></name>
+<name><surname>Roelants</surname><given-names>V</given-names></name>
+<name><surname>D&#x02019;hondt</surname><given-names>AM</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Assessment of the physiologic significance of coronary disease with dipyridamole real-time myocardial contrast echocardiography. Comparison with technetium-99m sestamibi single-photon emission computed tomography and quantitative coronary angiography</article-title><source>
+<italic toggle="yes">Journal of the American College of Cardiology</italic>
+</source><year>2004</year><volume>43</volume><fpage>257</fpage><lpage>264</lpage><pub-id pub-id-type="pmid">14736446</pub-id>
+</element-citation></ref><ref id="b76"><label>[76]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Thanigaraj</surname><given-names>S</given-names></name>
+<name><surname>Schechtman</surname><given-names>KB</given-names></name>
+<name><surname>P&#x000e9;rez</surname><given-names>JE</given-names></name>
+</person-group><article-title>Improved Echocardiographic Delineation of Left Ventricular Thrombus with the Use of Intravenous second-Generation Contrast Image Enhancement</article-title><source>
+<italic toggle="yes">Journal of the American Society of Echocardiography</italic>
+</source><year>1999</year><volume>12</volume><fpage>1022</fpage><lpage>1026</lpage><pub-id pub-id-type="pmid">10588776</pub-id>
+</element-citation></ref><ref id="b77"><label>[77]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mansencal</surname><given-names>N</given-names></name>
+<name><surname>Nasr</surname><given-names>IA</given-names></name>
+<name><surname>Pilli&#x000e8;re</surname><given-names>R</given-names></name>
+<name><surname>Farcot</surname><given-names>J</given-names></name>
+<name><surname>Joseph</surname><given-names>T</given-names></name>
+<name><surname>Lacombe</surname><given-names>P</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Usefulness of Contrast Echocardiography for Assessment of Left Ventricular Thrombus after Acute Myocardial Infarction</article-title><source>
+<italic toggle="yes">The American Journal of Cardiology</italic>
+</source><year>2007</year><volume>99</volume><fpage>1667</fpage><lpage>1670</lpage><pub-id pub-id-type="pmid">17560872</pub-id>
+</element-citation></ref><ref id="b78"><label>[78]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Weinsaft</surname><given-names>JW</given-names></name>
+<name><surname>Kim</surname><given-names>RJ</given-names></name>
+<name><surname>Ross</surname><given-names>M</given-names></name>
+<name><surname>Krauser</surname><given-names>D</given-names></name>
+<name><surname>Manoushagian</surname><given-names>S</given-names></name>
+<name><surname>LaBounty</surname><given-names>TM</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Contrast-Enhanced Anatomic Imaging as Compared to Contrast-Enhanced Tissue Characterization for Detection of Left Ventricular Thrombus</article-title><source>
+<italic toggle="yes">JACC: Cardiovascular Imaging</italic>
+</source><year>2009</year><volume>2</volume><fpage>969</fpage><lpage>979</lpage><pub-id pub-id-type="pmid">19679285</pub-id>
+</element-citation></ref><ref id="b79"><label>[79]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Strachinaru</surname><given-names>M</given-names></name>
+<name><surname>Damry</surname><given-names>N</given-names></name>
+<name><surname>Duttmann</surname><given-names>R</given-names></name>
+<name><surname>Wauthy</surname><given-names>P</given-names></name>
+<name><surname>Catez</surname><given-names>E</given-names></name>
+<name><surname>Lutea</surname><given-names>M</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Ultrasound Contrast Quantification for the Diagnosis of Intracardiac Masses</article-title><source>
+<italic toggle="yes">JACC: Cardiovascular Imaging</italic>
+</source><year>2016</year><volume>9</volume><fpage>747</fpage><lpage>750</lpage><pub-id pub-id-type="pmid">27085435</pub-id>
+</element-citation></ref><ref id="b80"><label>[80]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kirkpatrick</surname><given-names>JN</given-names></name>
+<name><surname>Wong</surname><given-names>T</given-names></name>
+<name><surname>Bednarz</surname><given-names>JE</given-names></name>
+</person-group><article-title>Differential diagnosis of cardiac masses using contrast echocardiographic perfusion imaging</article-title><source>
+<italic toggle="yes">ACC Current Journal Review</italic>
+</source><year>2004</year><volume>13</volume><fpage>25</fpage></element-citation></ref><ref id="b81"><label>[81]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zilberman</surname><given-names>MV</given-names></name>
+<name><surname>Witt</surname><given-names>SA</given-names></name>
+<name><surname>Kimball</surname><given-names>TR</given-names></name>
+</person-group><article-title>Is there a role for intravenous transpulmonary contrast imaging in pediatric stress echocardiography</article-title><source>
+<italic toggle="yes">Journal of the American Society of Echocardiography</italic>
+</source><year>2003</year><volume>16</volume><fpage>9</fpage><lpage>14</lpage><pub-id pub-id-type="pmid">12514629</pub-id>
+</element-citation></ref><ref id="b82"><label>[82]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kutty</surname><given-names>S</given-names></name>
+<name><surname>Biko</surname><given-names>DM</given-names></name>
+<name><surname>Goldberg</surname><given-names>AB</given-names></name>
+<name><surname>Quartermain</surname><given-names>MD</given-names></name>
+<name><surname>Feinstein</surname><given-names>SB</given-names></name>
+</person-group><article-title>Contrast-enhanced ultrasound in pediatric echocardiography</article-title><source>
+<italic toggle="yes">Pediatric Radiology</italic>
+</source><year>2021</year><volume>51</volume><fpage>2408</fpage><lpage>2417</lpage><pub-id pub-id-type="pmid">34244848</pub-id>
+</element-citation></ref><ref id="b83"><label>[83]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kinoshita</surname><given-names>Y</given-names></name>
+<name><surname>Suzuki</surname><given-names>A</given-names></name>
+<name><surname>Nakajima</surname><given-names>T</given-names></name>
+<name><surname>Ono</surname><given-names>Y</given-names></name>
+<name><surname>Arakaki</surname><given-names>Y</given-names></name>
+<name><surname>Kamiya</surname><given-names>T</given-names></name>
+</person-group><article-title>Collateral vessels assessed by myocardial contrast echocardiography in patients with coronary artery lesions after Kawasaki disease</article-title><source>
+<italic toggle="yes">Heart and Vessels</italic>
+</source><year>1996</year><volume>11</volume><fpage>203</fpage><lpage>210</lpage><pub-id pub-id-type="pmid">9119810</pub-id>
+</element-citation></ref><ref id="b84"><label>[84]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kutty</surname><given-names>S</given-names></name>
+<name><surname>Olson</surname><given-names>J</given-names></name>
+<name><surname>Danford</surname><given-names>CJ</given-names></name>
+<name><surname>Sandene</surname><given-names>EK</given-names></name>
+<name><surname>Xie</surname><given-names>F</given-names></name>
+<name><surname>Fletcher</surname><given-names>SE</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Ultrasound contrast and real-time perfusion in conjunction with supine bicycle stress echocardiography for comprehensive evaluation of surgically corrected congenital heart disease</article-title><source>
+<italic toggle="yes">European Heart Journal: Cardiovascular Imaging</italic>
+</source><year>2012</year><volume>13</volume><fpage>500</fpage><lpage>509</lpage><pub-id pub-id-type="pmid">22173935</pub-id>
+</element-citation></ref><ref id="b85"><label>[85]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>McMahon</surname><given-names>CJ</given-names></name>
+<name><surname>Ayres</surname><given-names>NA</given-names></name>
+<name><surname>Bezold</surname><given-names>LI</given-names></name>
+<name><surname>Lewin</surname><given-names>MB</given-names></name>
+<name><surname>Alonzo</surname><given-names>M</given-names></name>
+<name><surname>Altman</surname><given-names>CA</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Safety and Efficacy of Intravenous Contrast Imaging in Pediatric Echocardiography</article-title><source>
+<italic toggle="yes">Pediatric Cardiology</italic>
+</source><year>2005</year><volume>26</volume><fpage>413</fpage><lpage>417</lpage><pub-id pub-id-type="pmid">16374692</pub-id>
+</element-citation></ref><ref id="b86"><label>[86]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ntoulia</surname><given-names>A</given-names></name>
+<name><surname>Anupindi</surname><given-names>SA</given-names></name>
+<name><surname>Back</surname><given-names>SJ</given-names></name>
+<name><surname>Didier</surname><given-names>RA</given-names></name>
+<name><surname>Hwang</surname><given-names>M</given-names></name>
+<name><surname>Johnson</surname><given-names>AM</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Contrast-enhanced ultrasound: a comprehensive review of safety in children</article-title><source>
+<italic toggle="yes">Pediatric Radiology</italic>
+</source><year>2021</year><volume>51</volume><fpage>2161</fpage><lpage>2180</lpage><pub-id pub-id-type="pmid">34716453</pub-id>
+</element-citation></ref><ref id="b87"><label>[87]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Parker</surname><given-names>JM</given-names></name>
+<name><surname>Weller</surname><given-names>MW</given-names></name>
+<name><surname>Feinstein</surname><given-names>LM</given-names></name>
+<name><surname>Adams</surname><given-names>RJ</given-names></name>
+<name><surname>Main</surname><given-names>ML</given-names></name>
+<name><surname>Grayburn</surname><given-names>PA</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Safety of Ultrasound Contrast Agents in Patients with Known or Suspected Cardiac Shunts</article-title><source>
+<italic toggle="yes">The American Journal of Cardiology</italic>
+</source><year>2013</year><volume>112</volume><fpage>1039</fpage><lpage>1045</lpage><pub-id pub-id-type="pmid">23816393</pub-id>
+</element-citation></ref><ref id="b88"><label>[88]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hong</surname><given-names>G</given-names></name>
+<name><surname>Pedrizzetti</surname><given-names>G</given-names></name>
+<name><surname>Tonti</surname><given-names>G</given-names></name>
+<name><surname>Li</surname><given-names>P</given-names></name>
+<name><surname>Wei</surname><given-names>Z</given-names></name>
+<name><surname>Kim</surname><given-names>JK</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Characterization and Quantification of Vortex Flow in the Human Left Ventricle by Contrast Echocardiography Using Vector Particle Image Velocimetry</article-title><source>
+<italic toggle="yes">JACC: Cardiovascular Imaging</italic>
+</source><year>2008</year><volume>1</volume><fpage>705</fpage><lpage>717</lpage><pub-id pub-id-type="pmid">19356506</pub-id>
+</element-citation></ref><ref id="b89"><label>[89]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Abe</surname><given-names>H</given-names></name>
+<name><surname>Caracciolo</surname><given-names>G</given-names></name>
+<name><surname>Kheradvar</surname><given-names>A</given-names></name>
+<name><surname>Pedrizzetti</surname><given-names>G</given-names></name>
+<name><surname>Khandheria</surname><given-names>BK</given-names></name>
+<name><surname>Narula</surname><given-names>J</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Contrast echocardiography for assessing left ventricular vortex strength in heart failure: a prospective cohort study</article-title><source>
+<italic toggle="yes">European Heart Journal: Cardiovascular Imaging</italic>
+</source><year>2013</year><volume>14</volume><fpage>1049</fpage><lpage>1060</lpage><pub-id pub-id-type="pmid">23588788</pub-id>
+</element-citation></ref><ref id="b90"><label>[90]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mele</surname><given-names>D</given-names></name>
+<name><surname>Smarrazzo</surname><given-names>V</given-names></name>
+<name><surname>Pedrizzetti</surname><given-names>G</given-names></name>
+<name><surname>Capasso</surname><given-names>F</given-names></name>
+<name><surname>Pepe</surname><given-names>M</given-names></name>
+<name><surname>Severino</surname><given-names>S</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Intracardiac Flow Analysis: Techniques and Potential Clinical Applications</article-title><source>
+<italic toggle="yes">Journal of the American Society of Echocardiography</italic>
+</source><year>2019</year><volume>32</volume><fpage>319</fpage><lpage>332</lpage><pub-id pub-id-type="pmid">30655024</pub-id>
+</element-citation></ref><ref id="b91"><label>[91]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Toulemonde</surname><given-names>MEG</given-names></name>
+<name><surname>Corbett</surname><given-names>R</given-names></name>
+<name><surname>Papadopoulou</surname><given-names>V</given-names></name>
+<name><surname>Chahal</surname><given-names>N</given-names></name>
+<name><surname>Li</surname><given-names>Y</given-names></name>
+<name><surname>Leow</surname><given-names>CH</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>High Frame-Rate Contrast Echocardiography: in-Human Demonstration</article-title><source>
+<italic toggle="yes">JACC: Cardiovascular Imaging</italic>
+</source><year>2018</year><volume>11</volume><fpage>923</fpage><lpage>924</lpage><pub-id pub-id-type="pmid">29248652</pub-id>
+</element-citation></ref><ref id="b92"><label>[92]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Voorneveld</surname><given-names>J</given-names></name>
+<name><surname>Keijzer</surname><given-names>LBH</given-names></name>
+<name><surname>Strachinaru</surname><given-names>M</given-names></name>
+<name><surname>Bowen</surname><given-names>DJ</given-names></name>
+<name><surname>Goei</surname><given-names>JSL</given-names></name>
+<name><surname>Ten Cate</surname><given-names>F</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>High-Frame-Rate Echo-Particle Image Velocimetry can Measure the High-Velocity Diastolic Flow Patterns</article-title><source>
+<italic toggle="yes">Circulation: Cardiovascular Imaging</italic>
+</source><year>2019</year><volume>12</volume><fpage>e008856</fpage><pub-id pub-id-type="pmid">30939921</pub-id>
+</element-citation></ref><ref id="b93"><label>[93]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Voorneveld</surname><given-names>J</given-names></name>
+<name><surname>Keijzer</surname><given-names>LBH</given-names></name>
+<name><surname>Strachinaru</surname><given-names>M</given-names></name>
+<name><surname>Bowen</surname><given-names>DJ</given-names></name>
+<name><surname>Mutluer</surname><given-names>FO</given-names></name>
+<name><surname>van der Steen</surname><given-names>AFW</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Optimization of Microbubble Concentration and Acoustic Pressure for Left Ventricular High-Frame-Rate EchoPIV in Patients</article-title><source>
+<italic toggle="yes">IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control</italic>
+</source><year>2021</year><volume>68</volume><fpage>2432</fpage><lpage>2443</lpage><pub-id pub-id-type="pmid">33720832</pub-id>
+</element-citation></ref><ref id="b94"><label>[94]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Strachinaru</surname><given-names>M</given-names></name>
+<name><surname>Voorneveld</surname><given-names>J</given-names></name>
+<name><surname>Keijzer</surname><given-names>LBH</given-names></name>
+<name><surname>Bowen</surname><given-names>DJ</given-names></name>
+<name><surname>Mutluer</surname><given-names>FO</given-names></name>
+<name><surname>Cate</surname><given-names>FT</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Left ventricular high frame rate echo-particle image velocimetry: clinical application and comparison with conventional imaging</article-title><source>
+<italic toggle="yes">Cardiovascular Ultrasound</italic>
+</source><year>2022</year><comment>(in press)</comment></element-citation></ref><ref id="b95"><label>[95]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Christiansen</surname><given-names>JP</given-names></name>
+<name><surname>French</surname><given-names>BA</given-names></name>
+<name><surname>Klibanov</surname><given-names>AL</given-names></name>
+<name><surname>Kaul</surname><given-names>S</given-names></name>
+<name><surname>Lindner</surname><given-names>JR</given-names></name>
+</person-group><article-title>Targeted tissue transfection with ultrasound destruction of plasmid-bearing cationic microbubbles</article-title><source>
+<italic toggle="yes">Ultrasound in Medicine &#x00026; Biology</italic>
+</source><year>2003</year><volume>29</volume><fpage>1759</fpage><lpage>1767</lpage><pub-id pub-id-type="pmid">14698343</pub-id>
+</element-citation></ref><ref id="b96"><label>[96]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Juffermans</surname><given-names>LJM</given-names></name>
+<name><surname>Dijkmans</surname><given-names>PA</given-names></name>
+<name><surname>Musters</surname><given-names>RJP</given-names></name>
+<name><surname>Visser</surname><given-names>CA</given-names></name>
+<name><surname>Kamp</surname><given-names>O</given-names></name>
+</person-group><article-title>Transient permeabilization of cell membranes by ultrasound-exposed microbubbles is related to formation of hydrogen peroxide</article-title><source>
+<italic toggle="yes">American Journal of Physiology-Heart and Circulatory Physiology</italic>
+</source><year>2006</year><volume>291</volume><fpage>H1595</fpage><lpage>H1601</lpage><pub-id pub-id-type="pmid">16632548</pub-id>
+</element-citation></ref><ref id="b97"><label>[97]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xie</surname><given-names>A</given-names></name>
+<name><surname>Wu</surname><given-names>MD</given-names></name>
+<name><surname>Cigarroa</surname><given-names>G</given-names></name>
+<name><surname>Belcik</surname><given-names>JT</given-names></name>
+<name><surname>Ammi</surname><given-names>A</given-names></name>
+<name><surname>Moccetti</surname><given-names>F</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Influence of DNA-Microbubble Coupling on Contrast Ultrasound&#x02013;Mediated Gene Transfection in Muscle and Liver</article-title><source>
+<italic toggle="yes">Journal of the American Society of Echocardiography</italic>
+</source><year>2016</year><volume>29</volume><fpage>812</fpage><lpage>818</lpage><pub-id pub-id-type="pmid">27267307</pub-id>
+</element-citation></ref><ref id="b98"><label>[98]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bekeredjian</surname><given-names>R</given-names></name>
+<name><surname>Chen</surname><given-names>S</given-names></name>
+<name><surname>Frenkel</surname><given-names>PA</given-names></name>
+<name><surname>Grayburn</surname><given-names>PA</given-names></name>
+<name><surname>Shohet</surname><given-names>RV</given-names></name>
+</person-group><article-title>Ultrasound-Targeted Microbubble Destruction can Repeatedly Direct Highly Specific Plasmid Expression to the Heart</article-title><source>
+<italic toggle="yes">Circulation</italic>
+</source><year>2003</year><volume>108</volume><fpage>1022</fpage><lpage>1026</lpage><pub-id pub-id-type="pmid">12912823</pub-id>
+</element-citation></ref><ref id="b99"><label>[99]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>S</given-names></name>
+<name><surname>Shimoda</surname><given-names>M</given-names></name>
+<name><surname>Chen</surname><given-names>J</given-names></name>
+<name><surname>Grayburn</surname><given-names>PA</given-names></name>
+</person-group><article-title>Stimulation of adult resident cardiac progenitor cells by durable myocardial expression of thymosin beta 4 with ultrasound-targeted microbubble delivery</article-title><source>
+<italic toggle="yes">Gene Therapy</italic>
+</source><year>2013</year><volume>20</volume><fpage>225</fpage><lpage>233</lpage><pub-id pub-id-type="pmid">23151517</pub-id>
+</element-citation></ref><ref id="b100"><label>[100]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Belcik</surname><given-names>JT</given-names></name>
+<name><surname>Mott</surname><given-names>BH</given-names></name>
+<name><surname>Xie</surname><given-names>A</given-names></name>
+<name><surname>Zhao</surname><given-names>Y</given-names></name>
+<name><surname>Kim</surname><given-names>S</given-names></name>
+<name><surname>Lindner</surname><given-names>NJ</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Augmentation of Limb Perfusion and Reversal of Tissue Ischemia Produced by Ultrasound-Mediated Microbubble Cavitation</article-title><source>
+<italic toggle="yes">Circulation: Cardiovascular Imaging</italic>
+</source><year>2015</year><volume>8</volume><fpage>e002979</fpage><pub-id pub-id-type="pmid">25834183</pub-id>
+</element-citation></ref><ref id="b101"><label>[101]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Belcik</surname><given-names>JT</given-names></name>
+<name><surname>Davidson</surname><given-names>BP</given-names></name>
+<name><surname>Xie</surname><given-names>A</given-names></name>
+<name><surname>Wu</surname><given-names>MD</given-names></name>
+<name><surname>Yadava</surname><given-names>M</given-names></name>
+<name><surname>Qi</surname><given-names>Y</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Augmentation of Muscle Blood Flow by Ultrasound Cavitation is Mediated by ATP and Purinergic Signaling</article-title><source>
+<italic toggle="yes">Circulation</italic>
+</source><year>2017</year><volume>135</volume><fpage>1240</fpage><lpage>1252</lpage><pub-id pub-id-type="pmid">28174191</pub-id>
+</element-citation></ref><ref id="b102"><label>[102]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Moccetti</surname><given-names>F</given-names></name>
+<name><surname>Belcik</surname><given-names>T</given-names></name>
+<name><surname>Latifi</surname><given-names>Y</given-names></name>
+<name><surname>Xie</surname><given-names>A</given-names></name>
+<name><surname>Ozawa</surname><given-names>K</given-names></name>
+<name><surname>Brown</surname><given-names>E</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Flow Augmentation in the Myocardium by Ultrasound Cavitation of Microbubbles: Role of Shear-Mediated Purinergic Signaling</article-title><source>
+<italic toggle="yes">Journal of the American Society of Echocardiography</italic>
+</source><year>2020</year><volume>33</volume><fpage>1023</fpage><lpage>1031</lpage><comment>e2</comment><pub-id pub-id-type="pmid">32532642</pub-id>
+</element-citation></ref><ref id="b103"><label>[103]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>X</given-names></name>
+<name><surname>Leeman</surname><given-names>JE</given-names></name>
+<name><surname>Wang</surname><given-names>J</given-names></name>
+<name><surname>Pacella</surname><given-names>JJ</given-names></name>
+<name><surname>Villanueva</surname><given-names>FS</given-names></name>
+</person-group><article-title>New Insights into Mechanisms of Sonothrombolysis Using Ultra-High-Speed Imaging</article-title><source>
+<italic toggle="yes">Ultrasound in Medicine &#x00026;Amp; Biology</italic>
+</source><year>2014</year><volume>40</volume><fpage>258</fpage><lpage>262</lpage></element-citation></ref><ref id="b104"><label>[104]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xie</surname><given-names>F</given-names></name>
+<name><surname>Slikkerveer</surname><given-names>J</given-names></name>
+<name><surname>Gao</surname><given-names>S</given-names></name>
+<name><surname>Lof</surname><given-names>J</given-names></name>
+<name><surname>Kamp</surname><given-names>O</given-names></name>
+<name><surname>Unger</surname><given-names>E</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Coronary and Microvascular Thrombolysis with Guided Diagnostic Ultrasound and Microbubbles in Acute ST Segment Elevation Myocardial Infarction</article-title><source>
+<italic toggle="yes">Journal of the American Society of Echocardiography</italic>
+</source><year>2011</year><volume>24</volume><fpage>1400</fpage><lpage>1408</lpage><pub-id pub-id-type="pmid">22037348</pub-id>
+</element-citation></ref><ref id="b105"><label>[105]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xie</surname><given-names>F</given-names></name>
+<name><surname>Gao</surname><given-names>S</given-names></name>
+<name><surname>Wu</surname><given-names>J</given-names></name>
+<name><surname>Lof</surname><given-names>J</given-names></name>
+<name><surname>Radio</surname><given-names>S</given-names></name>
+<name><surname>Vignon</surname><given-names>F</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Diagnostic ultrasound induced inertial cavitation to non-invasively restore coronary and microvascular flow in acute myocardial infarction</article-title><source>
+<italic toggle="yes">PLoS ONE</italic>
+</source><year>2013</year><volume>8</volume><fpage>e69780</fpage><pub-id pub-id-type="pmid">23922797</pub-id>
+</element-citation></ref><ref id="b106"><label>[106]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mathias</surname><given-names>W</given-names></name>
+<name><surname>Tsutsui</surname><given-names>JM</given-names></name>
+<name><surname>Tavares</surname><given-names>BG</given-names></name>
+<name><surname>Xie</surname><given-names>F</given-names></name>
+<name><surname>Aguiar</surname><given-names>MOD</given-names></name>
+<name><surname>Garcia</surname><given-names>DR</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Diagnostic Ultrasound Impulses Improve Microvascular Flow in Patients with STEMI Receiving Intravenous Microbubbles</article-title><source>
+<italic toggle="yes">Journal of the American College of Cardiology</italic>
+</source><year>2016</year><volume>67</volume><fpage>2506</fpage><lpage>2515</lpage><pub-id pub-id-type="pmid">27230046</pub-id>
+</element-citation></ref><ref id="b107"><label>[107]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lindner</surname><given-names>JR</given-names></name>
+</person-group><article-title>Molecular imaging of cardiovascular disease with contrast-enhanced ultrasonography</article-title><source>
+<italic toggle="yes">Nature Reviews Cardiology</italic>
+</source><year>2009</year><volume>6</volume><fpage>475</fpage><lpage>481</lpage><pub-id pub-id-type="pmid">19506587</pub-id>
+</element-citation></ref><ref id="b108"><label>[108]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mott</surname><given-names>B</given-names></name>
+<name><surname>Packwood</surname><given-names>W</given-names></name>
+<name><surname>Xie</surname><given-names>A</given-names></name>
+<name><surname>Belcik</surname><given-names>JT</given-names></name>
+<name><surname>Taylor</surname><given-names>RP</given-names></name>
+<name><surname>Zhao</surname><given-names>Y</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Echocardiographic Ischemic Memory Imaging through Complement-Mediated Vascular Adhesion of Phosphatidylserine-Containing Microbubbles</article-title><source>
+<italic toggle="yes">JACC: Cardiovascular Imaging</italic>
+</source><year>2016</year><volume>9</volume><fpage>937</fpage><lpage>946</lpage><pub-id pub-id-type="pmid">27318722</pub-id>
+</element-citation></ref><ref id="b109"><label>[109]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>W</given-names></name>
+<name><surname>Zhang</surname><given-names>Z</given-names></name>
+<name><surname>Zhuo</surname><given-names>L</given-names></name>
+<name><surname>Zhou</surname><given-names>L</given-names></name>
+<name><surname>Liu</surname><given-names>P</given-names></name>
+<name><surname>He</surname><given-names>Y</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Ultrasound Molecular Imaging of Acute Cellular Cardiac Allograft Rejection in Rat with T-Cell&#x02013;Specific Nanobubbles</article-title><source>
+<italic toggle="yes">Transplantation</italic>
+</source><year>2013</year><volume>96</volume><fpage>543</fpage><lpage>549</lpage><pub-id pub-id-type="pmid">23921443</pub-id>
+</element-citation></ref><ref id="b110"><label>[110]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Steinl</surname><given-names>DC</given-names></name>
+<name><surname>Xu</surname><given-names>L</given-names></name>
+<name><surname>Khanicheh</surname><given-names>E</given-names></name>
+<name><surname>Ellertsdottir</surname><given-names>E</given-names></name>
+<name><surname>Ochoa-Espinosa</surname><given-names>A</given-names></name>
+<name><surname>Mitterhuber</surname><given-names>M</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Noninvasive Contrast-Enhanced Ultrasound Molecular Imaging Detects Myocardial Inflammatory Response in Autoimmune Myocarditis</article-title><source>
+<italic toggle="yes">Circulation: Cardiovascular Imaging</italic>
+</source><year>2016</year><volume>9</volume><fpage>e004720</fpage><pub-id pub-id-type="pmid">27502060</pub-id>
+</element-citation></ref><ref id="b111"><label>[111]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>J</given-names></name>
+<name><surname>Qin</surname><given-names>B</given-names></name>
+<name><surname>Chen</surname><given-names>X</given-names></name>
+<name><surname>Wagner</surname><given-names>WR</given-names></name>
+<name><surname>Villanueva</surname><given-names>FS</given-names></name>
+</person-group><article-title>Ultrasound Molecular Imaging of Angiogenesis Using Vascular Endothelial Growth Factor-Conjugated Microbubbles</article-title><source>
+<italic toggle="yes">Molecular Pharmaceutics</italic>
+</source><year>2017</year><volume>14</volume><fpage>781</fpage><lpage>790</lpage><pub-id pub-id-type="pmid">28165246</pub-id>
+</element-citation></ref><ref id="b112"><label>[112]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Main</surname><given-names>ML</given-names></name>
+<name><surname>Goldman</surname><given-names>JH</given-names></name>
+<name><surname>Grayburn</surname><given-names>PA</given-names></name>
+</person-group><article-title>Thinking outside the &#x0201c;Box&#x0201d;&#x02014;the Ultrasound Contrast Controversy</article-title><source>
+<italic toggle="yes">Journal of the American College of Cardiology</italic>
+</source><year>2007</year><volume>50</volume><fpage>2434</fpage><lpage>2437</lpage><pub-id pub-id-type="pmid">18154971</pub-id>
+</element-citation></ref><ref id="b113"><label>[113]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kusnetzky</surname><given-names>LL</given-names></name>
+<name><surname>Khalid</surname><given-names>A</given-names></name>
+<name><surname>Khumri</surname><given-names>TM</given-names></name>
+<name><surname>Moe</surname><given-names>TG</given-names></name>
+<name><surname>Jones</surname><given-names>PG</given-names></name>
+<name><surname>Main</surname><given-names>ML</given-names></name>
+</person-group><article-title>Acute Mortality in Hospitalized Patients Undergoing Echocardiography with and without an Ultrasound Contrast Agent: Results in 18,671 Consecutive Studies</article-title><source>
+<italic toggle="yes">Journal of the American College of Cardiology</italic>
+</source><year>2008</year><volume>51</volume><fpage>1704</fpage><lpage>1706</lpage><pub-id pub-id-type="pmid">18436124</pub-id>
+</element-citation></ref><ref id="b114"><label>[114]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Main</surname><given-names>ML</given-names></name>
+<name><surname>Ryan</surname><given-names>AC</given-names></name>
+<name><surname>Davis</surname><given-names>TE</given-names></name>
+<name><surname>Albano</surname><given-names>MP</given-names></name>
+<name><surname>Kusnetzky</surname><given-names>LL</given-names></name>
+<name><surname>Hibberd</surname><given-names>M</given-names></name>
+</person-group><article-title>Acute Mortality in Hospitalized Patients Undergoing Echocardiography with and without an Ultrasound Contrast Agent (Multicenter Registry Results in 4,300,966 Consecutive Patients)</article-title><source>
+<italic toggle="yes">The American Journal of Cardiology</italic>
+</source><year>2008</year><volume>102</volume><fpage>1742</fpage><lpage>1746</lpage><pub-id pub-id-type="pmid">19064035</pub-id>
+</element-citation></ref><ref id="b115"><label>[115]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bennett</surname><given-names>CE</given-names></name>
+<name><surname>Tweet</surname><given-names>MS</given-names></name>
+<name><surname>Michelena</surname><given-names>HI</given-names></name>
+<name><surname>Schears</surname><given-names>GJ</given-names></name>
+<name><surname>Mulvagh</surname><given-names>SL</given-names></name>
+</person-group><article-title>Safety and Feasibility of Contrast Echocardiography for ECMO Evaluation</article-title><source>
+<italic toggle="yes">JACC: Cardiovascular Imaging</italic>
+</source><year>2017</year><volume>10</volume><fpage>603</fpage><lpage>604</lpage><pub-id pub-id-type="pmid">27424246</pub-id>
+</element-citation></ref><ref id="b116"><label>[116]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fine</surname><given-names>NM</given-names></name>
+<name><surname>Abdelmoneim</surname><given-names>SS</given-names></name>
+<name><surname>Dichak</surname><given-names>A</given-names></name>
+<name><surname>Kushwaha</surname><given-names>SS</given-names></name>
+<name><surname>Park</surname><given-names>SJ</given-names></name>
+<name><surname>Mulvagh</surname><given-names>SL</given-names></name>
+</person-group><article-title>Safety and Feasibility of Contrast Echocardiography for LVAD Evaluation</article-title><source>
+<italic toggle="yes">JACC: Cardiovascular Imaging</italic>
+</source><year>2014</year><volume>7</volume><fpage>429</fpage><lpage>430</lpage><pub-id pub-id-type="pmid">24742894</pub-id>
+</element-citation></ref><ref id="b117"><label>[117]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Timperley</surname><given-names>J</given-names></name>
+<name><surname>Mitchell</surname><given-names>ARJ</given-names></name>
+<name><surname>Thibault</surname><given-names>H</given-names></name>
+<name><surname>Mirza</surname><given-names>IH</given-names></name>
+<name><surname>Becher</surname><given-names>H</given-names></name>
+</person-group><article-title>Safety of contrast dobutamine stress echocardiography: a single center experience</article-title><source>
+<italic toggle="yes">Journal of the American Society of Echocardiography</italic>
+</source><year>2005</year><volume>18</volume><fpage>163</fpage><lpage>167</lpage><pub-id pub-id-type="pmid">15682054</pub-id>
+</element-citation></ref><ref id="b118"><label>[118]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tsutsui</surname><given-names>JM</given-names></name>
+<name><surname>Elhendy</surname><given-names>A</given-names></name>
+<name><surname>Xie</surname><given-names>F</given-names></name>
+<name><surname>O&#x02019;Leary</surname><given-names>EL</given-names></name>
+<name><surname>McGrain</surname><given-names>AC</given-names></name>
+<name><surname>Porter</surname><given-names>TR</given-names></name>
+</person-group><article-title>Safety of dobutamine stress real-time myocardial contrast echocardiography</article-title><source>
+<italic toggle="yes">Journal of the American College of Cardiology</italic>
+</source><year>2005</year><volume>45</volume><fpage>1235</fpage><lpage>1242</lpage><pub-id pub-id-type="pmid">15837255</pub-id>
+</element-citation></ref><ref id="b119"><label>[119]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wei</surname><given-names>K</given-names></name>
+<name><surname>Mulvagh</surname><given-names>SL</given-names></name>
+<name><surname>Carson</surname><given-names>L</given-names></name>
+<name><surname>Davidoff</surname><given-names>R</given-names></name>
+<name><surname>Gabriel</surname><given-names>R</given-names></name>
+<name><surname>Grimm</surname><given-names>RA</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>The safety of deFinity and Optison for ultrasound image enhancement: a retrospective analysis of 78,383 administered contrast doses</article-title><source>
+<italic toggle="yes">The Journal of the American Society of Echocardiography</italic>
+</source><year>2008</year><volume>21</volume><fpage>1202</fpage><lpage>1206</lpage><pub-id pub-id-type="pmid">18848430</pub-id>
+</element-citation></ref><ref id="b120"><label>[120]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<collab>International Collaborative Study of Severe Anaphylaxis</collab>
+</person-group><article-title>Risk of anaphylaxis in a hospital population in relation to the use of various drugs: an international study</article-title><source>
+<italic toggle="yes">Pharmacoepidemiology and Drug Safety</italic>
+</source><year>2003</year><volume>12</volume><fpage>195</fpage><lpage>202</lpage><pub-id pub-id-type="pmid">12733472</pub-id>
+</element-citation></ref></ref-list></back></article>

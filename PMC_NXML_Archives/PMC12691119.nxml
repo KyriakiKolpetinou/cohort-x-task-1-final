@@ -1,0 +1,553 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="case-report"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Diagnostics (Basel)</journal-id><journal-id journal-id-type="iso-abbrev">Diagnostics (Basel)</journal-id><journal-id journal-id-type="publisher-id">diagnostics</journal-id><journal-title-group><journal-title>Diagnostics</journal-title></journal-title-group><issn pub-type="epub">2075-4418</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">41374423</article-id><article-id pub-id-type="pmc">12691119</article-id><article-id pub-id-type="doi">10.3390/diagnostics15233042</article-id><article-id pub-id-type="publisher-id">diagnostics-15-03042</article-id><article-categories><subj-group subj-group-type="heading"><subject>Case Report</subject></subj-group></article-categories><title-group><article-title>High-Risk Node-Positive Hormone Receptor-Positive/HER2-Low Breast Cancer Relapse on Adjuvant Abemaciclib Treatment with ER Loss at Metastatic Recurrence: A Case Report and Literature Review</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0009-0001-6813-9426</contrib-id><name><surname>San&#x000f2;</surname><given-names>Maria Vita</given-names></name><xref rid="af1-diagnostics-15-03042" ref-type="aff">1</xref><xref rid="c1-diagnostics-15-03042" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Marino</surname><given-names>Lorenza</given-names></name><xref rid="af1-diagnostics-15-03042" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name><surname>Puleo</surname><given-names>Maria</given-names></name><xref rid="af1-diagnostics-15-03042" ref-type="aff">1</xref><xref rid="af2-diagnostics-15-03042" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>Pafumi</surname><given-names>Sarah</given-names></name><xref rid="af1-diagnostics-15-03042" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-7881-8767</contrib-id><name><surname>Marletta</surname><given-names>Stefano</given-names></name><xref rid="af1-diagnostics-15-03042" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-7282-3597</contrib-id><name><surname>Ricciardi</surname><given-names>Giuseppina Rosaria Rita</given-names></name><xref rid="af3-diagnostics-15-03042" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name><surname>Carnaghi</surname><given-names>Carlo</given-names></name><xref rid="af1-diagnostics-15-03042" ref-type="aff">1</xref></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Baldassarre</surname><given-names>Gustavo</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-diagnostics-15-03042"><label>1</label>Department of Medical Oncology, Humanitas Istituto Clinico Catanese, 95045 Catania, Italy; <email>lorenza.marino@humanitascatania.it</email> (L.M.); <email>maria.puleo95@gmail.com</email> (M.P.); <email>sarah.pafumi@humanitascania.it</email> (S.P.); <email>stefano.marletta@humanitascatania.it</email> (S.M.); <email>carlo.carnaghi@huamanitascatania.it</email> (C.C.)</aff><aff id="af2-diagnostics-15-03042"><label>2</label>Department of Molecular Medicine, Sapienza University of Rome, 00185 Rome, Italy</aff><aff id="af3-diagnostics-15-03042"><label>3</label>Department of Onco-Haematology, Papardo Hospital, 98100 Messina, Italy; <email>giusyricciardi81@hotmail.it</email></aff><author-notes><corresp id="c1-diagnostics-15-03042"><label>*</label>Correspondence: <email>mariavita.sano@humanitascatania.it</email></corresp></author-notes><pub-date pub-type="epub"><day>28</day><month>11</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2025</year></pub-date><volume>15</volume><issue>23</issue><elocation-id>3042</elocation-id><history><date date-type="received"><day>30</day><month>9</month><year>2025</year></date><date date-type="rev-recd"><day>09</day><month>11</month><year>2025</year></date><date date-type="accepted"><day>26</day><month>11</month><year>2025</year></date></history><permissions><copyright-statement>&#x000a9; 2025 by the authors.</copyright-statement><copyright-year>2025</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p><bold>Background and Clinical Significance</bold>: Up to 30% of patients with HR+/HER2-early breast cancer (eBC) may experience distant recurrence, and patients with high-risk clinical features have a higher likelihood of recurrence. For these patients, the addition of a CDK4/6 inhibitor to standard adjuvant endocrine therapy (ET) has demonstrated a significant reduction in the risk of invasive and distant recurrence. Despite that, a small subset of patients still experience distant relapse. To date, the characteristics of patients who relapse on adjuvant CDK 4/6i are not well defined. <bold>Case Presentation</bold>: Here we report the case of a patient with early-stage HR+/HER2&#x02212; breast cancer at high risk of recurrence, who experienced distant metastatic relapse during adjuvant therapy with abemaciclib plus ET, with a shift in the tumor subtype to triple-negative. Genomic alterations associated with ET and cyclin-dependent kinase 4 and 6 inhibitor resistance were analyzed with next-generation sequencing (NGS) carried out at recurrence. Results showed P53 and PI3KCA pathway alterations, but no ESR1 mutation or RB1 mutations. The duration was 12 months for adjuvant abemaciclib, and the first-line metastatic treatment lasted less than 3 months. Conversely, T-DXd administered due to the presence of HER2-low showed excellent effectiveness. <bold>Conclusions</bold>: The management of breast cancer relapse occurring during adjuvant therapy with CDK4/6 inhibitors is challenging. Performing a re-biopsy is crucial due to the possible loss of estrogen receptors, which would require a change in therapeutic strategy no longer based on endocrine therapy. In cases that remain luminal, knowledge of the mutational profile may help to offer patients novel targeted treatments.</p></abstract><kwd-group><kwd>metastatic breast cancer</kwd><kwd>adjuvant CDK4/6 inhibitors</kwd><kwd>estrogenic receptor loss</kwd><kwd>PI3KCA mutation</kwd><kwd>breast cancer relapse</kwd><kwd>triple-negative conversion</kwd><kwd>trastuzumab-deruxtecan</kwd><kwd>Her2low</kwd><kwd>ADC</kwd><kwd>case report</kwd></kwd-group><funding-group><funding-statement>This research received no external funding.</funding-statement></funding-group></article-meta></front><body><sec sec-type="intro" id="sec1-diagnostics-15-03042"><title>1. Introduction</title><p>Breast cancer is the most common cancer and the second leading cause of cancer-related mortality among women worldwide. More than 90% of patients with breast cancer are diagnosed at an early stage (eBC), of whom approximately 70% have hormone receptor-positive (HR+) and human epidermal growth factor receptor 2-negative (HER2&#x02212;) tumors [<xref rid="B1-diagnostics-15-03042" ref-type="bibr">1</xref>]. Adjuvant endocrine therapy (ET) improves outcomes for patients with HR+/HER2&#x02212; eBC and is the standard of care (SOC) in this setting [<xref rid="B2-diagnostics-15-03042" ref-type="bibr">2</xref>]. However, many patients experience disease recurrence [<xref rid="B3-diagnostics-15-03042" ref-type="bibr">3</xref>]. Approximately 50% of recurrences occur within 5 years of diagnosis and continue beyond 20 years even with SOC adjuvant ET [<xref rid="B4-diagnostics-15-03042" ref-type="bibr">4</xref>,<xref rid="B5-diagnostics-15-03042" ref-type="bibr">5</xref>,<xref rid="B6-diagnostics-15-03042" ref-type="bibr">6</xref>,<xref rid="B7-diagnostics-15-03042" ref-type="bibr">7</xref>]. Up to 30% of patients with HR+/HER2&#x02212; eBC may experience distant recurrence, which is incurable, and patients with high-risk clinical and/or pathological features have a higher likelihood of recurrence, particularly during the initial years of adjuvant endocrine therapy (ET) [<xref rid="B8-diagnostics-15-03042" ref-type="bibr">8</xref>,<xref rid="B9-diagnostics-15-03042" ref-type="bibr">9</xref>,<xref rid="B10-diagnostics-15-03042" ref-type="bibr">10</xref>,<xref rid="B11-diagnostics-15-03042" ref-type="bibr">11</xref>,<xref rid="B12-diagnostics-15-03042" ref-type="bibr">12</xref>]. For these patients, the addition of a CDK4/6 inhibitor (abemaciclib or ribociclib) to standard adjuvant ET has demonstrated a significant reduction in the risk of invasive and distant recurrence. The monarchE trial assessed 2 years of adjuvant abemaciclib in combination with ET vs. ET alone in patients with high-risk node-positive HR+/HER2&#x02212; eBC [<xref rid="B13-diagnostics-15-03042" ref-type="bibr">13</xref>]. The NATALEE trial evaluated the addition of 3 years of ribociclib to SOC adjuvant nonsteroidal aromatase inhibitor (NSAI) vs. NSAI alone in a broad population of patients with stage II/III HR+/HER2&#x02212; eBC with high-risk node-negative (N0) or node-positive disease [<xref rid="B10-diagnostics-15-03042" ref-type="bibr">10</xref>]. In the adjuvant setting, both CDK4/6i (ribociclib and abemaciclib) have shown statistically significant improvements in invasive disease-free survival (iDFS) in patients with HR+/HER2&#x02212; eBC. Furthermore, abemaciclib has shown an overall survival (OS) benefit, whereas OS data for ribociclib remain immature. Despite that, a small subset of patients still experience distant relapse, either during or shortly after completing the adjuvant CDK4/6i regimen [<xref rid="B13-diagnostics-15-03042" ref-type="bibr">13</xref>,<xref rid="B14-diagnostics-15-03042" ref-type="bibr">14</xref>]. At present, identifying the optimal therapeutic strategy for patients who experience relapse after or during adjuvant CDK4/6i plus ET remains a challenge, as this population is underrepresented in clinical trials. For example, only approximately 2% of such patients were included in the recent postMONARCH and INAVO120 and 1% in CAPITELLO 291 trials [<xref rid="B15-diagnostics-15-03042" ref-type="bibr">15</xref>,<xref rid="B16-diagnostics-15-03042" ref-type="bibr">16</xref>,<xref rid="B17-diagnostics-15-03042" ref-type="bibr">17</xref>]. Moreover, there is a lack of data regarding the efficacy of ADCs or oral SERDs in this clinical setting. In addition, to date, the characteristics of patients who relapse on adjuvant CDK4/6i are not well defined. Herein, we report a case of a high-risk eBC HR+/HER2&#x02212; relapsed on adjuvant abemaciclib treatment with conversion to triple-negative mBC. This case confirms the importance of performing a biopsy at disease recurrence during adjuvant ET and abemaciclib, as conversion to triple-negative radically changes the pharmacological treatment. Additionally, it shows an excellent response to the ADC trastuzumab deruxtecan in a case of conversion from luminal breast cancer to triple-negative during adjuvant abemaciclib and ET, a scenario for which we currently have no available data to guide therapeutic algorithms.</p></sec><sec id="sec2-diagnostics-15-03042"><title>2. Case Report</title><p>A 48-year-old premenopausal woman, with no relevant comorbidities and a family history of breast cancer (paternal aunt), presented in August 2022 with a self-detected palpable mass in the left breast. Mammography and ultrasound revealed an irregular mass (~4.5 cm) with nipple retraction and lymphadenopathy axillary lymph node metastases. Core needle biopsy confirmed invasive carcinoma of no special type (NST), grade 2, ER 90%, PgR 90%, Ki-67 40%, HER2 2+ (FISH negative), both on the primary tumor and the lymph node metastasis. Magnetic Resonance Imaging revealed multicentric disease; staging CT (computer tomography) and bone scan showed no distant metastases (cT2 cN2 M0, stage IIA AJCC Version 8). Following multidisciplinary assessment, the patient received neoadjuvant chemotherapy with four cycles of doxorubicin/cyclophosphamide followed by 12 weekly doses of paclitaxel. Breast imaging post-chemotherapy showed a partial radiological response. In May 2023, she underwent skin-sparing left mastectomy with immediate reconstruction and axillary dissection. Histopathology revealed invasive NST, grade 2, ypT2 ypN3a (10/27 nodes), ER 95%, PgR 0%, Ki-67 3%, HER2 2+ (FISH negative), with perineural invasion and no lymphovascular invasion. Her MD Anderson response score was 4.173 (class II). She underwent BRCA testing, which was found to be wild-type. In July 2023, she started adjuvant therapy with triptorelin, letrozole, and abemaciclib. Moreover, in June 2023, post-mastectomy radiation therapy (PMRT) was delivered to the reconstructed breast and regional lymphatics. In August 2024, after 12 months of adjuvant treatment with ET and abemaciclib, the patient reported concern about the appearance of erythematous skin with nodular lesions on the reconstructed breast. Additionally, she had developed back pain for about a month, which prevented her from carrying out all daily activities. Suspecting a possible disease recurrence, the patient was offered a skin biopsy and a systemic imaging reassessment.</p><p>Punch biopsy of the skin lesions confirmed cutaneous metastases, ER- and PgR-negative, Ki-67 40%, HER2 2+ (FISH negative), consistent with hormone receptor loss. PD-L1 testing (both 22C3 and SP142 tests) was negative. Staging with CT and bone scan revealed lytic lesions in the right sixth rib and lumbar spine (L1&#x02013;L2). She received palliative radiotherapy on L1&#x02013;L2 with improvement in pain symptoms, followed by first-line systemic chemotherapy with carboplatin plus gemcitabine. Monthly subcutaneous administration of denosumab was started in September 2024. Assessment of response to chemotherapy performed after 10 weeks showed a progression of cutaneous metastases. Bone disease assessed by TC was stable. In consideration of the presence of HER2-low, the patient was considered for second-line metastatic therapy with T-DXd. The therapeutic choice was made by a multidisciplinary team and discussed with the patient, highlighting the expected benefits and potential toxicities.</p><p>Following the start of second-line treatment with trastuzumab deruxtecan in December 2024, a complete remission of the cutaneous metastases was observed, with stable bone disease after 12 weeks. The response was confirmed at the last follow-up in September 2025. The treatment was overall well tolerated, except for moderate asthenia. No alopecia occurred. Grade 1 nausea and vomiting were experienced during the first few days after treatment. The patient, therefore, continues treatment with T-DXd at full dose with preservation of quality of life.</p><sec><title>Circulating Tumor DNA Profiling</title><p>At relapse in September 2024, next-generation sequencing (NGS) using the FoundationOne<sup>&#x000ae;</sup> Liquid CDx assay identified oncogenic mutations in TP53 and PIK3CA. No RB1 or ESR1 alterations were detected, which are typically associated with reduced efficacy of CDK4/6 inhibitors in the metastatic setting or with acquired resistance to endocrine therapy in HR+/HER2-BC (<xref rid="diagnostics-15-03042-t001" ref-type="table">Table 1</xref>).</p></sec></sec><sec sec-type="discussion" id="sec3-diagnostics-15-03042"><title>3. Discussion</title><p>Metastatic recurrence during adjuvant treatment with CDK4/6 inhibitors is not common. Specifically, in the &#x0201c;monarchE&#x0201d; trial, 9.1% of patients experienced early distant recurrence: 6% within 2 years from treatment initiation (planned treatment period) and an additional 3.1% in the third year. In the &#x0201c;NATALEE&#x0201d; trial, 7.1% of patients experienced distant spreading within the first 3 years of ribociclib treatment, while the exact 4-year relapse rates were not reported in the latest trial update [<xref rid="B18-diagnostics-15-03042" ref-type="bibr">18</xref>]. To date, the characteristics of patients who relapse on adjuvant CDK 4/6i are not well defined. Only one small retrospective study on a real-world population evaluated clinicopathological and treatment-related features of patients relapsing during or after adjuvant abemaciclib and ET. Among 163 patients who received adjuvant abemaciclib (from 2018 to 2024), 15 (9.2%) experienced recurrence. The median age at diagnosis was 48.0 years; two patients had germline (g) BRCA2 mutations, and one patient gCHEK2 mutation. Most patients presented with stage II (33.3%) or stage III (53.3%) disease, and the majority had ductal histology (60.0%) and poorly differentiated tumors (46.7%). Pathological T and N categories were predominantly T2 (53.3%) and N2 (46.7%), respectively. Median duration of treatment was 8.0 months for abemaciclib. The median disease-free interval was 19 months, with all recurrences being distant. The liver (40.0%), bone (26.7%), and lung (13.3%) were the most common recurrence sites. Among the 10 patients with available NGS data from recurrence tissue, nearly all exhibited genomic alterations in the P53 pathway. In particular, in this dataset, Corti et al. detected five TP53 oncogenic mutations, one TP53 homozygous deletion, and three MDM2 high amplifications (copy number &#x0003e; 20). One ESR1 oncogenic mutation and no RB1 oncogenic mutations were identified. Additional alterations included those in the phosphatidylinositol-3 kinase pathway (PI3KCA). It is very interesting to note that 50% of these patients showed estrogen receptor loss (ER loss) at recurrence, and the median first-line metastatic treatment lasted 3 months [<xref rid="B19-diagnostics-15-03042" ref-type="bibr">19</xref>].</p><p>Prior to the implementation of CDK4/6 inhibitors in the adjuvant setting, ER loss at metastatic relapse was reported in up to 20&#x02013;30% of luminal-like primary breast tumors [<xref rid="B20-diagnostics-15-03042" ref-type="bibr">20</xref>]. The biopsy of the metastatic site at recurrence, if feasible, is crucial since loss of ER at relapse is not uncommon. The current guidelines recommend offering to perform a biopsy of a metastatic lesion to evaluate receptor status. The choice of systemic therapy in metastatic disease is often based on the receptor status of the primary lesion. As therapeutic decision making is guided by subtype, biopsy of the metastatic lesion to determine receptor status may alter treatment. In the future, maybe the use of 16a-[18F]-fluoro-17b-estradiol (FES) PET/CT could likely be helpful in cases of recurrence in poorly accessible sites. 16&#x003b1;-[18F]-fluoro-17&#x003b2;-estradiol (FES) PET/CT can accurately identify tumor lesions expressing ER and can also predict endocrine therapy (ET) responsiveness in patients with advanced HR+ breast cancer. Since the loss of ER and/or PgR expression in recurrent HR+ disease may arise from clonal selection of biologically heterogeneous primary or metastatic tumor cell populations under the selective pressure of reduced extracellular estrogen levels or pharmacologic inhibition of the ER pathway, repeating FES PET/CT scans during the course of ET may help guide therapeutic decision making [<xref rid="B21-diagnostics-15-03042" ref-type="bibr">21</xref>,<xref rid="B22-diagnostics-15-03042" ref-type="bibr">22</xref>,<xref rid="B23-diagnostics-15-03042" ref-type="bibr">23</xref>,<xref rid="B24-diagnostics-15-03042" ref-type="bibr">24</xref>]. Among the mechanisms responsible for primary or acquired resistance to endocrine therapies is the loss of estrogen and/or progesterone receptor expression, which may render breast cancer cells independent of estrogen stimulation and, consequently, resistant to estrogen deprivation or pharmacological inhibition of estrogen receptors. However, the underlying molecular mechanisms remain unclear. In fact, while several studies have characterized the genomic mechanisms of HR+ BC cell resistance to ETs and their clinical consequences, the molecular mechanisms underlying HR conversion from HR+ to HR-negative (HR) status, as well as their impact on patient prognosis and on the choice of therapeutic strategies, remain much less explored. One major limitation of the molecular studies assessing HR status conversion is the fact that this phenomenon can occur in different phases of BC progression and, as a consequence, it could be driven by different mechanisms.</p><p>Specifically, it remains uncertain whether HR status conversion arises spontaneously, results from the selective pressure imposed by estrogen deprivation within the bloodstream or tumor microenvironment, or represents an adaptive mechanism triggered by specific pharmacological agents [<xref rid="B25-diagnostics-15-03042" ref-type="bibr">25</xref>]. Dieci et al. were the first to demonstrate that phenotypic discordance between primary breast cancer and recurrence has a measurable impact on overall survival; among discordant cases, loss of receptor expression was the main factor associated with poorer outcomes [<xref rid="B26-diagnostics-15-03042" ref-type="bibr">26</xref>]. Subsequently, a retrospective analysis of 459 patients with paired primary and recurrent tumor samples revealed that individuals whose tumors converted from HR+ to HR&#x02212; exhibited a 48% higher risk of death compared with patients whose tumors maintained a stable HR+ status [<xref rid="B27-diagnostics-15-03042" ref-type="bibr">27</xref>]. Although not rare, the clinical presentation, biological behavior, and prognostic implications of these tumors remain poorly characterized. This gap in knowledge is clinically significant, as ER loss is common, yet the most appropriate therapeutic approach for such cases has not been established. Beyond discordance in ER, PR, and HER2 expression by immunohistochemistry, multiple next-generation sequencing (NGS) studies have also documented frequent shifts in intrinsic molecular subtypes in breast cancer [<xref rid="B28-diagnostics-15-03042" ref-type="bibr">28</xref>,<xref rid="B29-diagnostics-15-03042" ref-type="bibr">29</xref>,<xref rid="B30-diagnostics-15-03042" ref-type="bibr">30</xref>,<xref rid="B31-diagnostics-15-03042" ref-type="bibr">31</xref>,<xref rid="B32-diagnostics-15-03042" ref-type="bibr">32</xref>]. Intrinsic molecular subtyping is typically assigned using the PAM50 gene expression-based classifier on RNA sequencing data from breast tumors [<xref rid="B33-diagnostics-15-03042" ref-type="bibr">33</xref>,<xref rid="B34-diagnostics-15-03042" ref-type="bibr">34</xref>]. The intrinsic molecular subtypes are Luminal A, Luminal B, HER2-enriched (HER2-E), basal-like, and normal-like. Some studies have reported that the clinical subtype by IHC does not completely overlap with the intrinsic molecular subtype by NGS, indicating that subtype switching may be more frequent than if only reporting on receptor discordance by IHC [<xref rid="B35-diagnostics-15-03042" ref-type="bibr">35</xref>]. Zhan et al. recently characterized clinical and pathologic features of a subset of ER+/HER2&#x02212; breast cancer patients who converted to a triple-negative phenotype upon recurrence, and investigated the molecular alterations associated with HR loss during BC progression. Patients were categorized into two groups based on receptor status at local or distant recurrence: concordant ER+/HER2&#x02212; tumors (<italic toggle="yes">n</italic> = 92) and discordant triple-negative breast cancer (TNBC, <italic toggle="yes">n</italic> = 20). A comparison of the clinicopathologic features of primary tumors revealed similarities in histologic type and grade between the two cohorts. No significant difference in TIL levels was observed between the two groups, suggesting that the immune microenvironment remains relatively stable despite biomarker switching to TNBC at recurrence. All tumor specimens underwent targeted next-generation sequencing (NGS). Discordant TNBC tumors were characterized by a higher prevalence of PTEN mutations (30% vs. 5.5%, <italic toggle="yes">p</italic> = 0.007) compared to concordant ER+/HER2&#x02212; tumors. These mutations were primarily deleterious, resulting in loss of tumor-suppressor function. In this study authors showed that PTEN inactivating mutations were relatively frequently associated with HR loss in the HR+/HER2&#x02212; breast cancer recurrence setting, and HR loss demonstrated a stepwise pattern.</p><p>Increased signaling via the PI3K/AKT/PTEN pathway may be a mechanism for the transition to hormone independence in recurrent disease [<xref rid="B36-diagnostics-15-03042" ref-type="bibr">36</xref>]. Morganti et al. compared clinicopathological characteristics and clinical outcomes between a cohort of 51 patients with primary ER+/HER2&#x02212; and paired triple-negative metastasis and two control cohorts of paired early-metastatic ER+/HER2&#x02212; and triple-negative breast cancers and observed intermediate clinicopathological features and outcomes compared with tumors without receptor conversion at metastatic relapse [<xref rid="B37-diagnostics-15-03042" ref-type="bibr">37</xref>]. Genomic studies showed that the mutational profile of luminal-like and TNBC metastases is largely distinct. Interestingly, PI3KCA alterations, which are frequent among ER-positive tumors, are also reported in ~9% of TNBC. Since up to 40% of androgen receptor (AR)-positive TNBC display activating alterations of the PI3K/AKT pathway [<xref rid="B37-diagnostics-15-03042" ref-type="bibr">37</xref>,<xref rid="B38-diagnostics-15-03042" ref-type="bibr">38</xref>,<xref rid="B39-diagnostics-15-03042" ref-type="bibr">39</xref>], these findings may suggest that at least a subset of secondary TNBC are luminal and that ER-loss does not necessarily correspond to a subtype switch [<xref rid="B36-diagnostics-15-03042" ref-type="bibr">36</xref>,<xref rid="B40-diagnostics-15-03042" ref-type="bibr">40</xref>]. The PI3K/AKT/PTEN pathway is among the most altered signaling pathways in diverse cancer types. Common alterations include activating mutations and/or amplification of PIK3CA, loss of PTEN, and mutation and/or amplification of AKT. Somatic PTEN mutations are identified in 5&#x02013;10% of breast cancers, and the majority of PTEN gene mutations occur in advanced and metastatic breast cancer [<xref rid="B39-diagnostics-15-03042" ref-type="bibr">39</xref>,<xref rid="B41-diagnostics-15-03042" ref-type="bibr">41</xref>,<xref rid="B42-diagnostics-15-03042" ref-type="bibr">42</xref>]. Loss or reduced PTEN expression is observed in 30&#x02013;40% of breast cancers and is associated with poor prognosis in breast cancer, particularly in the ER+/HER2&#x02212; subtype [<xref rid="B43-diagnostics-15-03042" ref-type="bibr">43</xref>,<xref rid="B44-diagnostics-15-03042" ref-type="bibr">44</xref>]. Conversely, high expression of PTEN has been associated with improved response to tamoxifen treatment [<xref rid="B45-diagnostics-15-03042" ref-type="bibr">45</xref>]. PTEN alteration has also been implicated in resistance to endocrine therapy and CDK4/6 and PI3K&#x003b1; inhibitors [<xref rid="B46-diagnostics-15-03042" ref-type="bibr">46</xref>,<xref rid="B47-diagnostics-15-03042" ref-type="bibr">47</xref>]. Understanding the role of PTEN and its alterations in breast cancer is crucial for developing effective treatment strategies and improving patient outcomes. In our clinical case, the presence of a PIK3CA mutation represents, on one hand, a negative prognostic factor as it is associated with endocrine resistance, and on the other hand, a therapeutic target for PI3K pathway inhibitors in case the patient had not lost hormone receptors at disease recurrence. After HR loss, tumors are treated as ab initio triple-negative breast cancers; however, few studies have described the clinicopathologic features and outcomes of these tumors. Validation of findings on larger cohorts is warranted, and correlative analyses addressing the biology underpinning HR loss are of utmost importance as they could allow for fine-tuning treatments in the early setting, thus avoiding some relapses. Fortunately, not only has the landscape of adjuvant treatment been enriched with new drugs, but so has the metastatic setting, particularly with the introduction of antibody&#x02013;drug conjugates (ADCs). Among ADCs, trastuzumab-deruxtecan, in the Destiny B-04 trial, significantly improved overall survival (OS) and progression-free survival compared with treatment of the physician&#x02019;s choice of chemotherapy (TPC) for patients with human epidermal growth factor receptor 2-low (HER2-low) (immunohistochemistry (IHC) 1+ or IHC 2+/in situ hybridization-negative) metastatic breast cancer who had received at least one line of chemotherapy for advanced disease. Median OS also favored T-DXd in exploratory analyses of hormone receptor-negative [<xref rid="B48-diagnostics-15-03042" ref-type="bibr">48</xref>]. Another ADC, Sacituzumab govitecan (SG), a first-in-class anti-trophoblast cell surface antigen 2 (Trop-2) antibody&#x02013;drug conjugate, demonstrated superior efficacy over single-agent chemotherapy in patients with metastatic triple-negative breast cancer (mTNBC) who have received two or more prior systemic therapies, including at least one of them for advanced disease, in the phase III ASCENT study. Notably, about 30% of the patients were not triple-negative at initial diagnosis, and this discordance between primary tumor staining and metastatic recurrence underscores the importance of obtaining biopsy samples at the time of recurrence, as in our patient. Chemotherapy remains the mainstay of treatment in first-line mTNBC patients who are not candidates for PD-1/PD-L1 inhibitors. However, chemotherapy is associated with low response rates and short progression-free survival, with an overall ~50% of patients do not receive treatment beyond the first-line setting, demonstrating a need for additional effective earlier-line treatment options. In ASCENT-03, SG demonstrated statistically significant and clinically meaningful improvement in PFS compared with treatment of the physician&#x02019;s choice in patients with first-line metastatic triple-negative breast cancer who are not candidates for checkpoint inhibitors [<xref rid="B49-diagnostics-15-03042" ref-type="bibr">49</xref>]. Finally, Datopotamab-deruxtecan, a TROP2-directed ADC, showed a statistically significant and clinically meaningful improvement in OS compared to chemotherapy as first-line treatment for patients with locally recurrent inoperable or metastatic TNBC who are not eligible for immunotherapy, in the phase III TROPION-Breast02 trial. For the first time, a therapy has demonstrated a significant overall survival benefit over standard chemotherapy in patients who are not candidates for immunotherapy [<xref rid="B50-diagnostics-15-03042" ref-type="bibr">50</xref>]. The results also demonstrated a substantial benefit in progression-free survival (PFS), marking a major advance for this aggressive subtype of breast cancer, where therapeutic options remain limited, and outcomes are poor. Despite recent treatment advances, estrogen receptor-positive (ER+) and HER2-negative (HER2&#x02212;) advanced breast cancer (aBC) remains a heterogeneous disease with significant unmet need, particularly in patients relapsing early on treatment or shortly after completing adjuvant ET + CDK4/6i. For patients who remain luminal, although clear evidence is lacking, patients relapsing on or after adjuvant CDK4/6i may retain some degree of endocrine sensitivity. Therefore, continuing CDK4/6 inhibition beyond recurrence should not be ruled out, while CT and ADCs could be reserved for patients experiencing early relapse on the adjuvant combination. It is reasonable to assume that treatment decisions may be guided by multiple factors, including disease burden at recurrence, the duration of prior adjuvant CDK4/6i plus ET, and/or the disease-free interval [<xref rid="B51-diagnostics-15-03042" ref-type="bibr">51</xref>]. However, advanced breast cancer remains almost incurable despite significant progress in understanding the disease and increasing availability of different systemic treatment options; eventually, most patients with metastatic breast cancer develop endocrine resistance and progressive disease. Overcoming resistance to endocrine therapy in breast cancer is a major challenge, and there is still an unmet need for safe and efficacious treatment options. Several mechanisms may be responsible for developing endocrine resistance; both PI3K/AKT/mTOR and CDK4/6 are downstream checkpoints of multiple signaling pathways regulating cell growth and survival, and have been demonstrated as relevant targets for new treatment modalities [<xref rid="B52-diagnostics-15-03042" ref-type="bibr">52</xref>,<xref rid="B53-diagnostics-15-03042" ref-type="bibr">53</xref>]. A combination of estrogen receptor (ER) signaling pathway blockades with either PI3K/AKT/mTOR or CDK4/6 inhibition (cell cycle arrest induction) demonstrated significant clinical benefit, as measured by progression-free survival (PFS) in patients with HR+/HER2&#x02212; advanced and/or metastatic breast cancer [<xref rid="B54-diagnostics-15-03042" ref-type="bibr">54</xref>,<xref rid="B55-diagnostics-15-03042" ref-type="bibr">55</xref>,<xref rid="B56-diagnostics-15-03042" ref-type="bibr">56</xref>]. New potential therapeutic strategies may emerge from ongoing randomized trials, such as PIONERA or CAPItello-292, which are enrolling patients who have relapsed during adjuvant endocrine therapy or within 12 months of its completion, including patients who previously received adjuvant CDK4/6 inhibitors and relapsed at least 12 months after completing treatment. PIONERA will evaluate the efficacy and safety of giredestrant (oral SERD) compared with fulvestrant, both combined with the investigator&#x02019;s choice of CDK4/6i in participants with ER+ and HER2&#x02212; aBC who have developed resistance to adjuvant ET. Meanwhile, CAPItello-292 aims to evaluate the efficacy and safety of the added benefit of capivasertib (AKT inhibitor) combined with CDK4/6i and fulvestrant in participants with locally advanced (inoperable) or metastatic HR+/HER2&#x02212; breast cancer patients who have relapsed during adjuvant endocrine therapy.</p></sec><sec sec-type="conclusions" id="sec4-diagnostics-15-03042"><title>4. Conclusions</title><p>The management of mBC relapse during adjuvant CDK4/6 inhibitors is a challenge, because no data from randomized clinical trials (RCTs) are available. Patients with metastatic triple-negative breast cancer have poor survival outcomes. Although immunotherapy has shown promising first-line clinical activity, for about 70% of patients whose tumors do not express PD-L1&#x02014;or who cannot receive immunotherapy because of prior exposure, comorbidities, or accessibility issues&#x02014;chemotherapy remains the first-line standard of care [<xref rid="B57-diagnostics-15-03042" ref-type="bibr">57</xref>]. However, chemotherapy is associated with low response rates and short progression-free survival. Therefore, this group has long faced an urgent need for new, effective options. Given the limited benefit achieved with first-line chemotherapy, ADCs likely represent the best first-line therapy, especially in light of the recent ADC trial efficacy results. Finally, the genomic landscape of relapsed BC following or during adjuvant therapy with CDK4/6i may differ significantly, potentially influencing both treatment choices and sequencing. Patients who remain luminal could allow the use of endocrine-based therapy, while CT and ADCs could be reserved for patients experiencing early relapse on the adjuvant combination. Naturally, our case has limitations; it is a single case with a short follow-up.</p><p>However, it emerges that biopsy at recurrence is crucial, as conversion to triple-negative radically changes the therapeutic algorithm; NGS at recurrence can also be important for identifying potential targets for novel targeted therapies. Finally, our case highlights the excellent efficacy of T-DXd in a poor-prognosis setting, where the response to first-line metastatic chemotherapy had been very limited. Its effectiveness, together with the maintenance of quality of life, was essential for implementing the treatment.</p></sec></body><back><ack><title>Acknowledgments</title><p>The authors have reviewed and edited the output and take full responsibility for the content of this publication.</p></ack><fn-group><fn><p><bold>Disclaimer/Publisher&#x02019;s Note:</bold> The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.</p></fn></fn-group><notes><title>Author Contributions</title><p>Conceptualization, Data curation, Writing&#x02014;original draft, M.V.S.; Writing&#x02014;review and editing, S.P. and M.P.; Writing&#x02014;review and editing, G.R.R.R. and C.C.; Investigation, Writing&#x02014;original draft, L.M.; Data curation, Investigation, S.M. All authors have read and agreed to the published version of the manuscript.</p></notes><notes><title>Institutional Review Board Statement</title><p>Review and approval were waived for this study, as this kind of research was exempt from ethical review by national law (art. 110, D.lgs. n. 196/2003).</p></notes><notes><title>Informed Consent Statement</title><p>Written informed consent has been obtained from the patient to publish this paper.</p></notes><notes notes-type="data-availability"><title>Data Availability Statement</title><p>The original contributions presented in this study are included in the article. Further inquiries can be directed to the corresponding author.</p></notes><notes notes-type="COI-statement"><title>Conflicts of Interest</title><p>Dr. San&#x000f2; has received advisory board or speaker bureau honoraria from Novartis, AstraZeneca, Daiichi Sankyo, Eli Lilly, Pfizer, and Istituto Gentili. Dr. Pafumi, Dr. Puleo, Dr. Marletta, and Marino declare no conflicts of interest. Dr. Ricciardi has received advisory board or speaker bureau honoraria from Novartis, AstraZeneca, Daiichi Sankyo, Eisai, Eli Lilly, GSK, Gilead, Pfizer, and Istituto Gentili.</p></notes><glossary><title>Abbreviations</title><p>The following abbreviations are used in this manuscript:
+<array><tbody><tr><td align="left" valign="middle" rowspan="1" colspan="1">ET</td><td align="left" valign="middle" rowspan="1" colspan="1">Endocrine therapy</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">eBC</td><td align="left" valign="middle" rowspan="1" colspan="1">Early breast cancer</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">mBC</td><td align="left" valign="middle" rowspan="1" colspan="1">Metastatic breast cancer</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">CDK4/6i</td><td align="left" valign="middle" rowspan="1" colspan="1">Cyclin-Dependent Kinase 4 and 6 inhibitors</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">CT</td><td align="left" valign="middle" rowspan="1" colspan="1">Computer tomography</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">ER</td><td align="left" valign="middle" rowspan="1" colspan="1">Estrogenic receptor</td></tr></tbody></array></p></glossary><ref-list><title>References</title><ref id="B1-diagnostics-15-03042"><label>1.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Howlader</surname><given-names>N.</given-names></name>
+<name><surname>Altekruse</surname><given-names>S.F.</given-names></name>
+<name><surname>Li</surname><given-names>C.I.</given-names></name>
+<name><surname>Chen</surname><given-names>V.W.</given-names></name>
+<name><surname>Clarke</surname><given-names>C.A.</given-names></name>
+<name><surname>Ries</surname><given-names>L.A.</given-names></name>
+<name><surname>Cronin</surname><given-names>K.A.</given-names></name>
+</person-group><article-title>US incidence of breast cancer subtypes defined by joint hormone receptor and HER2 status</article-title><source>J. Natl. Cancer Inst.</source><year>2014</year><volume>106</volume><fpage>dju055</fpage><pub-id pub-id-type="doi">10.1093/jnci/dju055</pub-id><pub-id pub-id-type="pmid">24777111</pub-id>
+</element-citation></ref><ref id="B2-diagnostics-15-03042"><label>2.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Davies</surname><given-names>C.</given-names></name>
+<name><surname>Godwin</surname><given-names>J.</given-names></name>
+<name><surname>Gray</surname><given-names>R.</given-names></name>
+<name><surname>Clarke</surname><given-names>M.</given-names></name>
+<name><surname>Darby</surname><given-names>S.</given-names></name>
+<name><surname>McGale</surname><given-names>P.</given-names></name>
+<name><surname>Wang</surname><given-names>Y.C.</given-names></name>
+<name><surname>Peto</surname><given-names>R.</given-names></name>
+<name><surname>Pan</surname><given-names>H.C.</given-names></name>
+<name><surname>Cutter</surname><given-names>D.</given-names></name>
+<etal/>
+</person-group><article-title>Relevance of breast cancer hormone receptors and other factors to the efficacy of adjuvant tamoxifen: Patient-level meta-analysis of randomised trials</article-title><source>Lancet</source><year>2011</year><volume>378</volume><fpage>771</fpage><lpage>784</lpage><pub-id pub-id-type="doi">10.1016/S0140-6736(11)60993-8</pub-id><pub-id pub-id-type="pmid">21802721</pub-id>
+</element-citation></ref><ref id="B3-diagnostics-15-03042"><label>3.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pan</surname><given-names>H.</given-names></name>
+<name><surname>Gray</surname><given-names>R.</given-names></name>
+<name><surname>Braybrooke</surname><given-names>J.</given-names></name>
+<name><surname>Davies</surname><given-names>C.</given-names></name>
+<name><surname>Taylor</surname><given-names>C.</given-names></name>
+<name><surname>McGale</surname><given-names>P.</given-names></name>
+<name><surname>Peto</surname><given-names>R.</given-names></name>
+<name><surname>Pritchard</surname><given-names>K.I.</given-names></name>
+<name><surname>Bergh</surname><given-names>J.</given-names></name>
+<name><surname>Dowsett</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group><article-title>20-Year risks of breast-cancer recurrence after stopping endocrine therapy at 5 years</article-title><source>N. Engl. J. Med.</source><year>2017</year><volume>377</volume><fpage>1836</fpage><lpage>1846</lpage><pub-id pub-id-type="doi">10.1056/NEJMoa1701830</pub-id><pub-id pub-id-type="pmid">29117498</pub-id>
+</element-citation></ref><ref id="B4-diagnostics-15-03042"><label>4.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gomis</surname><given-names>R.R.</given-names></name>
+<name><surname>Gawrzak</surname><given-names>S.</given-names></name>
+</person-group><article-title>Tumor cell dormancy</article-title><source>Mol. Oncol.</source><year>2017</year><volume>11</volume><fpage>62</fpage><lpage>78</lpage><pub-id pub-id-type="doi">10.1016/j.molonc.2016.09.009</pub-id><pub-id pub-id-type="pmid">28017284</pub-id>
+</element-citation></ref><ref id="B5-diagnostics-15-03042"><label>5.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pedersen</surname><given-names>R.N.</given-names></name>
+<name><surname>Mellemkj&#x000e6;r</surname><given-names>L.</given-names></name>
+<name><surname>Ejlertsen</surname><given-names>B.</given-names></name>
+<name><surname>N&#x000f8;rgaard</surname><given-names>M.</given-names></name>
+<name><surname>Cronin-Fenton</surname><given-names>D.P.</given-names></name>
+</person-group><article-title>Mortality after late breast cancer recurrence in Denmark</article-title><source>J. Clin. Oncol.</source><year>2022</year><volume>40</volume><fpage>1450</fpage><lpage>1463</lpage><pub-id pub-id-type="doi">10.1200/JCO.21.02062</pub-id><pub-id pub-id-type="pmid">35171656</pub-id>
+</element-citation></ref><ref id="B6-diagnostics-15-03042"><label>6.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Foldi</surname><given-names>J.</given-names></name>
+<name><surname>O&#x02019;Meara</surname><given-names>T.</given-names></name>
+<name><surname>Marczyk</surname><given-names>M.</given-names></name>
+<name><surname>Sanft</surname><given-names>T.</given-names></name>
+<name><surname>Silber</surname><given-names>A.</given-names></name>
+<name><surname>Pusztai</surname><given-names>L.</given-names></name>
+</person-group><article-title>Defining risk of late recurrence in early-stage estrogen receptor-positive breast cancer: Clinical versus molecular tools</article-title><source>J. Clin. Oncol.</source><year>2019</year><volume>37</volume><fpage>1365</fpage><lpage>1369</lpage><pub-id pub-id-type="doi">10.1200/JCO.18.01933</pub-id><pub-id pub-id-type="pmid">30943126</pub-id>
+</element-citation></ref><ref id="B7-diagnostics-15-03042"><label>7.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<collab>Early Breast Cancer Trialists&#x02019; Collaborative Group</collab>
+</person-group><article-title>Reductions in recurrence in women with early breast cancer entering clinical trials between 1990 and 2009: A pooled analysis of 155 746 women in 151 trials</article-title><source>Lancet</source><year>2024</year><volume>404</volume><fpage>1407</fpage><lpage>1418</lpage><pub-id pub-id-type="doi">10.1016/S0140-6736(24)01745-8</pub-id><pub-id pub-id-type="pmid">39396348</pub-id>
+</element-citation></ref><ref id="B8-diagnostics-15-03042"><label>8.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Johnston</surname><given-names>S.R.D.</given-names></name>
+<name><surname>Toi</surname><given-names>M.</given-names></name>
+<name><surname>O&#x02019;Shaughnessy</surname><given-names>J.</given-names></name>
+<name><surname>Rastogi</surname><given-names>P.</given-names></name>
+<name><surname>Campone</surname><given-names>M.</given-names></name>
+<name><surname>Neven</surname><given-names>P.</given-names></name>
+<name><surname>Huang</surname><given-names>C.-S.</given-names></name>
+<name><surname>Huober</surname><given-names>J.</given-names></name>
+<name><surname>Jaliffe</surname><given-names>G.G.</given-names></name>
+<name><surname>Cicin</surname><given-names>I.</given-names></name>
+<etal/>
+</person-group><article-title>Abemaciclib plus endocrine therapy for hormone receptor-positive, HER2-negative, node-positive, high-risk early breast cancer (monarchE): Results from a preplanned interim analysis of a randomised, open-label, phase 3 trial</article-title><source>Lancet Oncol.</source><year>2023</year><volume>24</volume><fpage>77</fpage><lpage>90</lpage><pub-id pub-id-type="doi">10.1016/S1470-2045(22)00694-5</pub-id><pub-id pub-id-type="pmid">36493792</pub-id>
+</element-citation></ref><ref id="B9-diagnostics-15-03042"><label>9.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gnant</surname><given-names>M.</given-names></name>
+<name><surname>Dueck</surname><given-names>A.C.</given-names></name>
+<name><surname>Frantal</surname><given-names>S.</given-names></name>
+<name><surname>Martin</surname><given-names>M.</given-names></name>
+<name><surname>Burstein</surname><given-names>H.J.</given-names></name>
+<name><surname>Greil</surname><given-names>R.</given-names></name>
+<name><surname>Fox</surname><given-names>P.</given-names></name>
+<name><surname>Wolff</surname><given-names>A.C.</given-names></name>
+<name><surname>Chan</surname><given-names>A.</given-names></name>
+<name><surname>Winer</surname><given-names>E.P.</given-names></name>
+<etal/>
+</person-group><article-title>Adjuvant palbociclib for early breast cancer: The PALLAS trial results (ABCSG-42/AFT-05/BIG-14-03)</article-title><source>J. Clin. Oncol.</source><year>2022</year><volume>40</volume><fpage>282</fpage><lpage>293</lpage><pub-id pub-id-type="doi">10.1200/JCO.21.02554</pub-id><pub-id pub-id-type="pmid">34874182</pub-id>
+</element-citation></ref><ref id="B10-diagnostics-15-03042"><label>10.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Slamon</surname><given-names>D.</given-names></name>
+<name><surname>Lipatov</surname><given-names>O.</given-names></name>
+<name><surname>Nowecki</surname><given-names>Z.</given-names></name>
+<name><surname>McAndrew</surname><given-names>N.</given-names></name>
+<name><surname>Kukielka-Budny</surname><given-names>B.</given-names></name>
+<name><surname>Stroyakovskiy</surname><given-names>D.</given-names></name>
+<name><surname>Yardley</surname><given-names>D.A.</given-names></name>
+<name><surname>Huang</surname><given-names>C.-S.</given-names></name>
+<name><surname>Fasching</surname><given-names>P.A.</given-names></name>
+<name><surname>Crown</surname><given-names>J.</given-names></name>
+<etal/>
+</person-group><article-title>Ribociclib plus endocrine therapy in early breast cancer</article-title><source>N. Engl. J. Med.</source><year>2024</year><volume>390</volume><fpage>1080</fpage><lpage>1091</lpage><pub-id pub-id-type="doi">10.1056/NEJMoa2305488</pub-id><pub-id pub-id-type="pmid">38507751</pub-id>
+</element-citation></ref><ref id="B11-diagnostics-15-03042"><label>11.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<collab>Early Breast Cancer Trialists&#x02019; Collaborative Group (EBCTCG)</collab>
+</person-group><article-title>Aromatase inhibitors versus tamoxifen in early breast cancer: Patient-level meta-analysis of the randomised trials</article-title><source>Lancet</source><year>2015</year><volume>386</volume><fpage>1341</fpage><lpage>1352</lpage><pub-id pub-id-type="doi">10.1016/S0140-6736(15)61074-1</pub-id><pub-id pub-id-type="pmid">26211827</pub-id>
+</element-citation></ref><ref id="B12-diagnostics-15-03042"><label>12.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ba&#x0015f;aran</surname><given-names>G.A.</given-names></name>
+<name><surname>Twelves</surname><given-names>C.</given-names></name>
+<name><surname>Di&#x000e9;ras</surname><given-names>V.</given-names></name>
+<name><surname>Cort&#x000e9;s</surname><given-names>J.</given-names></name>
+<name><surname>Awada</surname><given-names>A.</given-names></name>
+</person-group><article-title>Ongoing unmet needs in treating estrogen receptor-positive/HER2-negative metastatic breast cancer</article-title><source>Cancer Treat. Rev.</source><year>2018</year><volume>63</volume><fpage>144</fpage><lpage>155</lpage><pub-id pub-id-type="doi">10.1016/j.ctrv.2017.12.002</pub-id><pub-id pub-id-type="pmid">29329006</pub-id>
+</element-citation></ref><ref id="B13-diagnostics-15-03042"><label>13.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rastogi</surname><given-names>P.</given-names></name>
+<name><surname>O&#x02019;Shaughnessy</surname><given-names>J.</given-names></name>
+<name><surname>Martin</surname><given-names>M.</given-names></name>
+<name><surname>Boyle</surname><given-names>F.</given-names></name>
+<name><surname>Cortes</surname><given-names>J.</given-names></name>
+<name><surname>Rugo</surname><given-names>H.S.</given-names></name>
+<name><surname>Goetz</surname><given-names>M.P.</given-names></name>
+<name><surname>Hamilton</surname><given-names>E.P.</given-names></name>
+<name><surname>Huang</surname><given-names>C.-S.</given-names></name>
+<name><surname>Senkus</surname><given-names>E.</given-names></name>
+<etal/>
+</person-group><article-title>Adjuvant abemaciclib plus endocrine therapy for hormone receptor-positive, human epidermal growth factor receptor 2-negative, high-risk early breast cancer: Results from a preplanned monarchE overall survival interim analysis, including 5-year efficacy outcomes</article-title><source>J. Clin. Oncol.</source><year>2024</year><volume>42</volume><fpage>987</fpage><lpage>993</lpage><pub-id pub-id-type="doi">10.1200/JCO.23.01994</pub-id><pub-id pub-id-type="pmid">38194616</pub-id>
+</element-citation></ref><ref id="B14-diagnostics-15-03042"><label>14.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fasching</surname><given-names>P.A.</given-names></name>
+<name><surname>Stroyakovskiy</surname><given-names>D.</given-names></name>
+<name><surname>Yardley</surname><given-names>D.</given-names></name>
+<name><surname>Huang</surname><given-names>C.-S.</given-names></name>
+<name><surname>Crown</surname><given-names>J.</given-names></name>
+<name><surname>Bardia</surname><given-names>A.</given-names></name>
+<name><surname>Chia</surname><given-names>S.</given-names></name>
+<name><surname>Im</surname><given-names>S.-A.</given-names></name>
+<name><surname>Jimenez</surname><given-names>M.M.</given-names></name>
+<name><surname>Xu</surname><given-names>B.</given-names></name>
+<etal/>
+</person-group><article-title>LBA13 Adjuvant ribociclib (RIB) plus nonsteroidal aromatase inhibitor (NSAI) in patients (Pts) with HR+/HER2 early breast cancer (EBC): 4-year outcomes from the NATALEE trial</article-title><source>Ann. Oncol.</source><year>2024</year><volume>35</volume><fpage>S1207</fpage><pub-id pub-id-type="doi">10.1016/j.annonc.2024.08.2251</pub-id></element-citation></ref><ref id="B15-diagnostics-15-03042"><label>15.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Punie</surname><given-names>K.</given-names></name>
+<name><surname>Kurian</surname><given-names>A.W.</given-names></name>
+<name><surname>Ntalla</surname><given-names>I.</given-names></name>
+<name><surname>Sjekloca</surname><given-names>N.</given-names></name>
+<name><surname>Estrin</surname><given-names>A.</given-names></name>
+<name><surname>Dabrowski</surname><given-names>E.C.</given-names></name>
+<name><surname>Lai</surname><given-names>C.</given-names></name>
+<name><surname>Hurvitz</surname><given-names>S.</given-names></name>
+</person-group><article-title>Unmet Need for Previously Untreated Metastatic Triple-Negative Breast Cancer: A Real-World Study of Patients Diagnosed from 2011 to 2022 in the United States</article-title><source>Oncologist</source><year>2025</year><volume>30</volume><fpage>oyaf034</fpage><pub-id pub-id-type="doi">10.1093/oncolo/oyaf034</pub-id><pub-id pub-id-type="pmid">40163689</pub-id>
+</element-citation></ref><ref id="B16-diagnostics-15-03042"><label>16.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>O&#x02019;Reilly</surname><given-names>D.</given-names></name>
+<name><surname>Al Sendi</surname><given-names>M.</given-names></name>
+<name><surname>Kelly</surname><given-names>C.M.</given-names></name>
+</person-group><article-title>Overview of Recent Advances in Metastatic Triple Negative Breast Cancer</article-title><source>World J. Clin. Oncol.</source><year>2021</year><volume>12</volume><fpage>164</fpage><lpage>182</lpage><pub-id pub-id-type="doi">10.5306/wjco.v12.i3.164</pub-id><pub-id pub-id-type="pmid">33767972</pub-id>
+</element-citation></ref><ref id="B17-diagnostics-15-03042"><label>17.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kalinsky</surname><given-names>K.</given-names></name>
+<name><surname>Bianchini</surname><given-names>G.</given-names></name>
+<name><surname>Hamilton</surname><given-names>E.P.</given-names></name>
+<name><surname>Graff</surname><given-names>S.L.</given-names></name>
+<name><surname>Park</surname><given-names>K.H.</given-names></name>
+<name><surname>Jeselsohn</surname><given-names>R.</given-names></name>
+<name><surname>Demirci</surname><given-names>U.</given-names></name>
+<name><surname>Martin</surname><given-names>M.</given-names></name>
+<name><surname>Layman</surname><given-names>R.M.</given-names></name>
+<name><surname>Hurvitz</surname><given-names>S.A.</given-names></name>
+<etal/>
+</person-group><article-title>Abemaciclib plus fulvestrant vs fulvestrant alone for HR+, HER2- advanced breast cancer following progression on a prior CDK4/6 inhibitor plus endocrine therapy: Primary outcome of the phase 3 postMONARCH trial</article-title><source>J. Clin. Oncol.</source><year>2024</year><volume>42</volume><fpage>LBA1001</fpage><pub-id pub-id-type="doi">10.1200/JCO.2024.42.17_suppl.LBA1001</pub-id></element-citation></ref><ref id="B18-diagnostics-15-03042"><label>18.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gerosa</surname><given-names>R.</given-names></name>
+<name><surname>Gentile</surname><given-names>G.</given-names></name>
+<name><surname>Arecco</surname><given-names>L.</given-names></name>
+<name><surname>Dauccia</surname><given-names>C.</given-names></name>
+<name><surname>Nannini</surname><given-names>S.</given-names></name>
+<name><surname>Lobo-Martins</surname><given-names>S.</given-names></name>
+<name><surname>Agostinetto</surname><given-names>E.</given-names></name>
+<name><surname>Lambertini</surname><given-names>M.</given-names></name>
+<name><surname>Santoro</surname><given-names>A.</given-names></name>
+<name><surname>Aftimos</surname><given-names>P.</given-names></name>
+<etal/>
+</person-group><article-title>Managing relapses during or after adjuvant CDK4/6 inhibitors in HR-positive/HER2-negative early breast cancer: An emerging challenge</article-title><source>ESMO Open</source><year>2025</year><volume>10</volume><fpage>105758</fpage><pub-id pub-id-type="doi">10.1016/j.esmoop.2025.105758</pub-id><pub-id pub-id-type="pmid">40913835</pub-id>
+</element-citation></ref><ref id="B19-diagnostics-15-03042"><label>19.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Corti</surname><given-names>C.</given-names></name>
+<name><surname>Martin</surname><given-names>A.R.</given-names></name>
+<name><surname>Kurnia</surname><given-names>P.T.</given-names></name>
+<name><surname>Za&#x000f1;udo</surname><given-names>J.G.T.</given-names></name>
+<name><surname>Abravanel</surname><given-names>D.</given-names></name>
+<name><surname>Hughes</surname><given-names>M.</given-names></name>
+<name><surname>Parker</surname><given-names>T.</given-names></name>
+<name><surname>Tarantino</surname><given-names>P.</given-names></name>
+<name><surname>Curigliano</surname><given-names>G.</given-names></name>
+<name><surname>King</surname><given-names>T.</given-names></name>
+<etal/>
+</person-group><article-title>Clinicopathological features and genomics of ER-positive/HER2-negative breast cancer relapsing on adjuvant abemaciclib</article-title><source>ESMO Open</source><year>2025</year><volume>10</volume><fpage>105126</fpage><pub-id pub-id-type="doi">10.1016/j.esmoop.2025.105126</pub-id><pub-id pub-id-type="pmid">40466434</pub-id>
+</element-citation></ref><ref id="B20-diagnostics-15-03042"><label>20.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kuukasjarvi</surname><given-names>T.</given-names></name>
+<name><surname>Kononen</surname><given-names>J.</given-names></name>
+<name><surname>Helin</surname><given-names>H.</given-names></name>
+<name><surname>Holli</surname><given-names>K.</given-names></name>
+<name><surname>Isola</surname><given-names>J.</given-names></name>
+</person-group><article-title>Loss of estrogen receptor in recurrent breast cancer is associated with poor response to endocrine therapy</article-title><source>J. Clin. Oncol.</source><year>1996</year><volume>14</volume><fpage>2584</fpage><lpage>2589</lpage><pub-id pub-id-type="doi">10.1200/JCO.1996.14.9.2584</pub-id><pub-id pub-id-type="pmid">8823339</pub-id>
+</element-citation></ref><ref id="B21-diagnostics-15-03042"><label>21.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Peterson</surname><given-names>L.M.</given-names></name>
+<name><surname>Kurland</surname><given-names>B.F.</given-names></name>
+<name><surname>Schubert</surname><given-names>E.K.</given-names></name>
+<name><surname>Link</surname><given-names>J.M.</given-names></name>
+<name><surname>Gadi</surname><given-names>V.K.</given-names></name>
+<name><surname>Specht</surname><given-names>J.M.</given-names></name>
+<name><surname>Eary</surname><given-names>J.F.</given-names></name>
+<name><surname>Porter</surname><given-names>P.</given-names></name>
+<name><surname>Shankar</surname><given-names>L.K.</given-names></name>
+<name><surname>Mankoff</surname><given-names>D.A.</given-names></name>
+<etal/>
+</person-group><article-title>A phase 2 study of 16&#x003b1;-[18F]-fluoro-17&#x003b2;-estradiol positron emission tomography (FES-PET) as a marker of hormone sensitivity in metastatic breast cancer (MBC) Mol</article-title><source>Imaging Biol.</source><year>2014</year><volume>16</volume><fpage>431</fpage><lpage>440</lpage><pub-id pub-id-type="doi">10.1007/s11307-013-0699-7</pub-id></element-citation></ref><ref id="B22-diagnostics-15-03042"><label>22.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y.</given-names></name>
+<name><surname>Ayres</surname><given-names>K.L.</given-names></name>
+<name><surname>Goldman</surname><given-names>D.A.</given-names></name>
+<name><surname>Dickler</surname><given-names>M.N.</given-names></name>
+<name><surname>Bardia</surname><given-names>A.</given-names></name>
+<name><surname>Mayer</surname><given-names>I.A.</given-names></name>
+<name><surname>Winer</surname><given-names>E.</given-names></name>
+<name><surname>Fredrickson</surname><given-names>J.</given-names></name>
+<name><surname>Arteaga</surname><given-names>C.L.</given-names></name>
+<name><surname>Baselga</surname><given-names>J.</given-names></name>
+<etal/>
+</person-group><article-title>18F-fluoroestradiol PET/CT measurement of estrogen receptor suppression during a phase I trial of the novel estrogen receptor-targeted therapeutic GDC-0810: Using an imaging biomarker to guide drug dosage in subsequent trials</article-title><source>Clin. Cancer Res.</source><year>2017</year><volume>23</volume><fpage>3053</fpage><lpage>3060</lpage><pub-id pub-id-type="doi">10.1158/1078-0432.CCR-16-2197</pub-id><pub-id pub-id-type="pmid">28011460</pub-id>
+</element-citation></ref><ref id="B23-diagnostics-15-03042"><label>23.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mortimer</surname><given-names>J.E.</given-names></name>
+<name><surname>Dehdashti</surname><given-names>F.</given-names></name>
+<name><surname>Siegel</surname><given-names>B.A.</given-names></name>
+<name><surname>Trinkaus</surname><given-names>K.</given-names></name>
+<name><surname>Katzenellenbogen</surname><given-names>J.A.</given-names></name>
+<name><surname>Welch</surname><given-names>M.J.</given-names></name>
+</person-group><article-title>Metabolic Flare: Indicator of Hormone Responsiveness in Advanced Breast Cancer</article-title><source>J. Clin. Oncol.</source><year>2001</year><volume>19</volume><fpage>2797</fpage><lpage>2803</lpage><pub-id pub-id-type="doi">10.1200/JCO.2001.19.11.2797</pub-id><pub-id pub-id-type="pmid">11387350</pub-id>
+</element-citation></ref><ref id="B24-diagnostics-15-03042"><label>24.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Linden</surname><given-names>H.M.</given-names></name>
+<name><surname>Stekhova</surname><given-names>S.A.</given-names></name>
+<name><surname>Link</surname><given-names>J.M.</given-names></name>
+<name><surname>Gralow</surname><given-names>J.R.</given-names></name>
+<name><surname>Livingston</surname><given-names>R.B.</given-names></name>
+<name><surname>Ellis</surname><given-names>G.K.</given-names></name>
+<name><surname>Petra</surname><given-names>P.H.</given-names></name>
+<name><surname>Peterson</surname><given-names>L.M.</given-names></name>
+<name><surname>Schubert</surname><given-names>E.K.</given-names></name>
+<name><surname>Dunnwald</surname><given-names>L.K.</given-names></name>
+<etal/>
+</person-group><article-title>Quantitative fluoroestradiol positron emission tomography imaging predicts response to endocrine treatment in breast cancer</article-title><source>J. Clin. Oncol.</source><year>2006</year><volume>24</volume><fpage>2793</fpage><lpage>2799</lpage><pub-id pub-id-type="doi">10.1200/JCO.2005.04.3810</pub-id><pub-id pub-id-type="pmid">16682724</pub-id>
+</element-citation></ref><ref id="B25-diagnostics-15-03042"><label>25.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zattarin</surname><given-names>E.</given-names></name>
+<name><surname>Leporati</surname><given-names>R.</given-names></name>
+<name><surname>Ligorio</surname><given-names>F.</given-names></name>
+<name><surname>Lobefaro</surname><given-names>R.</given-names></name>
+<name><surname>Vingiani</surname><given-names>A.</given-names></name>
+<name><surname>Pruneri</surname><given-names>G.</given-names></name>
+<name><surname>Vernieri</surname><given-names>C.</given-names></name>
+</person-group><article-title>Hormone Receptor Loss in Breast Cancer: Molecular Mechanisms, Clinical Settings, and Therapeutic Implications</article-title><source>Cells</source><year>2020</year><volume>9</volume><elocation-id>2644</elocation-id><!--<pub-id pub-id-type="pmcid">PMC7764472</pub-id>--><pub-id pub-id-type="doi">10.3390/cells9122644</pub-id><pub-id pub-id-type="pmid">33316954</pub-id>
+</element-citation></ref><ref id="B26-diagnostics-15-03042"><label>26.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dieci</surname><given-names>M.V.</given-names></name>
+<name><surname>Barbieri</surname><given-names>E.</given-names></name>
+<name><surname>Piacentini</surname><given-names>F.</given-names></name>
+<name><surname>Ficarra</surname><given-names>G.</given-names></name>
+<name><surname>Bettelli</surname><given-names>S.</given-names></name>
+<name><surname>Dominici</surname><given-names>M.</given-names></name>
+<name><surname>Conte</surname><given-names>P.F.</given-names></name>
+<name><surname>Guarneri</surname><given-names>V.</given-names></name>
+</person-group><article-title>Discordance in receptor status between primary and recurrent breast cancer has a prognostic impact: A single-institution analysis</article-title><source>Ann Oncol.</source><year>2013</year><volume>24</volume><fpage>101</fpage><lpage>108</lpage><pub-id pub-id-type="doi">10.1093/annonc/mds248</pub-id><pub-id pub-id-type="pmid">23002281</pub-id>
+</element-citation></ref><ref id="B27-diagnostics-15-03042"><label>27.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lindstrom</surname><given-names>L.S.</given-names></name>
+<name><surname>Karlsson</surname><given-names>E.</given-names></name>
+<name><surname>Wilking</surname><given-names>U.M.</given-names></name>
+<name><surname>Johansson</surname><given-names>U.</given-names></name>
+<name><surname>Hartman</surname><given-names>J.</given-names></name>
+<name><surname>Lidbrink</surname><given-names>E.K.</given-names></name>
+<name><surname>Hatschek</surname><given-names>T.</given-names></name>
+<name><surname>Skoog</surname><given-names>L.</given-names></name>
+<name><surname>Bergh</surname><given-names>J.</given-names></name>
+<name><surname>Lindstr&#x000f6;m</surname><given-names>L.S.</given-names></name>
+<etal/>
+</person-group><article-title>Clinically used breast cancer markers such as estrogen receptor, progesterone receptor, and human epidermal growth factor receptor 2 are unstable throughout tumor progression</article-title><source>J. Clin. Oncol.</source><year>2012</year><volume>30</volume><fpage>2601</fpage><lpage>2608</lpage><pub-id pub-id-type="doi">10.1200/JCO.2011.37.2482</pub-id><pub-id pub-id-type="pmid">22711854</pub-id>
+</element-citation></ref><ref id="B28-diagnostics-15-03042"><label>28.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Schrijver</surname><given-names>W.A.M.E.</given-names></name>
+<name><surname>Suijkerbuijk</surname><given-names>K.P.M.</given-names></name>
+<name><surname>van Gils</surname><given-names>C.H.</given-names></name>
+<name><surname>van der Wall</surname><given-names>E.</given-names></name>
+<name><surname>Moelans</surname><given-names>C.B.</given-names></name>
+<name><surname>van Diest</surname><given-names>P.J.</given-names></name>
+</person-group><article-title>Receptor Conversion in Distant Breast Cancer Metastases: A Systematic Review and Meta-analysis</article-title><source>J. Natl. Cancer Inst.</source><year>2018</year><volume>110</volume><fpage>568</fpage><lpage>580</lpage><pub-id pub-id-type="doi">10.1093/jnci/djx273</pub-id><pub-id pub-id-type="pmid">29315431</pub-id>
+</element-citation></ref><ref id="B29-diagnostics-15-03042"><label>29.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rose</surname><given-names>D.P.</given-names></name>
+</person-group><article-title>Effects of Adjuvant Chemohormonal Therapy on the Ovarian and Adrenal Function of Breast Cancer Patients</article-title><source>Cancer Res.</source><year>1980</year><volume>40</volume><fpage>4043</fpage><lpage>4047</lpage><pub-id pub-id-type="pmid">6451282</pub-id>
+</element-citation></ref><ref id="B30-diagnostics-15-03042"><label>30.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Galli</surname><given-names>G.</given-names></name>
+<name><surname>Bregni</surname><given-names>G.</given-names></name>
+<name><surname>Cavalieri</surname><given-names>S.</given-names></name>
+<name><surname>Porcu</surname><given-names>L.</given-names></name>
+<name><surname>Baili</surname><given-names>P.</given-names></name>
+<name><surname>Hade</surname><given-names>A.</given-names></name>
+<name><surname>Di Salvo</surname><given-names>F.</given-names></name>
+<name><surname>Sant</surname><given-names>M.</given-names></name>
+<name><surname>Agresti</surname><given-names>R.</given-names></name>
+<name><surname>Gennaro</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group><article-title>Neoadjuvant Chemotherapy Exerts Selection Pressure Towards Luminal Phenotype Breast Cancer</article-title><source>Breast Care</source><year>2017</year><volume>12</volume><fpage>391</fpage><lpage>394</lpage><pub-id pub-id-type="doi">10.1159/000479582</pub-id><pub-id pub-id-type="pmid">29456471</pub-id>
+</element-citation></ref><ref id="B31-diagnostics-15-03042"><label>31.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>W.</given-names></name>
+<name><surname>Peng</surname><given-names>Y.</given-names></name>
+<name><surname>Kiselar</surname><given-names>J.</given-names></name>
+<name><surname>Zhao</surname><given-names>X.</given-names></name>
+<name><surname>Albaqami</surname><given-names>A.</given-names></name>
+<name><surname>Mendez</surname><given-names>D.</given-names></name>
+<name><surname>Chen</surname><given-names>Y.</given-names></name>
+<name><surname>Chakravarthy</surname><given-names>S.</given-names></name>
+<name><surname>Gupta</surname><given-names>S.</given-names></name>
+<name><surname>Ralston</surname><given-names>C.</given-names></name>
+<etal/>
+</person-group><article-title>Multidomain architecture of estrogen receptor reveals interfacial cross-talk between its DNA-binding and ligand-binding domains</article-title><source>Nat. Commun.</source><year>2018</year><volume>9</volume><fpage>3520</fpage><pub-id pub-id-type="doi">10.1038/s41467-018-06034-2</pub-id><pub-id pub-id-type="pmid">30166540</pub-id>
+</element-citation></ref><ref id="B32-diagnostics-15-03042"><label>32.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Press</surname><given-names>M.F.</given-names></name>
+<name><surname>Nousek-Goebl</surname><given-names>N.A.</given-names></name>
+<name><surname>Bur</surname><given-names>M.</given-names></name>
+<name><surname>Greene</surname><given-names>G.L.</given-names></name>
+</person-group><article-title>Estrogen receptor localization in the female genital tract</article-title><source>Am. J. Pathol.</source><year>1986</year><volume>123</volume><fpage>280</fpage><lpage>292</lpage><pub-id pub-id-type="doi">10.1097/00006254-198703000-00015</pub-id><pub-id pub-id-type="pmid">2939725</pub-id>
+</element-citation></ref><ref id="B33-diagnostics-15-03042"><label>33.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Press</surname><given-names>M.F.</given-names></name>
+<name><surname>Xu</surname><given-names>S.-H.</given-names></name>
+<name><surname>Wang</surname><given-names>J.-D.</given-names></name>
+<name><surname>Greene</surname><given-names>G.L.</given-names></name>
+</person-group><article-title>Subcellular distribution of estrogen receptor and progesterone receptor with and without specific ligand</article-title><source>Am. J. Pathol.</source><year>1989</year><volume>135</volume><fpage>857</fpage><lpage>864</lpage><pub-id pub-id-type="pmid">2683797</pub-id>
+</element-citation></ref><ref id="B34-diagnostics-15-03042"><label>34.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tecalco-Cruz</surname><given-names>A.C.</given-names></name>
+<name><surname>P&#x000e9;rez-Alvarado</surname><given-names>I.A.</given-names></name>
+<name><surname>Ram&#x000ed;rez-Jarqu&#x000ed;n</surname><given-names>J.O.</given-names></name>
+<name><surname>Rocha-Zavaleta</surname><given-names>L.</given-names></name>
+</person-group><article-title>Nucleo-cytoplasmic transport of estrogen receptor alpha in breast cancer cells</article-title><source>Cell. Signal.</source><year>2017</year><volume>34</volume><fpage>121</fpage><lpage>132</lpage><pub-id pub-id-type="doi">10.1016/j.cellsig.2017.03.011</pub-id><pub-id pub-id-type="pmid">28341599</pub-id>
+</element-citation></ref><ref id="B35-diagnostics-15-03042"><label>35.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dowling</surname><given-names>G.P.</given-names></name>
+<name><surname>Keelan</surname><given-names>S.</given-names></name>
+<name><surname>Cosgrove</surname><given-names>N.S.</given-names></name>
+<name><surname>Daly</surname><given-names>G.R.</given-names></name>
+<name><surname>Giblin</surname><given-names>K.</given-names></name>
+<name><surname>Toomey</surname><given-names>S.</given-names></name>
+<name><surname>Hennessy</surname><given-names>B.T.</given-names></name>
+<name><surname>Hill</surname><given-names>A.D.K.</given-names></name>
+</person-group><article-title>Receptor Discordance in Metastatic Breast Cancer; a review of clinical and genetic subtype alterations from primary to metastatic disease</article-title><source>Breast Cancer Res. Treat.</source><year>2024</year><volume>207</volume><fpage>471</fpage><lpage>476</lpage><!--<pub-id pub-id-type="pmcid">PMC11420314</pub-id>--><pub-id pub-id-type="doi">10.1007/s10549-024-07431-6</pub-id><pub-id pub-id-type="pmid">39090418</pub-id>
+</element-citation></ref><ref id="B36-diagnostics-15-03042"><label>36.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhan</surname><given-names>H.</given-names></name>
+<name><surname>Antony</surname><given-names>V.M.</given-names></name>
+<name><surname>Tang</surname><given-names>H.</given-names></name>
+<name><surname>Theriot</surname><given-names>J.</given-names></name>
+<name><surname>Liang</surname><given-names>Y.</given-names></name>
+<name><surname>Hui</surname><given-names>P.</given-names></name>
+<name><surname>Krishnamurti</surname><given-names>U.</given-names></name>
+<name><surname>DiGiovanna</surname><given-names>M.P.</given-names></name>
+</person-group><article-title>PTEN inactivating mutations are associated with hormone receptor loss during breast cancer recurrence</article-title><source>Breast Cancer Res. Treat.</source><year>2025</year><volume>211</volume><fpage>441</fpage><lpage>447</lpage><pub-id pub-id-type="doi">10.1007/s10549-025-07660-3</pub-id><pub-id pub-id-type="pmid">40063317</pub-id>
+</element-citation></ref><ref id="B37-diagnostics-15-03042"><label>37.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Morganti</surname><given-names>S.</given-names></name>
+<name><surname>Marra</surname><given-names>A.</given-names></name>
+<name><surname>Gandini</surname><given-names>S.</given-names></name>
+<name><surname>Ascione</surname><given-names>L.</given-names></name>
+<name><surname>Ivanova</surname><given-names>M.</given-names></name>
+<name><surname>Venetis</surname><given-names>K.</given-names></name>
+<name><surname>Sajjadi</surname><given-names>E.</given-names></name>
+<name><surname>Zagami</surname><given-names>P.</given-names></name>
+<name><surname>Giugliano</surname><given-names>F.</given-names></name>
+<name><surname>Taurelli Salimbeni</surname><given-names>B.</given-names></name>
+<etal/>
+</person-group><article-title>Clinicopathological features and survival outcomes of luminal-like breast tumors with estrogen receptor loss at metastatic recurrence: A case-control study</article-title><source>Eur. J. Cancer</source><year>2023</year><volume>195</volume><fpage>113397</fpage><pub-id pub-id-type="doi">10.1016/j.ejca.2023.113397</pub-id><pub-id pub-id-type="pmid">37890353</pub-id>
+</element-citation></ref><ref id="B38-diagnostics-15-03042"><label>38.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pascual</surname><given-names>J.</given-names></name>
+<name><surname>Turner</surname><given-names>N.C.</given-names></name>
+</person-group><article-title>Targeting the PI3-kinase pathway in triple-negative breast cancer</article-title><source>Ann. Oncol.</source><year>2019</year><volume>30</volume><fpage>1051</fpage><lpage>1060</lpage><pub-id pub-id-type="doi">10.1093/annonc/mdz133</pub-id><pub-id pub-id-type="pmid">31050709</pub-id>
+</element-citation></ref><ref id="B39-diagnostics-15-03042"><label>39.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<collab>Cancer Genome Atlas Network</collab>
+</person-group><article-title>Comprehensive molecular portraits of human breast tumours</article-title><source>Nature</source><year>2012</year><volume>490</volume><fpage>61</fpage><lpage>70</lpage><pub-id pub-id-type="doi">10.1038/nature11412</pub-id><pub-id pub-id-type="pmid">23000897</pub-id>
+</element-citation></ref><ref id="B40-diagnostics-15-03042"><label>40.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Modi</surname><given-names>S.</given-names></name>
+<name><surname>Jacot</surname><given-names>W.</given-names></name>
+<name><surname>Yamashita</surname><given-names>T.</given-names></name>
+<name><surname>Sohn</surname><given-names>J.</given-names></name>
+<name><surname>Vidal</surname><given-names>M.</given-names></name>
+<name><surname>Tokunaga</surname><given-names>E.</given-names></name>
+<name><surname>Tsurutani</surname><given-names>J.</given-names></name>
+<name><surname>Ueno</surname><given-names>N.T.</given-names></name>
+<name><surname>Chae</surname><given-names>Y.S.</given-names></name>
+<name><surname>Lee</surname><given-names>K.S.</given-names></name>
+<etal/>
+</person-group><article-title>Trastuzumab deruxtecan (T-DXd) versus treatment of physician&#x02019;s choice (TPC) in patients (pts) with HER2-low unresectable and/or metastatic breast cancer (mBC): Results of DESTINY-Breast04, a randomized, phase 3 study</article-title><source>J. Clin. Oncol.</source><year>2022</year><volume>40</volume><fpage>LBA3</fpage><pub-id pub-id-type="doi">10.1200/JCO.2022.40.17_suppl.LBA3</pub-id></element-citation></ref><ref id="B41-diagnostics-15-03042"><label>41.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wander</surname><given-names>S.A.</given-names></name>
+<name><surname>Cohen</surname><given-names>O.</given-names></name>
+<name><surname>Gong</surname><given-names>X.</given-names></name>
+<name><surname>Johnson</surname><given-names>G.N.</given-names></name>
+<name><surname>Buendia-Buendia</surname><given-names>J.E.</given-names></name>
+<name><surname>Lloyd</surname><given-names>M.R.</given-names></name>
+<name><surname>Kim</surname><given-names>D.</given-names></name>
+<name><surname>Luo</surname><given-names>F.</given-names></name>
+<name><surname>Mao</surname><given-names>P.</given-names></name>
+<name><surname>Helvie</surname><given-names>K.</given-names></name>
+<etal/>
+</person-group><article-title>The genomic landscape of intrinsic and acquired resistance to cyclin-dependent kinase 4/6 inhibitors in patients with hormone receptor-positive metastatic breast cancer</article-title><source>Cancer Discov.</source><year>2020</year><volume>10</volume><fpage>1174</fpage><lpage>1193</lpage><pub-id pub-id-type="doi">10.1158/2159-8290.CD-19-1390</pub-id><pub-id pub-id-type="pmid">32404308</pub-id>
+</element-citation></ref><ref id="B42-diagnostics-15-03042"><label>42.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lefebvre</surname><given-names>C.</given-names></name>
+<name><surname>Bachelot</surname><given-names>T.</given-names></name>
+<name><surname>Filleron</surname><given-names>T.</given-names></name>
+<name><surname>Pedrero</surname><given-names>M.</given-names></name>
+<name><surname>Campone</surname><given-names>M.</given-names></name>
+<name><surname>Soria</surname><given-names>J.C.</given-names></name>
+<name><surname>Massard</surname><given-names>C.</given-names></name>
+<name><surname>Levy</surname><given-names>C.</given-names></name>
+<name><surname>Arnedos</surname><given-names>M.</given-names></name>
+<name><surname>Lacroix-Triki</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group><article-title>Mutational profile of metastatic breast cancers: A retrospective analysis</article-title><source>PLoS Med.</source><year>2016</year><volume>13</volume><elocation-id>e1002201</elocation-id><pub-id pub-id-type="doi">10.1371/journal.pmed.1002201</pub-id><pub-id pub-id-type="pmid">28027327</pub-id>
+</element-citation></ref><ref id="B43-diagnostics-15-03042"><label>43.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tsutsui</surname><given-names>S.</given-names></name>
+<name><surname>Inoue</surname><given-names>H.</given-names></name>
+<name><surname>Yasuda</surname><given-names>K.</given-names></name>
+<name><surname>Suzuki</surname><given-names>K.</given-names></name>
+<name><surname>Higashi</surname><given-names>H.</given-names></name>
+<name><surname>Era</surname><given-names>S.</given-names></name>
+<name><surname>Mori</surname><given-names>M.</given-names></name>
+</person-group><article-title>Reduced expression of PTEN protein and its prognostic implications in invasive ductal carcinoma of the breast</article-title><source>Oncology</source><year>2005</year><volume>68</volume><fpage>398</fpage><lpage>404</lpage><pub-id pub-id-type="doi">10.1159/000086981</pub-id><pub-id pub-id-type="pmid">16020969</pub-id>
+</element-citation></ref><ref id="B44-diagnostics-15-03042"><label>44.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shoman</surname><given-names>N.</given-names></name>
+<name><surname>Klassen</surname><given-names>S.</given-names></name>
+<name><surname>McFadden</surname><given-names>A.</given-names></name>
+<name><surname>Bickis</surname><given-names>M.G.</given-names></name>
+<name><surname>Torlakovic</surname><given-names>E.</given-names></name>
+<name><surname>Chibbar</surname><given-names>R.</given-names></name>
+</person-group><article-title>Reduced PTEN expression predicts relapse in patients with breast carcinoma treated by tamoxifen</article-title><source>Mod. Pathol.</source><year>2005</year><volume>18</volume><fpage>250</fpage><lpage>259</lpage><pub-id pub-id-type="doi">10.1038/modpathol.3800296</pub-id><pub-id pub-id-type="pmid">15475931</pub-id>
+</element-citation></ref><ref id="B45-diagnostics-15-03042"><label>45.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Campbell</surname><given-names>R.A.</given-names></name>
+<name><surname>Bhat-Nakshatri</surname><given-names>P.</given-names></name>
+<name><surname>Patel</surname><given-names>N.M.</given-names></name>
+<name><surname>Constantinidou</surname><given-names>D.</given-names></name>
+<name><surname>Ali</surname><given-names>S.</given-names></name>
+<name><surname>Nakshatri</surname><given-names>H.</given-names></name>
+</person-group><article-title>Phosphatidylinositol 3-kinase/AKT mediated activation of estrogen receptor alpha: A new model for anti-estrogen resistance</article-title><source>J. Biol. Chem.</source><year>2001</year><volume>276</volume><fpage>9817</fpage><lpage>9824</lpage><pub-id pub-id-type="doi">10.1074/jbc.M010840200</pub-id><pub-id pub-id-type="pmid">11139588</pub-id>
+</element-citation></ref><ref id="B46-diagnostics-15-03042"><label>46.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Juric</surname><given-names>D.</given-names></name>
+<name><surname>Castel</surname><given-names>P.</given-names></name>
+<name><surname>Griffith</surname><given-names>M.</given-names></name>
+<name><surname>Griffith</surname><given-names>O.L.</given-names></name>
+<name><surname>Won</surname><given-names>H.H.</given-names></name>
+<name><surname>Ellis</surname><given-names>H.</given-names></name>
+<name><surname>Ebbesen</surname><given-names>S.H.</given-names></name>
+<name><surname>Ainscough</surname><given-names>B.J.</given-names></name>
+<name><surname>Ramu</surname><given-names>A.</given-names></name>
+<name><surname>Iyer</surname><given-names>G.</given-names></name>
+<etal/>
+</person-group><article-title>Convergent loss of PTEN leads to clinical resistance to a PI(3)Kalpha inhibitor</article-title><source>Nature</source><year>2014</year><volume>518</volume><fpage>240</fpage><lpage>244</lpage><pub-id pub-id-type="doi">10.1038/nature13948</pub-id><pub-id pub-id-type="pmid">25409150</pub-id>
+</element-citation></ref><ref id="B47-diagnostics-15-03042"><label>47.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Costa</surname><given-names>C.</given-names></name>
+<name><surname>Wang</surname><given-names>Y.</given-names></name>
+<name><surname>Ly</surname><given-names>A.</given-names></name>
+<name><surname>Hosono</surname><given-names>Y.</given-names></name>
+<name><surname>Murchie</surname><given-names>E.</given-names></name>
+<name><surname>Walmsley</surname><given-names>C.S.</given-names></name>
+<name><surname>Huynh</surname><given-names>T.</given-names></name>
+<name><surname>Healy</surname><given-names>C.</given-names></name>
+<name><surname>Peterson</surname><given-names>R.</given-names></name>
+<name><surname>Yanase</surname><given-names>S.</given-names></name>
+<etal/>
+</person-group><article-title>PTEN loss mediates clinical cross-resistance to CDK4/6 and PI3Kalpha inhibitors in breast cancer</article-title><source>Cancer Discov.</source><year>2020</year><volume>10</volume><fpage>72</fpage><lpage>85</lpage><pub-id pub-id-type="doi">10.1158/2159-8290.CD-18-0830</pub-id><pub-id pub-id-type="pmid">31594766</pub-id>
+</element-citation></ref><ref id="B48-diagnostics-15-03042"><label>48.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Modi</surname><given-names>S.</given-names></name>
+<name><surname>Jacot</surname><given-names>W.</given-names></name>
+<name><surname>Iwata</surname><given-names>H.</given-names></name>
+<name><surname>Park</surname><given-names>Y.H.</given-names></name>
+<name><surname>Losada</surname><given-names>M.V.</given-names></name>
+<name><surname>Li</surname><given-names>W.</given-names></name>
+<name><surname>Tsurutani</surname><given-names>J.</given-names></name>
+<name><surname>Ueno</surname><given-names>N.T.</given-names></name>
+<name><surname>Zaman</surname><given-names>K.</given-names></name>
+<name><surname>Prat</surname><given-names>A.</given-names></name>
+<etal/>
+</person-group><article-title>Trastuzumab deruxtecan in HER2-low metastatic breast cancer: Long-term survival analysis of the randomized, phase 3 DESTINY-Breast04 trial</article-title><source>Nat. Med.</source><year>2025</year><fpage>1</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1038/s41591-025-03981-4</pub-id><pub-id pub-id-type="pmid">39843852</pub-id>
+</element-citation></ref><ref id="B49-diagnostics-15-03042"><label>49.</label><element-citation publication-type="webpage"><comment>Available online: <ext-link xlink:href="https://www.gilead.com/news/news-details/2025/ascent-03-trodelvy-demonstrates-highly-statistically-significant--clinically-meaningful-improvement-in-progression-free-survival-in-patients-with-first-line-metastatic-triple-negative-breast" ext-link-type="uri">https://www.gilead.com/news/news-details/2025/ascent-03-trodelvy-demonstrates-highly-statistically-significant--clinically-meaningful-improvement-in-progression-free-survival-in-patients-with-first-line-metastatic-triple-negative-breast</ext-link></comment><date-in-citation content-type="access-date" iso-8601-date="2025-09-29">(accessed on 29 September 2025)</date-in-citation></element-citation></ref><ref id="B50-diagnostics-15-03042"><label>50.</label><element-citation publication-type="webpage"><article-title>Press ReleaseTROPION-Breast02 Phase 3 Trial of Datopotamab Deruxtecan, 6 October 2025</article-title><comment>Available online: <ext-link xlink:href="https://www.daiichisankyo.com/files/news/pressrelease/pdf/202206/20220613_E.pdf" ext-link-type="uri">https://www.daiichisankyo.com/files/news/pressrelease/pdf/202206/20220613_E.pdf</ext-link></comment><date-in-citation content-type="access-date" iso-8601-date="2025-09-29">(accessed on 29 September 2025)</date-in-citation></element-citation></ref><ref id="B51-diagnostics-15-03042"><label>51.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Buonaiuto</surname><given-names>R.</given-names></name>
+<name><surname>Botticelli</surname><given-names>A.</given-names></name>
+<name><surname>Criscitiello</surname><given-names>C.</given-names></name>
+<name><surname>Dieci</surname><given-names>M.V.</given-names></name>
+<name><surname>Fusco</surname><given-names>N.</given-names></name>
+<name><surname>Gerratana</surname><given-names>L.</given-names></name>
+<name><surname>Lambertini</surname><given-names>M.</given-names></name>
+<name><surname>Malapelle</surname><given-names>U.</given-names></name>
+<name><surname>Malorni</surname><given-names>L.</given-names></name>
+<name><surname>De Angelis</surname><given-names>C.</given-names></name>
+</person-group><article-title>Key decision factors in second-line therapy: Expert insights on HR+/HER2-metastatic breast cancer post-CDK4/6 inhibitor progression</article-title><source>Cancer Treat. Rev.</source><year>2025</year><volume>138</volume><fpage>102972</fpage><pub-id pub-id-type="doi">10.1016/j.ctrv.2025.102972</pub-id><pub-id pub-id-type="pmid">40450825</pub-id>
+</element-citation></ref><ref id="B52-diagnostics-15-03042"><label>52.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Turner</surname><given-names>N.C.</given-names></name>
+<name><surname>Im</surname><given-names>S.-A.</given-names></name>
+<name><surname>Saura</surname><given-names>C.</given-names></name>
+<name><surname>Juric</surname><given-names>D.</given-names></name>
+<name><surname>Loibl</surname><given-names>S.</given-names></name>
+<name><surname>Kalinsky</surname><given-names>K.</given-names></name>
+<name><surname>Schmid</surname><given-names>P.</given-names></name>
+<name><surname>Loi</surname><given-names>S.</given-names></name>
+<name><surname>Sunpaweravong</surname><given-names>P.</given-names></name>
+<name><surname>Musolino</surname><given-names>A.</given-names></name>
+<etal/>
+</person-group><article-title>Inavolisib-Based Therapy in PIK3CA-Mutated Advanced Breast Cancer</article-title><source>N. Engl. J. Med.</source><year>2024</year><volume>391</volume><fpage>1584</fpage><lpage>1596</lpage><pub-id pub-id-type="doi">10.1056/NEJMoa2404625</pub-id><pub-id pub-id-type="pmid">39476340</pub-id>
+</element-citation></ref><ref id="B53-diagnostics-15-03042"><label>53.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Turner</surname><given-names>N.C.</given-names></name>
+<name><surname>Oliveira</surname><given-names>M.</given-names></name>
+<name><surname>Howell</surname><given-names>S.J.</given-names></name>
+<name><surname>Dalenc</surname><given-names>F.</given-names></name>
+<name><surname>Cortes</surname><given-names>J.</given-names></name>
+<name><surname>Gomez Moreno</surname><given-names>H.L.</given-names></name>
+<name><surname>Hu</surname><given-names>X.</given-names></name>
+<name><surname>Jhaveri</surname><given-names>K.</given-names></name>
+<name><surname>Krivorotko</surname><given-names>P.</given-names></name>
+<name><surname>Loibl</surname><given-names>S.</given-names></name>
+<etal/>
+</person-group><article-title>Capivasertib in Hormone Receptor&#x02013;Positive Advanced Breast Cancer</article-title><source>N. Engl. J. Med.</source><year>2023</year><volume>388</volume><fpage>2058</fpage><lpage>2070</lpage><pub-id pub-id-type="doi">10.1056/NEJMoa2214131</pub-id><pub-id pub-id-type="pmid">37256976</pub-id>
+</element-citation></ref><ref id="B54-diagnostics-15-03042"><label>54.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jones</surname><given-names>R.H.</given-names></name>
+<name><surname>Casbard</surname><given-names>A.</given-names></name>
+<name><surname>Carucci</surname><given-names>M.</given-names></name>
+<name><surname>Cox</surname><given-names>C.</given-names></name>
+<name><surname>Butler</surname><given-names>R.</given-names></name>
+<name><surname>Alchami</surname><given-names>F.</given-names></name>
+<name><surname>Madden</surname><given-names>T.-A.</given-names></name>
+<name><surname>Bale</surname><given-names>C.</given-names></name>
+<name><surname>Bezecny</surname><given-names>P.</given-names></name>
+<name><surname>Joffe</surname><given-names>J.</given-names></name>
+<etal/>
+</person-group><article-title>Fulvestrant plus capivasertib versus placebo after relapse or progression on an aromatase inhibitor in metastatic, oestrogen receptor-positive breast cancer (FAKTION): A multicentre, randomised, controlled, phase 2 trial</article-title><source>Lancet Oncol.</source><year>2020</year><volume>21</volume><fpage>345</fpage><lpage>357</lpage><pub-id pub-id-type="doi">10.1016/S1470-2045(19)30817-4</pub-id><pub-id pub-id-type="pmid">32035020</pub-id>
+</element-citation></ref><ref id="B55-diagnostics-15-03042"><label>55.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Howell</surname><given-names>S.J.</given-names></name>
+<name><surname>Casbard</surname><given-names>A.</given-names></name>
+<name><surname>Carucci</surname><given-names>M.</given-names></name>
+<name><surname>Ingarfield</surname><given-names>K.</given-names></name>
+<name><surname>Butler</surname><given-names>R.</given-names></name>
+<name><surname>Morgan</surname><given-names>S.</given-names></name>
+<name><surname>Meissner</surname><given-names>M.</given-names></name>
+<name><surname>Bale</surname><given-names>C.</given-names></name>
+<name><surname>Bezecny</surname><given-names>P.</given-names></name>
+<name><surname>Moon</surname><given-names>S.</given-names></name>
+<etal/>
+</person-group><article-title>Fulvestrant plus capivasertib versus placebo after relapse or progression on an aromatase inhibitor in metastatic, oestrogen receptor-positive, HER2-negative breast cancer (FAKTION): Overall survival, updated progression-free survival, and expanded biomarker analysis from a randomised, phase 2 trial</article-title><source>Lancet Oncol.</source><year>2022</year><volume>23</volume><fpage>851</fpage><lpage>864</lpage><pub-id pub-id-type="pmid">35671774</pub-id>
+</element-citation></ref><ref id="B56-diagnostics-15-03042"><label>56.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lee</surname><given-names>C.-H.</given-names></name>
+<name><surname>Kang</surname><given-names>Y.-N.</given-names></name>
+<name><surname>Ho</surname><given-names>C.-L.</given-names></name>
+<name><surname>Lin</surname><given-names>C.</given-names></name>
+<name><surname>Chen</surname><given-names>P.-H.</given-names></name>
+<name><surname>Wu</surname><given-names>Y.-Y.</given-names></name>
+<name><surname>Huang</surname><given-names>T.-C.</given-names></name>
+</person-group><article-title>Endocrine therapies in postmenopausal women with hormone receptor-positive, human epidermal growth factor receptor 2-negative, pretreated, advanced breast cancer: A network meta-analysis</article-title><source>Medicine</source><year>2020</year><volume>99</volume><fpage>e19618</fpage><pub-id pub-id-type="doi">10.1097/MD.0000000000019618</pub-id><pub-id pub-id-type="pmid">32221087</pub-id>
+</element-citation></ref><ref id="B57-diagnostics-15-03042"><label>57.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>San&#x000f2;</surname><given-names>M.V.</given-names></name>
+<name><surname>Russo</surname><given-names>A.</given-names></name>
+<name><surname>Marino</surname><given-names>L.</given-names></name>
+<name><surname>Pafumi</surname><given-names>S.</given-names></name>
+<name><surname>Di Pietro</surname><given-names>M.</given-names></name>
+<name><surname>Ricciardi</surname><given-names>G.R.R.</given-names></name>
+</person-group><article-title>Could 18F-FES PET Be a New Driver in Therapeutic Choice for Metastatic HR+/HER2- Patients?</article-title><source>Diagnostics</source><year>2025</year><volume>15</volume><elocation-id>2139</elocation-id><!--<pub-id pub-id-type="pmcid">PMC12428153</pub-id>--><pub-id pub-id-type="doi">10.3390/diagnostics15172139</pub-id><pub-id pub-id-type="pmid">40941628</pub-id>
+</element-citation></ref></ref-list></back><floats-group><table-wrap position="float" id="diagnostics-15-03042-t001"><object-id pub-id-type="pii">diagnostics-15-03042-t001_Table 1</object-id><label>Table 1</label><caption><p>FoundationOne<sup>&#x000ae;</sup> Liquid CDx.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Laboratory Findings: Genomic and Biomarker</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">
+</th></tr><tr><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Finding</th><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">VAF</th></tr></thead><tbody><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PIK3CA E542K</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.64%</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">TP53 C141Y</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.55%</td></tr></tbody></table></table-wrap></floats-group></article>

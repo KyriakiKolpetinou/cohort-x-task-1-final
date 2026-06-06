@@ -1,0 +1,707 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Ther Adv Hematol</journal-id><journal-id journal-id-type="iso-abbrev">Ther Adv Hematol</journal-id><journal-id journal-id-type="publisher-id">TAH</journal-id><journal-id journal-id-type="hwp">sptah</journal-id><journal-title-group><journal-title>Therapeutic Advances in Hematology</journal-title></journal-title-group><issn pub-type="ppub">2040-6207</issn><issn pub-type="epub">2040-6215</issn><publisher><publisher-name>SAGE Publications</publisher-name><publisher-loc>Sage UK: London, England</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">36105914</article-id><article-id pub-id-type="pmc">9465569</article-id><article-id pub-id-type="doi">10.1177/20406207221118429</article-id><article-id pub-id-type="publisher-id">10.1177_20406207221118429</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Efficacy and safety of ruxolitinib in patients with myelofibrosis and
+low platelet count (50&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L to &#x0003c;100&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L) at
+baseline: the final analysis of EXPAND</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-1809-284X</contrib-id><name><surname>Guglielmelli</surname><given-names>Paola</given-names></name><xref rid="corresp1-20406207221118429" ref-type="corresp"/><aff id="aff1-20406207221118429">CRIMM, Centro di Ricerca e Innovazione per le
+Malattie Mieloproliferative, AOU Careggi, Dipartimento di Medicina
+Sperimentale e Clinica, University of Florence, Viale Pieraccini 6, 50134
+Firenze, Italy</aff><role content-type="https://dictionary.casrai.org/Contributor_Roles/Formal_analysis">Formal analysis</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Investigation">Investigation</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_review_editing">Writing review editing</role></contrib><contrib contrib-type="author"><name><surname>Kiladjian</surname><given-names>Jean-Jacques</given-names></name><aff id="aff2-20406207221118429">APHP, H&#x000f4;pital Saint-Louis, Centre
+d&#x02019;Investigations Cliniques, INSERM CIC 1427, Universit&#x000e9; de Paris, Paris,
+France</aff><role content-type="https://dictionary.casrai.org/Contributor_Roles/Formal_analysis">Formal analysis</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Investigation">Investigation</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_review_editing">Writing review editing</role></contrib><contrib contrib-type="author"><name><surname>Vannucchi</surname><given-names>Alessandro M.</given-names></name><aff id="aff3-20406207221118429">CRIMM, Centro di Ricerca e Innovazione per le
+Malattie Mieloproliferative, AOU Careggi, Dipartimento di Medicina
+Sperimentale e Clinica, University of Florence, Florence, Italy</aff><role content-type="https://dictionary.casrai.org/Contributor_Roles/Conceptualization">Conceptualization</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Formal_analysis">Formal analysis</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Investigation">Investigation</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_review_editing">Writing review editing</role></contrib><contrib contrib-type="author"><name><surname>Duan</surname><given-names>Minghui</given-names></name><aff id="aff4-20406207221118429">Peking Union Medical College Hospital, Beijing,
+China</aff><role content-type="https://dictionary.casrai.org/Contributor_Roles/Formal_analysis">Formal analysis</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Investigation">Investigation</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_review_editing">Writing review editing</role></contrib><contrib contrib-type="author"><name><surname>Meng</surname><given-names>Haitao</given-names></name><aff id="aff5-20406207221118429">Department of Hematology, The First Affiliated
+Hospital, College of Medicine, Institute of Hematology, Zhejiang University,
+Hangzhou, China</aff><role content-type="https://dictionary.casrai.org/Contributor_Roles/Formal_analysis">Formal analysis</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Investigation">Investigation</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_review_editing">Writing review editing</role></contrib><contrib contrib-type="author"><name><surname>Pan</surname><given-names>Ling</given-names></name><aff id="aff6-20406207221118429">West China Hospital, Sichuan University,
+Chengdu, China</aff><role content-type="https://dictionary.casrai.org/Contributor_Roles/Formal_analysis">Formal analysis</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Investigation">Investigation</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_review_editing">Writing review editing</role></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-3944-5897</contrib-id><name><surname>He</surname><given-names>Guangsheng</given-names></name><aff id="aff7-20406207221118429">Department of Hematology, The First Affiliated
+Hospital of Nanjing Medical University, Jiangsu Province Hospital, Nanjing,
+China</aff><role content-type="https://dictionary.casrai.org/Contributor_Roles/Formal_analysis">Formal analysis</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Investigation">Investigation</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_review_editing">Writing review editing</role></contrib><contrib contrib-type="author"><name><surname>Verstovsek</surname><given-names>Srdan</given-names></name><aff id="aff8-20406207221118429">The University of Texas MD Anderson Cancer
+Center, Houston, TX, USA</aff><role content-type="https://dictionary.casrai.org/Contributor_Roles/Formal_analysis">Formal analysis</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Investigation">Investigation</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_review_editing">Writing review editing</role></contrib><contrib contrib-type="author"><name><surname>Boyer</surname><given-names>Fran&#x000e7;oise</given-names></name><aff id="aff9-20406207221118429">Centre Hospitalier Universitaire d&#x02019;Angers,
+Angers, France</aff><role content-type="https://dictionary.casrai.org/Contributor_Roles/Formal_analysis">Formal analysis</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Investigation">Investigation</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_review_editing">Writing review editing</role></contrib><contrib contrib-type="author"><name><surname>Barraco</surname><given-names>Fiorenza</given-names></name><aff id="aff10-20406207221118429">Centre Hospitalier Lyon Sud, Pierre-B&#x000e9;nite,
+France</aff><role content-type="https://dictionary.casrai.org/Contributor_Roles/Formal_analysis">Formal analysis</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Investigation">Investigation</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_review_editing">Writing review editing</role></contrib><contrib contrib-type="author"><name><surname>Niederwieser</surname><given-names>Dietger</given-names></name><aff id="aff11-20406207221118429">Department of Hematology and Medical Oncology,
+University of Leipzig, Leipzig, Germany</aff><role content-type="https://dictionary.casrai.org/Contributor_Roles/Formal_analysis">Formal analysis</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Investigation">Investigation</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_review_editing">Writing review editing</role></contrib><contrib contrib-type="author"><name><surname>Pungolino</surname><given-names>Ester</given-names></name><aff id="aff12-20406207221118429">Division of Hematology, ASST Grande Ospedale
+Metropolitano Niguarda, Milano, Italy</aff><role content-type="https://dictionary.casrai.org/Contributor_Roles/Formal_analysis">Formal analysis</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Investigation">Investigation</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_review_editing">Writing review editing</role></contrib><contrib contrib-type="author"><name><surname>Liberati</surname><given-names>Anna Marina</given-names></name><aff id="aff13-20406207221118429">Azienda Ospedaliera Santa Maria di Terni,
+Universit&#x000e0; degli Studi di Perugia, Terni, Italy</aff><role content-type="https://dictionary.casrai.org/Contributor_Roles/Formal_analysis">Formal analysis</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Investigation">Investigation</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_review_editing">Writing review editing</role></contrib><contrib contrib-type="author"><name><surname>Harrison</surname><given-names>Claire</given-names></name><aff id="aff14-20406207221118429">Guy&#x02019;s and St Thomas&#x02019; NHS Foundation Trust,
+London, UK</aff><role content-type="https://dictionary.casrai.org/Contributor_Roles/Formal_analysis">Formal analysis</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Investigation">Investigation</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_review_editing">Writing review editing</role></contrib><contrib contrib-type="author"><name><surname>Roussou</surname><given-names>Pantelia</given-names></name><aff id="aff15-20406207221118429">Novartis Pharma AG, Basel, Switzerland</aff><role content-type="https://dictionary.casrai.org/Contributor_Roles/Formal_analysis">Formal analysis</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Investigation">Investigation</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_review_editing">Writing review editing</role></contrib><contrib contrib-type="author"><name><surname>Wroclawska</surname><given-names>Monika</given-names></name><aff id="aff16-20406207221118429">Novartis Pharma AG, Basel, Switzerland</aff><role content-type="https://dictionary.casrai.org/Contributor_Roles/Formal_analysis">Formal analysis</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Investigation">Investigation</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_review_editing">Writing review editing</role></contrib><contrib contrib-type="author"><name><surname>Karumanchi</surname><given-names>Divyadeep</given-names></name><aff id="aff17-20406207221118429">Novartis Pharmaceuticals, East Hanover, NJ,
+USA</aff><role content-type="https://dictionary.casrai.org/Contributor_Roles/Formal_analysis">Formal analysis</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Investigation">Investigation</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_review_editing">Writing review editing</role></contrib><contrib contrib-type="author"><name><surname>Sinclair</surname><given-names>Karen</given-names></name><aff id="aff18-20406207221118429">Novartis Pharma AG, Basel, Switzerland</aff><role content-type="https://dictionary.casrai.org/Contributor_Roles/Formal_analysis">Formal analysis</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Investigation">Investigation</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_review_editing">Writing review editing</role></contrib><contrib contrib-type="author"><name><surname>te Boekhorst</surname><given-names>Peter A.W.</given-names></name><xref rid="fn1-20406207221118429" ref-type="author-notes">*</xref><aff id="aff19-20406207221118429">Erasmus Medical Center, Rotterdam, The
+Netherlands</aff><role content-type="https://dictionary.casrai.org/Contributor_Roles/Formal_analysis">Formal analysis</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Investigation">Investigation</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_review_editing">Writing review editing</role></contrib><contrib contrib-type="author"><name><surname>Gisslinger</surname><given-names>Heinz</given-names></name><xref rid="fn1-20406207221118429" ref-type="author-notes">*</xref><aff id="aff20-20406207221118429">Medical University of Vienna, Vienna,
+Austria</aff><role content-type="https://dictionary.casrai.org/Contributor_Roles/Formal_analysis">Formal analysis</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Investigation">Investigation</role><role content-type="https://dictionary.casrai.org/Contributor_Roles/Writing_review_editing">Writing review editing</role></contrib></contrib-group><author-notes><corresp id="corresp1-20406207221118429">
+<email>paola.guglielmelli@unifi.it</email>
+</corresp><fn fn-type="equal" id="fn1-20406207221118429"><label>*</label><p>These authors contributed equally to this analysis.</p></fn></author-notes><pub-date pub-type="epub"><day>10</day><month>9</month><year>2022</year></pub-date><pub-date pub-type="collection"><year>2022</year></pub-date><volume>13</volume><elocation-id>20406207221118429</elocation-id><history><date date-type="received"><day>8</day><month>3</month><year>2022</year></date><date date-type="accepted"><day>20</day><month>7</month><year>2022</year></date></history><permissions><copyright-statement>&#x000a9; The Author(s), 2022</copyright-statement><copyright-year>2022</copyright-year><copyright-holder content-type="sage">SAGE Publications</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial 4.0 License (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">https://creativecommons.org/licenses/by-nc/4.0/</ext-link>) which
+permits non-commercial use, reproduction and distribution of the work
+without further permission provided the original work is attributed as
+specified on the SAGE and Open Access page (<ext-link ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><abstract><sec id="section1-20406207221118429"><title>Background:</title><p>Thrombocytopenia is a common feature of myelofibrosis (MF), a
+myeloproliferative neoplasm driven by dysregulated JAK/STAT signaling;
+however, pivotal trials assessing the efficacy of ruxolitinib (a JAK1/2
+inhibitor) excluded MF patients with low platelet counts
+(&#x0003c;100&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L).</p></sec><sec id="section2-20406207221118429"><title>Objectives:</title><p>Determination of the maximum safe starting dose (MSSD) of ruxolitinib was the
+primary endpoint, with long-term safety and efficacy as secondary and
+exploratory endpoints, respectively.</p></sec><sec id="section3-20406207221118429"><title>Design:</title><p>EXPAND (NCT01317875) was a phase 1b, open-label, ruxolitinib dose-finding
+study in patients with MF and low platelet counts (50 to
+&#x0003c;100&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L).</p></sec><sec id="section4-20406207221118429"><title>Methods:</title><p>Patients were stratified according to baseline platelet count into stratum 1
+(S1, 75 to &#x0003c;100&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L) or stratum 2 (S2, 50 to
+&#x0003c;75&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L). Previous analyses established the MSSD at 10
+mg twice daily (bid); long-term results are reported here.</p></sec><sec id="section5-20406207221118429"><title>Results:</title><p>Of 69 enrolled patients, 38 received ruxolitinib at the MSSD (S1,
+<italic toggle="yes">n</italic>&#x02009;=&#x02009;20; S2, <italic toggle="yes">n</italic>&#x02009;=&#x02009;18) and are the focus
+of this analysis. The incidence of adverse events was consistent with the
+known safety profile of ruxolitinib, with thrombocytopenia (S1, 50%; S2,
+78%) and anemia (S1, 55%; S2, 44%) the most frequently reported adverse
+events and no new or unexpected safety signals. Substantial clinical
+benefits were observed for patients in both strata: 50% (10/20) and 67%
+(12/18) of patients in S1 and S2, respectively, achieved a spleen response
+(defined as &#x02a7e;50% reduction in spleen length from baseline) at any time
+during the study.</p></sec><sec id="section6-20406207221118429"><title>Conclusion:</title><p>The final safety and efficacy results from EXPAND support the use of a 10 mg
+bid starting dose of ruxolitinib in patients with MF and platelet counts 50
+to &#x0003c;100&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L.</p></sec><sec id="section7-20406207221118429"><title>Registration:</title><p>ClinicalTrials.gov NCT01317875.</p></sec></abstract><kwd-group><kwd>myelofibrosis</kwd><kwd>ruxolitinib</kwd><kwd>thrombocytopenia</kwd></kwd-group><funding-group specific-use="FundRef"><award-group id="award1-20406207221118429"><funding-source id="funding1-20406207221118429">
+<institution-wrap><institution>Novartis</institution><institution-id institution-id-type="FundRef">https://doi.org/10.13039/100004336</institution-id></institution-wrap>
+</funding-source></award-group></funding-group><custom-meta-group><custom-meta><meta-name>cover-date</meta-name><meta-value>January-December 2022</meta-value></custom-meta><custom-meta><meta-name>typesetter</meta-name><meta-value>ts1</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="section8-20406207221118429"><title>Introduction</title><p>Myelofibrosis (MF) is a clonal, neoplastic disease characterized by bone marrow
+fibrosis, splenomegaly, and debilitating constitutional symptoms.<sup><xref rid="bibr1-20406207221118429" ref-type="bibr">1</xref><xref rid="bibr2-20406207221118429" ref-type="bibr"/>&#x02013;<xref rid="bibr3-20406207221118429" ref-type="bibr">3</xref></sup> The clinical presentation of MF
+can be highly heterogeneous, but it is typically associated with splenomegaly due to
+extramedullary hematopoiesis, cytopenias due to progressive bone marrow fibrosis,
+and constitutional symptoms such as fatigue, night sweats, and fever.<sup><xref rid="bibr4-20406207221118429" ref-type="bibr">4</xref>,<xref rid="bibr5-20406207221118429" ref-type="bibr">5</xref></sup> These diverse,
+disease-associated symptoms negatively impact quality of life and result in reduced
+life expectancy. MF is driven by dysregulated signaling through the Janus kinase
+(JAK)/signal transducer and activator of transcription (STAT) pathway, which is
+observed in all MF patients, regardless of the presence or absence of
+<italic toggle="yes">JAK2</italic> mutations.<sup><xref rid="bibr6-20406207221118429" ref-type="bibr">6</xref>,<xref rid="bibr7-20406207221118429" ref-type="bibr">7</xref></sup></p><p>Ruxolitinib is a potent and selective JAK1/JAK2 inhibitor that was approved for the
+treatment of patients with MF based on its superiority in improving splenomegaly and
+symptoms, increasing survival and improving quality of life compared with placebo or
+best available therapy in the phase 3 COMFORT trials.<sup><xref rid="bibr8-20406207221118429" ref-type="bibr">8</xref>,<xref rid="bibr9-20406207221118429" ref-type="bibr">9</xref></sup> In these studies, ruxolitinib
+was generally well tolerated, with adverse events (AEs) rarely leading to treatment
+discontinuation and managed effectively with dose adjustment.<sup><xref rid="bibr10-20406207221118429" ref-type="bibr">10</xref>,<xref rid="bibr11-20406207221118429" ref-type="bibr">11</xref></sup> In these
+studies, ruxolitinib dosing was titrated according to baseline platelet counts,
+since efficacy and toxicity are both dose-dependent.<sup>
+<xref rid="bibr12-20406207221118429" ref-type="bibr">12</xref>
+</sup></p><p>As the disease progresses, patients tend to develop thrombocytopenia due to
+ineffective hematopoiesis and increased splenic sequestration.<sup>
+<xref rid="bibr13-20406207221118429" ref-type="bibr">13</xref>
+</sup> As many as 26% of patients with MF have low platelet counts
+(&#x0003c;100&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L).<sup>
+<xref rid="bibr14-20406207221118429" ref-type="bibr">14</xref>
+</sup> Since the key regulators of thrombopoiesis and erythropoiesis (thrombopoietin
+and erythropoietin) signal exclusively through JAK2, dose-dependent thrombocytopenia
+and anemia are expected on-target AEs for patients on ruxolitinib therapy.<sup><xref rid="bibr15-20406207221118429" ref-type="bibr">15</xref>,<xref rid="bibr16-20406207221118429" ref-type="bibr">16</xref></sup>
+Thrombocytopenia is a dose-dependent effect of ruxolitinib and was the dose-limiting
+toxicity in an initial phase 1/2, dose-finding study of ruxolitinib in patients with MF.<sup>
+<xref rid="bibr12-20406207221118429" ref-type="bibr">12</xref>
+</sup> For this reason, patients with baseline platelet counts
+&#x0003c;100&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L have generally been excluded from ruxolitinib
+clinical trials. In other trials, the ruxolitinib dose was titrated to platelet
+levels, with 5 mg bid being the current recommended starting dose in patients with
+platelet counts &#x0003c;100&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L.<sup><xref rid="bibr17-20406207221118429" ref-type="bibr">17</xref>,<xref rid="bibr18-20406207221118429" ref-type="bibr">18</xref></sup> Consequently, there are
+limited data to inform optimal ruxolitinib dosing in patients with MF and lower
+platelet counts.<sup>
+<xref rid="bibr19-20406207221118429" ref-type="bibr">19</xref>
+</sup></p><p>EXPAND (Evaluating Ruxolitinib in Patients with Low Baseline Platelet Counts
+Diagnosed With Myelofibrosis) was a single-arm, open-label, dose-finding study of
+ruxolitinib in patients with primary myelofibrosis (PMF), post-essential
+thrombocythemia myelofibrosis (PET-MF), and post-polycythemia vera myelofibrosis
+(PPV-MF), and baseline platelet counts of 50 to &#x0003c;100&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L, which
+aimed to find the maximum safe starting dose (MSSD) of ruxolitinib and assess its
+long-term safety and efficacy in this patient population. The MSSD of ruxolitinib
+was established as 10 mg bid during the 24-week core study period.<sup>
+<xref rid="bibr20-20406207221118429" ref-type="bibr">20</xref>
+</sup> Through week 48, treatment was generally well tolerated and no new safety
+signals were detected. Treatment at the MSSD resulted in clinically meaningful
+spleen size reductions and symptom responses at week 48.<sup>
+<xref rid="bibr20-20406207221118429" ref-type="bibr">20</xref>
+</sup> After the MSSD had been established, additional patients were enrolled in
+both strata to assess long-term safety and efficacy during an expansion phase of up
+to 3 years.</p><p>Here, we present the final safety and efficacy results from the 3-year extension
+phase of the EXPAND study, focusing on patients treated with the MSSD of 10 mg bid.
+In addition, we also report results from pharmacokinetics/pharmacodynamics (PK/PD)
+analyses (based on all patients treated in the dose-escalation period) assessing the
+impact of ruxolitinib plasma levels on platelet count and spleen length
+response.</p></sec><sec sec-type="methods" id="section9-20406207221118429"><title>Methods</title><sec id="section10-20406207221118429"><title>Study design and patient population</title><p>EXPAND (NCT01317875) was a phase 1b, open-label, multicenter, dose-finding study
+of ruxolitinib in patients with MF who had baseline platelet counts between
+50&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L and &#x0003c;100&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L,<sup>
+<xref rid="bibr20-20406207221118429" ref-type="bibr">20</xref>
+</sup> which ran from March 2011 to December 2019. Full details of the study
+design have been published.<sup>
+<xref rid="bibr20-20406207221118429" ref-type="bibr">20</xref>
+</sup> Briefly, eligible patients were &#x02a7e;18 years of age, diagnosed with
+intermediate-1, intermediate-2, or high-risk MF (PMF, PPV-MF, or PET-MF), had a
+palpable spleen (&#x02a7e;5 cm from the costal margin), and fulfilled platelet count
+criteria at baseline. Key exclusion criteria included any history of platelet
+counts &#x0003c;45&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L within 30 days prior to screening, receiving a
+platelet transfusion within 14 days prior to screening, any history or
+predisposition to clinically significant bleeding, or any history of platelet
+dysfunction and/or bleeding diathesis. Based on baseline platelet counts, the
+patients were assigned to stratum 1 (S1: 75 to &#x0003c;100&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L) or
+stratum 2 (S2: 50 to &#x0003c;75&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L). The study consisted of a
+24-week core study period (including dose escalation and safety expansion
+phases) to determine the MSSD (incidence rate of dose-limiting toxicity) of
+ruxolitinib in each stratum and obtain estimates of the efficacy of ruxolitinib
+in this patient population. This was followed by an extension period beyond week
+24 and of up to 3 years, including additionally enrolled patients in both
+strata, to assess the long-term safety and efficacy of ruxolitinib in patients
+who received the MSSD (10 mg bid; <ext-link xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/20406207221118429" ext-link-type="uri">Supplemental Figure S1</ext-link>). The study ended after all patients had
+completed their last assessment as per protocol (follow-up visit 30 days after
+the end of the treatment visit). All data up until the last patient last visit
+(31 December 2019) are included in the present analysis.</p></sec><sec id="section11-20406207221118429"><title>Endpoints</title><p>The primary endpoint was the establishment of the MSSD for each stratum during
+the core study phase, which has been reported previously.<sup>
+<xref rid="bibr20-20406207221118429" ref-type="bibr">20</xref>
+</sup> This study reports secondary endpoints through year 3, including
+frequency, duration, and severity of AEs (as per MedDRA version 22.1, CTCAE
+version 4.03) and serious adverse events (SAEs), spleen response (defined as
+achievement of &#x02a7e;50% reduction in palpable spleen length relative to Day 1 as
+measured by palpation), assessment of ruxolitinib plasma concentration (using
+population modeling), and the relationships between the predicted ruxolitinib
+plasma concentration and PD parameters (platelet counts and palpable spleen
+length, also using population modeling) over time. Key exploratory objectives
+included patient-reported outcomes [change in the total symptom score (TSS) as
+assessed by the modified Myelofibrosis Symptom Assessment Form (MF-SAF) v2.0
+diary], and the proportion of patients achieving a &#x02a7e;50% reduction in MF-SAF TSS
+from screening to week 24.</p></sec><sec id="section12-20406207221118429"><title>PK assessments and population modeling</title><p>To assess the impact of baseline platelet count on the plasma concentration of
+ruxolitinib, a population PK (PopPK) model previously developed using data from
+patients with MF and platelet counts &#x02a7e;100&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L was validated in
+patients from the EXPAND study. Ruxolitinib tablets were administered orally
+twice daily at approximately 12 hours apart. Blood samples for PK analyses were
+collected for all treated patients (including those treated at doses other than
+the MSSD, e.g. 5 mg or 15 mg bid) during the dose-escalation period on Days 1,
+15, 29, and 57. Samples were collected at a time point between 0.25 and 0.75
+hours, 1&#x02013;3 hours, and 4&#x02013;12 hours post-dose on Day 1, and pre-dose, 0.25&#x02013;0.75
+hours, and 1&#x02013;3 hours post-dose on Day 15, with a random time point sample on
+Days 29 and 57. The plasma concentration of ruxolitinib was determined using a
+validated liquid chromatography-tandem mass spectrometry assay (LC-MS) with a
+linear range of 1 to 1000 nM and a limit of quantification of 1 nM.</p></sec><sec id="section13-20406207221118429"><title>PD assessment and analysis</title><p>The relationship between the estimated ruxolitinib plasma concentration (as
+predicted by the PopPK model) and platelet counts over time in the EXPAND study
+was investigated using a PopPKPD model previously developed using data from
+patients with platelet counts &#x02a7e;100&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L. The model was validated
+with samples taken from EXPAND patients, to confirm the existing relationship
+was valid within this new population with low platelet counts at baseline. Blood
+samples for platelet measurements were collected at the times described above
+for PK assessments, as well as on Day 168 (or the end of treatment visit if
+earlier than Day 168). Due to the sparse PK sampling collected in this study,
+average ruxolitinib concentrations (between platelet measurements) were
+simulated for each patient using the validated PopPK model. In addition, spleen
+length over time was assessed by quartiles of predicted ruxolitinib plasma
+concentrations and by ruxolitinib dose level.</p></sec><sec id="section14-20406207221118429"><title>Statistics</title><p>All patients who received at least one dose of ruxolitinib were included in the
+analysis. Cumulative data were summarized without separating the core study
+period and the extension period. The percentage of patients with &#x02a7e;50% reduction
+in spleen length at any time point (including both core and extension periods)
+and at week 24 were summarized with 95% confidence intervals using
+Clopper-Pearson exact method.</p></sec><sec id="section15-20406207221118429"><title>Ethics</title><p>EXPAND was designed and conducted in accordance with the ethical principles of
+the Declaration of Helsinki, the International Conference on Harmonization (ICH)
+Harmonized Tripartite Guidelines for Good Clinical Practice, and local laws and
+regulations. The study protocol and its amendments were reviewed and approved by
+an independent ethics committee or institutional review board for each study
+site. Written informed consent was provided by all patients before any
+study-related procedures commenced. The reporting of this study conforms to the
+CONSORT statement.<sup>
+<xref rid="bibr21-20406207221118429" ref-type="bibr">21</xref>
+</sup></p></sec></sec><sec sec-type="results" id="section16-20406207221118429"><title>Results</title><sec id="section17-20406207221118429"><title>Patient disposition</title><p>A total of 69 patients were enrolled in the EXPAND study, with 44 patients in S1
+and 25 patients in S2. Of these, 38 received ruxolitinib at the MSSD of 10 mg
+bid (S1, <italic toggle="yes">n</italic>&#x02009;=&#x02009;20; S2, <italic toggle="yes">n</italic>&#x02009;=&#x02009;18) and are the focus
+of the safety and efficacy analysis. Overall, 50.0% of patients in S1 and 16.7%
+of patients in S2 completed the study treatment period as planned. The most
+common reasons for treatment discontinuation were progressive disease (15%), AEs
+(10%), and other (10%) in S1, and AEs (33%), death (17%), and physician decision
+(17%) in S2 (<xref rid="table1-20406207221118429" ref-type="table">Table
+1</xref>). The median (range) duration of ruxolitinib exposure was 134.3
+weeks (4&#x02013;210) in S1, and 83.2 weeks (4&#x02013;161) in S2, with 17/20 patients (85%) in
+S1 and 11/18 (61%) in S2 receiving ruxolitinib for &#x02a7e;48 weeks (<ext-link xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/20406207221118429" ext-link-type="uri">Supplemental Tables S1 and S2</ext-link>). Most patients in both strata had
+at least one dose reduction or interruption, and only 33.3% of patients in the
+S2 cohort fulfilled drug compliance requirements (relative dose intensity
+[RDI]&#x02009;&#x02a7e;&#x02009;83.3%; <ext-link xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/20406207221118429" ext-link-type="uri">Supplemental Table S1</ext-link>).</p><table-wrap position="float" id="table1-20406207221118429"><label>Table 1.</label><caption><p>Patient disposition, MSSD cohort.</p></caption><alternatives><graphic xlink:href="10.1177_20406207221118429-table1" position="float"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1"><italic toggle="yes">n</italic> (%)</th><th align="left" rowspan="1" colspan="1">Stratum 1 (75 to
+&#x0003c;100&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L)</th><th align="left" rowspan="1" colspan="1">Stratum 2 (50 to
+&#x0003c;75&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L)</th></tr><tr><th align="left" rowspan="1" colspan="1">Patients enrolled</th><th align="left" rowspan="1" colspan="1"><italic toggle="yes">N</italic>&#x02009;=&#x02009;20</th><th align="left" rowspan="1" colspan="1"><italic toggle="yes">N</italic>&#x02009;=&#x02009;18</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Completed treatment period</td><td rowspan="1" colspan="1">10 (50.0)</td><td rowspan="1" colspan="1">3 (16.7)</td></tr><tr><td rowspan="1" colspan="1">Discontinued from treatment period</td><td rowspan="1" colspan="1">10 (50.0)</td><td rowspan="1" colspan="1">15 (83.3)</td></tr><tr><td colspan="3" rowspan="1">&#x02003;Reason for discontinuation</td></tr><tr><td rowspan="1" colspan="1">&#x02003;&#x02003;Adverse event</td><td rowspan="1" colspan="1">2 (10.0)</td><td rowspan="1" colspan="1">6 (33.3)</td></tr><tr><td rowspan="1" colspan="1">&#x02003;&#x02003;Physician decision</td><td rowspan="1" colspan="1">1 (5.0)</td><td rowspan="1" colspan="1">3 (16.7)</td></tr><tr><td rowspan="1" colspan="1">&#x02003;&#x02003;Progressive disease</td><td rowspan="1" colspan="1">3 (15.0)</td><td rowspan="1" colspan="1">1 (5.6)</td></tr><tr><td rowspan="1" colspan="1">&#x02003;&#x02003;Death</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">3 (16.7)</td></tr><tr><td rowspan="1" colspan="1">&#x02003;&#x02003;Other</td><td rowspan="1" colspan="1">2 (10.0)</td><td rowspan="1" colspan="1">0</td></tr><tr><td rowspan="1" colspan="1">&#x02003;&#x02003;Withdrawal by subject</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">2 (11.1)</td></tr><tr><td rowspan="1" colspan="1">&#x02003;&#x02003;Lack of efficacy</td><td rowspan="1" colspan="1">1 (5.0)</td><td rowspan="1" colspan="1">0</td></tr><tr><td rowspan="1" colspan="1">&#x02003;&#x02003;Non-compliance with study drug</td><td rowspan="1" colspan="1">1 (5.0)</td><td rowspan="1" colspan="1">0</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn1-20406207221118429"><p>MSSD, maximum safe starting dose.</p></fn></table-wrap-foot></table-wrap></sec><sec id="section18-20406207221118429"><title>Baseline characteristics</title><p>Baseline patient characteristics are shown in <xref rid="table2-20406207221118429" ref-type="table">Table 2</xref>. Overall, baseline
+characteristics were indicative of advanced disease in both strata, although
+patients in S2 were at a more advanced disease stage than those in S1. Median
+age was similar across strata, although a larger proportion of patients in S2
+were aged 65 or older, compared with S1. The majority of patients in both strata
+were diagnosed with PMF and had a <italic toggle="yes">JAK2</italic> mutation. A large
+proportion of patients in both strata were classified as intermediate-2 or
+high-risk MF at screening, but patients with high-risk MF were more common in S2
+than in S1. Consistent with a generally more advanced disease stage in S2,
+median time since initial diagnosis was also considerably longer for patients in
+S2 compared with those in S1.</p><table-wrap position="float" id="table2-20406207221118429"><label>Table 2.</label><caption><p>Baseline patient characteristics, MSSD cohort.</p></caption><alternatives><graphic xlink:href="10.1177_20406207221118429-table2" position="float"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Demographic variable/disease
+characteristic</th><th align="left" rowspan="1" colspan="1">Stratum 1<break/>(75
+to&#x02009;&#x0003c;&#x02009;100&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L)<break/><italic toggle="yes">N</italic>&#x02009;=&#x02009;20</th><th align="left" rowspan="1" colspan="1">Stratum 2<break/>(50
+to&#x02009;&#x0003c;&#x02009;75&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L)<break/><italic toggle="yes">N</italic>&#x02009;=&#x02009;18</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Age, median (range), years</td><td rowspan="1" colspan="1">64.5 (27&#x02013;81)</td><td rowspan="1" colspan="1">66.5 (46&#x02013;86)</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Age&#x02009;&#x02a7e;&#x02009;65 years, <italic toggle="yes">n</italic> (%)</td><td rowspan="1" colspan="1">10 (50.0)</td><td rowspan="1" colspan="1">11 (61.1)</td></tr><tr><td colspan="3" rowspan="1">Sex, <italic toggle="yes">n</italic> (%)</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Male</td><td rowspan="1" colspan="1">8 (40.0)</td><td rowspan="1" colspan="1">11 (61.1)</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Female</td><td rowspan="1" colspan="1">12 (60.0)</td><td rowspan="1" colspan="1">7 (38.9)</td></tr><tr><td colspan="3" rowspan="1">MF subtype, <italic toggle="yes">n</italic> (%)</td></tr><tr><td rowspan="1" colspan="1">&#x02003;PMF</td><td rowspan="1" colspan="1">18 (90.0)</td><td rowspan="1" colspan="1">13 (72.2)</td></tr><tr><td rowspan="1" colspan="1">&#x02003;PPV-MF</td><td rowspan="1" colspan="1">1 (5.0)</td><td rowspan="1" colspan="1">3 (16.7)</td></tr><tr><td rowspan="1" colspan="1">&#x02003;PET-MF</td><td rowspan="1" colspan="1">1 (5.0)</td><td rowspan="1" colspan="1">2 (11.1)</td></tr><tr><td rowspan="1" colspan="1">Spleen length, median (range), cm</td><td rowspan="1" colspan="1">10.5 (5&#x02013;25)</td><td rowspan="1" colspan="1">12.0 (4&#x02013;33)</td></tr><tr><td colspan="3" rowspan="1"><italic toggle="yes">JAK2</italic> mutation,
+<italic toggle="yes">n</italic> (%)</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Positive</td><td rowspan="1" colspan="1">19 (95.0)</td><td rowspan="1" colspan="1">12 (66.7)</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Negative</td><td rowspan="1" colspan="1">1 (5.0)</td><td rowspan="1" colspan="1">5 (27.8)</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Not assessed</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1 (5.6)</td></tr><tr><td colspan="3" rowspan="1">IWG risk level at screening, <italic toggle="yes">n</italic>
+(%)</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Int-1</td><td rowspan="1" colspan="1">10 (50.0)</td><td rowspan="1" colspan="1">2 (11.1)</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Int-2</td><td rowspan="1" colspan="1">8 (40.0)</td><td rowspan="1" colspan="1">8 (44.4)</td></tr><tr><td rowspan="1" colspan="1">&#x02003;High risk</td><td rowspan="1" colspan="1">2 (10.0)</td><td rowspan="1" colspan="1">8 (44.4)</td></tr><tr><td rowspan="1" colspan="1">Time since initial diagnosis, median (range), months</td><td rowspan="1" colspan="1">19.1 (1.7&#x02013;190.0)</td><td rowspan="1" colspan="1">39.5 (1.3&#x02013;335.6)</td></tr><tr><td rowspan="1" colspan="1">Hemoglobin, median (range), g/L</td><td rowspan="1" colspan="1">107.5 (51&#x02013;155)</td><td rowspan="1" colspan="1">104.0 (58&#x02013;150)</td></tr><tr><td rowspan="1" colspan="1">Qualifying baseline platelet count, median (range),
+&#x000d7;10<sup>9</sup>/L</td><td rowspan="1" colspan="1">84.0 (75&#x02013;99)</td><td rowspan="1" colspan="1">57.5 (50&#x02013;74)</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn2-20406207221118429"><p>JAK, Janus kinase; IWG, International Working Group; MF,
+myelofibrosis; MSSD, maximum safe starting dose; PET, post-essential
+thrombocythemia; PMF, primary myelofibrosis; PPV, post-polycythemia
+vera.</p></fn></table-wrap-foot></table-wrap></sec><sec id="section19-20406207221118429"><title>Safety</title><p>All patients had at least one AE (<ext-link xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/20406207221118429" ext-link-type="uri">Supplemental Table S3</ext-link>). SAEs occurred in approximately half of
+patients across both strata. SAEs considered to be treatment-related occurred in
+5/20 (25%) patients in S1 (thrombocytopenia, cardiac arrest, gastrointestinal
+hemorrhage, drug withdrawal syndrome, meningitis viral, pneumonia, and
+staphylococcal sepsis) and in 2/18 (11.1%) patients in S2 (thrombocytopenia and
+pneumonia). The proportion of patients experiencing an AE leading to
+discontinuation was higher in S2 than in S1, but the proportion of patients
+reporting AEs leading to dose adjustment or interruption was similar across
+strata. Cumulative AEs reported in at least 20% of patients are shown in <xref rid="table3-20406207221118429" ref-type="table">Table 3</xref>. The most
+common AEs in both strata were anemia (S1, all grade, 11/20 [55.0%]; grade &#x02a7e;3,
+5/20 [25.0%]; S2, all grade, 8/18 [44.4%]; grade &#x02a7e;3, 3/18 [16.7%]) and
+thrombocytopenia (S1, all grade, 10/20 [50.0%]; grade &#x02a7e;3, 8/20 [40.0%]; S2, all
+grade, 14/18 [77.8%]; grade &#x02a7e;3, 14/18 [77.8%]). Non-hematological AEs were
+mostly grade 1 or 2. The most common AE leading to drug discontinuation in both
+strata was thrombocytopenia (1/20 [5.0%] patients in S1 and 4/18 [22.2%]
+patients in S2; <ext-link xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/20406207221118429" ext-link-type="uri">Supplemental Table S4</ext-link>), which was also the most common AE
+requiring dose adjustment or treatment interruption (6/20 [30.0%] patients in
+S1, and 12/18 [66.7%] patients in S2; <ext-link xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/20406207221118429" ext-link-type="uri">Supplemental Table S5</ext-link>).</p><table-wrap position="float" id="table3-20406207221118429"><label>Table 3.</label><caption><p>All grade adverse events, regardless of study drug relationship, reported
+in &#x02a7e;20% of patients in either stratum, MSSD cohort.</p></caption><alternatives><graphic xlink:href="10.1177_20406207221118429-table3" position="float"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1"/><th align="left" colspan="2" rowspan="1">Stratum 1<break/>(75 to
+&#x0003c;100&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L)<break/><italic toggle="yes">N</italic>&#x02009;=&#x02009;20</th><th align="left" colspan="2" rowspan="1">Stratum 2<break/>(50 to
+&#x0003c;75&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L)<break/><italic toggle="yes">N</italic>&#x02009;=&#x02009;18</th></tr><tr><th rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">All grades, <italic toggle="yes">n</italic> (%)</th><th align="left" rowspan="1" colspan="1">Grade&#x02009;&#x02a7e;&#x02009;3, <italic toggle="yes">n</italic> (%)</th><th align="left" rowspan="1" colspan="1">All grades, <italic toggle="yes">n</italic> (%)</th><th align="left" rowspan="1" colspan="1">Grade&#x02009;&#x02a7e;&#x02009;3, <italic toggle="yes">n</italic> (%)</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Anemia</td><td rowspan="1" colspan="1">11 (55.0)</td><td rowspan="1" colspan="1">5 (25.0)</td><td rowspan="1" colspan="1">8 (44.4)</td><td rowspan="1" colspan="1">3 (16.7)</td></tr><tr><td rowspan="1" colspan="1">Thrombocytopenia</td><td rowspan="1" colspan="1">10 (50.0)</td><td rowspan="1" colspan="1">8 (40.0)</td><td rowspan="1" colspan="1">14 (77.8)</td><td rowspan="1" colspan="1">14 (77.8)</td></tr><tr><td rowspan="1" colspan="1">Diarrhea</td><td rowspan="1" colspan="1">6 (30.0)</td><td rowspan="1" colspan="1">1 (5.0)</td><td rowspan="1" colspan="1">5 (27.8)</td><td rowspan="1" colspan="1">0</td></tr><tr><td rowspan="1" colspan="1">Pyrexia</td><td rowspan="1" colspan="1">6 (30.0)</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">4 (22.2)</td><td rowspan="1" colspan="1">1 (5.6)</td></tr><tr><td rowspan="1" colspan="1">Ecchymosis</td><td rowspan="1" colspan="1">6 (30.0)</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">2 (11.1)</td><td rowspan="1" colspan="1">0</td></tr><tr><td rowspan="1" colspan="1">Platelet count decreased</td><td rowspan="1" colspan="1">6 (30.0)</td><td rowspan="1" colspan="1">5 (25.0)</td><td rowspan="1" colspan="1">1 (5.6)</td><td rowspan="1" colspan="1">1 (5.6)</td></tr><tr><td rowspan="1" colspan="1">Abdominal pain</td><td rowspan="1" colspan="1">5 (25.0)</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">4 (22.2)</td><td rowspan="1" colspan="1">0</td></tr><tr><td rowspan="1" colspan="1">White blood cell count decreased</td><td rowspan="1" colspan="1">5 (25.0)</td><td rowspan="1" colspan="1">2 (10.0)</td><td rowspan="1" colspan="1">1 (5.6)</td><td rowspan="1" colspan="1">0</td></tr><tr><td rowspan="1" colspan="1">Epistaxis</td><td rowspan="1" colspan="1">5 (25.0)</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">0</td></tr><tr><td rowspan="1" colspan="1">Nasopharyngitis</td><td rowspan="1" colspan="1">4 (20.0)</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">5 (27.8)</td><td rowspan="1" colspan="1">0</td></tr><tr><td rowspan="1" colspan="1">Fatigue</td><td rowspan="1" colspan="1">4 (20.0)</td><td rowspan="1" colspan="1">1 (5.0)</td><td rowspan="1" colspan="1">3 (16.7)</td><td rowspan="1" colspan="1">0</td></tr><tr><td rowspan="1" colspan="1">Back pain</td><td rowspan="1" colspan="1">4 (20.0)</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">3 (16.7)</td><td rowspan="1" colspan="1">0</td></tr><tr><td rowspan="1" colspan="1">Blood bilirubin increased</td><td rowspan="1" colspan="1">4 (20.0)</td><td rowspan="1" colspan="1">2 (10.0)</td><td rowspan="1" colspan="1">1 (5.6)</td><td rowspan="1" colspan="1">0</td></tr><tr><td rowspan="1" colspan="1">Hemoglobin decreased</td><td rowspan="1" colspan="1">4 (20.0)</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">0</td></tr><tr><td rowspan="1" colspan="1">Asthenia</td><td rowspan="1" colspan="1">3 (15.0)</td><td rowspan="1" colspan="1">1 (5.0)</td><td rowspan="1" colspan="1">5 (27.8)</td><td rowspan="1" colspan="1">2 (11.1)</td></tr><tr><td rowspan="1" colspan="1">Cough</td><td rowspan="1" colspan="1">2 (10.0)</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">6 (33.3)</td><td rowspan="1" colspan="1">0</td></tr><tr><td rowspan="1" colspan="1">Hypocalcemia</td><td rowspan="1" colspan="1">2 (10.0)</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">5 (27.8)</td><td rowspan="1" colspan="1">0</td></tr><tr><td rowspan="1" colspan="1">Hypertension</td><td rowspan="1" colspan="1">1 (5.0)</td><td rowspan="1" colspan="1">1 (5.0)</td><td rowspan="1" colspan="1">4 (22.2)</td><td rowspan="1" colspan="1">0</td></tr><tr><td rowspan="1" colspan="1">Headache</td><td rowspan="1" colspan="1">1 (5.0)</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">4 (22.2)</td><td rowspan="1" colspan="1">0</td></tr><tr><td rowspan="1" colspan="1">Nausea</td><td rowspan="1" colspan="1">1 (5.0)</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">4 (22.2)</td><td rowspan="1" colspan="1">0</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn3-20406207221118429"><p>MSSD, maximum safe starting dose.</p></fn><fn id="table-fn4-20406207221118429"><p>A patient with multiple severity grades for an adverse event was only
+counted under the maximum grade. A patient with multiple occurrences
+of an adverse event was counted only once in the adverse event
+category. Adverse events occurring more than 30 days after the
+discontinuation of study treatment were not summarized.</p></fn></table-wrap-foot></table-wrap><p>There were four on-treatment deaths (deaths reported up to 30 days after the last
+ruxolitinib dose) reported in the MSSD cohort (<xref rid="table4-20406207221118429" ref-type="table">Table 4</xref>). The causes of the two deaths
+in S1 were cardiac arrest and acute myeloid leukemia, whereas the causes of the
+two deaths in S2 were multiorgan failure and sepsis. The death due to cardiac
+arrest occurred 14 days after the last dose of ruxolitinib and was assessed by
+the investigator as suspected of being related to ruxolitinib; of note, this
+event occurred in an elderly patient (age 76 years) with an active cardiac
+condition (left ventricular hypertrophy), concurrent sepsis and acute kidney
+injury. The other deaths were assessed as being unrelated to study drug.</p><table-wrap position="float" id="table4-20406207221118429"><label>Table 4.</label><caption><p>On-treatment deaths, MSSD cohort.</p></caption><alternatives><graphic xlink:href="10.1177_20406207221118429-table4" position="float"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Primary cause of death</th><th align="left" rowspan="1" colspan="1">Stratum 1<break/>(75 to
+&#x0003c;100&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L)<break/><italic toggle="yes">N</italic>&#x02009;=&#x02009;20</th><th align="left" rowspan="1" colspan="1">Stratum 2<break/>(50 to
+&#x0003c;75&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L)<break/><italic toggle="yes">N</italic>&#x02009;=&#x02009;18</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Patients who died, <italic toggle="yes">n</italic> (%)</td><td rowspan="1" colspan="1">2 (10.0)</td><td rowspan="1" colspan="1">2 (11.1)</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Cardiac arrest</td><td rowspan="1" colspan="1">1 (5.0)</td><td rowspan="1" colspan="1">0</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Multiple organ dysfunction syndrome</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1 (5.6)</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Sepsis</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1 (5.6)</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Acute myeloid leukemia</td><td rowspan="1" colspan="1">1 (5.0)</td><td rowspan="1" colspan="1">0</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn5-20406207221118429"><p>MSSD, maximum safe starting dose.</p></fn></table-wrap-foot></table-wrap></sec><sec id="section20-20406207221118429"><title>Efficacy</title><p>A large proportion of patients in both strata achieved clinically meaningful
+reductions in spleen length (<xref rid="fig1-20406207221118429" ref-type="fig">Figure 1</xref> and <ext-link xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/20406207221118429" ext-link-type="uri">Supplemental Figure S2A</ext-link>). Among all evaluable patients (i.e.
+those with both baseline and post-baseline assessment), a spleen response
+(defined as a &#x02a7e;50% reduction in spleen length from baseline) was achieved by
+6/15 (40.0%) and 3/8 (37.5%) patients in S1 and S2, respectively, at week 24;
+5/15 (33.3%) and 3/10 (30.0%) patients, respectively, at week 48; and by 10/20
+(50.0%) and 12/18 (66.7%) patients, respectively, at any time during the study.
+In terms of symptoms, there was a decrease from baseline &#x02013; reflecting
+improvement &#x02013; in MF-SAF TSS scores, with median (range) changes of &#x02212;5.3 (&#x02212;27 to
+7) in S1, and &#x02212;0.1 (&#x02013;29 to 8) in S2 at week 24 (<ext-link xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/20406207221118429" ext-link-type="uri">Supplemental Figure S2B</ext-link>). Treatment with ruxolitinib resulted in
+improvement in all individual symptoms scored in the MF-SAF TSS form, except for
+the symptom of bone or muscle pain. At week 24, 30.8% of patients in S1 and
+40.0% of patients in S2 achieved a symptom response (&#x02a7e;50% reduction from
+baseline in MF-SAF TSS; <ext-link xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/20406207221118429" ext-link-type="uri">Supplemental Table S6</ext-link>).</p><fig position="float" id="fig1-20406207221118429"><label>Figure 1.</label><caption><p>Spleen length response. Waterfall plot of best response in spleen length
+(with respect to baseline) at any time during the study by stratum, MSSD
+cohort.</p><p>MSSD, maximum safe starting dose.</p></caption><graphic xlink:href="10.1177_20406207221118429-fig1" position="float"/></fig></sec><sec id="section21-20406207221118429"><title>PK/PD population modeling</title><p>A total of 276 plasma samples from 40 patients (including patients treated at
+doses other than the MSSD, e.g. 5 and 15 mg bid) from this study were included
+to validate a PopPK model previously developed in patients with baseline
+platelet counts of &#x02a7e;100&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L<sup>
+<xref rid="bibr22-20406207221118429" ref-type="bibr">22</xref>
+</sup> against the EXPAND study population. Overall, modeling results showed
+that baseline platelet counts had no effect on the PK of ruxolitinib, with no
+substantial differences in ruxolitinib plasma concentration between patients
+with baseline platelet counts &#x02a7e;100&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L <italic toggle="yes">versus</italic>
+those with baseline platelet counts &#x02a7e;50 to &#x0003c;100&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L.</p><p>An existing PopPKPD model for platelet count <italic toggle="yes">versus</italic> average
+ruxolitinib plasma concentration (developed with data from patients with
+baseline platelet count &#x02a7e;100&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L) was validated in the
+low-platelet population to evaluate its ability to accurately predict platelet
+count response in patients in the EXPAND study. This was an indirect response
+model that characterized the effect of ruxolitinib through an inhibitory
+E<sub>max</sub> model applied to the production rate (kin) (the zero-order
+formation rate of platelets). Platelet counts observed in this study could be
+fitted well to the model (<ext-link xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/20406207221118429" ext-link-type="uri">Supplemental Figure S3</ext-link>), suggesting the relationship between
+platelet count and predicted ruxolitinib plasma concentration reported in
+patients with baseline platelet counts &#x02a7e;100&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L also applies to
+this population. However, validation in the low-platelet population showed a
+slight under prediction of platelet count, particularly at later time points,
+which may indicate a slightly faster recovery of platelet counts in the low
+platelet at baseline population compared with patients with normal platelet
+counts at baseline.</p><p>A PopPKPD model also exists to assess the relationship between spleen response
+and average ruxolitinib plasma concentration; however, this model was based on
+spleen volume, whereas spleen length (measured by palpation) was assessed in
+patients in the EXPAND study. Although spleen length is known to correlate well
+with spleen volume, it was not possible for the previous PopPKPD model to be
+utilized. Instead, spleen length over time was assessed and stratified by
+quartiles of predicted average ruxolitinib plasma concentration and by dose
+level. The results showed that although there was considerable variability in
+spleen length over the course of the study, an initial reduction in spleen
+length was clearly observed in the 10 mg bid dose group (<xref rid="fig2-20406207221118429" ref-type="fig">Figure 2</xref> and <ext-link xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/20406207221118429" ext-link-type="uri">Supplemental Figure S4</ext-link>).</p><fig position="float" id="fig2-20406207221118429"><label>Figure 2.</label><caption><p>Spleen length over time by ruxolitinib dose. Box plot presentation of
+spleen length over time by ruxolitinib dosing regimen. Solid black line
+crosses median values at each time point. Plot shows boxes (25th&#x02013;75th
+percentiles) with whiskers (vertical lines) extending to the furthest
+value within 1.5&#x02009;&#x000d7;&#x02009;IQR. Dots show outliers.</p><p>AM, morning dose; IQR, interquartile range; PM, evening dose.</p></caption><graphic xlink:href="10.1177_20406207221118429-fig2" position="float"/></fig></sec></sec><sec sec-type="discussion" id="section22-20406207221118429"><title>Discussion</title><p>In patients with MF receiving ruxolitinib therapy, current clinical practice is to
+titrate the dose of ruxolitinib according to the patient&#x02019;s platelet count; this
+means that patients with low platelet counts at baseline usually receive a starting
+dose of 5 mg bid, rather than 15&#x02013;20 mg bid. However, ruxolitinib response is dose-dependent,<sup>
+<xref rid="bibr12-20406207221118429" ref-type="bibr">12</xref>
+</sup> suggesting that patients with low platelet counts could potentially be
+treated with a suboptimal dose.</p><p>The EXPAND study aimed to establish the MSSD in both strata (S1, 75 to
+&#x0003c;100&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L; S2, 50 to &#x0003c;75&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L) and assess the
+long-term safety and efficacy of ruxolitinib in patients with platelet counts
+&#x0003c;100&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L. Our results show that a 10 mg bid starting dose of
+ruxolitinib was well tolerated in a population of patients with MF and low baseline
+platelet counts (50 to &#x0003c;100&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L). Moreover, ruxolitinib treatment
+at this dose provided clinically meaningful reductions in spleen length and
+improvement in clinical symptoms.</p><p>The PK/PD assessments further supported the safety and efficacy of ruxolitinib in
+this patient population: the reduction in platelet count from baseline was similar
+in patients with low platelet counts compared with those with platelet counts within
+the normal range at baseline. In addition, a faster platelet recovery was apparent
+in patients with low platelet counts at baseline, as indicated by under prediction
+of platelet count at later time points. PK/PD analyses also showed a marked
+reduction in spleen length for patients treated with a 10 mg bid dose. As such, the
+MSSD was deemed acceptable in terms of both efficacy and safety.</p><p>Evidence from previous clinical trials to inform optimal dosing in patients with
+platelet counts &#x0003c;100&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L is limited, as these patients were
+excluded from the pivotal clinical trials COMFORT-I and COMFORT-II which led to the
+approval of ruxolitinib for patients with MF.<sup><xref rid="bibr10-20406207221118429" ref-type="bibr">10</xref>,<xref rid="bibr11-20406207221118429" ref-type="bibr">11</xref></sup> However, a high proportion of
+patients with MF present with low platelet counts.<sup>
+<xref rid="bibr14-20406207221118429" ref-type="bibr">14</xref>
+</sup> The more recent JAK inhibitor rUxolitinib in Myelofibrosis Patients (JUMP)
+study evaluated the safety and efficacy of ruxolitinib in 2,233 patients with MF,
+including a subset of 138 patients with low platelet counts
+(&#x0003c;100&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L) at baseline, who were treated with the currently
+recommended starting dose of 5 mg bid.<sup>
+<xref rid="bibr18-20406207221118429" ref-type="bibr">18</xref>
+</sup></p><p>As expected, a high percentage of patients in EXPAND reported all-grade anemia and
+thrombocytopenia during the 3-year follow-up (55.0% and 50.0% in S1; 44.4% and 77.8%
+in S2, respectively), as already reported in the 48-week analysis (45.0% and 40.0%
+in S1; 44.4% and 77.8% in S2, respectively).<sup>
+<xref rid="bibr20-20406207221118429" ref-type="bibr">20</xref>
+</sup> These results are in agreement with those from the JUMP study, where the most
+common AEs in the population with low platelet count at baseline were also anemia
+(all grade, 52.9% of patients) and thrombocytopenia (all grade, 73.2%).<sup>
+<xref rid="bibr18-20406207221118429" ref-type="bibr">18</xref>
+</sup> The proportion of patients reporting anemia in the EXPAND study was lower
+than that reported for patients treated with ruxolitinib in COMFORT-I (96.1%),
+although more patients in EXPAND reported thrombocytopenia (69.7% in COMFORT-I).<sup>
+<xref rid="bibr11-20406207221118429" ref-type="bibr">11</xref>
+</sup></p><p>In this study, AEs led to treatment discontinuation in 20.0% of patients in S1 and
+50.0% of patients in S2, up from 15.0% of patients in S1 and 33.3% of patients in S2
+who had discontinued treatment at 48 weeks.<sup>
+<xref rid="bibr20-20406207221118429" ref-type="bibr">20</xref>
+</sup> Consistent with the 48-week analysis, thrombocytopenia was the most common AE
+leading to study discontinuation (5.0% in S1 and 22.2% in S2); similarly, in
+COMFORT-II, thrombocytopenia was the most common AE leading to dose modification
+(41.0% of patients in the ruxolitinib arm).<sup>
+<xref rid="bibr10-20406207221118429" ref-type="bibr">10</xref>
+</sup> The low percentage of patients discontinuing treatment due to
+thrombocytopenia in S1 suggests that this AE is manageable even in this patient
+population. Although 50.0% of patients in S2 discontinued treatment due to AEs, less
+than half of these patients did so due to thrombocytopenia. Despite the high
+incidence of worsening thrombocytopenia in this study, grade &#x02a7e;3 hemorrhages were
+rarely reported in EXPAND patients treated with the 10 mg bid starting dose (three
+patients, all in S1: one anal hemorrhage, one gastrointestinal hemorrhage and one
+wound hemorrhage). Furthermore, 20.0% of patients in S1 and 22.2% of patients in S2
+remained on treatment for at least 3 years.</p><p>As previously reported in the JUMP study, non-hematological AEs were mild, with the
+most common being grade 1/2 and very rarely leading to treatment discontinuation.
+Overall, the observed AEs were consistent with the known safety profile of
+ruxolitinib, and no new or unexpected safety signals were reported. These results
+support the use of a higher starting dose of ruxolitinib for patients with low
+platelet counts. As previously mentioned, ruxolitinib toxicity can be managed with
+dose reductions and interruptions,<sup><xref rid="bibr10-20406207221118429" ref-type="bibr">10</xref>,<xref rid="bibr11-20406207221118429" ref-type="bibr">11</xref></sup> and since efficacy is
+dose-dependent, it is expected that patients will derive a greater benefit from
+treatment when starting at a higher dose.</p><p>One additional on-treatment death (caused by sepsis) was reported among patients
+receiving the MSSD since the 48-week analysis, leading to a total of four
+on-treatment deaths reported during the study, with only one case (cardiac arrest,
+reported during safety follow-up, 14 days after the last dose of ruxolitinib)
+suspected of being related to treatment.</p><p>Ruxolitinib treatment at a starting dose of 10 mg bid provided clinically meaningful
+reductions in spleen length. A large proportion of patients (50.0% in S1 and 66.7%
+in S2) achieved a spleen response (&#x02a7e;50% reduction in spleen length from baseline) at
+any time during the study; this percentage is higher than that reported at 48 weeks
+for patients in S1 (40.0%),<sup>
+<xref rid="bibr20-20406207221118429" ref-type="bibr">20</xref>
+</sup> suggesting that some patients in S1 remaining on treatment for &#x0003e;48 weeks
+managed to achieve a late spleen response. Response rates were also higher than
+those reported for patients in the low platelet count subset from the JUMP study (43.8%),<sup>
+<xref rid="bibr18-20406207221118429" ref-type="bibr">18</xref>
+</sup> who were treated with the 5 mg bid dose. It is important to note that these
+response rates were observed in the EXPAND study despite dose reductions and
+interruptions, which affected the majority of patients. The larger proportion of
+patients in S2 achieving a spleen response could be related to the fact that average
+spleen length at baseline was larger for this population than for patients in
+S1.</p><p>Results from the JUMP study showed lower rates of spleen and symptom response to
+ruxolitinib in patients with low platelet counts at baseline compared with the
+general study population;<sup>
+<xref rid="bibr18-20406207221118429" ref-type="bibr">18</xref>
+</sup> however, most of these patients remained on the 5 mg starting dose. Analyses
+of two previous studies<sup><xref rid="bibr17-20406207221118429" ref-type="bibr">17</xref>,<xref rid="bibr23-20406207221118429" ref-type="bibr">23</xref></sup> have shown greater clinical improvement following treatment at
+higher doses. The greater clinical benefits of a higher ruxolitinib dose in patients
+with MF and low platelet counts are compounded by the manageability and safety of
+the 10 mg bid dose as shown by our results.</p><p>Overall, the safety profile of a 10 mg bid dose of ruxolitinib in this study was
+acceptable and consistent with the known overall safety profile of ruxolitinib in
+patients with MF. Treatment at this dose improved symptoms in these patients, even
+in those at a more advanced stage of disease. Results from this long-term study
+support the use of 10 mg bid as the maximum recommended starting dose of ruxolitinib
+in patients with low platelet counts (50 to &#x0003c;100&#x02009;&#x000d7;&#x02009;10<sup>9</sup>/L).</p></sec><sec sec-type="supplementary-material" id="section23-20406207221118429" specific-use="figshare"><title>Supplemental Material</title><supplementary-material id="suppl1-20406207221118429" position="float" content-type="local-data"><caption><title>sj-docx-1-tah-10.1177_20406207221118429 &#x02013; Supplemental material for
+Efficacy and safety of ruxolitinib in patients with myelofibrosis and low
+platelet count (50&#x02009;&#x000d7;&#x02009;109/L to &#x0003c;100&#x02009;&#x000d7;&#x02009;109/L) at baseline: the final
+analysis of EXPAND</title></caption><media xlink:href="sj-docx-1-tah-10.1177_20406207221118429.docx"><caption><p>Click here for additional data file.</p></caption></media><p>Supplemental material, sj-docx-1-tah-10.1177_20406207221118429 for Efficacy and
+safety of ruxolitinib in patients with myelofibrosis and low platelet count
+(50&#x02009;&#x000d7;&#x02009;109/L to &#x0003c;100&#x02009;&#x000d7;&#x02009;109/L) at baseline: the final analysis of EXPAND by
+Paola Guglielmelli, Jean-Jacques Kiladjian, Alessandro M. Vannucchi, Minghui
+Duan, Haitao Meng, Ling Pan, Guangsheng He, Srdan Verstovsek, Fran&#x000e7;oise Boyer,
+Fiorenza Barraco, Dietger Niederwieser, Ester Pungolino, Anna Marina Liberati,
+Claire Harrison, Pantelia Roussou, Monika Wroclawska, Divyadeep Karumanchi,
+Karen Sinclair, Peter A.W. te Boekhorst and Heinz Gisslinger in Therapeutic
+Advances in Hematology</p></supplementary-material></sec></body><back><ack><p>The authors would like to thank all patients and their families, all investigators at
+all study sites, and Vanesa Martinez Lopez, PhD, of Novartis Ireland Ltd, for
+medical writing support, which was funded by Novartis Pharmaceuticals in accordance
+with Good Publication Practice (GPP3) guidelines (<ext-link xlink:href="http://www.ismpp.org/gpp3" ext-link-type="uri">http://www.ismpp.org/gpp3</ext-link>).</p></ack><fn-group><fn fn-type="other"><p><bold>ORCID iDs:</bold> Paola Guglielmelli <inline-graphic xlink:href="10.1177_20406207221118429-img1.jpg"/>
+<ext-link xlink:href="https://orcid.org/0000-0003-1809-284X" ext-link-type="uri">https://orcid.org/0000-0003-1809-284X</ext-link></p><p>Guangsheng He <inline-graphic xlink:href="10.1177_20406207221118429-img1.jpg"/>
+<ext-link xlink:href="https://orcid.org/0000-0002-3944-5897" ext-link-type="uri">https://orcid.org/0000-0002-3944-5897</ext-link></p></fn><fn fn-type="supplementary-material"><p><bold>Supplemental material:</bold> Supplemental material for this article is available online.</p></fn></fn-group><sec id="section24-20406207221118429"><title>Declarations</title><fn-group><fn fn-type="other"><p><bold>Ethics approval and consent to participate:</bold> EXPAND was designed and conducted in accordance with the ethical principles
+of the Declaration of Helsinki, the International Conference on
+Harmonization (ICH) Harmonized Tripartite Guidelines for Good Clinical
+Practice, and local laws and regulations. The study protocol and its
+amendments were reviewed and approved by an independent ethics committee or
+institutional review board for each study site. Written informed consent was
+provided by all patients before any study-related procedures commenced. The
+reporting of this study conforms to the CONSORT statement.</p></fn><fn fn-type="other"><p><bold>Consent for publication:</bold> Not applicable.</p></fn><fn fn-type="con"><p><bold>Author contributions:</bold>
+<bold>Paola Guglielmelli:</bold> Formal analysis; Investigation; Writing &#x02013;
+review &#x00026; editing.</p><p><bold>Jean-Jacques Kiladjian:</bold> Formal analysis; Investigation; Writing
+&#x02013; review &#x00026; editing.</p><p><bold>Alessandro M. Vannucchi:</bold> Conceptualization; Formal analysis;
+Investigation; Writing &#x02013; review &#x00026; editing.</p><p><bold>Minghui Duan:</bold> Formal analysis; Investigation; Writing &#x02013; review
+&#x00026; editing.</p><p><bold>Haitao Meng:</bold> Formal analysis; Investigation; Writing &#x02013; review
+&#x00026; editing.</p><p><bold>Ling Pan:</bold> Formal analysis; Investigation; Writing &#x02013; review &#x00026;
+editing.</p><p><bold>Guangsheng He:</bold> Formal analysis; Investigation; Writing &#x02013; review
+&#x00026; editing.</p><p><bold>Srdan Verstovsek:</bold> Formal analysis; Investigation; Writing &#x02013;
+review &#x00026; editing.</p><p><bold>Fran&#x000e7;oise Boyer:</bold> Formal analysis; Investigation; Writing &#x02013;
+review &#x00026; editing.</p><p><bold>Fiorenza Barraco:</bold> Formal analysis; Investigation; Writing &#x02013;
+review &#x00026; editing.</p><p><bold>Dietger Niederwieser:</bold> Formal analysis; Investigation; Writing &#x02013;
+review &#x00026; editing.</p><p><bold>Ester Pungolino:</bold> Formal analysis; Investigation; Writing &#x02013;
+review &#x00026; editing.</p><p><bold>Anna Marina Liberati:</bold> Formal analysis; Investigation; Writing &#x02013;
+review &#x00026; editing.</p><p><bold>Claire Harrison:</bold> Formal analysis; Investigation; Writing &#x02013;
+review &#x00026; editing.</p><p><bold>Pantelia Roussou:</bold> Formal analysis; Investigation; Writing &#x02013;
+review &#x00026; editing.</p><p><bold>Monika Wroclawska:</bold> Formal analysis; Investigation; Writing &#x02013;
+review &#x00026; editing.</p><p><bold>Divyadeep Karumanchi:</bold> Formal analysis; Investigation; Writing &#x02013;
+review &#x00026; editing.</p><p><bold>Karen Sinclair:</bold> Formal analysis; Investigation; Writing &#x02013; review
+&#x00026; editing.</p><p><bold>Peter A. W. te Boekhorst:</bold> Formal analysis; Investigation;
+Writing &#x02013; review &#x00026; editing.</p><p><bold>Heinz Gisslinger:</bold> Formal analysis; Investigation; Writing &#x02013;
+review &#x00026; editing.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding:</bold> The authors disclosed receipt of the following financial support for the
+research, authorship, and/or publication of this article: This study was
+funded by Novartis Pharmaceuticals.</p></fn><fn fn-type="COI-statement"><p><bold>Competing interests:</bold> PG reports payment of honoraria from Abbvie and Novartis; travel support from
+Abbvie, Novartis and Sanofi; participation in advisory boards from Abbvie
+and Novartis. JJK reports consulting fees from Abbvie and Novartis; payment
+of honoraria from AOP Orphan and Novartis; participation in advisory boards
+from BMS/Celgene and Incyte. AMV reports consulting fees from Abbvie,
+Blueprint, BMS/Celgene, Incyte, Novartis and Roche; payment of honoraria
+from Abbvie, BMS and Novartis. HM reports payment of honoraria from
+Novartis. LP reports payment of honoraria from Novartis. GH reports payment
+of honoraria from Novartis. SV reports research grants from AstraZeneca,
+Blueprint, Celgene, CTI BioPharma Corp., Genentech, Gilead, Incyte,
+Italpharma, Novartis, NS Pharma, Pharma Essentia, Promedior, Protagonist
+Therapeutics, Roche, Sierra Oncology; consulting fees from Celgene,
+Constellation, Incyte, Novartis, Pragmatist, Sierra. FBoyer reports
+consulting fees from Novartis. DN reports research funding from Daiichi;
+participation on speaker&#x02019;s bureau from Amgen and Novartis; membership on an
+entity&#x02019;s board of directors or advisory committees from Cellectis. AML
+reports institutional grants from Abbvie, Archigen, Beigene, Celgene,
+Fibrogen, GSK, Incyte, Janssen, Karyopharm, Morphosys, Novartis, Onconova,
+Oncopeptides, Pfizer, Roche, Sanofi, Servier, Takeda, Verastem; consulting
+fees from Incyte; payment of honoraria from Abbvie, BMS, Celgene, IQVIA,
+Janssen, Servier; travel support from Abbvie, BMS, Celgene, IQVIA, Janssen,
+Novartis, Roche, Sanofi, Takeda, Verastem; participation in advisory boards
+from Amgen and Servier. CH reports institutional grants from BMS/Celgene,
+Constellation Pharmaceuticals and Novartis; consulting fees from Novartis;
+payment of honoraria from Abbvie, AOP Orphan Pharmaceuticals, BMS/Celgene,
+CTI BioPharma Corp, Incyte, Janssen and Novartis; participation in advisory
+boards from AOP Orphan Pharmaceuticals, Celgene, Constellation
+Pharmaceuticals, CTI BioPharma Corp, Galecto, Geron, Incyte, Keros,
+Novartis, Promedior, Roche, Sierra Oncology. PR, MW, DK, and KS are
+employers and stockholders of Novartis. PAWTB reports participation in
+advisory boards from BMS/Celgene. HG reports research grants from AOP Orphan
+and Novartis; consulting fees from AOP Orphan, Myelopro, Novartis; payment
+of honoraria from AOP Orphan, BMS/Celgene, Janssen, Novartis. FBarraco, MD,
+and EP report no conflicts of interest.</p></fn><fn fn-type="other"><p><bold>Availability of data and materials:</bold> Novartis will not provide access to patient-level data, if there is a
+reasonable likelihood that individual patients could be re-identified. Phase
+1 studies, by their nature, present a high risk of patient
+re-identification; therefore, patient individual results for phase 1 studies
+cannot be shared. In addition, clinical data, in some cases, have been
+collected subject to contractual or consent provisions that prohibit
+transfer to third parties. Such restrictions may preclude granting access
+under these provisions. Where co-development agreements or other legal
+restrictions prevent companies from sharing particular data, companies will
+work with qualified requestors to provide summary information where
+possible.</p></fn></fn-group></sec><ref-list><title>References</title><ref id="bibr1-20406207221118429"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Abdel-Wahab</surname><given-names>OI</given-names></name>
+<name><surname>Levine</surname><given-names>RL.</given-names></name>
+</person-group>
+<article-title>Primary myelofibrosis: update on definition, pathogenesis, and
+treatment</article-title>. <source>Annu Rev Med</source>
+<year>2009</year>; <volume>60</volume>:
+<fpage>233</fpage>&#x02013;<lpage>245</lpage>.<pub-id pub-id-type="pmid">18947294</pub-id></mixed-citation></ref><ref id="bibr2-20406207221118429"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Harrison</surname><given-names>CN</given-names></name>
+<name><surname>Koschmieder</surname><given-names>S</given-names></name>
+<name><surname>Foltz</surname><given-names>L</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>The impact of
+myeloproliferative neoplasms (MPNs) on patient quality of life and
+productivity: results from the international MPN Landmark
+survey</article-title>. <source>Ann Hematol</source>
+<year>2017</year>; <volume>96</volume>:
+<fpage>1653</fpage>&#x02013;<lpage>1665</lpage>.<pub-id pub-id-type="pmid">28780729</pub-id></mixed-citation></ref><ref id="bibr3-20406207221118429"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Iurlo</surname><given-names>A</given-names></name>
+<name><surname>Cattaneo</surname><given-names>D.</given-names></name>
+</person-group>
+<article-title>Treatment of myelofibrosis: old and new
+strategies</article-title>. <source>Clin Med Insights Blood Disord</source>
+<year>2017</year>; <volume>10</volume>:
+<fpage>1</fpage>&#x02013;<lpage>10</lpage>.</mixed-citation></ref><ref id="bibr4-20406207221118429"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Alimam</surname><given-names>S</given-names></name>
+<name><surname>McLornan</surname><given-names>D</given-names></name>
+<name><surname>Harrison</surname><given-names>C.</given-names></name>
+</person-group>
+<article-title>The use of JAK inhibitors for low-risk
+myelofibrosis</article-title>. <source>Expert Rev Hematol</source>
+<year>2015</year>; <volume>8</volume>:
+<fpage>551</fpage>&#x02013;<lpage>553</lpage><pub-id pub-id-type="pmid">26343888</pub-id></mixed-citation></ref><ref id="bibr5-20406207221118429"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>O&#x02019;Sullivan</surname><given-names>J</given-names></name>
+<name><surname>Mead</surname><given-names>AJ.</given-names></name>
+</person-group>
+<article-title>Heterogeneity in myeloproliferative neoplasms: causes and
+consequences</article-title>. <source>Adv Biol Regul</source>
+<year>2019</year>; <volume>71</volume>:
+<fpage>55</fpage>&#x02013;<lpage>68</lpage>.<pub-id pub-id-type="pmid">30528537</pub-id></mixed-citation></ref><ref id="bibr6-20406207221118429"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Ihle</surname><given-names>JN</given-names></name>
+<name><surname>Gilliland</surname><given-names>DG.</given-names></name>
+</person-group>
+<article-title>JAK2: normal function and role in hematopoietic
+disorders</article-title>. <source>Curr Opin Genet Dev</source>
+<year>2007</year>; <volume>17</volume>:
+<fpage>8</fpage>&#x02013;<lpage>14</lpage>.<pub-id pub-id-type="pmid">17208428</pub-id></mixed-citation></ref><ref id="bibr7-20406207221118429"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Cervantes</surname><given-names>F.</given-names></name>
+</person-group>
+<article-title>How I treat myelofibrosis</article-title>. <source>Blood</source>
+<year>2014</year>; <volume>124</volume>:
+<fpage>2635</fpage>&#x02013;<lpage>2642</lpage>.<pub-id pub-id-type="pmid">25232060</pub-id></mixed-citation></ref><ref id="bibr8-20406207221118429"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Harrison</surname><given-names>CN</given-names></name>
+<name><surname>Vannucchi</surname><given-names>AM</given-names></name>
+<name><surname>Kiladjian</surname><given-names>JJ</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Long-term findings from
+COMFORT-II, a phase 3 study of ruxolitinib vs best available therapy for
+myelofibrosis</article-title>. <source>Leukemia</source>
+<year>2016</year>; <volume>30</volume>:
+<fpage>1701</fpage>&#x02013;<lpage>1707</lpage>.<pub-id pub-id-type="pmid">27211272</pub-id></mixed-citation></ref><ref id="bibr9-20406207221118429"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Verstovsek</surname><given-names>S</given-names></name>
+<name><surname>Mesa</surname><given-names>RA</given-names></name>
+<name><surname>Gotlib</surname><given-names>J</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Long-term treatment with
+ruxolitinib for patients with myelofibrosis: 5-year update from the
+randomized, double-blind, placebo-controlled, phase 3 COMFORT-I
+trial</article-title>. <source>J Hematol Oncol</source>
+<year>2017</year>; <volume>10</volume>: <fpage>55</fpage>.<pub-id pub-id-type="pmid">28228106</pub-id></mixed-citation></ref><ref id="bibr10-20406207221118429"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Harrison</surname><given-names>C</given-names></name>
+<name><surname>Kiladjian</surname><given-names>JJ</given-names></name>
+<name><surname>Al-Ali</surname><given-names>HK</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>JAK inhibition with
+ruxolitinib versus best available therapy for myelofibrosis</article-title>.
+<source>N Engl J Med</source>
+<year>2012</year>; <volume>366</volume>:
+<fpage>787</fpage>&#x02013;<lpage>798</lpage><pub-id pub-id-type="pmid">22375970</pub-id></mixed-citation></ref><ref id="bibr11-20406207221118429"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Verstovsek</surname><given-names>S</given-names></name>
+<name><surname>Mesa</surname><given-names>RA</given-names></name>
+<name><surname>Gotlib</surname><given-names>J</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>A double-blind,
+placebo-controlled trial of ruxolitinib for myelofibrosis</article-title>.
+<source>N Engl J Med</source>
+<year>2012</year>; <volume>366</volume>:
+<fpage>799</fpage>&#x02013;<lpage>807</lpage>.<pub-id pub-id-type="pmid">22375971</pub-id></mixed-citation></ref><ref id="bibr12-20406207221118429"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Verstovsek</surname><given-names>S</given-names></name>
+<name><surname>Kantarjian</surname><given-names>H</given-names></name>
+<name><surname>Mesa</surname><given-names>RA</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Safety and efficacy of
+INCB018424, a JAK1 and JAK2 inhibitor, in myelofibrosis</article-title>.
+<source>N Engl J Med</source>
+<year>2010</year>; <volume>363</volume>:
+<fpage>1117</fpage>&#x02013;<lpage>1127</lpage>.<pub-id pub-id-type="pmid">20843246</pub-id></mixed-citation></ref><ref id="bibr13-20406207221118429"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Mesa</surname><given-names>RA</given-names></name>
+<name><surname>Barosi</surname><given-names>G</given-names></name>
+<name><surname>Cervantes</surname><given-names>F</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Myelofibrosis with myeloid
+metaplasia: disease overview and non-transplant treatment
+options</article-title>. <source>Best Pract Res Clin Haematol</source>
+<year>2006</year>; <volume>19</volume>:
+<fpage>495</fpage>&#x02013;<lpage>517</lpage>.<pub-id pub-id-type="pmid">16781486</pub-id></mixed-citation></ref><ref id="bibr14-20406207221118429"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Tefferi</surname><given-names>A</given-names></name>
+<name><surname>Lasho</surname><given-names>TL</given-names></name>
+<name><surname>Jimma</surname><given-names>T</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>One thousand patients with
+primary myelofibrosis: the Mayo Clinic experience</article-title>.
+<source>Mayo Clin Proc</source>
+<year>2012</year>; <volume>87</volume>:
+<fpage>25</fpage>&#x02013;<lpage>33</lpage>.<pub-id pub-id-type="pmid">22212965</pub-id></mixed-citation></ref><ref id="bibr15-20406207221118429"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Parganas</surname><given-names>E</given-names></name>
+<name><surname>Wang</surname><given-names>D</given-names></name>
+<name><surname>Stravopodis</surname><given-names>D</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>JAK2 is essential for
+signaling through a variety of cytokine receptors</article-title>.
+<source>Cell</source>
+<year>1998</year>; <volume>93</volume>:
+<fpage>385</fpage>&#x02013;<lpage>395</lpage><pub-id pub-id-type="pmid">9590173</pub-id></mixed-citation></ref><ref id="bibr16-20406207221118429"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Levine</surname><given-names>RL</given-names></name>
+<name><surname>Pardanani</surname><given-names>A</given-names></name>
+<name><surname>Tefferi</surname><given-names>A</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Role of JAK2 in the
+pathogenesis and therapy of myeloproliferative disorders</article-title>.
+<source>Nat Rev Cancer</source>
+<year>2007</year>; <volume>7</volume>:
+<fpage>673</fpage>&#x02013;<lpage>683</lpage>.<pub-id pub-id-type="pmid">17721432</pub-id></mixed-citation></ref><ref id="bibr17-20406207221118429"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Talpaz</surname><given-names>M</given-names></name>
+<name><surname>Paquette</surname><given-names>R</given-names></name>
+<name><surname>Afrin</surname><given-names>L</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Interim analysis of safety
+and efficacy of ruxolitinib in patients with myelofibrosis and low platelet
+counts</article-title>. <source>J Hematol Oncol</source>
+<year>2013</year>; <volume>6</volume>: <fpage>81</fpage>.<pub-id pub-id-type="pmid">24283202</pub-id></mixed-citation></ref><ref id="bibr18-20406207221118429"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Al-Ali</surname><given-names>HK</given-names></name>
+<name><surname>Griesshammer</surname><given-names>M</given-names></name>
+<name><surname>Foltz</surname><given-names>L</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Primary analysis of JUMP, a
+phase 3b, expanded-access study evaluating the safety and efficacy of
+ruxolitinib in patients with myelofibrosis, including those with low
+platelet counts</article-title>. <source>Br J Haematol</source>
+<year>2020</year>; <volume>189</volume>:
+<fpage>888</fpage>&#x02013;<lpage>903</lpage>.<pub-id pub-id-type="pmid">32017044</pub-id></mixed-citation></ref><ref id="bibr19-20406207221118429"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Al-Ali</surname><given-names>HK</given-names></name>
+<name><surname>Vannucchi</surname><given-names>AM.</given-names></name>
+</person-group>
+<article-title>Managing patients with myelofibrosis and low platelet
+counts</article-title>. <source>Ann Hematol</source>
+<year>2017</year>; <volume>96</volume>:
+<fpage>537</fpage>&#x02013;<lpage>548</lpage><pub-id pub-id-type="pmid">27209535</pub-id></mixed-citation></ref><ref id="bibr20-20406207221118429"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Vannucchi</surname><given-names>AM</given-names></name>
+<name><surname>Te Boekhorst</surname><given-names>PAW</given-names></name>
+<name><surname>Harrison</surname><given-names>CN</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>EXPAND, a dose-finding study
+of ruxolitinib in patients with myelofibrosis and low platelet counts:
+48-week follow-up analysis</article-title>. <source>Haematologica</source>
+<year>2019</year>; <volume>104</volume>:
+<fpage>947</fpage>&#x02013;<lpage>954</lpage>.<pub-id pub-id-type="pmid">30442723</pub-id></mixed-citation></ref><ref id="bibr21-20406207221118429"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Schulz</surname><given-names>KF</given-names></name>
+<name><surname>Altman</surname><given-names>DG</given-names></name>
+<name><surname>Moher</surname><given-names>D.</given-names></name>
+</person-group>
+<article-title>CONSORT 2010 statement: updated guidelines for reporting parallel
+group randomised trials</article-title>. <source>BMJ</source>
+<year>2010</year>; <volume>340</volume>: c332.</mixed-citation></ref><ref id="bibr22-20406207221118429"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>X</given-names></name>
+<name><surname>Williams</surname><given-names>WV</given-names></name>
+<name><surname>Sandor</surname><given-names>V</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Population pharmacokinetic
+analysis of orally-administered ruxolitinib (INCB018424 Phosphate) in
+patients with primary myelofibrosis (PMF), post-polycythemia vera
+myelofibrosis (PPV-MF) or post-essential thrombocythemia myelofibrosis (PET
+MF)</article-title>. <source>J Clin Pharmacol</source>
+<year>2013</year>; <volume>53</volume>:
+<fpage>721</fpage>&#x02013;<lpage>730</lpage>.<pub-id pub-id-type="pmid">23677817</pub-id></mixed-citation></ref><ref id="bibr23-20406207221118429"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Verstovsek</surname><given-names>S</given-names></name>
+<name><surname>Gotlib</surname><given-names>J</given-names></name>
+<name><surname>Gupta</surname><given-names>V</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Management of cytopenias in
+patients with myelofibrosis treated with ruxolitinib and effect of dose
+modifications on efficacy outcomes</article-title>. <source>Onco Targets
+Ther</source>
+<year>2013</year>; <volume>7</volume>:
+<fpage>13</fpage>&#x02013;<lpage>21</lpage>.<pub-id pub-id-type="pmid">24368888</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,977 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="srt70024" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Skin Res Technol</journal-id><journal-id journal-id-type="iso-abbrev">Skin Res Technol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1600-0846</journal-id><journal-id journal-id-type="publisher-id">SRT</journal-id><journal-title-group><journal-title>Skin Research and Technology</journal-title></journal-title-group><issn pub-type="ppub">0909-752X</issn><issn pub-type="epub">1600-0846</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">39221860</article-id><article-id pub-id-type="pmc">11367665</article-id><article-id pub-id-type="doi">10.1111/srt.70024</article-id><article-id pub-id-type="publisher-id">SRT70024</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>The diagnostic value and associated molecular mechanism study for fibroblast&#x02010;related mitochondrial genes on keloid</article-title><alt-title alt-title-type="left-running-head">WEI and XU</alt-title></title-group><contrib-group><contrib id="srt70024-cr-0001" contrib-type="author"><name><surname>Wei</surname><given-names>Ting</given-names></name><xref rid="srt70024-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="srt70024-cr-0002" contrib-type="author" corresp="yes"><name><surname>Xu</surname><given-names>Zuojiao</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0008-3929-7098</contrib-id><xref rid="srt70024-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>15725361322@163.com</email></address></contrib></contrib-group><aff id="srt70024-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Dermatology</named-content>
+<institution>Tai'an Central Hospital</institution>
+<city>Tai'an</city>
+<named-content content-type="country-part">Shandong</named-content>
+<country country="CN">China</country>
+</aff><aff id="srt70024-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Dermatology and Cosmetic Medicine Center</named-content>
+<institution>Weifang People's Hospital</institution>
+<city>Weifang</city>
+<named-content content-type="country-part">Shandong</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Zuojiao Xu, Dermatology and Cosmetic Medicine Center, Weifang People's Hospital, Weifang, Shandong Province, China.<break/> Email: <email>15725361322@163.com</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>02</day><month>9</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2024</year></pub-date><volume>30</volume><issue seq="140">9</issue><issue-id pub-id-type="doi">10.1111/srt.v30.9</issue-id><elocation-id>e70024</elocation-id><history>
+<date date-type="received"><day>15</day><month>7</month><year>2024</year></date>
+<date date-type="accepted"><day>12</day><month>8</month><year>2024</year></date>
+</history><permissions><!--&#x000a9; 2024 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.--><copyright-statement content-type="article-copyright">&#x000a9; 2024 The Author(s). <italic toggle="yes">Skin Research and Technology</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:SRT-30-e70024.pdf"/><abstract><title>Abstract</title><sec id="srt70024-sec-0010"><title>Purpose</title><p>This study aims to reveal the mechanism of fibroblast&#x02010;related mitochondrial genes on keloid formation and explore promising signature genes for keloid diagnosis.</p></sec><sec id="srt70024-sec-0020"><title>Method</title><p>The distribution of fibroblasts between the keloid sample and control sample based on three keloid datasets, followed by the differentially expressed genes (DEGs) investigation and associated enrichment analysis. Then, hub genes were explored based on DEGs, mitochondrial genes from an online database, as well as fibroblast&#x02010;related genes that were revealed by WCGNA. Subsequently, signature genes were screened through machine learning, and their diagnostic value was validated by nomogram. Moreover, the targeted drugs and related transcriptional regulation of these genes were analyzed. Finally, the verification analysis was performed on signature genes using qPCR analysis.</p></sec><sec id="srt70024-sec-0030"><title>Result</title><p>A total of totally 329 DEGs were revealed based on three datasets, followed by enrichment analysis. WGCNA revealed a total of 258 fibroblast&#x02010;related genes, which were primarily assembled in functions like muscle tissue development. By using machine learning, we screened four signature genes (ACSF2, ALDH1B1, OCIAD2, and SIRT4) based on eight hub genes (fibroblast&#x02010;related mitochondrial genes). Nomogram and validation analyses confirmed the well&#x02010;diagnostic performance of these four genes in keloid. Immune infiltration and drug correlation analyses showed that SIRT4 was significantly associated with immune cell type 2 T helper cells and molecular drug cyclosporin. All these findings provided new perspectives for the clinical diagnosis and therapy of keloid.</p></sec><sec id="srt70024-sec-0040"><title>Conclusion</title><p>The fibroblast&#x02010;related mitochondrial genes including SIRT4, OCIAD2, ALDH1B1, and ACSF2 were novel signature genes for keloid diagnosis, offering novel targets and strategies for diagnosis and therapy of keloid.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="srt70024-kwd-0001">bioinformatic analysis</kwd><kwd id="srt70024-kwd-0002">differentially expressed genes (DEG)</kwd><kwd id="srt70024-kwd-0003">fibroblast&#x02010;related mitochondrial genes</kwd><kwd id="srt70024-kwd-0004">function and pathway analysis</kwd><kwd id="srt70024-kwd-0005">keloid</kwd><kwd id="srt70024-kwd-0006">qPCR</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Weifang Municipal Health Commission Scientific Research Project</funding-source><award-id>WFWSJK&#x02010;2023&#x02010;111</award-id></award-group></funding-group><counts><fig-count count="8"/><table-count count="2"/><page-count count="15"/><word-count count="7027"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2024</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.4.8 mode:remove_FC converted:02.09.2024</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="srt70024-cit-0068">
+<string-name>
+<surname>Wei</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>Z</given-names>
+</string-name>. <article-title>The diagnostic value and associated molecular mechanism study for fibroblast&#x02010;related mitochondrial genes on keloid</article-title>. <source>Skin Res Technol</source>. <year>2024</year>;<volume>30</volume>:<elocation-id>e70024</elocation-id>. <pub-id pub-id-type="doi">10.1111/srt.70024</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="srt70024-sec-0050"><label>1</label><title>INTRODUCTION</title><p>Keloid is a chronic skin disorder characterized by the abnormal proliferation of fibroblasts during the wound&#x02010;healing process, leading to excessive scar formation.<xref rid="srt70024-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> Fibroblasts are one of the most important cell types in connective tissue, playing a crucial role in tissue repair and scar formation.<xref rid="srt70024-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Keloid management can be difficult and frustrating since the difference in morphology between keloid fibroblasts and normal skin fibroblasts is not significant.<xref rid="srt70024-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> Hence, delving into the molecular mechanisms governing the role of fibroblast&#x02010;related genes in the formation of keloid, and identifying potential diagnostic genes associated with them, holds significant importance for the clinical diagnosis and treatment of keloid.<xref rid="srt70024-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>
+</p><p>The distribution differences of fibroblasts are associated with various diseases, including keloid.<xref rid="srt70024-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> A previous study shows that the quantity and activity of fibroblasts vary significantly across different tissues, and these differences can impact the pathological processes of diseases.<xref rid="srt70024-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> For instance, in keloid, the excessive proliferation of fibroblasts and their abnormal secretion of extracellular matrix are primary causes of the lesions.<xref rid="srt70024-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> Although the roles of different types of fibroblasts in the formation of keloid are not yet fully understood, their distribution and functional differences are evidently important factors in the disease's development. Actually, the differential expression of mitochondrial genes in fibroblasts is gaining attention in the study of molecular mechanisms of various diseases.<xref rid="srt70024-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> Mitochondria are key organelles for cellular energy metabolism and signal transduction, and changes in their gene expression can affect cell function, leading to the progression of human disease.<xref rid="srt70024-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> Existing literature indicates that certain mitochondrial genes exhibit abnormal expression in the fibroblasts of keloid patients.<xref rid="srt70024-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> These genes, such as H19, may influence key processes such as cell proliferation, apoptosis, and ECM synthesis by participating in specific signaling pathways and metabolic processes, thereby promoting the formation of keloid.<xref rid="srt70024-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> Therefore, exploring the diagnostic value of the aforementioned DEGs holds significant clinical implications for various diseases, including keloid. In recent years, bioinformatics analysis techniques have been widely applied in dermatology. For example, Ma et&#x000a0;al. found that PTPRC, TYROBP, and CXCR4 were closely related to the pathogenesis of dermatomyositis and atherosclerosis based on bioinformatics analysis.<xref rid="srt70024-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> Besides, Xian et&#x000a0;al. found through bioinformatics analysis that CHL1 and MBNL2 might participate in the occurrence of psoriasis and nonalcoholic steatohepatitis by regulating hsa&#x02010;miR&#x02010;1305.<xref rid="srt70024-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> Moreover, Zhang et&#x000a0;al. identified eight key genes in psoriasis and ulcerative colitis through machine learning and integrated bioinformatics, which helped to identify occultive ulcerative colitis in patients with psoriasis.<xref rid="srt70024-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> Machine learning techniques have demonstrated immense potential in uncovering disease diagnostic genes, with notable advancements, particularly in the realm of keloid&#x02010;related diagnostic genes. Algorithms such as least absolute shrinkage and selection operator (LASSO) regression, random forest (RF), and support vector machine (SVM) can effectively identify pivotal diagnostic genes from vast biological datasets.<xref rid="srt70024-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> These algorithms, by processing high&#x02010;dimensional data and intricate gene expression patterns, unveil specific genes associated with keloid formation.<xref rid="srt70024-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> Particularly in studies involving fibroblast mitochondrial&#x02010;related genes, machine learning methods can efficiently sift through genes with potential diagnostic and therapeutic value for diseases, aiding in the comprehension of these genes' specific roles in disease progression.</p><p>In this study, we explored the distribution of fibroblasts between the keloid sample and control sample based on GEO datasets and identified differentially expressed genes (DEGs) related to fibroblasts and mitochondria. Subsequently, signature genes were screened through machine learning, and their diagnostic value was validated. Moreover, the targeted drugs and related transcriptional regulation of these genes were analyzed. Finally, the verification analysis was performed on signature genes using qPCR analysis. Via systematically analyze the molecular mechanisms and diagnostic value of fibroblast&#x02010;related mitochondrial genes in keloid by integrating machine learning and bioinformatics analysis, we hope to further elucidate the pathological mechanisms of keloid, offering novel targets and strategies for diagnosis and treatment.</p></sec><sec id="srt70024-sec-0060"><label>2</label><title>MATERIAL AND METHODS</title><sec id="srt70024-sec-0070"><label>2.1</label><title>Data source and preparation</title><p>The microarray datasets GSE7890 (5 keloid samples and 5 control samples),<xref rid="srt70024-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> GSE44270 (9 keloid samples and 3 control samples),<xref rid="srt70024-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> and GSE145725 (9 keloid samples and 10 control samples)<xref rid="srt70024-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> in the GEO database were enrolled in the current study as the training datasets. In addition, the microarray datasets GSE113619 (16 keloid samples and 10 control samples)<xref rid="srt70024-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> in the GEO database were enrolled as validation datasets in this study. Based on the probe expression matrix and the annotation file, probes not corresponding to Gene symbols were excluded. For genes with multiple corresponding probes, their average expression value was calculated to represent the gene's expression level. The SVA package (version: 3.36.0) in R software<xref rid="srt70024-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> was then employed to eliminate batch effects from the training set expression profile data, which were subsequently combined for further analysis.</p></sec><sec id="srt70024-sec-0080"><label>2.2</label><title>Analysis of differential fibroblast distribution and gene expression between group</title><p>Based on the training dataset, the IOBR package was used to calculate fibroblast content by using three algorithms: MCPcounter, xCell, and EPIC.<xref rid="srt70024-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> The differences in fibroblast distribution between keloid and control groups in the training dataset were explored using the Wilcoxon test. Then, the limma package<xref rid="srt70024-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> in R was applied to explore DEGs in keloid versus control. The Benjamini &#x00026; Hochber (BH) adjusted <italic toggle="yes">P</italic>&#x02010;value&#x000a0;&#x0003c;&#x000a0;0.05 and |log<sub>2</sub>FC|&#x000a0;&#x0003e;&#x000a0;0.263 were selected as the thresholds for DEGs investigation. Finally, the results were visualized using a volcano plot and heat map.</p></sec><sec id="srt70024-sec-0090"><label>2.3</label><title>Enrichment analysis on DEGs</title><p>The enrichment analysis was performed based on the cluster Profiler package (version: 4.0.5) in R.<xref rid="srt70024-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> The GO functions include biological processes (BP), cellular components (CC), and molecular functions (MF). The adj. <italic toggle="yes">P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 was used as the cut&#x02010;off value. The result of GO and KEGG enrichment was visualized using a bubble plot and tree diagram.</p></sec><sec id="srt70024-sec-0100"><label>2.4</label><title>Weighted Gene Co&#x02010;expression Network Analysis (WGCNA) investigation</title><p>The analysis began by conducting variance analysis, which was used to identify the TOP5000 genes exhibiting high variation among samples. WGCNA<xref rid="srt70024-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> (version 1.72&#x02010;5) was employed to reveal the modules of the gene set characterized by significant co&#x02010;expression patterns. First, the soft thresholding approach was applied to transform the adjacency matrix into a continuous scale ranging from 0 to 1, ensuring the constructed network adhered to a power law distribution, thereby reflecting biological network properties more accurately. In this study, a soft threshold of 0.85 was selected for network construction, as it was the first instance to meet this criterion (minModuleSize&#x000a0;=&#x000a0;50; mergeCutHeight&#x000a0;=&#x000a0;0.25; MEDissThres&#x000a0;=&#x000a0;0.25). Next, we constructed a scale&#x02010;free network using the blockwiseModules function, and then a module partition analysis was performed, followed by an investigation of the fibroblast&#x02010;related genes.</p></sec><sec id="srt70024-sec-0110"><label>2.5</label><title>PPI network and enrichment analysis based on fibroblast&#x02010;related genes</title><p>STRING (Version: 11.5) is a biological database and web resource of known and predicted PPI.<xref rid="srt70024-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> In this study, STRING was used to predict the interactive relation associated with DEGs (species: homo). The result of the PPI network was visualized by Cytoscape software, followed by the enrichment analysis.</p></sec><sec id="srt70024-sec-0120"><label>2.6</label><title>Signature genes investigation</title><p>A total of 1136 Mitochondrial (mt)&#x02010;genes in Human MitoCarta3.0 were obtained from the human Mitochondrial Genome Database (mtDB). Then, the Venn plot analysis was performed on DEGs, fibroblast&#x02010;related genes, and mt&#x02010;genes to obtain common(co)&#x02010;genes by using Venny software. Moreover, totally three machine learning algorithms were performed on co&#x02010;genes to obtain diagnostic signature genes for keloid. Briefly, based on LASSO Cox regression, co&#x02010;genes were analyzed with 10&#x02010;fold (nfold&#x000a0;=&#x000a0;10 s) cross&#x02010;validation analysis provided by the&#x000a0; glmnet package (version: 4.1.3) in R.<xref rid="srt70024-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> Based on the SVM in R,<xref rid="srt70024-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> co&#x02010;genes were analyzed by using the RFE algorithm. Moreover, the RF algorithm in the randomForest package of R<xref rid="srt70024-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> was performed on co&#x02010;genes. Finally, the signature genes of keloid were explored by integrating common genes in all algorithms.</p></sec><sec id="srt70024-sec-0130"><label>2.7</label><title>The diagnostic evaluation for signature genes</title><p>Based on signature gene expression between two groups in both the training dataset and validation datasets, the receiver operating characteristic (ROC) investigation was applied in the current study to explore the area under the curve (AUC) value for each signature gene using pROC package (version: 1.12.1) in R.<xref rid="srt70024-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> Then, the diagnostic biomarkers were used for nomogram establishment by rms package in R.<xref rid="srt70024-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> A nomogram was constructed using the value nomoScore of all genes by using the rms package (version: 6.3&#x02010;0)<xref rid="srt70024-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> in R, followed by the high&#x02010;risk group and low&#x02010;risk group obtained. We compared the differences between the two groups and calculated the survival rate. Subsequently, we conducted calibration curve, decision curve analysis (DCA), and clinical curve analyses to test the diagnostic efficiency of the nomogram.</p></sec><sec id="srt70024-sec-0140"><label>2.8</label><title>Immune infiltration and correlation analysis</title><p>The differences in the immune microenvironment between keloid samples and control samples in the training dataset were explored. Briefly, a total of 28 types of immune cells were enrolled to reveal the infiltration scores by using ssGSEA.<xref rid="srt70024-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> Then, combined with different grouping, the Wilcox test was used to calculate the <italic toggle="yes">P</italic>&#x02010;value of differences between the two groups. Then, the correlation between feature genes and immune cells was analyzed using the Pearson correlation coefficient using the corr.test in the psych package of R.<xref rid="srt70024-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> The results were visualized using the pheatmap.</p></sec><sec id="srt70024-sec-0150"><label>2.9</label><title>PPI and drug&#x02010;gene analysis based on feature genes</title><p>Based on GeneMANIA database,<xref rid="srt70024-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> the PPI network was established with feature genes and associated 20 interacting genes. The result was visualized by using Cytoscape software. Then, the drug&#x02010;target gene interaction was further explored based on the Drug Signatures Database (DSigDB)<xref rid="srt70024-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> to reveal the relationship between feature genes and drugs.</p></sec><sec id="srt70024-sec-0160"><label>2.10</label><title>The miRNAs&#x02010;mRNA&#x02010;TF network investigation</title><p>The miRWalk (version: 3.0)<xref rid="srt70024-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> was applied in the current study to predict miRNAs targeting feature genes obtained above, followed by the miRNA&#x02010;mRNA relations screening for further analysis. Moreover, based on hTFtarget database,<xref rid="srt70024-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref> the transcription factors (TFs) of miRNAs in mRNA&#x02010;miRNA interactions were predicted to establish TF&#x02010;miRNA interactions. Finally, based on the miRNA&#x02010;mRNA and TF&#x02010;miRNA interactions, TF&#x02010;miRNA&#x02010;mRNA regulated by the same miRNA were screened. The result was visualized by using Cytoscape software.</p></sec><sec id="srt70024-sec-0170"><label>2.11</label><title>The qRT&#x02010;PCR analysis</title><p>To further investigate the expression of biomarkers (ACSF2, ALDH1B1, OCIAD2, and SIRT4), a verification study was performed based on cultured keloid cells and normal dermal fibroblasts purchased from Lonza (cat. no. PT&#x02010;5025. Basel, Switzerland). Total RNAs were isolated from hDPCs using TRIZOL reagent (Invitrogen, USA) and converted to cDNA with the RevertAidTM First Strand cDNA Synthesis Kit (Thermo Fisher Scientific) following the provided protocols. PCR amplification was conducted on an ABI7500 machine (Applied Biosystems, USA). All primers used in this study are detailed in Table&#x000a0;<xref rid="srt70024-tbl-0001" ref-type="table">1</xref>. The PCR cycle parameters were 95&#x000b0;C for 5&#x000a0;min, followed by 35 cycles of 95&#x000b0;C for 30&#x000a0;s and 52&#x000b0;C for 30&#x000a0;s. Relative gene expression levels were determined using the 2 <sup>&#x02212;&#x00394;&#x00394;Ct</sup> method.<xref rid="srt70024-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>
+</p><table-wrap position="float" id="srt70024-tbl-0001" content-type="TABLE"><label>TABLE 1</label><caption><p>The detail information for all primers used in current study.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Primer</th><th align="left" rowspan="1" colspan="1">Sequence(5&#x02032;&#x02212;3&#x02032;)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">ACSF2&#x02010;F</td><td align="left" rowspan="1" colspan="1">CGTTCAGTCCAGAAGCCAAA</td></tr><tr><td align="left" rowspan="1" colspan="1">ACSF2&#x02010;R</td><td align="left" rowspan="1" colspan="1">CTCCACAGCCTTCTCCTTCA</td></tr><tr><td align="left" rowspan="1" colspan="1">ALDH1B1&#x02010;F</td><td align="left" rowspan="1" colspan="1">GGTGACAGAGGTGACGTTGA</td></tr><tr><td align="left" rowspan="1" colspan="1">ALDH1B1&#x02010;R</td><td align="left" rowspan="1" colspan="1">ACGCTCTGTGCTGTTGTGAT</td></tr><tr><td align="left" rowspan="1" colspan="1">OCIAD2&#x02010;F</td><td align="left" rowspan="1" colspan="1">AGCGTCTTCCAGGAGGTTTC</td></tr><tr><td align="left" rowspan="1" colspan="1">OCIAD2&#x02010;R</td><td align="left" rowspan="1" colspan="1">CTGCTGAGGAGGCTGAAGAT</td></tr><tr><td align="left" rowspan="1" colspan="1">SIRT4&#x02010;F</td><td align="left" rowspan="1" colspan="1">GGAAAGACGCTTGATGAGCA</td></tr><tr><td align="left" rowspan="1" colspan="1">SIRT4&#x02010;R</td><td align="left" rowspan="1" colspan="1">CTGCCACACTGGCTTCTGTA</td></tr><tr><td align="left" rowspan="1" colspan="1">GAPDH&#x02010;F</td><td align="left" rowspan="1" colspan="1">GTCTCCTCTGACTTCAACAGCG</td></tr><tr><td align="left" rowspan="1" colspan="1">GAPDH&#x02010;R</td><td align="left" rowspan="1" colspan="1">ACCACCCTGTTGCTGTAGCCAA</td></tr></tbody></table><table-wrap-foot><fn id="srt70024-tbl1-note-0001"><p>Abbreviation: GAPDH, glyceraldehyde 3&#x02010;phosphate dehydrogenase.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec></sec><sec id="srt70024-sec-0180"><label>3</label><title>RESULTS</title><sec id="srt70024-sec-0190"><label>3.1</label><title>Fibroblast distribution analysis between keloid samples and the control samples</title><p>By using the MCPcounter, xCell, and EPIC algorithms, the differences in content between the two groups were revealed (Figure <xref rid="srt70024-supitem-0001" ref-type="supplementary-material">S1</xref>). The results indicated that the content of fibroblasts was dramatically different between the two groups based on all three algorithms.</p></sec><sec id="srt70024-sec-0200"><label>3.2</label><title>DEGs between groups and associated enrichment analysis</title><p>With <italic toggle="yes">P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 and |log<sub>2</sub>FC|&#x000a0;&#x0003e;&#x000a0;0.263, a total of 329 DEGs including 144 up&#x02010; and 185 down&#x02010;regulated genes were explored between keloid samples and the control samples (Figure&#x000a0;<xref rid="srt70024-fig-0001" ref-type="fig">1A</xref>). The result of heatmap analysis for the Top 50 DEGs showed that all DEGs could be well separated by groups (Figure&#x000a0;<xref rid="srt70024-fig-0001" ref-type="fig">1B</xref>). These 329 DEGs were mainly assembled in functions like reproductive structure development (BP, GO:0048608) (Figure&#x000a0;<xref rid="srt70024-fig-0001" ref-type="fig">1C</xref>), spindle (CC, GO:0005819) (Figure&#x000a0;<xref rid="srt70024-fig-0001" ref-type="fig">1D</xref>), and DNA&#x02010;binding transcription activator activity (MF, GO:0001216) (Figure&#x000a0;<xref rid="srt70024-fig-0001" ref-type="fig">1E</xref>). Moreover, pathways like the Wnt signaling pathway (hsa04310) were significantly enriched by these DEGs (Figure&#x000a0;<xref rid="srt70024-fig-0001" ref-type="fig">1F</xref>).</p><fig position="float" fig-type="FIGURE" id="srt70024-fig-0001"><label>FIGURE 1</label><caption><p>The differentially expressed genes (DEGs) and associated enrichment analysis in the current study. (A) The volcano plot for DEGs between two groups: the red node represented the up&#x02010;regulated gene, while the blue node represented the down&#x02010;regulated gene. (B) The heatmap analysis for DEGs in different groups. (C&#x02013;E) The significant GO&#x02010;biological process (BP) functions, GO&#x02010;cellular component (CC), and GO&#x02010;molecular function (MF) are assembled by DEGs: the larger the node, the more number of genes assembled; the redder the node, the more significant the <italic toggle="yes">P</italic>&#x02010;value. (F) The significant KEGG pathways are enriched by DEGs: the larger the node, the more number of genes assembled; the redder the node, the more significant the <italic toggle="yes">P</italic>&#x02010;value.</p></caption><graphic xlink:href="SRT-30-e70024-g002" position="anchor" id="jats-graphic-1"/></fig></sec><sec id="srt70024-sec-0210"><label>3.3</label><title>Feature genes revealed by WGCNA</title><p>The WGCNA analysis was performed on all DEGs. The soft threshold for network construction was chosen to be 6, with the scale&#x02010;free topology model fitting degree being 0.85. Consequently, this network adhered to the power&#x02010;law distribution and closely resembled the actual biological network state (Figure&#x000a0;<xref rid="srt70024-fig-0002" ref-type="fig">2A</xref>). The result showed that a total of 12 modules (Figure&#x000a0;<xref rid="srt70024-fig-0002" ref-type="fig">2B</xref>), such as MEmagenta, MEblue, and MEblue, were explored. The correlation analysis between modules and traits (different groups) showed that magenta (containing 258 genes) is the module with the highest correlation with each trait (Figure&#x000a0;<xref rid="srt70024-fig-0002" ref-type="fig">2C</xref>). Thus, the genes in magenta were used as fibroblast&#x02010;related genes for subsequent analysis. The correlation between module membership in module and gene significance for fibroblasts is shown in Figure&#x000a0;<xref rid="srt70024-fig-0002" ref-type="fig">2D</xref>. The result showed that there was a positive correlation between module membership in module and gene significance for fibroblasts.</p><fig position="float" fig-type="FIGURE" id="srt70024-fig-0002"><label>FIGURE 2</label><caption><p>The results of weighted correlation network analysis (WGCNA). (A, B) The scale&#x02010;free soft&#x02010;threshold distribution. (C) Clustering analysis for models: the tree diagram represented the system clustering of the base phase heterogeneity matrix; the dynamic tree cut and merged dynamically represented the module before and after the merge module; the different colors in the figure represented different modules. (D) The heatmap for correlation between module membership and gene significance: the x&#x02010;axis represented the module membership in the magenta module, while the y&#x02010;axis represented gene significance for fibroblasts.</p></caption><graphic xlink:href="SRT-30-e70024-g005" position="anchor" id="jats-graphic-3"/></fig></sec><sec id="srt70024-sec-0220"><label>3.4</label><title>PPI and enrichment analysis based on fibroblast&#x02010;related genes</title><p>A total of 114 nodes and 256 interactions were finally enrolled for the establishment of the current PPI network (Figure&#x000a0;<xref rid="srt70024-fig-0003" ref-type="fig">3A</xref>). These fibroblast&#x02010;related genes were mainly assembled in muscle tissue development (BP, GO:0060537) (Figure&#x000a0;<xref rid="srt70024-fig-0003" ref-type="fig">3B</xref>), sarcolemma (CC, GO:0042383) (Figure&#x000a0;<xref rid="srt70024-fig-0003" ref-type="fig">3C</xref>), and glycosaminoglycan binding (MF, GO:0005539) (Figure&#x000a0;<xref rid="srt70024-fig-0003" ref-type="fig">3D</xref>) function. Meanwhile, pathway analysis showed that these fibroblast&#x02010;related genes were mainly enriched in pathways like the TGF&#x02010;beta signaling pathway (hsa04350) (Figure&#x000a0;<xref rid="srt70024-fig-0003" ref-type="fig">3E</xref>).</p><fig position="float" fig-type="FIGURE" id="srt70024-fig-0003"><label>FIGURE 3</label><caption><p>The protein&#x02010;protein interaction (PPI) network and enrichment analysis based on fibroblast&#x02010;related gene. (A) The PPI network is constructed by fibroblast&#x02010;related gene. (B&#x02013;D) The significant GO&#x02010;biological process (BP) functions, GO&#x02010;cellular component (CC), and GO&#x02010;molecular function (MF) are assembled by DEGs: the larger the node, the more number of genes assembled; the redder the node, the more significant the <italic toggle="yes">P</italic>&#x02010;value. (E) The significant KEGG pathways are enriched by DEGs: the larger the node, the more number of genes assembled; the redder the node, the more significant the <italic toggle="yes">P</italic>&#x02010;value.</p></caption><graphic xlink:href="SRT-30-e70024-g006" position="anchor" id="jats-graphic-5"/></fig></sec><sec id="srt70024-sec-0230"><label>3.5</label><title>Signature genes analysis</title><p>A total of eight co&#x02010;genes including, ACSF2, SIRT4, ALDH1B1, OCIAD2, AIFM2, BNIP3, FAM162A, and PRDX6 were revealed based on DEGs, fibroblast&#x02010;related genes, and mt&#x02010;genes (Figure&#x000a0;<xref rid="srt70024-fig-0004" ref-type="fig">4A</xref>). The results showed that all these four co&#x02010;genes were differentially expressed between keloid samples and control samples. Then, three machine learning algorithms were performed on co&#x02010;genes to obtain diagnostic signature genes for keloid. LASSO regression pinpointed eight significant genes (Figure&#x000a0;<xref rid="srt70024-fig-0004" ref-type="fig">4B,C</xref>). SVM&#x02010;RFE identified eight genes (Figure&#x000a0;<xref rid="srt70024-fig-0004" ref-type="fig">4D,E</xref>). The RF algorithm revealed the top four genes based on a MeanDecreaseGini threshold of&#x000a0;&#x0003e;2, among which were SIRT4, ACSF2, OCIAD2, and ALDH1B1 (Figure&#x000a0;<xref rid="srt70024-fig-0004" ref-type="fig">4F,G</xref>). Finally, a union of the genes selected by these diverse algorithms resulted in a consolidated list of four feature genes: ACSF2, ALDH1B1, OCIAD2, and SIRT4, which are considered signature genes for further keloid research (Figure <xref rid="srt70024-supitem-0001" ref-type="supplementary-material">S2</xref>).</p><fig position="float" fig-type="FIGURE" id="srt70024-fig-0004"><label>FIGURE 4</label><caption><p>The signature genes investigation in the current study. (A) The common (co)&#x02010;genes revealed are based on DEGs, fibroblast&#x02010;related genes, and human Mitochondrial Genome Database&#x02010;based genes. (B) Least absolute shrinkage and selection operator (LASSO) Cox analysis revealed 8 signature genes: the top x&#x02010;axis represented the number of non&#x02010;zero coefficients in the model at a certain point, while the y&#x02010;axis represented the coefficient value. Each curve in the graph represented the change trajectory of each independent variable coefficient. (C) The best penalty coefficient in the LASSO model: the x&#x02010;axis represented log (Lambda), while the y&#x02010;axis represented the error of cross&#x02010;validation; the red dot represented the mean square error and the standard deviation; the smaller the mean square error, the better the model. (D) The accuracy of support vector machine (SVM)&#x02010;REF model. (E) The error rate of the SVM&#x02010;REF model. F&#x02010;G, the Top 4 genes selected by using the random forest (RF) algorithm: mean decrease accuracy, the degree of decrease in the accuracy of random forest prediction; mean increase gini, the impact of each variable on the heterogeneity of the observed values at each node of the classification tree.</p></caption><graphic xlink:href="SRT-30-e70024-g007" position="anchor" id="jats-graphic-7"/></fig></sec><sec id="srt70024-sec-0240"><label>3.6</label><title>Diagnostic evaluation based on signature genes</title><p>Based on the expression of signature genes between keloid samples and control samples in both the training dataset and validation datasets, the ROC curve analysis was conducted to explore the AUC value for each signature gene. For the training dataset, the result showed that except for OCIAD2, ACSF2, ALDH1B1, and SIRT4 expression in the keloid group were dramatically up&#x02010;regulated when compared with the control group (Figure&#x000a0;<xref rid="srt70024-fig-0005" ref-type="fig">5A</xref>). The AUC value for all four genes was larger than 0.814, which showed a well diagnostic value for these signature genes (Figure&#x000a0;<xref rid="srt70024-fig-0005" ref-type="fig">5B</xref>). The trend of the results in the validation dataset was basically consistent with that in the training dataset (Figure&#x000a0;<xref rid="srt70024-fig-0005" ref-type="fig">5C,D</xref>). The nomogram analysis is shown in Figure&#x000a0;<xref rid="srt70024-fig-0005" ref-type="fig">5E</xref>. Each variable was assigned a score on a point scale axis, allowing for a total score to be calculated by summing individual scores to assess the risk of pulpitis. The results demonstrated that the current nomogram was effective in estimating the risk of keloid. Additionally, the calibration curve showed minimal discrepancy between actual and predicted disease risk, indicating high predictive accuracy for keloid (Figure&#x000a0;<xref rid="srt70024-fig-0005" ref-type="fig">5F</xref>). The DCA analysis revealed that the curve was above the gray line curve, suggesting superior clinical benefits of the patient column chart (Figure&#x000a0;<xref rid="srt70024-fig-0005" ref-type="fig">5G</xref>). Furthermore, the clinical impact curve analysis based on the DCA curve indicated that the &#x0201c;Number high risk&#x0201d; curve closely matched the &#x0201c;Number high risk with event&#x0201d; curve when the high&#x02010;risk threshold ranged from 0.6 to 1, demonstrating the nomogram's strong predictive capability (Figure&#x000a0;<xref rid="srt70024-fig-0005" ref-type="fig">5H</xref>).</p><fig position="float" fig-type="FIGURE" id="srt70024-fig-0005"><label>FIGURE 5</label><caption><p>Diagnostic evaluation for four signature genes in the current study. (A) The comparison of feature gene expression between the keloid group and the control group based on the training dataset: ***<italic toggle="yes">P</italic>&#x000a0;&#x0003c;&#x000a0;0.05; ****<italic toggle="yes">P</italic>&#x000a0;&#x0003c;&#x000a0;0.01. (B) The ROC analysis showed the AUC value of four signature genes based on the training dataset. (C) The comparison of feature gene expression between the keloid group and the control group is based on the validation dataset: ***<italic toggle="yes">P</italic>&#x000a0;&#x0003c;&#x000a0;0.05; ****<italic toggle="yes">P</italic>&#x000a0;&#x0003c;&#x000a0;0.01. (D) The ROC analysis showed the AUC value of four signature genes based on the training dataset. (E) The nomogram diagram for predictive ability study. (F) The calibration curve nomogram combined model; the x&#x02010;axis represented predicted probability; the y&#x02010;axis represented observed probability. (G) The decision curve analysis (DCA) was used to evaluate the optimal threshold for the current nomogram. (H) The clinical curve analyses are used to assess the performance of the current nomogram.</p></caption><graphic xlink:href="SRT-30-e70024-g008" position="anchor" id="jats-graphic-9"/></fig></sec><sec id="srt70024-sec-0250"><label>3.7</label><title>Immunological correlation analysis with signature genes</title><p>The results obtained based on ssGSEA analysis the percentages of activated CD4+ T cells, effector memory CD4+ T cells, type 2 T helper cells, and myeloid&#x02010;derived suppressor cells were climatically suppressed in the keloid group than the control group (all <italic toggle="yes">P</italic>&#x000a0;&#x0003c;&#x000a0;0.05), while eosinophil and monocyte were significantly stimulated in keloid group (all <italic toggle="yes">P</italic>&#x000a0;&#x0003c;&#x000a0;0.05) (Figure&#x000a0;<xref rid="srt70024-fig-0006" ref-type="fig">6A</xref>). These findings indicated distinct immune cell profiles associated with the different groups. Then, the correlation among immune cells, as well as between signature genes and immune cells were shown in Figure&#x000a0;<xref rid="srt70024-fig-0006" ref-type="fig">6B,C</xref>, respectively. The result showed that monocyte and type 2 T helper cells were two immune cells that significantly correlated with all four signature genes (all <italic toggle="yes">P</italic>&#x000a0;&#x0003c;&#x000a0;0.05). Furthermore, the correlation analysis based on fibroblast content and signature genes showed that the fibroblast content based on xCell algorithms was significantly associated with all four signature genes (all <italic toggle="yes">P</italic>&#x000a0;&#x0003c;&#x000a0;0.01) (Figure&#x000a0;<xref rid="srt70024-fig-0006" ref-type="fig">6D</xref>).</p><fig position="float" fig-type="FIGURE" id="srt70024-fig-0006"><label>FIGURE 6</label><caption><p>Immunological correlation analysis with signature genes. (A) The estimation of relative infiltration abundance for immune cells in each sample: The x&#x02010;axis represented different immune cells, while the y&#x02010;axis represented percentage; *0.01&#x000a0;&#x0003c;&#x000a0;<italic toggle="yes">P</italic>&#x000a0;&#x0003c;&#x000a0;0.05; **0.001&#x000a0;&#x0003c;&#x000a0;<italic toggle="yes">P</italic>&#x000a0;&#x0003c;&#x000a0;0.01, ***<italic toggle="yes">P</italic>&#x000a0;&#x0003c;&#x000a0;0.001. (B) The heatmap showed a correlation between immune cells. (C) The correlation between the expression of signature genes and immune cells: *<italic toggle="yes">P</italic>&#x000a0;&#x0003c;&#x000a0;0.05; **<italic toggle="yes">P</italic>&#x000a0;&#x0003c;&#x000a0;0.01. (D) The correlation between expression of signature genes and fibroblast content based on xCell algorithms: *<italic toggle="yes">P</italic>&#x000a0;&#x0003c;&#x000a0;0.05; **<italic toggle="yes">P</italic>&#x000a0;&#x0003c;&#x000a0;0.01.</p></caption><graphic xlink:href="SRT-30-e70024-g004" position="anchor" id="jats-graphic-11"/></fig></sec><sec id="srt70024-sec-0260"><label>3.8</label><title>PPI investigation and drug&#x02010;gene analysis based on signature genes</title><p>In this study, a PPI network was generated using the GeneMANIA database, incorporating 4 signature genes and 20 interacting genes (Figure <xref rid="srt70024-supitem-0001" ref-type="supplementary-material">S3</xref>). The findings indicated that the genes exhibited co&#x02010;localization, co&#x02010;expression, and shared protein domains, suggesting their potential involvement in regulating the inflammatory response. Then, the drug&#x02010;gene interaction was investigated by using DSigDB (Table&#x000a0;<xref rid="srt70024-tbl-0002" ref-type="table">2</xref>). For example, SIRT4 and ACSF2 were all sensitive to rifabutin, HC toxin, Decitabine, Cyclosporin A, and Vorinostat.</p><table-wrap position="float" id="srt70024-tbl-0002" content-type="TABLE"><label>TABLE 2</label><caption><p>The top 10 results for drug&#x02010;gene prediction based on signature genes.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Term</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">P</italic>&#x02010;value</th><th align="left" rowspan="1" colspan="1">Combined score</th><th align="left" rowspan="1" colspan="1">Genes</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">rifabutin MCF7 UP</td><td align="left" rowspan="1" colspan="1">0.001046629</td><td align="left" rowspan="1" colspan="1">510.9346839</td><td align="left" rowspan="1" colspan="1">SIRT4;ACSF2</td></tr><tr><td align="left" rowspan="1" colspan="1">HC toxin MCF7 UP</td><td align="left" rowspan="1" colspan="1">0.001612384</td><td align="left" rowspan="1" colspan="1">383.1915069</td><td align="left" rowspan="1" colspan="1">SIRT4;ACSF2</td></tr><tr><td align="left" rowspan="1" colspan="1">Decitabine CTD 00000750</td><td align="left" rowspan="1" colspan="1">0.002715298</td><td align="left" rowspan="1" colspan="1">179.5245878</td><td align="left" rowspan="1" colspan="1">SIRT4;OCIAD2;ACSF2</td></tr><tr><td align="left" rowspan="1" colspan="1">4&#x02010;Hydroperoxycyclofosfamide CTD 00000594</td><td align="left" rowspan="1" colspan="1">0.003196351</td><td align="left" rowspan="1" colspan="1">2551.238662</td><td align="left" rowspan="1" colspan="1">ALDH1B1</td></tr><tr><td align="left" rowspan="1" colspan="1">cyclosporin A CTD 00007121</td><td align="left" rowspan="1" colspan="1">0.003384174</td><td align="left" rowspan="1" colspan="1">345300.7753</td><td align="left" rowspan="1" colspan="1">ALDH1B1;SIRT4;OCIAD2;ACSF2</td></tr><tr><td align="left" rowspan="1" colspan="1">nadide CTD 00006363</td><td align="left" rowspan="1" colspan="1">0.004592351</td><td align="left" rowspan="1" colspan="1">1629.201456</td><td align="left" rowspan="1" colspan="1">ALDH1B1</td></tr><tr><td align="left" rowspan="1" colspan="1">vorinostat MCF7 UP</td><td align="left" rowspan="1" colspan="1">0.005400915</td><td align="left" rowspan="1" colspan="1">165.6509109</td><td align="left" rowspan="1" colspan="1">SIRT4;ACSF2</td></tr><tr><td align="left" rowspan="1" colspan="1">ACROLEIN BOSS</td><td align="left" rowspan="1" colspan="1">0.007181036</td><td align="left" rowspan="1" colspan="1">938.416342</td><td align="left" rowspan="1" colspan="1">ALDH1B1</td></tr><tr><td align="left" rowspan="1" colspan="1">methylglyoxal BOSS</td><td align="left" rowspan="1" colspan="1">0.00817534</td><td align="left" rowspan="1" colspan="1">799.3430733</td><td align="left" rowspan="1" colspan="1">ALDH1B1</td></tr><tr><td align="left" rowspan="1" colspan="1">hydrogen peroxide CTD 00006118</td><td align="left" rowspan="1" colspan="1">0.008584486</td><td align="left" rowspan="1" colspan="1">92.62204407</td><td align="left" rowspan="1" colspan="1">ALDH1B1;SIRT4;OCIAD2</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="srt70024-sec-0270"><label>3.9</label><title>The miRNA&#x02010;mRNA&#x02010;TF interaction network analysis</title><p>Based on 4 signature genes, the miRNA&#x02010;mRNA&#x02010;TF interactions that are regulated by the same miRNA were used to construct the current miRNA&#x02010;mRNA&#x02010;TF network. The result showed that there were 49 interactions, 10 TFs, 28 miRNAs, and 4 mRNAs in the current network (Figure&#x000a0;<xref rid="srt70024-fig-0007" ref-type="fig">7</xref>).</p><fig position="float" fig-type="FIGURE" id="srt70024-fig-0007"><label>FIGURE 7</label><caption><p>The miRNA&#x02010;mRNA&#x02010;TF interaction network was constructed based on four signature genes. The blue inverted triangle represented miRNA; the yellow ellipse represented transcription factor (TF); the red diamond represented the signature gene. The line between two nodes represented interaction.</p></caption><graphic xlink:href="SRT-30-e70024-g001" position="anchor" id="jats-graphic-13"/></fig></sec><sec id="srt70024-sec-0280"><label>3.10</label><title>The qRT&#x02010;PCR analysis</title><p>The relative expression of ACSF2, ALDH1B1, OCIAD2, and SIRT4 in cultured keloid cells and normal dermal fibroblasts were investigated using qPCR. The expression of ACSF2, ALDH1B1, and SIRT4 were all significantly increased in the keloid group when compared with the normal group (all <italic toggle="yes">P</italic>&#x000a0;&#x0003c;&#x000a0;0.01). Meanwhile, the expression of OCIAD2 in the normal group was dramatically higher than that in the keloid group (<italic toggle="yes">P</italic>&#x000a0;&#x0003c;&#x000a0;0.01). The expression levels of the four signature genes in the validation analysis matched the results of our current bioinformatic study, confirming the reliability of our findings. A bar chart illustrating the expression of these signature genes across different groups is presented in Figure&#x000a0;<xref rid="srt70024-fig-0008" ref-type="fig">8</xref>.</p><fig position="float" fig-type="FIGURE" id="srt70024-fig-0008"><label>FIGURE 8</label><caption><p>The results of qPCR analysis for ACSF2, ALDH1B1, OCIAD2, and SIRT42. Compared with the normal group, the expression of ACSF2, ALDH1B1, and SIRT4 were all significantly increased in the keloid group. ***<italic toggle="yes">P</italic>&#x000a0;&#x0003c;&#x000a0;0.01.</p></caption><graphic xlink:href="SRT-30-e70024-g003" position="anchor" id="jats-graphic-15"/></fig></sec></sec><sec id="srt70024-sec-0290"><label>4</label><title>DISCUSSION</title><p>Keloid is a challenging clinical fibrotic disease. Although fibroblasts and mitochondrial genes play roles in keloid, the detailed diagnostic value and molecular mechanism of fibroblast&#x02010;related mitochondrial genes in keloid remains unclear.<xref rid="srt70024-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> In this study, we found significant differences in the distribution of fibroblasts between keloid and control groups, followed by 329 DEGs revealed. Then, a total of 258 fibroblast&#x02010;related genes were revealed, which were primarily enriched in pathways related to muscle tissue development. By using machine learning, we screened four signature genes (ACSF2, ALDH1B1, OCIAD2, and SIRT4) based on 8 fibroblast&#x02010;related mitochondrial genes. Nomogram and validation analyses confirmed the well&#x02010;diagnostic performance of these four genes in keloids. Immune infiltration and drug correlation analyses showed that SIRT4 was significantly associated with immune cell type 2 T helper cells (Th2) and molecular drug cyclosporin. All these findings provided new perspectives for the clinical diagnosis and therapy of keloid.</p><p>The function of fibroblasts and their mitochondrial activity are often focal points of interest in the study of fibrotic diseases, as mitochondrial dysfunction can lead to alterations in cellular energy metabolism, thereby affecting cell proliferation, differentiation, and fibrotic responses.<xref rid="srt70024-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> Thus, investigating mitochondrial genes associated with fibroblasts that have diagnostic value is highly important for the clinical diagnosis and treatment of scar tissue. Sirtuin 4 (SIRT4) is a mitochondrially localized gene with functions in regulating insulin secretion, lipid metabolism, and apoptosis.<xref rid="srt70024-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> It has been proved that Sirtuin family members can influence the fibrosis process by modulating the function and activity of fibroblasts.<xref rid="srt70024-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> Its expression in fibroblasts may affect the metabolic state and energy balance of cells, thereby impacting the development and maintenance of diseases including hypertrophic scars and keloid.<xref rid="srt70024-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref> SIRT4 has significant diagnostic and therapeutic potential in various diseases. For instance, in diabetes, SIRT4 plays a role by inhibiting insulin secretion and lipid metabolism.<xref rid="srt70024-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref> In tumors, the expression levels of SIRT4 are associated with apoptosis and metabolic reprogramming, potentially serving as a biomarker and therapeutic target.<xref rid="srt70024-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref> Ovarian Carcinoma Immunoreactive Antigen Domain Containing 2 (OCIAD2) is a gene that plays a crucial role in cell adhesion, migration, and the proliferation and invasion of cancer cells.<xref rid="srt70024-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> The high expression of OCIAD2 in cancers has been extensively studied, and it is considered a diagnostic and prognostic marker.<xref rid="srt70024-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref> However, the related study for OCIAD2 in fibroblasts and keloid formation is very rare. Aldehyde Dehydrogenase 1 Family, Member B1 (ALDH1B1) is one of the family members involved in the metabolism of acetaldehyde. The expression level of ALDH1B1 in fibroblasts is directly associated with mitochondrial function, influencing cellular metabolic status.<xref rid="srt70024-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref> Studies have found that ALDH1B1 may play a crucial role in scar formation by regulating mitochondrial redox status and antioxidant capacity.<xref rid="srt70024-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref> Despite being identified as a potential biomarker in human diseases such as colorectal cancer,<xref rid="srt70024-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref> its role in fibrotic diseases like scar formation remains elusive. Acyl&#x02010;CoA Synthetase Family Member 2 (ACSF2) is an acyl&#x02010;CoA synthetase crucial for cellular energy metabolism, fatty acid &#x003b2;&#x02010;oxidation, and lipid storage. It has been demonstrated that ACSF2 can influence the fibrosis process by regulating lipid metabolism and energy balance in fibroblasts.<xref rid="srt70024-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref> The expression levels of ACSF2 in human tissue is associated with metabolism disorders and resistance, making it a potential diagnostic marker.<xref rid="srt70024-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref> In this study, we identified four fibroblast&#x02010;related mitochondrial genes, SIRT4, OCIAD2, ALDH1B1, and ACSF2, with diagnostic value through machine learning and diagnostic analysis. The diagnostic value analysis indicated that all four genes exhibit good diagnostic performance in keloid. Importantly, the qPCR analysis showed that the expression of four signature genes was consistent with the findings of our current bioinformatic study, affirming the reliability of our results. Therefore, we speculated that SIRT4, OCIAD2, ALDH1B1, and ACSF2 may be involved in the expression and functional regulation of fibroblasts in keloid, representing new signature genes for keloid. Further in&#x02010;depth research into the mechanisms of these genes in disease may provide new insights and methods for the clinical diagnosis and treatment of keloid.</p><p>The normal development of muscle tissue involves complex regulatory mechanisms including, cell proliferation, differentiation, and tissue remodeling. However, in keloid disease, these mechanisms may be disrupted, leading to abnormal formation and excessive growth of scar tissue.<xref rid="srt70024-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref> It has been proved that aberrant signaling pathways (such as cGMP&#x02010;PKG signaling pathway) or gene (such as BMP4, MSX1, and HAND2) expression during muscle tissue development may influence the occurrence of keloid formation.<xref rid="srt70024-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref> Disruptions in this process can lead to aberrant fibroblast activity, further contributing to keloid pathogenesis. In keloid, certain genes associated with muscle tissue development may be abnormally expressed, leading to hyperactive fibroblasts and aberrant collagen accumulation.<xref rid="srt70024-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref> For example, the TGF&#x02010;&#x003b2; (transforming growth factor&#x02010;beta) pathway is overactivated in keloid formation, and genes closely related to muscle tissue development are also regulated by this pathway.<xref rid="srt70024-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref> In fact, fibroblasts play important roles in both muscle tissue development and scar formation, participating in processes such as cell proliferation, extracellular matrix synthesis, and cell signaling.<xref rid="srt70024-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref> Additionally, mitochondrial dysfunction may impact the signaling pathways that govern fibroblast behavior during muscle tissue development.<xref rid="srt70024-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref> For instance, the impaired bioenergetics in fibroblasts can result in a shift towards anaerobic glycolysis, promoting a pro&#x02010;fibrotic environment through enhanced collagen synthesis and secretion.<xref rid="srt70024-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref> This metabolic shift could be a driving force behind the persistent and exaggerated fibrotic response observed in keloid. In this study, the GO analysis showed that fibroblast&#x02010;related genes were mainly assembled in pathways related to muscle tissue development function. Thus, we speculated that muscle tissue development function might play an important role in the progression of keloid. A further investigation on muscle tissue development may help inhibit the abnormal behavior of fibroblasts, thereby reducing the formation and expansion of keloid.</p><p>Inflammatory response and persistent immune cell infiltration promote fibroblast proliferation and collagen synthesis through the release of various cytokines and growth factors, leading to excessive fibrous tissue growth and keloid formation.<xref rid="srt70024-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref> Th2 cells are a subtype of T cells that regulate immune responses primarily through cytokine secretion.<xref rid="srt70024-bib-0061" ref-type="bibr">
+<sup>61</sup>
+</xref> The main cytokines secreted by Th2 cells include IL&#x02010;4, IL&#x02010;5, IL&#x02010;10, and IL&#x02010;13, which are highly expressed in keloid.<xref rid="srt70024-bib-0062" ref-type="bibr">
+<sup>62</sup>
+</xref>, <xref rid="srt70024-bib-0063" ref-type="bibr">
+<sup>63</sup>
+</xref> They can directly act on fibroblasts, promoting their proliferation and collagen synthesis, thereby playing a crucial role in keloid formation.<xref rid="srt70024-bib-0064" ref-type="bibr">
+<sup>64</sup>
+</xref> Interestingly, both SIRT4 gene and cyclosporin drug can affect T cell function by regulating cell metabolism. SIRT4 primarily regulates T cell function through metabolic pathways, while cyclosporin exerts its effects on T cells by inhibiting calcineurin.<xref rid="srt70024-bib-0065" ref-type="bibr">
+<sup>65</sup>
+</xref>, <xref rid="srt70024-bib-0066" ref-type="bibr">
+<sup>66</sup>
+</xref> During metabolic stress, the regulation by SIRT4 might affect the immunosuppressive efficacy of cyclosporin. Actually, SIRT4 has already proven to be a useful drug target in various diseases like Parkinson.<xref rid="srt70024-bib-0067" ref-type="bibr">
+<sup>67</sup>
+</xref> In the current study, the drug&#x02010;target gene analysis for keloid showed that SIRT4 was the target gene of the molecular drug cyclosporin. Meanwhile, the immune infiltration investigation showed that immune cell Th2 was significantly correlated with all four signature genes. Thus, we speculated that cyclosporin might influence the biological function of Th2 cells via targeting SIRT4, which further contributes to the therapy of keloid. Nonetheless, this study had limitations, including a small sample size and the absence of animal validation tests. Therefore, a validation study with a larger sample size is warranted to confirm all conclusions drawn in our research.</p></sec><sec id="srt70024-sec-0300"><label>5</label><title>CONCLUSION</title><p>In conclusion, the fibroblast&#x02010;related mitochondrial genes including SIRT4, OCIAD2, ALDH1B1, and ACSF2 were novel signature genes for keloid diagnose. The muscle tissue development function might play a vital role in the development of keloid. The drug cyclosporin might influence the biological function of Th2 cells via targeting SIRT4.</p></sec><sec sec-type="COI-statement" id="srt70024-sec-0320"><title>CONFLICT OF INTEREST STATEMENT</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="srt70024-supitem-0001" position="float" content-type="local-data"><caption><p>Supporting Information</p></caption><media xlink:href="SRT-30-e70024-s001.docx"/></supplementary-material></sec></body><back><ack id="srt70024-sec-0310"><title>ACKNOWLEDGMENTS</title><p>This work was supported by Weifang Municipal Health Commission Scientific Research Project, Grant/Award Number: WFWSJK&#x02010;2023&#x02010;111.</p></ack><sec sec-type="data-availability" id="srt70024-sec-0340"><title>DATA AVAILABILITY STATEMENT</title><p>The data that support the findings of this study are available on request from the corresponding author. The data are not publicly available due to privacy or ethical restrictions.</p></sec><ref-list id="srt70024-bibl-0001"><title>REFERENCES</title><ref id="srt70024-bib-0001"><label>1</label><mixed-citation publication-type="miscellaneous" id="srt70024-cit-0001">
+<string-name>
+<surname>McGinty</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Siddiqui</surname>
+<given-names>WJ</given-names>
+</string-name>. <article-title>Keloid</article-title> 2023 Jul 17. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024 January.</mixed-citation></ref><ref id="srt70024-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="srt70024-cit-0002">
+<string-name>
+<surname>Huang</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Lei</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Xue</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Tripterine inhibits proliferation and promotes apoptosis of keloid fibroblasts by targeting ROS/JNK signaling</article-title>. <source>J Burn Care Res</source>. <year>2024</year>;<volume>45</volume>(<issue>1</issue>):<fpage>104</fpage>&#x02010;<lpage>111</lpage>.<pub-id pub-id-type="pmid">37436955</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="srt70024-cit-0003">
+<string-name>
+<surname>Ekstein</surname>
+<given-names>SF</given-names>
+</string-name>, <string-name>
+<surname>Wyles</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name>
+<surname>Moran</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Meves</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Keloids: a review of therapeutic management</article-title>. <source>Int J Dermatol</source>. <year>2021</year>;<volume>60</volume>(<issue>6</issue>):<fpage>661</fpage>&#x02010;<lpage>671</lpage>.<pub-id pub-id-type="pmid">32905614</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="srt70024-cit-0004">
+<string-name>
+<given-names>KEN</given-names>
+</string-name>, <string-name>
+<surname>Gak</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Orteu</surname>
+<given-names>CH</given-names>
+</string-name>, Ong VH, Derrett&#x02010;Smith EC, Denton CP. <article-title>Skin biopsy analysis of concurrent keloidal morphoea and systemic sclerosis confirms overlapping pathogenic pathways</article-title>. <source>Clin Exp Rheumatol</source>. <year>2023</year>;<volume>41</volume>(<issue>8</issue>):<fpage>1644</fpage>&#x02010;<lpage>1651</lpage>.<pub-id pub-id-type="pmid">37223904</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="srt70024-cit-0005">
+<string-name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>G</given-names>
+</string-name>, et&#x000a0;al. <article-title>68 Ga&#x02010;FAPI&#x02010;04 PET/CT in assessment of fibroblast activation in keloids: a prospective pilot study</article-title>. <source>Clin Nucl Med</source>. <year>2024</year>;<volume>49</volume>(<issue>1</issue>):<fpage>16</fpage>&#x02010;<lpage>22</lpage>.<pub-id pub-id-type="pmid">38015039</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="srt70024-cit-0006">
+<string-name>
+<surname>Buechler</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Pradhan</surname>
+<given-names>RN</given-names>
+</string-name>, <string-name>
+<surname>Krishnamurty</surname>
+<given-names>AT</given-names>
+</string-name>, et&#x000a0;al. <article-title>Cross&#x02010;tissue organization of the fibroblast lineage</article-title>. <source>Nature</source>. <year>2021</year>;<volume>593</volume>(<issue>7860</issue>):<fpage>575</fpage>&#x02010;<lpage>579</lpage>.<pub-id pub-id-type="pmid">33981032</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="srt70024-cit-0007">
+<string-name>
+<surname>Deng</surname>
+<given-names>C&#x02010;C</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>Y&#x02010;F</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>D&#x02010;H</given-names>
+</string-name>, et&#x000a0;al. <article-title>Single&#x02010;cell RNA&#x02010;seq reveals fibroblast heterogeneity and increased mesenchymal fibroblasts in human fibrotic skin diseases</article-title>. <source>Nat Commun</source>. <year>2021</year>;<volume>12</volume>(<issue>1</issue>):<fpage>3709</fpage>.<pub-id pub-id-type="pmid">34140509</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="srt70024-cit-0008">
+<string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Xiong</surname>
+<given-names>L</given-names>
+</string-name>, et&#x000a0;al. <article-title>Drp1&#x02010;mediated mitochondrial fission promotes renal fibroblast activation and fibrogenesis</article-title>. <source>Cell Death Dis</source>. <year>2020</year>;<volume>11</volume>(<issue>1</issue>):<fpage>29</fpage>.<pub-id pub-id-type="pmid">31949126</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="srt70024-cit-0009">
+<string-name>
+<surname>Guarnieri</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Dybas</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Fazelinia</surname>
+<given-names>H</given-names>
+</string-name>, et&#x000a0;al. <article-title>Core mitochondrial genes are down&#x02010;regulated during SARS&#x02010;CoV&#x02010;2 infection of rodent and human hosts</article-title>. <source>Sci Transl Med</source>. <year>2023</year>;<volume>15</volume>(<issue>708</issue>):<elocation-id>eabq1533</elocation-id>.<pub-id pub-id-type="pmid">37556555</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="srt70024-cit-0010">
+<string-name>
+<surname>Chen</surname>
+<given-names>B</given-names>
+</string-name>, Yu D, Qin Z, et al. <article-title>Mitochondrial dysfunctions of keloid fibroblasts and it' s effects on cell metabolic functions</article-title>. <source>Zhonghua Zheng Xing Wai Ke Za Zhi</source>. <year>2016</year>;<volume>32</volume>(<issue>5</issue>):<fpage>359</fpage>&#x02010;<lpage>364</lpage>.<pub-id pub-id-type="pmid">30066994</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="srt70024-cit-0011">
+<string-name>
+<surname>Xu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>LncRNA H19 promotes keloid formation through targeting the miR&#x02010;769&#x02010;5p/EIF3A pathway</article-title>. <source>Mol Cell Biochem</source>. <year>2021</year>;<volume>476</volume>(<issue>3</issue>):<fpage>1477</fpage>&#x02010;<lpage>1487</lpage>.<pub-id pub-id-type="pmid">33389493</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="srt70024-cit-0012">
+<string-name>
+<surname>Ma</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Lai</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wan</surname>
+<given-names>Q</given-names>
+</string-name>, et&#x000a0;al. <article-title>Identification of common mechanisms and biomarkers for dermatomyositis and atherosclerosis based on bioinformatics analysis</article-title>. <source>Skin Res Technol</source>. <year>2024</year>;<volume>30</volume>(<issue>6</issue>):<elocation-id>e13808</elocation-id>.<pub-id pub-id-type="pmid">38899746</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="srt70024-cit-0013">
+<string-name>
+<surname>Xian</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Bai</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>J</given-names>
+</string-name>, et&#x000a0;al. <article-title>Bioinformatics analysis to reveal the potential comorbidity mechanism in psoriasis and nonalcoholic steatohepatitis</article-title>. <source>Skin Res Technol</source>. <year>2023</year>;<volume>29</volume>(<issue>9</issue>):<elocation-id>e13457</elocation-id>.<pub-id pub-id-type="pmid">37753698</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="srt70024-cit-0014">
+<string-name>
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>M</given-names>
+</string-name>, et&#x000a0;al. <article-title>Identification of potential crucial genes shared in psoriasis and ulcerative colitis by machine learning and integrated bioinformatics</article-title>. <source>Skin Res Technol</source>. <year>2024</year>;<volume>30</volume>(<issue>2</issue>):<elocation-id>e13574</elocation-id>.<pub-id pub-id-type="pmid">38303405</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="srt70024-cit-0015">
+<string-name>
+<surname>Zhou</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, et&#x000a0;al. <article-title>Identification and validation of CCR5 linking keloid with atopic dermatitis through comprehensive bioinformatics analysis and machine learning</article-title>. <source>Front Immunol</source>. <year>2024</year>;<volume>15</volume>:<elocation-id>1309992</elocation-id>.<pub-id pub-id-type="pmid">38476235</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="srt70024-cit-0016">
+<string-name>
+<surname>Meng</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>L</given-names>
+</string-name>, et&#x000a0;al. <article-title>Mapping variation of extracellular matrix in human keloid scar by label&#x02010;free multiphoton imaging and machine learning</article-title>. <source>J Biomed Opt</source>. <year>2023</year>;<volume>28</volume>(<issue>4</issue>):<elocation-id>045001</elocation-id>.<pub-id pub-id-type="pmid">37038546</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="srt70024-cit-0017">
+<string-name>
+<surname>Smith</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Boone</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name>
+<surname>Opalenik</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Russell</surname>
+<given-names>SB</given-names>
+</string-name>. <article-title>Gene profiling of keloid fibroblasts shows altered expression in multiple fibrosis&#x02010;associated pathways</article-title>. <source>J Invest Dermatol</source>. <year>2008</year>;<volume>128</volume>(<issue>5</issue>):<fpage>1298</fpage>&#x02010;<lpage>1310</lpage>.<pub-id pub-id-type="pmid">17989729</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="srt70024-cit-0018">
+<string-name>
+<surname>Hahn</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Glaser</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Mcfarland</surname>
+<given-names>KL</given-names>
+</string-name>, et&#x000a0;al. <article-title>Keloid&#x02010;derived keratinocytes exhibit an abnormal gene expression profile consistent with a distinct causal role in keloid pathology</article-title>. <source>Wound Repair Regen</source>. <year>2013</year>;<volume>21</volume>(<issue>4</issue>):<fpage>530</fpage>&#x02010;<lpage>544</lpage>.<pub-id pub-id-type="pmid">23815228</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="srt70024-cit-0019">
+<string-name>
+<surname>Kang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Roh</surname>
+<given-names>MiR</given-names>
+</string-name>, <string-name>
+<surname>Rajadurai</surname>
+<given-names>S</given-names>
+</string-name>, et&#x000a0;al. <article-title>Hypoxia and HIF&#x02010;1&#x003b1; regulate collagen production in keloids</article-title>. <source>J Invest Dermatol</source>. <year>2020</year>;<volume>140</volume>(<issue>11</issue>):<fpage>2157</fpage>&#x02010;<lpage>2165</lpage>.<pub-id pub-id-type="pmid">32315657</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="srt70024-cit-0020">
+<string-name>
+<surname>Onoufriadis</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hsu</surname>
+<given-names>C&#x02010;K</given-names>
+</string-name>, <string-name>
+<surname>Ainali</surname>
+<given-names>C</given-names>
+</string-name>, et&#x000a0;al. <article-title>Time series integrative analysis of RNA sequencing and MicroRNA expression data reveals key biologic wound healing pathways in keloid&#x02010;prone individuals</article-title>. <source>J Invest Dermatol</source>. <year>2018</year>;<volume>138</volume>(<issue>12</issue>):<fpage>2690</fpage>&#x02010;<lpage>2693</lpage>.<pub-id pub-id-type="pmid">29870686</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="srt70024-cit-0021">
+<string-name>
+<surname>Leek</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>
+<given-names>WE</given-names>
+</string-name>, <string-name>
+<surname>Parker</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name>
+<surname>Jaffe</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Storey</surname>
+<given-names>JD</given-names>
+</string-name>. <article-title>The sva package for removing batch effects and other unwanted variation in high&#x02010;throughput experiments</article-title>. <source>Bioinformatics</source>. <year>2012</year>;<volume>28</volume>(<issue>6</issue>):<fpage>882</fpage>&#x02010;<lpage>883</lpage>.<pub-id pub-id-type="pmid">22257669</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="srt70024-cit-0022">
+<string-name>
+<surname>Liu</surname>
+<given-names>Ye</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gu</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Systematic analysis of integrated bioinformatics to identify upregulated THBS2 expression in colorectal cancer cells inhibiting tumour immunity through the HIF1A/Lactic Acid/GPR132 pathway</article-title>. <source>Cancer Cell Int</source>. <year>2023</year>;<volume>23</volume>(<issue>1</issue>):<fpage>253</fpage>.<pub-id pub-id-type="pmid">37884956</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0023"><label>23</label><mixed-citation publication-type="book" id="srt70024-cit-0023">
+<string-name>
+<surname>Smyth</surname>
+<given-names>GK</given-names>
+</string-name>. <part-title>Limma: linear models for microarray data</part-title>. In: <person-group person-group-type="editor">
+<string-name>
+<surname>Gentleman</surname>
+<given-names>R</given-names>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name>
+<surname>Carey</surname>
+<given-names>V</given-names>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name>
+<surname>Dudoit</surname>
+<given-names>S</given-names>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name>
+<surname>Irizarry</surname>
+<given-names>R</given-names>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name>
+<surname>Huber</surname>
+<given-names>W</given-names>
+</string-name>
+</person-group>, eds. <source>Bioinformatics and Computational Biology Solutions Using R and Bioconductor</source>. <publisher-name>Springer New York</publisher-name>. <year>2005</year>:<fpage>397</fpage>&#x02010;<lpage>420</lpage>.</mixed-citation></ref><ref id="srt70024-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="srt70024-cit-0024">
+<string-name>
+<surname>Yu</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Li&#x02010;G</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>He</surname>
+<given-names>Q&#x02010;Yu</given-names>
+</string-name>. <article-title>clusterProfiler: an R package for comparing biological themes among gene clusters</article-title>. <source>Omics</source>. <year>2012</year>;<volume>16</volume>(<issue>5</issue>):<fpage>284</fpage>&#x02010;<lpage>287</lpage>.<pub-id pub-id-type="pmid">22455463</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="srt70024-cit-0025">
+<string-name>
+<surname>Langfelder</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Horvath</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>WGCNA: an R package for weighted correlation network analysis</article-title>. <source>BMC Bioinformatics</source>. <year>2008</year>;<volume>9</volume>:<fpage>559</fpage>.<pub-id pub-id-type="pmid">19114008</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="srt70024-cit-0026">
+<string-name>
+<surname>Szklarczyk</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Franceschini</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Wyder</surname>
+<given-names>S</given-names>
+</string-name>, et&#x000a0;al. <article-title>STRING v10: protein-protein interaction networks, integrated over the tree of life</article-title>. <source>Nucleic Acids Res</source>. <year>2015</year>;<volume>43</volume>(Database issue):<fpage>D447</fpage>&#x02010;<lpage>D452</lpage>.<pub-id pub-id-type="pmid">25352553</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="srt70024-cit-0027">
+<string-name>
+<surname>Gao</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kwan</surname>
+<given-names>PW</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Sparse kernel learning with LASSO and Bayesian inference algorithm</article-title>. <source>Neural Netw</source>. <year>2010</year>;<volume>23</volume>(<issue>2</issue>):<fpage>257</fpage>&#x02010;<lpage>264</lpage>.<pub-id pub-id-type="pmid">19604671</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="srt70024-cit-0028">
+<string-name>
+<surname>Dimitriadou</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Hornik</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Leisch</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Meyer</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Weingessel</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>The e1071 package</article-title>. <source>e1071: Misc Functions of the Department of Statistics (e1071), TU Wien</source>, <year>2006</year>:<fpage>297</fpage>&#x02010;<lpage>304</lpage>.</mixed-citation></ref><ref id="srt70024-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="srt70024-cit-0029">
+<string-name>
+<surname>Liaw</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Wiener</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Classification and regression by randomForest</article-title>. <source>R News</source>. <year>2002</year>;<fpage>23</fpage>(<issue>23</issue>).</mixed-citation></ref><ref id="srt70024-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="srt70024-cit-0030">
+<string-name>
+<surname>Robin</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Turck</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Hainard</surname>
+<given-names>A</given-names>
+</string-name>, et&#x000a0;al. <article-title>pROC: an open&#x02010;source package for R and S+ to analyze and compare ROC curves</article-title>. <source>BMC Bioinformatics</source>. <year>2011</year>;<volume>12</volume>:<fpage>77</fpage>.<pub-id pub-id-type="pmid">21414208</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0031"><label>31</label><mixed-citation publication-type="miscellaneous" id="srt70024-cit-0031">
+<string-name>
+<surname>Harrell</surname>
+<given-names>FE</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Harrell</surname>
+<given-names>MFE</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Hmisc D</surname>
+</string-name>. <article-title>Package &#x0201c;rms&#x0201d; . <italic toggle="yes">Vanderbilt University</italic>
+</article-title>., <year>2017</year>;<fpage>229</fpage>(Q8).</mixed-citation></ref><ref id="srt70024-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="srt70024-cit-0032">
+<string-name>
+<surname>Ye</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>
+<given-names>Z</given-names>
+</string-name>, et&#x000a0;al. <article-title>Tumor&#x02010;infiltrating immune cells act as a marker for prognosis in colorectal cancer</article-title>. <source>Front Immunol</source>. <year>2019</year>;<volume>10</volume>:<fpage>2368</fpage>.<pub-id pub-id-type="pmid">31681276</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="srt70024-cit-0033">
+<string-name>
+<surname>H&#x000e4;nzelmann</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Castelo</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Guinney</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>GSVA: gene set variation analysis for microarray and RNA&#x02010;seq data</article-title>. <source>BMC Bioinformatics</source>. <year>2013</year>;<volume>14</volume>:<fpage>7</fpage>.<pub-id pub-id-type="pmid">23323831</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="srt70024-cit-0034">
+<string-name>
+<surname>Bachner</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sturm</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Haug</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Demetriou</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Multi&#x02010;level validation of the German physical activity self&#x02010;efficacy scale in a sample of female sixth&#x02010;graders</article-title>. <source>BMC Public Health</source>. <year>2020</year>;<volume>20</volume>(<issue>1</issue>):<fpage>1</fpage>&#x02010;<lpage>10</lpage>.<pub-id pub-id-type="pmid">31898494</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="srt70024-cit-0035">
+<string-name>
+<surname>Mostafavi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ray</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Warde&#x02010;Farley</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Grouios</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>
+<given-names>Q</given-names>
+</string-name>. <article-title>GeneMANIA: a real&#x02010;time multiple association network integration algorithm for predicting gene function</article-title>. <source>Genome Biol</source>. <year>2008</year>;<volume>9</volume>(Suppl <issue>1</issue>):<fpage>S4</fpage>.</mixed-citation></ref><ref id="srt70024-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="srt70024-cit-0036">
+<string-name>
+<surname>Yoo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Shin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>J</given-names>
+</string-name>, et&#x000a0;al. <article-title>DSigDB: drug signatures database for gene set analysis</article-title>. <source>Bioinformatics</source>. <year>2015</year>;<volume>31</volume>(<issue>18</issue>):<fpage>3069</fpage>&#x02010;<lpage>3071</lpage>.<pub-id pub-id-type="pmid">25990557</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="srt70024-cit-0037">
+<string-name>
+<surname>Sticht</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>De La Torre</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Parveen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gretz</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>miRWalk: an online resource for prediction of microRNA binding sites</article-title>. <source>PLoS One</source>. <year>2018</year>. <volume>13</volume>(<issue>10</issue>):<elocation-id>e0206239</elocation-id>.<pub-id pub-id-type="pmid">30335862</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="srt70024-cit-0038">
+<string-name>
+<surname>Zhang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>H&#x02010;M</given-names>
+</string-name>, et&#x000a0;al. <article-title>hTFtarget: a comprehensive database for regulations of human transcription factors and their targets</article-title>. <source>Genomics Proteomics Bioinformatics</source>. <year>2020</year>;<volume>18</volume>(<issue>2</issue>):<fpage>120</fpage>&#x02010;<lpage>128</lpage>.<pub-id pub-id-type="pmid">32858223</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="srt70024-cit-0039">
+<string-name>
+<surname>Livak</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Schmittgen</surname>
+<given-names>TD</given-names>
+</string-name>. <article-title>Analysis of relative gene expression data using real&#x02010;time quantitative PCR and the 2(&#x02010;Delta Delta C(T)) method</article-title>. <source>METHODS</source>. <year>2001</year>;<volume>25</volume>(<issue>4</issue>):<fpage>402</fpage>&#x02010;<lpage>408</lpage>.<pub-id pub-id-type="pmid">11846609</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="srt70024-cit-0040">
+<string-name>
+<surname>Baudo</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Massaro</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Polymer&#x02010;functionalized mitochondrial transplantation to fibroblasts counteracts a pro&#x02010;fibrotic phenotype</article-title>. <source>Int J Mol Sci</source>. <year>2023</year>;<volume>24</volume>(<issue>13</issue>):<elocation-id>10913</elocation-id>.<pub-id pub-id-type="pmid">37446100</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="srt70024-cit-0041">
+<string-name>
+<surname>Noone</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Rochfort</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name>
+<surname>O'sullivan</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>O'gorman</surname>
+<given-names>DJ</given-names>
+</string-name>. <article-title>SIRT4 is a regulator of human skeletal muscle fatty acid metabolism influencing inner and outer mitochondrial membrane&#x02010;mediated fusion</article-title>. <source>Cell Signal</source>. <year>2023</year>;<volume>112</volume>:<elocation-id>110931</elocation-id>.<pub-id pub-id-type="pmid">37858614</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="srt70024-cit-0042">
+<string-name>
+<surname>Dong</surname>
+<given-names>XC</given-names>
+</string-name>. <article-title>Sirtuin 6&#x02010;a key regulator of hepatic lipid metabolism and liver health</article-title>. <source>Cells</source>. <year>2023</year>;<volume>12</volume>(<issue>4</issue>):<fpage>663</fpage>.<pub-id pub-id-type="pmid">36831330</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="srt70024-cit-0043">
+<string-name>
+<surname>Serravallo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jagdeo</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Glick</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Siegel</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Brody</surname>
+<given-names>NI</given-names>
+</string-name>. <article-title>Sirtuins in dermatology: applications for future research and therapeutics</article-title>. <source>Arch Dermatol Res</source>. <year>2013</year>;<volume>305</volume>(<issue>4</issue>):<fpage>269</fpage>&#x02010;<lpage>282</lpage>.<pub-id pub-id-type="pmid">23377138</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="srt70024-cit-0044">
+<string-name>
+<surname>Song</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Jia</surname>
+<given-names>X</given-names>
+</string-name>, et&#x000a0;al. <article-title>Distinctive roles of sirtuins on diabetes, protective or detrimental?</article-title>
+<source>Front Endocrinol (Lausanne)</source>. <year>2018</year>;<volume>9</volume>:<fpage>724</fpage>.<pub-id pub-id-type="pmid">30559718</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="srt70024-cit-0045">
+<string-name>
+<surname>Huang</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Sirtuin&#x02010;4 (SIRT4), a therapeutic target with oncogenic and tumor&#x02010;suppressive activity in cancer</article-title>. <source>Onco Targets Ther</source>. <year>2018</year>;<volume>11</volume>:<fpage>3395</fpage>&#x02010;<lpage>3400</lpage>.<pub-id pub-id-type="pmid">29928130</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="srt70024-cit-0046">
+<string-name>
+<surname>Prakash</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kamat</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Inamdar</surname>
+<given-names>MS</given-names>
+</string-name>. <article-title>Generation of an OCIAD2 overexpressing transgenic human embryonic stem cell line, BJNhem20&#x02010;OCIAD2&#x02010;OV</article-title>. <source>Stem Cell Res</source>. <year>2023</year>;<volume>67</volume>:<elocation-id>103027</elocation-id>.<pub-id pub-id-type="pmid">36640474</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="srt70024-cit-0047">
+<string-name>
+<surname>Maki</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jeongmin</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Nakagawa</surname>
+<given-names>T</given-names>
+</string-name>, et&#x000a0;al. <article-title>Aberrant OCIAD2 demethylation in lung adenocarcinoma is associated with outcome</article-title>. <source>Pathol Int</source>. <year>2022</year>;<volume>72</volume>(<issue>10</issue>):<fpage>496</fpage>&#x02010;<lpage>505</lpage>.<pub-id pub-id-type="pmid">35920378</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="srt70024-cit-0048">
+<string-name>
+<surname>Feng</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Hom</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Bearrood</surname>
+<given-names>TE</given-names>
+</string-name>, et&#x000a0;al. <article-title>Targeting colorectal cancer with small&#x02010;molecule inhibitors of ALDH1B1</article-title>. <source>Nat Chem Biol</source>. <year>2022</year>;<volume>18</volume>(<issue>10</issue>):<fpage>1065</fpage>&#x02010;<lpage>1075</lpage>.<pub-id pub-id-type="pmid">35788181</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="srt70024-cit-0049">
+<string-name>
+<surname>Chen</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>C</given-names>
+</string-name>, et&#x000a0;al. <article-title>A noncanonical function of EIF4E limits ALDH1B1 activity and increases susceptibility to ferroptosis</article-title>. <source>Nat Commun</source>. <year>2022</year>;<volume>13</volume>(<issue>1</issue>):<fpage>6318</fpage>.<pub-id pub-id-type="pmid">36274088</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="srt70024-cit-0050">
+<string-name>
+<surname>Wang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Aldehyde dehydrogenase 1B1 is a potential marker of colorectal tumors</article-title>. <source>Histol Histopathol</source>. <year>2021</year>;<volume>36</volume>(<issue>2</issue>):<fpage>183</fpage>&#x02010;<lpage>194</lpage>.<pub-id pub-id-type="pmid">33438176</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="srt70024-cit-0051">
+<string-name>
+<surname>Wang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Hou</surname>
+<given-names>C</given-names>
+</string-name>, et&#x000a0;al. <article-title>Targeted lipidomics analysis of lysine 179 acetylation of ACSF2 in rat hepatic stellate cells</article-title>. <source>Prostaglandins Other Lipid Mediat</source>. <year>2022</year>;<volume>163</volume>:<elocation-id>106671</elocation-id>.<pub-id pub-id-type="pmid">36028068</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="srt70024-cit-0052">
+<string-name>
+<surname>Wu</surname>
+<given-names>M&#x02010;N</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>D&#x02010;M</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>C&#x02010;Y</given-names>
+</string-name>, et&#x000a0;al. <article-title>Genetic analysis of potential biomarkers and therapeutic targets in ferroptosis from psoriasis</article-title>. <source>Front Immunol</source>. <year>2022</year>;<volume>13</volume>:<elocation-id>1104462</elocation-id>.<pub-id pub-id-type="pmid">36685512</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="srt70024-cit-0053">
+<string-name>
+<surname>Liu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Abualhssain</surname>
+<given-names>ATH</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Keloid: Genetic susceptibility and contributions of genetics and epigenetics to its pathogenesis</article-title>. <source>Exp Dermatol</source>. <year>2022</year>;<volume>31</volume>(<issue>11</issue>):<fpage>1665</fpage>&#x02010;<lpage>1675</lpage>.<pub-id pub-id-type="pmid">36052657</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="srt70024-cit-0054">
+<string-name>
+<surname>Li</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>Z</given-names>
+</string-name>. <article-title>Identification of hub genes of keloid fibroblasts by co&#x02010;expression network analysis and degree algorithm</article-title>. <source>J Healthc Eng</source>. <year>2022</year>;<volume>2022</volume>:<elocation-id>1272338</elocation-id>.<pub-id pub-id-type="pmid">35047146</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="srt70024-cit-0055">
+<string-name>
+<surname>Bell</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Shaw</surname>
+<given-names>TJ</given-names>
+</string-name>. <article-title>Keloid tissue analysis discredits a role for myofibroblasts in disease pathogenesis</article-title>. <source>Wound Repair Regen</source>. <year>2021</year>;<volume>29</volume>(<issue>4</issue>):<fpage>637</fpage>&#x02010;<lpage>641</lpage>.<pub-id pub-id-type="pmid">33961308</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="srt70024-cit-0056">
+<string-name>
+<surname>Lee</surname>
+<given-names>C&#x02010;H</given-names>
+</string-name>, <string-name>
+<surname>Hong</surname>
+<given-names>C&#x02010;H</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>Y&#x02010;T</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>Yu&#x02010;C</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>
+<given-names>M&#x02010;Ru</given-names>
+</string-name>. <article-title>TGF&#x02010;beta1 increases cell rigidity by enhancing expression of smooth muscle actin: keloid&#x02010;derived fibroblasts as a model for cellular mechanics</article-title>. <source>J Dermatol Sci</source>. <year>2012</year>;<volume>67</volume>(<issue>3</issue>):<fpage>173</fpage>&#x02010;<lpage>180</lpage>.<pub-id pub-id-type="pmid">22771320</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="srt70024-cit-0057">
+<string-name>
+<surname>Esteves De Lima</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Blavet</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bonnin</surname>
+<given-names>M&#x02010;A</given-names>
+</string-name>, et&#x000a0;al. <article-title>Unexpected contribution of fibroblasts to muscle lineage as a mechanism for limb muscle patterning</article-title>. <source>Nat Commun</source>. <year>2021</year>;<volume>12</volume>(<issue>1</issue>):<fpage>3851</fpage>.<pub-id pub-id-type="pmid">34158501</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="srt70024-cit-0058">
+<string-name>
+<surname>Promila</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Joshi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Khan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Aggarwal</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lahiri</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Role of mitochondrial dysfunction in the pathogenesis of rheumatoid arthritis: looking closely at fibroblast&#x02010; like synoviocytes</article-title>. <source>Mitochondrion</source>. <year>2023</year>. <volume>73</volume>:<fpage>62</fpage>&#x02010;<lpage>71</lpage>.<pub-id pub-id-type="pmid">38506094</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="srt70024-cit-0059">
+<string-name>
+<surname>Schmitt</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Grimm</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Dallmann</surname>
+<given-names>R</given-names>
+</string-name>, et&#x000a0;al. <article-title>Circadian control of DRP1 activity regulates mitochondrial dynamics and bioenergetics</article-title>. <source>Cell Metab</source>. <year>2018</year>;<volume>27</volume>(<issue>3</issue>):<fpage>657</fpage>&#x02010;<lpage>666.e5</lpage>.e5.<pub-id pub-id-type="pmid">29478834</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="srt70024-cit-0060">
+<string-name>
+<surname>Hao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Dong</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Effects of hyperbaric oxygen therapy on the expression levels of the inflammatory factors interleukin&#x02010;12p40, macrophage inflammatory protein&#x02010;1&#x003b2;, platelet&#x02010;derived growth factor&#x02010;BB, and interleukin&#x02010;1 receptor antagonist in keloids</article-title>. <source>Medicine (Baltimore)</source>. <year>2020</year>;<volume>99</volume>(<issue>16</issue>):<elocation-id>e19857</elocation-id>.<pub-id pub-id-type="pmid">32312010</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="srt70024-cit-0061">
+<string-name>
+<surname>Ji</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>T&#x02010;helper cells and their cytokines in pathogenesis and treatment of asthma</article-title>. <source>Front Immunol</source>. <year>2023</year>;<volume>14</volume>:<elocation-id>1149203</elocation-id>.<pub-id pub-id-type="pmid">37377958</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="srt70024-cit-0062">
+<string-name>
+<surname>Ogawa</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Keloid and hypertrophic scars are the result of chronic inflammation in the reticular dermis</article-title>. <source>Int J Mol Sci</source>. <year>2017</year>;<volume>18</volume>(<issue>3</issue>):<fpage>606</fpage>.<pub-id pub-id-type="pmid">28287424</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="srt70024-cit-0063">
+<string-name>
+<surname>Chao</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Hsu</surname>
+<given-names>P</given-names>
+</string-name>, et&#x000a0;al. <article-title>IL&#x02010;13RA2 downregulation in fibroblasts promotes keloid fibrosis via JAK/STAT6 activation</article-title>. <source>JCI Insight</source>. <year>2023</year>;<volume>8</volume>(<issue>6</issue>).</mixed-citation></ref><ref id="srt70024-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="srt70024-cit-0064">
+<string-name>
+<surname>Lee</surname>
+<given-names>S&#x02010;Y</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>
+<given-names>JW</given-names>
+</string-name>, et&#x000a0;al. <article-title>IL&#x02010;17 Induces autophagy dysfunction to promote inflammatory cell death and fibrosis in keloid fibroblasts via the STAT3 and HIF&#x02010;1&#x003b1; dependent signaling pathways</article-title>. <source>Front Immunol</source>. <year>2022</year>;<volume>13</volume>:<elocation-id>888719</elocation-id>.<pub-id pub-id-type="pmid">35757697</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="srt70024-cit-0065">
+<string-name>
+<surname>Milling</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Edgar</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>How T'reg&#x02010;ulate healing of the injured spinal cord?</article-title>
+<source>Immunology</source>. <year>2019</year>;<volume>158</volume>(<issue>4</issue>):<fpage>253</fpage>&#x02010;<lpage>254</lpage>.<pub-id pub-id-type="pmid">31729761</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="srt70024-cit-0066">
+<string-name>
+<surname>Kaye</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Integrating T cell activation signals to regulate gene expression through cyclosporin&#x02010;sensitive NFAT</article-title>. <source>J Immunol</source>. <year>2023</year>;<volume>211</volume>(<issue>3</issue>):<fpage>323</fpage>&#x02010;<lpage>324</lpage>.<pub-id pub-id-type="pmid">37987776</pub-id>
+</mixed-citation></ref><ref id="srt70024-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="srt70024-cit-0067">
+<string-name>
+<surname>Weng</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Fu</surname>
+<given-names>K</given-names>
+</string-name>, et&#x000a0;al. <article-title>Proteomic profiling reveals the potential mechanisms and regulatory targets of sirtuin 4 in 1&#x02010;methyl&#x02010;4&#x02010;phenyl&#x02010;1,2,3,6&#x02010;tetrahydropyridine&#x02010;induced Parkinson's mouse model</article-title>. <source>Front Neurosci</source>. <year>2022</year>;<volume>16</volume>:<elocation-id>1035444</elocation-id>.<pub-id pub-id-type="pmid">36760798</pub-id>
+</mixed-citation></ref></ref-list></back></article>

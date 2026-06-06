@@ -1,0 +1,652 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">F1000Res</journal-id><journal-id journal-id-type="iso-abbrev">F1000Res</journal-id><journal-title-group><journal-title>F1000Research</journal-title></journal-title-group><issn pub-type="epub">2046-1402</issn><publisher><publisher-name>F1000 Research Limited</publisher-name><publisher-loc>London, UK</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">39925991</article-id><article-id pub-id-type="pmc">11807241</article-id><article-id pub-id-type="doi">10.12688/f1000research.139904.2</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group><subject>Articles</subject></subj-group></article-categories><title-group><article-title>Waveform characteristics in thoracic paravertebral space: a prospective observational study</article-title><fn-group content-type="pub-status"><fn><p>[version 2; peer review: 2 approved]</p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author"><name><surname>Vijitpavan</surname><given-names>Amorn</given-names></name><role content-type="http://credit.niso.org/">Conceptualization</role><role content-type="http://credit.niso.org/">Data Curation</role><role content-type="http://credit.niso.org/">Formal Analysis</role><role content-type="http://credit.niso.org/">Funding Acquisition</role><role content-type="http://credit.niso.org/">Investigation</role><role content-type="http://credit.niso.org/">Methodology</role><role content-type="http://credit.niso.org/">Project Administration</role><role content-type="http://credit.niso.org/">Resources</role><role content-type="http://credit.niso.org/">Software</role><role content-type="http://credit.niso.org/">Supervision</role><role content-type="http://credit.niso.org/">Validation</role><role content-type="http://credit.niso.org/">Visualization</role><role content-type="http://credit.niso.org/">Writing &#x02013; Original Draft Preparation</role><role content-type="http://credit.niso.org/">Writing &#x02013; Review &#x00026; Editing</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-4845-0660</contrib-id><xref rid="a1" ref-type="aff">1</xref></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Termpornlert</surname><given-names>Sivaporn</given-names></name><role content-type="http://credit.niso.org/">Conceptualization</role><role content-type="http://credit.niso.org/">Data Curation</role><role content-type="http://credit.niso.org/">Formal Analysis</role><role content-type="http://credit.niso.org/">Funding Acquisition</role><role content-type="http://credit.niso.org/">Investigation</role><role content-type="http://credit.niso.org/">Methodology</role><role content-type="http://credit.niso.org/">Project Administration</role><role content-type="http://credit.niso.org/">Resources</role><role content-type="http://credit.niso.org/">Software</role><role content-type="http://credit.niso.org/">Supervision</role><role content-type="http://credit.niso.org/">Validation</role><role content-type="http://credit.niso.org/">Visualization</role><role content-type="http://credit.niso.org/">Writing &#x02013; Original Draft Preparation</role><role content-type="http://credit.niso.org/">Writing &#x02013; Review &#x00026; Editing</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-7897-5818</contrib-id><xref rid="c1" ref-type="corresp">a</xref><xref rid="a1" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name><surname>Subsoontorn</surname><given-names>Pattika</given-names></name><role content-type="http://credit.niso.org/">Conceptualization</role><role content-type="http://credit.niso.org/">Data Curation</role><role content-type="http://credit.niso.org/">Formal Analysis</role><role content-type="http://credit.niso.org/">Funding Acquisition</role><role content-type="http://credit.niso.org/">Investigation</role><role content-type="http://credit.niso.org/">Methodology</role><role content-type="http://credit.niso.org/">Project Administration</role><role content-type="http://credit.niso.org/">Resources</role><role content-type="http://credit.niso.org/">Software</role><role content-type="http://credit.niso.org/">Writing &#x02013; Original Draft Preparation</role><role content-type="http://credit.niso.org/">Writing &#x02013; Review &#x00026; Editing</role><xref rid="a1" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name><surname>Vareesunthorn</surname><given-names>Lalinthip</given-names></name><role content-type="http://credit.niso.org/">Conceptualization</role><role content-type="http://credit.niso.org/">Data Curation</role><role content-type="http://credit.niso.org/">Formal Analysis</role><role content-type="http://credit.niso.org/">Funding Acquisition</role><role content-type="http://credit.niso.org/">Investigation</role><role content-type="http://credit.niso.org/">Methodology</role><xref rid="a1" ref-type="aff">1</xref></contrib><aff id="a1">
+<label>1</label>Department of Anesthesiology, Faculty of Medicine Ramathibodi Hospital, Mahidol University, Ratchathewi, Bangkok, 10400, Thailand</aff></contrib-group><author-notes><corresp id="c1">
+<label>a</label>
+<email xlink:href="mailto:stermpornlert@gmail.com">stermpornlert@gmail.com</email>
+</corresp><fn fn-type="COI-statement"><p>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>27</day><month>1</month><year>2025</year></pub-date><pub-date pub-type="collection"><year>2024</year></pub-date><volume>13</volume><elocation-id>150</elocation-id><history><date date-type="accepted"><day>17</day><month>1</month><year>2025</year></date></history><permissions><copyright-statement>Copyright: &#x000a9; 2025 Vijitpavan A et al.</copyright-statement><copyright-year>2025</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="f1000research-13-177025.pdf"/><abstract><sec><title>Background</title><p>With increased use of thoracic paravertebral block (TPVB) in thoracic surgery, many faced the challenge of locating the thoracic paravertebral space (TPVS) ultrasonographically. This observational study aimed to investigate the waveform characteristics and pressure value within the TPVS in anaesthetized patients with controlled ventilation.</p></sec><sec><title>Methods</title><p>50 patients scheduled for elective lung surgery were enrolled. After conduction of anesthesia, all patients underwent TPVB at T4/5 and T6/7 using transverse, in-plane ultrasound guidance. A pressure transducer system with a desktop monitor was connected to the needle hub to measure pressure values and waveform characteristics in three locations: the paraspinal muscles, immediately behind the superior costotransverse ligament, and within the TPVS. Next, 15 mL of 0.33% bupivacaine was injected into each desired TPVS. After completion of the surgery, the extent of dermatomal blockade and the pain score was assessed in all patients.</p></sec><sec><title>Results</title><p>98 typical regular respiratory waveforms with a mean pressure of &#x02264; 25 mmHg were detected in the TPVS of 50 patients. The sensitivity of the combined ultrasound and pressure waveform measurement technique to identify the TPVS was 95.45% (95% confidence interval, 84.527&#x02013;99.445). Nontypical respiratory waveforms were present in two patients. Factors interfering with the TPVS waveform characteristics were previous thoracic surgery.</p></sec><sec><title>Conclusion</title><p>The TPVS had low pressure and showed a smooth, regular waveform pattern corresponding to respiration.</p></sec></abstract><kwd-group kwd-group-type="author"><kwd>Thoracic paravertebral block</kwd><kwd>Respiratory waveform</kwd><kwd>Pressure value</kwd><kwd>Thoracic paravertebral space</kwd><kwd>Observational study</kwd><kwd>Ultrasound-guided</kwd></kwd-group><funding-group><funding-statement>The author(s) declared that no grants were involved in supporting this work.</funding-statement></funding-group></article-meta><notes notes-type="version-changes"><sec sec-type="version-changes"><label>Revised</label><title>Amendments from Version 1</title><p>Following the peer review, several modifications were made to the manuscript. In the abstract, certain sentences were excised. The introduction was revised to list adverse events in order of frequency, from highest to lowest, and one reference was updated to include p-values. In the methods section, definitions for waveform characteristics A, B, and C were clarified, and the definition of the numeric rating scale (NRS) for unsuccessful blockade was deleted. Other sections referring to the NRS were also removed. The study results now indicate four cases instead of five. In the figure section, the label "ICP" was removed to prevent confusion with intracranial pressure. Headers and captions of Tables 1, 2, and 4 were updated to reflect data from the new analysis, including p-values. Irrelevant paragraphs were removed from the discussion section.</p></sec></notes></front><body><sec sec-type="intro" id="sec1"><title>Introduction</title><p>Thoracic paravertebral block (TPVB) has become an increasingly popular technique for pain control after thoracic surgery through various approaches such as the anatomical-based technique.
+<sup>
+<xref rid="ref1" ref-type="bibr">1</xref>
+</sup> However, this technique has a failure rate of up to 10% and is associated with several potential adverse events: hypotension (4.6%), vascular puncture (3.8%), hematoma (1.9%), pleural puncture (1.1%), epidural or spinal spread (1.1%)
+<sup>
+<xref rid="ref2" ref-type="bibr">2</xref>
+</sup> and pneumothorax (0.5%). Identifying the thoracic paravertebral space (TPVS) is crucial in achieving success and preventing adverse events. Numerous methods have been proposed to locate the TPVS, such as the loss-of resistance technique,
+<sup>
+<xref rid="ref3" ref-type="bibr">3</xref>
+</sup> nerve stimulation,
+<sup>
+<xref rid="ref4" ref-type="bibr">4</xref>
+</sup>
+<sup>&#x02013;</sup>
+<sup>
+<xref rid="ref7" ref-type="bibr">7</xref>
+</sup> pressure measurement,
+<sup>
+<xref rid="ref8" ref-type="bibr">8</xref>
+</sup>
+<sup>&#x02013;</sup>
+<sup>
+<xref rid="ref10" ref-type="bibr">10</xref>
+</sup> and an acoustic signal.
+<sup>
+<xref rid="ref11" ref-type="bibr">11</xref>
+</sup> Ultrasound guidance is another approach for TPVB and was first introduced by Hara
+<italic toggle="yes">et al.</italic>
+<sup>
+<xref rid="ref12" ref-type="bibr">12</xref>
+</sup> for breast surgery. The evidence to date demonstrates that ultrasound-guided TPVB (UG-TPVB) is safe to perform in sedated and ventilated patients.
+<sup>
+<xref rid="ref13" ref-type="bibr">13</xref>
+</sup> Most anesthesiologists currently use ultrasound to locate the TPVS and needle path. Patnaik
+<italic toggle="yes">et al.</italic>
+<sup>
+<xref rid="ref14" ref-type="bibr">14</xref>
+</sup> reported that UG-TPVB resulted in a more successful block than the anatomical landmark technique (94% and 72%, p=0.024, respectively), although the complication rates were comparable (13.8% and 22.2%, p=0.54, respectively). Several approaches can be used for UG-TPVB, such as a parasagittal or transverse probe orientation and an in-plane or out-of-plane technique for needle visualization.
+<sup>
+<xref rid="ref15" ref-type="bibr">15</xref>
+</sup>
+<sup>,</sup>
+<sup>
+<xref rid="ref16" ref-type="bibr">16</xref>
+</sup> However, the optimal UG-TPVB method remains unclear.
+<sup>
+<xref rid="ref15" ref-type="bibr">15</xref>
+</sup>
+</p><p>Practically, observation of the needle tip by ultrasound while simultaneously advancing the needle to the target area surrounded by the bone is challenging. The TPVS is a narrow channel adjacent to the lung and spinal canal, and the needle tip may be misplaced into a non-target area, causing block failure and complications.
+<sup>
+<xref rid="ref17" ref-type="bibr">17</xref>
+</sup> As the TPVS lies adjacent to the pleural space, we speculated that the characteristics of the respiratory waveform could be detected from the needle tip once it was located within the TPVS. Thus, this study aimed to observe waveform patterns and pressure values in the TPVS when performing UG-TPVB after the induction of general anesthesia with controlled ventilation.</p></sec><sec sec-type="methods" id="sec2"><title>Methods</title><p>This prospective observational study was approved by the Ethics Committee of the Ramathibodi Hospital, Mahidol University, Bangkok, Thailand on 19
+<sup>th</sup> May 2020 (reference no. MURA2020/860). The protocol for this study was registered in the protocols.io repository (
+<ext-link xlink:href="https://www.protocols.io/view/waveform-characteristics-in-thoracic-paravertebral-14egn3mxpl5d/v1" ext-link-type="uri">https://www.protocols.io/view/waveform-characteristics-in-thoracic-
+paravertebral-14egn3mxpl5d/v1</ext-link>).</p><p>A total of 50 patients scheduled for elective lung surgery (open thoracotomy and video-assisted thoracoscopic surgery) were recruited during 9
+<sup>th</sup> February 2021 to 17
+<sup>th</sup> May 2021. Anesthesiology residents or fellows at Ramathibodi Hospital provided preoperative information and obtained informed consent. The inclusion criteria were an age of 18 to 80 years and an American Society of Anesthesiologists (ASA) physical status of I to III. The ASA physical status was defined as the following: ASA I is a normal healthy patient, ASA II is a patient with mild systemic disease, ASA III is a patient with severe systemic disease, ASA IV is a patient with severe systemic disease that is a constant threat to life, ASA V is a moribund patient who is not expected to survive without the operation.
+<sup>
+<xref rid="ref18" ref-type="bibr">18</xref>
+</sup>
+</p><p>The exclusion criteria were no provision of informed consent, refusal to receive UG-TPVB, a body mass index of &#x0003e;35 kg/m
+<sup>2</sup>, significant thoracic kyphoscoliosis, coagulopathy (platelet count of &#x0003c;100,000 per mL or international normalized ratio of &#x0003e;1.4), allergies or contraindications to medications used in the study protocol, and refusal to participate or withdrawal of consent at any stage of the study.</p><p>All enrolled patients received standard protocol for elective lung surgery. They were fasted for at least eight hours before surgery. Standard ASA monitoring was performed throughout the surgery. Anesthesia was induced using propofol (2.0&#x02013;2.5 mg/kg), fentanyl (1&#x02013;2 mcg/kg), and cisatracurium (0.15&#x02013;0.2 mg/kg) intravenously. Patients were intubated with left-sided double-lumen tubes. The anesthetized patient was placed in the lateral decubitus position with the operative site up for UG-TPVB. During UG-TPVB, both lungs were ventilated with continuous positive pressure ventilation (pressure-controlled mode with inspiratory pressure of 20 cmH
+<sub>2</sub>O, inspiratory time of 1 second, respiratory rate of 12 breaths per minute, and positive end-expiratory pressure of 5 cmH
+<sub>2</sub>O). Under sterile conditions, UG-TPVB was performed with a high-frequency linear transducer (12-MHz 9L-RS probe, GE Vivid IQ ultrasound machine; GE Healthcare, Chicago, IL, USA) by experienced operators using the transverse in-plane technique at the fourth and the fifth thoracic vertebrae (T4/5) and the sixth and the seventh thoracic vertebrae (T6/7) of the TPVS. The ultrasound probe was covered with a sterile plastic sleeve and placed on the back of the shoulder area. The operator identified the first rib and then counted downward until the fourth rib was reached. The probe was then moved inward to locate the fourth transverse process. The ultrasound probe was then dragged downward to locate the fifth transverse process and identify the location of the TPVS between T4 and T5, labelling the site with an indelible pen. The ultrasound probe was moved further downward to locate the sixth and seventh transverse processes and the TPVS was marked between T6 and T7.</p><p>An echogenic needle (SonoTAP; Pajunk GmbH Medizintechnologie, Geisingen, Germany) was connected to a pressure transducer system (TruWave PX260; Edwards Lifesciences, Irvine, CA, USA)
+<italic toggle="yes">via</italic> a three-way stopcock (Discofix 3SC; B. Braun, Melsungen, Germany) and a 36-inch noncompliant pressure tubing (Edwards Lifesciences). The pressure transducer was connected to a desktop monitor (IntelliVue MP70; Philips, Amsterdam, Netherlands) and levelled at the spinous process. The needle was then inserted at the skin approximately 3 cm from the midline and advanced laterally to medially under in-plane ultrasound visualization. We observed the mean pressure and waveform characteristics when the needle tip was in three locations (
+<xref rid="f1" ref-type="fig">
+Figure 1</xref>).</p><fig position="float" fig-type="figure" id="f1"><label>
+Figure 1. </label><caption><title>Ultrasound image of thoracic paravertebral block and needle tip position during pressure measurement.</title><p>(A) Paraspinal muscle. (B) Immediately posterior to SCTL. (C) In TPVS.</p><p>Abbreviation: SCTL, superior costotransverse ligament; TPVS, thoracic paravertebral space; dotted arrow represents the needle path.</p></caption><graphic xlink:href="f1000research-13-177025-g0000" id="gr1" position="float"/></fig><p>First, the tip of the needle was identified in the paraspinal muscles. Second, the needle tip was advanced immediately posterior to the superior costotransverse ligament (SCTL) and confirmed by a 1.0-mL normal saline injection. Third, the needle tip was located in the TPVS and confirmed by a 0.5- to 3.0-mL saline injection, which widened the TPVS and caused anterior displacement of the pleura.</p><p>The operator then slowly injected 15 mL 0.33% bupivacaine into each desired TPVS. The collected waveforms were classified into three patterns (A, B, and C) according to our pilot study and based on previous trials.
+<sup>
+<xref rid="ref8" ref-type="bibr">8</xref>
+</sup>
+<sup>&#x02013;</sup>
+<sup>
+<xref rid="ref11" ref-type="bibr">11</xref>
+</sup> The &#x0201c;A&#x0201d; waveform or typical waveform was defined as a smooth and regular sine wave resembling the respiratory pattern with a mean pressure of &#x02264; 25 mmHg; the &#x0201c;B&#x0201d; waveform was defined as an irregular coarse, wavy line with a mean pressure &#x02264; 40 mmHg; and the &#x0201c;C&#x0201d; waveform was defined as a tense, straight line with a mean pressure &#x0003e; 40 mmHg. B and C waveforms were referred to as atypical waveform.</p><p>The attending anesthesiologists maintained anesthesia to achieve adequate anesthetic depth using 1:1 of air: oxygen, 2% sevoflurane, fentanyl, and cisatracurium. After completion of surgery, all patients were extubated and transferred to the postanesthetic care unit.</p><p>The objectives of this study encompassed the observation of thoracic paravertebral waveforms and pressure values in TPVS, as well as an assessment of the efficacy of UG-TPVB. This evaluation was accomplished by the extent of dermatomal blockade, determined by pinprick sensation, once they regained full consciousness. An unsuccessful block was characterized as the inability to confirm more than three levels of dermatomal blockade, as per Eason and Wyatt&#x02019;s criteria.
+<sup>
+<xref rid="ref3" ref-type="bibr">3</xref>
+</sup>
+</p><p>Continuous variables were presented as mean &#x000b1; standard deviation or median &#x000b1; range as appropriate after Shapiro-Wilk and Shapiro-Francia tests for normality. Categorical variables were presented as numbers and percentages. The quantile regression was applied to test the median difference between injection site, multiple comparison, thoracotomy group, and the difference between the median pressure values of T4/5 and T6/7 to estimate the sensitivity and positive predictive values. All statistical analysis was calculated by STATA 17 (StataCorp. 2021. Stata Statistical Software: Release 17. College Station, TX: StataCorp LLC; RRID: SCR_012763). The significance was set at p-value of &#x0003c; 0.05.</p></sec><sec sec-type="results" id="sec3"><title>Results</title><p>50 patients were recruited between February 2021 and May 2021. Their demographic and perioperative data are summarized in
+<xref rid="T1" ref-type="table">
+Table 1</xref>.</p><table-wrap position="float" id="T1"><label>
+Table 1. </label><caption><title>Demographic and perioperative data (n = 50).</title></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th align="left" colspan="1" rowspan="1" valign="top">Demographic and perioperative data</th><th align="left" colspan="1" rowspan="1" valign="top">
+Statistics</th></tr></thead><tbody><tr><td align="left" colspan="1" rowspan="1" valign="middle">Age, years</td><td align="left" colspan="1" rowspan="1" valign="middle">60.8&#x000b1;13.0</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Sex</td><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">&#x02003;Male</td><td align="left" colspan="1" rowspan="1" valign="middle">16 (32.0)</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">&#x02003;Female</td><td align="left" colspan="1" rowspan="1" valign="middle">34 (68.0)</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Body mass index, kg/m
+<sup>2</sup>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">24.2&#x000b1;3.9</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Operative side</td><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">&#x02003;Right</td><td align="left" colspan="1" rowspan="1" valign="middle">32 (64.0)</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">&#x02003;Left</td><td align="left" colspan="1" rowspan="1" valign="middle">18 (36.0)</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Operation type</td><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">&#x02003;VATS</td><td align="left" colspan="1" rowspan="1" valign="middle">37 (74.0)</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">&#x02003;&#x02003;Lobectomy</td><td align="left" colspan="1" rowspan="1" valign="middle">27 (78.0)</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">&#x02003;&#x02003;Segmentectomy</td><td align="left" colspan="1" rowspan="1" valign="middle">5 (13.5)</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">&#x02003;&#x02003;Wedge resection</td><td align="left" colspan="1" rowspan="1" valign="middle">3 (8.1)</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">&#x02003;&#x02003;Blebectomy</td><td align="left" colspan="1" rowspan="1" valign="middle">2 (5.4)</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">&#x02003;Open thoracotomy</td><td align="left" colspan="1" rowspan="1" valign="middle">13 (26.0)</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">&#x02003;&#x02003;Lobectomy</td><td align="left" colspan="1" rowspan="1" valign="middle">9 (69.2)</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">&#x02003;&#x02003;Wedge resection</td><td align="left" colspan="1" rowspan="1" valign="middle">1 (7.7)</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">&#x02003;&#x02003;Decortication</td><td align="left" colspan="1" rowspan="1" valign="middle">2 (15.4)</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">&#x02003;&#x02003;Blebectomy</td><td align="left" colspan="1" rowspan="1" valign="middle">1 (7.7)</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Previous ipsilateral thoracic surgery</td><td align="left" colspan="1" rowspan="1" valign="middle">4 (8.0)</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Mean inspiratory pressure during two-lung ventilation, mmHg</td><td align="left" colspan="1" rowspan="1" valign="middle">14.0&#x000b1;1.54</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Dynamic lung compliance, ml/cm H
+<sub>2</sub>O</td><td align="left" colspan="1" rowspan="1" valign="middle">42.7&#x000b1;15.5</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Operation time, minutes</td><td align="left" colspan="1" rowspan="1" valign="middle">275.7&#x000b1;68.5</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Total intraoperative fentanyl, mcg</td><td align="left" colspan="1" rowspan="1" valign="middle">109.5&#x000b1;45.1</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Failed block</td><td align="left" colspan="1" rowspan="1" valign="middle">6 (12.0)</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Dermatomal blocks, levels</td><td align="left" colspan="1" rowspan="1" valign="middle">4.9&#x000b1;1.5</td></tr></tbody></table><table-wrap-foot><p>Abbreviation: VATS, video-assisted thoracoscopic surgery.</p><p>Data are presented as mean &#x000b1; standard deviation (SD), number (%).</p></table-wrap-foot></table-wrap><p>All patients were extubated and assessed for dermatomal sensory blockade and NRS scores before discharge from the post-anaesthetic care unit. Compared with the pressure values at each position of the needle at both levels, the pressures in the TPVS were significantly different from the pressures from the paraspinal muscle and SCTL as shown in
+<xref rid="T2" ref-type="table">
+Table 2</xref>. The median pressure value in the TPVS of T4/5 was 17.0 (3.0, 47.0) mmHg, and that of T6/7 was 15.5 (8.0, 26.0) mmHg. There was significant difference in the pressure value between T4/5 and T6/7 (p &#x0003c; 0.001). The waveform characteristics were presented in
+<xref rid="T3" ref-type="table">
+Table 3</xref> and
+<xref rid="f2" ref-type="fig">
+Figure 2</xref>. The number B and C waveform were counted as an atypical waveform group; the intra-muscle and SCTL layers were combined together as non TPVS. When compared with the UG- TPVB, the sensitivity, specificity, positive and negative predictive value (PPV, NPV) and receiver operating characteristic (ROC) area of typical waveform to locate the TPVS were 98.0 (93.0, 99.8), 99.5 (97.2, 100.0), 99.0 (94.5, 100.0), 99.0 (96.5, 99.9), 99.8 (97.3, 100.0), respectively (
+<xref rid="T4" ref-type="table">
+Table 4</xref>).</p><table-wrap position="float" id="T2"><label>
+Table 2. </label><caption><title>Pressure values (n = 100).</title></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th align="left" colspan="1" rowspan="1" valign="top">Injection site</th><th align="left" colspan="1" rowspan="1" valign="top">T 4/5 (n=50)</th><th align="left" colspan="1" rowspan="1" valign="top">T 6/7 (n=50)</th><th align="left" colspan="1" rowspan="1" valign="top">
+P-value
+</th></tr></thead><tbody><tr><td align="left" colspan="1" rowspan="1" valign="middle">
+<sup>a</sup>Intramuscular pressure, mmHg</td><td align="left" colspan="1" rowspan="1" valign="middle">44.0 (5.0, 95.0)</td><td align="left" colspan="1" rowspan="1" valign="middle">45.5 (14.0, 85.0)</td><td align="left" colspan="1" rowspan="1" valign="middle">0.154</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">
+<sup>b</sup>SCTL pressure, mmHg</td><td align="left" colspan="1" rowspan="1" valign="middle">34.5 (20.0, 81.0)</td><td align="left" colspan="1" rowspan="1" valign="middle">40.0 (23.0, 95.0)</td><td align="left" colspan="1" rowspan="1" valign="middle">&#x0003c;0.001
+<xref rid="tfn1" ref-type="table-fn">*</xref>
+</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">
+<sup>c</sup>TPVS Pressure, mmHg</td><td align="left" colspan="1" rowspan="1" valign="middle">17.0 (3.0, 47.0)</td><td align="left" colspan="1" rowspan="1" valign="middle">15.5 (8.0, 26.0)</td><td align="left" colspan="1" rowspan="1" valign="middle">&#x0003c;0.001
+<xref rid="tfn1" ref-type="table-fn">*</xref>
+</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Respiratory waveform present</td><td align="left" colspan="1" rowspan="1" valign="middle">48 (96)</td><td align="left" colspan="1" rowspan="1" valign="middle">50 (100)</td><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Overall p-value</td><td align="left" colspan="1" rowspan="1" valign="middle">&#x0003c;0.001
+<xref rid="tfn1" ref-type="table-fn">*</xref>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">&#x0003c;0.001
+<xref rid="tfn1" ref-type="table-fn">*</xref>
+</td><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Multiple comparison</td><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">&#x02003;a vs. b</td><td align="left" colspan="1" rowspan="1" valign="middle">0.001
+<xref rid="tfn1" ref-type="table-fn">*</xref>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">0.063</td><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">&#x02003;a vs. c</td><td align="left" colspan="1" rowspan="1" valign="middle">&#x0003c;0.001
+<xref rid="tfn1" ref-type="table-fn">*</xref>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">&#x0003c;0.001
+<xref rid="tfn1" ref-type="table-fn">*</xref>
+</td><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">&#x02003;b vs. c</td><td align="left" colspan="1" rowspan="1" valign="middle">&#x0003c;0.001
+<xref rid="tfn1" ref-type="table-fn">*</xref>
+</td><td align="left" colspan="1" rowspan="1" valign="middle">&#x0003c;0.001
+<xref rid="tfn1" ref-type="table-fn">*</xref>
+</td><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Redo thoracotomy (n=4)</td><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">&#x02003;Intramuscular pressure, mmHg</td><td align="left" colspan="1" rowspan="1" valign="middle">59.5 (27.0, 95.0)</td><td align="left" colspan="1" rowspan="1" valign="middle">47.0 (37.0, 68.0)</td><td align="left" colspan="1" rowspan="1" valign="middle">0.273</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">&#x02003;SCTL pressure, mmHg</td><td align="left" colspan="1" rowspan="1" valign="middle">49.0 (43.0, 62.0)</td><td align="left" colspan="1" rowspan="1" valign="middle">44.5 (35.0, 95.0)</td><td align="left" colspan="1" rowspan="1" valign="middle">0.715</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">&#x02003;TPVS Pressure, mmHg</td><td align="left" colspan="1" rowspan="1" valign="middle">20.5 (18.0, 37.0)</td><td align="left" colspan="1" rowspan="1" valign="middle">18.0 (4.0, 26.0)</td><td align="left" colspan="1" rowspan="1" valign="middle">0.095</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">&#x02003;Respiratory waveform present</td><td align="left" colspan="1" rowspan="1" valign="middle">50 (100)</td><td align="left" colspan="1" rowspan="1" valign="middle">50 (100)</td><td align="left" colspan="1" rowspan="1" valign="middle">&#x0003e;0.999</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">Not redo thoracotomy (n=46)</td><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">&#x02003;Intramuscular pressure, mmHg</td><td align="left" colspan="1" rowspan="1" valign="middle">43.0 (5.0, 86.0)</td><td align="left" colspan="1" rowspan="1" valign="middle">45.0 (14.0, 85.0)</td><td align="left" colspan="1" rowspan="1" valign="middle">0.191</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">&#x02003;SCTL pressure, mmHg</td><td align="left" colspan="1" rowspan="1" valign="middle">34.0 (20.0, 81.0)</td><td align="left" colspan="1" rowspan="1" valign="middle">38.0 (23.0, 80.0)</td><td align="left" colspan="1" rowspan="1" valign="middle">0.430</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">&#x02003;TPVS Pressure, mmHg</td><td align="left" colspan="1" rowspan="1" valign="middle">16.0 (3.0, 47.0)</td><td align="left" colspan="1" rowspan="1" valign="middle">15.5 (8.0, 25.0)</td><td align="left" colspan="1" rowspan="1" valign="middle">0.554</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">&#x02003;Respiratory waveform present</td><td align="left" colspan="1" rowspan="1" valign="middle">44 (95.6)</td><td align="left" colspan="1" rowspan="1" valign="middle">46 (100)</td><td align="left" colspan="1" rowspan="1" valign="middle">&#x0003e;0.999</td></tr></tbody></table><table-wrap-foot><p>Abbreviations: SCTL, superior costotransverse ligament; TPVS, thoracic paravertebral space.</p><p>Data are presented as median (range), number (%).</p><fn id="tfn1"><label>*</label><p>P&#x0003c;0.05 (statistically significant).</p></fn></table-wrap-foot></table-wrap><table-wrap position="float" id="T3"><label>
+Table 3. </label><caption><title>Waveform characteristics.</title></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th align="left" colspan="1" rowspan="1" valign="top">Waveform characteristics (n=100)</th><th align="left" colspan="1" rowspan="1" valign="top">Intramuscular</th><th align="left" colspan="1" rowspan="1" valign="top">SCTL</th><th align="left" colspan="1" rowspan="1" valign="top">
+TPVS</th></tr></thead><tbody><tr><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>A</bold> Regular sine respiratory waveform with mean pressure of &#x02264;25 mmHg</td><td align="left" colspan="1" rowspan="1" valign="middle">0</td><td align="left" colspan="1" rowspan="1" valign="middle">1</td><td align="left" colspan="1" rowspan="1" valign="middle">98</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>B</bold> Irregular course wavy line with mean pressure of &#x02264;40 mmHg</td><td align="left" colspan="1" rowspan="1" valign="middle">33</td><td align="left" colspan="1" rowspan="1" valign="middle">51</td><td align="left" colspan="1" rowspan="1" valign="middle">1</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="middle">
+<bold>C</bold> Tense straight line with mean pressure of &#x0003e;40 mmHg</td><td align="left" colspan="1" rowspan="1" valign="middle">67</td><td align="left" colspan="1" rowspan="1" valign="middle">48</td><td align="left" colspan="1" rowspan="1" valign="middle">1</td></tr></tbody></table><table-wrap-foot><p>Abbreviations: SCTL, superior costotransverse ligament; TPVS, thoracic paravertebral space.</p><p>Data were presented as number (n).</p><p>Sensitivity:&#x02003;&#x02003;&#x02003;&#x02003;&#x02003;&#x02003;&#x02003;&#x02003;&#x02002; 98.0 (93.0, 99.8).&#x02003;&#x02003;&#x02003;Specificity:&#x02003;&#x02003;&#x02003;&#x02003;&#x02003;&#x02003;&#x02003;&#x02003;99.5 (97.2, 100.0).</p><p>ROC area:&#x02003;&#x02003;&#x02003;&#x02003;&#x02003;&#x02003;&#x02003;&#x02003;&#x02003;0.998 (0.973, 1.000).</p><p>Positive predictive value:&#x02003;&#x02003; 99.0 (94.5, 100.0).&#x02003;&#x02003;Negative predictive value:&#x02003;99.0 (96.5, 99.9).</p></table-wrap-foot></table-wrap><fig position="float" fig-type="figure" id="f2"><label>
+Figure 2. </label><caption><title>Waveform characteristics (A) needle tip position within TPVS and (B, C) needle tip position outside TPVS.</title></caption><graphic xlink:href="f1000research-13-177025-g0001" id="gr2" position="float"/></fig><table-wrap position="float" id="T4"><label>
+Table 4. </label><caption><title>Sensitivity and positive predictive value of waveform visibility test.</title></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th align="left" colspan="1" rowspan="1" valign="top">Typical respiratory waveform</th><th align="left" colspan="1" rowspan="1" valign="top">Successful block (n)</th><th align="left" colspan="1" rowspan="1" valign="top">
+Unsuccessful block (n)</th></tr></thead><tbody><tr><td align="left" colspan="1" rowspan="1" valign="top">Present</td><td align="left" colspan="1" rowspan="1" valign="top">42</td><td align="left" colspan="1" rowspan="1" valign="top">6</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">Absent</td><td align="left" colspan="1" rowspan="1" valign="top">2</td><td align="left" colspan="1" rowspan="1" valign="top">0</td></tr><tr><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1"/></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">Sensitivity:</td><td align="left" colspan="2" rowspan="1" valign="top">95.45% (95% confidence interval, 84.52%&#x02013;99.44%)</td></tr><tr><td align="left" colspan="1" rowspan="1" valign="top">Positive predictive value:</td><td align="left" colspan="2" rowspan="1" valign="top">83.36% (95% confidence interval, 82.45%&#x02013;84.24%)</td></tr></tbody></table><table-wrap-foot><p>Data are presented as number (%), value (95% confidence interval, CI).</p></table-wrap-foot></table-wrap><p>50 patients had 98 typical respiratory waveforms within the TPVS. The pressure values of the TPVS at T4/5 and T6/7 of 4 patients with redo-thoracotomy were 20.5 (18.0, 37.0) mmHg and 18.0 (4.0, 26.0) mmHg respectively with no significant differences between both levels. Two successful UG-TPVB showed an atypical waveform with a mean pressure of &#x0003e;25 mmHg. The sensitivity of the pressure value and waveform characteristics to identify TPVS was 95.45% (95% confidence interval, 84.527&#x02013;99.445) when successful dermatomal blockade was used as reference (
+<xref rid="T4" ref-type="table">
+Table 4</xref>).</p><p>Nevertheless, six patients who underwent unsuccessful block exhibited typical respiratory waveforms in the TPVS. The specificity of the study was limited because none of the patients who underwent unsuccessful block showed an absent TPVS waveform.</p></sec><sec sec-type="discussion" id="sec4"><title>Discussion</title><p>There was a significant difference in the waveform characteristics and pressure values in the TPVS and the surrounding outer structures. As the needle passed through TPVS, the pressure monitoring showed that pressure values of T4/5 and T6/7 dropped to the lowest level which parallel to a sudden transition from a tense straight line (C -waveform) or irregular wave (B-waveform) to an &#x0201c;A&#x0201d; waveform that resembled to the respiratory waveforms corresponding to the ventilator&#x02019;s setting. The apparent differences in the pressure values and waveform patterns in each position reflected the dynamic effect of the pressure transmitted from the thoracic cavity to the adjacent area such as the TVPS. The study showed that 96% of the subjects had similar respiratory-like waveform pattern in the TPVS. Thus, these differences in each position can be utilized to locate the TPVS during TPVB. The sensitivity, specificity and PPV of waveform to identify TPVS were 98% and 99.5%, 99%, respectively, when ultrasound was used as reference, Similarly, the sensitivity and PPV were 95.5%, 83.4%, respectively when successful dermatomal blockade was used as reference. Therefore, both pressure values and waveform characteristics can be applied as an adjunct to locate the TPVS.</p><p>On the contrary, Richardson
+<italic toggle="yes">et al.</italic> used a sudden pressure drop to identify the TPVS.
+<sup>
+<xref rid="ref8" ref-type="bibr">8</xref>
+</sup> The average pressure in the TPVS was 7.6 mmHg for mean expiratory pressure and 3.3 mmHg for inspiratory pressure, which were lower than the mean pressure derived from our study. As in our study, Okitsu
+<italic toggle="yes">et al.</italic> reported the pressure value (&#x0003c;30 mmHg) in the TPVS after induction of general anesthesia with the patients in the decubitus position which was close to our study (25 mmHg).
+<sup>
+<xref rid="ref9" ref-type="bibr">9</xref>
+</sup> The lower pressure value reported by Richardson
+<italic toggle="yes">et al.</italic> could be due to their subjects were spontaneously breathing, whereas in our study and Okitsu
+<italic toggle="yes">et al.</italic> performed in subjects who underwent positive pressure ventilation.
+<sup>
+<xref rid="ref8" ref-type="bibr">8</xref>
+</sup>
+<sup>,</sup>
+<sup>
+<xref rid="ref9" ref-type="bibr">9</xref>
+</sup>
+</p><p>Prior insults to the pleura might influence the pressure and wave configuration in the TPVS. In this study, there were four patients with a history of ipsilateral thoracotomy, and two were diagnosed with empyema thoracis. However, these patients had a fairly high pressure in TPVS. Although there were some discrepancies between the statistical significances for the pressure value at different locations of the two vertebral levels, the sample size of only four patients with redo-thoracotomy was insufficient to represent the pressure values at each location.</p><p>Inevitable adhesion formation and inflammation post-thoracotomy tends to alter or obliterate the TPVS.
+<sup>
+<xref rid="ref19" ref-type="bibr">19</xref>
+</sup> Cheema
+<italic toggle="yes">et al.</italic> reported that extrapleural adhesions and scar tissue after the previous thoracotomy may be technically more challenging.
+<sup>
+<xref rid="ref20" ref-type="bibr">20</xref>
+</sup> The disrupted pleura cannot contain the infused local anaesthetic agent, diminishing the analgesic efficacy of TPVB. A comparative study on the importance of pleural integrity for safe TPVB by Komatsu
+<italic toggle="yes">et al.</italic> showed that patients with a previous pleural tear required significantly more rescue medications on the first postoperative day.
+<sup>
+<xref rid="ref21" ref-type="bibr">21</xref>
+</sup>
+</p><p>The waveform characteristics in patients who underwent redo-thoracotomy or empyema were almost identical to those in patients with normal pleura. Eleven of the twelve waves from six patients had a typical respiratory waveform (&#x0201c;A&#x0201d; waveform) in the TPVS. The rest of the patients in redo-thoracotomy group had a regular respiratory-like waveform, but the mean pressure was &#x0003e;25 mmHg. Therefore, this study confirmed that the characteristics of the respiratory waveform can be used to identify TPVS, even, in patients with pleural disorder.</p><p>One patient with a history of redo-thoracotomy showed a pulsatile waveform synchronized with arterial pulsations. This event occurred when the needle tip was obscurely located immediately deep to the SCTL during ultrasound scanning. Similar to a patient with empyema thoracis, a pulsatile waveform also appeared as the needle tip moved into the TPVS. None of the patients showed signs of widening or anterior displacement of the pleura after testing with saline injection and arterial puncture was ruled out by blood aspiration. Compared with the specific pulsatile waveforms in the epidural space produced by previous analysis studies, we deduced that the needle tip may have been in the epidural space and the respiratory waveform was displayed after repositioning of the needle path.
+<sup>
+<xref rid="ref22" ref-type="bibr">22</xref>
+</sup>
+<sup>,</sup>
+<sup>
+<xref rid="ref23" ref-type="bibr">23</xref>
+</sup> Therefore, patients with a distorted pleural lining from previous surgery may have TPVS waveform alterations, and TPVB should be performed with caution.</p><p>Nontypical respiratory waveforms within the TPVS were found in two patients with a successful block. The first patient showed a tense, straight waveform with a mean pressure of 47 mmHg, which might be explained by the needle tip contacting a bony part (
+<italic toggle="yes">e.g.,
+</italic> transverse process or vertebral body) or the pleura during pressure measurement, resulting in falsely high pressure without a typical sine wave. Costache
+<italic toggle="yes">et al.</italic> postulated that blockade of the thoracic nerve roots in the TPVS can be achieved through several injection points outside the TPVS as paravertebral block variants.
+<sup>
+<xref rid="ref24" ref-type="bibr">24</xref>
+</sup> The second patient with a history of thoracic surgery demonstrated a respiratory waveform with a mean pressure of 37 mmHg, which was defined as an atypical waveform. This pattern might be explained by the scar of redo-thoracic surgery on the same side, which could have affected pleural integrity and compliance in the TPVS.</p><p>Six patients underwent unsuccessful blocks despite the needle tip being ultrasonographically visible in the TPVS along with widening of the TPVS and anterior displacement of the pleura being observed after confirmation by saline injection. Furthermore, a typical respiratory waveform was observed in all these patients. This unfavourable result might be explained by the uncontrollable variations in the spread of local anaesthetic. Previous cadaveric studies demonstrated direct communication between the TPVS and the intercostal space. Cowie
+<italic toggle="yes">et al.</italic> performed UG-TPVB with contrast injection and found a greater spread of contrast in the intercostal space than in the TPVS.
+<sup>
+<xref rid="ref25" ref-type="bibr">25</xref>
+</sup> Naja
+<italic toggle="yes">et al.</italic> used nerve stimulator and roentgenogram data to show four main types of injectate spreading patterns in TPVB: pure longitudinal (TPVS), longitudinal with intercostal (TPVS with intercostal), intercostal, and cloud-like spread around the injection sites. In addition, isolated paravertebral contrast was found in only 30% of patients.
+<sup>
+<xref rid="ref26" ref-type="bibr">26</xref>
+</sup> Termpornlert
+<italic toggle="yes">et al.</italic> also found that the spreading of dye through a paravertebral catheter showed considerable differences in patterns.
+<sup>
+<xref rid="ref27" ref-type="bibr">27</xref>
+</sup> Several factors can impact the distribution of local anaesthetic agents in the TPVS, such as the compliance in the space, pressure and injection speed, injection volume, viscosity of the local anaesthetic agent, and size of the patient.
+<sup>
+<xref rid="ref28" ref-type="bibr">28</xref>
+</sup>
+</p><p>To improve block quality, Choi
+<italic toggle="yes">et al.</italic> and Li
+<italic toggle="yes">et al.</italic> studied combined UG-TPVB and pressure measurement for TPVB and found a shorter procedure time, higher success rate, and superior analgesia compared with UG-TPVB alone.
+<sup>
+<xref rid="ref10" ref-type="bibr">10</xref>
+</sup>
+<sup>,</sup>
+<sup>
+<xref rid="ref29" ref-type="bibr">29</xref>
+</sup> The results of our study can also be applied to TPVB. A regular respiratory waveform pattern can be used as an adjunct to identify the TPVS and could be more effective than the pressure value alone.</p><sec id="sec5"><title>Limitations</title><p>The pressure and waveform pattern in the TPVS obtained in this study were derived from observing patients undergoing positive pressure ventilation, which may differ from those in individuals breathing spontaneously.</p><p>Dermatomal sensory block assessment were performed postoperatively; analgesia might have passed its peak effect, resulting in dermatomal regression.</p><p>Each patient received UG-TPVB at two levels with a high volume of local anesthetic agent, as a routine practiced by our team; the spread might have overlapped, leading to potential misinterpretation of the blockade&#x02019;s effectiveness at each level. This study was prospective observational; therefore, a randomized controlled trial is necessary to elucidate the benefits of analysing the waveform in the TPVS.</p></sec></sec><sec sec-type="conclusions" id="sec6"><title>Conclusions</title><p>The wave in the TPVS was low pressure and showed a smooth, regular pattern corresponding to respiration. This waveform was reliable for verifying the needle tip in the TPVS. Hence, these findings can be applied as an adjunct technique to perform TPVB combined with an anatomical-based method or an UG-TPVB, especially when the needle cannot be seen clearly.</p></sec></body><back><sec sec-type="data-availability" id="sec9"><title>Data availability</title><sec id="sec10"><title>Underlying data</title><p>Figshare: data analysis figshare new.xls,
+<ext-link xlink:href="https://doi.org/10.6084/m9.figshare.24189234.v2" ext-link-type="uri">https://doi.org/10.6084/m9.figshare.24189234.v2</ext-link>.
+<sup>
+<xref rid="ref30" ref-type="bibr">30</xref>
+</sup>
+</p><p>This project contains the following underlying data:
+<list list-type="simple"><list-item><label>-</label><p>Data analysis figshare.xls</p></list-item></list>
+</p><p>Data are available under the terms of the
+<ext-link xlink:href="https://creativecommons.org/licenses/by/4.0/" ext-link-type="uri">Creative Commons Attribution 4.0 International license</ext-link> (CC-BY 4.0).</p></sec></sec><ref-list><title>References</title><ref id="ref1"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Cadavid-Puentes</surname><given-names>AM</given-names></name>
+<name><surname>Casas- Arroyave</surname><given-names>FD</given-names></name>
+<name><surname>Palacio-Montoya</surname><given-names>LM</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Efficacy of paravertebral block techniques in thoracic surgery: systemic literature review.</article-title>
+<source>
+<italic toggle="yes">Colomb.J.Anesthesiol.</italic>
+</source>
+<year>2020</year>;<volume>48</volume>:<fpage>20</fpage>&#x02013;<lpage>29</lpage>.
+<pub-id pub-id-type="doi">10.1097/CJ9.0000000000000151</pub-id>
+</mixed-citation></ref><ref id="ref2"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>L&#x000f6;nnqvist</surname><given-names>PA</given-names></name>
+<name><surname>MacKenzie</surname><given-names>J</given-names></name>
+<name><surname>Soni</surname><given-names>AK</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Paravertebral blockade.</article-title>
+<source>
+<italic toggle="yes">Anaesthesia.</italic>
+</source>
+<year>1995</year>;<volume>50</volume>:<fpage>813</fpage>&#x02013;<lpage>815</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1365-2044.1995.tb06148.x</pub-id>
+<pub-id pub-id-type="pmid">7573876</pub-id>
+</mixed-citation></ref><ref id="ref3"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Eason</surname><given-names>MJ</given-names></name>
+<name><surname>Wyatt</surname><given-names>R</given-names></name>
+</person-group>:
+<article-title>Paravertebral thoracic block-a reappraisal.</article-title>
+<source>
+<italic toggle="yes">Anaesthesia.</italic>
+</source>
+<year>1979</year>;<volume>34</volume>:<fpage>638</fpage>&#x02013;<lpage>642</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1365-2044.1979.tb06363.x</pub-id>
+<pub-id pub-id-type="pmid">517716</pub-id>
+</mixed-citation></ref><ref id="ref4"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Wheeler</surname><given-names>LJ</given-names></name>
+</person-group>:
+<article-title>Peripheral nerve stimulation end-point for thoracic paravertebral block.</article-title>
+<source>
+<italic toggle="yes">Br. J. Anaesth.</italic>
+</source>
+<year>2001</year>;<volume>86</volume>:<fpage>598</fpage>&#x02013;<lpage>599</lpage>.
+<pub-id pub-id-type="pmid">11573647</pub-id>
+</mixed-citation></ref><ref id="ref5"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Lang</surname><given-names>SA</given-names></name>
+<name><surname>Saito</surname><given-names>T</given-names></name>
+<name><surname>Naja</surname><given-names>MZ</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Thoracic paravertebral nerve block, nerve stimulator guidance and the endothoracic fascia.</article-title>
+<source>
+<italic toggle="yes">Anaesthesia.</italic>
+</source>
+<year>2005</year>;<volume>60</volume>:<fpage>930</fpage>&#x02013;<lpage>931</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1365-2044.2005.04340.x</pub-id>
+<pub-id pub-id-type="pmid">16115258</pub-id>
+</mixed-citation></ref><ref id="ref6"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Naja</surname><given-names>MZ</given-names></name>
+<name><surname>Ziade</surname><given-names>MF</given-names></name>
+<name><surname>L&#x000f6;nnqvist</surname><given-names>PA</given-names></name>
+</person-group>:
+<article-title>Nerve-stimulator guided paravertebral blockade vs. general anaesthesia for breast surgery: a prospective randomized trial.</article-title>
+<source>
+<italic toggle="yes">Eur. J. Anaesthesiol.</italic>
+</source>
+<year>2003</year>;<volume>20</volume>:<fpage>897</fpage>&#x02013;<lpage>903</lpage>.
+<pub-id pub-id-type="doi">10.1097/00003643-200311000-00007</pub-id>
+<pub-id pub-id-type="pmid">14649342</pub-id>
+</mixed-citation></ref><ref id="ref7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Jadon</surname><given-names>A</given-names></name>
+</person-group>:
+<article-title>Nerve stimulator-guided thoracic paravertebral block for gynecomastia surgery.</article-title>
+<source>
+<italic toggle="yes">Indian J. Anaesth.</italic>
+</source>
+<year>2012</year>;<volume>56</volume>:<fpage>298</fpage>&#x02013;<lpage>300</lpage>.
+<pub-id pub-id-type="doi">10.4103/0019-5049.98782</pub-id>
+<!--<pub-id pub-id-type="pmcid">PMC3425294</pub-id>-->
+<pub-id pub-id-type="pmid">22923833</pub-id>
+</mixed-citation></ref><ref id="ref8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Richardson</surname><given-names>J</given-names></name>
+<name><surname>Cheema</surname><given-names>SP</given-names></name>
+<name><surname>Hawkins</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Thoracic paravertebral space location.</article-title>
+<source>
+<italic toggle="yes">Anaesthesia.</italic>
+</source>
+<year>1996</year>;<volume>51</volume>:<fpage>137</fpage>&#x02013;<lpage>139</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1365-2044.1996.tb07700.x</pub-id>
+<pub-id pub-id-type="pmid">8779368</pub-id>
+</mixed-citation></ref><ref id="ref9"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Okitsu</surname><given-names>K</given-names></name>
+<name><surname>Maeda</surname><given-names>A</given-names></name>
+<name><surname>Iritakenishi</surname><given-names>T</given-names></name>
+<etal/>
+</person-group>:
+<article-title>The feasibility of pressure measurement during an ultrasound-guided thoracic paravertebral block.</article-title>
+<source>
+<italic toggle="yes">Eur. J. Anaesthesiol.</italic>
+</source>
+<year>2018</year>;<volume>35</volume>:<fpage>806</fpage>&#x02013;<lpage>807</lpage>.
+<pub-id pub-id-type="doi">10.1097/EJA.0000000000000858</pub-id>
+<pub-id pub-id-type="pmid">30192265</pub-id>
+</mixed-citation></ref><ref id="ref10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Li</surname><given-names>H</given-names></name>
+<name><surname>Wei</surname><given-names>H</given-names></name>
+<name><surname>Ma</surname><given-names>D</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Ultrasound and pressure-guided thoracic paravertebral block.</article-title>
+<source>
+<italic toggle="yes">Eur. J. Anaesthesiol.</italic>
+</source>
+<year>2020</year>;<volume>37</volume>:<fpage>824</fpage>&#x02013;<lpage>826</lpage>.
+<pub-id pub-id-type="doi">10.1097/EJA.0000000000001198</pub-id>
+<pub-id pub-id-type="pmid">32769512</pub-id>
+</mixed-citation></ref><ref id="ref11"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Abdellatif</surname><given-names>AA</given-names></name>
+<name><surname>Ali</surname><given-names>MA</given-names></name>
+</person-group>:
+<article-title>Acoustic puncture assist device&#x02122; versus conventional loss of resistance technique for thoracic paravertebral space identification: clinical and ultrasound evaluation.</article-title>
+<source>
+<italic toggle="yes">Saudi J. Anaesth.</italic>
+</source>
+<year>2017</year>;<volume>11</volume>:<fpage>32</fpage>&#x02013;<lpage>36</lpage>.
+<pub-id pub-id-type="doi">10.4103/1658-354X.197368</pub-id>
+<!--<pub-id pub-id-type="pmcid">PMC5292849</pub-id>-->
+<pub-id pub-id-type="pmid">28217050</pub-id>
+</mixed-citation></ref><ref id="ref12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Hara</surname><given-names>K</given-names></name>
+<name><surname>Sakura</surname><given-names>S</given-names></name>
+<name><surname>Nomura</surname><given-names>T</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Ultrasound guided thoracic paravertebral block in breast surgery.</article-title>
+<source>
+<italic toggle="yes">Anaesthesia.</italic>
+</source>
+<year>2009</year>;<volume>64</volume>:<fpage>223</fpage>&#x02013;<lpage>225</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1365-2044.2008.05843.x</pub-id>
+<pub-id pub-id-type="pmid">19143711</pub-id>
+</mixed-citation></ref><ref id="ref13"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Daly</surname><given-names>DJ</given-names></name>
+<name><surname>Myles</surname><given-names>PS</given-names></name>
+</person-group>:
+<article-title>Update on the role of paravertebral blocks for thoracic surgery: are they worth it?</article-title>
+<source>
+<italic toggle="yes">Curr. Opin. Anaesthesiol.</italic>
+</source>
+<year>2009</year>;<volume>22</volume>:<fpage>38</fpage>&#x02013;<lpage>43</lpage>.
+<pub-id pub-id-type="doi">10.1097/ACO.0b013e32831a4074</pub-id>
+<pub-id pub-id-type="pmid">19237975</pub-id>
+</mixed-citation></ref><ref id="ref14"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Patnaik</surname><given-names>R</given-names></name>
+<name><surname>Chhabra</surname><given-names>A</given-names></name>
+<name><surname>Subramaniam</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Comparison of paravertebral block by anatomic landmark technique to ultrasound-guided paravertebral block for breast surgery anesthesia.</article-title>
+<source>
+<italic toggle="yes">Reg. Anesth. Pain Med.</italic>
+</source>
+<year>2018</year>;<volume>43</volume>:<fpage>385</fpage>&#x02013;<lpage>390</lpage>.
+<pub-id pub-id-type="doi">10.1097/AAP.0000000000000746</pub-id>
+<pub-id pub-id-type="pmid">29462058</pub-id>
+</mixed-citation></ref><ref id="ref15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Krediet</surname><given-names>AC</given-names></name>
+<name><surname>Moayeri</surname><given-names>N</given-names></name>
+<name><surname>Geffen</surname><given-names>G-J</given-names><prefix>van</prefix></name>
+<etal/>
+</person-group>:
+<article-title>Different approaches to ultrasoundguided thoracic paravertebral block.</article-title>
+<source>
+<italic toggle="yes">Anesthesiology.</italic>
+</source>
+<year>2015</year>;<volume>123</volume>:<fpage>459</fpage>&#x02013;<lpage>474</lpage>.
+<pub-id pub-id-type="doi">10.1097/ALN.0000000000000747</pub-id>
+<pub-id pub-id-type="pmid">26083767</pub-id>
+</mixed-citation></ref><ref id="ref16"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Nair</surname><given-names>S</given-names></name>
+<name><surname>Gallagher</surname><given-names>H</given-names></name>
+<name><surname>Conlon</surname><given-names>N</given-names></name>
+</person-group>:
+<article-title>Paravertebral blocks and novel alternatives.</article-title>
+<source>
+<italic toggle="yes">BJA Educ.</italic>
+</source>
+<year>2020</year>;<volume>20</volume>:<fpage>158</fpage>&#x02013;<lpage>165</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.bjae.2020.01.006</pub-id>
+<!--<pub-id pub-id-type="pmcid">PMC7808068</pub-id>-->
+<pub-id pub-id-type="pmid">33456945</pub-id>
+</mixed-citation></ref><ref id="ref17"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Naja</surname><given-names>Z</given-names></name>
+<name><surname>L&#x000f6;nnqvist</surname><given-names>PA</given-names></name>
+</person-group>:
+<article-title>Somatic paravertebral nerve blockade incidence of failed block and complications.</article-title>
+<source>
+<italic toggle="yes">Anaesthesia.</italic>
+</source>
+<year>2001</year>;<volume>56</volume>:<fpage>1181</fpage>&#x02013;<lpage>1201</lpage>.<pub-id pub-id-type="pmid">11736776</pub-id>
+</mixed-citation></ref><ref id="ref18"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Abouleish</surname><given-names>AE</given-names></name>
+<name><surname>Leib</surname><given-names>ML</given-names></name>
+<name><surname>Cohen</surname><given-names>NH</given-names></name>
+</person-group>:
+<article-title>ASA provides examples to each ASA physical status class.</article-title>
+<source>
+<italic toggle="yes">ASA Monitor.</italic>
+</source>
+<year>2015</year>;<volume>79</volume>:<fpage>38</fpage>&#x02013;<lpage>39</lpage>.</mixed-citation></ref><ref id="ref19"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Thomas</surname><given-names>PW</given-names></name>
+<name><surname>Sanders</surname><given-names>DJ</given-names></name>
+<name><surname>Berrisford</surname><given-names>RG</given-names></name>
+</person-group>:
+<article-title>Pulmonary haemorrhage after percutaneous paravertebral block.</article-title>
+<source>
+<italic toggle="yes">Br. J. Anaesth.</italic>
+</source>
+<year>1999</year>;<volume>83</volume>:<fpage>668</fpage>&#x02013;<lpage>669</lpage>.
+<pub-id pub-id-type="doi">10.1093/bja/83.4.668</pub-id>
+<pub-id pub-id-type="pmid">10673891</pub-id>
+</mixed-citation></ref><ref id="ref20"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Cheema</surname><given-names>S</given-names></name>
+<name><surname>Richardson</surname><given-names>J</given-names></name>
+<name><surname>McGurgan</surname><given-names>P</given-names></name>
+</person-group>:
+<article-title>Factors affecting the spread of bupivacaine in the adult thoracic paravertebral space.</article-title>
+<source>
+<italic toggle="yes">Anaesthesia.</italic>
+</source>
+<year>2003</year>;<volume>58</volume>:<fpage>684</fpage>&#x02013;<lpage>687</lpage>.
+<pub-id pub-id-type="doi">10.1046/j.1365-2044.2003.03189_1.x</pub-id>
+<pub-id pub-id-type="pmid">12886912</pub-id>
+</mixed-citation></ref><ref id="ref21"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Komatsu</surname><given-names>T</given-names></name>
+<name><surname>Sowa</surname><given-names>T</given-names></name>
+<name><surname>Kino</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>:
+<article-title>The importance of pleural integrity for effective and safe thoracic paravertebral block: a retrospective comparative study on postoperative pain control by paravertebral block.</article-title>
+<source>
+<italic toggle="yes">Interact. Cardiovasc. Thorac. Surg.</italic>
+</source>
+<year>2014</year>;<volume>20</volume>:<fpage>296</fpage>&#x02013;<lpage>299</lpage>.<pub-id pub-id-type="pmid">25422276</pub-id>
+</mixed-citation></ref><ref id="ref22"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Leurcharusmee</surname><given-names>P</given-names></name>
+<name><surname>Arnuntasupakul</surname><given-names>V</given-names></name>
+<name><surname>Chora De La Garza</surname><given-names>D</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Reliability of waveform analysis as an adjunct to loss of resistance for thoracic epidural blocks.</article-title>
+<source>
+<italic toggle="yes">Reg. Anesth. Pain Med.</italic>
+</source>
+<year>2015</year>;<volume>40</volume>:<fpage>694</fpage>&#x02013;<lpage>697</lpage>.
+<pub-id pub-id-type="doi">10.1097/AAP.0000000000000313</pub-id>
+<pub-id pub-id-type="pmid">26469364</pub-id>
+</mixed-citation></ref><ref id="ref23"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Arnuntasupakul</surname><given-names>V</given-names></name>
+<name><surname>Van Zundert</surname><given-names>TCRV</given-names></name>
+<name><surname>Vijitpavan</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>:
+<article-title>A randomized comparison between conventional and waveform-confirmed loss of resistance for thoracic epidural blocks.</article-title>
+<source>
+<italic toggle="yes">Reg. Anesth. Pain Med.</italic>
+</source>
+<year>2016</year>;<volume>41</volume>:<fpage>368</fpage>&#x02013;<lpage>373</lpage>.
+<pub-id pub-id-type="doi">10.1097/AAP.0000000000000369</pub-id>
+<pub-id pub-id-type="pmid">26894628</pub-id>
+</mixed-citation></ref><ref id="ref24"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Costache</surname><given-names>I</given-names></name>
+<name><surname>Pawa</surname><given-names>A</given-names></name>
+<name><surname>Abdallah</surname><given-names>FW</given-names></name>
+</person-group>:
+<article-title>Paravertebral by proxy &#x02013; time to redefine the paravertebral block.</article-title>
+<source>
+<italic toggle="yes">Anaesthesia.</italic>
+</source>
+<year>2018</year>;<volume>73</volume>:<fpage>1185</fpage>&#x02013;<lpage>1188</lpage>.
+<pub-id pub-id-type="doi">10.1111/anae.14348</pub-id>
+<pub-id pub-id-type="pmid">29858502</pub-id>
+</mixed-citation></ref><ref id="ref25"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Cowie</surname><given-names>B</given-names></name>
+<name><surname>McGlade</surname><given-names>D</given-names></name>
+<name><surname>Ivanusic</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Ultrasound-guided thoracic paravertebral blockade.</article-title>
+<source>
+<italic toggle="yes">Anesth. Analg.</italic>
+</source>
+<year>2010</year>;<volume>110</volume>:<fpage>1735</fpage>&#x02013;<lpage>1739</lpage>.
+<pub-id pub-id-type="doi">10.1213/ANE.0b013e3181dd58b0</pub-id>
+<pub-id pub-id-type="pmid">20435949</pub-id>
+</mixed-citation></ref><ref id="ref26"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Naja</surname><given-names>MZ</given-names></name>
+<name><surname>Ziade</surname><given-names>MF</given-names></name>
+<name><surname>Rajab</surname><given-names>ME</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Varying anatomical injection points within the thoracic paravertebral space: effect on spread of solution and nerve blockade.</article-title>
+<source>
+<italic toggle="yes">Anaesthesia.</italic>
+</source>
+<year>2004</year>;<volume>59</volume>:<fpage>459</fpage>&#x02013;<lpage>463</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1365-2044.2004.03705.x</pub-id>
+<pub-id pub-id-type="pmid">15096240</pub-id>
+</mixed-citation></ref><ref id="ref27"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Termpornlert</surname><given-names>S</given-names></name>
+<name><surname>Sakura</surname><given-names>S</given-names></name>
+<name><surname>Aoyama</surname><given-names>Y</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Distribution of injectate administered through a catheter inserted by three different approaches to ultrasound-guided thoracic paravertebral block: a prospective observational study.</article-title>
+<source>
+<italic toggle="yes">Reg. Anesth. Pain Med.</italic>
+</source>
+<year>2020</year>;<volume>45</volume>:<fpage>866</fpage>&#x02013;<lpage>871</lpage>.
+<pub-id pub-id-type="doi">10.1136/rapm-2020-101545</pub-id>
+<pub-id pub-id-type="pmid">32848087</pub-id>
+</mixed-citation></ref><ref id="ref28"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Yokoyama</surname><given-names>M</given-names></name>
+<name><surname>Hanazaki</surname><given-names>M</given-names></name>
+<name><surname>Fujii</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Correlation between the distribution of contrast medium and the extent of blockade during epidural anesthesia.</article-title>
+<source>
+<italic toggle="yes">Anesthesiology.</italic>
+</source>
+<year>2004</year>;<volume>100</volume>:<fpage>1504</fpage>&#x02013;<lpage>1510</lpage>.
+<pub-id pub-id-type="doi">10.1097/00000542-200406000-00024</pub-id>
+<pub-id pub-id-type="pmid">15166571</pub-id>
+</mixed-citation></ref><ref id="ref29"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Choi</surname><given-names>EK</given-names></name>
+<name><surname>J-il</surname><given-names>K</given-names></name>
+<name><surname>Park</surname><given-names>S-J</given-names></name>
+</person-group>:
+<article-title>A randomized controlled trial comparing analgesic efficacies of an ultrasound-guided approach with and without a combined pressure measurement technique for thoracic paravertebral blocks after open thoracotomy.</article-title>
+<source>
+<italic toggle="yes">Ther. Clin. Risk Manag.</italic>
+</source>
+<year>2020</year>;<volume>16</volume>:<fpage>727</fpage>&#x02013;<lpage>734</lpage>.
+<pub-id pub-id-type="doi">10.2147/TCRM.S263353</pub-id>
+<!--<pub-id pub-id-type="pmcid">PMC7418159</pub-id>-->
+<pub-id pub-id-type="pmid">32821109</pub-id>
+</mixed-citation></ref><ref id="ref30"><label>30</label><mixed-citation publication-type="data">
+<person-group person-group-type="author">
+<name><surname>Vijitpavan</surname><given-names>A</given-names></name>
+</person-group>:
+<data-title>data analysis figshare new.xls. figshare.</data-title>Dataset.<year>2023</year>.
+<pub-id pub-id-type="doi">10.6084/m9.figshare.24189234.v2</pub-id>
+</mixed-citation></ref></ref-list></back><sub-article article-type="reviewer-report" id="report362659"><front-stub><article-id pub-id-type="doi">10.5256/f1000research.177025.r362659</article-id><title-group><article-title>Reviewer response for version 2</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Tribuddharat</surname><given-names>Sirirat</given-names></name><xref rid="r362659a1" ref-type="aff">1</xref><role>Referee</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-8401-1510</contrib-id></contrib><aff id="r362659a1">
+<label>1</label>Department of Anesthesiology, Faculty of Medicine, Khon Kaen University, Khon Kaen, Thailand</aff></contrib-group><author-notes><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>8</day><month>2</month><year>2025</year></pub-date><permissions><copyright-statement>Copyright: &#x000a9; 2025 Tribuddharat S</copyright-statement><copyright-year>2025</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><related-article related-article-type="peer-reviewed-article" ext-link-type="doi" id="relatedArticleReport362659" xlink:href="10.12688/f1000research.139904.2">Version 2</related-article><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve</meta-value></custom-meta></custom-meta-group></front-stub><body><p>All comments have been addressed, and the manuscript is now ready for indexing.</p><p>Is the work clearly and accurately presented and does it cite the current literature?</p><p>Yes</p><p>If applicable, is the statistical analysis and its interpretation appropriate?</p><p>Partly</p><p>Are all the source data underlying the results available to ensure full reproducibility?</p><p>No</p><p>Is the study design appropriate and is the work technically sound?</p><p>Partly</p><p>Are the conclusions drawn adequately supported by the results?</p><p>Yes</p><p>Are sufficient details of methods and analysis provided to allow replication by others?</p><p>Partly</p><p>Reviewer Expertise:</p><p>Anesthesia; Cardiac anesthesia; regional anesthesia; hemodynamics monitoring</p><p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p></body></sub-article><sub-article article-type="reviewer-report" id="report345406"><front-stub><article-id pub-id-type="doi">10.5256/f1000research.153219.r345406</article-id><title-group><article-title>Reviewer response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Tribuddharat</surname><given-names>Sirirat</given-names></name><xref rid="r345406a1" ref-type="aff">1</xref><role>Referee</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-8401-1510</contrib-id></contrib><aff id="r345406a1">
+<label>1</label>Department of Anesthesiology, Faculty of Medicine, Khon Kaen University, Khon Kaen, Thailand</aff></contrib-group><author-notes><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>12</day><month>12</month><year>2024</year></pub-date><permissions><copyright-statement>Copyright: &#x000a9; 2024 Tribuddharat S</copyright-statement><copyright-year>2024</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><related-article related-article-type="peer-reviewed-article" ext-link-type="doi" id="relatedArticleReport345406" xlink:href="10.12688/f1000research.139904.1">Version 1</related-article><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve-with-reservations</meta-value></custom-meta></custom-meta-group></front-stub><body><p>This study presents a novel method for identifying the thoracic paravertebral space, offering an alternative to ultrasound guidance. While well-designed, some areas require further clarification:
+<list list-type="order"><list-item><p>Numerals: Avoid beginning sentences with numerals. "50" and "98" in the Abstract should be written as "Fifty" and "Ninety-eight," respectively, and similar changes should be made throughout the manuscript.</p></list-item><list-item><p>Abstract Results: "Chronic pleural inflammation" should be removed from the Abstract Results, as it's not addressed in the manuscript's Results section.</p></list-item><list-item><p>Introduction P-values: Include p-values for the percentages "(94% and 72%, respectively)" and "(13.8% and 22.2%, respectively)" presented in the Introduction.</p></list-item><list-item><p>Complication Order: Reorder the listed complications&#x02014;hypotension (4.6%), vascular puncture (3.8%), pleural puncture (1.1%), pneumothorax (0.5%), hematoma (1.9%), and epidural/spinal spread (1.1%)&#x02014;according to their incidence.</p></list-item><list-item><p>Methods Wording: In the Methods section, change "provided by the Ethics Committee" to "approved by the Ethics Committee" and "obtained preoperative information and provided informed consent" to "provided preoperative information and obtained informed consent."</p></list-item><list-item><p>Sample Size Rationale: Justify the sample size of 50 patients, potentially with a power analysis or reference to similar studies.</p></list-item><list-item><p>ASA Definition Removal: Remove the detailed ASA physical status definitions, as referencing #16 is sufficient.</p></list-item><list-item><p>Ventilation Clarification: Address the discrepancy between the stated inspiratory pressure (20 mmHg) and the mean inspiratory pressure reported in Table 1 (14 &#x000b1; 1.54 mmHg). Include details on tidal volume and EtCO2 adjustments.</p></list-item><list-item><p>"A" Waveform Definition: Remove "a mean value of &#x02264;25 mmHg" from the "A" waveform definition, as it has mean values with a range between 3.0-47.0 or 8.0-26.0 (Table 2). Please clarify.</p></list-item><list-item><p>Unsuccessful Block Definition: Delete "or an NRS score at rest &#x02265;3" and all other mentions of NRS scores, as they are not relevant per reference #3. I suggest deleting &#x02018;Numeric Rating Scale (NRS) scores&#x02019; because they were not presented in Table 1.</p></list-item><list-item><p>Table 1 Formatting: Remove ", mean&#x000b1;SD" and ", n (%)" from Table 1 contents and "(range)" from its caption. Change the caption to "Data are presented as mean &#x000b1; SD or n (%)".</p></list-item><list-item><p>Figure 2 Label: Correct the "ICP" label in Figure 2. Provide the correct term (e.g., "Intrathoracic Pressure").</p></list-item><list-item><p>Redo-Thoracotomy Count: Reconcile the inconsistent reporting of redo-thoracotomy patients (5 in Results, 6 in Discussion, 4 in Table 2).</p></list-item><list-item><p>Table 2 P-values: Add p-values for intramuscular pressure, SCTL pressure, TPVS pressure, and respiratory waveform presence for redo and non-redo thoracotomy groups at T4/5 and T6/7.</p></list-item><list-item><p>Table 2 Formatting: Change the Table 2 caption to "Data are presented as median (range) or n (%)". Remove ", %" from the first column. Present "Respiratory waveform present" values as n (%) and change all other percentage values (e.g., 94.0, 100.0, 93.5) accordingly.</p></list-item><list-item><p>Table 3 Discrepancy: Resolve the discrepancy between the 98 (98%) regular sine waveforms in Table 3 and the 94.0% respiratory waveform presence in Table 2.</p></list-item><list-item><p>Table 3 Captions: Remove "Sensitivity, Specificity, ROC area, Positive predictive value, and Negative predictive value" captions from Table 3; these belong in Table 4.</p></list-item><list-item><p>NRS Score Paragraph Removal: Delete the paragraph discussing NRS scores, as it's not relevant to the study's objective.</p></list-item><list-item><p>In the Discussion, the authors stated that &#x02018;The study showed that 96% of the subjects had similar respiratory-like pattern in the TPVS&#x02019;, where did 96% come from? According to Table 3, this number should be 98%. Please clarify.</p></list-item><list-item><p>To assess the efficacy of sine waveform visualization for identifying the thoracic paravertebral space (TPVS), comparison with a reference standard is essential. While not a true gold standard, ultrasound-guided TPVB (UG-TPVB) is the de facto standard for TPVS identification in clinical practice. Therefore, the sine waveform's visibility should be compared directly with UG-TPVB confirmation of needle tip location within the TPVS (e.g., % sine waveform visibility vs. US-TPVB confirmation). Comparing sine wave visibility with block success (Table 4) is inappropriate. The current criterion for unsuccessful block&#x02014;inability to confirm more than three levels of dermatomal blockade&#x02014;introduces numerous confounding factors unrelated to TPVS identification. Block success itself is not a valid reference standard for accurate needle placement within the TPVS as confirmed by US-TPVB.</p></list-item><list-item><p>Table 4 Revision: Recalculate and revise Table 4 to compare sine waveform visibility directly with US-TPVB confirmation, using a total of 100 tests.</p></list-item><list-item><p>Discussion Wording: Change "Eleventh" to "Eleven" in the Discussion.</p></list-item></list>
+</p><p>Is the work clearly and accurately presented and does it cite the current literature?</p><p>Yes</p><p>If applicable, is the statistical analysis and its interpretation appropriate?</p><p>Partly</p><p>Are all the source data underlying the results available to ensure full reproducibility?</p><p>No</p><p>Is the study design appropriate and is the work technically sound?</p><p>Partly</p><p>Are the conclusions drawn adequately supported by the results?</p><p>Yes</p><p>Are sufficient details of methods and analysis provided to allow replication by others?</p><p>Partly</p><p>Reviewer Expertise:</p><p>Anesthesia; Cardiac anesthesia; regional anesthesia; hemodynamics monitoring</p><p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p></body><sub-article article-type="response" id="comment13138-345406"><front-stub><contrib-group><contrib contrib-type="author"><name><surname>Vijitpavan</surname><given-names>Amorn</given-names></name><aff>Anesthesiology (Ramathibodi), Mahidol University, Ratchathewi, Bangkok, Thailand</aff></contrib></contrib-group><author-notes><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>None.</p></fn></author-notes><pub-date pub-type="epub"><day>14</day><month>1</month><year>2025</year></pub-date></front-stub><body><p>
+<bold>Respond to the reviewer questions</bold>
+</p><p>
+<bold>Question 1</bold>: Numerals: Avoid beginning sentences with numerals. "50" and "98" in the Abstract should be written as "Fifty" and "Ninety-eight," respectively, and similar changes should be made throughout the manuscript.</p><p>
+<bold>Answer 1</bold>: This issue has been revised as per the editor's suggestions, in accordance with the journal format, as shown in the attached document. The journal editor suggests using numbers rather than letters.</p><p>
+<bold>Question 2</bold>: Abstract Results: "Chronic pleural inflammation" should be removed from the Abstract Results, as it's not addressed in the manuscript's Results section.</p><p>
+<bold>Answer 2</bold>: We have removed the term &#x0201c;chronic pleural inflammation&#x0201d; from the abstract results.</p><p>
+<bold>Question 3</bold>: Introduction P-values: Include p-values for the percentages "(94% and 72%, respectively)" and "(13.8% and 22.2%, respectively)" presented in the Introduction.</p><p>
+<bold>Answer 3</bold>: We added the p-values to (94% and 72%, p = 0.024, respectively) and (13.8% and 22.2%, p = 0.54, respectively), as suggested.</p><p>
+<bold>Question 4</bold>: Complication Order: Reorder the listed complications&#x02014;hypotension (4.6%), vascular puncture (3.8%), pleural puncture (1.1%), pneumothorax (0.5%), hematoma (1.9%), and epidural/spinal spread (1.1%)&#x02014;according to their incidence.</p><p>
+<bold>Answer 4</bold>: We have reordered the words by occurrence, from most to least, as suggested, as follows: hypotension (4.6%), vascular puncture (3.8%), hematoma (1.9%), pleural puncture(1.1%), epidural or spinal spread (1.1%), and pneumothorax (0.5%).</p><p>
+<bold>Question 5</bold>: Methods Wording: In the Methods section, change "provided by the Ethics Committee" to "approved by the Ethics Committee" and "obtained preoperative information and provided informed consent" to "provided preoperative information and obtained informed consent."</p><p>
+<bold>Answer 5</bold>: I have rearranged the sentence as suggested, as follows: &#x0201c;approved by the Ethics Committee&#x0201d; and &#x0201c;provided preoperative information and obtained informed consent&#x0201d;, as suggested.</p><p>
+<bold>Question 6</bold>: Sample Size Rationale: Justify the sample size of 50 patients, potentially with a power analysis or reference to similar studies.</p><p>
+<bold>Answer 6</bold>: This is an observational study of pressure levels and waveform characteristics in the paravertebral space, which has never been studied before. The sample size for this study was derived from the study period, during which participants were observed from February 9, 2021, to May 17, 2021&#x02014;approximately 3 months. A total of 50 cases were included.</p><p>
+<bold>Question 7</bold>: ASA Definition Removal: Remove the detailed ASA physical status definitions, as referencing #16 is sufficient.</p><p>
+<bold>Answer 7</bold>: Thank you for your helpful suggestion. Since the editor of the journal recommended adding a definition of ASA physical status in the previous review, we will retain the definition in the manuscript.</p><p>
+<bold>Question 8</bold>: Ventilation Clarification: Address the discrepancy between the stated inspiratory pressure (20 mmHg) and the mean inspiratory pressure reported in Table 1 (14 &#x000b1; 1.54 mmHg). Include details on tidal volume and EtCO2 adjustments.</p><p>
+<bold>Answer 8</bold>: Because the thoracic paravertebral space is adjacent to the thoracic cavity, the researchers concerned that the pressure generated by positive pressure ventilation might influence the pressure and waveform characteristics being studied. Therefore, the same PCV ventilation settings (20 mmHg) were applied to all cases during the brief study period. The values reported in Table 1 represent the actual mean airway pressures (14 &#x000b1; 1.54 mmHg), which typically do not match the set pressure (20 mmHg) in the PCV mode. We aim to demonstrate that both the set pressure level and the mean airway pressure were not significantly different across participants. Adjustments to tidal volume and EtCO2 could affect the ventilated pressure; however, since the study duration was brief, the varation of EtCO2 should not harm the participants.</p><p>
+<bold>Question 9</bold>: "A" Waveform Definition: Remove "a mean value of &#x02264;25 mmHg" from the "A" waveform definition, as it has mean values with a range between 3.0-47.0 or 8.0-26.0 (Table 2). Please clarify.</p><p>
+<bold>Answer 9</bold>: This study examines the pressure in the paravertebral space and the respiratory-like pattern of waveforms that may be observed in this space. The definitions of waveforms A, B, and C combine both pressure and waveform characteristics, as follows: Waveform A is a smooth, regular sine wave resembling the respiratory pattern, with mean pressure in the space &#x02264; 25 mmHg; Waveform B is an irregular, coarse, wavy line with pressure &#x0003c; 40 mmHg; and Waveform C is a tense, straight line with pressure &#x0003e; 40 mmHg. Table 2 shows the pressure and waveform data, with the numbers (3, 47.0) or (8.0, 26.0) representing the median values measured in the paravertebral space. As noted by the reviewer, pressures over 25 mmHg, such as those corresponding to (3, 47.0) or (8.0, 26.0), were classified as either waveform C or B, not waveform A. Only two patients were found to have pressure greater than 25 mmHg in the thoracic paravertebral space.</p><p> To clarify, we have provided additional information about the waveform characteristics in the Methods section, as shown in Table 3. The &#x0201c;A&#x0201d; waveform, or typical waveform, was defined as a smooth and regular sine wave resembling the respiratory pattern, with a mean pressure &#x02264; 25 mmHg. The &#x0201c;B&#x0201d; waveform was defined as an irregular, coarse, wavy line with a mean pressure &#x02264; 40 mmHg. The &#x0201c;C&#x0201d; waveform was defined by a tense, straight line with a mean pressure &#x0003e; 40 mmHg.</p><p>
+<bold>Question 10</bold>: Unsuccessful Block Definition: Delete "or an NRS score at rest &#x02265;3" and all other mentions of NRS scores, as they are not relevant per reference #3. I suggest deleting &#x02018;Numeric Rating Scale (NRS) scores&#x02019; because they were not presented in Table 1.</p><p>
+<bold>Answer 10</bold>: We agree to remove the NRS (Numeric Rating Scale) scores from the section on the definition of unsuccessful blockade and from all other parts of the manuscript where NRS is mentioned.</p><p>
+<bold>Question 11</bold>: Table 1 Formatting: Remove ", mean&#x000b1;SD" and ", n (%)" from Table 1 contents and "(range)" from its caption. Change the caption to "Data are presented as mean &#x000b1; SD or n (%)".</p><p>
+<bold>Answer 11</bold>: We removed the words &#x0201c;mean&#x000b1;SD&#x0201d; and &#x0201c;n&#x0201d; from Table 1 and the word &#x0201c;range&#x0201d; from the caption, and changed the caption to &#x0201c;Data are presented as mean&#x000b1;SD or n(%)&#x0201d; as recommended.</p><p>
+<bold>Question 12</bold>: Figure 2 Label: Correct the "ICP" label in Figure 2. Provide the correct term (e.g., "Intrathoracic Pressure").</p><p>
+<bold>Answer 12</bold>: We agreed to omit parts of the ICP text from Figure 2 to prevent confusion among readers who might mistake it for intracranial pressure, as this study focuses on the paravertebral space.</p><p>
+<bold>Question 13</bold>: Redo-Thoracotomy Count: Reconcile the inconsistent reporting of redo-thoracotomy patients (5 in Results, 6 in Discussion, 4 in Table 2).</p><p>
+<bold>Answer 13</bold>: Thank you for your help in checking. We would like to change the number of participants who underwent redo-thoracotomy from 5 patients to 4 patients in the results section. The number of 6 patients in the discussion section is correct because it includes 4 redo-thoracotomy cases and 2 empyema cases. Both the redo-thoracotomy and empyema cases involve issues with pleural integrity, which is why we reported them together.</p><p>
+<bold>Question 14</bold>: Table 2 P-values: Add p-values for intramuscular pressure, SCTL pressure, TPVS pressure, and respiratory waveform presence for redo and non-redo thoracotomy groups at T4/5 and T6/7.</p><p>
+<bold>Answer 14</bold>: I have added the p-values to Table 2 for intramuscular pressure, SCTL, TPVS pressure, and the presence of respiratory waveforms for the Redo and non-redo thoracotomy groups at the T4/5 and T6/7 levels.</p><p>
+<bold>Question 15</bold>: Table 2 Formatting: Change the Table 2 caption to "Data are presented as median (range) or n (%)". Remove ", %" from the first column. Present "Respiratory waveform present" values as n (%) and change all other percentage values (e.g., 94.0, 100.0, 93.5) accordingly.</p><p>
+<bold>Answer 15</bold>: As per your recommendation. We have adjusted Table 2 as follows:</p><p> 1. In the table header, we removed the word &#x0201c;Mean&#x0201d; in the &#x0201c;Mean pressure values&#x0201d; and added &#x0201c;(n=100)&#x0201d;&#x000a0; for clarity.</p><p> 2. In columns 2 and 3, specifying T4/5 and T5/6, we removed the word &#x0201c;median (range)&#x0201d; replaced it with &#x0201c;(n=50)&#x0201d;.</p><p> 3. We removed the &#x0201c;%&#x0201d;&#x000a0; at the end of &#x0201c;Respiratory waveform present, %&#x0201d; and presented it as n(%) instead.</p><p> 4. We recalculated the data, correcting the value from 93.5 to 95.6.</p><p> 5. The caption of Table 2 was edited to&#x000a0; &#x0201c;Data are presented as median (range) or n(%)&#x0201d;.</p><p>
+<bold>Question 16</bold>: Table 3 Discrepancy: Resolve the discrepancy between the 98 (98%) regular sine waveforms in Table 3 and the 94.0% respiratory waveform presence in Table 2.</p><p>
+<bold>Answer 16</bold>: The number 94 in Table 2 represents the number of times the respiratory waveform occurred in the observational study, presented as percentages. It is not specified whether this occurred in the thoracic paravertebral space. In this study, only one case was found to have a respiratory waveform in the SCTL (superior costotransverse ligament) position, which was also observed in the thoracic paravertebral space. Additionally, two cases did not exhibit the respiratory-like waveform in the paravertebral space. Therefore, in Table 2, the number 94 has been revised to 96 (48/50 at T4/5 for all participants), and the number 93.5 has been revised to 95.6 (44/46 in the not-redo-thoracotomy group), with these numbers presented as percentages. The number 98 in Table 3 represents the total number of events in which the respiratory waveform occurred in the paravertebral space (two levels of paravertebral block for one patient).</p><p>
+<bold>Question 17</bold>: Table 3 Captions: Remove "Sensitivity, Specificity, ROC area, Positive predictive value, and Negative predictive value" captions from Table 3; these belong in Table 4.</p><p>
+<bold>Answer 17</bold>: In Table 3, we reported the use of ultrasound as the gold standard for identifying the paravertebral space before measuring the pressure and waveform characteristics. Therefore, we would like to retain these data. Additionally, we used the success of the blockade to reconfirm the paravertebral space after the blockade, as shown in Table 4.</p><p>
+<bold>Question 18</bold>: NRS Score Paragraph Removal: Delete the paragraph discussing NRS scores, as it's not relevant to the study's objective.</p><p>
+<bold>Answer 18</bold>: We have removed the paragraph discussing the NRS, as suggested.</p><p>
+<bold>Question 19</bold>: In the Discussion, the authors stated that &#x02018;The study showed that 96% of the subjects had similar respiratory-like pattern in the TPVS&#x02019;, where did 96% come from? According to Table 3, this number should be 98%. Please clarify.</p><p>
+<bold>Answer 19</bold>: As answered in question 16, the number 96% comes from the events showing the respiratory-like waveform, which includes 48 cases out of 50. However, the number 98 represents the total events showing the respiratory-like waveform from 100 events involving fifty patients.</p><p>
+<bold>Question 20</bold>: To assess the efficacy of sine waveform visualization for identifying the thoracic paravertebral space (TPVS), comparison with a reference standard is essential. While not a true gold standard, ultrasound-guided TPVB (UG-TPVB) is the de facto standard for TPVS identification in clinical practice. Therefore, the sine waveform's visibility should be compared directly with UG-TPVB confirmation of needle tip location within the TPVS (e.g., % sine waveform visibility vs. US-TPVB confirmation). Comparing sine wave visibility with block success (Table 4) is inappropriate. The current criterion for unsuccessful block&#x02014;inability to confirm more than three levels of dermatomal blockade&#x02014;introduces numerous confounding factors unrelated to TPVS identification. Block success itself is not a valid reference standard for accurate needle placement within the TPVS as confirmed by US-TPVB.</p><p>
+<bold>Answer 20</bold>: This is because the researcher needed to understand the pressure and waveform characteristics in the paravertebral space, as these have never been studied before. The researcher had previously studied the characteristics of waves found in the epidural space and discovered that they resembled arterial waves, which were used to determine the location of the epidural space. In the paravertebral space, which is connected to the epidural space and adjacent to the thoracic cavity, there may be arterial waves or possibly waves similar to respiratory waves following breathing. Therefore, the researcher aimed to study the nature of the waves in the paravertebral space, their form, and whether they could be used to determine the location of the paravertebral space. In this study, ultrasound was used to identify the location of the paravertebral space. However, even with ultrasound, the tip of the needle could sometimes not be clearly visualized, and it was necessary to confirm that the location identified with ultrasound was indeed the paravertebral space. Therefore, the researcher also tested the level of analgesia after the blockade. In future studies, the use of respiratory waveforms may be compared with ultrasound for determining the location of the paravertebral space.</p><p>
+<bold>Question 21</bold>: Table 4 Revision: Recalculate and revise Table 4 to compare sine waveform visibility directly with US-TPVB confirmation, using a total of 100 tests.</p><p>
+<bold>Answer 21</bold>: Table 4 presents the relationship between the visibility of the respiratory waveform and the success of the block, as determined by testing the level of analgesia. The study involved 50 patients, and the level of analgesia was tested after they had recovered from anesthesia. Therefore, the calculations were based on 50 patients, not 100. We acknowledge that this is a limitation of the study, as the analgesic level should have been tested before the patient fell asleep for each blockade. We addressed this point in the limitation section.</p><p>
+<bold>Question 22</bold>: Discussion Wording: Change "Eleventh" to "Eleven" in the Discussion.</p><p>
+<bold>Answer 22</bold>: An error occurred. We have changed the word &#x0201c;eleventh&#x0201d; to &#x0201c;eleven&#x0201d;.</p></body></sub-article></sub-article><sub-article article-type="reviewer-report" id="report319560"><front-stub><article-id pub-id-type="doi">10.5256/f1000research.153219.r319560</article-id><title-group><article-title>Reviewer response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Nimmaanrat</surname><given-names>Sasikaan</given-names></name><xref rid="r319560a1" ref-type="aff">1</xref><role>Referee</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-8483-6291</contrib-id></contrib><aff id="r319560a1">
+<label>1</label>Songklanagarind Hospital, Faculty of Medicine, Prince of Songkla University, Hat Yai, Thailand</aff></contrib-group><author-notes><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>13</day><month>9</month><year>2024</year></pub-date><permissions><copyright-statement>Copyright: &#x000a9; 2024 Nimmaanrat S</copyright-statement><copyright-year>2024</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><related-article related-article-type="peer-reviewed-article" ext-link-type="doi" id="relatedArticleReport319560" xlink:href="10.12688/f1000research.139904.1">Version 1</related-article><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve</meta-value></custom-meta></custom-meta-group></front-stub><body><p>This manuscript is well written.</p><p> The research question was to answer the knowledge gap of TPVS waveform patterns in patients with "controlled ventilation" under general anesthesia.</p><p> The methodology was well designed. The results were clearly presented.&#x000a0;</p><p> The discussion was adequate on similarities and dissimilarities with other publications with logic explanations.</p><p>Is the work clearly and accurately presented and does it cite the current literature?</p><p>Yes</p><p>If applicable, is the statistical analysis and its interpretation appropriate?</p><p>Yes</p><p>Are all the source data underlying the results available to ensure full reproducibility?</p><p>Yes</p><p>Is the study design appropriate and is the work technically sound?</p><p>Yes</p><p>Are the conclusions drawn adequately supported by the results?</p><p>Yes</p><p>Are sufficient details of methods and analysis provided to allow replication by others?</p><p>Yes</p><p>Reviewer Expertise:</p><p>Pain management, Anesthesia, Quality Assurance</p><p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p></body></sub-article></article>

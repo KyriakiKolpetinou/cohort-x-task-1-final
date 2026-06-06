@@ -1,0 +1,1154 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Sci Adv</journal-id><journal-id journal-id-type="iso-abbrev">Sci Adv</journal-id><journal-id journal-id-type="publisher-id">sciadv</journal-id><journal-id journal-id-type="hwp">advances</journal-id><journal-title-group><journal-title>Science Advances</journal-title></journal-title-group><issn pub-type="epub">2375-2548</issn><publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">34644101</article-id><article-id pub-id-type="pmc">11559468</article-id>
+<article-id pub-id-type="publisher-id">abh4394</article-id><article-id pub-id-type="doi">10.1126/sciadv.abh4394</article-id><article-categories><subj-group subj-group-type="article-type"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Physical and Materials Sciences</subject></subj-group><subj-group subj-group-type="legacy-article-type"><subject>SciAdv r-articles</subject></subj-group><subj-group subj-group-type="field"><subject>Biophysics</subject><subject>Health and Medicine</subject></subj-group><subj-group subj-group-type="overline"><subject>Biophysics</subject></subj-group></article-categories><title-group><article-title>Positronium imaging with the novel multiphoton PET scanner</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-4229-3548</contrib-id><name><surname>Moskal</surname><given-names>Pawe&#x00142;</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-conceptualization/">Conceptualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-formal-analysis/">Formal analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Funding acquisition" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-funding-acquisition/">Funding acquisition</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Project administration" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-project-administration/">Project administration</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Resources" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-resources/">Resources</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-supervision/">Supervision</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Validation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-validation/">Validation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Visualization" vocab-term-identifier="https://web.archive.org/web/20180313224017/http://dictionary.casrai.org/Contributor_Roles/Visualization">Visualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Writing - original draft" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-writing-original-draft/">Writing - original draft</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Writing - review &#x00026; editing" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-writing-review-editing/">Writing - review &#x00026; editing</role><xref rid="award777478" ref-type="award"/><xref rid="award777479" ref-type="award"/><xref rid="award777486" ref-type="award"/><xref rid="award777481" ref-type="award"/><xref rid="award777477" ref-type="award"/><xref rid="award777482" ref-type="award"/><xref rid="award777483" ref-type="award"/><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="cor1" ref-type="corresp">*</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-4093-8162</contrib-id><name><surname>Dulski</surname><given-names>Kamil</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-conceptualization/">Conceptualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-formal-analysis/">Formal analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Funding acquisition" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-funding-acquisition/">Funding acquisition</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Software" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-software/">Software</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Validation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-validation/">Validation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Visualization" vocab-term-identifier="https://web.archive.org/web/20180313224017/http://dictionary.casrai.org/Contributor_Roles/Visualization">Visualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Writing - original draft" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-writing-original-draft/">Writing - original draft</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Writing - review &#x00026; editing" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-writing-review-editing/">Writing - review &#x00026; editing</role><xref rid="award777488" ref-type="award"/><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="cor1" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Chug</surname><given-names>Neha</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Visualization" vocab-term-identifier="https://web.archive.org/web/20180313224017/http://dictionary.casrai.org/Contributor_Roles/Visualization">Visualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Writing - review &#x00026; editing" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-writing-review-editing/">Writing - review &#x00026; editing</role><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Curceanu</surname><given-names>Catalina</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Writing - review &#x00026; editing" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-writing-review-editing/">Writing - review &#x00026; editing</role><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-5076-3175</contrib-id><name><surname>Czerwi&#x00144;ski</surname><given-names>Eryk</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Writing - review &#x00026; editing" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-writing-review-editing/">Writing - review &#x00026; editing</role><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Dadgar</surname><given-names>Meysam</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Visualization" vocab-term-identifier="https://web.archive.org/web/20180313224017/http://dictionary.casrai.org/Contributor_Roles/Visualization">Visualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Writing - review &#x00026; editing" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-writing-review-editing/">Writing - review &#x00026; editing</role><xref rid="award777489" ref-type="award"/><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-7416-5145</contrib-id><name><surname>Gajewski</surname><given-names>Jan</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Writing - review &#x00026; editing" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-writing-review-editing/">Writing - review &#x00026; editing</role><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-7536-6459</contrib-id><name><surname>Gajos</surname><given-names>Aleksander</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Software" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-software/">Software</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Writing - review &#x00026; editing" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-writing-review-editing/">Writing - review &#x00026; editing</role><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-4705-5987</contrib-id><name><surname>Grudzie&#x00144;</surname><given-names>Grzegorz</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Visualization" vocab-term-identifier="https://web.archive.org/web/20180313224017/http://dictionary.casrai.org/Contributor_Roles/Visualization">Visualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Writing - review &#x00026; editing" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-writing-review-editing/">Writing - review &#x00026; editing</role><xref rid="aff5" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-9062-6039</contrib-id><name><surname>Hiesmayr</surname><given-names>Beatrix C.</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-conceptualization/">Conceptualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Funding acquisition" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-funding-acquisition/">Funding acquisition</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Project administration" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-project-administration/">Project administration</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-supervision/">Supervision</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Validation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-validation/">Validation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Writing - review &#x00026; editing" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-writing-review-editing/">Writing - review &#x00026; editing</role><xref rid="award777487" ref-type="award"/><xref rid="aff6" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-6105-4449</contrib-id><name><surname>Kacprzak</surname><given-names>Krzysztof</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Software" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-software/">Software</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Validation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-validation/">Validation</role><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-2203-0425</contrib-id><name><surname>Kap&#x00142;on</surname><given-names>&#x00141;ukasz</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Resources" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-resources/">Resources</role><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Karimi</surname><given-names>Hanieh</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-conceptualization/">Conceptualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Resources" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-resources/">Resources</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Validation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-validation/">Validation</role><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-0741-5922</contrib-id><name><surname>Klimaszewski</surname><given-names>Konrad</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Writing - review &#x00026; editing" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-writing-review-editing/">Writing - review &#x00026; editing</role><xref rid="aff7" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-6244-7287</contrib-id><name><surname>Korcyl</surname><given-names>Grzegorz</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Visualization" vocab-term-identifier="https://web.archive.org/web/20180313224017/http://dictionary.casrai.org/Contributor_Roles/Visualization">Visualization</role><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-3545-3865</contrib-id><name><surname>Kowalski</surname><given-names>Pawe&#x00142;</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Software" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-software/">Software</role><xref rid="aff7" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Kozik</surname><given-names>Tomasz</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Visualization" vocab-term-identifier="https://web.archive.org/web/20180313224017/http://dictionary.casrai.org/Contributor_Roles/Visualization">Visualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Writing - review &#x00026; editing" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-writing-review-editing/">Writing - review &#x00026; editing</role><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-6938-4116</contrib-id><name><surname>Krawczyk</surname><given-names>Nikodem</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-formal-analysis/">Formal analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Visualization" vocab-term-identifier="https://web.archive.org/web/20180313224017/http://dictionary.casrai.org/Contributor_Roles/Visualization">Visualization</role><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-9546-358X</contrib-id><name><surname>Krzemie&#x00144;</surname><given-names>Wojciech</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Software" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-software/">Software</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Visualization" vocab-term-identifier="https://web.archive.org/web/20180313224017/http://dictionary.casrai.org/Contributor_Roles/Visualization">Visualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Writing - review &#x00026; editing" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-writing-review-editing/">Writing - review &#x00026; editing</role><xref rid="aff8" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Kubicz</surname><given-names>Ewelina</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Resources" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-resources/">Resources</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Visualization" vocab-term-identifier="https://web.archive.org/web/20180313224017/http://dictionary.casrai.org/Contributor_Roles/Visualization">Visualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Writing - review &#x00026; editing" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-writing-review-editing/">Writing - review &#x00026; editing</role><xref rid="award777480" ref-type="award"/><xref rid="award777491" ref-type="award"/><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Ma&#x00142;czak</surname><given-names>Piotr</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Visualization" vocab-term-identifier="https://web.archive.org/web/20180313224017/http://dictionary.casrai.org/Contributor_Roles/Visualization">Visualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Writing - review &#x00026; editing" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-writing-review-editing/">Writing - review &#x00026; editing</role><xref rid="aff9" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-5953-9479</contrib-id><name><surname>Nied&#x0017a;wiecki</surname><given-names>Szymon</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Pawlik-Nied&#x0017a;wiecka</surname><given-names>Monika</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Writing - review &#x00026; editing" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-writing-review-editing/">Writing - review &#x00026; editing</role><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-9073-2667</contrib-id><name><surname>P&#x00119;dziwiatr</surname><given-names>Micha&#x00142;</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-conceptualization/">Conceptualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Resources" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-resources/">Resources</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Validation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-validation/">Validation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Writing - review &#x00026; editing" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-writing-review-editing/">Writing - review &#x00026; editing</role><xref rid="aff9" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-7039-2084</contrib-id><name><surname>Raczy&#x00144;ski</surname><given-names>Lech</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-formal-analysis/">Formal analysis</role><xref rid="aff7" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Raj</surname><given-names>Juhi</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Resources" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-resources/">Resources</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Visualization" vocab-term-identifier="https://web.archive.org/web/20180313224017/http://dictionary.casrai.org/Contributor_Roles/Visualization">Visualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Writing - review &#x00026; editing" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-writing-review-editing/">Writing - review &#x00026; editing</role><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-5815-4606</contrib-id><name><surname>Ruci&#x00144;ski</surname><given-names>Antoni</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Writing - review &#x00026; editing" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-writing-review-editing/">Writing - review &#x00026; editing</role><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Sharma</surname><given-names>Sushil</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Resources" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-resources/">Resources</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Software" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-software/">Software</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Validation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-validation/">Validation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Visualization" vocab-term-identifier="https://web.archive.org/web/20180313224017/http://dictionary.casrai.org/Contributor_Roles/Visualization">Visualization</role><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="given-only"><given-names>Shivani</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Visualization" vocab-term-identifier="https://web.archive.org/web/20180313224017/http://dictionary.casrai.org/Contributor_Roles/Visualization">Visualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Writing - review &#x00026; editing" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-writing-review-editing/">Writing - review &#x00026; editing</role><xref rid="award777493" ref-type="award"/><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-1089-5050</contrib-id><name><surname>Shopa</surname><given-names>Roman Y.</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Visualization" vocab-term-identifier="https://web.archive.org/web/20180313224017/http://dictionary.casrai.org/Contributor_Roles/Visualization">Visualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Writing - review &#x00026; editing" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-writing-review-editing/">Writing - review &#x00026; editing</role><xref rid="aff7" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-2206-0963</contrib-id><name><surname>Silarski</surname><given-names>Micha&#x00142;</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-formal-analysis/">Formal analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Writing - review &#x00026; editing" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-writing-review-editing/">Writing - review &#x00026; editing</role><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-4794-5154</contrib-id><name><surname>Skurzok</surname><given-names>Magdalena</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Visualization" vocab-term-identifier="https://web.archive.org/web/20180313224017/http://dictionary.casrai.org/Contributor_Roles/Visualization">Visualization</role><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-3589-1715</contrib-id><name><surname>St&#x00119;pie&#x00144;</surname><given-names>Ewa &#x00141;.</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-conceptualization/">Conceptualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Funding acquisition" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-funding-acquisition/">Funding acquisition</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Project administration" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-project-administration/">Project administration</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Resources" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-resources/">Resources</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-supervision/">Supervision</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Validation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-validation/">Validation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Visualization" vocab-term-identifier="https://web.archive.org/web/20180313224017/http://dictionary.casrai.org/Contributor_Roles/Visualization">Visualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Writing - original draft" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-writing-original-draft/">Writing - original draft</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Writing - review &#x00026; editing" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-writing-review-editing/">Writing - review &#x00026; editing</role><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-9424-4051</contrib-id><name><surname>Szczepanek</surname><given-names>Monika</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Visualization" vocab-term-identifier="https://web.archive.org/web/20180313224017/http://dictionary.casrai.org/Contributor_Roles/Visualization">Visualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Writing - review &#x00026; editing" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-writing-review-editing/">Writing - review &#x00026; editing</role><xref rid="award777494" ref-type="award"/><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Tayefi</surname><given-names>Faranak</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Visualization" vocab-term-identifier="https://web.archive.org/web/20180313224017/http://dictionary.casrai.org/Contributor_Roles/Visualization">Visualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Writing - original draft" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-writing-original-draft/">Writing - original draft</role><xref rid="award777490" ref-type="award"/><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Wi&#x0015b;licki</surname><given-names>Wojciech</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Funding acquisition" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-funding-acquisition/">Funding acquisition</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Project administration" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-project-administration/">Project administration</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-supervision/">Supervision</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Validation" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-validation/">Validation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Visualization" vocab-term-identifier="https://web.archive.org/web/20180313224017/http://dictionary.casrai.org/Contributor_Roles/Visualization">Visualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/term/contributor-roles/" vocab-term="Writing - review &#x00026; editing" vocab-term-identifier="https://credit.niso.org/term/contributor-roles-writing-review-editing/">Writing - review &#x00026; editing</role><xref rid="aff7" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><aff id="aff1"><label>1</label>Faculty of Physics, Astronomy, and Applied Computer Science, Jagiellonian University, &#x00141;ojasiewicza 11, 30-348 Krak&#x000f3;w, Poland.</aff><aff id="aff2"><label>2</label>Total-Body Jagiellonian-PET Laboratory, Jagiellonian University, Krak&#x000f3;w, Poland.</aff><aff id="aff3"><label>3</label>INFN, Laboratori Nazionali di Frascati, Frascati, Italy.</aff><aff id="aff4"><label>4</label>Institute of Nuclear Physics, Polish Academy of Sciences, Krak&#x000f3;w, Poland.</aff><aff id="aff5"><label>5</label>Department of Cardiovascular Surgery and Transplantology, John Paul II Hospital, Krak&#x000f3;w, Poland.</aff><aff id="aff6"><label>6</label>Faculty of Physics, University of Vienna, Vienna, Austria.</aff><aff id="aff7"><label>7</label>Department of Complex Systems, National Centre for Nuclear Research, Otwock-&#x0015a;wierk, Poland.</aff><aff id="aff8"><label>8</label>High Energy Physics Division, National Centre for Nuclear Research, Otwock-&#x0015a;wierk, Poland.</aff><aff id="aff9"><label>9</label>2nd Department of General Surgery, Jagiellonian University Medical College, Krak&#x000f3;w, Poland.</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Corresponding author. Email: <email xlink:href="p.moskal@uj.edu.pl">p.moskal@uj.edu.pl</email> (P.Mo.); <email xlink:href="kamil.dulski@doctoral.uj.edu.pl">kamil.dulski@doctoral.uj.edu.pl</email> (K.D.)</corresp></author-notes><pub-date pub-type="collection"><month>10</month><year>2021</year></pub-date><pub-date publication-format="electronic" date-type="pub"><day>13</day><month>10</month><year>2021</year></pub-date><volume>7</volume><issue>42</issue><elocation-id>eabh4394</elocation-id><history>
+<date date-type="received"><day>15</day><month>3</month><year>2021</year></date>
+<date date-type="accepted"><day>23</day><month>8</month><year>2021</year></date>
+</history><permissions><copyright-statement>Copyright &#x000a9; 2021 The Authors, some rights reserved; exclusive licensee American Association for the Advancement of Science. No claim to original U.S. Government Works. Distributed under a Creative Commons Attribution License 4.0 (CC BY).</copyright-statement><copyright-year>2021</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense" start_date="2021-10-13">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution license</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="sciadv.abh4394.pdf"/><abstract abstract-type="teaser"><p>Positronium created in a human body during PET scans hallmarks neoplastic tissues.</p></abstract><abstract><p>In vivo assessment of cancer and precise location of altered tissues at initial stages of molecular disorders are important diagnostic challenges. Positronium is copiously formed in the free molecular spaces in the patient&#x02019;s body during positron emission tomography (PET). The positronium properties vary according to the size of inter- and intramolecular voids and the concentration of molecules in them such as, e.g., molecular oxygen, O<sub>2</sub>; therefore, positronium imaging may provide information about disease progression during the initial stages of molecular alterations. Current PET systems do not allow acquisition of positronium images. This study presents a new method that enables positronium imaging by simultaneous registration of annihilation photons and deexcitation photons from pharmaceuticals labeled with radionuclides. The first positronium imaging of a phantom built from cardiac myxoma and adipose tissue is demonstrated. It is anticipated that positronium imaging will substantially enhance the specificity of PET diagnostics.</p></abstract><funding-group><award-group id="award777478"><funding-source>
+<institution-wrap><institution-id institution-id-type="doi">http://dx.doi.org/10.13039/501100001870</institution-id><institution>Foundation For Polish Science</institution></institution-wrap>
+</funding-source><award-id>MPD</award-id></award-group><award-group id="award777479"><funding-source>
+<institution-wrap><institution-id institution-id-type="doi">http://dx.doi.org/10.13039/501100001870</institution-id><institution>Foundation For Polish Science</institution></institution-wrap>
+</funding-source><award-id>TEAM/ 2017-4/39</award-id></award-group><award-group id="award777487"><funding-source>
+<institution-wrap><institution-id institution-id-type="doi">http://dx.doi.org/10.13039/501100002428</institution-id><institution>Austrian Science Fund</institution></institution-wrap>
+</funding-source><award-id>FWF-P26783</award-id></award-group><award-group id="award777486"><funding-source>
+<institution-wrap><institution>Jagiellonian University</institution></institution-wrap>
+</funding-source><award-id>CRP/0641.221.2020</award-id></award-group><award-group id="award777480"><funding-source>
+<institution-wrap><institution>National Science Centre of Poland</institution></institution-wrap>
+</funding-source><award-id>2017/25/N/NZ1/00861</award-id></award-group><award-group id="award777481"><funding-source>
+<institution-wrap><institution>National Science Centre of Poland</institution></institution-wrap>
+</funding-source><award-id>2019/35/B/ST2/03562</award-id></award-group><award-group id="award777494"><funding-source>
+<institution-wrap><institution>SciMat Priority Research Area</institution></institution-wrap>
+</funding-source><award-id>Excellence Initiative - Research University at Jagiellonian University</award-id></award-group><award-group id="award777493"><funding-source>
+<institution-wrap><institution>SciMat Priority Research Area</institution></institution-wrap>
+</funding-source><award-id>Excellence Initiative - Research University at Jagiellonian University</award-id></award-group><award-group id="award777489"><funding-source>
+<institution-wrap><institution>SciMat Priority Research Area</institution></institution-wrap>
+</funding-source><award-id>Excellence Initiative - Research University at Jagiellonian University</award-id></award-group><award-group id="award777490"><funding-source>
+<institution-wrap><institution>SciMat Priority Research Area</institution></institution-wrap>
+</funding-source><award-id>Excellence Initiative - Research University at Jagiellonian University</award-id></award-group><award-group id="award777491"><funding-source>
+<institution-wrap><institution>SciMat Priority Research Area</institution></institution-wrap>
+</funding-source><award-id>Excellence Initiative - Research University at Jagiellonian University</award-id></award-group><award-group id="award777488"><funding-source>
+<institution-wrap><institution>SciMat Priority Research Area</institution></institution-wrap>
+</funding-source><award-id>Excellence Initiative - Research University at Jagiellonian University</award-id></award-group><award-group id="award777477"><funding-source>
+<institution-wrap><institution>Polish National Center for Research and Development</institution></institution-wrap>
+</funding-source><award-id>INNOTECH-K1/IN1/64/159174/NCBR/12</award-id></award-group><award-group id="award777482"><funding-source>
+<institution-wrap><institution>Polish Ministry for Science and Higher Education</institution></institution-wrap>
+</funding-source><award-id>6673/IA/SP/2016</award-id></award-group><award-group id="award777483"><funding-source>
+<institution-wrap><institution>Polish Ministry for Science and Higher Education</institution></institution-wrap>
+</funding-source><award-id>7150/E- 338/SPUB/2017/1</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Nicole Falcasantos</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="introduction" disp-level="1"><title>INTRODUCTION</title><p>Personalized treatment, which is aimed at providing tailored medical treatment for individual patients, requires diagnostic methods that have a high sensitivity and specificity. Positron emission tomography (PET) meets these requirements to a large extent. PET is one of the most advanced molecular imaging methods, and it enables the detection of tissue alterations on a molecular level before the alterations evolve into functional and, later, morphological disorders (<xref rid="R1" ref-type="bibr"><italic toggle="yes">1</italic></xref>&#x02013;<xref rid="R3" ref-type="bibr"><italic toggle="yes">3</italic></xref>). When performing diagnostics with PET, the patient is administered with a pharmaceutical that is labeled with a radioactive isotope that emits positrons (e.g., <sup>18</sup>F). Positrons thermalize (lose energy) in the tissue and annihilate with electrons, predominantly into two photons. These photons are registered using the PET scanner and are used for the reconstruction of the image for the density distribution of the annihilation points. This distribution is correlated with the metabolism rate of the administered pharmaceutical; this information is used to determine locations of regions with an altered metabolic activity.</p><p>Recent developments in total-body PET systems (<xref rid="R4" ref-type="bibr"><italic toggle="yes">4</italic></xref>&#x02013;<xref rid="R7" ref-type="bibr"><italic toggle="yes">7</italic></xref>) have significantly enhanced the PET diagnostic specificity to disentangle cancerous, inflamed, and infected tissues (<xref rid="R8" ref-type="bibr"><italic toggle="yes">8</italic></xref>, <xref rid="R9" ref-type="bibr"><italic toggle="yes">9</italic></xref>). This is achieved by simultaneously enabling a dynamic metabolic rate and kinetic parametric imaging of all the organs, tissues, and cells throughout the human body (<xref rid="R10" ref-type="bibr"><italic toggle="yes">10</italic></xref>, <xref rid="R11" ref-type="bibr"><italic toggle="yes">11</italic></xref>). However, there is still a scope for the quantitative improvement of the PET diagnosis specificity for the disease assessment. This is because the photons that originate from the decay of the radioisotopes and the annihilation of the positron with an electron in the cells can carry more information about the molecular environment than used in the PET diagnostics that are currently being used. The state-of-the-art PET systems (<xref rid="R12" ref-type="bibr"><italic toggle="yes">12</italic></xref>) [including uEXPLORER, the first total-body PET (<xref rid="R13" ref-type="bibr"><italic toggle="yes">13</italic></xref>)] use only the information about the location of the positron-electron annihilation and are insensitive to the processes that influence the positron annihilation inside the molecules, which may provide information about the alteration of the tissues at the molecular level (<xref rid="R14" ref-type="bibr"><italic toggle="yes">14</italic></xref>). In the tissue, positron-electron annihilation may proceed directly (<italic toggle="yes">e</italic><sup>+</sup><italic toggle="yes">e</italic><sup>&#x02212;</sup> &#x02192; photons) or via the formation of the intermediate positron-electron&#x02013;bound state, referred to as a positronium (<italic toggle="yes">e</italic><sup>+</sup><italic toggle="yes">e</italic><sup>&#x02212;</sup> &#x02192; positronium &#x02192; photons). During PET scanning, almost 40% of the positron annihilations occur through the formation of positronium (<xref rid="R15" ref-type="bibr"><italic toggle="yes">15</italic></xref>, <xref rid="R16" ref-type="bibr"><italic toggle="yes">16</italic></xref>), which may be formed in human tissues in the intra- and intermolecular spaces. Hence, positronium has not been used for medical diagnostics.</p><p>The positronium is unstable and decays into photons. In 25% of the cases, a short-lived parapositronium is formed, and in 75% of the cases, an orthopositronium (o-Ps) is formed. Parapositronium decays in vacuum predominantly into two photons, and o-Ps decays into three photons, with the mean lifetimes of these states in vacuum equal to 125 ps and 142 ns, respectively (<xref rid="R17" ref-type="bibr"><italic toggle="yes">17</italic></xref>). In the medium, the mean lifetime of o-Ps is shortened significantly. This is because, in addition to the self-annihilation of o-Ps, additional processes occur, e.g., annihilation of a positron from o-Ps with an electron from the surrounding molecule (pickoff process) or interaction of o-Ps with oxygen or other biomolecules leading to the conversion of o-Ps to parapositronium and its subsequent self-annihilation into two photons. The mean lifetime of o-Ps in a patient&#x02019;s body varies from approximately 1.8 ns in water molecules to approximately 4 ns in skin cells (<xref rid="R18" ref-type="bibr"><italic toggle="yes">18</italic></xref>). Because of the pickoff and conversion processes, the mean lifetime of o-Ps is highly sensitive to the size of inter- and intramolecular voids (free volume between the atoms) and to the concentration of biomolecules in them. As a result, it can provide information about the disease progression in an initial stage (<xref rid="R14" ref-type="bibr"><italic toggle="yes">14</italic></xref>). Several studies have investigated the changes of the positronium properties during dynamic processes while applying model and living biological systems (<xref rid="R19" ref-type="bibr"><italic toggle="yes">19</italic></xref>&#x02013;<xref rid="R32" ref-type="bibr"><italic toggle="yes">32</italic></xref>). It has been found that there are differences in the positronium mean lifetimes and the production probabilities in healthy and cancerous tissues, indicating that these parameters can be used as indicators for in vivo cancer classification. To exploit these environmentally modified properties of positronium as diagnostic biomarkers for conducting an in vivo tissue pathology assessment, the properties of the positronium atoms need to be determined in a spatially resolved manner (<xref rid="R1" ref-type="bibr"><italic toggle="yes">1</italic></xref>, <xref rid="R14" ref-type="bibr"><italic toggle="yes">14</italic></xref>, <xref rid="R33" ref-type="bibr"><italic toggle="yes">33</italic></xref>). The novel concept of this method, called positronium imaging (<xref rid="R33" ref-type="bibr"><italic toggle="yes">33</italic></xref>, <xref rid="R34" ref-type="bibr"><italic toggle="yes">34</italic></xref>), and feasibility studies based on computer simulations have been reported in our recent publications (<xref rid="R37" ref-type="bibr"><italic toggle="yes">37</italic></xref>, <xref rid="R38" ref-type="bibr"><italic toggle="yes">38</italic></xref>). This article presents the experimental implementation of the method and the first-ever positronium mean lifetime image, which was determined simultaneously with a standard PET image, using a specially designed PET scanner that overcomes the limitations of the state-of-the-art PET system. The scanner, which is referred to as the Jagiellonian PET (J-PET), was constructed and made operational at the Jagiellonian University in Poland (<xref rid="R35" ref-type="bibr"><italic toggle="yes">35</italic></xref>, <xref rid="R36" ref-type="bibr"><italic toggle="yes">36</italic></xref>, <xref rid="R39" ref-type="bibr"><italic toggle="yes">39</italic></xref>&#x02013;<xref rid="R43" ref-type="bibr"><italic toggle="yes">43</italic></xref>). As an example of the application of the positronium imaging method, this study presents a positronium image that was determined for a phantom comprising cardiac myxoma and adipose tissue from patients (bioethical consent number 1072.6120.123.2017).</p></sec><sec sec-type="results" disp-level="1"><title>RESULTS</title><sec disp-level="2"><title>Positronium detection by the J-PET detector</title><p><xref rid="F1" ref-type="fig">Figure 1</xref> displays the main results from this study, which include the positronium mean lifetime image and the image analog to the standardized uptake value (SUV). It should be stressed that, in this study, the annihilation rate is determined by the activity of the applied <sup>22</sup>Na radionuclide and not by the pharmaceutical uptake rate as it is in the in vivo PET imaging. Both of these images were obtained simultaneously for the phantom, which comprised tissues that were operated from two patients (indicated as 1 and 2 in the J-PET tomography chamber). The imaged phantom consisted of four samples inserted into the J-PET tomograph. Two samples consisted of cardiac myxoma tissue (indicated as blue circles), and the other two consisted of adipose tissue (indicated as yellow circles).</p><fig position="float" id="F1" fig-type="image" specific-use="distribute"><label>Fig. 1.</label><caption><title>The measurement scheme and the determined SUV and positronium images.</title><p>The top left panel illustrates a part of a hemoglobin molecule with superimposed schemes, indicating decays of o-Ps (green circles) and parapositronium (p-Ps) (violet circle). o-Ps may undergo self-annihilation (pink arrows), pickoff process (gray arrows), or conversion to parapositronium, e.g., by interacting with oxygen molecule (green arrows). The top right panel shows the first part of the experimental workflow. Four samples from two patients were collected and divided into two classes: cardiac myxoma and adipose tissue. Each sample was inserted into a holder with the radioactive <sup>22</sup>Na source, which was inserted into the J-PET detector. The blue and yellow circles show the locations of the samples during the measurement. Methods to reconstruct the image analogs to that of the SUV image (annihilation rate distribution) and positronium lifetime image are described in Methods. Reconstructed mean o-Ps lifetime in cardiac myxoma (1.9 ns) differs from the mean o-Ps lifetime in adipose tissue (2.6 ns). More comprehensive studies confirming the differences in the o-Ps mean lifetime in the healthy adipose tissue and cardiac myxoma tumor are described in the article to be submitted elsewhere (<xref rid="R44" ref-type="bibr"><italic toggle="yes">44</italic></xref>). Photo credit: Kamil Dulski, Jagiellonian University.</p></caption><graphic xlink:href="sciadv.abh4394-f1" position="float"/></fig><p><sup>22</sup>Na isotope was used as a source of positrons. In addition to emitting the positrons, this isotope emits a prompt gamma ray with an energy of 1.27 MeV via the following reaction chain (<xref rid="F2" ref-type="fig">Fig. 2</xref>): <sup>22</sup>Na &#x02192; <sup>22</sup>Ne* + <italic toggle="yes">e</italic><sup>+</sup> + <italic toggle="yes">v</italic> &#x02192; <sup>22</sup>Ne + &#x003b3;(1.27 MeV) + <italic toggle="yes">e</italic><sup>+</sup> + &#x003bd;. The source was surrounded by tissues and closed in the aluminum holder that was placed in the tomography chamber. The positrons that were emitted from the source penetrated the tissue to a depth of about 1 mm (<xref rid="R45" ref-type="bibr"><italic toggle="yes">45</italic></xref>) and annihilated with the electrons from the molecules that constitute the cells (<xref rid="F2" ref-type="fig">Fig. 2</xref>). In about 40% of the cases, annihilation proceeds by formation of the positronium atoms, which are trapped in the intramolecular spaces (<xref rid="F1" ref-type="fig">Fig. 1</xref>) (<xref rid="R14" ref-type="bibr"><italic toggle="yes">14</italic></xref>). Seventy-five percent of the positronium atoms are produced as long-lived o-Ps. o-Ps has a lifetime that is very sensitive to the size of the voids and the concentration in them of molecules such as oxygen molecules (<xref rid="R19" ref-type="bibr"><italic toggle="yes">19</italic></xref>, <xref rid="R20" ref-type="bibr"><italic toggle="yes">20</italic></xref>). In the intramolecular voids of the tissue (as illustrated in the top left panel of <xref rid="F1" ref-type="fig">Fig. 1</xref>), the o-Ps annihilates about 70 times more often via the pickoff and conversion processes and then via self-annihilation. Therefore, as a result of the o-Ps annihilation in the tissue, the emission of two photons is about 70 times more likely than the emission of three photons (<xref rid="R37" ref-type="bibr"><italic toggle="yes">37</italic></xref>, <xref rid="R38" ref-type="bibr"><italic toggle="yes">38</italic></xref>, <xref rid="R46" ref-type="bibr"><italic toggle="yes">46</italic></xref>&#x02013;<xref rid="R48" ref-type="bibr"><italic toggle="yes">48</italic></xref>). Therefore, for the first demonstration of the positronium imaging, this study selected triple coincidence events corresponding to the registration of two annihilation photons and one prompt gamma. The time and position of the interaction of the annihilation photons in the plastic strips of the J-PET tomograph were used to reconstruct the position and time of the annihilation (<xref rid="F2" ref-type="fig">Figs. 2</xref> and <xref rid="F3" ref-type="fig">3</xref>). Meanwhile, the time and position of the interaction of the prompt gamma were used to reconstruct the emission time of the prompt gamma. Because of the short time of the positron thermalization [in the order of 10 ps (<xref rid="R49" ref-type="bibr"><italic toggle="yes">49</italic></xref>)] and a short time of <sup>22</sup>Ne deexcitation [on average, it is about 3 ps (<xref rid="R50" ref-type="bibr"><italic toggle="yes">50</italic></xref>)], the time of the prompt gamma emission is within tens of picoseconds equivalent to the time of the positron emission and the time of the positronium formation.</p><fig position="float" id="F2" fig-type="graphic" specific-use="distribute"><label>Fig. 2.</label><caption><title>Experiment workflow.</title><p>The <sup>22</sup>Na radionuclide emitting positron and prompt gamma is used as a source of positrons. They can annihilate with the electrons from the molecules of the cell. The annihilation photons and prompt gamma interact in the scintillator strips (blue rectangles) of the J-PET detector; this results in the production of signals that are sampled by the front-end electronics (<xref rid="R41" ref-type="bibr"><italic toggle="yes">41</italic></xref>), digitized, and collected by a data acquisition (DAQ) system (<xref rid="R43" ref-type="bibr"><italic toggle="yes">43</italic></xref>). A single event of interest comprises the information of the position and time (<italic toggle="yes">x<sub>i</sub></italic>, <italic toggle="yes">y<sub>i</sub></italic>, <italic toggle="yes">z<sub>i</sub></italic>, <italic toggle="yes">t<sub>i</sub></italic>) for each registered photon. The events, in which the detector registers two annihilation photons and one prompt gamma, are selected for further analysis. The reconstructed positions of the annihilation photons, (<italic toggle="yes">x</italic><sub>1</sub>,<italic toggle="yes">y</italic><sub>1</sub>,<italic toggle="yes">z</italic><sub>1</sub>) and (<italic toggle="yes">x</italic><sub>2</sub>,<italic toggle="yes">y</italic><sub>2</sub>,<italic toggle="yes">z</italic><sub>2</sub>), enable the reconstruction of the so-called line of response (LOR), indicated by the red dashed line, which comprises the point of annihilation (yellow circle). Analysis part of the experiment is given in <xref rid="F3" ref-type="fig">Fig. 3</xref>.</p></caption><graphic xlink:href="sciadv.abh4394-f2" position="float"/></fig><fig position="float" id="F3" fig-type="graphic" specific-use="distribute"><label>Fig. 3.</label><caption><title>Analysis of the experiment.</title><p>Experiment conducted as in <xref rid="F2" ref-type="fig">Fig. 2</xref> was analyzed by the following procedure. The distribution of the reconstructed positions of the annihilations constitutes the SUV image [a pictorial example of this image is shown in (<bold>left</bold>)]. The photons resulting from the deexcitation of the <sup>22</sup>Ne* can be used to calculate the positron annihilation lifetime (&#x00394;<italic toggle="yes">t</italic>) distribution for every voxel in the SUV image. The decomposition of the &#x00394;<italic toggle="yes">t</italic> distribution [an example distribution for cardiac myxoma tissue is shown in (<bold>middle</bold>)] allows us to distinguish components coming from the parapositronium (light green dashed line) and o-Ps (dark blue dashed line). It also distinguishes processes such as direct annihilation of the positron and the electron without producing positronium (direct; turquoise line) and from the annihilations in the source material (source; red dashed line). In addition, the signal from accidental coincidences is visible (background; violet line). The positronium image [shown pictorially in (<bold>right</bold>)] has each voxel filled with the value of the mean o-Ps lifetime, and it is obtained from the decomposition of the &#x00394;<italic toggle="yes">t</italic> distribution.</p></caption><graphic xlink:href="sciadv.abh4394-f3" position="float"/></fig></sec><sec disp-level="2"><title>Positronium imaging</title><p>The reconstructed density distribution of the position of the annihilation points (<xref rid="F1" ref-type="fig">Fig. 1</xref>) constitutes the image of the annihilation rate [an analog of the standard uptake value (SUV image)]. In the studied case, it reflects the geometrical configuration of the tissues in the tomographic chamber (four samples are set at the vertices of the square) and the activity of the applied <sup>22</sup>Na sources (for details, please see <xref rid="T1" ref-type="table">Table 1</xref>). For each voxel of the SUV image, a distribution of (&#x00394;<italic toggle="yes">t</italic>) the difference between the annihilation time and the time of the positron emission was determined. Each &#x00394;<italic toggle="yes">t</italic> distribution was fitted using the dedicated PALS Avalanche program (<xref rid="R51" ref-type="bibr"><italic toggle="yes">51</italic></xref>, <xref rid="R52" ref-type="bibr"><italic toggle="yes">52</italic></xref>) to determine the mean lifetime for the o-Ps on a voxel-by-voxel basis. An image for the mean lifetime of o-Ps is shown in <xref rid="F1" ref-type="fig">Fig. 1</xref>. It indicates that the mean lifetime of the o-Ps in cardiac myxoma is approximately 1.9 ns, and it differs significantly from the mean lifetime of the o-Ps in adipose tissues, which is approximately 2.6 ns.</p><table-wrap position="float" id="T1"><label>Table 1.</label><caption><title>Geometry and activity of the phantom.</title><p>The positions of the imaged samples and the activity of the applied <sup>22</sup>Na sources are listed in the second and third columns, respectively. The fourth column indicates number of events in a given spectrum fulfilling all the selection criteria described in the text. In total, out of about 10<sup>7</sup> collected three-hit events, only 232,357 events were used in the lifetime spectra shown in <xref rid="F5" ref-type="fig">Fig. 5</xref>. The activity of the source, which is normalized to the total number of counts, is given in the last column. It shows that the reconstructed intensity in the SUV image, shown in <xref rid="F1" ref-type="fig">Fig. 1</xref>, is in good agreement with the expectations that are based on the activity of the used <sup>22</sup>Na sources.</p></caption><table frame="hsides" rules="groups"><col width="%" span="1"/><col width="%" span="1"/><col width="%" span="1"/><col width="%" span="1"/><col width="%" span="1"/><thead><tr><td valign="middle" align="left" scope="col" rowspan="1" colspan="1">
+<bold>Sample</bold>
+</td><td valign="middle" align="center" scope="col" rowspan="1" colspan="1">
+<bold>Position <italic toggle="yes">X</italic>,</bold>
+<break/>
+<bold><italic toggle="yes">Y</italic>, and <italic toggle="yes">Z</italic></bold>
+<break/>
+<bold>(cm)</bold>
+</td><td valign="middle" align="center" scope="col" rowspan="1" colspan="1">
+<bold>Source</bold>
+<break/>
+<bold>activity</bold>
+<break/>
+<bold>(MBq)</bold>
+</td><td valign="middle" align="center" scope="col" rowspan="1" colspan="1">
+<bold>Total</bold>
+<break/>
+<bold>number of</bold>
+<break/>
+<bold>counts</bold>
+</td><td valign="middle" align="center" scope="col" rowspan="1" colspan="1">
+<bold>Intensity</bold>
+<break/>
+<bold>normalized</bold>
+<break/>
+<bold>to activity</bold>
+</td></tr></thead><tbody><tr><td valign="middle" align="left" scope="row" rowspan="1" colspan="1">Cardiac<break/>myxoma 1</td><td valign="middle" align="center" rowspan="1" colspan="1">&#x02212;8.1, 8.1, 0</td><td valign="middle" align="center" rowspan="1" colspan="1">0.345</td><td valign="middle" align="center" rowspan="1" colspan="1">65 636</td><td valign="middle" align="center" rowspan="1" colspan="1">0.988</td></tr><tr><td valign="middle" align="left" scope="row" rowspan="1" colspan="1">Cardiac<break/>myxoma 2</td><td valign="middle" align="center" rowspan="1" colspan="1">&#x02212;8.1, &#x02212;8.1, 0</td><td valign="middle" align="center" rowspan="1" colspan="1">0.238</td><td valign="middle" align="center" rowspan="1" colspan="1">45 493</td><td valign="middle" align="center" rowspan="1" colspan="1">0.993</td></tr><tr><td valign="middle" align="left" scope="row" rowspan="1" colspan="1">Adipose<break/>tissue 1</td><td valign="middle" align="center" rowspan="1" colspan="1">8.1, 8.1, 0</td><td valign="middle" align="center" rowspan="1" colspan="1">0.393</td><td valign="middle" align="center" rowspan="1" colspan="1">76 651</td><td valign="middle" align="center" rowspan="1" colspan="1">1.013</td></tr><tr><td valign="middle" align="left" scope="row" rowspan="1" colspan="1">Adipose<break/>tissue 2</td><td valign="middle" align="center" rowspan="1" colspan="1">8.1, &#x02212;8.1, 0</td><td valign="middle" align="center" rowspan="1" colspan="1">0.230</td><td valign="middle" align="center" rowspan="1" colspan="1">44 577</td><td valign="middle" align="center" rowspan="1" colspan="1">1.007</td></tr></tbody></table></table-wrap><p>The SUV and positronium images presented in <xref rid="F1" ref-type="fig">Fig. 1</xref> were reconstructed on the basis of the data that were collected with the J-PET tomograph (this is described in detail in Methods). The J-PET tomograph consists of 192 plastic scintillator strips (covered in a light-tight black foil that is visible in the photograph), and it is arranged into three concentric layers, as it is visualized by superimposed rings from the blue rectangles. Each scintillator is read out by the photomultipliers that are optically connected at the ends (<xref rid="R39" ref-type="bibr"><italic toggle="yes">39</italic></xref>). The signals from the photomultipliers are sampled in the voltage domain by the newly developed programmable electronics (<xref rid="R41" ref-type="bibr"><italic toggle="yes">41</italic></xref>). The data were collected with the continuous readout mode (<xref rid="R43" ref-type="bibr"><italic toggle="yes">43</italic></xref>), and the filtration of events was performed off-line with a specialized software program (<xref rid="R53" ref-type="bibr"><italic toggle="yes">53</italic></xref>).</p></sec></sec><sec sec-type="discussion" disp-level="1"><title>DISCUSSION</title><p>The mean o-Ps lifetime image shown in <xref rid="F1" ref-type="fig">Fig. 1</xref> corresponds to the first-ever positronium image. It was determined using the J-PET tomograph. By overcoming the limitations of the current PET systems, it demonstrates the possibility of simultaneously achieving PET SUV imaging and positronium imaging using the PET detectors. The presented results also demonstrate the potential of positronium imaging in enhancing the specificity in the PET diagnostics. Visible and significant differences between the o-Ps lifetime in cancer and healthy tissues are observed, as shown in the example of the cardiac myxoma and adipose tissues. The observed difference in the mean lifetime of o-Ps in cardiac myxoma and adipose tissue is equal to about 700 ps, while the differences due to the changes of the concentration of molecules are expected at the level of less than 10 ps as demonstrated for the case of oxygen molecules in the recent article [equation 9 in (<xref rid="R20" ref-type="bibr"><italic toggle="yes">20</italic></xref>)]. Thus, we may assume that the observed difference will also remain significant under the in vivo conditions, although the concentration of biomolecules differs between dead and alive cells. The comprehensive studies of these phenomena will have to be carried out to answer of how to interpret changes in the positronium image in individual organs or tissue types.</p><p>The time-of-flight resolution of the constructed J-PET prototype amounts to 460 ps [full width at half maximum (FWHM) for the coincidence resolving time (CRT)] and corresponds to the spatial resolution of 6.9 cm (FWHM) in the image. Therefore, for the first images that were presented in this article, we used a rather large voxel size of 2 cm by 2 cm by 2 cm. However, the continuous advancement of the time resolution for the PET scanners (<xref rid="R54" ref-type="bibr"><italic toggle="yes">54</italic></xref>&#x02013;<xref rid="R57" ref-type="bibr"><italic toggle="yes">57</italic></xref>) has promising perspectives to improve this resolution in the future. The best current clinical PET systems can achieve a time resolution of 210 ps (<xref rid="R58" ref-type="bibr"><italic toggle="yes">58</italic></xref>), and the laboratory systems reach the CRT in 30 ps (<xref rid="R59" ref-type="bibr"><italic toggle="yes">59</italic></xref>). This could result in a further improvement, even up to 10 ps (<xref rid="R54" ref-type="bibr"><italic toggle="yes">54</italic></xref>, <xref rid="R55" ref-type="bibr"><italic toggle="yes">55</italic></xref>, <xref rid="R57" ref-type="bibr"><italic toggle="yes">57</italic></xref>); thus, it could create positronium images with a spatial resolution of 0.15 cm. The sensitivity for the positronium imaging of the constructed J-PET demonstrator is only 0.0016%. However, the advent of the total body PET systems and, in particular, the J-PET total-body PET system (<xref rid="R1" ref-type="bibr"><italic toggle="yes">1</italic></xref>) can enhance the sensitivity for total body positronium imaging, such that it will be more than double in comparison to 2&#x003b3; PET imaging, corresponding to the current PET scanners that have a 20-cm axial field of view (<xref rid="R1" ref-type="bibr"><italic toggle="yes">1</italic></xref>). For the CRT of about 500 ps, as presently achieved by the uEXPLORER total-body PET, the point spread function of the positronium image would equal to 30 mm (radial) and 7 mm (axial) (<xref rid="R38" ref-type="bibr"><italic toggle="yes">38</italic></xref>).</p><p>Last, it is important to stress that the information that is comprised in the positronium images concerns the size of inter- and intramolecular voids and the concentration in them of molecules, e.g., oxygen molecules. Therefore, it is qualitatively different from the anatomical and morphological images that are obtained by computed tomography and magnetic resonance imaging. It is also qualitatively different from the metabolic rate images that are obtained with the current PET systems. Therefore, when using positron imaging in clinical practice, the specificity of PET diagnostics in disease assessment will increase. However, establishing the quantitative correlations between the positronium properties in the tissue and the type and degree of tissue pathology still requires further research (<xref rid="R1" ref-type="bibr"><italic toggle="yes">1</italic></xref>, <xref rid="R14" ref-type="bibr"><italic toggle="yes">14</italic></xref>).</p><p>The method can be also applied to the regular PET system based on crystal scintillators. Note that crystal-based PET systems with an axial field of view of 60 cm may achieve sensitivity for positronium imaging comparable to the standard 2&#x003b3; PET imaging with 20-cm-long PET scanners (<xref rid="R1" ref-type="bibr"><italic toggle="yes">1</italic></xref>). New commercial tomographs offered [and already installed in clinics, e.g., by Siemens (<xref rid="R60" ref-type="bibr"><italic toggle="yes">60</italic></xref>) or United Imaging companies (<xref rid="R61" ref-type="bibr"><italic toggle="yes">61</italic></xref>)] had an axial field of view longer than 100 cm.</p></sec><sec sec-type="methods" disp-level="1"><title>METHODS</title><sec disp-level="2"><title>Source of positrons</title><p>A <sup>22</sup>Na radionuclide was used as a positron source. <sup>22</sup>Na undergoes &#x003b2;<sup>+</sup> decay by emitting an electron neutrino (<italic toggle="yes">&#x003bd;<sub>e</sub></italic>) and a positron (<italic toggle="yes">e</italic><sup>+</sup>), which can annihilate with an electron (<italic toggle="yes">e</italic><sup>&#x02212;</sup>) that comes from the cell (<xref rid="F2" ref-type="fig">Fig. 2</xref>, yellow), thus resulting in the emission of two photons with an energy of 511 keV that are emitted in the opposite directions. After the &#x003b2;<sup>+</sup> emission, <sup>22</sup>Na is transformed to the excited state of the <sup>22</sup>Ne* isotope, which then deexcitates with the emission of a prompt gamma ray with an energy of 1275 keV. The emitted photons can be registered by the J-PET detector when they deposit the energy in scintillators (blue rectangles in <xref rid="F2" ref-type="fig">Fig. 2</xref>) through the Compton effect.</p></sec><sec disp-level="2"><title>Preparation of the samples and the setup</title><p>The samples of the cardiac myxoma and adipose tissue were extracted from two patients from the John Paul II Hospital in Krak&#x000f3;w (bioethical consent number 1072.6120.123.2017). After transportation to the Faculty of Physics, Astronomy, and Applied Computer Science of the Jagiellonian University, the samples were fixed in 10% formalin. Every fixed sample was cut into two pieces to cover the <sup>22</sup>Na source from both sides, as shown in <xref rid="F1" ref-type="fig">Fig. 1</xref>. The samples with radioactive sources were inserted into plastic chambers and placed on a Kapton scaffolding in the J-PET detector, equidistant from the center, as shown in <xref rid="F1" ref-type="fig">Fig. 1</xref>. The activities of the applied <sup>22</sup>Na sources are listed in <xref rid="T1" ref-type="table">Table 1</xref>.</p></sec><sec disp-level="2"><title>J-PET detector</title><p>The J-PET detector photograph is shown in <xref rid="F1" ref-type="fig">Fig. 1</xref>, and transversal cross section is shown schematically in <xref rid="F2" ref-type="fig">Fig. 2</xref>. It is constructed using 192 plastic scintillator strips that are arranged in three cylindrical and concentric layers. These include the first layer, which has 48 scintillators and is 42.5 cm away from the center; the second layer, which has 48 scintillators and is 46.75 cm away from the center; and the third layer, which has 96 scintillators and is 57.5 cm away from the center. EJ-230 plastic scintillators with dimensions of 7 mm by 19 mm by 500 mm are used as an active part of the detector (Eljen Technology, <ext-link xlink:href="https://eljentechnology.com/" ext-link-type="uri">https://eljentechnology.com/</ext-link>). Both ends of the long axis of the scintillator were connected to the vacuum photomultipliers, which form a single detection module (<xref rid="R35" ref-type="bibr"><italic toggle="yes">35</italic></xref>, <xref rid="R39" ref-type="bibr"><italic toggle="yes">39</italic></xref>, <xref rid="R42" ref-type="bibr"><italic toggle="yes">42</italic></xref>). The light that is generated in the scintillators is converted to electric signals using the Hamamatsu R9800 vacuum photomultipliers (Hamamatsu, <ext-link xlink:href="https://www.hamamatsu.com/us/en/index.html" ext-link-type="uri">https://www.hamamatsu.com/us/en/index.html</ext-link>). The electric signals from the photomultipliers are probed at four thresholds using dedicated front-end electronics (<xref rid="R42" ref-type="bibr"><italic toggle="yes">42</italic></xref>) and converted to the binary data by the novel trigger-less data acquisition (DAQ) system (<xref rid="R43" ref-type="bibr"><italic toggle="yes">43</italic></xref>).</p></sec><sec disp-level="2"><title>Framework and analysis procedure</title><p>The data collected using the J-PET detector were analyzed using a specialized software program called the J-PET Framework (<xref rid="R53" ref-type="bibr"><italic toggle="yes">53</italic></xref>), which is based on the C++ architecture. The analysis was performed in several steps: reconstructing the signals, reconstructing the hits, creating events, and the final event-by-event analysis. The DAQ system collects the times when the electric signal produced in the photomultiplier crosses the system thresholds. The signal is reconstructed when it passes one or more thresholds in a given time window (23 ns) for a given photomultiplier. A hit is generated from a pair of signals that come from two different photomultipliers connected to the same scintillator in a time window of 5 ns. Last, an event is a set of hits that are registered within a time window of 200 ns. A distribution of the hit multiplicity during an event is shown in <xref rid="F4" ref-type="fig">Fig. 4A</xref>.</p><fig position="float" id="F4" fig-type="image" specific-use="distribute"><label>Fig. 4.</label><caption><title>Event selection procedure.</title><p>The top left panel (<bold>A</bold>) represents the distribution of the multiplicity of the hits. In this analysis, only the events with three hits (signals registered in three scintillator strips) were taken into account. The top middle panel (<bold>B</bold>) describes the signal sampling method. The dots represent the crossing of signals with the preset voltage threshold. Each dot corresponds to the measurement of the time (time stamp) that is digitized and collected by the electronic readouts and DAQ system. The area of the signal is approximated by the weighted mean of the TOT values. In the analysis, as the TOT characterizes the energy loss (<xref rid="R62" ref-type="bibr"><italic toggle="yes">62</italic></xref>), the sum of the TOT values measured at both sides (side A and B) of the scintillator strip is used. The top right panel (<bold>C</bold>) represents the TOT distribution. The Compton edges for 511- and 1275-keV photons are visible at 18 and 33 ns, respectively. The red and gray regions indicate the TOT range used for the identification of the annihilation and prompt photons, respectively. (<bold>D</bold> and <bold>E</bold>) The example of possible background events where one of the annihilation photons was not registered; instead, another annihilation photon (D) (dashed red arrow) or a prompt photon (E) (solid black arrow) was scattered twice. The bottom left panel (<bold>F</bold>) shows the distribution of &#x003b4;<italic toggle="yes">t<sub>ij</sub></italic> for a given pair of hits (<italic toggle="yes">i</italic>,<italic toggle="yes">j</italic>). The events corresponding to the scatterings in the detector are suppressed by the selection of the &#x003b4;<italic toggle="yes">t</italic> values in the range indicated in red.</p></caption><graphic xlink:href="sciadv.abh4394-f4" position="float"/></fig><p>When reconstructing the positronium image, the signals from two annihilation photons and a prompt photon are required. Therefore, in this analysis, only events with three registered hits were taken into account. The origin of the hits was chosen on the basis of the time-over-threshold (TOT) value, which is an estimate of the deposited energy in a scintillator (<xref rid="R62" ref-type="bibr"><italic toggle="yes">62</italic></xref>). The TOT value was calculated as the weighted mean of the widths of the signals for four different thresholds, in which the weights were selected on the basis of the difference between two consecutive thresholds as shown in <xref rid="F4" ref-type="fig">Fig. 4B</xref>. The TOT distribution can be seen in <xref rid="F4" ref-type="fig">Fig. 4C</xref>. The red area indicates the energy deposition that is close to the Compton edge that corresponds to the 511-keV photon that comes from the positron-electron annihilation, and the black area represents 1275-keV photons from the deexcitation of the source. For the selected events that contain two annihilation hits, the geometry condition is checked (the angle between two annihilation hits), so that the annihilation potentially occurs from the interior of the J-PET detector. All the potential scatterings between the neighboring scintillators were suppressed by the additional geometrical condition in which the angle between the prompt gamma and the annihilation photon hit positions is larger than 15&#x000b0;. In general, the events are filtered to suppress the scatterings and other sources of the background by applying the interaction time, energy deposition, and geometrical relations between the positions of the interactions. The main source of background is formed because of the misidentification of the signals from the photons scattered in the detector as signals from the annihilation photons. An example of the background events is presented in <xref rid="F4" ref-type="fig">Fig. 4 (D and E)</xref>. This background is suppressed by testing whether the difference between the times of the two hits is equal to the time required by light to travel the distance between these hit positions. The distribution of this defined test parameter &#x003b4;<italic toggle="yes">t</italic> is shown in <xref rid="F4" ref-type="fig">Fig. 4F</xref>. If the hits correspond to the scattered photon, then the value of &#x003b4;<italic toggle="yes">t</italic> is close to zero. Therefore, the events with &#x003b4;<italic toggle="yes">t</italic> &#x0003e; &#x02212;1 ns are rejected.</p><p>From the selected events, the annihilation position is reconstructed, and the SUV image is created. For each voxel in the SUV image, the positron annihilation lifetime distribution is determined, in which the mean o-Ps lifetime is extracted by the PALS Avalanche software program (<xref rid="R51" ref-type="bibr"><italic toggle="yes">51</italic></xref>, <xref rid="R52" ref-type="bibr"><italic toggle="yes">52</italic></xref>). As an example, four positron annihilation lifetime spectra from four areas that correspond to the four different samples are shown in <xref rid="F5" ref-type="fig">Fig. 5</xref>.</p><fig position="float" id="F5" fig-type="image" specific-use="distribute"><label>Fig. 5.</label><caption><title>Positron annihilation lifetime spectra.</title><p>The middle panel shows the SUV image (as in <xref rid="F1" ref-type="fig">Fig. 1</xref>) in the range from &#x02212;30 to 30 cm. On the left and right sides of the SUV image, the exemplary positron lifetime spectra (&#x00394;<italic toggle="yes">t</italic>) are shown for the regions that are marked as blue and yellow circles. The positron annihilation components were estimated by fitting these spectra with the PALS Avalanche software program (<xref rid="R51" ref-type="bibr"><italic toggle="yes">51</italic></xref>, <xref rid="R52" ref-type="bibr"><italic toggle="yes">52</italic></xref>), which is dedicated for the J-PET detector. The exponential tail is similar for the samples on the right (o-Ps crossing background line near 12 ns) and on the left (o-Ps crossing the background line near 10 ns) separately. The model function is given by Fit(&#x00394;<italic toggle="yes">t</italic>), which is a convolution of the exponential and Gaussian functions. Fits are in a very good agreement with the data confirmed by the values of the resulting adjusted <italic toggle="yes">R</italic><sup>2</sup> = 0.999 for all of the fits and reduced &#x003c7;<sup>2</sup> values: (top left) 0.999, (bottom left) 1.067, (top right) 1.039, and (bottom right) 1.253. The resulting fitted parameters of each component for each sample are shown in <xref rid="T2" ref-type="table">Table 2</xref>. The amplitudes of the individual components for the same type of the samples (myxoma or adipose) differ by only 7% relative value. The mean o-Ps lifetimes for the cardiac myxoma samples are equal to (top left) 1.950 (19) ns and (bottom left) 1.874 (20) ns with an intensity of (top left) 21.39 (47)% and (bottom left) 23.27 (45)%. For the adipose tissue, the mean o-Ps lifetimes are equal to (top right) 2.645 (27) ns and (bottom right) 2.581 (30) ns with an intensity of (top right) 21.49 (41)% and (bottom right) 21.56 (54)%.</p></caption><graphic xlink:href="sciadv.abh4394-f5" position="float"/></fig></sec><sec disp-level="2"><title>PALS Avalanche</title><p>A dedicated software program for the positron lifetime analysis (<xref rid="R51" ref-type="bibr"><italic toggle="yes">51</italic></xref>, <xref rid="R52" ref-type="bibr"><italic toggle="yes">52</italic></xref>) that is compatible with the J-PET Framework software program allows the positron lifetime spectrum to be decomposed into different components. This software was written in C++, and it is based on the ROOT libraries (<xref rid="R63" ref-type="bibr"><italic toggle="yes">63</italic></xref>). The PALS Avalanche software program enables the fitting of the multiexponential distribution, which is smeared with a linear combination of the Gaussians [Fit(&#x00394;<italic toggle="yes">t</italic>) formula given in <xref rid="F4" ref-type="fig">Fig. 4</xref>]. The decomposition leads to the extraction of the mean o-Ps lifetime in a given voxel. The influence of the Kapton foil that covers each source was estimated as the 10% intense component with a mean lifetime of 0.374 ns. The parapositronium mean lifetime was fixed to a value of 0.125 ns. Since the only parameter of interest was the mean lifetime of o-Ps, it can yield more stable results of the fitting. The resolution function was estimated as a single Gaussian with a &#x003c3; value of 0.266 ns, which corresponds to a time resolution for a single measured time of 0.154 ns. The resulting parameters of each component are shown in <xref rid="T2" ref-type="table">Table 2</xref>.</p><table-wrap position="float" id="T2"><label>Table 2.</label><caption><title>Results from fitting PAL spectra for each sample position shown in <xref rid="F5" ref-type="fig">Fig. 5</xref>.</title><p>Parapositronium and direct annihilation mean lifetimes were fixed to values of 0.125 and 0.388 ns, respectively. This resulted in more stable results for fitting the mean lifetime of o-Ps, the only parameter of interest. o-Ps mean lifetime was higher for adipose tissue for both samples. Parapositronium and direct annihilation intensities were in agreement for the same type of the sample, cardiac myxoma or adipose tissue. Values of the o-Ps mean lifetime was very close for a given type of the sample. Fitted models were in good agreement with the data indicated by adjusted <italic toggle="yes">R</italic><sup>2</sup> and reduced &#x003c7;<sup>2</sup> values close to 1.</p></caption><table frame="hsides" rules="groups"><col width="%" span="1"/><col width="%" span="1"/><col width="%" span="1"/><col width="%" span="1"/><col width="%" span="1"/><thead><tr><td valign="top" align="left" scope="col" rowspan="1" colspan="1">
+<bold>Parameter name</bold>
+</td><td valign="top" align="center" scope="col" rowspan="1" colspan="1">
+<bold>Cardiac myxoma 1</bold>
+</td><td valign="top" align="center" scope="col" rowspan="1" colspan="1">
+<bold>Cardiac myxoma 2</bold>
+</td><td valign="top" align="center" scope="col" rowspan="1" colspan="1">
+<bold>Adipose tissue 1</bold>
+</td><td valign="top" align="center" scope="col" rowspan="1" colspan="1">
+<bold>Adipose tissue 2</bold>
+</td></tr></thead><tbody><tr><td valign="middle" align="left" scope="row" rowspan="1" colspan="1">Parapositronium mean<break/>lifetime (ns)</td><td colspan="4" valign="middle" align="center" rowspan="1">0.125 (fixed)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Parapositronium intensity (%)</td><td valign="top" align="center" rowspan="1" colspan="1">13.26 (18)</td><td valign="top" align="center" rowspan="1" colspan="1">12.21 (21)</td><td valign="top" align="center" rowspan="1" colspan="1">17.18 (16)</td><td valign="top" align="center" rowspan="1" colspan="1">17.14 (20)</td></tr><tr><td valign="middle" align="left" scope="row" rowspan="1" colspan="1">Direct annihilation mean<break/>lifetime (ns)</td><td colspan="4" align="center" valign="middle" rowspan="1">0.388 (fixed)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Direct annihilation intensity (%)</td><td valign="top" align="center" rowspan="1" colspan="1">65.35 (22)</td><td valign="top" align="center" rowspan="1" colspan="1">64.52 (27)</td><td valign="top" align="center" rowspan="1" colspan="1">61.34 (20)</td><td valign="top" align="center" rowspan="1" colspan="1">61.31 (23)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">o-Ps mean lifetime (ns)</td><td valign="top" align="center" rowspan="1" colspan="1">1.950 (19)</td><td valign="top" align="center" rowspan="1" colspan="1">1.874 (20)</td><td valign="top" align="center" rowspan="1" colspan="1">2.645 (27)</td><td valign="top" align="center" rowspan="1" colspan="1">2.581 (30)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">o-Ps intensity (%)</td><td valign="top" align="center" rowspan="1" colspan="1">21.39 (47)</td><td valign="top" align="center" rowspan="1" colspan="1">23.27 (45)</td><td valign="top" align="center" rowspan="1" colspan="1">21.49 (41)</td><td valign="top" align="center" rowspan="1" colspan="1">21.56 (54)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Adjusted <italic toggle="yes">R</italic><sup>2</sup></td><td valign="top" align="center" rowspan="1" colspan="1">0.999</td><td valign="top" align="center" rowspan="1" colspan="1">0.999</td><td valign="top" align="center" rowspan="1" colspan="1">0.999</td><td valign="top" align="center" rowspan="1" colspan="1">0.999</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Reduced &#x003c7;<sup>2</sup></td><td valign="top" align="center" rowspan="1" colspan="1">0.999</td><td valign="top" align="center" rowspan="1" colspan="1">1.067</td><td valign="top" align="center" rowspan="1" colspan="1">1.039</td><td valign="top" align="center" rowspan="1" colspan="1">1.253</td></tr></tbody></table></table-wrap></sec></sec></body><back><ack><title>Acknowledgments</title><p>We would like to acknowledge the technical and administrative support from A. Heczko, M. Kajetanowicz, and W. Migda&#x00142;. We are thankful to B. Jasi&#x00144;ska and M. Gorgol for support in preparing the radioactive sources.</p><sec><p><bold>Funding:</bold> This work was supported by the Polish National Center for Research and Development through grant INNOTECH-K1/IN1/64/159174/NCBR/12, the Foundation for Polish Science through the MPD and TEAM/2017-4/39 programs, the National Science Centre of Poland through grant nos. 2017/25/N/NZ1/00861 and 2019/35/B/ST2/03562, the Ministry for Science and Higher Education through grants nos. 6673/IA/SP/2016 and 7150/E-338/SPUB/2017/1, the Jagiellonian University via project CRP/0641.221.2020, the Austrian Science Fund FWF-P26783, and the SciMat Priority Research Area budget under the program Excellence Initiative-Research University at Jagiellonian University.</p></sec><sec><p><bold>Author contributions:</bold> Conception and design of the investigations, supervision, funding acquisition, interpretation, and guiding the data analysis: P.Mo. Writing&#x02014;review and editing: P.Mo. and K.D. Concept and elaboration of the PALS Avalanche software program and data analysis: K.D. Concept and guiding the medical research and supervision of the medical protocols: E.&#x00141;.S. Recruitment and operation of the patients: G.G. Sample preparations: E.K., K.D., E.&#x00141;.S., H.K., and M.D. Elaboration of the Framework software and image reconstruction algorithms: W.K., A.G., K.Ka., S.S., K.D., N.K., K.Kl., P.K., L.R., R.Y.S., and W.W. Programming and commissioning of the DAQ system: G.K. Elaboration of the calibration methods and calibration of the J-PET detector: S.N., K.D., M.Si., and M.Sk. Data collection: E.C., E.K., N.C., and F.T. Building, commissioning, testing all 192 detection units, constructing, taking into operation, and determining the performance characteristics of the full detector system: P.Mo., K.D., N.C., C.C., E.C., M.D., A.G., G.G., J.G., B.C.H., K.Ka., &#x00141;.K., H.K., K.Kl., G.K., P.K., T.K., N.K., W.K., E.K., P.Ma., S.N., M.P.-N., M.P., A.R., L.R., J.R., S.S., S., R.Y.S., M.Si., M.Sk., E.&#x00141;.S., M.Sz., F.T., and W.W. All authors took part in the discussions and interpretation of the data, and they read, corrected, and approved the final manuscript.</p></sec><sec><p><bold>Competing interests:</bold> P.Mo. is an inventor on a patent related to this work [patent nos.: (Poland) PL 227658, (Europe) EP 3039453, and (United States) US 9,851,456], filed (Poland) 30 August 2013, (Europe) 29 August 2014, and (United States) 29 August 2014; published (Poland) 23 January 2018, (Europe) 29 April 2020, and (United States) 26 December 2017. The authors declare that they have no other competing interests.</p></sec><sec><p><bold>Data and materials availability:</bold> All data needed to evaluate the conclusions in the paper are present in the paper.</p></sec></ack><ref-list><title>REFERENCES AND NOTES</title><ref id="R1"><label>1</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>P.</given-names>
+<surname>Moskal</surname></string-name>, <string-name><given-names>E. &#x00141;.</given-names>
+<surname>St&#x00119;pie&#x00144;</surname></string-name></person-group>, 
+<article-title>Prospects and clinical perspectives of total-body PET imaging using plastic scintillators</article-title>. <source>PET Clin.</source>
+<volume>15</volume>, 
+<fpage>439</fpage>&#x02013;<lpage>452</lpage> (<year>2020</year>).<pub-id pub-id-type="pmid">32739047</pub-id>
+</mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>J. P.</given-names>
+<surname>Schmall</surname></string-name>, <string-name><given-names>J. S.</given-names>
+<surname>Karp</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Alavi</surname></string-name></person-group>, 
+<article-title>The potential role of total body pet imaging in assessment of atherosclerosis</article-title>. <source>PET Clin.</source>
+<volume>14</volume>, 
+<fpage>245</fpage>&#x02013;<lpage>250</lpage> (<year>2019</year>).<pub-id pub-id-type="pmid">30826022</pub-id>
+</mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>M. L.</given-names>
+<surname>McKenney-Drake</surname></string-name>, <string-name><given-names>M. C.</given-names>
+<surname>Moghbel</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Paydary</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Alloosh</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Houshmand</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Moe</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Salavati</surname></string-name>, <string-name><given-names>J. M.</given-names>
+<surname>Sturek</surname></string-name>, <string-name><given-names>P. R.</given-names>
+<surname>Territo</surname></string-name>, <string-name><given-names>C.</given-names>
+<surname>Weaver</surname></string-name>, <string-name><given-names>T. J.</given-names>
+<surname>Werner</surname></string-name>, <string-name><given-names>P. M.</given-names>
+<surname>H&#x000f8;ilund-Carlsen</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Sturek</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Alavi</surname></string-name></person-group>, 
+<article-title>18 f-naf and 18 f-fdg as molecular probes in the evaluation of atherosclerosis</article-title>. <source>Eur. J. Nucl. Med. Mol. Imaging</source>
+<volume>45</volume>, 
+<fpage>2190</fpage>&#x02013;<lpage>2200</lpage> (<year>2018</year>).<pub-id pub-id-type="pmid">29978245</pub-id>
+</mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>R. D.</given-names>
+<surname>Badawi</surname></string-name>, <string-name><given-names>H.</given-names>
+<surname>Shi</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Hu</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Chen</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Xu</surname></string-name>, <string-name><given-names>P. M.</given-names>
+<surname>Price</surname></string-name>, <string-name><given-names>Y.</given-names>
+<surname>Ding</surname></string-name>, <string-name><given-names>B. A.</given-names>
+<surname>Spencer</surname></string-name>, <string-name><given-names>L.</given-names>
+<surname>Nardo</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Liu</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Bao</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Jones</surname></string-name>, <string-name><given-names>H.</given-names>
+<surname>Li</surname></string-name>, <string-name><given-names>S. R.</given-names>
+<surname>Cherry</surname></string-name></person-group>, 
+<article-title>First human imaging studies with the EXPLORER total-body PET scanner</article-title>. <source>J. Nucl. Med.</source>
+<volume>60</volume>, 
+<fpage>299</fpage>&#x02013;<lpage>303</lpage> (<year>2019</year>).<pub-id pub-id-type="pmid">30733314</pub-id>
+</mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>J. S.</given-names>
+<surname>Karp</surname></string-name>, <string-name><given-names>V.</given-names>
+<surname>Viswanath</surname></string-name>, <string-name><given-names>M. J.</given-names>
+<surname>Geagan</surname></string-name>, <string-name><given-names>G.</given-names>
+<surname>Muehllehner</surname></string-name>, <string-name><given-names>A. R.</given-names>
+<surname>Pantel</surname></string-name>, <string-name><given-names>M. J.</given-names>
+<surname>Parma</surname></string-name>, <string-name><given-names>A. E.</given-names>
+<surname>Perkins</surname></string-name>, <string-name><given-names>J. P.</given-names>
+<surname>Schmall</surname></string-name>, <string-name><given-names>M. E.</given-names>
+<surname>Werner</surname></string-name>, <string-name><given-names>M. E.</given-names>
+<surname>Daube-Witherspoon</surname></string-name></person-group>, 
+<article-title>PennPET explorer: Design and preliminary performance of a whole-body imager</article-title>. <source>J. Nucl. Med.</source>
+<volume>61</volume>, 
+<fpage>136</fpage>&#x02013;<lpage>143</lpage> (<year>2020</year>).<pub-id pub-id-type="pmid">31227573</pub-id>
+</mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>S. R.</given-names>
+<surname>Cherry</surname></string-name>, <string-name><given-names>R. D.</given-names>
+<surname>Badawi</surname></string-name>, <string-name><given-names>J. S.</given-names>
+<surname>Karp</surname></string-name>, <string-name><given-names>W. M.</given-names>
+<surname>Moses</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Price</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Jones</surname></string-name></person-group>, 
+<article-title>Total-body imaging: Transforming the role of positron emission tomography</article-title>. <source>Sci. Transl. Med.</source>
+<volume>9</volume>, 
+<fpage>eaaf6169</fpage> (<year>2017</year>).<pub-id pub-id-type="pmid">28298419</pub-id>
+</mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>B. A.</given-names>
+<surname>Spencer</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Berg</surname></string-name>, <string-name><given-names>J. P.</given-names>
+<surname>Schmall</surname></string-name>, <string-name><given-names>N.</given-names>
+<surname>Omidvari</surname></string-name>, <string-name><given-names>E. K.</given-names>
+<surname>Leung</surname></string-name>, <string-name><given-names>Y. G.</given-names>
+<surname>Abdelhafez</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Tang</surname></string-name>, <string-name><given-names>Z.</given-names>
+<surname>Deng</surname></string-name>, <string-name><given-names>Y.</given-names>
+<surname>Dong</surname></string-name>, <string-name><given-names>Y.</given-names>
+<surname>Lv</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Bao</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Liu</surname></string-name>, <string-name><given-names>H.</given-names>
+<surname>Li</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Jones</surname></string-name>, <string-name><given-names>R. D.</given-names>
+<surname>Badawi</surname></string-name>, <string-name><given-names>S. R.</given-names>
+<surname>Cherry</surname></string-name></person-group>, 
+<article-title>Performance evaluation of the uEXPLORER Total-body PET/CT scanner based on NEMA NU 2-2018 with additional tests to characterize long axial field-of-view PET scanners</article-title>. <source>J. Nucl. Med.</source>
+<volume>61</volume>, 
+<fpage>505</fpage>&#x02013;<lpage>511</lpage> (<year>2020</year>).<pub-id pub-id-type="pmid">31519802</pub-id>
+</mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>S.</given-names>
+<surname>Majewski</surname></string-name></person-group>, 
+<article-title>Imaging is believing: The future of human total body molecular imaging starts now</article-title>. <source>IL NUOVO CIMENTO</source>
+<volume>43 C</volume>, 
+<fpage>8</fpage> (<year>2020</year>).</mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>S.</given-names>
+<surname>Akers</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Alavi</surname></string-name>, <string-name><given-names>G.</given-names>
+<surname>Cheng</surname></string-name></person-group>, 
+<article-title>Normal tissue FDG uptake in patients with compromised renal function</article-title>. <source>J. Nucl. Med.</source>
+<volume>55</volume>, 
+<fpage>1633</fpage> (<year>2014</year>).</mixed-citation></ref><ref id="R10"><label>10</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>X.</given-names>
+<surname>Zhang</surname></string-name>, <string-name><given-names>Z.</given-names>
+<surname>Xie</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Berg</surname></string-name>, <string-name><given-names>M. S.</given-names>
+<surname>Judenhofer</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Liu</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Xu</surname></string-name>, <string-name><given-names>Y.</given-names>
+<surname>Ding</surname></string-name>, <string-name><given-names>Y.</given-names>
+<surname>Lv</surname></string-name>, <string-name><given-names>Y.</given-names>
+<surname>Dong</surname></string-name>, <string-name><given-names>Z.</given-names>
+<surname>Deng</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Tang</surname></string-name>, <string-name><given-names>H.</given-names>
+<surname>Shi</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Hu</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Chen</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Bao</surname></string-name>, <string-name><given-names>H.</given-names>
+<surname>Li</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Zhou</surname></string-name>, <string-name><given-names>G.</given-names>
+<surname>Wang</surname></string-name>, <string-name><given-names>S. R.</given-names>
+<surname>Cherry</surname></string-name>, <string-name><given-names>R. D.</given-names>
+<surname>Badawi</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Qi</surname></string-name></person-group>, 
+<article-title>Total-body dynamic reconstruction and parametric imaging on the uEXPLORER</article-title>. <source>J. Nucl. Med.</source>
+<volume>61</volume>, 
+<fpage>285</fpage>&#x02013;<lpage>291</lpage> (<year>2020</year>).<pub-id pub-id-type="pmid">31302637</pub-id>
+</mixed-citation></ref><ref id="R11"><label>11</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>X.</given-names>
+<surname>Zhang</surname></string-name>, <string-name><given-names>Z.</given-names>
+<surname>Xie</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Berg</surname></string-name>, <string-name><given-names>M. S.</given-names>
+<surname>Judenhofer</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Liu</surname></string-name>, <string-name><given-names>Y.</given-names>
+<surname>Lv</surname></string-name>, <string-name><given-names>Y.</given-names>
+<surname>Ding</surname></string-name>, <string-name><given-names>X.</given-names>
+<surname>Lv</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Xu</surname></string-name>, <string-name><given-names>Y.</given-names>
+<surname>Dong</surname></string-name>, <string-name><given-names>H.</given-names>
+<surname>Shi</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Chen</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Hu</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Bao</surname></string-name>, <string-name><given-names>H.</given-names>
+<surname>Li</surname></string-name>, <string-name><given-names>S. R.</given-names>
+<surname>Cherry</surname></string-name>, <string-name><given-names>R. D.</given-names>
+<surname>Badawi</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Qi</surname></string-name></person-group>, 
+<article-title>Total-body parametric imaging using kernel and direct reconstruction on the uEXPLORER</article-title>. <source>J. Nucl. Med.</source>
+<volume>60</volume>, 
+<fpage>456</fpage> (<year>2019</year>).</mixed-citation></ref><ref id="R12"><label>12</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>S.</given-names>
+<surname>Vandenberghe</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Moskal</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Karp</surname></string-name></person-group>, 
+<article-title>State of the art in total body PET</article-title>. <source>EJNMMI Phys.</source>
+<volume>7</volume>, 
+<fpage>35</fpage> (<year>2020</year>).<pub-id pub-id-type="pmid">32451783</pub-id>
+</mixed-citation></ref><ref id="R13"><label>13</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>Z.</given-names>
+<surname>Deng</surname></string-name>, <string-name><given-names>D.</given-names>
+<surname>Hu</surname></string-name>, <string-name><given-names>Y.</given-names>
+<surname>Ding</surname></string-name>, <string-name><given-names>Y.</given-names>
+<surname>Dong</surname></string-name></person-group>, 
+<article-title>A comparison of image quality with uMI780 and the first total-body uEXPLORER scanner</article-title>. <source>J. Nucl. Med.</source>
+<volume>60</volume>, 
+<fpage>381</fpage> (<year>2019</year>).</mixed-citation></ref><ref id="R14"><label>14</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>P.</given-names>
+<surname>Moskal</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>Jasi&#x00144;ska</surname></string-name>, <string-name><given-names>E. &#x00141;.</given-names>
+<surname>St&#x00119;pie&#x00144;</surname></string-name>, <string-name><given-names>S. D.</given-names>
+<surname>Bass</surname></string-name></person-group>, 
+<article-title>Positronium in medicine and biology</article-title>. <source>Nat. Rev. Phys.</source>
+<volume>1</volume>, 
+<fpage>527</fpage>&#x02013;<lpage>529</lpage> (<year>2019</year>).</mixed-citation></ref><ref id="R15"><label>15</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>M. D.</given-names>
+<surname>Harpen</surname></string-name></person-group>, 
+<article-title>Positronium: Review of symmetry, conserved quantities and decay for the radiological physicist</article-title>. <source>Med. Phys.</source>
+<volume>31</volume>, 
+<fpage>57</fpage>&#x02013;<lpage>61</lpage> (<year>2004</year>).<pub-id pub-id-type="pmid">14761021</pub-id>
+</mixed-citation></ref><ref id="R16"><label>16</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>B.</given-names>
+<surname>Jasi&#x00144;ska</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>Zgardzi&#x00144;ska</surname></string-name>, <string-name><given-names>G.</given-names>
+<surname>Cho&#x00142;ubek</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Gorgol</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Wiktor</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Wysogld</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Bia&#x00142;as</surname></string-name>, <string-name><given-names>C.</given-names>
+<surname>Curceanu</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Czerwi&#x00144;ski</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Dulski</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Gajos</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>G&#x00142;owacz</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>Hiesmayr</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>Jod&#x00142;owska-J&#x00119;drych</surname></string-name>, <string-name><given-names>D.</given-names>
+<surname>Kami&#x00144;ska</surname></string-name>, <string-name><given-names>G.</given-names>
+<surname>Korcyl</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Kowalski</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Kozik</surname></string-name>, <string-name><given-names>N.</given-names>
+<surname>Krawczyk</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Krzemie&#x00144;</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Kubicz</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Mohammed</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Pawlik-Nied&#x0017a;wiecka</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Nied&#x0017a;wiecki</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Pa&#x00142;ka</surname></string-name>, <string-name><given-names>L.</given-names>
+<surname>Raczy&#x00144;ski</surname></string-name>, <string-name><given-names>Z.</given-names>
+<surname>Rudy</surname></string-name>, <string-name><given-names>N. G.</given-names>
+<surname>Sharma</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Sharma</surname></string-name>, <string-name><given-names>R.</given-names>
+<surname>Shopa</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Silarski</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Skurzok</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Wieczorek</surname></string-name>, <string-name><given-names>H.</given-names>
+<surname>Wiktor</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Wi&#x0015b;licki</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Zieli&#x00144;ski</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Moskal</surname></string-name></person-group>, 
+<article-title>Human tissues investigation using PALS technique</article-title>. <source>Acta Phys. Pol. B</source>
+<volume>48</volume>, 
+<fpage>1737</fpage>&#x02013;<lpage>1747</lpage> (<year>2017</year>).</mixed-citation></ref><ref id="R17"><label>17</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>D. B.</given-names>
+<surname>Cassidy</surname></string-name></person-group>, 
+<article-title>Experimental progress in positronium laser physics</article-title>. <source>Eur. Phys. J. D</source>
+<volume>72</volume>, 
+<fpage>53</fpage> (<year>2018</year>).</mixed-citation></ref><ref id="R18"><label>18</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>H.</given-names>
+<surname>Chen</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Van Horn</surname></string-name>, <string-name><given-names>Y.</given-names>
+<surname>Ching Jean</surname></string-name></person-group>, 
+<article-title>Applications of positron annihilation spectroscopy to life science</article-title>. <source>Defect Diffus. Forum</source>
+<volume>331</volume>, 
+<fpage>275</fpage>&#x02013;<lpage>293</lpage> (<year>2012</year>).</mixed-citation></ref><ref id="R19"><label>19</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>P. V.</given-names>
+<surname>Stepanov</surname></string-name>, <string-name><given-names>F. A.</given-names>
+<surname>Selim</surname></string-name>, <string-name><given-names>S. V.</given-names>
+<surname>Stepanov</surname></string-name>, <string-name><given-names>A. V.</given-names>
+<surname>Bokov</surname></string-name>, <string-name><given-names>O. V.</given-names>
+<surname>Ilyukhina</surname></string-name>, <string-name><given-names>G.</given-names>
+<surname>Dupl&#x000e2;tre</surname></string-name>, <string-name><given-names>V. M.</given-names>
+<surname>Byakov</surname></string-name></person-group>, 
+<article-title>Interaction of positronium with dissolved oxygen in liquids</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<volume>22</volume>, 
+<fpage>5123</fpage>&#x02013;<lpage>5131</lpage> (<year>2020</year>).<pub-id pub-id-type="pmid">32073009</pub-id>
+</mixed-citation></ref><ref id="R20"><label>20</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>K.</given-names>
+<surname>Shibuya</surname></string-name>, <string-name><given-names>H.</given-names>
+<surname>Saito</surname></string-name>, <string-name><given-names>F.</given-names>
+<surname>Nishikido</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Takahashi</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Yamaya</surname></string-name></person-group>, 
+<article-title>Oxygen sensing ability of positronium atom for tumor hypoxia imaging</article-title>. <source>Commun. Phys.</source>
+<volume>3</volume>, 
+<fpage>173</fpage> (<year>2020</year>).</mixed-citation></ref><ref id="R21"><label>21</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>B.</given-names>
+<surname>Jasi&#x00144;ska</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>Zgardzi&#x00144;ska</surname></string-name>, <string-name><given-names>G.</given-names>
+<surname>Cho&#x00142;ubek</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Pietrow</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Gorgol</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Wiktor</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Wysogl&#x00105;d</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Bia&#x00142;as</surname></string-name>, <string-name><given-names>C.</given-names>
+<surname>Curceanu</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Czerwi&#x00144;ski</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Dulski</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Gajos</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>G&#x00142;owacz</surname></string-name>, <string-name><given-names>B. C.</given-names>
+<surname>Hiesmayr</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>Jod&#x00142;owska-J&#x00119;drych</surname></string-name>, <string-name><given-names>D.</given-names>
+<surname>Kami&#x00144;ska</surname></string-name>, <string-name><given-names>G.</given-names>
+<surname>Korcyl</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Kowalski</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Kozik</surname></string-name>, <string-name><given-names>N.</given-names>
+<surname>Krawczyk</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Krzemie&#x00144;</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Kubicz</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Mohammed</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Pawlik-Nied&#x0017a;wiecka</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Nied&#x0017a;wiecki</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Pa&#x00142;ka</surname></string-name>, <string-name><given-names>L.</given-names>
+<surname>Raczy&#x00144;ski</surname></string-name>, <string-name><given-names>Z.</given-names>
+<surname>Rudy</surname></string-name>, <string-name><given-names>N. G.</given-names>
+<surname>Sharma</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Sharma</surname></string-name>, <string-name><given-names>R.</given-names>
+<surname>Shopa</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Silarski</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Skurzok</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Wieczorek</surname></string-name>, <string-name><given-names>H.</given-names>
+<surname>Wiktor</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Wi&#x0015b;licki</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Zieli&#x00144;ski</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Moskal</surname></string-name></person-group>, 
+<article-title>Human tissue investigations using PALS technique&#x02014;Free radicals influence</article-title>. <source>Acta Phys. Pol., A</source>
+<volume>132</volume>, 
+<fpage>1556</fpage>&#x02013;<lpage>1558</lpage> (<year>2017</year>).</mixed-citation></ref><ref id="R22"><label>22</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>D.</given-names>
+<surname>Kilburn</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Townrow</surname></string-name>, <string-name><given-names>V.</given-names>
+<surname>Meunier</surname></string-name>, <string-name><given-names>R.</given-names>
+<surname>Richardson</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Alam</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Ubbink</surname></string-name></person-group>, 
+<article-title>Organization and mobility of water in amorphous and crystalline trehalose</article-title>. <source>Nat. Mater.</source>
+<volume>5</volume>, 
+<fpage>632</fpage>&#x02013;<lpage>635</lpage> (<year>2006</year>).<pub-id pub-id-type="pmid">16845422</pub-id>
+</mixed-citation></ref><ref id="R23"><label>23</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>Y. C.</given-names>
+<surname>Jean</surname></string-name>, <string-name><given-names>Y.</given-names>
+<surname>Li</surname></string-name>, <string-name><given-names>G.</given-names>
+<surname>Liu</surname></string-name>, <string-name><given-names>H.</given-names>
+<surname>Chen</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Zhang</surname></string-name>, <string-name><given-names>J. E.</given-names>
+<surname>Gadzia</surname></string-name></person-group>, 
+<article-title>Applications of slow positrons to cancer research: Search for selectivity of positron annihilation to skin cancer</article-title>. <source>Appl. Surf. Sci.</source>
+<volume>252</volume>, 
+<fpage>3166</fpage>&#x02013;<lpage>3171</lpage> (<year>2006</year>).</mixed-citation></ref><ref id="R24"><label>24</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>Y.</given-names>
+<surname>Jean</surname></string-name>, <string-name><given-names>H.</given-names>
+<surname>Chen</surname></string-name>, <string-name><given-names>G.</given-names>
+<surname>Liu</surname></string-name>, <string-name><given-names>J. E.</given-names>
+<surname>Gadzia</surname></string-name></person-group>, 
+<article-title>Life science research using positron annihilation spectroscopy: UV-irradiated mouse skin</article-title>. <source>Radiat. Phys. Chem.</source>
+<volume>76</volume>, 
+<fpage>70</fpage>&#x02013;<lpage>75</lpage> (<year>2007</year>).</mixed-citation></ref><ref id="R25"><label>25</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>G.</given-names>
+<surname>Liu</surname></string-name>, <string-name><given-names>H.</given-names>
+<surname>Chen</surname></string-name>, <string-name><given-names>L.</given-names>
+<surname>Chakka</surname></string-name>, <string-name><given-names>J. E.</given-names>
+<surname>Gadzia</surname></string-name>, <string-name><given-names>Y. C.</given-names>
+<surname>Jean</surname></string-name></person-group>, 
+<article-title>Applications of positron annihilation to dermatology and skin cancer</article-title>. <source>Phys. Status Solidi C</source>
+<volume>4</volume>, 
+<fpage>3912</fpage>&#x02013;<lpage>3915</lpage> (<year>2007</year>).</mixed-citation></ref><ref id="R26"><label>26</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>G.</given-names>
+<surname>Liu</surname></string-name>, <string-name><given-names>H.</given-names>
+<surname>Chen</surname></string-name>, <string-name><given-names>L.</given-names>
+<surname>Chakka</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Cheng</surname></string-name>, <string-name><given-names>J. E.</given-names>
+<surname>Gadzia</surname></string-name>, <string-name><given-names>R.</given-names>
+<surname>Suzuki</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Ohdaira</surname></string-name>, <string-name><given-names>O.</given-names>
+<surname>Nagayasu</surname></string-name>, <string-name><given-names>Y. C.</given-names>
+<surname>Jean</surname></string-name></person-group>, 
+<article-title>Further search for selectivity of positron annihilation in the skin and cancerous systems</article-title>. <source>Appl. Surf. Sci.</source>
+<volume>255</volume>, 
+<fpage>115</fpage>&#x02013;<lpage>118</lpage> (<year>2008</year>).</mixed-citation></ref><ref id="R27"><label>27</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>R. M.</given-names>
+<surname>Yas</surname></string-name>, <string-name><given-names>A. H.</given-names>
+<surname>Al-Mshhdani</surname></string-name>, <string-name><given-names>M. M.</given-names>
+<surname>Elias</surname></string-name>, <string-name><given-names>R. M.</given-names>
+<surname>Yas</surname></string-name></person-group>, 
+<article-title>Detection of line shape parameters in normal and abnormal biological tissues</article-title>. <source>Iraqi J. Phys.</source>
+<volume>10</volume>, 
+<fpage>77</fpage>&#x02013;<lpage>82</lpage> (<year>2012</year>).</mixed-citation></ref><ref id="R28"><label>28</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>E.</given-names>
+<surname>Axpe</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Lopez-Euba</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Castellanos-Rubio</surname></string-name>, <string-name><given-names>D.</given-names>
+<surname>Merida</surname></string-name>, <string-name><given-names>J. A.</given-names>
+<surname>Garcia</surname></string-name>, <string-name><given-names>L.</given-names>
+<surname>Plaza-Izurieta</surname></string-name>, <string-name><given-names>N.</given-names>
+<surname>Fernandez-Jimenez</surname></string-name>, <string-name><given-names>F.</given-names>
+<surname>Plazaola</surname></string-name>, <string-name><given-names>J. R.</given-names>
+<surname>Bilbao</surname></string-name></person-group>, 
+<article-title>Detection of atomic scale changes in the free volume void size of three-dimensional colorectal cancer cell culture using positron annihilation lifetime spectroscopy</article-title>. <source>PLOS ONE</source>
+<volume>9</volume>, 
+<fpage>e83838</fpage> (<year>2014</year>).<pub-id pub-id-type="pmid">24392097</pub-id>
+</mixed-citation></ref><ref id="R29"><label>29</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>R.</given-names>
+<surname>Pietrzak</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Borbulak</surname></string-name>, <string-name><given-names>R.</given-names>
+<surname>Szatanik</surname></string-name></person-group>, 
+<article-title>Influence of neoplastic therapy on the investigated blood using positron annihilation lifetime spectroscopy</article-title>. <source>Nukleonika</source>
+<volume>58</volume>, 
+<fpage>199</fpage>&#x02013;<lpage>202</lpage> (<year>2013</year>).</mixed-citation></ref><ref id="R30"><label>30</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>E.</given-names>
+<surname>Kubicz</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>Jasi&#x00144;ska</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>Zgardzi&#x00144;ska</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Bednarski</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Bia&#x00142;as</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Czerwi&#x00144;ski</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Gajos</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Gorgol</surname></string-name>, <string-name><given-names>D.</given-names>
+<surname>Kami&#x00144;ska</surname></string-name>, <string-name><given-names>&#x00141;.</given-names>
+<surname>Kap&#x00142;on</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Kochanowski</surname></string-name>, <string-name><given-names>G.</given-names>
+<surname>Korcyl</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Kowalski</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Kozik</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Krzemie&#x00144;</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Nied&#x0017a;wiecki</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Pa&#x00142;ka</surname></string-name>, <string-name><given-names>L.</given-names>
+<surname>Raczy&#x00144;ski</surname></string-name>, <string-name><given-names>Z.</given-names>
+<surname>Rajfur</surname></string-name>, <string-name><given-names>Z.</given-names>
+<surname>Rudy</surname></string-name>, <string-name><given-names>O.</given-names>
+<surname>Rundel</surname></string-name>, <string-name><given-names>N. G.</given-names>
+<surname>Sharma</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Silarski</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>S&#x00142;omski</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Strzelecki</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Wieczorek</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Wi&#x0015b;licki</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Zieli&#x00144;ski</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Moskal</surname></string-name></person-group>, 
+<article-title>Studies of unicellular micro-organisms Saccharomyces cerevisiae by means of positron annihilation lifetime spectroscopy</article-title>. <source>Nukleonika</source>
+<volume>60</volume>, 
+<fpage>749</fpage>&#x02013;<lpage>753</lpage> (<year>2015</year>).</mixed-citation></ref><ref id="R31"><label>31</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>E.</given-names>
+<surname>Kubicz</surname></string-name></person-group>, 
+<article-title>Potential for biomedical applications of positron annihilation lifetime spectroscopy (PALS)</article-title>. <source>AIP Conf. Proc.</source>
+<volume>2182</volume>, 
+<fpage>050004</fpage> (<year>2019</year>).</mixed-citation></ref><ref id="R32"><label>32</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>Z.</given-names>
+<surname>Bura</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Dulski</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Kubicz</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Ma&#x00141;czak</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>P&#x00119;dziwiatr</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Szczepanek</surname></string-name>, <string-name><given-names>E. &#x00141;.</given-names>
+<surname>St&#x00119;pie&#x00144;</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Moskal</surname></string-name></person-group>, 
+<article-title>Studies of the ortho-positronium lifetime for cancer Diagnostics</article-title>. <source>Acta Phys. Pol. B</source>
+<volume>51</volume>, 
+<fpage>377</fpage>&#x02013;<lpage>382</lpage> (<year>2020</year>).</mixed-citation></ref><ref id="R33"><label>33</label><mixed-citation publication-type="confproc">P. Moskal, Positronium imaging, in <italic toggle="yes">2019 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC)</italic> (IEEE, 2019), pp. 1&#x02013;3.</mixed-citation></ref><ref id="R34"><label>34</label><mixed-citation publication-type="confproc">P. Moskal, Towards total-body modular PET for positronium and quantum entanglement imaging, in <italic toggle="yes">2018 IEEE Nuclear Science Symposium and Medical Imaging Conference Proceedings (NSS/MIC)</italic> (IEEE, 2019), pp. 1&#x02013;4.</mixed-citation></ref><ref id="R35"><label>35</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>P.</given-names>
+<surname>Moskal</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Bednarski</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Nied&#x0017a;wiecki</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Silarski</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Czerwi&#x00144;ski</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Kozik</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Chhokar</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Ba&#x00141;a</surname></string-name>, <string-name><given-names>C.</given-names>
+<surname>Curceanu</surname></string-name>, <string-name><given-names>R.</given-names>
+<surname>Del Grande</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Dadgar</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Dulski</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Gajos</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Gorgol</surname></string-name>, <string-name><given-names>N. G.</given-names>
+<surname>Sharma</surname></string-name>, <string-name><given-names>B. C.</given-names>
+<surname>Hiesmayr</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>Jasi&#x00144;ska</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Kacprzak</surname></string-name>, <string-name><given-names>&#x00141;.</given-names>
+<surname>Kap&#x00141;on</surname></string-name>, <string-name><given-names>H.</given-names>
+<surname>Karimi</surname></string-name>, <string-name><given-names>D.</given-names>
+<surname>Kisielewska</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Klimaszewski</surname></string-name>, <string-name><given-names>G.</given-names>
+<surname>Korcyl</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Kowalski</surname></string-name>, <string-name><given-names>N.</given-names>
+<surname>Krawczyk</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Krzemie&#x00144;</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Kubicz</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Mohammed</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Pa&#x00141;ka</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Pawlik-Nied&#x0017a;wiecka</surname></string-name>, <string-name><given-names>L.</given-names>
+<surname>Raczy&#x00144;ski</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Raj</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Sharma</surname></string-name>, <string-name><surname>Shivani</surname></string-name>, <string-name><given-names>R. Y.</given-names>
+<surname>Shopa</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Skurzok</surname></string-name>, <string-name><given-names>E. &#x00141;.</given-names>
+<surname>St&#x00119;pie&#x00144;</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Wislicki</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>Zgardzi&#x00144;ska</surname></string-name></person-group>, 
+<article-title>Synchronisation and calibration of the 24-modules J-PET prototype with 300 mm axial field of view</article-title>. <source>IEEE Trans. Instrum. Meas.</source>
+<volume>70</volume>, 
+<fpage>2000810</fpage> (<year>2021</year>).</mixed-citation></ref><ref id="R36"><label>36</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>P.</given-names>
+<surname>Moskal</surname></string-name>, <string-name><given-names>N.</given-names>
+<surname>Krawczyk</surname></string-name>, <string-name><given-names>B. C.</given-names>
+<surname>Hiesmayr</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Ba&#x00141;a</surname></string-name>, <string-name><given-names>C.</given-names>
+<surname>Curceanu</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Czerwi&#x00144;ski</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Dulski</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Gajos</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Gorgol</surname></string-name>, <string-name><given-names>R.</given-names>
+<surname>Del Grande</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>Jasi&#x00144;ska</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Kacprzak</surname></string-name>, <string-name><given-names>&#x00141;.</given-names>
+<surname>Kap&#x00142;on</surname></string-name>, <string-name><given-names>D.</given-names>
+<surname>Kisielewska</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Klimaszewski</surname></string-name>, <string-name><given-names>G.</given-names>
+<surname>Korcyl</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Kowalski</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Kozik</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Krzemie&#x00144;</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Kubicz</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Mohammed</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Nied&#x0017a;wiecki</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Pa&#x00142;ka</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Pawlik-Nied&#x0017a;wiecka</surname></string-name>, <string-name><given-names>L.</given-names>
+<surname>Raczy&#x00144;ski</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Raj</surname></string-name>, <string-name><given-names>Z.</given-names>
+<surname>Rudy</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Sharma</surname></string-name>, <string-name><surname>Shivani</surname></string-name>, <string-name><given-names>R. Y.</given-names>
+<surname>Shopa</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Silarski</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Skurzok</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Wi&#x0015b;licki</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>Zgardzi&#x00144;ska</surname></string-name></person-group>, 
+<article-title>Feasibility studies of the polarization of photons beyond the optical wavelength regime with the J-PET detector</article-title>. <source>Eur. Phys. J. C</source>
+<volume>78</volume>, 
+<fpage>970</fpage> (<year>2018</year>).<pub-id pub-id-type="pmid">30636927</pub-id>
+</mixed-citation></ref><ref id="R37"><label>37</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>P.</given-names>
+<surname>Moskal</surname></string-name>, <string-name><given-names>D.</given-names>
+<surname>Kisielewska</surname></string-name>, <string-name><given-names>C.</given-names>
+<surname>Curceanu</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Czerwi&#x00144;ski</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Dulski</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Gajos</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Gorgol</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>Hiesmayr</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>Jasi&#x00144;ska</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Kacprzak</surname></string-name>, <string-name><given-names>&#x00141;.</given-names>
+<surname>Kap&#x00142;on</surname></string-name>, <string-name><given-names>G.</given-names>
+<surname>Korcyl</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Kowalski</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Krzemie&#x00144;</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Kozik</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Kubicz</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Mohammed</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Nied&#x0017a;wiecki</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Pa&#x00142;ka</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Pawlik-Nied&#x0017a;wiecka</surname></string-name>, <string-name><given-names>L.</given-names>
+<surname>Raczy&#x00144;ski</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Raj</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Sharma</surname></string-name>, <string-name><surname>Shivani</surname></string-name>, <string-name><given-names>R. Y.</given-names>
+<surname>Shopa</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Silarski</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Skurzok</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>St&#x00119;pie&#x00144;</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Wi&#x0015b;licki</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>Zgardzi&#x00144;ska</surname></string-name></person-group>, 
+<article-title>Feasibility study of the positronium imaging with the J-PET tomograph</article-title>. <source>Phys. Med. Biol.</source>
+<volume>64</volume>, 
+<fpage>055017</fpage> (<year>2019</year>).<pub-id pub-id-type="pmid">30641509</pub-id>
+</mixed-citation></ref><ref id="R38"><label>38</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>P.</given-names>
+<surname>Moskal</surname></string-name>, <string-name><given-names>D.</given-names>
+<surname>Kisielewska</surname></string-name>, <string-name><given-names>R. Y.</given-names>
+<surname>Shopa</surname></string-name>, <string-name><given-names>Z.</given-names>
+<surname>Bura</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Chhokar</surname></string-name>, <string-name><given-names>C.</given-names>
+<surname>Curceanu</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Czerwi&#x00144;ski</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Dadgar</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Dulski</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Gajewski</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Gajos</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Gorgol</surname></string-name>, <string-name><given-names>R.</given-names>
+<surname>Del Grande</surname></string-name>, <string-name><given-names>B. C.</given-names>
+<surname>Hiesmayr</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>Jasi&#x00144;ska</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Kacprzak</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Kami&#x00144;ska</surname></string-name>, <string-name><given-names>&#x00141;.</given-names>
+<surname>Kap&#x00142;on</surname></string-name>, <string-name><given-names>H.</given-names>
+<surname>Karimi</surname></string-name>, <string-name><given-names>G.</given-names>
+<surname>Korcyl</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Kowalski</surname></string-name>, <string-name><given-names>N.</given-names>
+<surname>Krawczyk</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Krzemie&#x00144;</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Kozik</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Kubicz</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Ma&#x00142;czak</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Mohammed</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Nied&#x0017a;wiecki</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Pa&#x00142;ka</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Pawlik-Nied&#x0017a;wiecka</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>P&#x00119;dziwiatr</surname></string-name>, <string-name><given-names>L.</given-names>
+<surname>Raczy&#x00144;ski</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Raj</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Ruci&#x00144;ski</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Sharma</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Shivani</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Silarski</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Skurzok</surname></string-name>, <string-name><given-names>E. &#x00141;.</given-names>
+<surname>St&#x00119;pie&#x00144;</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Vandenberghe</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Wi&#x0015b;licki</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>Zgardzi&#x00144;ska</surname></string-name></person-group>, 
+<article-title>Performance assessment of the 2gamma positronium imaging with the total-body PET scanners</article-title>. <source>EJNMMI Phys.</source>
+<volume>7</volume>, 
+<fpage>44</fpage> (<year>2020</year>).<pub-id pub-id-type="pmid">32607664</pub-id>
+</mixed-citation></ref><ref id="R39"><label>39</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>P.</given-names>
+<surname>Moskal</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Nied&#x0017a;wiecki</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Bednarski</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Czerwi&#x00144;ski</surname></string-name>, <string-name><given-names>&#x00141;.</given-names>
+<surname>Kap&#x00142;on</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Kubicz</surname></string-name>, <string-name><given-names>I.</given-names>
+<surname>Moskal</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Pawlik-Nied&#x0017a;wiecka</surname></string-name>, <string-name><given-names>N. G.</given-names>
+<surname>Sharma</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Silarski</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Zieli&#x00144;ski</surname></string-name>, <string-name><given-names>N.</given-names>
+<surname>Zo&#x00144;</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Bia&#x00142;as</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Gajos</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Kochanowski</surname></string-name>, <string-name><given-names>G.</given-names>
+<surname>Korcyl</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Kowal</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Kowalski</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Kozik</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Krzemie&#x00144;</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Molenda</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Pa&#x00142;ka</surname></string-name>, <string-name><given-names>L.</given-names>
+<surname>Raczy&#x00144;ski</surname></string-name>, <string-name><given-names>Z.</given-names>
+<surname>Rudy</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Salabura</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>S&#x00142;omski</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Smyrski</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Strzelecki</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Wieczorek</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Wi&#x0015b;licki</surname></string-name></person-group>, 
+<article-title>Test of a single module of the J-PET scanner based on plastic scintillators</article-title>. <source>Nucl. Instrum. Methods A</source>
+<volume>764</volume>, 
+<fpage>317</fpage>&#x02013;<lpage>321</lpage> (<year>2014</year>).</mixed-citation></ref><ref id="R40"><label>40</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>P.</given-names>
+<surname>Moskal</surname></string-name>, <string-name><given-names>N.</given-names>
+<surname>Zo&#x00144;</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Bednarski</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Bia&#x00142;as</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Czerwi&#x00144;ski</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Gajos</surname></string-name>, <string-name><given-names>D.</given-names>
+<surname>Kami&#x00144;ska</surname></string-name>, <string-name><given-names>&#x00141;.</given-names>
+<surname>Kap&#x00142;on</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Kochanowski</surname></string-name>, <string-name><given-names>G.</given-names>
+<surname>Korcyl</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Kowal</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Kowalski</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Kozik</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Krzemie&#x00144;</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Kubicz</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Nied&#x0017a;wiecki</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Pa&#x00142;ka</surname></string-name>, <string-name><given-names>L.</given-names>
+<surname>Raczy&#x00144;ski</surname></string-name>, <string-name><given-names>Z.</given-names>
+<surname>Rudy</surname></string-name>, <string-name><given-names>O.</given-names>
+<surname>Rundel</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Salabura</surname></string-name>, <string-name><given-names>N. G.</given-names>
+<surname>Sharma</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Silarski</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>S&#x00142;omski</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Smyrski</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Strzelecki</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Wieczorek</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Wi&#x0015b;licki</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Zieli&#x00144;ski</surname></string-name></person-group>, 
+<article-title>A novel method for the line-of-response and time-of-flight reconstruction in TOF-PET detectors based on a library of synchronized model signals</article-title>. <source>Nucl. Instrum. Methods Phys. Res.</source>
+<volume>775</volume>, 
+<fpage>54</fpage>&#x02013;<lpage>62</lpage> (<year>2015</year>).</mixed-citation></ref><ref id="R41"><label>41</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>M.</given-names>
+<surname>Pa&#x00142;ka</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Strzempek</surname></string-name>, <string-name><given-names>G.</given-names>
+<surname>Korcyl</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Bednarski</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Nied&#x0017a;wiecki</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Bia&#x00142;as</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Czerwi&#x00144;ski</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Dulski</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Gajos</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>G&#x00142;owacz</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Gorgol</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>Jasi&#x00144;ska</surname></string-name>, <string-name><given-names>D.</given-names>
+<surname>Kami&#x00144;ska</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Kajetanowicz</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Kowalski</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Kozik</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Krzemie&#x00144;</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Kubicz</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Mohhamed</surname></string-name>, <string-name><given-names>L.</given-names>
+<surname>Raczy&#x00144;ski</surname></string-name>, <string-name><given-names>Z.</given-names>
+<surname>Rudy</surname></string-name>, <string-name><given-names>O.</given-names>
+<surname>Rundel</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Salabura</surname></string-name>, <string-name><given-names>N. G.</given-names>
+<surname>Sharma</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Silarski</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Smyrski</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Strzelecki</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Wieczorek</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Wi&#x0015b;licki</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Zieli&#x00144;ski</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>Zgardzi&#x00144;ska</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Moskal</surname></string-name></person-group>, 
+<article-title>Multichannel FPGA based MVT system for high precision time (20 ps RMS) and charge measurement</article-title>. <source>J. Instrum.</source>
+<volume>12</volume>, 
+<fpage>P08001</fpage> (<year>2017</year>).</mixed-citation></ref><ref id="R42"><label>42</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>S.</given-names>
+<surname>Nied&#x0017a;wiecki</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Bia&#x00142;as</surname></string-name>, <string-name><given-names>C.</given-names>
+<surname>Curceanu</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Czerwi&#x00144;ski</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Dulski</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Gajos</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>G&#x00142;owacz</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Gorgol</surname></string-name>, <string-name><given-names>B. C.</given-names>
+<surname>Hiesmayr</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>Jasi&#x00144;ska</surname></string-name>, <string-name><given-names>&#x00141;.</given-names>
+<surname>Kap&#x00142;on</surname></string-name>, <string-name><given-names>D.</given-names>
+<surname>Kisielewska-Kami&#x00144;ska</surname></string-name>, <string-name><given-names>G.</given-names>
+<surname>Korcyl</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Kowalski</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Kozik</surname></string-name>, <string-name><given-names>N.</given-names>
+<surname>Krawczyk</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Krzemie&#x00144;</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Kubicz</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Mohammed</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Pawlik-Nied&#x0017a;wiecka</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Pa&#x00142;ka</surname></string-name>, <string-name><given-names>L.</given-names>
+<surname>Raczy&#x00144;ski</surname></string-name>, <string-name><given-names>Z.</given-names>
+<surname>Rudy</surname></string-name>, <string-name><given-names>N. G.</given-names>
+<surname>Sharma</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Sharma</surname></string-name>, <string-name><given-names>R. Y.</given-names>
+<surname>Shopa</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Silarski</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Skurzok</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Wieczorek</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Wi&#x0015b;licki</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>Zgardzi&#x00144;ska</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Zieli&#x00144;ski</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Moskal</surname></string-name></person-group>, 
+<article-title>J-PET: A new technology for the whole-body PET imaging</article-title>. <source>Acta Phys. Pol. B</source>
+<volume>48</volume>, 
+<fpage>1567</fpage>&#x02013;<lpage>1576</lpage> (<year>2017</year>).</mixed-citation></ref><ref id="R43"><label>43</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>G.</given-names>
+<surname>Korcyl</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Bia&#x00142;as</surname></string-name>, <string-name><given-names>C.</given-names>
+<surname>Curceanu</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Czerwi&#x00144;ski</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Dulski</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>Flak</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Gajos</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>G&#x00142;owacz</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Gorgol</surname></string-name>, <string-name><given-names>B. C.</given-names>
+<surname>Hiesmayr</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>Jasi&#x00144;ska</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Kacprzak</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Kajetanowicz</surname></string-name>, <string-name><given-names>D.</given-names>
+<surname>Kisielewska</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Kowalski</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Kozik</surname></string-name>, <string-name><given-names>N.</given-names>
+<surname>Krawczyk</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Krzemie&#x00144;</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Kubicz</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Mohammed</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Nied&#x0017a;wiecki</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Pawlik-Nied&#x0017a;wiecka</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Pa&#x00142;ka</surname></string-name>, <string-name><given-names>L.</given-names>
+<surname>Raczy&#x00144;ski</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Rajda</surname></string-name>, <string-name><given-names>Z.</given-names>
+<surname>Rudy</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Salabura</surname></string-name>, <string-name><given-names>N. G.</given-names>
+<surname>Sharma</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Sharma</surname></string-name>, <string-name><given-names>R. Y.</given-names>
+<surname>Shopa</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Skurzok</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Silarski</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Strzempek</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Wieczorek</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Wi&#x0015b;licki</surname></string-name>, <string-name><given-names>R.</given-names>
+<surname>Zaleski</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>Zgardzi&#x00144;ska</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Zieli&#x00144;ski</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Moskal</surname></string-name></person-group>, 
+<article-title>Evaluation of single-chip, real-time tomographic data processing on FPGA SoC devices</article-title>. <source>IEEE Trans. Med. Imaging</source>
+<volume>37</volume>, 
+<fpage>2526</fpage>&#x02013;<lpage>2535</lpage> (<year>2018</year>).<pub-id pub-id-type="pmid">29994248</pub-id>
+</mixed-citation></ref><ref id="R44"><label>44</label><mixed-citation publication-type="webpage">P. Moskal, E. Kubicz, G. Grudzie&#x00144;, E. Czerwi&#x00144;ski, K. Dulski, B. Leszczy&#x00144;ski, S. Nied&#x0017a;wiecki, E. &#x00141;. St&#x00119;pie&#x00144;, Developing a novel positronium biomarker for cardiac myxoma imaging. bioRxiv 2021.08.05.455285 [Preprint]. 6 August 2021; <pub-id pub-id-type="doi">10.1101/2021.08.05.455285</pub-id>.</mixed-citation></ref><ref id="R45"><label>45</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>M.</given-names>
+<surname>Conti</surname></string-name>, <string-name><given-names>L.</given-names>
+<surname>Eriksson</surname></string-name></person-group>, 
+<article-title>Physics of pure and non-pure positron emitters for PET: A review and a discussion</article-title>. <source>EJNMMI Phys.</source>
+<volume>3</volume>, 
+<fpage>8</fpage> (<year>2016</year>).<pub-id pub-id-type="pmid">27271304</pub-id>
+</mixed-citation></ref><ref id="R46"><label>46</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>R. L.</given-names>
+<surname>Garwin</surname></string-name></person-group>, 
+<article-title>Thermalization of positrons in metals</article-title>. <source>Phys. Rev.</source>
+<volume>91</volume>, 
+<fpage>1571</fpage>&#x02013;<lpage>1572</lpage> (<year>1953</year>).</mixed-citation></ref><ref id="R47"><label>47</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>G.</given-names>
+<surname>Consolati</surname></string-name>, <string-name><given-names>F.</given-names>
+<surname>Quasso</surname></string-name></person-group>, 
+<article-title>Positronium-oxygen interactions in polytrimethylsilylpropine membranes</article-title>. <source>Appl. Phys. B</source>
+<volume>66</volume>, 
+<fpage>371</fpage>&#x02013;<lpage>376</lpage> (<year>1998</year>).</mixed-citation></ref><ref id="R48"><label>48</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>R. A.</given-names>
+<surname>Ferrell</surname></string-name></person-group>, 
+<article-title>Ortho-parapositronium quenching by paramagnetic molecules and ions</article-title>. <source>Phys. Rev.</source>
+<volume>110</volume>, 
+<fpage>1355</fpage>&#x02013;<lpage>1357</lpage> (<year>1958</year>).</mixed-citation></ref><ref id="R49"><label>49</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>C.</given-names>
+<surname>Champion</surname></string-name></person-group>, 
+<article-title>Moving from organ dose to microdosimetry: Contribution of the Monte Carlo simulations</article-title>. <source>Braz. Arch. Biol. Technol.</source>
+<volume>48</volume>, 
+<fpage>191</fpage>&#x02013;<lpage>199</lpage> (<year>2005</year>).</mixed-citation></ref><ref id="R50"><label>50</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>M.</given-names>
+<surname>Sitarz</surname></string-name>, <string-name><given-names>J.-P.</given-names>
+<surname>Cussonneau</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Matulewicz</surname></string-name>, <string-name><given-names>F.</given-names>
+<surname>Haddad</surname></string-name></person-group>, 
+<article-title>Radionuclide candidates for &#x003b2; + &#x003b3; coincidence PET: An overview</article-title>. <source>Appl. Radiat. Isot.</source>
+<volume>155</volume>, 
+<fpage>108898</fpage> (<year>2020</year>).<pub-id pub-id-type="pmid">31577965</pub-id>
+</mixed-citation></ref><ref id="R51"><label>51</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>K.</given-names>
+<surname>Dulski</surname></string-name>, <string-name><given-names>C.</given-names>
+<surname>Curceanu</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Czerwi&#x00144;ski</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Gajos</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Gorgol</surname></string-name>, <string-name><given-names>N.</given-names>
+<surname>Gupta-Sharma</surname></string-name>, <string-name><given-names>B. C.</given-names>
+<surname>Hiesmayr</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>Jasi&#x00144;ska</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Kacprzak</surname></string-name>, <string-name><given-names>&#x00141;.</given-names>
+<surname>Kap&#x00142;on</surname></string-name>, <string-name><given-names>D.</given-names>
+<surname>Kisielewska</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Klimaszewski</surname></string-name>, <string-name><given-names>G.</given-names>
+<surname>Korcyl</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Kowalski</surname></string-name>, <string-name><given-names>N.</given-names>
+<surname>Krawczyk</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Krzemie&#x00144;</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Kozik</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Kubicz</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Mohammed</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Nied&#x0017a;wiecki</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Pa&#x00142;ka</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Pawlik-Nied&#x0017a;wiecka</surname></string-name>, <string-name><given-names>L.</given-names>
+<surname>Raczy&#x00144;ski</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Raj</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Rakoczy</surname></string-name>, <string-name><given-names>Z.</given-names>
+<surname>Rudy</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Sharma</surname></string-name>, <string-name><surname>Shivani</surname></string-name>, <string-name><given-names>R. Y.</given-names>
+<surname>Shopa</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Silarski</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Skurzok</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Wi&#x0015b;licki</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>Zgardzi&#x00144;ska</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Moskal</surname></string-name></person-group>, 
+<article-title>Commissioning of the J-PET detector in view of the positron annihilation lifetime spectroscopy</article-title>. <source>Hyperfine Interact.</source>
+<volume>239</volume>, 
+<fpage>40</fpage> (<year>2018</year>).</mixed-citation></ref><ref id="R52"><label>52</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>K.</given-names>
+<surname>Dulski</surname></string-name></person-group>, 
+<article-title>PALS avalanche&#x02014;A new PAL spectra analysis software</article-title>. <source>Acta Phys. Pol. A</source>
+<volume>137</volume>, 
+<fpage>167</fpage>&#x02013;<lpage>170</lpage> (<year>2020</year>).</mixed-citation></ref><ref id="R53"><label>53</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>W.</given-names>
+<surname>Krzemie&#x00144;</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Gajos</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Kacprzak</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Rakoczy</surname></string-name>, <string-name><given-names>G.</given-names>
+<surname>Korcyl</surname></string-name></person-group>, 
+<article-title>J-PET Framework: Software platform for PET tomography data reconstruction and analysis</article-title>. <source>SoftwareX</source>
+<volume>11</volume>, 
+<fpage>100487</fpage> (<year>2020</year>).</mixed-citation></ref><ref id="R54"><label>54</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>P.</given-names>
+<surname>Lecoq</surname></string-name>, <string-name><given-names>C.</given-names>
+<surname>Morel</surname></string-name>, <string-name><given-names>J. O.</given-names>
+<surname>Prior</surname></string-name>, <string-name><given-names>D.</given-names>
+<surname>Visvikis</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Gundacker</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Auffray</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Kri&#x0017e;an</surname></string-name>, <string-name><given-names>R. M.</given-names>
+<surname>Turtos</surname></string-name>, <string-name><given-names>D.</given-names>
+<surname>Thers</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Charbon</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Varela</surname></string-name>, <string-name><given-names>C.</given-names>
+<surname>de La Taille</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Rivetti</surname></string-name>, <string-name><given-names>D.</given-names>
+<surname>Breton</surname></string-name>, <string-name><given-names>J.-F.</given-names>
+<surname>Pratte</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Nuyts</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Surti</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Vandenberghe</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Marsden</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Parodi</surname></string-name>, <string-name><given-names>J. M.</given-names>
+<surname>Benlloch</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Benoit</surname></string-name></person-group>, 
+<article-title>Roadmap toward the 10 ps time-of-flight PET challenge</article-title>. <source>Phys. Med. Biol.</source>
+<volume>65</volume>, 
+<fpage>21RM01</fpage> (<year>2020</year>).</mixed-citation></ref><ref id="R55"><label>55</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>P.</given-names>
+<surname>Lecoq</surname></string-name></person-group>, 
+<article-title>Pushing the limits in time-of-flight PET imaging</article-title>. <source>IEEE Trans. Radiat. Plasma Med. Sci.</source>
+<volume>1</volume>, 
+<fpage>473</fpage>&#x02013;<lpage>485</lpage> (<year>2017</year>).</mixed-citation></ref><ref id="R56"><label>56</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>J.</given-names>
+<surname>Cates</surname></string-name>, <string-name><given-names>C.</given-names>
+<surname>Levin</surname></string-name></person-group>, 
+<article-title>Electronics method to advance the coincidence time resolution with bismuth germanate</article-title>. <source>Phys. Med. Biol.</source>
+<volume>64</volume>, 
+<fpage>175016</fpage> (<year>2019</year>).<pub-id pub-id-type="pmid">31300623</pub-id>
+</mixed-citation></ref><ref id="R57"><label>57</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>S.</given-names>
+<surname>Gundacker</surname></string-name>, <string-name><given-names>R. M.</given-names>
+<surname>Turtos</surname></string-name>, <string-name><given-names>N.</given-names>
+<surname>Kratochwil</surname></string-name>, <string-name><given-names>R. H.</given-names>
+<surname>Pots</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Paganoni</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Lecoq</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Auffray</surname></string-name></person-group>, 
+<article-title>Experimental time resolution limits of modern SiPMs and TOF-PET detectors exploring different scintillators and Cherenkov emission</article-title>. <source>Phys. Med. Biol.</source>
+<volume>65</volume>, 
+<fpage>025001</fpage> (<year>2020</year>).<pub-id pub-id-type="pmid">31851947</pub-id>
+</mixed-citation></ref><ref id="R58"><label>58</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>J.</given-names>
+<surname>van Sluis</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>de Jong</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Schaar</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Noordzij</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>van Snick</surname></string-name>, <string-name><given-names>R.</given-names>
+<surname>Dierckx</surname></string-name>, <string-name><given-names>R.</given-names>
+<surname>Borra</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Willemsen</surname></string-name>, <string-name><given-names>R.</given-names>
+<surname>Boellaard</surname></string-name></person-group>, 
+<article-title>Performance characteristics of the digital biograph vision PET/CT system</article-title>. <source>J. Nucl. Med.</source>
+<volume>60</volume>, 
+<fpage>1031</fpage>&#x02013;<lpage>1036</lpage> (<year>2019</year>).<pub-id pub-id-type="pmid">30630944</pub-id>
+</mixed-citation></ref><ref id="R59"><label>59</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>R.</given-names>
+<surname>Ota</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Nakajima</surname></string-name>, <string-name><given-names>I.</given-names>
+<surname>Ogawa</surname></string-name>, <string-name><given-names>Y.</given-names>
+<surname>Yamagawa</surname></string-name>, <string-name><given-names>H.</given-names>
+<surname>Shimoi</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Suyama</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Hasegawa</surname></string-name></person-group>, 
+<article-title>Coincidence time resolution of 30 ps FWHM using a pair of Cherenkov-radiator integrated MCPPMTs</article-title>. <source>Phys. Med. Biol.</source>
+<volume>64</volume>, 
+<fpage>07LT01</fpage> (<year>2019</year>).</mixed-citation></ref><ref id="R60"><label>60</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>I.</given-names>
+<surname>Alberts</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>H&#x000fc;nermund</surname></string-name>, <string-name><given-names>G.</given-names>
+<surname>Prenosil</surname></string-name>, <string-name><given-names>C.</given-names>
+<surname>Mingels</surname></string-name>, <string-name><given-names>K. P.</given-names>
+<surname>Bohn</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Viscione</surname></string-name>, <string-name><given-names>H.</given-names>
+<surname>Sari</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>Vollnberg</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Shi</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Afshar-Oromieh</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Rominger</surname></string-name></person-group>, 
+<article-title>Clinical performance of long axial field of view PET/CT: A head-to-head intra-individual comparison of the Biograph Vision Quadra with the Biograph Vision PET/CT</article-title>. <source>EJNMMI</source>
+<volume>48</volume>, 
+<fpage>2395</fpage>&#x02013;<lpage>2404</lpage> (<year>2021</year>).</mixed-citation></ref><ref id="R61"><label>61</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>B. A.</given-names>
+<surname>Spencer</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Berg</surname></string-name>, <string-name><given-names>J. P.</given-names>
+<surname>Schmall</surname></string-name>, <string-name><given-names>N.</given-names>
+<surname>Omidvari</surname></string-name>, <string-name><given-names>E. K.</given-names>
+<surname>Leung</surname></string-name>, <string-name><given-names>Y. G.</given-names>
+<surname>Abdelhafez</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Tang</surname></string-name>, <string-name><given-names>Z.</given-names>
+<surname>Deng</surname></string-name>, <string-name><given-names>Y.</given-names>
+<surname>Dong</surname></string-name>, <string-name><given-names>Y.</given-names>
+<surname>Lv</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Bao</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Liu</surname></string-name>, <string-name><given-names>H.</given-names>
+<surname>Li</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Jones</surname></string-name>, <string-name><given-names>R. D.</given-names>
+<surname>Badawi</surname></string-name>, <string-name><given-names>S. R.</given-names>
+<surname>Cherry</surname></string-name></person-group>, 
+<article-title>Performance evaluation of the uEXPLORER total-body PET/CT scanner based on NEMA NU 2-2018 with additional tests to characterize PET scanners with a long axial field of view</article-title>. <source>J. Nucl. Med.</source>
+<volume>62</volume>, 
+<fpage>861</fpage>&#x02013;<lpage>870</lpage> (<year>2021</year>).<pub-id pub-id-type="pmid">33008932</pub-id>
+</mixed-citation></ref><ref id="R62"><label>62</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>S.</given-names>
+<surname>Sharma</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Chhokar</surname></string-name>, <string-name><given-names>C.</given-names>
+<surname>Curceanu</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Czerwi&#x00144;ski</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Dadgar</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Dulski</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Gajewski</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Gajos</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Gorgol</surname></string-name>, <string-name><given-names>N.</given-names>
+<surname>Gupta-Sharma</surname></string-name>, <string-name><given-names>R.</given-names>
+<surname>Del Grande</surname></string-name>, <string-name><given-names>B. C.</given-names>
+<surname>Hiesmayr</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>Jasi&#x00144;ska</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Kacprzak</surname></string-name>, <string-name><given-names>&#x00141;.</given-names>
+<surname>Kap&#x00142;on</surname></string-name>, <string-name><given-names>H.</given-names>
+<surname>Karimi</surname></string-name>, <string-name><given-names>D.</given-names>
+<surname>Kisielewska</surname></string-name>, <string-name><given-names>K.</given-names>
+<surname>Klimaszewski</surname></string-name>, <string-name><given-names>G.</given-names>
+<surname>Korcyl</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Kowalski</surname></string-name>, <string-name><given-names>T.</given-names>
+<surname>Kozik</surname></string-name>, <string-name><given-names>N.</given-names>
+<surname>Krawczyk</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Krzemie&#x00144;</surname></string-name>, <string-name><given-names>E.</given-names>
+<surname>Kubicz</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Mohammed</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Niedzwiecki</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Pa&#x00142;ka</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Pawlik-Nied&#x0017a;wiecka</surname></string-name>, <string-name><given-names>L.</given-names>
+<surname>Raczy&#x00144;ski</surname></string-name>, <string-name><given-names>J.</given-names>
+<surname>Raj</surname></string-name>, <string-name><given-names>A.</given-names>
+<surname>Ruci&#x00144;ski</surname></string-name>, <string-name><given-names>S.</given-names>
+<surname>Shivani</surname></string-name>, <string-name><given-names>R. Y.</given-names>
+<surname>Shopa</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Silarski</surname></string-name>, <string-name><given-names>M.</given-names>
+<surname>Skurzok</surname></string-name>, <string-name><given-names>E. &#x00141;.</given-names>
+<surname>St&#x00119;pie&#x00144;</surname></string-name>, <string-name><given-names>W.</given-names>
+<surname>Wi&#x0015b;licki</surname></string-name>, <string-name><given-names>B.</given-names>
+<surname>Zgardzi&#x00144;ska</surname></string-name>, <string-name><given-names>P.</given-names>
+<surname>Moskal</surname></string-name></person-group>, 
+<article-title>Estimating relationship between the time over threshold and energy loss by photons in plastic scintillators used in the J-PET scanner</article-title>. <source>EJNMMI Phys.</source>
+<volume>7</volume>, 
+<fpage>39</fpage> (<year>2020</year>).<pub-id pub-id-type="pmid">32504254</pub-id>
+</mixed-citation></ref><ref id="R63"><label>63</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><given-names>R.</given-names>
+<surname>Brun</surname></string-name>, <string-name><given-names>F.</given-names>
+<surname>Rademakers</surname></string-name></person-group>, 
+<article-title>ROOT&#x02014;An object oriented data analysis framework</article-title>. <source>Nucl. Instrum. Methods Phys. Res.</source>
+<volume>389</volume>, 
+<fpage>81</fpage>&#x02013;<lpage>86</lpage> (<year>1997</year>).</mixed-citation></ref></ref-list></back></article>

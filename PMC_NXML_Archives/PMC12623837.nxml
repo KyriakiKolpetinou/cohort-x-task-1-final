@@ -1,0 +1,829 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="acn370135" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Ann Clin Transl Neurol</journal-id><journal-id journal-id-type="iso-abbrev">Ann Clin Transl Neurol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2328-9503</journal-id><journal-id journal-id-type="publisher-id">ACN3</journal-id><journal-title-group><journal-title>Annals of Clinical and Translational Neurology</journal-title></journal-title-group><issn pub-type="epub">2328-9503</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">40781066</article-id><article-id pub-id-type="pmc">12623837</article-id>
+<article-id pub-id-type="doi">10.1002/acn3.70135</article-id><article-id pub-id-type="publisher-id">ACN370135</article-id><article-id pub-id-type="other">ACN3-2025-03-0356.R1</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Durable B&#x02010;Cell Impairment While Sparing <styled-content style="fixed-case" toggle="no">IgA</styled-content> B Cells After Ocrelizumab Therapy in Multiple Sclerosis</article-title></title-group><contrib-group><contrib id="acn370135-cr-0001" contrib-type="author"><name><surname>Garcia</surname><given-names>Alexandra</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3031-5199</contrib-id><xref rid="acn370135-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="acn370135-cr-0002" contrib-type="author"><name><surname>Rodriguez</surname><given-names>Stephane</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0003-7119-5263</contrib-id><xref rid="acn370135-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="acn370135-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="acn370135-cr-0003" contrib-type="author"><name><surname>Dugast</surname><given-names>Emilie</given-names></name><xref rid="acn370135-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="acn370135-cr-0004" contrib-type="author"><name><surname>Lebrun&#x02010;Frenay</surname><given-names>Christine</given-names></name><xref rid="acn370135-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="acn370135-cr-0005" contrib-type="author"><name><surname>Thouvenot</surname><given-names>Eric</given-names></name><xref rid="acn370135-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="acn370135-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="acn370135-cr-0006" contrib-type="author"><name><surname>de S&#x000e8;ze</surname><given-names>J&#x000e9;r&#x000f4;me</given-names></name><xref rid="acn370135-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="acn370135-cr-0007" contrib-type="author"><name><surname>Le Page</surname><given-names>Emmanuelle</given-names></name><xref rid="acn370135-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref><xref rid="acn370135-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="acn370135-cr-0008" contrib-type="author"><name><surname>Vukusic</surname><given-names>Sandra</given-names></name><xref rid="acn370135-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref><xref rid="acn370135-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref><xref rid="acn370135-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref><xref rid="acn370135-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref></contrib><contrib id="acn370135-cr-0009" contrib-type="author"><name><surname>Doghri</surname><given-names>In&#x000e8;s</given-names></name><xref rid="acn370135-aff-0014" ref-type="aff">
+<sup>14</sup>
+</xref></contrib><contrib id="acn370135-cr-0010" contrib-type="author"><name><surname>Berger</surname><given-names>Eric</given-names></name><xref rid="acn370135-aff-0015" ref-type="aff">
+<sup>15</sup>
+</xref></contrib><contrib id="acn370135-cr-0011" contrib-type="author"><name><surname>Casez</surname><given-names>Olivier</given-names></name><xref rid="acn370135-aff-0016" ref-type="aff">
+<sup>16</sup>
+</xref></contrib><contrib id="acn370135-cr-0012" contrib-type="author"><name><surname>Labauge</surname><given-names>Pierre</given-names></name><xref rid="acn370135-aff-0017" ref-type="aff">
+<sup>17</sup>
+</xref></contrib><contrib id="acn370135-cr-0013" contrib-type="author"><name><surname>Ruet</surname><given-names>Aur&#x000e9;lie</given-names></name><xref rid="acn370135-aff-0018" ref-type="aff">
+<sup>18</sup>
+</xref><xref rid="acn370135-aff-0019" ref-type="aff">
+<sup>19</sup>
+</xref></contrib><contrib id="acn370135-cr-0014" contrib-type="author"><name><surname>Raposo</surname><given-names>Catarina</given-names></name><xref rid="acn370135-aff-0020" ref-type="aff">
+<sup>20</sup>
+</xref></contrib><contrib id="acn370135-cr-0015" contrib-type="author"><name><surname>Le Fr&#x000e8;re</surname><given-names>Fabienne</given-names></name><xref rid="acn370135-aff-0021" ref-type="aff">
+<sup>21</sup>
+</xref></contrib><contrib id="acn370135-cr-0016" contrib-type="author"><name><surname>Nicot</surname><given-names>Arnaud B.</given-names></name><xref rid="acn370135-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="acn370135-cr-0017" contrib-type="author"><name><surname>Wiertlewski</surname><given-names>Sandrine</given-names></name><xref rid="acn370135-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="acn370135-aff-0021" ref-type="aff">
+<sup>21</sup>
+</xref><xref rid="acn370135-aff-0022" ref-type="aff">
+<sup>22</sup>
+</xref></contrib><contrib id="acn370135-cr-0018" contrib-type="author"><name><surname>Gourraud</surname><given-names>Pierre&#x02010;Antoine</given-names></name><xref rid="acn370135-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="acn370135-aff-0023" ref-type="aff">
+<sup>23</sup>
+</xref></contrib><contrib id="acn370135-cr-0019" contrib-type="author"><name><surname>Michel</surname><given-names>Laure</given-names></name><xref rid="acn370135-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="acn370135-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="acn370135-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref><xref rid="acn370135-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="acn370135-cr-0020" contrib-type="author"><name><surname>Berthelot</surname><given-names>Laureline</given-names></name><xref rid="acn370135-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="acn370135-cr-0021" contrib-type="author" corresp="yes"><name><surname>Laplaud</surname><given-names>David&#x02010;Axel</given-names></name><xref rid="acn370135-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="acn370135-aff-0021" ref-type="aff">
+<sup>21</sup>
+</xref><xref rid="acn370135-aff-0022" ref-type="aff">
+<sup>22</sup>
+</xref><address><email>david.laplaud@univ-nantes.fr</email></address></contrib></contrib-group><aff id="acn370135-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">INSERM, Center for Research in Transplantation and Translational Immunology CR2TI, UMR 1064</named-content>
+<institution>CHU Nantes, Nantes Universit&#x000e9;</institution>
+<city>Nantes</city>
+<country country="FR">France</country>
+</aff><aff id="acn370135-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">INSERM, Unit&#x000e9; Mixte de Recherche U1236</named-content>
+<institution>Universit&#x000e9; Rennes Etablissement Fran&#x000e7;ais du Sang Bretagne, LabEx IGO</institution>
+<city>Rennes</city>
+<country country="FR">France</country>
+</aff><aff id="acn370135-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>Pole Biologie&#x02010;CHU Rennes, 2 Rue Henri Le Guilloux</institution>
+<city>Rennes</city>
+<country country="FR">France</country>
+</aff><aff id="acn370135-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">CRC&#x02010;SEP, CHU de Nice Pasteur 2</named-content>
+<institution>Universit&#x000e9; Nice C&#x000f4;te D&#x02019;azur UR2CA URRIS</institution>
+<city>Nice</city>
+<country country="FR">France</country>
+</aff><aff id="acn370135-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Service de Neurologie</named-content>
+<institution>CHU de N&#x000ee;mes</institution>
+<city>N&#x000ee;mes</city>
+<country country="FR">France</country>
+</aff><aff id="acn370135-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<institution>Institut de G&#x000e9;nomique Fonctionnelle, Universit&#x000e9; de Montpellier, CNRS, INSERM</institution>
+<city>Montpellier</city>
+<country country="FR">France</country>
+</aff><aff id="acn370135-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Service de Neurologie et Centre D&#x02019;investigation Clinique</named-content>
+<institution>CHU de Strasbourg, INSERM 1434</institution>
+<city>Strasbourg</city>
+<country country="FR">France</country>
+</aff><aff id="acn370135-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>Rennes University Hospital</institution>
+<city>Rennes</city>
+<country country="FR">France</country>
+</aff><aff id="acn370135-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<named-content content-type="organisation-division">Neuroscience Centre, CIC_P1414 INSERM</named-content>
+<institution>Rennes University Hospital</institution>
+<city>Rennes</city>
+<country country="FR">France</country>
+</aff><aff id="acn370135-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<institution>Universit&#x000e9; de Lyon, Universit&#x000e9; Claude Bernard Lyon 1</institution>
+<city>Lyon</city>
+<country country="FR">France</country>
+</aff><aff id="acn370135-aff-0011">
+<label>
+<sup>11</sup>
+</label>
+<named-content content-type="organisation-division">Service de Neurologie, scl&#x000e9;rose en plaques, pathologies de la my&#x000e9;line et neuro&#x02010;inflammation</named-content>
+<institution>H&#x000f4;pital Neurologique Pierre Wertheimer, Hospices Civils de Lyon</institution>
+<city>Bron</city>
+<country country="FR">France</country>
+</aff><aff id="acn370135-aff-0012">
+<label>
+<sup>12</sup>
+</label>
+<named-content content-type="organisation-division">Observatoire Fran&#x000e7;ais de la Scl&#x000e9;rose en Plaques</named-content>
+<institution>Centre de Recherche en Neurosciences de Lyon, INSERM 1028 et CNRS UMR 5292</institution>
+<city>Lyon</city>
+<country country="FR">France</country>
+</aff><aff id="acn370135-aff-0013">
+<label>
+<sup>13</sup>
+</label>
+<institution>EUGENE DEVIC EDMUS Foundation against multiple sclerosis, state&#x02010;approved foundation</institution>
+<city>Bron</city>
+<country country="FR">France</country>
+</aff><aff id="acn370135-aff-0014">
+<label>
+<sup>14</sup>
+</label>
+<named-content content-type="organisation-division">Service de Neurologie</named-content>
+<institution>CHU Bretonneau</institution>
+<city>Tours</city>
+<country country="FR">France</country>
+</aff><aff id="acn370135-aff-0015">
+<label>
+<sup>15</sup>
+</label>
+<named-content content-type="organisation-division">Service de Neurologie</named-content>
+<institution>CHU de Besan&#x000e7;on</institution>
+<named-content content-type="country-part">Besan&#x000e7;on</named-content>
+<country country="FR">France</country>
+</aff><aff id="acn370135-aff-0016">
+<label>
+<sup>16</sup>
+</label>
+<named-content content-type="organisation-division">Service de Neurologie</named-content>
+<institution>CHU de Grenoble</institution>
+<city>Grenoble</city>
+<country country="FR">France</country>
+</aff><aff id="acn370135-aff-0017">
+<label>
+<sup>17</sup>
+</label>
+<named-content content-type="organisation-division">Service de Neurologie</named-content>
+<institution>CHU de Montpellier</institution>
+<city>Montpellier</city>
+<country country="FR">France</country>
+</aff><aff id="acn370135-aff-0018">
+<label>
+<sup>18</sup>
+</label>
+<named-content content-type="organisation-division">Service de Neurologie et Maladies inflammatoires du Syst&#x000e8;me nerveux central</named-content>
+<institution>CRC SEP, CHU de Bordeaux</institution>
+<city>Bordeaux</city>
+<country country="FR">France</country>
+</aff><aff id="acn370135-aff-0019">
+<label>
+<sup>19</sup>
+</label>
+<named-content content-type="organisation-division">INSERM U1215, Neurocentre Magendie</named-content>
+<institution>Universit&#x000e9; de Bordeaux</institution>
+<city>Bordeaux</city>
+<country country="FR">France</country>
+</aff><aff id="acn370135-aff-0020">
+<label>
+<sup>20</sup>
+</label>
+<institution>F. Hoffmann&#x02010;La Roche Ltd</institution>
+<country country="CH">Switzerland</country>
+</aff><aff id="acn370135-aff-0021">
+<label>
+<sup>21</sup>
+</label>
+<institution>CIC INSERM 1413</institution>
+<city>Nantes</city>
+<country country="FR">France</country>
+</aff><aff id="acn370135-aff-0022">
+<label>
+<sup>22</sup>
+</label>
+<named-content content-type="organisation-division">CRC&#x02010;SEP Pays de la Loire, Service de Neurologie</named-content>
+<institution>CHU Nantes, Nantes Universit&#x000e9;</institution>
+<city>Nantes</city>
+<country country="FR">France</country>
+</aff><aff id="acn370135-aff-0023">
+<label>
+<sup>23</sup>
+</label>
+<named-content content-type="organisation-division">Clinique Des donn&#x000e9;es</named-content>
+<institution>CHU Nantes, Nantes Universit&#x000e9;</institution>
+<city>Nantes</city>
+<country country="FR">France</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold>
+<break/>
+David&#x02010;Axel Laplaud (<email>david.laplaud@univ-nantes.fr</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>08</day><month>8</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>11</month><year>2025</year></pub-date><volume>12</volume><issue seq="110">11</issue><issue-id pub-id-type="doi">10.1002/acn3.v12.11</issue-id><fpage>2271</fpage><lpage>2285</lpage><history>
+<date date-type="rev-recd"><day>10</day><month>6</month><year>2025</year></date>
+<date date-type="received"><day>27</day><month>3</month><year>2025</year></date>
+<date date-type="accepted"><day>18</day><month>6</month><year>2025</year></date>
+</history><permissions><!--&#x000a9; 2025 American Neurological Association--><copyright-statement content-type="article-copyright">&#x000a9; 2025 The Author(s). <italic toggle="yes">Annals of Clinical and Translational Neurology</italic> published by Wiley Periodicals LLC on behalf of American Neurological Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ACN3-12-2271.pdf"/><abstract><title>ABSTRACT</title><sec id="acn370135-sec-0001"><title>Objectives</title><p>Ocrelizumab (OCR), a humanized anti&#x02010;CD20 monoclonal antibody, is highly efficient in relapsing&#x02013;remitting multiple sclerosis (RR&#x02010;MS). We assessed early cellular B&#x02010;cell profiles in patients prior to OCR treatment, on OCR treatment, and after 15&#x02009;months of therapy discontinuation. This study aims to provide new clues about the mechanisms of action of OCR and about disease pathophysiology.</p></sec><sec id="acn370135-sec-0002"><title>Methods</title><p>Patients with early, treatment&#x02010;naive, RR&#x02010;MS were included from 11 centers participating in an ancillary study of the ENSEMBLE trial (NCT03085810) to evaluate the effectiveness and safety of OCR. The phenotypic B&#x02010;cell immune profile was comprehensively assessed in 18 patients by spectral flow cytometry at baseline, after 1&#x02009;year of OCR treatment, and compared with 10 healthy volunteers (HVs) (matched for age and sex) on cryopreserved peripheral blood mononuclear cells (PBMC). We also analyzed B&#x02010;cell reconstitution after a median time of 15&#x02009;months after trial withdrawal in three patients by flow cytometry and single&#x02010;cell RNA sequencing.</p></sec><sec id="acn370135-sec-0003"><title>Results</title><p>Using spectral flow cytometry we defined the proportions and absolute numbers of naive, transitional, Ig&#x02010;G, Ig&#x02010;A, Ig&#x02010;M memory B cells, Ig&#x02010;G, Ig&#x02010;A, Ig&#x02010;M plasmablasts, and plasma cells. At baseline we found an increased frequency of IgG&#x02010;secreting B cells in MS patients compared to HV. During OCR treatment, the proportion of the different subsets of B cells was strongly modified. In the mature clusters, we observed that the treatment partially spared memory IgA B cells. In parallel, we observed that differentiated IgA plasmablasts and plasma cells were more increased than the other differentiated clusters. Interestingly, in the three patients who stopped the treatment single&#x02010;cell RNA sequencing showed that the B cells that reappeared were mainly naive with an inflammatory and migratory phenotype concomitantly to a rise of regulatory B cells.</p></sec><sec id="acn370135-sec-0004"><title>Discussion</title><p>Our findings support an increased regulatory phenotype of remaining B cells under treatment with OCR and replenishment of undifferentiated B cells accumulating features of inflammatory and migratory patterns after OCR discontinuation, counterbalanced by an increased proportion of regulatory B cells.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="acn370135-kwd-0001">anti&#x02010;CD20</kwd><kwd id="acn370135-kwd-0002">B cells</kwd><kwd id="acn370135-kwd-0003">IgA</kwd><kwd id="acn370135-kwd-0004">multiple sclerosis</kwd><kwd id="acn370135-kwd-0005">single&#x02010;cell RNA sequencing</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>F. Hoffmann&#x02010;La Roche</institution></institution-wrap>
+</funding-source></award-group><funding-statement>This work was funded by <funding-source>
+<institution-wrap><institution>F. Hoffmann&#x02010;La Roche</institution></institution-wrap>
+</funding-source>.</funding-statement></funding-group><counts><fig-count count="7"/><table-count count="1"/><page-count count="15"/><word-count count="8800"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.6 mode:remove_FC converted:18.11.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="acn370135-ntgp-0001"><fn fn-type="funding" id="acn370135-note-0001"><p>
+<bold>Funding:</bold> This work was supported by F. Hoffmann&#x02010;La Roche.</p></fn><fn fn-type="equal" id="acn370135-note-0002"><p>Alexandra Garcia and Stephane Rodriguez cofirst authors.</p></fn><fn id="acn370135-note-0003"><p>Laureline Berthelot and David&#x02010;Axel Laplaud colast authors.</p></fn></fn-group></notes></front><body id="acn370135-body-0001"><def-list list-content="abbreviations" id="acn370135-dl-0001"><title>Abbreviations</title><def-item><term id="acn370135-li-0001">CD</term><def id="acn370135-li-0002"><p>Cluster of differentiation</p></def></def-item><def-item><term id="acn370135-li-0003">CM</term><def id="acn370135-li-0004"><p>Central Memory</p></def></def-item><def-item><term id="acn370135-li-0005">CSF</term><def id="acn370135-li-0006"><p>Cerebrospinal Fluid</p></def></def-item><def-item><term id="acn370135-li-0007">EAE</term><def id="acn370135-li-0008"><p>Experimental Autoimmune Encephalomyelitis</p></def></def-item><def-item><term id="acn370135-li-0009">EDSS</term><def id="acn370135-li-0010"><p>Expanded Disability Status Score</p></def></def-item><def-item><term id="acn370135-li-0011">EM</term><def id="acn370135-li-0012"><p>Effector Memory</p></def></def-item><def-item><term id="acn370135-li-0013">FCS</term><def id="acn370135-li-0014"><p>Flow cytometry standard</p></def></def-item><def-item><term id="acn370135-li-0015">FlowSOM</term><def id="acn370135-li-0016"><p>Flow cytometry Self&#x02010;Organizing Map</p></def></def-item><def-item><term id="acn370135-li-0017">IFC</term><def id="acn370135-li-0018"><p>Integrated Fluidic Circuits</p></def></def-item><def-item><term id="acn370135-li-0019">MS</term><def id="acn370135-li-0020"><p>Multiple Sclerosis</p></def></def-item><def-item><term id="acn370135-li-0021">OCR</term><def id="acn370135-li-0022"><p>Ocrelizumab</p></def></def-item><def-item><term id="acn370135-li-0023">PBMC</term><def id="acn370135-li-0024"><p>Peripheral Blood Mononuclear Cells</p></def></def-item><def-item><term id="acn370135-li-0025">RR</term><def id="acn370135-li-0026"><p>Relapsing&#x02013;Remitting</p></def></def-item><def-item><term id="acn370135-li-0027">scRNAseq</term><def id="acn370135-li-0028"><p>single&#x02010;cell RNA sequencing</p></def></def-item><def-item><term id="acn370135-li-0029">t&#x02010;SNE CUDA</term><def id="acn370135-li-0030"><p>t&#x02010;Distributed Stochastic Neighbor Embedding Compute Unified Device Architecture</p></def></def-item></def-list><sec id="acn370135-sec-0005"><label>1</label><title>Introduction</title><p>Multiple sclerosis (MS) is a chronic inflammatory demyelinating disease of the CNS, which has long been considered to be mediated by autoreactive <italic toggle="yes">T</italic> cells [<xref rid="acn370135-bib-0001" ref-type="bibr">1</xref>]. Since the past few years, the effectiveness of anti&#x02010;CD20 therapies on the clinical and radiological activity of the disease in MS patients has questioned the pathogenesis of MS and included B cells as a key actor of the disease [<xref rid="acn370135-bib-0002" ref-type="bibr">2</xref>, <xref rid="acn370135-bib-0003" ref-type="bibr">3</xref>, <xref rid="acn370135-bib-0004" ref-type="bibr">4</xref>]. In MS, B cells are found in the meninges of some patients with a secondary progressive disease. They form aggregates of <italic toggle="yes">B</italic> and <italic toggle="yes">T</italic> cells associated with more severe disease and cortical demyelination [<xref rid="acn370135-bib-0005" ref-type="bibr">5</xref>, <xref rid="acn370135-bib-0006" ref-type="bibr">6</xref>]. Moreover, it has been previously shown that B cells from MS patients secrete more proinflammatory cytokines than their counterparts in healthy individuals [<xref rid="acn370135-bib-0007" ref-type="bibr">7</xref>]. Recent works showed the importance of the interaction between <italic toggle="yes">B</italic> and <italic toggle="yes">T</italic> cells in the pathogenesis of MS, showing that memory B cells activate brain&#x02010;homing effector <italic toggle="yes">T</italic> cells, thus shaping the autoimmune reaction in MS [<xref rid="acn370135-bib-0008" ref-type="bibr">8</xref>].</p><p>CD20 is a cell surface antigen found on pre&#x02010;B cells, mature B cells, and memory B cells, but it is not expressed on lymphoid stem cells and plasma cells [<xref rid="acn370135-bib-0009" ref-type="bibr">9</xref>, <xref rid="acn370135-bib-0010" ref-type="bibr">10</xref>]. While ocrelizumab (OCR) selectively depletes CD20expressing B cells [<xref rid="acn370135-bib-0011" ref-type="bibr">11</xref>], the capacity for B&#x02010;cell reconstitution and preexisting humoral immunity are preserved [<xref rid="acn370135-bib-0008" ref-type="bibr">8</xref>, <xref rid="acn370135-bib-0009" ref-type="bibr">9</xref>]. CD20 is also expressed on a small subset of effector memory CD8 <italic toggle="yes">T</italic> cells that accumulate in brain lesions. Anti&#x02010;CD20 therapies also target these cells and may have a role in disease physiopathology [<xref rid="acn370135-bib-0012" ref-type="bibr">12</xref>].</p><p>To unravel the mechanisms of action of B&#x02010;cell depletion, we took advantage of a cohort of treatment&#x02010;naive, early relapsing&#x02013;remitting (RR) MS patients enrolled in the multicenter ENSEMBLE study (NCT03085810) and treated with OCR every 6&#x02009;months [<xref rid="acn370135-bib-0013" ref-type="bibr">13</xref>]. Patients were sampled at baseline and 1&#x02009;year after treatment.</p><p>We performed spectral flow cytometry at each time point for 18 patients and after a median time of 15&#x02009;months after withdrawal of the trial for three patients to deeply study B&#x02010;cell differentiation stages. Finally, we performed a single&#x02010;cell RNA sequencing of B cells on the three patients who stopped the treatment before and after OCR stop to analyze their transcriptomic profile.</p></sec><sec sec-type="materials-and-methods" id="acn370135-sec-0006"><label>2</label><title>Materials and Methods</title><sec id="acn370135-sec-0007"><label>2.1</label><title>Samples</title><p>We included MS patients and healthy volunteers (HVs) who provided informed consent in compliance with the Declaration of Helsinki.</p><p>Group 1 consisted of 18 treatment&#x02010;naive patients with RR&#x02010;MS treated with OCR in the multicenter, open&#x02010;labeled phase 3b ENSEMBLE study. All patients included have a definite diagnosis of RR&#x02010;MS according to McDonald's 2010 criteria, a disease duration less than or equal to 3&#x02009;years, signs of clinical (i.e., relapse) or radiological activity in the last 12&#x02009;months, and an Expanded Disability Status Score (EDSS)&#x02009;&#x02264;&#x02009;3.5 at baseline. Blood sampling was performed at baseline, 12&#x02009;months after starting OCR, and for three of them, 15 (&#x000b1;4) months after trial withdrawal (DISC). For patients who had stopped treatment, a sample was taken approximately 1 year after discontinuation to give the B cells time to repopulate. We therefore had samples taken at 11, 17, and 19&#x02009;months for our three patients, giving an average of 15&#x02009;months.</p><p>Group 2 consisted of 10&#x02009;HV matched in age and sex with MS patients. The clinical and demographical characteristics of the two groups are summarized in Table&#x000a0;<xref rid="acn370135-tbl-0001" ref-type="table">1</xref>.</p><table-wrap position="float" id="acn370135-tbl-0001" content-type="TABLE"><label>TABLE 1</label><caption><p>Clinical and Demographical Patient Characteristics at Baseline.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">MS (<italic toggle="yes">n</italic>&#x02009;=&#x02009;18)</th><th align="center" valign="bottom" rowspan="1" colspan="1">MS under B&#x02010;cell repletion (<italic toggle="yes">n</italic>&#x02009;=&#x02009;3)</th><th align="center" valign="bottom" rowspan="1" colspan="1">HV (<italic toggle="yes">n</italic>&#x02009;=&#x02009;10)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Age (year)<xref rid="acn370135-note-0005" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">29.39 (7)</td><td align="center" valign="top" rowspan="1" colspan="1">34.33 (3.8)</td><td align="center" valign="top" rowspan="1" colspan="1">27.60 (4)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Female/male, <italic toggle="yes">n</italic> (%)</td><td align="center" valign="top" rowspan="1" colspan="1">14 (70%)/6 (30%)</td><td align="center" valign="top" rowspan="1" colspan="1">3 (100%)/0 (0%)</td><td align="center" valign="top" rowspan="1" colspan="1">7 (70%)/3 (30%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">EDSS score<xref rid="acn370135-note-0005" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">1.2 (0.88)</td><td align="center" valign="top" rowspan="1" colspan="1">0.5 (0.58)</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">% With gadolinium + at screening</td><td align="center" valign="top" rowspan="1" colspan="1">66.7</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Duration since last relapse before treatment started (days)<xref rid="acn370135-note-0005" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">115.3 (56.9)</td><td align="center" valign="top" rowspan="1" colspan="1">135.7 (49.6)</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Duration since diagnosis (year)<xref rid="acn370135-note-0005" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.3 (0.24)</td><td align="center" valign="top" rowspan="1" colspan="1">0.5 (0.5)</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Time after discontinuation of OCR (month)<xref rid="acn370135-note-0005" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">15 (4)</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr></tbody></table><table-wrap-foot id="acn370135-ntgp-0002"><fn id="acn370135-note-0004"><p>Abbreviation: EDSS&#x02009;=&#x02009;Expanded Disability Status Scale.</p></fn><fn id="acn370135-note-0005"><label>
+<sup>a</sup>
+</label><p>Mean with (SD).</p></fn></table-wrap-foot></table-wrap><p>Peripheral blood mononuclear cells (PBMC) from groups 1 and 2 were isolated and frozen in liquid nitrogen using identical procedures at the Biological Resource Center of each participating center and sent to Nantes University Hospital for a longitudinal spectral flow cytometry analysis.</p></sec><sec id="acn370135-sec-0008"><label>2.2</label><title>B&#x02010;Cell Profiling by Spectral Flow Cytometry</title><p>PBMC were isolated using a standard Ficoll gradient according to the manufacturer's instructions (Eurobio) and frozen. After thawing, PBMC (2.10<sup>6</sup> cells) were stained with antibodies targeting 15 extracellular markers listed in Table&#x000a0;<xref rid="acn370135-supitem-0001" ref-type="supplementary-material">S1</xref>. The viability staining with the LIVE/DEAD Fixable Blue Dead Cell Stain Kit (Invitrogen) was performed at 4&#x000b0;C for 20&#x02009;min. The antibodies were added in sequential steps every 10&#x02009;min. PBMC were analyzed at baseline, 1&#x02009;year of OCR treatment, and after a median time of 15&#x02009;months after OCR discontinuation, using an Aurora 5&#x02010;laser spectral flow cytometer (Cytek Biosciences). The volumetric counting of cells was determined by the volume per sample recorded with the same number of PBMC recorded in the same volume (Volumetric counting: 2.10<sup>6</sup> PBMC in 200&#x02009;&#x003bc;L recorded &#x000d7; &#x003bc;L per sample). After individual titration of each antibody, a deconvolution matrix was set up and a quality control procedure was performed before each data acquisition according to Cytek recommendations.</p></sec><sec id="acn370135-sec-0009"><label>2.3</label><title>High Dimensional Data Analysis of Flow Cytometry Data</title><p>Unsupervised <italic toggle="yes">t</italic>&#x02010;SNE CUDA (t&#x02010;Distributed Stochastic Neighbor Embedding Compute Unified Device Architecture) algorithm for dimensional reduction followed by a FlowSOM (Flow cytometry Self&#x02010;Organizing Map) analysis was performed on OMIQ (<ext-link xlink:href="https://www.omiq.ai/" ext-link-type="uri">https://www.omiq.ai/</ext-link>). Flow cytometry standard files were first cleaned using FlowJo. Analyzed cells were gated on morphology followed by Singlet SSC, Singlet FSC, and living lymphoid cells. <italic toggle="yes">T</italic>&#x02010;SNE CUDA analysis was performed using equal sampling of 1.10<sup>4</sup> cells from each time point, with 1000 iterations, a perplexity of 30, and a theta of 0.5. The resulting <italic toggle="yes">t</italic>&#x02010;SNE CUDA maps were fed into the FlowSOM clustering algorithm. A new self&#x02010;organizing map (SOM) was generated using hierarchical consensus clustering on the <italic toggle="yes">t</italic>&#x02010;SNE axes for each cell subset.</p></sec><sec id="acn370135-sec-0010"><label>2.4</label><title>Cell Multiplexing and Single&#x02010;Cell <styled-content style="fixed-case" toggle="no">RNA</styled-content> Sequencing</title><p>We performed single&#x02010;cell RNA sequencing (scRNAseq) using the CITE&#x02010;seq method for three MS patients at baseline, 1&#x02009;year after starting OCR, and 15.5&#x02009;months after OCR discontinuation (11, 17 or 19&#x02009;months) [<xref rid="acn370135-bib-0014" ref-type="bibr">14</xref>]. Cells were marked with viability dye (DAPI), CD3, and CD19 for 30&#x02009;min at 4&#x000b0;C (Table&#x000a0;<xref rid="acn370135-supitem-0001" ref-type="supplementary-material">S1</xref>). Living CD3+ or CD19+ cells were sorted on an ARIA III (BD Biosciences) and marked with conjugated DNA sequences (HashTag Oligonucleotide (HTO), Chromium Single Cell 5&#x02019; Feature Barcode Kit specific of the patient and the experimental condition following CITE&#x02010;seq protocols) (Table&#x000a0;<xref rid="acn370135-supitem-0001" ref-type="supplementary-material">S2</xref>) [<xref rid="acn370135-bib-0014" ref-type="bibr">14</xref>]. Cells were then pooled in similar amounts, and 20,000 total cells were loaded onto a Chromium controller (10X genomics) Chromium Next GEM Single Cell 5&#x02019; Kit v2 (PN&#x02010;1000263); Chromium Next GEM Chip K Single Cell Kit (PN&#x02010;1000286). Libraries were then prepared and sequenced on a Nova&#x02010;Seq 6000 (Illumina) at the GenoBird platform (IRS&#x02010;UN, CHU Nantes). Raw reads were analyzed using FastQC for quality controls and aligned with Cell Ranger v6.1.1 in intron inclusion mode on the Human GRCh38 scRNAseq optimized transcriptomic reference v1.0 as in Pool et&#x000a0;al. [<xref rid="acn370135-bib-0015" ref-type="bibr">15</xref>] The number of cells retrieved ranged from 9054 to 17,856 cells, while the number of features retrieved per cell was comprised between 1322 and 1823 transcripts. Cells displaying either an abnormal number of features (transcript number&#x02009;&#x0003c;&#x02009;400 or&#x02009;&#x0003e;&#x02009;4000), a number of UMI over 15,000, a mitochondrial gene expression higher than 10% of retrieved features, or a ribosomal transcript frequency lower than 8% were filtered out, as clusters predicted to comprise mainly doublets through the singleCellTK package v2.8.0.</p></sec><sec id="acn370135-sec-0011"><label>2.5</label><title>
+<styled-content style="fixed-case" toggle="no">scRNAseq</styled-content> Data Processing</title><p>To minor batch effect, events from each library and kept from the quality control were merged and integrated following Log normalization. Data integration was done with the FindIntegrationAnchors and IntegrateData functions from Seurat v4.3.0 on the first 20 correlation components. PCA analysis was used for UMAP processing and cells clustering (20 nearest neighbors, resolution 0.4). Cell subsets labeling resulted from the concordance between: (i) differentially expressed gene analysis between clusters, obtained through the FindAllMarkers function from the Seurat package with test.use set to &#x0201c;wilcox&#x0201d;; (ii) cluster matching to gene signatures characteristic from cell lineages and obtained from literature [<xref rid="acn370135-bib-0016" ref-type="bibr">16</xref>]; (iii) SingleR v2.0.0 automated assignation based on signatures managed by celldex package v1.8.0. as: HumanPrimaryCellAtlasData, BlueprintEncodeData, DatabaseImmuneCellExpressionData, MonacoImmuneData and NovershternHematopoietic Data. Once cell lineages were subsets defined, each of them was isolated and the newly generated datasets were integrated separately according to the Harmony algorithm from the Harmony package v0.1.1 and further split in clusters (15 nearest neighbors, resolution&#x02009;=&#x02009;0.15). Pseudotime analysis reflecting cell differentiation steps was tested using Monocle3 package v1.3.7. Prospective GSEA using of GSEABase packages v1.60.0 and a homemade script using MSigDB, Kegg and GO databases was done to study pathways differentially enriched between clusters or between the same cluster from different time points. Gene signatures retrieved from the literature or from publicly available datasets were tested through the ModuleScore function from the Seurat package or AUCell v1.20.2. Repertoire analysis was done with the use of scRepertoire package v1.8.0. More than 50% of the events get a BCR assignment, IGH, IGL or both. Number of BCR sequences retrieved ranged from 5 to 2614 per sample.</p></sec><sec id="acn370135-sec-0012"><label>2.6</label><title>Statistical Analysis</title><p>All statistically supervised analyses were performed using GraphPad Prism 10. Supervised and unsupervised flow cytometry analyses were performed using OMIQ (<ext-link xlink:href="https://www.omiq.ai/" ext-link-type="uri">https://www.omiq.ai/</ext-link>). The used test was annotated in the figure legend. Values are presented as mean&#x02009;&#x000b1;&#x02009;SD. <italic toggle="yes">p</italic> values were presented with * indicated as follows: * <italic toggle="yes">p</italic>&#x02009;&#x02264;&#x02009;0.05; ** <italic toggle="yes">p</italic>&#x02009;&#x02264;&#x02009;0.01; *** <italic toggle="yes">p</italic>&#x02009;&#x02264;&#x02009;0.001; and **** <italic toggle="yes">p</italic>&#x02009;&#x02264;&#x02009;0.0001.</p></sec></sec><sec sec-type="results" id="acn370135-sec-0013"><label>3</label><title>Results</title><sec id="acn370135-sec-0014"><label>3.1</label><title>Identification of B&#x02010;Cell Subsets</title><p>Using spectral flow cytometry, we investigated the impact of OCR treatment on B cells from treatment&#x02010;naive RR&#x02010;MS patients at baseline, after 1&#x02009;year of OCR treatment, and after a median time of 15&#x02009;&#x000b1;&#x02009;4 months discontinuation of OCR. With our panel, we were able to cover the main B&#x02010;cell populations including naive, transitional, unswitched IgD memory, IgG, IgA, IgM memory B cells, and IgG, IgA, IgM plasmablasts and plasma cells (Figure&#x000a0;<xref rid="acn370135-fig-0001" ref-type="fig">1A</xref>, Figure&#x000a0;<xref rid="acn370135-supitem-0001" ref-type="supplementary-material">S1</xref>). We decided to focus our study on the different IgG&#x02010;, IgM&#x02010;, and in particular IgA&#x02010;expressing subpopulations which are less studied in the literature. OCR led to significant incomplete B&#x02010;cell depletion, as some of the cells from the B&#x02010;cell lineage are still present after 1 year of treatment (Baseline: 6.84%&#x02009;&#x000b1;&#x02009;2.6%; OCR: 0.28%&#x02009;&#x000b1;&#x02009;0.51%) (Figure&#x000a0;<xref rid="acn370135-fig-0001" ref-type="fig">1B,C</xref>).</p><fig position="float" fig-type="FIGURE" id="acn370135-fig-0001"><label>FIGURE 1</label><caption><p>Overview of spectral flow cytometry analysis and counts of B&#x02010;cell subsets. (A) Representation of B&#x02010;cell subsets and their associated markers. (B) Percent of CD19+ B cells at baseline (black) after 1&#x02009;year of OCR treatment (orange) and after discontinuation (blue) in PBMC. (C) Count of CD19+ B cells at baseline (black) after 1&#x02009;year of OCR treatment (orange) and after discontinuation (blue) in PBMC. Volumetric counting: 2 million PBMC in 200&#x02009;&#x003bc;L recorded &#x000d7; &#x003bc;L per sample, and Mann&#x02013;Whitney test on each row and Holm&#x02010;Sidak's comparisons were used (mean with SD). *<italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.05, **<italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.01, ***<italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.001, and ****<italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.0001 (MS&#x02009;=&#x02009;18, HV&#x02009;=&#x02009;10, DISC&#x02009;=&#x02009;3).</p></caption><graphic xlink:href="ACN3-12-2271-g002" position="anchor" id="jats-graphic-1"/></fig></sec><sec id="acn370135-sec-0015"><label>3.2</label><title>
+<styled-content style="fixed-case" toggle="no">MS</styled-content> Patients Have an Increased Frequency of <styled-content style="fixed-case" toggle="no">IgG</styled-content>&#x02010;Secreting B cells Compared to Healthy Volunteers</title><p>With a supervised analysis, we compared the proportion of B&#x02010;cell subsets in HV and RR&#x02010;MS at baseline. We first studied the frequency of naive, transitional, memory, plasmablast, and plasma cells within the B&#x02010;cell subset. As expected, the cluster of naive B cells is predominant, followed by the memory B cells and transitional B cells. These proportions were conserved between MS patients and HV. However, the proportion of plasma cells is significantly increased in MS at baseline compared to HV (0.16%&#x02009;&#x000b1;&#x02009;0.27%; 0.02%&#x02009;&#x000b1;&#x02009;0.02%, respectively) (Figure&#x000a0;<xref rid="acn370135-fig-0002" ref-type="fig">2A</xref>). We also analyzed the proportion among memory B cells, plasmablasts, and plasma cells of their IgG, IgA, and IgM expressing subsets. We found that memory IgG B cells (MS baseline: 26.8%&#x02009;&#x000b1;&#x02009;7.8%; HV: 13.5%&#x02009;&#x000b1;&#x02009;4.2%) (Figure&#x000a0;<xref rid="acn370135-fig-0002" ref-type="fig">2B</xref>), IgG&#x02010;secreting plasmablasts (MS baseline: 15.3%&#x02009;&#x000b1;&#x02009;6.6%; HV: 4.7%&#x02009;&#x000b1;&#x02009;2.9%) (Figure&#x000a0;<xref rid="acn370135-fig-0002" ref-type="fig">2C</xref>) and plasma cells (MS baseline: 15.6%&#x02009;&#x000b1;&#x02009;11.7%; HV: 1.9%&#x02009;&#x000b1;&#x02009;3.9%) (Figure&#x000a0;<xref rid="acn370135-fig-0002" ref-type="fig">2D</xref>) were increased in MS patients at baseline among respective subsets. When considering the cell proportions of these cells in the different subsets, we confirmed an increased number of memory IgG B cells in MS patients at baseline compared to HV (1552&#x02009;&#x000b1;&#x02009;5780 cells/&#x003bc;l, 793&#x02009;&#x000b1;&#x02009;295 cells/&#x003bc;L, respectively) (Figure&#x000a0;<xref rid="acn370135-supitem-0001" ref-type="supplementary-material">S2</xref>).</p><fig position="float" fig-type="FIGURE" id="acn370135-fig-0002"><label>FIGURE 2</label><caption><p>MS patients at baseline have more memory IgG B cells and plasma cells than HV. (A) Frequency (%) of naive (CD27&#x02010;), transitional (CD27&#x02010;CD38&#x02009;+&#x02009;IgD+), memory (CD27&#x02009;+&#x02009;CD38&#x02010;), plasmablast (CD27++CD38++CD138&#x02010;) and plasma cell (CD27++CD38++CD138+) subsets within B cells from HV (Green) and patients with MS at baseline (black). (B) Frequency (%) of memory IgG, IgM, IgA and unswitched memory (IgD+) within memory B cells (CD27&#x02009;+&#x02009;CD38&#x02010;) from HV (Green) and patients with MS at baseline (black). (C) Frequency (%) of plasmablast IgG, IgM, IgD, IgA within plasmablast (CD27++CD38++CD138&#x02010;) from HV (Green) and patients with MS at baseline (black). (D) Frequency (%) of IgG, IgM, IgA plasma cells within plasma cells (CD27++CD38++CD138+) from HV (Green) and patients with MS at baseline (black). Mann&#x02013;Whitney test on each row with Holm&#x02010;Sidak's multiple comparisons test was performed. *<italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.05, **<italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.01, ***<italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.001 (MS&#x02009;=&#x02009;18, HV&#x02009;=&#x02009;10)</p></caption><graphic xlink:href="ACN3-12-2271-g001" position="anchor" id="jats-graphic-3"/></fig></sec><sec id="acn370135-sec-0016"><label>3.3</label><title>The <styled-content style="fixed-case" toggle="no">IgA</styled-content>&#x02010;Secreting B&#x02010;cell Subsets Become Predominant Under <styled-content style="fixed-case" toggle="no">OCR</styled-content> Treatment</title><p>OCR led to a significant reduction of B cells. In some patients, low levels of B cells were present at 1&#x02009;year of treatment, including subsets expressing CD20. Plasmablasts and plasma cells expressing low or no CD20 were majorly preserved. However, the proportion of the different remaining subsets of B cells was strongly modified (Figure&#x000a0;<xref rid="acn370135-fig-0003" ref-type="fig">3A</xref>).</p><fig position="float" fig-type="FIGURE" id="acn370135-fig-0003"><label>FIGURE 3</label><caption><p>IgA B&#x02010;cell populations become predominant under OCR treatment. (A) Frequency (%) of naive (CD27&#x02010;), transitional (CD27&#x02010;CD38&#x02009;+&#x02009;IgD+), memory (CD27&#x02009;+&#x02009;CD38&#x02010;), plasmablast (CD27++CD38++CD138&#x02010;) and plasma cell (CD27++CD38++CD138+) subsets within B cells from patients with MS at baseline (black) and 1&#x02009;year after OCR treatment (orange). (B) Frequency (%) of memory IgG, IgM, IgA and unswitched memory (IgD+) within memory B cells (CD27&#x02009;+&#x02009;CD38&#x02010;) at baseline (black) and 1&#x02009;year after OCR treatment (orange). (C) Frequency (%) of IgG, IgM, IgD, IgA plasmablasts within plasmablasts (CD27++CD38++CD138&#x02010;) from HV (Green) and patients with MS at baseline (black). (D) Frequency (%) of IgG, IgM, IgA plasma cells within plasma cells (CD27++CD38++CD138+) at baseline (black) and 1&#x02009;year after OCR treatment (orange). Wilcoxon matched&#x02010;pairs signed rank test on each row with Bonferroni&#x02010;Dunn's comparisons was performed. *<italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.05, **<italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.01, ***<italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.001 (MS&#x02009;=&#x02009;18)</p></caption><graphic xlink:href="ACN3-12-2271-g007" position="anchor" id="jats-graphic-5"/></fig><p>In the memory subsets, we observed that IgA memory B cells (Baseline: 22.3%&#x02009;&#x000b1;&#x02009;6.3%; OCR: 54.7%&#x02009;&#x000b1;&#x02009;12.1%) become predominant in comparison to unswitched IgD memory, IgG, and IgM memory subsets on OCR treatment (Figure&#x000a0;<xref rid="acn370135-fig-0003" ref-type="fig">3B</xref>). The same result was observed for the plasmablasts, with an increased proportion of IgA B cells (Baseline: 50.3%&#x02009;&#x000b1;&#x02009;11.6%; OCR: 64.2%&#x02009;&#x000b1;&#x02009;13.2%) compared to a decrease of IgG B cells (Baseline: 15.3%&#x02009;&#x000b1;&#x02009;6.6%; OCR: 8.1%&#x02009;&#x000b1;&#x02009;4.9%) (Figure&#x000a0;<xref rid="acn370135-fig-0003" ref-type="fig">3C</xref>). Within the plasma cell population, the same tendency was also observed (Figure&#x000a0;<xref rid="acn370135-fig-0003" ref-type="fig">3D</xref>). When considering the absolute number of remaining B cells, we observed an apparent sparing of transitional B cells, plasmablasts, and plasma cells, and a global decrease of memory B cells (Figure&#x000a0;<xref rid="acn370135-supitem-0001" ref-type="supplementary-material">S3</xref>). Heterogeneity of cell proportions was not explained by center effect (data not shown) and could be due to the low number of analyzed cells.</p><p>Traditionally, CD27 is considered a hallmark of memory B cells; however, recent evidence indicates the existence of CD27&#x02010;negative memory B cells even after class&#x02010;switching [<xref rid="acn370135-bib-0017" ref-type="bibr">17</xref>]. We therefore performed an alternative gating strategy based on IgD&#x02010;CD27+/&#x02212; (Figure&#x000a0;<xref rid="acn370135-supitem-0001" ref-type="supplementary-material">S4A</xref>) and found no difference in class&#x02010;switched CD27&#x02010; B cells on OCR treatment (Figure&#x000a0;<xref rid="acn370135-supitem-0001" ref-type="supplementary-material">S4B</xref>). Still, we confirmed the predominance of IgA class&#x02010;switched CD27+ B cells (Figure&#x000a0;<xref rid="acn370135-supitem-0001" ref-type="supplementary-material">S4C</xref>).</p><p>To go further, we applied a high&#x02010;dimensional flow cytometry unsupervised analysis to investigate unbiasedly if other subset(s) of B cells might be affected by OCR. We thus used the t&#x02010;SNE CUDA algorithm for dimensional reduction followed by a FlowSOM unsupervised clustering and identified 13 clusters (Figure&#x000a0;<xref rid="acn370135-fig-0004" ref-type="fig">4A</xref>
+<bold>)</bold> characterized by discriminating markers expression (Figure&#x000a0;<xref rid="acn370135-fig-0004" ref-type="fig">4B</xref>). We observed a strong increase in the proportion of IgA plasmablasts (Baseline: 0.97%; OCR: 28.19% of total B&#x02010;cell) and IgA plasma cells (Baseline: 0.20%; OCR: 9.05% of total B&#x02010;cell) clusters and conservation of memory IgA B cells (Baseline: 8.93%; OCR: 6.11% of total B&#x02010;cell) compared to a decrease of other memory B cells, confirming the preservation of IgA B cells on OCR (Figure&#x000a0;<xref rid="acn370135-fig-0004" ref-type="fig">4C,D</xref>). These results confirm those obtained with supervised analysis.</p><fig position="float" fig-type="FIGURE" id="acn370135-fig-0004"><label>FIGURE 4</label><caption><p>Unsupervised analyses confirm that the IgA B&#x02010;cell subset is predominant and that memory IgA B cells are correlated with disease activity. (A) A <italic toggle="yes">t</italic>&#x02010;SNE CUDA projections was performed on B cells (CD19&#x02009;+&#x02009;CD3&#x02010;CD14&#x02010;CD16&#x02010;) from MS patients at baseline, 1&#x02009;year of OCR (OCR) and HV by FlowSOM meta&#x02010;clustering. Each dot represents a single cell. In total, 4.2&#x02009;&#x000d7;&#x02009;10 [5] CD19<sup>+</sup> cells were analyzed and thirteen clusters were identified. (B) Expression level of CD19, CD27, CD38, CD138, CD5, CD24, IgA, IgG, IgM, IgD markers used for clustering among B cells. (C) Stack plot representation of B&#x02010;cell clusters proportions in HV, patients with MS at baseline (Baseline), patients with MS after 1&#x02009;year of OCR treatment (OCR) and patients with MS after 1&#x02009;year of OCR discontinuation (DISC). (D) Representation of adjusted <italic toggle="yes">p</italic> value of the Bonferroni multiple tests used to compare each frequency cluster in HV versus MS at baseline and in MS at baseline versus MS after 1&#x02009;year of OCR. In blue, the clusters that are decreased, and in red, the cluster that is increased. (E) Correlation between the frequencies of IgM memory (black) or IgG memory (gray) or IgA memory (red) B cells at baseline and time since the last relapse (days) before starting the treatment. Unsupervised analyses were performed on OMIQ (<ext-link xlink:href="https://www.omiq.ai/" ext-link-type="uri">https://www.omiq.ai/</ext-link>) Wilcoxon matched&#x02010;pairs signed rank test on each row with Bonferroni&#x02010;Dunn's comparisons was performed (D), Linear regression, and Spearman r were used (E). *<italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.05, **<italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.01, ***<italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.001, and ****<italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.0001 (MS&#x02009;=&#x02009;18, HV&#x02009;=&#x02009;10).</p></caption><graphic xlink:href="ACN3-12-2271-g003" position="anchor" id="jats-graphic-7"/></fig><p>To explain the differential depletion between subsets of B cells, we hypothesized that a differential expression of CD20 across the subsets may exist, but we were unable to confirm this hypothesis after studying the mean intensity fluorescence of CD20 in IgA, IgG, or IgM CD19+ B cells and IgA, IgG, or IgM CD19&#x02009;+&#x02009;CD27+ memory B cells from 10 untreated MS patients (Figure&#x000a0;<xref rid="acn370135-supitem-0001" ref-type="supplementary-material">S5</xref>).</p></sec><sec id="acn370135-sec-0017"><label>3.4</label><title>
+<styled-content style="fixed-case" toggle="no">IgA</styled-content> Memory B cells at Baseline Correlated With Clinical Activity of the Disease in the Previous Year</title><p>We wondered whether disease activity in the year before trial inclusion could correlate with one of these B&#x02010;cell subsets, particularly with IgA subsets. Interestingly, we found that memory IgA B cells were the only cluster positively correlated with the time elapsed since the last relapse (<italic toggle="yes">r</italic>&#x02009;=&#x02009;0.524, <italic toggle="yes">p</italic>&#x02009;=&#x02009;0.0255*) (Figure&#x000a0;<xref rid="acn370135-fig-0004" ref-type="fig">4E</xref>). In contrast, other clusters were not associated with clinical activity (data not shown).</p></sec><sec id="acn370135-sec-0018"><label>3.5</label><title>Repopulating B cells Are Mainly Constituted of Naive B cells</title><p>Among the patients included in the study, three withdrew from the trial after 2, 3, and 6 infusions due to adverse events. We then had the opportunity to study B&#x02010;cell repopulation in detail in these patients by flow cytometry and single&#x02010;cell RNA sequencing (scRNAseq).</p><p>For these three patients, we compared the frequency and numbers of B cells after OCR withdrawal with baseline and 1 year on OCR treatment. When we compared the two time points &#x0201c;on OCR&#x0201d; and &#x0201c;after discontinuation,&#x0201d; we observed a tendency for naive B cells to reappear (Figure&#x000a0;<xref rid="acn370135-fig-0005" ref-type="fig">5A</xref>) that was confirmed when looking at the absolute number of circulating B cells (Figure&#x000a0;<xref rid="acn370135-supitem-0001" ref-type="supplementary-material">S6</xref>). Then the frequency of naive B cells became similar to the baseline level, with an increase of transitional B cells, while the frequency of memory B cells remained low (Figure&#x000a0;<xref rid="acn370135-fig-0005" ref-type="fig">5B</xref>).</p><fig position="float" fig-type="FIGURE" id="acn370135-fig-0005"><label>FIGURE 5</label><caption><p>Repopulating B cells are mainly constituted of naive B cells. (A) Frequency (%) of naive (CD27&#x02010;), transitional (CD27&#x02010;CD38&#x02009;+&#x02009;IgD+), memory (CD27&#x02009;+&#x02009;CD38&#x02010;), plasmablast (CD27++CD38++CD138&#x02010;) and plasma cell (CD27++CD38++CD138+) subsets within B cells in MS after 1&#x02009;year of OCR (orange) and after discontinuation (Blue). (B) Frequency (%) of naive (CD27&#x02010;), transitional (CD27&#x02010;CD38&#x02009;+&#x02009;IgD+), memory (CD27&#x02009;+&#x02009;CD38&#x02010;), plasmablast (CD27++CD38++CD138&#x02010;) and plasma cell (CD27++CD38++CD138+) subsets within B cells in MS at baseline (black) and after discontinuation (Blue). Wilcoxon matched&#x02010;pairs signed rank test on each row with Bonferroni&#x02010;Dunn's comparisons was performed. (MS&#x02009;=&#x02009;18).</p></caption><graphic xlink:href="ACN3-12-2271-g006" position="anchor" id="jats-graphic-9"/></fig><p>Single&#x02010;cell transcriptomic analysis was performed on blood circulating cells from these patients to confirm results observed by spectral flow cytometry and get further insights into changes within repopulating B cells following OCR&#x02010;mediated B&#x02010;cell depletion. Individuals were sampled before OCR treatment, once completion of 1&#x02009;year OCR treatment, and after a median time of 15&#x02009;months following treatment cessation. B cells retrieved ranged from 69 to 568 at early time points, from 0 to 10 cells during B&#x02010;cell depletion treatment, and from 365 to 833 at repopulation.</p><p>The B&#x02010;cell subset was split into clusters according to differentially expressed genes. This strategy highlighted five major clusters illustrated on a UMAP (Figure&#x000a0;<xref rid="acn370135-fig-0006" ref-type="fig">6A</xref>), corresponding to characteristic B&#x02010;cell differentiation stages and atypical B cells. Accordingly, naive B cells were defined regarding their IgD expression at both protein (related to CITEseq Ab staining) and transcript level, as well as expression of BACH2 and PAX5. IgM memory B cells were labeled IgM<sup>+</sup> Bmem according to their expression of IgM and CD24 but not IgD and decreased BACH2 expression. In contrast, other memory B cells (Bmem) demonstrated higher XBP1, MZB1, CD27, IgG, or IgA expression than other B&#x02010;cell subsets. Finally, plasma cells were defined by the coexpression of PRDM1 and IRF4, and atypical B cells referred to B cells expressing TBX21 and IgG while expressing no CD27 (Figure&#x000a0;<xref rid="acn370135-fig-0006" ref-type="fig">6B</xref>, Figure&#x000a0;<xref rid="acn370135-supitem-0001" ref-type="supplementary-material">S7</xref>). Interestingly, although very few plasma cells were found within the analyzed dataset, these were mainly IgA, as observed in cytometry experiments (Figure&#x000a0;<xref rid="acn370135-fig-0006" ref-type="fig">6B</xref>).</p><fig position="float" fig-type="FIGURE" id="acn370135-fig-0006"><label>FIGURE 6</label><caption><p>Single&#x02010;cell RNA sequencing shows that B cells are dominated by naive B cells following replenishment. (A) UMAPs illustrating the B&#x02010;cell subsets retrieved from peripheral blood isolated B cells at baseline, following 1&#x02009;year of OCR treatment (OCR) and after treatment cessation (DISC). (B) Bubbleplot depicting gene expression by cells belonging to the related cluster. Color scale corresponds to scaled gene expression, and dot size to the percentage of cells expressing the related gene among the cell population. (C) Dotplot depicting B&#x02010;cell subsets frequencies per individual among total B cells, with green dots corresponding to baseline (BL), OCR to 1&#x02009;year of ocrelizumab treatment, and DISC to 1&#x02009;year after treatment cessation. (D) UMAP illustrating the developmental B&#x02010;cell trajectory (black line) calculated by monocle 3, with dark blue and purple dots corresponding to na&#x000ef;ve B cells and yellow dots to differentiated B cells (DISC&#x02009;=&#x02009;3)</p></caption><graphic xlink:href="ACN3-12-2271-g004" position="anchor" id="jats-graphic-11"/></fig><p>A study of B&#x02010;cell population frequencies indicated, in line with phenotype results, that following B&#x02010;cell replenishment, B&#x02010;cell populations are dominated by naive B cells, with the mean percentage increasing from 54% of B cells at baseline to 78% of B cells following treatment cessation (Figure&#x000a0;<xref rid="acn370135-fig-0006" ref-type="fig">6C</xref>). This rise was found to be associated with a dramatic drop in memory B&#x02010;cell populations from 42.7% to 20.4% of total B cells (IgM Bmem: from 24.9% to 16.8% of total B cells and Bmem from 17.8% to 3.6% of B cells at late time point). Single&#x02010;cell trajectory testing confirmed naive B cells predominance at late time points compared to baseline (Figure&#x000a0;<xref rid="acn370135-fig-0006" ref-type="fig">6D</xref>). At the same time, differential gene expression inspection indicated an increased CD38 expression by naive B cells following replenishment, potentially reflecting an increased transitional B&#x02010;cell differentiation (Figure&#x000a0;<xref rid="acn370135-fig-0007" ref-type="fig">7A</xref>). Further, B&#x02010;cell cycle analysis demonstrated that the G2M phase was severely impaired following replenishment, affecting B&#x02010;cell subset frequencies (Figure&#x000a0;<xref rid="acn370135-supitem-0001" ref-type="supplementary-material">S8</xref>). Noteworthy, although memory B cells were substantially lost at replenishment, atypical B cells frequency was relatively stable, slightly decreasing from 2.1% of total B cells at baseline to 1.54% at B cells repopulation. Altogether, these results indicated that following B&#x02010;cell replenishment, circulating B&#x02010;cell population composition is dramatically changed, supported by B&#x02010;cell differentiation and cycling alterations.</p><fig position="float" fig-type="FIGURE" id="acn370135-fig-0007"><label>FIGURE 7</label><caption><p>Single&#x02010;cell RNA sequencing shows metabolic changes upon repopulation with enrichment of regulatory and proinflammatory B cells. (A) UMAPs illustrating CD38, NKG7, CCL5 genes expression at baseline (BL) and following treatment cessation (DISC). (B) Heatmap depicting scaled pathways enrichment scores from significantly enriched pathways for the indicated B&#x02010;cell clusters. Left panels correspond to OCR withdrawal time point (subset labeled in purple) and right panels to baseline time point (green labels). (C) UMAPs illustrating CD74, CD79A, B2M genes expression at baseline (BL) and following treatment cessation (DISC). (D) UMAPs illustrating events enriched in antigen processing and presentation KEGG signature (upper panel) and in oxidative phosphorylation MSigDB signature (lower panel) at baseline (BL), during ocrelizumab treatment (OCR) and following treatment cessation (DISC). (E) UMAPs illustrating COX5A, NDUFV2, NDUFS2 genes expression at baseline (BL) and following treatment cessation (DISC). (F) Violin plot displaying the significant difference in Breg aggregated scores at baseline (BL) and after OCR cessation (DISC). (G) UMAP displaying top B cells events matching with Breg aggregated signature and/or inflammatory B cells signature. Wilcoxon test was used to assess significance with ****<italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;2.2 10<sup>&#x02212;16</sup>. (DISC&#x02009;=&#x02009;3)</p></caption><graphic xlink:href="ACN3-12-2271-g005" position="anchor" id="jats-graphic-13"/></fig></sec><sec id="acn370135-sec-0019"><label>3.6</label><title>B cells Display Metabolic Changes Upon Repopulation</title><p>To get better insights into B&#x02010;cell properties and functions following replenishment, gene set enrichment analysis using Gene Ontology and Kegg databases was performed on naive, IgM Bmem, and Bmem&#x02010;cell populations only, since few genes were found modulated in atypical B cells according to time points and plasma cell number was too low. Importantly, considering the most differentially active pathways, B&#x02010;cell subsets clustered according to time points rather than to differentiation stages, indicating that biological processes affecting the whole B&#x02010;cell population were ongoing (Figure&#x000a0;<xref rid="acn370135-fig-0007" ref-type="fig">7B</xref>). Specifically, B&#x02010;cell subsets were found significantly enriched in pathways dedicated to protein translation before treatment, while following replenishment B cells displayed a more active and proinflammatory phenotype with (i) an enhanced <italic toggle="yes">NKG7</italic> and <italic toggle="yes">CCL5</italic> expression supporting cytotoxic granules exocytosis and macrophage recruitment respectively (Figure&#x000a0;<xref rid="acn370135-fig-0007" ref-type="fig">7A</xref>); (ii) the enrichment in genes associated with neurodegenerative and autoimmune diseases; (iii) a higher propensity to process and present antigens illustrated through higher <italic toggle="yes">B2M, CD79A, CD74</italic> expression and events scoring with KEGG dedicated signature (Figure&#x000a0;<xref rid="acn370135-fig-0007" ref-type="fig">7C,D</xref> upper panel); and (iv) a metabolic shift toward higher oxidative phosphorylation figured through <italic toggle="yes">NDUFV2</italic>, <italic toggle="yes">NDUFS2</italic>, and <italic toggle="yes">COX5A</italic> genes upregulation signature (Figure&#x000a0;<xref rid="acn370135-fig-0007" ref-type="fig">7D</xref> lower panel and Figure&#x000a0;<xref rid="acn370135-fig-0007" ref-type="fig">7E</xref>). Interestingly, the increased oxidative phosphorylation was supported by naive B cells following replenishment, while before B cells depletion, oxidative phosphorylation was restricted to memory B cells.</p><p>Since no significant increase in relapse occurrence was reported during anti&#x02010;CD20 dose intervals extension and since we observed an increase in proinflammatory like B cells frequency following replenishment, we asked whether enrichment in Breg phenotypes upon OCR discard may counterbalance the observed trend toward higher proinflammatory B cells [<xref rid="acn370135-bib-0018" ref-type="bibr">18</xref>]. Considering that different regulatory B cells populations with different phenotype were described, we tested different Breg signatures from published scRNAseq studies [<xref rid="acn370135-bib-0019" ref-type="bibr">19</xref>, <xref rid="acn370135-bib-0020" ref-type="bibr">20</xref>, <xref rid="acn370135-bib-0021" ref-type="bibr">21</xref>] and aggregated the scores from each signature to each event to more robustly retrieve Breg cells. We found that all Breg signatures tested (Figure&#x000a0;<xref rid="acn370135-supitem-0001" ref-type="supplementary-material">S9</xref>
+<bold>)</bold> as Breg aggregated signatures (Figure&#x000a0;<xref rid="acn370135-fig-0007" ref-type="fig">7F</xref>
+<bold>)</bold> were significantly (<italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;2.2 10<sup>&#x02212;16</sup>) enriched in B cells following replenishment. To know whether the cells with Breg signature differed from those with a proinflammatory phenotype, we tested events enrichment in either Breg aggregated signature or a lymphocyte&#x02010;mediated immunity pathway that we found enhanced in the previous gene set enrichment analysis. Although a clear increase in both B cells regulatory (Baseline: 1.86%; DISC (after discontinuation): 4.38% of B cells) and inflammatory pattern (Baseline: 1.08%; DISC: 4.31% of B cells) was observed following B&#x02010;cell replenishment, these cells seemed related to different populations (Figure&#x000a0;<xref rid="acn370135-fig-0007" ref-type="fig">7G</xref>
+<bold>)</bold>.</p><p>Altogether, these results indicated that once repopulating, B cells are dominated by naive B cells and potential CD38&#x02010;expressing transitional B cells, with a B&#x02010;cell polarization toward a proinflammatory phenotype and a concomitant increase in B cells with a Breg phenotype.</p></sec></sec><sec sec-type="discussion" id="acn370135-sec-0020"><label>4</label><title>Discussion</title><p>In this study we evaluated the effect of OCR on circulating B&#x02010;cell subsets and investigated the remaining B cells under treatment. The residual circulating B cells after using an anti&#x02010;CD20 have been poorly studied in RR&#x02010; MS patients under OCR. Here, we had the opportunity to study the longitudinal effect of OCR and replenishment on B&#x02010;cell subsets in a cohort of treatment&#x02010;naive patients with RR&#x02010;MS enrolled early after disease onset and compared to a cohort of age and sex&#x02010;matched healthy individuals. The first notable observation is that a small number of B cells were still detected under OCR treatment, and the depletion appeared to affect different B&#x02010;cell subsets variably. Indeed, OCR led to remodeling the proportion of the different B&#x02010;cell subsets with an increased proportion of IgA B cells.</p><p>Several lines of evidence suggest the involvement of memory B cells in the pathophysiological process of MS. While memory CD27+ B cells are not increased in the peripheral blood of patients, activated B cells from MS patients have increased secretion of proinflammatory cytokines including TNF&#x003b1;, IL&#x02010;6, or GM&#x02010;CSF [<xref rid="acn370135-bib-0007" ref-type="bibr">7</xref>, <xref rid="acn370135-bib-0022" ref-type="bibr">22</xref>, <xref rid="acn370135-bib-0023" ref-type="bibr">23</xref>]. Hence, more recently, the failure of atacicept, a recombinant fusion protein targeting BAFF and APRIL, leading to a decreased maturation of B cells into plasma cells, but not memory B cells, has highlighted a potential protective function of plasma cells in MS [<xref rid="acn370135-bib-0024" ref-type="bibr">24</xref>]. Moreover, the use of atacicept induced a proliferation of memory B cells [<xref rid="acn370135-bib-0025" ref-type="bibr">25</xref>]. Together these data suggest the involvement of memory B cells in the pathophysiology of MS [<xref rid="acn370135-bib-0026" ref-type="bibr">26</xref>]. In the present study, we characterized memory B cells and compared their phenotype to that of HV matched for age and sex, showing that IgG memory B cells and IgG plasma cells were increased in MS patients. Such an increase of IgG memory B cells was also observed in the work from Beckers et&#x000a0;al., but it did not reach significance, possibly due to a lower number of patients studied [<xref rid="acn370135-bib-0027" ref-type="bibr">27</xref>]. One study also points toward that within the total class&#x02010;switch memory B&#x02010;cell pool, activated class&#x02010;switch memory B&#x02010;cell proportions from MS patients were initially increased at baseline versus those from healthy controls and reduced by after 1&#x02009;year of OCR, whereas in Treatment Delay patients' memory B&#x02010;cell proportions were reset resembling healthy control levels [<xref rid="acn370135-bib-0028" ref-type="bibr">28</xref>].</p><p>Interestingly, TACI and binding with APRIL are essential for plasma cells IgA production [<xref rid="acn370135-bib-0029" ref-type="bibr">29</xref>]. Our study found that OCR partly spared IgA plasma cells and plasmablasts and became predominant, potentially playing a protective role. We explored why IgA memory B cells were spared and ruled out a differential CD20 expression on these cells. Another hypothesis is that OCR did not attain, or to a lesser extent, the cells in their reservoir, mucosal areas, as it has been shown for Rheumatoid Arthritis patients treated with rituximab where IgA plasmablasts and plasma cells were identified in the lamina propria, suggesting that their precursors, memory B cells, were spared [<xref rid="acn370135-bib-0030" ref-type="bibr">30</xref>].</p><p>Moreover, studies showed in both animal models of neuroinflammation and MS patients that IgA B cells could leave the gut and migrate to the CNS to locally regulate inflammation through the secretion of IL&#x02010;10 [<xref rid="acn370135-bib-0031" ref-type="bibr">31</xref>, <xref rid="acn370135-bib-0032" ref-type="bibr">32</xref>]. These findings have highlighted that IgA&#x02010;secreting plasma cells could be a reservoir of regulatory B cells that are important in managing neuroinflammation in MS. In light of our findings, the proportion of IgA B cells at study enrollment is correlated with the time elapsed from the last relapse, which was not the case with other B&#x02010;cell subsets.</p><p>Regulatory B cells are key actors in the pathophysiology of the disease and are characterized by the secretion of IL&#x02010;10. However, they seem to belong to various clusters, including transitional B cells [<xref rid="acn370135-bib-0033" ref-type="bibr">33</xref>]. Finally, as for IgA B cells, our findings support an increased regulatory phenotype of remaining B cells under treatment with OCR. Here we confirm the recent findings in an observational cohort of 12 patients that residual B cells after 1 year of OCR were mainly transitional and IgA&#x02010;secreting B cells [<xref rid="acn370135-bib-0027" ref-type="bibr">27</xref>]. Moreover, the transcriptional analysis confirmed the general increase of Breg among B cells after replenishment.</p><p>The study of B&#x02010;cell replenishment after anti&#x02010;CD20 treatment withdrawal or extended interval dosing is of interest as it may directly impact the care of MS patients. Recently, Claverie et&#x000a0;al. showed in a cohort of 236 patients with a delay of 17&#x02009;months since the last rituximab infusion that repopulation was mainly complete but with a strong predominance of naive B cells (&#x0003e;&#x02009;90%) [<xref rid="acn370135-bib-0034" ref-type="bibr">34</xref>] and confirmed other studies. The phenotype of the repopulating B cells was studied in a cohort of 15 patients, showing that the reappearing cells, mostly naive cells, express markers of activation, including CD25 and CD69, with higher expression of costimulatory molecules [<xref rid="acn370135-bib-0035" ref-type="bibr">35</xref>]. In another cohort of 37 patients with extended interval dosing of OCR, the authors showed an increase of naive, immature, and transitional B cells but with an increased expression of migratory markers [<xref rid="acn370135-bib-0036" ref-type="bibr">36</xref>]. These findings are counterintuitive as several studies suggest a lack of inflammatory recurrence of the disease despite the presence of these inflammatory cells [<xref rid="acn370135-bib-0034" ref-type="bibr">34</xref>, <xref rid="acn370135-bib-0037" ref-type="bibr">37</xref>].</p><p>The single&#x02010;cell RNAseq analysis we performed on reappearing B cells provides new information. We confirm and extend previous observations that reappearing B cells are mostly naive with an inflammatory and migratory phenotype. Even though the study was only performed on three patients who withdrew from the trial, we showed that the reappearing B cells express markers that orient <italic toggle="yes">T</italic>&#x02010;cell differentiation toward a Th1 or Th17 phenotype with a potentially increased ability to present antigens and an increase in oxidative phosphorylation (OXPHOS) promoting proinflammatory B cells [<xref rid="acn370135-bib-0038" ref-type="bibr">38</xref>]. However, the B cells at this time point were mostly naive, probably explaining, at least in part, why there is no actual reappearance of clinical/radiological inflammation, the cells being still at an early stage of differentiation. Interestingly, we also found an increased <italic toggle="yes">NKG7</italic> expression among the naive B cell population, potentially reflecting cytotoxic granules exocytosis and, thus, regulatory properties. Finally, a rise in regulatory B cells at replenishment is concomitant with an increase in proinflammatory B cells, which may also explain a lack of clinical and radiological disease reactivation. An increased activated phenotype in B&#x02010;cell repopulation after anti&#x02010;CD20 removal was also described in the literature as a decrease in circulating mature B&#x02010;cell populations and a potential increase in Breg subset frequency [<xref rid="acn370135-bib-0036" ref-type="bibr">36</xref>, <xref rid="acn370135-bib-0039" ref-type="bibr">39</xref>, <xref rid="acn370135-bib-0040" ref-type="bibr">40</xref>]. The lack of mature B&#x02010;cell subsets clearly impacts B&#x02010;cell dependent cell activation of CD4/CD8 <italic toggle="yes">T</italic> cells and NK cells, while Bregs dampen T&#x02010;cell activity&#x000a0;[<xref rid="acn370135-bib-0041" ref-type="bibr">41</xref>, <xref rid="acn370135-bib-0042" ref-type="bibr">42</xref>]. It is worth noting that even after months of anti&#x02010;CD20 withdrawal, no clinical or radiological reactivation of the disease is noticed, indicating that repopulating B cells are not equivalent to B cells prior to treatment [<xref rid="acn370135-bib-0036" ref-type="bibr">36</xref>]. These B cells are mainly naive cells and probably not able to present antigens to <italic toggle="yes">T</italic> cells and to reactivate the inflammatory process. In our study, we also found that although more Breg can be observed following repopulation, this is associated with an increased frequency of active B cells with high oxidative phosphorylation. Such metabolic change was recently associated with a proinflammatory phenotype in accordance with the observed enriched pathway and indicating their potential pathogenicity [<xref rid="acn370135-bib-0038" ref-type="bibr">38</xref>]. All together, these findings indicate that OCR is associated with a favorable immune system reset.</p><p>Altogether, our study shows that residual B cells under OCR are mainly composed of transitional B cells and IgA&#x02010;secreting B cells, which may partly explain the efficacy of the treatment, with these residual cells being potential regulatory B cells. More than 1 year after treatment stops, the reappearing B cells express a proinflammatory and antigen processing phenotype, but which are mostly undifferentiated, suggesting that they may not yet be able to trigger the inflammatory process of MS and their presence is counterbalanced by a rise of regulatory B cells.</p></sec><sec id="acn370135-sec-0026"><title>Author Contributions</title><p>L.B. and D.&#x02010;A.L. conceived and supervised the study. A.G. and S.R. performed the experiments, analysis, and interpretation of data and wrote the manuscript. E.L.P., C.L.&#x02010;F., E.T., J.D.S., E.L.P., S.V., I.D., E.B., O.C., P.L., A.R., F.L.F., F.L.F. recruited the patients and collected clinical samples. E.D., C.R., A.B.N., S.W., P.&#x02010;A.G., and L.M. performed critical comments and suggestions during the drafting and reviewing of the manuscript. All the authors contributed to the manuscript and approved the submitted version.</p></sec><sec id="acn370135-sec-0022"><title>Ethics Statement</title><p>The relevant institutional review boards/ethics committees approved the trial protocols: Comit&#x000e9; de Protection des Personnes for ENSEMBLE study (NCT03085810) and Agence de Biom&#x000e9;decine (ABM PFS13&#x02010;003 &#x0201c;Collection scl&#x000e9;rose en plaques&#x0201d;). All donors provided written informed consent in accordance with the Declaration of Helsinki.</p></sec><sec sec-type="COI-statement" id="acn370135-sec-0024"><title>Conflicts of Interest</title><p>Alexandra Garcia, St&#x000e9;phane Rodriguez, Emilie Dugast, Christine Lebrun&#x02010;Frenay, In&#x000e8;s Doghri, J&#x000e9;r&#x000f4;me De S&#x000e8;ze, Pierre Labauge, Fabienne Le Fr&#x000e8;re, Arnaud B. Nicot, Laure Michel, and Laureline Berthelot have nothing to disclose. Eric Thouvenot declares consultancy and board membership from Novartis, BMS, Merck, Actelion, and Teva, and grants from Novartis, Biogen, and Merck. Emannuelle Le Page declares research support from Teva and has received honoraria for lectures or consulting from Biogen Idec, Merck&#x02010;Serono, Novartis, Sanofi&#x02010;Aventis, Alexion, Roche, and Jansen. Sandra Vukusic declares board membership, consultancy, grants, and payment for lectures from BMS, Biogen, Merck, Novartis, Roche, Sanofi, and Janssen. Eric Berger declares board membership from Biogen, Roche, and Novartis. Olivier Casez declares board membership from BMS, Merck, Novartis, and Roche, and payment for manuscript preparation from Biogen, Novartis, Roche, and Sanofi. Aur&#x000e9;lie Ruet declares board membership and consultancy from Merck, Novartis, and Roche, and grants from Bayer&#x02010;Healthcare, Biogen, Roche, and Sanofi. Pierre&#x02010;Antoine Gourraud is the founder of Methodomics (2008) and the co&#x02010;founder of Big data Sant&#x000e9; (2018). He consults for major pharmaceutical companies and start&#x02010;ups, all of which are handled through academic pipelines (AstraZeneca, Amgen, Biogen, Boston Scientific, Cook, Docaposte, Edimark, Ellipses, Elsevier, Janssen, IAGE, Lek, Methodomics, Merck, M&#x000e9;rieux, Octopize, Sanofi&#x02010;Genzyme, Lifen, Aspire UAE). PA Gourraud is a volunteer board member at AXA not&#x02010;for&#x02010;profit mutual insurance company (2021). He has no prescription activity with either drugs or devices. He receives no wages from these activities. Sandrine Wiertlewski declares board membership from Biogen, Novartis, and Roche. Catarina Raposo is an employee of Hoffmann La Roche. David&#x02010;Axel Laplaud declares board membership, consultancy, and grants from Alexion, Actelion, BMS, Biogen, Merck, Novartis, Roche, and Sanofi.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="acn370135-supitem-0001" position="float" content-type="local-data"><caption><p>
+Data S1.
+</p></caption><media xlink:href="ACN3-12-2271-s001.zip"/></supplementary-material></sec></body><back><ack id="acn370135-sec-0027"><title>Acknowledgements</title><p>The authors would like to thank the patients for their participation in the study and the biological resource center for biobanking CHU Nantes, H&#x000f4;tel Dieu, Centre de ressources biologiques (CRB), Nantes, F&#x02010;44093, France (BRIF: BB&#x02010;0033&#x02010;00040).</p></ack><sec sec-type="data-availability" id="acn370135-sec-0029"><title>Data Availability Statement</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list content-type="cited-references" id="acn370135-bibl-0001"><title>References</title><ref id="acn370135-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="acn370135-cit-0001">
+<string-name>
+<given-names>B.</given-names>
+<surname>Nicol</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Salou</surname>
+</string-name>, <string-name>
+<given-names>D. A.</given-names>
+<surname>Laplaud</surname>
+</string-name>, and <string-name>
+<given-names>H.</given-names>
+<surname>Wekerle</surname>
+</string-name>, &#x0201c;<article-title>The Autoimmune Concept of Multiple Sclerosis</article-title>,&#x0201d; <source>Presse M&#x000e9;dicale</source>
+<volume>44</volume>, no. <issue>4 Pt 2</issue> (<year>2015</year>): <fpage>e103</fpage>&#x02013;<lpage>e112</lpage>, <pub-id pub-id-type="doi">10.1016/j.lpm.2015.02.009</pub-id>.<pub-id pub-id-type="pmid">25813101</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="acn370135-cit-0002">
+<string-name>
+<given-names>S. L.</given-names>
+<surname>Hauser</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Bar&#x02010;Or</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Comi</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Ocrelizumab Versus Interferon Beta&#x02010;1a in Relapsing Multiple Sclerosis</article-title>,&#x0201d; <source>New England Journal of Medicine</source>
+<volume>376</volume>, no. <issue>3</issue> (<year>2017</year>): <fpage>221</fpage>&#x02013;<lpage>234</lpage>, <pub-id pub-id-type="doi">10.1056/NEJMoa1601277</pub-id>.<pub-id pub-id-type="pmid">28002679</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="acn370135-cit-0003">
+<string-name>
+<given-names>S. L.</given-names>
+<surname>Hauser</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Bar&#x02010;Or</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Cohen</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Ofatumumab Versus Teriflunomide in Multiple Sclerosis</article-title>,&#x0201d; <source>New England Journal of Medicine</source>
+<volume>383</volume>, no. <issue>6</issue> (<year>2020</year>): <fpage>546</fpage>&#x02013;<lpage>557</lpage>, <pub-id pub-id-type="doi">10.1056/NEJMoa1917246</pub-id>.<pub-id pub-id-type="pmid">32757523</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="acn370135-cit-0004">
+<string-name>
+<given-names>M.</given-names>
+<surname>Granqvist</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Boremalm</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Poorghobad</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Comparative Effectiveness of Rituximab and Other Initial Treatment Choices for Multiple Sclerosis</article-title>,&#x0201d; <source>JAMA Neurology</source>
+<volume>75</volume>, no. <issue>3</issue> (<year>2018</year>): <fpage>320</fpage>, <pub-id pub-id-type="doi">10.1001/jamaneurol.2017.4011</pub-id>.<pub-id pub-id-type="pmid">29309484</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="acn370135-cit-0005">
+<string-name>
+<given-names>R.</given-names>
+<surname>Magliozzi</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Howell</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Vora</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Meningeal B&#x02010;cell Follicles in Secondary Progressive Multiple Sclerosis Associate With Early Onset of Disease and Severe Cortical Pathology</article-title>,&#x0201d; <source>Brain</source>
+<volume>130</volume>, no. <issue>4</issue> (<year>2006</year>): <fpage>1089</fpage>&#x02013;<lpage>1104</lpage>, <pub-id pub-id-type="doi">10.1093/brain/awm038</pub-id>.</mixed-citation></ref><ref id="acn370135-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="acn370135-cit-0006">
+<string-name>
+<given-names>L.</given-names>
+<surname>Haider</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Zrzavy</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Hametner</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>The Topograpy of Demyelination and Neurodegeneration in the Multiple Sclerosis Brain</article-title>,&#x0201d; <source>Brain</source>
+<volume>139</volume>, no. <issue>3</issue> (<year>2016</year>): <fpage>807</fpage>&#x02013;<lpage>815</lpage>, <pub-id pub-id-type="doi">10.1093/brain/awv398</pub-id>.<pub-id pub-id-type="pmid">26912645</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="acn370135-cit-0007">
+<string-name>
+<given-names>A.</given-names>
+<surname>Bar&#x02010;Or</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Fawaz</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Fan</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Abnormal B&#x02010;Cell Cytokine Responses a Trigger of T&#x02010;Cell&#x02010;Mediated Disease in MS?</article-title>,&#x0201d; <source>Annals of Neurology</source>
+<volume>67</volume>, no. <issue>4</issue> (<year>2010</year>): <fpage>452</fpage>&#x02013;<lpage>461</lpage>, <pub-id pub-id-type="doi">10.1002/ana.21939</pub-id>.<pub-id pub-id-type="pmid">20437580</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="acn370135-cit-0008">
+<string-name>
+<given-names>I.</given-names>
+<surname>Jelcic</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Al Nimer</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Memory B cells Activate Brain&#x02010;Homing, Autoreactive CD4+ T Cells in Multiple Sclerosis</article-title>,&#x0201d; <source>Cell</source>
+<volume>175</volume>, no. <issue>1</issue> (<year>2018</year>): <fpage>85</fpage>&#x02013;<lpage>100.e23</lpage>, <pub-id pub-id-type="doi">10.1016/j.cell.2018.08.011</pub-id>.<pub-id pub-id-type="pmid">30173916</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="acn370135-cit-0009">
+<string-name>
+<given-names>P.</given-names>
+<surname>Stashenko</surname>
+</string-name>, <string-name>
+<given-names>L. M.</given-names>
+<surname>Nadler</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Hardy</surname>
+</string-name>, and <string-name>
+<given-names>S. F.</given-names>
+<surname>Schlossman</surname>
+</string-name>, &#x0201c;<article-title>Characterization of a Human <italic toggle="yes">B</italic> Lymphocyte&#x02010;Specific Antigen</article-title>,&#x0201d; <source>Journal of Immunology</source>
+<volume>125</volume>, no. <issue>4</issue> (<year>1980</year>): <fpage>1678</fpage>&#x02013;<lpage>1685</lpage>, <pub-id pub-id-type="doi">10.4049/jimmunol.125.4.1678</pub-id>.</mixed-citation></ref><ref id="acn370135-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="acn370135-cit-0010">
+<string-name>
+<given-names>T. F.</given-names>
+<surname>Tedder</surname>
+</string-name> and <string-name>
+<given-names>P.</given-names>
+<surname>Engel</surname>
+</string-name>, &#x0201c;<article-title>CD20: A Regulator of Cell&#x02010;Cycle Progression of <italic toggle="yes">B</italic> Lymphocytes</article-title>,&#x0201d; <source>Immunology Today</source>
+<volume>15</volume>, no. <issue>9</issue> (<year>1994</year>): <fpage>450</fpage>&#x02013;<lpage>454</lpage>, <pub-id pub-id-type="doi">10.1016/0167-5699(94)90276-3</pub-id>.<pub-id pub-id-type="pmid">7524522</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="acn370135-cit-0011">
+<string-name>
+<given-names>L.</given-names>
+<surname>Kappos</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>P. A.</given-names>
+<surname>Calabresi</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Ocrelizumab in Relapsing&#x02010;Remitting Multiple Sclerosis: A Phase 2, Randomised, Placebo&#x02010;Controlled, Multicentre Trial</article-title>,&#x0201d; <source>Lancet</source>
+<volume>378</volume>, no. <issue>9805</issue> (<year>2011</year>): <fpage>1779</fpage>&#x02013;<lpage>1787</lpage>, <pub-id pub-id-type="doi">10.1016/S0140-6736(11)61649-8</pub-id>.<pub-id pub-id-type="pmid">22047971</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="acn370135-cit-0012">
+<string-name>
+<given-names>E.</given-names>
+<surname>Schuh</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Berer</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Mulazzani</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Features of Human CD3 <sup>+</sup> CD20 <sup>+</sup> T Cells</article-title>,&#x0201d; <source>Journal of Immunology</source>
+<volume>197</volume>, no. <issue>4</issue> (<year>2016</year>): <fpage>1111</fpage>&#x02013;<lpage>1117</lpage>, <pub-id pub-id-type="doi">10.4049/jimmunol.1600089</pub-id>.</mixed-citation></ref><ref id="acn370135-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="acn370135-cit-0013">
+<string-name>
+<given-names>H. P.</given-names>
+<surname>Hartung</surname>
+</string-name>, <string-name>
+<given-names>R. H. B.</given-names>
+<surname>Benedict</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Berger</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Ocrelizumab in Early&#x02010;Stage Relapsing&#x02010;Remitting Multiple Sclerosis: The Phase IIIb ENSEMBLE 4&#x02010;Year, Single&#x02010;Arm, Open&#x02010;Label Trial</article-title>,&#x0201d; <source>Neurology</source>
+<volume>103</volume>, no. <issue>12</issue> (<year>2024</year>): <elocation-id>e210049</elocation-id>, <pub-id pub-id-type="doi">10.1212/WNL.0000000000210049</pub-id>.<pub-id pub-id-type="pmid">39626127</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="acn370135-cit-0014">
+<string-name>
+<given-names>M.</given-names>
+<surname>Stoeckius</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Houck&#x02010;Loomis</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Cell Hashing With Barcoded Antibodies Enables Multiplexing and Doublet Detection for Single Cell Genomics</article-title>,&#x0201d; <source>Genome Biology</source>
+<volume>19</volume>, no. <issue>1</issue> (<year>2018</year>): <fpage>224</fpage>, <pub-id pub-id-type="doi">10.1186/s13059-018-1603-1</pub-id>.<pub-id pub-id-type="pmid">30567574</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="acn370135-cit-0015">
+<string-name>
+<given-names>A. H.</given-names>
+<surname>Pool</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Poldsam</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Thomson</surname>
+</string-name>, and <string-name>
+<given-names>Y.</given-names>
+<surname>Oka</surname>
+</string-name>, &#x0201c;<article-title>Enhanced Recovery of Single&#x02010;Cell RNA&#x02010;Sequencing Reads for Missing Gene Expression Data</article-title>,&#x0201d; <source>BioRxiv</source> (<year>2022</year>), <pub-id pub-id-type="doi">10.1101/2022.04.26.489449</pub-id>.</mixed-citation></ref><ref id="acn370135-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="acn370135-cit-0016">
+<string-name>
+<given-names>G.</given-names>
+<surname>Monaco</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>RNA&#x02010;Seq Signatures Normalized by mRNA Abundance Allow Absolute Deconvolution of Human Immune Cell Types</article-title>,&#x0201d; <source>Cell Reports</source>
+<volume>26</volume>, no. <issue>6</issue> (<year>2019</year>): <fpage>1627</fpage>&#x02013;<lpage>1640.e7</lpage>, <pub-id pub-id-type="doi">10.1016/j.celrep.2019.01.041</pub-id>.<pub-id pub-id-type="pmid">30726743</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="acn370135-cit-0017">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Li</surname>
+</string-name>, and <string-name>
+<given-names>F.</given-names>
+<surname>Hu</surname>
+</string-name>, &#x0201c;<article-title>Double&#x02010;Negative (DN) B cells: An Under&#x02010;Recognized Effector Memory B cell Subset in Autoimmunity</article-title>,&#x0201d; <source>Clinical and Experimental Immunology</source>
+<volume>205</volume>, no. <issue>2</issue> (<year>2021</year>): <fpage>119</fpage>&#x02013;<lpage>127</lpage>, <pub-id pub-id-type="doi">10.1111/cei.13615</pub-id>.<pub-id pub-id-type="pmid">33969476</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="acn370135-cit-0018">
+<string-name>
+<given-names>M.</given-names>
+<surname>Nasello</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Zancan</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Rinaldi</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Clinical and Immunological Impact of Ocrelizumab Extended Interval Dosing in Multiple Sclerosis: A Single&#x02010;Center, Real&#x02010;World Experience</article-title>,&#x0201d; <source>IJMS</source>
+<volume>25</volume>, no. <issue>10</issue> (<year>2024</year>): <elocation-id>5353</elocation-id>, <pub-id pub-id-type="doi">10.3390/ijms25105353</pub-id>.<pub-id pub-id-type="pmid">38791391</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="acn370135-cit-0019">
+<string-name>
+<given-names>F.</given-names>
+<surname>Dubois</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Limou</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Chesneau</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Degauque</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Brouard</surname>
+</string-name>, and <string-name>
+<given-names>R.</given-names>
+<surname>Danger</surname>
+</string-name>, &#x0201c;<article-title>Transcriptional Meta&#x02010;Analysis of Regulatory B cells</article-title>,&#x0201d; <source>European Journal of Immunology</source>
+<volume>50</volume>, no. <issue>11</issue> (<year>2020</year>): <fpage>1757</fpage>&#x02013;<lpage>1769</lpage>, <pub-id pub-id-type="doi">10.1002/eji.201948489</pub-id>.<pub-id pub-id-type="pmid">32529638</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="acn370135-cit-0020">
+<string-name>
+<given-names>S. Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Long</surname>
+</string-name>, <string-name>
+<given-names>M. X.</given-names>
+<surname>Huang</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Characterization of Organ&#x02010;Specific Regulatory B cells Using Single&#x02010;Cell RNA Sequencing</article-title>,&#x0201d; <source>Frontiers in Immunology</source>
+<volume>12</volume> (<year>2021</year>): <elocation-id>711980</elocation-id>, <pub-id pub-id-type="doi">10.3389/fimmu.2021.711980</pub-id>.<pub-id pub-id-type="pmid">34594327</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="acn370135-cit-0021">
+<string-name>
+<given-names>J. F.</given-names>
+<surname>Varghese</surname>
+</string-name>, <string-name>
+<given-names>B. J.</given-names>
+<surname>Kaskow</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Von Glehn</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Human Regulatory Memory B Cells Defined by Expression of TIM&#x02010;1 and TIGIT Are Dysfunctional in Multiple Sclerosis</article-title>,&#x0201d; <source>Frontiers in Immunology</source>
+<volume>15</volume> (<year>2024</year>): <elocation-id>1360219</elocation-id>, <pub-id pub-id-type="doi">10.3389/fimmu.2024.1360219</pub-id>.<pub-id pub-id-type="pmid">38745667</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="acn370135-cit-0022">
+<string-name>
+<given-names>M.</given-names>
+<surname>Duddy</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Niino</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Adatia</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Distinct Effector Cytokine Profiles of Memory and Naive Human B Cell Subsets and Implication in Multiple Sclerosis</article-title>,&#x0201d; <source>Journal of Immunology</source>
+<volume>178</volume>, no. <issue>10</issue> (<year>2007</year>): <fpage>6092</fpage>&#x02013;<lpage>6099</lpage>, <pub-id pub-id-type="doi">10.4049/jimmunol.178.10.6092</pub-id>.</mixed-citation></ref><ref id="acn370135-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="acn370135-cit-0023">
+<string-name>
+<given-names>R.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Rezk</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Miyazaki</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Proinflammatory GM&#x02010;CSF&#x02013;Producing B Cells in Multiple Sclerosis and B Cell Depletion Therapy</article-title>,&#x0201d; <source>Science Translational Medicine</source>
+<volume>7</volume>, no. <issue>310</issue> (<year>2015</year>), <pub-id pub-id-type="doi">10.1126/scitranslmed.aab4176</pub-id>.</mixed-citation></ref><ref id="acn370135-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="acn370135-cit-0024">
+<string-name>
+<given-names>L.</given-names>
+<surname>Kappos</surname>
+</string-name>, <string-name>
+<given-names>H. P.</given-names>
+<surname>Hartung</surname>
+</string-name>, <string-name>
+<given-names>M. S.</given-names>
+<surname>Freedman</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Atacicept in Multiple Sclerosis (ATAMS): A Randomised, Placebo&#x02010;Controlled, Double&#x02010;Blind, Phase 2 Trial</article-title>,&#x0201d; <source>Lancet Neurology</source>
+<volume>13</volume>, no. <issue>4</issue> (<year>2014</year>): <fpage>353</fpage>&#x02013;<lpage>363</lpage>, <pub-id pub-id-type="doi">10.1016/S1474-4422(14)70028-6</pub-id>.<pub-id pub-id-type="pmid">24613349</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="acn370135-cit-0025">
+<string-name>
+<given-names>R. F.</given-names>
+<surname>Van Vollenhoven</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Kinnman</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Vincent</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wax</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Bathon</surname>
+</string-name>, &#x0201c;<article-title>Atacicept in Patients With Rheumatoid Arthritis and an Inadequate Response to Methotrexate: Results of a Phase II, Randomized, Placebo&#x02010;Controlled Trial</article-title>,&#x0201d; <source>Arthritis and Rheumatism</source>
+<volume>63</volume>, no. <issue>7</issue> (<year>2011</year>): <fpage>1782</fpage>&#x02013;<lpage>1792</lpage>, <pub-id pub-id-type="doi">10.1002/art.30372</pub-id>.<pub-id pub-id-type="pmid">21452294</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="acn370135-cit-0026">
+<string-name>
+<given-names>M. T.</given-names>
+<surname>Cencioni</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Mattoscio</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Magliozzi</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Bar&#x02010;Or</surname>
+</string-name>, and <string-name>
+<given-names>P. A.</given-names>
+<surname>Muraro</surname>
+</string-name>, &#x0201c;<article-title>B Cells in Multiple Sclerosis &#x02014; From Targeted Depletion to Immune Reconstitution Therapies</article-title>,&#x0201d; <source>Nature Reviews. Neurology</source>
+<volume>17</volume>, no. <issue>7</issue> (<year>2021</year>): <fpage>399</fpage>&#x02013;<lpage>414</lpage>, <pub-id pub-id-type="doi">10.1038/s41582-021-00498-5</pub-id>.<pub-id pub-id-type="pmid">34075251</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="acn370135-cit-0027">
+<string-name>
+<given-names>L.</given-names>
+<surname>Beckers</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Baeten</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Popescu</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Alterations in the Innate and Adaptive Immune System in a Real&#x02010;World Cohort of Multiple Sclerosis Patients Treated With Ocrelizumab</article-title>,&#x0201d; <source>Clinical Immunology</source>
+<volume>259</volume> (<year>2024</year>): <elocation-id>109894</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.clim.2024.109894</pub-id>.<pub-id pub-id-type="pmid">38185268</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="acn370135-cit-0028">
+<string-name>
+<given-names>C. J.</given-names>
+<surname>Gurski</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Hajiyeva</surname>
+</string-name>, <string-name>
+<given-names>A. J.</given-names>
+<surname>Veltri</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Elevated Frequencies of Activated Memory B Cells in Multiple Sclerosis Are Reset to Healthy Control Levels After B Cell Depletion With Ocrelizumab</article-title>,&#x0201d; <source>Journal of Neuroimmunology</source>
+<volume>399</volume> (<year>2025</year>): <elocation-id>578502</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.jneuroim.2024.578502</pub-id>.<pub-id pub-id-type="pmid">39643951</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="acn370135-cit-0029">
+<string-name>
+<given-names>D.</given-names>
+<surname>Sakurai</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Hase</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Kanno</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kojima</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Okumura</surname>
+</string-name>, and <string-name>
+<given-names>T.</given-names>
+<surname>Kobata</surname>
+</string-name>, &#x0201c;<article-title>TACI Regulates IgA Production by APRIL in Collaboration With HSPG</article-title>,&#x0201d; <source>Blood</source>
+<volume>109</volume>, no. <issue>7</issue> (<year>2007</year>): <fpage>2961</fpage>&#x02013;<lpage>2967</lpage>, <pub-id pub-id-type="doi">10.1182/blood-2006-08-041772</pub-id>.<pub-id pub-id-type="pmid">17119122</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="acn370135-cit-0030">
+<string-name>
+<given-names>H. E.</given-names>
+<surname>Mei</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Fr&#x000f6;lich</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Giesecke</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Steady&#x02010;State Generation of Mucosal IgA+ Plasmablasts Is Not Abrogated by B&#x02010;Cell Depletion Therapy With Rituximab</article-title>,&#x0201d; <source>Blood</source>
+<volume>116</volume>, no. <issue>24</issue> (<year>2010</year>): <fpage>5181</fpage>&#x02013;<lpage>5190</lpage>, <pub-id pub-id-type="doi">10.1182/blood-2010-01-266536</pub-id>.<pub-id pub-id-type="pmid">20829370</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="acn370135-cit-0031">
+<string-name>
+<given-names>O. L.</given-names>
+<surname>Rojas</surname>
+</string-name>, <string-name>
+<given-names>A. K.</given-names>
+<surname>Pr&#x000f6;bstel</surname>
+</string-name>, <string-name>
+<given-names>E. A.</given-names>
+<surname>Porfilio</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Recirculating Intestinal IgA&#x02010;Producing Cells Regulate Neuroinflammation via IL&#x02010;10</article-title>,&#x0201d; <source>Cell</source>
+<volume>176</volume>, no. <issue>3</issue> (<year>2019</year>): <fpage>610</fpage>&#x02013;<lpage>624.e18</lpage>, <pub-id pub-id-type="doi">10.1016/j.cell.2018.11.035</pub-id>.<pub-id pub-id-type="pmid">30612739</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="acn370135-cit-0032">
+<string-name>
+<given-names>A. K.</given-names>
+<surname>Pr&#x000f6;bstel</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Baumann</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Gut Microbiota&#x02013;Specific IgA <sup>+</sup> B Cells Traffic to the CNS in Active Multiple Sclerosis</article-title>,&#x0201d; <source>Science Immunology</source>
+<volume>5</volume>, no. <issue>53</issue> (<year>2020</year>): <elocation-id>eabc7191</elocation-id>, <pub-id pub-id-type="doi">10.1126/sciimmunol.abc7191</pub-id>.<pub-id pub-id-type="pmid">33219152</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="acn370135-cit-0033">
+<string-name>
+<given-names>M. M.</given-names>
+<surname>Hasan</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Thompson&#x02010;Snipes</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Klintmalm</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>CD24hiCD38hi and CD24hiCD27+ Human Regulatory B Cells Display Common and Distinct Functional Characteristics</article-title>,&#x0201d; <source>Journal of Immunology</source>
+<volume>203</volume>, no. <issue>8</issue> (<year>2019</year>): <fpage>2110</fpage>&#x02013;<lpage>2120</lpage>, <pub-id pub-id-type="doi">10.4049/jimmunol.1900488</pub-id>.</mixed-citation></ref><ref id="acn370135-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="acn370135-cit-0034">
+<string-name>
+<given-names>R.</given-names>
+<surname>Claverie</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Perriguey</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Rico</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Efficacy of Rituximab Outlasts B&#x02010;Cell Repopulation in Multiple Sclerosis: Time to Rethink Dosing?</article-title>,&#x0201d; <source>Neurology Neuroimmunology &#x00026; Neuroinflammation</source>
+<volume>10</volume>, no. <issue>5</issue> (<year>2023</year>): <elocation-id>e200152</elocation-id>, <pub-id pub-id-type="doi">10.1212/NXI.0000000000200152</pub-id>.<pub-id pub-id-type="pmid">37604695</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="acn370135-cit-0035">
+<string-name>
+<given-names>N.</given-names>
+<surname>Nissimov</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Hajiyeva</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Torke</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>B Cells Reappear Less Mature and More Activated After Their Anti&#x02010;CD20&#x02013;Mediated Depletion in Multiple Sclerosis</article-title>,&#x0201d; <source>Proc Natl Acad Sci USA</source>
+<volume>117</volume>, no. <issue>41</issue> (<year>2020</year>): <fpage>25690</fpage>&#x02013;<lpage>25699</lpage>, <pub-id pub-id-type="doi">10.1073/pnas.2012249117</pub-id>.<pub-id pub-id-type="pmid">32999069</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="acn370135-cit-0036">
+<string-name>
+<given-names>C.</given-names>
+<surname>Rodriguez&#x02010;Mogeda</surname>
+</string-name>, <string-name>
+<given-names>Z. Y. G. J.</given-names>
+<surname>Van Lierop</surname>
+</string-name>, <string-name>
+<given-names>S. M. A.</given-names>
+<surname>Van Der Pol</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Extended Interval Dosing of Ocrelizumab Modifies the Repopulation of B Cells Without Altering the Clinical Efficacy in Multiple Sclerosis</article-title>,&#x0201d; <source>Journal of Neuroinflammation</source>
+<volume>20</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>215</fpage>, <pub-id pub-id-type="doi">10.1186/s12974-023-02900-z</pub-id>.<pub-id pub-id-type="pmid">37752582</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="acn370135-cit-0037">
+<string-name>
+<given-names>C.</given-names>
+<surname>Starvaggi Cucuzza</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Longinetti</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Ruffin</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Sustained Low Relapse Rate With Highly Variable B&#x02010;Cell Repopulation Dynamics With Extended Rituximab Dosing Intervals in Multiple Sclerosis</article-title>,&#x0201d; <source>Neurol Neuroimmunol Neuroinflamm</source>
+<volume>10</volume>, no. <issue>1</issue> (<year>2023</year>): <elocation-id>e200056</elocation-id>, <pub-id pub-id-type="doi">10.1212/NXI.0000000000200056</pub-id>.<pub-id pub-id-type="pmid">36411076</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="acn370135-cit-0038">
+<string-name>
+<given-names>R.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Lei</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Rezk</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Oxidative Phosphorylation Regulates B Cell Effector Cytokines and Promotes Inflammation in Multiple Sclerosis</article-title>,&#x0201d; <source>Science Immunology</source>
+<volume>9</volume>, no. <issue>95</issue> (<year>2024</year>): <elocation-id>eadk0865</elocation-id>, <pub-id pub-id-type="doi">10.1126/sciimmunol.adk0865</pub-id>.<pub-id pub-id-type="pmid">38701189</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="acn370135-cit-0039">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>H. J.</given-names>
+<surname>Shin</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Restoration of Regulatory B Cell Deficiency Following Alemtuzumab Therapy in Patients With Relapsing Multiple Sclerosis</article-title>,&#x0201d; <source>Journal of Neuroinflammation</source>
+<volume>15</volume>, no. <issue>1</issue> (<year>2018</year>): <fpage>300</fpage>, <pub-id pub-id-type="doi">10.1186/s12974-018-1334-y</pub-id>.<pub-id pub-id-type="pmid">30373595</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="acn370135-cit-0040">
+<string-name>
+<given-names>K.</given-names>
+<surname>Shinoda</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Rezk</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Differential Effects of Anti&#x02010;CD20 Therapy on CD4 and CD8 T Cells and Implication of CD20&#x02010;Expressing CD8 T Cells in MS Disease Activity</article-title>,&#x0201d; <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+<volume>120</volume>, no. <issue>3</issue> (<year>2023</year>): <elocation-id>e2207291120</elocation-id>, <pub-id pub-id-type="doi">10.1073/pnas.2207291120</pub-id>.<pub-id pub-id-type="pmid">36634138</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="acn370135-cit-0041">
+<string-name>
+<given-names>C.</given-names>
+<surname>Ulutekin</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Galli</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Schreiner</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>B Cell Depletion Attenuates CD27 Signaling of T Helper Cells in Multiple Sclerosis</article-title>,&#x0201d; <source>Cell Reports Medicine</source>
+<volume>5</volume>, no. <issue>1</issue> (<year>2024</year>): <elocation-id>101351</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.xcrm.2023.101351</pub-id>.<pub-id pub-id-type="pmid">38134930</pub-id>
+</mixed-citation></ref><ref id="acn370135-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="acn370135-cit-0042">
+<string-name>
+<given-names>G.</given-names>
+<surname>Abbadessa</surname>
+</string-name>, <string-name>
+<given-names>M. T.</given-names>
+<surname>Lepore</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Bruzzaniti</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Ocrelizumab Alters Cytotoxic Lymphocyte Function While Reducing EBV&#x02010;Specific CD8<sup>+</sup> T&#x02010;Cell Proliferation in Patients With Multiple Sclerosis</article-title>,&#x0201d; <source>Neurol Neuroimmunol Neuroinflamm</source>
+<volume>11</volume>, no. <issue>4</issue> (<year>2024</year>): <elocation-id>e200250</elocation-id>, <pub-id pub-id-type="doi">10.1212/NXI.0000000000200250</pub-id>.<pub-id pub-id-type="pmid">38662990</pub-id>
+</mixed-citation></ref></ref-list></back></article>

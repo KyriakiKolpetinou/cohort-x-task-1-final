@@ -1,0 +1,951 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="alz13791" xml:lang="en" article-type="brief-report"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Alzheimers Dement</journal-id><journal-id journal-id-type="iso-abbrev">Alzheimers Dement</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1552-5279</journal-id><journal-id journal-id-type="publisher-id">ALZ</journal-id><journal-title-group><journal-title>Alzheimer's &#x00026; Dementia</journal-title></journal-title-group><issn pub-type="ppub">1552-5260</issn><issn pub-type="epub">1552-5279</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38574400</article-id><article-id pub-id-type="pmc">11095424</article-id>
+<article-id pub-id-type="doi">10.1002/alz.13791</article-id><article-id pub-id-type="publisher-id">ALZ13791</article-id><article-categories><subj-group subj-group-type="overline"><subject>Short Report</subject></subj-group><subj-group subj-group-type="heading"><subject>Short Reports</subject></subj-group></article-categories><title-group><article-title>Distinct spatial contributions of amyloid pathology and cerebral small vessel disease to hippocampal morphology</article-title><alt-title alt-title-type="left-running-head">XHIMA <sc>et&#x000a0;al.</sc>
+</alt-title></title-group><contrib-group><contrib id="alz13791-cr-0001" contrib-type="author" corresp="yes"><name><surname>Xhima</surname><given-names>Kristiana</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4071-8319</contrib-id><xref rid="alz13791-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>kristiana.xhima@mail.utoronto.ca</email></address></contrib><contrib id="alz13791-cr-0002" contrib-type="author"><name><surname>Ottoy</surname><given-names>Julie</given-names></name><xref rid="alz13791-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz13791-cr-0003" contrib-type="author"><name><surname>Gibson</surname><given-names>Erin</given-names></name><xref rid="alz13791-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz13791-cr-0004" contrib-type="author"><name><surname>Zukotynski</surname><given-names>Katherine</given-names></name><xref rid="alz13791-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz13791-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="alz13791-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz13791-cr-0005" contrib-type="author"><name><surname>Scott</surname><given-names>Christopher</given-names></name><xref rid="alz13791-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz13791-cr-0006" contrib-type="author"><name><surname>Feliciano</surname><given-names>Ginelle J.</given-names></name><xref rid="alz13791-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz13791-cr-0007" contrib-type="author"><name><surname>Adamo</surname><given-names>Sabrina</given-names></name><xref rid="alz13791-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz13791-cr-0008" contrib-type="author"><name><surname>Kuo</surname><given-names>Phillip H.</given-names></name><xref rid="alz13791-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="alz13791-cr-0009" contrib-type="author"><name><surname>Borrie</surname><given-names>Michael J.</given-names></name><xref rid="alz13791-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="alz13791-cr-0010" contrib-type="author"><name><surname>Chertkow</surname><given-names>Howard</given-names></name><xref rid="alz13791-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="alz13791-cr-0011" contrib-type="author"><name><surname>Frayne</surname><given-names>Richard</given-names></name><xref rid="alz13791-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="alz13791-cr-0012" contrib-type="author"><name><surname>Laforce</surname><given-names>Robert</given-names><suffix>Jr.</suffix></name><xref rid="alz13791-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="alz13791-cr-0013" contrib-type="author"><name><surname>Noseworthy</surname><given-names>Michael D.</given-names></name><xref rid="alz13791-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="alz13791-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="alz13791-cr-0014" contrib-type="author"><name><surname>Prato</surname><given-names>Frank S.</given-names></name><xref rid="alz13791-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="alz13791-cr-0015" contrib-type="author"><name><surname>Sahlas</surname><given-names>Demetrios J.</given-names></name><xref rid="alz13791-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="alz13791-cr-0016" contrib-type="author"><name><surname>Smith</surname><given-names>Eric E.</given-names></name><xref rid="alz13791-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref></contrib><contrib id="alz13791-cr-0017" contrib-type="author"><name><surname>Sossi</surname><given-names>Vesna</given-names></name><xref rid="alz13791-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref></contrib><contrib id="alz13791-cr-0018" contrib-type="author"><name><surname>Thiel</surname><given-names>Alexander</given-names></name><xref rid="alz13791-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref></contrib><contrib id="alz13791-cr-0019" contrib-type="author"><name><surname>Soucy</surname><given-names>Jean&#x02010;Paul</given-names></name><xref rid="alz13791-aff-0014" ref-type="aff">
+<sup>14</sup>
+</xref></contrib><contrib id="alz13791-cr-0020" contrib-type="author"><name><surname>Tardif</surname><given-names>Jean&#x02010;Claude</given-names></name><xref rid="alz13791-aff-0015" ref-type="aff">
+<sup>15</sup>
+</xref></contrib><contrib id="alz13791-cr-0021" contrib-type="author"><name><surname>Goubran</surname><given-names>Maged</given-names></name><xref rid="alz13791-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz13791-aff-0016" ref-type="aff">
+<sup>16</sup>
+</xref><xref rid="alz13791-aff-0017" ref-type="aff">
+<sup>17</sup>
+</xref></contrib><contrib id="alz13791-cr-0022" contrib-type="author"><name><surname>Black</surname><given-names>Sandra E.</given-names></name><xref rid="alz13791-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz13791-aff-0018" ref-type="aff">
+<sup>18</sup>
+</xref></contrib><contrib id="alz13791-cr-0023" contrib-type="author" corresp="yes"><name><surname>Ramirez</surname><given-names>Joel</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5582-1776</contrib-id><xref rid="alz13791-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>joel.ramirez1@sunnybrook.ca</email></address></contrib><contrib id="alz13791-cr-0024" contrib-type="author"><collab collab-type="authors">for the Medical Imaging Trials Network of Canada (MITNEC)</collab></contrib></contrib-group><aff id="alz13791-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Dr. Sandra E. Black Centre for Brain Resilience and Recovery</named-content>
+<institution>LC Campbell Cognitive Neurology, Hurvitz Brain Sciences Program, Sunnybrook Research Institute, University of Toronto</institution>
+<city>Toronto</city>
+<named-content content-type="country-part">Ontario</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="alz13791-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Departments of Medicine and Radiology</named-content>
+<institution>McMaster University</institution>
+<city>Hamilton</city>
+<named-content content-type="country-part">Ontario</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="alz13791-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medical Imaging</named-content>
+<institution>Schulich School of Medicine and Dentistry, Western University</institution>
+<city>London</city>
+<named-content content-type="country-part">Ontario</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="alz13791-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Departments of Medical Imaging, Medicine, Biomedical Engineering</named-content>
+<institution>University of Arizona</institution>
+<city>Tucson</city>
+<named-content content-type="country-part">Arizona</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz13791-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Schulich School of Medicine and Dentistry</named-content>
+<institution>Western University</institution>
+<city>London</city>
+<named-content content-type="country-part">Ontario</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="alz13791-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Rotman Research Institute</named-content>
+<institution>Baycrest Health Sciences</institution>
+<city>Toronto</city>
+<named-content content-type="country-part">Ontario</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="alz13791-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Departments of Radiology and Clinical Neuroscience</named-content>
+<institution>Hotchkiss Brain Institute, University of Calgary</institution>
+<city>Calgary</city>
+<named-content content-type="country-part">Alberta</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="alz13791-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Clinique Interdisciplinaire de M&#x000e9;moire, D&#x000e9;partement des Sciences Neurologiques</named-content>
+<institution>Universit&#x000e9; Laval, Quebec City</institution>
+<city>Quebec</city>
+<country country="CA">Canada</country>
+</aff><aff id="alz13791-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<named-content content-type="organisation-division">Department of Electrical and Computer Engineering</named-content>
+<institution>McMaster University</institution>
+<city>Hamilton</city>
+<named-content content-type="country-part">Ontario</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="alz13791-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medicine</named-content>
+<institution>McMaster University</institution>
+<city>Hamilton</city>
+<named-content content-type="country-part">Ontario</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="alz13791-aff-0011">
+<label>
+<sup>11</sup>
+</label>
+<named-content content-type="organisation-division">Department of Clinical Neurosciences and Hotchkiss Brain Institute</named-content>
+<institution>University of Calgary</institution>
+<city>Calgary</city>
+<named-content content-type="country-part">Alberta</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="alz13791-aff-0012">
+<label>
+<sup>12</sup>
+</label>
+<named-content content-type="organisation-division">Physics and Astronomy Department and DM Center for Brain Health</named-content>
+<institution>University of British Columbia</institution>
+<city>Vancouver</city>
+<named-content content-type="country-part">British Columbia</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="alz13791-aff-0013">
+<label>
+<sup>13</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology and Neurosurgery</named-content>
+<institution>McGill University</institution>
+<city>Montreal</city>
+<named-content content-type="country-part">Quebec</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="alz13791-aff-0014">
+<label>
+<sup>14</sup>
+</label>
+<named-content content-type="organisation-division">Montreal Neurological Institute</named-content>
+<institution>McGill University</institution>
+<city>Montreal</city>
+<named-content content-type="country-part">Quebec</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="alz13791-aff-0015">
+<label>
+<sup>15</sup>
+</label>
+<named-content content-type="organisation-division">Montreal Heart Institute</named-content>
+<institution>Universit&#x000e9; de Montr&#x000e9;al</institution>
+<city>Montreal</city>
+<named-content content-type="country-part">Quebec</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="alz13791-aff-0016">
+<label>
+<sup>16</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medical Biophysics</named-content>
+<institution>University of Toronto</institution>
+<city>Toronto</city>
+<named-content content-type="country-part">Ontario</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="alz13791-aff-0017">
+<label>
+<sup>17</sup>
+</label>
+<named-content content-type="organisation-division">Physical Sciences Platform, Sunnybrook Research Institute</named-content>
+<institution>University of Toronto</institution>
+<city>Toronto</city>
+<named-content content-type="country-part">Ontario</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="alz13791-aff-0018">
+<label>
+<sup>18</sup>
+</label>
+<named-content content-type="organisation-division">Division of Neurology</named-content>
+<named-content content-type="organisation-division">Department of Medicine</named-content>
+<institution>University of Toronto</institution>
+<city>Toronto</city>
+<named-content content-type="country-part">Ontario</named-content>
+<country country="CA">Canada</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Kristiana Xhima and Joel Ramirez, Dr. Sandra E. Black Centre for Brain Resilience and Recovery, LC Campbell Cognitive Neurology, Hurvitz Brain Sciences Program, Sunnybrook Research Institute, University of Toronto, 2075 Bayview Avenue, Toronto, Ontario M4N 3M5, Canada.<break/> Email: <email>kristiana.xhima@mail.utoronto.ca</email> and <email>joel.ramirez1@sunnybrook.ca</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>04</day><month>4</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>5</month><year>2024</year></pub-date><volume>20</volume><issue seq="480">5</issue><issue-id pub-id-type="doi">10.1002/alz.v20.5</issue-id><fpage>3687</fpage><lpage>3695</lpage><history>
+<date date-type="rev-recd"><day>22</day><month>1</month><year>2024</year></date>
+<date date-type="received"><day>30</day><month>9</month><year>2023</year></date>
+<date date-type="accepted"><day>09</day><month>2</month><year>2024</year></date>
+</history><permissions><!--&#x000a9; 2024 the Alzheimer's Association.--><copyright-statement content-type="article-copyright">&#x000a9; 2024 The Authors. <italic toggle="yes">Alzheimer's &#x00026; Dementia</italic> published by Wiley Periodicals LLC on behalf of Alzheimer's Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ALZ-20-3687.pdf"/><abstract><title>Abstract</title><sec id="alz13791-sec-0010"><title>INTRODUCTION</title><p>Cerebral small vessel disease (SVD) and amyloid beta (A&#x003b2;) pathology frequently co&#x02010;exist. The impact of concurrent pathology on the pattern of hippocampal atrophy, a key substrate of memory impacted early and extensively in dementia, remains poorly understood.</p></sec><sec id="alz13791-sec-0020"><title>METHODS</title><p>In a unique cohort of mixed Alzheimer's disease and moderate&#x02013;severe SVD, we examined whether total and regional neuroimaging measures of SVD, white matter hyperintensities (WMH), and A&#x003b2;, as assessed by <sup>18</sup>F&#x02010;AV45 positron emission tomography, exert additive or synergistic effects on hippocampal volume and shape.</p></sec><sec id="alz13791-sec-0030"><title>RESULTS</title><p>Frontal WMH, occipital WMH, and A&#x003b2; were independently associated with smaller hippocampal volume. Frontal WMH had a spatially distinct impact on hippocampal shape relative to A&#x003b2;. In contrast, hippocampal shape alterations associated with occipital WMH spatially overlapped with A&#x003b2;&#x02010;vulnerable subregions.</p></sec><sec id="alz13791-sec-0040"><title>DISCUSSION</title><p>Hippocampal degeneration is differentially sensitive to SVD and A&#x003b2; pathology. The pattern of hippocampal atrophy could serve as a disease&#x02010;specific biomarker, and thus guide clinical diagnosis and individualized treatment strategies for mixed dementia.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="alz13791-kwd-0001">Alzheimer's disease</kwd><kwd id="alz13791-kwd-0002">amyloid</kwd><kwd id="alz13791-kwd-0003">biomarker</kwd><kwd id="alz13791-kwd-0004">cerebral small vessel disease</kwd><kwd id="alz13791-kwd-0005">hippocampal shape</kwd><kwd id="alz13791-kwd-0006">hippocampal volume</kwd><kwd id="alz13791-kwd-0007">Medical Imaging Trials Network of Canada C6 Project</kwd><kwd id="alz13791-kwd-0008">mixed dementia</kwd><kwd id="alz13791-kwd-0009">neurodegeneration</kwd><kwd id="alz13791-kwd-0010">vascular</kwd><kwd id="alz13791-kwd-0011">white matter hyperintensities</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Medical Imaging Trial Network of Canada</funding-source><award-id>#NCT02330510</award-id></award-group><award-group id="funding-0002"><funding-source>ADNI National Institutes of Health</funding-source><award-id>U01 AG024904</award-id></award-group><award-group id="funding-0003"><funding-source>ADNI Department of Defense</funding-source><award-id>W81XWH&#x02010;12&#x02010;2&#x02010;0012</award-id></award-group><award-group id="funding-0004"><funding-source><institution-wrap><institution>Canadian Institutes of Health Research
+</institution><institution-id institution-id-type="doi">10.13039/501100000024</institution-id></institution-wrap></funding-source><award-id>13129</award-id><award-id>159910</award-id></award-group><award-group id="funding-0005"><funding-source>L.C. Campbell Foundation</funding-source></award-group><award-group id="funding-0006"><funding-source>Dr. Sandra Black Centre for Brain Resilience and Recovery</funding-source></award-group></funding-group><counts><fig-count count="1"/><table-count count="2"/><page-count count="9"/><word-count count="5483"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>May 2024</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.4.3 mode:remove_FC converted:15.05.2024</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="alz13791-cit-0033">
+<string-name>
+<surname>Xhima</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Ottoy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Gibson</surname>
+<given-names>E</given-names>
+</string-name>, et&#x000a0;al.,; <collab collab-type="authors">for the Medical Imaging Trials Network of Canada (MITNEC)</collab>
+. <article-title>Distinct spatial contributions of amyloid pathology and cerebral small vessel disease to hippocampal morphology</article-title>. <source>Alzheimer's Dement</source>. <year>2024</year>;<volume>20</volume>:<fpage>3687</fpage>&#x02013;<lpage>3695</lpage>. <pub-id pub-id-type="doi">10.1002/alz.13791</pub-id>
+<pub-id pub-id-type="pmid">38574400</pub-id>
+</mixed-citation>
+</p><fn-group><fn id="alz13791-note-0001"><p>Sandra E. Black and Joel Ramirez are co&#x02010;senior authors.</p></fn></fn-group></notes></front><body><sec id="alz13791-sec-0050"><label>1</label><title>BACKGROUND</title><p>Alzheimer's disease (AD) and cerebral small vessel disease (SVD) are the most common causes of dementia. Mixed pathologies co&#x02010;occur in the vast majority of patients and increase the risk of dementia.<xref rid="alz13791-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> AD is characterized by the deposition of amyloid beta (A&#x003b2;) plaques, neurofibrillary tau tangles, and neurodegeneration.<xref rid="alz13791-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> SVD refers to neuropathological processes affecting small penetrating vessels, commonly visualized on magnetic resonance imaging (MRI) as white matter hyperintensities (WMH), enlarged perivascular spaces (PVS), lacunes, and microbleeds.<xref rid="alz13791-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> Interactions between both disease processes in clinical populations highlight the need for a better understanding of the relative contributions of AD and SVD to neurodegeneration and cognitive decline in individual patients.</p><p>An important point of convergence for both AD and SVD is hippocampal atrophy, a key substrate for cognitive impairment in dementia, and an important biomarker for clinical diagnosis, prognosis, and therapeutic trials for AD.<xref rid="alz13791-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Hippocampal degeneration has been associated with both AD and SVD, however, studies assessing the dynamic interplay between these pathologies on hippocampal structure are scarce and their interactive effects on hippocampal morphology remain poorly understood.<xref rid="alz13791-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="alz13791-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> Specifically, it remains unresolved whether SVD pathology influences hippocampal atrophy independently, through AD&#x02010;related pathways, or both. The relationship between WMH and hippocampal volume in mild cognitive impairment (MCI) and AD patients is inconclusive, showing associations in some studies that relied on clinically defined MCI<xref rid="alz13791-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="alz13791-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="alz13791-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="alz13791-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="alz13791-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> or AD,<xref rid="alz13791-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="alz13791-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="alz13791-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="alz13791-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> but rarely evaluated in the presence of A&#x003b2; or tau biomarkers.<xref rid="alz13791-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="alz13791-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> Additionally, little is known about the effect of regional SVD on hippocampal structure, which has not yet been investigated in the context of AD&#x02010;related biomarkers.<xref rid="alz13791-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="alz13791-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="alz13791-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> Converging evidence supports a link between the spatial distribution of WMH and distinct pathophysiological mechanisms in AD, with anterior WMH mostly linked to deficits in regional perfusion, and posterior WMH more specifically associated with AD, highlighting the utility of a regionalized approach to reveal how SVD and AD pathologies may coexist and interact.<xref rid="alz13791-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="alz13791-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> Taken together, further understanding the pattern of hippocampal atrophy in mixed dementia with biomarker&#x02010;based tools has strong potential to disentangle the independent and/or synergistic contributions of AD pathology and vascular injury to downstream hippocampal degeneration and cognitive decline, thereby improving our understanding of the clinical impact and effective therapeutic strategies for mixed dementia.</p><p>A critical gap in our ability to interpret the interrelationships between AD and SVD pathologies remains the significant underrepresentation of the mixed dementia phenotype in clinical studies. Despite the high prevalence of mixed etiologies clinically, individuals with moderate&#x02013;extensive co&#x02010;occurring vascular and A&#x003b2; burden&#x02014;the population most likely to reveal interactive relationships between concomitant disease pathologies and most reflective of real&#x02010;world clinical populations&#x02014;are often excluded from clinical studies. Previous study cohorts have been limited to investigation of either pure AD in the absence of significant vascular disease history, or pure vascular dementia without A&#x003b2; deposition or unknown&#x000a0;A&#x003b2; status, potentially resulting in misdiagnosis between vascular and mixed dementia. In this study, we evaluate the interactive effects of overlapping AD and SVD in the Medical Imaging Trials Network of Canada Project C6 Project (MITNEC&#x02010;C6), a unique multicenter prospective observational study designed to specifically recruit cognitively impaired individuals with moderate&#x02013;severe SVD in addition to A&#x003b2; positron emission tomography (PET) positivity (NCT02330510).</p><p>Other important gaps include the study of interactive effects on hippocampal structure using hippocampal volumetry tools not validated in patients with extensive atrophy and cerebrovascular lesions.<xref rid="alz13791-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> This is particularly relevant as mixed dementia can involve a substantial degree of hippocampal volume loss, which is difficult to accurately segment. Additionally, reliable volumetric measurements enable more sensitive hippocampal shape analyses to further infer regional patterns of hippocampal atrophy and their potential connections to distinct pathological mechanisms.<xref rid="alz13791-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>
+</p><p>To address these limitations, the objective of the present study was to gain deeper insight into the links between A&#x003b2; burden, WMH, and hippocampal degeneration, in a unique cohort of cognitively impaired adults with moderate&#x02013;severe SVD with and without A&#x003b2; PET positivity, using a novel, state&#x02010;of&#x02010;the&#x02010;art hippocampal segmentation tool to analyze alterations of hippocampal structure. Specifically, we hypothesized that among individuals with mixed dementia, (1) A&#x003b2; and SVD pathology independently contribute to hippocampal atrophy and (2) the spatial distribution of WMH differentially influences the pattern of hippocampal atrophy.</p></sec><sec id="alz13791-sec-0060"><label>2</label><title>METHODS</title><sec id="alz13791-sec-0070"><label>2.1</label><title>Participants</title><p>Sixty&#x02010;nine participants were recruited from stroke prevention clinics (clinical diagnosis of transient ischemic attack or subcortical lacunar infarct &#x02264; 1.5&#x000a0;cm) and memory clinics (clinical diagnosis of MCI or early AD), as part of the MITNEC&#x02010;C6, a multicenter prospective observational study (NCT02330510). Inclusion criteria included moderate&#x02010;to&#x02010;severe SVD (i.e., periventricular WMH with Fazekas score &#x02265; 2, with Fazekas 2 subjects included only if bilateral anterior or posterior periventricular WMH caps extended &#x02265; 10&#x000a0;mm from the ventricle or at least midway into the surrounding white matter), &#x02265; 60&#x000a0;years of age, expected survival &#x0003e; 2 years, Mini&#x02010;Mental State Examination (MMSE) &#x02265; 20,&#x000a0;&#x0003e;&#x000a0;8&#x000a0;years of education, and sufficient fluency in English or French for cognitive assessment. Exclusion criteria included cortical or non&#x02010;lacunar infarct, persisting hemiparesis after a motor stroke, leg strength&#x000a0;&#x0003c;&#x000a0;4/5 on the Medical Research Council scale, cerebellar ataxia, contraindications to 3T MRI, major psychiatric diagnosis within the last 5 years, history of substance abuse in the preceding 2 years, neurological diagnosis other than AD (e.g., Parkinson's disease, multi&#x02010;infarct dementia, Huntington's disease, normal pressure hydrocephalus, brain tumor, progressive supranuclear palsy, seizure disorder, subdural hematoma, multiple sclerosis, significant head trauma), pain or sleep disorder that interferes with participation, claustrophobia, head or neck radiation therapy or involvement in research study with radiation, and/or an inability or unwillingness to adhere to protocol requirements. All participants underwent standardized neuroimaging and cognitive testing described elsewhere.<xref rid="alz13791-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> All participants provided written informed consent. Research was ethically conducted and approved by each participating institutional ethics board.</p><boxed-text position="float" content-type="box"><sec id="alz13791-sec-0080"><title>RESEARCH IN CONTEXT</title><p>
+<list list-type="order" id="alz13791-list-0001"><list-item><p>
+<bold>Systematic review</bold>: The authors reviewed PubMed for literature concerning the impact of Alzheimer's disease (AD) and small vessel disease (SVD) pathologies on hippocampal degeneration. Although the link between amyloid beta (A&#x003b2;) and low white matter hyperintensity (WMH) load with reduced hippocampal volume has been studied, patients with significantly overlapping mixed AD/SVD pathology&#x02014;representing the vast majority of patients clinically&#x02014;have been largely excluded from clinical trials. Interactive effects between these co&#x02010;pathologies on the spatial pattern of hippocampal atrophy remain unexplored.</p></list-item><list-item><p>
+<bold>Interpretation</bold>: In a unique cohort of mixed AD and moderate&#x02013;extensive SVD, frontal and occipital WMH, and A&#x003b2; positron emission tomography positivity were independently associated with smaller hippocampal volume. Frontal WMH uniquely affected hippocampal shape whereas occipital WMH spatially overlapped with A&#x003b2;&#x02010;vulnerable subregions, revealing differential sensitivity of the hippocampus to SVD and A&#x003b2; pathology.</p></list-item><list-item><p>
+<bold>Future directions</bold>: Future validation and longitudinal studies in mixed AD/SVD cohorts will advance the utility of hippocampal morphology as a disease&#x02010;specific biomarker for improving diagnosis and personalized treatments for mixed dementia.</p></list-item></list>
+</p></sec></boxed-text></sec><sec id="alz13791-sec-0090"><label>2.2</label><title>Neuroimaging</title><p>Each participant underwent standardized 3T MRI (T1, PD&#x02010;T2, FLAIR) and <sup>18</sup>F&#x02010;AV45 amyloid PET.<xref rid="alz13791-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> WMH, lacunes, and PVS volumes were quantified using automated segmentation and regional parcellation tools on structural MRI.<xref rid="alz13791-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="alz13791-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> WMH volumes were extracted for frontal, temporal, parietal, occipital, and basal ganglia/thalamic regions. To mitigate skewness, all WMH volumes were log transformed. Hippocampal volumes were quantified using HippMapp3r, a deep learning segmentation algorithm that is robust to extensive atrophy, cerebrovascular lesions, and multisite imaging.<xref rid="alz13791-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> Hippocampal shape analysis was performed using the SPHARM&#x02010;PDM pipeline.<xref rid="alz13791-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> Briefly, HippMapp3r segmentation serves as input from which a mesh surface and spherical parameterization were extracted for each participant's hippocampi. Individual surfaces were registered to a surface template (averaged from all participants) creating point correspondences between hippocampi. Point&#x02010;wise hippocampal deformations relative to the template were successfully extracted in all participants. To account for interindividual variation in head size, all volumes were normalized to supratentorial total intracranial volume (ST&#x02010;TIV), calculated as the sum of gray matter volume, white matter volume, and cerebrospinal fluid (CSF) volume in each subject. Two dual&#x02010;certified nuclear medicine physicians/radiologists (KZ, PHK), blinded to each other's assessments, clinically interpreted <sup>18</sup>F&#x02010;AV45 amyloid PET scans as A&#x003b2; positive or A&#x003b2; negative.</p></sec><sec id="alz13791-sec-0100"><label>2.3</label><title>Statistical analyses</title><p>Statistical analyses were performed using SPSS (version 24.0). Chi&#x02010;squared tests for categorical variables, two&#x02010;tailed <italic toggle="yes">t</italic> tests for normally distributed continuous variables, and non&#x02010;parametric Wilcoxon rank&#x02010;sum test for non&#x02010;normally distributed continuous variables were performed to compare demographics, neuroimaging, and clinical variables between A&#x003b2;&#x02010;positive and A&#x003b2;&#x02010;negative participants. Linear regression models were used to investigate whether A&#x003b2; status and WMH volume independently predicted hippocampal volume, adjusted for age, sex, and education. An interaction term between A&#x003b2; status and WMH volume was included to determine whether these pathologies interacted to disproportionally impact hippocampal volume. Heteroscedasticity and multiple comparisons were controlled for by bias&#x02010;corrected bootstrapping (5000 replications and 99% confidence intervals). SPHARM&#x02010;PDM landmarks were used to compare point&#x02010;wise hippocampal surface differences between groups, adjusted for head size, age, sex, and education using a multivariate varying coefficient model using SlicerSALT software. Outliers were defined using the Tukey method. No outliers were detected across all global and regional neuroimaging metrics. Cook's distance was calculated for linear regression analyses with no observations exceeding the influence threshold across analyses.</p></sec></sec><sec id="alz13791-sec-0110"><label>3</label><title>RESULTS</title><p>Participant characteristics are summarized in Table&#x000a0;<xref rid="alz13791-tbl-0001" ref-type="table">1</xref>. Twenty&#x02010;seven of 69 individuals (39%) were A&#x003b2; positive. A&#x003b2; positive and A&#x003b2; negative individuals were comparable in terms of sex, education, and vascular risk factors (hypertension, diabetes, hyperlipidemia, smoking). Age was slightly higher in the A&#x003b2; positive group (79.69&#x000a0;&#x000b1;&#x000a0;6.84 years vs. 74.22&#x000a0;&#x000b1;&#x000a0;8.67 years, <italic toggle="yes">P&#x000a0;</italic>=&#x000a0;0.02). MMSE and Montreal Cognitive Assessment (MoCA) scores were marginally lower in the A&#x003b2; positive group, consistent with mild&#x02013;moderate cognitive impairment (MMSE: 26.13&#x000a0;&#x000b1;&#x000a0;2.92&#x000a0;vs. 27.25&#x000a0;&#x000b1;&#x000a0;2.42, <italic toggle="yes">P&#x000a0;</italic>=&#x000a0;0.02; MoCA: 20.07&#x000a0;&#x000b1;&#x000a0;4.17&#x000a0;vs. 22.73&#x000a0;&#x000b1;&#x000a0;5.35, <italic toggle="yes">P&#x000a0;</italic>=&#x000a0;0.02). Compared to A&#x003b2; negative patients, A&#x003b2; positive patients did not differ in terms of SVD neuroimaging measures, but showed smaller hippocampal volumes (5.12&#x000a0;&#x000b1;&#x000a0;0.94 cm<sup>3</sup> vs. 5.83&#x000a0;&#x000b1;&#x000a0;0.96 cm<sup>3</sup>, <italic toggle="yes">P&#x000a0;</italic>=&#x000a0;0.003), driven by atrophy in both the left (2.54&#x000a0;&#x000b1;&#x000a0;0.43 cm<sup>3</sup> vs. 2.85&#x000a0;&#x000b1;&#x000a0;0.47 cm<sup>3</sup>, <italic toggle="yes">P&#x000a0;</italic>=&#x000a0;0.02) and right (2.58&#x000a0;&#x000b1;&#x000a0;0.55 cm<sup>3</sup> vs. 2.99&#x000a0;&#x000b1;&#x000a0;0.53 cm<sup>3</sup>, <italic toggle="yes">P&#x000a0;</italic>=&#x000a0;0.01) hippocampi. Group differences in hippocampal volume remained significant in analyses adjusted for age, sex, and education.</p><table-wrap position="float" id="alz13791-tbl-0001" content-type="TABLE"><label>TABLE 1</label><caption><p>Demographics, clinical characteristics, and neuroimaging measures in study participants.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="." span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">
+<bold>Variables</bold>
+</th><th align="left" rowspan="1" colspan="1">A&#x003b2; positive (<italic toggle="yes">n</italic> = 27)</th><th align="left" rowspan="1" colspan="1">A&#x003b2; negative (<italic toggle="yes">n</italic> = 42)</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">P</italic>&#x02010;value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Demographics</italic>
+</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Age, years, mean (SD)</td><td align="char" rowspan="1" colspan="1">79.69 (6.84)</td><td align="char" rowspan="1" colspan="1">74.22 (8.67)</td><td align="char" rowspan="1" colspan="1">0.02<xref rid="alz13791-tbl1-note-0007" ref-type="table-fn">
+<sup>
+<bold>*</bold>
+</sup>
+</xref>, <xref rid="alz13791-tbl1-note-0005" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Sex, female, <italic toggle="yes">n</italic> (%)</td><td align="char" rowspan="1" colspan="1">13 (48.1%)</td><td align="char" rowspan="1" colspan="1">19 (43.2%)</td><td align="char" rowspan="1" colspan="1">0.68<xref rid="alz13791-tbl1-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Education, years</td><td align="char" rowspan="1" colspan="1">15.85 (3.79)</td><td align="char" rowspan="1" colspan="1">14.48 (3.37)</td><td align="char" rowspan="1" colspan="1">0.12<xref rid="alz13791-tbl1-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Vascular risk factors</italic>
+</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Hypertension, <italic toggle="yes">n</italic> (%)</td><td align="char" rowspan="1" colspan="1">21 (77.8%)</td><td align="char" rowspan="1" colspan="1">32 (72.7%)</td><td align="char" rowspan="1" colspan="1">0.64<xref rid="alz13791-tbl1-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Diabetes mellitus, <italic toggle="yes">n</italic> (%)</td><td align="char" rowspan="1" colspan="1">4 (14.8%)</td><td align="char" rowspan="1" colspan="1">3 (6.8%)</td><td align="char" rowspan="1" colspan="1">0.27<xref rid="alz13791-tbl1-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Hyperlipidemia, <italic toggle="yes">n</italic> (%)</td><td align="char" rowspan="1" colspan="1">21 (77.8%)</td><td align="char" rowspan="1" colspan="1">26 (59.1%)</td><td align="char" rowspan="1" colspan="1">0.11<xref rid="alz13791-tbl1-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Smoking, <italic toggle="yes">n</italic> (%)</td><td align="char" rowspan="1" colspan="1">13 (48.1%)</td><td align="char" rowspan="1" colspan="1">17 (40.4%)</td><td align="char" rowspan="1" colspan="1">0.53<xref rid="alz13791-tbl1-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Cardiovascular disease, <italic toggle="yes">n</italic> (%)</td><td align="char" rowspan="1" colspan="1">11 (40.7%)</td><td align="char" rowspan="1" colspan="1">16 (38.1%)</td><td align="char" rowspan="1" colspan="1">0.83<xref rid="alz13791-tbl1-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Previous TIA, <italic toggle="yes">n</italic> (%)</td><td align="char" rowspan="1" colspan="1">8 (29.6%)</td><td align="char" rowspan="1" colspan="1">11 (25.0%)</td><td align="char" rowspan="1" colspan="1">0.67<xref rid="alz13791-tbl1-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Previous stroke, <italic toggle="yes">n</italic> (%)</td><td align="char" rowspan="1" colspan="1">3 (11.1%)</td><td align="char" rowspan="1" colspan="1">13 (29.5%)</td><td align="char" rowspan="1" colspan="1">0.07<xref rid="alz13791-tbl1-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Neuroimaging</italic>
+</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">ST&#x02010;TIV, cm<sup>3</sup>
+</td><td align="char" rowspan="1" colspan="1">1239 (111.44)</td><td align="char" rowspan="1" colspan="1">1196.90 (320.90)</td><td align="char" rowspan="1" colspan="1">0.51<xref rid="alz13791-tbl1-note-0005" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">BPF, %</td><td align="char" rowspan="1" colspan="1">69.98 (3.59)</td><td align="char" rowspan="1" colspan="1">72.03 (5.41)</td><td align="char" rowspan="1" colspan="1">0.07<xref rid="alz13791-tbl1-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">WMH volume, cm<sup>3</sup>
+</td><td align="char" rowspan="1" colspan="1">36.87 (23.81)</td><td align="char" rowspan="1" colspan="1">38.07 (21.14)</td><td align="char" rowspan="1" colspan="1">0.82<xref rid="alz13791-tbl1-note-0005" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Frontal</td><td align="char" rowspan="1" colspan="1">13.38 (9.97)</td><td align="char" rowspan="1" colspan="1">14.75 (9.42)</td><td align="char" rowspan="1" colspan="1">0.49<xref rid="alz13791-tbl1-note-0005" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Parietal</td><td align="char" rowspan="1" colspan="1">16.21 (12.61)</td><td align="char" rowspan="1" colspan="1">16.02 (9.93)</td><td align="char" rowspan="1" colspan="1">0.80<xref rid="alz13791-tbl1-note-0005" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Temporal</td><td align="char" rowspan="1" colspan="1">4.36 (3.49)</td><td align="char" rowspan="1" colspan="1">4.29 (3.06)</td><td align="char" rowspan="1" colspan="1">0.67<xref rid="alz13791-tbl1-note-0005" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Occipital</td><td align="char" rowspan="1" colspan="1">2.79 (2.16)</td><td align="char" rowspan="1" colspan="1">2.61 (2.06)</td><td align="char" rowspan="1" colspan="1">0.69<xref rid="alz13791-tbl1-note-0005" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Basal ganglia/thalamic</td><td align="char" rowspan="1" colspan="1">0.52 (0.75)</td><td align="char" rowspan="1" colspan="1">0.65 (1.03)</td><td align="char" rowspan="1" colspan="1">0.89<xref rid="alz13791-tbl1-note-0005" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Lacunes, mm<sup>3</sup>
+</td><td align="char" rowspan="1" colspan="1">860.81 (593.44)</td><td align="char" rowspan="1" colspan="1">890.18 (1125.12)</td><td align="char" rowspan="1" colspan="1">0.93<xref rid="alz13791-tbl1-note-0005" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">PVS, mm<sup>3</sup>
+</td><td align="char" rowspan="1" colspan="1">112.93 (104.44)</td><td align="char" rowspan="1" colspan="1">148.93 (120.39)</td><td align="char" rowspan="1" colspan="1">0.49<xref rid="alz13791-tbl1-note-0005" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Hippocampal volume, cm<sup>3</sup>
+</td><td align="char" rowspan="1" colspan="1">5.12 (0.94)</td><td align="char" rowspan="1" colspan="1">5.83 (0.96)</td><td align="char" rowspan="1" colspan="1">0.003<xref rid="alz13791-tbl1-note-0007" ref-type="table-fn">
+<sup>
+<bold>*</bold>
+</sup>
+</xref>, <xref rid="alz13791-tbl1-note-0005" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Left</td><td align="char" rowspan="1" colspan="1">2.54 (0.43)</td><td align="char" rowspan="1" colspan="1">2.85 (0.47)</td><td align="char" rowspan="1" colspan="1">0.02<xref rid="alz13791-tbl1-note-0007" ref-type="table-fn">
+<sup>
+<bold>*</bold>
+</sup>
+</xref>, <xref rid="alz13791-tbl1-note-0005" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Right</td><td align="char" rowspan="1" colspan="1">2.58 (0.55)</td><td align="char" rowspan="1" colspan="1">2.99 (0.53)</td><td align="char" rowspan="1" colspan="1">0.01<xref rid="alz13791-tbl1-note-0007" ref-type="table-fn">
+<sup>
+<bold>*</bold>
+</sup>
+</xref>, <xref rid="alz13791-tbl1-note-0005" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Cognition</italic>
+</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">MMSE, /30</td><td align="char" rowspan="1" colspan="1">26.13 (2.92)</td><td align="char" rowspan="1" colspan="1">27.25 (2.42)</td><td align="char" rowspan="1" colspan="1">0.02<xref rid="alz13791-tbl1-note-0007" ref-type="table-fn">
+<sup>
+<bold>*</bold>
+</sup>
+</xref>, <xref rid="alz13791-tbl1-note-0005" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">MoCA, /30</td><td align="char" rowspan="1" colspan="1">20.07 (4.17)</td><td align="char" rowspan="1" colspan="1">22.73 (5.35)</td><td align="char" rowspan="1" colspan="1">0.02<xref rid="alz13791-tbl1-note-0007" ref-type="table-fn">
+<sup>
+<bold>*</bold>
+</sup>
+</xref>, <xref rid="alz13791-tbl1-note-0005" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td></tr></tbody></table><table-wrap-foot><fn id="alz13791-tbl1-note-0001"><p>
+<italic toggle="yes">Note</italic>: Raw neuroimaging volumetrics are reported in the table, but statistical analyses were conducted with ST&#x02010;TIV corrected values. <italic toggle="yes">P</italic>&#x02010;values comparing A&#x003b2;&#x02010;positive versus A&#x003b2;&#x02010;negative subjects. Values represent mean (standard deviation) or count (percentage).</p></fn><fn id="alz13791-tbl1-note-0002"><p>Abbreviations: A&#x003b2;,&#x000a0;amyloid beta; BPF,&#x000a0;brain parenchymal fraction; MMSE,&#x000a0;Mini&#x02010;Mental State Examination; MoCA,&#x000a0;Montreal Cognitive Assessment; PVS,&#x000a0;perivascular spaces; SD, standard deviation; ST&#x02010;TIV,&#x000a0;supratentorial total intracranial volume; TIA,&#x000a0;transient ischemic attack; WMH,&#x000a0;white matter hyperintensities.</p></fn><fn id="alz13791-tbl1-note-0003"><label>
+<sup>a</sup>
+</label><p>Student <italic toggle="yes">t</italic> test.</p></fn><fn id="alz13791-tbl1-note-0004"><label>
+<sup>b</sup>
+</label><p>Chi&#x02010;squared test.</p></fn><fn id="alz13791-tbl1-note-0005"><label>
+<sup>c</sup>
+</label><p>Wilcoxon rank&#x02010;sum test.</p></fn><fn id="alz13791-tbl1-note-0007"><label>*</label><p>
+<italic toggle="yes">P</italic>&#x02010;value&#x000a0;&#x0003c;&#x000a0;0.05.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Next, we investigated the additive and interactive effects of A&#x003b2; status and WMH volume on hippocampal volume. Positive A&#x003b2; status was associated with smaller hippocampal volume, adjusted for age, sex, education, and total WMH volume (Table <xref rid="alz13791-supitem-0001" ref-type="supplementary-material">S1</xref> in supporting information; &#x003b2;&#x000a0;=&#x000a0;&#x02212;0.20, <italic toggle="yes">P&#x000a0;</italic>=&#x000a0;0.04). In contrast to total WMH volume (Table <xref rid="alz13791-supitem-0001" ref-type="supplementary-material">S1</xref>; &#x003b2;&#x000a0;=&#x000a0;&#x02212;0.06, <italic toggle="yes">P&#x000a0;</italic>=&#x000a0;0.76), greater WMH volume in the frontal and occipital regions predicted lower hippocampal volume independent of A&#x003b2; deposition, age, sex, and education (Table&#x000a0;<xref rid="alz13791-tbl-0002" ref-type="table">2</xref>; frontal WMH: &#x003b2;&#x000a0;=&#x000a0;&#x02212;0.26, <italic toggle="yes">P&#x000a0;</italic>=&#x000a0;0.03; occipital WMH: &#x003b2;&#x000a0;=&#x000a0;&#x02212;0.35, <italic toggle="yes">P&#x000a0;</italic>=&#x000a0;0.01). We observed no&#x000a0;interaction between A&#x003b2; positivity and regional WMH in terms of their impact on hippocampal volume (Table&#x000a0;<xref rid="alz13791-tbl-0002" ref-type="table">2</xref>), supporting the notion that global A&#x003b2; burden and regional WMH volume act in an additive rather than synergistic way to affect hippocampal volume.</p><table-wrap position="float" id="alz13791-tbl-0002" content-type="TABLE"><label>TABLE 2</label><caption><p>Association between A&#x003b2; status and WMH volume with hippocampal volume.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Predictor</th><th align="left" rowspan="1" colspan="1">&#x003b2; coefficient between predictor and HV<xref rid="alz13791-tbl2-note-0002" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">P</italic>&#x02010;value<xref rid="alz13791-tbl2-note-0002" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</th><th align="left" rowspan="1" colspan="1">
+<p>Interaction term</p>
+<p>A&#x003b2; status &#x000d7; WMH volume<xref rid="alz13791-tbl2-note-0003" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</p>
+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">P</italic>&#x02010;value<xref rid="alz13791-tbl2-note-0003" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age, years</td><td align="char" rowspan="1" colspan="1">&#x02212;0.46</td><td align="char" rowspan="1" colspan="1">&#x0003c;0.0001<xref rid="alz13791-tbl2-note-0004" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">&#x02013;</td><td align="char" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" rowspan="1" colspan="1">Sex, female, <italic toggle="yes">n</italic>
+</td><td align="char" rowspan="1" colspan="1">0.39</td><td align="char" rowspan="1" colspan="1">&#x0003c;0.0001<xref rid="alz13791-tbl2-note-0004" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">&#x02013;</td><td align="char" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" rowspan="1" colspan="1">Education, years</td><td align="char" rowspan="1" colspan="1">&#x02212;0.19</td><td align="char" rowspan="1" colspan="1">0.03<xref rid="alz13791-tbl2-note-0004" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">&#x02013;</td><td align="char" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" rowspan="1" colspan="1">A&#x003b2; positive, <italic toggle="yes">n</italic>
+</td><td align="char" rowspan="1" colspan="1">&#x02212;0.20</td><td align="char" rowspan="1" colspan="1">0.03<xref rid="alz13791-tbl2-note-0004" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">&#x02013;</td><td align="char" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" rowspan="1" colspan="1">Frontal WMH, cm<sup>3</sup>
+</td><td align="char" rowspan="1" colspan="1">&#x02212;0.26</td><td align="char" rowspan="1" colspan="1">0.03<xref rid="alz13791-tbl2-note-0004" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">&#x02212;0.11</td><td align="char" rowspan="1" colspan="1">0.61</td></tr><tr><td align="left" rowspan="1" colspan="1">Parietal WMH, cm<sup>3</sup>
+</td><td align="char" rowspan="1" colspan="1">0.30</td><td align="char" rowspan="1" colspan="1">0.07</td><td align="char" rowspan="1" colspan="1">&#x02212;0.02</td><td align="char" rowspan="1" colspan="1">0.82</td></tr><tr><td align="left" rowspan="1" colspan="1">Temporal WMH, cm<sup>3</sup>
+</td><td align="char" rowspan="1" colspan="1">0.25</td><td align="char" rowspan="1" colspan="1">0.18</td><td align="char" rowspan="1" colspan="1">0.23</td><td align="char" rowspan="1" colspan="1">0.16</td></tr><tr><td align="left" rowspan="1" colspan="1">Occipital WMH, cm<sup>3</sup>
+</td><td align="char" rowspan="1" colspan="1">&#x02212;0.35</td><td align="char" rowspan="1" colspan="1">0.01<xref rid="alz13791-tbl2-note-0004" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.05</td><td align="char" rowspan="1" colspan="1">0.77</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Basal ganglia/</p>
+<p>thalamic WMH, cm<sup>3</sup>
+</p>
+</td><td align="char" rowspan="1" colspan="1">0.23</td><td align="char" rowspan="1" colspan="1">0.31</td><td align="char" rowspan="1" colspan="1">0.07</td><td align="char" rowspan="1" colspan="1">0.81</td></tr></tbody></table><table-wrap-foot><fn id="alz13791-tbl2-note-0001"><p>Abbreviations: A&#x003b2;,&#x000a0;amyloid beta; HV,&#x000a0;hippocampal volume; WMH,&#x000a0;white matter hyperintensities.</p></fn><fn id="alz13791-tbl2-note-0002"><label>
+<sup>a</sup>
+</label><p>Multivariable linear regression model with hippocampal volume as the outcome and age, sex, education, A&#x003b2; status, regional WMH as predictors.</p></fn><fn id="alz13791-tbl2-note-0003"><label>
+<sup>b</sup>
+</label><p>Interaction terms added to the linear regression model separately.</p></fn><fn id="alz13791-tbl2-note-0004"><label>*</label><p>
+<italic toggle="yes">P</italic>&#x02010;value&#x000a0;&#x0003c;&#x000a0;0.05, bias&#x02010;corrected bootstrapping with 5000 replications and 99% confidence interval.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>To delineate whether subregions of the hippocampus are differentially affected by A&#x003b2; and regional WMH, we performed hippocampal morphometry analysis (Figure&#x000a0;<xref rid="alz13791-fig-0001" ref-type="fig">1</xref>). A&#x003b2; positivity was linked to inward deformation of the right superolateral head, lateral body, and tail, as well as left medial body and bilateral inferomedial head&#x02014;hippocampal subregions that likely correspond to atrophy in the CA1 and subiculum (Figure&#x000a0;<xref rid="alz13791-fig-0001" ref-type="fig">1A</xref>). Frontal WMH burden was linked to inward deformation of the left superolateral and inferomedial hippocampal surface, with a similar pattern to a lesser extent on the right hippocampus, largely corresponding to CA1 atrophy that is spatially distinct from hippocampal subregions affected in A&#x003b2; positive subjects (Figure&#x000a0;<xref rid="alz13791-fig-0001" ref-type="fig">1B</xref>). Parietal WMH were associated with outward deformations in the right superolateral head, right tail, and left lateral body (Figure&#x000a0;<xref rid="alz13791-fig-0001" ref-type="fig">1C</xref>), implicating the CA2/CA3 and CA4/DG hippocampal subfields. Temporal WMH burden was associated with outward displacements in the bilateral hippocampal heads (Figure&#x000a0;<xref rid="alz13791-fig-0001" ref-type="fig">1D</xref>), corresponding to CA1 and subiculum, while occipital WMH burden had similar and overlapping subregional morphological alterations (inward deformations) with that of A&#x003b2; positivity (Figure&#x000a0;<xref rid="alz13791-fig-0001" ref-type="fig">1E</xref>). Finally, basal ganglia/thalamic lesion load was linked to outward deformations of the left hippocampal tail and right lateral hippocampal surface (Figure&#x000a0;<xref rid="alz13791-fig-0001" ref-type="fig">1F</xref>), largely corresponding to CA1 and subiculum.</p><fig position="float" fig-type="FIGURE" id="alz13791-fig-0001"><label>FIGURE 1</label><caption><p>Hippocampal shape alterations associated with A&#x003b2; status and regional WMH volumes in MITNEC&#x02010;C6 subjects. Regional hippocampal surface deformities associated with (A) A&#x003b2; positivity, and regional WMH load, localized to the (B) frontal lobe, (C) parietal lobe, (D) temporal lobe, (E) occipital lobe, and (F) basal ganglia/thalamus. The left side of each panel shows the relative displacement map (blue&#x000a0;=&#x000a0;outward displacement, red&#x000a0;=&#x000a0;inward displacement) associated with each disease process and the right side of each panel indicates the <italic toggle="yes">P</italic>&#x02010;value map related to each hippocampal surface. A&#x003b2;, amyloid beta; MITNEC&#x02010;C6, Medical Imaging Trials Network of Canada Project C6; WMH,&#x000a0;white matter hyperintensities.</p></caption><graphic xlink:href="ALZ-20-3687-g001" position="anchor" id="jats-graphic-1"/></fig></sec><sec id="alz13791-sec-0120"><label>4</label><title>DISCUSSION</title><p>Analysis of hippocampal morphology revealed novel spatial associations between global A&#x003b2; burden and SVD pathology driving hippocampal neurodegeneration in dementia. The pattern of hippocampal atrophy is differentially sensitive to the effects of A&#x003b2; and regional SVD. Relative to A&#x003b2;&#x02010;susceptible subregions, the pattern of degeneration was spatially unique for frontal WMH and spatially similar for occipital WMH, implicating distinct pathological mechanisms driving degeneration. Leveraging these distinct contributions, hippocampal shape may have the potential to serve as a disease&#x02010;specific biomarker that captures the relative impact of commonly co&#x02010;occurring AD and SVD pathologies on neurodegeneration and thus inform clinical diagnosis and individualized treatment strategies for mixed dementia.</p><p>These findings are consistent with previous studies demonstrating the independent but additive effects of A&#x003b2; pathology and concurrent total WMH burden on hippocampal volume in cognitively unimpaired older adults and patients with MCI or early AD.<xref rid="alz13791-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="alz13791-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="alz13791-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="alz13791-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="alz13791-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> However, to our knowledge, the regional specificity of WMH on the pattern of hippocampal degeneration has not been previously investigated. Previous studies observed a posterior predominance of WMH in the context of sporadic and familial AD, implicating A&#x003b2;&#x02010;mediated white matter damage in posterior brain regions.<xref rid="alz13791-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="alz13791-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="alz13791-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="alz13791-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> Consistent with this distribution, we show that hippocampal shape alterations associated with occipital WMH spatially overlap with A&#x003b2;&#x02010;vulnerable subregions of the hippocampus. The relative distribution of WMH shifts posteriorly as WMH burden increases, supporting the observed occipital association over other posterior regions in this higher vascular burden cohort.<xref rid="alz13791-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="alz13791-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> Cerebral amyloid angiopathy (CAA) follows a similar posteroanterior gradient in AD and correlates to hippocampal atrophy.<xref rid="alz13791-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> Mechanistically, CAA&#x02010;related ischemic damage may explain the direct convergence of occipital WMH and A&#x003b2; pathology on hippocampal integrity. Venous collagenosis may also be implicated, impairing regional perivascular and interstitial fluid flow from white matter and thus A&#x003b2; clearance.<xref rid="alz13791-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="alz13791-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> Other possible underlying pathological processes include localized Wallerian degeneration, oxidative stress, inflammation, and oligodendrocyte damage.<xref rid="alz13791-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> Together, our findings reveal the convergence of occipital SVD and global A&#x003b2; on downstream hippocampal degeneration.</p><p>In contrast, frontal WMH impact spatially distinct areas within the hippocampus relative to A&#x003b2;. Frontal white matter is preferentially susceptible to vascular injury, consistent with an anterior dominant WMH distribution in patients with sporadic and familial SVD.<xref rid="alz13791-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> Mechanistically, WMH localized to the frontal horns of the lateral ventricles are particularly susceptible to chronic hypoperfusion, oxidative stress and white matter injury, given the significant distance between penetrating arterioles and draining venules toward the ventricles.<xref rid="alz13791-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> Functional disconnection between frontal association areas subserving the hippocampus due to ischemic damage could lead to hippocampal atrophy and axonal degeneration. Our observations provide evidence that concurrent frontal SVD and A&#x003b2; potentially represent independent pathways to hippocampal atrophy. Indeed, frontal lobe WMH burden associated with hippocampal atrophy, regardless of dementia status.<xref rid="alz13791-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> Parietal, temporal, and basal ganglia/thalamic WMH load were associated with outward deformation of the hippocampal surface, and may implicate inflammatory or compensatory mechanisms in affected hippocampal subfields.<xref rid="alz13791-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="alz13791-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>
+</p><p>Several unique aspects of this study strengthen our results related to the complex interactions between concomitant A&#x003b2; and SVD on hippocampal morphology. First, the MITNEC&#x02010;C6 cohort includes participants with significant vascular and A&#x003b2; co&#x02010;pathology, who are often explicitly excluded from AD studies and clinical trials despite the high prevalence of mixed pathology clinically. Second, we conducted hippocampal segmentation using a novel machine learning algorithm, HippMapp3r, shown to be robust in patients with extensive atrophy and cerebrovascular pathology compared to other state&#x02010;of&#x02010;the&#x02010;art techniques.<xref rid="alz13791-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> It is only with accurate hippocampal segmentation in difficult cases with extensive pathology that hippocampal shape analysis can be reliably performed. Third, our unique approach of hippocampal shape analysis and regional WMH distribution revealed novel spatial vulnerabilities of these co&#x02010;occurring disease processes in the hippocampus not captured by global volume measurements used in previous studies.</p><p>This study has several limitations. First,&#x000a0;we did not validate our findings in an independent cohort. To our knowledge, an independent cohort with moderate&#x02013;high WMH load and amyloid PET imaging does not currently exist, underscoring the value of the MITNEC&#x02010;C6 trial and importance of studying the mixed dementia phenotype in future studies. Second, the study is cross&#x02010;sectional by design. Future work with longitudinal analyses will serve to evaluate the directionality and dynamic interplay between these co&#x02010;pathologies on hippocampal degeneration. Third, the impact of other neuroimaging biomarkers of SVD on hippocampal integrity, including MRI&#x02010;visible PVS, lacunes, and microbleeds, were not examined. The topographical distributions of SVD imaging markers may represent different underlying vasculopathies.<xref rid="alz13791-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="alz13791-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="alz13791-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="alz13791-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="alz13791-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="alz13791-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="alz13791-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> Thus, characterizing their relative contributions to the spatial pattern of hippocampal degeneration may serve to further clarify underlying heterogeneity in brain atrophy and clinical trajectories within individual patients with mixed pathologies. Finally, we did not validate these results in an independent dataset with low SVD burden (i.e., total WMH volume&#x000a0;&#x0003c;&#x000a0;6 cm<sup>3</sup> or 0.65% of total intracranial volume, Fazekas score&#x000a0;&#x0003c;&#x000a0;2) or cognitively unimpaired older individuals. Some studies report reduced hippocampal volume associated with low WMH burden in cognitively normal, MCI, or AD individuals in the absence of A&#x003b2; pathology.<xref rid="alz13791-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="alz13791-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> Other studies support a threshold beyond which vascular pathology drives hippocampal degeneration.<xref rid="alz13791-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="alz13791-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="alz13791-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="alz13791-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> To assess the generalizability of our findings, cohorts with lower burden of white matter injury and concurrent A&#x003b2; positivity will be needed. Localized hippocampal degeneration linked to dementia is visible on structural MRI even in cognitively normal older adults,<xref rid="alz13791-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="alz13791-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="alz13791-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="alz13791-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> which&#x000a0;highlights the potential of hippocampal shape analysis for detecting regional susceptibilities to AD and SVD pathology at earlier stages of disease.</p><p>Machine and deep learning classification algorithms offer a powerful approach to translate these research findings into clinical practice. Future work should use hippocampal shape analysis for extracting relevant features (i.e., global and/or spatially localized morphometric parameters) to predict amyloid status and SVD burden on an individualized basis. We expect the distinct pattern of regional hippocampal shape alterations associated with A&#x003b2; and white matter injury detected in the present study to be recapitulated as important predictive features for patient classification. The ability to distinguish the relative contributions of vascular and A&#x003b2;&#x02010;related processes to neurodegeneration paves the way toward precision medicine in mixed dementia, informing both clinical diagnosis and disease&#x02010;specific therapeutic strategies. A shape&#x02010;based classification approach would require training and validation in a larger cohort of participants than the current study and across multiple cohorts to ensure robustness and generalizability.</p><p>In conclusion, these findings suggest that SVD, both independently and via A&#x003b2;&#x02010;related pathways, drives hippocampal degeneration through regionally specific pathways in the early stages of cognitive impairment. Our results support the use of hippocampal morphometry as a sensitive biomarker that can reveal deeper insight into the overlapping pathogenic mechanisms of SVD and AD, capture the relative impact of AD and SVD pathologies on neurodegeneration in a personalized medicine approach, and inform the design of disease&#x02010;modifying therapeutic trials with hippocampal degeneration as an outcome measure.</p></sec><sec sec-type="COI-statement" id="alz13791-sec-0140"><title>CONFLICT OF INTEREST STATEMENT</title><p>S.E.B. reports contracted research from the following, with no personal investigator fees taken: GE Healthcare, Genentech, Optina, Roche, Eli Lilly, Eisai, Biogen Idec, NovoNordisk, Lilly Avid, UCB Biopharma SRL, Merck, Alkahest Inc.; consulting fees from Roche, Biogen, and NovoNordisk; and honoraria for lectures from Biogen. M.B. reports contractual funds paid to the Lawson Health Research Institute from Biogen, Alector, Eisai, Abbvie, and Eli Lilly; consulting fees for the co&#x02010;creation of workshops from Roche; and honoraria for educational webinars and educational website modules from Biogen. H.C. reports pharmaceutical trial contracts sponsored by Hoffmann&#x02010;La Roche Limited, TauRx, Lilly, Anavex Life Sciences, Alector LLC, Biogen, and Immunocal; participation as an unpaid advisor in 2020 for the establishment of an international database by Biogen; and is the scientific director of CCNA, which is partnered with Pfizer Inc., Lilly, and Sanofi. P.H.K. reports payments made to the institution for research from Blue Earth Diagnostics, GE Healthcare, and Novartis; consulting fees from Amgen, Bayer, Blue Earth Diagnostics, Chimerix, Eisai, Fusion Pharma, GE Healthcare, Invicro, Novartis, and Radionetics; honoraria for lectures from Urology Today, GE Healthcare, and Invicro; US patent for brain imaging (Patent No. US 10,013,743 B2); payments from Amgen, GE Healthcare, and Radionetics for data safety monitoring or advisory board; and medical writing for Novartis, GE Healthcare, and Blue Earth Diagnostics. J.C.T. reports grants or contracts from Amarin, AstraZeneca, Ceapro, DalCor Pharmaceuticals, Esperion, Ionis, Merck, Novartis, Pfizer, and RegenXBio; consulting fees from AstraZeneca, DalCor Pharmaceuticals, and HLS Pharmaceuticals; honoraria from HLS Pharmaceuticals, Pendopharm, Pfizer; and patents planned or pending from Pharmacogenomics&#x02010;guided CETP inhibition use of colchicine after myocardial infarction; and stock options of minor equity interest in DalCor Pharmaceuticals. A.T. reports a research contract with Bayer Inc. K.Z. reports grants/contracts from Microsoft Canada; consulting fees from Fusion Pharmaceuticals, Invicro, and GE Healthcare. K.X., J.O., E.G., C.S., G.J.F., S.A., R.F., R.J.L., M.D.N., F.S.P., D.J.S., E.E.S., V.S., J.P.S., M.G., and J.R. have no conflicts of interest to disclose. Author disclosures are available in the <xref rid="alz13791-supitem-0002" ref-type="supplementary-material">supporting information</xref>.</p></sec><sec id="alz13791-sec-0150"><title>CONSENT STATEMENT</title><p>All MITNEC&#x02010;C6 participants provided written informed consent. Research was ethically conducted and approved by each participating institutional ethics board.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="alz13791-supitem-0001" position="float" content-type="local-data"><caption><p>Supporting information</p></caption><media xlink:href="ALZ-20-3687-s002.docx"/></supplementary-material><supplementary-material id="alz13791-supitem-0002" position="float" content-type="local-data"><caption><p>Supporting information</p></caption><media xlink:href="ALZ-20-3687-s001.pdf"/></supplementary-material></sec></body><back><ack id="alz13791-sec-0130"><title>ACKNOWLEDGMENTS</title><p>We express our sincere gratitude to the participants and caregivers involved in this study. We are grateful for support from the Medical Imaging Trial Network of Canada (Grant #NCT02330510), Lilly Avid for supplying the 18F&#x02010;florbetapir ligand, ADNI (National Institutes of Health Grant U01 AG024904), and DOD ADNI (Department of Defense award number W81XWH&#x02010;12&#x02010;2&#x02010;0012). Though not directly funded by ADNI, this study is considered part of World Wide ADNI. We are also thankful for support from the Canadian Institutes of Health Research (MOP Grant #13129, Foundation Grant #159910), the L.C Campbell Foundation, and the Dr. Sandra Black Centre for Brain Resilience and Recovery.</p></ack><ref-list id="alz13791-bibl-0001"><title>REFERENCES</title><ref id="alz13791-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="alz13791-cit-0001">
+<string-name>
+<surname>Kapasi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>DeCarli</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>
+<given-names>JA</given-names>
+</string-name>. <article-title>Impact of multiple pathologies on the threshold for clinically overt dementia</article-title>. <source>Acta Neuropathol</source>. <year>2017</year>;<volume>134</volume>(<issue>2</issue>):<fpage>171</fpage>&#x02010;<lpage>186</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s00401-017-1717-7</pub-id>
+<pub-id pub-id-type="pmid">28488154</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="alz13791-cit-0002">
+<string-name>
+<surname>Jack</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Bennett</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Blennow</surname>
+<given-names>K</given-names>
+</string-name>, et&#x000a0;al. <article-title>NIA&#x02010;AA Research Framework: toward a biological definition of Alzheimer's disease</article-title>. <source>Alzheimers Dement</source>. <year>2018</year>;<volume>14</volume>(<issue>4</issue>):<fpage>535</fpage>&#x02010;<lpage>562</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jalz.2018.02.018</pub-id>
+<pub-id pub-id-type="pmid">29653606</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="alz13791-cit-0003">
+<string-name>
+<surname>Wardlaw</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>EE</given-names>
+</string-name>, <string-name>
+<surname>Biessels</surname>
+<given-names>GJ</given-names>
+</string-name>, et&#x000a0;al. <article-title>Neuroimaging standards for research into small vessel disease and its contribution to ageing and neurodegeneration</article-title>. <source>Lancet Neurol</source>. <year>2013</year>;<volume>12</volume>(<issue>8</issue>):<fpage>822</fpage>&#x02010;<lpage>838</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S1474-4422(13)70124-8</pub-id>
+<pub-id pub-id-type="pmid">23867200</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="alz13791-cit-0004">
+<string-name>
+<surname>Fiford</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Manning</surname>
+<given-names>EN</given-names>
+</string-name>, <string-name>
+<surname>Bartlett</surname>
+<given-names>JW</given-names>
+</string-name>, et&#x000a0;al. <article-title>White matter hyperintensities are associated with disproportionate progressive hippocampal atrophy</article-title>. <source>Hippocampus</source>. <year>2017</year>;<volume>27</volume>(<issue>3</issue>):<fpage>249</fpage>&#x02010;<lpage>262</lpage>. doi:<pub-id pub-id-type="doi">10.1002/hipo.22690</pub-id>
+<pub-id pub-id-type="pmid">27933676</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="alz13791-cit-0005">
+<string-name>
+<surname>Vipin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Foo</surname>
+<given-names>HJL</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>
+<given-names>JKW</given-names>
+</string-name>, et&#x000a0;al. <article-title>Regional white matter hyperintensity influences grey matter atrophy in mild cognitive impairment</article-title>. <source>J Alzheimers Dis</source>. <year>2018</year>;<volume>66</volume>(<issue>2</issue>):<fpage>533</fpage>&#x02010;<lpage>549</lpage>. doi:<pub-id pub-id-type="doi">10.3233/JAD-180280</pub-id>
+<pub-id pub-id-type="pmid">30320575</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="alz13791-cit-0006">
+<string-name>
+<surname>Rizvi</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Sathishkumar</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>S</given-names>
+</string-name>, et&#x000a0;al. <article-title>Posterior white matter hyperintensities are associated with reduced medial temporal lobe subregional integrity and long&#x02010;term memory in older adults</article-title>. <source>Neuroimage Clin</source>. <year>2023</year>;<volume>37</volume>:<elocation-id>103308</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/j.nicl.2022.103308</pub-id>
+<pub-id pub-id-type="pmid">36586358</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="alz13791-cit-0007">
+<string-name>
+<surname>Wong</surname>
+<given-names>FCC</given-names>
+</string-name>, <string-name>
+<surname>Yatawara</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Low</surname>
+<given-names>A</given-names>
+</string-name>, et&#x000a0;al. <article-title>Cerebral small vessel disease influences hippocampal subfield atrophy in mild cognitive impairment</article-title>. <source>Transl Stroke Res</source>. <year>2021</year>;<volume>12</volume>(<issue>2</issue>):<fpage>284</fpage>&#x02010;<lpage>292</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s12975-020-00847-4</pub-id>
+<pub-id pub-id-type="pmid">32894401</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="alz13791-cit-0008">
+<string-name>
+<surname>Freeze</surname>
+<given-names>WM</given-names>
+</string-name>, <string-name>
+<surname>Jacobs</surname>
+<given-names>HI</given-names>
+</string-name>, <string-name>
+<surname>Gronenschild</surname>
+<given-names>EH</given-names>
+</string-name>, et&#x000a0;al. <article-title>White matter hyperintensities potentiate hippocampal volume reduction in non&#x02010;demented older individuals with abnormal amyloid&#x02010;&#x003b2;</article-title>. <source>J Alzheimers Dis</source>. <year>2017</year>;<volume>55</volume>(<issue>1</issue>):<fpage>333</fpage>&#x02010;<lpage>342</lpage>. doi:<pub-id pub-id-type="doi">10.3233/JAD-160474</pub-id>
+<pub-id pub-id-type="pmid">27662299</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="alz13791-cit-0009">
+<string-name>
+<surname>Ye</surname>
+<given-names>BS</given-names>
+</string-name>, <string-name>
+<surname>Seo</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>GH</given-names>
+</string-name>, et&#x000a0;al. <article-title>Amyloid burden, cerebrovascular disease, brain atrophy, and cognition in cognitively impaired patients</article-title>. <source>Alzheimers Dement</source>. <year>2015</year>;<volume>11</volume>(<issue>5</issue>):<fpage>494</fpage>&#x02010;<lpage>503</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jalz.2014.04.521</pub-id>
+<pub-id pub-id-type="pmid">25048578</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="alz13791-cit-0010">
+<string-name>
+<surname>McNeely</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Ramirez</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Nestor</surname>
+<given-names>SM</given-names>
+</string-name>, et&#x000a0;al. <article-title>Cholinergic subcortical hyperintensities in Alzheimer's disease patients from the Sunnybrook Dementia Study: relationships with cognitive dysfunction and hippocampal atrophy</article-title>. <source>J Alzheimers Dis</source>. <year>2015</year>;<volume>43</volume>(<issue>3</issue>):<fpage>785</fpage>&#x02010;<lpage>796</lpage>. doi:<pub-id pub-id-type="doi">10.3233/JAD-140588</pub-id>
+<pub-id pub-id-type="pmid">25114078</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="alz13791-cit-0011">
+<string-name>
+<surname>Nestor</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Mi&#x00161;i&#x00107;</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Ramirez</surname>
+<given-names>J</given-names>
+</string-name>, et&#x000a0;al. <article-title>Small vessel disease is linked to disrupted structural network covariance in Alzheimer's disease</article-title>. <source>Alzheimers Dement</source>. <year>2017</year>;<volume>13</volume>(<issue>7</issue>):<fpage>749</fpage>&#x02010;<lpage>760</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jalz.2016.12.007</pub-id>
+<pub-id pub-id-type="pmid">28137552</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="alz13791-cit-0012">
+<string-name>
+<surname>Van Etten</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Bharadwaj</surname>
+<given-names>PK</given-names>
+</string-name>, <string-name>
+<surname>Hishaw</surname>
+<given-names>GA</given-names>
+</string-name>. <article-title>Influence of regional white matter hyperintensity volume and apolipoprotein E &#x003b5;4 status on hippocampal volume in healthy older adults</article-title>. <source>Hippocampus</source>. <year>2021</year>;<volume>31</volume>(<issue>5</issue>):<fpage>469</fpage>&#x02010;<lpage>480</lpage>. doi:<pub-id pub-id-type="doi">10.1002/hipo.23308</pub-id>
+<pub-id pub-id-type="pmid">33586848</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="alz13791-cit-0013">
+<string-name>
+<surname>Brickman</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Rizvi</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>White matter hyperintensities and Alzheimer's disease: an alternative view of an alternative hypothesis</article-title>. <source>Alzheimers Dement</source>. <year>2023</year>;<volume>19</volume>(<issue>9</issue>):<fpage>4260</fpage>&#x02010;<lpage>4261</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.13371</pub-id>
+<pub-id pub-id-type="pmid">37437028</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="alz13791-cit-0014">
+<string-name>
+<surname>Garnier&#x02010;Crussard</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bougacha</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wirth</surname>
+<given-names>M</given-names>
+</string-name>, et&#x000a0;al. <article-title>White matter hyperintensity topography in Alzheimer's disease and links to cognition</article-title>. <source>Alzheimers Dement</source>. <year>2022</year>;<volume>18</volume>(<issue>3</issue>):<fpage>422</fpage>&#x02010;<lpage>433</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.12410</pub-id>
+<pub-id pub-id-type="pmid">34322985</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="alz13791-cit-0015">
+<string-name>
+<surname>Goubran</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ntiri</surname>
+<given-names>EE</given-names>
+</string-name>, <string-name>
+<surname>Akhavein</surname>
+<given-names>H</given-names>
+</string-name>, et&#x000a0;al. <article-title>Hippocampal segmentation for brains with extensive atrophy using three&#x02010;dimensional convolutional neural networks</article-title>. <source>Hum Brain Mapp</source>. <year>2020</year>;<volume>41</volume>(<issue>2</issue>):<fpage>291</fpage>&#x02010;<lpage>308</lpage>. doi:<pub-id pub-id-type="doi">10.1002/hbm.24811</pub-id>
+<pub-id pub-id-type="pmid">31609046</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="alz13791-cit-0016">
+<string-name>
+<surname>Styner</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Oguz</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>S</given-names>
+</string-name>, et&#x000a0;al. <article-title>Framework for the statistical shape analysis of brain structures using SPHARM&#x02010;PDM</article-title>. <source>Insight J</source>. <year>2006</year>(<issue>1071</issue>):<fpage>242</fpage>&#x02010;<lpage>250</lpage>.<pub-id pub-id-type="pmid">21941375</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="alz13791-cit-0017">
+<string-name>
+<surname>Ottoy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ozzoude</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Zukotynski</surname>
+<given-names>K</given-names>
+</string-name>, et&#x000a0;al. <article-title>Vascular burden and cognition: mediating roles of neurodegeneration and amyloid PET</article-title>. <source>Alzheimers Dement</source>. <year>2023</year>;<volume>19</volume>(<issue>4</issue>):<fpage>1503</fpage>&#x02010;<lpage>1517</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.12750</pub-id>
+<pub-id pub-id-type="pmid">36047604</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="alz13791-cit-0018">
+<string-name>
+<surname>Gibson</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Black</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Lobaugh</surname>
+<given-names>NJ</given-names>
+</string-name>. <article-title>Automatic segmentation of white matter hyperintensities in the elderly using FLAIR images at 3T</article-title>. <source>J Magn Reson Imaging</source>. <year>2010</year>;<volume>31</volume>(<issue>6</issue>):<fpage>1311</fpage>&#x02010;<lpage>1322</lpage>. doi:<pub-id pub-id-type="doi">10.1002/jmri.22004</pub-id>
+<pub-id pub-id-type="pmid">20512882</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="alz13791-cit-0019">
+<string-name>
+<surname>Ramirez</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Gibson</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Quddus</surname>
+<given-names>A</given-names>
+</string-name>, et&#x000a0;al. <article-title>Lesion Explorer: a comprehensive segmentation and parcellation package to obtain regional volumetrics for subcortical hyperintensities and intracranial tissue</article-title>. <source>Neuroimage</source>. <year>2011</year>;<volume>54</volume>(<issue>2</issue>):<fpage>963</fpage>&#x02010;<lpage>973</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.neuroimage.2010.09.013</pub-id>
+<pub-id pub-id-type="pmid">20849961</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="alz13791-cit-0020">
+<string-name>
+<surname>Wu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Schweitzer</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Iordanova</surname>
+<given-names>BE</given-names>
+</string-name>, et&#x000a0;al. <article-title>Pre&#x02010;clinical AD small vessel disease is associated with altered hippocampal connectivity and atrophy</article-title>. <source>Am J Geriatr Psychiatry</source>. <year>2023</year>;<volume>31</volume>(<issue>2</issue>):<fpage>112</fpage>&#x02010;<lpage>123</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jagp.2022.09.011</pub-id>
+<pub-id pub-id-type="pmid">36274019</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="alz13791-cit-0021">
+<string-name>
+<surname>van Leijsen</surname>
+<given-names>EMC</given-names>
+</string-name>, <string-name>
+<surname>Tay</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>van Uden</surname>
+<given-names>IWM</given-names>
+</string-name>, et&#x000a0;al. <article-title>Memory decline in elderly with cerebral small vessel disease explained by temporal interactions between white matter hyperintensities and hippocampal atrophy</article-title>. <source>Hippocampus</source>. <year>2019</year>;<volume>29</volume>(<issue>6</issue>):<fpage>500</fpage>&#x02010;<lpage>510</lpage>. doi:<pub-id pub-id-type="doi">10.1002/hipo.23039</pub-id>
+<pub-id pub-id-type="pmid">30307080</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="alz13791-cit-0022">
+<string-name>
+<surname>van Uden</surname>
+<given-names>IW</given-names>
+</string-name>, <string-name>
+<surname>van der Holst</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name>
+<surname>Tuladhar</surname>
+<given-names>AM</given-names>
+</string-name>, et&#x000a0;al. <article-title>White matter and hippocampal volume predict the risk of dementia in patients with cerebral small vessel disease: the RUN DMC study</article-title>. <source>J Alzheimers Dis</source>. <year>2016</year>;<volume>49</volume>(<issue>3</issue>):<fpage>863</fpage>&#x02010;<lpage>873</lpage>. doi:<pub-id pub-id-type="doi">10.3233/JAD-150573</pub-id>
+<pub-id pub-id-type="pmid">26529206</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="alz13791-cit-0023">
+<string-name>
+<surname>Weaver</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name>
+<surname>Doeven</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Barkhof</surname>
+<given-names>F</given-names>
+</string-name>, et&#x000a0;al. <article-title>Cerebral amyloid burden is associated with white matter hyperintensity location in specific posterior white matter regions</article-title>. <source>Neurobiol Aging</source>. <year>2019</year>;<volume>84</volume>:<fpage>225</fpage>&#x02010;<lpage>234</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2019.08.001</pub-id>
+<pub-id pub-id-type="pmid">31500909</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="alz13791-cit-0024">
+<string-name>
+<surname>Lee</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Viqar</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Zimmerman</surname>
+<given-names>ME</given-names>
+</string-name>, et&#x000a0;al. <article-title>White matter hyperintensities are a core feature of Alzheimer's disease: evidence from the dominantly inherited Alzheimer network</article-title>. <source>Ann Neurol</source>. <year>2016</year>;<volume>79</volume>(<issue>6</issue>):<fpage>929</fpage>&#x02010;<lpage>939</lpage>. doi:<pub-id pub-id-type="doi">10.1002/ana.24647</pub-id>
+<pub-id pub-id-type="pmid">27016429</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="alz13791-cit-0025">
+<string-name>
+<surname>Fotiadis</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>van Rooden</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>van der Grond</surname>
+<given-names>J</given-names>
+</string-name>, et&#x000a0;al. <article-title>Cortical atrophy in patients with cerebral amyloid angiopathy: a case&#x02010;control study</article-title>. <source>Lancet Neurol</source>. <year>2016</year>;<volume>15</volume>(<issue>8</issue>):<fpage>811</fpage>&#x02010;<lpage>819</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S1474-4422(16)30030-8</pub-id>
+<pub-id pub-id-type="pmid">27180034</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="alz13791-cit-0026">
+<string-name>
+<surname>Thanprasertsuk</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Martinez&#x02010;Ramirez</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Pontes&#x02010;Neto</surname>
+<given-names>OM</given-names>
+</string-name>, et&#x000a0;al. <article-title>Posterior white matter disease distribution as a predictor of amyloid angiopathy</article-title>. <source>Neurology</source>. <year>2014</year>;<volume>83</volume>(<issue>9</issue>):<fpage>794</fpage>&#x02010;<lpage>800</lpage>. doi:<pub-id pub-id-type="doi">10.1212/WNL.0000000000000732</pub-id>
+<pub-id pub-id-type="pmid">25063759</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="alz13791-cit-0027">
+<string-name>
+<surname>Lahna</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Schwartz</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name>
+<surname>Woltjer</surname>
+<given-names>R</given-names>
+</string-name>, et&#x000a0;al. <article-title>Venous collagenosis as pathogenesis of white matter hyperintensity</article-title>. <source>Ann Neurol</source>. <year>2022</year>;<volume>92</volume>(<issue>6</issue>):<fpage>992</fpage>&#x02010;<lpage>1000</lpage>. doi:<pub-id pub-id-type="doi">10.1002/ana.26487</pub-id>
+<pub-id pub-id-type="pmid">36054513</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="alz13791-cit-0028">
+<string-name>
+<surname>Keith</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Noor</surname>
+<given-names>R</given-names>
+</string-name>, et&#x000a0;al. <article-title>Collagenosis of the deep medullary veins: an underrecognized pathologic correlate of white matter hyperintensities and periventricular infarction?</article-title>
+<source>J Neuropathol Exp Neurol</source>. <year>2017</year>;<volume>76</volume>(<issue>4</issue>):<fpage>299</fpage>&#x02010;<lpage>312</lpage>. doi:<pub-id pub-id-type="doi">10.1093/jnen/nlx009</pub-id>
+<pub-id pub-id-type="pmid">28431180</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="alz13791-cit-0029">
+<string-name>
+<surname>Makedonov</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Black</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>MacIntosh</surname>
+<given-names>BJ</given-names>
+</string-name>. <article-title>Cerebral small vessel disease in aging and Alzheimer's disease: a comparative study using MRI and SPECT</article-title>. <source>Eur J Neurol</source>. <year>2013</year>;<volume>20</volume>(<issue>2</issue>):<fpage>243</fpage>&#x02010;<lpage>250</lpage>. doi:<pub-id pub-id-type="doi">10.1111/j.1468-1331.2012.03785.x</pub-id>
+<pub-id pub-id-type="pmid">22742818</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="alz13791-cit-0030">
+<string-name>
+<surname>Haight</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name>
+<surname>Landau</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Carmichael</surname>
+<given-names>O</given-names>
+</string-name>, et&#x000a0;al. <article-title>Dissociable effects of Alzheimer disease and white matter hyperintensities on brain metabolism</article-title>. <source>JAMA Neurol</source>. <year>2013</year>;<volume>70</volume>(<issue>8</issue>):<fpage>1039</fpage>&#x02010;<lpage>1045</lpage>. doi:<pub-id pub-id-type="doi">10.1001/jamaneurol.2013.1878</pub-id>
+<pub-id pub-id-type="pmid">23779022</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="alz13791-cit-0031">
+<string-name>
+<surname>Cabinio</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Saresella</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Piancone</surname>
+<given-names>F</given-names>
+</string-name>, et&#x000a0;al. <article-title>Association between hippocampal shape, neuroinflammation, and cognitive decline in Alzheimer's disease</article-title>. <source>J Alzheimers Dis</source>. <year>2018</year>;<volume>66</volume>(<issue>3</issue>):<fpage>1131</fpage>&#x02010;<lpage>1144</lpage>. doi:<pub-id pub-id-type="doi">10.3233/JAD-180250</pub-id>
+<pub-id pub-id-type="pmid">30400090</pub-id>
+</mixed-citation></ref><ref id="alz13791-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="alz13791-cit-0032">
+<string-name>
+<surname>Femminella</surname>
+<given-names>GD</given-names>
+</string-name>, <string-name>
+<surname>Dani</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>M</given-names>
+</string-name>, et&#x000a0;al. <article-title>Microglial activation in early Alzheimer trajectory is associated with higher gray matter volume</article-title>. <source>Neurology</source>. <year>2019</year>;<volume>92</volume>(<issue>12</issue>):<fpage>e1331</fpage>&#x02010;<lpage>e1343</lpage>. doi:<pub-id pub-id-type="doi">10.1212/WNL.0000000000007133</pub-id>
+<pub-id pub-id-type="pmid">30796139</pub-id>
+</mixed-citation></ref></ref-list></back></article>

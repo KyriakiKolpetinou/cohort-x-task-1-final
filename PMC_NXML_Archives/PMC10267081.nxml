@@ -1,0 +1,1320 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.3"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">EJNMMI Radiopharm Chem</journal-id><journal-id journal-id-type="iso-abbrev">EJNMMI Radiopharm Chem</journal-id><journal-title-group><journal-title>EJNMMI Radiopharmacy and Chemistry</journal-title></journal-title-group><issn pub-type="epub">2365-421X</issn><publisher><publisher-name>Springer International Publishing</publisher-name><publisher-loc>Cham</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">37314530</article-id><article-id pub-id-type="pmc">10267081</article-id><article-id pub-id-type="publisher-id">198</article-id><article-id pub-id-type="doi">10.1186/s41181-023-00198-z</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Intravenous and oral whole body ketone dosimetry, biodistribution, metabolite correction and kinetics studied by (<italic>R</italic>)-[1-<sup>11</sup>C]&#x003b2;-hydroxybutyrate ([<sup>11</sup>C]OHB) PET in healthy humans</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Luong</surname><given-names>Thien Vinh</given-names></name><xref ref-type="aff" rid="Aff1">1</xref><xref ref-type="aff" rid="Aff2">2</xref></contrib><contrib contrib-type="author"><name><surname>Nielsen</surname><given-names>Erik Nguyen</given-names></name><xref ref-type="aff" rid="Aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Falborg</surname><given-names>Lise</given-names></name><xref ref-type="aff" rid="Aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Kj&#x000e6;rulff</surname><given-names>Mette Louise Gram</given-names></name><xref ref-type="aff" rid="Aff1">1</xref><xref ref-type="aff" rid="Aff2">2</xref></contrib><contrib contrib-type="author"><name><surname>Tolbod</surname><given-names>Lars Poulsen</given-names></name><xref ref-type="aff" rid="Aff1">1</xref><xref ref-type="aff" rid="Aff5">5</xref></contrib><contrib contrib-type="author"><name><surname>S&#x000f8;ndergaard</surname><given-names>Esben</given-names></name><xref ref-type="aff" rid="Aff2">2</xref></contrib><contrib contrib-type="author"><name><surname>M&#x000f8;ller</surname><given-names>Niels</given-names></name><xref ref-type="aff" rid="Aff3">3</xref><xref ref-type="aff" rid="Aff4">4</xref></contrib><contrib contrib-type="author"><name><surname>Munk</surname><given-names>Ole Lajord</given-names></name><xref ref-type="aff" rid="Aff1">1</xref><xref ref-type="aff" rid="Aff5">5</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0144-1305</contrib-id><name><surname>Gormsen</surname><given-names>Lars Christian</given-names></name><address><email>lars.christian.gormsen@clin.au.dk</email></address><xref ref-type="aff" rid="Aff1">1</xref><xref ref-type="aff" rid="Aff5">5</xref></contrib><aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="GRID">grid.154185.c</institution-id><institution-id institution-id-type="ISNI">0000 0004 0512 597X</institution-id><institution>Department of Nuclear Medicine and PET Center, </institution><institution>Aarhus University Hospital, </institution></institution-wrap>Palle Juul-Jensens Boulevard 165, 8200 Aarhus N, Denmark </aff><aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="GRID">grid.154185.c</institution-id><institution-id institution-id-type="ISNI">0000 0004 0512 597X</institution-id><institution>Steno Diabetes Center Aarhus, </institution><institution>Aarhus University Hospital, </institution></institution-wrap>Palle Juul-Jensens Boulevard 11, 8200 Aarhus N, Denmark </aff><aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="GRID">grid.7048.b</institution-id><institution-id institution-id-type="ISNI">0000 0001 1956 2722</institution-id><institution>Medical/Steno Aarhus Research Laboratory, Department of Clinical Medicine, </institution><institution>Aarhus University, </institution></institution-wrap>Palle Juul-Jensens Boulevard 11, 8200 Aarhus N, Denmark </aff><aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="GRID">grid.154185.c</institution-id><institution-id institution-id-type="ISNI">0000 0004 0512 597X</institution-id><institution>Department of Endocrinology and Internal Medicine, </institution><institution>Aarhus University Hospital, </institution></institution-wrap>Palle Juul-Jensens Boulevard 161, 8200 Aarhus N, Denmark </aff><aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="GRID">grid.7048.b</institution-id><institution-id institution-id-type="ISNI">0000 0001 1956 2722</institution-id><institution>Department of Clinical Medicine, </institution><institution>Aarhus University, </institution></institution-wrap>Aarhus, Denmark </aff></contrib-group><pub-date pub-type="epub"><day>14</day><month>6</month><year>2023</year></pub-date><pub-date pub-type="pmc-release"><day>14</day><month>6</month><year>2023</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2023</year></pub-date><volume>8</volume><elocation-id>12</elocation-id><history><date date-type="received"><day>19</day><month>4</month><year>2023</year></date><date date-type="accepted"><day>11</day><month>6</month><year>2023</year></date></history><permissions><copyright-statement>&#x000a9; The Author(s) 2023</copyright-statement><license><ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>.</license-p></license></permissions><abstract id="Abs1"><sec><title>Background</title><p id="Par1">Ketones are increasingly recognized as an important and possibly oxygen sparing source of energy in vital organs such as the heart, the brain and the kidneys. Drug treatments, dietary regimens and oral ketone drinks designed to deliver ketones for organ and tissue energy production have therefore gained popularity. However, whether ingested ketones are taken up by various extra-cerebral tissues and to what extent is still largely unexplored. It was therefore the aim of this study to use positron emission tomography (PET) to explore the whole body dosimetry, biodistribution and kinetics of the ketone tracer (<italic>R</italic>)-[1-<sup>11</sup>C]&#x003b2;-hydroxybutyrate ([<sup>11</sup>C]OHB). Six healthy subjects (3 women and 3 men) underwent dynamic PET studies after both intravenous (90&#x000a0;min) and oral (120&#x000a0;min) administration of [<sup>11</sup>C]OHB. Dosimetry estimates of [<sup>11</sup>C]OHB was calculated using OLINDA/EXM software, biodistribution was assessed visually and [<sup>11</sup>C]OHB tissue kinetics were obtained using an arterial input function and tissue time-activity curves.</p></sec><sec><title>Results</title><p id="Par2">Radiation dosimetry yielded effective doses of 3.28&#x000a0;<inline-formula id="IEq1"><alternatives><tex-math id="M1">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\upmu$$\end{document}</tex-math><mml:math id="M2"><mml:mi mathvariant="normal">&#x003bc;</mml:mi></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq1.gif"/></alternatives></inline-formula>Sv/MBq (intravenous administration) and 12.51&#x000a0;<inline-formula id="IEq2"><alternatives><tex-math id="M3">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\upmu$$\end{document}</tex-math><mml:math id="M4"><mml:mi mathvariant="normal">&#x003bc;</mml:mi></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq2.gif"/></alternatives></inline-formula>Sv/MBq (oral administration). Intravenous administration of [<sup>11</sup>C]OHB resulted in avid radiotracer uptake in the heart, liver, and kidneys, whereas lesser uptake was observed in the salivary glands, pancreas, skeletal muscle and red marrow. Only minimal uptake was noted in the brain. Oral ingestion of the tracer resulted in rapid radiotracer appearance in the blood and radiotracer uptake in the heart, liver and kidneys. In general, [<sup>11</sup>C]OHB tissue kinetics after intravenous administration were best described by a reversible 2-tissue compartmental model.</p></sec><sec><title>Conclusion</title><p id="Par3">The PET radiotracer [<sup>11</sup>C]OHB shows promising potential in providing imaging data on ketone uptake in various physiologically relevant tissues. As a result, it may serve as a safe and non-invasive imaging tool for exploring ketone metabolism in organs and tissues of both patients and healthy individuals.</p><p id="Par4">
+<italic>Trial registration</italic>
+</p><p id="Par5">Clinical trials, NCT0523812, Registered February 10th 2022, <ext-link ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/show/NCT05232812?cond=NCT05232812&#x00026;draw=2&#x00026;rank=1">https://clinicaltrials.gov/ct2/show/NCT05232812?cond=NCT05232812&#x00026;draw=2&#x00026;rank=1</ext-link>.</p></sec></abstract><kwd-group xml:lang="en"><title>Keywords</title><kwd>Ketone metabolism</kwd><kwd>PET/CT</kwd><kwd>Biodistribution</kwd><kwd>Dosimetry</kwd><kwd>Kinetics</kwd></kwd-group><funding-group><award-group><funding-source><institution-wrap><institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/501100009708</institution-id><institution>Novo Nordisk Fonden</institution></institution-wrap></funding-source><award-id>NNF18OC0052593</award-id><principal-award-recipient><name><surname>Gormsen</surname><given-names>Lars Christian</given-names></name></principal-award-recipient></award-group></funding-group><custom-meta-group><custom-meta><meta-name>issue-copyright-statement</meta-name><meta-value>&#x000a9; Springer Nature Switzerland AG 2023</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="Sec1"><title>Introduction</title><p id="Par21">Ketones have recently been the focus of intensified research due to the possible beneficial cardiovascular and neurological effects associated with hyperketonemia (Ferrannini et al. <xref ref-type="bibr" rid="CR19">2016</xref>). Ketones are produced in the liver mainly from fatty acids during states of limited carbohydrate availability such as ketogenic dieting, fasting and prolonged exercise. Three different ketones are produced in humans in-vivo: 3-hydroxybutyrate (OHB), acetoacetate, and acetone, with OHB constituting the majority (<inline-formula id="IEq3"><alternatives><tex-math id="M5">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\sim \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M6"><mml:mrow><mml:mo>&#x0223c;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq3.gif"/></alternatives></inline-formula>80%) of total circulating ketone concentration (Abdul Kadir et al. <xref ref-type="bibr" rid="CR1">2020</xref>). Ketones have been demonstrated to affect both metabolism and hemodynamics in a manner that could be advantageous in patients with a wide range of illnesses such as overweight, type 2 diabetes, cognitive impairment, and ischemic heart failure (Kosinski and Jornayvaz <xref ref-type="bibr" rid="CR24">2017</xref>; Mayer et al. <xref ref-type="bibr" rid="CR27">2014</xref>; Nielsen et al. <xref ref-type="bibr" rid="CR30">2019</xref>; Rusek et al. <xref ref-type="bibr" rid="CR35">2019</xref>). However, whether the putative beneficial effects of ketones are caused by a favorable ratio of oxygen expended to produce ATP (Veech et al. <xref ref-type="bibr" rid="CR44">2001</xref>), improved tissue perfusion (Svart et al. <xref ref-type="bibr" rid="CR39">2018</xref>) or whether ketones may simply add to the pool of available substrates for oxidation (Kadir et al. <xref ref-type="bibr" rid="CR23">2023</xref>) is presently largely unknown. Quantifying organ distribution, uptake and oxidation of ketones is therefore important to further our understanding of organ ketone utilization. However, measurement of ketone metabolism in the most relevant organs (heart and brain) is difficult and to some extent unethical in humans using conventional catheterization techniques, and relatively few (albeit high quality) studies of mostly cross-sectional nature therefore exist (Murashige et al. <xref ref-type="bibr" rid="CR28">2020</xref>). As an alternative to invasive studies, positron emission tomography/computed tomography (PET/CT) using the ketone radiotracers ([<sup>11</sup>C]OHB and [<sup>11</sup>C]acetoacetate) offers an attractive and non-invasive imaging alternative and consequently, some ketone PET studies have been performed to study the cerebral substrate metabolism in healthy subjects and in patients with neurodegenerative diseases (Fortier et al. <xref ref-type="bibr" rid="CR20">2019</xref>; Croteau et al. <xref ref-type="bibr" rid="CR12">2018</xref>; Blomqvist et al. <xref ref-type="bibr" rid="CR4">1995</xref>, <xref ref-type="bibr" rid="CR5">2002</xref>).</p><p id="Par22">Despite the currently available PET studies of cerebral ketone metabolism, estimates of whole-body ketone radiotracer dosimetry, biodistribution and extracerebral kinetics in humans have not previously been published. It is therefore presently not documented if [<sup>11</sup>C]OHB and [<sup>11</sup>C]acetoacetate yield effective doses comparable to other <sup>11</sup>C-labeled radiotracers (typically <inline-formula id="IEq4"><alternatives><tex-math id="M7">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\sim$$\end{document}</tex-math><mml:math id="M8"><mml:mo>&#x0223c;</mml:mo></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq4.gif"/></alternatives></inline-formula> 5&#x000a0;&#x003bc;Sv/MBq) (Zanotti-Fregonara et al. <xref ref-type="bibr" rid="CR45">2021</xref>).</p><p id="Par23">Human biodistribution studies have only partly been explored with short duration PET scans (Cuenoud et al. <xref ref-type="bibr" rid="CR13">2020</xref>) and the relative avidity of various organs and tissues for ketones is therefore still inadequately characterized. In addition, only rodent PET studies of ketone body metabolism in the heart (Croteau et al. <xref ref-type="bibr" rid="CR11">2014</xref>) as well as in breast and prostate tumors (Authier et al. <xref ref-type="bibr" rid="CR2">2008</xref>) have to our knowledge been reported. Cardiac ketone metabolism is therefore mostly inferred from A&#x02013;V balance studies (Murashige et al. <xref ref-type="bibr" rid="CR28">2020</xref>) or indirectly assessed using other radiotracers such as [<sup>11</sup>C]palmitate (Lauritsen et al. <xref ref-type="bibr" rid="CR25">2021</xref>) or [<sup>18</sup>F]FDG (Gormsen et al. <xref ref-type="bibr" rid="CR21">2017</xref>). It is therefore unknown whether cardiac ketone metabolism can be satisfactorily determined using simple 1- or 2-tissue compartmental modeling. Finally, although various ketone ester drinks are becoming increasingly popular both to enhance athletic performance (Evans et al. <xref ref-type="bibr" rid="CR17">2022</xref>) and to treat patients with e.g. heart failure (Selvaraj et al. <xref ref-type="bibr" rid="CR37">2020</xref>), no PET studies using oral ingestion of PET tracers have been performed.</p><p id="Par24">The primary aim of this study was therefore to assess human [<sup>11</sup>C]OHB dosimetry and biodistribution after both intravenous and oral administration of the radiotracer. As a secondary aim, we wanted to calculate tissue and organ [<sup>11</sup>C]OHB kinetics using time-activity curves (TAC) obtained during the dosimetry studies and an input function measured from arterial sampling. Finally, we wanted to measure [<sup>11</sup>C]CO<sub>2</sub> appearance in blood to supply robust estimates for metabolite correction.</p></sec><sec id="Sec2"><title>Materials and methods</title><sec id="Sec3"><title>Study participants</title><p id="Par25">The study included 6 healthy volunteers (3 men and 3 women) with a mean age of 56.3&#x000a0;years (range, 52&#x02013;67&#x000a0;years) and a mean BMI of 27.7&#x000a0;kg/m<sup>2</sup> (range, 24.6&#x02013;30.9&#x000a0;kg/m<sup>2</sup>). All participants were screened for renal and cardiac diseases prior to inclusion and signed an informed consent for participation and publication, before being included in the study. The participant profile is provided in Table <xref rid="Tab1" ref-type="table">1</xref>. The study site was The Department of Nuclear Medicine &#x00026; PET Centre at Aarhus University Hospital.<table-wrap id="Tab1"><label>Table 1</label><caption><p>Participant profile</p></caption><table frame="hsides" rules="groups"><tbody><tr><td align="left">Age (years)</td><td char="." align="char">56.3&#x02009;<inline-formula id="IEq37"><alternatives><tex-math id="M9">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M10"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq37.gif"/></alternatives></inline-formula>5.4</td></tr><tr><td align="left">BMI (kg/m<sup>2</sup>)</td><td char="." align="char">27.7&#x02009;<inline-formula id="IEq38"><alternatives><tex-math id="M11">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M12"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq38.gif"/></alternatives></inline-formula>2,6</td></tr><tr><td align="left">Systolic blood pressure</td><td char="." align="char">132.8&#x02009;<inline-formula id="IEq39"><alternatives><tex-math id="M13">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M14"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq39.gif"/></alternatives></inline-formula>8.4</td></tr><tr><td align="left">Diastolic blood pressure (mmHg)</td><td char="." align="char">85.7&#x02009;<inline-formula id="IEq40"><alternatives><tex-math id="M15">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M16"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq40.gif"/></alternatives></inline-formula>6.7</td></tr><tr><td align="left">Cholesterol (mmol/L)</td><td char="." align="char">4.8&#x02009;<inline-formula id="IEq41"><alternatives><tex-math id="M17">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M18"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq41.gif"/></alternatives></inline-formula>0.3</td></tr><tr><td align="left">HDL (mmol/L)</td><td char="." align="char">1.5&#x02009;<inline-formula id="IEq42"><alternatives><tex-math id="M19">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M20"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq42.gif"/></alternatives></inline-formula>0.3</td></tr><tr><td align="left">LDL (mmol/L)</td><td char="." align="char">2.6&#x02009;<inline-formula id="IEq43"><alternatives><tex-math id="M21">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M22"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq43.gif"/></alternatives></inline-formula>0.4</td></tr><tr><td align="left">Triglyceride (mmol/L)</td><td char="." align="char">1.5&#x02009;<inline-formula id="IEq44"><alternatives><tex-math id="M23">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M24"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq44.gif"/></alternatives></inline-formula>0.7</td></tr><tr><td align="left">HbA1c (mmol/mol)</td><td char="." align="char">34.7&#x02009;<inline-formula id="IEq45"><alternatives><tex-math id="M25">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M26"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq45.gif"/></alternatives></inline-formula>6.1</td></tr><tr><td align="left">Glucose (mmol/L)</td><td char="." align="char">5.9&#x02009;<inline-formula id="IEq46"><alternatives><tex-math id="M27">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M28"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq46.gif"/></alternatives></inline-formula>0.9</td></tr><tr><td align="left">Alanine transaminase (U/L)</td><td char="." align="char">25.5&#x02009;<inline-formula id="IEq47"><alternatives><tex-math id="M29">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M30"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq47.gif"/></alternatives></inline-formula>10.0</td></tr><tr><td align="left">Alkaline phosphatase (U/L)</td><td char="." align="char">68.31&#x02009;<inline-formula id="IEq48"><alternatives><tex-math id="M31">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M32"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq48.gif"/></alternatives></inline-formula>2.7</td></tr><tr><td align="left">Hemoglobin (mmol/L)</td><td char="." align="char">8.3&#x02009;<inline-formula id="IEq49"><alternatives><tex-math id="M33">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M34"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq49.gif"/></alternatives></inline-formula>1.0</td></tr></tbody></table><table-wrap-foot><p>Values are mean <inline-formula id="IEq50"><alternatives><tex-math id="M35">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm$$\end{document}</tex-math><mml:math id="M36"><mml:mo>&#x000b1;</mml:mo></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq50.gif"/></alternatives></inline-formula> SD</p></table-wrap-foot></table-wrap></p></sec><sec id="Sec4"><title>Radiopharmaceutical preparation</title><p id="Par26">The (<italic>R</italic>)-[1-<sup>11</sup>C]&#x003b2;-hydroxybutyrate was produced as previously reported with some modifications (Thorell et al. <xref ref-type="bibr" rid="CR43">1991</xref>). [<sup>11</sup>C]cyanide was produced from [<sup>11</sup>C]CO<sub>2</sub> in a process cabinet (GE Healthcare) and delivered as NH<sub>4</sub>[<sup>11</sup>C]CN to an in-house built synthesis module. Initially, NH<sub>4</sub>[<sup>11</sup>C]CN (10&#x02013;20&#x000a0;GBq) was trapped on a &#x0201c;cyanide trap&#x0201d; as previously reported (Drandarov et al. <xref ref-type="bibr" rid="CR15">2006</xref>), to facilitate the removal of ammonia, the presence of which would otherwise lead to hampering of the following hydrolysis step and formation of side products. Following elution of K[<sup>11</sup>C]CN from the &#x0201c;cyanide trap&#x0201d; to the reaction vessel with 400&#x000a0;&#x000b5;L sterile H<sub>2</sub>O, 400&#x000a0;&#x000b5;L of the precursor, (<italic>R</italic>)<italic>-</italic>propylene oxide, was added and the mixture was heated at 40&#x000a0;&#x000b0;C for 4&#x000a0;min in which time approximately 90% conversion to (<italic>R</italic>)-[1-<sup>11</sup>C]&#x003b2;-hydroxybutyronitrile was obtained. Next 2.4&#x000a0;mL 12&#x000a0;M hydrochloric acid was added to reach a final molarity of&#x02009;&#x0003e;&#x02009;10&#x000a0;M of the hydrolysis mixture, which was subsequently heated at 150&#x000a0;&#x000b0;C for 4&#x000a0;min to achieve a conversion average of 50% (n&#x02009;=&#x02009;19) from the intermediate (<italic>R</italic>)<italic>-</italic>[1-<sup>11</sup>C]&#x003b2;<italic>-</italic>hydroxybutyronitrile to the product (<italic>R</italic>)<italic>-</italic>[1-<sup>11</sup>C]&#x003b2;-hydroxybutyrate (Fig.&#x000a0;<xref rid="Fig1" ref-type="fig">1</xref>). The crude acidic product mixture was purified by semi-preparative HPLC (PolymerX 10&#x02009;&#x000d7;&#x02009;250&#x000a0;mm, 10&#x000a0;&#x000b5;m, Phenomenex, Torrance) and the product fraction (~&#x02009;3&#x000a0;mL) was collected and passed through a 0.22&#x000a0;&#x000b5;m sterile filter and formulated in 7&#x000a0;mL sterile saline. (<italic>R</italic>)<italic>-</italic>[1-<sup>11</sup>C]&#x003b2;<italic>-</italic>hydroxybutyrate have been produced in radiochemical yields up to 2.8&#x000a0;GBq with decay corrected yields of up to 50%, radiochemical purities was&#x02009;&#x0003e;&#x02009;97% and enantiomeric purities larger than 98%.<fig id="Fig1"><label>Fig. 1</label><caption><p>Production of (<italic>R</italic>)-[1-<sup>11</sup>C]<inline-formula id="IEq24"><alternatives><tex-math id="M37">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\beta$$\end{document}</tex-math><mml:math id="M38"><mml:mi>&#x003b2;</mml:mi></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq24.gif"/></alternatives></inline-formula>-hydroxybutyrate</p></caption><graphic xlink:href="41181_2023_198_Fig1_HTML" id="MO1"/></fig></p></sec><sec id="Sec5"><title>whole-body PET imaging</title><sec id="Sec6"><title>Intravenous study</title><p id="Par27">Dynamic whole-body (D-WB) PET with continuous-bed-motion was performed using a Biograph Vision 600 PET/CT system (Siemens) with 26.3&#x000a0;cm axial field of view. A low-dose CT (25 Ref mAs, 120 Ref. kV, CARE Dose4D, CARE kV, ADMIRE level 3) from vertex cranii to mid-thigh was acquired first. A mean bolus of 204.2&#x000a0;MBq (range, 182&#x02013;222&#x000a0;MBq) of [<sup>11</sup>C]OHB was injected, and immediately afterwards 24 consecutive whole-body passes with increasing durations (to account for the short half-life of [<sup>11</sup>C]OHB) were obtained. The 24 passes had the following structure: 5&#x02009;&#x000d7;&#x02009;60&#x000a0;s, 5&#x02009;&#x000d7;&#x02009;120&#x000a0;s, 5&#x02009;&#x000d7;&#x02009;180&#x000a0;s, 6&#x02009;&#x000d7;&#x02009;300&#x000a0;s, and 3&#x02009;&#x000d7;&#x02009;600&#x000a0;s. The time intervals for the PET scans were therefore approximately 1&#x02013;5, 6&#x02013;15, 16&#x02013;30, 31&#x02013;60, and 61&#x02013;90&#x000a0;min. The PET images were reconstructed using TrueX+TOF, 4 iterations and 5 subsets, 2-mm Gaussian post filter, and 440&#x02009;&#x000d7;&#x02009;400 matrix with voxel size 1.65<sup>3</sup>&#x000a0;mm<sup>3</sup>.</p></sec><sec id="Sec7"><title>Oral study</title><p id="Par28">An oral study was performed 120&#x000a0;min after the intravenous study using the same PET scanner. Participants rapidly ingested a mean oral dose of 96.11&#x000a0;MBq (range, 59.15&#x02013;114.5&#x000a0;MBq) of [<sup>11</sup>C]OHB dissolved in water. A low-dose CT (as in the intravenous study) was performed, and 5&#x000a0;min after ingestion of the radiotracer, 23 consecutive whole-body continuous bed motion scans with increasing durations were obtained. The 23 scans had the following structure: 5&#x02009;&#x000d7;&#x02009;120&#x000a0;s, 5&#x02009;&#x000d7;&#x02009;180&#x000a0;s, 7&#x02009;&#x000d7;&#x02009;300, and 6&#x02009;&#x000d7;&#x02009;600&#x000a0;s. The time intervals were therefore approximately 6&#x02013;15, 16&#x02013;30, 31&#x02013;65, and 66&#x02013;125&#x000a0;min.</p></sec></sec><sec id="Sec8"><title>Blood sampling and metabolite correction</title><p id="Par29">During the D-WB PET scans, manual blood samples were taken to measure arterial radioactivity for the input function. Both plasma and whole-blood radioactivity were measured in a well counter (Hidex AMG). We collected 40 manual blood samples during the intravenous studies and 23 manual blood samples during the oral studies. In addition, 8 manual venous blood samples were taken to correct for conversion of [<sup>11</sup>C]OHB to [<sup>11</sup>C]CO<sub>2</sub>, the only quantitatively important metabolite that has to be taken into account during ketone PET studies lasting less than 120&#x000a0;min (Cotter et al. <xref ref-type="bibr" rid="CR9">2013</xref>).</p><p id="Par30">To determine [<sup>11</sup>C]CO<sub>2</sub> in blood, two 0.5&#x000a0;mL venous whole blood samples were drawn simultaneously during the intravenous study (5, 10, 15, 20, 30, 50, 70, and 90&#x000a0;min after administration of [<sup>11</sup>C]-OHB). They were then placed in tubes containing 1.5&#x000a0;mL of isopropyl alcohol and 0.5&#x000a0;mL of 0.9&#x000a0;M sodium bicarbonate. Sample 1 was treated with 0.5&#x000a0;mL of 0.1&#x000a0;N sodium hydroxide and sample 2 was mixed with 0.5&#x000a0;mL of 6 N hydrochloric acid and vigorously stirred with a magnet for 10&#x000a0;min at room temperature. The radioactivity of each sample was then measured in a well counter for 1&#x000a0;min, and the data was corrected for decay to a common time point. Radioactivity in sample 2 divided by sample 1 was then considered the parent fraction. A correction curve was established by fitting the parent fraction curve using a monoexponential function and applied to the blood input function.</p></sec><sec id="Sec9"><title>Defining organ and tissue volumes of interest on the PET images</title><p id="Par31">All D-WB PET images were visually inspected in PMOD 4.3 (Zurich, Switzerland). For PET scans following i.v. injection, the source organs for the dosimetry calculations were the brain, salivary glands, heart, liver, spleen, kidneys, pancreas, red marrow, and urinary bladder contents. For PET scans following oral ingestions, the source organs for the dosimetry calculations were the stomach contents, small intestine, heart, liver, kidneys, and salivary glands.</p><p id="Par32">Volumes of interest (VOIs) were defined in PMOD 4.3. A sphere or box was drawn as large as possible for each organ to encompass the entire organ. The VOIs were drawn from summed images from 20&#x000a0;min until the end of scan of the intravenous and oral administration, respectively. This was done to minimize the spill-in from the blood pool and background. In difficult cases, the CT scan was used to aid the correct anatomical placement of the sphere/box. Thresholding was set as low as possible and was subsequently used to segment the organs within the bounding sphere/box. For the heart (left ventricle), pancreas (cauda pancreatis), red marrow (one lumbar vertebra), and skeletal muscle (musculus vastus lateralis) a smaller VOI was drawn within the organ. The VOI representing the brain was drawn by utilizing the full brain atlas supplied by PMOD.</p></sec><sec id="Sec10"><title>Biodistribution and dosimetry</title><p id="Par33">For each source organ, the time course of the non-decay-corrected total radioactivity was normalized to the administered activity and recalculated to time courses of percentage injected activity. Time-integrated activity coefficients (TIACs) were computed using the trapezoidal integration method to calculate the area under the curves, assuming only physical decay after the last scan without further biological clearance. For oral administrations, we assumed that 100% of the tracer was in the stomach contents at the scan start. The remaining TIAC was determined by subtracting the TIACs of individual source organs from the overall TIAC of the entire body (excluding voiding), which for <sup>11</sup>C is 0.49&#x000a0;h. The TIACs of the source organs and the remaining TIAC were utilized in OLINDA/EXM 2.0 (HERMES Medical Solution AB, Sweden (Stabin and Siegel <xref ref-type="bibr" rid="CR38">2018</xref>) to calculate the absorbed doses (&#x003bc;Gy/MBq) for each organ and the effective dose (&#x003bc;Sv/MBq) using anthropomorphic human body phantoms. These phantoms were designed based on organ masses from ICRP89 (Valentin <xref ref-type="bibr" rid="CR3">2002</xref>) and tissue weighting factors from ICRP103 (Valentin <xref ref-type="bibr" rid="CR42">2007</xref>). The organ doses and effective dose results are provided for the reference gender-averaged adult in accordance with ICRP103 guidelines.</p></sec><sec id="Sec11"><title>Kinetic analyses</title><p id="Par34">All kinetic analyses on data from the intravenous study were done using PMOD 4.3 software. Kinetic analysis on data obtained from the oral study was excluded from kinetic analysis since most of the tracer was retained in the ventricle and small intestine. Arterial plasma input functions were corrected for metabolites. Organ and tissue radiotracer kinetics were analyzed using reversible or irreversible models and, in all cases, the Akaike Information Criterion (AIC) favored a reversible model. For all organs and tissues, we compared a 1-tissue with a 2-tissue compartment model using fixed estimates of tissue blood volume fraction (vB). The 2-tissue compartment model yielded the best AIC for all organs and tissues (except for the brain) and we therefore proceeded to perform full kinetic analysis using this model assuming reversible kinetics. Since we were limited by the relatively small axial field-of-view of the scanner, and utilized continuous-bed-motion to cover the whole body, we were precluded from obtaining sufficiently detailed radiotracer first pass data in all organs and tissues. Consequently, we opted to use a fixed tissue vB according to published data for the heart (Colbert et al. <xref ref-type="bibr" rid="CR8">2021</xref>), brain (Muzi et al. <xref ref-type="bibr" rid="CR29">2009</xref>), kidneys (O'Connor <xref ref-type="bibr" rid="CR31">2006</xref>), liver (Taniguchi et al. <xref ref-type="bibr" rid="CR41">1996</xref>), pancreas (Delrue et al. <xref ref-type="bibr" rid="CR14">2012</xref>), red marrow (Marenzana and Arnett <xref ref-type="bibr" rid="CR26">2013</xref>), and skeletal muscle (Saltin et al. <xref ref-type="bibr" rid="CR36">1998</xref>). Since no data exists on the vB in salivary glands, it was estimated to be 5%. In addition to compartment modelling, we estimated brain radiotracer uptake using the initial 10&#x000a0;min and assuming irreversible uptake to be able to compare our results with those previously obtained by other groups using [<sup>11</sup>C]-acetoacetate in particular (Courchesne-Loyer et al. <xref ref-type="bibr" rid="CR10">2017</xref>; Castellano et al. <xref ref-type="bibr" rid="CR7">2015</xref>).</p></sec></sec><sec id="Sec12"><title>Results</title><p id="Par35">The mean and standard deviation of the administered mass of [<sup>11</sup>C]OHB was 5.59<inline-formula id="IEq5"><alternatives><tex-math id="M39">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm$$\end{document}</tex-math><mml:math id="M40"><mml:mo>&#x000b1;</mml:mo></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq5.gif"/></alternatives></inline-formula>3.27&#x000a0;&#x003bc;g (range, 1.00&#x02013;9.24&#x000a0;&#x003bc;g) during the intravenous study and 35.74<inline-formula id="IEq6"><alternatives><tex-math id="M41">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm$$\end{document}</tex-math><mml:math id="M42"><mml:mo>&#x000b1;</mml:mo></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq6.gif"/></alternatives></inline-formula>62.97&#x000a0;&#x003bc;g (range, 2.38&#x02013;162.0&#x000a0;&#x003bc;g) during the oral study. The mean and standard deviation of the administered activity was 204.2 <inline-formula id="IEq7"><alternatives><tex-math id="M43">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm$$\end{document}</tex-math><mml:math id="M44"><mml:mo>&#x000b1;</mml:mo></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq7.gif"/></alternatives></inline-formula> 16.15&#x000a0;MBq (range, 182&#x02013;222&#x000a0;MBq) during the intravenous study and 96.11<inline-formula id="IEq8"><alternatives><tex-math id="M45">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm$$\end{document}</tex-math><mml:math id="M46"><mml:mo>&#x000b1;</mml:mo></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq8.gif"/></alternatives></inline-formula>21.32&#x000a0;MBq (range, 59.15&#x02013;114.5&#x000a0;MBq) during the oral study. There were no adverse or clinically detectable pharmacologic effects in any of the 6 subjects. No significant changes in vital signs or the results of laboratory studies or electrocardiograms were observed.</p><sec id="Sec13"><title>Biodistribution and dosimetry</title><sec id="Sec14"><title>Intravenous study</title><p id="Par36">Representative summed whole body PET scans at different time points are presented in Fig.&#x000a0;<xref rid="Fig2" ref-type="fig">2</xref>. As seen, radiotracer rapidly accumulated in the heart, kidneys and submandibular glands and also in the pituitary. Blood activity was only visible for the first 5&#x000a0;min. Over the course of the following 90&#x000a0;min, radiotracer activity visibly decreased in these organs and appeared to be redistributed towards skeletal muscle. Little activity was noted in the brain. Tissue and organ TACs are presented in Fig.&#x000a0;<xref rid="Fig3" ref-type="fig">3</xref>. Heart, brain, salivary glands and to a lesser extent skeletal muscle and red marrow TAC had well defined peaks with the greatest activity noted in the heart followed by the salivary glands. Liver, kidney and pancreas TAC did not have well defined peaks, since radioactivity decreased throughout the study.<fig id="Fig2"><label>Fig. 2</label><caption><p>Summed PET scans of a representative patient after intravenous injection of 182&#x000a0;MBq of [<sup>11</sup>C]OHB. Abbreviations: He&#x02009;=&#x02009;heart; Ki&#x02009;=&#x02009;kidney; Li&#x02009;=&#x02009;liver; Pa&#x02009;=&#x02009;pancreas; PG&#x02009;=&#x02009;pituitary gland; SG&#x02009;=&#x02009;salivary gland</p></caption><graphic xlink:href="41181_2023_198_Fig2_HTML" id="MO2"/></fig><fig id="Fig3"><label>Fig. 3</label><caption><p>SUV curves of target organs after intravenous injection with [<sup>11</sup>C]OHB. Error bars are <inline-formula id="IEq25"><alternatives><tex-math id="M47">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm$$\end{document}</tex-math><mml:math id="M48"><mml:mo>&#x000b1;</mml:mo></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq25.gif"/></alternatives></inline-formula> SEM</p></caption><graphic xlink:href="41181_2023_198_Fig3_HTML" id="MO3"/></fig></p><p id="Par37">Rapid clearance of radiotracer from the circulation was evident as depicted in Fig.&#x000a0;<xref rid="Fig4" ref-type="fig">4</xref>. The whole-blood to plasma activity ratio was close to 0.8 from the start of the study and remained constant throughout the scan. Radiation dosimetry of [<sup>11</sup>C]OHB after an intravenous injection is presented in Table <xref rid="Tab2" ref-type="table">2</xref>. In line with tissue TAC, absorbed doses were found to be greatest in the heart, pancreas, kidneys, spleen, and salivary glands, while doses to the liver, red marrow, and urinary bladder also were notable yielding an effective dose of 3.28&#x000a0;<inline-formula id="IEq9"><alternatives><tex-math id="M49">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\upmu$$\end{document}</tex-math><mml:math id="M50"><mml:mi mathvariant="normal">&#x003bc;</mml:mi></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq9.gif"/></alternatives></inline-formula>Sv/MBq.<fig id="Fig4"><label>Fig. 4</label><caption><p>SUV of whole-blood and plasma activity after intravenous injection of the tracer. The inserted graph shows wholeblood/plasma ratio. Error bars are <inline-formula id="IEq26"><alternatives><tex-math id="M51">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm$$\end{document}</tex-math><mml:math id="M52"><mml:mo>&#x000b1;</mml:mo></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq26.gif"/></alternatives></inline-formula> SEM</p></caption><graphic xlink:href="41181_2023_198_Fig4_HTML" id="MO4"/></fig><table-wrap id="Tab2"><label>Table 2</label><caption><p>Radiation dosimetry of [<sup>11</sup>C]OHB. Absorbed dose estimates and effective doses in humans</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Target organ</th><th align="left">Intravenous (<inline-formula id="IEq51"><alternatives><tex-math id="M53">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\upmu$$\end{document}</tex-math><mml:math id="M54"><mml:mi mathvariant="normal">&#x003bc;</mml:mi></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq51.gif"/></alternatives></inline-formula>Sv/MBq)</th><th align="left">Oral (<inline-formula id="IEq52"><alternatives><tex-math id="M55">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\upmu$$\end{document}</tex-math><mml:math id="M56"><mml:mi mathvariant="normal">&#x003bc;</mml:mi></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq52.gif"/></alternatives></inline-formula>Sv/MBq)</th></tr></thead><tbody><tr><td align="left">Adrenals</td><td char="." align="char">4.03&#x02009;<inline-formula id="IEq53"><alternatives><tex-math id="M57">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M58"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq53.gif"/></alternatives></inline-formula>0.24</td><td char="." align="char">5.41&#x02009;<inline-formula id="IEq54"><alternatives><tex-math id="M59">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M60"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq54.gif"/></alternatives></inline-formula>1.13</td></tr><tr><td align="left">Brain</td><td char="." align="char">2.21&#x02009;<inline-formula id="IEq55"><alternatives><tex-math id="M61">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M62"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq55.gif"/></alternatives></inline-formula>0.17</td><td char="." align="char">1.82&#x02009;<inline-formula id="IEq56"><alternatives><tex-math id="M63">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M64"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq56.gif"/></alternatives></inline-formula>0.41</td></tr><tr><td align="left">Breasts</td><td char="." align="char">2.94&#x02009;<inline-formula id="IEq57"><alternatives><tex-math id="M65">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M66"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq57.gif"/></alternatives></inline-formula>0.03</td><td char="." align="char">2.32&#x02009;<inline-formula id="IEq58"><alternatives><tex-math id="M67">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M68"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq58.gif"/></alternatives></inline-formula>0.22</td></tr><tr><td align="left">Esophagus</td><td char="." align="char">3.21&#x02009;<inline-formula id="IEq59"><alternatives><tex-math id="M69">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M70"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq59.gif"/></alternatives></inline-formula>0.04</td><td char="." align="char">3.95&#x02009;<inline-formula id="IEq60"><alternatives><tex-math id="M71">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M72"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq60.gif"/></alternatives></inline-formula>0.69</td></tr><tr><td align="left">Eyes</td><td char="." align="char">2.73&#x02009;<inline-formula id="IEq61"><alternatives><tex-math id="M73">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M74"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq61.gif"/></alternatives></inline-formula>0.02</td><td char="." align="char">1.82&#x02009;<inline-formula id="IEq62"><alternatives><tex-math id="M75">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M76"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq62.gif"/></alternatives></inline-formula>0.40</td></tr><tr><td align="left">Gallbladder wall</td><td char="." align="char">3.54&#x02009;<inline-formula id="IEq63"><alternatives><tex-math id="M77">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M78"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq63.gif"/></alternatives></inline-formula>0.08</td><td char="." align="char">3.71&#x02009;<inline-formula id="IEq64"><alternatives><tex-math id="M79">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M80"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq64.gif"/></alternatives></inline-formula>0.22</td></tr><tr><td align="left">Left colon</td><td char="." align="char">3.68&#x02009;<inline-formula id="IEq65"><alternatives><tex-math id="M81">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M82"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq65.gif"/></alternatives></inline-formula>0.03</td><td char="." align="char">5.40&#x02009;<inline-formula id="IEq66"><alternatives><tex-math id="M83">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M84"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq66.gif"/></alternatives></inline-formula>0.57</td></tr><tr><td align="left">Small intestine</td><td char="." align="char">3.50&#x02009;<inline-formula id="IEq67"><alternatives><tex-math id="M85">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M86"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq67.gif"/></alternatives></inline-formula>0.03</td><td char="." align="char">28.47&#x02009;<inline-formula id="IEq68"><alternatives><tex-math id="M87">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M88"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq68.gif"/></alternatives></inline-formula>9.54</td></tr><tr><td align="left">Stomach wall</td><td char="." align="char">3.63&#x02009;<inline-formula id="IEq69"><alternatives><tex-math id="M89">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M90"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq69.gif"/></alternatives></inline-formula>0.07</td><td char="." align="char">77.70&#x02009;<inline-formula id="IEq70"><alternatives><tex-math id="M91">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M92"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq70.gif"/></alternatives></inline-formula>47.19</td></tr><tr><td align="left">Right colon</td><td char="." align="char">3.54&#x02009;<inline-formula id="IEq71"><alternatives><tex-math id="M93">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M94"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq71.gif"/></alternatives></inline-formula>0.02</td><td char="." align="char">3.32&#x02009;<inline-formula id="IEq72"><alternatives><tex-math id="M95">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M96"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq72.gif"/></alternatives></inline-formula>0.53</td></tr><tr><td align="left">Rectum</td><td char="." align="char">3.49&#x02009;<inline-formula id="IEq73"><alternatives><tex-math id="M97">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M98"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq73.gif"/></alternatives></inline-formula>0.05</td><td char="." align="char">2.86&#x02009;<inline-formula id="IEq74"><alternatives><tex-math id="M99">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M100"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq74.gif"/></alternatives></inline-formula>0.54</td></tr><tr><td align="left">Heart wall</td><td char="." align="char">8.11&#x02009;<inline-formula id="IEq75"><alternatives><tex-math id="M101">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M102"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq75.gif"/></alternatives></inline-formula>1.66</td><td char="." align="char">6.38&#x02009;<inline-formula id="IEq76"><alternatives><tex-math id="M103">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M104"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq76.gif"/></alternatives></inline-formula>1.36</td></tr><tr><td align="left">Kidneys</td><td char="." align="char">6.45&#x02009;<inline-formula id="IEq77"><alternatives><tex-math id="M105">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M106"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq77.gif"/></alternatives></inline-formula>0.99</td><td char="." align="char">4.68&#x02009;<inline-formula id="IEq78"><alternatives><tex-math id="M107">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M108"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq78.gif"/></alternatives></inline-formula>0.60</td></tr><tr><td align="left">Liver</td><td char="." align="char">3.29&#x02009;<inline-formula id="IEq79"><alternatives><tex-math id="M109">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M110"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq79.gif"/></alternatives></inline-formula>0.68</td><td char="." align="char">3.69&#x02009;<inline-formula id="IEq80"><alternatives><tex-math id="M111">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M112"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq80.gif"/></alternatives></inline-formula>0.68</td></tr><tr><td align="left">Lungs</td><td char="." align="char">3.18&#x02009;<inline-formula id="IEq81"><alternatives><tex-math id="M113">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M114"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq81.gif"/></alternatives></inline-formula>0.02</td><td char="." align="char">3.21&#x02009;<inline-formula id="IEq82"><alternatives><tex-math id="M115">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M116"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq82.gif"/></alternatives></inline-formula>0.26</td></tr><tr><td align="left">Ovaries</td><td char="." align="char">3.89&#x02009;<inline-formula id="IEq83"><alternatives><tex-math id="M117">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M118"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq83.gif"/></alternatives></inline-formula>0.05</td><td char="." align="char">3.40&#x02009;<inline-formula id="IEq84"><alternatives><tex-math id="M119">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M120"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq84.gif"/></alternatives></inline-formula>0.61</td></tr><tr><td align="left">Pancreas</td><td char="." align="char">8.22&#x02009;<inline-formula id="IEq85"><alternatives><tex-math id="M121">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M122"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq85.gif"/></alternatives></inline-formula>2.14</td><td char="." align="char">9.15&#x02009;<inline-formula id="IEq86"><alternatives><tex-math id="M123">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M124"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq86.gif"/></alternatives></inline-formula>2.95</td></tr><tr><td align="left">Prostate</td><td char="." align="char">3.09&#x02009;<inline-formula id="IEq87"><alternatives><tex-math id="M125">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M126"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq87.gif"/></alternatives></inline-formula>0.04</td><td char="." align="char">2.42&#x02009;<inline-formula id="IEq88"><alternatives><tex-math id="M127">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M128"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq88.gif"/></alternatives></inline-formula>0.44</td></tr><tr><td align="left">Salivary glands</td><td char="." align="char">5.91&#x02009;<inline-formula id="IEq89"><alternatives><tex-math id="M129">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M130"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq89.gif"/></alternatives></inline-formula>2.26</td><td char="." align="char">2.25&#x02009;<inline-formula id="IEq90"><alternatives><tex-math id="M131">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M132"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq90.gif"/></alternatives></inline-formula>0.92</td></tr><tr><td align="left">Red marrow</td><td char="." align="char">4.23&#x02009;<inline-formula id="IEq91"><alternatives><tex-math id="M133">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M134"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq91.gif"/></alternatives></inline-formula>0.43</td><td char="." align="char">2.42&#x02009;<inline-formula id="IEq92"><alternatives><tex-math id="M135">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M136"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq92.gif"/></alternatives></inline-formula>0.17</td></tr><tr><td align="left">Osteogenic cells</td><td char="." align="char">3.10&#x02009;<inline-formula id="IEq93"><alternatives><tex-math id="M137">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M138"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq93.gif"/></alternatives></inline-formula>0.24</td><td char="." align="char">1.87&#x02009;<inline-formula id="IEq94"><alternatives><tex-math id="M139">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M140"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq94.gif"/></alternatives></inline-formula>0.18</td></tr><tr><td align="left">Spleen</td><td char="." align="char">7.75&#x02009;<inline-formula id="IEq95"><alternatives><tex-math id="M141">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M142"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq95.gif"/></alternatives></inline-formula>3.06</td><td char="." align="char">6.39&#x02009;<inline-formula id="IEq96"><alternatives><tex-math id="M143">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M144"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq96.gif"/></alternatives></inline-formula>1.99</td></tr><tr><td align="left">Testes</td><td char="." align="char">2.67&#x02009;<inline-formula id="IEq97"><alternatives><tex-math id="M145">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M146"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq97.gif"/></alternatives></inline-formula>0.04</td><td char="." align="char">1.78&#x02009;<inline-formula id="IEq98"><alternatives><tex-math id="M147">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M148"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq98.gif"/></alternatives></inline-formula>0.40</td></tr><tr><td align="left">Thymus</td><td char="." align="char">3.35&#x02009;<inline-formula id="IEq99"><alternatives><tex-math id="M149">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M150"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq99.gif"/></alternatives></inline-formula>0.05</td><td char="." align="char">2.62&#x02009;<inline-formula id="IEq100"><alternatives><tex-math id="M151">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M152"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq100.gif"/></alternatives></inline-formula>0.21</td></tr><tr><td align="left">Thyroid</td><td char="." align="char">3.04&#x02009;<inline-formula id="IEq101"><alternatives><tex-math id="M153">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M154"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq101.gif"/></alternatives></inline-formula>0.03</td><td char="." align="char">2.16&#x02009;<inline-formula id="IEq102"><alternatives><tex-math id="M155">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M156"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq102.gif"/></alternatives></inline-formula>0.34</td></tr><tr><td align="left">Urinary bladder wall</td><td char="." align="char">3.47&#x02009;<inline-formula id="IEq103"><alternatives><tex-math id="M157">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M158"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq103.gif"/></alternatives></inline-formula>0.53</td><td char="." align="char">2.52&#x02009;<inline-formula id="IEq104"><alternatives><tex-math id="M159">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M160"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq104.gif"/></alternatives></inline-formula>0.56</td></tr><tr><td align="left">Uterus</td><td char="." align="char">3.83&#x02009;<inline-formula id="IEq105"><alternatives><tex-math id="M161">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M162"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq105.gif"/></alternatives></inline-formula>0.05</td><td char="." align="char">3.59&#x02009;<inline-formula id="IEq106"><alternatives><tex-math id="M163">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M164"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq106.gif"/></alternatives></inline-formula>0.68</td></tr><tr><td align="left">Total body</td><td char="." align="char">3.18&#x02009;<inline-formula id="IEq107"><alternatives><tex-math id="M165">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M166"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq107.gif"/></alternatives></inline-formula>0.00</td><td char="." align="char">3.13&#x02009;<inline-formula id="IEq108"><alternatives><tex-math id="M167">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M168"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq108.gif"/></alternatives></inline-formula>0.03</td></tr><tr><td align="left">Effective dose</td><td char="." align="char">3.28&#x02009;<inline-formula id="IEq109"><alternatives><tex-math id="M169">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M170"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq109.gif"/></alternatives></inline-formula>0.09</td><td char="." align="char">12.51&#x02009;<inline-formula id="IEq110"><alternatives><tex-math id="M171">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M172"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq110.gif"/></alternatives></inline-formula>5.90</td></tr></tbody></table><table-wrap-foot><p>Mean intravenous dose was 204.2&#x000a0;MBq (range, 182&#x02013;222) and mean oral dose was 96.11&#x000a0;MBq (range, 59.15&#x02013;114.5). Values are mean <inline-formula id="IEq111"><alternatives><tex-math id="M173">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm$$\end{document}</tex-math><mml:math id="M174"><mml:mo>&#x000b1;</mml:mo></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq111.gif"/></alternatives></inline-formula> SD</p></table-wrap-foot></table-wrap></p></sec><sec id="Sec15"><title>Oral study</title><p id="Par38">Representative summed images after an oral ingestion of the radiotracer are shown in Fig.&#x000a0;<xref rid="Fig5" ref-type="fig">5</xref>. Radiotracer activity was visible in all relevant target organs within the first 15&#x000a0;min after ingestion showing a similar pattern to that following intravenous administration. Thus, heart activity was visibly decreasing after an initial peak at&#x02009;~&#x02009;30&#x000a0;min and skeletal muscle activity appeared to increase throughout the study. Contrasting the intravenous administration, peaks of liver and kidney activity could be detected after 20&#x000a0;min (Fig.&#x000a0;<xref rid="Fig6" ref-type="fig">6</xref>) followed by a gradual decline in activity. Not surprisingly, most of the radiotracer was retained in the GI-tract throughout the scan. Oral ingestion of radiotracer yielded an effective dose of 12.51&#x000a0;<inline-formula id="IEq10"><alternatives><tex-math id="M175">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\upmu$$\end{document}</tex-math><mml:math id="M176"><mml:mi mathvariant="normal">&#x003bc;</mml:mi></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq10.gif"/></alternatives></inline-formula>Sv/MBq with the stomach, intestines and pancreas identified as the most critical organs.<fig id="Fig5"><label>Fig. 5</label><caption><p>Summed PET scans of a representative patient after oral ingestion of 114&#x000a0;MBq [<sup>11</sup>C]OHB. Abbreviations: He&#x02009;=&#x02009;heart; Int&#x02009;=&#x02009;small intestine; Li&#x02009;=&#x02009;liver; PG&#x02009;=&#x02009;pituitary gland; SG&#x02009;=&#x02009;salivary gland; Ve&#x02009;=&#x02009;ventricle</p></caption><graphic xlink:href="41181_2023_198_Fig5_HTML" id="MO5"/></fig><fig id="Fig6"><label>Fig. 6</label><caption><p>SUV curves after oral ingestion of [<sup>11</sup>C]OHB. Error bars are <inline-formula id="IEq27"><alternatives><tex-math id="M177">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm$$\end{document}</tex-math><mml:math id="M178"><mml:mo>&#x000b1;</mml:mo></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq27.gif"/></alternatives></inline-formula> SEM</p></caption><graphic xlink:href="41181_2023_198_Fig6_HTML" id="MO6"/></fig></p></sec></sec><sec id="Sec16"><title>Metabolite analysis</title><p id="Par39">The fraction of [<sup>11</sup>C]CO<sub>2</sub> in circulating plasma [<sup>11</sup>C] activity after an intravenous injection of [<sup>11</sup>C]OHB is presented in Fig.&#x000a0;<xref rid="Fig7" ref-type="fig">7</xref>. The [<sup>11</sup>C]CO<sub>2</sub> fraction increased throughout the study measured at following time points 5&#x000a0;min (6.16&#x02009;<inline-formula id="IEq11"><alternatives><tex-math id="M179">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M180"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq11.gif"/></alternatives></inline-formula>5.46%), 10&#x000a0;min (12.99&#x02009;<inline-formula id="IEq12"><alternatives><tex-math id="M181">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M182"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq12.gif"/></alternatives></inline-formula>6.33%), 15&#x000a0;min (20.67&#x02009;<inline-formula id="IEq13"><alternatives><tex-math id="M183">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M184"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq13.gif"/></alternatives></inline-formula>8.73%), 20&#x000a0;min (25.10&#x02009;<inline-formula id="IEq14"><alternatives><tex-math id="M185">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M186"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq14.gif"/></alternatives></inline-formula>10.03%), 30&#x000a0;min (35.91&#x02009;<inline-formula id="IEq15"><alternatives><tex-math id="M187">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M188"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq15.gif"/></alternatives></inline-formula>15.48%), 50&#x000a0;min (47.97&#x02009;<inline-formula id="IEq16"><alternatives><tex-math id="M189">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M190"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq16.gif"/></alternatives></inline-formula>16.56%), 70&#x000a0;min (52.32&#x02009;<inline-formula id="IEq17"><alternatives><tex-math id="M191">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M192"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq17.gif"/></alternatives></inline-formula>14.78%), and 90&#x000a0;min (55.85&#x02009;<inline-formula id="IEq18"><alternatives><tex-math id="M193">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M194"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq18.gif"/></alternatives></inline-formula>11.90%) indicating a plateau around 55%.<fig id="Fig7"><label>Fig. 7</label><caption><p>Whole-blood activity of [<sup>11</sup>C] as CO<sub>2</sub> measured at 5&#x000a0;min (6.16&#x02009;<inline-formula id="IEq28"><alternatives><tex-math id="M195">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M196"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq28.gif"/></alternatives></inline-formula>5.46%), 10&#x000a0;min (12.99&#x02009;<inline-formula id="IEq29"><alternatives><tex-math id="M197">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M198"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq29.gif"/></alternatives></inline-formula>6.33%), 15&#x000a0;min (20.67&#x02009;<inline-formula id="IEq30"><alternatives><tex-math id="M199">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M200"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq30.gif"/></alternatives></inline-formula>8.73%), 20&#x000a0;min (25.10&#x02009;<inline-formula id="IEq31"><alternatives><tex-math id="M201">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M202"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq31.gif"/></alternatives></inline-formula>10.03%), 30&#x000a0;min (35.91&#x02009;<inline-formula id="IEq32"><alternatives><tex-math id="M203">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M204"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq32.gif"/></alternatives></inline-formula>15.48%), 50&#x000a0;min (47.97&#x02009;<inline-formula id="IEq33"><alternatives><tex-math id="M205">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M206"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq33.gif"/></alternatives></inline-formula>16.56%), 70&#x000a0;min (52.32&#x02009;<inline-formula id="IEq34"><alternatives><tex-math id="M207">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M208"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq34.gif"/></alternatives></inline-formula>14.78%) and 90&#x000a0;min (55.85&#x02009;<inline-formula id="IEq35"><alternatives><tex-math id="M209">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M210"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq35.gif"/></alternatives></inline-formula>11.90%). Values are mean <inline-formula id="IEq36"><alternatives><tex-math id="M211">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm$$\end{document}</tex-math><mml:math id="M212"><mml:mo>&#x000b1;</mml:mo></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq36.gif"/></alternatives></inline-formula> SEM</p></caption><graphic xlink:href="41181_2023_198_Fig7_HTML" id="MO7"/></fig></p></sec><sec id="Sec17"><title>Kinetic analyses</title><p id="Par40">All calculated transfer rate constants obtained using compartmental modeling during intravenous administration of [<sup>11</sup>C]OHB are presented in Table <xref rid="Tab3" ref-type="table">3</xref>. K1 values (representing tissue flow and extraction) were greatest in the heart, followed by the salivary glands and pancreas. By contrast, the K1 value for the brain was markedly lower using the full data set and a reversible 1-tissue model. In fact, skeletal muscle K1 values were 4 times higher than those of the brain. Using the initial 10&#x000a0;min of the scan and assuming irreversible radiotracer kinetics (as done in previous brain ketone PET studies), we calculated the brain Patlak K-value to 0.0098&#x000a0;mL/mL/min. The k3 values (representing the rate of binding, transport or trapping of [<sup>11</sup>C]OHB) were similar across all analyzed organs.<table-wrap id="Tab3"><label>Table 3</label><caption><p>[<sup>11</sup>C]OHB kinetics (intravenous administration)</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"/><th align="left">K1 (mL/mL/min)</th><th align="left">k2 (1/min)</th><th align="left">k3 (1/min)</th><th align="left">k4 (1/min)</th><th align="left">Ki (mL/100&#x000a0;g/min)</th><th align="left">Vt (mL/mL)</th></tr></thead><tbody><tr><td align="left">Heart wall 2&#x000a0;T</td><td char="." align="char">0.49&#x02009;<inline-formula id="IEq112"><alternatives><tex-math id="M213">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M214"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq112.gif"/></alternatives></inline-formula>0.20</td><td char="." align="char">0.42&#x02009;<inline-formula id="IEq113"><alternatives><tex-math id="M215">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M216"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq113.gif"/></alternatives></inline-formula>0.35</td><td char="." align="char">0.18&#x02009;<inline-formula id="IEq114"><alternatives><tex-math id="M217">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M218"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq114.gif"/></alternatives></inline-formula>0.14</td><td char="." align="char">0.16&#x02009;<inline-formula id="IEq115"><alternatives><tex-math id="M219">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M220"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq115.gif"/></alternatives></inline-formula>0.03</td><td char="." align="char">13.85&#x02009;<inline-formula id="IEq116"><alternatives><tex-math id="M221">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M222"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq116.gif"/></alternatives></inline-formula>2.69</td><td char="." align="char">3.03&#x02009;<inline-formula id="IEq117"><alternatives><tex-math id="M223">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M224"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq117.gif"/></alternatives></inline-formula>0.47</td></tr><tr><td align="left">Skeletal muscle 2T</td><td char="." align="char">0.04&#x02009;<inline-formula id="IEq118"><alternatives><tex-math id="M225">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M226"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq118.gif"/></alternatives></inline-formula>0.03</td><td char="." align="char">0.19&#x02009;<inline-formula id="IEq119"><alternatives><tex-math id="M227">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M228"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq119.gif"/></alternatives></inline-formula>0.15</td><td char="." align="char">0.17&#x02009;<inline-formula id="IEq120"><alternatives><tex-math id="M229">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M230"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq120.gif"/></alternatives></inline-formula>0.13</td><td char="." align="char">0.02&#x02009;<inline-formula id="IEq121"><alternatives><tex-math id="M231">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M232"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq121.gif"/></alternatives></inline-formula>0.02</td><td char="." align="char">1.54&#x02009;<inline-formula id="IEq122"><alternatives><tex-math id="M233">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M234"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq122.gif"/></alternatives></inline-formula>0.57</td><td char="." align="char">2.50&#x02009;<inline-formula id="IEq123"><alternatives><tex-math id="M235">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M236"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq123.gif"/></alternatives></inline-formula>1.42</td></tr><tr><td align="left">Salivary glands 2T</td><td char="." align="char">0.26&#x02009;<inline-formula id="IEq124"><alternatives><tex-math id="M237">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M238"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq124.gif"/></alternatives></inline-formula>0.08</td><td char="." align="char">0.75&#x02009;<inline-formula id="IEq125"><alternatives><tex-math id="M239">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M240"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq125.gif"/></alternatives></inline-formula>0.31</td><td char="." align="char">0.19&#x02009;<inline-formula id="IEq126"><alternatives><tex-math id="M241">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M242"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq126.gif"/></alternatives></inline-formula>0.04</td><td char="." align="char">0.02&#x02009;<inline-formula id="IEq127"><alternatives><tex-math id="M243">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M244"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq127.gif"/></alternatives></inline-formula>0.01</td><td char="." align="char">5.41&#x02009;<inline-formula id="IEq128"><alternatives><tex-math id="M245">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M246"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq128.gif"/></alternatives></inline-formula>1.93</td><td char="." align="char">3.94&#x02009;<inline-formula id="IEq129"><alternatives><tex-math id="M247">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M248"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq129.gif"/></alternatives></inline-formula>1.77</td></tr><tr><td align="left">Red marrow 2T</td><td char="." align="char">0.12&#x02009;<inline-formula id="IEq130"><alternatives><tex-math id="M249">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M250"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq130.gif"/></alternatives></inline-formula>0.08</td><td char="." align="char">0.67&#x02009;<inline-formula id="IEq131"><alternatives><tex-math id="M251">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M252"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq131.gif"/></alternatives></inline-formula>0.37</td><td char="." align="char">0.20&#x02009;<inline-formula id="IEq132"><alternatives><tex-math id="M253">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M254"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq132.gif"/></alternatives></inline-formula>0.09</td><td char="." align="char">0.02&#x02009;<inline-formula id="IEq133"><alternatives><tex-math id="M255">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M256"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq133.gif"/></alternatives></inline-formula>0.004</td><td char="." align="char">2.43&#x02009;<inline-formula id="IEq134"><alternatives><tex-math id="M257">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M258"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq134.gif"/></alternatives></inline-formula>0.84</td><td char="." align="char">1.86&#x02009;<inline-formula id="IEq135"><alternatives><tex-math id="M259">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M260"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq135.gif"/></alternatives></inline-formula>0.67</td></tr><tr><td align="left">Pancreas 2T</td><td char="." align="char">0.20&#x02009;<inline-formula id="IEq136"><alternatives><tex-math id="M261">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M262"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq136.gif"/></alternatives></inline-formula>0.08</td><td char="." align="char">0.58&#x02009;<inline-formula id="IEq137"><alternatives><tex-math id="M263">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M264"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq137.gif"/></alternatives></inline-formula>0.36</td><td char="." align="char">0.15&#x02009;<inline-formula id="IEq138"><alternatives><tex-math id="M265">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M266"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq138.gif"/></alternatives></inline-formula>0.10</td><td char="." align="char">0.02&#x02009;<inline-formula id="IEq139"><alternatives><tex-math id="M267">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M268"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq139.gif"/></alternatives></inline-formula>0.00</td><td char="." align="char">4.52&#x02009;<inline-formula id="IEq140"><alternatives><tex-math id="M269">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M270"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq140.gif"/></alternatives></inline-formula>2.30</td><td char="." align="char">4.42 <inline-formula id="IEq141"><alternatives><tex-math id="M271">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm 2.$$\end{document}</tex-math><mml:math id="M272"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mn>2</mml:mn><mml:mo>.</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq141.gif"/></alternatives></inline-formula> 77</td></tr><tr><td align="left">Brain 1T</td><td char="." align="char">0.01&#x02009;<inline-formula id="IEq142"><alternatives><tex-math id="M273">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M274"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq142.gif"/></alternatives></inline-formula>0.001</td><td char="." align="char">0.01&#x02009;<inline-formula id="IEq143"><alternatives><tex-math id="M275">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M276"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq143.gif"/></alternatives></inline-formula>0.01</td><td char="." align="char"/><td char="." align="char"/><td char="." align="char"/><td char="." align="char">4.65&#x02009;<inline-formula id="IEq144"><alternatives><tex-math id="M277">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M278"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq144.gif"/></alternatives></inline-formula>7.25</td></tr><tr><td align="left">Brain (10min)</td><td char="." align="char"/><td char="." align="char"/><td char="." align="char"/><td char="." align="char"/><td char="." align="char">0.98&#x02009;<inline-formula id="IEq145"><alternatives><tex-math id="M279">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M280"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq145.gif"/></alternatives></inline-formula>0.12</td><td char="." align="char"/></tr></tbody></table><table-wrap-foot><p>The Patlak analysis of brain kinetics only included the first 10&#x000a0;min of the scan. Values are presented as mean <inline-formula id="IEq146"><alternatives><tex-math id="M281">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm$$\end{document}</tex-math><mml:math id="M282"><mml:mo>&#x000b1;</mml:mo></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq146.gif"/></alternatives></inline-formula> SD</p><p>1&#x000a0;T&#x02009;=&#x02009;1-tissue-compartment model; 2&#x000a0;T&#x02009;=&#x02009;2-tissue-compartment model; Vt&#x02009;=&#x02009;total distribution volume. Ki&#x02009;=&#x02009;K1*k3/(k2&#x02009;+&#x02009;k3)</p></table-wrap-foot></table-wrap></p></sec></sec><sec id="Sec18"><title>Discussion</title><p id="Par41">Although ketone PET tracers have previously been used in brain research, no comprehensive dosimetry, whole body biodistribution or extra-cerebral tissue and organ tracer kinetics in humans have to our knowledge been published. These issues are all addressed in this paper.</p><sec id="Sec19"><title><bold><italic>[</italic></bold><sup><bold><italic>11</italic></bold></sup><bold><italic>C]OHB dosimetry favors the use of the radiotracer in healthy individuals</italic></bold></title><p id="Par42">As clearly seen after intravenous administration of [<sup>11</sup>C]OHB, the radiotracer was distributed to most tissues in the body and radiation dosimetry therefore turned out to be a modest 3.3&#x000a0;&#x003bc;Sv/MBq. We used&#x02009;~&#x02009;200&#x000a0;MBq for each injection, which yielded acceptable counts for the input function, tissue radioactivity in target organs, and metabolite correction. Using 200&#x000a0;MBq of [<sup>11</sup>C]OHB for i.v. studies therefore results in a total radiation dose from the PET scan well below 1&#x000a0;mSv (0.66&#x000a0;mSv). Thus, a limited field-of-view [<sup>11</sup>C]OHB PET/CT is associated with such a low amount of ionizing radiation that it can safely be used for biomedical research, even in healthy, younger volunteers and also in serial PET scans (Radiological Protection in Biomedical Research. A report of Committee <xref ref-type="bibr" rid="CR34">3</xref> adopted by the International Commission on Radiological Protection xxxx). This is important for several reasons. First, ketone metabolism in healthy individuals is currently a hot topic with both nutritional scientists and lay people arguing that at least some degree of ketosis may be beneficial for the general health of most people (Ferrannini et al. <xref ref-type="bibr" rid="CR19">2016</xref>; Zinman et al. <xref ref-type="bibr" rid="CR46">2015</xref>). The acceptable dosimetry of [<sup>11</sup>C]OHB allows for cross-sectional ketone metabolism studies of different metabolic phenotypes and across different ages and may therefore shed light on possible differences in organ and tissue ketone uptake capacity. For example, it is possible that cardiac ketone uptake decreases with age depriving the heart of an efficient source of energy. It is also possible that a sedentary lifestyle alters the capacity to utilize ketones in skeletal muscle. Second, serial [<sup>11</sup>C]OHB PET scans can be performed in patients undergoing various treatments known to affect circulating ketone levels but where it is currently unknown to what extent the treatment affects organ ketone metabolism. In this context, it has been of interest to our group whether SGLT2 inhibitors affect cardiac ketone metabolism and we have indirectly shown that this is likely the case (Lauritsen et al. <xref ref-type="bibr" rid="CR25">2021</xref>). Third, multitracer PET studies involving [<sup>11</sup>C]OHB will be feasible and acceptable e.g. in patients with cardiac diseases enabling a comprehensive overview of myocardial substrate metabolism, perfusion and function.</p><p id="Par43">The effective dose after oral administration was less favorable but was still sufficiently low to allow using the tracer in patient studies. This may be particularly interesting in patients with heart failure, where it is currently debated whether oral ingestion of ketone esters may enhance cardiac output and function (Selvaraj et al. <xref ref-type="bibr" rid="CR37">2020</xref>). Even a modest dose of&#x02009;~&#x02009;100&#x000a0;MBq [<sup>11</sup>C]OHB ingested orally resulted in acceptable target-to-background radioactivity ratios in the heart and simple SUV measurements performed at peak cardiac radioactivity (20&#x000a0;min post ingestion) may likely serve as a surrogate marker of cardiac ketone metabolism of recently ingested ketones.</p></sec><sec id="Sec20"><title><bold><italic>[</italic></bold><sup><bold><italic>11</italic></bold></sup><bold><italic>C]OHB biodistribution</italic></bold></title><p id="Par44">Overall, [<sup>11</sup>C]OHB was distributed to most tissues in the body in a manner consistent with the ubiquitous utilization of ketones for energy production. Thus, the tracer was clearly taken up by omnivorous energy consuming tissues such as the heart, salivary glands and kidneys, and was also slowly accumulating in skeletal muscle which is known to have the capacity to oxidize ketones&#x02014;especially during exercise but also at rest (Evans et al. <xref ref-type="bibr" rid="CR16">2017</xref>). However, much to our surprise, [<sup>11</sup>C]OHB uptake in the brain was markedly less than expected for an organ that has been demonstrated to avidly consume ketones &#x02013; at least under conditions of prolonged ketosis (Cahill <xref ref-type="bibr" rid="CR6">2006</xref>). It is possible that the lack of brain [<sup>11</sup>C]OHB uptake observed in this study was related to the participating subjects. In contrast to earlier brain ketone tracer studies, our participants had not undergone a lengthy ketogenic diet or long-term sipping of oral ketone esters before the study. Although they were overnight fasted, the length of the fast (10&#x000a0;h) was also unlikely to induce any increase in circulating ketones. Our participants therefore most likely had ketone levels below 0.1&#x000a0;mM, which is a major difference to the general levels of patients previously investigated (from 1 to 5&#x000a0;mM) (Cahill <xref ref-type="bibr" rid="CR6">2006</xref>; Puchalska and Crawford <xref ref-type="bibr" rid="CR33">2017</xref>). It is therefore plausible that the brain uptake [<sup>11</sup>C]OHB had been different if we had investigated patients in during prolonged ketosis. Of note, the pituitary gland was clearly taking up [<sup>11</sup>C]OHB to a much higher degree than the brain, and since the pituitary is located outside of the blood&#x02013;brain barrier, it is possible that the rate limiting factor is located in the blood&#x02013;brain barrier.</p><p id="Par45">The biodistribution of [<sup>11</sup>C]OHB also revealed that although the liver lacks the enzymatic apparatus to oxidize ketones (Abdul Kadir et al. <xref ref-type="bibr" rid="CR1">2020</xref>), it does take up ketones from the circulation. Hepatic ketone uptake is facilitated by ketone transporting mono carboxyl transporters (MCTs) of which there are several on the hepatocytes (Felmlee et al. <xref ref-type="bibr" rid="CR18">2020</xref>). Since ketones are also produced in the liver, it is unclear what purpose reuptake from the circulation serves, but it could be as a negative feedback mechanism or simply exist in an equilibrium with the circulation. Kidney and bladder [<sup>11</sup>C]OHB uptake was as expected during conditions of low ketones. Thus, avid [<sup>11</sup>C]OHB activity was noted in the kidneys shortly after administration of the tracer reflecting the ability of the kidneys to both filtrate and oxidize ketones (Palmer and Clegg <xref ref-type="bibr" rid="CR32">2021</xref>). No activity was observed in the bladder consistent with complete reabsorption of the tracer following filtration facilitated by tubular MCTs (Cuenoud et al. <xref ref-type="bibr" rid="CR13">2020</xref>).</p></sec><sec id="Sec21"><title><bold><italic>[</italic></bold><sup><bold><italic>11</italic></bold></sup><bold><italic>C]OHB plasma/whole blood activity, metabolite correction and tissue kinetics</italic></bold></title><p id="Par46">Arterial whole blood and plasma were sampled for radioactivity measurements to determine whether [<sup>11</sup>C]OHB is taken up by red blood cells (RBCs). The ratio was stable at&#x02009;~&#x02009;0.8 and thus well above the 0.55 (assuming a hematocrit of 45%) observed for radiotracers that are not taken up by RBCs. At first, this may appear counterintuitive since RBC do not contain mitochondria and therefore cannot oxidize ketones. However, membranes on human RBC contain MCT1 transporters for secretion of the end product of red blood cell glycolysis, lactate (Szab&#x000f3; et al. <xref ref-type="bibr" rid="CR40">2021</xref>). MCT1 transporters are bidirectional (Felmlee et al. <xref ref-type="bibr" rid="CR18">2020</xref>) and the flux is passive. Since MCT1 also transports ketones, it is plausible that RBC uptake of ketones (and therefore also of [<sup>11</sup>C]-OHB) simply reflects a concentration equilibrium. Regardless of the uptake mechanism, the whole blood/plasma activity ratio was 0.78&#x02009;<inline-formula id="IEq19"><alternatives><tex-math id="M283">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M284"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq19.gif"/></alternatives></inline-formula>0.02 from 5 to 90&#x000a0;min post injection and did not differ much between participants. Previously, the WB/plasma ratio has been reported as 0.82 for 10&#x000a0;min after injection of [<sup>11</sup>C]OHB and our data thus falls well in line with this (Blomqvist et al. <xref ref-type="bibr" rid="CR4">1995</xref>). This presents an opportunity to use image derived measurements of arterial activity for the input function (IDIFs), and can thus spare participants in research studies an arterial catheter.</p><p id="Par47">Following tissue uptake, [<sup>11</sup>C]OHB is rapidly oxidized and the most important metabolite, [<sup>11</sup>C]CO<sub>2</sub> is subsequently secreted into the blood stream. Consistent with this, we observed an increasing fraction of [<sup>11</sup>C]CO<sub>2</sub> in plasma from 5&#x000a0;min (6.16&#x02009;<inline-formula id="IEq20"><alternatives><tex-math id="M285">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M286"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq20.gif"/></alternatives></inline-formula>5.46%) to 90&#x000a0;min (55.85&#x02009;<inline-formula id="IEq21"><alternatives><tex-math id="M287">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\pm \hspace{0.17em}$$\end{document}</tex-math><mml:math id="M288"><mml:mrow><mml:mo>&#x000b1;</mml:mo><mml:mspace width="1.69998pt"/></mml:mrow></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq21.gif"/></alternatives></inline-formula>11.90%) (Fig.&#x000a0;<xref rid="Fig7" ref-type="fig">7</xref>). To our knowledge, [<sup>11</sup>C]OHB metabolite data have not previously been published, although others have estimated the fraction of [<sup>11</sup>C]CO<sub>2</sub> to be&#x02009;~&#x02009;6% of plasma radioactivity for the first 10&#x000a0;min after injection the ketone radiotracer [<sup>11</sup>C]acetoacetate (Castellano et al. <xref ref-type="bibr" rid="CR7">2015</xref>). Our data therefore indicates that the contribution of metabolites to plasma activity is greater than previously thought, and it is our belief that plasma [<sup>11</sup>C]CO<sub>2</sub> fraction will have to be taken into account in order to correctly estimate the input function, particularly in studies lasting more than 10&#x000a0;min.</p><p id="Par48">Analysis of [<sup>11</sup>C]OHB tissue kinetics were based on fewer data points than usually obtained in dynamic studies, since we used a series of WB passes on a PET scanner with a 26.3&#x000a0;cm axial field-of-view. Tissue TAC were therefore acquired from continuous bed motion passes with increasing durations and with significantly higher temporal resolution for the first minute post injection. We were therefore unable to obtain meaningful estimates of tissue Vb and instead used previously published Vb estimates. However, tissue TAC were generally well defined with prominent peaks and subsequent decays resulting in consistent estimates of transfer rate constants. Of interest, [<sup>11</sup>C]OHB kinetics were best described by reversible models with a 2-tissue compartmental model fitting the data well in most tissues and organs. Rate constants were within the range of the expected for the few organs that have previously been studied by ketone tracers. For example, K1 values in the heart averaged 0.49&#x000a0;mL/mL/min reflecting the relatively significant myocardial perfusion at rest and an extraction of [<sup>11</sup>C]OHB tracer approaching 50%. This estimate is consistent with previous measures of cardiac ketone extraction obtained by coronary sinus sampling in humans and also corroborates the notion of the heart as a major target organ for ketone body consumption (Murashige et al. <xref ref-type="bibr" rid="CR28">2020</xref>). Myocardial [<sup>11</sup>C]OHB TAC rapidly decreased after the initial peak resulting in quite high k2 values presumably reflecting mitochondrial oxidation, although this has not yet been properly explored as it has for [<sup>11</sup>C]acetate (Harms et al. <xref ref-type="bibr" rid="CR22">2018</xref>). The myocardial k3 and k4 rate constants may either represent shuttling of the [<sup>11</sup>C] isotope from the TCA cycle into other metabolic pathways or possibly binding to extra- or intracellular receptors. In the brain, our K1 and Patlak Ki values were also in line with those previously reported using [<sup>11</sup>C]OHB (Blomqvist et al. <xref ref-type="bibr" rid="CR4">1995</xref>) in healthy individuals (0.011&#x000a0;mL/mL/min) but were only about 33% of what has been reported using another ketone radiotracer, [<sup>11</sup>C-acetoacetate] (Courchesne-Loyer et al. <xref ref-type="bibr" rid="CR10">2017</xref>; Castellano et al. <xref ref-type="bibr" rid="CR7">2015</xref>). It is possible, that this discrepancy can be ascribed to the short acquisition protocol used in the [<sup>11</sup>C]acetoacetate studies, differences in metabolite correction or the participant demographics. In addition, it should be noted that brain radioactivity was rather low in comparison with other ketone oxidizing organs such as the heart or the kidneys. Consequently, [11C]CO<sub>2</sub> excreted from other tissues could have contributed in a non-negligible manner to the brain radioactivity concentration. In fact, to accurately describe brain OHB kinetics, a parallel kinetic model encompassing both the [C11]OHB and the [C11]CO<sub>2</sub> input and tissue kinetics would have to be developed.</p></sec></sec><sec id="Sec22"><title>Conclusion</title><p id="Par49">In summary, the ketone radiotracer [<sup>11</sup>C]OHB promises expanded imaging insights into ketone metabolism in humans due to its favorable dosimetry, rapid clearance from the circulation, anticipated biodistribution, and well defined tissue kinetics. The effective dose after intravenous administration was 3.28&#x000a0;<inline-formula id="IEq22"><alternatives><tex-math id="M289">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\upmu$$\end{document}</tex-math><mml:math id="M290"><mml:mi mathvariant="normal">&#x003bc;</mml:mi></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq22.gif"/></alternatives></inline-formula>Sv/MBq and 12.51&#x000a0;<inline-formula id="IEq23"><alternatives><tex-math id="M291">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\upmu$$\end{document}</tex-math><mml:math id="M292"><mml:mi mathvariant="normal">&#x003bc;</mml:mi></mml:math><inline-graphic xlink:href="41181_2023_198_Article_IEq23.gif"/></alternatives></inline-formula>Sv/MBq after oral ingestion. Tissue [<sup>11</sup>C]OHB kinetics were best analyzed using reversible compartment models and the input function should be corrected for [<sup>11</sup>C]CO<sub>2</sub>.
+</p></sec></body><back><glossary><title>Abbreviations</title><def-list><def-item><term>[<sup>11</sup>C]OHB</term><def><p id="Par6">(<italic>R</italic>)-[1-<sup>11</sup>C]&#x003b2;-hydroxybutyrate</p></def></def-item><def-item><term>PET/CT</term><def><p id="Par7">Positron emission tomography/computed tomography</p></def></def-item><def-item><term>OHB</term><def><p id="Par8">3-Hydroxybutyrate</p></def></def-item><def-item><term>TAC</term><def><p id="Par9">Time-activity curves</p></def></def-item><def-item><term>D-WB</term><def><p id="Par10">Dynamic whole-body</p></def></def-item><def-item><term>VOIs</term><def><p id="Par11">Volumes of interest</p></def></def-item><def-item><term>TIACs</term><def><p id="Par12">Time-integrated activity coefficients</p></def></def-item><def-item><term>AIC</term><def><p id="Par13">Akaike information criterion</p></def></def-item><def-item><term>vB</term><def><p id="Par14">Tissue blood volume fraction</p></def></def-item><def-item><term>Vt</term><def><p id="Par15">Volume of distribution</p></def></def-item><def-item><term>MCTs</term><def><p id="Par16">Mono carboxyl transporters</p></def></def-item><def-item><term>RBCs</term><def><p id="Par17">Red blood cells</p></def></def-item><def-item><term>IDIF</term><def><p id="Par18">Image derived input function</p></def></def-item><def-item><term>1T</term><def><p id="Par19">1-Tissue-compartment model</p></def></def-item><def-item><term>2T</term><def><p id="Par20">2-Tissue-compartment model</p></def></def-item></def-list></glossary><fn-group><fn><p><bold>Publisher's Note</bold></p><p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></fn></fn-group><ack><title>Acknowledgements</title><p>We thank the personnel at the Department of Nuclear Medicine &#x00026; PET-Center at Aarhus University Hospital for their assistance in performing the PET scans and in patient management</p></ack><notes notes-type="author-contribution"><title>Author contributions</title><p>TVL, LCG, ES, NM, OLM, and LPT designed and directed the study. ENN and LF developed and produced the PET tracer for the study. TVL, MLGK and LCG performed the experiments and acquired the data. OLM and LPT performed dosimetry analysis. TVL performed image analysis, kinetic analysis and wrote the manuscript. All authors were involved in data interpretation, drafting of the article, and critically reviewed and approved the final version of the manuscript. The corresponding author attests that all listed authors meet the authorship criteria and that no others meeting the criteria have been omitted.</p></notes><notes notes-type="funding-information"><title>Funding</title><p>The project was funded by The Novo Nordisk Foundation. The funding was awarded to LCG (NF18OC0052953).</p></notes><notes notes-type="data-availability"><title>Availability of data and material</title><p>The datasets used and analysed during the current study are available from the corresponding author on reasonable request.</p></notes><notes><title>Declarations</title><notes id="FPar1"><title>Ethics approval and consent to participate</title><p id="Par50">We certify that the study was performed in accordance with the ethical stand- ards as laid down in the 1964 Declaration of Helsinki and its later amendments or comparable ethical standards. All participants were screened and signed an informed consent for participation and publication, before being included in the study. The study protocol was approved by The Central Denmark Region Committees on Health Research Ethics (no. 1-10-72-290-20) and the Danish Medicines Agency (2021-006866-19).</p></notes><notes id="FPar2"><title>Consent for publication</title><p id="Par51">The authors affirm that human research participants provided informed consent for publication of the images in Figs.&#x000a0;<xref rid="Fig2" ref-type="fig">2</xref>, <xref rid="Fig3" ref-type="fig">3</xref> and <xref rid="Fig5" ref-type="fig">5</xref>.</p></notes><notes id="FPar3" notes-type="COI-statement"><title>Competing interests</title><p id="Par52">The authors declare that they have no competing interests.</p></notes></notes><ref-list id="Bib1"><title>References</title><ref id="CR1"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Abdul Kadir</surname><given-names>A</given-names></name><name><surname>Clarke</surname><given-names>K</given-names></name><name><surname>Evans</surname><given-names>RD</given-names></name></person-group><article-title>Cardiac ketone body metabolism</article-title><source>Biochim Biophys Acta Mol Basis Dis</source><year>2020</year><volume>1866</volume><issue>6</issue><fpage>165739</fpage><pub-id pub-id-type="doi">10.1016/j.bbadis.2020.165739</pub-id><pub-id pub-id-type="pmid">32084511</pub-id></element-citation></ref><ref id="CR2"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Authier</surname><given-names>S</given-names></name><name><surname>Tremblay</surname><given-names>S</given-names></name><name><surname>Dumulon</surname><given-names>V</given-names></name><name><surname>Dubuc</surname><given-names>C</given-names></name><name><surname>Ouellet</surname><given-names>R</given-names></name><name><surname>Lecomte</surname><given-names>R</given-names></name><etal/></person-group><article-title>[<sup>11</sup>C] acetoacetate utilization by breast and prostate tumors: a PET and biodistribution study in mice</article-title><source>Mol Imaging Biol</source><year>2008</year><volume>10</volume><issue>4</issue><fpage>217</fpage><lpage>223</lpage><pub-id pub-id-type="doi">10.1007/s11307-008-0143-6</pub-id><pub-id pub-id-type="pmid">18454299</pub-id></element-citation></ref><ref id="CR3"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Valentin</surname><given-names>J</given-names></name></person-group><article-title>Basic anatomical and physiological data for use in radiological protection: reference values. A report of age- and gender-related differences in the anatomical and physiological characteristics of reference individuals. ICRP Publication 89</article-title><source>Ann ICRP</source><year>2002</year><volume>32</volume><issue>3&#x02013;4</issue><fpage>5</fpage><lpage>265</lpage><pub-id pub-id-type="pmid">14506981</pub-id></element-citation></ref><ref id="CR4"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Blomqvist</surname><given-names>G</given-names></name><name><surname>Thorell</surname><given-names>JO</given-names></name><name><surname>Ingvar</surname><given-names>M</given-names></name><name><surname>Grill</surname><given-names>V</given-names></name><name><surname>Wid&#x000e9;n</surname><given-names>L</given-names></name><name><surname>Stone-Elander</surname><given-names>S</given-names></name></person-group><article-title>Use of R-beta-[1-<sup>11</sup>C]hydroxybutyrate in PET studies of regional cerebral uptake of ketone bodies in humans</article-title><source>Am J Physiol</source><year>1995</year><volume>269</volume><issue>5 Pt 1</issue><fpage>E948</fpage><lpage>E959</lpage><pub-id pub-id-type="pmid">7491948</pub-id></element-citation></ref><ref id="CR5"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Blomqvist</surname><given-names>G</given-names></name><name><surname>Alvarsson</surname><given-names>M</given-names></name><name><surname>Grill</surname><given-names>V</given-names></name><name><surname>Von Heijne</surname><given-names>G</given-names></name><name><surname>Ingvar</surname><given-names>M</given-names></name><name><surname>Thorell</surname><given-names>JO</given-names></name><etal/></person-group><article-title>Effect of acute hyperketonemia on the cerebral uptake of ketone bodies in nondiabetic subjects and IDDM patients</article-title><source>Am J Physiol Endocrinol Metab</source><year>2002</year><volume>283</volume><issue>1</issue><fpage>E20</fpage><lpage>E28</lpage><pub-id pub-id-type="doi">10.1152/ajpendo.00294.2001</pub-id><pub-id pub-id-type="pmid">12067838</pub-id></element-citation></ref><ref id="CR6"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cahill</surname><given-names>GF</given-names><suffix>Jr</suffix></name></person-group><article-title>Fuel metabolism in starvation</article-title><source>Annu Rev Nutr</source><year>2006</year><volume>26</volume><fpage>1</fpage><lpage>22</lpage><pub-id pub-id-type="doi">10.1146/annurev.nutr.26.061505.111258</pub-id><pub-id pub-id-type="pmid">16848698</pub-id></element-citation></ref><ref id="CR7"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Castellano</surname><given-names>CA</given-names></name><name><surname>Nugent</surname><given-names>S</given-names></name><name><surname>Paquet</surname><given-names>N</given-names></name><name><surname>Tremblay</surname><given-names>S</given-names></name><name><surname>Bocti</surname><given-names>C</given-names></name><name><surname>Lacombe</surname><given-names>G</given-names></name><etal/></person-group><article-title>Lower brain 18F-fluorodeoxyglucose uptake but normal <sup>11</sup>C-acetoacetate metabolism in mild Alzheimer's disease dementia</article-title><source>J Alzheimers Dis</source><year>2015</year><volume>43</volume><issue>4</issue><fpage>1343</fpage><lpage>1353</lpage><pub-id pub-id-type="doi">10.3233/JAD-141074</pub-id><pub-id pub-id-type="pmid">25147107</pub-id></element-citation></ref><ref id="CR8"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Colbert</surname><given-names>CM</given-names></name><name><surname>Thomas</surname><given-names>MA</given-names></name><name><surname>Yan</surname><given-names>R</given-names></name><name><surname>Radjenovic</surname><given-names>A</given-names></name><name><surname>Finn</surname><given-names>JP</given-names></name><name><surname>Hu</surname><given-names>P</given-names></name><etal/></person-group><article-title>Estimation of fractional myocardial blood volume and water exchange using ferumoxytol-enhanced magnetic resonance imaging</article-title><source>J Magn Reson Imaging</source><year>2021</year><volume>53</volume><issue>6</issue><fpage>1699</fpage><lpage>1709</lpage><pub-id pub-id-type="doi">10.1002/jmri.27494</pub-id><pub-id pub-id-type="pmid">33382176</pub-id></element-citation></ref><ref id="CR9"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cotter</surname><given-names>DG</given-names></name><name><surname>Schugar</surname><given-names>RC</given-names></name><name><surname>Crawford</surname><given-names>PA</given-names></name></person-group><article-title>Ketone body metabolism and cardiovascular disease</article-title><source>Am J Physiol Heart Circ Physiol</source><year>2013</year><volume>304</volume><issue>8</issue><fpage>H1060</fpage><lpage>H1076</lpage><pub-id pub-id-type="doi">10.1152/ajpheart.00646.2012</pub-id><pub-id pub-id-type="pmid">23396451</pub-id></element-citation></ref><ref id="CR10"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Courchesne-Loyer</surname><given-names>A</given-names></name><name><surname>Croteau</surname><given-names>E</given-names></name><name><surname>Castellano</surname><given-names>CA</given-names></name><name><surname>St-Pierre</surname><given-names>V</given-names></name><name><surname>Hennebelle</surname><given-names>M</given-names></name><name><surname>Cunnane</surname><given-names>SC</given-names></name></person-group><article-title>Inverse relationship between brain glucose and ketone metabolism in adults during short-term moderate dietary ketosis: a dual tracer quantitative positron emission tomography study</article-title><source>J Cereb Blood Flow Metab</source><year>2017</year><volume>37</volume><issue>7</issue><fpage>2485</fpage><lpage>2493</lpage><pub-id pub-id-type="doi">10.1177/0271678X16669366</pub-id><pub-id pub-id-type="pmid">27629100</pub-id></element-citation></ref><ref id="CR11"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Croteau</surname><given-names>E</given-names></name><name><surname>Tremblay</surname><given-names>S</given-names></name><name><surname>Gascon</surname><given-names>S</given-names></name><name><surname>Dumulon-Perreault</surname><given-names>V</given-names></name><name><surname>Labb&#x000e9;</surname><given-names>SM</given-names></name><name><surname>Rousseau</surname><given-names>JA</given-names></name><etal/></person-group><article-title>[(11)C]-Acetoacetate PET imaging: a potential early marker for cardiac heart failure</article-title><source>Nucl Med Biol</source><year>2014</year><volume>41</volume><issue>10</issue><fpage>863</fpage><lpage>870</lpage><pub-id pub-id-type="doi">10.1016/j.nucmedbio.2014.08.006</pub-id><pub-id pub-id-type="pmid">25195015</pub-id></element-citation></ref><ref id="CR12"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Croteau</surname><given-names>E</given-names></name><name><surname>Castellano</surname><given-names>CA</given-names></name><name><surname>Richard</surname><given-names>MA</given-names></name><name><surname>Fortier</surname><given-names>M</given-names></name><name><surname>Nugent</surname><given-names>S</given-names></name><name><surname>Lepage</surname><given-names>M</given-names></name><etal/></person-group><article-title>Ketogenic medium chain triglycerides increase brain energy metabolism in Alzheimer's disease</article-title><source>J Alzheimers Dis</source><year>2018</year><volume>64</volume><issue>2</issue><fpage>551</fpage><lpage>561</lpage><pub-id pub-id-type="doi">10.3233/JAD-180202</pub-id><pub-id pub-id-type="pmid">29914035</pub-id></element-citation></ref><ref id="CR13"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cuenoud</surname><given-names>B</given-names></name><name><surname>Hartweg</surname><given-names>M</given-names></name><name><surname>Godin</surname><given-names>JP</given-names></name><name><surname>Croteau</surname><given-names>E</given-names></name><name><surname>Maltais</surname><given-names>M</given-names></name><name><surname>Castellano</surname><given-names>CA</given-names></name><etal/></person-group><article-title>Metabolism of exogenous D-beta-hydroxybutyrate, an energy substrate avidly consumed by the heart and kidney</article-title><source>Front Nutr</source><year>2020</year><volume>7</volume><fpage>13</fpage><pub-id pub-id-type="doi">10.3389/fnut.2020.00013</pub-id><pub-id pub-id-type="pmid">32140471</pub-id></element-citation></ref><ref id="CR14"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Delrue</surname><given-names>L</given-names></name><name><surname>Blanckaert</surname><given-names>P</given-names></name><name><surname>Mertens</surname><given-names>D</given-names></name><name><surname>Van Meerbeeck</surname><given-names>S</given-names></name><name><surname>Ceelen</surname><given-names>W</given-names></name><name><surname>Duyck</surname><given-names>P</given-names></name></person-group><article-title>Tissue perfusion in pathologies of the pancreas: assessment using 128-slice computed tomography</article-title><source>Abdom Imaging</source><year>2012</year><volume>37</volume><issue>4</issue><fpage>595</fpage><lpage>601</lpage><pub-id pub-id-type="doi">10.1007/s00261-011-9783-0</pub-id><pub-id pub-id-type="pmid">21811851</pub-id></element-citation></ref><ref id="CR15"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Drandarov</surname><given-names>K</given-names></name><name><surname>Schubiger</surname><given-names>PA</given-names></name><name><surname>Westera</surname><given-names>G</given-names></name></person-group><article-title>Automated no-carrier-added synthesis of [1-<sup>11</sup>C]-labeled D- and L-enantiomers of lactic acid</article-title><source>Appl Radiat Isot</source><year>2006</year><volume>64</volume><issue>12</issue><fpage>1613</fpage><lpage>1622</lpage><pub-id pub-id-type="doi">10.1016/j.apradiso.2006.05.013</pub-id><pub-id pub-id-type="pmid">16854588</pub-id></element-citation></ref><ref id="CR16"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Evans</surname><given-names>M</given-names></name><name><surname>Cogan</surname><given-names>KE</given-names></name><name><surname>Egan</surname><given-names>B</given-names></name></person-group><article-title>Metabolism of ketone bodies during exercise and training: physiological basis for exogenous supplementation</article-title><source>J Physiol</source><year>2017</year><volume>595</volume><issue>9</issue><fpage>2857</fpage><lpage>2871</lpage><pub-id pub-id-type="doi">10.1113/JP273185</pub-id><pub-id pub-id-type="pmid">27861911</pub-id></element-citation></ref><ref id="CR17"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Evans</surname><given-names>M</given-names></name><name><surname>McClure</surname><given-names>TS</given-names></name><name><surname>Koutnik</surname><given-names>AP</given-names></name><name><surname>Egan</surname><given-names>B</given-names></name></person-group><article-title>Exogenous ketone supplements in athletic contexts: past, present, and future</article-title><source>Sports Med</source><year>2022</year><volume>52</volume><issue>Suppl 1</issue><fpage>25</fpage><lpage>67</lpage><pub-id pub-id-type="doi">10.1007/s40279-022-01756-2</pub-id><pub-id pub-id-type="pmid">36214993</pub-id></element-citation></ref><ref id="CR18"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Felmlee</surname><given-names>MA</given-names></name><name><surname>Jones</surname><given-names>RS</given-names></name><name><surname>Rodriguez-Cruz</surname><given-names>V</given-names></name><name><surname>Follman</surname><given-names>KE</given-names></name><name><surname>Morris</surname><given-names>ME</given-names></name></person-group><article-title>Monocarboxylate transporters (SLC16): function, regulation, and role in health and disease</article-title><source>Pharmacol Rev</source><year>2020</year><volume>72</volume><issue>2</issue><fpage>466</fpage><lpage>485</lpage><pub-id pub-id-type="doi">10.1124/pr.119.018762</pub-id><pub-id pub-id-type="pmid">32144120</pub-id></element-citation></ref><ref id="CR19"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ferrannini</surname><given-names>E</given-names></name><name><surname>Mark</surname><given-names>M</given-names></name><name><surname>Mayoux</surname><given-names>E</given-names></name></person-group><article-title>CV protection in the EMPA-REG OUTCOME trial: a "thrifty substrate" hypothesis</article-title><source>Diabetes Care</source><year>2016</year><volume>39</volume><issue>7</issue><fpage>1108</fpage><lpage>1114</lpage><pub-id pub-id-type="doi">10.2337/dc16-0330</pub-id><pub-id pub-id-type="pmid">27289126</pub-id></element-citation></ref><ref id="CR20"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fortier</surname><given-names>M</given-names></name><name><surname>Castellano</surname><given-names>CA</given-names></name><name><surname>Croteau</surname><given-names>E</given-names></name><name><surname>Langlois</surname><given-names>F</given-names></name><name><surname>Bocti</surname><given-names>C</given-names></name><name><surname>St-Pierre</surname><given-names>V</given-names></name><etal/></person-group><article-title>A ketogenic drink improves brain energy and some measures of cognition in mild cognitive impairment</article-title><source>Alzheimers Dement</source><year>2019</year><volume>15</volume><issue>5</issue><fpage>625</fpage><lpage>634</lpage><pub-id pub-id-type="doi">10.1016/j.jalz.2018.12.017</pub-id><pub-id pub-id-type="pmid">31027873</pub-id></element-citation></ref><ref id="CR21"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gormsen</surname><given-names>LC</given-names></name><name><surname>Svart</surname><given-names>M</given-names></name><name><surname>Thomsen</surname><given-names>HH</given-names></name><name><surname>S&#x000f8;ndergaard</surname><given-names>E</given-names></name><name><surname>Vendelbo</surname><given-names>MH</given-names></name><name><surname>Christensen</surname><given-names>N</given-names></name><etal/></person-group><article-title>Ketone body infusion with 3-hydroxybutyrate reduces myocardial glucose uptake and increases blood flow in humans: a positron emission tomography study</article-title><source>J Am Heart Assoc</source><year>2017</year><volume>6</volume><issue>3</issue><fpage>e005066</fpage><pub-id pub-id-type="doi">10.1161/JAHA.116.005066</pub-id><pub-id pub-id-type="pmid">28242634</pub-id></element-citation></ref><ref id="CR22"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Harms</surname><given-names>HJ</given-names></name><name><surname>Hansson</surname><given-names>NHS</given-names></name><name><surname>Kero</surname><given-names>T</given-names></name><name><surname>Baron</surname><given-names>T</given-names></name><name><surname>Tolbod</surname><given-names>LP</given-names></name><name><surname>Kim</surname><given-names>WY</given-names></name><etal/></person-group><article-title>Automatic calculation of myocardial external efficiency using a single (11)C-acetate PET scan</article-title><source>J Nucl Cardiol</source><year>2018</year><volume>25</volume><issue>6</issue><fpage>1937</fpage><lpage>1944</lpage><pub-id pub-id-type="doi">10.1007/s12350-018-1338-0</pub-id><pub-id pub-id-type="pmid">29946824</pub-id></element-citation></ref><ref id="CR23"><mixed-citation publication-type="other">Kadir AA, Stubbs BJ, Chong CR, Lee H, Cole M, Carr C, et al. On the interdependence of ketone body oxidation, glycogen content, glycolysis and energy metabolism in the heart. J Physiol. 2023.</mixed-citation></ref><ref id="CR24"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kosinski</surname><given-names>C</given-names></name><name><surname>Jornayvaz</surname><given-names>FR</given-names></name></person-group><article-title>Effects of ketogenic diets on cardiovascular risk factors: evidence from animal and human studies</article-title><source>Nutrients</source><year>2017</year><volume>9</volume><issue>5</issue><fpage>517</fpage><pub-id pub-id-type="doi">10.3390/nu9050517</pub-id><pub-id pub-id-type="pmid">28534852</pub-id></element-citation></ref><ref id="CR25"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lauritsen</surname><given-names>KM</given-names></name><name><surname>Nielsen</surname><given-names>BRR</given-names></name><name><surname>Tolbod</surname><given-names>LP</given-names></name><name><surname>Johannsen</surname><given-names>M</given-names></name><name><surname>Hansen</surname><given-names>J</given-names></name><name><surname>Hansen</surname><given-names>TK</given-names></name><etal/></person-group><article-title>SGLT2 inhibition does not affect myocardial fatty acid oxidation or uptake, but reduces myocardial glucose uptake and blood flow in individuals with type 2 diabetes: a randomized double-blind</article-title><source>Placebo Controll Crossover Trial Diabetes</source><year>2021</year><volume>70</volume><issue>3</issue><fpage>800</fpage><lpage>808</lpage></element-citation></ref><ref id="CR26"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Marenzana</surname><given-names>M</given-names></name><name><surname>Arnett</surname><given-names>TR</given-names></name></person-group><article-title>The key role of the blood supply to bone</article-title><source>Bone Res</source><year>2013</year><volume>1</volume><issue>3</issue><fpage>203</fpage><lpage>215</lpage><pub-id pub-id-type="doi">10.4248/BR201303001</pub-id><pub-id pub-id-type="pmid">26273504</pub-id></element-citation></ref><ref id="CR27"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mayer</surname><given-names>SB</given-names></name><name><surname>Jeffreys</surname><given-names>AS</given-names></name><name><surname>Olsen</surname><given-names>MK</given-names></name><name><surname>McDuffie</surname><given-names>JR</given-names></name><name><surname>Feinglos</surname><given-names>MN</given-names></name><name><surname>Yancy</surname><given-names>WS</given-names><suffix>Jr</suffix></name></person-group><article-title>Two diets with different haemoglobin A1c and antiglycaemic medication effects despite similar weight loss in type 2 diabetes</article-title><source>Diabetes Obes Metab</source><year>2014</year><volume>16</volume><issue>1</issue><fpage>90</fpage><lpage>93</lpage><pub-id pub-id-type="doi">10.1111/dom.12191</pub-id><pub-id pub-id-type="pmid">23911112</pub-id></element-citation></ref><ref id="CR28"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Murashige</surname><given-names>D</given-names></name><name><surname>Jang</surname><given-names>C</given-names></name><name><surname>Neinast</surname><given-names>M</given-names></name><name><surname>Edwards</surname><given-names>JJ</given-names></name><name><surname>Cowan</surname><given-names>A</given-names></name><name><surname>Hyman</surname><given-names>MC</given-names></name><etal/></person-group><article-title>Comprehensive quantification of fuel use by the failing and nonfailing human heart</article-title><source>Science</source><year>2020</year><volume>370</volume><issue>6514</issue><fpage>364</fpage><lpage>368</lpage><pub-id pub-id-type="doi">10.1126/science.abc8861</pub-id><pub-id pub-id-type="pmid">33060364</pub-id></element-citation></ref><ref id="CR29"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Muzi</surname><given-names>M</given-names></name><name><surname>Mankoff</surname><given-names>DA</given-names></name><name><surname>Link</surname><given-names>JM</given-names></name><name><surname>Shoner</surname><given-names>S</given-names></name><name><surname>Collier</surname><given-names>AC</given-names></name><name><surname>Sasongko</surname><given-names>L</given-names></name><etal/></person-group><article-title>Imaging of cyclosporine inhibition of P-glycoprotein activity using 11C-verapamil in the brain: studies of healthy humans</article-title><source>J Nucl Med</source><year>2009</year><volume>50</volume><issue>8</issue><fpage>1267</fpage><lpage>1275</lpage><pub-id pub-id-type="doi">10.2967/jnumed.108.059162</pub-id><pub-id pub-id-type="pmid">19617341</pub-id></element-citation></ref><ref id="CR30"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nielsen</surname><given-names>R</given-names></name><name><surname>Moller</surname><given-names>N</given-names></name><name><surname>Gormsen</surname><given-names>LC</given-names></name><name><surname>Tolbod</surname><given-names>LP</given-names></name><name><surname>Hansson</surname><given-names>NH</given-names></name><name><surname>Sorensen</surname><given-names>J</given-names></name><etal/></person-group><article-title>Cardiovascular effects of treatment with the ketone body 3-hydroxybutyrate in chronic heart failure patients</article-title><source>Circulation</source><year>2019</year><volume>139</volume><issue>18</issue><fpage>2129</fpage><lpage>2141</lpage><pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.118.036459</pub-id><pub-id pub-id-type="pmid">30884964</pub-id></element-citation></ref><ref id="CR31"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>O'Connor</surname><given-names>PM</given-names></name></person-group><article-title>Renal oxygen delivery: matching delivery to metabolic demand</article-title><source>Clin Exp Pharmacol Physiol</source><year>2006</year><volume>33</volume><issue>10</issue><fpage>961</fpage><lpage>967</lpage><pub-id pub-id-type="doi">10.1111/j.1440-1681.2006.04475.x</pub-id><pub-id pub-id-type="pmid">17002675</pub-id></element-citation></ref><ref id="CR32"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Palmer</surname><given-names>BF</given-names></name><name><surname>Clegg</surname><given-names>DJ</given-names></name></person-group><article-title>Starvation ketosis and the kidney</article-title><source>Am J Nephrol</source><year>2021</year><volume>52</volume><issue>6</issue><fpage>467</fpage><lpage>478</lpage><pub-id pub-id-type="doi">10.1159/000517305</pub-id><pub-id pub-id-type="pmid">34350876</pub-id></element-citation></ref><ref id="CR33"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Puchalska</surname><given-names>P</given-names></name><name><surname>Crawford</surname><given-names>PA</given-names></name></person-group><article-title>Multi-dimensional roles of ketone bodies in fuel metabolism, signaling, and therapeutics</article-title><source>Cell Metab</source><year>2017</year><volume>25</volume><issue>2</issue><fpage>262</fpage><lpage>284</lpage><pub-id pub-id-type="doi">10.1016/j.cmet.2016.12.022</pub-id><pub-id pub-id-type="pmid">28178565</pub-id></element-citation></ref><ref id="CR34"><mixed-citation publication-type="other">Radiological Protection in Biomedical Research. A report of Committee 3 adopted by the International Commission on Radiological Protection. Ann ICRP. 1991;22(3):1&#x02013;28.</mixed-citation></ref><ref id="CR35"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rusek</surname><given-names>M</given-names></name><name><surname>Pluta</surname><given-names>R</given-names></name><name><surname>U&#x00142;amek-Kozio&#x00142;</surname><given-names>M</given-names></name><name><surname>Czuczwar</surname><given-names>SJ</given-names></name></person-group><article-title>Ketogenic diet in Alzheimer's Disease</article-title><source>Int J Mol Sci</source><year>2019</year><volume>20</volume><issue>16</issue><fpage>3892</fpage><pub-id pub-id-type="doi">10.3390/ijms20163892</pub-id><pub-id pub-id-type="pmid">31405021</pub-id></element-citation></ref><ref id="CR36"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Saltin</surname><given-names>B</given-names></name><name><surname>R&#x000e5;degran</surname><given-names>G</given-names></name><name><surname>Koskolou</surname><given-names>MD</given-names></name><name><surname>Roach</surname><given-names>RC</given-names></name></person-group><article-title>Skeletal muscle blood flow in humans and its regulation during exercise</article-title><source>Acta Physiol Scand</source><year>1998</year><volume>162</volume><issue>3</issue><fpage>421</fpage><lpage>436</lpage><pub-id pub-id-type="doi">10.1046/j.1365-201X.1998.0293e.x</pub-id><pub-id pub-id-type="pmid">9578388</pub-id></element-citation></ref><ref id="CR37"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Selvaraj</surname><given-names>S</given-names></name><name><surname>Kelly</surname><given-names>DP</given-names></name><name><surname>Margulies</surname><given-names>KB</given-names></name></person-group><article-title>Implications of altered ketone metabolism and therapeutic ketosis in heart failure</article-title><source>Circulation</source><year>2020</year><volume>141</volume><issue>22</issue><fpage>1800</fpage><lpage>1812</lpage><pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.119.045033</pub-id><pub-id pub-id-type="pmid">32479196</pub-id></element-citation></ref><ref id="CR38"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Stabin</surname><given-names>MG</given-names></name><name><surname>Siegel</surname><given-names>JA</given-names></name></person-group><article-title>RADAR dose estimate report: a compendium of radiopharmaceutical dose estimates based on OLINDA/EXM Version 2.0</article-title><source>J Nucl Med</source><year>2018</year><volume>59</volume><issue>1</issue><fpage>154</fpage><lpage>160</lpage><pub-id pub-id-type="doi">10.2967/jnumed.117.196261</pub-id><pub-id pub-id-type="pmid">28887400</pub-id></element-citation></ref><ref id="CR39"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Svart</surname><given-names>M</given-names></name><name><surname>Gormsen</surname><given-names>LC</given-names></name><name><surname>Hansen</surname><given-names>J</given-names></name><name><surname>Zeidler</surname><given-names>D</given-names></name><name><surname>Gejl</surname><given-names>M</given-names></name><name><surname>Vang</surname><given-names>K</given-names></name><etal/></person-group><article-title>Regional cerebral effects of ketone body infusion with 3-hydroxybutyrate in humans: reduced glucose uptake, unchanged oxygen consumption and increased blood flow by positron emission tomography. A randomized, controlled trial</article-title><source>PLoS ONE</source><year>2018</year><volume>13</volume><issue>2</issue><fpage>e0190556</fpage><pub-id pub-id-type="doi">10.1371/journal.pone.0190556</pub-id><pub-id pub-id-type="pmid">29489818</pub-id></element-citation></ref><ref id="CR40"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Szab&#x000f3;</surname><given-names>E</given-names></name><name><surname>Kulin</surname><given-names>A</given-names></name><name><surname>Kor&#x000e1;nyi</surname><given-names>L</given-names></name><name><surname>Liter&#x000e1;ti-Nagy</surname><given-names>B</given-names></name><name><surname>Cserepes</surname><given-names>J</given-names></name><name><surname>Somogyi</surname><given-names>A</given-names></name><etal/></person-group><article-title>Alterations in erythrocyte membrane transporter expression levels in type 2 diabetic patients</article-title><source>Sci Rep</source><year>2021</year><volume>11</volume><issue>1</issue><fpage>2765</fpage><pub-id pub-id-type="doi">10.1038/s41598-021-82417-8</pub-id><pub-id pub-id-type="pmid">33531564</pub-id></element-citation></ref><ref id="CR41"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Taniguchi</surname><given-names>H</given-names></name><name><surname>Masuyama</surname><given-names>M</given-names></name><name><surname>Koyama</surname><given-names>H</given-names></name><name><surname>Oguro</surname><given-names>A</given-names></name><name><surname>Takahashi</surname><given-names>T</given-names></name></person-group><article-title>Quantitative measurement of human tissue hepatic blood volume by C15O inhalation with positron-emission tomography</article-title><source>Liver</source><year>1996</year><volume>16</volume><issue>4</issue><fpage>258</fpage><lpage>262</lpage><pub-id pub-id-type="doi">10.1111/j.1600-0676.1996.tb00739.x</pub-id><pub-id pub-id-type="pmid">8877997</pub-id></element-citation></ref><ref id="CR42"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Valentin</surname><given-names>J</given-names></name></person-group><article-title>The 2007 Recommendations of the International Commission on Radiological Protection ICRP publication 103</article-title><source>Ann ICRP</source><year>2007</year><volume>37</volume><issue>2&#x02013;4</issue><fpage>1</fpage><lpage>332</lpage><pub-id pub-id-type="pmid">18555921</pub-id></element-citation></ref><ref id="CR43"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Thorell</surname><given-names>JO</given-names></name><name><surname>Stone-Elander</surname><given-names>S</given-names></name><name><surname>Halldin</surname><given-names>C</given-names></name><name><surname>Wid&#x000e9;n</surname><given-names>L</given-names></name></person-group><article-title>Synthesis of [1-11C]-beta-hydroxybutyric acid</article-title><source>Acta Radiol Suppl</source><year>1991</year><volume>376</volume><fpage>94</fpage><pub-id pub-id-type="pmid">1666800</pub-id></element-citation></ref><ref id="CR44"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Veech</surname><given-names>RL</given-names></name><name><surname>Chance</surname><given-names>B</given-names></name><name><surname>Kashiwaya</surname><given-names>Y</given-names></name><name><surname>Lardy</surname><given-names>HA</given-names></name><name><surname>Cahill</surname><given-names>GF</given-names><suffix>Jr</suffix></name></person-group><article-title>Ketone bodies, potential therapeutic uses</article-title><source>IUBMB Life</source><year>2001</year><volume>51</volume><issue>4</issue><fpage>241</fpage><lpage>247</lpage><pub-id pub-id-type="doi">10.1080/152165401753311780</pub-id><pub-id pub-id-type="pmid">11569918</pub-id></element-citation></ref><ref id="CR45"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zanotti-Fregonara</surname><given-names>P</given-names></name><name><surname>Lammertsma</surname><given-names>AA</given-names></name><name><surname>Innis</surname><given-names>RB</given-names></name></person-group><article-title>(11)C Dosimetry Scans Should Be Abandoned</article-title><source>J Nucl Med</source><year>2021</year><volume>62</volume><issue>2</issue><fpage>158</fpage><lpage>159</lpage><pub-id pub-id-type="doi">10.2967/jnumed.120.257402</pub-id><pub-id pub-id-type="pmid">33310737</pub-id></element-citation></ref><ref id="CR46"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zinman</surname><given-names>B</given-names></name><name><surname>Wanner</surname><given-names>C</given-names></name><name><surname>Lachin</surname><given-names>JM</given-names></name><name><surname>Fitchett</surname><given-names>D</given-names></name><name><surname>Bluhmki</surname><given-names>E</given-names></name><name><surname>Hantel</surname><given-names>S</given-names></name><etal/></person-group><article-title>Empagliflozin, cardiovascular outcomes, and mortality in type 2 diabetes</article-title><source>N Engl J Med</source><year>2015</year><volume>373</volume><issue>22</issue><fpage>2117</fpage><lpage>2128</lpage><pub-id pub-id-type="doi">10.1056/NEJMoa1504720</pub-id><pub-id pub-id-type="pmid">26378978</pub-id></element-citation></ref></ref-list></back></article>

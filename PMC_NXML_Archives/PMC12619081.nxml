@@ -1,0 +1,548 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="jon70106" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Neuroimaging</journal-id><journal-id journal-id-type="iso-abbrev">J Neuroimaging</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1552-6569</journal-id><journal-id journal-id-type="publisher-id">JON</journal-id><journal-title-group><journal-title>Journal of Neuroimaging</journal-title></journal-title-group><issn pub-type="ppub">1051-2284</issn><issn pub-type="epub">1552-6569</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">41239816</article-id><article-id pub-id-type="pmc">12619081</article-id>
+<article-id pub-id-type="doi">10.1111/jon.70106</article-id><article-id pub-id-type="publisher-id">JON70106</article-id><article-categories><subj-group subj-group-type="overline"><subject>Clinical Investigative Study</subject></subj-group><subj-group subj-group-type="heading"><subject>Clinical Investigative Study</subject></subj-group></article-categories><title-group><article-title>Cerebral Perfusion and Blood&#x02212;Brain Barrier Changes After Cranioplasty: A Diffusion&#x02010;Prepared Arterial Spin Labeling Study</article-title></title-group><contrib-group><contrib id="jon70106-cr-0001" contrib-type="author"><name><surname>Ojogho</surname><given-names>Brandon</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8163-5240</contrib-id><xref rid="jon70106-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jon70106-cr-0002" contrib-type="author"><name><surname>Abedi</surname><given-names>Aidin</given-names></name><xref rid="jon70106-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jon70106-cr-0003" contrib-type="author"><name><surname>Lee</surname><given-names>Darrin J.</given-names></name><xref rid="jon70106-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jon70106-cr-0004" contrib-type="author"><name><surname>Shao</surname><given-names>Xingfeng</given-names></name><xref rid="jon70106-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jon70106-cr-0005" contrib-type="author"><name><surname>Russin</surname><given-names>Jonathan</given-names></name><xref rid="jon70106-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jon70106-cr-0006" contrib-type="author"><name><surname>Jann</surname><given-names>Kay</given-names></name><xref rid="jon70106-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jon70106-cr-0007" contrib-type="author" corresp="yes"><name><surname>Liu</surname><given-names>Charles Y.</given-names></name><xref rid="jon70106-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>cliu@usc.edu</email></address></contrib><contrib id="jon70106-cr-0008" contrib-type="author" corresp="yes"><name><surname>Wang</surname><given-names>Danny J. J.</given-names></name><xref rid="jon70106-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>jj.wang@loni.usc.edu</email></address></contrib></contrib-group><aff id="jon70106-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Laboratory of Functional MRI Technology (LOFT)</named-content>
+<named-content content-type="organisation-division">Stevens Neuroimaging &#x00026; Informatics Institute</named-content>
+<institution>Keck School of Medicine of USC</institution>
+<city>Los Angeles</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><aff id="jon70106-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurosurgery</named-content>
+<institution>University of Southern California</institution>
+<city>Los Angeles</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><aff id="jon70106-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurosurgery, USC Neurorestoration Center and Rancho Los Amigos National Rehabilitation Center</named-content>
+<institution>University of Southern California</institution>
+<city>Los Angeles</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><pub-date pub-type="epub"><day>15</day><month>11</month><year>2025</year></pub-date><pub-date pub-type="ppub"><season>Nov-Dec</season><year>2025</year></pub-date><volume>35</volume><issue seq="100">6</issue><issue-id pub-id-type="doi">10.1111/jon.v35.6</issue-id><elocation-id>e70106</elocation-id><history>
+<date date-type="rev-recd"><day>15</day><month>10</month><year>2025</year></date>
+<date date-type="received"><day>19</day><month>8</month><year>2025</year></date>
+<date date-type="accepted"><day>27</day><month>10</month><year>2025</year></date>
+</history><permissions><!--&#x000a9; 2025 American Society of Neuroimaging.--><copyright-statement content-type="article-copyright">&#x000a9; 2025 The Author(s). <italic toggle="yes">Journal of Neuroimaging</italic> published by Wiley Periodicals LLC on behalf of American Society of Neuroimaging.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:JON-35-0.pdf"/><abstract><title>ABSTRACT</title><sec id="jon70106-sec-0010"><title>Background and Purpose</title><p>Cranioplasty reconstruction after hemicraniectomy restores skull integrity and has been associated with neurological improvement, but the physiological mechanisms underlying recovery remain incompletely understood. This study investigated cerebral blood flow (CBF), arterial transit time (ATT), and blood&#x02013;brain barrier (BBB) water exchange rate (Kw) as imaging metrics of hemodynamic recovery following cranioplasty.</p></sec><sec id="jon70106-sec-0020"><title>Methods</title><p>Fourteen patients (mean age: 33.4 &#x000b1; 8.53 years; 2 females, 12 males) who previously underwent hemicraniectomy for traumatic brain injury, ruptured aneurysm, or hemorrhagic stroke were included. All participants underwent diffusion&#x02010;prepared pseudo&#x02010;continuous arterial spin labeling (DP&#x02010;pCASL) Magnetic Resonance Imaging (MRI) at 3 Tesla before and after cranioplasty. Hemodynamic parameters were quantified globally and regionally, with particular focus on the middle cerebral artery perforator (MCA Perf) territory.</p></sec><sec id="jon70106-sec-0030"><title>Results</title><p>Post&#x02010;surgical imaging revealed significant increases in CBF within the ipsilateral MCA Perf territory compared to pre&#x02010;surgical values. BBB Kw asymmetry between MCA Perf territories also improved, indicating enhanced perfusion and BBB function in the impacted hemisphere. ATT changes were region&#x02010;specific, with significant increases in asymmetry observed in the leptomeningeal anterior cerebral artery and posterior cerebral artery territories, but not in the MCA Perf region.</p></sec><sec id="jon70106-sec-0040"><title>Conclusions</title><p>These findings underscore the mechanobiological role of cranioplasty reconstruction in neurological recovery. Advanced hemodynamic imaging with DP&#x02010;pCASL MRI provides quantitative insight into cerebral perfusion, BBB function, and regional perfusion timing. This approach may guide future research on post&#x02010;cranioplasty recovery and inform personalized rehabilitation strategies.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jon70106-kwd-0001">arterial transit time</kwd><kwd id="jon70106-kwd-0002">blood&#x02013;brain barrier</kwd><kwd id="jon70106-kwd-0003">cerebral blood flow</kwd><kwd id="jon70106-kwd-0004">cranioplasty</kwd><kwd id="jon70106-kwd-0005">diffusion&#x02010;prepared pseudo&#x02010;continuous arterial spin labeling</kwd><kwd id="jon70106-kwd-0006">neuroimaging</kwd><kwd id="jon70106-kwd-0007">water exchange rate</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>National Institutes of Health</institution><institution-id institution-id-type="doi">10.13039/100000002</institution-id></institution-wrap>
+</funding-source><award-id>R01NS134712</award-id><award-id>R01NS114382</award-id></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>NIH Office of the Director</institution><institution-id institution-id-type="doi">10.13039/100000052</institution-id></institution-wrap>
+</funding-source><award-id>S10OD032285</award-id></award-group><award-group id="funding-0003"><funding-source>
+<institution-wrap><institution>USC Neurorestoration Center</institution></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="6"/><table-count count="1"/><page-count count="9"/><word-count count="5183"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November/December 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.2 mode:remove_FC converted:15.11.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jon70106-cit-0001">
+<string-name>
+<given-names>B.</given-names>
+<surname>Ojogho</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Abedi</surname>
+</string-name>, <string-name>
+<given-names>D. J.</given-names>
+<surname>Lee</surname>
+</string-name>, et al. &#x0201c;<article-title>Cerebral Perfusion and Blood&#x02212;Brain Barrier Changes After Cranioplasty: A Diffusion&#x02010;Prepared Arterial Spin Labeling Study</article-title>.&#x0201d; <source>Journal of Neuroimaging</source>
+<volume>35</volume>, no. <issue>6</issue> (<year>2025</year>): <elocation-id>e70106</elocation-id>. <pub-id pub-id-type="doi">10.1111/jon.70106</pub-id>
+<pub-id pub-id-type="pmid">41239816</pub-id>
+</mixed-citation>
+</p><fn-group><fn id="jon70106-note-0001"><p>Preliminary data from this work were presented in abstract form at the 2025 International Society for Magnetic Resonance in Medicine (ISMRM) Annual Meeting: Improved CBF and BBB Water Exchange Asymmetry in Vascular Territories Following Cranioplasty: A DP&#x02010;pCASL MRI Study.</p></fn></fn-group></notes></front><body><sec id="jon70106-sec-0050"><label>1</label><title>Introduction</title><p>Cranioplasty restores the skull's structural integrity and has been associated with improvements in cerebral perfusion, neurovascular coupling, and cognitive function following decompressive craniectomy (DC) [<xref rid="jon70106-bib-0001" ref-type="bibr">1</xref>, <xref rid="jon70106-bib-0002" ref-type="bibr">2</xref>, <xref rid="jon70106-bib-0003" ref-type="bibr">3</xref>]. Beyond its structural role, cranioplasty has been shown to enhance neurological recovery, potentially by normalizing cerebrospinal fluid (CSF) dynamics, improving cerebral blood flow (CBF), and alleviating metabolic stress [<xref rid="jon70106-bib-0004" ref-type="bibr">4</xref>, <xref rid="jon70106-bib-0005" ref-type="bibr">5</xref>, <xref rid="jon70106-bib-0006" ref-type="bibr">6</xref>]. Despite these benefits, the mechanistic underpinnings of post&#x02010;cranioplasty recovery remain incompletely understood.</p><p>One promising area of investigation is Central Nervous System (CNS) mechanobiology&#x02014;the study of how mechanical forces such as pressure, tension, and shear stress influence cellular behavior, tissue function, and neurovascular dynamics [<xref rid="jon70106-bib-0007" ref-type="bibr">7</xref>, <xref rid="jon70106-bib-0008" ref-type="bibr">8</xref>]. The effect of these mechanical forces following hemicraniectomy may contribute to blood&#x02013;brain barrier (BBB) dysfunction, impaired neurovascular coupling, and altered perfusion [<xref rid="jon70106-bib-0009" ref-type="bibr">9</xref>, <xref rid="jon70106-bib-0010" ref-type="bibr">10</xref>, <xref rid="jon70106-bib-0011" ref-type="bibr">11</xref>]. By restoring intracranial structure and pressure gradients, cranioplasty may help reestablish mechanobiological homeostasis and facilitate neurovascular recovery [<xref rid="jon70106-bib-0012" ref-type="bibr">12</xref>, <xref rid="jon70106-bib-0013" ref-type="bibr">13</xref>].</p><p>Recent advances in noninvasive neuroimaging, particularly diffusion&#x02010;prepared pseudo&#x02010;continuous arterial spin labeling (DP&#x02010;pCASL) Magnetic Resonance Imaging (MRI), have enabled the simultaneous quantification of CBF, arterial transit time (ATT), and BBB water exchange rate (Kw)&#x02014;three key metrics of cerebral hemodynamics. Kw, in particular, has shown promise as an index for BBB function. Shao et&#x000a0;al. demonstrated that Kw is sensitive to subtle BBB dysfunction [<xref rid="jon70106-bib-0014" ref-type="bibr">14</xref>, <xref rid="jon70106-bib-0015" ref-type="bibr">15</xref>, <xref rid="jon70106-bib-0016" ref-type="bibr">16</xref>, <xref rid="jon70106-bib-0017" ref-type="bibr">17</xref>], while Gold et&#x000a0;al. linked Kw to CSF amyloid&#x02010;&#x003b2;42 levels in cognitively normal older adults [<xref rid="jon70106-bib-0018" ref-type="bibr">18</xref>]. More recently, Chen et&#x000a0;al. demonstrated the negative association of Kw with blood biomarker of Alzheimer's neuropathology&#x02014;p&#x02010;tau 217, underscoring its relevance in neurodegenerative disease screening and monitoring [<xref rid="jon70106-bib-0019" ref-type="bibr">19</xref>].</p><p>By quantifying changes in CBF, ATT, and Kw, this study aims to investigate cerebral, vascular, and BBB recovery following cranioplasty. We hypothesize that cranioplasty improves neurovascular integrity by restoring mechanobiological homeostasis, leading to enhanced perfusion and BBB function in regions affected by acute brain injury. These findings may ultimately support the development of more personalized rehabilitation strategies and improve clinical outcomes for patients recovering from traumatic brain injury (TBI), stroke, or aneurysmal hemorrhage.</p></sec><sec id="jon70106-sec-0060"><label>2</label><title>Methods</title><sec id="jon70106-sec-0070"><label>2.1</label><title>Participants</title><p>This prospective longitudinal study included 14 patients (mean age: 33.4 &#x000b1; 8.53 years; 2 females, 12 males) who underwent a cranioplasty following a hemicraniectomy at Keck Hospital of USC between September 2021 and January 2024. Indications for prior hemicraniectomy included TBI (<italic toggle="yes">n</italic> = 12), ruptured aneurysm (<italic toggle="yes">n</italic> = 1), and hemorrhagic stroke (<italic toggle="yes">n</italic> = 1). Written informed consents were obtained according to a protocol approved by the University of Southern California Institutional Review Board.</p><p>The inclusion criteria were hemicraniectomy patients who underwent MRIs before and after cranioplasty. The exclusion criteria were contraindications to MRI, pregnancy, and other severe concurrent neurologic or psychiatric illnesses. There were 793 &#x000b1; 956 days between hemicraniectomy and cranioplasty (including one subject with a markedly delayed cranioplasty [&#x0003e;10 years post&#x02010;injury]). Each patient underwent two MRI scans pre&#x02010; and post&#x02010;operative performed 34.5 &#x000b1; 50.2 and 56.1 &#x000b1; 33.2 days before and after cranioplasty, respectively. Table&#x000a0;<xref rid="jon70106-tbl-0001" ref-type="table">1</xref> details individual demographic and clinical characteristics, including diagnosis and scan timelines.</p><table-wrap position="float" id="jon70106-tbl-0001" content-type="TABLE"><label>TABLE 1</label><caption><p>Summary of patient demographics, diagnoses, lesion laterality, and imaging intervals relative to cranioplasty.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Subject ID</th><th align="center" rowspan="1" colspan="1">Age</th><th align="center" rowspan="1" colspan="1">Gender</th><th align="center" rowspan="1" colspan="1">Time from hemicraniectomy to cranioplasty (days)</th><th align="center" rowspan="1" colspan="1">Time from pre&#x02010;op MRI to cranioplasty (days)</th><th align="center" rowspan="1" colspan="1">Time from cranioplasty to post&#x02010;op MRI (days)</th><th align="center" rowspan="1" colspan="1">Diagnosis</th><th align="center" rowspan="1" colspan="1">Lesion side</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">S000</td><td align="center" rowspan="1" colspan="1">37</td><td align="center" rowspan="1" colspan="1">M</td><td align="center" rowspan="1" colspan="1">903</td><td align="center" rowspan="1" colspan="1">15</td><td align="center" rowspan="1" colspan="1">43</td><td align="center" rowspan="1" colspan="1">TBI</td><td align="center" rowspan="1" colspan="1">L</td></tr><tr><td align="left" rowspan="1" colspan="1">S001</td><td align="center" rowspan="1" colspan="1">21</td><td align="center" rowspan="1" colspan="1">M</td><td align="center" rowspan="1" colspan="1">265</td><td align="center" rowspan="1" colspan="1">4</td><td align="center" rowspan="1" colspan="1">44</td><td align="center" rowspan="1" colspan="1">TBI</td><td align="center" rowspan="1" colspan="1">L</td></tr><tr><td align="left" rowspan="1" colspan="1">S002</td><td align="center" rowspan="1" colspan="1">42</td><td align="center" rowspan="1" colspan="1">M</td><td align="center" rowspan="1" colspan="1">730</td><td align="center" rowspan="1" colspan="1">5</td><td align="center" rowspan="1" colspan="1">100</td><td align="center" rowspan="1" colspan="1">TBI</td><td align="center" rowspan="1" colspan="1">R</td></tr><tr><td align="left" rowspan="1" colspan="1">S003</td><td align="center" rowspan="1" colspan="1">45</td><td align="center" rowspan="1" colspan="1">M</td><td align="center" rowspan="1" colspan="1">857</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">49</td><td align="center" rowspan="1" colspan="1">TBI</td><td align="center" rowspan="1" colspan="1">L</td></tr><tr><td align="left" rowspan="1" colspan="1">S004</td><td align="center" rowspan="1" colspan="1">47</td><td align="center" rowspan="1" colspan="1">M</td><td align="center" rowspan="1" colspan="1">55</td><td align="center" rowspan="1" colspan="1">22</td><td align="center" rowspan="1" colspan="1">106</td><td align="center" rowspan="1" colspan="1">Ruptured aneurysm&#x000a0;</td><td align="center" rowspan="1" colspan="1">R</td></tr><tr><td align="left" rowspan="1" colspan="1">S005</td><td align="center" rowspan="1" colspan="1">28</td><td align="center" rowspan="1" colspan="1">M</td><td align="center" rowspan="1" colspan="1">225</td><td align="center" rowspan="1" colspan="1">40</td><td align="center" rowspan="1" colspan="1">105</td><td align="center" rowspan="1" colspan="1">TBI</td><td align="center" rowspan="1" colspan="1">R</td></tr><tr><td align="left" rowspan="1" colspan="1">S006</td><td align="center" rowspan="1" colspan="1">23</td><td align="center" rowspan="1" colspan="1">M</td><td align="center" rowspan="1" colspan="1">259</td><td align="center" rowspan="1" colspan="1">37</td><td align="center" rowspan="1" colspan="1">111</td><td align="center" rowspan="1" colspan="1">TBI</td><td align="center" rowspan="1" colspan="1">L</td></tr><tr><td align="left" rowspan="1" colspan="1">S007</td><td align="center" rowspan="1" colspan="1">30</td><td align="center" rowspan="1" colspan="1">M</td><td align="center" rowspan="1" colspan="1">4099</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">27</td><td align="center" rowspan="1" colspan="1">TBI</td><td align="center" rowspan="1" colspan="1">R</td></tr><tr><td align="left" rowspan="1" colspan="1">S008</td><td align="center" rowspan="1" colspan="1">45</td><td align="center" rowspan="1" colspan="1">M</td><td align="center" rowspan="1" colspan="1">503</td><td align="center" rowspan="1" colspan="1">12</td><td align="center" rowspan="1" colspan="1">23</td><td align="center" rowspan="1" colspan="1">TBI</td><td align="center" rowspan="1" colspan="1">R</td></tr><tr><td align="left" rowspan="1" colspan="1">S011</td><td align="center" rowspan="1" colspan="1">36</td><td align="center" rowspan="1" colspan="1">F</td><td align="center" rowspan="1" colspan="1">651</td><td align="center" rowspan="1" colspan="1">107</td><td align="center" rowspan="1" colspan="1">22</td><td align="center" rowspan="1" colspan="1">TBI</td><td align="center" rowspan="1" colspan="1">L</td></tr><tr><td align="left" rowspan="1" colspan="1">S013</td><td align="center" rowspan="1" colspan="1">28</td><td align="center" rowspan="1" colspan="1">M</td><td align="center" rowspan="1" colspan="1">436</td><td align="center" rowspan="1" colspan="1">187</td><td align="center" rowspan="1" colspan="1">65</td><td align="center" rowspan="1" colspan="1">TBI</td><td align="center" rowspan="1" colspan="1">L</td></tr><tr><td align="left" rowspan="1" colspan="1">S017</td><td align="center" rowspan="1" colspan="1">31</td><td align="center" rowspan="1" colspan="1">F</td><td align="center" rowspan="1" colspan="1">1019</td><td align="center" rowspan="1" colspan="1">41</td><td align="center" rowspan="1" colspan="1">32</td><td align="center" rowspan="1" colspan="1">TBI</td><td align="center" rowspan="1" colspan="1">R</td></tr><tr><td align="left" rowspan="1" colspan="1">S018</td><td align="center" rowspan="1" colspan="1">32</td><td align="center" rowspan="1" colspan="1">M</td><td align="center" rowspan="1" colspan="1">590</td><td align="center" rowspan="1" colspan="1">5</td><td align="center" rowspan="1" colspan="1">34</td><td align="center" rowspan="1" colspan="1">TBI</td><td align="center" rowspan="1" colspan="1">L</td></tr><tr><td align="left" rowspan="1" colspan="1">S019</td><td align="center" rowspan="1" colspan="1">22</td><td align="center" rowspan="1" colspan="1">M</td><td align="center" rowspan="1" colspan="1">509</td><td align="center" rowspan="1" colspan="1">5</td><td align="center" rowspan="1" colspan="1">24</td><td align="center" rowspan="1" colspan="1">Hemorrhagic stroke</td><td align="center" rowspan="1" colspan="1">R</td></tr><tr><td align="left" rowspan="1" colspan="1">Mean &#x000b1; SD</td><td align="center" rowspan="1" colspan="1">33.4 &#x000b1; 8.53</td><td align="center" rowspan="1" colspan="1">&#x02014;</td><td align="center" rowspan="1" colspan="1">793 &#x000b1; 956</td><td align="center" rowspan="1" colspan="1">34.5 &#x000b1; 50.2</td><td align="center" rowspan="1" colspan="1">56.1 &#x000b1; 33.2</td><td align="center" rowspan="1" colspan="1">&#x02014;</td><td align="center" rowspan="1" colspan="1">&#x02014;</td></tr></tbody></table><table-wrap-foot><fn id="jon70106-tbl1-note-0001"><p>
+<italic toggle="yes">Note</italic>: Values are mean &#x000b1; standard deviation (SD) unless otherwise noted. Subject ID is anonymized. &#x0201c;Time from hemicraniectomy to cranioplasty&#x0201d; indicates the duration (days) between decompressive craniectomy and reconstructive surgery. &#x0201c;Time from pre&#x02010;op MRI to cranioplasty&#x0201d; indicates the interval (days) between pre&#x02010;cranioplasty scan and the procedure. &#x0201c;Time from cranioplasty to post&#x02010;op MRI&#x0201d; indicates the interval (days) between surgery and follow&#x02010;up imaging.</p></fn><fn id="jon70106-tbl1-note-0002"><p>Abbreviations: L, left hemisphere; MRI, Magnetic Resonance Imaging; R, right hemisphere; TBI, traumatic brain injury.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="jon70106-sec-0080"><label>2.2</label><title>Study Design</title><p>Figure&#x000a0;<xref rid="jon70106-fig-0001" ref-type="fig">1</xref> illustrates the longitudinal study design and timeline of clinical events. Patients underwent hemicraniectomy due to TBI, ruptured aneurysm, or hemorrhagic stroke, followed by a pre&#x02010;operative MRI scan, cranioplasty, and a post&#x02010;operative MRI scan. The schematic also depicts the cranioplasty procedure, wherein a skull implant is placed to restore cranial integrity. This design enabled assessment of CBF, ATT, and Kw before and after surgical intervention.</p><fig position="float" fig-type="FIGURE" id="jon70106-fig-0001"><label>FIGURE 1</label><caption><p>Study design. Patients underwent hemicraniectomy due to traumatic brain injury (TBI), ruptured aneurysm, or hemorrhagic stroke, followed by a pre&#x02010;operative MRI scan, cranioplasty, and a post&#x02010;operative MRI scan. The schematic also depicts the cranioplasty procedure, where a skull implant (bone flap) is placed to restore cranial integrity. MEI, Magnetic Resonance Imaging.</p></caption><graphic xlink:href="JON-35-0-g003" position="anchor" id="jats-graphic-1"/></fig></sec><sec id="jon70106-sec-0090"><label>2.3</label><title>Imaging Protocol</title><p>MRI data were acquired at the Center for Image Acquisition at the Mark and Mary Stevens Neuroimaging and Informatics Institute using a 3T Siemens PRISMA scanner with a 32&#x02010;channel head coil. The imaging protocol consisted of anatomical Imaging using a T1&#x02010;weighted magnetization&#x02010;prepared rapid gradient&#x02010;echo sequence. The scan parameters were as follows: repetition time (TR) = 2300&#x000a0;ms, echo time (TE) = 2.98&#x000a0;ms, flip angle = 9&#x000b0;, slice thickness = 1&#x000a0;mm, field&#x02010;of&#x02010;view (FOV) = 256 &#x000d7; 240 mm<sup>2</sup>, and resolution = 1 &#x000d7; 1 &#x000d7; 1 mm<sup>3</sup>, 192 slices. Perfusion and BBB Kw imaging was performed using a 3D DP&#x02010;pCASL sequence with the following parameters: TR = 4000&#x000a0;ms, TE = 36.5&#x000a0;ms, FOV = 224&#x000a0;mm, resolution = 3.5 &#x000d7; 3.5 &#x000d7; 8 mm<sup>3</sup>, labeling/control duration = 1500&#x000a0;ms with optimized background suppression, total scan time = 10&#x000a0;min. A two&#x02010;stage approach was used during the scanning. First, 15 repetitions were acquired during the flow encoding arterial spin tagging scan at post&#x02010;labeling delay (PLD) = 900&#x000a0;ms and diffusion weighting (b&#x02010;value) of 0 and 14 s/mm<sup>2</sup> for estimating ATT. Then, 20 repetitions were acquired at PLD = 1800&#x000a0;ms, with b = 0 and 50 s/mm<sup>2</sup>, respectively, for estimating Kw.</p></sec><sec id="jon70106-sec-0100"><label>2.4</label><title>Data Processing and Analysis</title><p>MRI data were processed using the Laboratory of Functional MRI Technology (LOFT) BBB toolbox to derive whole&#x02010;brain and regional measurements of CBF, ATT, and Kw (<ext-link xlink:href="http://www.loft-lab.org/index-5.html" ext-link-type="uri">http://www.loft&#x02010;lab.org/index&#x02010;5.html</ext-link>). Details of the processing procedure were described previously [<xref rid="jon70106-bib-0015" ref-type="bibr">15</xref>]. Briefly, control/label images were first corrected for rigid head motion and then subtracted to obtain perfusion images. The tissue and capillary compartments of the arterial spin labeling (ASL) signal were then separated by a small diffusion gradient of 50 s/mm<sup>2</sup>. Finally, the Kw map was calculated using a total&#x02010;generalized&#x02010;variation regularized single&#x02010;pass approximation model using the tissue (or capillary) fraction of the ASL signal, incorporating ATT, T1 of arterial blood (1.66 s), and brain tissue as inputs for the algorithm. A voxel&#x02010;wise tissue T1 map was fitted from background&#x02010;suppressed control images acquired at two PLDs. CBF was also quantified at PLD = 1800&#x000a0;ms without diffusion preparation [<xref rid="jon70106-bib-0015" ref-type="bibr">15</xref>].</p><p>Regional analysis was conducted using in&#x02010;house MATLAB scripts, using a vascular territory template including the following four major vascular territories: Leptomeningeal Middle Cerebral Artery (Lepto MCA); Leptomeningeal Posterior Cerebral Artery (Lepto PCA); Leptomeningeal Anterior Cerebral Artery (Lepto ACA); and MCA perforator (MCA Perf) [<xref rid="jon70106-bib-0020" ref-type="bibr">20</xref>]. The CBF, ATT, and Kw maps were normalized to the Montreal Neurological Institute template using SPM12. Mean CBF, ATT, and Kw measurements in the ipsilateral and contralateral sides of the four vascular territories were obtained. To assess vascular asymmetry between the hemispheres, we calculated an asymmetry index for each parameter using the formula: Asymmetry = (Ipsilateral &#x02212; Contralateral) / (Ipsilateral + Contralateral).</p></sec><sec id="jon70106-sec-0110"><label>2.5</label><title>Statistical Analysis</title><p>The Wilcoxon signed&#x02010;rank test was used to evaluate significant differences between pre&#x02010; and post&#x02010;operative values for CBF, ATT, and Kw measurements, as well as their associated asymmetry metrics in the whole&#x02010;brain and the four vascular territories, respectively. A <italic toggle="yes">p</italic>&#x02010;value threshold of &#x0003c;0.05 (two&#x02010;sided) was considered statistically significant. No correction for multiple comparisons was performed due to the small sample size.</p></sec></sec><sec id="jon70106-sec-0120"><label>3</label><title>Results</title><p>Figure&#x000a0;<xref rid="jon70106-fig-0002" ref-type="fig">2</xref> presents CBF, ATT, and BBB Kw maps from a representative subject (37, M) before and after cranioplasty, along with corresponding global mean values. In this subject, global CBF increased, with reduced ATT post&#x02010;surgery. Global Kw decreased post&#x02010;surgery; however, the Kw was low on the lesion side (white arrow) pre&#x02010;surgery (Figure&#x000a0;<xref rid="jon70106-fig-0002" ref-type="fig">2A</xref>), which was reversed post&#x02010;surgery (Figure&#x000a0;<xref rid="jon70106-fig-0002" ref-type="fig">2B</xref>), resulting in improved asymmetry score of Kw in this subject.</p><fig position="float" fig-type="FIGURE" id="jon70106-fig-0002"><label>FIGURE 2</label><caption><p>Pre&#x02010;surgery (A) S000 pre. Kw is normal but seems lower on the lesion side (bottom arrow). CBF is low but symmetric (top arrow). Post&#x02010;surgery (B) S000 post. Kw is reduced and higher on the lesion side (bottom arrow). CBF increased (top arrow).</p></caption><graphic xlink:href="JON-35-0-g002" position="anchor" id="jats-graphic-3"/></fig><sec id="jon70106-sec-0130"><label>3.1</label><title>CBF Results</title><p>Quantitative analysis revealed significant improvement in CBF asymmetry within the MCA Perf territory (<italic toggle="yes">p</italic> = 0.013; Figure&#x000a0;<xref rid="jon70106-fig-0003" ref-type="fig">3A</xref>), primarily driven by an increase in ipsilateral CBF in the MCA Perf territory (<italic toggle="yes">p</italic> = 0.003; Figure&#x000a0;<xref rid="jon70106-fig-0003" ref-type="fig">3B</xref>). In the Lepto PCA territory, bilateral increases in CBF were observed (ipsilateral <italic toggle="yes">p</italic> = 0.020; Figure&#x000a0;<xref rid="jon70106-fig-0003" ref-type="fig">3C</xref>; contralateral <italic toggle="yes">p</italic> = 0.011; Figure&#x000a0;<xref rid="jon70106-fig-0003" ref-type="fig">3D</xref>), though CBF asymmetry did not significantly change (<italic toggle="yes">p</italic> = 0.855).</p><fig position="float" fig-type="FIGURE" id="jon70106-fig-0003"><label>FIGURE 3</label><caption><p>Improvements in CBF and asymmetry in MCA Perf and Lepto PCA territories. Bar graphs showing (A) decreased cerebral blood flow (CBF) asymmetry in the MCA perforator (MCA Perf) territory post&#x02010;cranioplasty (<italic toggle="yes">p</italic>&#x0003c;0.05). (B) Statistically significant increases in ipsilateral CBF in the MCA perf territory (<italic toggle="yes">p</italic>&#x0003c;0.05). (C) Ipsilateral CBF increase in the leptomeningeal posterior cerebral artery (Lepto PCA) territory. (D) Contralateral CBF increase in the Lepto PCA territory.</p></caption><graphic xlink:href="JON-35-0-g006" position="anchor" id="jats-graphic-5"/></fig><p>No significant changes in regional CBF or associated asymmetry were detected in the Lepto ACA or Lepto MCA territories for either hemisphere.</p></sec><sec id="jon70106-sec-0140"><label>3.2</label><title>BBB Kw Results</title><p>Post&#x02010;operative changes in BBB Kw were observed in the MCA Perf territory, with Kw asymmetry showing a borderline significant improvement (<italic toggle="yes">p</italic> = 0.049; Figure&#x000a0;<xref rid="jon70106-fig-0004" ref-type="fig">4</xref>), shifting from a large pre&#x02010;op imbalance to near&#x02010;symmetry post&#x02010;op.</p><fig position="float" fig-type="FIGURE" id="jon70106-fig-0004"><label>FIGURE 4</label><caption><p>Blood&#x02212;brain barrier water exchange rate asymmetry pre&#x02010; and post&#x02010;cranioplasty. Changes in blood&#x02212;brain barrier water exchange rate (Kw) asymmetry in the middle cerebral artery perforator (MCA Perf) territory before and after surgery. Post&#x02010;cranioplasty improvements reflect enhanced blood&#x02212;brain barrier water exchange in the impacted hemisphere (<italic toggle="yes">p</italic>&#x0003c;0.05).</p></caption><graphic xlink:href="JON-35-0-g004" position="anchor" id="jats-graphic-7"/></fig></sec><sec id="jon70106-sec-0150"><label>3.3</label><title>ATT Results</title><p>Figure&#x000a0;<xref rid="jon70106-fig-0005" ref-type="fig">5</xref> presents bar graphs of ATT asymmetry across vascular territories. Post&#x02010;cranioplasty, significant increases in ATT asymmetry were observed in the Lepto ACA (<italic toggle="yes">p</italic> = 0.030; Figure&#x000a0;<xref rid="jon70106-fig-0005" ref-type="fig">5A</xref>) and Lepto PCA territories (<italic toggle="yes">p</italic> = 0.007; Figure&#x000a0;<xref rid="jon70106-fig-0005" ref-type="fig">5B</xref>), indicating increased ipsilateral arrival times possibly related to localized vascular remodeling. No significant changes were observed in Lepto MCA, MCA Perf, or whole&#x02010;brain ATT.</p><fig position="float" fig-type="FIGURE" id="jon70106-fig-0005"><label>FIGURE 5</label><caption><p>Arterial transit time asymmetry in Lepto ACA and Lepto PCA. (A) Significant changes in arterial transit time asymmetry within the leptomeningeal anterior cerebral artery (Lepto ACA) (<italic toggle="yes">p</italic> &#x0003c; 0.05). (B) Significant changes in arterial transit time asymmetry within the leptomeningeal posterior cerebral artery (Lepto PCA) (<italic toggle="yes">p</italic> &#x0003c; 0.05). Asymmetry improved in the Lepto ACA, indicating more balanced transit times, while asymmetry worsened in the Lepto PCA, suggesting delayed perfusion or vascular remodeling on the impacted hemisphere.</p></caption><graphic xlink:href="JON-35-0-g001" position="anchor" id="jats-graphic-9"/></fig></sec><sec id="jon70106-sec-0160"><label>3.4</label><title>Whole&#x02010;Brain Analysis</title><p>Whole&#x02010;brain CBF showed a nonsignificant increasing trend post&#x02010;operatively compared to pre&#x02010;operative scans (<italic toggle="yes">p</italic> = 0.073; Figure&#x000a0;<xref rid="jon70106-fig-0006" ref-type="fig">6A</xref>). Whole&#x02010;brain ATT did not significantly change (Figure&#x000a0;<xref rid="jon70106-fig-0006" ref-type="fig">6B</xref>). Whole&#x02010;brain Kw values decreased slightly post&#x02010;cranioplasty; however, this change was not statistically significant (<italic toggle="yes">p</italic> = 0.332; Figure&#x000a0;<xref rid="jon70106-fig-0006" ref-type="fig">6C</xref>).</p><fig position="float" fig-type="FIGURE" id="jon70106-fig-0006"><label>FIGURE 6</label><caption><p>Whole&#x02010;brain averages of CBF, ATT, and Kw. Whole&#x02010;brain average values of CBF (A), ATT (B), and Kw (C) before and after cranioplasty. Only CBF exhibited a trend toward increasing post&#x02010;surgery (<italic toggle="yes">p</italic> = 0.073), with ATT and Kw changes not reaching statistical significance.</p></caption><graphic xlink:href="JON-35-0-g005" position="anchor" id="jats-graphic-11"/></fig></sec></sec><sec id="jon70106-sec-0170"><label>4</label><title>Discussion</title><p>Cranioplasty, performed to restore cranial integrity following DC, has been associated with notable improvements in neurological function, including cognition, motor control, and consciousness [<xref rid="jon70106-bib-0001" ref-type="bibr">1</xref>, <xref rid="jon70106-bib-0002" ref-type="bibr">2</xref>, <xref rid="jon70106-bib-0003" ref-type="bibr">3</xref>]. These functional gains are well&#x02010;documented across diverse patient populations, including those with TBI, stroke, and aneurysmal hemorrhage [<xref rid="jon70106-bib-0001" ref-type="bibr">1</xref>, <xref rid="jon70106-bib-0021" ref-type="bibr">21</xref>, <xref rid="jon70106-bib-0022" ref-type="bibr">22</xref>]. However, the mechanistic underpinnings of these improvements remain incompletely understood. Investigating cerebral hemodynamics and BBB function after cranioplasty may offer critical insights into the physiological processes that underlie recovery and inform more targeted rehabilitation strategies [<xref rid="jon70106-bib-0003" ref-type="bibr">3</xref>, <xref rid="jon70106-bib-0005" ref-type="bibr">5</xref>, <xref rid="jon70106-bib-0009" ref-type="bibr">9</xref>, <xref rid="jon70106-bib-0023" ref-type="bibr">23</xref>].</p><p>Our results demonstrate that cranioplasty yields measurable improvements in CBF and Kw, particularly in deep vascular territories like the MCA perforator region. Changes in ATT indicate ongoing vascular adaptation post&#x02010;surgery, across anterior and posterior territories. These findings support a mechanobiological framework for post&#x02010;cranioplasty neurovascular recovery, in which restoration of skull integrity influences intracranial pressure dynamics, vascular compliance, and neurovascular coupling [<xref rid="jon70106-bib-0003" ref-type="bibr">3</xref>, <xref rid="jon70106-bib-0007" ref-type="bibr">7</xref>, <xref rid="jon70106-bib-0012" ref-type="bibr">12</xref>, <xref rid="jon70106-bib-0015" ref-type="bibr">15</xref>, <xref rid="jon70106-bib-0020" ref-type="bibr">20</xref>, <xref rid="jon70106-bib-0024" ref-type="bibr">24</xref>].</p><p>In particular, physiological parameters such as CBF, ATT, and Kw can serve as noninvasive indicators of vascular health, neurovascular coupling, and mechanobiological integrity. CBF reflects the volume of blood delivered to brain tissue per unit time and is a direct indicator of tissue perfusion. ATT measures the time it takes for labeled arterial blood to reach the brain tissue, offering information about vascular transit dynamics. Kw, the BBB water exchange rate, quantifies how fast water molecules cross the BBB, which can be slowed after brain injury or surgery [<xref rid="jon70106-bib-0015" ref-type="bibr">15</xref>, <xref rid="jon70106-bib-0016" ref-type="bibr">16</xref>, <xref rid="jon70106-bib-0017" ref-type="bibr">17</xref>]. Prior studies have shown that alterations in these parameters are linked to various neurological outcomes, and their normalization may reflect restoration of vascular function and brain homeostasis following skull reconstruction [<xref rid="jon70106-bib-0001" ref-type="bibr">1</xref>, <xref rid="jon70106-bib-0003" ref-type="bibr">3</xref>, <xref rid="jon70106-bib-0022" ref-type="bibr">22</xref>, <xref rid="jon70106-bib-0025" ref-type="bibr">25</xref>].</p><p>In this study, we observed significant improvements in CBF and Kw asymmetry following cranioplasty, especially within the MCA Perf territory. These changes suggest enhanced perfusion and BBB functionality in the hemisphere previously affected by mechanical disruption. The MCA Perf territory encompasses deep subcortical structures such as the caudate, putamen, and internal capsule&#x02014;regions critically involved in cognition, executive function, and motor coordination [<xref rid="jon70106-bib-0026" ref-type="bibr">26</xref>, <xref rid="jon70106-bib-0027" ref-type="bibr">27</xref>]. These structures are supplied by small perforating arteries that branch from the M1 segment of the MCA and are particularly vulnerable to ischemia, edema, and mass effect due to their end&#x02010;arterial nature and lack of collateral supply [<xref rid="jon70106-bib-0026" ref-type="bibr">26</xref>, <xref rid="jon70106-bib-0028" ref-type="bibr">28</xref>, <xref rid="jon70106-bib-0029" ref-type="bibr">29</xref>].</p><p>In TBI, the MCA Perf region is frequently compromised due to its anatomical proximity to common sites of contusion and diffuse axonal injury. Hemorrhagic lesions, cytotoxic edema, and elevated intracranial pressure can all impair perfusion in this territory, leading to secondary injury and functional deficits [<xref rid="jon70106-bib-0009" ref-type="bibr">9</xref>, <xref rid="jon70106-bib-0027" ref-type="bibr">27</xref>]. Similarly, in ischemic stroke, MCA perforators are often involved in large&#x02010;vessel occlusions or malignant infarctions, resulting in profound neurological impairment [<xref rid="jon70106-bib-0020" ref-type="bibr">20</xref>]. Restoration of perfusion and BBB transport in this region may, therefore, be essential for recovery, particularly in patients with motor or cognitive deficits. Our findings align with prior studies showing that perfusion deficits in the MCA Perf territory are associated with worse outcomes, and that targeted revascularization or decompression can improve function [<xref rid="jon70106-bib-0003" ref-type="bibr">3</xref>, <xref rid="jon70106-bib-0028" ref-type="bibr">28</xref>].</p><p>The observed improvements in CBF within the MCA Perf territory are consistent with prior imaging studies demonstrating regional perfusion gains after cranioplasty. Galiana et&#x000a0;al. used SPECT&#x02010;CT to show increased cortical perfusion post&#x02010;cranioplasty, particularly in the posterior cingulate cortex, which may underlie improvements in attention and cognition [<xref rid="jon70106-bib-0030" ref-type="bibr">30</xref>]. Paredes et&#x000a0;al. observed that Doppler&#x02010;based cerebral hemodynamic abnormalities resolved after cranioplasty, indicating early postoperative physiologic normalization [<xref rid="jon70106-bib-0022" ref-type="bibr">22</xref>]. Our findings extend this work by showing that perfusion gains are not limited to cortical territories but also involve deep perforator regions, which may be especially relevant in TBI populations.</p><p>Kw asymmetry also improved significantly in the MCA Perf territory, suggesting enhanced BBB water transport post&#x02010;cranioplasty. Kw has emerged as a sensitive marker of BBB function, with prior studies linking it to CSF amyloid&#x02010;&#x003b2;42 levels [<xref rid="jon70106-bib-0018" ref-type="bibr">18</xref>] and, more recently, to plasma p&#x02010;tau 217&#x02014;a biomarker of Alzheimer's pathology [<xref rid="jon70106-bib-0019" ref-type="bibr">19</xref>]. Chen et&#x000a0;al. demonstrated that lower Kw is associated with higher p&#x02010;tau 217 levels, suggesting that impaired water exchange may reflect early neurovascular dysfunction in neurodegenerative disease [<xref rid="jon70106-bib-0019" ref-type="bibr">19</xref>]. In the context of acute brain injury, Kw may similarly reflect BBB disruption due to mechanical stress, inflammation, or ischemia. The borderline significant improvement in Kw asymmetry observed here may reflect subtle BBB recovery in regions previously exposed to such insults. Although whole&#x02010;brain Kw did not change significantly, regional improvements may be more functionally relevant, particularly in areas like the MCA Perf that support motor and cognitive recovery.</p><p>Notably, we also observed bilateral CBF increases in the posterior cerebral artery region and region&#x02010;specific changes in ATT asymmetry. ATT asymmetry increased in both the Lepto ACA territory and Lepto PCA territory, indicating that vascular remodeling and perfusion dynamics change across vascular territories. These spatial patterns imply that the effects of cranioplasty extend beyond the surgical site, potentially modulating perfusion across broader cerebral networks. Prior studies have shown that cerebral autoregulation and transit times can shift following skull reconstruction, particularly in regions with pre&#x02010;existing perfusion deficits or altered collateral flow [<xref rid="jon70106-bib-0006" ref-type="bibr">6</xref>, <xref rid="jon70106-bib-0012" ref-type="bibr">12</xref>]. The ATT alterations were region&#x02010;specific, observed in the ACA and PCA but not in the MCA perforator territories. This regional specificity may indicate differences across superficial versus deep vascular networks in their reorganization following cranioplasty. Because the leptomeningeal branches of the ACA and PCA supply cortical regions, we hypothesize that these territories are more prone to surface pressure normalization and collateral flow adjustments following cranial reconstruction. This may explain the observed spatial specificity in hemodynamic changes, while the absence of global ATT alterations further supports that perfusion recovery after cranioplasty is primarily a localized response as opposed to a global hemodynamic shift.</p><p>The mechanism by which cranioplasty improves CBF and Kw likely involves the restoration of intracranial pressure gradients, normalization of CSF dynamics, and reestablishment of vascular compliance. The absence of the skull alters the transmission of atmospheric pressure, leading to cortical deformation, venous congestion, and impaired autoregulation&#x02014;a phenomenon often described as &#x0201c;syndrome of the trephined&#x0201d; [<xref rid="jon70106-bib-0012" ref-type="bibr">12</xref>, <xref rid="jon70106-bib-0024" ref-type="bibr">24</xref>]. Cranioplasty reverses these effects by restoring the cranial vault, which improves cerebral perfusion, reduces transit delays, and enhances BBB water transport [<xref rid="jon70106-bib-0003" ref-type="bibr">3</xref>, <xref rid="jon70106-bib-0012" ref-type="bibr">12</xref>, <xref rid="jon70106-bib-0015" ref-type="bibr">15</xref>]. Studies using CT perfusion, SPECT, and ASL have consistently shown increases in CBF following cranioplasty, particularly in the ipsilateral hemisphere [<xref rid="jon70106-bib-0017" ref-type="bibr">17</xref>, <xref rid="jon70106-bib-0030" ref-type="bibr">30</xref>, <xref rid="jon70106-bib-0031" ref-type="bibr">31</xref>]. Similarly, Kw has been shown to correlate with BBB integrity and is sensitive to subtle changes in water exchange dynamics, making it a promising biomarker for post&#x02010;surgical recovery [<xref rid="jon70106-bib-0017" ref-type="bibr">17</xref>, <xref rid="jon70106-bib-0018" ref-type="bibr">18</xref>, <xref rid="jon70106-bib-0032" ref-type="bibr">32</xref>]. Beyond the hemodynamic changes in the context of cranioplasty, Kw is emerging as a clinically relevant biomarker across other neuropathologies. This technique has been applied in the early stages of the Alzheimer's continuum, where Kw has been shown to correlate with APOE &#x0025b;4 carrier status, brain iron and &#x003b2;&#x02010;amyloid burden, and neuropsychological performance [<xref rid="jon70106-bib-0033" ref-type="bibr">33</xref>]. Moreover, neuroimaging studies have demonstrated associations between BBB Kw and iron dynamics in the developing brain during childhood [<xref rid="jon70106-bib-0034" ref-type="bibr">34</xref>]. With our growing understanding on the role of BBB diffusivity in physiological and pathological states, Kw may find broader adoption in research and clinic.</p><p>Overall, our findings support a CNS mechanobiology framework in which mechanical restoration influences vascular physiology and neurovascular coupling [<xref rid="jon70106-bib-0007" ref-type="bibr">7</xref>, <xref rid="jon70106-bib-0008" ref-type="bibr">8</xref>, <xref rid="jon70106-bib-0012" ref-type="bibr">12</xref>]. The skull is not merely a protective shell but an active participant in maintaining intracranial homeostasis. Its removal disrupts pressure gradients, CSF flow, and vascular tone, while its restoration reestablishes the biomechanical environment necessary for optimal neurovascular function. Incorporating biomarkers such as CBF, ATT, and Kw into future clinical studies may help characterize individual recovery trajectories and inform patient&#x02010;specific rehabilitation strategies following cranioplasty.</p><p>This study is limited by a relatively small sample size and a lack of long&#x02010;term clinical outcome correlation, which may constrain the generalizability of the findings. While we observed robust imaging changes, we did not collect standardized cognitive or functional outcome measures post&#x02010;operatively for all patients. Future studies should integrate neuropsychological assessments, quality&#x02010;of&#x02010;life metrics, and longitudinal follow&#x02010;up to determine whether improvements in perfusion and BBB function translate into sustained clinical benefit. Additionally, the heterogeneity in timing between hemicraniectomy and cranioplasty, as well as variability in injury etiology, may introduce confounding effects that warrant further investigation in larger, stratified cohorts. More specifically, the timing of post&#x02010;surgical MRI varied among participants, and most cranioplasties in our cohort were inadvertently performed well beyond the acute recovery window. Given that early cranial reconstruction is generally associated with better outcomes, the delayed timing in our cohort may have led to an underestimation of the extent of hemodynamic recovery.</p><p>Given the exploratory nature of this study and the small, heterogeneous sample, it is not yet possible to draw definitive conclusions about the relationship between hemodynamic and BBB changes and cognitive or functional recovery. Nevertheless, these findings lay important groundwork for future studies that aim to integrate imaging biomarkers such as CBF, ATT, and Kw with neurocognitive and clinical outcomes. A larger, prospectively designed study with standardized neuropsychological testing and stratified patient cohorts is planned to further evaluate these correlations and to better account for confounding factors such as injury mechanism, timing between hemicraniectomy and cranioplasty, and variability in perioperative care. Such efforts will help clarify how changes in perfusion and BBB function translate to neurological recovery and may inform evidence&#x02010;based recommendations regarding the timing of cranioplasty.</p><p>This study demonstrates that cranioplasty significantly improves cerebral perfusion and BBB water exchange, particularly in territories adjacent to the site of injury. Improvements in perfusion asymmetry and vascular function underscore the mechanobiological role of cranioplasty in recovery and suggest that DP&#x02010;pCASL&#x02010;derived metrics may be valuable for monitoring post&#x02010;surgical outcomes. By identifying potential imaging biomarkers of neurological recovery, this work lays the foundation for future studies to explore targeted interventions and personalized rehabilitation strategies in patients with TBI, ruptured aneurysm, or hemorrhagic stroke.</p></sec><sec id="jon70106-sec-0190"><title>Funding</title><p>This work was supported by the National Institutes of Health (NIH) under grants R01NS134712 and R01NS114382, as well as by the NIH Office of the Director, Instrumentation Grant S10OD032285.</p></sec><sec sec-type="COI-statement" id="jon70106-sec-0200"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec id="jon70106-sec-0210"><title>Disclosure</title><p>The authors declare no disclosures relevant to this work.</p></sec></body><back><ack id="jon70106-sec-0180"><title>Acknowledgments</title><p>The authors are grateful to the participants and their families for volunteering for the study. This work was additionally supported by the USC Neurorestoration Center.</p></ack><ref-list id="jon70106-bibl-0001"><title>References</title><ref id="jon70106-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jon70106-cite-0001">
+<string-name>
+<given-names>A. H.</given-names>
+<surname>Shahid</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Mohanty</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Singla</surname>
+</string-name>, <string-name>
+<given-names>B. R.</given-names>
+<surname>Mittal</surname>
+</string-name>, and <string-name>
+<given-names>S. K.</given-names>
+<surname>Gupta</surname>
+</string-name>, &#x0201c;<article-title>The Effect of Cranioplasty Following Decompressive Craniectomy on Cerebral Blood Perfusion, Neurological, and Cognitive Outcome</article-title>,&#x0201d; <source>Journal of Neurosurgery</source>
+<volume>128</volume>, no. <issue>1</issue> (<year>2018</year>): <fpage>229</fpage>&#x02013;<lpage>235</lpage>, <pub-id pub-id-type="doi">10.3171/2016.10.JNS16678</pub-id>.<pub-id pub-id-type="pmid">28298042</pub-id>
+</mixed-citation></ref><ref id="jon70106-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jon70106-cite-0002">
+<string-name>
+<given-names>S.</given-names>
+<surname>Chibbaro</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Vallee</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Beccaria</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>The Impact of Early Cranioplasty on Cerebral Blood Flow and its Correlation With Neurological and Cognitive Outcome. Prospective Multi&#x02010;Centre Study on 24 Patients</article-title>,&#x0201d; <source>Revue Neurologique</source>
+<volume>169</volume>, no. <issue>3</issue> (<year>2013</year>): <fpage>240</fpage>&#x02013;<lpage>248</lpage>, <pub-id pub-id-type="doi">10.1016/j.neurol.2012.06.016</pub-id>.<pub-id pub-id-type="pmid">23084153</pub-id>
+</mixed-citation></ref><ref id="jon70106-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jon70106-cite-0003">
+<string-name>
+<given-names>S. H.</given-names>
+<surname>Halani</surname>
+</string-name>, <string-name>
+<given-names>J. K.</given-names>
+<surname>Chu</surname>
+</string-name>, <string-name>
+<given-names>J. G.</given-names>
+<surname>Malcolm</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Effects of Cranioplasty on Cerebral Blood Flow Following Decompressive Craniectomy: A Systematic Review of the Literature</article-title>,&#x0201d; <source>Neurosurgery</source>
+<volume>81</volume>, no. <issue>2</issue> (<year>2017</year>): <fpage>204</fpage>&#x02013;<lpage>216</lpage>, <pub-id pub-id-type="doi">10.1093/neuros/nyx054</pub-id>.<pub-id pub-id-type="pmid">28368505</pub-id>
+</mixed-citation></ref><ref id="jon70106-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jon70106-cite-0004">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Xue</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Che</surname>
+</string-name>, and <string-name>
+<given-names>Z.</given-names>
+<surname>Yan</surname>
+</string-name>, &#x0201c;<article-title>Early Cranioplasty Versus Traditional Cranioplasty Enhances Surgical Outcomes in Patients With Malignant Cerebral Infarction After Decompressive Craniectomy</article-title>,&#x0201d; <source>BMC Surgery [Electronic Resource]</source>
+<volume>25</volume>, no. <issue>1</issue> (<year>2025</year>): <fpage>205</fpage>, <pub-id pub-id-type="doi">10.1186/s12893-025-02943-4</pub-id>.<pub-id pub-id-type="pmid">40361139</pub-id>
+</mixed-citation></ref><ref id="jon70106-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jon70106-cite-0005">
+<string-name>
+<given-names>M.</given-names>
+<surname>Agrawal</surname>
+</string-name> and <string-name>
+<given-names>K.</given-names>
+<surname>Mishra</surname>
+</string-name>, &#x0201c;<article-title>Neurocognitive Outcome Post Cranioplasty: The Role of Cerebral Hemodynamics and Cerebrospinal Fluid Dynamics</article-title>,&#x0201d; <source>Surgical Neurology International</source>
+<volume>15</volume> (<year>2024</year>): <fpage>204</fpage>, <pub-id pub-id-type="doi">10.25259/SNI_1003_2023</pub-id>.<pub-id pub-id-type="pmid">38974537</pub-id>
+</mixed-citation></ref><ref id="jon70106-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jon70106-cite-0006">
+<string-name>
+<given-names>K.</given-names>
+<surname>Yoshida</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Furuse</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Izawa</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Iizima</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kuchiwaki</surname>
+</string-name>, and <string-name>
+<given-names>S.</given-names>
+<surname>Inao</surname>
+</string-name>, &#x0201c;<article-title>Dynamics of Cerebral Blood Flow and Metabolism in Patients With Cranioplasty as Evaluated by 133Xe CT and 31P Magnetic Resonance Spectroscopy</article-title>,&#x0201d; <source>Journal of Neurology, Neurosurgery, and Psychiatry</source>
+<volume>61</volume>, no. <issue>2</issue> (<year>1996</year>): <fpage>166</fpage>&#x02013;<lpage>171</lpage>, <pub-id pub-id-type="doi">10.1136/jnnp.61.2.166</pub-id>.<pub-id pub-id-type="pmid">8708684</pub-id>
+</mixed-citation></ref><ref id="jon70106-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jon70106-cite-0007">
+<string-name>
+<given-names>A.</given-names>
+<surname>Proc&#x000e8;s</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Luciano</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Kalukula</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Ris</surname>
+</string-name>, and <string-name>
+<given-names>S.</given-names>
+<surname>Gabriele</surname>
+</string-name>, &#x0201c;<article-title>Multiscale Mechanobiology in Brain Physiology and Diseases</article-title>,&#x0201d; <source>Frontiers in Cell and Developmental Biology</source>
+<volume>10</volume> (<year>2022</year>): <elocation-id>823857</elocation-id>, <pub-id pub-id-type="doi">10.3389/fcell.2022.823857</pub-id>.<pub-id pub-id-type="pmid">35419366</pub-id>
+</mixed-citation></ref><ref id="jon70106-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jon70106-cite-0008">
+<string-name>
+<given-names>N.</given-names>
+<surname>Reiter</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Paulsen</surname>
+</string-name>, and <string-name>
+<given-names>S.</given-names>
+<surname>Budday</surname>
+</string-name>, &#x0201c;<article-title>Mechanisms of Mechanical Load Transfer Through Brain Tissue</article-title>,&#x0201d; <source>Scientific Reports</source>
+<volume>13</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>8703</fpage>, <pub-id pub-id-type="doi">10.1038/s41598-023-35768-3</pub-id>.<pub-id pub-id-type="pmid">37248296</pub-id>
+</mixed-citation></ref><ref id="jon70106-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jon70106-cite-0009">
+<string-name>
+<given-names>K. M.</given-names>
+<surname>Ho</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Honeybul</surname>
+</string-name>, <string-name>
+<given-names>C. B.</given-names>
+<surname>Yip</surname>
+</string-name>, and <string-name>
+<given-names>B. I.</given-names>
+<surname>Silbert</surname>
+</string-name>, &#x0201c;<article-title>Prognostic Significance of Blood&#x02212;Brain Barrier Disruption in Patients With Severe Nonpenetrating Traumatic Brain Injury Requiring Decompressive Craniectomy</article-title>,&#x0201d; <source>Journal of Neurosurgery</source>
+<volume>121</volume>, no. <issue>3</issue> (<year>2014</year>): <fpage>674</fpage>&#x02013;<lpage>679</lpage>, <pub-id pub-id-type="doi">10.3171/2014.6.JNS132838</pub-id>.<pub-id pub-id-type="pmid">25036202</pub-id>
+</mixed-citation></ref><ref id="jon70106-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jon70106-cite-0010">
+<string-name>
+<given-names>A.</given-names>
+<surname>Vedantam</surname>
+</string-name>, <string-name>
+<given-names>C. S.</given-names>
+<surname>Robertson</surname>
+</string-name>, and <string-name>
+<given-names>S. P.</given-names>
+<surname>Gopinath</surname>
+</string-name>, &#x0201c;<article-title>Quantitative Cerebral Blood Flow Using Xenon&#x02010;Enhanced CT After Decompressive Craniectomy in Traumatic Brain Injury</article-title>,&#x0201d; <source>Journal of Neurosurgery</source>
+<volume>129</volume>, no. <issue>1</issue> (<year>2018</year>): <fpage>241</fpage>&#x02013;<lpage>246</lpage>, <pub-id pub-id-type="doi">10.3171/2017.4.JNS163036</pub-id>.<pub-id pub-id-type="pmid">29027859</pub-id>
+</mixed-citation></ref><ref id="jon70106-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jon70106-cite-0011">
+<string-name>
+<given-names>S.</given-names>
+<surname>Tomura</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Nawashiro</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Otani</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Effect of Decompressive Craniectomy on Aquaporin&#x02010;4 Expression After Lateral Fluid Percussion Injury in Rats</article-title>,&#x0201d; <source>Journal of Neurotrauma</source>
+<volume>28</volume>, no. <issue>2</issue> (<year>2011</year>): <fpage>237</fpage>&#x02013;<lpage>243</lpage>, <pub-id pub-id-type="doi">10.1089/neu.2010.1443</pub-id>.<pub-id pub-id-type="pmid">21083433</pub-id>
+</mixed-citation></ref><ref id="jon70106-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jon70106-cite-0012">
+<string-name>
+<given-names>A.</given-names>
+<surname>Lilja&#x02010;Cyron</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Andresen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kelsen</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Intracranial Pressure Before and After Cranioplasty: Insights Into Intracranial Physiology</article-title>,&#x0201d; <source>Journal of Neurosurgery</source>
+<volume>133</volume>, no. <issue>5</issue> (<year>2020</year>): <fpage>1548</fpage>&#x02013;<lpage>1558</lpage>, <pub-id pub-id-type="doi">10.3171/2019.7.JNS191077</pub-id>.<pub-id pub-id-type="pmid">31628275</pub-id>
+</mixed-citation></ref><ref id="jon70106-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jon70106-cite-0013">
+<string-name>
+<given-names>H.</given-names>
+<surname>Mee</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Anwar</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Timofeev</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Cranioplasty: A Multidisciplinary Approach</article-title>,&#x0201d; <source>Frontiers in Surgery</source>
+<volume>9</volume> (<year>2022</year>): <elocation-id>864385</elocation-id>, <pub-id pub-id-type="doi">10.3389/fsurg.2022.864385</pub-id>.<pub-id pub-id-type="pmid">35656088</pub-id>
+</mixed-citation></ref><ref id="jon70106-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jon70106-cite-0014">
+<string-name>
+<given-names>X.</given-names>
+<surname>Shao</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Shou</surname>
+</string-name>, <string-name>
+<given-names>K. S.</given-names>
+<surname>st Lawrence</surname>
+</string-name>, and <string-name>
+<given-names>D. J. J.</given-names>
+<surname>Wang</surname>
+</string-name>, &#x0201c;<article-title>Quantification of Blood&#x02212;Brain Barrier Water Exchange and Permeability With Multidelay Diffusion&#x02010;Weighted Pseudo&#x02010;Continuous Arterial Spin Labeling</article-title>,&#x0201d; <source>Magnetic Resonance in Medicine</source>
+<volume>89</volume>, no. <issue>5</issue> (<year>2023</year>): <fpage>1990</fpage>&#x02013;<lpage>2004</lpage>, <pub-id pub-id-type="doi">10.1002/mrm.29581</pub-id>.<pub-id pub-id-type="pmid">36622951</pub-id>
+</mixed-citation></ref><ref id="jon70106-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jon70106-cite-0015">
+<string-name>
+<given-names>X.</given-names>
+<surname>Shao</surname>
+</string-name>, <string-name>
+<given-names>S. J.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Casey</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>D'Orazio</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Ringman</surname>
+</string-name>, and <string-name>
+<given-names>D. J. J.</given-names>
+<surname>Wang</surname>
+</string-name>, &#x0201c;<article-title>Mapping Water Exchange Across the Blood&#x02212;Brain Barrier Using 3D Diffusion&#x02010;Prepared Arterial Spin Labeled Perfusion MRI</article-title>,&#x0201d; <source>Magnetic Resonance in Medicine</source>
+<volume>81</volume>, no. <issue>5</issue> (<year>2019</year>): <fpage>3065</fpage>&#x02013;<lpage>3079</lpage>, <pub-id pub-id-type="doi">10.1002/mrm.27632</pub-id>.<pub-id pub-id-type="pmid">30561821</pub-id>
+</mixed-citation></ref><ref id="jon70106-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jon70106-cite-0016">
+<string-name>
+<given-names>C.</given-names>
+<surname>Ling</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Shao</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Diffusion Prepared Pseudo&#x02010;Continuous Arterial Spin Labeling Reveals Blood&#x02212;Brain Barrier Dysfunction in Patients With CADASIL</article-title>,&#x0201d; <source>European Radiology</source>
+<volume>33</volume>, no. <issue>10</issue> (<year>2023</year>): <fpage>6959</fpage>&#x02013;<lpage>6969</lpage>, <pub-id pub-id-type="doi">10.1007/s00330-023-09652-7</pub-id>.<pub-id pub-id-type="pmid">37099178</pub-id>
+</mixed-citation></ref><ref id="jon70106-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jon70106-cite-0017">
+<string-name>
+<given-names>X.</given-names>
+<surname>Shao</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Shou</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Felix</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Age&#x02010;Related Decline in Blood&#x02212;Brain Barrier Function Is More Pronounced in Males Than Females in Parietal and Temporal Regions</article-title>,&#x0201d; <source>BioRxiv</source> (<year>2024</year>), <pub-id pub-id-type="doi">10.1101/2024.01.12.575463</pub-id>.</mixed-citation></ref><ref id="jon70106-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jon70106-cite-0018">
+<string-name>
+<given-names>B. T.</given-names>
+<surname>Gold</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Shao</surname>
+</string-name>, <string-name>
+<given-names>T. L.</given-names>
+<surname>Sudduth</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Water Exchange Rate Across the Blood&#x02212;Brain Barrier Is Associated With CSF Amyloid&#x02010;&#x003b2; 42 in Healthy Older Adults</article-title>,&#x0201d; <source>Alzheimer's&#x000a0;&#x00026;&#x000a0;Dementia</source>
+<volume>17</volume>, no. <issue>12</issue> (<year>2021</year>): <fpage>2020</fpage>&#x02013;<lpage>2029</lpage>, <pub-id pub-id-type="doi">10.1002/alz.12357</pub-id>.</mixed-citation></ref><ref id="jon70106-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jon70106-cite-0019">
+<string-name>
+<given-names>G.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Shao</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Decreased Water Exchange Rate Across the Blood&#x02212;Brain Barrier Throughout the Alzheimer's Disease Continuum: Evidence From Chinese Data</article-title>,&#x0201d; <source>Alzheimer's &#x00026; Dementia</source>
+<volume>21</volume>, no. <issue>3</issue> (<year>2025</year>): <elocation-id>e70089</elocation-id>, <pub-id pub-id-type="doi">10.1002/alz.70089</pub-id>.</mixed-citation></ref><ref id="jon70106-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jon70106-cite-0020">
+<string-name>
+<given-names>L.</given-names>
+<surname>Tatu</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Moulin</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Bogousslavsky</surname>
+</string-name>, and <string-name>
+<given-names>H.</given-names>
+<surname>Duvernoy</surname>
+</string-name>, &#x0201c;<article-title>Arterial Territories of the Human Brain: Cerebral Hemispheres</article-title>,&#x0201d; <source>Neurology</source>
+<volume>50</volume>, no. <issue>6</issue> (<year>1998</year>): <fpage>1699</fpage>&#x02013;<lpage>1708</lpage>, <pub-id pub-id-type="doi">10.1212/wnl.50.6.1699</pub-id>.<pub-id pub-id-type="pmid">9633714</pub-id>
+</mixed-citation></ref><ref id="jon70106-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jon70106-cite-0021">
+<string-name>
+<given-names>J. G.</given-names>
+<surname>Malcolm</surname>
+</string-name>, <string-name>
+<given-names>R. S.</given-names>
+<surname>Rindler</surname>
+</string-name>, <string-name>
+<given-names>J. K.</given-names>
+<surname>Chu</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Early Cranioplasty Is Associated With Greater Neurological Improvement: A Systematic Review and Meta&#x02010;Analysis</article-title>,&#x0201d; <source>Neurosurgery</source>
+<volume>82</volume>, no. <issue>3</issue> (<year>2018</year>): <fpage>278</fpage>&#x02013;<lpage>288</lpage>, <pub-id pub-id-type="doi">10.1093/neuros/nyx182</pub-id>.<pub-id pub-id-type="pmid">28419358</pub-id>
+</mixed-citation></ref><ref id="jon70106-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jon70106-cite-0022">
+<string-name>
+<given-names>I.</given-names>
+<surname>Paredes</surname>
+</string-name>, <string-name>
+<given-names>J. A. F.</given-names>
+<surname>Al&#x000e9;n</surname>
+</string-name>, <string-name>
+<given-names>A. M.</given-names>
+<surname>Casta&#x000f1;o&#x02010;Le&#x000f3;n</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Clinical Improvement After Cranioplasty and its Relation to Body Position and Cerebral Hemodynamics</article-title>,&#x0201d; <source>Neurosurgical Review</source>
+<volume>45</volume>, no. <issue>2</issue> (<year>2022</year>): <fpage>1463</fpage>&#x02013;<lpage>1472</lpage>.<pub-id pub-id-type="pmid">34626266</pub-id>
+</mixed-citation></ref><ref id="jon70106-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jon70106-cite-0023">
+<string-name>
+<given-names>B.</given-names>
+<surname>Ozoner</surname>
+</string-name>, &#x0201c;<article-title>Cranioplasty Following Severe Traumatic Brain Injury: Role in Neurorecovery</article-title>,&#x0201d; <source>Current Neurology and Neuroscience Reports</source>
+<volume>21</volume>, no. <issue>11</issue> (<year>2021</year>): <fpage>62</fpage>, <pub-id pub-id-type="doi">10.1007/s11910-021-01147-6</pub-id>.<pub-id pub-id-type="pmid">34674047</pub-id>
+</mixed-citation></ref><ref id="jon70106-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jon70106-cite-0024">
+<string-name>
+<given-names>C. M.</given-names>
+<surname>Mustroph</surname>
+</string-name>, <string-name>
+<given-names>C. M.</given-names>
+<surname>Stewart</surname>
+</string-name>, <string-name>
+<given-names>L. M.</given-names>
+<surname>Mann</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Saberian</surname>
+</string-name>, <string-name>
+<given-names>C. P.</given-names>
+<surname>Deibert</surname>
+</string-name>, and <string-name>
+<given-names>P. W.</given-names>
+<surname>Thompson</surname>
+</string-name>, &#x0201c;<article-title>Systematic Review of Syndrome of the Trephined and Reconstructive Implications</article-title>,&#x0201d; <source>Journal of Craniofacial Surgery</source>
+<volume>33</volume>, no. <issue>6</issue> (<year>2022</year>): <fpage>e647</fpage>&#x02013;<lpage>e652</lpage>, <pub-id pub-id-type="doi">10.1097/SCS.0000000000008724</pub-id>.<pub-id pub-id-type="pmid">36054899</pub-id>
+</mixed-citation></ref><ref id="jon70106-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jon70106-cite-0025">
+<string-name>
+<given-names>J. R.</given-names>
+<surname>Kuo</surname>
+</string-name>, <string-name>
+<given-names>C. C.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>C. C.</given-names>
+<surname>Chio</surname>
+</string-name>, and <string-name>
+<given-names>T. J.</given-names>
+<surname>Cheng</surname>
+</string-name>, &#x0201c;<article-title>Neurological Improvement After Cranioplasty&#x02014;Analysis by Transcranial Doppler Ultrasonography</article-title>,&#x0201d; <source>Journal of Clinical Neuroscience</source>
+<volume>11</volume>, no. <issue>5</issue> (<year>2004</year>): <fpage>486</fpage>&#x02013;<lpage>489</lpage>, <pub-id pub-id-type="doi">10.1016/j.jocn.2003.06.005</pub-id>.<pub-id pub-id-type="pmid">15177389</pub-id>
+</mixed-citation></ref><ref id="jon70106-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jon70106-cite-0026">
+<string-name>
+<given-names>S.</given-names>
+<surname>Marinkovic</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Gibo</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Milisavljevic</surname>
+</string-name>, and <string-name>
+<given-names>M.</given-names>
+<surname>Cetkovic</surname>
+</string-name>, &#x0201c;<article-title>Anatomic and Clinical Correlations of the Lenticulostriate Arteries</article-title>,&#x0201d; <source>Clinical Anatomy</source>
+<volume>14</volume>, no. <issue>3</issue> (<year>2001</year>): <fpage>190</fpage>&#x02013;<lpage>195</lpage>, <pub-id pub-id-type="doi">10.1002/ca.1032</pub-id>.<pub-id pub-id-type="pmid">11301466</pub-id>
+</mixed-citation></ref><ref id="jon70106-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jon70106-cite-0027">
+<string-name>
+<given-names>I.</given-names>
+<surname>Leunissen</surname>
+</string-name>, <string-name>
+<given-names>J. P.</given-names>
+<surname>Coxon</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Caeyenberghs</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Michiels</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Sunaert</surname>
+</string-name>, and <string-name>
+<given-names>S. P.</given-names>
+<surname>Swinnen</surname>
+</string-name>, &#x0201c;<article-title>Subcortical Volume Analysis in Traumatic Brain Injury: The Importance of the Fronto&#x02010;Striato&#x02010;Thalamic Circuit in Task Switching</article-title>,&#x0201d; <source>Cortex</source>
+<volume>51</volume> (<year>2014</year>): <fpage>67</fpage>&#x02013;<lpage>81</lpage>, <pub-id pub-id-type="doi">10.1016/j.cortex.2013.10.009</pub-id>.<pub-id pub-id-type="pmid">24290948</pub-id>
+</mixed-citation></ref><ref id="jon70106-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jon70106-cite-0028">
+<string-name>
+<given-names>P.</given-names>
+<surname>Decavel</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Vuillier</surname>
+</string-name>, and <string-name>
+<given-names>T.</given-names>
+<surname>Moulin</surname>
+</string-name>, &#x0201c;<article-title>Lenticulostriate Infarction</article-title>,&#x0201d; <source>Frontiers of Neurology and Neuroscience</source>
+<volume>30</volume> (<year>2012</year>): <fpage>115</fpage>&#x02013;<lpage>119</lpage>, <pub-id pub-id-type="doi">10.1159/000333606</pub-id>.<pub-id pub-id-type="pmid">22377876</pub-id>
+</mixed-citation></ref><ref id="jon70106-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jon70106-cite-0029">
+<string-name>
+<given-names>J. A.</given-names>
+<surname>Feekes</surname>
+</string-name> and <string-name>
+<given-names>M. D.</given-names>
+<surname>Cassell</surname>
+</string-name>, &#x0201c;<article-title>The Vascular Supply of the Functional Compartments of the Human Striatum</article-title>,&#x0201d; <source>Brain</source>
+<volume>129</volume>, no. <issue>8</issue> (<year>2006</year>): <fpage>2189</fpage>&#x02013;<lpage>2201</lpage>, <pub-id pub-id-type="doi">10.1093/brain/awl158</pub-id>.<pub-id pub-id-type="pmid">16815876</pub-id>
+</mixed-citation></ref><ref id="jon70106-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jon70106-cite-0030">
+<string-name>
+<given-names>&#x000c1;.</given-names>
+<surname>Galiana</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Ruiz</surname>
+</string-name>, <string-name>
+<given-names>J. F.</given-names>
+<surname>Al&#x000e9;n</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Effects of Cranioplasty in Cerebral Blood Perfusion Using Quantification With 99m&#x02010;Tc HMPAO SPECT&#x02010;CT</article-title>,&#x0201d; <source>Journal of Neuroimaging</source>
+<volume>33</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>174</fpage>&#x02013;<lpage>183</lpage>, <pub-id pub-id-type="doi">10.1111/jon.13058</pub-id>.<pub-id pub-id-type="pmid">36251614</pub-id>
+</mixed-citation></ref><ref id="jon70106-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jon70106-cite-0031">
+<string-name>
+<given-names>S.</given-names>
+<surname>Sakamoto</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Eguchi</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Kiura</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Arita</surname>
+</string-name>, and <string-name>
+<given-names>K.</given-names>
+<surname>Kurisu</surname>
+</string-name>, &#x0201c;<article-title>CT Perfusion Imaging in the Syndrome of the Sinking Skin Flap Before and After Cranioplasty</article-title>,&#x0201d; <source>Clinical Neurology and Neurosurgery</source>
+<volume>108</volume>, no. <issue>6</issue> (<year>2006</year>): <fpage>583</fpage>&#x02013;<lpage>585</lpage>, <pub-id pub-id-type="doi">10.1016/j.clineuro.2005.03.012</pub-id>.<pub-id pub-id-type="pmid">15921849</pub-id>
+</mixed-citation></ref><ref id="jon70106-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jon70106-cite-0032">
+<string-name>
+<given-names>X.</given-names>
+<surname>Shao</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Jann</surname>
+</string-name>, and <string-name>
+<given-names>S. J.</given-names>
+<surname>Ma</surname>
+</string-name>, &#x0201c;<article-title>Comparison Between Blood&#x02212;Brain Barrier Water Exchange Rate and Permeability to Gadolinium&#x02010;Based Contrast Agent in an Elderly Cohort</article-title>,&#x0201d; <source>Frontiers in Neuroscience</source>
+<volume>14</volume> (<year>2020</year>): <elocation-id>571480</elocation-id>, <pub-id pub-id-type="doi">10.3389/fnins.2020.571480</pub-id>.<pub-id pub-id-type="pmid">33328848</pub-id>
+</mixed-citation></ref><ref id="jon70106-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jon70106-cite-0033">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Uchida</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kan</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Sakurai</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>
+<italic toggle="yes">APOE &#x0025b;4</italic> Dose Associates With Increased Brain Iron and &#x003b2;&#x02010;Amyloid via Blood&#x02212;Brain Barrier Dysfunction</article-title>,&#x0201d; <source>Journal of Neurology, Neurosurgery, and Psychiatry</source>
+<volume>93</volume> (<year>2022</year>): <fpage>772</fpage>&#x02013;<lpage>778</lpage>, <pub-id pub-id-type="doi">10.1136/jnnp-2021-328519</pub-id>.</mixed-citation></ref><ref id="jon70106-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jon70106-cite-0034">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Uchida</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kan</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Furukawa</surname>
+</string-name>, et&#x000a0;al., &#x0201c;<article-title>Relationship Between Brain Iron Dynamics and Blood&#x02212;Brain Barrier Function During Childhood: A Quantitative Magnetic Resonance Imaging Study</article-title>,&#x0201d; <source>Fluids and Barriers of the CNS</source>
+<volume>20</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>60</fpage>, <pub-id pub-id-type="doi">10.1186/s12987-023-00464-x</pub-id>.<pub-id pub-id-type="pmid">37592310</pub-id>
+</mixed-citation></ref></ref-list></back></article>

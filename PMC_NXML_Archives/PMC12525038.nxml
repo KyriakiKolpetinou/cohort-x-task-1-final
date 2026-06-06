@@ -1,0 +1,863 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="review-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Clin Med</journal-id><journal-id journal-id-type="iso-abbrev">J Clin Med</journal-id><journal-id journal-id-type="publisher-id">jcm</journal-id><journal-title-group><journal-title>Journal of Clinical Medicine</journal-title></journal-title-group><issn pub-type="epub">2077-0383</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">41095965</article-id><article-id pub-id-type="pmc">12525038</article-id><article-id pub-id-type="doi">10.3390/jcm14196885</article-id><article-id pub-id-type="publisher-id">jcm-14-06885</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Advanced Computer Simulation Based on Cardiac Imaging in Planning of Structural Heart Disease Interventions</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0009-0002-5806-9580</contrib-id><name><surname>Agarwal</surname><given-names>Alaukika</given-names></name><xref rid="af1-jcm-14-06885" ref-type="aff">1</xref><xref rid="c1-jcm-14-06885" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Ranard</surname><given-names>Lauren</given-names></name><xref rid="af2-jcm-14-06885" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>Vahl</surname><given-names>Torsten</given-names></name><xref rid="af2-jcm-14-06885" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-1850-8665</contrib-id><name><surname>Khalique</surname><given-names>Omar</given-names></name><xref rid="af3-jcm-14-06885" ref-type="aff">3</xref></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Leo</surname><given-names>Isabella</given-names></name><role>Academic Editor</role></contrib><contrib contrib-type="editor"><name><surname>Baritussio</surname><given-names>Anna</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-jcm-14-06885"><label>1</label>Department of Medicine, Staten Island University Hospital, New York, NY 10305, USA</aff><aff id="af2-jcm-14-06885"><label>2</label>Division of Cardiology, Columbia University Medical Center, New York, NY 10032, USA</aff><aff id="af3-jcm-14-06885"><label>3</label>Division of Cardiovascular Imaging, St. Francis Hospital and Catholic Health, Roslyn, NY 11576, USA</aff><author-notes><corresp id="c1-jcm-14-06885"><label>*</label>Correspondence: <email>alaukika@icloud.com</email></corresp></author-notes><pub-date pub-type="epub"><day>29</day><month>9</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>10</month><year>2025</year></pub-date><volume>14</volume><issue>19</issue><elocation-id>6885</elocation-id><history><date date-type="received"><day>14</day><month>8</month><year>2025</year></date><date date-type="rev-recd"><day>16</day><month>9</month><year>2025</year></date><date date-type="accepted"><day>25</day><month>9</month><year>2025</year></date></history><permissions><copyright-statement>&#x000a9; 2025 by the authors.</copyright-statement><copyright-year>2025</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>The rapid expansion of structural heart interventions over the past decade has created unprecedented challenges in procedural planning and complication prediction. While traditional imaging provides essential anatomical information, translating two-dimensional images into a comprehensive three-dimensional understanding of complex cardiac structures remains challenging. This review encompasses finite element analysis (FEA), computational fluid dynamics (CFD), and fluid&#x02013;structure interaction (FSI) technologies across major structural heart procedures, including transcatheter aortic valve implantation (TAVI), transcatheter mitral valve interventions, and left atrial appendage occlusion (LAAO). We evaluated the technical foundations, clinical validation studies, and practical applications of various simulation platforms. Advanced computer simulation has demonstrated feasibility and clinical utility across multiple structural heart procedures. Computer simulation for structural heart interventions has evolved from a proof of concept to clinical implementation, with growing evidence of procedural planning benefits in TAVI and LAAO. While feasibility has been established across multiple intervention types, this field requires larger validation studies to demonstrate accuracy and clinical outcome improvements. Future directions include integration of machine learning, real-time simulation capabilities, and expanding applications to complex anatomies and redo procedures. This technology represents an emerging paradigm that may facilitate precision medicine in structural heart interventions, with potential for significant improvements in procedural success and patient safety.</p></abstract><kwd-group><kwd>computer simulation</kwd><kwd>structural heart interventions</kwd><kwd>transcatheter aortic valve implantation</kwd><kwd>finite element analysis</kwd><kwd>left atrial appendage occlusion</kwd><kwd>patient-specific modeling</kwd></kwd-group><funding-group><funding-statement>This research received no external funding.</funding-statement></funding-group></article-meta></front><body><sec sec-type="intro" id="sec1-jcm-14-06885"><title>1. Introduction</title><p>There has been exponential growth in structural heart disease interventions over the past decade [<xref rid="B1-jcm-14-06885" ref-type="bibr">1</xref>,<xref rid="B2-jcm-14-06885" ref-type="bibr">2</xref>]. The landmark approval of transcatheter aortic valve implantation (TAVI) with the Edwards SAPIEN<sup>TM</sup> transcatheter heart valve in 2011 led to the rapid progression of this field, with subsequent expansion addressing different pathologies across all cardiac valves and structural components [<xref rid="B3-jcm-14-06885" ref-type="bibr">3</xref>,<xref rid="B4-jcm-14-06885" ref-type="bibr">4</xref>]. This further led to a proliferation of novel devices, new innovative techniques, and expanding indications, creating a need for clinicians to optimize patient outcomes [<xref rid="B5-jcm-14-06885" ref-type="bibr">5</xref>].</p><p>There are several factors that compound the complexity of structural heart interventions, including significant anatomical variability among patients and procedural decision making [<xref rid="B6-jcm-14-06885" ref-type="bibr">6</xref>]. This differs from traditional open surgical approaches, where visualization and tactile feedback guide interventions. Instead, transcatheter approaches rely heavily on advanced imaging for procedural planning and execution [<xref rid="B7-jcm-14-06885" ref-type="bibr">7</xref>]. Subsequently, there has been an evolution in the role of imaging in structural heart interventions beyond initial diagnosis to include screening for treatment selection, device sizing, and prediction of potential complications [<xref rid="B8-jcm-14-06885" ref-type="bibr">8</xref>,<xref rid="B9-jcm-14-06885" ref-type="bibr">9</xref>].</p><p>Pre-procedural planning has progressed to encompass multimodality imaging as the cornerstone of patient assessment [<xref rid="B10-jcm-14-06885" ref-type="bibr">10</xref>]. Computed tomography (CT), echocardiography (echo), and cardiac magnetic resonance imaging (CMR) supply data regarding cardiac structure, function, and hemodynamics that inform procedural strategy. However, translating these images into a comprehensive three-dimensional understanding of complex cardiac structures remains challenging [<xref rid="B11-jcm-14-06885" ref-type="bibr">11</xref>,<xref rid="B12-jcm-14-06885" ref-type="bibr">12</xref>].</p><p>To address this challenge, three-dimensional printing has emerged as one approach to create physical representations of patient-specific cardiac anatomy [<xref rid="B13-jcm-14-06885" ref-type="bibr">13</xref>]. These models enable hands-on simulation and device testing before the actual procedure, potentially reducing the procedural time and complications [<xref rid="B14-jcm-14-06885" ref-type="bibr">14</xref>]. Despite these advantages, 3D printing has significant limitations. The process is costly, time-consuming, and labor-intensive, which restricts its routine clinical application [<xref rid="B15-jcm-14-06885" ref-type="bibr">15</xref>]. More importantly, physical models typically represent static anatomical states and fail to capture the dynamic motion of cardiac structures throughout the cardiac cycle [<xref rid="B16-jcm-14-06885" ref-type="bibr">16</xref>,<xref rid="B17-jcm-14-06885" ref-type="bibr">17</xref>]. Additionally, the material properties of 3D-printed models cannot accurately replicate the biomechanical characteristics of cardiac tissues, which limits their utility in predicting tissue&#x02013;device interactions [<xref rid="B18-jcm-14-06885" ref-type="bibr">18</xref>,<xref rid="B19-jcm-14-06885" ref-type="bibr">19</xref>].</p><p>Prior reviews of the simulation space have focused on specific procedures [<xref rid="B20-jcm-14-06885" ref-type="bibr">20</xref>] or have broadly discussed many subjects, such as AI and 3D printing [<xref rid="B17-jcm-14-06885" ref-type="bibr">17</xref>,<xref rid="B21-jcm-14-06885" ref-type="bibr">21</xref>,<xref rid="B22-jcm-14-06885" ref-type="bibr">22</xref>]. This review adds to recent publications by focusing in depth on the specific topic of advanced computational modeling across the breadth of structural heart interventions. This review discusses computational techniques such as finite element analysis (FEA), computational fluid dynamics (CFD), and fluid&#x02013;structure interaction (FSI) methodologies, which are specifically applied to imaging-derived cardiac models. The primary focus is a review of imaging-derived advanced computer simulation techniques and the literature within the structural heart disease space.</p></sec><sec id="sec2-jcm-14-06885"><title>2. Rationale for Advanced Computer Simulation</title><p>These limitations highlight the importance of computational modeling in structural heart interventions. Computer simulation offers several advantages over physical modeling, enabling the creation of patient-specific dynamic models that represent cardiac structures throughout different phases of the cardiac cycle [<xref rid="B23-jcm-14-06885" ref-type="bibr">23</xref>]. Virtual devices can be deployed within these models to predict interactions with patient anatomy while accounting for tissue characteristics, flow parameters, regional calcifications, and structural deformation [<xref rid="B17-jcm-14-06885" ref-type="bibr">17</xref>]. While basic imaging predictors for many of the typical procedural complications are well known within the literature, their positive and negative predictive values are modest, which suggests interpatient variability and the need for patient-specific modeling. These simulations can theoretically anticipate potential complications, optimize device selection and positioning, and ultimately improve procedural outcomes [<xref rid="B20-jcm-14-06885" ref-type="bibr">20</xref>].</p><p>The integration of these computer simulation tools into clinical practice has been facilitated by the development of specialized software platforms tailored to specific structural heart interventions [<xref rid="B21-jcm-14-06885" ref-type="bibr">21</xref>]. These platforms vary in their capabilities, accessibility, and validation, creating opportunities and challenges for clinicians seeking to implement simulation-based planning in their practices [<xref rid="B24-jcm-14-06885" ref-type="bibr">24</xref>].</p><p>This paper provides a comprehensive overview of current computer simulation technologies for structural heart interventions, examining their technical foundations, clinical applications, and future directions. Through this analysis, we aim to elucidate the potential for computational modeling to advance the field of structural heart interventions while acknowledging the practical constraints that may influence its adoption in routine clinical practice (<xref rid="jcm-14-06885-f001" ref-type="fig">Figure 1</xref>).</p><sec><title>Clinical Translation and Validation Evidence</title><p>Clinical translation of cardiac simulation has demonstrated a measurable impact through several landmark validation studies. The PREDICT-LAA randomized controlled trial (<italic toggle="yes">n</italic> = 200) represents the first prospective, randomized evidence that AI-enabled computational modeling significantly improves procedural outcomes, showing 40% more complete LAA occlusion (61.1% vs. 44.0%, <italic toggle="yes">p</italic> = 0.03), a 60% reduction in repositioning devices &#x0003e; three times (10.0% vs. 22.7%, <italic toggle="yes">p</italic> = 0.02), and 80% fewer device retraction requirements (3.0% vs. 16.5%, <italic toggle="yes">p</italic> &#x0003c; 0.01) compared to standard planning [<xref rid="B25-jcm-14-06885" ref-type="bibr">25</xref>]. Similarly, the PRECISE-TAVI study validated FEA predictions of paravalvular leak (PVL cutoff of 12.2 mL/s, effectively discriminating more than or equal to trace PVL and less than trace PVL with an AUC of 0.69) and conduction disturbances (contact pressure index &#x0003e; 11.5, predicting a permanent pacemaker with an AUC of 0.83) in challenging anatomies [<xref rid="B26-jcm-14-06885" ref-type="bibr">26</xref>]. Commercially available platforms are increasingly being developed with the goal of minimizing TAVR-related complications and associated healthcare costs.</p></sec></sec><sec id="sec3-jcm-14-06885"><title>3. Types of Computer Simulations and Platforms</title><sec id="sec3dot1-jcm-14-06885"><title>3.1. Basic Computer Modeling</title><p>Basic computer modeling focuses primarily on anatomical visualization and measurement, providing fundamental insights for device sizing and procedural planning [<xref rid="B27-jcm-14-06885" ref-type="bibr">27</xref>]. Basic computer modeling has existed since the early days of TAVI and consists of an embedded geometrical shape inserted into a cardiac computed tomography angiography (CCTA) image. This type of modeling can be used to determine the basic fit of a transcatheter valve in the target zone. A simple example of this is modeling a cylinder of the predicted THV size for TAVI. Examples of vendors in this space include 3mensio<sup>TM</sup>, Circle Cardiovascular Imaging, and Laralab (<xref rid="jcm-14-06885-f002" ref-type="fig">Figure 2</xref>).</p></sec><sec id="sec3dot2-jcm-14-06885"><title>3.2. Advanced Computer Simulation</title><p>Advanced simulation typically involves the creation of a digital twin of the structure(s) in question and use of finite element analysis (FEA) to predict tissue deformation and responses to interventions. There is research on individual centers or labs predicting implant success. In the past several years, vendors dedicated to advanced simulation have emerged. Examples of technologies in this space include FeOPS Heart Guide<sup>TM</sup> and DASI simulations. Some technologies also model flow, which typically involves performing computational fluid dynamics (CFD) and fluid&#x02013;structure interaction (FSI) analyses in a gap region or area from the FEA. Examples of available platforms include FEOPS<sup>TM</sup>, DASI, VIDAA, and Ansys<sup>TM</sup>. This review will focus primarily on advanced computer simulation.</p></sec><sec id="sec3dot3-jcm-14-06885"><title>3.3. Platform&#x02013;Device Compatibility</title><p>Current simulation platforms demonstrate varying capabilities across device families and procedures, spanning TAVI, LAAO, and emerging TMVR applications. This is largely dependent on collaborations with device manufacturers, who can provide key material properties and device designs in order to facilitate computer simulations. Without adequate info, computational simulation platforms become less accurate. Additionally, given the workload for computational heavy lifting, the platforms tend to focus on a limited number of procedures and thus self-limit their portfolios of devices (<xref rid="jcm-14-06885-t001" ref-type="table">Table 1</xref>).</p></sec></sec><sec id="sec4-jcm-14-06885"><title>4. Computer Simulation for Specific Structural Heart Interventions</title><p>Compared to traditional surgical repairs of valves, transcatheter valvular interventions provide minimally invasive alternatives to patients with valvular heart disease. Transcatheter procedures encompass unique risks compared to open heart surgery. Computer simulation models attempt to mitigate these risks by ensuring procedural planning that is specific to patients, assisting in optimal device selection, and predicting complications (<xref rid="jcm-14-06885-f003" ref-type="fig">Figure 3</xref>).</p><sec id="sec4dot1-jcm-14-06885"><title>4.1. TAVI</title><p>As TAVI was the first approved transcatheter valve procedure, the majority of the advanced computer simulation literature centers around it.</p><sec id="sec4dot1dot1-jcm-14-06885"><title>4.1.1. Optimal Sizing</title><p>The major TAVI vendors have well-developed sizing charts to address different ranges. Basic computer simulation can be applied to cases to visualize a static valve within the segmented aortic root. In current practice, this is the workhorse method for most TAVI programs.</p></sec><sec id="sec4dot1dot2-jcm-14-06885"><title>4.1.2. Anatomical Rupture</title><p>Aortic root rupture (ARR) is a rare but serious complication of TAVI with a mortality rate that has been reported to be as high as 48% [<xref rid="B29-jcm-14-06885" ref-type="bibr">29</xref>]. This is in a continuum with paravalvular leak (PVL), as overexpansion of a balloon or valve in the presence of severe calcification may lead to root rupture, whereas underexpansion can lead to PVL. The difficulty in predicting ARR is evidenced by the dearth of research on the subject. In 2013, Barbanti et al. stated that &#x02265;20% prosthesis oversizing of a balloon-expandable valve and moderate/severe LVOT calcifications were predictors of ARR [<xref rid="B29-jcm-14-06885" ref-type="bibr">29</xref>]. In 2017, Girdauskas et al. described six patients who had ruptured their LVOT in the anatomically weaker area between the left fibrous trigone and the left&#x02013;right commissure within the muscular LVOT [<xref rid="B30-jcm-14-06885" ref-type="bibr">30</xref>]. In theory, computer simulation would benefit prediction of the rare but morbid complication of ARR. There is only one computer simulation study in the literature. It was performed by Wang et al., who employed finite element analysis on one retrospective ARR case and two prospective cases [<xref rid="B31-jcm-14-06885" ref-type="bibr">31</xref>]. The results were mixed, again highlighting the real-world difficulties in understanding this complex phenomenon.</p></sec><sec id="sec4dot1dot3-jcm-14-06885"><title>4.1.3. Paravalvular Leak</title><p>Aortic post-TAVI PVL has become less common over time, particularly PVL of moderate or greater severity. However, mild PVL is common, and some analyses have demonstrated increased morbidity and/or mortality, even at mild levels [<xref rid="B32-jcm-14-06885" ref-type="bibr">32</xref>]. Basic predictors are well known, including transcatheter heart valve (THV) undersizing, the THV type (it is more common in self-expanding valves), significant calcifications, valve positioning, and a native bicuspid valve. However, there is significant interpatient variability. Many retrospective, observational studies have shown the ability to predict PVL retrospectively from computer simulations [<xref rid="B33-jcm-14-06885" ref-type="bibr">33</xref>,<xref rid="B34-jcm-14-06885" ref-type="bibr">34</xref>,<xref rid="B35-jcm-14-06885" ref-type="bibr">35</xref>,<xref rid="B36-jcm-14-06885" ref-type="bibr">36</xref>,<xref rid="B37-jcm-14-06885" ref-type="bibr">37</xref>]. Mao et al., Bianchi et al., and Ghosh et al. demonstrated the feasibility of using FEA or FEA-FSI modeling to predict PVL based on the orientations and deployment depths of THVs [<xref rid="B38-jcm-14-06885" ref-type="bibr">38</xref>]. Luraghi et al. and Nappi et al. demonstrated the effects of calcium on PVL formation [<xref rid="B35-jcm-14-06885" ref-type="bibr">35</xref>,<xref rid="B37-jcm-14-06885" ref-type="bibr">37</xref>]. Hokken et al. demonstrated an AUC of 0.69 for prediction of PVL after Evolut TAVI, with a simulated flow rate cutoff of 12.2 mL/s to predict &#x0003e; trace PVL [<xref rid="B26-jcm-14-06885" ref-type="bibr">26</xref>].</p></sec><sec id="sec4dot1dot4-jcm-14-06885"><title>4.1.4. Percutaneous Alternatives for Coronary Artery Obstruction</title><p>Coronary obstruction (CO) is yet another rare but morbid complication of TAVI. Known anatomical risk factors for native TAVI based on basic modeling studies include a low coronary height of &#x0003c;12 mm and a low sinus of Valsalva diameter of &#x0003c;30 mm [<xref rid="B39-jcm-14-06885" ref-type="bibr">39</xref>], and a low valve-to-coronary (VTC) distance of &#x0003c;4 mm [<xref rid="B40-jcm-14-06885" ref-type="bibr">40</xref>]. For valve-in-valve (VIV) TAVI, known anatomical risk factors include a VTC of &#x0003c;4 mm and externally sewn bioprosthetic surgical valve leaflets. There has been very little work using advanced computer simulation to predict the risk of coronary obstruction. Heitkemper et al. studied a retrospective cohort of TAVI patients and used FEA to demonstrate that the VTC distance indexed to the coronary diameter was more predictive of CO than the typical metrics of coronary height and sinus of Valsalva diameter [<xref rid="B41-jcm-14-06885" ref-type="bibr">41</xref>]. Holst et al. recently reported the feasibility of prospective use of CO FEA computer modeling prior to TAVI cases. In 29 TAVI cases with high predicted CO risk, 21 underwent a procedure or protective maneuver to avoid coronary obstruction, and none of the patients experienced CO [<xref rid="B42-jcm-14-06885" ref-type="bibr">42</xref>].</p></sec><sec id="sec4dot1dot5-jcm-14-06885"><title>4.1.5. Leaflet Thrombosis</title><p>Leaflet thrombosis is a common sequela of TAVI, with a reported prevalence as high as 30&#x02013;40%. Leaflet thrombosis appears to be more common in THVs than in surgical bioprosthetic valves. Known anatomical risk factors include a native bicuspid valve, moderate or severe PVL, a large anatomy, and the THV type. Attempts to predict leaflet thrombosis to date have focused on CFD analysis of stagnation of blood and/or neosinus washout [<xref rid="B38-jcm-14-06885" ref-type="bibr">38</xref>,<xref rid="B43-jcm-14-06885" ref-type="bibr">43</xref>,<xref rid="B44-jcm-14-06885" ref-type="bibr">44</xref>,<xref rid="B45-jcm-14-06885" ref-type="bibr">45</xref>]. Reduced neosinus washout and blood stagnation have been associated with thrombus formation in computational studies. Extensive clinical validations have not been performed.</p></sec><sec id="sec4dot1dot6-jcm-14-06885"><title>4.1.6. Prediction of Conduction Disturbances</title><p>In an initial FEA study by Rocatello et al., the metric of the contact pressure index (CPI), defined as the percentage of the area where contact between the prosthesis and the aorta generate a pressure exceeding 0.1 Mpa, predicted conduction disturbance at a threshold of 14%. However, only 26 patients in the 112-patient cohort were determined to have accurate predictions [<xref rid="B46-jcm-14-06885" ref-type="bibr">46</xref>]. In a subsequent cohort of 56 patients with bicuspid or tricuspid aortic valve stenosis that were studied by the same group, the CPI was re-calibrated, which resulted in improved accuracy [<xref rid="B47-jcm-14-06885" ref-type="bibr">47</xref>]. In a univariate analysis, only the CPI predicted a new-onset conduction disturbance. The traditional metrics of the oversizing ratio, implantation depth, and difference between the membranous septum length and the implantation depth were not effective for this prediction. The CPI exhibited a higher AUC (0.804) when predicting a new-onset conduction disturbance than the traditional factors. The PRECISE-TAVI trial, a prospective, observational study of computational simulation of complex aortic valve anatomies, similarly demonstrated an AUC of 0.83 for prediction of permanent pacemaker implantation after Evolut-PRO implantation, with a CPI cutoff of 11.5 [<xref rid="B26-jcm-14-06885" ref-type="bibr">26</xref>].</p></sec><sec id="sec4dot1dot7-jcm-14-06885"><title>4.1.7. TAVI in Bicuspid Aortic Valves</title><p>Bicuspid valve TAVI is a complex area. Current THVs are not designed specifically to treat bicuspid aortic valves. Retrospective validation of FEA and CFD simulations has been performed by several groups in small studies [<xref rid="B48-jcm-14-06885" ref-type="bibr">48</xref>]. The PRECISE-TAVI trial prospectively studied a group of patients, 17 (22.1%) of which had a bicuspid valve morphology [<xref rid="B26-jcm-14-06885" ref-type="bibr">26</xref>]. As mentioned previously, this trial demonstrated the predictive abilities of FEA for permanent pacemaker implantation and PVL. FEA prompted a change in procedural strategy in 35% of the patients in this study. Due to small numbers, the bicuspid aortic valve group was not studied separately.</p></sec></sec><sec id="sec4dot2-jcm-14-06885"><title>4.2. TMVR</title><sec id="sec4dot2dot1-jcm-14-06885"><title>4.2.1. Mitral Valve-in-Valve TAVI</title><p>Given the excellent outcomes for mitral VIV TAVI with a balloon-expandable THV designed for TAVI, basic simulation appears to be adequate for the majority of cases. The sealing zone of a failed surgical bioprosthesis provides an excellent landing zone, and the morbid complication of left ventricular outflow tract obstruction (LVOTO) is rare in comparison to other forms of TMVR.</p></sec><sec id="sec4dot2dot2-jcm-14-06885"><title>4.2.2. Mitral Valve in Ring and Valve in Mitral Annular Calcification</title><p>A mitral valve in a failed annuloplasty ring (ViR) and a valve in a native mitral annular calcification (ViMAC) are more complex forms of TMVR associated with less favorable procedural outcomes, such as LVOTO and higher mortality rates. These are currently treated using a balloon-expandable THV designed for TAVI. This suggests the need for advanced computer simulation as opposed to valve-in-valve TAVI. Although the feasibility of computer simulation was shown in early examples [<xref rid="B49-jcm-14-06885" ref-type="bibr">49</xref>,<xref rid="B50-jcm-14-06885" ref-type="bibr">50</xref>,<xref rid="B51-jcm-14-06885" ref-type="bibr">51</xref>], progress in this field is limited and data are sparse.</p></sec><sec id="sec4dot2dot3-jcm-14-06885"><title>4.2.3. Native TMVR</title><p>Dedicated (designed for the mitral valve) TMVR devices for native mitral valve disease (mitral regurgitation without MAC) are mostly in the investigational space, with early CE Mark and FDA approvals. There are no available data on advanced computer simulation in this category.</p></sec><sec id="sec4dot2dot4-jcm-14-06885"><title>4.2.4. Mitral Edge-to-Edge Repair</title><p>The feasibility of FEA and FSI analysis of the mitral valve leaflet structure and mechanics has been shown by several groups [<xref rid="B52-jcm-14-06885" ref-type="bibr">52</xref>,<xref rid="B53-jcm-14-06885" ref-type="bibr">53</xref>]. Dabiri et al. developed a framework not only to simulate mitral valve geometry and flow dynamics but also to predict the results of mitral transcatheter edge-to-edge repair (m-TEER) [<xref rid="B53-jcm-14-06885" ref-type="bibr">53</xref>]. This group used actual 3D echocardiographic datasets and computational data from the literature to model mitral geometries and simulate the results of m-TEER procedures, including MR and leaflet stress, with single and multiple m-TEER devices. Dabiri et al. demonstrated via FEA that different locations of m-TEER reduced MR and the mitral valve area by different degrees. They emphasized that machine learning (ML) has fewer limitations than FEA overall but requires much larger datasets for analysis. In a separate publication, Dabiri et al. demonstrated that an ML model for m-TEER simulation reduced the computational time from 6 h to less than 1 s [<xref rid="B54-jcm-14-06885" ref-type="bibr">54</xref>].</p><p>Although there are limited real-world validation data, several proof-of-concept computer simulation studies have been performed. Prescott et al. performed an FEA simulation to confirm that m-TEER could treat MR and prevent posterior leaflet stress and chordal rupture in a hypertrophic cardiomyopathy patient [<xref rid="B55-jcm-14-06885" ref-type="bibr">55</xref>]. Hart et al. retrospectively studied the accuracy of pre- and post-m-TEER 3D TEE datasets from two real patients compared to FEA simulations. The FEA simulations only differed by 0.7&#x02013;0.9 mm in the locations of contours compared to the actual pre-m-TEER datasets [<xref rid="B56-jcm-14-06885" ref-type="bibr">56</xref>]. In both patients, FEA simulation accurately predicted the severity and location of post-m-TEER MR. Messika-Zeitoun et al. published the largest simulation analysis for m-TEER computational FEA modeling to date [<xref rid="B57-jcm-14-06885" ref-type="bibr">57</xref>]. These authors studied five patients who underwent m-TEER. There was good agreement between the actual post-procedural MR grade and the simulated regurgitant orifice area. However, the agreement between the post-procedural mitral valve area modeling and the mitral valve area measured using 3D TEE was poor, with only one of five patient simulations being accurate.</p></sec><sec id="sec4dot2dot5-jcm-14-06885"><title>4.2.5. Limitations in Transcatheter Edge-to-Edge Repair Simulation</title><p>Current TEER simulations are in their infancy. For the most part, straightforward and simple anatomies are the current focus. Even with the focus on simple anatomies, predictive accuracy has been mixed, as described above. Non-central and commissural TEER were found to be very prevalent, representing between 38 and 43% of the published data [<xref rid="B58-jcm-14-06885" ref-type="bibr">58</xref>,<xref rid="B59-jcm-14-06885" ref-type="bibr">59</xref>].</p><p>Finite element models experience bending difficulties near the commissures and cannot adequately simulate the complex dynamic interactions between commissural chordae and leaflet tissue during the cardiac cycle [<xref rid="B60-jcm-14-06885" ref-type="bibr">60</xref>]. These limitations result in poor prediction accuracy for device trajectory correction and an inability to reliably predict single-leaflet device attachment risk during commissural repairs [<xref rid="B60-jcm-14-06885" ref-type="bibr">60</xref>].</p></sec></sec><sec id="sec4dot3-jcm-14-06885"><title>4.3. Left Atrial Appendage Occlusion</title><p>Data from the NCDR LAAO (left atrial appendage closure) registry has documented excellent procedural outcomes with commercially available LAAO devices in the United States, with an implantation success rate of &#x0003e;98%. Yet one in four patients has evidence of a peri-device leak after 45 days. Recent evidence suggests that even small PDLs (&#x0003c;5 mm) are associated with a higher rate of thromboembolic events; this has therefore further fueled interest in improving procedural planning to achieve complete LAAO [<xref rid="B61-jcm-14-06885" ref-type="bibr">61</xref>].</p><p>LAA anatomy is complex, and individual anatomy is variable. CT-based computational simulation algorithms allow clinicians to depict device implantation and assess tissue&#x02013;device interaction as a means to improve procedural efficacy and predict the feasibility of LAAO, peri-device gaps, and the correct device size. Computational fluid simulation models have also been used to predict device-related thrombosis (DRT).</p><sec id="sec4dot3dot1-jcm-14-06885"><title>4.3.1. Methods of Analysis for CT-Based Computational Modeling of LAAO</title><p>FEops HEARTguide<sup>TM</sup> (FEops Ghent, Belgium).</p><p>FEops HEARTguide<sup>TM</sup> is a CE-marked and commercially available CT-based simulation technology that gives physicians insight into tissue&#x02013;device interaction in patient-specific anatomy. Details of how the computational model was developed were previously published [<xref rid="B62-jcm-14-06885" ref-type="bibr">62</xref>]. Briefly, computer-generated LAAO devices are virtually implanted into patient-specific anatomy using FEA computational simulation (Abaqus/Explicit finite element solver v170.0, Dassault Systems, Paris, France). Multiple sizes are simulated in different positions (proximal and distal), and frame deformation and device apposition are modeled. In addition, device diameters are assessed to evaluate compression. It is up to the provider to assess the simulations and select the most appropriate device size and position (<xref rid="jcm-14-06885-f004" ref-type="fig">Figure 4</xref>). The FEops<sup>TM</sup> simulation technology has been validated for LAAO [<xref rid="B50-jcm-14-06885" ref-type="bibr">50</xref>,<xref rid="B63-jcm-14-06885" ref-type="bibr">63</xref>].</p><p>Multiple small to medium-sized prospective and retrospective studies have analyzed the utilization of FEops<sup>TM</sup> for LAAO procedural planning (<xref rid="jcm-14-06885-t002" ref-type="table">Table 2</xref>). The largest of these studies was the PREDICT&#x02014;LAA study, which looked specifically at the value of FEops<sup>TM</sup> for planning LAAO with the Amplatzer Amulet<sup>TM</sup> device [<xref rid="B25-jcm-14-06885" ref-type="bibr">25</xref>]. This was the first and, to date, only prospective, randomized trial of advanced computer simulation for device implantation. Though this study did not meet its primary endpoint (a composite of incomplete LAA closure with a residual grade III to IV distal leak and/or presence of device-related thrombosis on a post-procedural CT scan), there was a 31% decrease in the primary outcome in the FEops<sup>TM</sup> group (28.9% in the FEops<sup>TM</sup> group versus 41.8% in the standard treatment group, <italic toggle="yes">p</italic> = 0.08) and thus a trend in favor of CT-based simulation planning. Notably, the trial reached statistical significance (<italic toggle="yes">p</italic> &#x0003c; 0.05) for the secondary endpoints that focused on procedural efficacy (achievement of complete LAA closure, the number of devices used, the number of device repositionings, the procedural time, the radiation time, and the dye volume). Thus, overall, the trial demonstrated that the FEops<sup>TM</sup> computational model offers improvements in procedural safety and efficacy for LAAO with the Amulet<sup>TM</sup> device [<xref rid="B25-jcm-14-06885" ref-type="bibr">25</xref>]. A few of the criticisms of this trial have been the lack of standardization in the control arm and the need for reproduction of the findings with a larger sample. Additionally, these findings cannot be extrapolated to other LAAO devices.</p></sec><sec id="sec4dot3dot2-jcm-14-06885"><title>4.3.2. Virtual Implantation and Device Selection in Left Atrial Appendages (VIDAA) Platform (Universitat Pompeu Fabra, Barcelona, Spain)</title><p>The VIDAA platform is a web-based 3D interactive virtual implantation application that allows a clinician to evaluate the LAA and manipulate LAAO device configurations to determine the optimal device selection. An individual&#x02019;s anatomy is segmented based on a CT scan using 3D slicer and is used to create a 3D surface mesh. Both the CT scan and the surface mesh are then imported into the VIDAA program. CFD simulations are also performed. Two different LAAO devices are available in the platform: Watchman<sup>TM</sup> and Amulet<sup>TM</sup>. The program proposes a set of appropriate LAA devices for a given geometry for the clinician to review. A catheter model is also available in the platform to simulate device delivery [<xref rid="B67-jcm-14-06885" ref-type="bibr">67</xref>].</p></sec><sec id="sec4dot3dot3-jcm-14-06885"><title>4.3.3. Computational Fluid Dynamics to Predict Device-Related Thrombosis</title><p>CFD was first evaluated as a way to stratify the risk of LAA thrombus formation based on LAA morphology in atrial fibrillation patients. A number of studies have demonstrated that geometric characteristics of the LAA play a central role in defining thromboembolic risk [<xref rid="B68-jcm-14-06885" ref-type="bibr">68</xref>,<xref rid="B69-jcm-14-06885" ref-type="bibr">69</xref>,<xref rid="B70-jcm-14-06885" ref-type="bibr">70</xref>,<xref rid="B71-jcm-14-06885" ref-type="bibr">71</xref>]. Bosi et al. specifically looked at four different LAA morphologies (chicken wing, cactus, windsock, and cauliflower). First, CT scans were processed using Mimics (Materialise NV, Ghent, Belgium) to obtain the 3D anatomical shape of the LAA and LA. All 3D models were meshed and analyzed using Ansys<sup>TM</sup> (Ansys<sup>TM</sup>, Inc., Canonsburg, Pennsylvania). CFD was evaluated in normal physiologic flow and pathological atrial fibrillation conditions. Blood flow patterns were characterized by their velocities and shear strain rates (SSRs). The velocity and SSR decreased from the ostium to the tip of the LAA for all LAA morphologies. In atrial fibrillation, the lowest velocity was observed with the cauliflower morphology and the highest was observed with the windsock morphology. Furthermore, in atrial fibrillation, the cauliflower morphology also showed the lowest SSR [<xref rid="B69-jcm-14-06885" ref-type="bibr">69</xref>]. Thus, this study indicated that in pathologic conditions the cauliflower morphology is more prone to thrombus development. The cauliflower morphology has high thrombotic potential, as do morphologies that have multiple small lobes, which was confirmed in other studies [<xref rid="B71-jcm-14-06885" ref-type="bibr">71</xref>,<xref rid="B72-jcm-14-06885" ref-type="bibr">72</xref>].</p><p>Subsequently, CFD has been studied as a way to predict the risk of device-related thrombosis following LAAO. The most common measure evaluated is the endothelial cell activation potential (ECAP) index, which is an in silico thrombosis risk index. The ECAP combines the time-averaged wall shear stress with the oscillatory shear index. In general, low velocities (low wall shear stress values) and complex blood flow patterns (higher oscillatory shear index values) produce higher ECAP indices, which are thought to confer a higher risk of thrombus formation.</p><p><xref rid="jcm-14-06885-t003" ref-type="table">Table 3</xref> details studies that have analyzed CFD for predicting DRT. Overall velocities &#x0003c; 0.2 m/s and an ECAP index &#x0003e; 0.5 Pa<sup>&#x02212;1</sup> have been suggested to be predictors of DRT. Another risk factor for DRT that emerged out of these studies is a low velocity along the pulmonary ridge if uncovered, especially if the pulmonary ridge flow cannot be washed out [<xref rid="B73-jcm-14-06885" ref-type="bibr">73</xref>].</p><p>In the future, CFD has the potential to help individualize anti-thrombotic regimens post-LAAO. However, there are notable limitations to the CFD methodology that need to be addressed. There is no clear consensus on the optimal boundary conditions to model LA hemodynamics, and this needs to be standardized. This is especially important, as CFD has a high sensitivity to numerical assumptions. There is also a lack of model verification [<xref rid="B78-jcm-14-06885" ref-type="bibr">78</xref>]. Lastly, this methodology has been evaluated in small studies and needs to be applied on a larger scale to further our understanding.</p></sec><sec id="sec4dot3dot4-jcm-14-06885"><title>4.3.4. Artificial Intelligence (AI) Integration and Enhanced Simulation</title><p>Integration of artificial intelligence with cardiac simulation accelerated significantly in 2023&#x02013;2024. AI applications now span the entire cardiac simulation workflow from automated cardiac structure segmentation to predictive outcome modeling.</p><p>AI-powered clinical decision support systems integrate knowledge from basic biology to current pathophysiologic insights and drive real-time image analysis, segmentation, and annotation to guide operators in selecting the most appropriate strategies for individual patients [<xref rid="B79-jcm-14-06885" ref-type="bibr">79</xref>]. Technical advances in cardiac simulation AI include physics-informed neural networks (PINNs) that incorporate cardiac biomechanics constraints, reducing CFD computation times while maintaining accuracy within traditional methods. AI-enhanced segmentation using U-Net architectures and automated mesh generation eliminate traditional post-processing artifacts while reducing processing times from hours to minutes [<xref rid="B80-jcm-14-06885" ref-type="bibr">80</xref>].</p><p>However, significant challenges persist in AI implementation. Data quality limitations affect generalizability, with only 3.6% of FDA-approved AI devices reporting race/ethnicity data and 99.1% lacking socioeconomic information [<xref rid="B81-jcm-14-06885" ref-type="bibr">81</xref>]. Deep learning models often operate as &#x0201c;black boxes&#x0201d; with limited interpretability, hindering clinical acceptance [<xref rid="B82-jcm-14-06885" ref-type="bibr">82</xref>]. Technical challenges include the need for large, diverse training datasets and patient-specific anatomical variations that challenge model generalization [<xref rid="B83-jcm-14-06885" ref-type="bibr">83</xref>]. Current solutions include Gradient-weighted Class Activation Mapping (Grad-CAM) for visualization and Shapley Additive Explanations (SHAP) for feature importance analysis, but standardized frameworks for AI model development and validation are lacking [<xref rid="B84-jcm-14-06885" ref-type="bibr">84</xref>].</p><p>Current solutions and validation approaches include development of explainable AI frameworks specifically for cardiac simulation, using attention mapping to highlight anatomical features driving device sizing recommendations. Federated learning approaches allow model training across multiple institutions while maintaining patient privacy. However, standardized benchmarks for cardiac simulation AI performance are lacking, with validation studies typically involving single-center cohorts with relatively small samples of less than 200 patients.</p></sec><sec id="sec4dot3dot5-jcm-14-06885"><title>4.3.5. Implementation Barriers and Clinical Adoption Challenges</title><p>Despite technical advances, significant barriers limit widespread clinical adoption of cardiac simulation technologies. Cost barriers include high infrastructure requirements, including the costs of simulation centers, per-case costs, and substantial investments in specialized personnel and maintenance [<xref rid="B85-jcm-14-06885" ref-type="bibr">85</xref>]. Additional expenses include specialized workstation hardware, high-resolution display systems, and training for dedicated technical personnel. Learning curve challenges persist. A survey conducted in 2024 found that 71% of interventional cardiology professionals reported inadequate training related to simulation-based planning, with most training experiences lasting under one week, which is insufficient for skill mastery [<xref rid="B86-jcm-14-06885" ref-type="bibr">86</xref>].</p><p>Standardization issues represent a critical gap in cardiac simulation implementation. Currently, no standardized protocols exist for CT acquisition parameters optimized for simulation; mesh generation quality control; or simulation result interpretation involving data variability, protocol inconsistency, a lack of external validation, fragmented regulatory requirements, and limited interoperability among software systems [<xref rid="B87-jcm-14-06885" ref-type="bibr">87</xref>,<xref rid="B88-jcm-14-06885" ref-type="bibr">88</xref>,<xref rid="B89-jcm-14-06885" ref-type="bibr">89</xref>].</p><p>Technical limitations include computational demands (CFD modeling requires many hours per case, increases memory requirements, and creates processing limitations, preventing real-time intraoperative guidance), moderate overall fidelity compared to actual clinical scenarios, and device-specific compatibility constraints [<xref rid="B90-jcm-14-06885" ref-type="bibr">90</xref>,<xref rid="B91-jcm-14-06885" ref-type="bibr">91</xref>].</p><p>Device and anatomy generalizability remain constrained. These limitations arise from platform-specific capabilities, with most simulation tools optimized for specific anatomical presentations and device families rather than comprehensive coverage of anatomical variations and pathological presentations [<xref rid="B89-jcm-14-06885" ref-type="bibr">89</xref>,<xref rid="B92-jcm-14-06885" ref-type="bibr">92</xref>], such as bicuspid valves, heavily calcified annuli, and prior surgical interventions, which often fall outside validated simulation parameters. This limits clinical applicability in complex cases, where simulation guidance would be most valuable.</p></sec></sec></sec><sec id="sec5-jcm-14-06885"><title>5. Future Directions</title><p>Overall, this field needs more robust trials to prove the accuracy of advanced computational modeling for procedural simulation and, most importantly, translation to improvements in procedural and clinical outcomes. More computational advancement and power are needed to make simulations more efficient and allow timely intervention.</p><sec id="sec5dot1-jcm-14-06885"><title>5.1. TAVI</title><p>As procedures become more complex, the need for advanced computational simulation will increase. The feasibility of redo TAVI (TAV in TAV) procedural simulation has been shown. However, more validation is needed (<xref rid="jcm-14-06885-f005" ref-type="fig">Figure 5</xref>). Lifetime management of aortic stenosis treatment (predicting results of sequential procedures) is another important area of need.</p></sec><sec id="sec5dot2-jcm-14-06885"><title>5.2. TMVR</title><p>Sizing is a concern in some valve-in-ring cases, particularly valve-in-MAC cases, and requires more accurate modeling. The displacement and behavior of MAC can be unpredictable with percutaneous valve implantation. However, the largest concern and most common exclusion for TMVR cases is LVOT obstruction. There is a great need for accurate computational modeling of LVOT obstruction, including the neo-LVOT area, tissue interactions, and displacement of the anterior mitral leaflet.</p></sec><sec id="sec5dot3-jcm-14-06885"><title>5.3. Tricuspid Interventions</title><p>Efforts are preliminary, but feasibility studies of computer simulation of tricuspid leaflet geometry have been performed. More work will be needed to validate procedural computational simulation as the field matures.</p></sec><sec id="sec5dot4-jcm-14-06885"><title>5.4. LAAO</title><p>While this is the only intervention that has a randomized, controlled trial as evidence, the results were only valid for a single device type. Computer simulation of other device types needs more validation.</p></sec></sec><sec sec-type="conclusions" id="sec6-jcm-14-06885"><title>6. Conclusions</title><p>The field of computational simulation for structural heart device implantation procedures has made significant progress. Feasibility has been proven. Future impacts in this field will be predicated upon validation of accuracy and improvements in outcomes.</p></sec></body><back><fn-group><fn><p><bold>Disclaimer/Publisher&#x02019;s Note:</bold> The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.</p></fn></fn-group><notes><title>Author Contributions</title><p>Conceptualization, A.A. and O.K.; methodology, O.K.; formal analysis, A.A., L.R., and T.V.; data curation, A.A., L.R., and T.V.; writing&#x02014;original draft preparation, A.A., L.R., and T.V.; writing&#x02014;review and editing, O.K. and A.A.; visualization, O.K.; supervision, O.K. All authors have read and agreed to the published version of the manuscript.</p></notes><notes><title>Institutional Review Board Statement</title><p>Not applicable.</p></notes><notes><title>Informed Consent Statement</title><p>Not applicable.</p></notes><notes notes-type="data-availability"><title>Data Availability Statement</title><p>No new data were generated or analyzed in support of this research.</p></notes><notes notes-type="COI-statement"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></notes><glossary><title>Abbreviations</title><p>The following abbreviations are used in this manuscript:
+<array><tbody><tr><td align="left" valign="middle" rowspan="1" colspan="1">CFD</td><td align="left" valign="middle" rowspan="1" colspan="1">Computational fluid dynamics</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">FSI</td><td align="left" valign="middle" rowspan="1" colspan="1">Fluid&#x02013;structure interaction</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">ECAP</td><td align="left" valign="middle" rowspan="1" colspan="1">Endothelial cell activation potential</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">VIDAA</td><td align="left" valign="middle" rowspan="1" colspan="1">Virtual implantation and device selection in left atrial appendages</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">ARR</td><td align="left" valign="middle" rowspan="1" colspan="1">Aortic root rupture</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">FEA</td><td align="left" valign="middle" rowspan="1" colspan="1">Finite element analysis</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">FEops<sup>TM</sup></td><td align="left" valign="middle" rowspan="1" colspan="1">Finite element-optimized patient-specific</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">DASI</td><td align="left" valign="middle" rowspan="1" colspan="1">Direct analytical surgical individualization</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">ViR</td><td align="left" valign="middle" rowspan="1" colspan="1">Valve in ring</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">THV</td><td align="left" valign="middle" rowspan="1" colspan="1">Transcatheter heart valve</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">CO</td><td align="left" valign="middle" rowspan="1" colspan="1">Coronary obstruction</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">ViV</td><td align="left" valign="middle" rowspan="1" colspan="1">Valve in valve</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">ViMAC</td><td align="left" valign="middle" rowspan="1" colspan="1">Valve in mitral annular calcification</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">LAAO</td><td align="left" valign="middle" rowspan="1" colspan="1">Left atrial appendage occlusion</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">CPI</td><td align="left" valign="middle" rowspan="1" colspan="1">Contact pressure index</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">PDL</td><td align="left" valign="middle" rowspan="1" colspan="1">Peri-device leak</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">DRT</td><td align="left" valign="middle" rowspan="1" colspan="1">Device-related thrombosis</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">LVOT</td><td align="left" valign="middle" rowspan="1" colspan="1">Left ventricular outflow tract </td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">SSR</td><td align="left" valign="middle" rowspan="1" colspan="1">Shear strain rate</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">MAC</td><td align="left" valign="middle" rowspan="1" colspan="1">Mitral annular calcification</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">m-TEER</td><td align="left" valign="middle" rowspan="1" colspan="1">Mitral transcatheter edge-to-edge repair</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">PVL</td><td align="left" valign="middle" rowspan="1" colspan="1">Paravalvular leak</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">TAVI</td><td align="left" valign="middle" rowspan="1" colspan="1">Transcatheter aortic valve implantation</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">TAVR</td><td align="left" valign="middle" rowspan="1" colspan="1">Transcatheter aortic valve replacement</td></tr></tbody></array></p></glossary><ref-list><title>References</title><ref id="B1-jcm-14-06885"><label>1.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Faza</surname><given-names>N.N.</given-names></name>
+<name><surname>&#x000d6;zden Tok</surname><given-names>&#x000d6;.</given-names></name>
+<name><surname>Hahn</surname><given-names>R.T.</given-names></name>
+</person-group><article-title>Imaging in Structural Heart Disease: The Evolution of a New Subspecialty</article-title><source>JACC Case Rep.</source><year>2019</year><volume>1</volume><fpage>440</fpage><lpage>445</lpage><pub-id pub-id-type="doi">10.1016/j.jaccas.2019.08.012</pub-id><pub-id pub-id-type="pmid">34316851</pub-id>
+</element-citation></ref><ref id="B2-jcm-14-06885"><label>2.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Goel</surname><given-names>S.S.</given-names></name>
+</person-group><article-title>The Current and Future Landscape of Structural Heart Interventions</article-title><source>Methodist. Debakey Cardiovasc. J.</source><year>2023</year><volume>19</volume><fpage>1</fpage><lpage>3</lpage><pub-id pub-id-type="doi">10.14797/mdcvj.1251</pub-id><pub-id pub-id-type="pmid">37213872</pub-id>
+</element-citation></ref><ref id="B3-jcm-14-06885"><label>3.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Webb</surname><given-names>J.G.</given-names></name>
+<name><surname>Wood</surname><given-names>D.A.</given-names></name>
+</person-group><article-title>Current status of transcatheter aortic valve replacement</article-title><source>J. Am. Coll. Cardiol.</source><year>2012</year><volume>60</volume><fpage>483</fpage><lpage>492</lpage><pub-id pub-id-type="doi">10.1016/j.jacc.2012.01.071</pub-id><pub-id pub-id-type="pmid">22749306</pub-id>
+</element-citation></ref><ref id="B4-jcm-14-06885"><label>4.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Holoshitz</surname><given-names>N.</given-names></name>
+<name><surname>Kavinsky</surname><given-names>C.J.</given-names></name>
+<name><surname>Hijazi</surname><given-names>Z.M.</given-names></name>
+</person-group><article-title>The Edwards SAPIEN Transcatheter Heart Valve for Calcific Aortic Stenosis: A Review of the Valve, Procedure, and Current Literature</article-title><source>Cardiol. Ther.</source><year>2012</year><volume>1</volume><fpage>6</fpage><pub-id pub-id-type="doi">10.1007/s40119-012-0006-8</pub-id><pub-id pub-id-type="pmid">25135160</pub-id>
+</element-citation></ref><ref id="B5-jcm-14-06885"><label>5.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wunderlich</surname><given-names>N.C.</given-names></name>
+<name><surname>K&#x000fc;x</surname><given-names>H.</given-names></name>
+<name><surname>Kreidel</surname><given-names>F.</given-names></name>
+<name><surname>Birkemeyer</surname><given-names>R.</given-names></name>
+<name><surname>Siegel</surname><given-names>R.J.</given-names></name>
+<name><surname>Darmstadt</surname><given-names>D.C.C.</given-names></name>
+<name><surname>Ulm</surname><given-names>U.H.</given-names></name>
+</person-group><article-title>The Changing Paradigm in the Treatment of Structural Heart Disease and the Need for the Interventional Imaging Specialist</article-title><source>Interv. Cardiol.</source><year>2016</year><volume>11</volume><fpage>135</fpage><lpage>139</lpage><pub-id pub-id-type="doi">10.15420/icr.2016:12:2</pub-id><pub-id pub-id-type="pmid">29588721</pub-id>
+</element-citation></ref><ref id="B6-jcm-14-06885"><label>6.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Perpetua</surname><given-names>E.M.</given-names></name>
+<name><surname>Guibone</surname><given-names>K.A.</given-names></name>
+<name><surname>Keegan</surname><given-names>P.A.</given-names></name>
+<name><surname>Palmer</surname><given-names>R.</given-names></name>
+<name><surname>Speight</surname><given-names>M.K.</given-names></name>
+<name><surname>Jagnic</surname><given-names>K.</given-names></name>
+<name><surname>Michaels</surname><given-names>J.</given-names></name>
+<name><surname>Nguyen</surname><given-names>R.A.</given-names></name>
+<name><surname>Pickett</surname><given-names>E.S.</given-names></name>
+<name><surname>Ramsey</surname><given-names>D.</given-names></name>
+<etal/>
+</person-group><article-title>Best Practice Recommendations for Optimizing Care in Structural Heart Programs: Planning Efficient and Resource Leveraging Systems (PEARLS)</article-title><source>Struct. Heart</source><year>2021</year><volume>5</volume><fpage>168</fpage><lpage>179</lpage><pub-id pub-id-type="doi">10.1080/24748706.2021.1877858</pub-id><pub-id pub-id-type="pmid">35378800</pub-id>
+</element-citation></ref><ref id="B7-jcm-14-06885"><label>7.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ye</surname><given-names>J.</given-names></name>
+<name><surname>Soon</surname><given-names>J.L.</given-names></name>
+<name><surname>Webb</surname><given-names>J.</given-names></name>
+</person-group><article-title>Aortic valve replacement vs. transcatheter aortic valve implantation: Patient selection</article-title><source>Ann. Cardiothorac. Surg.</source><year>2012</year><volume>1</volume><fpage>194</fpage><lpage>199</lpage><pub-id pub-id-type="doi">10.3978/j.issn.2225-319X.2012.06.10</pub-id><pub-id pub-id-type="pmid">23977494</pub-id>
+</element-citation></ref><ref id="B8-jcm-14-06885"><label>8.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Corrigan</surname><given-names>F.E.</given-names><suffix>3rd</suffix></name>
+<name><surname>Gleason</surname><given-names>P.T.</given-names></name>
+<name><surname>Condado</surname><given-names>J.F.</given-names></name>
+<name><surname>Lisko</surname><given-names>J.C.</given-names></name>
+<name><surname>Chen</surname><given-names>J.H.</given-names></name>
+<name><surname>Kamioka</surname><given-names>N.</given-names></name>
+<name><surname>Keegan</surname><given-names>P.</given-names></name>
+<name><surname>Howell</surname><given-names>S.</given-names></name>
+<name><surname>Clements</surname><given-names>S.D.</given-names></name>
+<name><surname>Babaliaros</surname><given-names>V.C.</given-names></name>
+<etal/>
+</person-group><article-title>Imaging for Predicting, Detecting, and Managing Complications After Transcatheter Aortic Valve Replacement</article-title><source>JACC Cardiovasc. Imaging</source><year>2019</year><volume>12</volume><fpage>904</fpage><lpage>920</lpage><pub-id pub-id-type="doi">10.1016/j.jcmg.2018.07.036</pub-id><pub-id pub-id-type="pmid">31072518</pub-id>
+</element-citation></ref><ref id="B9-jcm-14-06885"><label>9.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mooney</surname><given-names>J.</given-names></name>
+<name><surname>Sellers</surname><given-names>S.L.</given-names></name>
+<name><surname>Ohana</surname><given-names>M.</given-names></name>
+<name><surname>Cavalcante</surname><given-names>J.</given-names></name>
+<name><surname>Arepalli</surname><given-names>C.</given-names></name>
+<name><surname>Grover</surname><given-names>R.</given-names></name>
+<name><surname>Kim</surname><given-names>U.</given-names></name>
+<name><surname>Selvakumar</surname><given-names>K.</given-names></name>
+<name><surname>Blanke</surname><given-names>P.</given-names></name>
+<name><surname>Leipsic</surname><given-names>J.</given-names></name>
+</person-group><article-title>Imaging for structural heart procedures: Focus on computed tomography</article-title><source>EuroIntervention</source><year>2017</year><volume>13</volume><fpage>AA85</fpage><lpage>AA96</lpage><pub-id pub-id-type="doi">10.4244/EIJ-D-17-00516</pub-id><pub-id pub-id-type="pmid">28942390</pub-id>
+</element-citation></ref><ref id="B10-jcm-14-06885"><label>10.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Grigoryan</surname><given-names>K.</given-names></name>
+<name><surname>Demetrescu</surname><given-names>C.</given-names></name>
+<name><surname>Kasouridis</surname><given-names>I.</given-names></name>
+<name><surname>Abiola</surname><given-names>O.</given-names></name>
+<name><surname>Masci</surname><given-names>P.G.</given-names></name>
+<name><surname>Oguz</surname><given-names>D.</given-names></name>
+<name><surname>Benedetti</surname><given-names>G.</given-names></name>
+<name><surname>Mak</surname><given-names>S.M.</given-names></name>
+<name><surname>Parwani</surname><given-names>P.</given-names></name>
+<name><surname>Preston</surname><given-names>R.</given-names></name>
+<etal/>
+</person-group><article-title>Multimodality Imaging in Valvular Structural Interventions</article-title><source>Card. Fail. Rev.</source><year>2022</year><volume>8</volume><fpage>e31</fpage><pub-id pub-id-type="doi">10.15420/cfr.2022.10</pub-id><pub-id pub-id-type="pmid">36644647</pub-id>
+</element-citation></ref><ref id="B11-jcm-14-06885"><label>11.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Agricola</surname><given-names>E.</given-names></name>
+<name><surname>Ingallina</surname><given-names>G.</given-names></name>
+<name><surname>Ancona</surname><given-names>F.</given-names></name>
+<name><surname>Biondi</surname><given-names>F.</given-names></name>
+<name><surname>Margonato</surname><given-names>D.</given-names></name>
+<name><surname>Barki</surname><given-names>M.</given-names></name>
+<name><surname>Tavernese</surname><given-names>A.</given-names></name>
+<name><surname>Belli</surname><given-names>M.</given-names></name>
+<name><surname>Stella</surname><given-names>S.</given-names></name>
+</person-group><article-title>Evolution of interventional imaging in structural heart disease</article-title><source>Eur. Heart J. Suppl.</source><year>2023</year><volume>25</volume><issue>(Suppl. C)</issue><fpage>C189</fpage><lpage>C199</lpage><pub-id pub-id-type="doi">10.1093/eurheartjsupp/suad044</pub-id><pub-id pub-id-type="pmid">37125282</pub-id>
+</element-citation></ref><ref id="B12-jcm-14-06885"><label>12.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Vrijkorte</surname><given-names>M.G.H.</given-names></name>
+<name><surname>Khalique</surname><given-names>O.K.</given-names></name>
+<name><surname>Lerakis</surname><given-names>S.</given-names></name>
+<name><surname>Swaans</surname><given-names>M.J.</given-names></name>
+</person-group><article-title>Editorial: Imaging in structural heart interventions</article-title><source>Front. Cardiovasc. Med.</source><year>2024</year><volume>11</volume><elocation-id>1364243</elocation-id><pub-id pub-id-type="doi">10.3389/fcvm.2024.1364243</pub-id><pub-id pub-id-type="pmid">38420266</pub-id>
+</element-citation></ref><ref id="B13-jcm-14-06885"><label>13.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Harb</surname><given-names>S.C.</given-names></name>
+<name><surname>Rodriguez</surname><given-names>L.L.</given-names></name>
+<name><surname>Vukicevic</surname><given-names>M.</given-names></name>
+<name><surname>Kapadia</surname><given-names>S.R.</given-names></name>
+<name><surname>Little</surname><given-names>S.H.</given-names></name>
+</person-group><article-title>Three-Dimensional Printing Applications in Percutaneous Structural Heart Interventions</article-title><source>Circ. Cardiovasc. Imaging</source><year>2019</year><volume>12</volume><fpage>e009014</fpage><pub-id pub-id-type="doi">10.1161/CIRCIMAGING.119.009014</pub-id><pub-id pub-id-type="pmid">31594408</pub-id>
+</element-citation></ref><ref id="B14-jcm-14-06885"><label>14.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>G&#x000f3;mez-Ciriza</surname><given-names>G.</given-names></name>
+<name><surname>G&#x000f3;mez-C&#x000ed;a</surname><given-names>T.</given-names></name>
+<name><surname>Rivas-Gonz&#x000e1;lez</surname><given-names>J.A.</given-names></name>
+<name><surname>Forte</surname><given-names>M.N.V.</given-names></name>
+<name><surname>Valverde</surname><given-names>I.</given-names></name>
+</person-group><article-title>Affordable Three-Dimensional Printed Heart Models</article-title><source>Front. Cardiovasc. Med.</source><year>2021</year><volume>8</volume><elocation-id>642011</elocation-id><pub-id pub-id-type="doi">10.3389/fcvm.2021.642011</pub-id><pub-id pub-id-type="pmid">34150862</pub-id>
+</element-citation></ref><ref id="B15-jcm-14-06885"><label>15.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lau</surname><given-names>I.</given-names></name>
+<name><surname>Sun</surname><given-names>Z.</given-names></name>
+</person-group><article-title>Three-dimensional printing in congenital heart disease: A systematic review</article-title><source>J. Med. Radiat. Sci.</source><year>2018</year><volume>65</volume><fpage>226</fpage><lpage>236</lpage><pub-id pub-id-type="doi">10.1002/jmrs.268</pub-id><pub-id pub-id-type="pmid">29453808</pub-id>
+</element-citation></ref><ref id="B16-jcm-14-06885"><label>16.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Spanaki</surname><given-names>A.</given-names></name>
+<name><surname>Kabir</surname><given-names>S.</given-names></name>
+<name><surname>Stephenson</surname><given-names>N.</given-names></name>
+<name><surname>van Poppel</surname><given-names>M.P.M.</given-names></name>
+<name><surname>Benetti</surname><given-names>V.</given-names></name>
+<name><surname>Simpson</surname><given-names>J.</given-names></name>
+</person-group><article-title>3D Approaches in Complex CHD: Where Are We? Funny Printing and Beautiful Images, or a Useful Tool?</article-title><source>J. Cardiovasc. Dev. Dis.</source><year>2022</year><volume>9</volume><elocation-id>269</elocation-id><pub-id pub-id-type="doi">10.3390/jcdd9080269</pub-id><pub-id pub-id-type="pmid">36005432</pub-id>
+</element-citation></ref><ref id="B17-jcm-14-06885"><label>17.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Faza</surname><given-names>N.N.</given-names></name>
+<name><surname>Harb</surname><given-names>S.C.</given-names></name>
+<name><surname>Wang</surname><given-names>D.D.</given-names></name>
+<name><surname>Dorpel</surname><given-names>M.M.v.D.</given-names></name>
+<name><surname>Van Mieghem</surname><given-names>N.</given-names></name>
+<name><surname>Little</surname><given-names>S.H.</given-names></name>
+</person-group><article-title>Physical and Computational Modeling for Transcatheter Structural Heart Interventions</article-title><source>JACC Cardiovasc. Imaging</source><year>2024</year><volume>17</volume><fpage>428</fpage><lpage>440</lpage><pub-id pub-id-type="doi">10.1016/j.jcmg.2024.01.014</pub-id><pub-id pub-id-type="pmid">38569793</pub-id>
+</element-citation></ref><ref id="B18-jcm-14-06885"><label>18.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Vukicevic</surname><given-names>M.</given-names></name>
+<name><surname>Mosadegh</surname><given-names>B.</given-names></name>
+<name><surname>Min</surname><given-names>J.K.</given-names></name>
+<name><surname>Little</surname><given-names>S.H.</given-names></name>
+</person-group><article-title>Cardiac 3D Printing and its Future Directions</article-title><source>JACC Cardiovasc. Imaging</source><year>2017</year><volume>10</volume><fpage>171</fpage><lpage>184</lpage><pub-id pub-id-type="doi">10.1016/j.jcmg.2016.12.001</pub-id><pub-id pub-id-type="pmid">28183437</pub-id>
+</element-citation></ref><ref id="B19-jcm-14-06885"><label>19.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bhandari</surname><given-names>S.</given-names></name>
+<name><surname>Yadav</surname><given-names>V.</given-names></name>
+<name><surname>Ishaq</surname><given-names>A.</given-names></name>
+<name><surname>Sanipini</surname><given-names>S.</given-names></name>
+<name><surname>Ekhator</surname><given-names>C.</given-names></name>
+<name><surname>Khleif</surname><given-names>R.</given-names></name>
+<name><surname>Beheshtaein</surname><given-names>A.</given-names></name>
+<name><surname>Jhajj</surname><given-names>L.K.</given-names></name>
+<name><surname>Khan</surname><given-names>A.W.</given-names></name>
+<name><surname>Al Khalifa</surname><given-names>A.</given-names></name>
+<etal/>
+</person-group><article-title>Trends and Challenges in the Development of 3D-Printed Heart Valves and Other Cardiac Implants: A Review of Current Advances</article-title><source>Cureus</source><year>2023</year><volume>15</volume><fpage>e43204</fpage><pub-id pub-id-type="doi">10.7759/cureus.43204</pub-id><pub-id pub-id-type="pmid">37565179</pub-id>
+</element-citation></ref><ref id="B20-jcm-14-06885"><label>20.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wong</surname><given-names>P.</given-names></name>
+<name><surname>Wisneski</surname><given-names>A.D.</given-names></name>
+<name><surname>Sandhu</surname><given-names>A.</given-names></name>
+<name><surname>Wang</surname><given-names>Z.</given-names></name>
+<name><surname>Mahadevan</surname><given-names>V.S.</given-names></name>
+<name><surname>Nguyen</surname><given-names>T.C.</given-names></name>
+<name><surname>Guccione</surname><given-names>J.M.</given-names></name>
+</person-group><article-title>Looking towards the future: Patient-specific computational modeling to optimize outcomes for transcatheter mitral valve repair</article-title><source>Front. Cardiovasc. Med.</source><year>2023</year><volume>10</volume><elocation-id>1140379</elocation-id><pub-id pub-id-type="doi">10.3389/fcvm.2023.1140379</pub-id><pub-id pub-id-type="pmid">37168656</pub-id>
+</element-citation></ref><ref id="B21-jcm-14-06885"><label>21.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Samant</surname><given-names>S.</given-names></name>
+<name><surname>Bakhos</surname><given-names>J.J.</given-names></name>
+<name><surname>Wu</surname><given-names>W.</given-names></name>
+<name><surname>Zhao</surname><given-names>S.</given-names></name>
+<name><surname>Kassab</surname><given-names>G.S.</given-names></name>
+<name><surname>Khan</surname><given-names>B.</given-names></name>
+<name><surname>Panagopoulos</surname><given-names>A.</given-names></name>
+<name><surname>Makadia</surname><given-names>J.</given-names></name>
+<name><surname>Oguz</surname><given-names>U.M.</given-names></name>
+<name><surname>Banga</surname><given-names>A.</given-names></name>
+<etal/>
+</person-group><article-title>Artificial Intelligence, Computational Simulations, and Extended Reality in Cardiovascular Interventions</article-title><source>JACC Cardiovasc. Interv.</source><year>2023</year><volume>16</volume><fpage>2479</fpage><lpage>2497</lpage><pub-id pub-id-type="doi">10.1016/j.jcin.2023.07.022</pub-id><pub-id pub-id-type="pmid">37879802</pub-id>
+</element-citation></ref><ref id="B22-jcm-14-06885"><label>22.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ooms</surname><given-names>J.F.</given-names></name>
+<name><surname>Wang</surname><given-names>D.D.</given-names></name>
+<name><surname>Rajani</surname><given-names>R.</given-names></name>
+<name><surname>Redwood</surname><given-names>S.</given-names></name>
+<name><surname>Little</surname><given-names>S.H.</given-names></name>
+<name><surname>Chuang</surname><given-names>M.L.</given-names></name>
+<name><surname>Popma</surname><given-names>J.J.</given-names></name>
+<name><surname>Dahle</surname><given-names>G.</given-names></name>
+<name><surname>Pfeiffer</surname><given-names>M.</given-names></name>
+<name><surname>Kanda</surname><given-names>B.</given-names></name>
+<etal/>
+</person-group><article-title>Computed Tomography-Derived 3D Modeling to Guide Sizing and Planning of Transcatheter Mitral Valve Interventions</article-title><source>JACC Cardiovasc. Imaging</source><year>2021</year><volume>14</volume><fpage>1644</fpage><lpage>1658</lpage><pub-id pub-id-type="doi">10.1016/j.jcmg.2020.12.034</pub-id><pub-id pub-id-type="pmid">33744155</pub-id>
+</element-citation></ref><ref id="B23-jcm-14-06885"><label>23.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Alkhouli</surname><given-names>M.</given-names></name>
+<name><surname>Hatoum</surname><given-names>H.</given-names></name>
+<name><surname>Piazza</surname><given-names>N.</given-names></name>
+</person-group><article-title>Computational Modeling to Guide Structural Heart Interventions: Measure Twice (or Thrice) But Cut Once</article-title><source>JACC Cardiovasc. Interv.</source><year>2023</year><volume>16</volume><fpage>667</fpage><lpage>669</lpage><pub-id pub-id-type="doi">10.1016/j.jcin.2023.01.006</pub-id><pub-id pub-id-type="pmid">36990555</pub-id>
+</element-citation></ref><ref id="B24-jcm-14-06885"><label>24.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Krishnaswamy</surname><given-names>A.</given-names></name>
+<name><surname>Kassab</surname><given-names>J.</given-names></name>
+<name><surname>Harb</surname><given-names>S.C.</given-names></name>
+</person-group><article-title>Beyond Simple Visualization: A New Reality for Structural Heart Interventions?</article-title><source>J. Am. Heart Assoc.</source><year>2024</year><volume>13</volume><fpage>e036238</fpage><pub-id pub-id-type="doi">10.1161/JAHA.124.036238</pub-id><pub-id pub-id-type="pmid">39041623</pub-id>
+</element-citation></ref><ref id="B25-jcm-14-06885"><label>25.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>De Backer</surname><given-names>O.</given-names></name>
+<name><surname>Iriart</surname><given-names>X.</given-names></name>
+<name><surname>Kefer</surname><given-names>J.</given-names></name>
+<name><surname>Nielsen-Kudsk</surname><given-names>J.E.</given-names></name>
+<name><surname>Aminian</surname><given-names>A.</given-names></name>
+<name><surname>Rosseel</surname><given-names>L.</given-names></name>
+<name><surname>Kofoed</surname><given-names>K.F.</given-names></name>
+<name><surname>Odenstedt</surname><given-names>J.</given-names></name>
+<name><surname>Berti</surname><given-names>S.</given-names></name>
+<name><surname>Saw</surname><given-names>J.</given-names></name>
+<etal/>
+</person-group><article-title>Impact of Computational Modeling on Transcatheter Left Atrial Appendage Closure Efficiency and Outcomes</article-title><source>JACC Cardiovasc. Interv.</source><year>2023</year><volume>16</volume><fpage>655</fpage><lpage>666</lpage><pub-id pub-id-type="doi">10.1016/j.jcin.2023.01.008</pub-id><pub-id pub-id-type="pmid">36990554</pub-id>
+</element-citation></ref><ref id="B26-jcm-14-06885"><label>26.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hokken</surname><given-names>T.W.</given-names></name>
+<name><surname>Wienemann</surname><given-names>H.</given-names></name>
+<name><surname>Dargan</surname><given-names>J.</given-names></name>
+<name><surname>van Ginkel</surname><given-names>D.-J.</given-names></name>
+<name><surname>Dowling</surname><given-names>C.</given-names></name>
+<name><surname>Unbehaun</surname><given-names>A.</given-names></name>
+<name><surname>Bosmans</surname><given-names>J.</given-names></name>
+<name><surname>Bader-Wolfe</surname><given-names>A.</given-names></name>
+<name><surname>Gooley</surname><given-names>D.</given-names></name>
+<name><surname>Swaans</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group><article-title>Clinical value of CT-derived simulations of transcatheter-aortic-valve-implantation in challenging anatomies the PRECISE-TAVI trial</article-title><source>Catheter. Cardiovasc. Interv.</source><year>2023</year><volume>102</volume><fpage>1140</fpage><lpage>1148</lpage><pub-id pub-id-type="doi">10.1002/ccd.30816</pub-id><pub-id pub-id-type="pmid">37668110</pub-id>
+</element-citation></ref><ref id="B27-jcm-14-06885"><label>27.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Raphael</surname><given-names>C.E.</given-names></name>
+<name><surname>Alkhouli</surname><given-names>M.</given-names></name>
+<name><surname>Maor</surname><given-names>E.</given-names></name>
+<name><surname>van Ginkel</surname><given-names>D.</given-names></name>
+<name><surname>Dowling</surname><given-names>C.</given-names></name>
+<name><surname>Unbehaun</surname><given-names>A.</given-names></name>
+<name><surname>Bosmans</surname><given-names>J.</given-names></name>
+<name><surname>Bader-Wolfe</surname><given-names>A.</given-names></name>
+<name><surname>Gooley</surname><given-names>R.</given-names></name>
+<name><surname>Swaans</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group><article-title>Building Blocks of Structural Intervention: A Novel Modular Paradigm for Procedural Training</article-title><source>Circ. Cardiovasc. Interv.</source><year>2017</year><volume>10</volume><fpage>e005686</fpage><pub-id pub-id-type="doi">10.1161/CIRCINTERVENTIONS.117.005686</pub-id><pub-id pub-id-type="pmid">28951397</pub-id>
+</element-citation></ref><ref id="B28-jcm-14-06885"><label>28.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>De Cock</surname><given-names>E.</given-names></name>
+<name><surname>Lochy</surname><given-names>S.</given-names></name>
+<name><surname>Rivero-Ayerza</surname><given-names>M.</given-names></name>
+<name><surname>Lempereur</surname><given-names>M.</given-names></name>
+<name><surname>Cornelis</surname><given-names>K.</given-names></name>
+<name><surname>Debonnaire</surname><given-names>P.</given-names></name>
+<name><surname>Vermeersch</surname><given-names>P.</given-names></name>
+<name><surname>Christiaen</surname><given-names>E.</given-names></name>
+<name><surname>Buysschaert</surname><given-names>I.</given-names></name>
+</person-group><article-title>Clinical Value of CT-Based 3D Computational Modeling in Left Atrial Appendage Occlusion: An In-Depth Analysis of the PRECISE LAAO Study</article-title><source>Catheter. Cardiovasc. Interv.</source><year>2025</year><volume>105</volume><fpage>1356</fpage><lpage>1364</lpage><pub-id pub-id-type="doi">10.1002/ccd.31464</pub-id><pub-id pub-id-type="pmid">39989438</pub-id>
+</element-citation></ref><ref id="B29-jcm-14-06885"><label>29.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Barbanti</surname><given-names>M.</given-names></name>
+<name><surname>Yang</surname><given-names>T.-H.</given-names></name>
+<name><surname>Rod&#x000e8;s Cabau</surname><given-names>J.</given-names></name>
+<name><surname>Tamburino</surname><given-names>C.</given-names></name>
+<name><surname>Wood</surname><given-names>D.A.</given-names></name>
+<name><surname>Jilaihawi</surname><given-names>H.</given-names></name>
+<name><surname>Blanke</surname><given-names>P.</given-names></name>
+<name><surname>Makkar</surname><given-names>R.R.</given-names></name>
+<name><surname>Latib</surname><given-names>A.</given-names></name>
+<name><surname>Colombo</surname><given-names>A.</given-names></name>
+<etal/>
+</person-group><article-title>Anatomical and Procedural Features Associated With Aortic Root Rupture During Balloon-Expandable Transcatheter Aortic Valve Replacement</article-title><source>Circulation</source><year>2013</year><volume>128</volume><fpage>244</fpage><lpage>253</lpage><pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.113.002947</pub-id><pub-id pub-id-type="pmid">23748467</pub-id>
+</element-citation></ref><ref id="B30-jcm-14-06885"><label>30.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Girdauskas</surname><given-names>E.</given-names></name>
+<name><surname>Owais</surname><given-names>T.</given-names></name>
+<name><surname>Fey</surname><given-names>B.</given-names></name>
+<name><surname>Kuntze</surname><given-names>F.</given-names></name>
+<name><surname>Lauer</surname><given-names>B.</given-names></name>
+<name><surname>Borger</surname><given-names>M.A.</given-names></name>
+<name><surname>Conradi</surname><given-names>L.</given-names></name>
+<name><surname>Reichenspurner</surname><given-names>H.</given-names></name>
+<name><surname>Kuntze</surname><given-names>T.</given-names></name>
+</person-group><article-title>Subannular perforation of left ventricular outflow tract associated with transcatheter valve implantation: Pathophysiological background and clinical implications</article-title><source>Eur. J. Cardiothorac. Surg.</source><year>2017</year><volume>51</volume><fpage>91</fpage><lpage>96</lpage><pub-id pub-id-type="doi">10.1093/ejcts/ezw252</pub-id><pub-id pub-id-type="pmid">27412343</pub-id>
+</element-citation></ref><ref id="B31-jcm-14-06885"><label>31.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Q.</given-names></name>
+<name><surname>Kodali</surname><given-names>S.</given-names></name>
+<name><surname>Primiano</surname><given-names>C.</given-names></name>
+<name><surname>Sun</surname><given-names>W.</given-names></name>
+</person-group><article-title>Simulations of transcatheter aortic valve implantation: Implications for aortic root rupture</article-title><source>Biomech. Model. Mechanobiol.</source><year>2015</year><volume>14</volume><fpage>29</fpage><lpage>38</lpage><pub-id pub-id-type="doi">10.1007/s10237-014-0583-7</pub-id><pub-id pub-id-type="pmid">24736808</pub-id>
+</element-citation></ref><ref id="B32-jcm-14-06885"><label>32.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>S&#x000e1;</surname><given-names>M.P.</given-names></name>
+<name><surname>Jacquemyn</surname><given-names>X.</given-names></name>
+<name><surname>Van den Eynde</surname><given-names>J.</given-names></name>
+<name><surname>Tasoudis</surname><given-names>P.</given-names></name>
+<name><surname>Erten</surname><given-names>O.</given-names></name>
+<name><surname>Sicouri</surname><given-names>S.</given-names></name>
+<name><surname>Macedo</surname><given-names>F.Y.</given-names></name>
+<name><surname>Pasala</surname><given-names>T.</given-names></name>
+<name><surname>Kaple</surname><given-names>R.</given-names></name>
+<name><surname>Weymann</surname><given-names>A.</given-names></name>
+<etal/>
+</person-group><article-title>Impact of Paravalvular Leak on Outcomes After Transcatheter Aortic Valve Implantation: Meta-Analysis of Kaplan-Meier-derived Individual Patient Data</article-title><source>Struct. Heart</source><year>2023</year><volume>7</volume><fpage>100118</fpage><pub-id pub-id-type="doi">10.1016/j.shj.2022.100118</pub-id><pub-id pub-id-type="pmid">37275584</pub-id>
+</element-citation></ref><ref id="B33-jcm-14-06885"><label>33.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bianchi</surname><given-names>M.</given-names></name>
+<name><surname>Marom</surname><given-names>G.</given-names></name>
+<name><surname>Ghosh</surname><given-names>R.P.</given-names></name>
+<name><surname>Rotman</surname><given-names>O.M.</given-names></name>
+<name><surname>Parikh</surname><given-names>P.</given-names></name>
+<name><surname>Gruberg</surname><given-names>L.</given-names></name>
+<name><surname>Bluestein</surname><given-names>D.</given-names></name>
+</person-group><article-title>Patient-specific simulation of transcatheter aortic valve replacement: Impact of deployment options on paravalvular leakage</article-title><source>Biomech. Model. Mechanobiol.</source><year>2019</year><volume>18</volume><fpage>435</fpage><lpage>451</lpage><pub-id pub-id-type="doi">10.1007/s10237-018-1094-8</pub-id><pub-id pub-id-type="pmid">30460623</pub-id>
+</element-citation></ref><ref id="B34-jcm-14-06885"><label>34.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Luraghi</surname><given-names>G.</given-names></name>
+<name><surname>Matas</surname><given-names>J.F.R.</given-names></name>
+<name><surname>Beretta</surname><given-names>M.</given-names></name>
+<name><surname>Chiozzi</surname><given-names>N.</given-names></name>
+<name><surname>Iannetti</surname><given-names>L.</given-names></name>
+<name><surname>Migliavacca</surname><given-names>F.</given-names></name>
+</person-group><article-title>The impact of calcification patterns in transcatheter aortic valve performance: A fluid-structure interaction analysis</article-title><source>Comput. Methods Biomech. Biomed. Eng.</source><year>2021</year><volume>24</volume><fpage>375</fpage><lpage>383</lpage><pub-id pub-id-type="doi">10.1080/10255842.2020.1817409</pub-id></element-citation></ref><ref id="B35-jcm-14-06885"><label>35.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Luraghi</surname><given-names>G.</given-names></name>
+<name><surname>Migliavacca</surname><given-names>F.</given-names></name>
+<name><surname>Garcia-Gonzalez</surname><given-names>A.</given-names></name>
+<name><surname>Chiastra</surname><given-names>C.</given-names></name>
+<name><surname>Rossi</surname><given-names>A.</given-names></name>
+<name><surname>Cao</surname><given-names>D.</given-names></name>
+<name><surname>Stefanini</surname><given-names>G.</given-names></name>
+<name><surname>Matas</surname><given-names>J.F.R.</given-names></name>
+</person-group><article-title>On the Modeling of Patient-Specific Transcatheter Aortic Valve Replacement: A Fluid-Structure Interaction Approach</article-title><source>Cardiovasc. Eng. Technol.</source><year>2019</year><volume>10</volume><fpage>437</fpage><lpage>455</lpage><pub-id pub-id-type="doi">10.1007/s13239-019-00427-0</pub-id><pub-id pub-id-type="pmid">31309527</pub-id>
+</element-citation></ref><ref id="B36-jcm-14-06885"><label>36.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mao</surname><given-names>W.</given-names></name>
+<name><surname>Wang</surname><given-names>Q.</given-names></name>
+<name><surname>Kodali</surname><given-names>S.</given-names></name>
+<name><surname>Sun</surname><given-names>W.</given-names></name>
+</person-group><article-title>Numerical Parametric Study of Paravalvular Leak Following a Transcatheter Aortic Valve Deployment Into a Patient-Specific Aortic Root</article-title><source>J. Biomech. Eng.</source><year>2018</year><volume>140</volume><fpage>1010071</fpage><lpage>10100711</lpage><pub-id pub-id-type="doi">10.1115/1.4040457</pub-id><pub-id pub-id-type="pmid">30029247</pub-id>
+</element-citation></ref><ref id="B37-jcm-14-06885"><label>37.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Nappi</surname><given-names>F.</given-names></name>
+<name><surname>Mazzocchi</surname><given-names>L.</given-names></name>
+<name><surname>Spadaccio</surname><given-names>C.</given-names></name>
+<name><surname>Attias</surname><given-names>D.</given-names></name>
+<name><surname>Timofeva</surname><given-names>I.</given-names></name>
+<name><surname>Macron</surname><given-names>L.</given-names></name>
+<name><surname>Iervolino</surname><given-names>A.</given-names></name>
+<name><surname>Morganti</surname><given-names>S.</given-names></name>
+<name><surname>Auricchio</surname><given-names>F.</given-names></name>
+</person-group><article-title>CoreValve vs. Sapien 3 Transcatheter Aortic Valve Replacement: A Finite Element Analysis Study</article-title><source>Bioengineering</source><year>2021</year><volume>8</volume><elocation-id>52</elocation-id><pub-id pub-id-type="doi">10.3390/bioengineering8050052</pub-id><pub-id pub-id-type="pmid">33925437</pub-id>
+</element-citation></ref><ref id="B38-jcm-14-06885"><label>38.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ghosh</surname><given-names>R.P.</given-names></name>
+<name><surname>Marom</surname><given-names>G.</given-names></name>
+<name><surname>Bianchi</surname><given-names>M.</given-names></name>
+<name><surname>D&#x02019;Souza</surname><given-names>K.</given-names></name>
+<name><surname>Zietak</surname><given-names>W.</given-names></name>
+<name><surname>Bluestein</surname><given-names>D.</given-names></name>
+</person-group><article-title>Numerical evaluation of transcatheter aortic valve performance during heart beating and its post-deployment fluid-structure interaction analysis</article-title><source>Biomech. Model. Mechanobiol.</source><year>2020</year><volume>19</volume><fpage>1725</fpage><lpage>1740</lpage><pub-id pub-id-type="doi">10.1007/s10237-020-01304-9</pub-id><pub-id pub-id-type="pmid">32095912</pub-id>
+</element-citation></ref><ref id="B39-jcm-14-06885"><label>39.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ribeiro</surname><given-names>H.B.</given-names></name>
+<name><surname>Webb</surname><given-names>J.G.</given-names></name>
+<name><surname>Makkar</surname><given-names>R.R.</given-names></name>
+<name><surname>Cohen</surname><given-names>M.G.</given-names></name>
+<name><surname>Kapadia</surname><given-names>S.R.</given-names></name>
+<name><surname>Kodali</surname><given-names>S.</given-names></name>
+<name><surname>Tamburino</surname><given-names>C.</given-names></name>
+<name><surname>Barbanti</surname><given-names>M.</given-names></name>
+<name><surname>Chakravarty</surname><given-names>T.</given-names></name>
+<name><surname>Jilaihawi</surname><given-names>H.</given-names></name>
+<etal/>
+</person-group><article-title>Predictive factors, management, and clinical outcomes of coronary obstruction following transcatheter aortic valve implantation: Insights from a large multicenter registry</article-title><source>J. Am. Coll. Cardiol.</source><year>2013</year><volume>62</volume><fpage>1552</fpage><lpage>1562</lpage><pub-id pub-id-type="doi">10.1016/j.jacc.2013.07.040</pub-id><pub-id pub-id-type="pmid">23954337</pub-id>
+</element-citation></ref><ref id="B40-jcm-14-06885"><label>40.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Khan Jaffar</surname><given-names>M.</given-names></name>
+<name><surname>Kamioka</surname><given-names>N.</given-names></name>
+<name><surname>Lisko John</surname><given-names>C.</given-names></name>
+<name><surname>Perdoncin</surname><given-names>E.</given-names></name>
+<name><surname>Zhang</surname><given-names>C.</given-names></name>
+<name><surname>Maini</surname><given-names>A.</given-names></name>
+<name><surname>Chen</surname><given-names>M.</given-names></name>
+<name><surname>Li</surname><given-names>Y.</given-names></name>
+<name><surname>Ludwig</surname><given-names>S.</given-names></name>
+<name><surname>Westermann</surname><given-names>D.</given-names></name>
+<etal/>
+</person-group><article-title>Coronary Obstruction From TAVR in Native Aortic Stenosis</article-title><source>JACC Cardiovasc. Interv.</source><year>2023</year><volume>16</volume><fpage>415</fpage><lpage>425</lpage><pub-id pub-id-type="doi">10.1016/j.jcin.2022.11.018</pub-id><pub-id pub-id-type="pmid">36858660</pub-id>
+</element-citation></ref><ref id="B41-jcm-14-06885"><label>41.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Heitkemper</surname><given-names>M.</given-names></name>
+<name><surname>Hatoum</surname><given-names>H.</given-names></name>
+<name><surname>Azimian</surname><given-names>A.</given-names></name>
+<name><surname>Yeats</surname><given-names>B.</given-names></name>
+<name><surname>Dollery</surname><given-names>J.</given-names></name>
+<name><surname>Whitson</surname><given-names>B.</given-names></name>
+<name><surname>Rushing</surname><given-names>G.</given-names></name>
+<name><surname>Crestanello</surname><given-names>J.</given-names></name>
+<name><surname>Lilly</surname><given-names>S.M.</given-names></name>
+<name><surname>Dasi</surname><given-names>L.P.</given-names></name>
+</person-group><article-title>Modeling risk of coronary obstruction during transcatheter aortic valve replacement</article-title><source>J. Thorac. Cardiovasc. Surg.</source><year>2020</year><volume>159</volume><fpage>829</fpage><lpage>838.e3</lpage><pub-id pub-id-type="doi">10.1016/j.jtcvs.2019.04.091</pub-id><pub-id pub-id-type="pmid">31230808</pub-id>
+</element-citation></ref><ref id="B42-jcm-14-06885"><label>42.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Holst</surname><given-names>K.</given-names></name>
+<name><surname>Becker</surname><given-names>T.</given-names></name>
+<name><surname>Magruder</surname><given-names>J.T.</given-names></name>
+<name><surname>Yadav</surname><given-names>P.</given-names></name>
+<name><surname>Stewart</surname><given-names>J.</given-names></name>
+<name><surname>Rajagopal</surname><given-names>V.</given-names></name>
+<name><surname>Liu</surname><given-names>S.</given-names></name>
+<name><surname>Polsani</surname><given-names>V.</given-names></name>
+<name><surname>Dasi</surname><given-names>L.P.</given-names></name>
+<name><surname>Thourani</surname><given-names>V.H.</given-names></name>
+</person-group><article-title>Beyond Static Planning: Computational Predictive Modeling to Avoid Coronary Artery Occlusion in TAVR</article-title><source>Ann. Thorac. Surg.</source><year>2025</year><volume>119</volume><fpage>145</fpage><lpage>151</lpage><pub-id pub-id-type="doi">10.1016/j.athoracsur.2024.05.041</pub-id><pub-id pub-id-type="pmid">38901627</pub-id>
+</element-citation></ref><ref id="B43-jcm-14-06885"><label>43.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wei</surname><given-names>Z.A.</given-names></name>
+<name><surname>Sonntag</surname><given-names>S.J.</given-names></name>
+<name><surname>Toma</surname><given-names>M.</given-names></name>
+<name><surname>Singh-Gryzbon</surname><given-names>S.</given-names></name>
+<name><surname>Sun</surname><given-names>W.</given-names></name>
+</person-group><article-title>Computational Fluid Dynamics Assessment Associated with Transcatheter Heart Valve Prostheses: A Position Paper of the ISO Working Group</article-title><source>Cardiovasc. Eng. Technol.</source><year>2018</year><volume>9</volume><fpage>289</fpage><lpage>299</lpage><pub-id pub-id-type="doi">10.1007/s13239-018-0349-y</pub-id><pub-id pub-id-type="pmid">29675697</pub-id>
+</element-citation></ref><ref id="B44-jcm-14-06885"><label>44.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Plitman Mayo</surname><given-names>R.</given-names></name>
+<name><surname>Yaakobovich</surname><given-names>H.</given-names></name>
+<name><surname>Finkelstein</surname><given-names>A.</given-names></name>
+<name><surname>Shadden</surname><given-names>S.C.</given-names></name>
+<name><surname>Marom</surname><given-names>G.</given-names></name>
+</person-group><article-title>Numerical models for assessing the risk of leaflet thrombosis post-transcatheter aortic valve-in-valve implantation</article-title><source>R. Soc. Open Sci.</source><year>2020</year><volume>7</volume><fpage>201838</fpage><pub-id pub-id-type="doi">10.1098/rsos.201838</pub-id><pub-id pub-id-type="pmid">33489295</pub-id>
+</element-citation></ref><ref id="B45-jcm-14-06885"><label>45.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hatoum</surname><given-names>H.</given-names></name>
+<name><surname>Maureira</surname><given-names>P.</given-names></name>
+<name><surname>Lilly</surname><given-names>S.</given-names></name>
+<name><surname>Dasi</surname><given-names>L.P.</given-names></name>
+</person-group><article-title>Impact of BASILICA on Sinus and Neo-Sinus Hemodynamics after Valve-in-Valve with and without Coronary Flow</article-title><source>Cardiovasc. Revasc. Med.</source><year>2020</year><volume>21</volume><fpage>271</fpage><lpage>276</lpage><pub-id pub-id-type="doi">10.1016/j.carrev.2019.06.015</pub-id><pub-id pub-id-type="pmid">31281093</pub-id>
+</element-citation></ref><ref id="B46-jcm-14-06885"><label>46.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rocatello</surname><given-names>G.</given-names></name>
+<name><surname>El Faquir</surname><given-names>N.</given-names></name>
+<name><surname>De Santis</surname><given-names>G.</given-names></name>
+<name><surname>Iannaccone</surname><given-names>F.</given-names></name>
+<name><surname>Bosmans</surname><given-names>J.</given-names></name>
+<name><surname>De Backer</surname><given-names>O.</given-names></name>
+<name><surname>Sondergaard</surname><given-names>L.</given-names></name>
+<name><surname>Segers</surname><given-names>P.</given-names></name>
+<name><surname>De Beule</surname><given-names>M.</given-names></name>
+<name><surname>de Jaegere</surname><given-names>P.</given-names></name>
+<etal/>
+</person-group><article-title>Patient-Specific Computer Simulation to Elucidate the Role of Contact Pressure in the Development of New Conduction Abnormalities After Catheter-Based Implantation of a Self-Expanding Aortic Valve</article-title><source>Circ. Cardiovasc. Interv.</source><year>2018</year><volume>11</volume><fpage>e005344</fpage><pub-id pub-id-type="doi">10.1161/CIRCINTERVENTIONS.117.005344</pub-id><pub-id pub-id-type="pmid">29386188</pub-id>
+</element-citation></ref><ref id="B47-jcm-14-06885"><label>47.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>M.</given-names></name>
+<name><surname>Wang</surname><given-names>Y.</given-names></name>
+<name><surname>Debusschere</surname><given-names>N.</given-names></name>
+<name><surname>Rocatello</surname><given-names>G.</given-names></name>
+<name><surname>Cheng</surname><given-names>S.</given-names></name>
+<name><surname>Jin</surname><given-names>J.</given-names></name>
+<name><surname>Yu</surname><given-names>S.</given-names></name>
+</person-group><article-title>Predicting new-onset persistent conduction disturbance following transcatheter aortic valve replacement: The usefulness of FEOPS finite element analysis</article-title><source>BMC Cardiovasc. Disord.</source><year>2024</year><volume>24</volume><elocation-id>607</elocation-id><pub-id pub-id-type="doi">10.1186/s12872-024-04302-2</pub-id><pub-id pub-id-type="pmid">39482610</pub-id>
+</element-citation></ref><ref id="B48-jcm-14-06885"><label>48.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dowling</surname><given-names>C.</given-names></name>
+<name><surname>Gooley</surname><given-names>R.</given-names></name>
+<name><surname>McCormick</surname><given-names>L.</given-names></name>
+<name><surname>Firoozi</surname><given-names>S.</given-names></name>
+<name><surname>Brecker</surname><given-names>S.J.</given-names></name>
+</person-group><article-title>Patient-specific Computer Simulation: An Emerging Technology for Guiding the Transcatheter Treatment of Patients with Bicuspid Aortic Valve</article-title><source>Interv. Cardiol.</source><year>2021</year><volume>16</volume><fpage>e26</fpage><pub-id pub-id-type="doi">10.15420/icr.2021.09</pub-id><pub-id pub-id-type="pmid">34721665</pub-id>
+</element-citation></ref><ref id="B49-jcm-14-06885"><label>49.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pasta</surname><given-names>S.</given-names></name>
+<name><surname>Rinaudo</surname><given-names>A.</given-names></name>
+<name><surname>Luca</surname><given-names>A.</given-names></name>
+<name><surname>Pilato</surname><given-names>M.</given-names></name>
+<name><surname>Scardulla</surname><given-names>C.</given-names></name>
+<name><surname>Gleason</surname><given-names>T.G.</given-names></name>
+<name><surname>Vorp</surname><given-names>D.A.</given-names></name>
+</person-group><article-title>Difference in hemodynamic and wall stress of ascending thoracic aortic aneurysms with bicuspid and tricuspid aortic valve</article-title><source>J. Biomech.</source><year>2013</year><volume>46</volume><fpage>1729</fpage><lpage>1738</lpage><pub-id pub-id-type="doi">10.1016/j.jbiomech.2013.03.029</pub-id><pub-id pub-id-type="pmid">23664314</pub-id>
+</element-citation></ref><ref id="B50-jcm-14-06885"><label>50.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>de Jaegere</surname><given-names>P.</given-names></name>
+<name><surname>Rocatello</surname><given-names>G.</given-names></name>
+<name><surname>Prendergast</surname><given-names>B.D.</given-names></name>
+<name><surname>de Backer</surname><given-names>O.</given-names></name>
+<name><surname>Van Mieghem</surname><given-names>N.M.</given-names></name>
+<name><surname>Rajani</surname><given-names>R.</given-names></name>
+</person-group><article-title>Patient-specific computer simulation for transcatheter cardiac interventions: What a clinician needs to know</article-title><source>Heart</source><year>2019</year><volume>105</volume><issue>(Suppl. 2)</issue><fpage>s21</fpage><lpage>s27</lpage><pub-id pub-id-type="doi">10.1136/heartjnl-2018-313514</pub-id><pub-id pub-id-type="pmid">30846521</pub-id>
+</element-citation></ref><ref id="B51-jcm-14-06885"><label>51.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kohli</surname><given-names>K.</given-names></name>
+<name><surname>Wei</surname><given-names>Z.A.</given-names></name>
+<name><surname>Sadri</surname><given-names>V.</given-names></name>
+<name><surname>Easley</surname><given-names>T.F.</given-names></name>
+<name><surname>Pierce</surname><given-names>E.L.</given-names></name>
+<name><surname>Zhang</surname><given-names>Y.N.</given-names></name>
+<name><surname>Wang</surname><given-names>D.D.</given-names></name>
+<name><surname>Greenbaum</surname><given-names>A.B.</given-names></name>
+<name><surname>Lisko</surname><given-names>J.C.</given-names></name>
+<name><surname>Khan</surname><given-names>J.M.</given-names></name>
+<etal/>
+</person-group><article-title>Framework for Planning TMVR using 3-D Imaging, <italic toggle="yes">In Silico</italic> Modeling, and Virtual Reality</article-title><source>Struct. Heart</source><year>2020</year><volume>4</volume><fpage>336</fpage><lpage>341</lpage><pub-id pub-id-type="doi">10.1080/24748706.2020.1762268</pub-id></element-citation></ref><ref id="B52-jcm-14-06885"><label>52.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lau</surname><given-names>K.D.</given-names></name>
+<name><surname>Diaz</surname><given-names>V.</given-names></name>
+<name><surname>Scambler</surname><given-names>P.</given-names></name>
+<name><surname>Burriesci</surname><given-names>G.</given-names></name>
+</person-group><article-title>Mitral valve dynamics in structural and fluid-structure interaction models</article-title><source>Med. Eng. Phys.</source><year>2010</year><volume>32</volume><fpage>1057</fpage><lpage>1064</lpage><pub-id pub-id-type="doi">10.1016/j.medengphy.2010.07.008</pub-id><pub-id pub-id-type="pmid">20702128</pub-id>
+</element-citation></ref><ref id="B53-jcm-14-06885"><label>53.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dabiri</surname><given-names>Y.</given-names></name>
+<name><surname>Yao</surname><given-names>J.</given-names></name>
+<name><surname>Mahadevan</surname><given-names>V.S.</given-names></name>
+<name><surname>Gruber</surname><given-names>D.</given-names></name>
+<name><surname>Arnaout</surname><given-names>R.</given-names></name>
+<name><surname>Gentzsch</surname><given-names>W.</given-names></name>
+<name><surname>Guccione</surname><given-names>J.M.</given-names></name>
+<name><surname>Kassab</surname><given-names>G.S.</given-names></name>
+</person-group><article-title>Mitral Valve Atlas for Artificial Intelligence Predictions of MitraClip Intervention Outcomes</article-title><source>Front. Cardiovasc. Med.</source><year>2021</year><volume>8</volume><elocation-id>759675</elocation-id><pub-id pub-id-type="doi">10.3389/fcvm.2021.759675</pub-id><pub-id pub-id-type="pmid">34957251</pub-id>
+</element-citation></ref><ref id="B54-jcm-14-06885"><label>54.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dabiri</surname><given-names>Y.</given-names></name>
+<name><surname>Mahadevan</surname><given-names>V.S.</given-names></name>
+<name><surname>Guccione</surname><given-names>J.M.</given-names></name>
+<name><surname>Kassab</surname><given-names>G.S.</given-names></name>
+</person-group><article-title>Machine learning used for simulation of MitraClip intervention: A proof-of-concept study</article-title><source>Front. Genet.</source><year>2023</year><volume>14</volume><elocation-id>1142446</elocation-id><pub-id pub-id-type="doi">10.3389/fgene.2023.1142446</pub-id><pub-id pub-id-type="pmid">36968590</pub-id>
+</element-citation></ref><ref id="B55-jcm-14-06885"><label>55.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Prescott</surname><given-names>B.</given-names></name>
+<name><surname>Abunassar</surname><given-names>C.J.</given-names></name>
+<name><surname>Baxevanakis</surname><given-names>K.P.</given-names></name>
+<name><surname>Zhao</surname><given-names>L.</given-names></name>
+</person-group><article-title>Computational evaluation of mitral valve repair with MitraClip</article-title><source>Vessel. Plus</source><year>2019</year><volume>3</volume><fpage>13</fpage><pub-id pub-id-type="doi">10.20517/2574-1209.2018.70</pub-id></element-citation></ref><ref id="B56-jcm-14-06885"><label>56.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hart</surname><given-names>E.A.</given-names></name>
+<name><surname>De Bock</surname><given-names>S.</given-names></name>
+<name><surname>De Beule</surname><given-names>M.</given-names></name>
+<name><surname>Teske</surname><given-names>A.J.</given-names></name>
+<name><surname>Chamuleau</surname><given-names>S.A.</given-names></name>
+<name><surname>Voskuil</surname><given-names>M.</given-names></name>
+<name><surname>Kraaijeveld</surname><given-names>A.O.</given-names></name>
+</person-group><article-title>Transoesophageal echocardiography-based computational simulation of the mitral valve for MitraClip placement</article-title><source>EuroIntervention</source><year>2019</year><volume>15</volume><fpage>e239</fpage><lpage>e241</lpage><pub-id pub-id-type="doi">10.4244/EIJ-D-18-00644</pub-id><pub-id pub-id-type="pmid">30777841</pub-id>
+</element-citation></ref><ref id="B57-jcm-14-06885"><label>57.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Messika-Zeitoun</surname><given-names>D.</given-names></name>
+<name><surname>Mousavi</surname><given-names>J.</given-names></name>
+<name><surname>Pourmoazen</surname><given-names>M.</given-names></name>
+<name><surname>Cotte</surname><given-names>F.</given-names></name>
+<name><surname>Dreyfus</surname><given-names>J.</given-names></name>
+<name><surname>Nejjari</surname><given-names>M.</given-names></name>
+<name><surname>Attias</surname><given-names>D.</given-names></name>
+<name><surname>Kloeckner</surname><given-names>M.</given-names></name>
+<name><surname>Ghostine</surname><given-names>S.</given-names></name>
+<name><surname>Pierrard</surname><given-names>R.</given-names></name>
+<etal/>
+</person-group><article-title>Computational simulation model of transcatheter edge-to-edge mitral valve repair: A proof-of-concept study</article-title><source>Eur. Heart J.-Cardiovasc. Imaging</source><year>2024</year><volume>25</volume><fpage>1415</fpage><lpage>1422</lpage><pub-id pub-id-type="doi">10.1093/ehjci/jeae137</pub-id><pub-id pub-id-type="pmid">38801398</pub-id>
+</element-citation></ref><ref id="B58-jcm-14-06885"><label>58.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rogers Jason</surname><given-names>H.</given-names></name>
+<name><surname>Low Reginald</surname><given-names>I.</given-names></name>
+</person-group><article-title>Noncentral Mitral Regurgitation</article-title><source>JACC</source><year>2013</year><volume>62</volume><fpage>2378</fpage><lpage>2381</lpage><pub-id pub-id-type="doi">10.1016/j.jacc.2013.05.095</pub-id><pub-id pub-id-type="pmid">24013060</pub-id>
+</element-citation></ref><ref id="B59-jcm-14-06885"><label>59.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wei</surname><given-names>P.</given-names></name>
+<name><surname>Feng</surname><given-names>S.</given-names></name>
+<name><surname>Zhang</surname><given-names>F.</given-names></name>
+<name><surname>Li</surname><given-names>H.</given-names></name>
+<name><surname>Zhuang</surname><given-names>D.</given-names></name>
+<name><surname>Jiang</surname><given-names>H.</given-names></name>
+<name><surname>Zhao</surname><given-names>G.</given-names></name>
+<name><surname>Dong</surname><given-names>J.</given-names></name>
+<name><surname>Wang</surname><given-names>C.</given-names></name>
+<name><surname>Ouyang</surname><given-names>W.</given-names></name>
+<etal/>
+</person-group><article-title>Comparative Analysis of Central and Noncentral Degenerative Mitral Regurgitation Treated With Transcatheter Mitral Valve Edge-To-Edge Repair</article-title><source>Catheter. Cardiovasc. Interv.</source><year>2025</year><volume>105</volume><fpage>707</fpage><lpage>719</lpage><pub-id pub-id-type="doi">10.1002/ccd.31359</pub-id><pub-id pub-id-type="pmid">39718196</pub-id>
+</element-citation></ref><ref id="B60-jcm-14-06885"><label>60.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Toma</surname><given-names>M.</given-names></name>
+<name><surname>Bloodworth</surname><given-names>C.H.</given-names></name>
+<name><surname>Pierce</surname><given-names>E.L.</given-names></name>
+<name><surname>Einstein</surname><given-names>D.R.</given-names></name>
+<name><surname>Cochran</surname><given-names>R.P.</given-names></name>
+<name><surname>Yoganathan</surname><given-names>A.P.</given-names></name>
+<name><surname>Kunzelman</surname><given-names>K.S.</given-names></name>
+</person-group><article-title>Fluid-Structure Interaction Analysis of Ruptured Mitral Chordae Tendineae</article-title><source>Ann. Biomed. Eng.</source><year>2017</year><volume>45</volume><fpage>619</fpage><lpage>631</lpage><pub-id pub-id-type="doi">10.1007/s10439-016-1727-y</pub-id><pub-id pub-id-type="pmid">27624659</pub-id>
+</element-citation></ref><ref id="B61-jcm-14-06885"><label>61.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Alkhouli</surname><given-names>M.</given-names></name>
+<name><surname>Du</surname><given-names>C.</given-names></name>
+<name><surname>Killu</surname><given-names>A.</given-names></name>
+<name><surname>Simard</surname><given-names>T.</given-names></name>
+<name><surname>Noseworthy</surname><given-names>P.A.</given-names></name>
+<name><surname>Friedman</surname><given-names>P.A.</given-names></name>
+<name><surname>Curtis</surname><given-names>J.P.</given-names></name>
+<name><surname>Freeman</surname><given-names>J.V.</given-names></name>
+<name><surname>Holmes</surname><given-names>D.R.</given-names></name>
+</person-group><article-title>Clinical impact of residual leaks following left atrial appendage occlusion: Insights from the NCDR LAAO registry</article-title><source>JACC Clin. Electrophysiol.</source><year>2022</year><volume>8</volume><fpage>766</fpage><lpage>778</lpage><pub-id pub-id-type="doi">10.1016/j.jacep.2022.03.001</pub-id><pub-id pub-id-type="pmid">35387751</pub-id>
+</element-citation></ref><ref id="B62-jcm-14-06885"><label>62.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Michiels</surname><given-names>K.</given-names></name>
+<name><surname>Heffinck</surname><given-names>E.</given-names></name>
+<name><surname>Astudillo</surname><given-names>P.</given-names></name>
+<name><surname>Wong</surname><given-names>I.</given-names></name>
+<name><surname>Mortier</surname><given-names>P.</given-names></name>
+<name><surname>Bavo</surname><given-names>A.M.</given-names></name>
+</person-group><article-title>Automated MSCT analysis for planning left atrial appendage occlusion using artificial intelligence</article-title><source>J. Interv. Cardiol.</source><year>2022</year><volume>2022</volume><fpage>5797431</fpage><pub-id pub-id-type="doi">10.1155/2022/5797431</pub-id><pub-id pub-id-type="pmid">35571991</pub-id>
+</element-citation></ref><ref id="B63-jcm-14-06885"><label>63.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bavo</surname><given-names>A.M.</given-names></name>
+<name><surname>Wilkins</surname><given-names>B.T.</given-names></name>
+<name><surname>Garot</surname><given-names>P.</given-names></name>
+<name><surname>De Bock</surname><given-names>S.</given-names></name>
+<name><surname>Saw</surname><given-names>J.</given-names></name>
+<name><surname>S&#x000f8;ndergaard</surname><given-names>L.</given-names></name>
+<name><surname>De Backer</surname><given-names>O.</given-names></name>
+<name><surname>Iannaccone</surname><given-names>F.</given-names></name>
+</person-group><article-title>Validation of a computational model aiming to optimize preprocedural planning in percutaneous left atrial appendage closure</article-title><source>J. Cardiovasc. Comput. Tomogr.</source><year>2020</year><volume>14</volume><fpage>149</fpage><lpage>154</lpage><pub-id pub-id-type="doi">10.1016/j.jcct.2019.08.010</pub-id><pub-id pub-id-type="pmid">31445885</pub-id>
+</element-citation></ref><ref id="B64-jcm-14-06885"><label>64.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Buysschaert</surname><given-names>I.</given-names></name>
+<name><surname>Viaene</surname><given-names>D.</given-names></name>
+</person-group><article-title>Clinical impact of preprocedural CT-based 3D computational simulation of left atrial appendage occlusion with amulet</article-title><source>J. Interv. Cardiol.</source><year>2021</year><volume>2021</volume><fpage>9972228</fpage><pub-id pub-id-type="doi">10.1155/2021/9972228</pub-id><pub-id pub-id-type="pmid">34385893</pub-id>
+</element-citation></ref><ref id="B65-jcm-14-06885"><label>65.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Garot</surname><given-names>P.</given-names></name>
+<name><surname>Iriart</surname><given-names>X.</given-names></name>
+<name><surname>Aminian</surname><given-names>A.</given-names></name>
+<name><surname>Kefer</surname><given-names>J.</given-names></name>
+<name><surname>Freixa</surname><given-names>X.</given-names></name>
+<name><surname>Cruz-Gonzalez</surname><given-names>I.</given-names></name>
+<name><surname>Berti</surname><given-names>S.</given-names></name>
+<name><surname>Rosseel</surname><given-names>L.</given-names></name>
+<name><surname>Ibrahim</surname><given-names>R.</given-names></name>
+<name><surname>Korsholm</surname><given-names>K.</given-names></name>
+<etal/>
+</person-group><article-title>Value of FEops HEARTguide patient-specific computational simulations in the planning of left atrial appendage closure with the Amplatzer Amulet closure device: Rationale and design of the PREDICT-LAA study</article-title><source>Open Heart</source><year>2020</year><volume>7</volume><fpage>e001326</fpage><pub-id pub-id-type="doi">10.1136/openhrt-2020-001326</pub-id><pub-id pub-id-type="pmid">32763967</pub-id>
+</element-citation></ref><ref id="B66-jcm-14-06885"><label>66.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ranard</surname><given-names>L.S.</given-names></name>
+<name><surname>Vahl</surname><given-names>T.P.</given-names></name>
+<name><surname>Sommer</surname><given-names>R.</given-names></name>
+<name><surname>Ng</surname><given-names>V.</given-names></name>
+<name><surname>Leb</surname><given-names>J.</given-names></name>
+<name><surname>Lehenbauer</surname><given-names>K.</given-names></name>
+<name><surname>Sitticharoenchai</surname><given-names>P.</given-names></name>
+<name><surname>Khalique</surname><given-names>O.</given-names></name>
+<name><surname>Hamid</surname><given-names>N.</given-names></name>
+<name><surname>De Beule</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group><article-title>FEops HEARTguide Patient-Specific Computational Simulations for WATCHMAN FLX Left Atrial Appendage Closure: A Retrospective Study</article-title><source>JACC Adv.</source><year>2022</year><volume>1</volume><fpage>100139</fpage><pub-id pub-id-type="doi">10.1016/j.jacadv.2022.100139</pub-id><pub-id pub-id-type="pmid">38939468</pub-id>
+</element-citation></ref><ref id="B67-jcm-14-06885"><label>67.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Medina</surname><given-names>E.</given-names></name>
+<name><surname>Aguado</surname><given-names>A.</given-names></name>
+<name><surname>Mill</surname><given-names>J.</given-names></name>
+<name><surname>Freixa</surname><given-names>X.</given-names></name>
+<name><surname>Arzamendi</surname><given-names>D.</given-names></name>
+<name><surname>Yag&#x000fc;e</surname><given-names>C.</given-names></name>
+<name><surname>Camara</surname><given-names>O.</given-names></name>
+</person-group><article-title>VRIDAA: Virtual Reality Platform for Training and Planning Implantations of Occluder Devices in Left Atrial Appendages</article-title><source>VCBM</source><year>2020</year><pub-id pub-id-type="doi">10.2312/vcbm.20201168</pub-id></element-citation></ref><ref id="B68-jcm-14-06885"><label>68.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Masci</surname><given-names>A.</given-names></name>
+<name><surname>Barone</surname><given-names>L.</given-names></name>
+<name><surname>Ded&#x000e8;</surname><given-names>L.</given-names></name>
+<name><surname>Fedele</surname><given-names>M.</given-names></name>
+<name><surname>Tomasi</surname><given-names>C.</given-names></name>
+<name><surname>Quarteroni</surname><given-names>A.</given-names></name>
+<name><surname>Corsi</surname><given-names>C.</given-names></name>
+</person-group><article-title>The impact of left atrium appendage morphology on stroke risk assessment in atrial fibrillation: A computational fluid dynamics study</article-title><source>Front. Physiol.</source><year>2019</year><volume>9</volume><elocation-id>1938</elocation-id><pub-id pub-id-type="doi">10.3389/fphys.2018.01938</pub-id><pub-id pub-id-type="pmid">30723422</pub-id>
+</element-citation></ref><ref id="B69-jcm-14-06885"><label>69.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bosi</surname><given-names>G.M.</given-names></name>
+<name><surname>Cook</surname><given-names>A.</given-names></name>
+<name><surname>Rai</surname><given-names>R.</given-names></name>
+<name><surname>Menezes</surname><given-names>L.J.</given-names></name>
+<name><surname>Schievano</surname><given-names>S.</given-names></name>
+<name><surname>Torii</surname><given-names>R.</given-names></name>
+<name><surname>Burriesci</surname><given-names>G.</given-names></name>
+</person-group><article-title>Computational fluid dynamic analysis of the left atrial appendage to predict thrombosis risk</article-title><source>Front. Cardiovasc. Med.</source><year>2018</year><volume>5</volume><elocation-id>34</elocation-id><pub-id pub-id-type="doi">10.3389/fcvm.2018.00034</pub-id><pub-id pub-id-type="pmid">29670888</pub-id>
+</element-citation></ref><ref id="B70-jcm-14-06885"><label>70.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Otani</surname><given-names>T.</given-names></name>
+<name><surname>Al-Issa</surname><given-names>A.</given-names></name>
+<name><surname>Pourmorteza</surname><given-names>A.</given-names></name>
+<name><surname>McVeigh</surname><given-names>E.R.</given-names></name>
+<name><surname>Wada</surname><given-names>S.</given-names></name>
+<name><surname>Ashikaga</surname><given-names>H.</given-names></name>
+</person-group><article-title>A computational framework for personalized blood flow analysis in the human left atrium</article-title><source>Ann. Biomed. Eng.</source><year>2016</year><volume>44</volume><fpage>3284</fpage><lpage>3294</lpage><pub-id pub-id-type="doi">10.1007/s10439-016-1590-x</pub-id><pub-id pub-id-type="pmid">26968855</pub-id>
+</element-citation></ref><ref id="B71-jcm-14-06885"><label>71.</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Olivares</surname><given-names>A.L.</given-names></name>
+<name><surname>Silva</surname><given-names>E.</given-names></name>
+<name><surname>Nu&#x000f1;ez-Garcia</surname><given-names>M.</given-names></name>
+<name><surname>Butakoff</surname><given-names>C.</given-names></name>
+<name><surname>S&#x000e1;nchez-Quintana</surname><given-names>D.</given-names></name>
+<name><surname>Freixa</surname><given-names>X.</given-names></name>
+<name><surname>Noailly</surname><given-names>J.</given-names></name>
+<name><surname>de Potter</surname><given-names>T.</given-names></name>
+<name><surname>Camara</surname><given-names>O.</given-names></name>
+</person-group><article-title>In silico analysis of haemodynamics in patient-specific left atria with different appendage morphologies</article-title><source>International Conference on Functional Imaging and Modeling of the Heart</source><publisher-name>Springer</publisher-name><publisher-loc>Cham, Switzerland</publisher-loc><year>2017</year></element-citation></ref><ref id="B72-jcm-14-06885"><label>72.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Di Biase</surname><given-names>L.</given-names></name>
+<name><surname>Santangeli</surname><given-names>P.</given-names></name>
+<name><surname>Anselmino</surname><given-names>M.</given-names></name>
+<name><surname>Mohanty</surname><given-names>P.</given-names></name>
+<name><surname>Salvetti</surname><given-names>I.</given-names></name>
+<name><surname>Gili</surname><given-names>S.</given-names></name>
+<name><surname>Horton</surname><given-names>R.</given-names></name>
+<name><surname>Sanchez</surname><given-names>J.E.</given-names></name>
+<name><surname>Bai</surname><given-names>R.</given-names></name>
+<name><surname>Mohanty</surname><given-names>S.</given-names></name>
+<etal/>
+</person-group><article-title>Does the left atrial appendage morphology correlate with the risk of stroke in patients with atrial fibrillation? Results from a multicenter study</article-title><source>J. Am. Coll. Cardiol.</source><year>2012</year><volume>60</volume><fpage>531</fpage><lpage>538</lpage><pub-id pub-id-type="doi">10.1016/j.jacc.2012.04.032</pub-id><pub-id pub-id-type="pmid">22858289</pub-id>
+</element-citation></ref><ref id="B73-jcm-14-06885"><label>73.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mill</surname><given-names>J.</given-names></name>
+<name><surname>Agudelo</surname><given-names>V.</given-names></name>
+<name><surname>Li</surname><given-names>C.H.</given-names></name>
+<name><surname>Noailly</surname><given-names>J.</given-names></name>
+<name><surname>Freixa</surname><given-names>X.</given-names></name>
+<name><surname>Camara</surname><given-names>O.</given-names></name>
+<name><surname>Arzamendi</surname><given-names>D.</given-names></name>
+</person-group><article-title>Patient-specific flow simulation analysis to predict device-related thrombosis in left atrial appendage occluders</article-title><source>REC Interv. Cardiol.</source><year>2021</year><volume>3</volume><fpage>278</fpage><lpage>285</lpage><pub-id pub-id-type="doi">10.24875/RECICE.M21000224</pub-id></element-citation></ref><ref id="B74-jcm-14-06885"><label>74.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Aguado</surname><given-names>A.M.</given-names></name>
+<name><surname>Olivares</surname><given-names>A.L.</given-names></name>
+<name><surname>Yag&#x000fc;e</surname><given-names>C.</given-names></name>
+<name><surname>Silva</surname><given-names>E.</given-names></name>
+<name><surname>Nu&#x000f1;ez-Garc&#x000ed;a</surname><given-names>M.</given-names></name>
+<name><surname>Fernandez-Quilez</surname><given-names>&#x000c1;.</given-names></name>
+<name><surname>Mill</surname><given-names>J.</given-names></name>
+<name><surname>Genua</surname><given-names>I.</given-names></name>
+<name><surname>Arzamendi</surname><given-names>D.</given-names></name>
+<name><surname>De Potter</surname><given-names>T.</given-names></name>
+<etal/>
+</person-group><article-title>In silico optimization of left atrial appendage occluder implantation using interactive and modeling tools</article-title><source>Front. Physiol.</source><year>2019</year><volume>10</volume><elocation-id>237</elocation-id><pub-id pub-id-type="doi">10.3389/fphys.2019.00237</pub-id><pub-id pub-id-type="pmid">30967786</pub-id>
+</element-citation></ref><ref id="B75-jcm-14-06885"><label>75.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Vogl</surname><given-names>B.</given-names></name>
+<name><surname>El Shaer</surname><given-names>A.</given-names></name>
+<name><surname>Ponce</surname><given-names>A.C.</given-names></name>
+<name><surname>Bavo</surname><given-names>A.</given-names></name>
+<name><surname>De Beule</surname><given-names>M.</given-names></name>
+<name><surname>Alkhouli</surname><given-names>M.</given-names></name>
+<name><surname>Hatoum</surname><given-names>H.</given-names></name>
+</person-group><article-title>TCT-380 Predicting Device-Related Thrombosis Using Computational Fluid Dynamics</article-title><source>J. Am. Coll. Cardiol.</source><year>2022</year><volume>80</volume><issue>(Suppl. 12)</issue><fpage>B153</fpage><pub-id pub-id-type="doi">10.1016/j.jacc.2022.08.446</pub-id></element-citation></ref><ref id="B76-jcm-14-06885"><label>76.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>D&#x02019;Alessandro</surname><given-names>N.</given-names></name>
+<name><surname>Falanga</surname><given-names>M.</given-names></name>
+<name><surname>Masci</surname><given-names>A.</given-names></name>
+<name><surname>Severi</surname><given-names>S.</given-names></name>
+<name><surname>Corsi</surname><given-names>C.</given-names></name>
+</person-group><article-title>Preliminary findings on left atrial appendage occlusion simulations applying different endocardial devices</article-title><source>Front. Cardiovasc. Med.</source><year>2023</year><volume>10</volume><elocation-id>1067964</elocation-id><pub-id pub-id-type="doi">10.3389/fcvm.2023.1067964</pub-id><pub-id pub-id-type="pmid">36891242</pub-id>
+</element-citation></ref><ref id="B77-jcm-14-06885"><label>77.</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name><surname>Planas</surname><given-names>E.</given-names></name>
+<name><surname>Mill</surname><given-names>J.</given-names></name>
+<name><surname>Olivares</surname><given-names>A.L.</given-names></name>
+<name><surname>Morales</surname><given-names>X.</given-names></name>
+<name><surname>Pons</surname><given-names>M.I.</given-names></name>
+<name><surname>Iriart</surname><given-names>X.</given-names></name>
+<name><surname>Cochet</surname><given-names>H.</given-names></name>
+<name><surname>Camara</surname><given-names>O.</given-names></name>
+</person-group><article-title>In-silico analysis of device-related thrombosis for different left atrial appendage occluder settings</article-title><source>International Workshop on Statistical Atlases and Computational Models of the Heart</source><publisher-name>Springer</publisher-name><publisher-loc>Cham, Switzerland</publisher-loc><year>2022</year></element-citation></ref><ref id="B78-jcm-14-06885"><label>78.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mendez</surname><given-names>K.</given-names></name>
+<name><surname>Kennedy</surname><given-names>D.</given-names></name>
+<name><surname>Wang</surname><given-names>D.D.</given-names></name>
+<name><surname>O&#x02019;nEill</surname><given-names>B.</given-names></name>
+<name><surname>Roche</surname><given-names>E.T.</given-names></name>
+</person-group><article-title>Left Atrial Appendage Occlusion: Current Stroke Prevention Strategies and a Shift Toward Data-Driven, Patient-Specific Approaches</article-title><source>J. Soc. Cardiovasc. Angiogr. Interv.</source><year>2022</year><volume>1</volume><fpage>100405</fpage><pub-id pub-id-type="doi">10.1016/j.jscai.2022.100405</pub-id><pub-id pub-id-type="pmid">39131471</pub-id>
+</element-citation></ref><ref id="B79-jcm-14-06885"><label>79.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chatzizisis</surname><given-names>Y.S.</given-names></name>
+<name><surname>Edelman</surname><given-names>E.R.</given-names></name>
+</person-group><article-title>Revolutionizing Cardiovascular Interventions with Artificial Intelligence</article-title><source>J. Soc. Cardiovasc. Angiogr. Interv.</source><year>2025</year><volume>4</volume><fpage>102580</fpage><pub-id pub-id-type="doi">10.1016/j.jscai.2025.102580</pub-id><pub-id pub-id-type="pmid">40230674</pub-id>
+</element-citation></ref><ref id="B80-jcm-14-06885"><label>80.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sun</surname><given-names>S.</given-names></name>
+<name><surname>Yeh</surname><given-names>L.</given-names></name>
+<name><surname>Imanzadeh</surname><given-names>A.</given-names></name>
+<name><surname>Kooraki</surname><given-names>S.</given-names></name>
+<name><surname>Kheradvar</surname><given-names>A.</given-names></name>
+<name><surname>Bedayat</surname><given-names>A.</given-names></name>
+</person-group><article-title>The Current Landscape of Artificial Intelligence in Imaging for Transcatheter Aortic Valve Replacement</article-title><source>Curr. Radiol. Rep.</source><year>2024</year><volume>12</volume><fpage>113</fpage><lpage>120</lpage><pub-id pub-id-type="doi">10.1007/s40134-024-00431-w</pub-id><pub-id pub-id-type="pmid">39483792</pub-id>
+</element-citation></ref><ref id="B81-jcm-14-06885"><label>81.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Muralidharan</surname><given-names>V.</given-names></name>
+<name><surname>Adewale</surname><given-names>B.A.</given-names></name>
+<name><surname>Huang</surname><given-names>C.J.</given-names></name>
+<name><surname>Nta</surname><given-names>M.T.</given-names></name>
+<name><surname>Ademiju</surname><given-names>P.O.</given-names></name>
+<name><surname>Pathmarajah</surname><given-names>P.</given-names></name>
+<name><surname>Hang</surname><given-names>M.K.</given-names></name>
+<name><surname>Adesanya</surname><given-names>O.</given-names></name>
+<name><surname>Abdullateef</surname><given-names>R.O.</given-names></name>
+<name><surname>Babatunde</surname><given-names>A.O.</given-names></name>
+<etal/>
+</person-group><article-title>A scoping review of reporting gaps in FDA-approved AI medical devices</article-title><source>NPJ Digit. Med.</source><year>2024</year><volume>7</volume><fpage>273</fpage><pub-id pub-id-type="doi">10.1038/s41746-024-01270-x</pub-id><pub-id pub-id-type="pmid">39362934</pub-id>
+</element-citation></ref><ref id="B82-jcm-14-06885"><label>82.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Marey</surname><given-names>A.</given-names></name>
+<name><surname>Arjmand</surname><given-names>P.</given-names></name>
+<name><surname>Alerab</surname><given-names>A.</given-names></name>
+<name><surname>Eslami</surname><given-names>M.J.</given-names></name>
+<name><surname>Saad</surname><given-names>A.M.</given-names></name>
+<name><surname>Sanchez</surname><given-names>N.</given-names></name>
+<name><surname>Umair</surname><given-names>M.</given-names></name>
+</person-group><article-title>Explainability, transparency and black box challenges of AI in radiology: Impact on patient care in cardiovascular radiology</article-title><source>Egypt. J. Radiol. Nucl. Med.</source><year>2024</year><volume>55</volume><fpage>183</fpage><pub-id pub-id-type="doi">10.1186/s43055-024-01356-2</pub-id></element-citation></ref><ref id="B83-jcm-14-06885"><label>83.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Alzubaidi</surname><given-names>L.</given-names></name>
+<name><surname>Zhang</surname><given-names>J.</given-names></name>
+<name><surname>Humaidi</surname><given-names>A.J.</given-names></name>
+<name><surname>Al-Dujaili</surname><given-names>A.</given-names></name>
+<name><surname>Duan</surname><given-names>Y.</given-names></name>
+<name><surname>Al-Shamma</surname><given-names>O.</given-names></name>
+<name><surname>Santamar&#x000ed;a</surname><given-names>J.</given-names></name>
+<name><surname>Fadhel</surname><given-names>M.A.</given-names></name>
+<name><surname>Al-Amidie</surname><given-names>M.</given-names></name>
+<name><surname>Farhan</surname><given-names>L.</given-names></name>
+</person-group><article-title>Review of deep learning: Concepts, CNN architectures, challenges, applications, future directions</article-title><source>J. Big Data</source><year>2021</year><volume>8</volume><fpage>53</fpage><pub-id pub-id-type="doi">10.1186/s40537-021-00444-8</pub-id><pub-id pub-id-type="pmid">33816053</pub-id>
+</element-citation></ref><ref id="B84-jcm-14-06885"><label>84.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>van Zyl</surname><given-names>C.</given-names></name>
+<name><surname>Ye</surname><given-names>X.</given-names></name>
+<name><surname>Naidoo</surname><given-names>R.</given-names></name>
+</person-group><article-title>Harnessing eXplainable artificial intelligence for feature selection in time series energy forecasting: A comparative analysis of Grad-CAM and SHAP</article-title><source>Appl. Energy</source><year>2024</year><volume>353</volume><fpage>122079</fpage><pub-id pub-id-type="doi">10.1016/j.apenergy.2023.122079</pub-id></element-citation></ref><ref id="B85-jcm-14-06885"><label>85.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Maloney</surname><given-names>S.</given-names></name>
+<name><surname>Haines</surname><given-names>T.</given-names></name>
+</person-group><article-title>Issues of cost-benefit and cost-effectiveness for simulation in health professions education</article-title><source>Adv. Simul.</source><year>2016</year><volume>1</volume><fpage>13</fpage><pub-id pub-id-type="doi">10.1186/s41077-016-0020-3</pub-id><pub-id pub-id-type="pmid">29449982</pub-id>
+</element-citation></ref><ref id="B86-jcm-14-06885"><label>86.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lee</surname><given-names>K.S.</given-names></name>
+<name><surname>Klein</surname><given-names>A.J.</given-names></name>
+<name><surname>Bricker</surname><given-names>R.S.</given-names></name>
+<name><surname>Salavitabar</surname><given-names>A.</given-names></name>
+<name><surname>Ijioma</surname><given-names>N.N.</given-names></name>
+<name><surname>Indik</surname><given-names>J.H.</given-names></name>
+<name><surname>Jayasuriya</surname><given-names>S.N.</given-names></name>
+<name><surname>Fortuin</surname><given-names>F.D.</given-names></name>
+<name><surname>Damluji</surname><given-names>A.A.</given-names></name>
+<name><surname>Brilakis</surname><given-names>E.S.</given-names></name>
+<etal/>
+</person-group><article-title>Current State of Simulation in Interventional Cardiology Training: Results of a SCAI Survey</article-title><source>J. Soc. Cardiovasc. Angiogr. Interv.</source><year>2025</year><volume>4</volume><issue-part>Pt A</issue-part><fpage>102566</fpage><pub-id pub-id-type="doi">10.1016/j.jscai.2025.102566</pub-id><pub-id pub-id-type="pmid">40231052</pub-id>
+</element-citation></ref><ref id="B87-jcm-14-06885"><label>87.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tolu-Akinnawo</surname><given-names>O.Z.</given-names></name>
+<name><surname>Ezekwueme</surname><given-names>F.</given-names></name>
+<name><surname>Omolayo</surname><given-names>O.</given-names></name>
+<name><surname>Batheja</surname><given-names>S.</given-names></name>
+<name><surname>Awoyemi</surname><given-names>T.</given-names></name>
+</person-group><article-title>Advancements in Artificial Intelligence in Noninvasive Cardiac Imaging: A Comprehensive Review</article-title><source>Clin. Cardiol.</source><year>2025</year><volume>48</volume><fpage>e70087</fpage><pub-id pub-id-type="doi">10.1002/clc.70087</pub-id><pub-id pub-id-type="pmid">39871619</pub-id>
+</element-citation></ref><ref id="B88-jcm-14-06885"><label>88.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Biondi-Zoccai</surname><given-names>G.</given-names></name>
+<name><surname>D&#x02019;Ascenzo</surname><given-names>F.</given-names></name>
+<name><surname>Giordano</surname><given-names>S.</given-names></name>
+<name><surname>Mirzoyev</surname><given-names>U.</given-names></name>
+<name><surname>Erol</surname><given-names>&#x000c7;.</given-names></name>
+<name><surname>Cenciarelli</surname><given-names>S.</given-names></name>
+<name><surname>Leone</surname><given-names>P.</given-names></name>
+<name><surname>Versaci</surname><given-names>F.</given-names></name>
+</person-group><article-title>Artificial Intelligence in Cardiology: General Perspectives and Focus on Interventional Cardiology</article-title><source>Anatol. J. Cardiol.</source><year>2025</year><volume>29</volume><fpage>152</fpage><lpage>163</lpage><pub-id pub-id-type="doi">10.14744/AnatolJCardiol.2025.5237</pub-id><pub-id pub-id-type="pmid">40151850</pub-id>
+</element-citation></ref><ref id="B89-jcm-14-06885"><label>89.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mastrodicasa</surname><given-names>D.</given-names></name>
+<name><surname>van Assen</surname><given-names>M.</given-names></name>
+<name><surname>Huisman</surname><given-names>M.</given-names></name>
+<name><surname>Leiner</surname><given-names>T.</given-names></name>
+<name><surname>Williamson</surname><given-names>E.E.</given-names></name>
+<name><surname>Nicol</surname><given-names>E.D.</given-names></name>
+<name><surname>Allen</surname><given-names>B.D.</given-names></name>
+<name><surname>Saba</surname><given-names>L.</given-names></name>
+<name><surname>Vliegenthart</surname><given-names>R.</given-names></name>
+<name><surname>Hanneman</surname><given-names>K.</given-names></name>
+</person-group><article-title>Use of AI in Cardiac CT and MRI: A Scientific Statement from the ESCR, EuSoMII, NASCI, SCCT, SCMR, SIIM, and RSNA</article-title><source>Radiology</source><year>2025</year><volume>314</volume><fpage>e240516</fpage><pub-id pub-id-type="doi">10.1148/radiol.240516</pub-id><pub-id pub-id-type="pmid">39873607</pub-id>
+</element-citation></ref><ref id="B90-jcm-14-06885"><label>90.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhong</surname><given-names>L.</given-names></name>
+<name><surname>Zhang</surname><given-names>J.-M.</given-names></name>
+<name><surname>Su</surname><given-names>B.</given-names></name>
+<name><surname>Tan</surname><given-names>R.S.</given-names></name>
+<name><surname>Allen</surname><given-names>J.C.</given-names></name>
+<name><surname>Kassab</surname><given-names>G.S.</given-names></name>
+</person-group><article-title>Application of Patient-Specific Computational Fluid Dynamics in Coronary and Intra-Cardiac Flow Simulations: Challenges and Opportunities</article-title><source>Front. Physiol.</source><year>2018</year><volume>9</volume><elocation-id>742</elocation-id><pub-id pub-id-type="doi">10.3389/fphys.2018.00742</pub-id><pub-id pub-id-type="pmid">29997520</pub-id>
+</element-citation></ref><ref id="B91-jcm-14-06885"><label>91.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Morris</surname><given-names>P.D.</given-names></name>
+<name><surname>Narracott</surname><given-names>A.</given-names></name>
+<name><surname>von Tengg-Kobligk</surname><given-names>H.</given-names></name>
+<name><surname>Soto</surname><given-names>D.A.S.</given-names></name>
+<name><surname>Hsiao</surname><given-names>S.</given-names></name>
+<name><surname>Lungu</surname><given-names>A.</given-names></name>
+<name><surname>Evans</surname><given-names>P.</given-names></name>
+<name><surname>Bressloff</surname><given-names>N.W.</given-names></name>
+<name><surname>Lawford</surname><given-names>P.V.</given-names></name>
+<name><surname>Hose</surname><given-names>D.R.</given-names></name>
+<etal/>
+</person-group><article-title>Computational fluid dynamics modelling in cardiovascular medicine</article-title><source>Heart</source><year>2016</year><volume>102</volume><fpage>18</fpage><lpage>28</lpage><pub-id pub-id-type="doi">10.1136/heartjnl-2015-308044</pub-id><pub-id pub-id-type="pmid">26512019</pub-id>
+</element-citation></ref><ref id="B92-jcm-14-06885"><label>92.</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Abdulkareem</surname><given-names>M.</given-names></name>
+<name><surname>Brahier</surname><given-names>M.S.</given-names></name>
+<name><surname>Zou</surname><given-names>F.</given-names></name>
+<name><surname>Taylor</surname><given-names>A.</given-names></name>
+<name><surname>Thomaides</surname><given-names>A.</given-names></name>
+<name><surname>Bergquist</surname><given-names>P.J.</given-names></name>
+<name><surname>Srichai</surname><given-names>M.B.</given-names></name>
+<name><surname>Lee</surname><given-names>A.M.</given-names></name>
+<name><surname>Vargas</surname><given-names>J.D.</given-names></name>
+<name><surname>Petersen</surname><given-names>S.E.</given-names></name>
+</person-group><article-title>Generalizable Framework for Atrial Volume Estimation for Cardiac CT Images Using Deep Learning with Quality Control Assessment</article-title><source>Front. Cardiovasc. Med.</source><year>2022</year><volume>9</volume><elocation-id>822269</elocation-id><pub-id pub-id-type="doi">10.3389/fcvm.2022.822269</pub-id><pub-id pub-id-type="pmid">35155637</pub-id>
+</element-citation></ref></ref-list></back><floats-group><fig position="float" id="jcm-14-06885-f001"><label>Figure 1</label><caption><p>Integrative clinical workflow for imaging-derived simulation in structural heart interventions, from initial imaging and computational modeling to clinical outcomes and continuous refinement.</p></caption><graphic xlink:href="jcm-14-06885-g001" position="float"/></fig><fig position="float" id="jcm-14-06885-f002"><label>Figure 2</label><caption><p>Basic segmentation and modeling of the aortic root. <bold>Red panel</bold>: The aortic root was auto-segmented, and basic measurements of the aortic annulus dimensions were derived using Laralab&#x02019;s heart.ai software (Munich, Germany, <uri xlink:href="https://www.laralab.com/">https://www.laralab.com/</uri>, accessed on 15 July 2025). <bold>Blue panel</bold>: Automated segmentation was performed by detection of each aortic valve leaflet nadir, and aortic annulus measurements were performed using 3mensio<sup>TM</sup> (Pie Medical Imaging, Maastricht, The Netherlands).</p></caption><graphic xlink:href="jcm-14-06885-g002" position="float"/></fig><fig position="float" id="jcm-14-06885-f003"><label>Figure 3</label><caption><p>Computer simulation of TAVI and mitral valve interventions. <bold>Upper left</bold>: Simulation of tissue interaction for an S3 in an Evolut redo TAVI. <bold>Upper right</bold>: A 3D mesh with simulation of anterior mitral leaflet laceration using electrosurgery. <bold>Lower left</bold>: Simulation of a valve in an MAC procedure, predicting residual paravalvular leak in the mitral commissure (red arrow). <bold>Lower right</bold>: An actual post-procedural 3D color Doppler TEE image demonstrating paravalvular leak in the same commissure that was predicted. The images were provided by DASI simulations, Dublin, Ohio.</p></caption><graphic xlink:href="jcm-14-06885-g003" position="float"/></fig><fig position="float" id="jcm-14-06885-f004"><label>Figure 4</label><caption><p>An example of the FEops<sup>TM</sup> patient-specific computational model.</p></caption><graphic xlink:href="jcm-14-06885-g004" position="float"/></fig><fig position="float" id="jcm-14-06885-f005"><label>Figure 5</label><caption><p>The feasibility of redo TAVI computer simulation. <bold>Top panel</bold>: Simulation of an S3 in an Evolut valve combination for redo TAVI at different implantation heights. <bold>Bottom panel</bold>: Simulation of a redo TAVI S3 in an Evolut combination, demonstrating the proximity to the aorta wall, leaflet overhang, and commissural alignment. The images were provided by FEops HeartGuide<sup>TM</sup>, Gent, Belgium.</p></caption><graphic xlink:href="jcm-14-06885-g005" position="float"/></fig><table-wrap position="float" id="jcm-14-06885-t001"><object-id pub-id-type="pii">jcm-14-06885-t001_Table 1</object-id><label>Table 1</label><caption><p>Key clinical validation evidence for cardiac simulation platforms.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Procedure Type</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Platform</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Study Design</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Sample Size</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Key Outcomes</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Clinical Impact</th></tr></thead><tbody><tr><td align="left" valign="middle" rowspan="1" colspan="1">LAAO</td><td align="left" valign="middle" rowspan="1" colspan="1">FEops HEARTguide&#x02122;</td><td align="left" valign="middle" rowspan="1" colspan="1">RCT (PREDICT-LAA) [<xref rid="B25-jcm-14-06885" ref-type="bibr">25</xref>]</td><td align="left" valign="middle" rowspan="1" colspan="1">200 patients</td><td align="left" valign="middle" rowspan="1" colspan="1">Primary composite outcomes: 28.9% vs. 41.8% (<italic toggle="yes">p</italic> = 0.08, trend favoring simulation)</td><td align="left" valign="middle" rowspan="1" colspan="1">First AI-enabled RCT proving procedural improvement</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">LAAO</td><td align="left" valign="middle" rowspan="1" colspan="1">FEops HEARTguide&#x02122;</td><td align="left" valign="middle" rowspan="1" colspan="1">Multicenter (PRECISE LAAO) [<xref rid="B28-jcm-14-06885" ref-type="bibr">28</xref>]</td><td align="left" valign="middle" rowspan="1" colspan="1">~100 patients</td><td align="left" valign="middle" rowspan="1" colspan="1">Complete LAA closure: 59.8% with standard planning vs. 90.2% with simulation planning</td><td align="left" valign="middle" rowspan="1" colspan="1">Demonstrates improved procedural planning accuracy</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">TAVI</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">FEops HEARTguide&#x02122;</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Prospective (PRECISE-TAVI) [<xref rid="B26-jcm-14-06885" ref-type="bibr">26</xref>]</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">77 patients</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PVL prediction accuracy AUC: 0.69, PPM prediction AUC: 0.83</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Validated predictive modeling for challenging anatomies</td></tr></tbody></table></table-wrap><table-wrap position="float" id="jcm-14-06885-t002"><object-id pub-id-type="pii">jcm-14-06885-t002_Table 2</object-id><label>Table 2</label><caption><p>Key findings of studies that have evaluated CT-based computational modeling for LAAO.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Publication</th><th align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Study Design</th><th align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Methodology</th><th align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Key Findings</th></tr></thead><tbody><tr><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Buysschaert et al. [<xref rid="B64-jcm-14-06885" ref-type="bibr">64</xref>]<break/>(2021)</td><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Prospective study<break/>N = 15<break/><break/>Patients receiving LAAO with Amulet<sup>TM</sup></td><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Proceduralists first made sizing assessments based on standard pre-procedural planning and rated their confidence on a scale from 0 to 10. Then, they were provided the FEops<sup>TM</sup> assessment and asked to make a sizing decision and re-rate their confidence in the decision. </td><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Increase in confidence from 6.4 +/&#x02212; 1.4 to 8.1 +/&#x02212; 0.7 (<italic toggle="yes">p</italic> = 0.003)</p></list-item><list-item><p>The final implanted size correlated with FEops<sup>TM</sup> in 11/15 (73.3%) vs. 7/15 (46.7%) for standard care alone.</p></list-item><list-item><p>The initial size decisions were changed after FEops<sup>TM</sup> simulation in four cases.</p></list-item><list-item><p>FEops<sup>TM</sup> simulation correctly identified a lack of wall apposition in one procedure; nevertheless, this procedure was attempted but aborted.</p></list-item></list>
+</td></tr><tr><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">PREDICT-LAA [<xref rid="B25-jcm-14-06885" ref-type="bibr">25</xref>,<xref rid="B65-jcm-14-06885" ref-type="bibr">65</xref>]<break/>(2023)</td><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Prospective, multicenter, randomized study<break/>N = 200<break/><break/>Patients receiving LAAO with Amulet<sup>TM</sup></td><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Randomization (1:1) to computational simulation arm and standard arm<break/><break/>Primary endpoint: Incomplete LAAC and DRT assessed at 3 months using post-procedure CT </td><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Primary endpoint: 41.8% in the standard arm vs. 28.9% in the FEops<sup>TM</sup> arm (<italic toggle="yes">p</italic> = 0.08).</p></list-item><list-item><p>Secondary endpoints:</p><p>Leak grades 3 or 4: 37.4% in the standard arm vs. 27.8% in the FEops<sup>TM</sup> arm (<italic toggle="yes">p</italic> = 0.20).</p><p>Complete LAAC: 44.0% in the standard arm vs. 61.1% in the FEops<sup>TM</sup> arm (<italic toggle="yes">p</italic> = 0.03).</p><p>Use of &#x02265;two devices: 16.5% in the standard arm vs. 3.0% in the FEops<sup>TM</sup> arm (<italic toggle="yes">p</italic> &#x0003c; 0.01).</p><p>Repositioning a device &#x0003e; three times: 22.7% in the standard arm vs. 10.0% in the FEops<sup>TM</sup> arm (<italic toggle="yes">p</italic> = 0.02).</p></list-item></list>
+</td></tr><tr><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Bavo et al. [<xref rid="B63-jcm-14-06885" ref-type="bibr">63</xref>]<break/>(2020)</td><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Retrospective validation study <break/>N = 30 <break/><break/>Patients with pre- and post-procedural CT scans who received LAAO with either Amulet<sup>TM</sup> (<italic toggle="yes">n</italic> = 15) or Watchman<sup>TM</sup> devices (<italic toggle="yes">n</italic> = 15)</td><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Comparison of device frame deformation parameters and LAA wall apposition in virtually implanted devices and acute implants</td><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>R2 &#x02265; 0.91 for all measures of device frame deformation when comparing the FEopsTM model and post-procedural CT scans.</p></list-item><list-item><p>A comparison of predicted device leak and actual contrast leak on CT had a sensitivity of 81% and a specificity of 77%.</p></list-item></list>
+</td></tr><tr><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Ranard et al. [<xref rid="B66-jcm-14-06885" ref-type="bibr">66</xref>]<break/>(2022)</td><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Retrospective study<break/>N = 22<break/><break/>Patients who received LAAO with Watchman FLX<sup>TM</sup> and had pre- and post-CT scans, as well as TEE imaging, available</td><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Comparison of blinded and unblinded FEops<sup>TM</sup> simulation results based on 3D-TEE measures of device deformation </td><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Blinded FEops<sup>TM</sup> simulation results included the final implanted device size in 16/22 patients (72.7%).</p></list-item><list-item><p>r &#x02265; 0.90 for all device deformation measurements.</p></list-item></list>
+</td></tr></tbody></table></table-wrap><table-wrap position="float" id="jcm-14-06885-t003"><object-id pub-id-type="pii">jcm-14-06885-t003_Table 3</object-id><label>Table 3</label><caption><p>Key findings of studies that have evaluated CFD after LAAO.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Publication</th><th align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Study Design</th><th align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Methodology</th><th align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Key Findings</th></tr></thead><tbody><tr><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Mill et al. [<xref rid="B73-jcm-14-06885" ref-type="bibr">73</xref>]<break/>(2021)</td><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">N = 6 <break/>(3 with DRT and 3 without DRT)<break/><break/>Patients with Amplatzer Amulet<sup>TM</sup> LAAO</td><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">CT scans were acquired twice&#x02014;once between months 1 and 3 and once between months 3 and 6 after LAAC.<break/><break/>Slicer 4.10.1 software was used to construct a 3D model. CFD simulations were performed using Ansys<sup>TM</sup> Fluent 19 R3. Post-processing and visualization of the simulation results were performed using ParaView 5.4.1.</td><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>ECAP indices &#x02265; 0.5 Pa &#x02212; 1 near the device surface were observed in all patients with DRT.</p></list-item><list-item><p>The average velocity at the device surface: 0.15 m/s for the DRT group compared to 0.20 m/s for those without DRT.</p></list-item><list-item><p>Low flow velocities &#x0003c; 0.2 m/s adjacent to the device surface and regions of high flow complexity with low wall shear stress are associated with DRT.</p></list-item></list>
+</td></tr><tr><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Aguado et al. [<xref rid="B74-jcm-14-06885" ref-type="bibr">74</xref>] <break/>(2019)</td><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">N = 4<break/><break/>Patients with Watchman<sup>TM</sup> or Amulet<sup>TM</sup> LAAO <break/>(3 Watchman<sup>TM</sup>, 1 Amulet<sup>TM</sup>)</td><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Surface meshes of the LA were reconstructed from 3D CT images or rotational angiography images. The VIDAA platform was used to explore multiple Watchman<sup>TM</sup> and Amulet<sup>TM</sup> configurations. The VIDAA data was then exported for CFD simulation using Ansys<sup>TM</sup> Fluent 18.2. </td><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Higher ECAP values were apparent with misplaced LAAO or undersized LAAO devices.</p></list-item></list>
+</td></tr><tr><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Vogl et al. [<xref rid="B75-jcm-14-06885" ref-type="bibr">75</xref>]<break/>(2022) </td><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Retrospective, N = 4<break/><break/>Patients with Watchman<sup>TM</sup> LAAO <break/>(2 patients with DRT and 2 without DRT)</td><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Three-dimensional models were created based on CT imaging. FEops<sup>TM</sup> was used to deploy the device. CFD was performed on patient-specific models before and after device implantation. </td><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Wall shear stress was lower for the DRT patients compared to the control patients.</p></list-item><list-item><p>An increase in the atrial velocity from pre- to post-implantation was only observed in the non-DRT patients.</p></list-item></list>
+</td></tr><tr><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">D&#x02019;Alessandro et al. [<xref rid="B76-jcm-14-06885" ref-type="bibr">76</xref>]<break/>(2023)</td><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">N = 5<break/><break/>Simulated pre-LAAO morphology, LAAO with &#x0201c;pacifier device&#x0201d;, and LAAO with &#x0201c;plug device&#x0201d;</td><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">LA models were obtained from CT imaging. </td><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Velocities &#x0003c; 0.2 m/s and ECAP indices &#x0003e; 0.5 Pa&#x02212;1 are both risk factors that predict DRT.</p></list-item><list-item><p>LAAO reduces DRT risk by increasing the blood velocity and reducing ECAP indices.</p></list-item><list-item><p>LAAO with a &#x0201c;pacifier&#x0201d; device had lower ECAP indices, suggesting less risk of thrombosis.</p></list-item></list>
+</td></tr><tr><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Planas et al. [<xref rid="B77-jcm-14-06885" ref-type="bibr">77</xref>] <break/>(2022)</td><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">N = 6<break/><break/>Watchman FLX<sup>TM</sup> and Amulet<sup>TM</sup> LAAO simulations</td><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Three-dimensional surface meshes were created from pre-procedural CT scans using Meshmixer. VIDAA simulations were performed with the pulmonary ridge covered and uncovered. CFD was performed for all simulations using Ansys<sup>TM</sup> Fluent 19.2.</td><td align="left" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Low velocities were observed more frequently with uncovered pulmonary ridge configurations.</p></list-item><list-item><p>The Watchman FLX<sup>TM</sup> device had higher ECAP values than the Amulet<sup>TM</sup>.</p></list-item></list>
+</td></tr></tbody></table></table-wrap></floats-group></article>

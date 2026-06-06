@@ -1,0 +1,543 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="ccd31733" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Catheter Cardiovasc Interv</journal-id><journal-id journal-id-type="iso-abbrev">Catheter Cardiovasc Interv</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1522-726X</journal-id><journal-id journal-id-type="publisher-id">CCD</journal-id><journal-title-group><journal-title>Catheterization and Cardiovascular Interventions</journal-title></journal-title-group><issn pub-type="ppub">1522-1946</issn><issn pub-type="epub">1522-726X</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">40735901</article-id><article-id pub-id-type="pmc">12509261</article-id>
+<article-id pub-id-type="doi">10.1002/ccd.31733</article-id><article-id pub-id-type="publisher-id">CCD31733</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article &#x02010; Clinical Science</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article &#x02010; Clinical Science</subject></subj-group></article-categories><title-group><article-title>Can Ultrasound&#x02010;Guided in&#x02010;Plane Puncture Technique Enhance the Precision of Femoral Artery Access? The Randomized PARFEM Trial</article-title></title-group><contrib-group><contrib id="ccd31733-cr-0001" contrib-type="author" corresp="yes"><name><surname>Voelker</surname><given-names>Wolfram</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1773-6503</contrib-id><xref rid="ccd31733-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>Voelker_w@ukw.de</email></address></contrib><contrib id="ccd31733-cr-0002" contrib-type="author"><name><surname>Lachmann</surname><given-names>Maren</given-names></name><xref rid="ccd31733-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="ccd31733-cr-0003" contrib-type="author"><name><surname>Gueder</surname><given-names>Guelmisal</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5598-5359</contrib-id><xref rid="ccd31733-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="ccd31733-cr-0004" contrib-type="author"><name><surname>Bayik</surname><given-names>Ahmed</given-names></name><xref rid="ccd31733-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="ccd31733-cr-0005" contrib-type="author"><name><surname>Heinrichs</surname><given-names>Margarete</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-8376-7711</contrib-id><xref rid="ccd31733-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="ccd31733-cr-0006" contrib-type="author"><name><surname>Kickuth</surname><given-names>Ralph</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-4092-1432</contrib-id><xref rid="ccd31733-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="ccd31733-cr-0007" contrib-type="author"><name><surname>Bauer</surname><given-names>Wolfgang R.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-4652-7313</contrib-id><xref rid="ccd31733-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="ccd31733-cr-0008" contrib-type="author"><name><surname>Lengenfelder</surname><given-names>Bjoern</given-names></name><xref rid="ccd31733-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="ccd31733-cr-0009" contrib-type="author"><name><surname>Nordbeck</surname><given-names>Peter</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-2560-4068</contrib-id><xref rid="ccd31733-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="ccd31733-cr-0010" contrib-type="author"><name><surname>Frantz</surname><given-names>Stefan</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-0301-6185</contrib-id><xref rid="ccd31733-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="ccd31733-cr-0011" contrib-type="author"><name><surname>St&#x000f6;rk</surname><given-names>Stefan</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-1771-7249</contrib-id><xref rid="ccd31733-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib></contrib-group><aff id="ccd31733-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Internal Medicine I&#x02014;Cardiology</named-content>
+<institution>University Hospital W&#x000fc;rzburg</institution>
+<city>W&#x000fc;rzburg</city>
+<country country="DE">Germany</country>
+</aff><aff id="ccd31733-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Caritas&#x02010;Krankenhaus Bad Mergentheim</institution>
+<city>Bad Mergentheim</city>
+<country country="DE">Germany</country>
+</aff><aff id="ccd31733-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Diagnostic and Interventional Radiology</named-content>
+<institution>University Hospital W&#x000fc;rzburg</institution>
+<city>W&#x000fc;rzburg</city>
+<country country="DE">Germany</country>
+</aff><aff id="ccd31733-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department Clinical Research &#x00026; Epidemiology, Comprehensive Heart Failure Center</named-content>
+<institution>University Hospital W&#x000fc;rzburg</institution>
+<city>W&#x000fc;rzburg</city>
+<country country="DE">Germany</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold> Wolfram Voelker (<email>Voelker_w@ukw.de</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>30</day><month>7</month><year>2025</year></pub-date><pub-date pub-type="ppub"><day>01</day><month>10</month><year>2025</year></pub-date><volume>106</volume><issue seq="210">4</issue><issue-id pub-id-type="doi">10.1002/ccd.v106.4</issue-id><fpage>2252</fpage><lpage>2262</lpage><history>
+<date date-type="rev-recd"><day>06</day><month>6</month><year>2025</year></date>
+<date date-type="received"><day>17</day><month>4</month><year>2025</year></date>
+<date date-type="accepted"><day>24</day><month>6</month><year>2025</year></date>
+</history><permissions><!--&#x000a9; 2025 Wiley Periodicals LLC.--><copyright-statement content-type="article-copyright">&#x000a9; 2025 The Author(s). <italic toggle="yes">Catheterization and Cardiovascular Interventions</italic> published by Wiley Periodicals LLC.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:CCD-106-2252.pdf"/><abstract><title>ABSTRACT</title><sec id="ccd31733-sec-0010"><title>Background</title><p>Ultrasound&#x02010;guided puncture of the common femoral artery (CFA) is assumed to be more precise than conventional techniques without ultrasound. However, previous comparative studies have shown partly contradictory results with regard to success of ultrasound&#x02010;guided puncture so that this method is not yet standard in transfemoral cardiac catheterization.</p></sec><sec id="ccd31733-sec-0020"><title>Aims</title><p>The PARFEM trial was performed to investigate whether an ultrasound&#x02010;assisted in&#x02010;plane technique using a needle guide could improve the precision of CFA puncture.</p></sec><sec id="ccd31733-sec-0030"><title>Methods</title><p>The study was conducted in 286 patients undergoing transfemoral cardiac catheterization. Patients were randomized 1:1, and femoral artery puncture was performed either using an ultrasound&#x02010;guided in&#x02010;plane technique with fluoroscopic marking of the center of the femoral head or a conventional approach. The primary endpoint was successful puncture of the CFA with the first attempt. In addition, the influence of the examiners' level of experience on puncture results was investigated.</p></sec><sec id="ccd31733-sec-0040"><title>Results</title><p>Primary successful puncture of the CFA was achieved more frequently in the ultrasound group than in the control group: 79.6% versus 55.6%, odds ratio 3.25 [95% CI: 1.92&#x02212;5.23], <italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.001. This favorable effect of ultrasound guidance was independent of the examiners' level of experience. The success rate of ultrasound&#x02010;guided sheath placement within the CFA was 97.2%, compared to 77.8% in the control group (<italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.01).</p></sec><sec id="ccd31733-sec-0050"><title>Conclusions</title><p>The PARFEM trial demonstrated that in&#x02010;plane ultrasound guidance can improve the precision of femoral puncture and reduce the occurrence of inadequate sheath placements. The results support the incorporation of this technique into standard practice for guiding transfemoral puncture.</p></sec><sec id="ccd31733-sec-0050a"><title>Trial Registration</title><p>
+<ext-link xlink:href="http://ClinicalTrials.gov" ext-link-type="uri">ClinicalTrials.gov</ext-link> Identifier: NCT06065943.</p></sec></abstract><kwd-group><kwd id="ccd31733-kwd-0001">femoral access</kwd><kwd id="ccd31733-kwd-0002">high stick</kwd><kwd id="ccd31733-kwd-0003">in&#x02010;plane</kwd><kwd id="ccd31733-kwd-0004">retroperitoneal hemorrhage</kwd><kwd id="ccd31733-kwd-0005">ultrasound&#x02010;guidance</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>The authors received no specific funding for this work.</institution></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="5"/><table-count count="2"/><page-count count="11"/><word-count count="5900"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 1, 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.4 mode:remove_FC converted:09.10.2025</meta-value></custom-meta></custom-meta-group></article-meta></front><body><def-list list-content="abbreviations"><title>Abbreviations</title><def-item><term>CFA</term><def><p>common femoral artery</p></def></def-item><def-item><term>FH</term><def><p>femoral head</p></def></def-item></def-list><sec id="ccd31733-sec-0060"><label>1</label><title>Introduction</title><p>Several studies have demonstrated that cardiac catheterization via the radial artery significantly reduces vascular complications compared to the femoral approach [<xref rid="ccd31733-bib-0001" ref-type="bibr">1</xref>, <xref rid="ccd31733-bib-0002" ref-type="bibr">2</xref>]. Therefore, transfemoral catheterization is now employed only in select groups of patients such as those with severe radial spasm, pronounced vascular tortuosities, or those requiring large&#x02010;lumen sheaths.</p><p>When a transfemoral access has to be performed, a correct puncture technique is mandatory. Selecting the correct puncture height is crucial to minimize the risk of complications. While a puncture above the inguinal ligament significantly increases the risk of retroperitoneal bleeding [<xref rid="ccd31733-bib-0003" ref-type="bibr">3</xref>, <xref rid="ccd31733-bib-0004" ref-type="bibr">4</xref>, <xref rid="ccd31733-bib-0005" ref-type="bibr">5</xref>], a puncture below the femoral bifurcation elevates the likelihood of post&#x02010;interventional bleedings or pseudoaneurysms [<xref rid="ccd31733-bib-0006" ref-type="bibr">6</xref>, <xref rid="ccd31733-bib-0007" ref-type="bibr">7</xref>, <xref rid="ccd31733-bib-0008" ref-type="bibr">8</xref>]. An ultrasound&#x02010;guided puncture technique enables a targeted puncture of the femoral vessel, that is, a puncture within a suitable, calcification&#x02010;free vessel segment. In contrast to the classical technique guided by palpation and fluoroscopy, where the puncture is performed virtually &#x0201c;blind,&#x0201d; the ultrasound&#x02010;supported procedure allows the vessel to be punctured &#x0201c;under vision.&#x0201d; Especially for less experienced operators, ultrasound is aimed at minimizing complications and ensuring safer procedures. In the meantime, numerous studies [<xref rid="ccd31733-bib-0009" ref-type="bibr">9</xref>, <xref rid="ccd31733-bib-0010" ref-type="bibr">10</xref>, <xref rid="ccd31733-bib-0011" ref-type="bibr">11</xref>, <xref rid="ccd31733-bib-0012" ref-type="bibr">12</xref>, <xref rid="ccd31733-bib-0013" ref-type="bibr">13</xref>, <xref rid="ccd31733-bib-0014" ref-type="bibr">14</xref>, <xref rid="ccd31733-bib-0015" ref-type="bibr">15</xref>] have assessed whether ultrasound&#x02010;guided puncture is more accurate and causes fewer complications than the conventional method. To date, no randomized study has demonstrated the superiority of ultrasound&#x02010;guided femoral puncture. The three major multicenter trials&#x02014;FAUST [<xref rid="ccd31733-bib-0009" ref-type="bibr">9</xref>], SURF [<xref rid="ccd31733-bib-0013" ref-type="bibr">13</xref>], and UNIVERSAL [<xref rid="ccd31733-bib-0015" ref-type="bibr">15</xref>] adopted distinct primary objectives, choosing either a procedural (&#x0201c;successful common femoral artery cannulation&#x0201d;) or a combined clinical endpoint. Notably, the primary endpoint analyses in all three trials were unequivocally negative. Only some meta&#x02010;analyses have indicated potential advantages of the ultrasound&#x02010;guided puncture technique [<xref rid="ccd31733-bib-0016" ref-type="bibr">16</xref>, <xref rid="ccd31733-bib-0017" ref-type="bibr">17</xref>]. Due to these mixed results, ultrasound&#x02010;guided puncture has not yet become the standard practice in transfemoral cardiac catheterization [<xref rid="ccd31733-bib-0018" ref-type="bibr">18</xref>].</p><p>One reason for the partly negative results could be the &#x0201c;out&#x02010;of&#x02010;plane&#x0201d; technique of ultrasound guidance, a widely used technique that was also applied in the cited studies, see the schematic representation of the method in Figure&#x000a0;<xref rid="ccd31733-suppl-0001" ref-type="supplementary-material">S1</xref>. In contrast, the PARFEM trial (ULTRASOUND&#x02010;GUIDED IN&#x02010;<bold>P</bold>L<bold>A</bold>NE PUNCTU<bold>R</bold>E OF THE <bold>FEM</bold>ORAL ARTERY) used an &#x0201c;in&#x02010;plane&#x0201d; ultrasound guidance technique (Figure&#x000a0;<xref rid="ccd31733-suppl-0001" ref-type="supplementary-material">S1</xref>).</p><p>The objective of the PARFEM trial was to assess whether this technique can increase the precision of femoral artery puncture as a prerequisite for reducing vascular complications.</p></sec><sec sec-type="methods" id="ccd31733-sec-0070"><label>2</label><title>Methods</title><sec id="ccd31733-sec-0080"><label>2.1</label><title>Study Design</title><p>The PARFEM trial was a randomized controlled trial using an ultrasound&#x02010;assisted in&#x02010;plane puncture technique combined with fluoroscopic marking of the center of the femoral head. The trial was approved by the Ethics Committee of the University Hospital W&#x000fc;rzburg, and all patients provided written informed consent before any study procedure.</p><p>The procedures were performed by 23 medical staff members of the Department Internal Medicine I of the University Hospital Wuerzburg, including 9 consultant cardiologists and 14 cardiology fellows. Based on their level of experience, they were divided into two groups: Group 1 consisted of 13 examiners with moderate experience (50&#x02212;500 transfemoral examinations/interventions performed), while Group 2 included 10 examiners with extensive experience (&#x0003e;&#x02009;500 transfemoral catheter examinations/interventions performed). The first group was termed &#x0201c;non&#x02010;experts,&#x0201d; whereas the second was labeled &#x0201c;experts.&#x0201d; Each of the examiners performed an average of 12.4 (range: 1&#x02013;49) examinations within the PARFEM trial.</p></sec><sec id="ccd31733-sec-0090"><label>2.2</label><title>Eligibility Criteria and Randomization</title><p>Patients who were scheduled to undergo an elective transfemoral procedure were eligible for inclusion into the study. Patients presenting with acute coronary syndrome were excluded as were patients with peripheral artery disease with no palpable pulse.</p><p>To investigate the impact of the individual catheter expertise on the primary endpoint, patients were stratified based on the experience level of the examiners. For each patient included in the study, the responsible examiner&#x02014;assigned to either Group A or Group B&#x02014;was chosen based on the anticipated complexity of the planned procedure and in accordance with the clinic's standard protocols. Upon determining the examiner's group affiliation, a stratified randomization was carried out 1:1 using a computer algorithm. Each patient was assigned to either &#x0201c;ultrasound&#x02010;guided puncture&#x0201d; or &#x0201c;conventional palpation and fluoroscopy&#x02010;assisted puncture.&#x0201d;</p><p>Before the examination of their first study patient, the participating physicians were familiarized with each step of the study protocol by the principal investigator.</p></sec><sec id="ccd31733-sec-0100"><label>2.3</label><title>Ultrasound&#x02010;Guided Puncture</title><p>In the patients, who were assigned for ultrasound guided puncture, two sterile marker rulers (Glow'N Tell Tape, LeMaitre Vascular, Burlington, MA, USA) were taped in the longitudinal direction lateral and medial of the femoral head. Then, an X&#x02010;ray image capturing both the femoral head and the marker rulers was performed. Using this image, an echo&#x02010;tight tape (Beekley, CT&#x02010;SPOT 118, Bristol, CT, USA) was fixed between the two rulers in such a way that it traversed horizontally through the center of the femoral head (Figure&#x000a0;<xref rid="ccd31733-fig-0001" ref-type="fig">1A</xref> and Video&#x000a0;<xref rid="ccd31733-suppl-0009" ref-type="supplementary-material">S9</xref>).</p><fig position="float" fig-type="Figure" id="ccd31733-fig-0001"><label>Figure 1</label><caption><p>Ultrasound&#x02010;guided in&#x02010;plane puncture as used in the PARFEM trial. An ultrasound guided in&#x02010;plane puncture technique was used in which the CFA and the femoral head (FH) were visualized in the longitudinal plane (D). The center of the FH served as the upper border, and the bifurcation of the CFA as the lower border of the targeted puncture height. Within this zone, a suitable site for vessel puncture was identified. To ensure that the needle was continuously visualized in the displayed ultrasonic plane, a needle guide was used (B, C). Utilizing a displayed 45&#x02010;&#x000b0; reference line (D), the needle was advanced under ultrasound guidance. As an additional orientation landmark, a Beekley marker was placed horizontally at the level of the center of the FH with the aid of two rulers (A). The marker created a characteristic linear acoustic shadow (D), which helped to select the correct puncture height and to avoid &#x0201c;high sticks.&#x0201d; CFA&#x02009;=&#x02009;common femoral artery; FH&#x02009;=&#x02009;femoral head. [Color figure can be viewed at <ext-link xlink:href="http://wileyonlinelibrary.com" ext-link-type="uri">wileyonlinelibrary.com</ext-link>]</p></caption><graphic xlink:href="CCD-106-2252-g003" position="anchor" id="jats-graphic-1"/></fig><p>An ACUSON&#x02010;Freestyle ultrasound device (Siemens, Forchheim, Germany), embedded into the X&#x02010;ray&#x02010;system (Azurion, Philips, Best, The Netherlands), was used. The corresponding L 8&#x02010;3 vascular transducer was first packaged sterile (Snap&#x02010;fit, Civco, Coralville, Iowa, USA) and then fitted with a sterile needle guide (GalloPrint, Hettstadt, Germany) (Figure&#x000a0;<xref rid="ccd31733-suppl-0002" ref-type="supplementary-material">S2</xref>). This needle guide is a 3D&#x02010;printed disposable product through which an 18&#x02009;G puncture needle (VascularSono, 10&#x02009;cm, Pajunk, Geisingen, Germany) can be advanced in&#x02010;plane at an angle of 45&#x000b0; (Figure&#x000a0;<xref rid="ccd31733-fig-0001" ref-type="fig">1B,C</xref>). For very slender patients, a 30&#x02010;&#x000b0; needle guide was available.</p><p>The transducer was positioned to obtain a longitudinal view of the femoral artery. First, the femoral bifurcation was identified as the imaginary lower limit of the puncture site. If the bifurcation could not be clearly identified, the vessel was additionally visualized in an oblique and short axis view. Then, the center of the femoral head was identified by ultrasound, serving as the upper limit of the targeted puncture segment. The reliability of this visualization depended on the quality of the femoral head ultrasound image, which was assessed and documented by the examiner.</p><p>The following definitions were applied:
+<list list-type="simple"><list-item><label>1.</label><p>Good scan quality: The femoral head could be fully visualized.</p></list-item><list-item><label>2.</label><p>Moderate scan quality: The femoral head could be partially visualized.</p></list-item><list-item><label>3.</label><p>Poor scan quality: The femoral head could not be visualized.</p></list-item></list>
+</p><p>Based on the initial ultrasound scan&#x02010;in case of uncertainties, supported by the Beekley marker&#x02010; a calcification&#x02010;free site was identified within the target puncture segment, preferably at the level of the lower half of the femoral head. Then, the vessel was adjusted longitudinally so that the 45&#x02010;&#x000b0; needle guidance line aligned with the selected target site of the vessel (Figure&#x000a0;<xref rid="ccd31733-fig-0001" ref-type="fig">1D</xref>). Vertical placement of the ultrasound probe ensured a clear and sharp depiction of the endothelium, indicating central puncture positioning. The needle was advanced under continuous ultrasound imaging. Penetration of the anterior vessel wall was performed slowly to avoid perforation of the posterior vessel wall; the intravascular position of the needle tip was usually clearly recognized. Vessel entrance was typically accompanied by pulsatile blood backflow through the needle. A 0.035&#x02010;in. guidewire was inserted through the needle under ultrasound guidance. If resistance was encountered, the needle tip was slightly repositioned to allow unimpeded insertion of the wire. A femoral sheath (Radifocus, Terumo, Tokyo, JP) was finally placed.</p></sec><sec id="ccd31733-sec-0110"><label>2.4</label><title>Control Group</title><p>To select the appropriate femoral puncture site in the control group, the common anatomical landmarks were identified. Considering these landmarks, the puncture was performed using an 18&#x02009;G needle at the site of the strongest palpable pulse. The examiner decided whether to use fluoroscopy to facilitate the process of determining the puncture height. After insertion of the 0.035&#x0201d; wire, a femoral sheath was advanced.</p></sec><sec id="ccd31733-sec-0120"><label>2.5</label><title>Rotational Angiography</title><p>The position of the sheath was finally documented by angiography. A &#x0201c;single axis&#x0201d; rotational angiography of the femoral vessel was performed. For this purpose, the C&#x02010;arm was rotated at a speed of 50&#x000b0;/s from RAO 40 to LAO 40 (Figure&#x000a0;<xref rid="ccd31733-suppl-0003" ref-type="supplementary-material">S3</xref>) without cranial or caudal angulation. Automatic (ACIST CVi) or manual contrast injection was performed through the side port of the sheath and was started immediately before C&#x02010;arm rotation.</p></sec><sec id="ccd31733-sec-0130"><label>2.6</label><title>Removal of the Sheath</title><p>In all four groups, the sheath was removed at the end of the procedure. It was left at the discretion of the examiner to use a vascular closure system or manual compression only. If rotational angiography showed the sheath distal to the bifurcation, the use of Angioseal (Terumo, Tokyo, JP) or Proglide (Abbott Vascular, Redwood City, Ca) was avoided.</p></sec><sec id="ccd31733-sec-0140"><label>2.7</label><title>Assessment of the Rotational Angiograms</title><p>The rotational angiograms were evaluated by two experienced team members. To view the groin vessels from different projections, the angiograms were replayed multiple times. Using a projection in which the inferior epigastric artery was shown, the lowest point of this vessel was identified, which marks the upper boundary of the CFA [<xref rid="ccd31733-bib-0004" ref-type="bibr">4</xref>]. In a further projection, the bifurcation of the CFA was identified. Finally, a projection was selected in which the entry of the sheath into the vessel was most clearly visible (Figure&#x000a0;<xref rid="ccd31733-suppl-0003" ref-type="supplementary-material">S3</xref>). Cannulation of the CFA was considered successful if the puncture site was located distal to the inferior loop of the inferior epigastric artery and proximal to the femoral bifurcation. If the vascular entry of the sheath was at or above the inferior epigastric artery or distal to the bifurcation, the cannulation was considered &#x0201c;too high&#x0201d; (located in the external iliac artery) or &#x0201c;too low&#x0201d; (located in the superficial or deep femoral artery) (Figure&#x000a0;<xref rid="ccd31733-suppl-0004" ref-type="supplementary-material">S4</xref>).</p></sec><sec id="ccd31733-sec-0150"><label>2.8</label><title>Endpoints</title><p>The successful puncture of the CFA at the first attempt was defined as the primary endpoint. The basis for this approach was that achieving an initial successful puncture almost entirely prevents vascular complications related to injuries of adjacent structures. Secondary endpoints included &#x0201c;first&#x02010;pass success,&#x0201d; defined as the percentage of patients with a primary successful arterial puncture, regardless of the puncture site. Furthermore, the number of attempts, the percentage of patients in whom the sheath was adequately placed in the CFA, the time to achieve femoral access, the rate of inadvertent venipunctures, and the occurrence of bleeding complications requiring vascular intervention or surgery were documented. Subgroup analysis was conducted based on the following prespecified parameters: age (&#x02265;&#x02009;75 years vs. &#x0003c;&#x02009;75 years), sex (male vs. female), body mass index (BMI; weight in kg divided by height in meters squared; &#x02265;&#x02009;30 vs. &#x0003c;&#x02009;30), type of coronary catheterization (PCI vs. angiography alone), sheath size (&#x02265;&#x02009;6&#x02009;F vs. &#x0003c;&#x02009;6&#x02009;F), right heart catheterization (performed vs not performed), and closure device (used vs. not used). Additionally, two post hoc&#x02010;defined subgroups were examined: femoral head image quality (Grade 1 vs. Grades 2 or 3) and ultrasound experience of the examiner (Level 1 vs. Level 2, Appendix <xref rid="ccd31733-suppl-0007" ref-type="supplementary-material">S7</xref>).</p></sec><sec id="ccd31733-sec-0160"><label>2.9</label><title>Sample Size Calculation and Data Analysis</title><p>The sample size calculation for PARFEM was based on the first pass success rates reported in the Faust trial [<xref rid="ccd31733-bib-0009" ref-type="bibr">9</xref>], where these rates were 82.7% in the ultrasound group and 46.4% in the control group. Our hypothesis was that in PARFEM at least the same first pass success rates could be achieved as reported in [<xref rid="ccd31733-bib-0009" ref-type="bibr">9</xref>]. With improved technology (in&#x02010;plane, needle guidance, and fluoroscopic marking), we aimed to avoid punctures outside the CFA and selected &#x0201c;successful CFA puncture at the first attempt&#x0201d; as the primary endpoint. Assuming <italic toggle="yes">&#x003b1;</italic>&#x02009;=&#x02009;0.05 and a power (1&#x02010;<italic toggle="yes">&#x003b2;</italic>) = 0.90, 105 patients per study arm were required to detect a difference in the primary endpoint if the success rate was 80% in the ultrasound arm and 60% in the control arm.</p><p>Data are described using count (percent), mean (SD), median (quartiles and range), as appropriate. Differences between groups were tested using the Mann&#x02212;Whitney <italic toggle="yes">U</italic>&#x02010;test and Kruskal&#x02212;Wallis test, as appropriate. <italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.05 were considered statistically significant. No correction was made for multiple testing. Statistical analyses were performed using SPSS version 27. Study data were collected and managed using REDCap electronic data capture tools hosted by the University of W&#x000fc;rzburg.</p></sec></sec><sec sec-type="results" id="ccd31733-sec-0170"><label>3</label><title>Results</title><sec id="ccd31733-sec-0180"><label>3.1</label><title>Patient Population</title><p>The PARFEM trial enrolled and randomized 300 patients who underwent transfemoral cardiac catheterization at the University Hospital Wuerzburg between July 2022 and March 2024. During this period, a total of 4196 cardiac catheterizations/interventions were performed at the study site.</p><p>Fourteen patients were excluded from the study for various reasons (Figure&#x000a0;<xref rid="ccd31733-fig-0002" ref-type="fig">2</xref>). The remaining 286 patients (66% men, 34% women) had a mean age of 71.5&#x02009;&#x000b1;&#x02009;10.5 years. Diagnostic coronary angiography was performed in 220 patients (77%), while 66 patients (23%) underwent PCI. Closure devices were placed in 211 patients (73.8%). The demographic and procedural parameters were similar between all four study groups (Table&#x000a0;<xref rid="ccd31733-tbl-0001" ref-type="table">1</xref>).</p><fig position="float" fig-type="Figure" id="ccd31733-fig-0002"><label>Figure 2</label><caption><p>CONSORT diagram of the diagnostic PARFEM trial. [Color figure can be viewed at <ext-link xlink:href="http://wileyonlinelibrary.com" ext-link-type="uri">wileyonlinelibrary.com</ext-link>]</p></caption><graphic xlink:href="CCD-106-2252-g002" position="anchor" id="jats-graphic-3"/></fig><table-wrap position="float" id="ccd31733-tbl-0001" content-type="Table"><label>Table 1</label><caption><p>Demographics and procedural characteristics of study participants (n&#x02009;=&#x02009;286).</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><thead valign="bottom"><tr valign="bottom"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th colspan="2" style="border-bottom:solid 1px #000000" align="center" valign="bottom" rowspan="1">
+<p>Non&#x02010;Experts <italic toggle="yes">N</italic>&#x02009;=&#x02009;151</p>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1"/><th align="center" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">
+<p>Experts <italic toggle="yes">N</italic>&#x02009;=&#x02009;135</p>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1"/></tr><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">
+<p>Control</p>
+<p>
+<italic toggle="yes">N</italic>&#x02009;=&#x02009;74</p>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<p>Ultrasound&#x02010;guided</p>
+<p>
+<italic toggle="yes">N</italic>&#x02009;=&#x02009;77</p>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> value</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<p>Control</p>
+<p>
+<italic toggle="yes">N</italic>&#x02009;=&#x02009;70</p>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<p>Ultrasound&#x02010;guided</p>
+<p>
+<italic toggle="yes">N</italic>&#x02009;=&#x02009;65</p>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> value</th></tr></thead><tbody valign="top"><tr><td align="left" colspan="7" valign="top" rowspan="1">
+<bold>Demographics</bold>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Age (years)</td><td align="center" valign="top" rowspan="1" colspan="1">72.0 (10.2)</td><td align="center" valign="top" rowspan="1" colspan="1">70.5 (10.5)</td><td align="center" valign="top" rowspan="1" colspan="1">0.447</td><td align="center" valign="top" rowspan="1" colspan="1">71.8 (10.9)</td><td align="center" valign="top" rowspan="1" colspan="1">71.9 (10.5)</td><td align="center" valign="top" rowspan="1" colspan="1">0.946</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Male sex</td><td align="center" valign="top" rowspan="1" colspan="1">47 (63)</td><td align="center" valign="top" rowspan="1" colspan="1">51 (66)</td><td align="center" valign="top" rowspan="1" colspan="1">0.726</td><td align="center" valign="top" rowspan="1" colspan="1">44 (63)</td><td align="center" valign="top" rowspan="1" colspan="1">46 (71)</td><td align="center" valign="top" rowspan="1" colspan="1">0.330</td></tr><tr><td colspan="7" align="left" valign="top" rowspan="1">
+<bold>Body mass index (kg/m&#x000b2;)</bold>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Mean</td><td align="center" valign="top" rowspan="1" colspan="1">28.0 (4.4)</td><td align="center" valign="top" rowspan="1" colspan="1">27.1 (4.5)</td><td align="center" valign="top" rowspan="1" colspan="1">0.260</td><td align="center" valign="top" rowspan="1" colspan="1">28.6 (6.4)</td><td align="center" valign="top" rowspan="1" colspan="1">27.0 (4.2)</td><td align="center" valign="top" rowspan="1" colspan="1">0.177</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">&#x02265;&#x02009;30&#x02009;kg/m&#x000b2;</td><td align="center" valign="top" rowspan="1" colspan="1">26 (35)</td><td align="center" valign="top" rowspan="1" colspan="1">20 (26)</td><td align="center" valign="top" rowspan="1" colspan="1">0.242</td><td align="center" valign="top" rowspan="1" colspan="1">27 (39)</td><td align="center" valign="top" rowspan="1" colspan="1">18 (28)</td><td align="center" valign="top" rowspan="1" colspan="1">0.201</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>PAD (Fontaine)</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">2 (3)</td><td align="center" valign="top" rowspan="1" colspan="1">6 (8)</td><td align="center" valign="top" rowspan="1" colspan="1">0.163</td><td align="center" valign="top" rowspan="1" colspan="1">5 (7)</td><td align="center" valign="top" rowspan="1" colspan="1">4 (6)</td><td align="center" valign="top" rowspan="1" colspan="1">0.330</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Chronic kidney dysfunction</bold>
+<xref rid="ccd31733-tbl1-note-0003" ref-type="table-fn">a</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">15 (20.3)</td><td align="center" valign="top" rowspan="1" colspan="1">17 (22.1)</td><td align="center" valign="top" rowspan="1" colspan="1">0.786</td><td align="center" valign="top" rowspan="1" colspan="1">18 (25.7)</td><td align="center" valign="top" rowspan="1" colspan="1">18 (29.5)</td><td align="center" valign="top" rowspan="1" colspan="1">0.628</td></tr><tr><td align="left" colspan="7" valign="top" rowspan="1">
+<bold>Procedure</bold>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Diagnostic</td><td align="center" valign="top" rowspan="1" colspan="1">58 (78)</td><td align="center" valign="top" rowspan="1" colspan="1">62 (80)</td><td align="center" valign="top" rowspan="1" colspan="1">0.745</td><td align="center" valign="top" rowspan="1" colspan="1">53 (76)</td><td align="center" valign="top" rowspan="1" colspan="1">47 (72)</td><td align="center" valign="top" rowspan="1" colspan="1">0.652</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Intervention</td><td align="center" valign="top" rowspan="1" colspan="1">16 (22)</td><td align="center" valign="top" rowspan="1" colspan="1">15 (20)</td><td align="center" valign="top" rowspan="1" colspan="1">0.745</td><td align="center" valign="top" rowspan="1" colspan="1">17 (24)</td><td align="center" valign="top" rowspan="1" colspan="1">18 (28)</td><td align="center" valign="top" rowspan="1" colspan="1">0.652</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Additional right heart catheter</td><td align="center" valign="top" rowspan="1" colspan="1">20 (27)</td><td align="center" valign="top" rowspan="1" colspan="1">24 (31)</td><td align="center" valign="top" rowspan="1" colspan="1">0.576</td><td align="center" valign="top" rowspan="1" colspan="1">19 (27)</td><td align="center" valign="top" rowspan="1" colspan="1">25 (39)</td><td align="center" valign="top" rowspan="1" colspan="1">0.161</td></tr><tr><td align="left" colspan="7" valign="top" rowspan="1">
+<bold>Anticoagulation</bold>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Heparin</td><td align="center" valign="top" rowspan="1" colspan="1">74 (100)</td><td align="center" valign="top" rowspan="1" colspan="1">77 (100)</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">70 (100)</td><td align="center" valign="top" rowspan="1" colspan="1">65 (100)</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">P2Y12 inhibitor</td><td align="center" valign="top" rowspan="1" colspan="1">11 (15)</td><td align="center" valign="top" rowspan="1" colspan="1">10 (13)</td><td align="center" valign="top" rowspan="1" colspan="1">0.712</td><td align="center" valign="top" rowspan="1" colspan="1">8 (12)</td><td align="center" valign="top" rowspan="1" colspan="1">7 (11)</td><td align="center" valign="top" rowspan="1" colspan="1">0.880</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">GP IIbIIIa antagonist</td><td align="center" valign="top" rowspan="1" colspan="1">0 (0)</td><td align="center" valign="top" rowspan="1" colspan="1">0 (0)</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02014;</td><td align="center" valign="top" rowspan="1" colspan="1">1 (1)</td><td align="center" valign="top" rowspan="1" colspan="1">0 (0)</td><td align="center" valign="top" rowspan="1" colspan="1">0.333</td></tr><tr><td align="left" colspan="7" valign="top" rowspan="1">
+<bold>Sheath size</bold>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">French 5</td><td align="center" valign="top" rowspan="1" colspan="1">57 (77)</td><td align="center" valign="top" rowspan="1" colspan="1">61 (79)</td><td align="center" valign="top" rowspan="1" colspan="1">0.744</td><td align="center" valign="top" rowspan="1" colspan="1">48 (69)</td><td align="center" valign="top" rowspan="1" colspan="1">49 (76)</td><td align="center" valign="top" rowspan="1" colspan="1">0.379</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">&#x02265;&#x02009;French 6</td><td align="center" valign="top" rowspan="1" colspan="1">17 (23)</td><td align="center" valign="top" rowspan="1" colspan="1">16 (21)</td><td align="center" valign="top" rowspan="1" colspan="1">0.744</td><td align="center" valign="top" rowspan="1" colspan="1">22 (31)</td><td align="center" valign="top" rowspan="1" colspan="1">16 (24)</td><td align="center" valign="top" rowspan="1" colspan="1">0.379</td></tr><tr><td align="left" colspan="7" valign="top" rowspan="1">
+<bold>Closure device</bold>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Angioseal</td><td align="center" valign="top" rowspan="1" colspan="1">8 (11)</td><td align="center" valign="top" rowspan="1" colspan="1">5 (7)</td><td align="center" valign="top" rowspan="1" colspan="1">0.344</td><td align="center" valign="top" rowspan="1" colspan="1">16 (23)</td><td align="center" valign="top" rowspan="1" colspan="1">9 (14)</td><td align="center" valign="top" rowspan="1" colspan="1">0.178</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Exoseal</td><td align="center" valign="top" rowspan="1" colspan="1">51 (69)</td><td align="center" valign="top" rowspan="1" colspan="1">47 (61)</td><td align="center" valign="top" rowspan="1" colspan="1">0.310</td><td align="center" valign="top" rowspan="1" colspan="1">39 (56)</td><td align="center" valign="top" rowspan="1" colspan="1">33 (51)</td><td align="center" valign="top" rowspan="1" colspan="1">0.565</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Mynx</td><td align="center" valign="top" rowspan="1" colspan="1">0 (0)</td><td align="center" valign="top" rowspan="1" colspan="1">0 (0)</td><td align="center" valign="top" rowspan="1" colspan="1">N/A</td><td align="center" valign="top" rowspan="1" colspan="1">1 (1)</td><td align="center" valign="top" rowspan="1" colspan="1">1 (2)</td><td align="center" valign="top" rowspan="1" colspan="1">0.958</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Prostyle</td><td align="center" valign="top" rowspan="1" colspan="1">0 (0)</td><td align="center" valign="top" rowspan="1" colspan="1">0 (0)</td><td align="center" valign="top" rowspan="1" colspan="1">N/A</td><td align="center" valign="top" rowspan="1" colspan="1">0 (0)</td><td align="center" valign="top" rowspan="1" colspan="1">1 (2)</td><td align="center" valign="top" rowspan="1" colspan="1">0.298</td></tr></tbody></table><table-wrap-foot><fn id="ccd31733-tbl1-note-0001"><p>
+<italic toggle="yes">Note:</italic> Data are count (percent) or mean (SD), as appropriate.</p></fn><fn id="ccd31733-tbl1-note-0002"><p>Abbreviations: PAD&#x02009;=&#x02009;peripheral artery disease.</p></fn><fn id="ccd31733-tbl1-note-0003"><label>
+<sup>a</sup>
+</label><p>Creatinine&#x02009;&#x0003e;&#x02009;1.3&#x02009;mg/dL.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="ccd31733-sec-0190"><label>3.2</label><title>Primary Endpoint</title><p>In the overall cohort, patients who underwent ultrasound&#x02010;guided puncture were significantly more likely to have a successful CFA puncture on the first attempt compared to those who did not (79.6% vs. 55.6%, odds ratio 3.25 [95% CI, 1.92&#x02212;5.23], <italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.001). This favorable effect of ultrasound guidance was achieved regardless of the experience level of the examiner and was observed in both &#x0201c;non&#x02010;experts&#x0201d; and &#x0201c;experts&#x0201d; (Figure&#x000a0;<xref rid="ccd31733-fig-0003" ref-type="fig">3</xref> and Table&#x000a0;<xref rid="ccd31733-tbl-0002" ref-type="table">2</xref>).</p><fig position="float" fig-type="Figure" id="ccd31733-fig-0003"><label>Figure 3</label><caption><p>Successful puncture of the common femoral artery on the first attempt. Primary successful puncture of the common femoral artery (primary endpoint of the PARFEM trial) was achieved significantly more often in the 142 patients punctured with ultrasound guidance than in the 144 controls (left columns). The benefit of ultrasound&#x02010;guided puncture was independent of the examiners&#x02019; level of femoral puncture experience and was evident in both &#x0201c;non&#x02010;experts&#x0201d; (middle columns) and &#x0201c;experts&#x0201d; (right columns). Values expressed as percentages. [Color figure can be viewed at <ext-link xlink:href="http://wileyonlinelibrary.com" ext-link-type="uri">wileyonlinelibrary.com</ext-link>]</p></caption><graphic xlink:href="CCD-106-2252-g001" position="anchor" id="jats-graphic-5"/></fig><table-wrap position="float" id="ccd31733-tbl-0002" content-type="Table"><label>Table 2</label><caption><p>Intraprocedural and clinical outcomes.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th rowspan="2" align="left" valign="bottom" colspan="1">Endpoint</th><th colspan="3" align="center" valign="bottom" rowspan="1">Total group</th><th colspan="3" align="center" valign="bottom" rowspan="1">Non&#x02010;experts</th><th align="center" colspan="3" valign="bottom" rowspan="1">Experts</th></tr><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">
+<p>Control <italic toggle="yes">N</italic>&#x02009;=&#x02009;144</p>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<p>Ultrasound&#x02010;guided</p>
+<p>
+<italic toggle="yes">N</italic>&#x02009;=&#x02009;142</p>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> value</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<p>Control</p>
+<p>
+<italic toggle="yes">N</italic>&#x02009;=&#x02009;74</p>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<p>Ultrasound&#x02010;guided</p>
+<p>
+<italic toggle="yes">N</italic>&#x02009;=&#x02009;77</p>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> value</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<p>Control</p>
+<p>
+<italic toggle="yes">N</italic>&#x02009;=&#x02009;70</p>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<p>Ultrasound&#x02010;guided</p>
+<p>
+<italic toggle="yes">N</italic>&#x02009;=&#x02009;65</p>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> value</th></tr></thead><tbody valign="top"><tr><td align="left" colspan="10" valign="top" rowspan="1">
+<bold>Primary endpoint</bold>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">First&#x02010;pass CFA access</td><td align="center" valign="top" rowspan="1" colspan="1">80 (55.6)</td><td align="center" valign="top" rowspan="1" colspan="1">113 (79.6)</td><td align="center" valign="top" rowspan="1" colspan="1">&#x0003c;&#x02009;0.001</td><td align="center" valign="top" rowspan="1" colspan="1">40 (54.1)</td><td align="center" valign="top" rowspan="1" colspan="1">63 (81.8)</td><td align="center" valign="top" rowspan="1" colspan="1">&#x0003c;&#x02009;0.001</td><td align="center" valign="top" rowspan="1" colspan="1">40 (57.1)</td><td align="center" valign="top" rowspan="1" colspan="1">50 (76.9)</td><td align="center" valign="top" rowspan="1" colspan="1">&#x0003c;&#x02009;0.001</td></tr><tr><td align="left" colspan="10" valign="top" rowspan="1">
+<bold>Secondary endpoints</bold>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">First pass arterial access</td><td align="center" valign="top" rowspan="1" colspan="1">105 (73.4)</td><td align="center" valign="top" rowspan="1" colspan="1">116 (84.1)</td><td align="center" valign="top" rowspan="1" colspan="1">0.030</td><td align="center" valign="top" rowspan="1" colspan="1">55 (75.3)</td><td align="center" valign="top" rowspan="1" colspan="1">64 (84.2)</td><td align="center" valign="top" rowspan="1" colspan="1">0.177</td><td align="center" valign="top" rowspan="1" colspan="1">50 (71.4)</td><td align="center" valign="top" rowspan="1" colspan="1">52 (83.9)</td><td align="center" valign="top" rowspan="1" colspan="1">0.089</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Successful CFA placement</td><td align="center" valign="top" rowspan="1" colspan="1">112 (77.8)</td><td align="center" valign="top" rowspan="1" colspan="1">136 (97.2)</td><td align="center" valign="top" rowspan="1" colspan="1">&#x0003c;&#x02009;0.001</td><td align="center" valign="top" rowspan="1" colspan="1">57 (77.0)</td><td align="center" valign="top" rowspan="1" colspan="1">75 (97.4)</td><td align="center" valign="top" rowspan="1" colspan="1">&#x0003c;&#x02009;0.001</td><td align="center" valign="top" rowspan="1" colspan="1">55 (78.6)</td><td align="center" valign="top" rowspan="1" colspan="1">61 (96.8)</td><td align="center" valign="top" rowspan="1" colspan="1">0.002</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">High stick<xref rid="ccd31733-tbl2-note-0003" ref-type="table-fn">a</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">16 (11.1)</td><td align="center" valign="top" rowspan="1" colspan="1">3 (2.1)</td><td align="center" valign="top" rowspan="1" colspan="1">0.002</td><td align="center" valign="top" rowspan="1" colspan="1">10 (13.5)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (2.6)</td><td align="center" valign="top" rowspan="1" colspan="1">0.013</td><td align="center" valign="top" rowspan="1" colspan="1">6 (8.6)</td><td align="center" valign="top" rowspan="1" colspan="1">1 (1.6)</td><td align="center" valign="top" rowspan="1" colspan="1">0.072</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Low stick<xref rid="ccd31733-tbl2-note-0004" ref-type="table-fn">b</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">16 (11.1)</td><td align="center" valign="top" rowspan="1" colspan="1">1 (0.7)</td><td align="center" valign="top" rowspan="1" colspan="1">&#x0003c;&#x02009;0.001</td><td align="center" valign="top" rowspan="1" colspan="1">7 (9.5)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0.006</td><td align="center" valign="top" rowspan="1" colspan="1">9 (12.9)</td><td align="center" valign="top" rowspan="1" colspan="1">1 (1.6)</td><td align="center" valign="top" rowspan="1" colspan="1">0.014</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Unintended venipuncture</td><td align="center" valign="top" rowspan="1" colspan="1">8 (5.6)</td><td align="center" valign="top" rowspan="1" colspan="1">5 (3.5)</td><td align="center" valign="top" rowspan="1" colspan="1">0.158</td><td align="center" valign="top" rowspan="1" colspan="1">3 (4.1)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (2.6)</td><td align="center" valign="top" rowspan="1" colspan="1">0.628</td><td align="center" valign="top" rowspan="1" colspan="1">5 (7.1)</td><td align="center" valign="top" rowspan="1" colspan="1">3 (4.6)</td><td align="center" valign="top" rowspan="1" colspan="1">0.564</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Attempts for arterial puncture</td><td align="center" valign="top" rowspan="1" colspan="1">1.5 (1.1)</td><td align="center" valign="top" rowspan="1" colspan="1">1.2 (0.7)</td><td align="center" valign="top" rowspan="1" colspan="1">0.028</td><td align="center" valign="top" rowspan="1" colspan="1">1.6 (1.4)</td><td align="center" valign="top" rowspan="1" colspan="1">1.2 (0.5)</td><td align="center" valign="top" rowspan="1" colspan="1">0.13</td><td align="center" valign="top" rowspan="1" colspan="1">1.4 (0.7)</td><td align="center" valign="top" rowspan="1" colspan="1">1.3 (0.8)</td><td align="center" valign="top" rowspan="1" colspan="1">0.177</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Time to access (s)</td><td align="center" valign="top" rowspan="1" colspan="1">73 (109)</td><td align="center" valign="top" rowspan="1" colspan="1">90 (108)</td><td align="center" valign="top" rowspan="1" colspan="1">&#x0003c;&#x02009;0.001</td><td align="center" valign="top" rowspan="1" colspan="1">83 (129)</td><td align="center" valign="top" rowspan="1" colspan="1">107 (122)</td><td align="center" valign="top" rowspan="1" colspan="1">&#x0003c;&#x02009;0.001</td><td align="center" valign="top" rowspan="1" colspan="1">63 (83)</td><td align="center" valign="top" rowspan="1" colspan="1">69 (84)</td><td align="center" valign="top" rowspan="1" colspan="1">0.261</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Patients requiring surgical or interventional treatment</td><td align="center" valign="top" rowspan="1" colspan="1">3 (2.1)</td><td align="center" valign="top" rowspan="1" colspan="1">1 (0.7)</td><td align="center" valign="top" rowspan="1" colspan="1">0.321</td><td align="center" valign="top" rowspan="1" colspan="1">1 (1.4)</td><td align="center" valign="top" rowspan="1" colspan="1">1 (1.3)</td><td align="center" valign="top" rowspan="1" colspan="1">0.977</td><td align="center" valign="top" rowspan="1" colspan="1">2 (2.9)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0.170</td></tr></tbody></table><table-wrap-foot><fn id="ccd31733-tbl2-note-0001"><p>
+<italic toggle="yes">Note:</italic> Data are count (percent), mean (SD), or median (quartiles), as appropriate.</p></fn><fn id="ccd31733-tbl2-note-0002"><p>Abbreviations: CFA&#x02009;=&#x02009;common femoral artery.</p></fn><fn id="ccd31733-tbl2-note-0003"><label>
+<sup>a</sup>
+</label><p>Puncture of external iliac artery.</p></fn><fn id="ccd31733-tbl2-note-0004"><label>
+<sup>b</sup>
+</label><p>Puncture of the superficial/deep femoral artery.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="ccd31733-sec-0200"><label>3.3</label><title>Secondary Endpoints</title><p>The first&#x02010;pass success rate was markedly higher with ultrasound guidance compared to conventional puncture (84.1% vs. 73.4%, <italic toggle="yes">p</italic>&#x02009;=&#x02009;0.03), and was also evident in both &#x0201c;non&#x02010;expert&#x0201d; and &#x0201c;expert&#x0201d; examiners. Femoral angiography revealed that the sheath was located in the CFA in a total of 97.2% of the patients who underwent ultrasound&#x02010;guided puncture, compared to only 77.8% of patients in the control group (<italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.01). Again, the beneficial effect of ultrasound guidance was not dependent on the level of experience. Concurrently, incorrect cannulations at or above the inferior epigastric artery occurred less often in the ultrasound&#x02010;guided group (2.1%) compared to controls (11.1%, <italic toggle="yes">p</italic>&#x02009;=&#x02009;0.002). Similarly, too low cannulations (distal to the femoral bifurcation) also occurred less often with ultrasound&#x02010;guidance (0.7% vs. 11.1%, <italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.001) (Table&#x000a0;<xref rid="ccd31733-tbl-0002" ref-type="table">2</xref> and Central Illustration&#x000a0;<xref rid="ccd31733-fig-0005" ref-type="fig">1</xref>).</p><fig position="float" fig-type="Central Illustration" id="ccd31733-fig-0005"><label>Central Illustration 1</label><caption><p>Ultrasound guided in&#x02010;plane puncture of femoral artery (PARFEM&#x02010;Trial). [Color figure can be viewed at <ext-link xlink:href="http://wileyonlinelibrary.com" ext-link-type="uri">wileyonlinelibrary.com</ext-link>]</p></caption><graphic xlink:href="CCD-106-2252-g005" position="anchor" id="jats-graphic-7"/></fig><p>The number of inadvertent venipunctures was not statistically different between the control group and the ultrasound&#x02010;guided group. However, there was a trend toward benefit of reduced inadvertent venipunctures with ultrasound in both the expert and non&#x02010;expert groups. (Table&#x000a0;<xref rid="ccd31733-tbl-0002" ref-type="table">2</xref>).</p></sec><sec id="ccd31733-sec-0210"><label>3.4</label><title>Major Complications</title><p>In the entire cohort, four patients experienced bleeding complications requiring vascular intervention or surgery. In the control group, three major vascular complications occurred, which required catheter intervention. Meanwhile, in the ultrasound&#x02010;guided group, only one patient suffered a major complication, a secondary hemorrhage from the CFA, necessitating surgical revision For details, Table&#x000a0;<xref rid="ccd31733-suppl-0005" ref-type="supplementary-material">S5</xref>.</p></sec><sec id="ccd31733-sec-0220"><label>3.5</label><title>Subgroup Analyses for the Primary Endpoint</title><p>Subgroup analysis revealed that primary successful puncture of the CFA was significantly more frequent with ultrasound guidance than in the control group, regardless of age, sex, weight, additional right heart catheterization, use of a closure system, or French size. Ultrasound guidance proved beneficial for patients with different BMI categories&#x02014;both those with a BMI&#x02009;&#x0003c;&#x02009;30 and those &#x02265;&#x02009;30. However, the positive effect was more pronounced in patients with a BMI above 30. Furthermore, subgroup analysis showed that while ultrasound guidance had a significant benefit in diagnostic procedures, it was also present in PCI but did not reach statistical significance. Based on a questionnaire of the investigators (Appendix&#x000a0;<xref rid="ccd31733-suppl-0007" ref-type="supplementary-material">S7</xref>), two ultrasound competency level groups were formed. The subgroup analysis showed that investigators without prior experience in the in&#x02010;plane femoral puncture technique (Level 1) benefited in a similar way to those who already had experience with the method (Level 2) (Appendix&#x000a0;<xref rid="ccd31733-suppl-0008" ref-type="supplementary-material">S8</xref>). Femoral head scan quality did not affect the favorable impact of ultrasound guidance on the primary endpoint: Sheath placement in the CFA was successful in 53 of 68 patients with moderate or poor femoral head visualization (77.9%) versus in 45 of 55 patients with good image quality (81.8%) (Figure&#x000a0;<xref rid="ccd31733-fig-0004" ref-type="fig">4</xref>).</p><fig position="float" fig-type="Figure" id="ccd31733-fig-0004"><label>Figure 4</label><caption><p>Subgroup analyses for the primary outcome. For definitions of femoral head image quality and ultrasound experience, refer to Methods. [Color figure can be viewed at <ext-link xlink:href="http://wileyonlinelibrary.com" ext-link-type="uri">wileyonlinelibrary.com</ext-link>]</p></caption><graphic xlink:href="CCD-106-2252-g004" position="anchor" id="jats-graphic-9"/></fig></sec></sec><sec sec-type="discussion" id="ccd31733-sec-0230"><label>4</label><title>Discussion</title><p>The PARFEM trial demonstrated that ultrasound guidance can improve the rate of successful primary CFA punctures. The study also clearly demonstrated that the beneficial effect of ultrasound guidance was independent of the examiners' catheter experience and could therefore be achieved by both physicians with extensive expertise (&#x0201c;experts&#x0201d;) and those without this competence (&#x0201c;non&#x02010;experts&#x0201d;). Most randomized trials of ultrasound guidance for femoral puncture have focused on &#x0201c;first&#x02010;pass success&#x0201d; [<xref rid="ccd31733-bib-0009" ref-type="bibr">9</xref>, <xref rid="ccd31733-bib-0010" ref-type="bibr">10</xref>, <xref rid="ccd31733-bib-0011" ref-type="bibr">11</xref>, <xref rid="ccd31733-bib-0013" ref-type="bibr">13</xref>, <xref rid="ccd31733-bib-0014" ref-type="bibr">14</xref>, <xref rid="ccd31733-bib-0015" ref-type="bibr">15</xref>], which is easy to measure because sheath angiography is not required. In four studies [<xref rid="ccd31733-bib-0009" ref-type="bibr">9</xref>, <xref rid="ccd31733-bib-0013" ref-type="bibr">13</xref>, <xref rid="ccd31733-bib-0014" ref-type="bibr">14</xref>, <xref rid="ccd31733-bib-0015" ref-type="bibr">15</xref>], this parameter improved with ultrasound, similar to the findings in PARFEM. However, this parameter offers limited clinical insight, as a &#x0201c;successful puncture&#x0201d; does not necessarily indicate that this puncture has been perfomed at the correct level namely in the target vessel (CFA).</p><p>The PARFEM trial demonstrated a significantly higher success rate of CFA cannulation with ultrasound guidance compared to control (97.2% vs. 77.8%). In contrast, three of the four studies mentioned above [<xref rid="ccd31733-bib-0009" ref-type="bibr">9</xref>, <xref rid="ccd31733-bib-0011" ref-type="bibr">11</xref>, <xref rid="ccd31733-bib-0015" ref-type="bibr">15</xref>] did not show such an increase in this parameter with ultrasound guidance. It is important to mention that in the PARFEM trial ultrasound guidance almost completely prevented sheath placement above the CFA: whereas the frequency of so&#x02010;called &#x0201c;high&#x02010;sticks&#x0201d; was 11.1% in controls, it was only 2.1% with ultrasound guidance (Central illustration&#x000a0;<xref rid="ccd31733-fig-0005" ref-type="fig">1</xref>). This beneficial effect, which was not observed in Faust (9) or Universal (15) (Table&#x000a0;<xref rid="ccd31733-suppl-0006" ref-type="supplementary-material">S6</xref>), may be attributed to the specific puncture technique in PARFEM.</p><sec id="ccd31733-sec-0240"><label>4.1</label><title>Needle Guidance Technique</title><p>In contrast to Faust [<xref rid="ccd31733-bib-0009" ref-type="bibr">9</xref>] and Universal [<xref rid="ccd31733-bib-0015" ref-type="bibr">15</xref>], both of which used an out&#x02010;of&#x02010;plane puncture technique, the PARFEM trial used an ultrasound&#x02010;guided in&#x02010;plane puncture of the CFA (Figure&#x000a0;<xref rid="ccd31733-suppl-0001" ref-type="supplementary-material">S1</xref>). This technique offers several advantages: The needle tip can be continuously visualized as it is advanced. This allows the vessel to be punctured under direct real&#x02010;time visualization, avoiding the risk of puncturing the posterior wall. Additionally, the longitudinal orientation of the ultrasound probe visualizes the femoral head, making it easier to determine the correct puncture height. For puncture planning, a guiding line can be displayed on the screen, illustrating the intended needle's trajectory to the appropriate vessel segment (Figure&#x000a0;<xref rid="ccd31733-fig-0001" ref-type="fig">1</xref>). Finally, in&#x02010;plane imaging, can be used to monitor unobstructed wire advancement.</p><p>A significant drawback of the in&#x02010;plane puncture technique is the difficulty in aligning the needle with the ultrasound image. Less experienced examiners find it difficult to maintain visual control of the needle throughout the procedure. Maximum efficacy and minimal risk of failed puncture can only be achieved when the needle tip is continuously visible. In PARFEM, a needle guide was used for in&#x02010;plane ultrasound guidance, eliminating the need for manual alignment. This made the procedure intuitive and easy to learn. The positive impact of a needle guide on puncture outcomes has been demonstrated in other studies [<xref rid="ccd31733-bib-0019" ref-type="bibr">19</xref>, <xref rid="ccd31733-bib-0020" ref-type="bibr">20</xref>].</p><p>A limitation of the in&#x02010;plane technique is the challenge of aligning with the bifurcation of the CFA when the superficial femoral artery and the deep femoral artery run side by side rather than one behind the other. In these cases, an additional oblique or short axis view is necessary to identify the bifurcation.</p><p>The ultrasound&#x02010;guided puncture technique has often been criticized for requiring more time than the conventional procedure. However, this assumption is contradicted by the results of Sorrentino et al. [<xref rid="ccd31733-bib-0016" ref-type="bibr">16</xref>] who showed in a meta&#x02010;analysis of six randomized trials that the average &#x0201c;time to access&#x0201d; for ultrasound&#x02010;guided transfemoral puncture was lower than in the control group (172&#x02009;&#x000b1;&#x02009;125&#x02009;s vs. 203&#x02009;&#x000b1;&#x02009;180&#x02009;s, <italic toggle="yes">p</italic>&#x02009;&#x0003c;&#x02009;0.01). In the PARFEM trial, the duration for both the control and ultrasound groups was shorter than the respective times reported in the meta&#x02010;analysis. The time for X&#x02010;ray imaging and applying the Beekley marker was excluded. The PARFEM trial used an ultrasound device that was integrated into the cathlab imaging system, eliminating the need for time&#x02010;consuming transport and start&#x02010;up of the ultrasound machine.</p></sec><sec id="ccd31733-sec-0250"><label>4.2</label><title>Fluoroscopic Marking of the Center of the Femoral Head</title><p>In PARFEM, the visualization quality of the femoral head was classified as moderate or poor in 68 out of 123 patients (55%). Subgroup analysis showed that ultrasound guidance still improved the primary successful CFA cannulation rate, even in patients with impaired femoral head visualization. It is likely that in these cases the examiners were guided by the ultrasound shadow of the Beekley&#x02010;line, marking the center of the femoral head.</p></sec><sec id="ccd31733-sec-0260"><label>4.3</label><title>Rotational Angiography</title><p>Unlike previous studies [<xref rid="ccd31733-bib-0009" ref-type="bibr">9</xref>, <xref rid="ccd31733-bib-0011" ref-type="bibr">11</xref>, <xref rid="ccd31733-bib-0014" ref-type="bibr">14</xref>, <xref rid="ccd31733-bib-0015" ref-type="bibr">15</xref>], which assessed the sheath position using conventional femoral angiography, the PARFEM trial used rotational angiography for this purpose. This multiplanar imaging allows better delineation of individual anatomical landmarks and the height of sheath entry. It is superior to conventional sheath angiography with its intrinsic limitations [<xref rid="ccd31733-bib-0004" ref-type="bibr">4</xref>, <xref rid="ccd31733-bib-0021" ref-type="bibr">21</xref>].</p></sec><sec id="ccd31733-sec-0270"><label>4.4</label><title>Limitations</title><p>Several clinical studies have demonstrated that the risk of retroperitoneal bleeding increases with a puncture at or above the level of the inferior epigastric artery [<xref rid="ccd31733-bib-0004" ref-type="bibr">4</xref>, <xref rid="ccd31733-bib-0022" ref-type="bibr">22</xref>, <xref rid="ccd31733-bib-0023" ref-type="bibr">23</xref>, <xref rid="ccd31733-bib-0024" ref-type="bibr">24</xref>]. Consequently, the PARFEM trial used the inferior loop of the inferior epigastric artery as the upper limit of the target vessel (CFA). However, CT angiographic studies indicate that this loop does not always align precisely with the level of the inguinal ligament [<xref rid="ccd31733-bib-0025" ref-type="bibr">25</xref>, <xref rid="ccd31733-bib-0026" ref-type="bibr">26</xref>]. In principle, the in&#x02010;plane puncture method can also be used without X&#x02010;ray&#x02010;labeling of the femoral head center. However, it is not possible to reliably determine what the results of this study would have been without the use of the Beekley marker. A randomized comparison between ultrasound&#x02010;guided puncture with and without femoral head marking would have been the best way to address this question. Group 1 (&#x0201c;Non&#x02010;Experts&#x0201d;) consisted of individuals with moderate experience. Absolute beginners who had performed fewer than 50 transfemoral catheterizations were not included. It is quite conceivable that they might have particularly benefited from ultrasound guidance. The study was conducted as a single&#x02010;center study. Due to organizational reasons, a multicenter trial was not feasible. The reviewers who assessed the post&#x02010;puncture angiograms could not be blinded, as the Beekley marker was visible in every rotational angiogram of patients who had undergone ultrasound&#x02010;guided puncture. The complication rates were low in both groups, but there was a trend toward benefit of ultrasound guidance. However, due to its relatively small number of patients, the PARFEM trial cannot claim to make reliable statements about the clinical outcome of ultrasound&#x02010;guided femoral puncture. Finally, in PARFEM, no large bore interventions were included, where a precise technique is most likely of particular clinical importance [<xref rid="ccd31733-bib-0027" ref-type="bibr">27</xref>, <xref rid="ccd31733-bib-0028" ref-type="bibr">28</xref>].</p></sec><sec id="ccd31733-sec-0280"><label>4.5</label><title>Conclusions</title><p>In the randomized PARFEM trial, an ultrasound&#x02010;guided in&#x02010;plane puncture technique using a needle guide, combined with fluoroscopic marking of the center of the femoral head improved the precision of femoral puncture and reduced the rate of inadequate cannulation. The beneficial effect was achieved regardless of the examiners' prior experience. The findings strongly suggest that in&#x02010;plane ultrasound guidance is a valuable approach for femoral artery puncture.</p></sec></sec><sec sec-type="COI-statement" id="ccd31733-sec-0300"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="ccd31733-suppl-0001" position="float" content-type="local-data"><caption><p>
+<bold>Supporting Information Figure 1</bold>. Out&#x02010;of plane vs. in&#x02010;plane puncture technique (as used in PARFEM).</p></caption><media xlink:href="CCD-106-2252-s003.jpg"/></supplementary-material><supplementary-material id="ccd31733-suppl-0002" position="float" content-type="local-data"><caption><p>
+<bold>Supporting Information Figure 2</bold>. Image of the transducer with the mounted needle guide.</p></caption><media xlink:href="CCD-106-2252-s007.JPG"/></supplementary-material><supplementary-material id="ccd31733-suppl-0003" position="float" content-type="local-data"><caption><p>
+<bold>Supporting Information Figure 3</bold>. Schematic illustration of rotational angiography.</p></caption><media xlink:href="CCD-106-2252-s002.jpg"/></supplementary-material><supplementary-material id="ccd31733-suppl-0004" position="float" content-type="local-data"><caption><p>
+<bold>Supporting Information Figure 4</bold>. Examples of proper (left) and inadequate cannulation heights.</p></caption><media xlink:href="CCD-106-2252-s005.JPG"/></supplementary-material><supplementary-material id="ccd31733-suppl-0005" position="float" content-type="local-data"><caption><p>
+<bold>Supporting Information Table 5</bold>. Clinical course of patients with bleeding complications.</p></caption><media xlink:href="CCD-106-2252-s001.png"/></supplementary-material><supplementary-material id="ccd31733-suppl-0006" position="float" content-type="local-data"><caption><p>
+<bold>Supporting Information Table 6</bold>. Angiographic results: Faust vs. Parfem resp. Universal.</p></caption><media xlink:href="CCD-106-2252-s009.xlsx"/></supplementary-material><supplementary-material id="ccd31733-suppl-0007" position="float" content-type="local-data"><caption><p>
+<bold>Supporting Information Appendix 7</bold>. Questionnaire on prior ultrasound experience.</p></caption><media xlink:href="CCD-106-2252-s008.docx"/></supplementary-material><supplementary-material id="ccd31733-suppl-0008" position="float" content-type="local-data"><caption><p>
+<bold>Supporting Information Appendix 8.</bold> Influence of ultrasound experience on primary endpoint.</p></caption><media xlink:href="CCD-106-2252-s006.docx"/></supplementary-material><supplementary-material id="ccd31733-suppl-0009" position="float" content-type="local-data"><caption><p>
+<bold>Supporting Information Video 9</bold>. Step&#x02010;by&#x02010;step approach of ultrasound&#x02010;guided in&#x02010;plane puncture.</p></caption><media xlink:href="CCD-106-2252-s004.mp4" mimetype="video" mime-subtype="mp4"/></supplementary-material></sec></body><back><ack id="ccd31733-sec-0290"><title>Acknowledgments</title><p>The authors thank Dr. Rebecca Roth and Dr. Viktoria R&#x000fc;cker from the Institute for Clinical Epidemiology and Biometry at the University of W&#x000fc;rzburg for their statistical assistance. Additionally, they appreciate the work of Robert Wenzl from the Service Center Medical Informatics, who created and designed the graphic materials. Special thanks go to the catheterization laboratory staff of the University Hospital W&#x000fc;rzburg. Open Access funding enabled and organized by Projekt DEAL.</p></ack><ref-list content-type="cited-references" id="ccd31733-bibl-0001"><title>References</title><p>
+<italic toggle="yes">Note:</italic> Reference 29 is cited in Supporting Information Appendix 2.</p><ref id="ccd31733-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="ccd31733-cit-0001">
+<string-name>
+<given-names>M.</given-names>
+<surname>Valgimigli</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Gagnor</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Calabr&#x000f3;</surname>
+</string-name>, et al., &#x0201c;<article-title>Radial Versus Femoral Access in Patients With Acute Coronary Syndromes Undergoing Invasive Management: A Randomised Multicentre Trial</article-title>,&#x0201d;<source>Lancet</source>
+<volume>385</volume> (<year>2015</year>): <fpage>2465</fpage>&#x02013;<lpage>2476</lpage>.<pub-id pub-id-type="pmid">25791214</pub-id>
+</mixed-citation></ref><ref id="ccd31733-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="ccd31733-cit-0002">
+<string-name>
+<given-names>S. S.</given-names>
+<surname>Jolly</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Yusuf</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Cairns</surname>
+</string-name>, et al., &#x0201c;<article-title>Radial Versus Femoral Access for Coronary Angiography and Intervention in Patients With Acute Coronary Syndromes (RIVAL): A Randomised, Parallel Group, Multicentre Trial</article-title>,&#x0201d; <source>Lancet</source>
+<volume>377</volume> (<year>2011</year>): <fpage>1409</fpage>&#x02013;<lpage>1420</lpage>.<pub-id pub-id-type="pmid">21470671</pub-id>
+</mixed-citation></ref><ref id="ccd31733-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="ccd31733-cit-0003">
+<string-name>
+<given-names>S. G.</given-names>
+<surname>Ellis</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Bhatt</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Kapadia</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Yen</surname>
+</string-name>, and <string-name>
+<given-names>P. L.</given-names>
+<surname>Whitlow</surname>
+</string-name>, &#x0201c;<article-title>Correlates and Outcomes of Retroperitoneal Hemorrhage Complicating Percutaneous Coronary Intervention</article-title>,&#x0201d; <source>Catheterization and Cardiovascular Interventions</source>
+<volume>67</volume> (<year>2006</year>): <fpage>541</fpage>&#x02013;<lpage>545</lpage>.<pub-id pub-id-type="pmid">16547938</pub-id>
+</mixed-citation></ref><ref id="ccd31733-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="ccd31733-cit-0004">
+<string-name>
+<given-names>D. A.</given-names>
+<surname>Sherev</surname>
+</string-name>, <string-name>
+<given-names>R. E.</given-names>
+<surname>Shaw</surname>
+</string-name>, and <string-name>
+<given-names>B. N.</given-names>
+<surname>Brent</surname>
+</string-name>, &#x0201c;<article-title>Angiographic Predictors of Femoral Access Site Complications: Implication for Planned Percutaneous Coronary Intervention</article-title>,&#x0201d; <source>Catheterization and Cardiovascular Interventions</source>
+<volume>65</volume> (<year>2005</year>): <fpage>196</fpage>&#x02013;<lpage>202</lpage>.<pub-id pub-id-type="pmid">15895402</pub-id>
+</mixed-citation></ref><ref id="ccd31733-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="ccd31733-cit-0005">
+<string-name>
+<given-names>K. A.</given-names>
+<surname>Tiroch</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Arora</surname>
+</string-name>, <string-name>
+<given-names>M. E.</given-names>
+<surname>Matheny</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>T. C.</given-names>
+<surname>Lee</surname>
+</string-name>, and <string-name>
+<given-names>F. S.</given-names>
+<surname>Resnic</surname>
+</string-name>, &#x0201c;<article-title>Risk Predictors of Retroperitoneal Hemorrhage Following Percutaneous Coronary Intervention</article-title>,&#x0201d; <source>American Journal of Cardiology</source>
+<volume>102</volume> (<year>2008</year>): <fpage>1473</fpage>&#x02013;<lpage>1476</lpage>.<pub-id pub-id-type="pmid">19026298</pub-id>
+</mixed-citation></ref><ref id="ccd31733-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="ccd31733-cit-0006">
+<string-name>
+<given-names>R.</given-names>
+<surname>Altin</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Flicker</surname>
+</string-name>, and <string-name>
+<given-names>H.</given-names>
+<surname>Naidech</surname>
+</string-name>, &#x0201c;<article-title>Pseudoaneurysm and Arteriovenous Fistula After Femoral Artery Catheterization: Association With Low Femoral Punctures</article-title>,&#x0201d; <source>American Journal of Roentgenology</source>
+<volume>152</volume> (<year>1989</year>): <fpage>629</fpage>&#x02013;<lpage>631</lpage>.<pub-id pub-id-type="pmid">2783816</pub-id>
+</mixed-citation></ref><ref id="ccd31733-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="ccd31733-cit-0007">
+<string-name>
+<given-names>D.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>D. E.</given-names>
+<surname>Orron</surname>
+</string-name>, <string-name>
+<given-names>J. J.</given-names>
+<surname>Skillman</surname>
+</string-name>, et al., &#x0201c;<article-title>Role of Superficial Femoral Artery Puncture in the Development of Pseudoaneurysm and Arteriovenous Fistula Complicating Percutaneous Transfemoral Cardiac Catheterization</article-title>,&#x0201d; <source>Catheterization and Cardiovascular Diagnosis</source>
+<volume>25</volume> (<year>1992</year>): <fpage>91</fpage>&#x02013;<lpage>97</lpage>.<pub-id pub-id-type="pmid">1544161</pub-id>
+</mixed-citation></ref><ref id="ccd31733-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="ccd31733-cit-0008">
+<string-name>
+<given-names>M.</given-names>
+<surname>Gabriel</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Pawlaczyk</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Waliszewski</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Krasi&#x00144;ski</surname>
+</string-name>, and <string-name>
+<given-names>W.</given-names>
+<surname>Majewski</surname>
+</string-name>, &#x0201c;<article-title>Location of Femoral Artery Puncture Site and the Risk of Postcatheterization Pseudoaneurysm Formation</article-title>,&#x0201d; <source>International Journal of Cardiology</source>
+<volume>120</volume> (<year>2007</year>): <fpage>167</fpage>&#x02013;<lpage>171</lpage>.<pub-id pub-id-type="pmid">17250906</pub-id>
+</mixed-citation></ref><ref id="ccd31733-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="ccd31733-cit-0009">
+<string-name>
+<given-names>A. H.</given-names>
+<surname>Seto</surname>
+</string-name>, <string-name>
+<given-names>M. S.</given-names>
+<surname>Abu&#x02010;Fadel</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Sparling</surname>
+</string-name>, et al., &#x0201c;<article-title>Real&#x02010;Time Ultrasound Guidance Facilitates Femoral Arterial Access and Reduces Vascular Complications</article-title>,&#x0201d; <source>JACC: Cardiovascular Interventions</source>
+<volume>3</volume> (<year>2010</year>): <fpage>751</fpage>&#x02013;<lpage>758</lpage>.<pub-id pub-id-type="pmid">20650437</pub-id>
+</mixed-citation></ref><ref id="ccd31733-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="ccd31733-cit-0010">
+<string-name>
+<given-names>M.</given-names>
+<surname>Gedikoglu</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Oguzkurt</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Gur</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Andic</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Sariturk</surname>
+</string-name>, and <string-name>
+<given-names>U.</given-names>
+<surname>Ozkan</surname>
+</string-name>, &#x0201c;<article-title>Comparison of Ultrasound Guidance With the Traditional Palpation and Fluoroscopy Method for the Common Femoral Artery Puncture</article-title>,&#x0201d; <source>Catheterization and Cardiovascular Interventions</source>
+<volume>82</volume> (<year>2013</year>): <fpage>1187</fpage>&#x02013;<lpage>1192</lpage>.<pub-id pub-id-type="pmid">23592533</pub-id>
+</mixed-citation></ref><ref id="ccd31733-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="ccd31733-cit-0011">
+<string-name>
+<given-names>G.</given-names>
+<surname>Marquis&#x02010;Gravel</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Tremblay&#x02010;Gravel</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>L&#x000e9;vesque</surname>
+</string-name>, et al., &#x0201c;<article-title>Ultrasound Guidance Versus Anatomical Landmark Approach for Femoral Artery Access in Coronary Angiography: A Randomized Controlled Trial and a Meta&#x02010;Analysis</article-title>,&#x0201d; <source>Journal of Interventional Cardiology</source>
+<volume>31</volume> (<year>2018</year>): <fpage>496</fpage>&#x02013;<lpage>503</lpage>.<pub-id pub-id-type="pmid">29372578</pub-id>
+</mixed-citation></ref><ref id="ccd31733-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="ccd31733-cit-0012">
+<string-name>
+<given-names>M.</given-names>
+<surname>Tuna Kat&#x00131;rc&#x00131;ba&#x0015f;&#x00131;</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>G&#x000fc;ne&#x0015f;</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>&#x000c7;a&#x0011f;r&#x00131; Aykan</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Aksu</surname>
+</string-name>, and <string-name>
+<given-names>S.</given-names>
+<surname>&#x000d6;zg&#x000fc;l</surname>
+</string-name>, &#x0201c;<article-title>Comparison of Ultrasound Guidance and Conventional Method for Common Femoral Artery Cannulation: A Prospective Study of 939 Patients</article-title>,&#x0201d; <source>Acta Cardiologica Sinica</source>
+<volume>34</volume> (<year>2018</year>): <fpage>394</fpage>&#x02013;<lpage>398</lpage>.<pub-id pub-id-type="pmid">30271089</pub-id>
+</mixed-citation></ref><ref id="ccd31733-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="ccd31733-cit-0013">
+<string-name>
+<given-names>P.</given-names>
+<surname>Nguyen</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Makris</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Hennessy</surname>
+</string-name>, et al., &#x0201c;<article-title>Standard Versus Ultrasound&#x02010;Guided Radial and Femoral Access in Coronary Angiography and Intervention (SURF): A Randomised Controlled Trial</article-title>,&#x0201d; <source>EuroIntervention</source>
+<volume>15</volume> (<year>2019</year>): <fpage>e522</fpage>&#x02013;<lpage>e530</lpage>.<pub-id pub-id-type="pmid">31113763</pub-id>
+</mixed-citation></ref><ref id="ccd31733-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="ccd31733-cit-0014">
+<string-name>
+<given-names>P.</given-names>
+<surname>Stone</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Campbell</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Thompson</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Walker</surname>
+</string-name>, &#x0201c;<article-title>A Prospective, Randomized Study Comparing Ultrasound Versus Fluoroscopic Guided Femoral Arterial Access in Noncardiac Vascular Patients</article-title>,&#x0201d; <source>Journal of Vascular Surgery</source>
+<volume>72</volume> (<year>2020</year>): <fpage>259</fpage>&#x02013;<lpage>267</lpage>.<pub-id pub-id-type="pmid">31980242</pub-id>
+</mixed-citation></ref><ref id="ccd31733-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="ccd31733-cit-0015">
+<string-name>
+<given-names>S. S.</given-names>
+<surname>Jolly</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>AlRashidi</surname>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>d'Entremont</surname>
+</string-name>, et al., &#x0201c;<article-title>Routine Ultrasonography Guidance for Femoral Vascular Access for Cardiac Procedures: The UNIVERSAL Randomized Clinical Trial</article-title>,&#x0201d; <source>JAMA Cardiology</source>
+<volume>7</volume> (<year>2022</year>): <fpage>1110</fpage>&#x02013;<lpage>1118</lpage>.<pub-id pub-id-type="pmid">36116089</pub-id>
+</mixed-citation></ref><ref id="ccd31733-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="ccd31733-cit-0016">
+<string-name>
+<given-names>S.</given-names>
+<surname>Sorrentino</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Nguyen</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Salerno</surname>
+</string-name>, et al., &#x0201c;<article-title>Standard Versus Ultrasound&#x02010;Guided Cannulation of the Femoral Artery in Patients Undergoing Invasive Procedures: A Meta&#x02010;Analysis of Randomized Controlled Trials</article-title>,&#x0201d; <source>Journal of Clinical Medicine</source>
+<volume>9</volume> (<year>2020</year>): <fpage>677</fpage>.<pub-id pub-id-type="pmid">32138283</pub-id>
+</mixed-citation></ref><ref id="ccd31733-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="ccd31733-cit-0017">
+<string-name>
+<given-names>M. A.</given-names>
+<surname>d'Entremont</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Alrashidi</surname>
+</string-name>, <string-name>
+<given-names>A. H.</given-names>
+<surname>Seto</surname>
+</string-name>, et al., &#x0201c;<article-title>Ultrasound Guidance for Transfemoral Access in Coronary Procedures: An Individual Participant&#x02010;Level Data Metaanalysis From the Femoral Ultrasound Trialist Collaboration</article-title>,&#x0201d; <source>EuroIntervention</source>
+<volume>20</volume> (<year>2024</year>): <fpage>66</fpage>&#x02013;<lpage>74</lpage>.<pub-id pub-id-type="pmid">37800723</pub-id>
+</mixed-citation></ref><ref id="ccd31733-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="ccd31733-cit-0018">
+<string-name>
+<given-names>A. A.</given-names>
+<surname>Damluji</surname>
+</string-name>, <string-name>
+<given-names>D. W.</given-names>
+<surname>Nelson</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Valgimigli</surname>
+</string-name>, et al., &#x0201c;<article-title>Transfemoral Approach for Coronary Angiography and Intervention</article-title>,&#x0201d; <source>JACC: Cardiovascular Interventions</source>
+<volume>10</volume> (<year>2017</year>): <fpage>2269</fpage>&#x02013;<lpage>2279</lpage>.<pub-id pub-id-type="pmid">29169496</pub-id>
+</mixed-citation></ref><ref id="ccd31733-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="ccd31733-cit-0019">
+<string-name>
+<given-names>A.</given-names>
+<surname>Villa</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Hermand</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Bonny</surname>
+</string-name>, et al., &#x0201c;<article-title>Improvement of Central Vein Ultrasound&#x02010;Guided Puncture Success Using a Homemade Needle Guide&#x02010;A Simulation Study</article-title>,&#x0201d; <source>Critical Care</source>
+<volume>27</volume> (<year>2023</year>): <fpage>379</fpage>.<pub-id pub-id-type="pmid">37777778</pub-id>
+</mixed-citation></ref><ref id="ccd31733-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="ccd31733-cit-0020">
+<string-name>
+<given-names>T.</given-names>
+<surname>Maecken</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Heite</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Wolf</surname>
+</string-name>, <string-name>
+<given-names>P. K.</given-names>
+<surname>Zahn</surname>
+</string-name>, and <string-name>
+<given-names>R. J.</given-names>
+<surname>Litz</surname>
+</string-name>, &#x0201c;<article-title>Ultrasound&#x02010;Guided Catheterisation of the Subclavian Vein: Freehand Vs Needle&#x02010;Guided Technique</article-title>,&#x0201d; <source>Anaesthesia</source>
+<volume>70</volume> (<year>2015</year>): <fpage>1242</fpage>&#x02013;<lpage>1249</lpage>.<pub-id pub-id-type="pmid">26316098</pub-id>
+</mixed-citation></ref><ref id="ccd31733-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="ccd31733-cit-0021">
+<string-name>
+<given-names>Z. G.</given-names>
+<surname>Turi</surname>
+</string-name>, &#x0201c;<article-title>Optimizing Vascular Access: Routine Femoral Angiography Keeps the Vascular Complication Away</article-title>,&#x0201d; <source>Catheterization and Cardiovascular Interventions</source>
+<volume>65</volume> (<year>2005</year>): <fpage>203</fpage>&#x02013;<lpage>204</lpage>.<pub-id pub-id-type="pmid">15895408</pub-id>
+</mixed-citation></ref><ref id="ccd31733-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="ccd31733-cit-0022">
+<string-name>
+<given-names>A.</given-names>
+<surname>Khan</surname>
+</string-name> and <string-name>
+<given-names>G.</given-names>
+<surname>Dangas</surname>
+</string-name>, &#x0201c;<article-title>Redefining Landmarks to Improve #Safefemoral Outcomes</article-title>,&#x0201d; <source>Catheterization and Cardiovascular Interventions: Official Journal of the Society for Cardiac Angiography &#x00026; Interventions</source>
+<volume>94</volume> (<year>2019</year>): <fpage>376</fpage>&#x02013;<lpage>377</lpage>.<pub-id pub-id-type="pmid">31622006</pub-id>
+</mixed-citation></ref><ref id="ccd31733-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="ccd31733-cit-0023">
+<string-name>
+<given-names>R.</given-names>
+<surname>Feldman</surname>
+</string-name>, &#x0201c;<article-title>Precise Location of Ideal Common Femoral Artery Puncture Site</article-title>,&#x0201d; <source>JACC: Cardiovascular Interventions</source>
+<volume>7</volume> (<year>2014</year>): <fpage>229</fpage>.</mixed-citation></ref><ref id="ccd31733-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="ccd31733-cit-0024">
+<string-name>
+<given-names>M.</given-names>
+<surname>Vavuranakis</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Kalogeras</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Vrachatis</surname>
+</string-name>, et al., &#x0201c;<article-title>Inferior Epigastric Artery as a Landmark for Transfemoral TAVI. Optimizing Vascular Access?</article-title>,&#x0201d; <source>Catheterization and Cardiovascular Interventions</source>
+<volume>81</volume> (<year>2013</year>): <fpage>1061</fpage>&#x02013;<lpage>1066</lpage>.<pub-id pub-id-type="pmid">23197467</pub-id>
+</mixed-citation></ref><ref id="ccd31733-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="ccd31733-cit-0025">
+<string-name>
+<given-names>P. P.</given-names>
+<surname>Gopalakrishnan</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Manoharan</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Shekhar</surname>
+</string-name>, et al., &#x0201c;<article-title>Redefining the Fluoroscopic Landmarks for Common Femoral Arterial Puncture During Cardiac Catheterization: Femoral Angiogram and Computed Tomography Angiogram (FACT) Study of Common Femoral Artery Anatomy</article-title>,&#x0201d; <source>Catheterization and Cardiovascular Interventions</source>
+<volume>94</volume> (<year>2019</year>): <fpage>367</fpage>&#x02013;<lpage>375</lpage>.<pub-id pub-id-type="pmid">30537421</pub-id>
+</mixed-citation></ref><ref id="ccd31733-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="ccd31733-cit-0026">
+<string-name>
+<given-names>V.</given-names>
+<surname>Yaganti</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Mejevoi</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Hasan</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Cohen</surname>
+</string-name>, and <string-name>
+<given-names>N.</given-names>
+<surname>Wasty</surname>
+</string-name>, &#x0201c;<article-title>Pitfalls Associated With the Use of Current Recommendations for Fluoroscopy&#x02010;Guided Common Femoral Artery Access</article-title>,&#x0201d; <source>Catheterization and Cardiovascular Interventions</source>
+<volume>81</volume> (<year>2013</year>): <fpage>674</fpage>&#x02013;<lpage>679</lpage>.<pub-id pub-id-type="pmid">23292908</pub-id>
+</mixed-citation></ref><ref id="ccd31733-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="ccd31733-cit-0027">
+<string-name>
+<given-names>R. A.</given-names>
+<surname>Kotronias</surname>
+</string-name>, <string-name>
+<given-names>J. J. H.</given-names>
+<surname>Bray</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Rajasundaram</surname>
+</string-name>, et al., &#x0201c;<article-title>Ultrasound&#x02010; Versus Fluoroscopy&#x02010;Guided Strategy for Transfemoral Transcatheter Aortic Valve Replacement Access: A Systematic Review and Meta&#x02010;Analysis</article-title>,&#x0201d; <source>Circulation: Cardiovascular Interventions</source>
+<volume>14</volume> (<year>2021</year>): <elocation-id>e01074227</elocation-id>.</mixed-citation></ref><ref id="ccd31733-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="ccd31733-cit-0028">
+<string-name>
+<given-names>L.</given-names>
+<surname>Paraggio</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Bianchini</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Aurigemma</surname>
+</string-name>, et al., &#x0201c;<article-title>Femoral Large Bore Sheath Management: How to Prevent Vascular Complications From Vessel Puncture to Sheath Removal</article-title>,&#x0201d; <source>Circulation: Cardiovascular Interventions</source>
+<volume>17</volume> (<year>2024</year>): <elocation-id>e014156</elocation-id>.<pub-id pub-id-type="pmid">39166330</pub-id>
+</mixed-citation></ref><ref id="ccd31733-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="ccd31733-cit-0029">
+<string-name>
+<given-names>M. A.</given-names>
+<surname>d'Entremont</surname>
+</string-name>, <string-name>
+<given-names>A. H.</given-names>
+<surname>Seto</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Alrashidi</surname>
+</string-name>, et al., &#x0201c;<article-title>Ultrasound&#x02010;Guided Transfemoral Access for Coronary Procedures: A Pooled Learning Curve Analysis from the FAUST and UNIVERSAL Trials</article-title>,&#x0201d; <source>Circ Cardiovasc Interv</source>
+<volume>17</volume> (<year>2024</year>): <elocation-id>e013817</elocation-id>.<pub-id pub-id-type="pmid">38887948</pub-id>
+</mixed-citation></ref></ref-list></back></article>

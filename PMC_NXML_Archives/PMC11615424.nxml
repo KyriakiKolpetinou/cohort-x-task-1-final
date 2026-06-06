@@ -1,0 +1,488 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="jor25971" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Orthop Res</journal-id><journal-id journal-id-type="iso-abbrev">J Orthop Res</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1554-527X</journal-id><journal-id journal-id-type="publisher-id">JOR</journal-id><journal-title-group><journal-title>Journal of Orthopaedic Research</journal-title></journal-title-group><issn pub-type="ppub">0736-0266</issn><issn pub-type="epub">1554-527X</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">39294102</article-id><article-id pub-id-type="pmc">11615424</article-id>
+<article-id pub-id-type="doi">10.1002/jor.25971</article-id><article-id pub-id-type="publisher-id">JOR25971</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject><subj-group subj-group-type="heading"><subject>Hip</subject></subj-group></subj-group></article-categories><title-group><article-title>Understanding the variability of the proximal femoral canal: A computational modeling study</article-title><alt-title alt-title-type="left-running-head">RAMESH <sc>et al.</sc>
+</alt-title></title-group><contrib-group><contrib id="jor25971-cr-0001" contrib-type="author" corresp="yes"><name><surname>Ramesh</surname><given-names>Angelika</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-7396-4068</contrib-id><xref rid="jor25971-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>Angelika.ramesh.18@ucl.ac.uk</email></address></contrib><contrib id="jor25971-cr-0002" contrib-type="author"><name><surname>Henckel</surname><given-names>Johann</given-names></name><xref rid="jor25971-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jor25971-cr-0003" contrib-type="author"><name><surname>Hart</surname><given-names>Alister</given-names></name><xref rid="jor25971-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="jor25971-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="jor25971-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="jor25971-cr-0004" contrib-type="author"><name><surname>Di Laura</surname><given-names>Anna</given-names></name><xref rid="jor25971-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jor25971-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="jor25971-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Mechanical Engineering</named-content>
+<institution>University College London</institution>
+<named-content content-type="street">Gower Street</named-content>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="jor25971-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Royal National Orthopaedic Hospital NHS Trust</institution>
+<named-content content-type="street">Brockley Hill</named-content>
+<city>Stanmore</city>
+<country country="GB">UK</country>
+</aff><aff id="jor25971-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Institute of Orthopaedics and Musculoskeletal Science</named-content>
+<institution>University College London</institution>
+<named-content content-type="street">Gower Street</named-content>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="jor25971-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<institution>Cleveland Clinic London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold> Angelika Ramesh, Department of Mechanical Engineering, University College London, Gower St, London WC1E 6BT, UK.<break/>
+Email: <email>Angelika.ramesh.18@ucl.ac.uk</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>18</day><month>9</month><year>2024</year></pub-date><pub-date pub-type="ppub"><month>1</month><year>2025</year></pub-date><volume>43</volume><issue seq="180">1</issue><issue-id pub-id-type="doi">10.1002/jor.v43.1</issue-id><fpage>173</fpage><lpage>182</lpage><history>
+<date date-type="rev-recd"><day>04</day><month>8</month><year>2024</year></date>
+<date date-type="received"><day>02</day><month>5</month><year>2024</year></date>
+<date date-type="accepted"><day>11</day><month>8</month><year>2024</year></date>
+</history><permissions><!--&#x000a9; 2024 Orthopaedic Research Society.--><copyright-statement content-type="article-copyright">&#x000a9; 2024 The Author(s). <italic toggle="yes">Journal of Orthopaedic Research&#x000ae;</italic> published by Wiley Periodicals LLC on behalf of Orthopaedic Research Society.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:JOR-43-173.pdf"/><abstract><title>Abstract</title><p>Statistical shape modeling (SSM) offers the potential to describe the morphological differences in similar shapes using a compact number of variables. Its application in orthopedics is rapidly growing. In this study, an SSM of the intramedullary canal of the proximal femur was built, with the aim to better understanding the complexity of its shape which may, in turn, enhance the preoperative planning of total hip arthroplasty (THA). This includes the prediction of the prosthetic femoral version (PFV) which is known to be highly variable amongst patients who have undergone THA. The model was built on three dimensional (3D) models of 64 femoral canals which were generated from pelvic computed tomography images including the proximal femur in the field of view. Principal component analysis (PCA) was performed on the mean shape derived from the model and each segmented canal. Five prominent modes of variations representing approximately 84% of the total 3D variations in the population of shapes were found to capture variability in size, proximal torsion, intramedullary femoral anteversion, varus/valgus orientation, and distal femoral shaft twist/torsion, respectively. It was established that the intramedullary femoral canal is highly variable in its size, shape, and orientation between different subjects. PCA&#x02010;driven SSM is beneficial for identifying patterns and extracting valuable features of the femoral canal.</p></abstract><kwd-group><kwd id="jor25971-kwd-0001">intramedullary femoral canal</kwd><kwd id="jor25971-kwd-0002">principal component analysis</kwd><kwd id="jor25971-kwd-0003">proximal femur</kwd><kwd id="jor25971-kwd-0004">statistical shape modeling</kwd></kwd-group><counts><fig-count count="10"/><table-count count="0"/><page-count count="10"/><word-count count="5235"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.1 mode:remove_FC converted:04.12.2024</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jor25971-cit-0026">
+<string-name>
+<surname>Ramesh</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Henckel</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hart</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Di Laura</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Understanding the variability of the proximal femoral canal: a computational modeling study</article-title>. <source>J Orthop Res</source>. <year>2025</year>;<volume>43</volume>:<fpage>173</fpage>&#x02010;<lpage>182</lpage>. <pub-id pub-id-type="doi">10.1002/jor.25971</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="jor25971-sec-0010"><label>1</label><title>INTRODUCTION</title><p>Considering the growing use of uncemented stems in total hip arthroplasty (THA), the positioning of the prosthetic femoral component has become a vital point of discussion. Malpositioning of the stem can lead to prosthetic impingement, accelerated wear, and limited range of motion.<xref rid="jor25971-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="jor25971-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Unlike cemented fixation, which gives the surgeon more intraoperative control over the prosthetic femoral version (PFV),<xref rid="jor25971-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="jor25971-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> uncemented THA allows limited intraoperative control due to the natural twist and bow of the intramedullary canal.<xref rid="jor25971-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="jor25971-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> The main advantage of performing an uncemented THA is the reduction in operating room time since there is no need to prepare the bone cement.</p><p>The femoral version is conventionally measured using the external geometry of the femur and the knee joint. The relationship between the native femoral version (NFV) and the PFV has been reported to differ widely ranging from &#x02212;20.7&#x000b0; to 21.5&#x000b0;, for an uncemented, straight tapered stem.<xref rid="jor25971-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> Therefore, in uncemented THA, the NFV cannot be considered a reliable reference;<xref rid="jor25971-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="jor25971-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> a better understanding of the geometry of the internal femoral canal will improve the planning of the PFV. This feature is currently only considered when designing custom stems.</p><p>Despite the preoperative and intraoperative attempts to accurately predict the version of femoral stems,<xref rid="jor25971-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> the internal anatomy of the femur is less well understood. The intramedullary canal has not been extensively studied, and it does not have the same protruding landmarks and curvature as the external geometry of the femur.<xref rid="jor25971-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="jor25971-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> Thus, in cases of uncemented THA, it is crucial to recognize patterns between the shape of the femoral canal and the achieved PFV, to predict the version of the femoral component.</p><p>The aim of the current study was to better understand the shape variations that characterize the intramedullary femoral canal which dictates the fit of the prosthetic stem. Our objective was to use statistical shape modeling (SSM) to identify the main modes of variation of the proximal femoral canal between different subjects. The null hypothesis was that there was no intersubject variability in the shape of the intramedullary femoral canal.</p></sec><sec sec-type="materials-and-methods" id="jor25971-sec-0020"><label>2</label><title>MATERIALS AND METHODS</title><sec id="jor25971-sec-0030"><label>2.1</label><title>Data collection&#x02014;Training set</title><p>A total of 64 preoperative pelvic computed tomography (CT) scans of patients who subsequently underwent hip replacement with uncemented stems were used in this retrospective Cohort study (age range: 41&#x02013;86 years, mean: 64 years; 31 males, 33 females). The mean height, weight, and BMI of this patient cohort was 170&#x02009;cm (range: 152&#x02013;188&#x02009;cm), 82&#x02009;kg (range: 50&#x02013;113&#x02009;kg), and 28&#x02009;kg/m<sup>2</sup> (range: 20&#x02013;41&#x02009;kg/m<sup>2</sup>), respectively.</p><p>The DICOM CT images were imported into Simpleware SCANIP Medical (Version 2022.3; Synopsys Inc.). Three dimensional (3D) models of the patient's intramedullary femoral canal were generated from each CT scan, using a semi&#x02010;automatic segmentation method. This involved a Boolean subtraction of a segmented model of the proximal femoral bone (with a cavity in regions representing the femoral canal), from a &#x0201c;completely filled&#x0201d; proximal femur, resulting in a segmentation of solely the canal. The default Hounsfield Unit (HU) values for a bone range from 230 to 3020 HU.<xref rid="jor25971-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="jor25971-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> This was used for the threshold&#x02010;based segmentation for all cases. The same individual performed all segmentations for consistency in the workflow.</p><p>Each training case was prepared independently and made consistent for length (15&#x02009;cm) by cropping the distal end of the canals longer than 15&#x02009;cm to the desired length. It is worth noting that the preoperative CT scans that captured less than 15&#x02009;cm of the proximal femur in the field&#x02010;of&#x02010;view were excluded from this study; this was done considering that the standard length of femoral stems used in primary THA is around 15&#x02009;cm. The femoral canal shapes were filtered to smoothen the morphology and minimize surface roughness (by suppressing noise), using a Gaussian recursive filter. Any protruding features which were not found to be consistent among the full data set were removed in this way while retaining the main body/geometry of the intramedullary canal. The deviation between the unsmoothed and smoothed femoral canal models was quantified for a subset of ten surfaces using two metrics: Root&#x02010;Mean&#x02010;Square&#x02010;Error (RMSE) and Intersection over Union (IoU). These measure the geometric differences between the two surfaces; an RMSE below 1 and an IoU above 0.5 was considered satisfactory.<xref rid="jor25971-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> The mean RMSE and IoU values measured were 0.42 and 0.91, respectively. This is suggestive of satisfactory smoothing without loss of crucial data.</p><p>Since each patient was positioned differently within the CT scanner, it was crucial to standardize the reference system of the femurs before they were aligned. A fixed coordinate system was defined for each canal, based on anatomical landmarks taken on the external geometry, namely the posterior condyles and the intertrochanteric crest, allowing for the training data set to be aligned in a well&#x02010;defined reference frame. This coordinate system is commonly used by orthopedic companies to define the femoral anteversion plane which is used for surgical planning.<xref rid="jor25971-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+</p></sec><sec id="jor25971-sec-0040"><label>2.2</label><title>Point distribution model</title><p>A mean shape was computed; this is an average shape representation of the population (Figure&#x000a0;<xref rid="jor25971-fig-0001" ref-type="fig">1</xref>). To investigate shape variations, a point mapping functionality was used which applied a rigid registration between each input surface and the target mean surface. This allowed for point correspondence to be determined. Through the point&#x02010;set representation of each femoral canal shape, the SSM is able to capture the relative positions of these points and identify patterns of shape variability among patients, as each shape was represented by an equal number of nodes (Figure&#x000a0;<xref rid="jor25971-fig-0002" ref-type="fig">2</xref>).</p><fig position="float" fig-type="Figure" id="jor25971-fig-0001"><label>Figure 1</label><caption><p>(Top row) The segmentations of the femoral canal for five of the cases used in this study, within the external geometry of the proximal femur, reveal noticeable variability. (Bottom row) Coronal, sagittal, and axial views of the mean shape which was computed mathematically from the total 64 canals on which the statistical shape modeling was built.</p></caption><graphic xlink:href="JOR-43-173-g006" position="anchor" id="jats-graphic-1"/></fig><fig position="float" fig-type="Figure" id="jor25971-fig-0002"><label>Figure 2</label><caption><p>A figure illustrating the point distribution models generated from mapping each femoral canal onto the mean shape, using a set of equal numbers of points (point mapping). The mapping of a single point (in yellow) is highlighted.</p></caption><graphic xlink:href="JOR-43-173-g004" position="anchor" id="jats-graphic-3"/></fig></sec><sec id="jor25971-sec-0050"><label>2.3</label><title>Principal component analysis (PCA)</title><p>The point distribution models (PDM) generated for all 64 input canals were then used hereafter for the analysis. We used a PCA&#x02010;based dimensionality reduction technique to obtain a compact description of the shape variations between the models.</p><p>PCA was performed on the training set data. This tool allows for the directions of the highest shape variation to be extracted, also known as the modes or principal components (PCs). These eigenvectors are computed from the covariance matrix which displays the covariance values associated with all possible pairs of initial variables within the data set. The eigenvalues, representing the extent of projected change/variance in the corresponding direction, are also obtained from this matrix.</p><p>Once PCA was run, the primary modes of variation could be visualized by applying different weights to each mode, giving a unique shape for each combination of weights. A scree plot and a plot of the cumulative proportion of explained variance were generated for further analysis. This indicated how many modes are required to capture the majority (&#x02265;80%) of the variation in the input data set, since the principle component (PC) modes are ranked in order of contribution to the overall variance.</p><p>Perturbations of &#x000b1;3 standard deviations (SD) from the mean were applied to each mode of variation, to visualize changes in size, shape, and alignment. The authors visually inspected the mean shape as the weight applied to each principal mode was varied, to assign that PC to an anatomical characteristic, by tracking how key features within the data set change between and within the modes.</p><p>To assess how many PCs are sufficient to capture a majority of the variability in the input data set used in this study, the scree plot was used (Figure&#x000a0;<xref rid="jor25971-fig-0003" ref-type="fig">3</xref>). This plot shows that the first five principal components accounted for 84% of the total cumulative variance in the training data. This was assumed to be sufficient to cover most of the relevant features of the femoral canal shape, since the individual variance of mode 6 and onwards were below 5%. Hence, these were not included in the analysis. The modes are ranked in an order of decreasing contribution to the variation within the population data set, therefore the first five modes of variation are presented in detail in this paper hereafter.</p><fig position="float" fig-type="Figure" id="jor25971-fig-0003"><label>Figure 3</label><caption><p>A scree plot showing the results of the principle component analysis; (1) the variance captured by each individual principal component, and (2) the cumulative proportion of explained variance.</p></caption><graphic xlink:href="JOR-43-173-g003" position="anchor" id="jats-graphic-5"/></fig><p>The first five PCs were manipulated by &#x000b1;3&#x02009;SD and each manipulated shape was compared to the mean shape. To understand which anatomical characteristic was responsible for the majority of the variation in each mode (how the PC influences the overall shape of the canal), the femoral canal shapes were compared to the mean in the three anatomical views (axial, coronal, and sagittal).</p></sec></sec><sec sec-type="results" id="jor25971-sec-0060"><label>3</label><title>RESULTS</title><sec id="jor25971-sec-0070"><label>3.1</label><title>Model evaluation</title><p>The first PC identifies the direction of greatest variance. Upon visual examination, size appeared to be the most prominently changing feature that this PC captures. But to accurately interpret this mode and to make a less subjective decision, the evolution of the mode was studied by taking feature&#x02010;based measurements. In other words, the mean shape was deformed by setting the weight of each PC from &#x02212;3&#x02009;SD to +3&#x02009;SD, in equal intervals of +1, and taking volume measurements of the shape at each increment. The results were then plotted to identify in which mode size/volume is changing most significantly (steepest line of best fit). From this analysis, it was confirmed that the first PC represents variability in the size of the femoral canal (Figures&#x000a0;<xref rid="jor25971-fig-0004" ref-type="fig">4</xref> and&#x000a0;<xref rid="jor25971-fig-0005" ref-type="fig">5</xref>) and accounted for 36% of the anatomical variation (eigenvalue&#x02009;=&#x02009;3.8&#x02009;&#x000d7;&#x02009;10<sup>5</sup>).</p><fig position="float" fig-type="Figure" id="jor25971-fig-0004"><label>Figure 4</label><caption><p>Analysis of principle component 1. The mean model is shown in the second row, along with &#x000b1;3 standard deviation (SD) models (top and third row), revealing a change in size predominantly taking place. The left column shows an anteroposterior view, the middle column shows the axial view and the right column shows the lateral view of the femoral canal.</p></caption><graphic xlink:href="JOR-43-173-g007" position="anchor" id="jats-graphic-7"/></fig><fig position="float" fig-type="Figure" id="jor25971-fig-0005"><label>Figure 5</label><caption><p>Different sized prosthetic femoral stems implanted in patients with different intramedullary canal geometry (size).</p></caption><graphic xlink:href="JOR-43-173-g008" position="anchor" id="jats-graphic-9"/></fig><p>Rotation about the calcar was identified as the feature corresponding to the variability accounted by PC2 (Figure&#x000a0;<xref rid="jor25971-fig-0006" ref-type="fig">6</xref>). This showed a torsional change in the proximal end of the canal, which is fixed at the calcar, suggesting that this region is more consistent between the subjects. This mode accounted for 19% of the variance (eigenvalue&#x02009;=&#x02009;1.9&#x02009;&#x000d7;&#x02009;10<sup>5</sup>).</p><fig position="float" fig-type="Figure" id="jor25971-fig-0006"><label>Figure 6</label><caption><p>Analysis of principle component 2. An axial view of the three&#x02010;dimensional (3D) model of the mean femoral canal shape. As the mean shape was altered by &#x000b1;3 standard deviation (SD), the femoral canal exhibited proximal femoral torsion around the calcar. Size is also a contributing factor to this principle component, as the proximal region (around the greater trochanter) appears to enlarge in size in conjunction with the rotation.</p></caption><graphic xlink:href="JOR-43-173-g001" position="anchor" id="jats-graphic-11"/></fig><p>The third PC was best studied by tracking the changes that occurred as we applied different weights to this mode, as viewed axially. The seven deformations of the shape at the regular intervals (&#x02212;3&#x02009;SD to +3&#x02009;SD) are presented in Figure&#x000a0;<xref rid="jor25971-fig-0007" ref-type="fig">7</xref>, which reveals the intramedullary femoral version as the characteristic that is most strongly correlated with this component. This PC accounted for 15% of the variance (eigenvalue&#x02009;=&#x02009;1.5&#x02009;&#x000d7;&#x02009;10<sup>5</sup>).</p><fig position="float" fig-type="Figure" id="jor25971-fig-0007"><label>Figure 7</label><caption><p>Analysis of principle component 3. (A) An axial view of the 3D mean femoral canal model within the cortex of the proximal femur; (B) Close&#x02010;up view of the femoral canal, capturing changes in the shape as the third PC was manipulated by &#x000b1;3 standard deviation (SD); femoral version was identified as the anatomical characteristic responsible for the majority of the variation in this principle component. The extremities in both directions away from the mean are outlined in black and blue.</p></caption><graphic xlink:href="JOR-43-173-g002" position="anchor" id="jats-graphic-13"/></fig><p>Varus/valgus orientation was found to be the most prominently changing feature associated with the fourth PC and accounted for 9% of the variance (eigenvalue&#x02009;=&#x02009;8.9&#x02009;&#x000d7;&#x02009;10<sup>4</sup>). The seven deformations of the shape as the weights applied to this PC were gradually altered are presented in Figure&#x000a0;<xref rid="jor25971-fig-0008" ref-type="fig">8</xref>.</p><fig position="float" fig-type="Figure" id="jor25971-fig-0008"><label>Figure 8</label><caption><p>Analysis of principle component 4. (A) As the mean shape was altered by &#x000b1;3&#x02009;SD, the varus/valgus orientation of the femoral canal noticeably changed. The orange and blue outlines represent the extremities in both directions away from the mean; (B) The effect of this principle component on the positioning of a femoral stem.</p></caption><graphic xlink:href="JOR-43-173-g010" position="anchor" id="jats-graphic-15"/></fig><p>The fifth PC revealed changes mainly in the distal region of the 3D femoral canal models and is summarized as a rotation in the shaft (femoral shaft torsion). This accounted for 6% of the variance (eigenvalue&#x02009;=&#x02009;6.1&#x02009;&#x000d7;&#x02009;10<sup>4</sup>) and governs the distal fixation of the femoral stem (Figure&#x000a0;<xref rid="jor25971-fig-0009" ref-type="fig">9</xref>).</p><fig position="float" fig-type="Figure" id="jor25971-fig-0009"><label>Figure 9</label><caption><p>Analysis of principle component 5. As the mean shape was altered by &#x000b1;3 standard deviation (SD), the distal part of the femoral canal exhibited axial twist/rotation. The orange and blue outlines represent the extremities in both directions away from the mean.</p></caption><graphic xlink:href="JOR-43-173-g005" position="anchor" id="jats-graphic-17"/></fig><p>Visual representations of all five PCs are presented in Figures&#x000a0;<xref rid="jor25971-fig-0004" ref-type="fig">4</xref>, <xref rid="jor25971-fig-0005" ref-type="fig">5</xref>, <xref rid="jor25971-fig-0006" ref-type="fig">6</xref>, <xref rid="jor25971-fig-0007" ref-type="fig">7</xref>, <xref rid="jor25971-fig-0008" ref-type="fig">8</xref>, <xref rid="jor25971-fig-0009" ref-type="fig">9</xref>. Based on these findings, the most variable characteristics/features of the intramedullary femoral canal are size (thickness), axial rotation (around the calcar and also around the long axis of the femur), varus/valgus orientation, and femoral shaft torsion. Three of these modes reveal a form of axial twist/rotation, so it is assumed that a combination of these three features affects the PFV of an implanted uncemented stem (Figure&#x000a0;<xref rid="jor25971-fig-0010" ref-type="fig">10</xref>).</p><fig position="float" fig-type="Figure" id="jor25971-fig-0010"><label>Figure 10</label><caption><p>(A) The three identified principle component modes govern the position and orientation of the prosthetic stem and impact the PFV; (B) Anterior&#x02010;posterior, sagittal, and axial views of the fit of a prosthetic femoral stem within the medullary canal of the proximal femur.</p></caption><graphic xlink:href="JOR-43-173-g009" position="anchor" id="jats-graphic-19"/></fig></sec></sec><sec sec-type="discussion" id="jor25971-sec-0080"><label>4</label><title>DISCUSSION</title><p>At present, there are no reliable methods to predict the version of femoral stems. The NFV, measured as the angle between the femoral neck axis and the posterior condylar line, has proven to be an unreliable guide. The intraoperative estimation of femoral stem anteversion is typically made by the surgeon through visual assessment of the relative position between the stem and the condylar plane of the femur. This has proven to be an inaccurate approach with poor precision.<xref rid="jor25971-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="jor25971-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="jor25971-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> A deviation of up to 44&#x000b0; was measured for the stem version between the intraoperative visual estimation and the postoperative 3D&#x02010;CT measurement by Woerner et al.<xref rid="jor25971-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+</p><p>The NFV for all 64 proximal femurs used in this study was measured. Since this patient cohort has been implanted with an uncemented femoral stem, the achieved stem version was also measured (from the postoperative CT scan) and known, which is guided by the shape of the intramedullary canal. The mean native and stem versions were 16.3&#x02009;&#x000b1;&#x02009;9.4&#x000b0; and 14.7&#x02009;&#x000b1;&#x02009;8.9&#x000b0;, respectively, with a mean difference of 5.5&#x02009;&#x000b1;&#x02009;4.4&#x000b0;. The difference between the measured native and stem version spanned a wide range, from 0.2&#x000b0; to 19.4&#x000b0;. These additional results show that the external geometry does not match the femoral canal shape, indicating that the native femoral version is not a useful guide for predicting the PFV. This further supports the need to model the intramedullary canal during preoperative planning.</p><p>This study is the first of its kind to build an SSM on the internal canal of the proximal femur to identify the main modes of variation. Size was identified as the most prevalent mode of the statistical model for all 64 femoral canals. Since only the length of the femoral canals was standardized and not volume/size, this mode predictably captured size as the most prominent variable. However, it was noted that the flare of the femoral canal also played a contributing role to the variability in this first PC. The subsequent modes described angular changes of the proximal and distal end of the canal shape.</p><p>The second and third modes of variation exhibited angular changes of the canal in the superior end. Both of these PCs revealed a torsional change, however, the former presents axial rotation, which is fixed at the medial calcar, while the latter is a rotation around the principle axis of the femoral canal (line passing through the center of the femur). The femoral calcar is defined as the densest region of thickened cancellous bone which lies deep to the lesser trochanter and is generally on the inner side of the femur.<xref rid="jor25971-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> Due to the similarity between PC2 and PC3, both visually and also their contribution to the overall variance, they can be considered to have a combined effect on the intramedullary femoral anteversion. While the first PC, size, will help to inform the implant design and component size, these two PCs may help to plan and predict the PFV.</p><p>The fourth PC, which was attributed to varus/valgus orientation, can be reasoned by considering the effects of sex on the orientation of the femoral joint line. The work conducted by Springer and colleagues<xref rid="jor25971-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="jor25971-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> has studied the impact of multi&#x02010;factorial characteristics of the patient on the femoral and tibial anatomy. Findings of these studies have established that female patients present with more valgus angulation of the knee joint line when compared with male patients, and a more varus orientation can be found in a male cohort. This trend in the configuration of the knee is also recognized as being a contributing factor to the higher prevalence of valgus osteoarthritis in female patients, along with the overall decreased femoral offset in women.<xref rid="jor25971-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> It can therefore be inferred that since the data set used to train the SSM in this study included femoral canals from both sexes, varus/valgus orientation was identified as one of the principal modes of variation. The shape differences at perturbations of &#x000b1;3&#x02009;SD from the mean for this PC may be interpreted as a shift from a more valgus &#x0201c;female&#x0201d; femoral canal to a more varus &#x02018;male&#x02019; femoral canal. Other factors are known to influence the varus/valgus orientation of the lower limb, such as ligament imbalances, torsional malalignment of the lower limb, and femoral fractures. None of these were present in the patient cohort included in this study.</p><p>The fifth PC of the statistical model described variation at the distal end of the canal. This characteristic of the canal is most commonly understood as the natural anteroposterior and mediolateral bow of the femoral canal.<xref rid="jor25971-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> Due to the limited field of view of the CT scans, the bow and natural twist of the femoral canal are less apparent. This feature is also known to affect the femoral stem anteversion, given that the insertion of a straight and rigid prosthetic stem down a curved and cylindrical structure will cause the stem to jam in a single position. The orthopedic surgeon has very little intraoperative control over this position, which is why the choice of fixation must be determined accurately during the planning process of the surgery.</p><p>This study's findings have the potential to enhance the preoperative planning of PFV, making them clinically significant to consider. Making more informed decisions about the fixation type (cemented vs. uncemented) and stem design can be aided by recognizing patterns in the canal shape and the corresponding obtained PFV. When a standard prosthesis is unable to accommodate the anatomic variations in the femoral canal shape, inhibiting primary stability and proximal fixation, custom&#x02010;made cementless femoral stems are used. This includes cases where there is a mismatch between the patient's femoral metaphyseal and diaphyseal diameters.<xref rid="jor25971-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> Using the current model to help identify such cases, can make the choice of stem design more efficient.</p><p>The shape of the intramedullary canal of the proximal femur is not extensively studied and it does not have the same protruding landmarks and curvature as the external geometry. Knowledge on the shape of the internal canal has previously been retrieved from a plain radiograph, which presents its flaws. Radiographic measurements of indices such as the canal flare index (CFI), taper of the canal, canal&#x02013;bone ratio (CBR), and canal&#x02013;calcar ratio (CCR) are prone to errors. This is because any malrotation of the hip will have a direct effect on the measurements, making the results less reproducible when compared with 3D&#x02010;CT.<xref rid="jor25971-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="jor25971-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>
+</p><p>Boymans et al.<xref rid="jor25971-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> offer a 3D analysis of the proximal femoral canal morphology using CT scans, to better understand age&#x02010;related changes and sex&#x02010;related differences in its shape. They acknowledge that a combination of both the cementless stem design and the shape of the canal must be considered when looking at the performance of the prostheses, as a mismatch can lead to inferior performance. The population of interest in this research were older subjects, from a Caucasian origin. Therefore, the findings are not generalizable to other age ranges and ethnicity groups.</p><p>In the work conducted by Veilleux et al.<xref rid="jor25971-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> major landmarks of the proximal femur were identified and an SSM was generated from 144 asymptomatic femurs. Using these consistently identified points and major landmarks of the femur, 200 angular/distance parameters were measured and used to predict the femoral version. However, the internal femoral canal was not considered in this study.</p><p>This study offers a better understanding of the complex femoral canal shape to the reader. This may, in turn, help to plan the position and orientation of a stem in uncemented THA more accurately, given that the fit of the prosthetic stem is determined by the twist and bow of the canal. The results presented in this study show that there is indeed a variability between the canal shapes of different subjects.</p><p>We acknowledge limitations. Due to the size of the data set available, two separate models for both sexes were not generated, and the analysis was based on both altogether (for a larger sample size). Further refinement of the model and access to more CT images can help to better understand the differences between these two subgroups.</p><p>Also, analysis of PCs beyond PC5 may be helpful to identify any additional distinguishing features of the femoral canal, which have a lower contribution to the overall cumulative variance. But for the purpose of this study, the major contributing factors to the variation in the population of femoral canals have been identified, which are most likely to impact the achieved PFV and help improve its planning.</p><p>The inherently subjective nature of the interpretation of the PCA modes is recognized as another limitation. Due to a lack of consistent protruding landmarks on the femoral canals, feature&#x02010;based measurements could not be taken on them. With the use of such quantitative measures, features may be monitored both between and within the various PC modes, allowing for the identification of the shape's most obviously changing characteristic. This would allow us to objectively attribute each PC to a feature as the interdependencies of the PC modes meant that changes in more than one variable were captured by each PC. Further investigations and acquisition of these measurements may be considered in future studies, however, in this study, a team of orthopedic surgeons together with expert engineers came to a mutual consensus regarding the interpretation of the modes.</p></sec><sec sec-type="conclusions" id="jor25971-sec-0090"><label>5</label><title>CONCLUSION</title><p>The intersubject anatomical variability in proximal femoral canal shapes for a population of 64 patients was assessed in the present study, using PCA&#x02010;based SSM. This mathematical model provides a valuable tool for analyzing and characterizing geometric shape variations in the femoral canal. The large variations in the size, shape, and orientation of the femoral canals can be holistically captured by a series of PC modes. The 3D models used in this study have shown to be highly variable in terms of these aspects. Since the femoral version was identified as a key changing characteristic, it provides evidence that the variability commonly found in the achieved PFV is largely due to the canal shape into which the stem is fitted.</p></sec><sec id="jor25971-sec-0100"><title>AUTHOR CONTRIBUTIONS</title><p>Angelika Ramesh contributed to the research design and acquisition, analysis and interpretation of the data. Also drafted and revised the manuscript. Johann Henckel contributed to the research design and acquisition, analysis and interpretation of the data. He has helped to draft and revise the manuscript. Alister Hart contributed to the research design and acquisition, analysis and interpretation of the data, helped to draft and revise the manuscript. Anna Di Laura contributed to the research design and acquisition, analysis and interpretation of the data. She has helped draft and revise the manuscript. All authors have read and approved the final submitted manuscript.</p></sec></body><back><ack id="jor25971-sec-0110"><title>ACKNOWLEDGMENTS</title><p>Our institution receives funding from the Arthroplasty for Arthritis Charity, The Maurice Hatter Foundation, the Royal National Orthopaedic Hospital Charity, the Rosetrees Trust, the Stoneygate Trust, and the University College London Hospitals Biomedical Research Centre. No specific funding was received in support of this project.</p></ack><ref-list content-type="cited-references" id="jor25971-bibl-0001"><title>REFERENCES</title><ref id="jor25971-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jor25971-cit-0001">
+<string-name>
+<surname>D'Lima</surname>
+<given-names>DD</given-names>
+</string-name>, <string-name>
+<surname>Urquhart</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name>
+<surname>Buehler</surname>
+<given-names>KO</given-names>
+</string-name>, <string-name>
+<surname>Walker</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Colwell</surname>
+<given-names>CW</given-names>
+</string-name>. <article-title>The effect of the orientation of the acetabular and femoral components on the range of motion of the hip at different head&#x02010;neck ratios</article-title>. <source>J Bone Joint Surg&#x02010;Am Vol</source>. <year>2000</year>;<volume>82</volume>(<issue>3</issue>):<fpage>315</fpage>&#x02010;<lpage>321</lpage>.</mixed-citation></ref><ref id="jor25971-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jor25971-cit-0002">
+<string-name>
+<surname>Sun</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Comparison of preoperative computed tomography and intraoperative estimation in predicting the version of a single&#x02010;wedge femoral stem</article-title>. <source>Orthop Surg</source>. <year>2022</year>;<volume>14</volume>(<issue>11</issue>):<fpage>2979</fpage>&#x02010;<lpage>2986</lpage>.<pub-id pub-id-type="pmid">36177805</pub-id>
+</mixed-citation></ref><ref id="jor25971-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jor25971-cit-0003">
+<string-name>
+<surname>Park</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name>
+<surname>Tsai</surname>
+<given-names>TY</given-names>
+</string-name>, <string-name>
+<surname>Dimitriou</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Kwon</surname>
+<given-names>YM</given-names>
+</string-name>. <article-title>Utility of preoperative femoral neck geometry in predicting femoral stem anteversion</article-title>. <source>J Arthroplasty</source>. <year>2015</year>;<volume>30</volume>(<issue>6</issue>):<fpage>1079</fpage>&#x02010;<lpage>1084</lpage>.<pub-id pub-id-type="pmid">25683295</pub-id>
+</mixed-citation></ref><ref id="jor25971-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jor25971-cit-0004">
+<string-name>
+<surname>Moralidou</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Di Laura</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Henckel</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hart</surname>
+<given-names>AJ</given-names>
+</string-name>. <article-title>Can version of the proximal femur be used for CT planning uncemented femoral stems?</article-title>
+<source>Med Eng Phys</source>. <year>2023</year>;<volume>116</volume>:<elocation-id>103985</elocation-id>.<pub-id pub-id-type="pmid">37230697</pub-id>
+</mixed-citation></ref><ref id="jor25971-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jor25971-cit-0005">
+<string-name>
+<surname>Dimitriou</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Tsai</surname>
+<given-names>TY</given-names>
+</string-name>, <string-name>
+<surname>Kwon</surname>
+<given-names>YM</given-names>
+</string-name>. <article-title>The effect of femoral neck osteotomy on femoral component position of a primary cementless total hip arthroplasty</article-title>. <source>Int Orthop</source>. <year>2015</year>;<volume>39</volume>(<issue>12</issue>):<fpage>2315</fpage>&#x02010;<lpage>2321</lpage>.<pub-id pub-id-type="pmid">25787684</pub-id>
+</mixed-citation></ref><ref id="jor25971-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jor25971-cit-0006">
+<string-name>
+<surname>Taniguchi</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Jinno</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Koga</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Hagino</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Okawa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Haro</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Cementless hip stem anteversion in the dysplastic hip: A comparison of tapered wedge vs metaphyseal filling</article-title>. <source>J Arthroplasty</source>. <year>2017</year>;<volume>32</volume>(<issue>5</issue>):<fpage>1547</fpage>&#x02010;<lpage>1552</lpage>.<pub-id pub-id-type="pmid">28110848</pub-id>
+</mixed-citation></ref><ref id="jor25971-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jor25971-cit-0007">
+<string-name>
+<surname>Veilleux</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name>
+<surname>Kalore</surname>
+<given-names>NV</given-names>
+</string-name>, <string-name>
+<surname>Wegelin</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Vossen</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Jiranek</surname>
+<given-names>WA</given-names>
+</string-name>, <string-name>
+<surname>Wayne</surname>
+<given-names>JS</given-names>
+</string-name>. <article-title>Automated femoral version estimation without the distal femur</article-title>. <source>J Orthop Res</source>. <year>2018</year>;<volume>36</volume>(<issue>12</issue>):<fpage>3161</fpage>&#x02010;<lpage>3168</lpage>.<pub-id pub-id-type="pmid">30074280</pub-id>
+</mixed-citation></ref><ref id="jor25971-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jor25971-cit-0008">
+<string-name>
+<surname>Belzunce</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Henckel</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Di Laura</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hart</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Uncemented femoral stem orientation and position in total hip arthroplasty: A CT study</article-title>. <source>J Orthop Res</source>. <year>2020</year>;<volume>38</volume>(<issue>7</issue>):<fpage>1486</fpage>&#x02010;<lpage>1496</lpage>.<pub-id pub-id-type="pmid">32056292</pub-id>
+</mixed-citation></ref><ref id="jor25971-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jor25971-cit-0009">
+<string-name>
+<surname>Unlu</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Kesmezacar</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Kantarci</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Unlu</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Botanlioglu</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Intraoperative estimation of femoral anteversion in cementless total hip arthroplasty using the lesser trochanter</article-title>. <source>Arch Orthop Trauma Surg</source>. <year>2011</year>;<volume>131</volume>(<issue>9</issue>):<fpage>1317</fpage>&#x02010;<lpage>1323</lpage>. <pub-id pub-id-type="doi">10.1007/s00402-011-1282-9</pub-id>
+<pub-id pub-id-type="pmid">21359870</pub-id>
+</mixed-citation></ref><ref id="jor25971-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jor25971-cit-0010">
+<string-name>
+<surname>Su</surname>
+<given-names>XY</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>JX</given-names>
+</string-name>, et al. <article-title>Three&#x02010;Dimensional analysis of the curvature of the femoral canal in 426 Chinese femurs</article-title>. <source>BioMed Res Int</source>. <year>2015</year>;<volume>2015</volume>(<issue>318391</issue>):<fpage>1</fpage>&#x02010;<lpage>8</lpage>.</mixed-citation></ref><ref id="jor25971-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jor25971-cit-0011">
+<string-name>
+<surname>Bargar</surname>
+<given-names>WL</given-names>
+</string-name>, <string-name>
+<surname>Jamali</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Nejad</surname>
+<given-names>AH</given-names>
+</string-name>. <article-title>Femoral anteversion in THA and its lack of correlation with native acetabular anteversion</article-title>. <source>Clin Orthop Relat Res</source>. <year>2010</year>;<volume>468</volume>(<issue>2</issue>):<fpage>527</fpage>&#x02010;<lpage>532</lpage>.<pub-id pub-id-type="pmid">19714389</pub-id>
+</mixed-citation></ref><ref id="jor25971-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jor25971-cit-0012">
+<string-name>
+<surname>Kim</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>JI</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>
+<given-names>BK</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>
+<given-names>IH</given-names>
+</string-name>, <string-name>
+<surname>Nam</surname>
+<given-names>KH</given-names>
+</string-name>. <article-title>Hounsfield units on lumbar computed tomography for predicting regional bone mineral density</article-title>. <source>Open Med</source>. <year>2019</year>;<volume>14</volume>:<fpage>545</fpage>&#x02010;<lpage>551</lpage>.</mixed-citation></ref><ref id="jor25971-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jor25971-cit-0013">
+<string-name>
+<surname>Singh</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Baby</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Suri</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Effect of the segmentation threshold on computed tomography&#x02013;based reconstruction of skull bones with reference optical three&#x02010;dimensional scanning</article-title>. <source>World Neurosurg</source>. <year>2022</year>;<volume>166</volume>:<fpage>e34</fpage>&#x02010;<lpage>e43</lpage>.<pub-id pub-id-type="pmid">35718274</pub-id>
+</mixed-citation></ref><ref id="jor25971-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jor25971-cit-0014">
+<string-name>
+<surname>Ramesh</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Di Laura</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>De Angelis</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Bone remodeling after revision total hip arthroplasty for large acetabular defects</article-title>. <source>J Orthop Res</source>. <year>2024</year>;<fpage>1</fpage>&#x02010;<lpage>12</lpage>. In press</mixed-citation></ref><ref id="jor25971-bib-0015"><label>15</label><mixed-citation publication-type="book" id="jor25971-cit-0015">
+<collab collab-type="authors">Medacta International</collab>
+. <source>MyHip Preoperative Planning</source>. <publisher-name>Medacta International</publisher-name>, <fpage>1</fpage>&#x02010;<lpage>19</lpage>.</mixed-citation></ref><ref id="jor25971-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jor25971-cit-0016">
+<string-name>
+<surname>Dorr</surname>
+<given-names>LD</given-names>
+</string-name>, <string-name>
+<surname>Wan</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Malik</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Dastane</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Deshmane</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>A comparison of surgeon estimation and computed tomographic measurement of femoral component anteversion in cementless total hip arthroplasty</article-title>. <source>J Bone Joint Surg</source>. <year>2009</year>;<volume>91</volume>(<issue>11</issue>):<fpage>2598</fpage>&#x02010;<lpage>2604</lpage>. <pub-id pub-id-type="doi">10.2106/JBJS.H.01225</pub-id>
+<pub-id pub-id-type="pmid">19884433</pub-id>
+</mixed-citation></ref><ref id="jor25971-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jor25971-cit-0017">
+<string-name>
+<surname>Woerner</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sendtner</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Springorum</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Visual intraoperative estimation of cup and stem position is not reliable in minimally invasive hip arthroplasty</article-title>. <source>Acta Orthop</source>. <year>2016</year>;<volume>87</volume>(<issue>3</issue>):<fpage>225</fpage>&#x02010;<lpage>230</lpage>. <pub-id pub-id-type="doi">10.3109/17453674.2015.1137182</pub-id>
+<pub-id pub-id-type="pmid">26848628</pub-id>
+</mixed-citation></ref><ref id="jor25971-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jor25971-cit-0018">
+<string-name>
+<surname>Mei</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Pang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>Z</given-names>
+</string-name>. <article-title>Strategies for managing the destruction of calcar femorale</article-title>. <source>BMC Musculoskelet Disord</source>. <year>2021</year>;<volume>22</volume>(<issue>460</issue>):<fpage>460</fpage>.<pub-id pub-id-type="pmid">34011332</pub-id>
+</mixed-citation></ref><ref id="jor25971-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jor25971-cit-0019">
+<string-name>
+<surname>Springer</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Bechler</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Waldstein</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Rueckl</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Boettner</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name>
+<surname>Boettner</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>The influence of femoral and tibial bony anatomy on valgus OA of the knee</article-title>. <source>Knee Surg Sports Traumatol Arthrosc</source>. <year>2020</year>;<volume>28</volume>:<fpage>2998</fpage>&#x02010;<lpage>3006</lpage>.<pub-id pub-id-type="pmid">31595340</pub-id>
+</mixed-citation></ref><ref id="jor25971-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jor25971-cit-0020">
+<string-name>
+<surname>Zeng</surname>
+<given-names>YM</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>ZA</given-names>
+</string-name>, <string-name>
+<surname>Dai</surname>
+<given-names>KR</given-names>
+</string-name>. <article-title>Effects of sex and lower extremity alignment on orientation of the knee joint line in knee surgery</article-title>. <source>Chin Med J</source>. <year>2012</year>;<volume>125</volume>(<issue>12</issue>):<fpage>2126</fpage>&#x02010;<lpage>2131</lpage>.<pub-id pub-id-type="pmid">22884141</pub-id>
+</mixed-citation></ref><ref id="jor25971-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jor25971-cit-0021">
+<string-name>
+<surname>Watanabe</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Mitsui</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Usuda</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Nemoto</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>An increase in the risk of excessive femoral anteversion for relatively younger age and types of femoral morphology in total hip arthroplasty with direct anterior approach</article-title>. <source>J Orthop Surg</source>. <year>2019</year>;<volume>27</volume>(<issue>2</issue>):<elocation-id>230949901983681</elocation-id>.</mixed-citation></ref><ref id="jor25971-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jor25971-cit-0022">
+<string-name>
+<surname>Wera</surname>
+<given-names>GD</given-names>
+</string-name>, <string-name>
+<surname>Dwyer</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name>
+<surname>Verhotz</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Popa</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Marcus</surname>
+<given-names>RE</given-names>
+</string-name>. <article-title>Custom cementless femoral stems in total hip arthroplasty</article-title>. <source>J Hip Surg</source>. <year>2019</year>;<volume>03</volume>(<issue>2</issue>):<fpage>068</fpage>&#x02010;<lpage>072</lpage>.</mixed-citation></ref><ref id="jor25971-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jor25971-cit-0023">
+<string-name>
+<surname>Casper</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>GK</given-names>
+</string-name>, <string-name>
+<surname>Parvizi</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Freeman</surname>
+<given-names>TA</given-names>
+</string-name>. <article-title>Morphology of the proximal femur differs widely with age and sex: relevance to design and selection of femoral prostheses</article-title>. <source>J Orthop Res</source>. <year>2012</year>;<volume>30</volume>(<issue>7</issue>):<fpage>1162</fpage>&#x02010;<lpage>1166</lpage>.<pub-id pub-id-type="pmid">22570223</pub-id>
+</mixed-citation></ref><ref id="jor25971-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jor25971-cit-0024">
+<string-name>
+<surname>Grevenstein</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Vidovic</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Baltin</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>The proximal femoral bone geometry in plain radiographs</article-title>. <source>Archives Bone Joint Surg</source>. <year>2020</year>;<volume>8</volume>(<issue>6</issue>):<fpage>675</fpage>&#x02010;<lpage>681</lpage>.</mixed-citation></ref><ref id="jor25971-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jor25971-cit-0025">
+<string-name>
+<surname>Boymans</surname>
+<given-names>TAEJ</given-names>
+</string-name>, <string-name>
+<surname>Heyligers</surname>
+<given-names>IC</given-names>
+</string-name>, <string-name>
+<surname>Grimm</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>The morphology of the proximal femoral canal continues to change in the very elderly: implications for total hip arthroplasty</article-title>. <source>J Arthroplasty</source>. <year>2015</year>;<volume>30</volume>(<issue>12</issue>):<fpage>2328</fpage>&#x02010;<lpage>2332</lpage>.<pub-id pub-id-type="pmid">26187385</pub-id>
+</mixed-citation></ref></ref-list></back></article>
