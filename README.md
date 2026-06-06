@@ -16,12 +16,17 @@ exactly once, by one method:
 
 | Field | Method | Code |
 |---|---|---|
-| `conditions` | **Mistral-7B-Instruct-v0.3 Q4**, LLM-RAG: k=4 PubMedBERT few-shot examples retrieved from `train_index.json`; "diseases only" prompt | `cond_llm_train.extract_conditions_llm` → `llm_extractor_rag_v28` |
-| `eligibility_criteria` | **RAFT-tuned BART** (`bart_raft_v17/final`), 4-beam decode | `reproduce_v29.py` + `prepare_ft_data.build_input_text` |
-| `study_type` | **fine-tuned PubMedBERT** classifier (INTERVENTIONAL / OBSERVATIONAL) | `extractors.extract_study_type` |
-| `sex` | rule-based regex over eligibility/abstract text | `extractors.extract_sex` |
+| `conditions` | **Mistral-7B-Instruct-v0.3 Q4**, LLM-RAG: k=4 PubMedBERT few-shot examples retrieved from `train_index.json`; "diseases only" prompt | `conditions.extract_conditions_llm` |
+| `eligibility_criteria` | **RAFT-tuned BART** (`bart_raft_v17/final`), 4-beam decode | `reproduce_v29.py` (`build_input_text` + BART) |
+| `study_type` | **fine-tuned PubMedBERT** classifier (INTERVENTIONAL / OBSERVATIONAL) | `study_type_and_sex.extract_study_type` |
+| `sex` | rule-based regex over eligibility/abstract text | `study_type_and_sex.extract_sex` |
 | `minimum_age` | constant **`"18 Years"`** | `reproduce_v29.py` |
 | `maximum_age` | constant **`"Not Specified"`** | `reproduce_v29.py` |
+
+The whole inference pipeline is **4 files**: `reproduce_v29.py` (driver: orchestration,
+BART eligibility, constant ages) → `nxml_parser.py` (NXML → dict), `conditions.py`
+(Mistral LLM-RAG), `study_type_and_sex.py` (PubMedBERT classifier + sex rules). Nothing else
+is imported at run time.
 
 **Why the ages are constants:** the official age metric is Jaccard on extracted numbers with no
 partial credit, and the ground-truth ages come from the trial registry, *not* the paper. On the
@@ -90,14 +95,18 @@ to the repo, so it runs from any location.
 
 ## 3. File manifest
 
-**Inference (the §1 pipeline):**
-`reproduce_v29.py`, `nxml_parser.py`, `prepare_ft_data.py`, `cond_llm_train.py`,
-`llm_extractor_rag_v28.py`, `llm_extractor_rag.py`, `pipeline_v6.py`, `extractors.py`,
-`evaluate.py` (metrics / verification).
+**Inference — the §1 pipeline (these 4 files are all you run):**
+| File | Role |
+|---|---|
+| `reproduce_v29.py` | driver: read test ids → call the 4 extractors → write `submission_v29.csv`; also holds BART eligibility + constant ages |
+| `nxml_parser.py` | parse a PMC NXML file → dict (title / abstract / methods / eligibility / body) |
+| `conditions.py` | `conditions` field — Mistral-7B LLM-RAG (model loader + PubMedBERT retrieval + extractor) |
+| `study_type_and_sex.py` | `study_type` (PubMedBERT classifier, with TF-IDF/keyword fallbacks) + `sex` (rules) |
 
-**Model training (§4):**
-`build_train_index.py`, `train_bart_eligibility.py`, `raft_step1_sample.py … raft_step4_validate.py`,
-`train_study_type_classifier.py`.
+**Model training / provenance (§4 — not run during reproduction):**
+`build_train_index.py`, `prepare_ft_data.py`, `train_bart_eligibility.py`,
+`raft_step1_sample.py … raft_step4_validate.py`, `train_study_type_classifier.py`,
+`evaluate.py` (metrics, also usable to score a submission).
 
 **Data:** `Task_1.xlsx`, `PMC_NXML_Archives/` (950 articles), `train_index.json`,
 `training_data/{ft_train,ft_val,ft_data}.jsonl`, `training_data/raft_train_best.jsonl`.

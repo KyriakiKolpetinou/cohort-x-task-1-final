@@ -36,9 +36,8 @@ import torch
 from transformers import BartTokenizerFast, BartForConditionalGeneration
 
 from nxml_parser import parse_nxml
-from prepare_ft_data import build_input_text
-from cond_llm_train import extract_conditions_llm          # Mistral-7B LLM-RAG conditions
-from extractors import extract_sex, extract_study_type     # rule-based sex + PubMedBERT study_type
+from conditions import extract_conditions_llm                    # Mistral-7B LLM-RAG conditions
+from study_type_and_sex import extract_sex, extract_study_type   # PubMedBERT study_type + rule sex
 
 TASK_XLSX = os.path.join(HERE, 'Task_1.xlsx')
 BART_DIR  = os.environ.get('BART_DIR', '/mnt/extra_storage/kkolpetinou/bart_raft_v17/final')
@@ -57,6 +56,26 @@ def read_test_pmcids():
     ws = openpyxl.load_workbook(TASK_XLSX)['Test']
     rows = list(ws.iter_rows(values_only=True))
     return [str(int(float(r[0]))) for r in rows[1:] if r[0]]   # xlsx stores ids as floats
+
+
+def build_input_text(parsed, max_chars=4000):
+    """Format a parsed article into the BART eligibility-generation prompt."""
+    title    = (parsed.get('title', '') or '').strip()
+    abstract = (parsed.get('abstract_text', '') or '').strip()
+    methods  = (parsed.get('methods_text', '') or '').strip()
+    elig     = (parsed.get('eligibility_text', '') or '').strip()
+    parts = []
+    if title:
+        parts.append(f"Title: {title}")
+    if abstract:
+        parts.append(f"Abstract: {abstract[:1500]}")
+    if elig and len(elig) > 50:
+        parts.append(f"Eligibility section: {elig[:1500]}")
+    if methods and not elig:
+        parts.append(f"Methods: {methods[:2000]}")
+    elif methods:
+        parts.append(f"Methods: {methods[:1500]}")
+    return '\n\n'.join(parts)[:max_chars]
 
 
 def main():

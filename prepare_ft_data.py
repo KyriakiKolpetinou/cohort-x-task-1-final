@@ -1,8 +1,25 @@
 """Prepare fine-tuning data: NXML (title+abstract+methods) -> GT eligibility text."""
 import os, sys, json, re
 sys.path.insert(0, os.path.dirname(__file__))
-from pipeline_v6 import read_train_rows
 from nxml_parser import parse_nxml
+
+TASK_XLSX = os.path.join(os.path.dirname(__file__), 'Task_1.xlsx')
+
+
+def read_train_rows():
+    """Return the Train sheet of Task_1.xlsx as a list of field dicts."""
+    import openpyxl
+    ws = openpyxl.load_workbook(TASK_XLSX)['Train']
+    rows = list(ws.iter_rows(values_only=True))
+    header = [str(c).strip() if c else '' for c in rows[0]]
+    result = []
+    for row in rows[1:]:
+        if not row[0]:
+            continue
+        d = {header[i]: (str(row[i]).strip() if row[i] is not None else '') for i in range(len(header))}
+        d['pmcids'] = str(int(float(d['pmcids'])))
+        result.append(d)
+    return result
 
 
 def build_input_text(parsed, max_chars=4000):

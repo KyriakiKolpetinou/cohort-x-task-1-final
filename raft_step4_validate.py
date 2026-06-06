@@ -6,8 +6,7 @@ os.environ.setdefault('HF_HOME', '/mnt/extra_storage/kkolpetinou/torch_cache/hug
 
 from transformers import BartTokenizerFast, BartForConditionalGeneration
 from nxml_parser import parse_nxml
-from prepare_ft_data import build_input_text
-from pipeline_v6 import read_train_rows
+from prepare_ft_data import build_input_text, read_train_rows
 from evaluate import fm3s
 
 V13 = '/mnt/extra_storage/kkolpetinou/bart_eligibility_v1/final'
