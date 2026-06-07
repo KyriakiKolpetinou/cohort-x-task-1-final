@@ -1,19 +1,26 @@
 """
-Train PubMedBERT study_type classifier on 416 train examples.
-Saves model to ./study_type_model/
+Train the PubMedBERT study_type classifier on the 416 train examples.
+Saves to models/study_type_classifier/.
+
+SEED is pinned to 7 (default): chosen by study_type_seed_sweep.py as the seed whose
+test predictions best match the original v29 study_type. This is the submitted model
+(public LB 0.72864, beating the lost original's 0.72797). Override with SEED=<n>.
 """
 import os, json
 import numpy as np
 import pandas as pd
 import torch
 from torch.utils.data import Dataset
-from transformers import AutoTokenizer, AutoModelForSequenceClassification, Trainer, TrainingArguments
+from transformers import AutoTokenizer, AutoModelForSequenceClassification, Trainer, TrainingArguments, set_seed
 from bs4 import BeautifulSoup
 
 os.environ['LD_LIBRARY_PATH'] = (
     '/usr/local/cuda-12.1/targets/x86_64-linux/lib:'
     + os.environ.get('LD_LIBRARY_PATH', '')
 )
+
+SEED = int(os.environ.get('SEED', '7'))
+set_seed(SEED)
 
 NXML_DIR = os.path.join(os.path.dirname(__file__), 'PMC_NXML_Archives')
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), 'models', 'study_type_classifier')
@@ -81,6 +88,7 @@ def main():
         per_device_train_batch_size=8,
         learning_rate=2e-5,
         fp16=torch.cuda.is_available(),
+        seed=SEED,
         save_strategy='no',
         report_to='none',
         logging_steps=20,
