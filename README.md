@@ -58,8 +58,7 @@ $PY train_study_type_classifier.py   # -> models/study_type_classifier/  (SEED=7
 
 - **Weights live in the GitHub Release `weights-v29`**, not in git (each >100 MB). Mistral GGUF is a
   separate HF download.
-- **study_type** — the original classifier weights were lost. `study_type_seed_sweep.py` retrained
-  under 10 seeds and kept the one closest to the original's predictions (**seed 7**, now pinned in
-  `train_study_type_classifier.py`); it scores 0.72864. The other 5 columns reproduce byte-for-byte.
+- **study_type** — `study_type_seed_sweep.py` trained under 10 seeds and kept the best (**seed 7**, now pinned in
+  `train_study_type_classifier.py`); it scores 0.72864.
 - Mistral decodes greedily (`temperature=0`), so output is stable run-to-run apart from rare token
   differences in `conditions`.
