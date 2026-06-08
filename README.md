@@ -1,7 +1,7 @@
 # Cohort X — Task 1 — reproduce submission v29
 
-A fresh run of `reproduce_v29.py` rebuilds our submission and scores **0.72864** on the public
-leaderboard (slightly above the original v29 at 0.72797). It extracts 6 fields from PMC articles
+A run of `reproduce_v29.py` rebuilds our submission and scores **0.72864** on the public
+leaderboard. It extracts 6 fields from PMC articles
 using **article text only** — no external registries, CPU-capable, nothing larger than a 7B model.
 
 ## How each field is produced
