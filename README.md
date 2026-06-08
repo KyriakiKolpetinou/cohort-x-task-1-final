@@ -1,174 +1,65 @@
-# Cohort X — Task 1 — Reproducing submission **v29**
+# Cohort X — Task 1 — reproduce submission v29
 
-Fully reproducible end-to-end: a fresh run scores **0.72864** on the public LB
-(`submission_v29d.csv`), matching — and slightly beating — the original v29 (0.72797).
+A fresh run of `reproduce_v29.py` rebuilds our submission and scores **0.72864** on the public
+leaderboard (slightly above the original v29 at 0.72797). It extracts 6 fields from PMC articles
+using **article text only** — no external registries, CPU-capable, nothing larger than a 7B model.
 
-Extract 6 structured fields from PMC journal articles (NXML):
-`conditions, study_type, sex, minimum_age, maximum_age, eligibility_criteria`.
+## How each field is produced
 
-> **Compliance:** article text only — no external registries (ClinicalTrials.gov / AACT / NCT)
-> are queried at inference. Pretrained LLMs are allowed. Everything is CPU-capable and fits the
-> ≥16 GB-RAM rule (the 7B GGUF is the largest model used).
-
----
-
-## 1. The pipeline (one pass, one method per field)
-
-`reproduce_v29.py` runs a **single pass** over the 500 test articles. Each field is produced
-exactly once, by one method:
-
-| Field | Method | Code |
-|---|---|---|
-| `conditions` | **Mistral-7B-Instruct-v0.3 Q4**, LLM-RAG: k=4 PubMedBERT few-shot examples retrieved from `train_index.json`; "diseases only" prompt | `conditions.extract_conditions_llm` |
-| `eligibility_criteria` | **RAFT-tuned BART** (`bart_raft_v17/final`), 4-beam decode | `reproduce_v29.py` (`build_input_text` + BART) |
-| `study_type` | **fine-tuned PubMedBERT** classifier (INTERVENTIONAL / OBSERVATIONAL) | `study_type_and_sex.extract_study_type` |
-| `sex` | rule-based regex over eligibility/abstract text | `study_type_and_sex.extract_sex` |
-| `minimum_age` | constant **`"18 Years"`** | `reproduce_v29.py` |
-| `maximum_age` | constant **`"Not Specified"`** | `reproduce_v29.py` |
-
-The whole inference pipeline is **4 files**: `reproduce_v29.py` (driver: orchestration,
-BART eligibility, constant ages) → `nxml_parser.py` (NXML → dict), `conditions.py`
-(Mistral LLM-RAG), `study_type_and_sex.py` (PubMedBERT classifier + sex rules). Nothing else
-is imported at run time.
-
-**Why the ages are constants:** the official age metric is Jaccard on extracted numbers with no
-partial credit, and the ground-truth ages come from the trial registry, *not* the paper. On the
-416-row train set the constants are optimal (`minimum_age="18 Years"` 70.4%,
-`maximum_age="Not Specified"` 57.9%); every text/LLM extraction we tried scored lower.
-
-```
-Task_1.xlsx ('Test' sheet, 500 ids) + PMC_NXML_Archives/
-        │
-        ▼   reproduce_v29.py   (one pass; the 4 models/rules above)
-        ▼
-   submission_v29.csv
-```
-
-That is the whole inference pipeline. (Sections 4–5 cover how the two trained models were built.)
-
----
-
-## 2. Reproduce
-
-```bash
-PY=/home/kkolpetinou/miniconda3/bin/python    # interpreter WITH llama-cpp-python 0.3.20
-                                              # (the default tb-env `python` does NOT have it)
-
-# --- one-time: fetch the trained weights (Release 'weights-v29') ---
-BASE=https://github.com/KyriakiKolpetinou/cohort-x-task-1-final/releases/download/weights-v29
-curl -L -o study_type_classifier.tar.gz $BASE/study_type_classifier.tar.gz
-mkdir -p models && tar -xzf study_type_classifier.tar.gz -C models     # -> models/study_type_classifier/
-curl -L -o bart_raft_v17_final.tar.gz $BASE/bart_raft_v17_final.tar.gz
-tar -xzf bart_raft_v17_final.tar.gz                                    # -> ./final ; then:
-export BART_DIR="$PWD/final"
-# (Mistral GGUF: download separately from HuggingFace, see the Models table; set $MISTRAL_GGUF)
-
-# competition-compliant pure CPU (~78 s/article for the 7B → ~11 h for 500 rows):
-CUDA_VISIBLE_DEVICES="" $PY reproduce_v29.py
-
-# dev speed, identical output — offload both models to a GPU:
-N_GPU_LAYERS=33 BART_DEVICE=cuda $PY reproduce_v29.py
-```
-
-Output `submission_v29.csv` should match `reference_outputs/submission_v29.csv`:
-
-```bash
-diff <(sort submission_v29.csv) <(sort reference_outputs/submission_v29.csv)
-```
-
-**Determinism:** Mistral runs greedy (`temperature=0.0`); llama.cpp is near-deterministic but not
-guaranteed byte-identical across builds/thread counts, so a few `conditions` tokens may differ.
-The study_type classifier is trained with a pinned seed (7) — see §5.
-
-### Python deps
-`llama-cpp-python==0.3.20, transformers, torch, scikit-learn, openpyxl, numpy, beautifulsoup4, lxml`
-
-### Models
-| Model | Field | Default path | How to get it |
-|---|---|---|---|
-| `Mistral-7B-Instruct-v0.3-Q4_K_M.gguf` (4.1 GB) | conditions | `$MISTRAL_GGUF` or `/mnt/extra_storage/kkolpetinou/mistral7b_dl/` | download from HF `bartowski/Mistral-7B-Instruct-v0.3-GGUF` |
-| `bart_raft_v17/final` (533 MB) | eligibility | `$BART_DIR` | **Release `weights-v29`** → `bart_raft_v17_final.tar.gz` (or retrain, §4) |
-| `models/study_type_classifier/` (418 MB) | study_type | repo-local `models/study_type_classifier` | **Release `weights-v29`** → `study_type_classifier.tar.gz` (seed-7 model, LB 0.72864; see §5) |
-| `microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract` | retrieval + study_type base | HF cache | auto-download |
-
-Model paths are overridable by env var (`MISTRAL_GGUF`, `BART_DIR`); data paths resolve relative
-to the repo, so it runs from any location.
-
----
-
-## 3. File manifest
-
-**Inference — the §1 pipeline (these 4 files are all you run):**
-| File | Role |
+| field | method |
 |---|---|
-| `reproduce_v29.py` | driver: read test ids → call the 4 extractors → write `submission_v29.csv`; also holds BART eligibility + constant ages |
-| `nxml_parser.py` | parse a PMC NXML file → dict (title / abstract / methods / eligibility / body) |
-| `conditions.py` | `conditions` field — Mistral-7B LLM-RAG (model loader + PubMedBERT retrieval + extractor) |
-| `study_type_and_sex.py` | `study_type` (PubMedBERT classifier, with TF-IDF/keyword fallbacks) + `sex` (rules) |
+| `conditions` | Mistral-7B LLM-RAG — few-shot from the most similar train articles (`conditions.py`) |
+| `eligibility_criteria` | fine-tuned BART (`reproduce_v29.py`) |
+| `study_type` | fine-tuned PubMedBERT classifier (`study_type_and_sex.py`) |
+| `sex` | keyword rules (`study_type_and_sex.py`) |
+| `minimum_age` | constant `"18 Years"` |
+| `maximum_age` | constant `"Not Specified"` |
 
-**Model training / provenance (§4 — not run during reproduction):**
-`build_train_index.py`, `prepare_ft_data.py`, `train_bart_eligibility.py`,
-`raft_step1_sample.py … raft_step4_validate.py`, `train_study_type_classifier.py`,
-`study_type_seed_sweep.py` (seed selection for study_type), `evaluate.py` (metrics).
+Ages are constants because the ground-truth ages come from the trial registry, not the paper — on
+the train set the constants beat every extraction attempt.
 
-**Data:** `Task_1.xlsx`, `PMC_NXML_Archives/` (950 articles), `train_index.json`,
-`training_data/{ft_train,ft_val,ft_data}.jsonl`, `training_data/raft_train_best.jsonl`.
+## Run it
 
-**Submissions:** `reference_outputs/submission_v29d.csv` (**the submitted file, LB 0.72864**) and
-`reference_outputs/submission_v29.csv` (the original v29, LB 0.72797 — kept as the sweep's
-agreement target).
-
----
-
-## 4. How the two trained models are made (provenance)
-
-### `train_index.json` — RAG retrieval index
-`build_train_index.py` embeds title+abstract of each **train** article with PubMedBERT, storing
-embeddings + GT labels. Consumed by the conditions retriever.
 ```bash
-$PY build_train_index.py            # Task_1.xlsx + PMC_NXML_Archives/ -> train_index.json
+PY=/home/kkolpetinou/miniconda3/bin/python      # has llama-cpp-python; the default `python` does not
+
+# 1) get the two trained models (GitHub Release 'weights-v29')
+BASE=https://github.com/KyriakiKolpetinou/cohort-x-task-1-final/releases/download/weights-v29
+curl -L $BASE/study_type_classifier.tar.gz | tar -xz -C models      # -> models/study_type_classifier/
+curl -L $BASE/bart_raft_v17_final.tar.gz | tar -xz && export BART_DIR="$PWD/final"
+# Mistral GGUF: download from HF (bartowski/Mistral-7B-Instruct-v0.3-GGUF) and set $MISTRAL_GGUF
+
+# 2) run  (GPU. For competition-compliant pure CPU: CUDA_VISIBLE_DEVICES="" and drop N_GPU_LAYERS, ~11h)
+N_GPU_LAYERS=33 BART_DEVICE=cuda $PY reproduce_v29.py               # -> submission_v29.csv
 ```
 
-### Eligibility BART — two stages: SFT → RAFT
-```
-facebook/bart-base
-   │  train_bart_eligibility.py   (SFT on training_data/ft_train.jsonl + ft_val.jsonl)
-   ▼  bart_eligibility_v1/final
-   │  RAFT:  raft_step1_sample.py  -> sample best-of-N eligibility candidates
-   │         raft_step2_score.py   -> training_data/raft_train_best.jsonl
-   │         raft_step3_train.py    -> continue-train on the best candidates
-   │         raft_step4_validate.py
-   ▼  bart_raft_v17/final          (the eligibility model used at inference)
-```
-`ft_train.jsonl` / `ft_val.jsonl` are derived from `Task_1.xlsx` by `prepare_ft_data.py`.
+Check it matches the submitted file:
+`diff <(sort submission_v29.csv) <(sort reference_outputs/submission_v29d.csv)`
 
-### Study_type classifier (seed-pinned)
+Deps: `llama-cpp-python==0.3.20, transformers, torch, scikit-learn, openpyxl, numpy, beautifulsoup4, lxml`
+
+## Files
+
+- **Inference (all you run):** `reproduce_v29.py` (driver) + `nxml_parser.py`, `conditions.py`, `study_type_and_sex.py`
+- **Data:** `Task_1.xlsx`, `PMC_NXML_Archives/`, `train_index.json`
+- **Submitted file:** `reference_outputs/submission_v29d.csv` (LB 0.72864)
+- **Model-training scripts:** see *Rebuilding the models* below
+
+## Rebuilding the models (optional — only if not using the Release weights)
+
 ```bash
-$PY train_study_type_classifier.py    # PubMedBERT, 416 train rows, 5 epochs, SEED=7 (~14 s GPU)
-                                      # -> models/study_type_classifier/  (the LB-0.72864 model)
+$PY build_train_index.py             # -> train_index.json  (PubMedBERT index of train articles)
+$PY train_study_type_classifier.py   # -> models/study_type_classifier/  (SEED=7, the 0.72864 model)
+# eligibility BART:  facebook/bart-base --train_bart_eligibility.py(SFT)--> then RAFT
+#                    (raft_step1..4_*.py) --> bart_raft_v17/final
 ```
-The original classifier weights were lost; `study_type_seed_sweep.py` retrained under 10 seeds and
-selected **seed 7** (the one whose test predictions best matched the original v29 study_type). That
-model is the one shipped in Release `weights-v29` and is reproduced by the pinned `SEED=7` above.
 
----
+## Notes
 
-## 5. Known reproduction caveats
-
-- **study_type was lost and re-derived by a seed sweep.** The original classifier weights were
-  deleted (written to the original repo's git-ignored `models/` folder). A naive single retrain
-  diverged badly (61% agreement, class bias flipped, ~0.006 lower overall). So `study_type_seed_sweep.py`
-  retrained under 10 seeds and kept the one whose test predictions best matched the original v29
-  study_type (**seed 7, 78% agreement, 365 vs 377 INTERVENTIONAL**). That model — shipped in Release
-  `weights-v29` and reproduced by the pinned `SEED=7` — actually scores **0.72864**, slightly above
-  the original 0.72797 (it's a genuinely better classifier than the lost one). The other five columns
-  reproduce **byte-for-byte** from a fresh run, so the full pipeline reproduces 0.72864 end-to-end.
-  → If you instead want the *exact* original column, it's preserved in
-  `reference_outputs/submission_v29.csv`. If `models/study_type_classifier/` is absent at run time,
-  `extract_study_type` falls back to a runtime TF-IDF+LR model — so extract the Release asset.
-- **Large weights aren't in git** (>100 MB each); they live in Release `weights-v29`. Retraining
-  via §4 (with `SEED=7`) is the alternative.
-- **Interpreter:** use `/home/kkolpetinou/miniconda3/bin/python` (has `llama_cpp`); the default
-  `python` (tb-env) does not.
-- **True-CPU compliance:** export `CUDA_VISIBLE_DEVICES=""` — the CUDA build of llama.cpp reserves
-  ~2 GB GPU even at `N_GPU_LAYERS=0`.
+- **Weights live in the GitHub Release `weights-v29`**, not in git (each >100 MB). Mistral GGUF is a
+  separate HF download.
+- **study_type** — the original classifier weights were lost. `study_type_seed_sweep.py` retrained
+  under 10 seeds and kept the one closest to the original's predictions (**seed 7**, now pinned in
+  `train_study_type_classifier.py`); it scores 0.72864. The other 5 columns reproduce byte-for-byte.
+- Mistral decodes greedily (`temperature=0`), so output is stable run-to-run apart from rare token
+  differences in `conditions`.
