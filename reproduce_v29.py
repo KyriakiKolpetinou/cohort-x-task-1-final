@@ -1,12 +1,13 @@
 """
-Reproduce submission_v29.csv — Cohort X Task 1 (best submission, public LB 0.73105).
+Reproduce submission_v29.csv — Cohort X Task 1 (best submission, public LB 0.73228).
 
 ONE clean pass over the 500 test articles (Task_1.xlsx 'Test' sheet). Each of the
 six output fields is produced exactly once, by its final method — no version lineage,
 no intermediate CSVs:
 
   conditions           : Qwen2.5-3B-Instruct Q4, LLM-RAG (k=4 PubMedBERT few-shot
-                         from train_index.json; "diseases only" prompt)   [cond_llm_train]
+                         from train_index.json; "diseases only" prompt over
+                         title+abstract+keywords+methods)                 [conditions.py]
   eligibility_criteria : RAFT-tuned BART (bart_raft_v17/final), 4-beam     [this file]
   study_type           : fine-tuned PubMedBERT classifier                  [extractors]
   sex                  : rule-based                                        [extractors]
@@ -27,7 +28,7 @@ REPRODUCE:
   CUDA_VISIBLE_DEVICES="" python reproduce_v29.py
   # dev speed (identical output): offload both models to GPU
   N_GPU_LAYERS=33 BART_DEVICE=cuda python reproduce_v29.py
-OUTPUT: submission_v29.csv  (compare to reference_outputs/submission_v29e.csv)
+OUTPUT: submission_v29.csv  (compare to reference_outputs/submission_v29g.csv)
 """
 import os, sys, csv, time
 HERE = os.path.dirname(os.path.abspath(__file__))

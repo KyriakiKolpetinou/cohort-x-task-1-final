@@ -1,6 +1,6 @@
 # Cohort X — Task 1 — reproduce submission v29
 
-A run of `reproduce_v29.py` rebuilds our submission and scores **0.73105** on the public
+A run of `reproduce_v29.py` rebuilds our submission and scores **0.73228** on the public
 leaderboard. It extracts 6 fields from PMC articles
 using **article text only** — no external registries, CPU-capable.
 
@@ -8,7 +8,7 @@ using **article text only** — no external registries, CPU-capable.
 
 | field | method |
 |---|---|
-| `conditions` | Qwen2.5-3B LLM-RAG — few-shot from the most similar train articles (`conditions.py`) |
+| `conditions` | Qwen2.5-3B LLM-RAG — few-shot from the most similar train articles, over title+abstract+keywords+methods (`conditions.py`) |
 | `eligibility_criteria` | fine-tuned BART (`reproduce_v29.py`) |
 | `study_type` | fine-tuned PubMedBERT classifier (`study_type_and_sex.py`) |
 | `sex` | keyword rules (`study_type_and_sex.py`) |
@@ -36,7 +36,7 @@ N_GPU_LAYERS=33 BART_DEVICE=cuda $PY reproduce_v29.py               # -> submiss
 ```
 
 Check it matches the submitted file:
-`diff <(sort submission_v29.csv) <(sort reference_outputs/submission_v29e.csv)`
+`diff <(sort submission_v29.csv) <(sort reference_outputs/submission_v29g.csv)`
 
 Deps: `llama-cpp-python==0.3.20, transformers, torch, scikit-learn, openpyxl, numpy, beautifulsoup4, lxml`
 
@@ -44,7 +44,7 @@ Deps: `llama-cpp-python==0.3.20, transformers, torch, scikit-learn, openpyxl, nu
 
 - **Inference (all you run):** `reproduce_v29.py` (driver) + `nxml_parser.py`, `conditions.py`, `study_type_and_sex.py`
 - **Data:** `Task_1.xlsx`, `PMC_NXML_Archives/`, `train_index.json`
-- **Submitted file:** `reference_outputs/submission_v29e.csv` (LB 0.73105)
+- **Submitted file:** `reference_outputs/submission_v29g.csv` (LB 0.73228)
 - **Model-training scripts:** see *Rebuilding the models* below
 
 ## Rebuilding the models (optional — only if not using the Release weights)
