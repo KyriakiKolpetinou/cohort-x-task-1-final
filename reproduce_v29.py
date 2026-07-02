@@ -1,11 +1,11 @@
 """
-Reproduce submission_v29.csv — Cohort X Task 1 (best submission, public LB 0.72797).
+Reproduce submission_v29.csv — Cohort X Task 1 (best submission, public LB 0.73105).
 
 ONE clean pass over the 500 test articles (Task_1.xlsx 'Test' sheet). Each of the
 six output fields is produced exactly once, by its final method — no version lineage,
 no intermediate CSVs:
 
-  conditions           : Mistral-7B-Instruct-v0.3 Q4, LLM-RAG (k=4 PubMedBERT few-shot
+  conditions           : Qwen2.5-3B-Instruct Q4, LLM-RAG (k=4 PubMedBERT few-shot
                          from train_index.json; "diseases only" prompt)   [cond_llm_train]
   eligibility_criteria : RAFT-tuned BART (bart_raft_v17/final), 4-beam     [this file]
   study_type           : fine-tuned PubMedBERT classifier                  [extractors]
@@ -16,17 +16,18 @@ no intermediate CSVs:
 Article text only — no external registries (ClinicalTrials.gov / AACT / NCT). CPU-capable.
 
 MODELS (set via env or place at the defaults):
-  MISTRAL_GGUF  Mistral-7B-Instruct-v0.3-Q4_K_M.gguf  (conditions)
-  BART_DIR      bart_raft_v17/final                    (eligibility)
-  models/study_type_classifier/                        (study_type; PubMedBERT)
+  CONDITIONS_GGUF  Qwen2.5-3B-Instruct-Q4_K_M.gguf     (conditions; defaults to
+                                                         models/Qwen2.5-3B-Instruct-Q4_K_M.gguf)
+  BART_DIR         bart_raft_v17/final                  (eligibility)
+  models/study_type_classifier/                         (study_type; PubMedBERT)
 PubMedBERT (retrieval + study_type base) is auto-downloaded from HuggingFace.
 
 REPRODUCE:
-  # competition-compliant pure CPU (~11 h for the 7B over 500 rows):
+  # competition-compliant pure CPU (~3 h for the 3B over 500 rows):
   CUDA_VISIBLE_DEVICES="" python reproduce_v29.py
   # dev speed (identical output): offload both models to GPU
   N_GPU_LAYERS=33 BART_DEVICE=cuda python reproduce_v29.py
-OUTPUT: submission_v29.csv  (compare to reference_outputs/submission_v29.csv)
+OUTPUT: submission_v29.csv  (compare to reference_outputs/submission_v29e.csv)
 """
 import os, sys, csv, time
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -36,7 +37,7 @@ import torch
 from transformers import BartTokenizerFast, BartForConditionalGeneration
 
 from nxml_parser import parse_nxml
-from conditions import extract_conditions_llm                    # Mistral-7B LLM-RAG conditions
+from conditions import extract_conditions_llm                    # Qwen2.5-3B LLM-RAG conditions
 from study_type_and_sex import extract_sex, extract_study_type   # PubMedBERT study_type + rule sex
 
 TASK_XLSX = os.path.join(HERE, 'Task_1.xlsx')

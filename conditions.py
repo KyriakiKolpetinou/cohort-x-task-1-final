@@ -1,23 +1,31 @@
 """
-conditions field — Mistral-7B LLM-RAG extractor.
+conditions field — Qwen2.5-3B-Instruct LLM-RAG extractor.
 
 For an article, retrieve the k most similar TRAIN articles (PubMedBERT cosine over
 train_index.json), use their gold condition lists as few-shot examples, and ask
-Mistral-7B-Instruct-v0.3 (Q4 GGUF) to output ONLY the disease/condition names as a
+Qwen2.5-3B-Instruct (Q4 GGUF) to output ONLY the disease/condition names as a
 JSON list. Article text only; no external sources.
 
 Public entry point: extract_conditions_llm(parsed, exclude_pmcid='', k=4) -> str
   (returns a Python-list string like "['Hepatocellular Carcinoma']")
 
 Env:
-  MISTRAL_GGUF   path to the Mistral GGUF (default below)
+  CONDITIONS_GGUF  path to the instruct GGUF to use (any chat model: Qwen2.5-3B,
+                   Llama-3.2-3B, Mistral-7B, ...). Falls back to MISTRAL_GGUF, then
+                   to the Qwen2.5-3B model below.
   N_GPU_LAYERS   0 = pure CPU (competition mode); set e.g. 33 to offload to GPU
   LLM_THREADS    CPU threads (default 12)
+
+Model-agnostic: generation goes through llama_cpp create_chat_completion, so each
+GGUF's own embedded chat template is applied (no hand-written [INST] tags).
 """
 import json, re, os, ast
 import numpy as np
 
-MODEL_PATH    = os.environ.get('MISTRAL_GGUF', '/mnt/extra_storage/kkolpetinou/mistral7b_dl/Mistral-7B-Instruct-v0.3-Q4_K_M.gguf')
+MODEL_PATH    = os.environ.get('CONDITIONS_GGUF',
+                os.environ.get('MISTRAL_GGUF',
+                os.path.join(os.path.dirname(__file__), 'models',
+                             'Qwen2.5-3B-Instruct-Q4_K_M.gguf')))
 INDEX_FILE    = os.path.join(os.path.dirname(__file__), 'train_index.json')
 PUBMEDBERT    = 'microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract'
 
@@ -46,7 +54,7 @@ def _get_llm():
         from llama_cpp import Llama
         _llm = Llama(
             model_path=MODEL_PATH,
-            n_ctx=16384,
+            n_ctx=int(os.environ.get('N_CTX', '8192')),
             n_threads=int(os.environ.get('LLM_THREADS', '12')),
             n_gpu_layers=int(os.environ.get('N_GPU_LAYERS', '0')),  # 0 = pure CPU
             verbose=False,
@@ -130,13 +138,21 @@ def _article_snippet(parsed):
     return s
 
 
-def extract_conditions_llm(parsed, exclude_pmcid='', k=4):
-    """Return the conditions list as a Python-list string (e.g. "['Breast Cancer']")."""
+def extract_conditions_list(parsed, exclude_pmcid='', k=4, temperature=0.0, seed=None):
+    """Return the raw predicted conditions as a Python list (possibly empty).
+
+    This is the ensemble-friendly core: no 'Not Specified' fallback, so the
+    aggregation layer can decide what to do with an empty result. Uses whatever
+    model MODEL_PATH / _llm currently points at. temperature>0 + varying seed
+    gives the diverse samples needed for self-consistency."""
     llm = _get_llm()
     query = (parsed.get('title', '') or '') + ' ' + (parsed.get('abstract_text', '') or '')[:400]
     similar = _retrieve(query, k=k + 2, exclude_pmcid=exclude_pmcid)
 
-    shots = ''; added = 0
+    # Few-shot as chat turns: system once, then (user article -> assistant JSON) pairs.
+    # llama_cpp applies the GGUF's own chat template, so this works for any instruct model.
+    messages = [{'role': 'system', 'content': _SYS}]
+    added = 0
     for ex in similar:
         if added >= k:
             break
@@ -148,12 +164,16 @@ def extract_conditions_llm(parsed, exclude_pmcid='', k=4):
         if not lst:
             continue
         ex_art = ex.get('article_text', '')[:900]
-        shots += f"[INST] {_SYS}\n\nArticle:\n{ex_art} [/INST] {json.dumps(lst, ensure_ascii=False)} </s>"
+        messages.append({'role': 'user', 'content': f"Article:\n{ex_art}"})
+        messages.append({'role': 'assistant', 'content': json.dumps(lst, ensure_ascii=False)})
         added += 1
 
-    prompt = shots + f"[INST] {_SYS}\n\nArticle:\n{_article_snippet(parsed)} [/INST]"
-    out = llm(prompt, max_tokens=120, temperature=0.0, stop=['</s>', '[INST]'])
-    raw = out['choices'][0]['text'].strip()
+    messages.append({'role': 'user', 'content': f"Article:\n{_article_snippet(parsed)}"})
+    kwargs = dict(messages=messages, max_tokens=120, temperature=temperature)
+    if seed is not None:
+        kwargs['seed'] = seed
+    out = llm.create_chat_completion(**kwargs)
+    raw = (out['choices'][0]['message']['content'] or '').strip()
 
     parsed_out = _parse_json_output(raw)
     if isinstance(parsed_out, list):
@@ -170,4 +190,10 @@ def extract_conditions_llm(parsed, exclude_pmcid='', k=4):
             except Exception:
                 items = []
     items = [str(x).strip() for x in items if str(x).strip()][:6]
+    return items
+
+
+def extract_conditions_llm(parsed, exclude_pmcid='', k=4):
+    """Return the conditions list as a Python-list string (e.g. "['Breast Cancer']")."""
+    items = extract_conditions_list(parsed, exclude_pmcid=exclude_pmcid, k=k)
     return str(items) if items else str(['Not Specified'])

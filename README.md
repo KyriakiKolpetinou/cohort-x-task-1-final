@@ -1,6 +1,6 @@
 # Cohort X — Task 1 — reproduce submission v29
 
-A run of `reproduce_v29.py` rebuilds our submission and scores **0.72864** on the public
+A run of `reproduce_v29.py` rebuilds our submission and scores **0.73105** on the public
 leaderboard. It extracts 6 fields from PMC articles
 using **article text only** — no external registries, CPU-capable, nothing larger than a 7B model.
 
@@ -8,7 +8,7 @@ using **article text only** — no external registries, CPU-capable, nothing lar
 
 | field | method |
 |---|---|
-| `conditions` | Mistral-7B LLM-RAG — few-shot from the most similar train articles (`conditions.py`) |
+| `conditions` | Qwen2.5-3B LLM-RAG — few-shot from the most similar train articles (`conditions.py`) |
 | `eligibility_criteria` | fine-tuned BART (`reproduce_v29.py`) |
 | `study_type` | fine-tuned PubMedBERT classifier (`study_type_and_sex.py`) |
 | `sex` | keyword rules (`study_type_and_sex.py`) |
@@ -27,14 +27,16 @@ PY=/home/kkolpetinou/miniconda3/bin/python      # has llama-cpp-python; the defa
 BASE=https://github.com/KyriakiKolpetinou/cohort-x-task-1-final/releases/download/weights-v29
 curl -L $BASE/study_type_classifier.tar.gz | tar -xz -C models      # -> models/study_type_classifier/
 curl -L $BASE/bart_raft_v17_final.tar.gz | tar -xz && export BART_DIR="$PWD/final"
-# Mistral GGUF: download from HF (bartowski/Mistral-7B-Instruct-v0.3-GGUF) and set $MISTRAL_GGUF
+# Qwen GGUF: download from HF (bartowski/Qwen2.5-3B-Instruct-GGUF), file
+# Qwen2.5-3B-Instruct-Q4_K_M.gguf, and place at models/Qwen2.5-3B-Instruct-Q4_K_M.gguf
+# (or set $CONDITIONS_GGUF to point at it elsewhere)
 
-# 2) run  (GPU. For competition-compliant pure CPU: CUDA_VISIBLE_DEVICES="" and drop N_GPU_LAYERS, ~11h)
+# 2) run  (GPU. For competition-compliant pure CPU: CUDA_VISIBLE_DEVICES="" and drop N_GPU_LAYERS, ~3h)
 N_GPU_LAYERS=33 BART_DEVICE=cuda $PY reproduce_v29.py               # -> submission_v29.csv
 ```
 
 Check it matches the submitted file:
-`diff <(sort submission_v29.csv) <(sort reference_outputs/submission_v29d.csv)`
+`diff <(sort submission_v29.csv) <(sort reference_outputs/submission_v29e.csv)`
 
 Deps: `llama-cpp-python==0.3.20, transformers, torch, scikit-learn, openpyxl, numpy, beautifulsoup4, lxml`
 
@@ -42,7 +44,7 @@ Deps: `llama-cpp-python==0.3.20, transformers, torch, scikit-learn, openpyxl, nu
 
 - **Inference (all you run):** `reproduce_v29.py` (driver) + `nxml_parser.py`, `conditions.py`, `study_type_and_sex.py`
 - **Data:** `Task_1.xlsx`, `PMC_NXML_Archives/`, `train_index.json`
-- **Submitted file:** `reference_outputs/submission_v29d.csv` (LB 0.72864)
+- **Submitted file:** `reference_outputs/submission_v29e.csv` (LB 0.73105)
 - **Model-training scripts:** see *Rebuilding the models* below
 
 ## Rebuilding the models (optional — only if not using the Release weights)
@@ -56,9 +58,9 @@ $PY train_study_type_classifier.py   # -> models/study_type_classifier/  (SEED=7
 
 ## Notes
 
-- **Weights live in the GitHub Release `weights-v29`**, not in git (each >100 MB). Mistral GGUF is a
+- **Weights live in the GitHub Release `weights-v29`**, not in git (each >100 MB). The Qwen GGUF is a
   separate HF download.
 - **study_type** — `study_type_seed_sweep.py` trained under 10 seeds and kept the best (**seed 7**, now pinned in
-  `train_study_type_classifier.py`); it scores 0.72864.
-- Mistral decodes greedily (`temperature=0`), so output is stable run-to-run apart from rare token
+  `train_study_type_classifier.py`); it scores 0.72864 on this field.
+- Qwen decodes greedily (`temperature=0`), so output is stable run-to-run apart from rare token
   differences in `conditions`.
