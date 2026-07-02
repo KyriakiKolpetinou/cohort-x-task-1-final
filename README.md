@@ -2,7 +2,7 @@
 
 A run of `reproduce_v29.py` rebuilds our submission and scores **0.73105** on the public
 leaderboard. It extracts 6 fields from PMC articles
-using **article text only** — no external registries, CPU-capable, nothing larger than a 7B model.
+using **article text only** — no external registries, CPU-capable.
 
 ## How each field is produced
 
