@@ -73,7 +73,7 @@ Check it matches the submitted file:
 
 ```bash
 python build_train_index.py             # -> train_index.json  (PubMedBERT index of train articles)
-python train_study_type_classifier.py   # -> models/study_type_classifier/  (SEED=7, the 0.72864 model)
+python train_study_type_classifier.py   # -> models/study_type_classifier/  (SEED=7, the submitted model)
 
 # eligibility BART: facebook/bart-base --SFT--> bart_eligibility_v1 --RAFT--> bart_raft_v17_final
 python train_bart_eligibility.py        # -> models/bart_eligibility_v1/final   (v13, the SFT base)
@@ -91,7 +91,9 @@ Override with `OUT_DIR`, `MODEL_DIR`, `START_FROM`, `BART_DIR` to store weights 
 - **Weights live in the GitHub Release `weights-v29`**, not in git (each >100 MB). The Qwen GGUF is a
   separate HF download.
 - **study_type** — `study_type_seed_sweep.py` trained under 10 seeds and kept the best (**seed 7**, now pinned in
-  `train_study_type_classifier.py`); it scores 0.72864 on this field.
+  `train_study_type_classifier.py`). The often-quoted 0.72864 is the **overall public LB score of v29d**
+  (the submission that first used this classifier) — *not* a per-field score. We have no official
+  per-field breakdown for any submission.
 - Qwen decodes greedily (`temperature=0`), so output is stable run-to-run apart from rare token
   differences in `conditions`.
 - **`conditions` prompt context** — `conditions.py` reads `CONDITIONS_EXTRA`, default `''`
