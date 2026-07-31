@@ -97,32 +97,62 @@ Override with `OUT_DIR`, `MODEL_DIR`, `START_FROM`, `BART_DIR` to store weights 
 - **`conditions` prompt context** — `conditions.py` reads `CONDITIONS_EXTRA`, default `''`
   (title+abstract+keywords), which is the submitted v29f setting. Setting it to `methods`
   appends the methods text; that variant is v29g. See *Public vs private* below.
+- The current leaderboard view shows `v29d` and `v29d_qwencond` as *Error*; that is an
+  organiser-side artefact introduced when the rankings were revised. Both scored normally
+  at submission time and the figures below are the ones they returned.
+
+## Submission lineage
+
+Each submission changes exactly **one field** relative to its parent, so the whole family
+is a small grid. Two suffixes carry the meaning:
+
+- **`_qwencond`** — the `conditions` column regenerated with **Qwen2.5-3B** instead of the
+  original Mistral-7B (commit `c964bce`).
+- **`d`** — the **seed-7** `study_type` retrain (`study_type_seed_sweep.py` swept 10 seeds
+  and kept the best).
+
+| submission | conditions | study_type | maximum_age |
+|---|---|---|---|
+| v29 | Mistral-7B | original | constant |
+| v29d | Mistral-7B | **seed-7** | constant |
+| v29_qwencond | **Qwen2.5-3B** | original | constant |
+| v29d_qwencond | **Qwen2.5-3B** | **seed-7** | constant |
+| **v29f (submitted)** | Qwen2.5-3B | seed-7 | **extracted** |
+| v29g | **Qwen2.5-3B +methods** | seed-7 | constant |
+
+v29d_qwencond is the common parent; **v29f and v29g are two independent branches off it.**
+
+> **Filename note:** `reference_outputs/submission_v29e.csv` is byte-identical to the file
+> uploaded as `submission_v29d_qwencond.csv` (md5 `5be00f7c`). The repo and the leaderboard
+> used different names for the same submission.
 
 ## Public vs private
 
-Public and private rank our four submissions in **exactly inverted** order:
+Public and private rank the scored submissions in **near-inverted** order:
 
 | submission | public | private |
 |---|---|---|
+| v29 | 0.72773 | 0.70927 |
 | v29_qwencond | 0.73001 | 0.71063 |
 | v29d_qwencond | 0.73112 | 0.70772 |
 | **v29f (submitted)** | 0.72941 | **0.71095** |
 | v29g | **0.73219** | 0.70784 |
 
-Each submission changes exactly one field relative to its parent — and v29f and v29g are
-two independent branches off v29d — so every delta is attributable to a single change:
+Because each step changes one field, every delta is attributable to a single change:
 
 | change | rows | public | private |
 |---|---|---|---|
-| `study_type` seed-7 retrain (v29_qwencond → v29d) | 110/500 | **+0.00111** | **−0.00291** |
-| `maximum_age` extractor (v29d → **v29f**) | 49/500 | **−0.00171** | **+0.00323** |
-| `conditions` +methods prompt (v29d → v29g) | 144/500 | +0.00107 | +0.00012 |
+| `conditions` Mistral-7B → Qwen2.5-3B (v29 → v29_qwencond) | 314/500 | +0.00228 | +0.00136 |
+| `study_type` seed-7 retrain (v29_qwencond → v29d_qwencond) | 110/500 | **+0.00111** | **−0.00291** |
+| `maximum_age` extractor (v29d_qwencond → **v29f**) | 49/500 | **−0.00171** | **+0.00323** |
+| `conditions` +methods prompt (v29d_qwencond → v29g) | 144/500 | +0.00107 | +0.00012 |
 
-Two things follow. The **age extractor is what won the private board** — 49 changed cells,
-the largest private gain of any change we made, and the only one that moved public and
-private in opposite directions. And the `study_type` seed sweep is the cautionary tale:
-picking the best of 10 seeds on public gained +0.0011 there and lost −0.0029 on private,
-i.e. it selected for the split, not the task.
+Three things follow. The **age extractor won the private board** — 49 changed cells, the
+largest private gain of any change we made, and the only one that moved public and private
+in opposite directions. The **Mistral → Qwen swap was the only unambiguous win**, gaining on
+both splits. And the `study_type` seed sweep is the cautionary tale: picking the best of 10
+seeds on public gained +0.0011 there and lost −0.0029 on private — it selected for the
+split, not the task.
 
 Not tested: the `+methods` conditions prompt is roughly private-neutral (+0.00012), so
 combining it with the age extractor would plausibly have scored a little above v29f. That
