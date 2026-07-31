@@ -5,13 +5,14 @@ Output: raft_candidates.jsonl with one row per (train_example × candidate).
 import os, sys, json, time, argparse
 import torch
 sys.path.insert(0, os.path.dirname(__file__))
-os.environ.setdefault('HF_HOME', '/mnt/extra_storage/kkolpetinou/torch_cache/huggingface')
 
 from transformers import BartTokenizerFast, BartForConditionalGeneration
 
-MODEL_DIR = '/mnt/extra_storage/kkolpetinou/bart_eligibility_v1/final'  # v13
+HERE = os.path.dirname(os.path.abspath(__file__))
+
+MODEL_DIR = os.environ.get('MODEL_DIR', os.path.join(HERE, 'models', 'bart_eligibility_v1', 'final'))  # v13
 PREFIX = 'Extract eligibility criteria: '
-OUT_PATH = '/home/kkolpetinou/cohort-x-task-1/raft_candidates.jsonl'
+OUT_PATH = os.path.join(HERE, 'raft_candidates.jsonl')
 
 
 def load_train_examples():

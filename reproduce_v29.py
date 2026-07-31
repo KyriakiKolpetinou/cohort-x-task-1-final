@@ -19,11 +19,11 @@ no intermediate CSVs:
 
 Article text only — no external registries (ClinicalTrials.gov / AACT / NCT). CPU-capable.
 
-MODELS (set via env or place at the defaults):
-  CONDITIONS_GGUF  Qwen2.5-3B-Instruct-Q4_K_M.gguf     (conditions; defaults to
-                                                         models/Qwen2.5-3B-Instruct-Q4_K_M.gguf)
-  BART_DIR         bart_raft_v17/final                  (eligibility)
-  models/study_type_classifier/                         (study_type; PubMedBERT)
+MODELS — all default to paths inside this repo; override via env if stored elsewhere:
+  CONDITIONS_GGUF  models/Qwen2.5-3B-Instruct-Q4_K_M.gguf      (conditions)
+  BART_DIR         models/bart_raft_v17_final/final            (eligibility)
+  NXML_DIR         PMC_NXML_Archives/                          (article source)
+  models/study_type_classifier/                                (study_type; PubMedBERT)
 PubMedBERT (retrieval + study_type base) is auto-downloaded from HuggingFace.
 
 REPRODUCE:
@@ -46,7 +46,7 @@ from study_type_and_sex import extract_sex, extract_study_type   # PubMedBERT st
 from age_extractor import extract_ages                           # regex age bounds (min stays constant)
 
 TASK_XLSX = os.path.join(HERE, 'Task_1.xlsx')
-BART_DIR  = os.environ.get('BART_DIR', '/mnt/extra_storage/kkolpetinou/bart_raft_v17/final')
+BART_DIR  = os.environ.get('BART_DIR', os.path.join(HERE, 'models', 'bart_raft_v17_final', 'final'))
 OUT       = os.environ.get('OUT_CSV', os.path.join(HERE, 'submission_v29f.csv'))
 PREFIX    = 'Extract eligibility criteria: '
 FIELDNAMES = ['pmcids', 'conditions', 'study_type', 'sex',

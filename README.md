@@ -34,24 +34,33 @@ rows the extractor fires on 49, all of them `Not Specified` → a real bound.
 ## Run it
 
 ```bash
-PY=/home/kkolpetinou/miniconda3/bin/python      # has llama-cpp-python; the default `python` does not
+# 0) deps (llama-cpp-python is the one the system `python` usually lacks)
+pip install "llama-cpp-python==0.3.20" transformers torch scikit-learn openpyxl \
+            numpy beautifulsoup4 lxml
 
-# 1) get the two trained models (GitHub Release 'weights-v29')
+# 1) fetch the two trained models (GitHub Release 'weights-v29') into models/
+mkdir -p models/bart_raft_v17_final
 BASE=https://github.com/KyriakiKolpetinou/cohort-x-task-1-final/releases/download/weights-v29
-curl -L $BASE/study_type_classifier.tar.gz | tar -xz -C models      # -> models/study_type_classifier/
-curl -L $BASE/bart_raft_v17_final.tar.gz | tar -xz && export BART_DIR="$PWD/final"
-# Qwen GGUF: download from HF (bartowski/Qwen2.5-3B-Instruct-GGUF), file
-# Qwen2.5-3B-Instruct-Q4_K_M.gguf, and place at models/Qwen2.5-3B-Instruct-Q4_K_M.gguf
-# (or set $CONDITIONS_GGUF to point at it elsewhere)
+curl -L $BASE/study_type_classifier.tar.gz | tar -xz -C models                    # -> models/study_type_classifier/
+curl -L $BASE/bart_raft_v17_final.tar.gz  | tar -xz -C models/bart_raft_v17_final # -> models/bart_raft_v17_final/final/
 
-# 2) run  (GPU. For competition-compliant pure CPU: CUDA_VISIBLE_DEVICES="" and drop N_GPU_LAYERS, ~3h)
-N_GPU_LAYERS=33 BART_DEVICE=cuda $PY reproduce_v29.py               # -> submission_v29f.csv
+# 2) Qwen GGUF from HuggingFace (bartowski/Qwen2.5-3B-Instruct-GGUF)
+curl -L -o models/Qwen2.5-3B-Instruct-Q4_K_M.gguf \
+  https://huggingface.co/bartowski/Qwen2.5-3B-Instruct-GGUF/resolve/main/Qwen2.5-3B-Instruct-Q4_K_M.gguf
+
+# 3) run — competition-compliant pure CPU (~3 h for the 3B over 500 rows)
+CUDA_VISIBLE_DEVICES="" python reproduce_v29.py                     # -> submission_v29f.csv
+
+# ...or dev speed, identical output: offload both models to GPU
+N_GPU_LAYERS=33 BART_DEVICE=cuda python reproduce_v29.py
 ```
+
+Every model path defaults to `models/` inside the repo, so no env vars are needed if you
+follow the steps above. To keep weights elsewhere, set `CONDITIONS_GGUF`, `BART_DIR`, or
+`NXML_DIR`.
 
 Check it matches the submitted file:
 `diff <(sort submission_v29f.csv) <(sort reference_outputs/submission_v29f.csv)`
-
-Deps: `llama-cpp-python==0.3.20, transformers, torch, scikit-learn, openpyxl, numpy, beautifulsoup4, lxml`
 
 ## Files
 
@@ -63,11 +72,19 @@ Deps: `llama-cpp-python==0.3.20, transformers, torch, scikit-learn, openpyxl, nu
 ## Rebuilding the models (optional — only if not using the Release weights)
 
 ```bash
-$PY build_train_index.py             # -> train_index.json  (PubMedBERT index of train articles)
-$PY train_study_type_classifier.py   # -> models/study_type_classifier/  (SEED=7, the 0.72864 model)
-# eligibility BART:  facebook/bart-base --train_bart_eligibility.py(SFT)--> then RAFT
-#                    (raft_step1..4_*.py) --> bart_raft_v17/final
+python build_train_index.py             # -> train_index.json  (PubMedBERT index of train articles)
+python train_study_type_classifier.py   # -> models/study_type_classifier/  (SEED=7, the 0.72864 model)
+
+# eligibility BART: facebook/bart-base --SFT--> bart_eligibility_v1 --RAFT--> bart_raft_v17_final
+python train_bart_eligibility.py        # -> models/bart_eligibility_v1/final   (v13, the SFT base)
+python raft_step1_sample.py             # -> raft_candidates.jsonl
+python raft_step2_score.py              # -> raft_train_best.jsonl, raft_stats.json
+python raft_step3_train.py              # -> models/bart_raft_v17_final/final   (v17, used by the driver)
+python raft_step4_validate.py           # compares v13 vs v17 on held-out train
 ```
+
+These write into `models/` inside the repo, matching the defaults the driver reads.
+Override with `OUT_DIR`, `MODEL_DIR`, `START_FROM`, `BART_DIR` to store weights elsewhere.
 
 ## Notes
 
@@ -92,8 +109,8 @@ Public and private rank our four submissions in **exactly inverted** order:
 | **v29f (submitted)** | 0.72941 | **0.71095** |
 | v29g | **0.73219** | 0.70784 |
 
-Each submission differs from the previous one in exactly one field, so the deltas are
-attributable:
+Each submission changes exactly one field relative to its parent — and v29f and v29g are
+two independent branches off v29d — so every delta is attributable to a single change:
 
 | change | rows | public | private |
 |---|---|---|---|

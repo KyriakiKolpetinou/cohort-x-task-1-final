@@ -2,15 +2,16 @@
 import os, sys, re, argparse, time
 import torch
 sys.path.insert(0, os.path.dirname(__file__))
-os.environ.setdefault('HF_HOME', '/mnt/extra_storage/kkolpetinou/torch_cache/huggingface')
 
 from transformers import BartTokenizerFast, BartForConditionalGeneration
 from nxml_parser import parse_nxml
 from prepare_ft_data import build_input_text, read_train_rows
 from evaluate import fm3s
 
-V13 = '/mnt/extra_storage/kkolpetinou/bart_eligibility_v1/final'
-V17 = '/mnt/extra_storage/kkolpetinou/bart_raft_v17/final'
+HERE = os.path.dirname(os.path.abspath(__file__))
+
+V13 = os.environ.get('V13_DIR', os.path.join(HERE, 'models', 'bart_eligibility_v1', 'final'))
+V17 = os.environ.get('BART_DIR', os.path.join(HERE, 'models', 'bart_raft_v17_final', 'final'))
 PREFIX = 'Extract eligibility criteria: '
 
 

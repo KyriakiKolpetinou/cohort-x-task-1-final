@@ -1,13 +1,14 @@
 """RAFT step 2: Score all candidates with FM3S vs GT. Build best-of-N training set."""
 import os, sys, json, time, argparse
 sys.path.insert(0, os.path.dirname(__file__))
-os.environ.setdefault('HF_HOME', '/mnt/extra_storage/kkolpetinou/torch_cache/huggingface')
 
 from evaluate import fm3s
 
-CAND_PATH = '/home/kkolpetinou/cohort-x-task-1/raft_candidates.jsonl'
-TRAIN_OUT = '/home/kkolpetinou/cohort-x-task-1/raft_train_best.jsonl'
-STATS_OUT = '/home/kkolpetinou/cohort-x-task-1/raft_stats.json'
+HERE = os.path.dirname(os.path.abspath(__file__))
+
+CAND_PATH = os.path.join(HERE, 'raft_candidates.jsonl')
+TRAIN_OUT = os.path.join(HERE, 'raft_train_best.jsonl')
+STATS_OUT = os.path.join(HERE, 'raft_stats.json')
 
 
 def main():

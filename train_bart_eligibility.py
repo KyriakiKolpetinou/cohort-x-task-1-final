@@ -1,7 +1,6 @@
 """Fine-tune BART-base to map article (title+abstract+methods) -> GT eligibility text."""
 import os, sys, json, argparse
 import torch
-os.environ.setdefault('HF_HOME', '/mnt/extra_storage/kkolpetinou/torch_cache/huggingface')
 
 from transformers import (
     BartTokenizerFast, BartForConditionalGeneration,
@@ -10,8 +9,10 @@ from transformers import (
 )
 from datasets import load_dataset
 
+HERE = os.path.dirname(os.path.abspath(__file__))
+
 MODEL_NAME = 'facebook/bart-base'
-OUT_DIR = '/mnt/extra_storage/kkolpetinou/bart_eligibility_v1'
+OUT_DIR = os.environ.get('OUT_DIR', os.path.join(HERE, 'models', 'bart_eligibility_v1'))
 
 
 def main():

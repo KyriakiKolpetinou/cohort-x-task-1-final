@@ -4,7 +4,6 @@ Starts from v13 BART checkpoint (not from facebook/bart-base) — we're refining
 """
 import os, sys, argparse
 import torch
-os.environ.setdefault('HF_HOME', '/mnt/extra_storage/kkolpetinou/torch_cache/huggingface')
 
 from transformers import (
     BartTokenizerFast, BartForConditionalGeneration,
@@ -13,8 +12,10 @@ from transformers import (
 )
 from datasets import load_dataset
 
-START_FROM = '/mnt/extra_storage/kkolpetinou/bart_eligibility_v1/final'   # v13
-OUT_DIR = '/mnt/extra_storage/kkolpetinou/bart_raft_v17'
+HERE = os.path.dirname(os.path.abspath(__file__))
+
+START_FROM = os.environ.get('START_FROM', os.path.join(HERE, 'models', 'bart_eligibility_v1', 'final'))   # v13
+OUT_DIR = os.environ.get('OUT_DIR', os.path.join(HERE, 'models', 'bart_raft_v17_final'))
 
 
 def main():
