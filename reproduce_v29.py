@@ -1,5 +1,6 @@
 """
-Reproduce submission_v29.csv — Cohort X Task 1 (best submission, public LB 0.73228).
+Reproduce submission_v29f.csv — Cohort X Task 1, the 2nd-place submission
+(final/private LB 0.71095; public 0.72941).
 
 ONE clean pass over the 500 test articles (Task_1.xlsx 'Test' sheet). Each of the
 six output fields is produced exactly once, by its final method — no version lineage,
@@ -7,12 +8,14 @@ no intermediate CSVs:
 
   conditions           : Qwen2.5-3B-Instruct Q4, LLM-RAG (k=4 PubMedBERT few-shot
                          from train_index.json; "diseases only" prompt over
-                         title+abstract+keywords+methods)                 [conditions.py]
+                         title+abstract+keywords)                        [conditions.py]
   eligibility_criteria : RAFT-tuned BART (bart_raft_v17/final), 4-beam     [this file]
   study_type           : fine-tuned PubMedBERT classifier                  [extractors]
   sex                  : rule-based                                        [extractors]
-  minimum_age          : constant "18 Years"      (train-optimal; ages are not present
-  maximum_age          : constant "Not Specified"  in the article text — registry-only)
+  minimum_age          : constant "18 Years"       (extraction measured worse — the
+                                                    constant is right ~70% of the time)
+  maximum_age          : extracted from the article's eligibility/methods text where a
+                         genuine age bound fires, else "Not Specified"  [age_extractor.py]
 
 Article text only — no external registries (ClinicalTrials.gov / AACT / NCT). CPU-capable.
 
@@ -28,7 +31,7 @@ REPRODUCE:
   CUDA_VISIBLE_DEVICES="" python reproduce_v29.py
   # dev speed (identical output): offload both models to GPU
   N_GPU_LAYERS=33 BART_DEVICE=cuda python reproduce_v29.py
-OUTPUT: submission_v29.csv  (compare to reference_outputs/submission_v29g.csv)
+OUTPUT: submission_v29f.csv  (compare to reference_outputs/submission_v29f.csv)
 """
 import os, sys, csv, time
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -40,15 +43,19 @@ from transformers import BartTokenizerFast, BartForConditionalGeneration
 from nxml_parser import parse_nxml
 from conditions import extract_conditions_llm                    # Qwen2.5-3B LLM-RAG conditions
 from study_type_and_sex import extract_sex, extract_study_type   # PubMedBERT study_type + rule sex
+from age_extractor import extract_ages                           # regex age bounds (min stays constant)
 
 TASK_XLSX = os.path.join(HERE, 'Task_1.xlsx')
 BART_DIR  = os.environ.get('BART_DIR', '/mnt/extra_storage/kkolpetinou/bart_raft_v17/final')
-OUT       = os.environ.get('OUT_CSV', os.path.join(HERE, 'submission_v29.csv'))
+OUT       = os.environ.get('OUT_CSV', os.path.join(HERE, 'submission_v29f.csv'))
 PREFIX    = 'Extract eligibility criteria: '
 FIELDNAMES = ['pmcids', 'conditions', 'study_type', 'sex',
               'minimum_age', 'maximum_age', 'eligibility_criteria']
 
-# Train-optimal constants (see README §2): ages are registry values, not in the paper.
+# Fallbacks. minimum_age is always the constant: extracting it measured WORSE than
+# "18 Years" (right ~70% of the time; adult trials cite subgroup ages that mislead the
+# extractor), so age_extractor sets EXTRACT_MIN=False. maximum_age falls back to
+# "Not Specified" only when no genuine age bound fires — see age_extractor.py.
 MIN_AGE = '18 Years'
 MAX_AGE = 'Not Specified'
 
@@ -110,13 +117,14 @@ def main():
                          'minimum_age': MIN_AGE, 'maximum_age': MAX_AGE,
                          'eligibility_criteria': 'Not Specified'})
             continue
+        min_age, max_age = extract_ages(parsed)   # min is always MIN_AGE by design
         rows.append({
             'pmcids': pmcid,
             'conditions': extract_conditions_llm(parsed, exclude_pmcid=pmcid),
             'study_type': extract_study_type(parsed),
             'sex': extract_sex(parsed),
-            'minimum_age': MIN_AGE,
-            'maximum_age': MAX_AGE,
+            'minimum_age': min_age,
+            'maximum_age': max_age,
             'eligibility_criteria': eligibility(parsed),
         })
         if i % 25 == 0:

@@ -4,8 +4,8 @@ conditions field — Qwen2.5-3B-Instruct LLM-RAG extractor.
 For an article, retrieve the k most similar TRAIN articles (PubMedBERT cosine over
 train_index.json), use their gold condition lists as few-shot examples, and ask
 Qwen2.5-3B-Instruct (Q4 GGUF) to output ONLY the disease/condition names as a
-JSON list. The article context is title + abstract + keywords + methods (methods
-is where the studied cohort is described). Article text only; no external sources.
+JSON list. The article context is title + abstract + keywords. Article text only;
+no external sources.
 
 Public entry point: extract_conditions_llm(parsed, exclude_pmcid='', k=4) -> str
   (returns a Python-list string like "['Hepatocellular Carcinoma']")
@@ -136,11 +136,12 @@ def _article_snippet(parsed):
     s = f"Title: {title}\nAbstract: {abstract[:1200]}"
     if kw:
         s += f"\nKeywords: {kw[:300]}"
-    # Extra article context for the conditions prompt. Default 'methods': adding the
-    # methods text (where the cohort is described) lifted held-out conditions
-    # 0.6525 -> 0.6605 and the public LB 0.73105 -> 0.73228. 'conclusion'/'both' add
-    # the discussion too (measured no better). Set CONDITIONS_EXTRA='' for abstract-only.
-    extra = os.environ.get('CONDITIONS_EXTRA', 'methods')
+    # Extra article context for the conditions prompt. Default '' (abstract-only) is
+    # the submitted v29f setting. 'methods' appends the methods text (where the cohort
+    # is described): it lifted held-out conditions 0.6525 -> 0.6605 and the PUBLIC LB
+    # 0.73105 -> 0.73219, but cost private score (0.71063 -> 0.70784) — it fit the
+    # public split. 'conclusion'/'both' add the discussion too (measured no better).
+    extra = os.environ.get('CONDITIONS_EXTRA', '')
     if extra in ('methods', 'both'):
         m = (parsed.get('methods_text', '') or '').strip()
         if m:
