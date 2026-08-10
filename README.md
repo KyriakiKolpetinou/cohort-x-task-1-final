@@ -1,4 +1,5 @@
 # Cohort X — Task 1 — 2nd place — reproduce submission v29f
+Challenge: https://www.kaggle.com/competitions/cohort-x-task-1/overview
 
 **Final (private) leaderboard score: 0.71095 — 2nd place in Task 1.** (Public: 0.72941.)
 
