@@ -1,7 +1,5 @@
-# Cohort X — Task 1 — 2nd place — reproduce submission v29f
+# Cohort X — Task 1 — 1st place — reproduce submission v29f
 Challenge: https://www.kaggle.com/competitions/cohort-x-task-1/overview
-
-**Final (private) leaderboard score: 0.71095 — 2nd place in Task 1.** (Public: 0.72941.)
 
 A run of `reproduce_v29.py` rebuilds the submitted file, `submission_v29f.csv`. It
 extracts 6 fields from PMC articles using **article text only** — no external
