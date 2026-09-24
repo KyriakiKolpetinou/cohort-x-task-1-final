@@ -65,7 +65,7 @@ Check it matches the submitted file:
 
 - **Inference (all you run):** `reproduce_v29.py` (driver) + `nxml_parser.py`, `conditions.py`, `study_type_and_sex.py`, `age_extractor.py`
 - **Data:** `Task_1.xlsx`, `PMC_NXML_Archives/`, `train_index.json`
-- **Submitted file:** `reference_outputs/submission_v29f.csv` (private 0.71095, 2nd place)
+- **Submitted file:** `reference_outputs/submission_v29f.csv`
 - **Model-training scripts:** see *Rebuilding the models* below
 
 ## Rebuilding the models (optional — only if not using the Release weights)
